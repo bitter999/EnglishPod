@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCE English Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>New Concept English Learning Platform</h1>
+        <nav>
+            <ul>
+                <li><a href="#lessons">Lessons</a></li>
+                <li><a href="#exercises">Exercises</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="lessons">
+            <h2>Lessons</h2>
+            <div class="lesson" id="lesson1">
+                <h3>Lesson 1: Excuse me!</h3>
+                <p>Excuse me! Yes? Is this your handbag? Pardon? Is this your handbag? Yes, it is. Thank you very much.</p>
+                <audio controls>
+                    <source src="audio/lesson1.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <button onclick="showTranslation(1)">Show Translation</button>
+                <p id="translation1" style="display:none;">对不起！什么事？这是您的手提包吗？对不起？这是您的手提包吗？是的，是的。非常感谢。</p>
+            </div>
+            <div class="lesson" id="lesson2">
+                <h3>Lesson 2: Is this your...?</h3>
+                <p>Is this your pencil? Yes, it is. It's my pencil. Is this your book? No, it isn't. It's not my book.</p>
+                <audio controls>
+                    <source src="audio/lesson2.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <button onclick="showTranslation(2)">Show Translation</button>
+                <p id="translation2" style="display:none;">这是您的铅笔吗？是的，是的。这是我的铅笔。这是您的书吗？不，不是的。这不是我的书。</p>
+            </div>
+            <!-- Add more lessons as needed -->
+        </section>
+        <section id="exercises">
+            <h2>Exercises</h2>
+            <p>Practice exercises will be added here.</p>
+        </section>
+        <section id="about">
+            <h2>About</h2>
+            <p>This is a platform for learning New Concept English.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 NCE Learning. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
