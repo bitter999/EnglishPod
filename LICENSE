@@ -2,6 +2,39 @@ MIT License
 
 Copyright (c) 2026 bitter999 (https://github.com/bitter999)
 
+=======================================================================
+ EnglishPod Learning Platform - 许可协议 / License
+=======================================================================
+
+本项目包含以下内容：
+This project includes the following components:
+
+  1. 前端网页播放器 (Frontend)     - index.html, data.js
+  2. Python 处理脚本 (Scripts)     - *_gen_*.py, *_repair*.py, *_fix*.py
+  3. 音频转写数据 (Transcriptions) - 由 Whisper AI 生成的英文字幕
+  4. 中文翻译数据 (Translations)   - 由 Ollama AI 生成的中文翻译
+  5. MP3 音频文件 (Audio Files)    - EnglishPod 原版音频（有版权）
+
+=======================================================================
+  ⚠️ 重要声明 / Important Notices
+=======================================================================
+
+1. MP3 音频文件版权归 EnglishPod 原作者所有。
+   The MP3 audio files are copyrighted by the original creators of EnglishPod.
+   本仓库不包含这些音频文件，用户需自行获取合法授权。
+   These files are NOT included in this repository.
+
+2. AI 生成的翻译文本仅供参考学习，不保证准确性。
+   AI-generated translations are for reference/learning only.
+
+3. 本项目仅用于个人英语学习，禁止商业用途。
+   This project is for personal English learning only. Commercial use is
+   strictly prohibited.
+
+=======================================================================
+  许可条款 / License Terms
+=======================================================================
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -20,18 +53,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
+=======================================================================
+  🌐 项目功能 / Features
+=======================================================================
 
-⚠️ 重要声明 / Important Notice:
-
-1. 本项目中的 MP3 音频文件（assets/ 目录）版权归 EnglishPod 原作者所有，
-   本仓库不包含这些音频文件。用户需自行获取合法授权。
-
-2. The MP3 audio files in the assets/ directory are copyrighted by the
-   original creators of EnglishPod. These files are NOT included in this
-   repository. Users must obtain their own legal copies.
-
-3. 本项目的翻译文本由 AI 生成，仅供参考学习使用。
-
-4. The Chinese translations in this project are AI-generated and for
-   reference/learning purposes only.
+- 🎧 英语播客播放器（English Podcast Player）
+- 📝 字幕同步高亮（Real-time subtitle highlighting）
+- 🔂 单句循环 / A-B 循环（Sentence loop / A-B repeat）
+- 📖 单词本功能（Vocabulary book with click-to-save）
+- 🌙 深色模式（Dark mode）
+- ⏭ 自动下一课（Auto next lesson）
+- ⌨️ 快捷键支持（Keyboard shortcuts）
+- 🔊 倍速播放（Playback speed control）
+- 🔍 课程搜索（Lesson search & filter）
+- 🤖 AI 语音转文字 + 翻译（Whisper + Ollama AI pipeline）
