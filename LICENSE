@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 bitter999 (https://github.com/bitter999)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+⚠️ 重要声明 / Important Notice:
+
+1. 本项目中的 MP3 音频文件（assets/ 目录）版权归 EnglishPod 原作者所有，
+   本仓库不包含这些音频文件。用户需自行获取合法授权。
+
+2. The MP3 audio files in the assets/ directory are copyrighted by the
+   original creators of EnglishPod. These files are NOT included in this
+   repository. Users must obtain their own legal copies.
+
+3. 本项目的翻译文本由 AI 生成，仅供参考学习使用。
+
+4. The Chinese translations in this project are AI-generated and for
+   reference/learning purposes only.

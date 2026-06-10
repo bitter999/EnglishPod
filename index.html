@@ -3,57 +3,89 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NCE English Learning Platform</title>
-    <link rel="stylesheet" href="style.css">
+    <title>English Podcast Learning</title>
+    
+    <style>*{margin:0;padding:0;box-sizing:border-box}body{font-family:Arial,sans-serif;line-height:1.6;color:#050000;background-color:#f4f4f4;transition:background 0.3s,color 0.3s}body.dark{background-color:#1a1a2e;color:#e0e0e0}header{background-color:#615353;color:#f70505;padding:1rem;text-align:center;transition:background 0.3s}body.dark header{background-color:#2a1f1f}header h1{margin-bottom:0.5rem}nav ul{list-style:none;display:flex;justify-content:center;gap:1rem}nav a{color:#fff;text-decoration:none}main{max-width:1200px;margin:2rem auto;padding:0 1rem}section{margin-bottom:2rem;background-color:#fff;padding:1rem;border-radius:5px;box-shadow:0 0 10px rgba(0,0,0,0.1);transition:background 0.3s}body.dark section{background-color:#16213e}.lesson{margin-bottom:1rem;padding:1rem;border:1px solid #ddd;border-radius:5px;cursor:pointer;transition:background 0.3s}body.dark .lesson{border-color:#2a3a5e}.lesson:hover{background-color:#f9f9f9}body.dark .lesson:hover{background-color:#1a2a4e}.lesson h3{margin-bottom:0.5rem}.lesson p{margin-bottom:0.5rem}.lesson.active{background-color:#ffeaea;border-left:5px solid #f70505}body.dark .lesson.active{background-color:#2a1a1a}.lesson .zh.hidden{display:none}.lesson h3 .word{transition:color 0.06s,background 0.06s,transform 0.1s;border-radius:2px;padding:0 1px;cursor:pointer}.lesson h3 .word:hover{background:#e8e0e0;border-radius:3px}body.dark .lesson h3 .word:hover{background:#2a3a5e}.lesson h3 .word:active{transform:scale(0.92)}.lesson.small{font-size:0.85rem}.lesson.medium{font-size:1rem}.lesson.large{font-size:1.3rem}.lesson.xlarge{font-size:1.7rem}.lesson h3 .word.active{color:#f70505;background:#fff5f5;font-weight:700}body.dark .lesson h3 .word.active{color:#ff6b6b;background:#2a1a1a}.lesson h3 .word.vocab-highlight{background:#fff3cd;border-bottom:2px solid #ffc107}body.dark .lesson h3 .word.vocab-highlight{background:#3a2a00;border-bottom:2px solid #ffc107}button{background-color:#333;color:#fff;border:none;padding:0.5rem 1rem;cursor:pointer;border-radius:3px;transition:background 0.2s}button:hover{background-color:#555}button.active-btn{background-color:#c0392b}button.active-btn:hover{background-color:#e74c3c}footer{text-align:center;padding:1rem;background-color:#333;color:#fff;margin-top:2rem}body.dark footer{background-color:#0f0f23}.player-controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;align-items:center}.player-controls select{padding:10px 14px;border:2px solid #d0c5c5;border-radius:8px;font-size:0.95rem;background:#fff;cursor:pointer;min-width:280px;max-width:100%;outline:none;transition:border-color 0.2s}body.dark .player-controls select{background:#1a2a3e;color:#e0e0e0;border-color:#2a3a5e}.player-controls select:focus{border-color:#615353}.player-controls audio{padding:0;border:none;border-radius:8px;flex:1;min-width:200px}.player-controls .course-badge{font-size:0.75rem;color:#888;background:#f0ecec;padding:4px 10px;border-radius:12px;white-space:nowrap}body.dark .player-controls .course-badge{background:#2a3a5e;color:#aaa}.speed-controls{display:flex;gap:4px;flex-shrink:0}.speed-btn{background:#f0ecec;color:#333;border:1px solid #d0c5c5;padding:6px 10px;border-radius:6px;font-size:0.78rem;cursor:pointer;transition:all 0.15s;font-weight:500}.speed-btn:hover{background:#e0d8d8}.speed-btn.active{background:#615353;color:#fff;border-color:#615353}body.dark .speed-btn{background:#2a3a5e;color:#ccc;border-color:#3a4a6e}body.dark .speed-btn.active{background:#615353;color:#fff}.toolbar{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;padding:8px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;align-items:center}body.dark .toolbar{border-color:#2a3a5e}.tool-btn{background:#f5f5f5;color:#333;border:1px solid #ddd;padding:5px 12px;border-radius:6px;font-size:0.78rem;cursor:pointer;transition:all 0.15s;display:flex;align-items:center;gap:4px}.tool-btn:hover{background:#e8e8e8}.tool-btn.on{background:#615353;color:#fff;border-color:#615353}body.dark .tool-btn{background:#2a3a5e;color:#ccc;border-color:#3a4a6e}body.dark .tool-btn.on{background:#615353;color:#fff}.toolbar .sep{width:1px;height:20px;background:#ddd;margin:0 4px}body.dark .toolbar .sep{background:#2a3a5e}.toolbar .kbd-hint{font-size:0.7rem;color:#aaa;margin-left:auto}.toast{position:fixed;bottom:120px;left:50%;transform:translateX(-50%);background:#333;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85rem;z-index:9999;opacity:0;transition:opacity 0.3s;pointer-events:none}.toast.show{opacity:1}.ab-display{font-size:0.75rem;color:#888;padding:2px 6px}.ab-display.active{color:#c0392b;font-weight:bold}#vocabPanel{margin-top:1rem;padding:0.75rem;background:#fafafa;border:1px dashed #ddd;border-radius:5px;display:none}body.dark #vocabPanel{background:#0f1a2e;border-color:#2a3a5e}#vocabPanel h3{font-size:0.85rem;margin-bottom:0.5rem;color:#888}#vocabList{display:flex;flex-wrap:wrap;gap:6px}.vocab-item{background:#fff3cd;border:1px solid #ffc107;padding:3px 10px;border-radius:12px;font-size:0.82rem;cursor:pointer;transition:all 0.15s}.vocab-item:hover{background:#ffe699}body.dark .vocab-item{background:#3a2a00;border-color:#ffc107;color:#ffd700}.vocab-item .del{margin-left:4px;color:#999;font-weight:bold}.vocab-item .del:hover{color:#c0392b}.status-text{font-size:0.75rem;color:#888;margin-top:5px}.bottom-player-bar{position:fixed;bottom:0;left:0;right:0;z-index:1000;background:#fff;border-top:2px solid #e0d8d8;box-shadow:0 -4px 20px rgba(0,0,0,0.1);padding:10px 1rem;margin-bottom:0;border-radius:0;transition:background 0.3s}body.dark .bottom-player-bar{background:#16213e;border-top-color:#2a3a5e}.bottom-player-bar .player-controls{margin-bottom:6px}.bottom-player-bar .toolbar{margin-bottom:0;border-bottom:none}main{padding-bottom:160px}.fullscreen-mode header{display:none}.fullscreen-mode main{margin-top:0;padding-bottom:160px}.fullscreen-mode #articleBox section,.fullscreen-mode .lesson{max-width:100%}.lesson-search{padding:8px 12px;border:2px solid #d0c5c5;border-radius:8px;font-size:0.9rem;outline:none;min-width:160px;transition:border-color 0.2s;background:#fff}body.dark .lesson-search{background:#1a2a3e;color:#e0e0e0;border-color:#2a3a5e}.lesson-search:focus{border-color:#615353}@media (max-width:768px){nav ul{flex-direction:column}.player-controls select{min-width:100%}main{padding-bottom:200px}}</style>
 </head>
 <body>
     <header>
-        <h1>New Concept English Learning Platform</h1>
+        <h1>English Podcast Learning</h1>
         <nav>
             <ul>
-                <li><a href="#lessons">Lessons</a></li>
-                <li><a href="#exercises">Exercises</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#">首页</a></li>
+                <li><a href="#" onclick="toggleVocab()">📖 单词本</a></li>
+                <li><a href="#" onclick="toggleDark()">深色模式</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="lessons">
-            <h2>Lessons</h2>
-            <div class="lesson" id="lesson1">
-                <h3>Lesson 1: Excuse me!</h3>
-                <p>Excuse me! Yes? Is this your handbag? Pardon? Is this your handbag? Yes, it is. Thank you very much.</p>
-                <audio controls>
-                    <source src="audio/lesson1.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <button onclick="showTranslation(1)">Show Translation</button>
-                <p id="translation1" style="display:none;">对不起！什么事？这是您的手提包吗？对不起？这是您的手提包吗？是的，是的。非常感谢。</p>
+        <section>
+            <h2 id="lessonTitleDisplay">课程播放器</h2>
+            <p>请选择课程并开始学习：</p>
+            <p id="error-msg" style="color:red; display:none;">⚠️ 错误：找不到 data.js 数据文件</p>
+        </section>
+
+        <section id="articleBox">
+            <p>正在加载内容...</p>
+        </section>
+
+        <!-- Vocab Panel -->
+        <section id="vocabPanel">
+            <h3>📖 单词本 <span style="font-weight:normal;font-size:0.75rem;color:#aaa;">（点击字幕中的单词即可收藏/取消）</span></h3>
+            <div id="vocabList"></div>
+            <div class="status-text" id="vocabCount">0 个单词</div>
+        </section>
+
+        <!-- Player + Toolbar (fixed at bottom) -->
+        <section class="bottom-player-bar">
+            <div class="player-controls">
+                <input class="lesson-search" id="lessonSearch" type="text" placeholder="🔍 搜索课程..." oninput="filterLessons(this.value)">
+                <select id="lessonSelect" onchange="changeLesson(this.value)">
+                    <option value="">-- 请选择课程 --</option>
+                </select>
+                <span class="course-badge" id="courseBadge">共 365 课</span>
+                <audio id="audioPlayer" controls></audio>
+                <div class="speed-controls">
+                    <button class="speed-btn" data-speed="0.5">0.5×</button>
+                    <button class="speed-btn active" data-speed="1">1×</button>
+                    <button class="speed-btn" data-speed="1.5">1.5×</button>
+                    <button class="speed-btn" data-speed="2">2×</button>
+                </div>
             </div>
-            <div class="lesson" id="lesson2">
-                <h3>Lesson 2: Is this your...?</h3>
-                <p>Is this your pencil? Yes, it is. It's my pencil. Is this your book? No, it isn't. It's not my book.</p>
-                <audio controls>
-                    <source src="audio/lesson2.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <button onclick="showTranslation(2)">Show Translation</button>
-                <p id="translation2" style="display:none;">这是您的铅笔吗？是的，是的。这是我的铅笔。这是您的书吗？不，不是的。这不是我的书。</p>
+
+            <!-- Toolbar -->
+            <div class="toolbar">
+                <button class="tool-btn" id="loopBtn" onclick="toggleLoop()">🔂 单句循环</button>
+                <button class="tool-btn" id="cnBtn" onclick="toggleChinese()">👁 中文</button>
+                <button class="tool-btn" id="abBtn" onclick="toggleAB()">📌 A-B</button>
+                <span class="ab-display" id="abDisplay"></span>
+                <span class="sep"></span>
+                <button class="tool-btn" id="autoNextBtn" onclick="toggleAutoNext()">⏭ 自动下一课</button>
+                <span class="sep"></span>
+                <button class="tool-btn" onclick="toggleVocab()">📖 单词本</button>
+                <button class="tool-btn" id="fullscreenBtn" onclick="toggleFullscreen()">⛶ 全屏</button>
+                <span class="sep"></span>
+                <span style="font-size:0.75rem;color:#888;white-space:nowrap;">字号</span>
+                <button class="tool-btn font-size-btn" data-size="small">小</button>
+                <button class="tool-btn font-size-btn active" data-size="medium">中</button>
+                <button class="tool-btn font-size-btn" data-size="large">大</button>
+                <button class="tool-btn font-size-btn" data-size="xlarge">最大</button>
+                <span class="kbd-hint"><kbd>Space</kbd> 暂停 · <kbd>←→</kbd> 句子 · <kbd>L</kbd>循环 · <kbd>C</kbd>中文 · <kbd>F</kbd>全屏</span>
+                <span class="sep"></span>
+                <span style="font-size:0.7rem;color:#aaa;white-space:nowrap;">© 2025 willing · <a href="https://github.com/guzihong2024" target="_blank" style="color:#888;text-decoration:none;">GitHub</a></span>
             </div>
-            <!-- Add more lessons as needed -->
         </section>
-        <section id="exercises">
-            <h2>Exercises</h2>
-            <p>Practice exercises will be added here.</p>
-        </section>
-        <section id="about">
-            <h2>About</h2>
-            <p>This is a platform for learning New Concept English.</p>
-        </section>
+
     </main>
+    <div class="toast" id="toast"></div>
     <footer>
-        <p>&copy; 2023 NCE Learning. All rights reserved.</p>
+        <p>© 2026 English Pod Learning | <a href="https://github.com/bitter999/EnglishPod" target="_blank">GitHub</a> | <a href="LICENSE" target="_blank">许可证</a></p>
+        <p style="margin-top:4px;font-size:0.8rem;">
+            <a href="https://github.com/guzihong2024" target="_blank" style="color:#aaa;text-decoration:none;">GitHub</a>
+            · All Rights Reserved
+        </p>
     </footer>
-    <script src="script.js"></script>
+    <script src="data.js?v=20260610"></script>
+    <script>(function(){document.addEventListener("contextmenu",function(e){e.preventDefault()});document.addEventListener("keydown",function(e){if(e.target.tagName==="INPUT"||e.target.tagName==="SELECT")return;if(e.key==="F12"||e.ctrlKey&&e.shiftKey&&["I","J","C"].includes(e.key.toUpperCase())||e.ctrlKey&&e.key==="U"){e.preventDefault();return false}});})();const player=document.getElementById("audioPlayer"),box=document.getElementById("articleBox"),select=document.getElementById("lessonSelect"),courseBadge=document.getElementById("courseBadge");let currentContent=[],lastScrollTime=0,currentLessonId=null,allIds=[],loopMode=!1,showChinese=!0,darkMode=!1,autoNext=!1,abMode=!1,abA=null,abB=null,currentSentenceIdx=-1,vocab=JSON.parse(localStorage.getItem("ep_vocab")||"[]");function escapeHtml(e){if(!e)return"";const t=document.createElement("div");return t.textContent=e,t.innerHTML}function filterLessons(e){const t=e.toLowerCase().trim();Array.from(select.options).forEach(e=>{if(!e.value)return;const n=!t||e.innerText.toLowerCase().includes(t);e.style.display=n?"":"none"})}document.addEventListener("scroll",()=>{lastScrollTime=Date.now()},{passive:!0}),document.querySelectorAll(".speed-btn").forEach(e=>{e.onclick=()=>{document.querySelectorAll(".speed-btn").forEach(e=>e.classList.remove("active")),e.classList.add("active"),player.playbackRate=parseFloat(e.dataset.speed)}});let currentFontSize=localStorage.getItem("ep_fontsize")||"medium";function setFontSize(e){currentFontSize=e,localStorage.setItem("ep_fontsize",e),document.querySelectorAll(".font-size-btn").forEach(t=>t.classList.toggle("active",t.dataset.size===e)),document.querySelectorAll("#articleBox .lesson").forEach(t=>{t.classList.remove("small","medium","large","xlarge"),t.classList.add(e)})}function changeLesson(e){if(!e)return;currentLessonId=e;const t=window.GLOBAL_DATA[e];document.getElementById("lessonTitleDisplay").textContent=t.title,courseBadge.textContent="第 "+e+" 课",player.src=t.audio,player.play().catch(()=>{}),currentContent=t.content,currentSentenceIdx=-1,abA=abB=null,document.getElementById("abDisplay").textContent="",buildTranscript()}function buildTranscript(){box.innerHTML="",currentContent.forEach((e,t)=>{const n=document.createElement("div");n.className="lesson",n.id="sent-"+t;const o=e.text.split(/\s+/).filter(e=>e),a=(e.end||e.start+2)-(e.start||0),r=o.map(e=>e.length+.5),c=r.reduce((e,t)=>e+t,0);let l="",s=0;for(let n=0;n<o.length;n++){const d=r[n]/c*a,i=(e.start||0)+s,u=i+d;s+=d;l+=`<span class="word${vocab.some(e=>e.word===o[n].toLowerCase().replace(/[^a-z]/g,""))?" vocab-highlight":""}" data-si="${t}" data-ws="${i}" data-we="${u}" data-word="${escapeHtml(o[n])}">${escapeHtml(o[n])}</span> `}const d=e.trans&&!e.trans.includes("[Conn Error]")&&""!==e.trans;n.innerHTML=`\n                    <h3 style="line-height:1.8">${l}</h3>\n                    <p class="zh${showChinese?"":" hidden"}">${d?escapeHtml(e.trans):"..."}</p>\n                `,n.onclick=t=>{t.target.classList.contains("word")?toggleVocabWord(t.target.dataset.word):(lastScrollTime=0,void 0!==e.start?(player.currentTime=e.start,player.play()):player.play())},n.querySelectorAll(".word").forEach(e=>{e.ondblclick=t=>{t.stopPropagation(),toggleVocabWord(e.dataset.word)}}),box.appendChild(n)}),document.querySelectorAll("#articleBox .lesson").forEach(e=>{e.classList.add(currentFontSize)})}function toggleLoop(){loopMode=!loopMode,document.getElementById("loopBtn").classList.toggle("on",loopMode)}function toggleChinese(){showChinese=!showChinese,document.getElementById("cnBtn").classList.toggle("on",!showChinese),document.querySelectorAll(".lesson .zh").forEach(e=>e.classList.toggle("hidden",!showChinese))}function toggleAB(){const e=document.getElementById("abDisplay");abMode?null!==abA&&null===abB?(abB=player.currentTime,abB<abA&&([abA,abB]=[abB,abA]),e.textContent=`🔁 A:${fmtTime(abA)} → B:${fmtTime(abB)}`,e.classList.add("active")):(abMode=!1,abA=abB=null,e.textContent="",e.classList.remove("active"),document.getElementById("abBtn").classList.remove("on")):(abMode=!0,abA=player.currentTime,abB=null,e.textContent=`A: ${fmtTime(abA)} — 再点设B`,document.getElementById("abBtn").classList.add("on"))}function toggleAutoNext(){autoNext=!autoNext,document.getElementById("autoNextBtn").classList.toggle("on",autoNext)}function toggleDark(){darkMode=!darkMode,document.body.classList.toggle("dark",darkMode),localStorage.setItem("ep_dark",darkMode?"1":"0")}function toggleFullscreen(){document.body.classList.toggle("fullscreen-mode"),document.getElementById("fullscreenBtn").classList.toggle("on")}function toggleVocab(){const e=document.getElementById("vocabPanel"),t="none"===window.getComputedStyle(e).display;e.style.display=t?"block":"none",t&&setTimeout(()=>e.scrollIntoView({behavior:"smooth",block:"center"}),100)}function showToast(e){const t=document.getElementById("toast");t&&(t.textContent=e,t.classList.add("show"),clearTimeout(t._timer),t._timer=setTimeout(()=>t.classList.remove("show"),1500))}function toggleVocabWord(e){const t=e.toLowerCase().replace(/[^a-z]/g,"");if(!t||t.length<2)return;const n=vocab.findIndex(e=>e.word===t);n>=0?(vocab.splice(n,1),showToast("✗ 已移除："+t)):(vocab.unshift({word:t,time:Date.now()}),showToast("✓ 已收藏："+t)),localStorage.setItem("ep_vocab",JSON.stringify(vocab)),renderVocab(),buildTranscript()}function renderVocab(){document.getElementById("vocabList").innerHTML=vocab.map(e=>`<span class="vocab-item" onclick="removeVocab('${e.word}')">${e.word} <span class="del">×</span></span>`).join(""),document.getElementById("vocabCount").textContent=vocab.length+" 个单词"}function removeVocab(e){vocab=vocab.filter(t=>t.word!==e),localStorage.setItem("ep_vocab",JSON.stringify(vocab)),renderVocab(),buildTranscript(),showToast("✗ 已移除："+e)}function fmtTime(e){if(!e&&0!==e)return"0:00";const t=Math.floor(e/60),n=Math.floor(e%60);return t+":"+(n<10?"0":"")+n}document.querySelectorAll(".font-size-btn").forEach(e=>{e.onclick=()=>setFontSize(e.dataset.size)}),window.onload=function(){if(void 0===window.GLOBAL_DATA)return document.getElementById("error-msg").style.display="block",void(box.innerHTML="<p>数据加载失败，请检查 data.js</p>");allIds=Object.keys(window.GLOBAL_DATA).sort((e,t)=>parseInt(e)-parseInt(t)),select.innerHTML='<option value="">-- 请选择课程 --</option>',allIds.forEach(e=>{const t=document.createElement("option");t.value=e,t.innerText=window.GLOBAL_DATA[e].title,select.appendChild(t)}),allIds.length>0&&(courseBadge.textContent="共 "+allIds.length+" 课",select.value=allIds[0],changeLesson(allIds[0])),renderVocab(),"1"===localStorage.getItem("ep_dark")&&toggleDark(),setFontSize(currentFontSize)},player.addEventListener("timeupdate",()=>{const e=player.currentTime;if(!currentContent||0===currentContent.length)return;currentSentenceIdx=-1;for(let t=0;t<currentContent.length;t++){const n=currentContent[t].start;if(void 0!==n&&(e>=n&&e<currentContent[t].end)){currentSentenceIdx=t;break}}if(document.querySelectorAll(".lesson.active").forEach(e=>e.classList.remove("active")),currentSentenceIdx>=0){const e=document.getElementById("sent-"+currentSentenceIdx);if(e&&(e.classList.add("active"),Date.now()-lastScrollTime>5e3)){const t=e.getBoundingClientRect();(t.top<0||t.bottom>window.innerHeight)&&e.scrollIntoView({behavior:"smooth",block:"center"})}}document.querySelectorAll(".word.active").forEach(e=>e.classList.remove("active"));const t=document.querySelectorAll(".word");for(const n of t){const t=parseFloat(n.dataset.ws),o=parseFloat(n.dataset.we);if(e>=t&&e<o){n.classList.add("active");break}}if(loopMode&&currentSentenceIdx>=0){const t=currentContent[currentSentenceIdx];e>=(t.end||t.start+2)-.1&&(player.currentTime=t.start)}if(abMode&&null!==abA&&null!==abB&&e>=abB&&(player.currentTime=abA),autoNext&&currentSentenceIdx>=0){const t=currentContent.length-1,n=currentContent[t]?.end||0;if(e>=n-.5&&n>0){autoNext=!1,document.getElementById("autoNextBtn").classList.remove("on");const e=allIds.indexOf(currentLessonId);e<allIds.length-1&&(select.value=allIds[e+1],changeLesson(allIds[e+1]))}}}),document.addEventListener("keydown",e=>{if("INPUT"!==e.target.tagName&&"SELECT"!==e.target.tagName)switch(e.code){case"Space":e.preventDefault(),player.paused?player.play():player.pause();break;case"ArrowLeft":if(e.preventDefault(),currentSentenceIdx>0){const e=currentContent[currentSentenceIdx-1];e&&void 0!==e.start&&(player.currentTime=e.start,player.play())}break;case"ArrowRight":if(e.preventDefault(),currentSentenceIdx>=0&&currentSentenceIdx<currentContent.length-1){const e=currentContent[currentSentenceIdx+1];e&&void 0!==e.start&&(player.currentTime=e.start,player.play())}break;case"KeyL":toggleLoop();break;case"KeyC":toggleChinese();break;case"KeyD":toggleDark();break;case"KeyF":toggleFullscreen();break;case"KeyA":toggleAutoNext();break;case"KeyB":toggleAB();break;case"KeyV":toggleVocab()}});</script>
 </body>
 </html>

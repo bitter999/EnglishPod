@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio files (copyrighted - NOT included in repo)
+assets/*.mp3
+assets/*.wav
+assets/*.m4a
+
+# Intermediate data (can be regenerated)
+skeletons/
+
+# Temp
+*.log
+tmp/
+/tmp/
