@@ -9,6 +9,10 @@ JSON_DIR = "results"
 # 音频文件所在目录 (注意：这里只是为了检查文件是否存在)
 AUDIO_CHECK_DIR = "assets"
 
+# 音频 URL 前缀 — 如果 MP3 放在远程存储，改这里
+# 如果 MP3 在本地 assets/ 目录，留空则用相对路径
+AUDIO_URL_PREFIX = "https://pub-cdn.bitter999.workers.dev/englishpod/"
+
 # 最终生成的 JS 文件
 OUTPUT_FILE = "data.js"
 
