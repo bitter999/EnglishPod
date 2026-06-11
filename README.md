@@ -33,8 +33,8 @@
 
 ```
 assets/
-├── englishpod_0161pb.mp3
-├── englishpod_0162pb.mp3
+├── englishpod_.mp3
+├── ...
 ├── ...
 ```
 
@@ -108,7 +108,7 @@ python3 generate_data.py
 - [English](LICENSE)
 - [中文](LICENSE_ZH.md)
 
-**注意：** MP3 音频文件版权归 EnglishPod 原作者所有，本仓库不包含这些文件。
+**注意：** MP3 音频文件版权归 EnglishPod 原作者所有。
 
 ---
 
