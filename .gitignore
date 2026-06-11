@@ -17,7 +17,6 @@ venv/
 Thumbs.db
 
 # Audio files (copyrighted - NOT included in repo)
-assets/*.mp3
 assets/*.wav
 assets/*.m4a
 
