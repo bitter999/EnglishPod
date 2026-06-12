@@ -46,7 +46,8 @@ function initEA() {
             analyser.fftSize = 256;
             const src = audioCtx.createMediaElementSource(player);
             src.connect(analyser);
-            // 不连接 destination，音频走原生 audio 路径避免干扰
+            // ★★★ 必须连到 destination！否则 createMediaElementSource 截断了音频，没声音 ★★★
+            analyser.connect(audioCtx.destination);
             energyData = new Uint8Array(analyser.frequencyBinCount);
         }
         if (audioCtx.state === 'suspended') audioCtx.resume();
