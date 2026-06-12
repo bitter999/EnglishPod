@@ -5,13 +5,18 @@
 let audioCtx = null, analyser = null;
 let energyData = null, energyFrameId = null, isInit = false;
 let curWordIdx = -1;
+let frameCount = 0;
+
+// 检测移动端：降低帧率避免卡顿
+const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+const FRAME_SKIP = isMobile ? 3 : 1; // 移动端每4帧才分析一次（~15fps），桌面端每帧（60fps）
 
 function initEA() {
     try {
         if (!audioCtx) {
             audioCtx = new (window.AudioContext || window.webkitAudioContext)();
             analyser = audioCtx.createAnalyser();
-            analyser.fftSize = 256;
+            analyser.fftSize = isMobile ? 128 : 256; // 移动端降低精度减少CPU
             const src = audioCtx.createMediaElementSource(player);
             src.connect(analyser);
             analyser.connect(audioCtx.destination);
@@ -26,8 +31,11 @@ function getE() {
     if (!analyser) return 0;
     analyser.getByteFrequencyData(energyData);
     let s = 0;
-    for (let i = 3; i < energyData.length; i++) s += energyData[i];
-    return s / (energyData.length - 3);
+    const len = energyData.length;
+    // 移动端只采样前半段（低频为主，语音主要集中区域），减少计算量
+    const limit = isMobile ? Math.floor(len / 2) : len;
+    for (let i = 3; i < limit; i++) s += energyData[i];
+    return s / (limit - 3);
 }
 
 let lastE = 0, frames = 0, isVoice = false;
@@ -51,24 +59,23 @@ function getWord(si, ct) {
     const s = currentContent[si];
     const words = s.text.split(/\s+/).filter(w => w);
     if (!words.length) return -1;
-    
+
     const st = s.start || 0, ed = s.end || (st + 2);
     if (ct < st - 0.05) return -1;
     if (ct >= ed) return words.length - 1;
-    
+
     const elapsed = ct - st;
     const dur = ed - st;
     const progress = Math.max(0, Math.min(1, elapsed / dur));
-    
-    // 语音权重：短词快、长词慢
+
     const w = words.map(w => Math.max(0.5, w.length * 0.25));
     const tw = w.reduce((a, b) => a + b, 0);
     let c = 0;
     const thr = w.map(v => { c += v / tw; return c; });
-    
+
     const { on } = voiceDetect();
     let p = on ? Math.min(1, progress * 1.08) : Math.max(0, progress - 0.02);
-    
+
     for (let i = 0; i < thr.length; i++) {
         if (p <= thr[i]) return i;
     }
@@ -77,7 +84,14 @@ function getWord(si, ct) {
 
 function tick() {
     if (player.paused) { energyFrameId = null; isInit = false; return; }
-    
+
+    // 移动端跳帧：降低分析频率，减少CPU占用
+    frameCount++;
+    if (frameCount % (FRAME_SKIP + 1) !== 0) {
+        energyFrameId = requestAnimationFrame(tick);
+        return;
+    }
+
     const ct = player.currentTime;
     let si = -1;
     for (let i = 0; i < currentContent.length; i++) {
@@ -86,7 +100,7 @@ function tick() {
             si = i; break;
         }
     }
-    
+
     if (si >= 0) {
         const wi = getWord(si, ct);
         if (wi >= 0 && wi !== curWordIdx) {
@@ -99,7 +113,7 @@ function tick() {
             curWordIdx = wi;
         }
     }
-    
+
     energyFrameId = requestAnimationFrame(tick);
 }
 
@@ -108,6 +122,7 @@ player.addEventListener('play', () => {
         isInit = initEA();
         if (isInit) {
             curWordIdx = -1;
+            frameCount = 0;
             energyFrameId = requestAnimationFrame(tick);
         }
     }
