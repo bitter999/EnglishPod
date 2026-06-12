@@ -2,6 +2,8 @@
 
 > 一个基于 EnglishPod 播客的英语学习工具，支持 AI 语音转写 + 翻译 + 同步字幕播放
 
+**语言 / Language:** [简体中文](README.md) | [English](README_EN.md)
+
 ![GitHub](https://img.shields.io/github/license/bitter999/EnglishPod)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bitter999/EnglishPod)
 
