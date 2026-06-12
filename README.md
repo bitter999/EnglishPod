@@ -127,14 +127,6 @@ python3 -m http.server 8080
 ### 学习时间安排
 一天能学习两三篇已经很耗费时间了，一口吃不成个胖子。这一套流程下来，听力就算是入了门，接下来可以继续拿它练口语、进行跟读，以及后续的第二轮复习。
 
----
-
-## 💖 支持这个项目
-
-如果这个项目对你学习英语有帮助，欢迎：
-
-- ⭐ **点个 Star** — 这是对我最大的鼓励
-- ☕ **打赏一杯咖啡或者奶茶**（thank you)
 
 ---
 
@@ -208,7 +200,9 @@ python3 generate_data.py
 
 这是对我最大的鼓励 —— 在 GitHub 右上角点击 ⭐ Star，让更多人看到这个项目。
 
-### ☕ 打赏一杯咖啡 / 一点生命值
+### ☕ **打赏一杯咖啡或者奶茶**（thank you)
+<img width="959" height="772" alt="赞赏" src="https://github.com/user-attachments/assets/bef30aed-95bf-4a76-a1ed-b8cfd349d6f8" />
+<img width="1182" height="1772" alt="赞赏zfb" src="https://github.com/user-attachments/assets/e92ef4e8-d748-4bdd-8d2e-ea3d85561807" />
 
 如果你愿意，可以请我喝杯咖啡，支持我继续维护和更新这个项目。
 
