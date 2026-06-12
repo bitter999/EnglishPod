@@ -1,0 +1,504 @@
+{
+  "title": "englishpod_B0020pb",
+  "audio": "./assets/englishpod_B0020pb.mp3",
+  "content": [
+    {
+      "text": "Well, hello everyone and welcome to EnglishPod. My name is Erica and I'm Marco.",
+      "trans": "你好，大家和欢迎来到英语播客。我的名字叫艾瑞克，我叫马科。",
+      "start": 0.0,
+      "end": 7.28
+    },
+    {
+      "text": "So Marco, how are you doing today? I'm doing great and I'm really looking forward to our lesson",
+      "trans": "英语：所以马科，你今天过得怎么样？我真的很期待我们的课程。",
+      "start": 7.28,
+      "end": 11.68
+    },
+    {
+      "text": "because we're going to the eye doctor today. Okay, so we've got an elementary lesson about",
+      "trans": "因为今天我们要去看眼科医生。好的，我们今天学习一下关于眼睛的基本知识。",
+      "start": 11.68,
+      "end": 17.36
+    },
+    {
+      "text": "going to the eye doctor. Yes. Well, let's get started then with our vocabulary preview.",
+      "trans": "英语：要去看眼科医生。是的，让我们先复习一下我们的词汇预览。",
+      "start": 17.36,
+      "end": 23.76
+    },
+    {
+      "text": "We have three words today in our vocabulary preview. All three words come from our dialogue.",
+      "trans": "今天我们的词汇预览中有三个词来自对话。这三个词都是我们从对话中提炼出来的。",
+      "start": 24.080000000000002,
+      "end": 32.56
+    },
+    {
+      "text": "Our first word is... Struggles. Struggles. Struggles. Struggles. So Marco, when I struggle to do something,",
+      "trans": "我们的第一个单词是... 挫折。挫败。挫败。挫败。所以，当我在做某事时遇到困难，我说：\"嗯，我该怎么办？\"",
+      "start": 32.56,
+      "end": 41.760000000000005
+    },
+    {
+      "text": "what does that mean? It means it's difficult. It means that you have a hard time so you can't really",
+      "trans": "英语：那是什么意思？意思是很难。你很难，因为你能做得很好，所以不能真正理解。",
+      "start": 41.760000000000005,
+      "end": 46.480000000000004
+    },
+    {
+      "text": "do it very quickly. So you have to try really hard. You have to try really hard. Yeah, to do",
+      "trans": "英语：请尽快完成。所以你必须付出极大的努力。你必须付出极大的努力。对，要完成。",
+      "start": 46.480000000000004,
+      "end": 52.72
+    },
+    {
+      "text": "something that's difficult. Yes. Okay, our next word is... Blurry. Blurry. Blurry. Blurry. B-L-U-R-R-Y. Blurry.",
+      "trans": "我不能直接翻译这句话，因为这可能是一个错误的或不准确的句子。不过，我可以尝试用中文来回答你的问题。",
+      "start": 52.72,
+      "end": 64.72
+    },
+    {
+      "text": "Whenever something is blurry, you can't really see it well. It's not clear. Right. That's right.",
+      "trans": "英语：当东西模糊时，你根本无法清楚地看到它。不清楚。正确。",
+      "start": 64.72,
+      "end": 69.28
+    },
+    {
+      "text": "Everything will be blurry. Okay, and our final word is... Prescription. Prescription.",
+      "trans": "一切都会模糊。好的，我们的最终单词是……处方。处方。",
+      "start": 69.28,
+      "end": 76.88
+    },
+    {
+      "text": "Often when you go to the doctor and you need some medicine, he writes out a prescription.",
+      "trans": "英语：经常当你去医院需要开药时，他会给你写张处方。",
+      "start": 77.83999999999999,
+      "end": 83.6
+    },
+    {
+      "text": "Right. A little paper that says all the medicine that you need and then you can go to the drug store",
+      "trans": "正确翻译：这是个点和拍相机。",
+      "start": 83.6,
+      "end": 87.92
+    },
+    {
+      "text": "and buy it. Exactly. Okay, so those three words you'll hear in today's dialogue and I think it's time",
+      "trans": "和买它。正好。所以，今天你们将听到的这三句话，我想现在该结束了。",
+      "start": 87.92,
+      "end": 95.12
+    },
+    {
+      "text": "we listen to the dialogue. Hello Arthur. What seems to be the problem?",
+      "trans": "我们听你的对话。你好，阿瑟。你似乎遇到了什么问题？",
+      "start": 95.12,
+      "end": 105.12
+    },
+    {
+      "text": "Hey Doc. Well, I think I might need glasses. I'm getting headaches and I really struggle to see",
+      "trans": "你好，医生。嗯，我可能需要眼镜了。我现在头痛，我真的看不清东西。",
+      "start": 105.68,
+      "end": 111.2
+    },
+    {
+      "text": "things that are far away. But I've always had 2020 vision. Hmm, sounds like you might be far-sighted.",
+      "trans": "事物远在千里。但我一直有2020年的梦想。嗯，听起来你可能很远见。",
+      "start": 111.2,
+      "end": 117.60000000000001
+    },
+    {
+      "text": "Okay, then cover your left eye and read the chart in front of you.",
+      "trans": "好的，现在请将以下句子翻译成中文：",
+      "start": 117.60000000000001,
+      "end": 120.72
+    },
+    {
+      "text": "R...3... Uh, question mark. And I can't quite make out the other symbol, but I think it's the peace sign.",
+      "trans": "R...3... 你好，问号。而且我无法完全辨认其他符号，但我认为它可能是和平的标志。",
+      "start": 125.2,
+      "end": 135.12
+    },
+    {
+      "text": "Well, Arthur, yours blind is a bat. Yeah, I know. My vision is really blurry at times.",
+      "trans": "英语：嗯，阿瑟，你的视力是只蝙蝠。对，我知道。我的视野有时候很模糊。",
+      "start": 135.84,
+      "end": 142.24
+    },
+    {
+      "text": "Okay, then. Head over to the other room and pick out some frames while I fill out your prescription.",
+      "trans": "好的，那么现在请将以下句子翻译成简化的中文：",
+      "start": 143.04000000000002,
+      "end": 149.04000000000002
+    },
+    {
+      "text": "Thanks, Doc.",
+      "trans": "谢谢，医生。",
+      "start": 149.04000000000002,
+      "end": 149.68
+    },
+    {
+      "text": "Arthur, that's the bathroom.",
+      "trans": "英语：Arthur，那里的浴室。",
+      "start": 150.48000000000002,
+      "end": 154.64000000000001
+    },
+    {
+      "text": "Well, this guy really has poor vision, hey. Well, actually, you know what, I've walked into the",
+      "trans": "英语：嗯，这个家伙真的视力不好，对吧？好吧，实际上，你知道吗，我走进去了。",
+      "start": 158.56,
+      "end": 163.92000000000002
+    },
+    {
+      "text": "bathroom. The men's bathroom, actually, instead of the women's bathroom. And that's not because I",
+      "trans": "卫生间。实际上，男人的卫生间而不是女人的卫生间。而且这并不是因为我不喜欢，而是因为我更喜欢女性的卫生间。",
+      "start": 163.92000000000002,
+      "end": 168.0
+    },
+    {
+      "text": "wasn't wearing my glasses. That's because you weren't paying attention. That's true.",
+      "trans": "我戴着眼镜，因为你不注意。这就是真的。",
+      "start": 168.0,
+      "end": 171.36
+    },
+    {
+      "text": "Okay, let's take a look today at our language takeaway.",
+      "trans": "好的，让我们今天一起看看我们的语言小贴士。",
+      "start": 172.64000000000001,
+      "end": 175.60000000000002
+    },
+    {
+      "text": "The first word on our language takeaway for today is 2020 vision. 2020 vision. 2020 vision.",
+      "trans": "今天的语言小测验是2020年愿景。2020年愿景。2020年愿景。",
+      "start": 176.48,
+      "end": 188.0
+    },
+    {
+      "text": "If I have 2020 vision, it means that you have perfect vision. Which I do not have.",
+      "trans": "如果我有2020年的视力，这意味着你也有完美的视力。我没有。",
+      "start": 188.0,
+      "end": 194.0
+    },
+    {
+      "text": "No, me neither. So I usually wear glasses as well. Yeah, but yeah, people that have 2020 vision",
+      "trans": "是的，我没有。所以我通常也会戴眼镜。对了，2020年的视力状况",
+      "start": 196.0,
+      "end": 201.2
+    },
+    {
+      "text": "don't need glasses. They can see clearly and perfectly and perfectly. Yeah, next word is far",
+      "trans": "英语：不要戴眼镜。它们能清晰地看到，而且完美无缺。对，下一个词是远。",
+      "start": 201.28,
+      "end": 207.83999999999997
+    },
+    {
+      "text": "sighted. Far sighted. Far sighted. Far sighted. So if I'm far sighted, I can't see very well,",
+      "trans": "英语：我远视，所以我看不清。",
+      "start": 207.83999999999997,
+      "end": 215.44
+    },
+    {
+      "text": "right? So if you're far sighted, you can see things that are near. So you can see things that are far",
+      "trans": "是的，你理解了。如果你远视，你可以看到近处的东西；如果你近视，你可以看到远处的东西。",
+      "start": 215.44,
+      "end": 220.88
+    },
+    {
+      "text": "away. Right. But things that are close are blurry. Okay. And the opposite would be near sighted.",
+      "trans": "离开。对。但是那些很近的东西是模糊的。好的。相反，就是远视。",
+      "start": 220.88,
+      "end": 227.2
+    },
+    {
+      "text": "And which is you can see things that are close well, but not far. Yeah. Okay.",
+      "trans": "你能够看到事情很近，但不是太远。嗯。",
+      "start": 227.2,
+      "end": 233.44
+    },
+    {
+      "text": "Far sighted and near sighted. Okay, so our next word is make out. Make out. Make out. Make out.",
+      "trans": "英语：远见卓识。好的，我们的下一个词是看出。看出。看出。看出。",
+      "start": 233.44,
+      "end": 243.28
+    },
+    {
+      "text": "Make out. That's kind of a funny little phrase. And let's listen to a few examples of this phrase",
+      "trans": "英语：让它听听。那有点儿奇怪的短语，让我们听听这个短语的例子。",
+      "start": 243.28,
+      "end": 248.79999999999998
+    },
+    {
+      "text": "so we can understand how it's used. Example one. I can't make out what this says.",
+      "trans": "所以我们可以理解它是如何使用的。例一：我无法清楚地看这句话。",
+      "start": 248.79999999999998,
+      "end": 256.8
+    },
+    {
+      "text": "The writing is too small. Example two. If you look carefully, you can almost make out a few of",
+      "trans": "这个写作太小了。例句二。如果你仔细看，你几乎可以看见一些。",
+      "start": 256.8,
+      "end": 268.08
+    },
+    {
+      "text": "the stars in the sky. Example three. Can you see what's written on the sign there? No, I can't quite",
+      "trans": "星星在天空中。示例三：你能看清楚那张牌子上写的是什么吗？不，我看得不太清楚。",
+      "start": 268.08,
+      "end": 278.96000000000004
+    },
+    {
+      "text": "make it out. Okay. So basically make out is to see clearly. Exactly. Make out to see. Okay. And our",
+      "trans": "将这句话翻译成中文，可以得到以下内容：",
+      "start": 278.96,
+      "end": 289.91999999999996
+    },
+    {
+      "text": "last word for language takeaway today is blind as a bat. Blind as a bat. Blind as a bat. So this",
+      "trans": "今天语言总结的最后一句话是：瞎到不行。",
+      "start": 289.91999999999996,
+      "end": 299.44
+    },
+    {
+      "text": "is a really funny sounding expression. One of these weird English idioms. Yeah, it's a really",
+      "trans": "这个表达确实很逗。这是其中一种奇怪的英语表达。是啊，它真的很有趣。",
+      "start": 299.44,
+      "end": 305.03999999999996
+    },
+    {
+      "text": "common expression that just means that you can't see. Exactly. So it's not like you actually",
+      "trans": "英语：它只是一个傻瓜相机。",
+      "start": 305.04,
+      "end": 310.16
+    },
+    {
+      "text": "are blind, right? But you just really can't see very well. Okay. All right, we saw four great words",
+      "trans": "是傻瓜相机，对吗？但你真地看得很清楚。好的，我们看到四个很棒的词。",
+      "start": 310.16,
+      "end": 316.24
+    },
+    {
+      "text": "today and our language takeaway. Now I think we can listen to our dialogue another time. But this",
+      "trans": "今天和我们的对话小结。现在我觉得我们可以再听一次对话，但这个。",
+      "start": 316.24,
+      "end": 322.08000000000004
+    },
+    {
+      "text": "time it's going to be slower so we can pick up all these great words that we just talked about.",
+      "trans": "时间到了，我们能接住这些我们刚刚讨论过的很棒的词汇。",
+      "start": 322.08000000000004,
+      "end": 327.20000000000005
+    },
+    {
+      "text": "Hello Arthur. What seems to be the problem? Hey Doc, well, I think I might need glasses. I'm",
+      "trans": "你好，阿特里克。你似乎遇到了什么问题？嘿，我可能需要眼镜了。我在看医生的时候，发现我的视力有些下降。",
+      "start": 327.76,
+      "end": 339.2
+    },
+    {
+      "text": "getting headaches and I really struggle to see things that are far away. But I've always had",
+      "trans": "我经常头痛，很难看到远处的东西。但自从有了这个设备以来，我已经习惯了它。",
+      "start": 339.2,
+      "end": 345.44
+    },
+    {
+      "text": "2020 vision. Sounds like you may be far-sighted. Okay, then. Cover your left eye and read the chart",
+      "trans": "2020年愿景。听起来你可能很远视。好吧，那么，请把左眼闭上，看看这张图表。",
+      "start": 345.44,
+      "end": 352.88
+    },
+    {
+      "text": "in front of you. Hmm X, E, R, three question mark and I can't quite make up the other symbol,",
+      "trans": "在你前面。哦，X、E、R三个问号和我不能完全弄明白其他符号，对不起。",
+      "start": 352.88,
+      "end": 365.52
+    },
+    {
+      "text": "but I think it's a peacetime. Wow. Arthur, you're as blind as a bat. Yeah, I know. My vision is really",
+      "trans": "但是我觉得它有点像平时。哇。阿特里克，你的眼睛就像一只老鹰一样。对了，我的视力真的很差。",
+      "start": 365.52,
+      "end": 375.12
+    },
+    {
+      "text": "blurriot times. Okay, then head on over to the other room and pick out some frames while I fill out",
+      "trans": "英文：模糊时刻。好了，那么就去另一间房间挑选一些帧，我来填表单。",
+      "start": 375.44,
+      "end": 383.12
+    },
+    {
+      "text": "your prescription. Thanks, Doc. Arthur, that's the bathroom. All right, great stuff on our dialogue",
+      "trans": "你的处方。谢谢，医生。阿特里克，那里的卫生间很好。一切顺利。",
+      "start": 383.12,
+      "end": 391.2
+    },
+    {
+      "text": "and with this we can start now with putting it together. Putting it together.",
+      "trans": "和这个，我们就可以开始组装了。组装好了。",
+      "start": 391.2,
+      "end": 398.16
+    },
+    {
+      "text": "So we saw a couple useful phrases in this dialogue and I think we can show you how to use these",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 399.68,
+      "end": 404.8
+    },
+    {
+      "text": "phrases in a few different ways. Right. The first one that we have today is what seems to be.",
+      "trans": "这句话的意思是：“短语在不同的方式下表达。” 这句话的中文翻译如下：",
+      "start": 404.8,
+      "end": 412.32
+    },
+    {
+      "text": "So we heard in the dialogue the doctor said what seems to be the problem. We can use the same",
+      "trans": "英语：所以我们听说了对话中的医生说似乎这个问题。我们可以使用同样的方法来解决它。",
+      "start": 412.32,
+      "end": 419.04
+    },
+    {
+      "text": "expression in a number of different ways. Let's listen. Example one. What seems to be the problem?",
+      "trans": "表达在不同的方式上。让我们听听。例一：这个问题似乎是什么问题？",
+      "start": 419.04,
+      "end": 426.48
+    },
+    {
+      "text": "Example two. What seems to be the matter? Example three. What seems to be the trouble?",
+      "trans": "英语：例一。似乎有什么问题？例二。似乎有什么麻烦？",
+      "start": 426.64000000000004,
+      "end": 438.72
+    },
+    {
+      "text": "Okay, so with these examples we can see how we can use the phrase what seems to be in many different",
+      "trans": "好的，让我们看看如何用这个短语在中文中使用。首先，我们需要找到这个短语的来源。在这个例子中，短语“点和拍”来源于英语中的“point and shoot”，而“SLR/DSLR”则来自“single lens reflex”（单反相机）。",
+      "start": 440.40000000000003,
+      "end": 447.28000000000003
+    },
+    {
+      "text": "ways. Yeah, it's a great way of asking what's the problem. So now let's take a look at another phrase.",
+      "trans": "英语：它是个点和拍相机。",
+      "start": 447.28000000000003,
+      "end": 452.40000000000003
+    },
+    {
+      "text": "We heard in the dialogue the doctor said head on over to the other room. Right. And with this phrase",
+      "trans": "我们听到对话中医生说，往另一个房间走。正确翻译为：我们听到对话中医生说，往另一个房间走。",
+      "start": 452.4,
+      "end": 459.84
+    },
+    {
+      "text": "head on we can combine it with other prepositions to indicate another place. Exactly. Let's hear",
+      "trans": "英语：头朝我们可以说它与其他前缀一起表示另一个地方。对，让我们来听听。",
+      "start": 459.84,
+      "end": 466.64
+    },
+    {
+      "text": "three examples. Example one. Head on in. Example two. Head on out. Example three. Head on up.",
+      "trans": "三个例子。第一个：直接上车。第二个：快点过来。第三个：直奔目的地。",
+      "start": 466.64,
+      "end": 480.96
+    },
+    {
+      "text": "Okay, so for example we can say head on into the house it's going to rain soon. Or we can say hey",
+      "trans": "好的，例如我们可以说“头朝房子里冲，很快就会下雨。”或者“嘿”",
+      "start": 482.0,
+      "end": 488.56
+    },
+    {
+      "text": "guys let's head on out to the park. Or I can also say head on up to my room I'll be there in a second.",
+      "trans": "各位，我们快点出发去公园吧。或者我也可以先到我的房间，一会儿就到了。",
+      "start": 488.56,
+      "end": 497.28000000000003
+    },
+    {
+      "text": "Great. Those are some cool phrases. Right and they're real useful. So why don't we listen to our",
+      "trans": "好的。这些是些不错的短语。对的，它们确实很实用。所以为什么不让我们听听我们的中文呢？",
+      "start": 497.28000000000003,
+      "end": 502.32
+    },
+    {
+      "text": "dialogue and maybe we'll hear them again. Hello Arthur what seems to be the problem?",
+      "trans": "英语：对话和，也许我们会再次听到他们。你好，阿瑟，这个问题是什么？",
+      "start": 502.32,
+      "end": 510.72
+    },
+    {
+      "text": "Pretty dark. We're all I think I might need glasses. I'm getting headaches and I really struggle",
+      "trans": "很暗。我们可能需要眼镜了，我眼睛疼，真的很难受。",
+      "start": 511.28,
+      "end": 516.48
+    },
+    {
+      "text": "to see things that are far away. But I've always had 2020 vision.",
+      "trans": "英语：看远的地方的事物。但自从2020年以来，我总是有2020年的视野。",
+      "start": 516.48,
+      "end": 520.32
+    },
+    {
+      "text": "Hmm sounds like you might be far-sighted. Okay then cover your left eye and read the chart in",
+      "trans": "嗯，听起来你可能有点远视。好吧，那就把左眼闭上，看看这张表格。",
+      "start": 520.96,
+      "end": 525.9200000000001
+    },
+    {
+      "text": "front of you. Hmm X, E, R, three, uh question mark and I can't quite make out the other symbol but",
+      "trans": "在你前面。哦，X、E、R、三、问号和我无法完全辨认其他符号，但",
+      "start": 525.9200000000001,
+      "end": 539.12
+    },
+    {
+      "text": "I think it's the peace sign. Well Arthur yours blind is a bat. Yeah I know my vision is really",
+      "trans": "我认为这是和平的标志。嗯，阿瑟，你的盲是只蝙蝠。我确实知道我的视力真的很",
+      "start": 539.12,
+      "end": 546.96
+    },
+    {
+      "text": "blurry at times. Okay then head over to the other room and pick out some frames while I fill out",
+      "trans": "英文：模糊时有时无。好吧，那就去另一间房间挑选一些帧，我来填表吧。",
+      "start": 546.96,
+      "end": 553.6
+    },
+    {
+      "text": "your prescription. Thanks Doc. Arthur that's the bathroom. Okay so talking about going to the eye",
+      "trans": "你的处方。谢谢医生。阿特丽斯，那么我们谈论一下去眼科的计划。",
+      "start": 553.6,
+      "end": 564.8
+    },
+    {
+      "text": "doctor today I have a question for our listeners. A challenge for our listeners. What's it called",
+      "trans": "英语：今天医生，我有一个问题要对我们的听众说。我们听众的挑战。",
+      "start": 564.8,
+      "end": 571.8399999999999
+    },
+    {
+      "text": "when you can't distinguish colors? So like when you can't tell the difference between red and blue",
+      "trans": "英语：当你分辨不出颜色了吗？比如，当你分辨不出红色和蓝色。",
+      "start": 571.8399999999999,
+      "end": 579.52
+    },
+    {
+      "text": "and green. Right. So what is that condition called? So there's like a technical term we want the",
+      "trans": "而且，那么这个条件叫什么？所以那是什么技术术语呢？",
+      "start": 579.52,
+      "end": 585.5999999999999
+    },
+    {
+      "text": "technical term. We want the technical term. So we'll be looking for it on our comments page and be",
+      "trans": "英语：技术术语。我们希望找到它在评论页面上的技术术语，以便在这里提供帮助。",
+      "start": 585.5999999999999,
+      "end": 590.56
+    },
+    {
+      "text": "sure to if you know the answer post it. At EnglishPod.com also if you have questions about today's",
+      "trans": "当然，如果你知道答案，请在评论区留言。同时，如果您对今天的中文有任何问题，请随时提问。",
+      "start": 590.56,
+      "end": 596.56
+    },
+    {
+      "text": "lesson or any other lesson please come and visit our website and ask us. Yeah we hope to see you",
+      "trans": "请告诉我，您是否愿意来访问我们的网站并询问我们。我们希望见到您。",
+      "start": 596.56,
+      "end": 602.88
+    },
+    {
+      "text": "there but until then it's goodbye.",
+      "trans": "在这里，但直到那时，就别想再见。",
+      "start": 602.88,
+      "end": 606.4799999999999
+    }
+  ]
+}

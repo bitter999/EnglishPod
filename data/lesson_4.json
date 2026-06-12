@@ -1,0 +1,738 @@
+{
+  "title": "englishpod_C0004pb",
+  "audio": "./assets/englishpod_C0004pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好，大家和欢迎来到英语播客。我的名字是马克。",
+      "start": 0.0,
+      "end": 6.6000000000000005
+    },
+    {
+      "text": "I'm Amira.",
+      "trans": "我是亚玛拉。",
+      "start": 6.6000000000000005,
+      "end": 7.6000000000000005
+    },
+    {
+      "text": "Hey Amira, how are you today?",
+      "trans": "你好，阿米拉，今天怎么样？",
+      "start": 7.6000000000000005,
+      "end": 9.36
+    },
+    {
+      "text": "I'm doing great. What about you?",
+      "trans": "我做得很好。你呢？",
+      "start": 9.36,
+      "end": 11.0
+    },
+    {
+      "text": "I'm doing pretty good. I'm excited about this lesson that you have for us today.",
+      "trans": "我做得还不错。今天的学习，我对你的讲解感到非常兴奋。",
+      "start": 11.0,
+      "end": 16.28
+    },
+    {
+      "text": "Yes, it's actually a very, very useful lesson.",
+      "trans": "是的，它实际上是一个非常有用的教训。",
+      "start": 16.28,
+      "end": 19.44
+    },
+    {
+      "text": "It's about someone asking his boss for an assistant.",
+      "trans": "英语：它关于有人向老板要助手。",
+      "start": 19.44,
+      "end": 23.400000000000002
+    },
+    {
+      "text": "Okay, an assistant. What's an assistant?",
+      "trans": "好的，一个助手。什么是助手？",
+      "start": 23.400000000000002,
+      "end": 25.64
+    },
+    {
+      "text": "Well, it's someone who helps you with your work around the office.",
+      "trans": "英语：嗯，他/她可以帮助你在办公室里帮你做点什么。",
+      "start": 25.64,
+      "end": 29.0
+    },
+    {
+      "text": "Okay, great. So let's listen to this dialogue and when we come back,",
+      "trans": "好的，行。那么我们来听这段对话，当我们再回来的时候。",
+      "start": 29.0,
+      "end": 34.0
+    },
+    {
+      "text": "we'll take a look at all the interesting and useful vocabulary that you'll find.",
+      "trans": "我们都会看看你将要找到的所有有趣和有用的词汇。",
+      "start": 34.0,
+      "end": 38.0
+    },
+    {
+      "text": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "trans": "英语：它就像我说的那样，我们连找一个助手都没有资源。",
+      "start": 48.0,
+      "end": 53.0
+    },
+    {
+      "text": "I understand that, but the fact is we're understaffed.",
+      "trans": "英语：我理解这一点，但事实是我们人手不足。",
+      "start": 53.0,
+      "end": 56.0
+    },
+    {
+      "text": "The timing is just not right. The economy's bad and it's too risky to take on new staff.",
+      "trans": "英语：时间不对。经济不好，风险太大，不能接受新的员工。",
+      "start": 56.0,
+      "end": 61.0
+    },
+    {
+      "text": "Yeah, I guess you're right.",
+      "trans": "是的，我猜你对了。",
+      "start": 61.0,
+      "end": 63.0
+    },
+    {
+      "text": "Here's an idea. What if we hire an intern?",
+      "trans": "这里有一个想法。如果我们可以招聘实习生，那会怎么样呢？",
+      "start": 63.0,
+      "end": 66.0
+    },
+    {
+      "text": "She would take some of the weight off my shoulders.",
+      "trans": "她会把一些重量从我的肩膀上放下来。",
+      "start": 66.0,
+      "end": 68.0
+    },
+    {
+      "text": "She?",
+      "trans": "她？",
+      "start": 68.0,
+      "end": 69.0
+    },
+    {
+      "text": "Yeah, you know, a recent graduate. She could give me a hand with some of these projects and we could keep our costs down.",
+      "trans": "是的，你说得对。你最近毕业了。她可以帮我处理一些项目，并且我们可以通过降低成本来保持我们的成本。",
+      "start": 69.0,
+      "end": 75.0
+    },
+    {
+      "text": "That sounds reasonable. Let me see what I can do.",
+      "trans": "英语：那听起来不错。让我看看我能做些什么。",
+      "start": 75.0,
+      "end": 79.0
+    },
+    {
+      "text": "Tony, I'd like to introduce you to your new assistant.",
+      "trans": "英语：Tony，我想介绍你新助手。",
+      "start": 80.0,
+      "end": 86.0
+    },
+    {
+      "text": "Okay, great. Let's meet her.",
+      "trans": "好的，让我们见面吧。",
+      "start": 86.0,
+      "end": 91.0
+    },
+    {
+      "text": "Hi, I'm Adam.",
+      "trans": "你好，我是阿莫。",
+      "start": 91.0,
+      "end": 94.0
+    },
+    {
+      "text": "Oh, hi. I'm Tony.",
+      "trans": "你好，Tony。我是阿里云的Qwen助手。",
+      "start": 94.0,
+      "end": 97.0
+    },
+    {
+      "text": "And we're back. Tony. He's surprised, huh?",
+      "trans": "现在我们回来了。托尼，他有点惊讶呢？",
+      "start": 100.0,
+      "end": 105.0
+    },
+    {
+      "text": "Yeah, he's a... I don't know why though, he's surprised. I think we should talk about that a little bit later.",
+      "trans": "嗯，他是个...我不知道为什么，他有点惊讶。我觉得我们可以稍后好好聊聊。",
+      "start": 105.0,
+      "end": 110.0
+    },
+    {
+      "text": "Yes, for now, let's look at some interesting vocabulary and phrases here.",
+      "trans": "是的，现在让我们看看一些有趣的词汇和短语。",
+      "start": 110.0,
+      "end": 115.0
+    },
+    {
+      "text": "Marco, I know you've chosen one for us.",
+      "trans": "英语：Marco，我知道你选了我们中的一个。",
+      "start": 115.0,
+      "end": 117.0
+    },
+    {
+      "text": "Yeah, the first one that I want to take a look at is resources.",
+      "trans": "是的，我想要看看资源。",
+      "start": 117.0,
+      "end": 121.0
+    },
+    {
+      "text": "Resources.",
+      "trans": "资源。",
+      "start": 121.0,
+      "end": 123.0
+    },
+    {
+      "text": "Resources.",
+      "trans": "资源。",
+      "start": 123.0,
+      "end": 125.0
+    },
+    {
+      "text": "And that means in this text, basically, money.",
+      "trans": "而且这意味着，在这个文本中，基本上，金钱。",
+      "start": 125.0,
+      "end": 129.0
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 129.0,
+      "end": 130.0
+    },
+    {
+      "text": "So the office doesn't have enough money.",
+      "trans": "所以办公室没有足够的钱。",
+      "start": 130.0,
+      "end": 132.0
+    },
+    {
+      "text": "Okay, I've chosen another interesting word for you and that's understaffed.",
+      "trans": "好的，我已选择并解释了您要翻译的词汇。请告诉我需要翻译的具体内容。",
+      "start": 132.0,
+      "end": 138.0
+    },
+    {
+      "text": "Understaffed.",
+      "trans": "在缺员的情况下。",
+      "start": 138.0,
+      "end": 139.0
+    },
+    {
+      "text": "Understaffed.",
+      "trans": "在缺员的情况下。",
+      "start": 139.0,
+      "end": 141.0
+    },
+    {
+      "text": "Understaffed.",
+      "trans": "在岗人员不足。",
+      "start": 141.0,
+      "end": 142.0
+    },
+    {
+      "text": "Now, understaffed means that they don't have enough people working there.",
+      "trans": "现在，缺人手意味着他们没有足够的员工在那里。",
+      "start": 142.0,
+      "end": 149.0
+    },
+    {
+      "text": "They don't have enough workers.",
+      "trans": "他们没有足够的工人。",
+      "start": 149.0,
+      "end": 151.0
+    },
+    {
+      "text": "Right, they don't have enough employees.",
+      "trans": "正确：英语：Right, they don't have enough employees.",
+      "start": 151.0,
+      "end": 153.0
+    },
+    {
+      "text": "Perfect. Okay. The next one is timing is just not right.",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 153.0,
+      "end": 158.0
+    },
+    {
+      "text": "The timing is just not right.",
+      "trans": "英语：时间不对。",
+      "start": 158.0,
+      "end": 161.0
+    },
+    {
+      "text": "Okay, let's listen to how we can use this entire phrase in a different situation so then we can understand what it means.",
+      "trans": "好的，让我们来听一下这个句子在不同情境下的用法，这样我们就能更好地理解它了。",
+      "start": 161.0,
+      "end": 168.0
+    },
+    {
+      "text": "Let's listen.",
+      "trans": "让我们听。",
+      "start": 168.0,
+      "end": 170.0
+    },
+    {
+      "text": "I was going to sell my house, but the timing is just not right.",
+      "trans": "我打算卖掉房子，但时机不对。",
+      "start": 183.0,
+      "end": 186.0
+    },
+    {
+      "text": "Honey, I think we should have a baby.",
+      "trans": "英语：蜂蜜，我想我们应该生个宝宝。",
+      "start": 187.0,
+      "end": 192.0
+    },
+    {
+      "text": "The timing is just not right.",
+      "trans": "英语：时间不对。",
+      "start": 192.0,
+      "end": 194.0
+    },
+    {
+      "text": "Okay, great. I guess that makes it clear.",
+      "trans": "好的，很好。看来这确实清楚了。",
+      "start": 200.0,
+      "end": 203.0
+    },
+    {
+      "text": "Yes, actually, it's very obvious that it means that it's just not a good time.",
+      "trans": "是的，实际上，它很显然意味着那只是不合适的时机。",
+      "start": 203.0,
+      "end": 208.0
+    },
+    {
+      "text": "Right. Perfect.",
+      "trans": "正确。完美。",
+      "start": 208.0,
+      "end": 209.0
+    },
+    {
+      "text": "I have another interesting phrase for you, which is, wait off my shoulders.",
+      "trans": "英语：我有一个有趣的表达，可以让你稍等一下。",
+      "start": 209.0,
+      "end": 215.0
+    },
+    {
+      "text": "Wait off my shoulders.",
+      "trans": "等待我的吩咐。",
+      "start": 215.0,
+      "end": 217.0
+    },
+    {
+      "text": "Wait off my shoulders.",
+      "trans": "等待我的吩咐。",
+      "start": 217.0,
+      "end": 219.0
+    },
+    {
+      "text": "Wait off my shoulders.",
+      "trans": "等待我的吩咐。",
+      "start": 219.0,
+      "end": 221.0
+    },
+    {
+      "text": "So, to take weight of my shoulders is another way of saying to help me with my work or to take some of my work away from me.",
+      "trans": "所以，为了减轻我的肩膀负担，我将帮助你完成一些工作或暂时离开你的工作。",
+      "start": 221.0,
+      "end": 230.0
+    },
+    {
+      "text": "If you have a lot of things to do and I come and help you, that means that I took some of the weight off your shoulders.",
+      "trans": "如果你有很多事情要处理，而我来帮你，那意味着我已经减轻了你的负担。",
+      "start": 230.0,
+      "end": 238.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 238.0,
+      "end": 239.0
+    },
+    {
+      "text": "Let's look at the next phrase that we have here and it's give me a hand.",
+      "trans": "让我们看看我们这里接下来要翻译的这个短语，它会让我给你一个手把手的帮助。",
+      "start": 239.0,
+      "end": 243.0
+    },
+    {
+      "text": "Give me a hand.",
+      "trans": "请给我一个手。",
+      "start": 243.0,
+      "end": 245.0
+    },
+    {
+      "text": "Give me a hand.",
+      "trans": "请给我一个手。",
+      "start": 245.0,
+      "end": 247.0
+    },
+    {
+      "text": "Give me a hand.",
+      "trans": "请给我一个手。",
+      "start": 247.0,
+      "end": 249.0
+    },
+    {
+      "text": "Okay, now this is not literal. It's not that I'm going to give you somebody's hand, right?",
+      "trans": "好的，现在这个不是直接的。它不是说我要给你某人的手，对吗？",
+      "start": 249.0,
+      "end": 253.0
+    },
+    {
+      "text": "Let's listen to some examples and then we can come back and explain what it means.",
+      "trans": "让我们听听一些例子，然后我们可以回来再解释一下它意味着什么。",
+      "start": 253.0,
+      "end": 259.0
+    },
+    {
+      "text": "Can you give me a hand with these boxes?",
+      "trans": "请帮我帮忙处理这些箱子。",
+      "start": 266.0,
+      "end": 269.0
+    },
+    {
+      "text": "Neil, I'll need you to give me a hand with the sales reports.",
+      "trans": "英语：Neil，我需要你帮我处理销售报告。",
+      "start": 274.0,
+      "end": 279.0
+    },
+    {
+      "text": "Here, let me give you a hand with your suitcase.",
+      "trans": "在这里，让我给你帮忙收拾行李。",
+      "start": 284.0,
+      "end": 287.0
+    },
+    {
+      "text": "All right. Give me a hand is another way of saying help or to help out.",
+      "trans": "英语：一切好。这是帮助或协助的另一种方式。",
+      "start": 292.0,
+      "end": 298.0
+    },
+    {
+      "text": "Exactly. To help out.",
+      "trans": "正好。来帮忙一下。",
+      "start": 298.0,
+      "end": 300.0
+    },
+    {
+      "text": "Perfect.",
+      "trans": "很好。",
+      "start": 300.0,
+      "end": 301.0
+    },
+    {
+      "text": "Now, the last phrase we're going to look at here in this dialogue is keep our costs down.",
+      "trans": "现在，我们这里要讨论的最后一个对话中的一个短语是保持成本降低。",
+      "start": 301.0,
+      "end": 307.0
+    },
+    {
+      "text": "Keep our costs down.",
+      "trans": "保持我们的成本降低。",
+      "start": 307.0,
+      "end": 309.0
+    },
+    {
+      "text": "Keep our costs down.",
+      "trans": "保持我们的成本降低。",
+      "start": 309.0,
+      "end": 311.0
+    },
+    {
+      "text": "Keep our costs down.",
+      "trans": "保持我们的成本降低。",
+      "start": 311.0,
+      "end": 314.0
+    },
+    {
+      "text": "So, to keep our costs down means to try and not spend so much money.",
+      "trans": "所以，降低成本就是尽量不要花太多钱。",
+      "start": 314.0,
+      "end": 321.0
+    },
+    {
+      "text": "Exactly. Many companies, for example, now control how much printing you do.",
+      "trans": "是的。许多公司，例如，现在可以控制你打印多少。",
+      "start": 321.0,
+      "end": 327.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 327.0,
+      "end": 328.0
+    },
+    {
+      "text": "Right. To keep the costs down of paper.",
+      "trans": "正确。为了保持成本降低，我们可以采取以下措施：",
+      "start": 328.0,
+      "end": 330.0
+    },
+    {
+      "text": "In other words, they do not want to have unnecessary spending.",
+      "trans": "另外，他们不想浪费不必要的钱。",
+      "start": 330.0,
+      "end": 336.0
+    },
+    {
+      "text": "Perfect.",
+      "trans": "完美。",
+      "start": 336.0,
+      "end": 337.0
+    },
+    {
+      "text": "Okay, I think it's time for us to listen to this dialogue one more time.",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 337.0,
+      "end": 342.0
+    },
+    {
+      "text": "But I want everyone to listen and see why Tony is surprised at the end when he meets his intern, when he meets his assistant.",
+      "trans": "但是我想让每个人都明白，当托尼和他的实习生会面时，他为什么会在最后的结尾感到惊讶。",
+      "start": 342.0,
+      "end": 351.0
+    },
+    {
+      "text": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "trans": "英语：它就像我说的那样，我们连找一个助手都没有资源。",
+      "start": 357.0,
+      "end": 366.0
+    },
+    {
+      "text": "I understand that, but the fact is we're understaffed.",
+      "trans": "英语：我理解这一点，但事实是我们人手不足。",
+      "start": 366.0,
+      "end": 370.0
+    },
+    {
+      "text": "The timing is just not right. The economy's bad, and it's too risky to take on new staff.",
+      "trans": "英语：时间进度不理想。经济形势不好，风险太大，不能轻易接手新员工。",
+      "start": 370.0,
+      "end": 375.0
+    },
+    {
+      "text": "Yeah, I guess you're right.",
+      "trans": "是的，我猜你没错。",
+      "start": 375.0,
+      "end": 377.0
+    },
+    {
+      "text": "Here's an idea. What if we hire an intern? She would take some of the weight off my shoulders.",
+      "trans": "这里有一个想法。如果我们可以雇佣实习生，她会减轻我的负担。",
+      "start": 377.0,
+      "end": 382.0
+    },
+    {
+      "text": "She?",
+      "trans": "她？",
+      "start": 382.0,
+      "end": 383.0
+    },
+    {
+      "text": "Yeah, you know, a recent graduate. She could give me a hand with some of these projects, and we could keep our costs down.",
+      "trans": "嗯，你懂的。她可以帮我处理一些项目，我们也可以降低成本。",
+      "start": 383.0,
+      "end": 389.0
+    },
+    {
+      "text": "That sounds reasonable. Let me see what I can do.",
+      "trans": "英语：那听起来合理。让我看看我能做些什么。",
+      "start": 389.0,
+      "end": 393.0
+    },
+    {
+      "text": "Tony, I'd like to introduce you to your new assistant.",
+      "trans": "英语：Tony，我想介绍你新助手。",
+      "start": 399.0,
+      "end": 402.0
+    },
+    {
+      "text": "Okay, great. Let's meet her.",
+      "trans": "好的，让我们见面吧。",
+      "start": 402.0,
+      "end": 405.0
+    },
+    {
+      "text": "Hi, I'm Adam.",
+      "trans": "你好，我是阿莫。",
+      "start": 407.0,
+      "end": 408.0
+    },
+    {
+      "text": "Oh, hi. I'm Tony.",
+      "trans": "你好，Tony。我是阿里云的Qwen助手。",
+      "start": 408.0,
+      "end": 411.0
+    },
+    {
+      "text": "Well, you know, Marco, I think that Tony was really surprised because he was kind of hoping to have a female intern.",
+      "trans": "英语：嗯，你懂的，马科，我觉得托尼真的很惊讶，因为他有点希望有位女实习生。",
+      "start": 414.0,
+      "end": 424.0
+    },
+    {
+      "text": "Yeah, I think that's exactly what he was expecting.",
+      "trans": "是的，我认为那正是他所期望的。",
+      "start": 424.0,
+      "end": 427.0
+    },
+    {
+      "text": "Maybe this guy is a little bit sexist. He thought that an intern should be a girl, but instead he was a...",
+      "trans": "英语：他可能有点性别歧视。他认为应将实习生视为女性，但实际却是男性...",
+      "start": 427.0,
+      "end": 433.0
+    },
+    {
+      "text": "Instead, he got Adam.",
+      "trans": "英语：相反，他得到了阿莫德。",
+      "start": 433.0,
+      "end": 435.0
+    },
+    {
+      "text": "Exactly, and it looks like Adam is really big and really tall because he's got that deep voice.",
+      "trans": "是的，他看起来像是亚当真的很大和很高，因为他有那种深沉的声音。",
+      "start": 435.0,
+      "end": 441.0
+    },
+    {
+      "text": "Right. An intern, Marco, do you want to elaborate on that?",
+      "trans": "是的，马克。你想要对这个点和拍进行进一步的解释吗？",
+      "start": 441.0,
+      "end": 445.0
+    },
+    {
+      "text": "Working at a company with a very low salary or sometimes no salary at all, but what you're gaining is experience and you're learning a lot of things.",
+      "trans": "英语：在一家公司工作，尽管薪水很低或有时没有薪水，但你获得的不仅仅是经验，你还学到了很多东西。",
+      "start": 445.0,
+      "end": 457.0
+    },
+    {
+      "text": "Everyone who has been an intern or had an intern knows that sometimes they are not treated all that well.",
+      "trans": "每个人都听说过，有时他们并不被很好地对待。",
+      "start": 457.0,
+      "end": 467.0
+    },
+    {
+      "text": "Sometimes they just serve coffee or they have to do paperwork.",
+      "trans": "有时候他们只是用来泡咖啡或者需要做文件。",
+      "start": 467.0,
+      "end": 472.0
+    },
+    {
+      "text": "Or like photocopying things.",
+      "trans": "英语：或者像复印这些东西。",
+      "start": 472.0,
+      "end": 474.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案：完全。",
+      "start": 474.0,
+      "end": 475.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 475.0,
+      "end": 476.0
+    },
+    {
+      "text": "But some internships are really, really cool and some are really good experiences for learning.",
+      "trans": "但是，有些实习机会真的非常棒，而一些学习的机会真的很好。",
+      "start": 476.0,
+      "end": 482.0
+    },
+    {
+      "text": "Yeah, definitely. Actually, I know a friend of mine, she used to work as an intern in one of those really big companies and she told me that she has gained so much experience doing that.",
+      "trans": "是的，确实如此。实际上，我认识一个朋友，她曾经在一家非常大的公司工作过，并且告诉我她已经学到了很多经验。",
+      "start": 482.0,
+      "end": 495.0
+    },
+    {
+      "text": "Yeah, I mean, even if you don't get paid, the experience that you get is really good.",
+      "trans": "是的，我指的是，即使你没有得到报酬，你的体验也是非常好的。",
+      "start": 495.0,
+      "end": 501.0
+    },
+    {
+      "text": "And that just opens doors for maybe getting another job.",
+      "trans": "而且，这为可能再找一份新工作打开了大门。",
+      "start": 501.0,
+      "end": 505.0
+    },
+    {
+      "text": "Or sometimes the interns get hired by the company to stay because they do such a good job.",
+      "trans": "英语：或者有时这些实习生被公司雇用，因为他们在做得这么好。",
+      "start": 505.0,
+      "end": 510.0
+    },
+    {
+      "text": "Yeah, I think that's mostly the case, huh?",
+      "trans": "是的，我觉得那差不多了。",
+      "start": 510.0,
+      "end": 513.0
+    },
+    {
+      "text": "Yeah, that happened to me once. I started working as an intern and after three months, I was hired by the company.",
+      "trans": "是的，那件事发生在很久以前。我曾经在公司实习，三个月后被雇佣了。",
+      "start": 513.0,
+      "end": 520.0
+    },
+    {
+      "text": "So it does happen.",
+      "trans": "所以它确实发生过。",
+      "start": 520.0,
+      "end": 521.0
+    },
+    {
+      "text": "Believe it or good job.",
+      "trans": "英语：相信它或做得好。",
+      "start": 521.0,
+      "end": 523.0
+    },
+    {
+      "text": "Yeah, of course.",
+      "trans": "是的，当然。",
+      "start": 523.0,
+      "end": 525.0
+    },
+    {
+      "text": "All right, folks, we're out of time today.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 525.0,
+      "end": 528.0
+    },
+    {
+      "text": "I hope that you enjoyed our lesson and we'll be back tomorrow with another really cool and really interesting lesson from EnglishPod.",
+      "trans": "英语：我希望你今天能享受我们的课程，并且明天我们将从英语课上学得非常有趣。",
+      "start": 528.0,
+      "end": 536.0
+    },
+    {
+      "text": "Don't forget to come to our website at englischpod.com where you'll find some really great and interesting resources to help you learn and improve your English even more.",
+      "trans": "英语：不要忘了来我们的网站 [englischpod.com]，在那里你可以找到一些非常有趣和有用的资源来帮助你学习和提高你的英语水平。",
+      "start": 536.0,
+      "end": 547.0
+    },
+    {
+      "text": "Yes, you should definitely do that.",
+      "trans": "是的，你一定要做那件事。",
+      "start": 547.0,
+      "end": 549.0
+    },
+    {
+      "text": "And Mark and I would love to receive your comments and suggestions that you can leave on our community forum.",
+      "trans": "和马克，我愿意接受您在社区论坛上留下您的评论和建议。",
+      "start": 549.0,
+      "end": 558.0
+    },
+    {
+      "text": "But for now, it's time for us to say bye.",
+      "trans": "但是现在，我们该说再见了。",
+      "start": 558.0,
+      "end": 562.0
+    }
+  ]
+}

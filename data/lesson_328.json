@@ -1,0 +1,630 @@
+{
+  "title": "englishpod_0328pb",
+  "audio": "./assets/englishpod_0328pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "大家好，欢迎来到英语播客。我的名字是马科。",
+      "start": 0.0,
+      "end": 4.88
+    },
+    {
+      "text": "My name is Catherine and we've got another lesson in our series about small talk today.",
+      "trans": "我的名字是凯特，今天我们在我们的系列小谈中又多了一个课程。",
+      "start": 4.88,
+      "end": 10.4
+    },
+    {
+      "text": "That's right today we are at the office again and we're going to be talking very briefly",
+      "trans": "今天，我们再次回到办公室，准备进行简短的交谈。",
+      "start": 10.4,
+      "end": 15.18
+    },
+    {
+      "text": "about something a business meeting that we're going to have soon.",
+      "trans": "关于即将举行的商务会议。",
+      "start": 15.18,
+      "end": 20.0
+    },
+    {
+      "text": "That's right so let's check out our dialogue. We'll be back in a moment.",
+      "trans": "没错，让我们看看对话吧。稍后再见。",
+      "start": 20.0,
+      "end": 23.48
+    },
+    {
+      "text": "I'm Michelle. Hi. I was hoping to see you. How have you been? How's the family?",
+      "trans": "我是米歇尔。你好。我希望能见到你。你过得怎么样？家庭怎么样？",
+      "start": 23.48,
+      "end": 34.52
+    },
+    {
+      "text": "Oh hello Mr. Campbell. I'm fine and Jack's doing well. How are you?",
+      "trans": "你好，陈先生。我很好，杰克也做得好。你怎么样？",
+      "start": 34.52,
+      "end": 39.32
+    },
+    {
+      "text": "I'm fine thanks. I got you report this morning. Thanks for that. Are you joining the conference today?",
+      "trans": "我很好，今天早上你给我报告了。谢谢。你今天要参加会议吗？",
+      "start": 39.32,
+      "end": 45.16
+    },
+    {
+      "text": "Yes I'm leaving at 4 p.m. Good. Well we can discuss this more then.",
+      "trans": "是的，我将于下午四点离开。好的。我们可以继续讨论这个问题了。",
+      "start": 45.16,
+      "end": 49.56
+    },
+    {
+      "text": "But I think the figures are looking very good for this quarter.",
+      "trans": "但是我认为这个季度的数字看起来很好。",
+      "start": 49.56,
+      "end": 52.28
+    },
+    {
+      "text": "Yes me too. I'm planning to discuss the advertising budget at the conference.",
+      "trans": "是的，我也想讨论广告预算。计划在会议上讨论。",
+      "start": 52.28,
+      "end": 56.36
+    },
+    {
+      "text": "I don't think we should continue with the TV advertising.",
+      "trans": "我不认为我们应该继续电视广告。",
+      "start": 56.36,
+      "end": 58.84
+    },
+    {
+      "text": "No, me neither. It's far too expensive.",
+      "trans": "是的，我没有。太贵了。",
+      "start": 58.84,
+      "end": 62.2
+    },
+    {
+      "text": "Well let's discuss this more at the conference. Maybe we can share a taxi there?",
+      "trans": "好的，我们可以讨论这个问题在会议上。或许我们可以共享一辆出租车呢？",
+      "start": 62.2,
+      "end": 65.96000000000001
+    },
+    {
+      "text": "Yes, sure.",
+      "trans": "是的，当然。",
+      "start": 65.96000000000001,
+      "end": 67.72
+    },
+    {
+      "text": "All right we're back so now let's take a look at some vocab on language takeaway.",
+      "trans": "好的，我们已经回来。现在让我们看看一些语言学习词汇吧。",
+      "start": 70.6,
+      "end": 74.28
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 77.08,
+      "end": 78.28
+    },
+    {
+      "text": "Today in language takeaway we have a number of phrases and words about business.",
+      "trans": "今天在语言小贴士中，我们有关于商业的几个短语和词汇。",
+      "start": 78.44,
+      "end": 85.16
+    },
+    {
+      "text": "The first thing we have is are you joining the conference today?",
+      "trans": "首先，我们有是您今天参加会议吗？",
+      "start": 85.16,
+      "end": 88.84
+    },
+    {
+      "text": "That's right so we're going to go to a conference actually which is a little bit different",
+      "trans": "正确，我们决定去一个会议，这个会议与我们的计划有些不同。",
+      "start": 88.84,
+      "end": 92.84
+    },
+    {
+      "text": "than a meeting. That's right a meeting is something you normally do with people at your own company.",
+      "trans": "比会议好。这就是你通常与自己公司的人进行的会议。",
+      "start": 92.84,
+      "end": 98.6
+    },
+    {
+      "text": "But a conference is when people from many different companies meet.",
+      "trans": "但是，一个会议是当来自许多不同公司的人聚在一起。",
+      "start": 98.6,
+      "end": 101.96000000000001
+    },
+    {
+      "text": "That's right. And also I think you don't really have too much input at a conference.",
+      "trans": "正确的是。我也认为你并不需要太多输入在会议上。",
+      "start": 101.96000000000001,
+      "end": 107.24000000000001
+    },
+    {
+      "text": "You mostly listen to other people speak about a topic or a subject.",
+      "trans": "您大部分听别人谈论一个话题或主题。",
+      "start": 107.24,
+      "end": 112.28
+    },
+    {
+      "text": "That's right and I think these are normally held in conference centers or hotels.",
+      "trans": "没错，我认为这些通常是在会议中心或酒店里举行的。",
+      "start": 112.28,
+      "end": 117.0
+    },
+    {
+      "text": "You have a nice lunch so they're pretty big deals.",
+      "trans": "你有丰盛的午餐，所以他们算是大生意。",
+      "start": 117.72,
+      "end": 120.83999999999999
+    },
+    {
+      "text": "That's right. All right so it's more of a formal business conference that we're going to.",
+      "trans": "是的。一切就绪，所以我们将举行一场正式的企业会议。",
+      "start": 120.83999999999999,
+      "end": 125.72
+    },
+    {
+      "text": "And well they're actually going to discuss different aspects of the company as well.",
+      "trans": "并且他们实际上也会就公司不同的方面进行讨论。",
+      "start": 125.72,
+      "end": 130.92
+    },
+    {
+      "text": "Especially the figures.",
+      "trans": "特别的数字。",
+      "start": 130.92,
+      "end": 132.84
+    },
+    {
+      "text": "All right so in the context of business the word figure actually means number.",
+      "trans": "好的，那么在商业环境中，“数字”通常指的是数值。",
+      "start": 132.92000000000002,
+      "end": 137.8
+    },
+    {
+      "text": "Okay so we can say the sales numbers for this year are a kind of figure.",
+      "trans": "好的，那么今年的销售数据可以被视为一种指标。",
+      "start": 138.52,
+      "end": 145.08
+    },
+    {
+      "text": "That's right so we're talking about money basically when we're talking about numbers.",
+      "trans": "嗯，基本就是说，当我们谈论数字的时候，钱是最重要的。",
+      "start": 146.04,
+      "end": 150.44
+    },
+    {
+      "text": "That's right so when the figures look good it means that our income, our revenue this looks good.",
+      "trans": "没错，当这些数字看起来不错时，我们的收入和利润就显得很好。",
+      "start": 150.44,
+      "end": 155.8
+    },
+    {
+      "text": "That's right and when we usually talk about income or revenue we usually have to separate it",
+      "trans": "没错，当我们通常谈论收入或利润时，我们往往需要分离它们。",
+      "start": 155.8,
+      "end": 161.24
+    },
+    {
+      "text": "into time and here in the dialogue we're talking about a quarter.",
+      "trans": "在时间里，我们正在讨论一个季度。",
+      "start": 161.24,
+      "end": 166.36
+    },
+    {
+      "text": "All right so quarter QU quarter is a period of time very common in business that is a quarter",
+      "trans": "好的，那么“所有好，季度Q是企业中非常常见的时间段，它是一个季度”这句话翻译成中文是：",
+      "start": 166.36,
+      "end": 175.4
+    },
+    {
+      "text": "of the year. So three months. Three months that's right.",
+      "trans": "一年中的。所以是三个月。三个月就是正确的。",
+      "start": 175.4,
+      "end": 178.92000000000002
+    },
+    {
+      "text": "January February March, April, May, June and so on.",
+      "trans": "一月二月三月，四月，五月，六月和其它月份。",
+      "start": 178.92000000000002,
+      "end": 182.20000000000002
+    },
+    {
+      "text": "That's right so you have four quarters and that's actually what that's why you call it a quarter",
+      "trans": "正确，您有四个季度，这正是为什么称它为一个季度的原因。",
+      "start": 182.20000000000002,
+      "end": 187.48000000000002
+    },
+    {
+      "text": "because it's one fourth. So we can say the figures for the first quarter were very good but",
+      "trans": "因为是四分之一。所以我们可以说第一财季的数字表现很好，但",
+      "start": 187.56,
+      "end": 193.64
+    },
+    {
+      "text": "unfortunately the figures for the second quarter were very bad. That's right and actually another",
+      "trans": "不幸的是，第二季度的数字非常糟糕。这是真的，实际上还有另一个问题。",
+      "start": 193.64,
+      "end": 199.23999999999998
+    },
+    {
+      "text": "similar way that you use quarter is the 25 cent coin. It's called a quarter because it's a quarter",
+      "trans": "相似地，你使用一角硬币的方式是用二十五分硬币。它被称为一角硬币，因为它是半角硬币。",
+      "start": 199.23999999999998,
+      "end": 205.95999999999998
+    },
+    {
+      "text": "of a dollar. That's right and if you're in America you know that it has an eagle a bird on one side",
+      "trans": "一美元。没错，如果你在美国，你知道它有一只鹰在一边。",
+      "start": 205.95999999999998,
+      "end": 210.92
+    },
+    {
+      "text": "of it. That's right. All right so we are taking a look at the figures for the quarter",
+      "trans": "好的，以下是您要求的中文翻译：",
+      "start": 210.92,
+      "end": 216.76
+    },
+    {
+      "text": "and they're saying well it's not looking too good because we need to talk about the advertising",
+      "trans": "而且他们说不好，因为我们需要讨论广告。",
+      "start": 216.76,
+      "end": 222.67999999999998
+    },
+    {
+      "text": "budget. All right so this is something that you you think is very important it's budget it's how",
+      "trans": "预算。好的，这是你认为非常重要的事情。它指的是什么？预算是指政府或组织为实现其目标而制定的财务计划和控制措施。预算通常包括收入、支出、投资和其他相关项目。预算可以帮助组织更好地管理资金，并确保它们能够支持其目标。预算可以是长期的，也可以是短期的，具体取决于组织的需求和目标。预算的编制需要考虑各种因素，如成本效益分析、风险管理等。预算的制定和执行需要有明确的目标和计划，以确保预算的有效性和透明度。预算的审查和调整也需要根据实际情况进行，以便更好地适应变化。总之，预算是管理资金的重要工具，可以帮助组织更有效地实现其目标。",
+      "start": 222.67999999999998,
+      "end": 229.32
+    },
+    {
+      "text": "much money you have to spend on something and in this case you're spending it on advertising.",
+      "trans": "你花的钱很多，但在这个情况下，你是在花钱广告。",
+      "start": 229.32,
+      "end": 234.92
+    },
+    {
+      "text": "So this is ads that you make. That's right. So as you said a budget is the amount of money that",
+      "trans": "所以这是广告，你做的。没错。因此，你所说的预算就是：",
+      "start": 234.92,
+      "end": 241.56
+    },
+    {
+      "text": "you have available to spend on something and in this occasion we're talking about advertising.",
+      "trans": "您有在这一点可以花费的资源，而且在这个场合我们正在谈论广告。",
+      "start": 241.56,
+      "end": 247.24
+    },
+    {
+      "text": "Now you can have a budget for different things right. You could have a marketing budget.",
+      "trans": "现在你可以为不同的事情设定预算。你也可以有营销预算。",
+      "start": 247.24,
+      "end": 251.72
+    },
+    {
+      "text": "Uh-huh so the money you have for marketing. You could have a personnel budget which is the money",
+      "trans": "嗯，您有为营销准备的钱。 也许您可以有一个人员预算，这个预算是用于招聘和培训的款项。",
+      "start": 251.72,
+      "end": 256.2
+    },
+    {
+      "text": "you would set aside for people. So how much you pay your employees. Right so you can pretty much mix",
+      "trans": "您会为员工保留一部分。那么，您给员工多少钱？当然，您可以几乎混合。",
+      "start": 256.2,
+      "end": 262.12
+    },
+    {
+      "text": "up many different nouns with budget even you can have a budget for your home. How much you spend",
+      "trans": "在许多不同的名词上使用预算，你甚至可以拥有自己的住房。你花多少钱",
+      "start": 262.12,
+      "end": 267.4
+    },
+    {
+      "text": "at home. That's right so many people have this for their families they say this month I will spend",
+      "trans": "在家。没错，这么多人都有这种习惯，他们说这个月我将花时间",
+      "start": 267.47999999999996,
+      "end": 271.96
+    },
+    {
+      "text": "$100 on shopping and $200 on shoes. Uh-huh. Yeah so it's like a family budget you would call it.",
+      "trans": "在购物上花费 100 元，而在鞋子上花费 200 元。嗯，对了，这就像一个家庭预算，你也可以称之为家庭预算。",
+      "start": 271.96,
+      "end": 279.56
+    },
+    {
+      "text": "That's right. Okay so that's all the words we have for you on language takeaway let's review",
+      "trans": "正确。那么，这就是我们为您准备的语言小贴士，让我们来回顾一下。",
+      "start": 279.56,
+      "end": 285.71999999999997
+    },
+    {
+      "text": "everything quickly and we'll be back in a bit with Fluency Builder.",
+      "trans": "一切迅速，我们将很快回来，使用 Fluent Builder。",
+      "start": 285.71999999999997,
+      "end": 291.71999999999997
+    },
+    {
+      "text": "Ah Michelle hi I was hoping to see you how have you been how's the family. Oh hello Mr. Campbell",
+      "trans": "你好，梅尔索！我希望能见到你。你最近过得怎么样？家庭情况如何。嗨，卡彭森先生。",
+      "start": 292.36,
+      "end": 302.12
+    },
+    {
+      "text": "I'm fine and Jack's doing well how are you. I'm fine thanks I got you report this morning",
+      "trans": "我是好的，杰克的情况怎么样？我很好，谢谢你，早上你给我报告了。",
+      "start": 302.12,
+      "end": 308.28000000000003
+    },
+    {
+      "text": "thanks for that are you joining the conference today. Yes I'm leaving at 4 p.m. Good well we can",
+      "trans": "谢谢，您今天会参加今天的会议。是的，我将在下午四点离开。好，我们可以继续讨论了。",
+      "start": 308.28000000000003,
+      "end": 313.56
+    },
+    {
+      "text": "discuss this more then but I think the figures are looking very good for this quarter. Yes me too.",
+      "trans": "更详细地讨论过，但我认为这个季度的数字看起来很好。是的，我也一样。",
+      "start": 313.56,
+      "end": 319.08000000000004
+    },
+    {
+      "text": "I'm planning to discuss the advertising budget at the conference I don't think we should",
+      "trans": "我计划在会议上讨论广告预算，我认为不应该。",
+      "start": 319.08,
+      "end": 322.68
+    },
+    {
+      "text": "continue with the TV advertising. No mean either it's far too expensive. Well let's discuss this",
+      "trans": "继续电视广告。这并不算太贵。好吧，我们再谈谈这个。",
+      "start": 322.68,
+      "end": 329.0
+    },
+    {
+      "text": "more at the conference maybe we can share a taxi there. Yes sir. All right in today's Fluency",
+      "trans": "更早参加会议，或许我们可以共享一辆出租车。是的，先生。今天早上 fluency 里",
+      "start": 329.0,
+      "end": 337.47999999999996
+    },
+    {
+      "text": "Builder we have a number of phrases you could use in a small talk situation the first one's a question",
+      "trans": "我们有句话，你可以在小聊场合使用：第一个是问句。",
+      "start": 337.47999999999996,
+      "end": 342.52
+    },
+    {
+      "text": "how's the family. How's the family. Now it's how apostrophe S the family right so how is the family",
+      "trans": "如何家庭？如何家庭？现在是用点号S表示家庭，所以家庭怎么样？",
+      "start": 343.24,
+      "end": 352.03999999999996
+    },
+    {
+      "text": "would be the extended way of saying it. That's right but this is a short way to say it it's very",
+      "trans": "这是正确的，但这种方法比直接说它要短。",
+      "start": 352.03999999999996,
+      "end": 356.52
+    },
+    {
+      "text": "common and do you normally say this with people who are a little bit older people who have kids.",
+      "trans": "常见的，您平时通常会这样对年纪稍大的老年人说吗？",
+      "start": 356.52,
+      "end": 360.76
+    },
+    {
+      "text": "So I haven't seen you in a long time Marco and I know you have some kids and I can say how's",
+      "trans": "所以我很久没有见过你，马科斯，我知道你有孩子，我可以告诉你怎么样。",
+      "start": 361.4,
+      "end": 366.03999999999996
+    },
+    {
+      "text": "the family. How's the family that's right and it's actually it may seem strange the way that",
+      "trans": "家庭。 你好，这个家庭是不是真的？可能看起来有点奇怪，但其实……",
+      "start": 366.03999999999996,
+      "end": 371.64
+    },
+    {
+      "text": "the sentence is made but it's very very much similar to how are you you have how to be and you",
+      "trans": "这句话是被翻译成中文的，但它的非常相似之处在于：",
+      "start": 371.64,
+      "end": 378.59999999999997
+    },
+    {
+      "text": "in the subject. That's right and this is a very polite way to to say hi how are you how is your",
+      "trans": "在主体。正确，这是说你好，你好吗，你怎么样？",
+      "start": 378.59999999999997,
+      "end": 383.88
+    },
+    {
+      "text": "family. How is the wife. How's the wife. How's the wife and she said well you know what everything",
+      "trans": "家庭。 妻子怎么样？ 妻子怎么样？ 妻子和她说好，你知道一切",
+      "start": 383.88,
+      "end": 389.88
+    },
+    {
+      "text": "is great I'm fine and Jack's I guess that's her husband is doing well. Jack is doing well so doing",
+      "trans": "是的，我很好，而且杰克看起来挺好的。杰克看起来挺好的，所以她正在做得很不错。",
+      "start": 389.88,
+      "end": 398.03999999999996
+    },
+    {
+      "text": "well thanks this means good okay but you know when we say when we say the answer to this question how",
+      "trans": "好的，这是正确的翻译：",
+      "start": 398.04,
+      "end": 403.64000000000004
+    },
+    {
+      "text": "are you I'm well that's that's the correct answer I'm good is not correct. Right so if somebody says",
+      "trans": "是吗？我很好，这是正确的答案。我是不好的，不是。正确的话，如果有人说：",
+      "start": 403.64000000000004,
+      "end": 411.72
+    },
+    {
+      "text": "how are you you can say I'm well or you can say I'm doing well that's a positive answer things are",
+      "trans": "你好，你可以说我很好，或者你可以说我在好。这是一个积极的回答，意味着事情是好的。",
+      "start": 411.72,
+      "end": 417.88
+    },
+    {
+      "text": "going well you can say not so well that's not not not not good things are happening very good and",
+      "trans": "你做得很好，所以可以说不怎么样。",
+      "start": 417.88,
+      "end": 424.44
+    },
+    {
+      "text": "it's very important to point out the difference as Catherine said you don't you don't you shouldn't",
+      "trans": "非常有必要指出，因为您说的与您不一致。您不应该、不应、也不应",
+      "start": 424.44,
+      "end": 429.24
+    },
+    {
+      "text": "use good I'm doing good or I'm good yeah now it's incorrect because good is an adjective and we're",
+      "trans": "使用好，我很好，或者我很好，是的，现在它不正确，因为好是一个形容词，我们说的是。",
+      "start": 429.8,
+      "end": 436.76
+    },
+    {
+      "text": "we're looking for an adverb here that's right well that's right all right and to finish things off",
+      "trans": "我们在这里寻找一个合适的副词，这个副词应该恰到好处，这样就能完美地完成任务。",
+      "start": 436.76,
+      "end": 443.64
+    },
+    {
+      "text": "Mr. Campbell and Michelle we're headed headed the same way so they decided to share a taxi that's",
+      "trans": "李剑峰和梅丽莎我们是同一条路，所以他们决定坐出租车。",
+      "start": 443.64,
+      "end": 451.96
+    },
+    {
+      "text": "right so to share a taxi means two people or three people will pay for one taxi together so maybe",
+      "trans": "正确答案：共享一辆出租车，意味着两个人或三个人会共同支付一车的费用。",
+      "start": 451.96,
+      "end": 460.2
+    },
+    {
+      "text": "Marco I see you on the street and I know that you have to go to a conference I'm going to the same",
+      "trans": "英语：Marco，我看到你了，我知道你需要去参加一个会议。",
+      "start": 460.2,
+      "end": 464.52
+    },
+    {
+      "text": "conference let's share a taxi it will cost less that's right so you will share the cost between",
+      "trans": "会议，让我们共享一辆出租车。它将比这便宜得多，对吧？所以，你们之间应该共享费用了。",
+      "start": 464.52,
+      "end": 472.2
+    },
+    {
+      "text": "all the people in the cab now there's another way of saying it as well more common I think in the",
+      "trans": "英语：所有在车里的人都现在有另一种说法，我认为更常见于出租车上。",
+      "start": 472.2,
+      "end": 477.08
+    },
+    {
+      "text": "in the United States that's right we say split a taxi let's split a cab this split a cab now",
+      "trans": "英语：在加利福尼亚，这就是正确的。我们说分车，现在分车了。",
+      "start": 477.08,
+      "end": 484.12
+    },
+    {
+      "text": "remember that it's a taxi cab so sometimes people just don't say taxi they say a cab let's split a",
+      "trans": "英语：记住，它有时候只是说出租车，而不是真正的出租车。",
+      "start": 484.12,
+      "end": 489.88
+    },
+    {
+      "text": "cab let's share a cab that's right cab taxi both are okay all right very good good stuff let's",
+      "trans": "让我们一起坐出租车，左边的车是右边的出租车，都行，很好，好东西，让我们继续。",
+      "start": 489.88,
+      "end": 496.59999999999997
+    },
+    {
+      "text": "listen to everything one last time",
+      "trans": "听一遍所有的话。",
+      "start": 496.6,
+      "end": 498.6
+    },
+    {
+      "text": "oh Michelle hi I was hoping to see you how have you been how's the family oh hello Mr. Campbell",
+      "trans": "英语：哦，梅丽莎，你好啊，我听说你过得怎么样？家庭怎么样？哦，多谢多谢，麦克波恩先生。",
+      "start": 505.24,
+      "end": 512.12
+    },
+    {
+      "text": "I'm fine and Jack's doing well how are you I'm fine thanks I got you report this morning",
+      "trans": "英语：我很好，杰克的进展如何？我是很好，谢谢！我在早上收到了你的报告。",
+      "start": 512.12,
+      "end": 518.28
+    },
+    {
+      "text": "thanks for that are you joining the conference today yes I'm leaving at 4 p.m good well we can",
+      "trans": "谢谢你的帮助，我们今天要参加会议。你明天早上四点离开，好，我们可以。",
+      "start": 518.28,
+      "end": 523.64
+    },
+    {
+      "text": "discuss this more than but I think the figures are looking very good for this quarter yes me too",
+      "trans": "英语：讨论这个比但我觉得这些数据看起来很好，你同意吗？",
+      "start": 523.64,
+      "end": 529.16
+    },
+    {
+      "text": "I'm planning to discuss the advertising budget at the conference I don't think we should continue",
+      "trans": "我计划在会议上讨论广告预算，我认为不应该继续。",
+      "start": 529.16,
+      "end": 533.16
+    },
+    {
+      "text": "with the TV advertising no me neither it's far too expensive well let's discuss this more at the",
+      "trans": "对于电视广告，我们没有关系，它太贵了。让我们讨论一下这个问题。",
+      "start": 533.16,
+      "end": 539.48
+    },
+    {
+      "text": "conference maybe we can share a taxi there yes sir all right so we're getting towards the end of",
+      "trans": "会议，或许我们可以共享一辆出租车。是的，先生，我们已经接近尾声了。",
+      "start": 539.48,
+      "end": 548.84
+    },
+    {
+      "text": "our small talk series as you can see we are taking a look at different quick but very useful",
+      "trans": "我们的小聊系列，你可以看到我们正在看不同的快速但非常实用的。",
+      "start": 549.4,
+      "end": 556.6800000000001
+    },
+    {
+      "text": "dialogues that you can have with someone a small conversation whether about business family whatever",
+      "trans": "对话中，你可以与某人进行小范围的交流，无论关于商业、家庭还是其他话题。",
+      "start": 556.6800000000001,
+      "end": 562.76
+    },
+    {
+      "text": "that's right and in today's dialogue we heard two people who probably know each other talking so",
+      "trans": "没错，今天对话中我们听到的两位朋友很可能彼此认识。",
+      "start": 562.76,
+      "end": 568.44
+    },
+    {
+      "text": "sometimes you're with people who are strangers you don't know what to say to them you can listen",
+      "trans": "有时候你和不认识的人说话，不知道说什么好，你可以听。",
+      "start": 568.44,
+      "end": 572.36
+    },
+    {
+      "text": "to our other episodes on small talk for things to talk about with those people that's right and of",
+      "trans": "英语：与那些喜欢讨论的人谈论吧。",
+      "start": 572.36,
+      "end": 577.5600000000001
+    },
+    {
+      "text": "course if you have any questions or comments you can visit us at englishpod.com we hope to see you",
+      "trans": "英语：如果你有任何问题或评论，请访问我们的网站，我们期待与您见面。",
+      "start": 577.56,
+      "end": 582.1999999999999
+    },
+    {
+      "text": "all there until next time bye bye",
+      "trans": "全部到为止，下次再见，拜拜。",
+      "start": 582.1999999999999,
+      "end": 585.88
+    }
+  ]
+}

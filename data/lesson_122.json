@@ -1,0 +1,1674 @@
+{
+  "title": "englishpod_B0122pb",
+  "audio": "./assets/englishpod_B0122pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to English pod, my name is Marco.",
+      "trans": "你好英语学习者，欢迎再次回到英语课程，我的名字是马科。",
+      "start": 0.0,
+      "end": 4.0
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 4.0,
+      "end": 5.36
+    },
+    {
+      "text": "And today we have an elementary lesson for you and we are at the supermarket.",
+      "trans": "今天我们有今天的初级课程，你在这里。",
+      "start": 5.36,
+      "end": 10.4
+    },
+    {
+      "text": "That's right, we're at the grocery store and we're going to learn some language you can use",
+      "trans": "英语：那对，我们正在超市里，准备用你能用的语言学习一些语言。",
+      "start": 10.4,
+      "end": 16.16
+    },
+    {
+      "text": "when you want to pay for your groceries. So this lesson was requested by one of our users that",
+      "trans": "当您想要为您的购物而付费。因此，这个课程是由我们的用户提出的。",
+      "start": 16.16,
+      "end": 21.92
+    },
+    {
+      "text": "wanted vocabulary and different phrases that are used in the supermarket when the person is about",
+      "trans": "想要的词汇和不同的短语，当这个人接近超市时使用。",
+      "start": 21.92,
+      "end": 28.8
+    },
+    {
+      "text": "to pay for all the things they need.",
+      "trans": "为了准确地将这些术语翻译成简化中文，我需要了解每个术语的含义和用法。由于您没有提供具体的术语列表，我将尝试根据常见的术语关系来进行翻译，并尽量保持简洁明了。",
+      "start": 28.8,
+      "end": 31.52
+    },
+    {
+      "text": "That's right and we also have some great language that the person who is actually",
+      "trans": "没错，我们还有些很棒的语言，这个人在实际操作中使用这些语言。",
+      "start": 31.52,
+      "end": 36.24
+    },
+    {
+      "text": "selling the groceries can use.",
+      "trans": "销售蔬菜可以使用。",
+      "start": 37.2,
+      "end": 39.760000000000005
+    },
+    {
+      "text": "Alright so let's listen to a dialogue for the first time and see what happens.",
+      "trans": "好的，那么我们先听一次对话，看看会发生什么。",
+      "start": 40.32,
+      "end": 45.2
+    },
+    {
+      "text": "Excuse me sir, this is the express checkout name for people who have 15 items or fewer.",
+      "trans": "对不起，先生，这是为购买数量少于15件的顾客设计的快速 Checkout 名字。",
+      "start": 52.400000000000006,
+      "end": 58.0
+    },
+    {
+      "text": "It looks like you have more than 15 items there.",
+      "trans": "看起来你那里有超过15件商品。",
+      "start": 58.8,
+      "end": 61.279999999999994
+    },
+    {
+      "text": "Oh come on, I have 16 items. Cut me some slack, will you?",
+      "trans": "英语：哦，来吧，我有16件物品。你愿意放我一马吗？",
+      "start": 61.279999999999994,
+      "end": 65.12
+    },
+    {
+      "text": "Fine, please place your items on the belt and push your shopping cart through.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 65.67999999999999,
+      "end": 69.36
+    },
+    {
+      "text": "Do you prefer paper or plastic?",
+      "trans": "英语：你更喜欢纸还是塑料？",
+      "start": 78.08,
+      "end": 80.56
+    },
+    {
+      "text": "Plastic. I also have a couple of coupons.",
+      "trans": "塑料。我还有一张优惠券。",
+      "start": 80.56,
+      "end": 82.88
+    },
+    {
+      "text": "No problem, I'll take those.",
+      "trans": "英语：没问题，我会处理这些。",
+      "start": 83.75999999999999,
+      "end": 84.96
+    },
+    {
+      "text": "Sir, these coupons expired yesterday.",
+      "trans": "英语：先生，这些优惠券昨天就失效了。",
+      "start": 89.75999999999999,
+      "end": 93.36
+    },
+    {
+      "text": "Darn, oh well, I guess it's just not my day.",
+      "trans": "英语：糟糕，好吧，看来这事儿不是我的日子。",
+      "start": 93.36,
+      "end": 97.12
+    },
+    {
+      "text": "Thanks anyway.",
+      "trans": "谢谢。",
+      "start": 97.12,
+      "end": 97.92
+    },
+    {
+      "text": "Do you have a club card or will it be cash?",
+      "trans": "英语：你有俱乐部卡吗？或将会有现金？",
+      "start": 97.92,
+      "end": 100.39999999999999
+    },
+    {
+      "text": "Yeah, I got a club card.",
+      "trans": "是的，我得到了一张俱乐部卡。",
+      "start": 100.88,
+      "end": 102.08
+    },
+    {
+      "text": "Here you go.",
+      "trans": "在这里。",
+      "start": 102.08,
+      "end": 102.96
+    },
+    {
+      "text": "Will this be debit or credit?",
+      "trans": "英语：Will this be debit or credit?",
+      "start": 102.96,
+      "end": 104.96
+    },
+    {
+      "text": "Debit please.",
+      "trans": "谢谢！如果您有其他需要翻译的，请随时告诉我。",
+      "start": 104.96,
+      "end": 106.24
+    },
+    {
+      "text": "Also, could I get cash back?",
+      "trans": "英语：也，我可以获得现金返现吗？",
+      "start": 106.24,
+      "end": 108.4
+    },
+    {
+      "text": "$50 would be great.",
+      "trans": "$50 会很贵。",
+      "start": 108.4,
+      "end": 109.75999999999999
+    },
+    {
+      "text": "Yeah sure.",
+      "trans": "嗯，很好。",
+      "start": 109.75999999999999,
+      "end": 110.4
+    },
+    {
+      "text": "Your total is $78 and 33 cents.",
+      "trans": "你的总金额是78元33分。",
+      "start": 113.03999999999999,
+      "end": 115.84
+    },
+    {
+      "text": "Here's your seat, have a nice day.",
+      "trans": "在这里，给你一个座位，祝你今天过得愉快。",
+      "start": 115.84,
+      "end": 117.36
+    },
+    {
+      "text": "That works too.",
+      "trans": "这也行。",
+      "start": 119.52,
+      "end": 120.72
+    },
+    {
+      "text": "Well, we can see in this dialogue that the guy was able to buy his food and",
+      "trans": "嗯，我们看到他在对话中表现出了能力。",
+      "start": 124.47999999999999,
+      "end": 129.35999999999999
+    },
+    {
+      "text": "you know, they were using some really interesting, helpful language.",
+      "trans": "英语：你知道，他们正在使用一些非常有趣、有用的语言。",
+      "start": 129.35999999999999,
+      "end": 133.2
+    },
+    {
+      "text": "That's right and so why don't we look at this language now in language takeaway?",
+      "trans": "英语：那对了，那么我们现在就来了解一下这个语言吧。",
+      "start": 133.2,
+      "end": 138.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言总结。",
+      "start": 140.0,
+      "end": 141.2
+    },
+    {
+      "text": "Okay, we have six words for you today and the first one,",
+      "trans": "好的，今天你有六个词，请记住它们。",
+      "start": 142.24,
+      "end": 147.04
+    },
+    {
+      "text": "the girl, the cashier says, this is the express checkout lane.",
+      "trans": "英语：这个女孩，收银员说，这是快速结账车道。",
+      "start": 147.04,
+      "end": 153.35999999999999
+    },
+    {
+      "text": "All right, so checkout lane.",
+      "trans": "英语：一切好，所以下车。",
+      "start": 153.35999999999999,
+      "end": 155.35999999999999
+    },
+    {
+      "text": "The checkout lane.",
+      "trans": "英文：The checkout lane.",
+      "start": 155.35999999999999,
+      "end": 157.04
+    },
+    {
+      "text": "So the checkout lane is the place where you get in line to pay for all the goods you bought.",
+      "trans": "所以收银台就是你买完所有商品后排队付款的地方。",
+      "start": 157.04,
+      "end": 163.35999999999999
+    },
+    {
+      "text": "Right, so the checkout lane, no, why did she say express checkout lane?",
+      "trans": "英语：对，所以收银台，不，她为什么说Express Checkout Lane？",
+      "start": 163.35999999999999,
+      "end": 168.79999999999998
+    },
+    {
+      "text": "So in grocery stores or in supermarkets, sometimes you have a specific checkout lane that's",
+      "trans": "所以，在超市或杂货店，有时你可能有一个特定的结账通道。",
+      "start": 168.79999999999998,
+      "end": 175.12
+    },
+    {
+      "text": "faster. Okay, because people have less things.",
+      "trans": "更快。因为人们有更少的事情了。",
+      "start": 175.12,
+      "end": 178.16
+    },
+    {
+      "text": "So express is the faster checkout lane.",
+      "trans": "所以，快速的出库通道是更快的结账车道。",
+      "start": 178.16,
+      "end": 180.8
+    },
+    {
+      "text": "Right, the faster one.",
+      "trans": "正确答案：英语：Right，the faster one.",
+      "start": 180.8,
+      "end": 182.0
+    },
+    {
+      "text": "All right, so next she tells the guy to put your items on the belt.",
+      "trans": "英语：一切好，那么她接下来要让你的家伙把你的东西放在腰带里。",
+      "start": 182.0,
+      "end": 187.6
+    },
+    {
+      "text": "Okay, the belt.",
+      "trans": "Okay, 皮带。",
+      "start": 188.32,
+      "end": 189.92000000000002
+    },
+    {
+      "text": "The belt.",
+      "trans": "在中文中，\"the belt\"可以翻译为 \"带子\"。",
+      "start": 189.92000000000002,
+      "end": 190.96
+    },
+    {
+      "text": "A belt. Now we know belt as the thing you put around your waist to keep your pants up.",
+      "trans": "英文：带子。",
+      "start": 190.96,
+      "end": 196.08
+    },
+    {
+      "text": "Right, but in a supermarket, the belt is the moving table that you put your groceries on,",
+      "trans": "正确翻译：正确翻译：在超市里，布带是您放在购物篮上的移动台。",
+      "start": 196.08,
+      "end": 202.72
+    },
+    {
+      "text": "so the cashier starts to pass them through.",
+      "trans": "所以收银员开始依次通过他们。",
+      "start": 202.72,
+      "end": 205.44
+    },
+    {
+      "text": "Okay, so the belts.",
+      "trans": "好的，所以这些带子。",
+      "start": 205.44,
+      "end": 207.28
+    },
+    {
+      "text": "Okay, the belt.",
+      "trans": "Okay, 皮带。",
+      "start": 207.28,
+      "end": 208.16
+    },
+    {
+      "text": "Put your groceries on the belt.",
+      "trans": "英文：把你的杂货放在后备箱里。",
+      "start": 208.16,
+      "end": 209.6
+    },
+    {
+      "text": "And then the guy said that he had a couple of coupons.",
+      "trans": "英语：然后那个家伙说他有一对优惠券。",
+      "start": 210.24,
+      "end": 214.64
+    },
+    {
+      "text": "Coupons.",
+      "trans": "优惠券。",
+      "start": 214.64,
+      "end": 215.92
+    },
+    {
+      "text": "Coupons.",
+      "trans": "优惠券。",
+      "start": 215.92,
+      "end": 216.88
+    },
+    {
+      "text": "Coupon.",
+      "trans": "在中文中，\"coupon\" 的意思是 \"优惠券\"。例如：",
+      "start": 216.88,
+      "end": 217.76
+    },
+    {
+      "text": "Okay, so what is a coupon?",
+      "trans": "好的，那么什么是优惠券？",
+      "start": 217.76,
+      "end": 220.24
+    },
+    {
+      "text": "A coupon is a piece of paper you can use to get a discount.",
+      "trans": "一张优惠券是你可以用来换取折扣的纸张。",
+      "start": 220.24,
+      "end": 225.2
+    },
+    {
+      "text": "All right, so it has a discount on it.",
+      "trans": "英语：所有准备好了，所以现在可以享受折扣。",
+      "start": 225.2,
+      "end": 227.68
+    },
+    {
+      "text": "A discount for one thing.",
+      "trans": "一张优惠券。",
+      "start": 227.68,
+      "end": 229.04
+    },
+    {
+      "text": "Like, so maybe you buy some, some apples and you get 10% off one kind of apple.",
+      "trans": "像，或许你买一些，然后得到一公斤苹果的优惠。",
+      "start": 229.12,
+      "end": 234.95999999999998
+    },
+    {
+      "text": "Very good coupons.",
+      "trans": "非常棒的优惠券。",
+      "start": 234.95999999999998,
+      "end": 236.32
+    },
+    {
+      "text": "Now he presented these coupons and she said they were expired.",
+      "trans": "现在他把这些优惠券给了她，她说它们已经过期了。",
+      "start": 236.88,
+      "end": 241.51999999999998
+    },
+    {
+      "text": "The coupons expired yesterday.",
+      "trans": "英语：昨天的优惠券已经过期了。",
+      "start": 241.51999999999998,
+      "end": 244.32
+    },
+    {
+      "text": "Expired.",
+      "trans": "英语：过期。",
+      "start": 244.32,
+      "end": 245.35999999999999
+    },
+    {
+      "text": "To expire.",
+      "trans": "要过期。",
+      "start": 245.35999999999999,
+      "end": 246.64
+    },
+    {
+      "text": "All right, so to expire, that means to be older than the date when you can use them.",
+      "trans": "英语：所有准备就绪，所以到期意味着你可以在使用它们之前达到该日期。",
+      "start": 246.64,
+      "end": 254.07999999999998
+    },
+    {
+      "text": "Right, so why don't we listen to some other examples of how we can use expired so we can",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 254.08,
+      "end": 260.0
+    },
+    {
+      "text": "understand a little bit better?",
+      "trans": "英语：理解得稍微好一点。",
+      "start": 260.0,
+      "end": 261.28000000000003
+    },
+    {
+      "text": "Example one.",
+      "trans": "示例一。",
+      "start": 262.16,
+      "end": 263.12
+    },
+    {
+      "text": "I'm sorry, sir.",
+      "trans": "我非常抱歉，先生。",
+      "start": 265.2,
+      "end": 266.56
+    },
+    {
+      "text": "This credit card expired five years ago.",
+      "trans": "这个信用卡已经过了五年前的到期日。",
+      "start": 266.56,
+      "end": 269.04
+    },
+    {
+      "text": "You can't use it anymore.",
+      "trans": "你不能再使用它了。",
+      "start": 269.04,
+      "end": 270.24
+    },
+    {
+      "text": "Example two.",
+      "trans": "Example two. 例二。",
+      "start": 272.16,
+      "end": 272.88
+    },
+    {
+      "text": "My driver's license expires in a month, so I have to get a renewed.",
+      "trans": "我的驾照将在一个月内到期，所以我需要换一张新的。",
+      "start": 275.2,
+      "end": 278.24
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 280.64,
+      "end": 281.68
+    },
+    {
+      "text": "Don't drink that.",
+      "trans": "英语：Don't drink that.",
+      "start": 282.16,
+      "end": 284.64
+    },
+    {
+      "text": "The milk has expired.",
+      "trans": "英语：牛奶已经过期。",
+      "start": 284.64,
+      "end": 285.76
+    },
+    {
+      "text": "Okay, so we can see his coupons expired.",
+      "trans": "好的，我们可以看到他的优惠券已过期。",
+      "start": 288.16,
+      "end": 291.44
+    },
+    {
+      "text": "So they were too old and he couldn't use them anymore.",
+      "trans": "所以他们太老了，他不能再使用它们了。",
+      "start": 291.44,
+      "end": 294.72
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 294.72,
+      "end": 295.52
+    },
+    {
+      "text": "And now finally, she asked him if he wants to pay with his club card or cash.",
+      "trans": "现在终于，她问他是用他的俱乐部卡还是现金来支付的。",
+      "start": 296.16,
+      "end": 303.04
+    },
+    {
+      "text": "So club card?",
+      "trans": "英语：所以俱乐部卡？",
+      "start": 303.04,
+      "end": 304.88
+    },
+    {
+      "text": "Club card.",
+      "trans": "俱乐部卡。 (Wǒmen bāng yuán dǎo.)",
+      "start": 304.88,
+      "end": 305.92
+    },
+    {
+      "text": "What's a club card?",
+      "trans": "英语：What's a club card?",
+      "start": 305.92,
+      "end": 307.28000000000003
+    },
+    {
+      "text": "So in some supermarkets, you can receive a special type of credit card that you can only",
+      "trans": "所以，在一些超市里，你可以获得一种只能在特定时间内使用的信用卡。",
+      "start": 307.28,
+      "end": 313.91999999999996
+    },
+    {
+      "text": "use for grocery shopping.",
+      "trans": "英语：使用在超市购物。",
+      "start": 313.91999999999996,
+      "end": 315.44
+    },
+    {
+      "text": "And only in that store.",
+      "trans": "只有在这里。",
+      "start": 315.44,
+      "end": 316.88
+    },
+    {
+      "text": "Right, so that is a club card.",
+      "trans": "正确翻译：正确翻译：正确的，所以这就是一个俱乐部卡。",
+      "start": 316.88,
+      "end": 319.67999999999995
+    },
+    {
+      "text": "All right, so a club card.",
+      "trans": "英语：所有准备好了，所以一张俱乐部卡。",
+      "start": 319.67999999999995,
+      "end": 321.52
+    },
+    {
+      "text": "Okay, so he's going to pay with a card, but he also asked for some cash back.",
+      "trans": "好的，那么现在请将以下句子翻译成简体中文：",
+      "start": 321.52,
+      "end": 327.67999999999995
+    },
+    {
+      "text": "Cash back.",
+      "trans": "现金返现。",
+      "start": 327.67999999999995,
+      "end": 328.47999999999996
+    },
+    {
+      "text": "Could I get cash back?",
+      "trans": "英语：Could I get cash back?",
+      "start": 328.47999999999996,
+      "end": 329.59999999999997
+    },
+    {
+      "text": "Cash back.",
+      "trans": "现金返现。",
+      "start": 330.32,
+      "end": 330.96
+    },
+    {
+      "text": "Now, what's he talking about?",
+      "trans": "现在，他正在说些什么？",
+      "start": 331.84,
+      "end": 333.2
+    },
+    {
+      "text": "Can you get cash back?",
+      "trans": "英语：你能获得现金返现吗？",
+      "start": 333.2,
+      "end": 334.32
+    },
+    {
+      "text": "He's paying with a card.",
+      "trans": "他用信用卡付款。",
+      "start": 334.32,
+      "end": 335.35999999999996
+    },
+    {
+      "text": "What does he want to do?",
+      "trans": "英语：What does he want to do?",
+      "start": 335.35999999999996,
+      "end": 336.64
+    },
+    {
+      "text": "Well, what happens is sometimes suppose your groceries cost $20.",
+      "trans": "英语：嗯，发生的情况有时会让我觉得你的购物车价值20美元。",
+      "start": 336.64,
+      "end": 341.84
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 341.84,
+      "end": 342.4
+    },
+    {
+      "text": "So instead of charging $20 to your credit card or your club card, you say, okay, put $70.",
+      "trans": "所以，而不是把信用卡或会员卡上的$20换成你的$70，你可以说：“好吧，把$70换成你的$20。”",
+      "start": 342.4,
+      "end": 350.0
+    },
+    {
+      "text": "So then the cashier can give you $50 back so you can have cash in your pocket.",
+      "trans": "所以然后收银员可以给你50元，这样你就可以把钱放在口袋里了。",
+      "start": 350.0,
+      "end": 354.47999999999996
+    },
+    {
+      "text": "Ah, so instead of going to the ATM, you can get your money in one spot.",
+      "trans": "英语：啊，所以你不能去ATM取钱，可以在这里直接拿钱。",
+      "start": 354.47999999999996,
+      "end": 358.47999999999996
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 358.47999999999996,
+      "end": 359.28
+    },
+    {
+      "text": "All right, so that's cash back.",
+      "trans": "英语：一切好，所以这就是返现。",
+      "start": 359.28,
+      "end": 360.8
+    },
+    {
+      "text": "Interesting.",
+      "trans": "有趣。",
+      "start": 360.8,
+      "end": 361.68
+    },
+    {
+      "text": "Well, why don't we hear this one more time in the dialogue?",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 361.68,
+      "end": 365.12
+    },
+    {
+      "text": "But let's slow it down a little so we can understand better.",
+      "trans": "但是让我们放慢一点，这样我们才能更好地理解。",
+      "start": 365.12,
+      "end": 368.4
+    },
+    {
+      "text": "Excuse me, sir.",
+      "trans": "对不起，先生。",
+      "start": 373.44,
+      "end": 374.96
+    },
+    {
+      "text": "This is the express checkout lane for people that have 15 items or fewer.",
+      "trans": "这个是用于有15件或以下商品的快速 Checkout 线。",
+      "start": 374.96,
+      "end": 380.64
+    },
+    {
+      "text": "It looks like you have more than 15 items there.",
+      "trans": "看起来你那里有超过15件商品。",
+      "start": 381.44,
+      "end": 385.12
+    },
+    {
+      "text": "Oh, come on.",
+      "trans": "英语：哦，来吧。",
+      "start": 385.84000000000003,
+      "end": 387.28000000000003
+    },
+    {
+      "text": "I have 16 items.",
+      "trans": "我有16件物品。",
+      "start": 388.08,
+      "end": 390.24
+    },
+    {
+      "text": "Cut me some slack.",
+      "trans": "放我一马。",
+      "start": 390.8,
+      "end": 392.56
+    },
+    {
+      "text": "Will you?",
+      "trans": "英语：Will you?",
+      "start": 392.56,
+      "end": 393.04
+    },
+    {
+      "text": "Fine.",
+      "trans": "英语：很好。",
+      "start": 393.68,
+      "end": 394.0
+    },
+    {
+      "text": "Please place your items on the belt and push your shopping cart through.",
+      "trans": "请将您的物品放在腰带里并按购物车通过。",
+      "start": 394.8,
+      "end": 399.12
+    },
+    {
+      "text": "Do you prefer paper or plastic?",
+      "trans": "英语：你更喜欢纸还是塑料？",
+      "start": 399.68,
+      "end": 401.92
+    },
+    {
+      "text": "Plastic.",
+      "trans": "塑料。",
+      "start": 402.48,
+      "end": 403.04
+    },
+    {
+      "text": "I also have a couple of coupons.",
+      "trans": "我还有几个优惠券。",
+      "start": 403.92,
+      "end": 406.4
+    },
+    {
+      "text": "No problem.",
+      "trans": "英语：没问题。",
+      "start": 407.28,
+      "end": 408.4
+    },
+    {
+      "text": "I'll take those.",
+      "trans": "我将承担这些。",
+      "start": 408.4,
+      "end": 409.2
+    },
+    {
+      "text": "Sir, these coupons expired yesterday.",
+      "trans": "英语：先生，这些优惠券昨天就失效了。",
+      "start": 410.24,
+      "end": 413.44
+    },
+    {
+      "text": "Darn.",
+      "trans": "英语：Darn.",
+      "start": 414.4,
+      "end": 415.12
+    },
+    {
+      "text": "Oh, well, I guess it's just not my day.",
+      "trans": "英语：哦，好吧，看来这事儿不是我的日子。",
+      "start": 416.0,
+      "end": 418.88
+    },
+    {
+      "text": "Thanks anyway.",
+      "trans": "谢谢。",
+      "start": 419.52,
+      "end": 420.4
+    },
+    {
+      "text": "Do you have a club card or will it be cash?",
+      "trans": "英语：你有俱乐部卡吗？或者，它会是现金？",
+      "start": 421.35999999999996,
+      "end": 425.12
+    },
+    {
+      "text": "Yeah, I got a club card.",
+      "trans": "是的，我得到了一张俱乐部卡。",
+      "start": 425.12,
+      "end": 426.96
+    },
+    {
+      "text": "Here you go.",
+      "trans": "在这里。",
+      "start": 427.52,
+      "end": 428.08
+    },
+    {
+      "text": "Will this be debit or credit?",
+      "trans": "英语：Will this be debit or credit?",
+      "start": 428.79999999999995,
+      "end": 430.79999999999995
+    },
+    {
+      "text": "Debit, please.",
+      "trans": "谢谢你的请求，但我无法提供这些特定的术语。如果你能告诉我具体的术语或主题，我将很乐意帮助你进行翻译。",
+      "start": 431.52,
+      "end": 432.23999999999995
+    },
+    {
+      "text": "Also, can I get cash back?",
+      "trans": "英语：也，能给我现金返现吗？",
+      "start": 432.79999999999995,
+      "end": 434.79999999999995
+    },
+    {
+      "text": "$50 would be great.",
+      "trans": "祝你好运！",
+      "start": 435.44,
+      "end": 437.12
+    },
+    {
+      "text": "Yeah, sure.",
+      "trans": "是的，当然。",
+      "start": 437.91999999999996,
+      "end": 438.64
+    },
+    {
+      "text": "Your total is $78.33.",
+      "trans": "你的总金额是78.33元。",
+      "start": 439.44,
+      "end": 442.96
+    },
+    {
+      "text": "Here's your receipt.",
+      "trans": "这是你的收据。",
+      "start": 442.96,
+      "end": 444.23999999999995
+    },
+    {
+      "text": "Have a nice day.",
+      "trans": "祝你一天愉快。",
+      "start": 444.23999999999995,
+      "end": 445.03999999999996
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 445.76,
+      "end": 446.15999999999997
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 446.8,
+      "end": 450.16
+    },
+    {
+      "text": "So now that we've listened to the dialogue for the second time,",
+      "trans": "所以现在我们已经听了对话的第二次，",
+      "start": 450.16,
+      "end": 453.84000000000003
+    },
+    {
+      "text": "it's time for us to take a look at some phrases in Fluency Builder.",
+      "trans": "英语：它的时间到了，让我们来了解一下在Fluency Builder中的语法和用法。",
+      "start": 453.84000000000003,
+      "end": 457.12
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 458.32000000000005,
+      "end": 459.36
+    },
+    {
+      "text": "Okay, we have three phrases for you now.",
+      "trans": "好的，我们现在给你三个表达。",
+      "start": 460.16,
+      "end": 462.48
+    },
+    {
+      "text": "Well, the guy was not having a very good day.",
+      "trans": "英语：好，那个家伙今天过得不太好。",
+      "start": 463.12,
+      "end": 466.08000000000004
+    },
+    {
+      "text": "Was he?",
+      "trans": "英语：Was he?",
+      "start": 466.08000000000004,
+      "end": 466.72
+    },
+    {
+      "text": "So he couldn't go in the express check out lane and he says,",
+      "trans": "所以他不能进入快速通道，他说。",
+      "start": 466.72,
+      "end": 470.8
+    },
+    {
+      "text": "cut me some slack.",
+      "trans": "英语：cut me some slack.",
+      "start": 470.8,
+      "end": 472.40000000000003
+    },
+    {
+      "text": "Cut me some slack.",
+      "trans": "卸下责任。",
+      "start": 473.04,
+      "end": 474.40000000000003
+    },
+    {
+      "text": "To cut someone, some slack.",
+      "trans": "要砍人，有些宽容。",
+      "start": 474.47999999999996,
+      "end": 476.96
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 476.96,
+      "end": 477.59999999999997
+    },
+    {
+      "text": "Now this is an interesting and very informal phrase.",
+      "trans": "现在这是个有趣的和非常随意的表达。",
+      "start": 477.59999999999997,
+      "end": 480.47999999999996
+    },
+    {
+      "text": "So before we explain it, why don't we listen to a couple of other examples?",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 480.47999999999996,
+      "end": 484.88
+    },
+    {
+      "text": "Example one.",
+      "trans": "Example one: 一台单反相机。",
+      "start": 486.32,
+      "end": 487.2
+    },
+    {
+      "text": "Cut me some slack.",
+      "trans": "卸下责任。",
+      "start": 489.44,
+      "end": 490.64
+    },
+    {
+      "text": "I'm only two minutes late.",
+      "trans": "我只有两分钟的延迟。",
+      "start": 490.64,
+      "end": 492.0
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 493.91999999999996,
+      "end": 494.71999999999997
+    },
+    {
+      "text": "My wife just had a baby and I'm so tired.",
+      "trans": "我的妻子刚刚生了一个孩子，我真是太累了。",
+      "start": 496.79999999999995,
+      "end": 500.15999999999997
+    },
+    {
+      "text": "Cut me some slack.",
+      "trans": "卸下责任。",
+      "start": 500.15999999999997,
+      "end": 501.59999999999997
+    },
+    {
+      "text": "I'll send you the report tomorrow.",
+      "trans": "我明天会将报告发给你。",
+      "start": 501.59999999999997,
+      "end": 503.28
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 505.03999999999996,
+      "end": 506.08
+    },
+    {
+      "text": "Emily had a really bad week.",
+      "trans": "英语：Emily had a really bad week.",
+      "start": 508.56,
+      "end": 510.56
+    },
+    {
+      "text": "I think you should cut her some slack.",
+      "trans": "我建议你给她一些宽容。",
+      "start": 510.56,
+      "end": 512.24
+    },
+    {
+      "text": "Okay, I think I can understand it means",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 515.36,
+      "end": 517.76
+    },
+    {
+      "text": "relax the rules a little bit.",
+      "trans": "英语：放松一些规则。",
+      "start": 519.04,
+      "end": 521.1999999999999
+    },
+    {
+      "text": "Right, so don't be so strict on me.",
+      "trans": "好的，我明白了。请将需要翻译的英文语句提供给我。",
+      "start": 521.1999999999999,
+      "end": 523.28
+    },
+    {
+      "text": "Yeah, don't be so hard.",
+      "trans": "是的，不要那么难。",
+      "start": 523.28,
+      "end": 524.4
+    },
+    {
+      "text": "Now, I know this phrase actually comes from mountain climbing.",
+      "trans": "现在，我知道这句话实际上来自攀岩。",
+      "start": 525.04,
+      "end": 529.92
+    },
+    {
+      "text": "Oh, really?",
+      "trans": "英语：哦，真的？",
+      "start": 529.92,
+      "end": 530.3199999999999
+    },
+    {
+      "text": "Oh, because of the rope.",
+      "trans": "英语：哦，因为绳子。",
+      "start": 530.3199999999999,
+      "end": 531.68
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 531.68,
+      "end": 532.24
+    },
+    {
+      "text": "So it's just it's like saying the slack is loose rope.",
+      "trans": "所以，它就像说松绳子一样。",
+      "start": 532.24,
+      "end": 536.72
+    },
+    {
+      "text": "So he's just saying give me a little bit more freedom.",
+      "trans": "所以他只是在说，给我再多一些自由吧。",
+      "start": 536.72,
+      "end": 539.52
+    },
+    {
+      "text": "Give me more freedom.",
+      "trans": "恩，明白了。请继续提供需要翻译的英文内容。",
+      "start": 539.52,
+      "end": 540.4
+    },
+    {
+      "text": "Oh, interesting.",
+      "trans": "英语：哦，有趣。",
+      "start": 540.4,
+      "end": 541.28
+    },
+    {
+      "text": "To cut somebody some slack.",
+      "trans": "将某人放在适当的位置。",
+      "start": 541.6800000000001,
+      "end": 543.76
+    },
+    {
+      "text": "Well, now the cashier asks them a question.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 543.76,
+      "end": 545.84
+    },
+    {
+      "text": "She says, do you prefer paper or plastic?",
+      "trans": "她说，你喜欢纸还是塑料？",
+      "start": 545.84,
+      "end": 549.28
+    },
+    {
+      "text": "Do you prefer paper or plastic?",
+      "trans": "英语：你更喜欢纸还是塑料？",
+      "start": 549.28,
+      "end": 552.08
+    },
+    {
+      "text": "Paper or plastic?",
+      "trans": "纸或塑料？",
+      "start": 552.08,
+      "end": 553.28
+    },
+    {
+      "text": "Now this is the common cliche phrase",
+      "trans": "现在这个是大家熟悉的俗语。",
+      "start": 553.28,
+      "end": 556.5600000000001
+    },
+    {
+      "text": "that any grocery store cashier will use, right?",
+      "trans": "那任何一家超市的收银员都能用，对吗？",
+      "start": 556.5600000000001,
+      "end": 559.84
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 559.9200000000001,
+      "end": 560.1600000000001
+    },
+    {
+      "text": "So paper, plastic, what?",
+      "trans": "英语：所以纸，塑料，什么？",
+      "start": 560.1600000000001,
+      "end": 562.0
+    },
+    {
+      "text": "Bags.",
+      "trans": "袋子。",
+      "start": 562.0,
+      "end": 562.5600000000001
+    },
+    {
+      "text": "Paper, plastic bags.",
+      "trans": "纸，塑料袋。",
+      "start": 562.5600000000001,
+      "end": 563.84
+    },
+    {
+      "text": "All right, so you'll hear this all the time",
+      "trans": "英语：一切好，所以你将经常听到这个。",
+      "start": 563.84,
+      "end": 565.36
+    },
+    {
+      "text": "in every grocery store.",
+      "trans": "在每一个超市。",
+      "start": 565.36,
+      "end": 566.4
+    },
+    {
+      "text": "Do you want paper or plastic?",
+      "trans": "英语：你想要纸还是塑料？",
+      "start": 566.4,
+      "end": 567.84
+    },
+    {
+      "text": "Right, so you can choose plastic bags or paper bags.",
+      "trans": "正确答案：英语：Right, so you can choose plastic bags or paper bags.",
+      "start": 567.84,
+      "end": 571.6800000000001
+    },
+    {
+      "text": "Okay, remember this one,",
+      "trans": "好的，记住这个。",
+      "start": 571.6800000000001,
+      "end": 573.2
+    },
+    {
+      "text": "because when you get it right,",
+      "trans": "因为当你做得很好时，",
+      "start": 573.2,
+      "end": 574.5600000000001
+    },
+    {
+      "text": "you'll sound really native like.",
+      "trans": "你将非常自然地发音，就像。",
+      "start": 574.5600000000001,
+      "end": 576.5600000000001
+    },
+    {
+      "text": "I'm very good.",
+      "trans": "我很好。",
+      "start": 576.5600000000001,
+      "end": 578.1600000000001
+    },
+    {
+      "text": "And our last phrase,",
+      "trans": "和我们的最后一个句子，",
+      "start": 578.1600000000001,
+      "end": 580.1600000000001
+    },
+    {
+      "text": "since he wasn't really having a good day,",
+      "trans": "因为他在今天过得不太好。",
+      "start": 580.1600000000001,
+      "end": 582.5600000000001
+    },
+    {
+      "text": "he said it's just not my day.",
+      "trans": "他说道，这并不属于我的日子。",
+      "start": 582.5600000000001,
+      "end": 585.12
+    },
+    {
+      "text": "It's just not my day.",
+      "trans": "英语：它只是我的一天。",
+      "start": 585.12,
+      "end": 587.12
+    },
+    {
+      "text": "It's not my day.",
+      "trans": "英语：It's not my day.",
+      "start": 587.12,
+      "end": 588.48
+    },
+    {
+      "text": "Okay, so when it's not your day,",
+      "trans": "好的，那么当它不是你的日子时。",
+      "start": 588.5600000000001,
+      "end": 591.04
+    },
+    {
+      "text": "it means the day has been hard, you've not really lucky.",
+      "trans": "英语：它意味着日子过得艰难，你实在没有运气。",
+      "start": 591.04,
+      "end": 594.64
+    },
+    {
+      "text": "Yeah, it's not a good day for you.",
+      "trans": "嗯，今天不是很好。",
+      "start": 594.64,
+      "end": 596.88
+    },
+    {
+      "text": "Not a good day.",
+      "trans": "不好的日子。",
+      "start": 596.88,
+      "end": 597.84
+    },
+    {
+      "text": "All right, so let's listen to the dialogue for the last time.",
+      "trans": "好的，那么让我们再次听对话的最后一段。",
+      "start": 598.32,
+      "end": 601.6
+    },
+    {
+      "text": "And then we'll come back and talk a little bit",
+      "trans": "英语：然后我们将再次讨论一些。",
+      "start": 601.6,
+      "end": 603.12
+    },
+    {
+      "text": "about grocery stores in America.",
+      "trans": "美国的杂货店。",
+      "start": 603.12,
+      "end": 605.12
+    },
+    {
+      "text": "Excuse me, sir.",
+      "trans": "英语：对不起，先生。",
+      "start": 613.9200000000001,
+      "end": 615.6
+    },
+    {
+      "text": "This is the Express Checkout Lane",
+      "trans": "这个是快速支付通道。",
+      "start": 615.6,
+      "end": 617.04
+    },
+    {
+      "text": "for people who have 15 items or fewer.",
+      "trans": "对于有15件或以下物品的人。",
+      "start": 617.04,
+      "end": 619.52
+    },
+    {
+      "text": "It looks like you have more than 15 items there.",
+      "trans": "看起来你那里有超过15件商品。",
+      "start": 620.24,
+      "end": 622.7199999999999
+    },
+    {
+      "text": "Oh, come on.",
+      "trans": "英语：哦，来吧。",
+      "start": 622.7199999999999,
+      "end": 623.8399999999999
+    },
+    {
+      "text": "I have 16 items.",
+      "trans": "我有16件物品。",
+      "start": 623.8399999999999,
+      "end": 625.12
+    },
+    {
+      "text": "Cut me some slack, will you?",
+      "trans": "切我一刀，好吗？",
+      "start": 625.12,
+      "end": 627.12
+    },
+    {
+      "text": "Fine.",
+      "trans": "英语：很好。",
+      "start": 627.12,
+      "end": 627.92
+    },
+    {
+      "text": "Please place your items on the belt",
+      "trans": "请将您的物品放在腰带里。",
+      "start": 627.92,
+      "end": 629.4399999999999
+    },
+    {
+      "text": "and push your shopping cart through.",
+      "trans": "和推你的购物车一样。",
+      "start": 629.4399999999999,
+      "end": 630.8
+    },
+    {
+      "text": "Do you prefer paper or plastic?",
+      "trans": "英语：你更喜欢纸张还是塑料？",
+      "start": 639.5999999999999,
+      "end": 642.0
+    },
+    {
+      "text": "Plastic.",
+      "trans": "塑料。",
+      "start": 642.0,
+      "end": 642.8
+    },
+    {
+      "text": "I also have a couple of coupons.",
+      "trans": "我还有几个优惠券。",
+      "start": 642.8,
+      "end": 644.4
+    },
+    {
+      "text": "No problem, I'll take those.",
+      "trans": "英语：没问题，我会处理这些。",
+      "start": 645.1999999999999,
+      "end": 646.48
+    },
+    {
+      "text": "So, these coupons expired yesterday.",
+      "trans": "所以，这些优惠券昨天就过期了。",
+      "start": 647.36,
+      "end": 652.16
+    },
+    {
+      "text": "Turn.",
+      "trans": "转。",
+      "start": 652.16,
+      "end": 653.36
+    },
+    {
+      "text": "Oh, well, I guess it's just not my day.",
+      "trans": "英语：哦，好吧，我猜这不就是我的日子。",
+      "start": 653.36,
+      "end": 655.36
+    },
+    {
+      "text": "Thanks anyway.",
+      "trans": "谢谢。",
+      "start": 655.36,
+      "end": 656.16
+    },
+    {
+      "text": "Do you have a club card or will it be cash?",
+      "trans": "英语：你有俱乐部卡吗？或者，它会是现金？",
+      "start": 656.16,
+      "end": 658.9599999999999
+    },
+    {
+      "text": "Yeah, I got a club card.",
+      "trans": "是的，我得到了一张俱乐部卡。",
+      "start": 658.9599999999999,
+      "end": 660.3199999999999
+    },
+    {
+      "text": "Here you go.",
+      "trans": "在这里。",
+      "start": 660.3199999999999,
+      "end": 661.1999999999999
+    },
+    {
+      "text": "Will this be debit or credit?",
+      "trans": "英语：Will this be debit or credit?",
+      "start": 661.1999999999999,
+      "end": 663.1999999999999
+    },
+    {
+      "text": "Debit, please.",
+      "trans": "谢谢！如果您有其他需要，请随时告诉我。",
+      "start": 663.1999999999999,
+      "end": 664.7199999999999
+    },
+    {
+      "text": "Also, can I get cash back?",
+      "trans": "英语：Also, can I get cash back?",
+      "start": 664.7199999999999,
+      "end": 666.24
+    },
+    {
+      "text": "$50 would be great.",
+      "trans": "祝你好运！",
+      "start": 666.24,
+      "end": 667.8399999999999
+    },
+    {
+      "text": "Yeah, sure.",
+      "trans": "是的，当然。",
+      "start": 667.8399999999999,
+      "end": 668.8
+    },
+    {
+      "text": "Your total is $78 and 33.",
+      "trans": "你的总金额是78元，33分。",
+      "start": 671.5999999999999,
+      "end": 674.48
+    },
+    {
+      "text": "Your total is $78 and 33 cents.",
+      "trans": "你的总金额是78元33分。",
+      "start": 674.64,
+      "end": 677.44
+    },
+    {
+      "text": "Here's your seat.",
+      "trans": "这是你的座位。",
+      "start": 677.44,
+      "end": 678.16
+    },
+    {
+      "text": "Have a nice day.",
+      "trans": "祝你一天愉快。",
+      "start": 678.16,
+      "end": 678.88
+    },
+    {
+      "text": "Well, one interesting thing I know about grocery stores in America",
+      "trans": "英语：嗯，我了解一些关于美国超市的有趣事情。",
+      "start": 687.04,
+      "end": 691.04
+    },
+    {
+      "text": "is that the people who are the cashiers are very often students.",
+      "trans": "是那个经常是学生的人是那些收银员。",
+      "start": 691.04,
+      "end": 694.96
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 694.96,
+      "end": 695.44
+    },
+    {
+      "text": "It's a very popular summer job or part-time job",
+      "trans": "英语：它是一个非常受欢迎的夏季或兼职工作。",
+      "start": 695.44,
+      "end": 698.8000000000001
+    },
+    {
+      "text": "like college students.",
+      "trans": "英语：像大学学生。",
+      "start": 698.8000000000001,
+      "end": 700.16
+    },
+    {
+      "text": "Yeah, or even in my hometown,",
+      "trans": "是的，或者甚至在我家乡。",
+      "start": 700.16,
+      "end": 702.48
+    },
+    {
+      "text": "it was the most common job for high school students.",
+      "trans": "英语：它是最常见的高年级学生的工作。",
+      "start": 702.48,
+      "end": 705.76
+    },
+    {
+      "text": "After school, if you went to the grocery store",
+      "trans": "英语：放学后，如果你去超市，",
+      "start": 705.76,
+      "end": 707.84
+    },
+    {
+      "text": "between four o'clock and nine o'clock at night,",
+      "trans": "晚上四点到九点之间。",
+      "start": 707.84,
+      "end": 711.2
+    },
+    {
+      "text": "every single cashier would be a high school student.",
+      "trans": "每个单点收银员都是高中生。",
+      "start": 711.2,
+      "end": 713.76
+    },
+    {
+      "text": "And the interesting thing is that the cashiers are usually women, right?",
+      "trans": "和有趣的是，收银员通常是女性的。",
+      "start": 713.76,
+      "end": 717.44
+    },
+    {
+      "text": "Yeah, always the high school girls who are the cashiers.",
+      "trans": "是的，总是那个高年级女生，总是在收银台。",
+      "start": 717.44,
+      "end": 720.5600000000001
+    },
+    {
+      "text": "And so the high school boys would be working in the back,",
+      "trans": "所以高中的男生会坐在后边。",
+      "start": 720.5600000000001,
+      "end": 724.16
+    },
+    {
+      "text": "maybe in the warehouse, carrying boxes or stocking the shelves.",
+      "trans": "或许在仓库里，搬运箱子或摆放在货架上。",
+      "start": 724.16,
+      "end": 728.08
+    },
+    {
+      "text": "So putting the cans on the shelves, right?",
+      "trans": "所以把罐子放好，对吗？",
+      "start": 728.08,
+      "end": 729.9200000000001
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案是：Exactly.",
+      "start": 729.9200000000001,
+      "end": 730.72
+    },
+    {
+      "text": "It's a very popular part-time job for students",
+      "trans": "英语：它是一份非常受欢迎的兼职工作，适合学生。",
+      "start": 730.88,
+      "end": 734.1600000000001
+    },
+    {
+      "text": "in the United States, but also coupons are very popular in America.",
+      "trans": "在美国内华达州，但美国的优惠也是非常流行的。",
+      "start": 734.1600000000001,
+      "end": 739.2
+    },
+    {
+      "text": "Yeah, what is it about coupons?",
+      "trans": "是啊，关于优惠券的事情。",
+      "start": 739.2,
+      "end": 741.52
+    },
+    {
+      "text": "Well, usually, for example, in the Sunday newspaper,",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文内容。",
+      "start": 742.1600000000001,
+      "end": 745.2
+    },
+    {
+      "text": "you will receive a lot of coupons.",
+      "trans": "你将收到许多优惠。",
+      "start": 745.2,
+      "end": 747.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 747.6,
+      "end": 748.48
+    },
+    {
+      "text": "You go to the grocery store and you have all these coupons for like cookies",
+      "trans": "英语：你去超市，手里拿着这些优惠券。",
+      "start": 748.48,
+      "end": 752.24
+    },
+    {
+      "text": "or a promotion on some type of soda or drink.",
+      "trans": "或者在某种类型的饮料或汽水上获得晋升。",
+      "start": 752.24,
+      "end": 756.1600000000001
+    },
+    {
+      "text": "So it's very popular.",
+      "trans": "英语：所以它非常流行。",
+      "start": 756.1600000000001,
+      "end": 757.76
+    },
+    {
+      "text": "People go grocery shopping and then present all these coupons.",
+      "trans": "英语：人们去超市购物，然后把这些优惠券都展示出来。",
+      "start": 757.76,
+      "end": 760.8
+    },
+    {
+      "text": "And actually, you can end up saving a good amount of money.",
+      "trans": "实际上，你可能会节省大量的钱。",
+      "start": 760.8,
+      "end": 764.48
+    },
+    {
+      "text": "I know the coupons are usually like saved two cents or save 25 cents,",
+      "trans": "我了解优惠券通常如节省两分或节省二十五分。",
+      "start": 764.48,
+      "end": 769.2
+    },
+    {
+      "text": "but I guess if you put all of those together, you can save money.",
+      "trans": "但是，我猜如果把这些都放在一起，你就能省下钱了。",
+      "start": 769.2,
+      "end": 772.64
+    },
+    {
+      "text": "It's interesting because people actually will buy that product",
+      "trans": "英语：它很有趣，因为人们实际上会购买这个产品。",
+      "start": 772.64,
+      "end": 775.6
+    },
+    {
+      "text": "just because they have a coupon for you.",
+      "trans": "因为他们有优惠券。",
+      "start": 775.6,
+      "end": 777.68
+    },
+    {
+      "text": "Coupons and high school checkout girls.",
+      "trans": "coupons 和高中的放学女孩。",
+      "start": 777.68,
+      "end": 780.88
+    },
+    {
+      "text": "Well, guys, thanks for listening to this show.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文内容。",
+      "start": 781.92,
+      "end": 784.88
+    },
+    {
+      "text": "Now, remember, if you have any questions about the language we were talking about in the show,",
+      "trans": "现在，记住，如果你们在我们刚才讨论的语言节目里有任何问题，请随时提问。",
+      "start": 784.88,
+      "end": 789.84
+    },
+    {
+      "text": "please visit our website at EnglishPod.com.",
+      "trans": "请访问我们的网站：https://englishpod.com。",
+      "start": 789.84,
+      "end": 793.52
+    },
+    {
+      "text": "Right. Leave all your questions and comments there.",
+      "trans": "正确：英语：请将所有问题和评论在这里留下。",
+      "start": 793.52,
+      "end": 795.68
+    },
+    {
+      "text": "And also, if you have any other suggestions or any doubts,",
+      "trans": "英语：而且，如果你还有其他建议或有任何疑问，请告诉我。",
+      "start": 795.68,
+      "end": 799.6
+    },
+    {
+      "text": "please let us know.",
+      "trans": "请告知我们。",
+      "start": 799.6,
+      "end": 800.72
+    },
+    {
+      "text": "And well, we'll see you guys there.",
+      "trans": "英语：And well, we'll see you guys there.",
+      "start": 800.72,
+      "end": 802.4
+    },
+    {
+      "text": "So thanks for listening.",
+      "trans": "英语：所以谢谢你的倾听。",
+      "start": 802.4,
+      "end": 803.52
+    },
+    {
+      "text": "And until next time, goodbye.",
+      "trans": "英语：And until next time, goodbye.",
+      "start": 803.52,
+      "end": 805.4399999999999
+    }
+  ]
+}

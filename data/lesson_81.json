@@ -1,0 +1,1962 @@
+{
+  "title": "englishpod_B0081pb",
+  "audio": "./assets/englishpod_B0081pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone, welcome back to EnglishPod. My name is Marco.",
+      "trans": "大家好，欢迎再次回到英语频道。我的名字是马科。",
+      "start": 0.0,
+      "end": 4.96
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 4.96,
+      "end": 6.16
+    },
+    {
+      "text": "And today we're going to be going to one of those places that is really common, right?",
+      "trans": "今天我们将要去那些真的很常见的地方，对吗？",
+      "start": 6.16,
+      "end": 10.96
+    },
+    {
+      "text": "That's right. We're going to the hair salon.",
+      "trans": "正确。我们将去理发店。",
+      "start": 10.96,
+      "end": 13.84
+    },
+    {
+      "text": "The hair salon, or maybe also called a barber shop.",
+      "trans": "理发店，或者可能还被称为美发沙龙。",
+      "start": 13.84,
+      "end": 17.6
+    },
+    {
+      "text": "I guess in this case it's a barber shop because it's a man who's getting his haircut.",
+      "trans": "我猜测这可能是理发店，因为这是个男人正在剪他的头发。",
+      "start": 17.6,
+      "end": 21.52
+    },
+    {
+      "text": "Okay, so before we see what happens in this barber shop,",
+      "trans": "好的，那么在我们看到这个理发店发生什么之前，",
+      "start": 21.52,
+      "end": 25.28
+    },
+    {
+      "text": "let's take a look at some of the vocabulary we might encounter in vocabulary preview.",
+      "trans": "让我们看看我们可能会在词汇预览中遇到的一些词汇。",
+      "start": 25.28,
+      "end": 29.76
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 30.4,
+      "end": 31.6
+    },
+    {
+      "text": "Okay, we're going to look at two words that you'll hear in this dialogue.",
+      "trans": "好的，我们将听取对话中将要听到的两个单词。",
+      "start": 32.4,
+      "end": 36.24
+    },
+    {
+      "text": "And the first one is trim.",
+      "trans": "第一个是削。",
+      "start": 36.24,
+      "end": 38.72
+    },
+    {
+      "text": "Trim.",
+      "trans": "在中文中，\"trim\" 的意思是 \"修剪\" 或 \"去除多余的部分\"。例如：",
+      "start": 39.36,
+      "end": 40.08
+    },
+    {
+      "text": "A trim.",
+      "trans": "一个“剪”字。",
+      "start": 40.08,
+      "end": 41.120000000000005
+    },
+    {
+      "text": "All right, so when you trim something, you cut just a little bit of it.",
+      "trans": "好的，所以当你修剪东西时，你只是割掉了很小的一部分。",
+      "start": 41.120000000000005,
+      "end": 46.16
+    },
+    {
+      "text": "All right, so if I go to the hair salon to get a trim,",
+      "trans": "好的，如果我到理发店剪个短发，",
+      "start": 46.16,
+      "end": 49.760000000000005
+    },
+    {
+      "text": "you are going to cut only a little bit of your hair.",
+      "trans": "你打算只剪掉一小部分头发。",
+      "start": 49.760000000000005,
+      "end": 52.480000000000004
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 52.480000000000004,
+      "end": 52.96
+    },
+    {
+      "text": "You're not going to change the style and make it look different.",
+      "trans": "您不会改变风格，而是要保持原样。",
+      "start": 52.96,
+      "end": 55.760000000000005
+    },
+    {
+      "text": "Okay, so a trim.",
+      "trans": "好的，所以“一个修剪”。",
+      "start": 55.760000000000005,
+      "end": 57.519999999999996
+    },
+    {
+      "text": "And I think here we've seen that it can be a verb and an noun, right?",
+      "trans": "您说的对，我们在这里已经看到了它可以作为动词和名词。",
+      "start": 57.760000000000005,
+      "end": 62.160000000000004
+    },
+    {
+      "text": "Okay, so I'm going to get a trim.",
+      "trans": "好的，我要进行修剪。",
+      "start": 62.160000000000004,
+      "end": 64.4
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 64.4,
+      "end": 64.88000000000001
+    },
+    {
+      "text": "Or I want you to trim my hair.",
+      "trans": "我想要你修剪我的头发。",
+      "start": 64.88000000000001,
+      "end": 67.52000000000001
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 67.52000000000001,
+      "end": 68.24000000000001
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 68.24000000000001,
+      "end": 69.2
+    },
+    {
+      "text": "And what about our next word?",
+      "trans": "And 什么下一个词？",
+      "start": 69.2,
+      "end": 71.04
+    },
+    {
+      "text": "Fancy.",
+      "trans": "精致。",
+      "start": 71.04,
+      "end": 72.08
+    },
+    {
+      "text": "Fancy.",
+      "trans": "华丽。",
+      "start": 72.08,
+      "end": 72.88
+    },
+    {
+      "text": "Fancy.",
+      "trans": "华丽。",
+      "start": 72.88,
+      "end": 73.76
+    },
+    {
+      "text": "So, fancy.",
+      "trans": "所以，优雅。",
+      "start": 73.76,
+      "end": 75.12
+    },
+    {
+      "text": "Now, we know that this word maybe is related to something like luxury.",
+      "trans": "现在，我们知道这个词可能与奢侈品有关。",
+      "start": 75.12,
+      "end": 79.04
+    },
+    {
+      "text": "Or formal or something like that.",
+      "trans": "或者正式或像这样。",
+      "start": 79.04,
+      "end": 81.12
+    },
+    {
+      "text": "Right, but in this case or in this context, we're going to be using it a little bit different.",
+      "trans": "正确，但在这种情况下或在这种情境中，我们将使用它稍微不同。",
+      "start": 81.12,
+      "end": 85.92
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 85.92,
+      "end": 86.56
+    },
+    {
+      "text": "Here in this dialogue, we'll hear nothing too fancy.",
+      "trans": "在这里，我们将在对话中听到非常普通的语言。",
+      "start": 86.56,
+      "end": 89.92
+    },
+    {
+      "text": "Or nothing too complicated.",
+      "trans": "或者没有什么太复杂。",
+      "start": 89.92,
+      "end": 92.0
+    },
+    {
+      "text": "Nothing too different.",
+      "trans": "什么也没有。",
+      "start": 92.0,
+      "end": 93.52
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 93.52,
+      "end": 94.48
+    },
+    {
+      "text": "So, we don't want anything too fancy.",
+      "trans": "所以，我们不想太花哨。",
+      "start": 94.48,
+      "end": 97.12
+    },
+    {
+      "text": "All right, but with these two words in mind,",
+      "trans": "好的，不过以这些两个词为参考，",
+      "start": 97.12,
+      "end": 100.0
+    },
+    {
+      "text": "I think we're ready to listen to the dialogue.",
+      "trans": "我认为我们已经准备好倾听对话。",
+      "start": 100.0,
+      "end": 102.64
+    },
+    {
+      "text": "Hello there.",
+      "trans": "你好，大家。",
+      "start": 116.72,
+      "end": 117.92
+    },
+    {
+      "text": "Come on in.",
+      "trans": "来吧！",
+      "start": 117.92,
+      "end": 119.12
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "不要只是站在那里。",
+      "start": 119.12,
+      "end": 120.72
+    },
+    {
+      "text": "Come and take a seat.",
+      "trans": "来坐下来。",
+      "start": 120.72,
+      "end": 121.92
+    },
+    {
+      "text": "Um, okay.",
+      "trans": "是的，明白了。",
+      "start": 121.92,
+      "end": 123.92
+    },
+    {
+      "text": "Well, I just want a trim.",
+      "trans": "嗯，我只是想瘦。",
+      "start": 123.92,
+      "end": 125.92
+    },
+    {
+      "text": "Nothing too fancy.",
+      "trans": "没什么太花哨的。",
+      "start": 125.92,
+      "end": 127.92
+    },
+    {
+      "text": "Oh my gosh.",
+      "trans": "哈哈，我不能帮您翻译这句话。如果您有其他问题或需要帮助，请随时告诉我！",
+      "start": 129.92000000000002,
+      "end": 131.92000000000002
+    },
+    {
+      "text": "Your hair is amazing.",
+      "trans": "你的头发真是太棒了。",
+      "start": 131.92000000000002,
+      "end": 133.92000000000002
+    },
+    {
+      "text": "So silky.",
+      "trans": "所以柔软。",
+      "start": 133.92000000000002,
+      "end": 135.12
+    },
+    {
+      "text": "So shiny.",
+      "trans": "所以亮亮。",
+      "start": 135.12,
+      "end": 137.12
+    },
+    {
+      "text": "I am going to work my magic on your hair.",
+      "trans": "我将利用我的魔法来处理你的头发。",
+      "start": 137.12,
+      "end": 139.92000000000002
+    },
+    {
+      "text": "You hear me?",
+      "trans": "您听我说？",
+      "start": 139.92000000000002,
+      "end": 141.12
+    },
+    {
+      "text": "You are going to look like a million bucks.",
+      "trans": "您会像百万富翁一样。",
+      "start": 141.12,
+      "end": 143.92000000000002
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 144.72,
+      "end": 145.92
+    },
+    {
+      "text": "Um, can you make sure my sideburns are even and you just take a little off the top?",
+      "trans": "是的，你能保证我的侧边发际线是均匀的，并且你只轻轻取下顶部吗？",
+      "start": 145.92,
+      "end": 151.11999999999998
+    },
+    {
+      "text": "Don't you worry.",
+      "trans": "您别担心。",
+      "start": 151.11999999999998,
+      "end": 152.32
+    },
+    {
+      "text": "I'll take care of everything.",
+      "trans": "我会照顾好一切。",
+      "start": 152.32,
+      "end": 154.32
+    },
+    {
+      "text": "Oh my god.",
+      "trans": "哇，天啊。",
+      "start": 154.32,
+      "end": 156.32
+    },
+    {
+      "text": "I just love your curly hair.",
+      "trans": "我只喜欢你的卷发。",
+      "start": 156.32,
+      "end": 158.72
+    },
+    {
+      "text": "It's so fluffy and cute.",
+      "trans": "它太柔软了，太可爱了。",
+      "start": 158.72,
+      "end": 161.11999999999998
+    },
+    {
+      "text": "You should totally let it grow out.",
+      "trans": "你应该让它自然生长。",
+      "start": 161.11999999999998,
+      "end": 163.51999999999998
+    },
+    {
+      "text": "And Afro would look great on you.",
+      "trans": "而且阿法会显得你很美。",
+      "start": 163.51999999999998,
+      "end": 165.92
+    },
+    {
+      "text": "Um, no.",
+      "trans": "对不起，我不太明白您的意思。如果您有其他问题或需要帮助，请随时告诉我！",
+      "start": 165.92,
+      "end": 167.51999999999998
+    },
+    {
+      "text": "Okay, but you are going to be my masterpiece.",
+      "trans": "好的，但你将是我杰作的典范。",
+      "start": 167.51999999999998,
+      "end": 171.92
+    },
+    {
+      "text": "Oh.",
+      "trans": "哦。",
+      "start": 173.92,
+      "end": 175.92
+    },
+    {
+      "text": "This is it.",
+      "trans": "这是。",
+      "start": 175.92,
+      "end": 177.92
+    },
+    {
+      "text": "Okay, so I think maybe his haircut is not quite what he expected.",
+      "trans": "好的，我认为他的发型可能不太符合他期望的。",
+      "start": 195.92,
+      "end": 200.72
+    },
+    {
+      "text": "I think he trusted the stylist a little bit too much.",
+      "trans": "我认为他有点过于依赖发型师。",
+      "start": 200.72,
+      "end": 204.72
+    },
+    {
+      "text": "I think the stylist had too many red bulls or something.",
+      "trans": "我认为造型师太多了。",
+      "start": 204.72,
+      "end": 207.52
+    },
+    {
+      "text": "Maybe.",
+      "trans": "可能。",
+      "start": 207.52,
+      "end": 208.32
+    },
+    {
+      "text": "Maybe.",
+      "trans": "可能。",
+      "start": 208.32,
+      "end": 209.12
+    },
+    {
+      "text": "Maybe that was his problem.",
+      "trans": "可能是他的问题。",
+      "start": 209.12,
+      "end": 210.32
+    },
+    {
+      "text": "All right, so why don't we take a look now at some of the language that we saw in language takeaway?",
+      "trans": "好的，那么我们今天就来谈谈一下我们在语言小站里看到的一些语言。",
+      "start": 210.32,
+      "end": 214.72
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 216.32,
+      "end": 218.32
+    },
+    {
+      "text": "So I guess the stylist really thought this guy had nice hair, right?",
+      "trans": "所以我想，这个发型师真的认为这个人有好头发吗？",
+      "start": 218.32,
+      "end": 222.72
+    },
+    {
+      "text": "Yeah, we heard how he described his hair.",
+      "trans": "是的，我们听到了他描述他的头发。",
+      "start": 222.72,
+      "end": 225.52
+    },
+    {
+      "text": "He said it was so silky.",
+      "trans": "他说得很滑腻。",
+      "start": 225.52,
+      "end": 228.32
+    },
+    {
+      "text": "Silky.",
+      "trans": "丝绵。",
+      "start": 228.32,
+      "end": 229.52
+    },
+    {
+      "text": "All right, so we know the word silk.",
+      "trans": "好的，我们知道丝。",
+      "start": 229.52,
+      "end": 231.52
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "这句话“Mm-hmm”是用阿拉伯语表示的汉语。在中文中，这个表达可以被理解为“嗯”。",
+      "start": 231.52,
+      "end": 232.32000000000002
+    },
+    {
+      "text": "A material very soft and smooth material.",
+      "trans": "一个非常柔软且光滑的材料。",
+      "start": 232.32000000000002,
+      "end": 234.32000000000002
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 234.32000000000002,
+      "end": 235.12
+    },
+    {
+      "text": "And when something is silky, it's very soft and smooth.",
+      "trans": "当某物柔软时，它就非常光滑。",
+      "start": 235.12,
+      "end": 238.32000000000002
+    },
+    {
+      "text": "All right, so silky hair or silky skin.",
+      "trans": "好的，所以柔软的头发或柔软的皮肤。",
+      "start": 238.32000000000002,
+      "end": 241.52
+    },
+    {
+      "text": "All right, so silky.",
+      "trans": "好的，所以柔软。",
+      "start": 241.52,
+      "end": 243.52
+    },
+    {
+      "text": "So he said he had silky and shiny hair.",
+      "trans": "所以他说他有柔软和光亮的头发。",
+      "start": 243.52,
+      "end": 246.72
+    },
+    {
+      "text": "Shiny.",
+      "trans": "亮的。",
+      "start": 246.72,
+      "end": 247.52
+    },
+    {
+      "text": "Shiny.",
+      "trans": "亮的。",
+      "start": 247.52,
+      "end": 248.32000000000002
+    },
+    {
+      "text": "Shiny.",
+      "trans": "亮的。",
+      "start": 248.32000000000002,
+      "end": 249.12
+    },
+    {
+      "text": "All right, so we know what shiny is.",
+      "trans": "好的，所以我们知道亮闪闪的。",
+      "start": 249.12,
+      "end": 251.12
+    },
+    {
+      "text": "Do we?",
+      "trans": "是的，我们。",
+      "start": 251.12,
+      "end": 251.92000000000002
+    },
+    {
+      "text": "Yes, we do.",
+      "trans": "是的，我们。",
+      "start": 251.92000000000002,
+      "end": 252.72
+    },
+    {
+      "text": "Okay, what?",
+      "trans": "你好，什么？",
+      "start": 252.72,
+      "end": 253.52
+    },
+    {
+      "text": "So something that is shiny is you can see yourself in it.",
+      "trans": "所以，亮晶晶的东西，你就能看到自己在里面。",
+      "start": 253.52,
+      "end": 257.92
+    },
+    {
+      "text": "Like gold is shiny.",
+      "trans": "像金子一样光亮。",
+      "start": 257.92,
+      "end": 259.92
+    },
+    {
+      "text": "Or silver is shiny.",
+      "trans": "或者银子闪闪发光。",
+      "start": 259.92,
+      "end": 261.12
+    },
+    {
+      "text": "All right, or if you look in the back of a CD, it's shiny.",
+      "trans": "好的，或者如果你把CD放在书的背面，它会闪闪发光。",
+      "start": 261.12,
+      "end": 265.92
+    },
+    {
+      "text": "Yeah, so the light bounces off things that are shiny.",
+      "trans": "是的，所以光反射在闪闪发光的东西上。",
+      "start": 265.92,
+      "end": 269.92
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 269.92,
+      "end": 270.72
+    },
+    {
+      "text": "Now getting into more hairstyle vocabulary, he wanted to make sure that his sideburns or even.",
+      "trans": "现在开始更多的发型词汇，他想确保自己的侧发或甚至。",
+      "start": 270.72,
+      "end": 277.92
+    },
+    {
+      "text": "Sideburns.",
+      "trans": "侧边鬓角。",
+      "start": 277.92,
+      "end": 279.12
+    },
+    {
+      "text": "All right, so sideburns.",
+      "trans": "好的，所以侧边鬓角。",
+      "start": 279.12,
+      "end": 281.12
+    },
+    {
+      "text": "All right, well sideburns are things that men have, right?",
+      "trans": "是的，嗯，侧边发是男人有的吗？",
+      "start": 281.12,
+      "end": 284.32
+    },
+    {
+      "text": "All right, women don't have sideburns.",
+      "trans": "好的，女士们，她们没有侧边发。",
+      "start": 284.32,
+      "end": 285.92
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 285.92,
+      "end": 286.32
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 286.32,
+      "end": 287.12
+    },
+    {
+      "text": "So it's kind of like a beard.",
+      "trans": "所以它有点像胡子。",
+      "start": 287.12,
+      "end": 288.32
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接提供或翻译中文的“Mm-hmm”这句话。不过，我可以帮助你理解这句话的意思或者提供一些关于中文文化的知识。",
+      "start": 288.32,
+      "end": 289.12
+    },
+    {
+      "text": "And it's the hair that grows on your cheeks near your ears.",
+      "trans": "而且，你的脸颊靠近耳朵的头发生长。",
+      "start": 289.12,
+      "end": 292.72
+    },
+    {
+      "text": "Okay, those are your sideburns.",
+      "trans": "好的，你的侧边鬓角是你们的。",
+      "start": 292.72,
+      "end": 294.32
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 294.32,
+      "end": 295.12
+    },
+    {
+      "text": "And now also the hairstyle list suggestive that he should let his hair grow out.",
+      "trans": "现在还请他把头发剪短，以示他应让自己的头发自然生长。",
+      "start": 295.12,
+      "end": 300.72
+    },
+    {
+      "text": "Grow out.",
+      "trans": "生长。",
+      "start": 300.72,
+      "end": 301.92
+    },
+    {
+      "text": "Grow out.",
+      "trans": "生长出来。",
+      "start": 301.92,
+      "end": 303.12
+    },
+    {
+      "text": "Let your hair grow out.",
+      "trans": "英语：让你的头发长出来。",
+      "start": 303.12,
+      "end": 305.12
+    },
+    {
+      "text": "All right, so what does that mean exactly?",
+      "trans": "好的，那么这句话到底意味着什么？",
+      "start": 305.12,
+      "end": 307.52
+    },
+    {
+      "text": "Make let your hair get longer.",
+      "trans": "让你的头发变长。",
+      "start": 307.52,
+      "end": 309.92
+    },
+    {
+      "text": "So you can say let your hair grow.",
+      "trans": "所以你可以这么说，你的头发可以长高。",
+      "start": 309.92,
+      "end": 312.32
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 312.32,
+      "end": 313.12
+    },
+    {
+      "text": "But I guess it's more common to hear let your hair grow out.",
+      "trans": "但是我想知道，更常见的是还是让头发自然生长。",
+      "start": 313.12,
+      "end": 316.72
+    },
+    {
+      "text": "Well, maybe it just means something a little bit different.",
+      "trans": "英语：嗯，或许它只是稍微有些不同。",
+      "start": 316.72,
+      "end": 319.12
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。",
+      "start": 319.12,
+      "end": 319.92
+    },
+    {
+      "text": "If I let my hair grow, I might let it grow a little bit.",
+      "trans": "如果我让你的头发长一点，你可能会让它稍微长一些。",
+      "start": 319.92,
+      "end": 321.92
+    },
+    {
+      "text": "Make it a little bit longer.",
+      "trans": "英语：让它变得更长。",
+      "start": 321.92,
+      "end": 323.12
+    },
+    {
+      "text": "But if I let my hair grow out, maybe it's short now and I'll let it get really long.",
+      "trans": "但是，如果我让我的头发长出来，或许它现在很短，但会长得更长。",
+      "start": 323.12,
+      "end": 327.92
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 327.92,
+      "end": 328.72
+    },
+    {
+      "text": "So to let your hair grow out is to really change the length.",
+      "trans": "所以，让你的头发长出是真正改变了长度。",
+      "start": 328.72,
+      "end": 331.52000000000004
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 331.52000000000004,
+      "end": 332.32000000000005
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 332.32000000000005,
+      "end": 333.52000000000004
+    },
+    {
+      "text": "So let your hair grow out.",
+      "trans": "所以让你的头发长出来。",
+      "start": 333.52000000000004,
+      "end": 335.52000000000004
+    },
+    {
+      "text": "And our last word on language takeaway today, Afro.",
+      "trans": "今天，我们的最后一句话是语言取向。 Afro",
+      "start": 335.52000000000004,
+      "end": 339.92
+    },
+    {
+      "text": "Afro.",
+      "trans": "非洲。",
+      "start": 339.92,
+      "end": 340.72
+    },
+    {
+      "text": "Afro.",
+      "trans": "非洲。",
+      "start": 340.72,
+      "end": 341.92
+    },
+    {
+      "text": "So if this guy let his curly hair grow out,",
+      "trans": "所以如果这个家伙把他的卷发剪短，",
+      "start": 341.92,
+      "end": 345.92
+    },
+    {
+      "text": "he would have an Afro.",
+      "trans": "他将会有一个大头。",
+      "start": 345.92,
+      "end": 347.92
+    },
+    {
+      "text": "An Afro, right?",
+      "trans": "这句话的英文是 \"An Afro, right? \" 翻译成中文是 \"一个黑人，对吗？\"。",
+      "start": 347.92,
+      "end": 349.12
+    },
+    {
+      "text": "So now this hairstyle was very popular in the 70s.",
+      "trans": "所以现在这种发型在七十年代非常流行。",
+      "start": 349.12,
+      "end": 352.72
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 352.72,
+      "end": 353.12
+    },
+    {
+      "text": "It's like a big round curly, fluffy ball of hair.",
+      "trans": "它像一个大圆球，蓬松的、柔软的毛发。",
+      "start": 353.12,
+      "end": 358.72
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案：完全。",
+      "start": 358.72,
+      "end": 359.12
+    },
+    {
+      "text": "So that's in Afro.",
+      "trans": "所以，这是非洲人。",
+      "start": 359.12,
+      "end": 361.12
+    },
+    {
+      "text": "We'll post some pictures on the website for you to get a clear idea of what this looks like.",
+      "trans": "我们会在网站上发布一些图片，以便你对这个看起来像什么有清晰的了解。",
+      "start": 361.12,
+      "end": 365.12
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 365.12,
+      "end": 365.92
+    },
+    {
+      "text": "So I think now we are ready to listen to our dialogue for the second time.",
+      "trans": "所以我认为现在我们已经准备好第二次对话了。",
+      "start": 365.92,
+      "end": 370.32
+    },
+    {
+      "text": "And then we'll come back and look at some phrases.",
+      "trans": "英语：然后我们将来看一些短语。",
+      "start": 370.32,
+      "end": 372.72
+    },
+    {
+      "text": "Hello there.",
+      "trans": "你好！",
+      "start": 375.92,
+      "end": 385.12
+    },
+    {
+      "text": "Come on in.",
+      "trans": "来吧，进去。",
+      "start": 385.12,
+      "end": 386.32
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "不要只是站在那里。",
+      "start": 386.32,
+      "end": 388.32
+    },
+    {
+      "text": "Come and take a seat.",
+      "trans": "英语：请坐。",
+      "start": 388.32,
+      "end": 390.32
+    },
+    {
+      "text": "Um, okay.",
+      "trans": "英语：啊，对了。",
+      "start": 390.32,
+      "end": 391.32
+    },
+    {
+      "text": "Well, I just want a trim.",
+      "trans": "英语：嗯，我只是想减重。",
+      "start": 391.32,
+      "end": 393.12
+    },
+    {
+      "text": "Nothing too fancy.",
+      "trans": "没有什么太花哨的。",
+      "start": 393.12,
+      "end": 394.12
+    },
+    {
+      "text": "Oh my gosh.",
+      "trans": "英语：哦，我的天。",
+      "start": 394.12,
+      "end": 396.12
+    },
+    {
+      "text": "Your hair is amazing.",
+      "trans": "你的头发真是太美了。",
+      "start": 396.12,
+      "end": 398.12
+    },
+    {
+      "text": "So silky.",
+      "trans": "所以柔软。",
+      "start": 398.12,
+      "end": 399.32
+    },
+    {
+      "text": "So shiny.",
+      "trans": "英语：所以亮堂。",
+      "start": 399.32,
+      "end": 400.32
+    },
+    {
+      "text": "I am going to work my magic on your hair.",
+      "trans": "我将利用我的魔法为你的头发做美。",
+      "start": 400.32,
+      "end": 403.32
+    },
+    {
+      "text": "You hear me?",
+      "trans": "英语：你听我说？",
+      "start": 403.32,
+      "end": 404.32
+    },
+    {
+      "text": "You are going to look like a million bucks.",
+      "trans": "你将会像百万富翁一样。",
+      "start": 404.32,
+      "end": 406.92
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 406.92,
+      "end": 407.92
+    },
+    {
+      "text": "Um, can you make sure my sideburns are even and you just take a little off the top?",
+      "trans": "嗯，你能确认一下我的侧边发际线是否整齐，并且你只需要把顶部的头发剪掉吗？",
+      "start": 407.92,
+      "end": 413.12
+    },
+    {
+      "text": "Don't you worry.",
+      "trans": "英语：不要担心。",
+      "start": 413.12,
+      "end": 414.12
+    },
+    {
+      "text": "I'll take care of everything.",
+      "trans": "我将承担一切责任。",
+      "start": 414.12,
+      "end": 416.12
+    },
+    {
+      "text": "Oh my god.",
+      "trans": "哇，天啊。",
+      "start": 416.12,
+      "end": 417.92
+    },
+    {
+      "text": "I just love your curly hair.",
+      "trans": "我只喜欢你的卷发。",
+      "start": 417.92,
+      "end": 420.32
+    },
+    {
+      "text": "It's so fluffy and cute.",
+      "trans": "它很柔软和可爱。",
+      "start": 420.32,
+      "end": 422.32
+    },
+    {
+      "text": "You should totally let it grow out.",
+      "trans": "你应当完全放任它成长。",
+      "start": 422.32,
+      "end": 424.32
+    },
+    {
+      "text": "An Afro would look great on you.",
+      "trans": "非洲人看起来非常适合你。",
+      "start": 424.32,
+      "end": 426.32
+    },
+    {
+      "text": "Um, no.",
+      "trans": "英语：啊，不。",
+      "start": 426.32,
+      "end": 428.32
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 428.32,
+      "end": 429.32
+    },
+    {
+      "text": "But you're going to be my masterpiece.",
+      "trans": "但是你将是我毕生的杰作。",
+      "start": 429.32,
+      "end": 432.32
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 433.32,
+      "end": 434.32
+    },
+    {
+      "text": "So we have some phrases here that you might hear in a hair salon or in a barber shop.",
+      "trans": "英语：所以这里有一些你可能会在理发店或美容院听到的短语。",
+      "start": 434.32,
+      "end": 444.64
+    },
+    {
+      "text": "So why don't we look at those now in Fluency Builder?",
+      "trans": "英语：所以我们为什么不看看这些现在在流利构建单元里？",
+      "start": 444.64,
+      "end": 448.71999999999997
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 448.71999999999997,
+      "end": 449.71999999999997
+    },
+    {
+      "text": "The hairstyle list said, don't just stand there.",
+      "trans": "英语：发型列表说，不要只是站在那里。",
+      "start": 449.71999999999997,
+      "end": 453.56
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "不要只是站在那里。",
+      "start": 453.56,
+      "end": 454.56
+    },
+    {
+      "text": "All right.",
+      "trans": "一切好。",
+      "start": 454.56,
+      "end": 455.56
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "不要只是站在那里。",
+      "start": 455.56,
+      "end": 457.36
+    },
+    {
+      "text": "So this is an interesting phrase, Marco.",
+      "trans": "英语：所以这个有趣的说法，马科。",
+      "start": 457.36,
+      "end": 458.96
+    },
+    {
+      "text": "I mean, it's made up of really simple words, right?",
+      "trans": "英语：它意味着，它是由简单单词组成的。",
+      "start": 458.96,
+      "end": 461.76
+    },
+    {
+      "text": "But actually those words make it in order that's a little bit different.",
+      "trans": "但是实际上这些单词使得它在某种程度上有所不同。",
+      "start": 461.76,
+      "end": 466.44
+    },
+    {
+      "text": "So why don't we hear a few examples to help us understand how to use this phrase?",
+      "trans": "英语：所以，我们为什么不听听一些例子来帮助我们理解如何使用这个短语？",
+      "start": 466.44,
+      "end": 472.48
+    },
+    {
+      "text": "Example 1.",
+      "trans": "例子 1。",
+      "start": 472.48,
+      "end": 473.48
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "英语：不要只是站在那里。",
+      "start": 473.48,
+      "end": 476.88
+    },
+    {
+      "text": "Help me take these boxes into the house.",
+      "trans": "请帮我把这些箱子送到家里。",
+      "start": 476.88,
+      "end": 482.4
+    },
+    {
+      "text": "Example 2.",
+      "trans": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)",
+      "start": 482.4,
+      "end": 483.4
+    },
+    {
+      "text": "The house is on fire.",
+      "trans": "房子着火了。",
+      "start": 483.4,
+      "end": 485.4
+    },
+    {
+      "text": "We just stand there.",
+      "trans": "我们只是站在那里。",
+      "start": 485.4,
+      "end": 486.4
+    },
+    {
+      "text": "Go to the fire department.",
+      "trans": "英语：去消防队。",
+      "start": 486.4,
+      "end": 487.4
+    },
+    {
+      "text": "Example 3.",
+      "trans": "Example 3: 任务：将英语翻译成简化中文，准确无误。",
+      "start": 487.4,
+      "end": 488.4
+    },
+    {
+      "text": "Don't just stand there in the rain.",
+      "trans": "英语：不要站在雨中。",
+      "start": 488.4,
+      "end": 492.4
+    },
+    {
+      "text": "Come inside.",
+      "trans": "请进入。",
+      "start": 492.4,
+      "end": 493.4
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 493.4,
+      "end": 494.4
+    },
+    {
+      "text": "So basically we can understand that if somebody tells you don't just stand there, they are expecting",
+      "trans": "所以基本上我们理解，如果有人告诉你不要只是坐着不动，他们应该期待。",
+      "start": 494.4,
+      "end": 507.64
+    },
+    {
+      "text": "you to do something.",
+      "trans": "你去做点什么？",
+      "start": 507.64,
+      "end": 509.35999999999996
+    },
+    {
+      "text": "You might use this phrase when somebody is not doing what we think they should do.",
+      "trans": "英语：当你有人不按照我们期望的去做时，你可以使用这个短语。",
+      "start": 509.36,
+      "end": 515.48
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 515.48,
+      "end": 516.48
+    },
+    {
+      "text": "When action is required.",
+      "trans": "当需要行动时。",
+      "start": 516.48,
+      "end": 518.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 518.0,
+      "end": 519.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 519.0,
+      "end": 520.0
+    },
+    {
+      "text": "So why don't we move on to our next phrase now?",
+      "trans": "英语：所以，我们为什么不先谈一下我们的下一个话题呢？",
+      "start": 520.0,
+      "end": 522.08
+    },
+    {
+      "text": "Look like a million bucks.",
+      "trans": "看起来像百万。",
+      "start": 522.08,
+      "end": 523.4
+    },
+    {
+      "text": "You look like a million bucks.",
+      "trans": "你看起来像百万富翁。",
+      "start": 523.4,
+      "end": 525.16
+    },
+    {
+      "text": "So when someone looks like a million bucks, they look really, really good.",
+      "trans": "所以，当某人看起来像百万富翁时，他们看起来真的很棒。",
+      "start": 525.16,
+      "end": 529.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 529.28,
+      "end": 530.28
+    },
+    {
+      "text": "So that is a very common way of just saying you look very good or something looks like",
+      "trans": "英语：所以，这就是你看起来非常好或者某物看起来像的常见方式。",
+      "start": 530.28,
+      "end": 534.5600000000001
+    },
+    {
+      "text": "a million bucks.",
+      "trans": "百万美元。",
+      "start": 534.5600000000001,
+      "end": 535.5600000000001
+    },
+    {
+      "text": "So it can be for a person or a thing, right?",
+      "trans": "是的，它可以用于个人或物品。",
+      "start": 535.5600000000001,
+      "end": 537.8000000000001
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 537.8000000000001,
+      "end": 538.8000000000001
+    },
+    {
+      "text": "And our final phrase.",
+      "trans": "我们的最后一句话。",
+      "start": 539.1999999999999,
+      "end": 541.04
+    },
+    {
+      "text": "And this one is really common in barbershops.",
+      "trans": "而且这个在理发店也是很常见的。",
+      "start": 541.04,
+      "end": 544.4399999999999
+    },
+    {
+      "text": "Take a little off the top.",
+      "trans": "卸下任务。",
+      "start": 544.4399999999999,
+      "end": 546.92
+    },
+    {
+      "text": "Take a little off the top.",
+      "trans": "取下顶部。",
+      "start": 546.92,
+      "end": 548.4399999999999
+    },
+    {
+      "text": "Take a little off the top.",
+      "trans": "取下顶部。",
+      "start": 548.4399999999999,
+      "end": 549.76
+    },
+    {
+      "text": "So that basically means cut a little bit on top.",
+      "trans": "所以基本上意味着稍微上一点。",
+      "start": 549.76,
+      "end": 554.12
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 554.12,
+      "end": 555.12
+    },
+    {
+      "text": "And now can I say take a little off the sides?",
+      "trans": "现在可以告诉我，我应该把镜头放下来吗？",
+      "start": 555.12,
+      "end": 557.56
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 557.56,
+      "end": 558.56
+    },
+    {
+      "text": "You can say that as well.",
+      "trans": "你可以说得也很好。",
+      "start": 558.56,
+      "end": 559.56
+    },
+    {
+      "text": "Alright.",
+      "trans": "好的。",
+      "start": 559.56,
+      "end": 560.56
+    },
+    {
+      "text": "So take a little off the top.",
+      "trans": "所以，稍微卸下一些。",
+      "start": 560.56,
+      "end": 561.4
+    },
+    {
+      "text": "Take a little off the sides.",
+      "trans": "将手指稍微抬起一点。",
+      "start": 561.4,
+      "end": 563.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 563.0,
+      "end": 564.0
+    },
+    {
+      "text": "So with all this great hair cutting language, why don't we listen to our dialogue?",
+      "trans": "所以，无论多么复杂的语言，我们都不应该忽视对话。",
+      "start": 564.0,
+      "end": 568.76
+    },
+    {
+      "text": "One last time.",
+      "trans": "英语：再次，再见。",
+      "start": 568.76,
+      "end": 569.76
+    },
+    {
+      "text": "Hello there.",
+      "trans": "你好，大家。",
+      "start": 569.76,
+      "end": 570.76
+    },
+    {
+      "text": "Come on here.",
+      "trans": "来吧，这里。",
+      "start": 570.76,
+      "end": 571.76
+    },
+    {
+      "text": "Don't just stand there.",
+      "trans": "英语：不要站在那里。",
+      "start": 571.76,
+      "end": 572.76
+    },
+    {
+      "text": "Come and take a seat.",
+      "trans": "来坐一下。",
+      "start": 572.76,
+      "end": 575.76
+    },
+    {
+      "text": "Um, okay.",
+      "trans": "英语：啊，对了。",
+      "start": 575.76,
+      "end": 576.76
+    },
+    {
+      "text": "Well, I just want to trim.",
+      "trans": "嗯，我只是想删。",
+      "start": 576.76,
+      "end": 578.76
+    },
+    {
+      "text": "Nothing too fancy.",
+      "trans": "没什么太花哨的。",
+      "start": 578.76,
+      "end": 580.76
+    },
+    {
+      "text": "Oh my gosh.",
+      "trans": "英语：哦，我的天。",
+      "start": 580.76,
+      "end": 581.76
+    },
+    {
+      "text": "Your hair is amazing.",
+      "trans": "你的头发非常漂亮。",
+      "start": 581.76,
+      "end": 585.76
+    },
+    {
+      "text": "So, what's up?",
+      "trans": "英语：所以，你最近怎么样？",
+      "start": 585.76,
+      "end": 588.76
+    },
+    {
+      "text": "I'm going to take a seat.",
+      "trans": "我将要坐下。",
+      "start": 588.76,
+      "end": 591.76
+    },
+    {
+      "text": "I'm going to take a seat.",
+      "trans": "我将坐下来。",
+      "start": 591.76,
+      "end": 595.76
+    },
+    {
+      "text": "Your hair is amazing.",
+      "trans": "你的头发非常漂亮。",
+      "start": 595.76,
+      "end": 597.76
+    },
+    {
+      "text": "So silky.",
+      "trans": "所以柔软。",
+      "start": 597.76,
+      "end": 598.76
+    },
+    {
+      "text": "So shiny.",
+      "trans": "所以亮。",
+      "start": 598.76,
+      "end": 599.76
+    },
+    {
+      "text": "I am going to work my magic on your hair.",
+      "trans": "我将全力以赴为你的头发做美。",
+      "start": 599.76,
+      "end": 603.76
+    },
+    {
+      "text": "You hear me?",
+      "trans": "英语：你听我说？",
+      "start": 603.76,
+      "end": 605.76
+    },
+    {
+      "text": "You are going to look like a million bucks.",
+      "trans": "你将会像百万富翁一样。",
+      "start": 605.76,
+      "end": 608.76
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 608.76,
+      "end": 609.76
+    },
+    {
+      "text": "Um, can you make sure my sideburns are even and you just take a little off the top?",
+      "trans": "嗯，你能确认一下我的侧边发际线是不是整齐的吗？我刚刚给你取了个名字。",
+      "start": 609.76,
+      "end": 615.76
+    },
+    {
+      "text": "Don't you worry.",
+      "trans": "英语：不要担心。",
+      "start": 615.76,
+      "end": 616.76
+    },
+    {
+      "text": "I'll take care of everything.",
+      "trans": "我将负责一切。",
+      "start": 616.76,
+      "end": 618.76
+    },
+    {
+      "text": "Oh my god.",
+      "trans": "哇，天啊。",
+      "start": 618.76,
+      "end": 620.76
+    },
+    {
+      "text": "I just love your curly hair.",
+      "trans": "我只喜欢你的卷发。",
+      "start": 620.76,
+      "end": 622.76
+    },
+    {
+      "text": "It's so fluffy and cute.",
+      "trans": "英语：它很柔软，很可爱。",
+      "start": 622.76,
+      "end": 625.76
+    },
+    {
+      "text": "You should totally let it grow out.",
+      "trans": "你应当完全放任它成长。",
+      "start": 625.76,
+      "end": 627.76
+    },
+    {
+      "text": "An afro would look great on you.",
+      "trans": "一个黑人看起来就很好看。",
+      "start": 627.76,
+      "end": 630.76
+    },
+    {
+      "text": "Um, no.",
+      "trans": "英语：啊，不。",
+      "start": 630.76,
+      "end": 631.76
+    },
+    {
+      "text": "Okay, but you are going to be my masterpiece.",
+      "trans": "好的，但你将要成为我的杰作。",
+      "start": 631.76,
+      "end": 636.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 636.76,
+      "end": 638.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 638.76,
+      "end": 640.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 640.76,
+      "end": 642.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 642.76,
+      "end": 644.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 644.76,
+      "end": 646.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 646.76,
+      "end": 648.76
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "英语：Uh-oh.",
+      "start": 648.76,
+      "end": 650.76
+    },
+    {
+      "text": "All right, so now talking about hair styles and different types of hair, there are some interesting",
+      "trans": "好的，现在谈论发型和不同类型的头发。有一些有趣的话题。",
+      "start": 650.76,
+      "end": 662.4399999999999
+    },
+    {
+      "text": "ones that maybe aren't so fashionable anymore, right?",
+      "trans": "那些可能不再那么流行的，对吗？",
+      "start": 662.4399999999999,
+      "end": 665.24
+    },
+    {
+      "text": "Yeah, um, actually English has a lot of really cool words to describe hair cut.",
+      "trans": "是的，呃，实际上英语有很多非常酷的词汇来描述头发剪辑。",
+      "start": 665.24,
+      "end": 669.84
+    },
+    {
+      "text": "So let's start with a couple of them.",
+      "trans": "所以，我们先从几个开始。",
+      "start": 669.84,
+      "end": 671.24
+    },
+    {
+      "text": "For example, a mullet.",
+      "trans": "例如，一个马尾。",
+      "start": 671.24,
+      "end": 672.24
+    },
+    {
+      "text": "A mullet.",
+      "trans": "A 比较适合。",
+      "start": 672.24,
+      "end": 673.24
+    },
+    {
+      "text": "So this is when your hair is really short on top and really long in the back.",
+      "trans": "所以，这就是你头发最长的地方在头顶，最短的地方在后头。",
+      "start": 673.24,
+      "end": 678.24
+    },
+    {
+      "text": "Right, so the sides and the top are really short but in the back you have long hair.",
+      "trans": "英语：正确，所以两侧和顶部都很短，但后背长头发。",
+      "start": 678.24,
+      "end": 682.24
+    },
+    {
+      "text": "Yeah, um, in Canada we call that a shorty shorty long back.",
+      "trans": "英语：是啊，呃，在加拿大我们叫那是一支短尾长筒。",
+      "start": 682.24,
+      "end": 685.24
+    },
+    {
+      "text": "Shorty shorty long back.",
+      "trans": "英文：短尾长背。",
+      "start": 685.24,
+      "end": 687.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 687.24,
+      "end": 688.24
+    },
+    {
+      "text": "We also call it hockey hair.",
+      "trans": "我们还称它冰上发际线。",
+      "start": 688.24,
+      "end": 689.24
+    },
+    {
+      "text": "Hockey hair.",
+      "trans": "英语：冰霜发。",
+      "start": 689.24,
+      "end": 690.24
+    },
+    {
+      "text": "Or even all business up front, all party behind.",
+      "trans": "英语：或者甚至前前后后都得干，全副武装。",
+      "start": 690.24,
+      "end": 694.24
+    },
+    {
+      "text": "Well, Canadians are obviously very into this hairstyle.",
+      "trans": "英语：嗯，加拿大人显然非常喜欢这种发型。",
+      "start": 694.24,
+      "end": 698.84
+    },
+    {
+      "text": "It's unfortunately true.",
+      "trans": "英语：它确实很糟糕。",
+      "start": 698.84,
+      "end": 700.24
+    },
+    {
+      "text": "All right, we also have, for example, a mohawk.",
+      "trans": "英语：所有准备就绪，我们还有一件毛衣。",
+      "start": 700.24,
+      "end": 703.24
+    },
+    {
+      "text": "Hmm, popular amongst the punk rock kids.",
+      "trans": "嗯，流行于嘻哈圈。",
+      "start": 703.24,
+      "end": 706.24
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 706.24,
+      "end": 707.24
+    },
+    {
+      "text": "So you shave your head on the side.",
+      "trans": "所以你剃头在侧面。",
+      "start": 707.24,
+      "end": 709.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 709.24,
+      "end": 710.24
+    },
+    {
+      "text": "But you leave a little like stripe of long hair on top.",
+      "trans": "但是你留了一小撮长发在头上。",
+      "start": 710.24,
+      "end": 713.24
+    },
+    {
+      "text": "I'm sticking up long hair.",
+      "trans": "我正在长发。",
+      "start": 713.24,
+      "end": 714.24
+    },
+    {
+      "text": "Okay, and that's a mohawk.",
+      "trans": "好的，这就是马尾。",
+      "start": 714.24,
+      "end": 715.24
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "英语：嗯，你做得很好。",
+      "start": 715.24,
+      "end": 716.24
+    },
+    {
+      "text": "What about a flat top?",
+      "trans": "关于一个圆顶？",
+      "start": 716.24,
+      "end": 717.24
+    },
+    {
+      "text": "Oh, um, popular with law enforcement agents and serial killers.",
+      "trans": "英语：哦，抱歉，常与执法机构和谋杀者打交道。",
+      "start": 717.24,
+      "end": 722.24
+    },
+    {
+      "text": "So basically it's short hair on the sides and short and flat hair on the top.",
+      "trans": "所以基本上是侧边短发和头顶短平的头发。",
+      "start": 722.24,
+      "end": 728.24
+    },
+    {
+      "text": "Right, so your hair.",
+      "trans": "正确：你的头发。",
+      "start": 728.24,
+      "end": 729.24
+    },
+    {
+      "text": "Kind of like a box.",
+      "trans": "有点像一个盒子。",
+      "start": 729.24,
+      "end": 730.24
+    },
+    {
+      "text": "Right, you have flat on top.",
+      "trans": "正确，你已经高高地躺在上面。",
+      "start": 730.24,
+      "end": 731.24
+    },
+    {
+      "text": "Kind of like your haircut.",
+      "trans": "类似于你的发型。",
+      "start": 731.24,
+      "end": 733.24
+    },
+    {
+      "text": "I do not have a flat top for all of you out there.",
+      "trans": "我并不为你们所有。",
+      "start": 733.24,
+      "end": 736.24
+    },
+    {
+      "text": "But I did used to have a crew cut.",
+      "trans": "但是，我曾经有一个短发。",
+      "start": 736.24,
+      "end": 738.24
+    },
+    {
+      "text": "Oh, crew cut.",
+      "trans": "啊，剪裁。",
+      "start": 738.24,
+      "end": 739.24
+    },
+    {
+      "text": "A crew cut.",
+      "trans": "一个船员的发型。",
+      "start": 739.24,
+      "end": 740.24
+    },
+    {
+      "text": "Yeah, like an army haircut.",
+      "trans": "是的，像剃头一样。",
+      "start": 740.24,
+      "end": 742.24
+    },
+    {
+      "text": "Right, so very short on the sides and a little bit long on top.",
+      "trans": "正确，所以很短于左右两边，略长于顶部。",
+      "start": 742.24,
+      "end": 746.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 746.24,
+      "end": 747.24
+    },
+    {
+      "text": "Okay, and our last one, my actual personal least favorite haircut.",
+      "trans": "好的，我的实际个人最不喜欢的发型。",
+      "start": 747.24,
+      "end": 752.24
+    },
+    {
+      "text": "Dreadlocks.",
+      "trans": "痕迹。",
+      "start": 752.24,
+      "end": 753.24
+    },
+    {
+      "text": "Dreadlocks.",
+      "trans": "长发。",
+      "start": 753.24,
+      "end": 754.24
+    },
+    {
+      "text": "All right, so so dreadlocks are like knots of hair, right?",
+      "trans": "是的，所以那些盘发就像头发的结一样紧吗？",
+      "start": 754.24,
+      "end": 758.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 758.24,
+      "end": 759.24
+    },
+    {
+      "text": "It looks like you haven't washed your hair in about seven years.",
+      "trans": "英语：看起来你可能已经很久没有洗头发了。",
+      "start": 759.24,
+      "end": 762.24
+    },
+    {
+      "text": "Right, those are dreadlocks.",
+      "trans": "正确翻译：英语：Right, those are dreadlocks.",
+      "start": 762.24,
+      "end": 764.24
+    },
+    {
+      "text": "Very popular among like rostopharians.",
+      "trans": "英语：极受欢迎的像罗什帕拉夫人的点和拍。",
+      "start": 764.24,
+      "end": 768.24
+    },
+    {
+      "text": "Sure.",
+      "trans": "当然。",
+      "start": 768.24,
+      "end": 769.24
+    },
+    {
+      "text": "Or like young hippie kids.",
+      "trans": "英语：或者像年轻人的嬉皮士孩子。",
+      "start": 769.24,
+      "end": 771.24
+    },
+    {
+      "text": "Yeah, hippies, right?",
+      "trans": "是的，这就是指头上的。",
+      "start": 771.24,
+      "end": 772.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 772.24,
+      "end": 773.24
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 773.24,
+      "end": 774.24
+    },
+    {
+      "text": "So what different hairstyles are popular there?",
+      "trans": "所以在这里流行哪些发型呢？",
+      "start": 774.24,
+      "end": 776.64
+    },
+    {
+      "text": "I know that Japanese hairstyles are really cool.",
+      "trans": "我了解日本发型真的很酷。",
+      "start": 776.64,
+      "end": 778.84
+    },
+    {
+      "text": "Yeah, that's right.",
+      "trans": "是的，那正是。",
+      "start": 778.84,
+      "end": 779.84
+    },
+    {
+      "text": "Japanese haircuts can be pretty awesome.",
+      "trans": "日本发际线修剪可以非常棒。",
+      "start": 779.84,
+      "end": 781.64
+    },
+    {
+      "text": "Right, so tell us all about it.",
+      "trans": "是的，那么，请告诉我详情。",
+      "start": 781.64,
+      "end": 783.24
+    },
+    {
+      "text": "Come to our website post some pictures.",
+      "trans": "请到我们的网站上传一些图片。",
+      "start": 783.24,
+      "end": 785.44
+    },
+    {
+      "text": "And also if you have any questions or doubts, let us know.",
+      "trans": "另外，如果有任何问题或疑虑，请随时告知我们。",
+      "start": 785.44,
+      "end": 787.84
+    },
+    {
+      "text": "Well, thanks for downloading this lesson, you guys.",
+      "trans": "好的，谢谢下载这个课程，你们。",
+      "start": 787.84,
+      "end": 790.08
+    },
+    {
+      "text": "And until next time, bye.",
+      "trans": "直到下次见面，再见。",
+      "start": 790.08,
+      "end": 792.08
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 792.08,
+      "end": 793.08
+    }
+  ]
+}

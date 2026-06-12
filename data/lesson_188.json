@@ -1,0 +1,768 @@
+{
+  "title": "englishpod_0188pb",
+  "audio": "./assets/englishpod_0188pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎再次回到英语有声。我的名字是Marco。",
+      "start": 0.0,
+      "end": 6.24
+    },
+    {
+      "text": "My name is Katherine and today we're talking about things at the office.",
+      "trans": "我的名字是凯瑟琳，今天我们要讨论一下办公室的事情。",
+      "start": 6.24,
+      "end": 10.72
+    },
+    {
+      "text": "That's right. We are at the office but this time we are going to ask our boss or manager for a race.",
+      "trans": "没错。我们到了办公室，但这次我们要向老板或经理要求比赛。",
+      "start": 10.72,
+      "end": 19.04
+    },
+    {
+      "text": "Alright so what is this word, race? Let's take a look at it in today's vocabulary preview.",
+      "trans": "好的，那么这个词是什么意思？让我们看看今天词汇预览中的它。",
+      "start": 19.04,
+      "end": 23.76
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "傻瓜相机 -> 傻瓜相机",
+      "start": 24.88,
+      "end": 26.240000000000002
+    },
+    {
+      "text": "Alright so we're going to ask for a race. So if you are at your office and you talk to your boss and you say",
+      "trans": "好的，我们来问一次比赛。如果你在办公室里和你的老板说：",
+      "start": 27.04,
+      "end": 32.8
+    },
+    {
+      "text": "I want a race. What does that mean?",
+      "trans": "我想参加比赛。那是什么意思？",
+      "start": 32.8,
+      "end": 35.28
+    },
+    {
+      "text": "That means I want more money.",
+      "trans": "那意味着我想要更多的钱。",
+      "start": 35.28,
+      "end": 37.2
+    },
+    {
+      "text": "Okay so I want a race or increase in my salary.",
+      "trans": "好的，我想参加比赛或增加我的薪水。",
+      "start": 37.2,
+      "end": 40.4
+    },
+    {
+      "text": "That's right so a race is a thing that you ask for and in this case a race means that you",
+      "trans": "那这就对了，一场赛跑就是你想要的。在这情况下，赛跑意味着你...",
+      "start": 40.4,
+      "end": 46.0
+    },
+    {
+      "text": "already work at the company. You already have a salary and you want some more money each month.",
+      "trans": "我已经在这家公司工作了。你已经有工资，你还希望每个月挣更多的钱。",
+      "start": 46.0,
+      "end": 50.8
+    },
+    {
+      "text": "Okay so that's what we're going to be talking about today. Let's listen to this dialogue.",
+      "trans": "好的，这就是我们要今天要讨论的内容。让我们听听这段对话吧。",
+      "start": 50.8,
+      "end": 54.879999999999995
+    },
+    {
+      "text": "Excuse me sir may I talk to you?",
+      "trans": "对不起先生，我可以和您聊聊吗？",
+      "start": 56.88,
+      "end": 63.84
+    },
+    {
+      "text": "Bill! Sure come on in. What can I do for you?",
+      "trans": "Bill！当然进来。我能帮你做些什么？",
+      "start": 63.84,
+      "end": 66.64
+    },
+    {
+      "text": "Well sir as you know I have been an employee of this prestigious firm for over 10 years.",
+      "trans": "您先生，正如您所知，我在贵公司工作已经超过十年了。",
+      "start": 67.44,
+      "end": 73.28
+    },
+    {
+      "text": "Yes I won't beat around the bush.",
+      "trans": "当然，我不会绕弯子的。",
+      "start": 73.28,
+      "end": 76.08
+    },
+    {
+      "text": "Sir I would like a race. I currently have three companies after me and so I decided to talk to you",
+      "trans": "Sir，我想参加一场赛跑。我目前有三家公司在后面，所以我决定和您谈谈。",
+      "start": 76.08,
+      "end": 82.32000000000001
+    },
+    {
+      "text": "Arrays.",
+      "trans": "Arrays. 矩阵。",
+      "start": 83.27999999999999,
+      "end": 83.75999999999999
+    },
+    {
+      "text": "Son I would love to give you a race but this is just not the right time.",
+      "trans": "我本想给你开个赛车，但这是不是时机合适呢。",
+      "start": 84.55999999999999,
+      "end": 87.83999999999999
+    },
+    {
+      "text": "I understand your position and I know that the current economic downturn has had a negative",
+      "trans": "我理解你的处境，并且我知道当前的经济衰退对你的工作产生了负面影响。",
+      "start": 88.39999999999999,
+      "end": 92.88
+    },
+    {
+      "text": "impact on sales but you must also take into consideration my hard work pro-activeness and loyalty",
+      "trans": "对销售的影响，但你也必须考虑我的辛勤工作、主动性以及忠诚度。",
+      "start": 92.88,
+      "end": 98.8
+    },
+    {
+      "text": "to this company for over a decade. Taking into account these factors and considering I don't want",
+      "trans": "在这家公司工作了超过十年。考虑到这些因素，并且考虑到我不想卸下这个职位，我决定辞职。",
+      "start": 98.8,
+      "end": 104.39999999999999
+    },
+    {
+      "text": "to start a brain drain. I'm willing to offer you a 10% race and an extra five days of vacation time.",
+      "trans": "为了开始人才外流，我愿意提供你一个10%的加薪，并额外为你安排5天的假期时间。",
+      "start": 104.39999999999999,
+      "end": 110.47999999999999
+    },
+    {
+      "text": "How does that sound? Great it's a deal thank you sir. Before you go just out of curiosity what",
+      "trans": "那听起来怎么样？太好了，这是个好deal，谢谢先生。在你走之前，只是出于好奇一下，你有什么问题吗？",
+      "start": 110.56,
+      "end": 117.12
+    },
+    {
+      "text": "companies were after you. Oh the electric company the gas company and the water company.",
+      "trans": "公司都在找你。哦，电公司、气公司和水公司。",
+      "start": 117.12,
+      "end": 124.16
+    },
+    {
+      "text": "All right we're back so now why don't we take a look at language takeaway.",
+      "trans": "好的，我们回来了。现在为什么不来看看语言小贴士？",
+      "start": 131.92000000000002,
+      "end": 135.6
+    },
+    {
+      "text": "So the conversation we just heard is a conversation between a manager or a boss and the employee",
+      "trans": "我们刚才听到的对话是经理或老板与员工之间的对话。",
+      "start": 136.07999999999998,
+      "end": 146.56
+    },
+    {
+      "text": "and the employee says listen I need to talk to you about something I have been an employee",
+      "trans": "并且员工说，我需要和你谈谈一些事情。我已经是一名员工了。",
+      "start": 146.56,
+      "end": 152.16
+    },
+    {
+      "text": "of this prestigious firm for over 10 years so prestigious is our first word. Okay prestigious is",
+      "trans": "这个享誉盛名的公司我已经为超过十年了，所以“鼎力”是我的第一个字。好的鼎力是",
+      "start": 152.16,
+      "end": 158.88
+    },
+    {
+      "text": "an adjective right? That's right and it means very respected very well known. It's steamed that's",
+      "trans": "一个形容词吗？没错，意思是极受尊敬且非常有名。它就是“鼎”这个词。",
+      "start": 158.88,
+      "end": 164.56
+    },
+    {
+      "text": "right so something that is prestigious has a good reputation. Like for example some universities like",
+      "trans": "好的，有些大学因其良好的声誉而受到尊敬。例如，比如一些著名的大学。",
+      "start": 164.56,
+      "end": 171.2
+    },
+    {
+      "text": "you hear all the time about American universities like Harvard or Yale which are considered to be",
+      "trans": "你经常听说美国的大学，比如哈佛或耶鲁，被认为是",
+      "start": 171.2,
+      "end": 176.88
+    },
+    {
+      "text": "prestigious universities or the Nobel Peace Prize is a very prestigious award. Okay so it's an",
+      "trans": "英语：非常有声望的大学或诺贝尔和平奖是一个非常有声望的奖项。好的，所以这是一个",
+      "start": 176.88,
+      "end": 183.44
+    },
+    {
+      "text": "adjective to describe something that's respectable well known or esteemed as you said. Exactly.",
+      "trans": "形容词，用来描述某物既受尊重又著名或受到尊敬。正如你说的那样。",
+      "start": 183.44,
+      "end": 189.52
+    },
+    {
+      "text": "All right and what's our next word? Our next one is not so happy this is what we've been",
+      "trans": "好的，接下来是我们的下一个单词。这个单词并不那么开心，这是我们已经知道的。",
+      "start": 189.60000000000002,
+      "end": 194.32000000000002
+    },
+    {
+      "text": "been experiencing in the global economy this last year or two it's called an economic downturn.",
+      "trans": "在过去两年中，全球经济所经历的这种情况被称为经济衰退。",
+      "start": 194.32000000000002,
+      "end": 201.20000000000002
+    },
+    {
+      "text": "All right so an economic downturn is something negative as you said so it means that the economy",
+      "trans": "好的，经济衰退是你说的负面因素，这意味着经济状况出现了下滑。",
+      "start": 201.20000000000002,
+      "end": 207.52
+    },
+    {
+      "text": "is not doing very well. Right so economy economic you know what this means but in this case downturn",
+      "trans": "正在表现不佳。所以经济经济，你知道这意味着什么，但在这种情况下是衰退。",
+      "start": 207.52,
+      "end": 213.52
+    },
+    {
+      "text": "is the key part of this phrase to slow down or to decrease so a downturn is a time when less people",
+      "trans": "这个短语中的关键部分是“减慢”或“减速”，因此一个“下坡”（downturn）是一个时间点，此时较少的人参与。",
+      "start": 213.52,
+      "end": 221.60000000000002
+    },
+    {
+      "text": "are making money and less money overall is being earned. Okay so an economic downturn very good why",
+      "trans": "是赚钱和亏钱的总金额是一样的。所以经济衰退非常好，为什么？",
+      "start": 221.60000000000002,
+      "end": 227.92000000000002
+    },
+    {
+      "text": "don't we move on to our next word which is negative impact. So the thing working here is the",
+      "trans": "我们不是接下来要讨论的是负面影响吗？所以这里的运作是...",
+      "start": 227.92000000000002,
+      "end": 234.08
+    },
+    {
+      "text": "economic downturn and it has had a negative impact on our sales on this company's sales so a negative",
+      "trans": "经济下滑对本公司的销售产生了负面影响，导致我们的销售额有所下降。",
+      "start": 234.08,
+      "end": 242.24
+    },
+    {
+      "text": "impact as you know from the first word is not a good thing. Right it's an effect right. That's",
+      "trans": "你从第一个字就能感受到的影响并不是好事。没错，那是一个效果。",
+      "start": 242.24,
+      "end": 247.60000000000002
+    },
+    {
+      "text": "right but that's negative so it's not a good effect. So I could say that Marco being late has had a",
+      "trans": "正确，但那不是好的效果。所以我说马可迟到确实有点负面，但这并不是一个好的结果。",
+      "start": 247.60000000000002,
+      "end": 256.0
+    },
+    {
+      "text": "negative impact on your work lately. Okay or the opposite now what if something is a good effect",
+      "trans": "近期对你的工作有负面影响吗？如果是好的影响，那现在呢？",
+      "start": 256.0,
+      "end": 262.24
+    },
+    {
+      "text": "on something. So Marco your hard work has had a really positive impact on this company lately.",
+      "trans": "关于某事。所以，马可你的努力最近对这家公司真的产生了非常积极的影响。",
+      "start": 262.24,
+      "end": 267.6
+    },
+    {
+      "text": "All right good so you can use a negative impact or a positive impact. All right. Right so",
+      "trans": "好的，你可以使用正面影响或负面影响。好的。那么",
+      "start": 267.6,
+      "end": 272.64000000000004
+    },
+    {
+      "text": "impact again is just the effect that something has on something else. And well the boss said that he",
+      "trans": "再次影响就是某物对另一物产生的效果。而且老板说他",
+      "start": 272.64000000000004,
+      "end": 278.56
+    },
+    {
+      "text": "agrees to give him a raise because in part he didn't want to start a brain drain what's that.",
+      "trans": "同意给他加薪，因为部分原因是不想开始人才外流。",
+      "start": 278.56,
+      "end": 285.20000000000005
+    },
+    {
+      "text": "Oh this is a very common phrase you hear about countries they have a brain drain or they want to",
+      "trans": "哦，这是一句大家经常听到的关于国家有人才外流或者他们想要的人才的信息。",
+      "start": 285.76000000000005,
+      "end": 291.04
+    },
+    {
+      "text": "avoid a brain drain. A drain is the part of a sink or a bathtub where the water goes down.",
+      "trans": "避免人才外流。一个漏斗是水龙头或浴缸底部的部分，水从这里流出。",
+      "start": 291.04,
+      "end": 297.36
+    },
+    {
+      "text": "Okay it goes away. And so brain drain means all the brains or intelligent people or educated people",
+      "trans": "好的，它就消失了。因此，人才外流意味着所有的大脑或聪明才智或受过教育的人。",
+      "start": 297.36,
+      "end": 303.6
+    },
+    {
+      "text": "leave a country and go to another country or in this case leave a company and go to another company.",
+      "trans": "离开一个国家，去另一个国家，在这种情况下，离开一家公司，去另一家公司。",
+      "start": 303.6,
+      "end": 308.8
+    },
+    {
+      "text": "All right so for example if all the employees at Apple maybe they start to quit or they are they",
+      "trans": "好的，例如如果苹果公司的员工开始辞职或者他们决定离职。",
+      "start": 308.8,
+      "end": 315.36
+    },
+    {
+      "text": "start to move jobs and start to work for maybe Microsoft or Google that's a brain drain right.",
+      "trans": "开始找工作，可能去微软或谷歌，这就是人才流失。",
+      "start": 315.36,
+      "end": 321.12
+    },
+    {
+      "text": "That's right because you're talking about a large number of people maybe they're all unhappy",
+      "trans": "那是的，因为你谈论的是很多人可能他们都感到不开心。",
+      "start": 321.12,
+      "end": 325.44
+    },
+    {
+      "text": "because they say that working at Apple is not very nice. So they all leave and go to this other",
+      "trans": "因为有人说在苹果工作并不好，所以他们都走了，去了这个其他的地方。",
+      "start": 325.52,
+      "end": 329.6
+    },
+    {
+      "text": "company. The same is true with countries you can have very very well educated people who when they",
+      "trans": "公司的情况也是如此。你也可以拥有非常非常受教育的人，当他们",
+      "start": 329.6,
+      "end": 334.88
+    },
+    {
+      "text": "stop studying they want jobs they all look somewhere else. They go to America or Mexico or England.",
+      "trans": "停止学习，他们想要工作，他们都去美国、墨西哥或英国。",
+      "start": 334.88,
+      "end": 341.6
+    },
+    {
+      "text": "Okay. And so that's called a brain drain because they all go away. Okay so five great phrases",
+      "trans": "好的。这就是所谓的“人才外流”，因为他们都走了。好吧，这五个好词：",
+      "start": 341.6,
+      "end": 346.8
+    },
+    {
+      "text": "right there and words for you. Well let's listen to this dialogue again and we'll be back to",
+      "trans": "英语：就在那里，为你准备好了。好的，让我们再听一遍这个对话，并在回来之前准备好。",
+      "start": 346.8,
+      "end": 350.88
+    },
+    {
+      "text": "take a look at fluency builder. Excuse me sir may I talk to you? Bill sure come on in what can I do",
+      "trans": "请看流利说。先生，我可以和你聊聊吗？Bill，请进，有什么我能帮助你的吗？",
+      "start": 350.88,
+      "end": 362.08000000000004
+    },
+    {
+      "text": "for you? Well sir as you know I have been an employee of this prestigious firm for over 10 years.",
+      "trans": "对于你？先生，你知道我在这家著名的公司工作了超过十年。",
+      "start": 362.08000000000004,
+      "end": 369.04
+    },
+    {
+      "text": "Yes I won't beat around the bush sir I would like a race. I currently have three companies after",
+      "trans": "是的，我不会绕弯子了先生。我想参加比赛。目前我有三家公司在运营。",
+      "start": 369.04,
+      "end": 376.16
+    },
+    {
+      "text": "me and so I decided to talk to you first. Arrays. Son I would love to give you a raise but this is",
+      "trans": "我和你先聊一下。数组。我本想给你加薪，但这是我的决定。",
+      "start": 376.32000000000005,
+      "end": 382.48
+    },
+    {
+      "text": "just not the right time. I understand your position and I know that the current economic downturn",
+      "trans": "只是不是合适的时机。我理解你的处境，并且我知道当前的经济衰退也影响了你。",
+      "start": 382.48,
+      "end": 387.68
+    },
+    {
+      "text": "has had a negative impact on sales but you must also take into consideration my hard work",
+      "trans": "他确实对销售造成了负面影响，但你必须考虑到我的辛勤工作。",
+      "start": 387.68,
+      "end": 393.04
+    },
+    {
+      "text": "pro-activeness and loyalty to this company for over a decade. Taking into account these factors",
+      "trans": "超过十年的主动性和对公司的忠诚度。考虑到这些因素。",
+      "start": 393.04,
+      "end": 399.04
+    },
+    {
+      "text": "and considering I don't want to start a brain drain I'm willing to offer you a 10% raise and an",
+      "trans": "并且考虑到我不想开始人才外流，我愿意给你提供一个10%的加薪和一个晋升机会。",
+      "start": 399.04,
+      "end": 404.32000000000005
+    },
+    {
+      "text": "extra five days of vacation time. How does that sound? Great it's a deal thank you sir.",
+      "trans": "额外的五天假期时间听起来怎么样？那太好了，谢谢您。",
+      "start": 404.32,
+      "end": 409.36
+    },
+    {
+      "text": "Before you go just out of curiosity what companies were after you? Oh the electric company the gas",
+      "trans": "在你出门之前，只是出于好奇，你是去哪家公司面试的？哦，是电公司和气公司。",
+      "start": 410.08,
+      "end": 418.4
+    },
+    {
+      "text": "company and the water company. This first phrase in today's fluency builder is one of my favorites.",
+      "trans": "公司和自来水公司。今天流利 builders 的第一句话是我最喜欢的一句。",
+      "start": 418.4,
+      "end": 427.44
+    },
+    {
+      "text": "It's something that we say off-sim when we're having a conversation and we want the other person",
+      "trans": "英语：当我们正在交谈时，我们说“开小差”（off-the-cuff）的时候。",
+      "start": 427.44,
+      "end": 431.52
+    },
+    {
+      "text": "to just tell us what they're talking about. All right so the guy said you know what I'm not going",
+      "trans": "为了仅仅告诉我们他们在说什么。好的，所以那个家伙说你知道我不会去的是什么。",
+      "start": 431.68,
+      "end": 436.32
+    },
+    {
+      "text": "to beat around the bush. Well you could also say please don't beat around the bush. So I'm not sure",
+      "trans": "翻译成中文是：",
+      "start": 436.32,
+      "end": 442.0
+    },
+    {
+      "text": "where this phrase comes from but it means please be direct or I'm going to be direct I will not",
+      "trans": "这个短语的来源是什么，但意思就是请直接说，否则我将直接说。我会不会直接说？",
+      "start": 442.0,
+      "end": 449.03999999999996
+    },
+    {
+      "text": "wait any longer to tell you what I'm talking about. So if somebody is beating around the bush",
+      "trans": "等待太久，告诉你我正在说什么。所以如果有人绕着弯子说谎话。",
+      "start": 449.03999999999996,
+      "end": 454.0
+    },
+    {
+      "text": "that means they are not being direct they're not telling you something immediately. It's you know like",
+      "trans": "那意味着他们不是直接告诉你，而是让你慢慢去理解。就像...",
+      "start": 454.0,
+      "end": 459.2
+    },
+    {
+      "text": "when a person is trying to think but you know has a hard time and they're really trying to explain",
+      "trans": "当一个人试图思考，但你知道他们确实很难，并且他们在努力解释时。",
+      "start": 459.2,
+      "end": 465.68
+    },
+    {
+      "text": "something but you know it's just well you know what I'm talking about it's like that time with that",
+      "trans": "那件事，你知道那是你所说的那种。就像上次那个。",
+      "start": 465.68,
+      "end": 469.44
+    },
+    {
+      "text": "thing where he did that okay this is really annoying I know it's called beating around the bush",
+      "trans": "那个地方他做那件事，这真是让人很烦。我知道那是绕着弯子说事儿。",
+      "start": 469.44,
+      "end": 474.48
+    },
+    {
+      "text": "because you just don't say what you're thinking. Right exactly so you don't say something directly.",
+      "trans": "因为你说的话只是表面的，你根本没说心里想的。完全正确，所以你就不能直接说出来。",
+      "start": 474.48,
+      "end": 479.68
+    },
+    {
+      "text": "Now our next phrase is to take into consideration take something into consideration.",
+      "trans": "现在我们的下一个短语是考虑一下某事。",
+      "start": 479.68,
+      "end": 485.36
+    },
+    {
+      "text": "Well this is something that the young man brings up when he's asking for a raise he says",
+      "trans": "好的，这是这位年轻人在要求加薪时提到的事情。他说",
+      "start": 486.24,
+      "end": 490.64
+    },
+    {
+      "text": "you should take into consideration all of these great things I do this means when you make your decision",
+      "trans": "你应该考虑到我所做的这一切，这意味着当你做出决定时，你也应该考虑这些。",
+      "start": 490.64,
+      "end": 496.56
+    },
+    {
+      "text": "I want you to think about these things so consideration means you're thinking when you're trying",
+      "trans": "我想让你考虑这些事情，那么思考的意思就是你在尝试时也在思考。",
+      "start": 496.56,
+      "end": 501.28000000000003
+    },
+    {
+      "text": "to make a decision. To consider. All right so to take something into consideration or you can just say",
+      "trans": "决定。考虑。好的，那么你可以这样说：为了做出决定。或者你也可以直接说：为了考虑某事。",
+      "start": 501.28000000000003,
+      "end": 507.52000000000004
+    },
+    {
+      "text": "to consider. So I'm interested in buying a new TV but I have to take into consideration the fact",
+      "trans": "考虑一下。所以，我想要买一台新的电视，但是不得不考虑到一个事实。",
+      "start": 507.52,
+      "end": 515.52
+    },
+    {
+      "text": "that I don't have a lot of money that means I probably won't get a new TV I have to think about",
+      "trans": "那我并没有很多钱，这意味着我可能不会买一台新的电视。我得好好考虑一下。",
+      "start": 515.52,
+      "end": 519.92
+    },
+    {
+      "text": "these things when I'm making my decision. Right okay very good and our last phrase for today",
+      "trans": "这些事情在我做决定时。好的，很好，今天最后的短语是：",
+      "start": 519.92,
+      "end": 525.92
+    },
+    {
+      "text": "towards the end the boss was a little bit interested in knowing what happened or which companies were",
+      "trans": "最终，老板对了解发生了什么或哪些公司的情况有点感兴趣。",
+      "start": 525.92,
+      "end": 531.4399999999999
+    },
+    {
+      "text": "interested in him so he said just out of curiosity. So this is something we say when we don't",
+      "trans": "我对他的兴趣使他只是出于好奇才说的。所以这就是我们常说的一句话，表示我们并不在意。",
+      "start": 531.44,
+      "end": 538.48
+    },
+    {
+      "text": "need to know something it means that we would like to know because we're curious we're interested",
+      "trans": "需要知道，这意味着我们想了解是因为我们很好奇，因为我们很感兴趣。",
+      "start": 538.48,
+      "end": 544.8800000000001
+    },
+    {
+      "text": "but not because I need to know right away what companies offer you jobs so this is a polite way",
+      "trans": "但是，不是因为我需要立刻知道哪家公司会给我提供工作机会。这是礼貌的说法。",
+      "start": 544.8800000000001,
+      "end": 550.48
+    },
+    {
+      "text": "to ask why someone did something so for example so just out of curiosity Marko what kind of shampoo",
+      "trans": "为什么某人做了这件事，例如仅仅出于好奇马克奥，什么类型的洗发水？",
+      "start": 550.48,
+      "end": 556.4000000000001
+    },
+    {
+      "text": "do you use? That is very interesting knowledge that you want there. Well obviously I don't need",
+      "trans": "你用过吗？那是一种非常有趣的知识，你想在那里。当然，我不需要。",
+      "start": 556.4,
+      "end": 563.28
+    },
+    {
+      "text": "to know what kind of shampoo Marko uses but I'm curious because maybe I'm going to buy a new kind of",
+      "trans": "知道马克奥使用什么洗发水，但我很好奇，因为我可能要买一个新的。",
+      "start": 563.28,
+      "end": 567.92
+    },
+    {
+      "text": "shampoo. So you can start your sentence by using this phrase just out of curiosity. Just out of curiosity",
+      "trans": "傻瓜相机。这样你就可以从好奇心出发，开始你的句子了。",
+      "start": 567.92,
+      "end": 574.64
+    },
+    {
+      "text": "it's a great one listen for that again as we listen to today's dialogue one more time and we'll be",
+      "trans": "这是一个很棒的对话，让我们再听一遍。我们今天又会听到一次对话，然后我们会再次聆听。",
+      "start": 574.64,
+      "end": 579.4399999999999
+    },
+    {
+      "text": "back in a moment to talk about getting raised.",
+      "trans": "马上回来谈谈升职的事情。",
+      "start": 579.4399999999999,
+      "end": 583.36
+    },
+    {
+      "text": "Excuse me sir may I talk to you? Bill sure come on in what can I do for you?",
+      "trans": "请问先生，我可以和您聊聊吗？比尔，请进来，我有什么可以为您效劳的吗？",
+      "start": 586.8,
+      "end": 593.52
+    },
+    {
+      "text": "Well sir as you know I have been an employee of this prestigious firm for over 10 years.",
+      "trans": "您好，正如您所知，我在贵公司工作已经超过十年了。",
+      "start": 594.4,
+      "end": 600.24
+    },
+    {
+      "text": "Yes I won't beat around the bush sir I would like a race I currently have three companies",
+      "trans": "是的，我不会绕着弯子说。先生，我想参加比赛。目前我有三家公司在运营。",
+      "start": 600.24,
+      "end": 606.9599999999999
+    },
+    {
+      "text": "after me and so I decided to talk to you first. Arrays?",
+      "trans": "在他们之后，所以我决定先和你聊。数组？",
+      "start": 606.9599999999999,
+      "end": 610.72
+    },
+    {
+      "text": "Son I would love to give you a raise but this is just not the right time.",
+      "trans": "我本想给你加薪，但这是不是现在就对了。",
+      "start": 611.52,
+      "end": 614.8000000000001
+    },
+    {
+      "text": "I understand your position and I know that the current economic downturn has had a negative impact",
+      "trans": "我理解你的处境，并且我知道当前的经济衰退对你的影响是负面的。",
+      "start": 615.36,
+      "end": 620.24
+    },
+    {
+      "text": "on sales but you must also take into consideration my hard work pro-activeness and loyalty to this",
+      "trans": "在销售方面表现良好，但你必须同时考虑我的辛勤工作、主动性以及对这个职位的忠诚。",
+      "start": 620.24,
+      "end": 626.08
+    },
+    {
+      "text": "company for over a decade. Taking into account these factors and considering I don't want to start",
+      "trans": "公司已任职超过十年。考虑到这些因素，我也不希望从现在开始。",
+      "start": 626.08,
+      "end": 631.76
+    },
+    {
+      "text": "a brain drain I'm willing to offer you a 10% raise and an extra five days of vacation time.",
+      "trans": "我愿意为您提供一份10%的加薪和额外五天的带薪休假时间。",
+      "start": 631.76,
+      "end": 637.36
+    },
+    {
+      "text": "How does that sound? Great it's a deal thank you sir. Before you go just out of curiosity what",
+      "trans": "那听起来怎么样？不错，这是一个好机会，谢谢您。在离开之前，我好奇的是，您有什么问题吗？",
+      "start": 637.44,
+      "end": 644.08
+    },
+    {
+      "text": "companies were after you. Oh the electric company the gas company and the water company.",
+      "trans": "公司都在找你。哦，电公司、气公司和水公司。",
+      "start": 644.08,
+      "end": 651.12
+    },
+    {
+      "text": "All right we're back so interesting enough he was he needed a raise not because three companies",
+      "trans": "好的，我们又回来了，这真是一个有趣的机会。他需要加薪并不是因为三个公司都提高了工资。",
+      "start": 660.32,
+      "end": 665.6800000000001
+    },
+    {
+      "text": "wanted to hire him but because he needed to pay his bills. Well this is funny because he's not",
+      "trans": "想要雇佣他，但因为他需要支付账单。这真是有趣的事情，因为他的名字并不是中文。",
+      "start": 665.68,
+      "end": 670.56
+    },
+    {
+      "text": "talking about companies that's right who are offering him jobs jobs he's talking about the gas the",
+      "trans": "谈论那些正在提供给他工作的公司，他正在谈论的正是关于天然气的话题。",
+      "start": 670.56,
+      "end": 675.28
+    },
+    {
+      "text": "water the electrical company. There's a very funny dialogue but I think asking for a raise is very",
+      "trans": "浇电公司的水。有一段非常有趣的话，但我觉得要求加薪是相当搞笑的。",
+      "start": 675.28,
+      "end": 681.3599999999999
+    },
+    {
+      "text": "hard to do because you know that your boss is worried about money or it's a bad time to ask but",
+      "trans": "很难做，因为你知道你的老板担心钱或者是在一个不好问的时候。",
+      "start": 681.3599999999999,
+      "end": 688.56
+    },
+    {
+      "text": "you want to ask because it's important that you get the right compensation for you. Right and",
+      "trans": "你想要问是因为这很重要，你需要得到相应的补偿。正确和",
+      "start": 689.28,
+      "end": 693.92
+    },
+    {
+      "text": "actually it's important to have a clear objective when you want to ask for a raise so more or less",
+      "trans": "当你想要晋升时，有一个明确的目标是很重要的。",
+      "start": 693.92,
+      "end": 699.28
+    },
+    {
+      "text": "what you want to earn and but plausible within the company so you're not going to ask for a 100%",
+      "trans": "你想要赚取但公司在内是合理的，所以你不会要求100%。",
+      "start": 699.28,
+      "end": 705.12
+    },
+    {
+      "text": "raise right you can maybe aim for a five or 10% and most likely you'll get it if you negotiate",
+      "trans": "提高你的命中率，也许可以瞄准五到十个百分点，并且大多数情况下你都会得到这个结果。",
+      "start": 705.12,
+      "end": 710.88
+    },
+    {
+      "text": "properly. That's right and sometimes a raise isn't just about money you can also like he did ask",
+      "trans": "正确。那也是钱以外的一个好处，有时候晋升不仅仅是关于你能得到的钱，他可能还问了类似的问题。",
+      "start": 710.88,
+      "end": 715.8399999999999
+    },
+    {
+      "text": "for some time off. So he gets some vacation days or perhaps some training. For bonuses. For a bonus",
+      "trans": "因为一段时间的休假。所以他可能会获得一些年假或者可能是培训。也可能是为了奖金。",
+      "start": 715.8399999999999,
+      "end": 722.4
+    },
+    {
+      "text": "so this all depends on the kind of negotiations that you make but but it's worth it to ask so please",
+      "trans": "所以这一切都取决于你谈判的类型，但值得询问一下。请务必提问。",
+      "start": 722.4,
+      "end": 728.72
+    },
+    {
+      "text": "let us know if you've ever had a good time or a bad time asking for a raise it can be a very nerve",
+      "trans": "让我们知道，你是否曾经因为要求加薪而感到愉快或不快。这可能会是一个非常紧张的时刻。",
+      "start": 728.72,
+      "end": 733.68
+    },
+    {
+      "text": "racking experience I know personally I'm very uncomfortable with it but we're excited to hear",
+      "trans": "我有个人经验，我知道的。我对它感到非常不自在，但我们很兴奋地听闻。",
+      "start": 733.68,
+      "end": 739.28
+    },
+    {
+      "text": "what you have to say and if you have any questions or comments leave them for us on our website",
+      "trans": "你有什么要说的吗？如果有任何问题或评论，请留下它们给我们。我们网站上。",
+      "start": 739.28,
+      "end": 742.72
+    },
+    {
+      "text": "all right we'll see you guys there bye everyone",
+      "trans": "好的，我们到时候见。大家再见！",
+      "start": 742.72,
+      "end": 753.28
+    }
+  ]
+}

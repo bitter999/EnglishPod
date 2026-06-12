@@ -1,0 +1,1842 @@
+{
+  "title": "englishpod_C0141pb",
+  "audio": "./assets/englishpod_C0141pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+      "trans": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。",
+      "start": 0.0,
+      "end": 7.44
+    },
+    {
+      "text": "And my name is Catherine and today we've got a very, very useful lesson for all of",
+      "trans": "我的名字是凯特，今天我们有非常有用的课程来帮助所有的人。",
+      "start": 7.44,
+      "end": 11.6
+    },
+    {
+      "text": "you out there.",
+      "trans": "您在哪儿？",
+      "start": 11.6,
+      "end": 12.6
+    },
+    {
+      "text": "That's right, we're bringing you part two of the What If series, which is a small series.",
+      "trans": "正确，我们将为您介绍第二集《如果……》的全部内容。",
+      "start": 12.6,
+      "end": 17.88
+    },
+    {
+      "text": "Small, and it is kind of grammar-focused, but it's very, very important because you often",
+      "trans": "小，而且它很注重语法，但它是如此重要，因为它经常",
+      "start": 17.88,
+      "end": 23.080000000000002
+    },
+    {
+      "text": "want to talk about things that don't happen.",
+      "trans": "我想谈谈那些不发生的事情。",
+      "start": 23.080000000000002,
+      "end": 25.44
+    },
+    {
+      "text": "We're calling these hypotheticals or conditional statements.",
+      "trans": "我们称这些假设或条件语句。",
+      "start": 25.44,
+      "end": 28.52
+    },
+    {
+      "text": "So there are many different types of hypotheticals or conditional statements.",
+      "trans": "所以有很多不同的假设或条件语句。",
+      "start": 28.52,
+      "end": 33.28
+    },
+    {
+      "text": "So today we're going to be looking at the third conditional, which is probably the hardest",
+      "trans": "所以今天我们将要讨论第三种条件，这可能是最困难的。",
+      "start": 33.28,
+      "end": 38.08
+    },
+    {
+      "text": "one because it uses a little bit of a complex grammar structure.",
+      "trans": "一，因为它使用了一点点复杂的语法结构。",
+      "start": 38.08,
+      "end": 42.04
+    },
+    {
+      "text": "It's complex and we're actually talking about things that did not happen and that will",
+      "trans": "它复杂，我们实际上是在谈论那些没有发生的事情以及将要发生的事件。",
+      "start": 42.04,
+      "end": 45.36
+    },
+    {
+      "text": "not happen, right?",
+      "trans": "不发生，对吗？",
+      "start": 45.36,
+      "end": 46.36
+    },
+    {
+      "text": "It's impossible to change.",
+      "trans": "是无法改变的。",
+      "start": 46.36,
+      "end": 47.36
+    },
+    {
+      "text": "It's impossible to change these because there are things that would have happened in",
+      "trans": "这不可能改变，因为存在一些事情会按照这些发生。",
+      "start": 47.36,
+      "end": 51.879999999999995
+    },
+    {
+      "text": "the past, but didn't.",
+      "trans": "过去，但没有。",
+      "start": 51.879999999999995,
+      "end": 53.2
+    },
+    {
+      "text": "Wow, that sounds confusing.",
+      "trans": "哇，听起来很复杂。",
+      "start": 53.2,
+      "end": 55.44
+    },
+    {
+      "text": "Why don't we listen to the dialogue for the first time and then we'll be back to look",
+      "trans": "为什么我们不先听对话，然后再回来看看？",
+      "start": 55.44,
+      "end": 59.76
+    },
+    {
+      "text": "at some phrases first.",
+      "trans": "在一些短语之前。",
+      "start": 59.76,
+      "end": 69.0
+    },
+    {
+      "text": "This is the good life.",
+      "trans": "这是好生活。",
+      "start": 69.0,
+      "end": 70.8
+    },
+    {
+      "text": "We have a good, don't you think?",
+      "trans": "我们有好的，你觉得呢？",
+      "start": 70.8,
+      "end": 72.47999999999999
+    },
+    {
+      "text": "Yeah, of course.",
+      "trans": "是的，当然。",
+      "start": 72.47999999999999,
+      "end": 74.03999999999999
+    },
+    {
+      "text": "Although don't you ever wonder what could have been?",
+      "trans": "虽然你从未想过什么可能已经发生了。",
+      "start": 74.03999999999999,
+      "end": 77.52
+    },
+    {
+      "text": "What do you mean?",
+      "trans": "你什么意思？",
+      "start": 77.52,
+      "end": 78.52
+    },
+    {
+      "text": "Well, sometimes I think of how things could have turned out if I had done things a little",
+      "trans": "嗯，有时候我想到如果我当初做得稍微一些，事情可能会更有趣。",
+      "start": 78.52,
+      "end": 83.47999999999999
+    },
+    {
+      "text": "differently.",
+      "trans": "不同的。",
+      "start": 83.47999999999999,
+      "end": 84.47999999999999
+    },
+    {
+      "text": "For example, like for example, if I hadn't studied architecture, I would have become an",
+      "trans": "例如，如果我没有学习建筑设计，我可能会成为中国。",
+      "start": 84.48,
+      "end": 89.7
+    },
+    {
+      "text": "artist like I wanted to.",
+      "trans": "艺术家像我想要的那样。",
+      "start": 89.7,
+      "end": 91.72
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 91.72,
+      "end": 92.72
+    },
+    {
+      "text": "Yeah, now that I think of it, I wouldn't have gotten married if I hadn't moved to this",
+      "trans": "是的，现在想想，要是没有搬到这里来，我可能就不会结婚了。",
+      "start": 92.72,
+      "end": 96.56
+    },
+    {
+      "text": "town and met Sally.",
+      "trans": "这个句子在中文中可以翻译为：",
+      "start": 96.56,
+      "end": 98.2
+    },
+    {
+      "text": "You see, everything happens for a reason.",
+      "trans": "您看到，一切都在其序言下发生。",
+      "start": 98.2,
+      "end": 101.28
+    },
+    {
+      "text": "We wouldn't even have met if I hadn't been in that car accident ten years ago.",
+      "trans": "我们也不会遇到，如果不是十年前那次车祸，我早就没有见过你了。",
+      "start": 101.28,
+      "end": 105.72
+    },
+    {
+      "text": "Well, I have no regrets.",
+      "trans": "很好，我没有遗憾。",
+      "start": 105.72,
+      "end": 107.68
+    },
+    {
+      "text": "I'll drink to that.",
+      "trans": "我会为你喝到那。",
+      "start": 107.68,
+      "end": 111.44
+    },
+    {
+      "text": "Alright, so two guys talking about life.",
+      "trans": "好的，两位正在谈论生活。",
+      "start": 112.44,
+      "end": 117.36
+    },
+    {
+      "text": "These, I imagine these guys as being middle age or a little bit older sitting on a porch,",
+      "trans": "这些，我想象这些家伙像在中年或稍微有点老气地坐在阳台上。",
+      "start": 117.36,
+      "end": 123.56
+    },
+    {
+      "text": "drinking a beer, talking about what could have been.",
+      "trans": "喝酒，谈论过去的事情。",
+      "start": 123.56,
+      "end": 126.44
+    },
+    {
+      "text": "Yeah, exactly.",
+      "trans": "是的，正好。",
+      "start": 126.44,
+      "end": 127.44
+    },
+    {
+      "text": "They're kind of thinking about the past and the decisions they have made.",
+      "trans": "他们有点在思考过去和他们做出的决定。",
+      "start": 127.44,
+      "end": 131.88
+    },
+    {
+      "text": "Yeah, exactly.",
+      "trans": "是的，正好。",
+      "start": 131.88,
+      "end": 132.88
+    },
+    {
+      "text": "Alright, so before we start in the grammar, why don't we take a look at a couple of different",
+      "trans": "好的，那么在开始语法之前，我们不妨先看看几个不同的中文句子。",
+      "start": 132.88,
+      "end": 137.44
+    },
+    {
+      "text": "phrases on fluency builder?",
+      "trans": "好的，以下是“fluency builder”这个短语在中文中的翻译：",
+      "start": 137.44,
+      "end": 140.88
+    },
+    {
+      "text": "Well, Marco, this first phrase is a phrase you'll hear very often in English.",
+      "trans": "很好，马科，这个第一个短语在英语中经常会被听到。",
+      "start": 141.72,
+      "end": 147.12
+    },
+    {
+      "text": "It's a phrase that even has philosophical roots, something we talked a lot about when",
+      "trans": "这句话甚至有哲学的根，我们聊了很多时候。",
+      "start": 147.12,
+      "end": 150.92
+    },
+    {
+      "text": "we were studying Socrates back in the end school, but this is the good life.",
+      "trans": "我们是在中学时期学习苏格拉底的，但这是好生活的开始。",
+      "start": 150.92,
+      "end": 156.0
+    },
+    {
+      "text": "The good life.",
+      "trans": "你好，很高兴能为你提供帮助。请问你希望我如何将“好生活”翻译成中文？",
+      "start": 156.0,
+      "end": 157.4
+    },
+    {
+      "text": "We have the good life.",
+      "trans": "我们有好生活。",
+      "start": 157.4,
+      "end": 158.4
+    },
+    {
+      "text": "Right.",
+      "trans": "右。",
+      "start": 158.4,
+      "end": 159.4
+    },
+    {
+      "text": "I have a good life is a very common phrase, but here the good life is an idiom.",
+      "trans": "我有好生活，这是一个非常常见的表达，但在这里，“好生活”是一个成语。",
+      "start": 159.4,
+      "end": 164.4
+    },
+    {
+      "text": "So I'm living the good life.",
+      "trans": "所以，我过着好日子。",
+      "start": 164.4,
+      "end": 166.84
+    },
+    {
+      "text": "Means, you know, I have no complaints about my life.",
+      "trans": "我知道，我对此生活没有任何抱怨。",
+      "start": 166.84,
+      "end": 169.84
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”的翻译：",
+      "start": 169.84,
+      "end": 170.84
+    },
+    {
+      "text": "So pretty much you have all your necessities covered.",
+      "trans": "所以基本上你已经满足了所有你需要的东西。",
+      "start": 170.84,
+      "end": 173.0
+    },
+    {
+      "text": "And maybe you have a good, a nice family and you have a good job and you're just happy.",
+      "trans": "或许你有一个好、好的家庭，一个好工作，你只是很高兴。",
+      "start": 173.0,
+      "end": 177.72
+    },
+    {
+      "text": "So this is the good life.",
+      "trans": "所以这就是好生活。",
+      "start": 177.72,
+      "end": 178.84
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 178.84,
+      "end": 179.84
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 179.84,
+      "end": 180.84
+    },
+    {
+      "text": "So you have the good life.",
+      "trans": "所以你有好生活。",
+      "start": 180.84,
+      "end": 182.48000000000002
+    },
+    {
+      "text": "Now moving on to another phrase, it's kind of also a philosophical, you know.",
+      "trans": "现在转到另一个短语，它也可以说是一种哲学，你知道。",
+      "start": 182.48000000000002,
+      "end": 187.76
+    },
+    {
+      "text": "It says everything happens for a reason.",
+      "trans": "它说一切都是有原因的。",
+      "start": 187.76,
+      "end": 190.68
+    },
+    {
+      "text": "Alright, so this phrase is, well, it's also pretty common.",
+      "trans": "好的，所以这个短语是，嗯，也是挺常见的。",
+      "start": 190.68,
+      "end": 195.64000000000001
+    },
+    {
+      "text": "People say this when bad things happen, but they also say this when good things happen.",
+      "trans": "人们说这，当坏事发生时；但当好事发生时，他们也说这。",
+      "start": 195.64000000000001,
+      "end": 198.76
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 198.76,
+      "end": 199.76
+    },
+    {
+      "text": "So you're just saying that it's destiny.",
+      "trans": "所以你只是说，这是命运。",
+      "start": 199.76,
+      "end": 202.28
+    },
+    {
+      "text": "If this bad thing happened to you, there is a reason for it.",
+      "trans": "如果发生这种事情，有一个原因。",
+      "start": 202.28,
+      "end": 206.12
+    },
+    {
+      "text": "Maybe you don't see it now.",
+      "trans": "也许你现在看不到它。",
+      "start": 206.12,
+      "end": 207.92
+    },
+    {
+      "text": "Maybe not tomorrow, but maybe later you'll see why.",
+      "trans": "也许不是明天，但也许几天后你就会明白。",
+      "start": 207.92,
+      "end": 211.72
+    },
+    {
+      "text": "This often happens when people lose their jobs.",
+      "trans": "这个常常发生的情况是人们失去工作。",
+      "start": 211.72,
+      "end": 214.04
+    },
+    {
+      "text": "You say, well, you know, everything happens for a reason.",
+      "trans": "您说，嗯，您知道，一切都有其原因。",
+      "start": 214.04,
+      "end": 217.12
+    },
+    {
+      "text": "Maybe losing this job will allow you to find a better job.",
+      "trans": "也许失去这份工作会帮助你找到更好的工作。",
+      "start": 217.12,
+      "end": 221.6
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 221.6,
+      "end": 222.6
+    },
+    {
+      "text": "Or maybe go back to school and study.",
+      "trans": "或者再回到学校，学习。",
+      "start": 222.6,
+      "end": 224.51999999999998
+    },
+    {
+      "text": "Or maybe meet the man or woman of your dreams.",
+      "trans": "或者遇见你梦中的那个人或人。",
+      "start": 224.51999999999998,
+      "end": 227.23999999999998
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 227.23999999999998,
+      "end": 228.23999999999998
+    },
+    {
+      "text": "Everything happens for a reason.",
+      "trans": "一切都有其目的。",
+      "start": 228.28,
+      "end": 229.84
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 229.84,
+      "end": 230.84
+    },
+    {
+      "text": "And then the guy agrees and says, well, I'll drink to that.",
+      "trans": "然后那个人同意并说，好吧，我喝到那个。",
+      "start": 230.84,
+      "end": 233.8
+    },
+    {
+      "text": "Okay, so this is a way for people speaking English to say, listen, I agree with you.",
+      "trans": "好的，这是人们说英语的方式，他们可以这么说：“嗯，这样是用一种方式让别人听懂我说的话，我同意你的观点。”",
+      "start": 233.8,
+      "end": 239.36
+    },
+    {
+      "text": "I like that idea.",
+      "trans": "我喜欢那个想法。",
+      "start": 239.36,
+      "end": 241.56
+    },
+    {
+      "text": "And I will cheers.",
+      "trans": "我将欢呼。",
+      "start": 241.56,
+      "end": 243.08
+    },
+    {
+      "text": "Cheers, right?",
+      "trans": "谢谢，对吗？",
+      "start": 243.08,
+      "end": 244.08
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 244.08,
+      "end": 245.08
+    },
+    {
+      "text": "So this means we're going to touch our glasses or touch our beer bottles and we're going",
+      "trans": "所以这意味着我们将触摸我们的眼镜或我们的啤酒瓶，我们将会",
+      "start": 245.08,
+      "end": 247.28
+    },
+    {
+      "text": "to, you know, think about how this is a nice thought, you know.",
+      "trans": "这句话可以翻译成中文为：",
+      "start": 247.28,
+      "end": 251.44
+    },
+    {
+      "text": "Everything happens for a reason is positive.",
+      "trans": "一切都有其目的，这是积极的。",
+      "start": 251.44,
+      "end": 253.44
+    },
+    {
+      "text": "It's a way to say, listen, good things can happen from this.",
+      "trans": "这是说，听从这个方法，好的事情可以发生。",
+      "start": 253.44,
+      "end": 255.88
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的翻译：",
+      "start": 255.88,
+      "end": 256.88
+    },
+    {
+      "text": "Yes, I agree.",
+      "trans": "是的，我同意。",
+      "start": 257.15999999999997,
+      "end": 258.56
+    },
+    {
+      "text": "Cheers.",
+      "trans": "祝你好运。",
+      "start": 258.56,
+      "end": 259.56
+    },
+    {
+      "text": "I'll drink to that.",
+      "trans": "我会为你喝到那。",
+      "start": 259.56,
+      "end": 260.56
+    },
+    {
+      "text": "I'll drink to that.",
+      "trans": "我会为你喝到那。",
+      "start": 260.56,
+      "end": 261.56
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 261.56,
+      "end": 262.56
+    },
+    {
+      "text": "Well, pretty interesting phrases.",
+      "trans": "很好有趣的话。",
+      "start": 262.56,
+      "end": 263.56
+    },
+    {
+      "text": "You know, they're very common, I guess, like colloquial, right?",
+      "trans": "我知道，他们很常见，大概就像口语吧？",
+      "start": 263.56,
+      "end": 267.4
+    },
+    {
+      "text": "So you can use them in everyday conversation with a friend.",
+      "trans": "所以你可以用它们在日常对话中使用。",
+      "start": 267.4,
+      "end": 270.6
+    },
+    {
+      "text": "You can.",
+      "trans": "你可以说。",
+      "start": 270.6,
+      "end": 271.6
+    },
+    {
+      "text": "And, you know, oftentimes we say, for example, something really positive, like, I'm really",
+      "trans": "而且，您知道的，例如，比如说，我非常积极，比如，我是一个好学生。",
+      "start": 271.6,
+      "end": 277.8
+    },
+    {
+      "text": "glad I have such great friends.",
+      "trans": "我很高兴有这样好朋友。",
+      "start": 277.8,
+      "end": 279.48
+    },
+    {
+      "text": "And then everyone says, oh, I'll drink to that.",
+      "trans": "然后每个人都会说，哦，我要喝那。",
+      "start": 279.48,
+      "end": 281.32
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 281.32,
+      "end": 282.32
+    },
+    {
+      "text": "And so this is something you'll hear when you're out with friends or with family and they",
+      "trans": "所以当你和朋友或家人一起出去时，你就会听到这句话。",
+      "start": 282.32,
+      "end": 285.8
+    },
+    {
+      "text": "may sound funny at first, but you will recognize them when you're speaking to people who speak",
+      "trans": "这听起来有点奇怪，但当你和说话的人交流时，你会很快认出他们。",
+      "start": 285.8,
+      "end": 290.44
+    },
+    {
+      "text": "English.",
+      "trans": "好的，以下是将英文翻译成中文的句子：",
+      "start": 290.44,
+      "end": 291.44
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 291.44,
+      "end": 292.44
+    },
+    {
+      "text": "So let's listen to our dialogue again and then we'll come back and explain the grammar.",
+      "trans": "所以让我们再次听我们的对话，然后我们再回去解释语法。",
+      "start": 292.44,
+      "end": 301.24
+    },
+    {
+      "text": "This is the good life.",
+      "trans": "这是幸福的生活。",
+      "start": 301.24,
+      "end": 303.24
+    },
+    {
+      "text": "We have it good.",
+      "trans": "我们很好。",
+      "start": 303.24,
+      "end": 304.44
+    },
+    {
+      "text": "Don't you think?",
+      "trans": "您是否认为？",
+      "start": 304.44,
+      "end": 305.44
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 305.44,
+      "end": 306.44
+    },
+    {
+      "text": "Of course.",
+      "trans": "当然。",
+      "start": 306.44,
+      "end": 307.44
+    },
+    {
+      "text": "Although, don't you ever wonder what could have been?",
+      "trans": "虽然，你别忘了曾经有过什么？",
+      "start": 307.44,
+      "end": 312.84000000000003
+    },
+    {
+      "text": "What do you mean?",
+      "trans": "你什么意思？",
+      "start": 312.84000000000003,
+      "end": 314.24
+    },
+    {
+      "text": "Well, sometimes I think of how things could have turned out if I had done things a little",
+      "trans": "嗯，有时候我想到如果我当初做得稍微一些，事情可能会有所不同。",
+      "start": 314.24,
+      "end": 320.88
+    },
+    {
+      "text": "differently.",
+      "trans": "不同的。",
+      "start": 320.88,
+      "end": 322.2
+    },
+    {
+      "text": "For example, like, for example, if I hadn't studied architecture, I would have become an",
+      "trans": "例如，比如，如果我没有学过建筑，我就会成为中国。",
+      "start": 322.2,
+      "end": 329.0
+    },
+    {
+      "text": "artist like I wanted to.",
+      "trans": "艺术家像我想要的那样。",
+      "start": 329.0,
+      "end": 331.40000000000003
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 331.40000000000003,
+      "end": 332.40000000000003
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 332.40000000000003,
+      "end": 333.40000000000003
+    },
+    {
+      "text": "Now that I think of it, I wouldn't have gotten married if I hadn't moved to this town",
+      "trans": "现在想想，我不会结婚的，如果不是搬到了这个城市。",
+      "start": 333.40000000000003,
+      "end": 337.56
+    },
+    {
+      "text": "and met Sally.",
+      "trans": "和萨莉碰面了。",
+      "start": 337.56,
+      "end": 338.8
+    },
+    {
+      "text": "You see, everything happens for a reason.",
+      "trans": "您看到，一切都有其目的。",
+      "start": 338.8,
+      "end": 343.2
+    },
+    {
+      "text": "You wouldn't even have met if I hadn't been in that car accident 10 years ago.",
+      "trans": "如果你没有在十年前发生那起车祸，你也不会遇到我。",
+      "start": 343.2,
+      "end": 348.52
+    },
+    {
+      "text": "Well, I have no regrets.",
+      "trans": "好的，我没有什么遗憾。",
+      "start": 348.52,
+      "end": 351.28
+    },
+    {
+      "text": "I'll drink to that.",
+      "trans": "我会为你喝到那。",
+      "start": 351.28,
+      "end": 354.28
+    },
+    {
+      "text": "Bip, bip, bip.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文短语“Bip, bip, bip”，这可能是一个简单的英语单词或缩写，用于表示重复、重复的音节等。如果您能提供更多的上下文或者具体的语言背景信息，我可以尝试帮助您进行更准确的翻译。",
+      "start": 354.28,
+      "end": 356.88
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 356.88,
+      "end": 357.88
+    },
+    {
+      "text": "So now it's time for grammar breakdown.",
+      "trans": "所以现在是语法梳理的时间。",
+      "start": 357.88,
+      "end": 361.88
+    },
+    {
+      "text": "Rama breakdown.",
+      "trans": "对不起，我无法直接提供中文翻译。不过，我可以尝试用另一种方式来表达这个意思。",
+      "start": 361.88,
+      "end": 363.71999999999997
+    },
+    {
+      "text": "So in grammar breakdown, we're going to look at the two main parts of these phrases that",
+      "trans": "所以，在语法分析中，我们将重点讨论这些短语的主要部分，即：",
+      "start": 363.71999999999997,
+      "end": 367.68
+    },
+    {
+      "text": "allow us to talk about things that didn't happen.",
+      "trans": "允许我们谈论那些没有发生的事情。",
+      "start": 367.68,
+      "end": 370.56
+    },
+    {
+      "text": "So we're talking about looking back at our life and seeing what decisions and what actions",
+      "trans": "所以，我们正在回顾我们的生活，并思考我们在生活中做出的决策和行动。",
+      "start": 370.56,
+      "end": 375.84
+    },
+    {
+      "text": "we made.",
+      "trans": "我们做。",
+      "start": 375.84,
+      "end": 377.32
+    },
+    {
+      "text": "And in this case, we have a great sentence here.",
+      "trans": "在这一情况下，这里有一个很好的句子。",
+      "start": 377.32,
+      "end": 379.92
+    },
+    {
+      "text": "If I hadn't studied architecture, I would have become an artist.",
+      "trans": "如果我没有学过建筑，我可能成为一名艺术家。",
+      "start": 379.92,
+      "end": 385.88
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 385.88,
+      "end": 386.88
+    },
+    {
+      "text": "So let's look at the first part before the comment.",
+      "trans": "所以，让我们先看看评论之前的部分。",
+      "start": 386.88,
+      "end": 389.76
+    },
+    {
+      "text": "If I hadn't studied architecture, so now we have the conditional if.",
+      "trans": "如果我没有学过建筑，现在我们有了条件语句。",
+      "start": 389.76,
+      "end": 394.4
+    },
+    {
+      "text": "So Mark, big question.",
+      "trans": "所以马克，大问题。",
+      "start": 394.4,
+      "end": 395.88
+    },
+    {
+      "text": "Did he study architecture?",
+      "trans": "是的，他学习过建筑学。",
+      "start": 395.88,
+      "end": 397.24
+    },
+    {
+      "text": "He did.",
+      "trans": "他。",
+      "start": 397.24,
+      "end": 398.24
+    },
+    {
+      "text": "He did.",
+      "trans": "他。",
+      "start": 398.24,
+      "end": 399.24
+    },
+    {
+      "text": "He hadn't studied architecture.",
+      "trans": "他没有学习建筑学。",
+      "start": 399.24,
+      "end": 400.44
+    },
+    {
+      "text": "It means I did study architecture.",
+      "trans": "这句话的中文翻译是：",
+      "start": 400.44,
+      "end": 403.16
+    },
+    {
+      "text": "But if I had not studied it, so this is if I could change the past, then what would I",
+      "trans": "但是，如果我没有学习过它，那么这就是，如果我能够改变过去，那我将是什么样子？",
+      "start": 403.16,
+      "end": 410.92
+    },
+    {
+      "text": "have done?",
+      "trans": "是的，我已准备好。",
+      "start": 410.92,
+      "end": 411.92
+    },
+    {
+      "text": "I would have become an artist.",
+      "trans": "我会成为艺术家。",
+      "start": 411.92,
+      "end": 414.08
+    },
+    {
+      "text": "OK.",
+      "trans": "OK in Chinese is \"好的\" (kě de).",
+      "start": 414.08,
+      "end": 415.08
+    },
+    {
+      "text": "So he wanted to be an artist, but he didn't become an artist.",
+      "trans": "所以，他想成为一名艺术家，但并没有成为艺术家。",
+      "start": 415.08,
+      "end": 418.28000000000003
+    },
+    {
+      "text": "He studied architecture instead.",
+      "trans": "他学建筑设计。",
+      "start": 418.28000000000003,
+      "end": 420.48
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 420.48,
+      "end": 421.48
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 421.48,
+      "end": 422.48
+    },
+    {
+      "text": "You can see the two parts here.",
+      "trans": "你可以看到这里。",
+      "start": 422.48,
+      "end": 423.48
+    },
+    {
+      "text": "We have one, the condition.",
+      "trans": "我们有一个，条件。",
+      "start": 423.48,
+      "end": 424.48
+    },
+    {
+      "text": "If I hadn't done this thing.",
+      "trans": "如果我没有做这件事。",
+      "start": 424.48,
+      "end": 427.04
+    },
+    {
+      "text": "And then afterwards, we have the result.",
+      "trans": "然后，我们有结果。",
+      "start": 427.04,
+      "end": 429.40000000000003
+    },
+    {
+      "text": "Then I would have become an artist.",
+      "trans": "然后，我就会成为一名艺术家。",
+      "start": 429.40000000000003,
+      "end": 431.20000000000005
+    },
+    {
+      "text": "So this is the hypothetical.",
+      "trans": "所以，这是假设。",
+      "start": 431.20000000000005,
+      "end": 432.72
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 432.72,
+      "end": 433.72
+    },
+    {
+      "text": "And when we see the condition, you see the gram, you see the structure of the sentence",
+      "trans": "当看到条件时，你看到了语法，你看出了句子的结构。",
+      "start": 433.72,
+      "end": 438.44
+    },
+    {
+      "text": "is had plus verb in past participle.",
+      "trans": "是过去分词的动词。",
+      "start": 438.44,
+      "end": 441.92
+    },
+    {
+      "text": "So if I hadn't studied architecture, and this is called the past perfect.",
+      "trans": "所以如果我没有学过建筑，这叫过去完成时。",
+      "start": 441.92,
+      "end": 446.56
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 446.56,
+      "end": 447.56
+    },
+    {
+      "text": "And then the result, as you said, would have become, this is the present perfect.",
+      "trans": "然后，结果将会是……这就是现在完成时。",
+      "start": 447.56,
+      "end": 453.04
+    },
+    {
+      "text": "Have or has plus verb in past participle.",
+      "trans": "在汉语中，\"有或有\"的过去分词形式是 \"有或有\"。这个短语表示“存在或者存在”。例如：",
+      "start": 453.04,
+      "end": 456.16
+    },
+    {
+      "text": "Let's look at another example.",
+      "trans": "好的，我来帮你翻译这个句子。",
+      "start": 456.16,
+      "end": 458.0
+    },
+    {
+      "text": "I wouldn't have gotten married if I hadn't moved to this town.",
+      "trans": "我不会结婚，除非我搬到了这个城市。",
+      "start": 458.0,
+      "end": 464.48
+    },
+    {
+      "text": "OK.",
+      "trans": "OK in Chinese is \"好的\" (kě de).",
+      "start": 464.48,
+      "end": 465.48
+    },
+    {
+      "text": "So we've got the same idea here, but we've got it flipped.",
+      "trans": "所以这里我们已经有了同样的想法，但已经颠倒了。",
+      "start": 465.48,
+      "end": 468.48
+    },
+    {
+      "text": "We've got these two parts in different places.",
+      "trans": "我们有两个部分在不同的地方。",
+      "start": 468.48,
+      "end": 470.88000000000005
+    },
+    {
+      "text": "And so he's pretty much saying, if I hadn't moved to this town, then I wouldn't have",
+      "trans": "所以他差不多是在说，如果不是我搬到了这个城市，那我现在也不会有。",
+      "start": 470.88000000000005,
+      "end": 477.0
+    },
+    {
+      "text": "gotten married.",
+      "trans": "得到结婚。",
+      "start": 477.0,
+      "end": 478.0
+    },
+    {
+      "text": "But what did happen?",
+      "trans": "但是发生了什么？",
+      "start": 478.0,
+      "end": 479.44000000000005
+    },
+    {
+      "text": "He did move to this town, and he did get married.",
+      "trans": "他搬到了这个城市，他也结婚了。",
+      "start": 479.44000000000005,
+      "end": 481.84000000000003
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案是：Exactly.",
+      "start": 481.84000000000003,
+      "end": 482.84000000000003
+    },
+    {
+      "text": "So then, yeah, like you say, he changed the condition, and you can do this.",
+      "trans": "所以，是的，你刚才说的，他改变了条件，你可以试试。",
+      "start": 482.84000000000003,
+      "end": 485.8
+    },
+    {
+      "text": "You can put the condition in the beginning or at the end.",
+      "trans": "您可以将条件放在开始或结尾。",
+      "start": 485.8,
+      "end": 489.28000000000003
+    },
+    {
+      "text": "And again, the structure is the same.",
+      "trans": "而且，结构是一样的。",
+      "start": 489.28000000000003,
+      "end": 491.0
+    },
+    {
+      "text": "I would have gotten married, right?",
+      "trans": "我会选择结婚，对吗？",
+      "start": 491.0,
+      "end": 493.88
+    },
+    {
+      "text": "Have gotten this is present perfect.",
+      "trans": "这个是现在完成时。",
+      "start": 493.88,
+      "end": 495.92
+    },
+    {
+      "text": "Have or has, depending on the subject, plus the verb in past participle.",
+      "trans": "在汉语中，这句话可以翻译为：",
+      "start": 495.92,
+      "end": 500.28000000000003
+    },
+    {
+      "text": "And then the past perfect or the condition had plus verb in past participle hadn't moved",
+      "trans": "然后过去完成时或条件加上过去分词hadn’t moved",
+      "start": 500.28000000000003,
+      "end": 506.52
+    },
+    {
+      "text": "to this town.",
+      "trans": "这句话可以翻译成中文为：“到这个城市。”",
+      "start": 506.52,
+      "end": 507.52
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 507.52,
+      "end": 508.52
+    },
+    {
+      "text": "That's a lot of grammar.",
+      "trans": "这句话的中文翻译是：",
+      "start": 508.52,
+      "end": 509.52
+    },
+    {
+      "text": "It's a lot of grammar, but it's very easy once you just start using it.",
+      "trans": "这是一个大量的语法，但只要你开始使用它，它就会变得非常简单。",
+      "start": 509.52,
+      "end": 514.0
+    },
+    {
+      "text": "One thing too much about, okay, what do I do here?",
+      "trans": "一桩事情太多，对了，我该怎么办？",
+      "start": 514.0,
+      "end": 516.8
+    },
+    {
+      "text": "Just, you know, if you get the rhythm and you start using it in the same way, then it",
+      "trans": "嗯，你懂的，如果你掌握了节奏，并且在同样的方式下开始使用它，那",
+      "start": 516.8,
+      "end": 521.84
+    },
+    {
+      "text": "kind of comes out naturally.",
+      "trans": "有点自然而然地出。",
+      "start": 521.84,
+      "end": 522.84
+    },
+    {
+      "text": "And if you make a little mistake, there's not a big deal, because even we do it, you know.",
+      "trans": "而且，如果犯一个小错误，那也没啥大不了的，毕竟我们也是这样做的。",
+      "start": 522.84,
+      "end": 526.12
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案是：Exactly.",
+      "start": 526.12,
+      "end": 527.12
+    },
+    {
+      "text": "Well, let's try a couple of examples, not the top of our heads.",
+      "trans": "好的，我们尝试几个例子，而不是直接说出。",
+      "start": 527.12,
+      "end": 529.28
+    },
+    {
+      "text": "First of all, if I hadn't moved to China, I wouldn't have learned Chinese.",
+      "trans": "首先，如果我没有在中国学习中文，我不会知道中文。",
+      "start": 529.28,
+      "end": 536.84
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 536.84,
+      "end": 537.84
+    },
+    {
+      "text": "So you did move to China, and you did learn Chinese.",
+      "trans": "所以你去了中国，你也学了汉语。",
+      "start": 537.84,
+      "end": 540.48
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 540.48,
+      "end": 541.48
+    },
+    {
+      "text": "So your turn.",
+      "trans": "所以你的机会。",
+      "start": 541.48,
+      "end": 542.48
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 542.48,
+      "end": 543.84
+    },
+    {
+      "text": "If my parents hadn't spoken Spanish to me when I was a kid, I wouldn't have become fluent",
+      "trans": "如果我的父母在我小时候没有教我用西班牙语，我就不会流利了。",
+      "start": 543.84,
+      "end": 549.08
+    },
+    {
+      "text": "in Spanish.",
+      "trans": "在西班牙语。",
+      "start": 549.08,
+      "end": 550.08
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 550.08,
+      "end": 551.08
+    },
+    {
+      "text": "So your parents did speak Spanish, do you?",
+      "trans": "所以您的父母会说西班牙语，对吗？",
+      "start": 551.08,
+      "end": 553.44
+    },
+    {
+      "text": "And you did become fluent in Spanish.",
+      "trans": "你已经掌握了西班牙语。",
+      "start": 553.44,
+      "end": 554.44
+    },
+    {
+      "text": "I did become fluent.",
+      "trans": "我学会了流利。",
+      "start": 554.44,
+      "end": 555.44
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 555.44,
+      "end": 556.44
+    },
+    {
+      "text": "So not bad.",
+      "trans": "所以还不错。",
+      "start": 556.44,
+      "end": 557.44
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 557.44,
+      "end": 558.44
+    },
+    {
+      "text": "As you can see, you can use it not only to think about things in the past that you can't",
+      "trans": "您可以看到，您可以使用它不仅思考过去你无法回忆的事情。",
+      "start": 558.44,
+      "end": 560.8000000000001
+    },
+    {
+      "text": "change anymore, but just also, you know, kind of remember or say, you know, oh, if this",
+      "trans": "当然，继续。但是，你可能还记得或者说，嗯，如果这个",
+      "start": 560.8000000000001,
+      "end": 565.88
+    },
+    {
+      "text": "hadn't happened, the result.",
+      "trans": "hadn't happened, the result.\" 翻译成中文是：",
+      "start": 565.88,
+      "end": 568.04
+    },
+    {
+      "text": "Or if I hadn't opened my big mouth, my best friend wouldn't have gotten so angry at me.",
+      "trans": "如果我没有打开我的大嘴，我的好朋友就不会那么生气地对我。",
+      "start": 568.04,
+      "end": 574.3199999999999
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 574.3199999999999,
+      "end": 575.3199999999999
+    },
+    {
+      "text": "So I said something stupid, and my friend did get angry.",
+      "trans": "所以我说了一句愚蠢的话，我的朋友因此生气了。",
+      "start": 575.3199999999999,
+      "end": 578.16
+    },
+    {
+      "text": "And now I feel bad about it.",
+      "trans": "现在我对此感到抱歉。",
+      "start": 578.16,
+      "end": 579.4
+    },
+    {
+      "text": "It happens.",
+      "trans": "它发生。",
+      "start": 579.4,
+      "end": 580.4
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 580.4,
+      "end": 581.4
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 581.4,
+      "end": 582.4
+    },
+    {
+      "text": "So I hope it's clear.",
+      "trans": "所以我想它很明白。",
+      "start": 582.4,
+      "end": 583.4
+    },
+    {
+      "text": "It does sound a little bit complicated, but this is what our website is for, right?",
+      "trans": "这句话的意思是：看起来有点复杂，但这正是我们的网站的用途吗？",
+      "start": 583.4,
+      "end": 586.64
+    },
+    {
+      "text": "So if you have questions or doubts or you want to try and plant your own ideas, you can",
+      "trans": "所以如果你有疑问或怀疑，或者你想尝试和种植自己的想法，你可以",
+      "start": 586.64,
+      "end": 590.48
+    },
+    {
+      "text": "come to the website and do it.",
+      "trans": "请访问网站并完成。",
+      "start": 590.48,
+      "end": 592.0799999999999
+    },
+    {
+      "text": "Want to make some of your own senses and practice some of these new things, then come to our website,",
+      "trans": "想让你的感官自己做主，尝试这些新的东西，那么就来我们的网站吧。",
+      "start": 592.0799999999999,
+      "end": 596.16
+    },
+    {
+      "text": "post some comments.",
+      "trans": "将一些评论发表一下。",
+      "start": 596.16,
+      "end": 597.16
+    },
+    {
+      "text": "And happy to correct and add our own commentary on those.",
+      "trans": "和很高兴纠正并补充我们自己的评论。",
+      "start": 597.16,
+      "end": 600.88
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 600.88,
+      "end": 601.88
+    },
+    {
+      "text": "So before we go, let's listen to this dialogue one last time.",
+      "trans": "所以，我们先听听这段对话再离开。",
+      "start": 601.88,
+      "end": 613.3199999999999
+    },
+    {
+      "text": "This is the good life.",
+      "trans": "这是幸福的生活。",
+      "start": 613.3199999999999,
+      "end": 615.16
+    },
+    {
+      "text": "We have a good, don't you think?",
+      "trans": "我们有好的，你觉得呢？",
+      "start": 615.16,
+      "end": 616.7199999999999
+    },
+    {
+      "text": "Yeah, of course.",
+      "trans": "是的，当然。",
+      "start": 616.7199999999999,
+      "end": 618.16
+    },
+    {
+      "text": "Although, don't you ever wonder what could have been?",
+      "trans": "虽然，你别忘了曾经有过什么？",
+      "start": 618.16,
+      "end": 621.8399999999999
+    },
+    {
+      "text": "What do you mean?",
+      "trans": "这句话的英文是 \"What do you mean? \"。",
+      "start": 621.8399999999999,
+      "end": 622.8399999999999
+    },
+    {
+      "text": "Well, sometimes I think of how things could have turned out if I had done things a little",
+      "trans": "嗯，有时候我想到如果我当初做得稍微一些，事情可能会更有趣。",
+      "start": 622.84,
+      "end": 627.6800000000001
+    },
+    {
+      "text": "differently.",
+      "trans": "不同的。",
+      "start": 627.6800000000001,
+      "end": 628.6800000000001
+    },
+    {
+      "text": "For example, like, for example, if I hadn't studied architecture, I would have become an artist",
+      "trans": "例如，比如，如果我没有学过建筑，我可能会成为一名艺术家。",
+      "start": 628.6800000000001,
+      "end": 634.6
+    },
+    {
+      "text": "like I wanted to.",
+      "trans": "我想要。",
+      "start": 634.6,
+      "end": 636.0400000000001
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 636.0400000000001,
+      "end": 637.0400000000001
+    },
+    {
+      "text": "Yeah, now that I think of it, I wouldn't have gotten married if I hadn't moved to this town",
+      "trans": "是的，现在想想，如果我没有搬到这个城市，我可能就不会结婚了。",
+      "start": 637.0400000000001,
+      "end": 641.24
+    },
+    {
+      "text": "and met Sally.",
+      "trans": "和萨莉会面了。",
+      "start": 641.24,
+      "end": 642.32
+    },
+    {
+      "text": "You see, everything happens for a reason.",
+      "trans": "您看到，一切都在其序言下发生。",
+      "start": 642.32,
+      "end": 645.6
+    },
+    {
+      "text": "We wouldn't even have met if I hadn't been in that car accident ten years ago.",
+      "trans": "我们也不会遇到，如果不是十年前那次车祸，我早就没有见过你了。",
+      "start": 645.6,
+      "end": 649.84
+    },
+    {
+      "text": "Well, I have no regrets.",
+      "trans": "好的，我没有什么遗憾。",
+      "start": 649.84,
+      "end": 651.96
+    },
+    {
+      "text": "I'll drink to that.",
+      "trans": "我会为你喝到那。",
+      "start": 651.96,
+      "end": 652.96
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 652.96,
+      "end": 653.96
+    },
+    {
+      "text": "We're back.",
+      "trans": "我们回来了。",
+      "start": 653.96,
+      "end": 654.96
+    },
+    {
+      "text": "So Catherine, any other regrets maybe in your life apart from opening your mouth?",
+      "trans": "所以凯瑟琳，除了打开嘴巴之外，你生活中还有其他遗憾吗？",
+      "start": 654.96,
+      "end": 666.8000000000001
+    },
+    {
+      "text": "Any other regrets?",
+      "trans": "任何其他遗憾？",
+      "start": 666.8000000000001,
+      "end": 668.84
+    },
+    {
+      "text": "If my parents had spoken as much to me as a kid, I would have learned.",
+      "trans": "如果我的父母能像孩子一样与我交谈，我会学到很多。",
+      "start": 668.84,
+      "end": 673.84
+    },
+    {
+      "text": "But instead, I just learned English and that's all.",
+      "trans": "但是，我只学习了英语，这就是全部。",
+      "start": 673.84,
+      "end": 676.5600000000001
+    },
+    {
+      "text": "Well, your mom is a half Swedish, right?",
+      "trans": "是的，你的妈妈是半瑞典人。",
+      "start": 676.5600000000001,
+      "end": 679.64
+    },
+    {
+      "text": "Half Swedish, half Czech.",
+      "trans": "半瑞典，半捷克。",
+      "start": 679.64,
+      "end": 680.88
+    },
+    {
+      "text": "So, and she never spoke any of these languages to you?",
+      "trans": "所以，她从不和你说话这些语言？",
+      "start": 680.88,
+      "end": 683.52
+    },
+    {
+      "text": "She knows.",
+      "trans": "她知道。",
+      "start": 683.52,
+      "end": 684.52
+    },
+    {
+      "text": "She didn't speak Swedish or Czech.",
+      "trans": "她不会说瑞典语或捷克语。",
+      "start": 684.52,
+      "end": 685.96
+    },
+    {
+      "text": "Her parents spoke English as their common language.",
+      "trans": "她的父母用英语作为共同语言。",
+      "start": 685.96,
+      "end": 688.96
+    },
+    {
+      "text": "Oh, really?",
+      "trans": "是的，真的？",
+      "start": 688.96,
+      "end": 689.96
+    },
+    {
+      "text": "But she grew up speaking Italian and German.",
+      "trans": "但是，她从小就学会了意大利语和德语。",
+      "start": 689.96,
+      "end": 691.88
+    },
+    {
+      "text": "But she didn't speak to me in those languages.",
+      "trans": "但是，她没有用这些语言与我交谈。",
+      "start": 691.88,
+      "end": 693.56
+    },
+    {
+      "text": "And then as an adult, she forgot some of them.",
+      "trans": "然后作为成年人，她忘记了其中一些。",
+      "start": 693.56,
+      "end": 697.0
+    },
+    {
+      "text": "And so because my dad was my dad, well, they're both Americans now.",
+      "trans": "所以，因为我的爸爸是我的爸爸，所以他们都是美国人。",
+      "start": 697.0,
+      "end": 701.32
+    },
+    {
+      "text": "But my dad's American.",
+      "trans": "但是我的爸爸是美国的。",
+      "start": 701.32,
+      "end": 702.64
+    },
+    {
+      "text": "They just spoke English to me.",
+      "trans": "他们只是用英语和我说话。",
+      "start": 702.64,
+      "end": 704.6
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 704.6,
+      "end": 705.6
+    },
+    {
+      "text": "But now you speak Italian.",
+      "trans": "但是现在你讲意大利语。",
+      "start": 705.6,
+      "end": 706.6
+    },
+    {
+      "text": "So do you ever try and talk to your mom in Italian?",
+      "trans": "所以你是否曾经尝试和你的妈妈说意大利语？",
+      "start": 706.6,
+      "end": 709.0
+    },
+    {
+      "text": "Sometimes.",
+      "trans": "有时候。",
+      "start": 709.0,
+      "end": 710.0
+    },
+    {
+      "text": "My grandmother's a Italian as much better.",
+      "trans": "我的祖母是意大利语，比她好。",
+      "start": 710.0,
+      "end": 711.56
+    },
+    {
+      "text": "So my grandmother's completely fluent.",
+      "trans": "所以我的祖母完全流利。",
+      "start": 711.56,
+      "end": 713.4
+    },
+    {
+      "text": "So I speak to her in Italian.",
+      "trans": "所以，我跟她用意大利语交谈。",
+      "start": 713.4,
+      "end": 714.88
+    },
+    {
+      "text": "Oh, wow.",
+      "trans": "哇哦。",
+      "start": 714.88,
+      "end": 715.88
+    },
+    {
+      "text": "And German as well.",
+      "trans": "而且德国也一样。",
+      "start": 715.88,
+      "end": 716.88
+    },
+    {
+      "text": "She's fluent in German too.",
+      "trans": "她也流利使用德语。",
+      "start": 716.88,
+      "end": 717.88
+    },
+    {
+      "text": "And I studied German at school.",
+      "trans": "我上过德国的学校。",
+      "start": 717.88,
+      "end": 718.88
+    },
+    {
+      "text": "So, see, this is the interesting thing now.",
+      "trans": "所以，看，这就是现在有趣的事情。",
+      "start": 718.88,
+      "end": 720.56
+    },
+    {
+      "text": "So many people are speaking so many languages.",
+      "trans": "所以有很多人说很多语言。",
+      "start": 720.56,
+      "end": 723.52
+    },
+    {
+      "text": "And before, if you spoke another foreign language, it was a big deal.",
+      "trans": "而且，如果你们说了一种外语，那是一件大事。",
+      "start": 723.52,
+      "end": 727.04
+    },
+    {
+      "text": "Oh, yeah.",
+      "trans": "哦，对了。",
+      "start": 727.04,
+      "end": 728.04
+    },
+    {
+      "text": "But now it's like a requirement.",
+      "trans": "但是现在好像就是一个要求。",
+      "start": 728.04,
+      "end": 729.04
+    },
+    {
+      "text": "You have to at least dominate your own native language and a foreign language, right?",
+      "trans": "您至少需要掌握自己的母语和外语，对吗？",
+      "start": 729.04,
+      "end": 734.4
+    },
+    {
+      "text": "So if your native language is English, you at least have to speak Spanish or Chinese or",
+      "trans": "所以如果你的母语是英语，至少得说西班牙语、汉语或者",
+      "start": 734.4,
+      "end": 738.56
+    },
+    {
+      "text": "some other language.",
+      "trans": "一些其他语言。",
+      "start": 738.56,
+      "end": 739.56
+    },
+    {
+      "text": "Definitely, true.",
+      "trans": "当然，正确。",
+      "start": 739.56,
+      "end": 740.56
+    },
+    {
+      "text": "And I think there are a lot of people, a lot of our users that speak maybe two or three",
+      "trans": "而且我认为有很多人，很多我们的用户可能说可能是两个或三个。",
+      "start": 740.56,
+      "end": 746.7199999999999
+    },
+    {
+      "text": "languages and English is just one more.",
+      "trans": "语言和英语只是其中之一。",
+      "start": 746.7199999999999,
+      "end": 748.68
+    },
+    {
+      "text": "So, you know, more power to them.",
+      "trans": "所以，你懂的。更多的力量给他们。",
+      "start": 748.68,
+      "end": 750.8
+    },
+    {
+      "text": "This is a really great skill to have.",
+      "trans": "这是非常棒的技能。",
+      "start": 750.8,
+      "end": 752.68
+    },
+    {
+      "text": "And I think it's really important to keep on going with it even though it's frustrating",
+      "trans": "而且我认为继续前进，即使很沮丧也很重要。",
+      "start": 752.68,
+      "end": 755.68
+    },
+    {
+      "text": "stuff.",
+      "trans": "在中文中，\"stuff\" 的翻译是 \"东西\"。",
+      "start": 755.68,
+      "end": 756.68
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的翻译：",
+      "start": 756.68,
+      "end": 757.68
+    },
+    {
+      "text": "And actually, once you've been able, and actually once you master two or three different",
+      "trans": "而且，一旦你掌握了两个或三个不同的技能。",
+      "start": 757.68,
+      "end": 761.9399999999999
+    },
+    {
+      "text": "languages, then the fourth and fifth just becomes easier.",
+      "trans": "语言，那么第四和第五就变得容易了。",
+      "start": 761.9399999999999,
+      "end": 764.52
+    },
+    {
+      "text": "Actually, it's true.",
+      "trans": "实际上，它确实如此。",
+      "start": 764.52,
+      "end": 765.52
+    },
+    {
+      "text": "It sounds funny when you hear it because you're like, how could it be easier to learn",
+      "trans": "这句话听起来很有趣，因为你好像觉得很容易就能学会。",
+      "start": 766.52,
+      "end": 770.16
+    },
+    {
+      "text": "more?",
+      "trans": "更多？",
+      "start": 770.16,
+      "end": 771.16
+    },
+    {
+      "text": "But your brain starts to understand patterns better, right?",
+      "trans": "但是你的大脑开始更好地理解模式，对吗？",
+      "start": 771.16,
+      "end": 774.52
+    },
+    {
+      "text": "And so it just becomes more natural for you.",
+      "trans": "所以，就让你觉得更加自然了。",
+      "start": 774.52,
+      "end": 776.3199999999999
+    },
+    {
+      "text": "It picks up patterns from the two or three other different languages that you dominate.",
+      "trans": "它从你所掌握的两个或三个不同的语言中提取模式。",
+      "start": 776.3199999999999,
+      "end": 779.88
+    },
+    {
+      "text": "So it's a weird, it's strange how the brain works.",
+      "trans": "所以，这很奇怪，为什么大脑运作这么奇怪。",
+      "start": 779.88,
+      "end": 782.28
+    },
+    {
+      "text": "You make connections.",
+      "trans": "您建立联系。",
+      "start": 782.28,
+      "end": 783.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 783.28,
+      "end": 784.28
+    },
+    {
+      "text": "All right, guys.",
+      "trans": "好的，朋友们。",
+      "start": 784.28,
+      "end": 785.28
+    },
+    {
+      "text": "So that's all for today.",
+      "trans": "所以，今天的全部就到这里了。",
+      "start": 785.28,
+      "end": 786.28
+    },
+    {
+      "text": "Be sure to visit our website, EnglishPod.com.",
+      "trans": "请确保访问我们的网站，英语Pod. com。",
+      "start": 786.28,
+      "end": 787.28
+    },
+    {
+      "text": "As we said, any questions or comments or you want us to correct your grammar of this",
+      "trans": "根据我们之前讨论的内容，任何问题、评论或您希望我们纠正语法的请求，请告诉我。",
+      "start": 787.28,
+      "end": 792.84
+    },
+    {
+      "text": "lesson, you can visit us there.",
+      "trans": "课，你可以在这里参观。",
+      "start": 792.84,
+      "end": 795.16
+    },
+    {
+      "text": "And we'll see you guys next time.",
+      "trans": "下一次见。",
+      "start": 795.16,
+      "end": 796.16
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 796.16,
+      "end": 797.16
+    },
+    {
+      "text": "Bye, everyone.",
+      "trans": "Bye, everyone. (翻译成中文)",
+      "start": 797.16,
+      "end": 798.16
+    }
+  ]
+}

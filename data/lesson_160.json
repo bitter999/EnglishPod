@@ -1,0 +1,1386 @@
+{
+  "title": "englishpod_D0160pb",
+  "audio": "./assets/englishpod_D0160pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone, welcome back to EnglishPod, my name is Marco.",
+      "trans": "大家好，欢迎再次回到英语频道，我的名字叫马克。",
+      "start": 0.0,
+      "end": 6.3
+    },
+    {
+      "text": "And my name is Catherine, so today we've got a great upper intermediate level lesson",
+      "trans": "我的名字是凯特，今天我们有上中段的中级水平课程。",
+      "start": 6.3,
+      "end": 9.82
+    },
+    {
+      "text": "for our learners and we're talking about what?",
+      "trans": "对于我们的学员，我们正在讨论什么？",
+      "start": 9.82,
+      "end": 12.8
+    },
+    {
+      "text": "Healthcare.",
+      "trans": "健康。",
+      "start": 12.8,
+      "end": 13.8
+    },
+    {
+      "text": "Okay, this is a very important topic because it's been in the news recently, especially",
+      "trans": "好的，这是一个非常重要的话题，因为它最近在新闻中引起了注意，特别是。",
+      "start": 13.8,
+      "end": 17.54
+    },
+    {
+      "text": "in the context of American politics.",
+      "trans": "在中美政治背景下。",
+      "start": 17.54,
+      "end": 19.8
+    },
+    {
+      "text": "And so I don't know if you've heard things about this, listeners, but the healthcare",
+      "trans": "所以我不知道你是否听说过关于这个的事情，听众们。",
+      "start": 19.8,
+      "end": 23.12
+    },
+    {
+      "text": "is a very hot topic.",
+      "trans": "这是一个非常热门的话题。",
+      "start": 23.12,
+      "end": 24.48
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 24.48,
+      "end": 25.48
+    },
+    {
+      "text": "So, basically what we're talking about is health insurance, whether it's private health",
+      "trans": "所以，基本上我们谈论的是健康保险，无论是私人医疗保险还是公共医疗保险。",
+      "start": 25.48,
+      "end": 29.12
+    },
+    {
+      "text": "insurance or like a standard national insurance program.",
+      "trans": "保险或像一个标准的全国保险计划。",
+      "start": 29.12,
+      "end": 33.44
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 33.44,
+      "end": 34.44
+    },
+    {
+      "text": "And so your country might have a private option where you can pay a private company",
+      "trans": "至于你的国家，可能有一个私人选项，你可以在那里支付一个私人公司。",
+      "start": 34.44,
+      "end": 38.68
+    },
+    {
+      "text": "for insurance or public option like England or Australia where your country will actually",
+      "trans": "对于保险或公共选项，如英国或澳大利亚，你的国家将实际",
+      "start": 38.68,
+      "end": 44.400000000000006
+    },
+    {
+      "text": "provide healthcare for you at no extra cost.",
+      "trans": "提供医疗服务给您免费。",
+      "start": 44.400000000000006,
+      "end": 46.64
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 46.64,
+      "end": 47.64
+    },
+    {
+      "text": "So it's an interesting topic.",
+      "trans": "所以这是一个有趣的话题。",
+      "start": 47.64,
+      "end": 48.64
+    },
+    {
+      "text": "Why don't we jump directly into the dialogue and we'll be back to explain a couple things.",
+      "trans": "为什么我们不直接进入对话，然后再解释一些事情。",
+      "start": 48.64,
+      "end": 52.72
+    },
+    {
+      "text": "Hey honey, how was your day?",
+      "trans": "你好，宝贝，你的一天过得怎么样？",
+      "start": 60.12,
+      "end": 64.2
+    },
+    {
+      "text": "It was alright.",
+      "trans": "它很好。",
+      "start": 64.2,
+      "end": 65.2
+    },
+    {
+      "text": "I ran into Bill and we got to talking for a while.",
+      "trans": "我遇到了比尔，我们聊了很长时间。",
+      "start": 65.2,
+      "end": 67.64
+    },
+    {
+      "text": "He's in a bit of a jam.",
+      "trans": "他有点陷入困境。",
+      "start": 67.64,
+      "end": 68.64
+    },
+    {
+      "text": "Why?",
+      "trans": "为什么？",
+      "start": 68.64,
+      "end": 69.64
+    },
+    {
+      "text": "What happened?",
+      "trans": "What happened? (This is an idiomatic expression in English that translates to \"发生了什么？\" in Chinese.)",
+      "start": 69.64,
+      "end": 70.64
+    },
+    {
+      "text": "Well, his son had an accident, Bill doesn't have health insurance.",
+      "trans": "嗯，他的儿子出了事故，比尔没有健康保险。",
+      "start": 70.64,
+      "end": 74.4
+    },
+    {
+      "text": "This really got me thinking and I wondered if we shouldn't look into a couple of different",
+      "trans": "这确实让我深思，我想我们不应该考虑几个不同的选项。",
+      "start": 74.4,
+      "end": 78.24
+    },
+    {
+      "text": "HMOs.",
+      "trans": "互助型医疗保险。",
+      "start": 78.24,
+      "end": 79.24
+    },
+    {
+      "text": "Yeah, you're right.",
+      "trans": "是的，您说得对。",
+      "start": 79.24,
+      "end": 80.75999999999999
+    },
+    {
+      "text": "We aren't getting any younger and our kids are getting older.",
+      "trans": "我们不是越来越年轻，我们的孩子也变得老了。",
+      "start": 80.75999999999999,
+      "end": 83.6
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 83.6,
+      "end": 84.6
+    },
+    {
+      "text": "I searched on the web and found a couple of HMOs with low copays and good coverage.",
+      "trans": "我在网上搜索了一些HMO（城镇职工基本医疗保险）的公司，发现有几家低保费和好保障的。",
+      "start": 84.6,
+      "end": 89.36
+    },
+    {
+      "text": "The deductibles are low too.",
+      "trans": "中国：保额也低。",
+      "start": 89.36,
+      "end": 91.19999999999999
+    },
+    {
+      "text": "Sounds good.",
+      "trans": "好的。",
+      "start": 91.19999999999999,
+      "end": 92.19999999999999
+    },
+    {
+      "text": "Although do you think we can qualify for insurance?",
+      "trans": "虽然您认为我们能获得保险吗？",
+      "start": 92.19999999999999,
+      "end": 94.88
+    },
+    {
+      "text": "Those insurance companies are real pirates when it comes to money.",
+      "trans": "这些保险公司在金钱上是真正的海盗。",
+      "start": 94.88,
+      "end": 98.08
+    },
+    {
+      "text": "Well, we don't have any pre-existing illnesses or conditions, so we should be fine.",
+      "trans": "嗯，我们没有现有的疾病或条件，所以应该没事。",
+      "start": 98.08,
+      "end": 103.36
+    },
+    {
+      "text": "I wish our company or country provided us with healthcare.",
+      "trans": "我愿我们的公司或国家能为我们提供医疗服务。",
+      "start": 103.36,
+      "end": 108.39999999999999
+    },
+    {
+      "text": "Not in a million years.",
+      "trans": "在数亿年里。",
+      "start": 108.39999999999999,
+      "end": 110.91999999999999
+    },
+    {
+      "text": "Alright, we're back.",
+      "trans": "好的，我们回来了。",
+      "start": 110.91999999999999,
+      "end": 113.39999999999999
+    },
+    {
+      "text": "So a lot of interesting vocab here.",
+      "trans": "所以这里有很多有趣的新词汇。",
+      "start": 113.4,
+      "end": 115.36
+    },
+    {
+      "text": "Why don't we take a look at it real fast in language takeaway?",
+      "trans": "为什么我们不快点看看这个在语言小站上的内容？",
+      "start": 115.36,
+      "end": 120.28
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 120.28,
+      "end": 121.52000000000001
+    },
+    {
+      "text": "Okay, Marco, this first phrase or acronym actually is three words that go together HMO and",
+      "trans": "好的，马科，这个第一个词或缩写实际上是一个三字词组“HMO”和。",
+      "start": 121.52000000000001,
+      "end": 128.88
+    },
+    {
+      "text": "they're very, very common when you're talking about healthcare.",
+      "trans": "他们是非常普遍的，当你谈论医疗保健时。",
+      "start": 128.88,
+      "end": 131.8
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rì shàng.)",
+      "start": 131.8,
+      "end": 132.8
+    },
+    {
+      "text": "So an HMO means health maintenance organization.",
+      "trans": "所以，一个HMO指的是健康维护组织。",
+      "start": 132.8,
+      "end": 136.08
+    },
+    {
+      "text": "Okay, and so this is a part of the health insurance topic or talking about a company",
+      "trans": "好的，这是健康保险的话题，或者是在谈论一家公司。",
+      "start": 136.08,
+      "end": 142.16
+    },
+    {
+      "text": "that will provide health insurance.",
+      "trans": "这将提供医疗保险。",
+      "start": 142.16,
+      "end": 143.68
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 143.68,
+      "end": 144.68
+    },
+    {
+      "text": "So it's a company that provides health insurance, basically.",
+      "trans": "所以，它是一家提供健康保险的公司。基本上。",
+      "start": 144.68,
+      "end": 147.6
+    },
+    {
+      "text": "And if you go up to an HMO, some of the information that you receive is for example, what",
+      "trans": "如果你去HMO，你可能会收到的信息包括例如，您需要提供哪些信息。",
+      "start": 147.6,
+      "end": 152.07999999999998
+    },
+    {
+      "text": "your copay will be.",
+      "trans": "你的医保费将。",
+      "start": 152.07999999999998,
+      "end": 153.8
+    },
+    {
+      "text": "Okay, so sometimes with a private option when you pay a company to give you health insurance,",
+      "trans": "好的，有时候在公司支付给你的健康保险费时，会有一个私人选项，即你有权选择是否购买。",
+      "start": 153.8,
+      "end": 158.68
+    },
+    {
+      "text": "you can get a lower rate if you help pay for some of your care.",
+      "trans": "您可以以较低的价格帮助支付某些护理费用。",
+      "start": 158.68,
+      "end": 162.12
+    },
+    {
+      "text": "So for example, a copay on a broken arm might be $20.",
+      "trans": "所以，例如，一个断臂的费用可能是20元。",
+      "start": 162.12,
+      "end": 167.96
+    },
+    {
+      "text": "But you pay $20, that's your copay, and your health insurance company pays the rest.",
+      "trans": "但是，你支付20元，这是你的自费部分，而你的医疗保险公司则承担剩下的费用。",
+      "start": 167.96,
+      "end": 173.04000000000002
+    },
+    {
+      "text": "And so sometimes copays are really high for the really big.",
+      "trans": "而且有时大病保险费率真的很高。",
+      "start": 173.04000000000002,
+      "end": 176.36
+    },
+    {
+      "text": "And that's kind of a bad deal because if you hurt yourself, you don't want to pay a lot.",
+      "trans": "而且这种交易是不划算的，因为如果你受伤了，你不想支付很多钱。",
+      "start": 176.36,
+      "end": 181.08
+    },
+    {
+      "text": "But sometimes there's no copay in which case your company will pay for all of the coverage.",
+      "trans": "但是有时没有扣费的情况，那么你的公司会为所有的保障支付全部费用。",
+      "start": 181.08,
+      "end": 185.48000000000002
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 185.48000000000002,
+      "end": 186.48000000000002
+    },
+    {
+      "text": "So another very similar word is a deductible.",
+      "trans": "所以另一个非常相似的词是可减项。",
+      "start": 186.48000000000002,
+      "end": 188.96
+    },
+    {
+      "text": "Okay, so deductible is something that is fixed and it's in your insurance policy.",
+      "trans": "好的，所以可减额是指在保险合同中规定的固定金额，并且是你的保险单上的内容。",
+      "start": 188.96,
+      "end": 193.56
+    },
+    {
+      "text": "That means in the contract that you make with the insurance company, that deductible will",
+      "trans": "这意味着在你与保险公司的合同中，这个扣除额将会是（ ）。",
+      "start": 193.56,
+      "end": 197.12
+    },
+    {
+      "text": "be stated.",
+      "trans": "被定义。",
+      "start": 197.12,
+      "end": 198.12
+    },
+    {
+      "text": "For example, my insurance plan, I have maybe a $500 deductible.",
+      "trans": "例如，我的保险计划，我可能有大约500元的免赔额。",
+      "start": 198.12,
+      "end": 202.88
+    },
+    {
+      "text": "That means that in any situation I get hurt or I get sick, I pay for the first $500 of",
+      "trans": "这句话的意思是：“这意味着，在任何情况下，我受伤或生病时，我会支付前500元的费用。”",
+      "start": 202.88,
+      "end": 208.92000000000002
+    },
+    {
+      "text": "care and then my insurance company pays for the rest.",
+      "trans": "请等待，我将为您翻译这段话。以下是中文翻译：",
+      "start": 208.92000000000002,
+      "end": 212.36
+    },
+    {
+      "text": "So if I have to have a $1000 surgery, I pay $500 and then my insurance company pays the",
+      "trans": "所以如果我要进行一次 $1000 的手术，我会支付 $500，并且我的保险公司会支付剩余的 $500。",
+      "start": 212.36,
+      "end": 218.08
+    },
+    {
+      "text": "other $500.",
+      "trans": "其他 500 元。",
+      "start": 218.08,
+      "end": 219.08
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 219.08,
+      "end": 221.16
+    },
+    {
+      "text": "And well, you have these deductibles and everything and that depends on your coverage,",
+      "trans": "而且，你有这些扣除项和一切，并且这取决于你的保险覆盖。",
+      "start": 221.16,
+      "end": 226.04000000000002
+    },
+    {
+      "text": "right?",
+      "trans": "是的。",
+      "start": 226.04000000000002,
+      "end": 227.04000000000002
+    },
+    {
+      "text": "So coverage, how much the HMO covers you?",
+      "trans": "所以覆盖，HMO 为我提供了多少保障？",
+      "start": 227.04,
+      "end": 231.04
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 231.04,
+      "end": 232.04
+    },
+    {
+      "text": "And so you can find this also in your contract with your insurance company and coverage will",
+      "trans": "因此，你也可以在你的保险合同中找到这一点，并且覆盖将会有很大的变化。",
+      "start": 232.04,
+      "end": 236.88
+    },
+    {
+      "text": "include or not include something.",
+      "trans": "包含或不包含某个东西。",
+      "start": 236.88,
+      "end": 239.23999999999998
+    },
+    {
+      "text": "So coverage, for example, in a healthcare plan does not usually include your teeth.",
+      "trans": "所以，例如，在医疗计划中，比如牙科保险，通常不包括你的牙齿。",
+      "start": 239.23999999999998,
+      "end": 244.51999999999998
+    },
+    {
+      "text": "That's a separate kind of insurance.",
+      "trans": "这是一种单独的保险。",
+      "start": 244.51999999999998,
+      "end": 246.39999999999998
+    },
+    {
+      "text": "But a coverage can include emergency evacuation from from from a situation or ambulances, for",
+      "trans": "但是，一个覆盖可以包括从某个情况或救护车进行的紧急疏散。",
+      "start": 246.39999999999998,
+      "end": 254.72
+    },
+    {
+      "text": "example.",
+      "trans": "例子。 (Wǒmen yī bǎ jíjiē.)",
+      "start": 254.72,
+      "end": 255.72
+    },
+    {
+      "text": "And coverage is what is included in your insurance plan.",
+      "trans": "和覆盖是你的保险计划中的内容。",
+      "start": 255.72,
+      "end": 259.56
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 259.56,
+      "end": 261.36
+    },
+    {
+      "text": "And our last word for today is to qualify for.",
+      "trans": "我们的今天最后一个字是“合格”。",
+      "start": 261.36,
+      "end": 265.16
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 265.16,
+      "end": 266.16
+    },
+    {
+      "text": "So you might have heard this phrase before in the context of sports or academics.",
+      "trans": "所以您可能已经听说过这句话在体育或学术的语境中。",
+      "start": 266.16,
+      "end": 270.48
+    },
+    {
+      "text": "So he qualified for a scholarship or she qualified for the varsity volleyball team.",
+      "trans": "所以，他获得了奖学金或她获得了 varsity volleyball队。",
+      "start": 270.48,
+      "end": 278.2
+    },
+    {
+      "text": "But in this case, the qualify for us to be able to use.",
+      "trans": "但是在这个情况下，我们才能使用。",
+      "start": 278.2,
+      "end": 282.92
+    },
+    {
+      "text": "To be eligible for.",
+      "trans": "要被允许。",
+      "start": 282.92,
+      "end": 283.92
+    },
+    {
+      "text": "To be eligible for.",
+      "trans": "符合条件的。",
+      "start": 283.92,
+      "end": 284.92
+    },
+    {
+      "text": "So sometimes HMOs like in, for example, the United States will not accept a person who",
+      "trans": "所以有时像美国这样的HMO（医疗互助基金）会拒绝一个人，例如：",
+      "start": 285.0,
+      "end": 291.16
+    },
+    {
+      "text": "has maybe some health problems already because that would be too much of a risk, right,",
+      "trans": "有可能已经有一些健康问题，因为那样太危险了。",
+      "start": 291.16,
+      "end": 295.88
+    },
+    {
+      "text": "for the company.",
+      "trans": "公司。",
+      "start": 295.88,
+      "end": 296.88
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 296.88,
+      "end": 297.88
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 297.88,
+      "end": 298.88
+    },
+    {
+      "text": "Or you could qualify for a reduced rate because you have a very good health history.",
+      "trans": "你可以选择一个较低的费率，因为你有很好的健康历史。",
+      "start": 298.88,
+      "end": 302.8
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 302.8,
+      "end": 303.8
+    },
+    {
+      "text": "So this is very interesting and we have a couple of other phrases that are very related to",
+      "trans": "所以，这很有趣，我们还有几个与的话题非常相关。",
+      "start": 303.8,
+      "end": 308.76
+    },
+    {
+      "text": "this language.",
+      "trans": "这个语言。",
+      "start": 308.76,
+      "end": 309.92
+    },
+    {
+      "text": "So why don't we move on now to Fluency Builder?",
+      "trans": "所以为什么不赶紧转向 Fluent Builder 系列？",
+      "start": 309.92,
+      "end": 314.76
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 315.76,
+      "end": 317.44
+    },
+    {
+      "text": "So in Fluency Builder today, let's take a look at our first phrase.",
+      "trans": "所以，在今天Fluency Builder，让我们看看我们的第一个词。",
+      "start": 317.44,
+      "end": 320.84
+    },
+    {
+      "text": "We got to talking for a while.",
+      "trans": "我们聊了很长时间。",
+      "start": 320.84,
+      "end": 322.8
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 322.8,
+      "end": 323.8
+    },
+    {
+      "text": "We could say, for example, we started talking or we were talking for a while.",
+      "trans": "我们可以说，例如，我们开始交谈或者我们在交谈之间已经持续了很长时间。",
+      "start": 323.8,
+      "end": 328.48
+    },
+    {
+      "text": "But this is a very spoken language kind of phrase where we'd say we got to talking.",
+      "trans": "但是，这是非常口语化的表达方式，我们可以说我们已经聊到了。",
+      "start": 328.48,
+      "end": 333.52
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 333.52,
+      "end": 334.52
+    },
+    {
+      "text": "So it's not really grammatically correct, but because you would say we started talking,",
+      "trans": "所以它并不算语法正确，但因为你说我们开始聊天，",
+      "start": 334.52,
+      "end": 339.28
+    },
+    {
+      "text": "but sometimes people say we got to talking.",
+      "trans": "但是有时候人们说我们已经谈过了。",
+      "start": 339.28,
+      "end": 341.68
+    },
+    {
+      "text": "So we got into a conversation, right?",
+      "trans": "所以我们聊了，对吗？",
+      "start": 341.68,
+      "end": 344.03999999999996
+    },
+    {
+      "text": "And usually it's about something.",
+      "trans": "通常它与某物有关。",
+      "start": 344.04,
+      "end": 345.84000000000003
+    },
+    {
+      "text": "So we could say, yeah, we got to talking about how we both went to the same high school.",
+      "trans": "所以我们可以这么说，是的，我们俩都去了同一个高中。",
+      "start": 345.84000000000003,
+      "end": 350.52000000000004
+    },
+    {
+      "text": "Or we got to talking about this movie that we both saw.",
+      "trans": "我们还是谈一下这部电影，我们都看了。",
+      "start": 350.52000000000004,
+      "end": 353.76000000000005
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 353.76000000000005,
+      "end": 354.76000000000005
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 354.76000000000005,
+      "end": 356.32000000000005
+    },
+    {
+      "text": "And well, they got to talking for a while and apparently his friend was in a bit of a",
+      "trans": "而且，他们不得不聊一会儿，似乎他的朋友有些不适应。",
+      "start": 356.32000000000005,
+      "end": 361.56
+    },
+    {
+      "text": "jam.",
+      "trans": "在中文中，\"jam\" 通常翻译为 \"时钟\" 或 \"闹钟\"。具体来说：",
+      "start": 361.56,
+      "end": 362.56
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 362.56,
+      "end": 363.56
+    },
+    {
+      "text": "Jam is a food you can eat that you put it on bread like Marmalade, right?",
+      "trans": "jam 是你可以在面包上吃的食物，就像马乳油一样？",
+      "start": 363.56,
+      "end": 366.64000000000004
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 366.64000000000004,
+      "end": 367.8
+    },
+    {
+      "text": "But in this case, a jam is a fix or a difficult situation.",
+      "trans": "但是，在这种情况下，一个 jams 是一种补救或一个困难的情况。",
+      "start": 367.8,
+      "end": 372.32000000000005
+    },
+    {
+      "text": "So it has a very different meaning and I want to warn you about that first.",
+      "trans": "所以它有非常不同的含义，我想要提醒你一下。",
+      "start": 372.32,
+      "end": 375.44
+    },
+    {
+      "text": "But to be in a jam or to be in a bit of a jam is to be stuck.",
+      "trans": "但是，处于困境或处于某种程度的困境是被卡住了。",
+      "start": 375.44,
+      "end": 379.64
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 379.64,
+      "end": 380.64
+    },
+    {
+      "text": "So you're in a difficult situation.",
+      "trans": "所以你处在困难境地。",
+      "start": 380.64,
+      "end": 382.28
+    },
+    {
+      "text": "You have some problem.",
+      "trans": "您有某些问题。",
+      "start": 382.28,
+      "end": 383.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 383.28,
+      "end": 384.28
+    },
+    {
+      "text": "So Marco, I'm in a bit of a jam here.",
+      "trans": "所以马科，我现在有点儿忙。",
+      "start": 384.28,
+      "end": 386.56
+    },
+    {
+      "text": "Can I get your help with something?",
+      "trans": "是的，我可以帮你解决什么问题？",
+      "start": 386.56,
+      "end": 387.71999999999997
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，我会将这句话翻译成中文：",
+      "start": 387.71999999999997,
+      "end": 388.71999999999997
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 388.71999999999997,
+      "end": 389.71999999999997
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 389.71999999999997,
+      "end": 390.71999999999997
+    },
+    {
+      "text": "And then the guy was talking about insurance and he said, this really got me thinking.",
+      "trans": "然后那个家伙谈到了保险，他说，这真的让我思考了很多。",
+      "start": 390.71999999999997,
+      "end": 396.03999999999996
+    },
+    {
+      "text": "So we got the verb got again there.",
+      "trans": "所以我们又有了动词got。",
+      "start": 396.03999999999996,
+      "end": 398.03999999999996
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 398.03999999999996,
+      "end": 399.03999999999996
+    },
+    {
+      "text": "So got me thinking.",
+      "trans": "所以让我思考。",
+      "start": 399.03999999999996,
+      "end": 400.03999999999996
+    },
+    {
+      "text": "I mean, I started thinking about something.",
+      "trans": "我指的是，我开始思考一些。",
+      "start": 400.04,
+      "end": 402.72
+    },
+    {
+      "text": "So when we were talking about jam a minute ago, it got me thinking about how much I love",
+      "trans": "所以当我们在谈论果酱的时候，我想到我对它有多么热爱。",
+      "start": 402.72,
+      "end": 407.96000000000004
+    },
+    {
+      "text": "breakfast.",
+      "trans": "早餐。",
+      "start": 407.96000000000004,
+      "end": 408.96000000000004
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 408.96000000000004,
+      "end": 409.96000000000004
+    },
+    {
+      "text": "So you would use it in that way, right?",
+      "trans": "所以你就会按照这种方式使用它，对吗？",
+      "start": 409.96000000000004,
+      "end": 411.76000000000005
+    },
+    {
+      "text": "Like it reminded me.",
+      "trans": "像它提醒我。",
+      "start": 411.76000000000005,
+      "end": 412.76000000000005
+    },
+    {
+      "text": "It reminded me or I started to really think about something.",
+      "trans": "它让我想起了，或者我开始真正地思考了什么。",
+      "start": 412.76000000000005,
+      "end": 417.72
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 417.72,
+      "end": 418.72
+    },
+    {
+      "text": "And our last phrase is a pre-existing illness.",
+      "trans": "我们的最后一个句子是一个已有的疾病。",
+      "start": 418.72,
+      "end": 422.28000000000003
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 422.28000000000003,
+      "end": 423.28000000000003
+    },
+    {
+      "text": "So to exist is to be around pre-existing means existing before",
+      "trans": "所以要存在，就是处于已经存在的方式中。处在已经存在的方式中的状态。",
+      "start": 423.28000000000003,
+      "end": 429.96000000000004
+    },
+    {
+      "text": "something else.",
+      "trans": "还有别的。",
+      "start": 429.96,
+      "end": 430.96
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 430.96,
+      "end": 431.96
+    },
+    {
+      "text": "And so you often hear this in terms of insurance when someone asks you about your pre-existing",
+      "trans": "而且你常常听到这句话，即在询问你的前病史。",
+      "start": 431.96,
+      "end": 436.15999999999997
+    },
+    {
+      "text": "condition.",
+      "trans": "条件。",
+      "start": 436.15999999999997,
+      "end": 437.15999999999997
+    },
+    {
+      "text": "So that means if I'm signing up for an insurance plan, health insurance plan, and I have an interview",
+      "trans": "因此，这意味着如果我打算购买保险计划、健康保险计划以及参加面试。",
+      "start": 437.15999999999997,
+      "end": 442.15999999999997
+    },
+    {
+      "text": "with you, Marco, and you ask me this question, what is your pre-existing condition?",
+      "trans": "在你、马科斯和你问这个问题时，你的原有条件是什么？",
+      "start": 442.15999999999997,
+      "end": 447.08
+    },
+    {
+      "text": "That means what diseases or health problems do I have right now?",
+      "trans": "这句话的意思是：“这意味着我现在有哪些疾病或健康问题？”",
+      "start": 447.08,
+      "end": 452.59999999999997
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”的翻译：",
+      "start": 452.59999999999997,
+      "end": 453.59999999999997
+    },
+    {
+      "text": "Prior to signing up for this insurance.",
+      "trans": "在购买此保险之前。",
+      "start": 453.59999999999997,
+      "end": 456.0
+    },
+    {
+      "text": "And I say, oh, I don't have any.",
+      "trans": "我只能说，我没有。",
+      "start": 456.0,
+      "end": 457.67999999999995
+    },
+    {
+      "text": "And you're very happy because that means I'll be cheap.",
+      "trans": "你很高兴，因为这意味着我会便宜。",
+      "start": 457.67999999999995,
+      "end": 459.91999999999996
+    },
+    {
+      "text": "But if I say, oh, I have diabetes, then that is something that the insurance companies",
+      "trans": "但是，如果我说，我有糖尿病，那这就是保险公司的责任。",
+      "start": 459.92,
+      "end": 465.8
+    },
+    {
+      "text": "don't like because it's expensive.",
+      "trans": "不要因为价格高而喜欢。",
+      "start": 465.8,
+      "end": 467.68
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 467.68,
+      "end": 468.68
+    },
+    {
+      "text": "Because you're more probable of getting sick or something like that.",
+      "trans": "因为你更有可能生病或类似的事情。",
+      "start": 468.68,
+      "end": 471.92
+    },
+    {
+      "text": "Right.",
+      "trans": "右。",
+      "start": 471.92,
+      "end": 472.92
+    },
+    {
+      "text": "So diabetes or cancer or Lyme disease, these are all pre-existing conditions.",
+      "trans": "所以糖尿病、癌症或莱姆病，这些都是所有已存在的疾病。",
+      "start": 472.92,
+      "end": 478.36
+    },
+    {
+      "text": "And usually pre-existing conditions are diseases or problems, health problems that you have that",
+      "trans": "通常来说，预存条件是疾病或问题，即你有这些病状或者问题。",
+      "start": 478.36,
+      "end": 483.68
+    },
+    {
+      "text": "won't go away.",
+      "trans": "不会消失。",
+      "start": 483.68,
+      "end": 484.68
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 484.68,
+      "end": 485.68
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 485.68,
+      "end": 486.68
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 486.68,
+      "end": 487.68
+    },
+    {
+      "text": "So we have a lot of words, a lot of phrases here.",
+      "trans": "所以这里有很多词汇，很多短语。",
+      "start": 487.68,
+      "end": 489.6
+    },
+    {
+      "text": "Just listen to the dialogue one last time and we'll be back.",
+      "trans": "请听最后一段对话，我们再回去。",
+      "start": 489.6,
+      "end": 496.6
+    },
+    {
+      "text": "Hey, honey.",
+      "trans": "你好，宝贝。",
+      "start": 496.6,
+      "end": 499.6
+    },
+    {
+      "text": "How was your day?",
+      "trans": "你好，我的朋友。请问你的今天过得怎么样？",
+      "start": 499.6,
+      "end": 503.6
+    },
+    {
+      "text": "It was all right.",
+      "trans": "是的。",
+      "start": 503.6,
+      "end": 504.6
+    },
+    {
+      "text": "I ran into Bill and we got to talking for a while.",
+      "trans": "我遇到了比尔，我们聊了很长时间。",
+      "start": 504.6,
+      "end": 507.08000000000004
+    },
+    {
+      "text": "He's in a bit of a jam.",
+      "trans": "他有点陷入困境。",
+      "start": 507.08000000000004,
+      "end": 508.40000000000003
+    },
+    {
+      "text": "Wait.",
+      "trans": "等待。",
+      "start": 508.40000000000003,
+      "end": 509.40000000000003
+    },
+    {
+      "text": "What happened?",
+      "trans": "What happened? (This is an idiomatic expression in English that translates to \"发生了什么？\" in Chinese.)",
+      "start": 509.40000000000003,
+      "end": 510.40000000000003
+    },
+    {
+      "text": "Well, his son had an accident.",
+      "trans": "很好，他的儿子出了事故。",
+      "start": 510.40000000000003,
+      "end": 511.92
+    },
+    {
+      "text": "Bill doesn't have health insurance.",
+      "trans": "刘没有医疗保险。",
+      "start": 511.92,
+      "end": 513.84
+    },
+    {
+      "text": "This really got me thinking.",
+      "trans": "这确实让我深思。",
+      "start": 513.84,
+      "end": 514.84
+    },
+    {
+      "text": "And I wondered if we shouldn't look into a couple of different HMOs.",
+      "trans": "我猜想我们不应该研究几个不同的HMO。",
+      "start": 514.84,
+      "end": 518.4
+    },
+    {
+      "text": "Yeah, you're right.",
+      "trans": "是的，您说得对。",
+      "start": 518.4,
+      "end": 520.16
+    },
+    {
+      "text": "We aren't getting any younger and our kids are getting older.",
+      "trans": "我们不是越来越年轻，我们的孩子也变得老了。",
+      "start": 520.16,
+      "end": 522.9599999999999
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 522.9599999999999,
+      "end": 523.9599999999999
+    },
+    {
+      "text": "I searched on the web and found a couple of HMOs with low copays and good coverage.",
+      "trans": "我在网上搜索了一些HMO（城镇职工基本医疗保险）的公司，发现有几家低保费和好保障的。",
+      "start": 523.9599999999999,
+      "end": 528.76
+    },
+    {
+      "text": "The deductibles are low too.",
+      "trans": "中国：保额也低。",
+      "start": 528.76,
+      "end": 530.6
+    },
+    {
+      "text": "Sounds good.",
+      "trans": "声音好。",
+      "start": 530.6,
+      "end": 531.6
+    },
+    {
+      "text": "Although do you think we can qualify for insurance?",
+      "trans": "虽然您认为我们能获得保险资格吗？",
+      "start": 531.6,
+      "end": 534.28
+    },
+    {
+      "text": "Those insurance companies are real pirates when it comes to money.",
+      "trans": "这些保险公司在金钱上是真正的海盗。",
+      "start": 534.28,
+      "end": 537.4399999999999
+    },
+    {
+      "text": "Well, we don't have any pre-existing illnesses or conditions, so we should be fine.",
+      "trans": "嗯，我们没有现有的疾病或条件，所以应该没事。",
+      "start": 537.4399999999999,
+      "end": 542.76
+    },
+    {
+      "text": "I wish our company or country provided us with healthcare.",
+      "trans": "我祝愿我们的公司或国家能够为我们提供医疗服务。",
+      "start": 542.76,
+      "end": 545.84
+    },
+    {
+      "text": "Not in a million years.",
+      "trans": "在数亿年里。",
+      "start": 546.84,
+      "end": 548.84
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 553.84,
+      "end": 554.84
+    },
+    {
+      "text": "So the healthcare issue is pretty heated debate now in the United States because many people",
+      "trans": "所以美国的医疗问题现在很激烈辩论，因为很多人。",
+      "start": 554.84,
+      "end": 559.2800000000001
+    },
+    {
+      "text": "don't have healthcare and it's not very accessible, right?",
+      "trans": "您不拥有医疗保障，这并不太方便吗？",
+      "start": 559.2800000000001,
+      "end": 561.84
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 561.84,
+      "end": 562.84
+    },
+    {
+      "text": "And it's a huge debate because it's very, very divided by party lines.",
+      "trans": "而且这是一个巨大的争论，因为它非常分裂党派立场。",
+      "start": 562.84,
+      "end": 568.1600000000001
+    },
+    {
+      "text": "We say, you know, there's the Republicans on the right and there's the Democrats on the left.",
+      "trans": "我们说，您知道，有右派的共和党人和左派的民主党人。",
+      "start": 568.1600000000001,
+      "end": 573.1600000000001
+    },
+    {
+      "text": "And the Democrats want a public healthcare option.",
+      "trans": "和民主党希望一个公共医疗选项。",
+      "start": 573.16,
+      "end": 576.7199999999999
+    },
+    {
+      "text": "They want healthcare to be available for everyone, for free.",
+      "trans": "他们希望医疗保健能够为所有人提供免费。",
+      "start": 576.7199999999999,
+      "end": 579.76
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 579.76,
+      "end": 580.76
+    },
+    {
+      "text": "And many of them do.",
+      "trans": "和他们很多。",
+      "start": 580.76,
+      "end": 581.76
+    },
+    {
+      "text": "And a lot of Republicans say no, it should be private because if it's private, there's competition.",
+      "trans": "并且很多共和党人说不行，应该私有，因为如果私有化了，就会竞争。",
+      "start": 581.76,
+      "end": 586.24
+    },
+    {
+      "text": "And that means there's better healthcare.",
+      "trans": "而且意味着有更好的医疗保健。",
+      "start": 586.24,
+      "end": 588.28
+    },
+    {
+      "text": "And so there's a really big debate and people are getting very angry about it.",
+      "trans": "因此，人们对此争论不休，并且很多人对它感到非常愤怒。",
+      "start": 588.28,
+      "end": 591.4
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 591.4,
+      "end": 592.4
+    },
+    {
+      "text": "But I think it's something that's very interesting and most importantly,",
+      "trans": "但是我认为这是一件非常有趣且最重要的事情。",
+      "start": 592.4,
+      "end": 595.56
+    },
+    {
+      "text": "seeing the difference of healthcare systems around the world, right?",
+      "trans": "看全球不同医疗系统之间的区别吗？",
+      "start": 595.56,
+      "end": 599.0799999999999
+    },
+    {
+      "text": "So for example, our listeners, they're from everywhere in the world.",
+      "trans": "所以，例如，我们的听众来自世界各地。",
+      "start": 599.0799999999999,
+      "end": 603.0
+    },
+    {
+      "text": "So we would like to know what the healthcare system is like there.",
+      "trans": "所以，我们希望了解那里医疗卫生系统的情况。",
+      "start": 603.0,
+      "end": 606.08
+    },
+    {
+      "text": "Do you have free universal healthcare in your country?",
+      "trans": "您在您的国家是否有免费的全民医疗保障？",
+      "start": 606.08,
+      "end": 608.64
+    },
+    {
+      "text": "Or do you also have to pay for private companies or private health insurance?",
+      "trans": "您是否也必须为私人公司或私人医疗保险支付费用？",
+      "start": 608.64,
+      "end": 613.2
+    },
+    {
+      "text": "And if you have one or the other system, do you think it's a good thing?",
+      "trans": "如果只有一个或另一个系统，你觉得这是个好主意吗？",
+      "start": 613.2,
+      "end": 617.0
+    },
+    {
+      "text": "Do you think it's a bad thing?",
+      "trans": "是的，我认为这是一件坏事。",
+      "start": 617.0,
+      "end": 618.12
+    },
+    {
+      "text": "What do you think needs some work?",
+      "trans": "您认为需要改进什么？",
+      "start": 618.12,
+      "end": 619.4
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 619.4,
+      "end": 620.4
+    },
+    {
+      "text": "I definitely agree with universal healthcare.",
+      "trans": "我完全同意全面医疗保障。",
+      "start": 620.4,
+      "end": 621.88
+    },
+    {
+      "text": "I think it's a relief because it's like one thing less to worry about.",
+      "trans": "我认为这是一件好事，因为它比原来少了一份忧虑。",
+      "start": 621.88,
+      "end": 625.12
+    },
+    {
+      "text": "I can't imagine like, you know, if I don't have healthcare right now and I'm not covered",
+      "trans": "我无法想象，你可能不知道，如果我现在没有医疗保障，或者我不被覆盖。",
+      "start": 625.12,
+      "end": 629.56
+    },
+    {
+      "text": "by a private company and something happens to me tomorrow, then, you know,",
+      "trans": "根据一个私人公司，然后事情会发生，那么你一定知道。",
+      "start": 629.56,
+      "end": 632.6
+    },
+    {
+      "text": "what's going to happen?",
+      "trans": "请问会发生什么？",
+      "start": 632.6,
+      "end": 633.6
+    },
+    {
+      "text": "And I think it's a basic human right personally.",
+      "trans": "我认为这是个人的基本人权。",
+      "start": 633.6,
+      "end": 635.36
+    },
+    {
+      "text": "So I think it's in the best interests of a country to invest in it because it means that",
+      "trans": "所以我认为一个国家应该投资它，因为这意味着",
+      "start": 635.36,
+      "end": 639.6
+    },
+    {
+      "text": "their people are more productive and happier and healthy.",
+      "trans": "他们的人民更高效、快乐和健康。",
+      "start": 639.6,
+      "end": 642.52
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 642.52,
+      "end": 643.52
+    },
+    {
+      "text": "Alright, so that's all the time we have for today.",
+      "trans": "好的，今天我们今天的时长就这么多。",
+      "start": 643.52,
+      "end": 645.28
+    },
+    {
+      "text": "Be sure to come to EnglishPod.com, leave your questions and comments.",
+      "trans": "请务必访问英语Pod.com，留言和提问。",
+      "start": 645.28,
+      "end": 648.76
+    },
+    {
+      "text": "And we'll see you guys there.",
+      "trans": "我们将在这里见到你们。",
+      "start": 648.76,
+      "end": 649.76
+    },
+    {
+      "text": "Bye everyone.",
+      "trans": "Bye everyone. (翻译成中文：)",
+      "start": 649.76,
+      "end": 650.76
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 650.76,
+      "end": 651.76
+    }
+  ]
+}

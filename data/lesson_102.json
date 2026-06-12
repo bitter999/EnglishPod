@@ -1,0 +1,1986 @@
+{
+  "title": "englishpod_E0102pb",
+  "audio": "./assets/englishpod_E0102pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to another podcast here with us at EnglishPod.",
+      "trans": "大家好，欢迎再次来到我们的英语学习频道。在这里，我们很高兴能与您分享一些关于英语的学习技巧和经验。如果您有任何问题或需要帮助，请随时提问。祝您学习顺利！",
+      "start": 0.0,
+      "end": 6.6000000000000005
+    },
+    {
+      "text": "My name is Marco.",
+      "trans": "我的名字是马科。",
+      "start": 6.6000000000000005,
+      "end": 7.6000000000000005
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 7.6000000000000005,
+      "end": 8.6
+    },
+    {
+      "text": "And today we have an advanced lesson for all of you and a very good one because we're",
+      "trans": "今天，我们有今天的高级课程，因为这是我们",
+      "start": 8.6,
+      "end": 12.200000000000001
+    },
+    {
+      "text": "going to be talking about a very serious topic, global warming.",
+      "trans": "将要谈论一个非常严肃的话题，全球变暖。",
+      "start": 12.200000000000001,
+      "end": 16.6
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 16.6,
+      "end": 17.6
+    },
+    {
+      "text": "And, you know, even though most people agree that global warming is a big problem, there's",
+      "trans": "而且，即使大多数人同意全球变暖是一个大问题，也有",
+      "start": 17.6,
+      "end": 21.84
+    },
+    {
+      "text": "still this sort of fringe element of people who believe that actually global warming doesn't",
+      "trans": "这还是这种边缘群体的人，他们相信实际上全球变暖并不真的存在。",
+      "start": 21.84,
+      "end": 27.240000000000002
+    },
+    {
+      "text": "exist.",
+      "trans": "存在。 (Wángrén.)",
+      "start": 27.240000000000002,
+      "end": 28.240000000000002
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 28.24,
+      "end": 29.24
+    },
+    {
+      "text": "So that's what we're going to be looking at today.",
+      "trans": "所以，我们将今天要关注的焦点是什么。",
+      "start": 29.24,
+      "end": 30.24
+    },
+    {
+      "text": "But before we tell you more or less what the dialogue is about, let's take a look at",
+      "trans": "但在此之前，我们先来看看对话的大概内容。",
+      "start": 30.24,
+      "end": 34.44
+    },
+    {
+      "text": "some words in vocabulary preview.",
+      "trans": "在词汇预览中，有些词。",
+      "start": 34.44,
+      "end": 37.36
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 37.36,
+      "end": 38.36
+    },
+    {
+      "text": "We're going to look at two words here and you'll hear both of these in the dialogue.",
+      "trans": "我们在这里要讨论两个词，你将在对话中听到这两个词。",
+      "start": 38.36,
+      "end": 44.32
+    },
+    {
+      "text": "So the first one is polar ice caps.",
+      "trans": "所以第一个是极冰带。",
+      "start": 44.32,
+      "end": 48.04
+    },
+    {
+      "text": "Polar ice caps.",
+      "trans": "北极冰盖。",
+      "start": 48.04,
+      "end": 49.36
+    },
+    {
+      "text": "Polar ice caps.",
+      "trans": "极冰圈。",
+      "start": 49.36,
+      "end": 50.36
+    },
+    {
+      "text": "So when we talk about polar ice caps, polar is like the poles, the north and south poles",
+      "trans": "所以当我们谈论极地冰川时，极地就像北极点，南和北两点。",
+      "start": 50.36,
+      "end": 55.68
+    },
+    {
+      "text": "of the earth.",
+      "trans": "地球上的事物。",
+      "start": 55.68,
+      "end": 56.68
+    },
+    {
+      "text": "The extreme top and bottom.",
+      "trans": "极顶部和极底部。",
+      "start": 56.68,
+      "end": 58.64
+    },
+    {
+      "text": "The top and bottom of the planet.",
+      "trans": "地球的上半部分和下半部分。",
+      "start": 58.64,
+      "end": 59.92
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 59.92,
+      "end": 60.92
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 60.92,
+      "end": 61.92
+    },
+    {
+      "text": "And what about ice caps?",
+      "trans": "冰川？",
+      "start": 61.92,
+      "end": 62.92
+    },
+    {
+      "text": "So the polar ice caps are masses of ice that live or that exist on the top and the",
+      "trans": "所以极冰帽是覆盖在顶部和地面上的冰块，或者存在。",
+      "start": 62.92,
+      "end": 70.28
+    },
+    {
+      "text": "bottom of the world.",
+      "trans": "底部世界。",
+      "start": 70.28,
+      "end": 71.88
+    },
+    {
+      "text": "We have these big chunks of ice that are on the top and the bottom of the planet.",
+      "trans": "我们有这些巨大的冰块，它们覆盖着地球的顶部和底部。",
+      "start": 71.88,
+      "end": 75.2
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 75.2,
+      "end": 76.2
+    },
+    {
+      "text": "They're all year round.",
+      "trans": "他们全年都在。",
+      "start": 76.2,
+      "end": 77.2
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 77.2,
+      "end": 78.2
+    },
+    {
+      "text": "So these are the polar ice caps.",
+      "trans": "所以这些就是极冰带。",
+      "start": 78.2,
+      "end": 79.56
+    },
+    {
+      "text": "What about our next word?",
+      "trans": "关于我们的下一个单词。",
+      "start": 79.56,
+      "end": 80.56
+    },
+    {
+      "text": "Well, next word is endangered species.",
+      "trans": "很好，下一个词是濒危物种。",
+      "start": 80.56,
+      "end": 84.0
+    },
+    {
+      "text": "And endangered species.",
+      "trans": "And endangered species. (This is the direct translation of \"和濒危物种。\" in Chinese.)",
+      "start": 84.0,
+      "end": 85.68
+    },
+    {
+      "text": "And endangered species.",
+      "trans": "和濒危物种。",
+      "start": 85.68,
+      "end": 87.28
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 87.28,
+      "end": 88.28
+    },
+    {
+      "text": "So endangered species.",
+      "trans": "所以濒危物种。",
+      "start": 88.28,
+      "end": 89.56
+    },
+    {
+      "text": "It's a type of animal that is at risk of completely dying out.",
+      "trans": "这是一种动物，其灭绝风险极高。",
+      "start": 89.56,
+      "end": 94.60000000000001
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 94.60000000000001,
+      "end": 95.60000000000001
+    },
+    {
+      "text": "So it's not completely extinct.",
+      "trans": "所以，它并不完全灭绝。",
+      "start": 95.60000000000001,
+      "end": 97.2
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 97.2,
+      "end": 98.2
+    },
+    {
+      "text": "So they're still...",
+      "trans": "所以他们还是...",
+      "start": 98.2,
+      "end": 99.2
+    },
+    {
+      "text": "It's a danger.",
+      "trans": "这是一个危险。",
+      "start": 99.2,
+      "end": 100.2
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 100.2,
+      "end": 101.2
+    },
+    {
+      "text": "In danger of.",
+      "trans": "在危险中。",
+      "start": 101.2,
+      "end": 102.2
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 102.2,
+      "end": 103.2
+    },
+    {
+      "text": "So an example of endangered species would be the Bengal tigers.",
+      "trans": "所以，濒危物种的例子是孟加拉虎。",
+      "start": 103.2,
+      "end": 106.2
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 106.2,
+      "end": 107.2
+    },
+    {
+      "text": "The tigers or the pandas.",
+      "trans": "老虎或熊猫。",
+      "start": 107.2,
+      "end": 108.2
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 108.2,
+      "end": 109.2
+    },
+    {
+      "text": "Right?",
+      "trans": "对吗？",
+      "start": 109.2,
+      "end": 110.2
+    },
+    {
+      "text": "Or maybe gorillas.",
+      "trans": "或者猴子。",
+      "start": 110.2,
+      "end": 111.2
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 111.2,
+      "end": 112.2
+    },
+    {
+      "text": "So all of these animals, there are very few of them left in the world.",
+      "trans": "所以这些动物，世界上几乎没有了。",
+      "start": 112.2,
+      "end": 114.88000000000001
+    },
+    {
+      "text": "So they are endangered species.",
+      "trans": "所以它们是濒危物种。",
+      "start": 114.88,
+      "end": 116.52
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 116.52,
+      "end": 117.52
+    },
+    {
+      "text": "So with that, I think we're just about ready to turn to our dialogue.",
+      "trans": "所以，我认为我们已经差不多准备好转到对话了。",
+      "start": 117.52,
+      "end": 121.24
+    },
+    {
+      "text": "Now, here we're going to learn a lot of language that you can use when you want to make",
+      "trans": "现在，我们将学习许多语言，你可以在需要时使用它们。",
+      "start": 121.24,
+      "end": 126.32
+    },
+    {
+      "text": "an argument or express your point of view in a very sort of academic way.",
+      "trans": "一个观点或表达自己的观点非常学术地。",
+      "start": 126.32,
+      "end": 130.51999999999998
+    },
+    {
+      "text": "But Markle, what are we arguing about here?",
+      "trans": "但是马克尔，我们在这里争论的是什么？",
+      "start": 130.51999999999998,
+      "end": 132.84
+    },
+    {
+      "text": "So we're going to listen as a college professor is lecturing about global warming and, well,",
+      "trans": "所以我们将作为大学教授在讲全球变暖，嗯……",
+      "start": 132.84,
+      "end": 137.4
+    },
+    {
+      "text": "one of the students doesn't really agree with what he's saying.",
+      "trans": "一个学生并不真正同意他所说的话。",
+      "start": 137.4,
+      "end": 140.24
+    },
+    {
+      "text": "And therefore, global warming is the greatest deception of the early 21st century.",
+      "trans": "因此，全球变暖是新世纪早期最大的欺骗。",
+      "start": 145.88,
+      "end": 156.96
+    },
+    {
+      "text": "Questions?",
+      "trans": "问题？",
+      "start": 156.96,
+      "end": 157.96
+    },
+    {
+      "text": "Uh, yeah.",
+      "trans": "嗯，对。",
+      "start": 157.96,
+      "end": 158.96
+    },
+    {
+      "text": "In the lecture, you said there's more evidence in the scientific record supporting global",
+      "trans": "在讲座中，你提到有更多证据支持全球科学记录中的证据。",
+      "start": 158.96,
+      "end": 163.2
+    },
+    {
+      "text": "cooling.",
+      "trans": "冷却。 (Shuì pò.)",
+      "start": 163.2,
+      "end": 164.2
+    },
+    {
+      "text": "Well, yes.",
+      "trans": "是的，很好。",
+      "start": 164.2,
+      "end": 165.2
+    },
+    {
+      "text": "Essentially, the historical record supports a theory of climate cycles.",
+      "trans": "基本来说，历史记录支持气候循环理论。",
+      "start": 165.2,
+      "end": 169.4
+    },
+    {
+      "text": "Warming and cooling are cooperating processes in the planetary ecosystem.",
+      "trans": "暖化和冷却是行星生态系统中的协同过程。",
+      "start": 169.4,
+      "end": 172.88
+    },
+    {
+      "text": "If that's true and the planet is getting cooler, what explains the rapid melting of the",
+      "trans": "如果这个是真的，那么地球会变得更冷，那么为什么冰川在快速融化？",
+      "start": 172.88,
+      "end": 176.96
+    },
+    {
+      "text": "polar ice caps and the dramatic rise in the global average temperatures?",
+      "trans": "极地冰盖和全球平均气温的急剧上升？",
+      "start": 176.96,
+      "end": 181.24
+    },
+    {
+      "text": "But our global temperatures rising.",
+      "trans": "但是我们的全球气温正在上升。",
+      "start": 181.24,
+      "end": 184.28
+    },
+    {
+      "text": "If you look at the data from 1975, you'll...",
+      "trans": "如果您从1975年的数据开始查看，您会...",
+      "start": 184.28,
+      "end": 186.72
+    },
+    {
+      "text": "You'll be misled.",
+      "trans": "您将被误导。",
+      "start": 186.72,
+      "end": 188.4
+    },
+    {
+      "text": "If you were serious, you would look at the record starting in the 1880s.",
+      "trans": "如果你认真，你就会从20世纪初开始记录。",
+      "start": 188.4,
+      "end": 192.16
+    },
+    {
+      "text": "Then you would see how dramatically the Earth's temperature has changed.",
+      "trans": "那么，你就会看到地球温度变化有多么显著。",
+      "start": 192.16,
+      "end": 196.51999999999998
+    },
+    {
+      "text": "Young lady, I beg to differ.",
+      "trans": "小姐，我不同意。",
+      "start": 196.51999999999998,
+      "end": 197.88
+    },
+    {
+      "text": "Look, the point of the lecture was to emphasize that there's evidence for both sides.",
+      "trans": "请看，讲座的目的是强调双方都有证据。",
+      "start": 197.88,
+      "end": 202.28
+    },
+    {
+      "text": "And I'm putting forth the argument that there's greater evidence in support of the global",
+      "trans": "我提出了一种观点，认为全球范围内的证据支持该论点。",
+      "start": 202.28,
+      "end": 205.88
+    },
+    {
+      "text": "cooling hypothesis.",
+      "trans": "冷却假设。",
+      "start": 205.88,
+      "end": 206.88
+    },
+    {
+      "text": "Look, it's an indisputable fact that the public is being manipulated and scared into believing",
+      "trans": "请看，这是一个无可争议的事实，公众被操纵和恐吓地相信。",
+      "start": 206.88,
+      "end": 213.6
+    },
+    {
+      "text": "that there's some kind of climate crisis.",
+      "trans": "那存在某种气候危机。",
+      "start": 213.6,
+      "end": 215.72
+    },
+    {
+      "text": "This scaremongering is done quite simply for political reasons.",
+      "trans": "这个冒充是出于政治目的。",
+      "start": 215.72,
+      "end": 219.36
+    },
+    {
+      "text": "But even without the uncomfortable reality that greenhouse gas is like carbon dioxide contribute",
+      "trans": "但是，即使没有温室气体像二氧化碳一样令人不适的现实。",
+      "start": 219.36,
+      "end": 223.68
+    },
+    {
+      "text": "to global warming, isn't the topic appropriate for politicians to discuss?",
+      "trans": "是的，这个问题很有趣。在讨论全球变暖的问题时，政治家们是否合适谈论呢？",
+      "start": 223.68,
+      "end": 228.48
+    },
+    {
+      "text": "How do they want to use your tax dollars and mine to fund completely unnecessary initiatives?",
+      "trans": "如何他们想要用您的税收资金来资助完全不必要的项目？",
+      "start": 228.48,
+      "end": 233.48
+    },
+    {
+      "text": "Yeah, like conservation, protecting endangered species, and investing in renewable energy.",
+      "trans": "是的，就像保护濒危物种，保护生物多样性，并投资于可再生能源。",
+      "start": 233.48,
+      "end": 238.95999999999998
+    },
+    {
+      "text": "At the very least, you have to concede that this debate has the potential to end our",
+      "trans": "至少，你必须承认这场辩论有可能结束我们的。",
+      "start": 238.95999999999998,
+      "end": 242.83999999999997
+    },
+    {
+      "text": "dependence on foreign oil.",
+      "trans": "依赖于外国石油。",
+      "start": 242.83999999999997,
+      "end": 244.72
+    },
+    {
+      "text": "Buying oil supports autocratic countries that use these revenues to devastating ends.",
+      "trans": "购买石油支持那些依赖这些收入进行毁灭性活动的独裁国家。",
+      "start": 244.72,
+      "end": 249.95999999999998
+    },
+    {
+      "text": "I've never been so disrespected in all of my days.",
+      "trans": "我从没被这么侮辱过。",
+      "start": 249.95999999999998,
+      "end": 254.0
+    },
+    {
+      "text": "I'm a professor, a scientist, and a researcher of high regard.",
+      "trans": "我是教授、科学家和研究专家。",
+      "start": 254.0,
+      "end": 257.56
+    },
+    {
+      "text": "Yeah, and a duplicitous one at that.",
+      "trans": "是的，而且是一个双面的。",
+      "start": 257.56,
+      "end": 260.28000000000003
+    },
+    {
+      "text": "Everyone knows you're in the pocket of the oil lobby.",
+      "trans": "每个人都知道你是在石油利益集团的圈子里。",
+      "start": 260.28000000000003,
+      "end": 263.0
+    },
+    {
+      "text": "Why should we trust your so-called findings more than tobacco institute studies, which say",
+      "trans": "为什么我们应该更信任您所谓的发现，而不是烟草研究所的研究，它们说。",
+      "start": 263.0,
+      "end": 267.56
+    },
+    {
+      "text": "smoking doesn't harm health?",
+      "trans": "吸烟对健康没有害处？",
+      "start": 267.56,
+      "end": 269.36
+    },
+    {
+      "text": "You're full of it.",
+      "trans": "您满腹经纶。",
+      "start": 269.36,
+      "end": 271.12
+    },
+    {
+      "text": "Some people just cannot handle civil debate.",
+      "trans": "有些人根本就无法处理公民辩论。",
+      "start": 271.12,
+      "end": 274.12
+    },
+    {
+      "text": "Alright, so apparently this college professor is not very truthful in what he's saying,",
+      "trans": "好的，所以似乎这个学院教授在说什么并不诚实，",
+      "start": 274.12,
+      "end": 285.6
+    },
+    {
+      "text": "right?",
+      "trans": "好的，我会将这句话翻译成中文：",
+      "start": 285.6,
+      "end": 286.6
+    },
+    {
+      "text": "Yeah, maybe he believes it, but they certainly have very strong and differing opinions.",
+      "trans": "是的，他可能相信它，但事实上他们确实有非常不同的观点。",
+      "start": 286.68,
+      "end": 292.68
+    },
+    {
+      "text": "So that's the interesting part is that we heard a lot of language that she used to argue",
+      "trans": "所以，有趣的是她经常用的很多语言。",
+      "start": 292.68,
+      "end": 297.16
+    },
+    {
+      "text": "her point of view.",
+      "trans": "她的观点。",
+      "start": 297.16,
+      "end": 298.16
+    },
+    {
+      "text": "So this is interesting, and we can start now looking at some of this language in language",
+      "trans": "所以这很有趣，我们现在可以开始对这些语言进行一些研究。",
+      "start": 298.16,
+      "end": 301.56
+    },
+    {
+      "text": "takeaway.",
+      "trans": "“ takeaway” 翻译成中文是 “ 自取餐”。",
+      "start": 301.56,
+      "end": 302.56
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 302.56,
+      "end": 306.96000000000004
+    },
+    {
+      "text": "So the college professor was arguing against this idea of global warming, and she said,",
+      "trans": "所以这个大学教授反对这个关于全球变暖的想法，她说。",
+      "start": 306.96000000000004,
+      "end": 311.40000000000003
+    },
+    {
+      "text": "look, it's an indisputable fact.",
+      "trans": "看，这是一个无可争议的事实。",
+      "start": 311.40000000000003,
+      "end": 314.24
+    },
+    {
+      "text": "Okay, an indisputable fact.",
+      "trans": "好的，一个无可争议的事实。",
+      "start": 314.24,
+      "end": 316.68
+    },
+    {
+      "text": "An indisputable fact.",
+      "trans": "一个无可争议的事实。",
+      "start": 316.68,
+      "end": 318.16
+    },
+    {
+      "text": "Okay, so let's break it down, and let's take a look at this word indisputable.",
+      "trans": "好的，那么我们先来分一下词义，再看看这个字的含义。",
+      "start": 318.16,
+      "end": 322.2
+    },
+    {
+      "text": "You can't argue against it.",
+      "trans": "你不能反对它。",
+      "start": 322.2,
+      "end": 324.2
+    },
+    {
+      "text": "Okay, so something indisputable is you can't argue with it, and will a fact?",
+      "trans": "好的，那么可以明确的是，你不能争论它，而且事实呢？",
+      "start": 324.2,
+      "end": 328.48
+    },
+    {
+      "text": "Something that's true.",
+      "trans": "什么是对的。",
+      "start": 328.48,
+      "end": 329.48
+    },
+    {
+      "text": "Okay, so you can't argue with this piece of information, yeah.",
+      "trans": "好的，你不能和这个信息争论，对吧？",
+      "start": 329.48,
+      "end": 333.40000000000003
+    },
+    {
+      "text": "Alright, indisputable fact.",
+      "trans": "好的，无可争议的事实。",
+      "start": 333.40000000000003,
+      "end": 335.6
+    },
+    {
+      "text": "So why don't we give a few examples?",
+      "trans": "所以为什么我们不给你几个例子？",
+      "start": 335.6,
+      "end": 337.52
+    },
+    {
+      "text": "It's an indisputable fact that China is the most populist nation on earth.",
+      "trans": "中国是世界上最具弹性的国家之一。",
+      "start": 337.52,
+      "end": 342.68
+    },
+    {
+      "text": "Okay, exactly.",
+      "trans": "好的，正好。",
+      "start": 342.68,
+      "end": 344.12
+    },
+    {
+      "text": "Or it's an indisputable fact that English pod is the best podcast out there.",
+      "trans": "英语播客是目前最好的播客之一。",
+      "start": 344.12,
+      "end": 349.04
+    },
+    {
+      "text": "Indeed, it is indisputable.",
+      "trans": "是的，确凿无疑。",
+      "start": 349.04,
+      "end": 350.64
+    },
+    {
+      "text": "Alright, so indisputable fact.",
+      "trans": "好的，所以无可争议的事实。",
+      "start": 350.64,
+      "end": 353.68
+    },
+    {
+      "text": "And what about our next word?",
+      "trans": "And 什么下一个词？",
+      "start": 353.68,
+      "end": 354.96000000000004
+    },
+    {
+      "text": "Well the student accused the professor of scare mongering.",
+      "trans": "学生指控教授的恐吓行为。",
+      "start": 354.96000000000004,
+      "end": 360.12
+    },
+    {
+      "text": "Scare mongering.",
+      "trans": "恐吓冒犯。",
+      "start": 360.12,
+      "end": 361.12
+    },
+    {
+      "text": "Scare mongering.",
+      "trans": "恐吓冒充。",
+      "start": 361.12,
+      "end": 362.12
+    },
+    {
+      "text": "Okay, now this is kind of a strange word, scare mongering.",
+      "trans": "好的，现在这个有点奇怪的词，恐吓。",
+      "start": 362.12,
+      "end": 365.16
+    },
+    {
+      "text": "Yeah, and I think some examples will help us to understand the meaning a little bit better.",
+      "trans": "是的，我想有一些例子可以帮助我们更好地理解这一点。",
+      "start": 365.16,
+      "end": 370.88
+    },
+    {
+      "text": "Scare mongering.",
+      "trans": "恐吓冒犯。",
+      "start": 370.88,
+      "end": 371.88
+    },
+    {
+      "text": "The answer is, for example one, software flaws are not the same as virus attacks, and",
+      "trans": "例如，软件漏洞与病毒攻击并不相同。",
+      "start": 371.88,
+      "end": 376.24
+    },
+    {
+      "text": "saying otherwise is just scare mongering.",
+      "trans": "说谎是吓唬的。",
+      "start": 376.24,
+      "end": 380.71999999999997
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 380.71999999999997,
+      "end": 381.71999999999997
+    },
+    {
+      "text": "There's been a lot of scare mongering caused by the rumor that mobile phones cause cancer.",
+      "trans": "这里有一些谣言，说手机会癌变。",
+      "start": 381.71999999999997,
+      "end": 388.78
+    },
+    {
+      "text": "Okay, so basically we understand that it's kind of putting fear in people's minds.",
+      "trans": "好的，大致我们理解这有点像是在让人们感到恐惧。",
+      "start": 388.78,
+      "end": 393.52
+    },
+    {
+      "text": "Yeah, it's sort of like selling fear for your own benefit.",
+      "trans": "是的，它有点像卖恐惧给你自己。",
+      "start": 393.52,
+      "end": 397.0
+    },
+    {
+      "text": "Okay, so making people afraid for some objective or some purpose.",
+      "trans": "好的，所以让一些人害怕一些客观或目的不明的事物。",
+      "start": 397.0,
+      "end": 401.84
+    },
+    {
+      "text": "Yeah, and you know this word reminds me of the word a fishmonger.",
+      "trans": "是的，你知道这个词让我想起了鱼贩子。",
+      "start": 401.84,
+      "end": 406.0
+    },
+    {
+      "text": "Okay, a fishmonger, what's that?",
+      "trans": "好的，鱼贩子，那是什么？",
+      "start": 406.0,
+      "end": 407.96
+    },
+    {
+      "text": "Which is basically a seller of fish.",
+      "trans": "基本是一个卖鱼的卖家。",
+      "start": 407.96,
+      "end": 410.08
+    },
+    {
+      "text": "So a scaremonger is a seller of fear.",
+      "trans": "所以，一个恐吓者是卖恐惧的。",
+      "start": 410.08,
+      "end": 413.84
+    },
+    {
+      "text": "Okay, interesting.",
+      "trans": "好的，有趣。",
+      "start": 413.84,
+      "end": 414.84
+    },
+    {
+      "text": "So now we have a way of remembering it.",
+      "trans": "所以现在我们有一种记住它的方式。",
+      "start": 414.84,
+      "end": 416.64
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 416.64,
+      "end": 417.64
+    },
+    {
+      "text": "Scaremongering.",
+      "trans": "恐吓主义。",
+      "start": 417.64,
+      "end": 418.64
+    },
+    {
+      "text": "Alright, and moving on to our next word, we have autocratic.",
+      "trans": "好的，接下来我们有“独裁的”。",
+      "start": 418.64,
+      "end": 422.12
+    },
+    {
+      "text": "Autocratic.",
+      "trans": "在中文中，\"autocratic\" 翻译成汉语是 \"独裁的\"。",
+      "start": 422.12,
+      "end": 423.84
+    },
+    {
+      "text": "An autocratic country.",
+      "trans": "一个专制国家。",
+      "start": 423.84,
+      "end": 425.48
+    },
+    {
+      "text": "So an autocratic country is ruled by someone who holds total power.",
+      "trans": "所以一个专制国家是由一个人来统治的。",
+      "start": 425.48,
+      "end": 431.16
+    },
+    {
+      "text": "Okay, so we have an autocratic country.",
+      "trans": "好的，所以我们有一个集中的国家。",
+      "start": 431.16,
+      "end": 433.12
+    },
+    {
+      "text": "So basically we have a leader that rules everything, right?",
+      "trans": "所以基本上我们有一个领导者，对吗？",
+      "start": 433.12,
+      "end": 436.64000000000004
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 436.64000000000004,
+      "end": 437.64000000000004
+    },
+    {
+      "text": "But we can apply it not only to a country, we can say a person is autocratic.",
+      "trans": "但是，我们也可以把它应用到一个国家，我们可以说一个人是独裁的。",
+      "start": 437.64000000000004,
+      "end": 441.44
+    },
+    {
+      "text": "Yeah, you could say, oh, I can't stand my boss's autocratic leadership style.",
+      "trans": "是的，你说得对。我不能忍受我的老板的专制领导风格。",
+      "start": 441.44,
+      "end": 445.8
+    },
+    {
+      "text": "Or maybe a company.",
+      "trans": "或者是一个公司。",
+      "start": 445.8,
+      "end": 448.40000000000003
+    },
+    {
+      "text": "This company is a very autocratic organization.",
+      "trans": "这个公司是一个非常集权的组织。",
+      "start": 448.40000000000003,
+      "end": 450.96000000000004
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 450.96000000000004,
+      "end": 452.44
+    },
+    {
+      "text": "And what about our last word?",
+      "trans": "那么，我们的最后一个字呢？",
+      "start": 452.44,
+      "end": 453.92
+    },
+    {
+      "text": "The student accused the professor of being duplicitous.",
+      "trans": "学生指控教授是狡猾的。",
+      "start": 453.92,
+      "end": 457.72
+    },
+    {
+      "text": "Okay, so she said he is duplicitous.",
+      "trans": "好的，她说他是个双面人。",
+      "start": 457.72,
+      "end": 461.52000000000004
+    },
+    {
+      "text": "Yes, duplicitous.",
+      "trans": "是的，重复的。",
+      "start": 461.52000000000004,
+      "end": 462.52000000000004
+    },
+    {
+      "text": "Alright, what does that mean?",
+      "trans": "好的，那意味着什么？",
+      "start": 462.52000000000004,
+      "end": 464.2
+    },
+    {
+      "text": "When you are duplicitous, you have behavior that is dishonest and is designed to trick",
+      "trans": "当你狡猾时，你有行为是欺骗的，并设计来欺骗。",
+      "start": 464.2,
+      "end": 470.6
+    },
+    {
+      "text": "people.",
+      "trans": "人。",
+      "start": 470.6,
+      "end": 471.6
+    },
+    {
+      "text": "Okay, so you're not a very honest person if you're duplicitous.",
+      "trans": "好的，如果你不诚实，那么你可能不是一个非常诚实的人。",
+      "start": 471.6,
+      "end": 474.48
+    },
+    {
+      "text": "Yeah, you're telling lies as a means of making people do something or tricking them.",
+      "trans": "是的，你是在用手段让别人做某事或欺骗他们。",
+      "start": 474.48,
+      "end": 479.24
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 479.24,
+      "end": 480.44
+    },
+    {
+      "text": "So a duplicitous person or a duplicitous idea maybe?",
+      "trans": "所以，一个双面的或者一个双面的想法可能？",
+      "start": 480.44,
+      "end": 484.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接提供或翻译中文的“Mm-hmm”这句话。不过，我可以帮助你理解这句话的意思或者提供一些关于中文文化的知识。",
+      "start": 484.0,
+      "end": 485.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 485.0,
+      "end": 486.0
+    },
+    {
+      "text": "Alright, so these are all the words that we have on language takeaway today.",
+      "trans": "好的，今天这些是我们语言小贴士今天的全部词汇。",
+      "start": 486.0,
+      "end": 489.16
+    },
+    {
+      "text": "But now let's move on to some very interesting phrases that we can use to put forward some",
+      "trans": "但现在让我们转向一些非常有趣的话语，我们可以用来提出一些",
+      "start": 489.16,
+      "end": 494.68
+    },
+    {
+      "text": "arguments in fluency builder.",
+      "trans": "在流畅构建器中，选项。",
+      "start": 494.68,
+      "end": 498.28
+    },
+    {
+      "text": "Fluency builder.",
+      "trans": "流畅构建。",
+      "start": 498.28,
+      "end": 499.28
+    },
+    {
+      "text": "Okay, Mark, are you actually just mentioned our first phrase, which is, I'm putting forth",
+      "trans": "好的，马克，您刚才提到的第一句话是：“我正在提出我们的第一个词，即……”",
+      "start": 499.28,
+      "end": 504.44
+    },
+    {
+      "text": "the argument that.",
+      "trans": "这个句子的英文翻译是:",
+      "start": 504.44,
+      "end": 505.92
+    },
+    {
+      "text": "Okay, so putting forth the argument that.",
+      "trans": "好的，那么提出这个论点。",
+      "start": 505.92,
+      "end": 509.48
+    },
+    {
+      "text": "So if you put forth an argument.",
+      "trans": "所以如果你提出一个论点。",
+      "start": 509.48,
+      "end": 511.48
+    },
+    {
+      "text": "You present it.",
+      "trans": "您展示它。",
+      "start": 511.48,
+      "end": 512.48
+    },
+    {
+      "text": "You present it or you push it towards somebody.",
+      "trans": "您展示给它或把它推向某人。",
+      "start": 512.48,
+      "end": 514.48
+    },
+    {
+      "text": "Yeah, you give it.",
+      "trans": "是的，你给它。",
+      "start": 514.48,
+      "end": 515.48
+    },
+    {
+      "text": "Uh-huh.",
+      "trans": "嗯，嗯。",
+      "start": 515.48,
+      "end": 516.48
+    },
+    {
+      "text": "So, can we just put forth an argument?",
+      "trans": "所以，我们能不能只提出一个论点？",
+      "start": 516.48,
+      "end": 519.16
+    },
+    {
+      "text": "Well, actually you can put forth a lot of things like put forth a suggestion.",
+      "trans": "正确翻译为中文是：",
+      "start": 519.16,
+      "end": 522.84
+    },
+    {
+      "text": "Okay, I'm putting forth a suggestion that we should get a new computer.",
+      "trans": "好的，我提出一个建议：我们应当购买一台新的电脑。",
+      "start": 522.84,
+      "end": 526.2
+    },
+    {
+      "text": "Or an idea.",
+      "trans": "一个想法。",
+      "start": 526.2,
+      "end": 527.2
+    },
+    {
+      "text": "Tim put forth the idea that we should go on vacation to Hawaii.",
+      "trans": "温蒂提出了我们应当去夏威夷度假的想法。",
+      "start": 527.2,
+      "end": 529.84
+    },
+    {
+      "text": "Oh, good idea.",
+      "trans": "你好，好主意。",
+      "start": 529.84,
+      "end": 530.84
+    },
+    {
+      "text": "Alright, so you can put forth many different things.",
+      "trans": "好的，你可以提出许多不同的东西。",
+      "start": 530.84,
+      "end": 534.24
+    },
+    {
+      "text": "So the professor obviously is putting forth the argument that global warming is a myth.",
+      "trans": "所以教授显然在论点全球变暖是谎言。",
+      "start": 534.24,
+      "end": 539.24
+    },
+    {
+      "text": "And the student obviously totally disagreed and she said you have to concede that.",
+      "trans": "并且这个学生显然完全不同意，她说道：“你必须承认。”",
+      "start": 539.24,
+      "end": 544.6
+    },
+    {
+      "text": "Okay, you have to concede that.",
+      "trans": "好的，你必须承认。",
+      "start": 544.6,
+      "end": 547.72
+    },
+    {
+      "text": "You have to concede that.",
+      "trans": "您必须承认。",
+      "start": 547.72,
+      "end": 549.8
+    },
+    {
+      "text": "Alright, so this word concede or you have to concede.",
+      "trans": "好的，所以这个单词是“承认”或你必须承认。",
+      "start": 549.8,
+      "end": 554.48
+    },
+    {
+      "text": "Why don't we listen to some examples before we listen to the meaning?",
+      "trans": "为什么我们不先听一些例子，然后再听它的意义？",
+      "start": 554.48,
+      "end": 558.92
+    },
+    {
+      "text": "Example 1.",
+      "trans": "本例一。",
+      "start": 558.92,
+      "end": 561.5600000000001
+    },
+    {
+      "text": "I'm sorry, but I can't concede with you on this point.",
+      "trans": "我非常抱歉，但我不能同意你的观点。",
+      "start": 561.5600000000001,
+      "end": 566.52
+    },
+    {
+      "text": "Example 2.",
+      "trans": "Example 2. (注释：此例用于说明如何将英文翻译成中文。)",
+      "start": 566.52,
+      "end": 568.72
+    },
+    {
+      "text": "You really conceded that she might have forgotten her sister's birthday.",
+      "trans": "您真的承认她可能忘记了自己的姐姐的生日。",
+      "start": 568.72,
+      "end": 573.32
+    },
+    {
+      "text": "Example 3.",
+      "trans": "Example 3. (注释)",
+      "start": 573.32,
+      "end": 576.64
+    },
+    {
+      "text": "Both philosophers conceded that their philosophies have some errors.",
+      "trans": "两人都承认他们的哲学有一些错误。",
+      "start": 576.64,
+      "end": 581.64
+    },
+    {
+      "text": "Okay, so you have to concede that.",
+      "trans": "好的，你必须承认。",
+      "start": 581.64,
+      "end": 587.0
+    },
+    {
+      "text": "Basically, you have to agree that this one point in my argument is true.",
+      "trans": "基本来说，你必须同意这个我的论点是正确的。",
+      "start": 587.0,
+      "end": 592.0
+    },
+    {
+      "text": "Maybe you're arguing many different points with somebody, but you tell them well, you",
+      "trans": "你可能在和某人争论许多不同的观点，但你告诉他很好，你。",
+      "start": 592.0,
+      "end": 595.52
+    },
+    {
+      "text": "have to concede that the earth is round.",
+      "trans": "有资格承认地球是圆的。",
+      "start": 595.52,
+      "end": 598.28
+    },
+    {
+      "text": "Okay, so that part I can't argue with.",
+      "trans": "好的，那么这部分我不太清楚。",
+      "start": 598.28,
+      "end": 600.8399999999999
+    },
+    {
+      "text": "It's really true.",
+      "trans": "是的，是真的。",
+      "start": 600.8399999999999,
+      "end": 601.8399999999999
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 601.8399999999999,
+      "end": 602.8399999999999
+    },
+    {
+      "text": "So concede.",
+      "trans": "所以，接受。",
+      "start": 602.8399999999999,
+      "end": 603.8399999999999
+    },
+    {
+      "text": "Now at the end of the dialogue, the student accused the professor of being in the pocket",
+      "trans": "现在对话的末尾，学生指控教授是在口袋里。",
+      "start": 603.8399999999999,
+      "end": 609.9599999999999
+    },
+    {
+      "text": "of the oil lobby.",
+      "trans": "石油利益集团。",
+      "start": 609.9599999999999,
+      "end": 611.88
+    },
+    {
+      "text": "Okay, so he's in the pocket of...",
+      "trans": "好的，他就在口袋里了……",
+      "start": 611.88,
+      "end": 615.04
+    },
+    {
+      "text": "To be in the pocket of.",
+      "trans": "要被口袋里。",
+      "start": 615.04,
+      "end": 616.48
+    },
+    {
+      "text": "Alright, so if I have somebody in my pocket, what does that mean?",
+      "trans": "好的，如果我口袋里有人，那意味着什么？",
+      "start": 616.48,
+      "end": 619.6
+    },
+    {
+      "text": "It means basically you're bribing them.",
+      "trans": "它意味着基本上你是在贿赂他们。",
+      "start": 619.6,
+      "end": 621.56
+    },
+    {
+      "text": "Okay, so maybe I have the senator in my pocket.",
+      "trans": "好的，也许我口袋里有议员。",
+      "start": 621.56,
+      "end": 624.36
+    },
+    {
+      "text": "Okay, so obviously you're paying the senator to do what you want.",
+      "trans": "好的，所以很明显，你正在要求这个议员做你想做的事情。",
+      "start": 624.36,
+      "end": 627.12
+    },
+    {
+      "text": "Okay, very good.",
+      "trans": "好的，很好。",
+      "start": 627.12,
+      "end": 628.12
+    },
+    {
+      "text": "So it's another way, it's a very informal way of saying I'm bribing somebody or that",
+      "trans": "所以，这又是一个方式，这是一种非常正式的表达，我正在贿赂某人或说。",
+      "start": 628.48,
+      "end": 632.88
+    },
+    {
+      "text": "person is being bribed.",
+      "trans": "一个人在被贿赂。",
+      "start": 632.88,
+      "end": 634.2
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 634.2,
+      "end": 635.2
+    },
+    {
+      "text": "So why don't we move to our final phrase?",
+      "trans": "所以，我们为什么不转到我们的结尾呢？",
+      "start": 635.2,
+      "end": 638.2
+    },
+    {
+      "text": "And the students was talking about the professors so called findings.",
+      "trans": "和学生们讨论的是被称作教授发现的论文。",
+      "start": 638.2,
+      "end": 643.12
+    },
+    {
+      "text": "Okay, so you're so called findings.",
+      "trans": "好的，您被称作发现。",
+      "start": 643.12,
+      "end": 646.4
+    },
+    {
+      "text": "So called.",
+      "trans": "所以称为。",
+      "start": 646.4,
+      "end": 647.92
+    },
+    {
+      "text": "So this word so called.",
+      "trans": "所以这个叫做的字。",
+      "start": 647.92,
+      "end": 650.28
+    },
+    {
+      "text": "You use this word when you want to take away from the importance of an idea.",
+      "trans": "您使用这个词是为了从一个想法中去除其重要性。",
+      "start": 650.28,
+      "end": 655.0
+    },
+    {
+      "text": "Alright, so I use it before a noun, right?",
+      "trans": "是的，所以我用它之前是一个名词吗？",
+      "start": 655.0,
+      "end": 657.2
+    },
+    {
+      "text": "So for example, my so-called friends.",
+      "trans": "所以，例如，我的所谓的朋友。",
+      "start": 657.6800000000001,
+      "end": 660.36
+    },
+    {
+      "text": "Okay, so these friends are not really your friends maybe.",
+      "trans": "好的，这些朋友不是你的朋友，可能。",
+      "start": 660.36,
+      "end": 663.6400000000001
+    },
+    {
+      "text": "So yeah, they're friends in name, but they don't act like friends.",
+      "trans": "所以啊，他们有朋友的名号，但他们在行动上却不像朋友。",
+      "start": 663.6400000000001,
+      "end": 666.6800000000001
+    },
+    {
+      "text": "Okay, so you can say my so-called job.",
+      "trans": "好的，你可以这么说我的所谓的职位。",
+      "start": 666.6800000000001,
+      "end": 670.24
+    },
+    {
+      "text": "Okay, so maybe you kind of go to work but do nothing all day.",
+      "trans": "好的，也许你有点上班，但整天无所事事。",
+      "start": 670.24,
+      "end": 673.32
+    },
+    {
+      "text": "Right, or maybe you don't even really like what you do.",
+      "trans": "是的，或者你可能根本不喜欢自己做的事情。",
+      "start": 673.32,
+      "end": 675.9200000000001
+    },
+    {
+      "text": "Right.",
+      "trans": "右。",
+      "start": 675.9200000000001,
+      "end": 676.9200000000001
+    },
+    {
+      "text": "So my so-called job, my so-called friends, or maybe my so-called teacher.",
+      "trans": "所以，我所谓的“工作”，所谓的朋友，或者也许是我所谓的老师。",
+      "start": 676.9200000000001,
+      "end": 681.6800000000001
+    },
+    {
+      "text": "Okay, so this is a bad teacher.",
+      "trans": "好的，这是个不好的老师。",
+      "start": 681.6800000000001,
+      "end": 682.96
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 682.96,
+      "end": 683.96
+    },
+    {
+      "text": "So we use it a lot with many different nouns, right?",
+      "trans": "所以我们经常用它与许多不同的名词一起使用吗？",
+      "start": 683.96,
+      "end": 687.1600000000001
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 687.1600000000001,
+      "end": 688.1600000000001
+    },
+    {
+      "text": "So that's our last phrase for Fluency Builder.",
+      "trans": "所以，这就是Fluency Builder的最后一个短语。",
+      "start": 688.1600000000001,
+      "end": 690.84
+    },
+    {
+      "text": "Now, I think it will help us to understand these words and phrases a little bit better",
+      "trans": "现在，我认为这将有助于我们更好地理解这些词汇和短语。",
+      "start": 690.84,
+      "end": 694.8000000000001
+    },
+    {
+      "text": "to hear them again in context.",
+      "trans": "在语境中再次听到他们。",
+      "start": 694.8000000000001,
+      "end": 699.8000000000001
+    },
+    {
+      "text": "And therefore, global warming is the greatest deception of the early 21st century.",
+      "trans": "因此，全球变暖是新世纪早期最大的欺骗。",
+      "start": 699.8000000000001,
+      "end": 712.9200000000001
+    },
+    {
+      "text": "Questions?",
+      "trans": "问题？",
+      "start": 712.92,
+      "end": 713.92
+    },
+    {
+      "text": "Uh, yeah.",
+      "trans": "嗯，对。",
+      "start": 713.92,
+      "end": 716.12
+    },
+    {
+      "text": "In the lecture, you said there's more evidence in the scientific record supporting global",
+      "trans": "在讲座中，你提到有更多证据支持全球科学记录中的证据。",
+      "start": 716.12,
+      "end": 720.04
+    },
+    {
+      "text": "cooling.",
+      "trans": "冷却。 (Shuowen yi)",
+      "start": 720.04,
+      "end": 721.04
+    },
+    {
+      "text": "Well, yes.",
+      "trans": "是的，很好。",
+      "start": 721.04,
+      "end": 722.04
+    },
+    {
+      "text": "Essentially, the historical record supports a theory of climate cycles.",
+      "trans": "基本来说，历史记录支持气候循环理论。",
+      "start": 722.04,
+      "end": 726.24
+    },
+    {
+      "text": "Warming and cooling are cooperating processes in the planetary ecosystem.",
+      "trans": "暖化和冷却是行星生态系统中的协同过程。",
+      "start": 726.24,
+      "end": 729.7199999999999
+    },
+    {
+      "text": "If that's true, and the planet is getting cooler, what explains the rapid melting of the",
+      "trans": "如果这是真的，那么地球的温度会降低，那么为什么冰川在快速融化？",
+      "start": 729.7199999999999,
+      "end": 733.8
+    },
+    {
+      "text": "polar ice caps and the dramatic rise in the global average temperatures?",
+      "trans": "极地冰盖和全球平均气温的急剧上升？",
+      "start": 733.8,
+      "end": 738.12
+    },
+    {
+      "text": "But our global temperatures rising.",
+      "trans": "但是我们的全球气温正在上升。",
+      "start": 738.12,
+      "end": 741.16
+    },
+    {
+      "text": "If you look at the data from 1975, you'll-",
+      "trans": "如果你看看从1975年开始的数据，你就会发现：",
+      "start": 741.16,
+      "end": 743.6
+    },
+    {
+      "text": "You'll be misled.",
+      "trans": "您将被误导。",
+      "start": 743.6,
+      "end": 745.28
+    },
+    {
+      "text": "If you were serious, you would look at the record starting in the 1880s.",
+      "trans": "如果你认真，你就会从20世纪初开始记录。",
+      "start": 745.28,
+      "end": 748.76
+    },
+    {
+      "text": "Then you would see how dramatically the Earth's temperature has changed.",
+      "trans": "那么，你就会看到地球温度变化有多么惊人。",
+      "start": 748.76,
+      "end": 753.4
+    },
+    {
+      "text": "Young lady, I beg to differ.",
+      "trans": "小姐，我不同意。",
+      "start": 753.4,
+      "end": 754.76
+    },
+    {
+      "text": "Look, the point of the lecture was to emphasize that there's evidence for both sides.",
+      "trans": "请看，讲座的目的是强调双方都有证据。",
+      "start": 754.76,
+      "end": 759.16
+    },
+    {
+      "text": "And I'm putting forth the argument that there's greater evidence in support of the global",
+      "trans": "而且我提出了一种论点，认为全球的证据比个人证据更有力。",
+      "start": 759.16,
+      "end": 762.7199999999999
+    },
+    {
+      "text": "cooling hypothesis.",
+      "trans": "冷却假设。",
+      "start": 762.7199999999999,
+      "end": 764.04
+    },
+    {
+      "text": "Look, it's an indisputable fact that the public is being manipulated and scared into believing",
+      "trans": "请看，这是一个无可争议的事实，公众被操纵和恐吓地相信。",
+      "start": 764.04,
+      "end": 770.48
+    },
+    {
+      "text": "that there's some kind of climate crisis.",
+      "trans": "那存在某种气候危机。",
+      "start": 770.48,
+      "end": 772.6
+    },
+    {
+      "text": "This scaremongering is done quite simply for political reasons.",
+      "trans": "这个冒充是出于政治目的。",
+      "start": 772.6,
+      "end": 776.24
+    },
+    {
+      "text": "But even without the uncomfortable reality that greenhouse gases like carbon dioxide contribute",
+      "trans": "但是，即使没有温室气体如二氧化碳这样的不舒适的现实。",
+      "start": 776.24,
+      "end": 780.5600000000001
+    },
+    {
+      "text": "to global warming, isn't the topic appropriate for politicians to discuss?",
+      "trans": "是的，这个问题很有趣。在讨论全球变暖的问题时，政治家们是否合适谈论呢？",
+      "start": 780.5600000000001,
+      "end": 785.4
+    },
+    {
+      "text": "Not if they want to use your tax dollars and mine to fund completely unnecessary initiatives.",
+      "trans": "如果他们想使用你的税收资金并用来资助完全不必要的项目。",
+      "start": 785.4,
+      "end": 790.44
+    },
+    {
+      "text": "Yeah, like conservation, protecting endangered species, and investing in renewable energy.",
+      "trans": "是的，就像保护濒危物种，保护濒危物种，以及投资于可再生能源。",
+      "start": 790.44,
+      "end": 795.88
+    },
+    {
+      "text": "At the very least, you have to concede that this debate has the potential to end our",
+      "trans": "在最起码的情况下，你必须承认这场辩论有可能结束我们的。",
+      "start": 795.88,
+      "end": 799.72
+    },
+    {
+      "text": "dependence on foreign oil.",
+      "trans": "依赖于外国石油。",
+      "start": 799.72,
+      "end": 801.64
+    },
+    {
+      "text": "Buying oil supports autocratic countries that use these revenues to devastating ends.",
+      "trans": "购买石油支持那些依赖这些收入进行毁灭性活动的独裁国家。",
+      "start": 801.64,
+      "end": 806.84
+    },
+    {
+      "text": "I've never been so disrespected in all of my days.",
+      "trans": "我从没被如此侮辱过。",
+      "start": 806.84,
+      "end": 810.88
+    },
+    {
+      "text": "I'm a professor, a scientist, and a researcher of high regard.",
+      "trans": "我是教授、科学家和研究专家。",
+      "start": 810.88,
+      "end": 814.48
+    },
+    {
+      "text": "Yeah, and the duplicitous one at that.",
+      "trans": "是的，那个双面的。",
+      "start": 814.48,
+      "end": 817.4
+    },
+    {
+      "text": "Everyone knows you're in the pocket of the oil lobby.",
+      "trans": "每个人都知道你是在石油利益集团的圈子里。",
+      "start": 817.4,
+      "end": 819.9200000000001
+    },
+    {
+      "text": "Why should we trust your so-called findings more than tobacco institute studies, which say",
+      "trans": "为什么我们应该更信任您所谓的发现，而不是烟草研究所的研究，即：",
+      "start": 819.9200000000001,
+      "end": 824.44
+    },
+    {
+      "text": "smoking doesn't harm health?",
+      "trans": "吸烟对健康没有害处？",
+      "start": 824.44,
+      "end": 826.24
+    },
+    {
+      "text": "You're full of it.",
+      "trans": "您满腔热情。",
+      "start": 826.24,
+      "end": 828.0
+    },
+    {
+      "text": "Some people just cannot handle civil debate.",
+      "trans": "有些人根本就无法处理公民辩论。",
+      "start": 828.0,
+      "end": 835.0
+    },
+    {
+      "text": "All right, very good.",
+      "trans": "好的，很好。",
+      "start": 835.0,
+      "end": 839.84
+    },
+    {
+      "text": "So, interesting ways of putting forth arguments, and well, it's an interesting topic and very",
+      "trans": "所以，有趣的方式提出论点，以及……很好，这是一个有趣的主题和非常有意思的话题。",
+      "start": 839.84,
+      "end": 845.72
+    },
+    {
+      "text": "controversial, right?",
+      "trans": "在中文中，\"controversial, right?\" 可以翻译为：",
+      "start": 845.72,
+      "end": 846.72
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 846.72,
+      "end": 847.72
+    },
+    {
+      "text": "But what I noticed in this dialogue is that the student was pretty assertive in putting",
+      "trans": "但是，在这次对话中，我发现学生非常积极地在表达。",
+      "start": 847.72,
+      "end": 854.0
+    },
+    {
+      "text": "forth her argument in standing up to the teacher.",
+      "trans": "在她坚持反抗老师的观点。",
+      "start": 854.0,
+      "end": 856.64
+    },
+    {
+      "text": "Right, she argued with the teacher a lot.",
+      "trans": "正确，她与老师争论很多。",
+      "start": 856.64,
+      "end": 858.3199999999999
+    },
+    {
+      "text": "And this is interesting because it's a very cultural aspect, I think, right?",
+      "trans": "而且，这也是一个非常文化的角度，我认为是正确的。",
+      "start": 858.3199999999999,
+      "end": 861.84
+    },
+    {
+      "text": "Yeah, in North American universities, there is this idea that it's really important to",
+      "trans": "是的，在美国的大学里，有一个想法说它真的很重要。",
+      "start": 861.84,
+      "end": 869.12
+    },
+    {
+      "text": "think critically and to argue against different ideas and to really speak up when you don't",
+      "trans": "思考冷静地和反驳不同的观点，当您不赞同时，真正地说出您的意见。",
+      "start": 869.12,
+      "end": 875.4399999999999
+    },
+    {
+      "text": "agree with something.",
+      "trans": "同意某事。",
+      "start": 875.4399999999999,
+      "end": 876.4399999999999
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 876.4399999999999,
+      "end": 877.4399999999999
+    },
+    {
+      "text": "So, basically, there's this culture of questioning, not only what you're being taught, but",
+      "trans": "因此，基本上，有这种质疑的文化，不仅是在你被教导的方面，而且在你所接受的知识和经验中。",
+      "start": 877.4399999999999,
+      "end": 880.52
+    },
+    {
+      "text": "you can also question the teacher.",
+      "trans": "你还可以质疑老师。",
+      "start": 880.52,
+      "end": 881.84
+    },
+    {
+      "text": "You don't actually have to believe everything that the teacher is saying.",
+      "trans": "您不需要真的相信老师在说的一切。",
+      "start": 881.84,
+      "end": 885.4399999999999
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 885.4399999999999,
+      "end": 886.4399999999999
+    },
+    {
+      "text": "I think this situation is really interesting.",
+      "trans": "我认为这种情况真的很有趣。",
+      "start": 886.44,
+      "end": 889.0400000000001
+    },
+    {
+      "text": "You always go to these lectures, and there's always a question and answer period at the",
+      "trans": "你总是去这些讲座，而且在每节课的最后都会有一个问答环节。",
+      "start": 889.0400000000001,
+      "end": 892.32
+    },
+    {
+      "text": "end of the lectures.",
+      "trans": "结束课程。",
+      "start": 892.32,
+      "end": 893.6
+    },
+    {
+      "text": "And I think that there's this group of academically-minded people who feel like it's really cool",
+      "trans": "我认为，有学术头脑的人们觉得这真的很酷。",
+      "start": 893.6,
+      "end": 901.0
+    },
+    {
+      "text": "to ask these really difficult questions and engage in arguments with the props.",
+      "trans": "要问这些问题真的很困难，与道具进行辩论。",
+      "start": 901.0,
+      "end": 905.2
+    },
+    {
+      "text": "Yeah, yeah, that's really true.",
+      "trans": "是的，是的，那真是真的。",
+      "start": 905.2,
+      "end": 906.7600000000001
+    },
+    {
+      "text": "But actually, she used a lot of polite language and a lot of polite ways of actually arguing",
+      "trans": "但是实际上，她使用了很多礼貌的语言和实际的辩论技巧。",
+      "start": 906.7600000000001,
+      "end": 911.0400000000001
+    },
+    {
+      "text": "with the professor.",
+      "trans": "给教授。",
+      "start": 911.0400000000001,
+      "end": 912.0400000000001
+    },
+    {
+      "text": "Yeah, until the last point when she said you're full of it.",
+      "trans": "是的，直到她最后说你满腹经纶。",
+      "start": 912.0400000000001,
+      "end": 914.8000000000001
+    },
+    {
+      "text": "Yeah, you're full of it.",
+      "trans": "是的，你满腹经纶。",
+      "start": 914.8000000000001,
+      "end": 916.32
+    },
+    {
+      "text": "You're full of it.",
+      "trans": "您满腹经纶。",
+      "start": 916.36,
+      "end": 917.32
+    },
+    {
+      "text": "So, what she's saying here?",
+      "trans": "所以，她在这里怎么说？",
+      "start": 917.32,
+      "end": 918.32
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 918.32,
+      "end": 919.32
+    },
+    {
+      "text": "She's basically saying that you're full of shit.",
+      "trans": "她基本上是在说你满脑子都是屎。",
+      "start": 919.32,
+      "end": 921.32
+    },
+    {
+      "text": "Work out.",
+      "trans": "工作。",
+      "start": 921.32,
+      "end": 922.32
+    },
+    {
+      "text": "So, yeah, you wouldn't really say that.",
+      "trans": "所以，对了，你不会说那句话的。",
+      "start": 922.32,
+      "end": 925.12
+    },
+    {
+      "text": "So, to be a little bit less rude, you would just say you're full of it.",
+      "trans": "所以，稍微少一点粗鲁点，你可以说你吃得太多了。",
+      "start": 925.12,
+      "end": 929.08
+    },
+    {
+      "text": "Yeah, but that is one step too far.",
+      "trans": "是的，但这是一步太远了。",
+      "start": 929.08,
+      "end": 931.24
+    },
+    {
+      "text": "I think this would be considered a little bit rude in the university.",
+      "trans": "我认为这在大学里可能会被视为有点粗鲁。",
+      "start": 931.24,
+      "end": 934.0
+    },
+    {
+      "text": "Yeah, for a professor, yeah.",
+      "trans": "是的，对于教授来说，对。",
+      "start": 934.0,
+      "end": 935.4000000000001
+    },
+    {
+      "text": "But I guess if you don't believe what your friend is telling you or maybe he's exaggerating,",
+      "trans": "但是，我猜如果你不相信你的朋友在说些什么或者他可能夸大了，",
+      "start": 935.4000000000001,
+      "end": 940.96
+    },
+    {
+      "text": "you can say, oh, you're full of it.",
+      "trans": "你可以这么说，你满腹经纶。",
+      "start": 940.96,
+      "end": 942.2800000000001
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 942.2800000000001,
+      "end": 943.2800000000001
+    },
+    {
+      "text": "So, great argumentative language here in this dialogue.",
+      "trans": "所以，在这个对话中，这里就有很强的辩论语言。",
+      "start": 943.28,
+      "end": 946.12
+    },
+    {
+      "text": "But we want to give you an opportunity to try out some of this language.",
+      "trans": "但是，我们希望您有机会试用一些这语言。",
+      "start": 946.12,
+      "end": 949.8399999999999
+    },
+    {
+      "text": "So come to our website at EnglishPod.com.",
+      "trans": "所以，请访问我们的网站：英语pod.com。",
+      "start": 949.8399999999999,
+      "end": 953.1999999999999
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 953.1999999999999,
+      "end": 954.1999999999999
+    },
+    {
+      "text": "We are there to answer any questions or doubts.",
+      "trans": "我们在这里来回答任何问题或疑虑。",
+      "start": 954.1999999999999,
+      "end": 955.68
+    },
+    {
+      "text": "And we'll see you guys there.",
+      "trans": "我们会在这里见你们。",
+      "start": 955.68,
+      "end": 956.68
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 956.68,
+      "end": 957.68
+    },
+    {
+      "text": "Guys, until next time.",
+      "trans": "各位，下次见。",
+      "start": 957.68,
+      "end": 958.68
+    },
+    {
+      "text": "Goodbye.",
+      "trans": "再见。",
+      "start": 958.68,
+      "end": 959.68
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 959.68,
+      "end": 960.68
+    }
+  ]
+}

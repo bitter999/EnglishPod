@@ -1,0 +1,2412 @@
+{
+  "title": "englishpod_D0137pb",
+  "audio": "./assets/englishpod_D0137pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome to English.",
+      "trans": "大家好，欢迎来到英语。",
+      "start": 0.0,
+      "end": 4.24
+    },
+    {
+      "text": "My name is Marto.",
+      "trans": "我的名字是马托。",
+      "start": 4.24,
+      "end": 5.8
+    },
+    {
+      "text": "And my name is Catherine and today we're talking about something very, very important",
+      "trans": "我的名字是凯特，今天我们要谈论的是一个非常重要的话题。",
+      "start": 5.8,
+      "end": 9.84
+    },
+    {
+      "text": "in the computer age.",
+      "trans": "在计算机时代。",
+      "start": 9.84,
+      "end": 11.52
+    },
+    {
+      "text": "Internet.",
+      "trans": "互联网 (Internet) in Chinese is \"网络\" (Wángyì).",
+      "start": 11.52,
+      "end": 12.52
+    },
+    {
+      "text": "Internet and internet connections.",
+      "trans": "互联网和互联网连接。",
+      "start": 12.52,
+      "end": 13.76
+    },
+    {
+      "text": "Right, I think so many people use the internet now and have it, but it's sometimes a little",
+      "trans": "是的，我认为很多人现在都在使用互联网，并且经常使用它。但是有时候，这并不总是如此。",
+      "start": 13.76,
+      "end": 19.12
+    },
+    {
+      "text": "bit complicated to maybe get a plan or maybe if you're not too familiar with the terms,",
+      "trans": "这个句子在中文中可以翻译为：",
+      "start": 19.12,
+      "end": 24.240000000000002
+    },
+    {
+      "text": "that's where we're going to be looking at today.",
+      "trans": "今天，我们将在这里关注什么。",
+      "start": 24.240000000000002,
+      "end": 25.72
+    },
+    {
+      "text": "So listen out for some of these words today.",
+      "trans": "所以听听这些词今天。",
+      "start": 25.72,
+      "end": 27.6
+    },
+    {
+      "text": "We're talking on the phone with someone who's going to help us get a plan.",
+      "trans": "我们正在电话中与一个即将帮助我们制定计划的人交谈。",
+      "start": 27.6,
+      "end": 30.92
+    },
+    {
+      "text": "When we come back, we'll be talking all about what some of these words and phrases mean.",
+      "trans": "当我们回来时，我们将谈论一些这些单词和短语的意义。",
+      "start": 30.92,
+      "end": 34.52
+    },
+    {
+      "text": "So if you're confused, just wait a couple seconds and we'll be back.",
+      "trans": "所以如果你困惑，就等一会儿，我们马上就回来了。",
+      "start": 34.52,
+      "end": 42.24
+    },
+    {
+      "text": "Welcome to Galanet.",
+      "trans": "欢迎来到Galanet。",
+      "start": 42.24,
+      "end": 43.56
+    },
+    {
+      "text": "How can I help you?",
+      "trans": "如何能帮助您？",
+      "start": 43.56,
+      "end": 44.760000000000005
+    },
+    {
+      "text": "Hi, I would like to get an internet plan for my house.",
+      "trans": "你好，我想为我的房子选择一个互联网套餐。",
+      "start": 44.760000000000005,
+      "end": 48.120000000000005
+    },
+    {
+      "text": "Of course.",
+      "trans": "当然。",
+      "start": 48.120000000000005,
+      "end": 50.16
+    },
+    {
+      "text": "We have three different plans with different prices you can choose from.",
+      "trans": "我们有三种不同的计划，每种计划都有不同的价格。您可以根据自己的需求选择。",
+      "start": 50.16,
+      "end": 53.88
+    },
+    {
+      "text": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+      "trans": "第一个选项是最低的，但最基本的计划，每月只需30元。",
+      "start": 53.88,
+      "end": 58.88
+    },
+    {
+      "text": "This is for broadband internet, with a download speed of 512 KBPS.",
+      "trans": "这是高速宽带互联网，下载速度为512KBps。",
+      "start": 58.88,
+      "end": 64.68
+    },
+    {
+      "text": "I have no idea what KBPS means.",
+      "trans": "我也不太明白KBPS的意思。",
+      "start": 64.68,
+      "end": 67.8
+    },
+    {
+      "text": "I just want to be able to get online, play games and chat with my friends.",
+      "trans": "我只想能上网玩游戏和聊天与朋友。",
+      "start": 67.8,
+      "end": 71.76
+    },
+    {
+      "text": "Oh, and watch movies online as well.",
+      "trans": "哦，而且也要在网上看电影。",
+      "start": 71.76,
+      "end": 74.16
+    },
+    {
+      "text": "Well, this connection might be a bit too slow for your needs.",
+      "trans": "嗯，这个连接可能有点慢，不适合您的需求。",
+      "start": 74.16,
+      "end": 77.6
+    },
+    {
+      "text": "I suggest you get the premium package for $50 a month, which includes a connection speed",
+      "trans": "我建议您每月支付 50 元，包含连接速度。",
+      "start": 77.6,
+      "end": 82.44
+    },
+    {
+      "text": "of 2 megabytes.",
+      "trans": "2兆字节。",
+      "start": 82.44,
+      "end": 84.03999999999999
+    },
+    {
+      "text": "That way, you can play games online without any lag.",
+      "trans": "这样，你就可以在互联网上玩游戏，而不会出现延迟。",
+      "start": 84.03999999999999,
+      "end": 87.16
+    },
+    {
+      "text": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "trans": "这个包还包含一个无线路由器和个人防火墙，绝对免费。",
+      "start": 87.16,
+      "end": 91.8
+    },
+    {
+      "text": "Do I have to pay an installation fee?",
+      "trans": "是的，我必须支付安装费。",
+      "start": 91.8,
+      "end": 94.8
+    },
+    {
+      "text": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "trans": "幸运的是，这个月我们不收取正常的安装费。",
+      "start": 94.8,
+      "end": 98.72
+    },
+    {
+      "text": "You're receiving yourself a hundred bucks right there, and we'll throw in this pen drive.",
+      "trans": "您正在收到自己一百元，我们还会把这个U盘扔进去。",
+      "start": 98.72,
+      "end": 103.47999999999999
+    },
+    {
+      "text": "Awesome!",
+      "trans": "很棒！",
+      "start": 103.47999999999999,
+      "end": 104.47999999999999
+    },
+    {
+      "text": "Alright, so interesting.",
+      "trans": "好的，那么有趣。",
+      "start": 104.47999999999999,
+      "end": 108.2
+    },
+    {
+      "text": "A lot of these technical terms, specifically for internet and computers and connection and",
+      "trans": "这些技术术语，特别是针对互联网和计算机以及连接和",
+      "start": 108.2,
+      "end": 113.84
+    },
+    {
+      "text": "all that stuff.",
+      "trans": "所有的这些东西。",
+      "start": 113.84,
+      "end": 114.84
+    },
+    {
+      "text": "Yeah, and the nice thing about some of these words is that they can be used in other ways",
+      "trans": "是的，这些词的一个好处在于它们可以以其他方式使用。",
+      "start": 114.84,
+      "end": 119.48
+    },
+    {
+      "text": "as well.",
+      "trans": "也。",
+      "start": 119.48,
+      "end": 120.48
+    },
+    {
+      "text": "We're learning about these and expanding our vocabulary, but they're useful in many other",
+      "trans": "我们正在学习这些，并扩大词汇量，但它们在许多其他方面也非常有用。",
+      "start": 120.48,
+      "end": 125.92
+    },
+    {
+      "text": "contexts as well.",
+      "trans": "语境也。",
+      "start": 125.92,
+      "end": 127.24000000000001
+    },
+    {
+      "text": "Okay, so let's get started with these words now in language takeaway.",
+      "trans": "好的，现在让我们开始用语言总结这些单词。",
+      "start": 127.24000000000001,
+      "end": 133.92000000000002
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 133.92000000000002,
+      "end": 136.24
+    },
+    {
+      "text": "So this first phrase, for example, is something that you see advertised all the time, and",
+      "trans": "所以，例如，这个开头的这句话，比如你看到广告中的所有时刻。",
+      "start": 136.24,
+      "end": 140.48000000000002
+    },
+    {
+      "text": "it's a kind of internet connection.",
+      "trans": "它是互联网连接的一种。",
+      "start": 140.48000000000002,
+      "end": 144.08
+    },
+    {
+      "text": "Broadband internet.",
+      "trans": "宽带互联网。",
+      "start": 144.08,
+      "end": 145.08
+    },
+    {
+      "text": "Okay, so internet is pretty clear, but broadband, you might be asking what the heck can this",
+      "trans": "好的，所以互联网挺清晰的，但宽带，你可能正在问这事儿什么也说不清楚。",
+      "start": 145.08,
+      "end": 149.68
+    },
+    {
+      "text": "mean?",
+      "trans": "在中文中，\"mean?\" 通常翻译为 \"会意吗？\" 或者更直接地说 \"能理解吗？\"。这个短语常用于询问对方是否能够理解某个问题或表达的意思。例如：",
+      "start": 149.68,
+      "end": 150.68
+    },
+    {
+      "text": "Okay, so you have broad.",
+      "trans": "好的，您有宽广的。",
+      "start": 150.68,
+      "end": 152.08
+    },
+    {
+      "text": "So broad means wide.",
+      "trans": "所以宽泛意味着广阔。",
+      "start": 152.08,
+      "end": 153.48000000000002
+    },
+    {
+      "text": "Wide, huh?",
+      "trans": "是的，宽！",
+      "start": 153.48000000000002,
+      "end": 154.48000000000002
+    },
+    {
+      "text": "And a band is basically a frequency at which something works.",
+      "trans": "而且一个乐队基本上是某种频率下运作的东西。",
+      "start": 154.48000000000002,
+      "end": 159.12
+    },
+    {
+      "text": "Band width.",
+      "trans": "宽带。",
+      "start": 159.12,
+      "end": 160.12
+    },
+    {
+      "text": "Band width, huh?",
+      "trans": "宽带，嗯？",
+      "start": 160.12,
+      "end": 161.12
+    },
+    {
+      "text": "So you have broadband, you have fast or high speed internet.",
+      "trans": "所以，你有宽带，或者快或高速的互联网。",
+      "start": 161.12,
+      "end": 164.32000000000002
+    },
+    {
+      "text": "That means the bigger the spaces, the more information can be transferred.",
+      "trans": "这句话的意思是：“这意味着更大的空间可以传递的信息更多。”",
+      "start": 164.32,
+      "end": 168.45999999999998
+    },
+    {
+      "text": "So it's a fast connection, essentially.",
+      "trans": "所以它是一个快连接，实际上。",
+      "start": 168.45999999999998,
+      "end": 170.68
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 170.68,
+      "end": 171.68
+    },
+    {
+      "text": "Before broadband we had dial up internet.",
+      "trans": "在宽带之前，我们有拨号上网。",
+      "start": 171.68,
+      "end": 174.07999999999998
+    },
+    {
+      "text": "D-D-D-D-D-D.",
+      "trans": "[Conn Error]",
+      "start": 174.07999999999998,
+      "end": 176.07999999999998
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 176.07999999999998,
+      "end": 177.07999999999998
+    },
+    {
+      "text": "Remember AOL?",
+      "trans": "记得AOL吗？",
+      "start": 177.07999999999998,
+      "end": 177.79999999999998
+    },
+    {
+      "text": "Yeah, I remember.",
+      "trans": "是的，我记得。",
+      "start": 177.79999999999998,
+      "end": 178.79999999999998
+    },
+    {
+      "text": "It was so slow.",
+      "trans": "是这样慢。",
+      "start": 178.79999999999998,
+      "end": 180.16
+    },
+    {
+      "text": "You had to use your modem and call a number and then get connected by telephone to it",
+      "trans": "您必须使用您的调制解调器并拨打一个号码，然后通过电话与它连接。",
+      "start": 180.16,
+      "end": 186.24
+    },
+    {
+      "text": "was a dial up connection, but it was so slow.",
+      "trans": "这是一个以拨号连接的方式，但速度太慢。",
+      "start": 186.24,
+      "end": 188.42
+    },
+    {
+      "text": "And every time it broke, the connection would break.",
+      "trans": "每次它断开连接，连接就会断开。",
+      "start": 188.42,
+      "end": 191.95999999999998
+    },
+    {
+      "text": "had to dial up again and give the whole process.",
+      "trans": "我必须重新拨号并详细描述整个过程。",
+      "start": 191.96,
+      "end": 194.20000000000002
+    },
+    {
+      "text": "It was so annoying.",
+      "trans": "是太烦了。",
+      "start": 194.20000000000002,
+      "end": 195.12
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 195.12,
+      "end": 195.8
+    },
+    {
+      "text": "So fortunately, now not many people",
+      "trans": "所以幸运的是，现在很少有人",
+      "start": 195.8,
+      "end": 198.64000000000001
+    },
+    {
+      "text": "use dial up anymore, and we have broadband internet.",
+      "trans": "使用拨号上网，我们有了宽带互联网。",
+      "start": 198.64000000000001,
+      "end": 201.96
+    },
+    {
+      "text": "Now that if you have broadband internet,",
+      "trans": "现在，如果你有宽带互联网，",
+      "start": 201.96,
+      "end": 203.84
+    },
+    {
+      "text": "it's really convenient because you can download",
+      "trans": "它真的很方便，因为你可以下载。",
+      "start": 203.84,
+      "end": 206.84
+    },
+    {
+      "text": "any type of application or music, videos, et cetera.",
+      "trans": "任何类型的应用程序或音乐、视频等。",
+      "start": 206.84,
+      "end": 210.20000000000002
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的翻译：",
+      "start": 210.20000000000002,
+      "end": 210.48000000000002
+    },
+    {
+      "text": "So this is another key computer word that actually",
+      "trans": "所以，这是一个另一个关键的计算机词汇，实际上。",
+      "start": 210.48000000000002,
+      "end": 213.20000000000002
+    },
+    {
+      "text": "has a couple of different uses.",
+      "trans": "有几种不同的用途。",
+      "start": 213.20000000000002,
+      "end": 214.64000000000001
+    },
+    {
+      "text": "For example, as you said, you can download music or download",
+      "trans": "例如，您说的，您可以下载音乐或下载。",
+      "start": 214.64000000000001,
+      "end": 218.64000000000001
+    },
+    {
+      "text": "photos.",
+      "trans": "照片。 (Wǒmen bǎ shíjiā.)",
+      "start": 218.64000000000001,
+      "end": 219.04000000000002
+    },
+    {
+      "text": "That means you find a photo on the internet",
+      "trans": "这句话的中文翻译是：",
+      "start": 219.04000000000002,
+      "end": 221.04000000000002
+    },
+    {
+      "text": "that you like and you could save it on your computer.",
+      "trans": "如果你喜欢，你可以把它保存在你的电脑上。",
+      "start": 221.04,
+      "end": 224.28
+    },
+    {
+      "text": "But you can also have a download.",
+      "trans": "但是你也可以下载。",
+      "start": 224.28,
+      "end": 226.64
+    },
+    {
+      "text": "So it can be a thing too.",
+      "trans": "所以它也可以是东西。",
+      "start": 226.64,
+      "end": 228.12
+    },
+    {
+      "text": "OK.",
+      "trans": "OK in Chinese is \"好的\" (gěng zé).",
+      "start": 228.12,
+      "end": 228.6
+    },
+    {
+      "text": "So if maybe you're downloading three different files,",
+      "trans": "所以，如果你下载了三个不同的文件，",
+      "start": 228.6,
+      "end": 232.07999999999998
+    },
+    {
+      "text": "you have three downloads.",
+      "trans": "您有三个下载。",
+      "start": 232.07999999999998,
+      "end": 233.76
+    },
+    {
+      "text": "OK.",
+      "trans": "OK in Chinese is \"好的\" (gěng hǎo).",
+      "start": 233.76,
+      "end": 234.16
+    },
+    {
+      "text": "So to download and download.",
+      "trans": "所以要下载和下载。",
+      "start": 234.16,
+      "end": 237.12
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 237.12,
+      "end": 237.95999999999998
+    },
+    {
+      "text": "So now in internet, you have different speeds",
+      "trans": "所以现在在互联网上，你有不同的速度。",
+      "start": 237.95999999999998,
+      "end": 240.04
+    },
+    {
+      "text": "as we talked about, right?",
+      "trans": "在我们讨论过，对吗？",
+      "start": 240.04,
+      "end": 241.12
+    },
+    {
+      "text": "How fast you're downloading something.",
+      "trans": "如何你正在下载什么。",
+      "start": 241.12,
+      "end": 242.64
+    },
+    {
+      "text": "And the guy mentioned 512 KBPS.",
+      "trans": "和这个提到512 kbps。",
+      "start": 242.64,
+      "end": 247.2
+    },
+    {
+      "text": "Oh no.",
+      "trans": "对不起。",
+      "start": 247.2,
+      "end": 248.07999999999998
+    },
+    {
+      "text": "Not another one of these KBPS.",
+      "trans": "不另有一个这样的KBPS。",
+      "start": 248.07999999999998,
+      "end": 250.51999999999998
+    },
+    {
+      "text": "So this one actually is pretty simple.",
+      "trans": "所以，这个确实很简单。",
+      "start": 250.52,
+      "end": 252.72
+    },
+    {
+      "text": "You can think about kilobytes.",
+      "trans": "你可以考虑千字。",
+      "start": 252.72,
+      "end": 254.16
+    },
+    {
+      "text": "You've heard about megabytes, kilobytes.",
+      "trans": "您听说过“兆字节”和“千字节”。",
+      "start": 254.16,
+      "end": 256.16
+    },
+    {
+      "text": "This is a size.",
+      "trans": "这是一个尺寸。",
+      "start": 256.16,
+      "end": 258.2
+    },
+    {
+      "text": "That how fast you can receive these packets of information.",
+      "trans": "这句话的中文翻译是：",
+      "start": 258.2,
+      "end": 262.16
+    },
+    {
+      "text": "So 512 kilobytes per second.",
+      "trans": "所以，512千字每秒。",
+      "start": 262.16,
+      "end": 265.96000000000004
+    },
+    {
+      "text": "Per second, that's, I have no idea how much that is.",
+      "trans": "每秒，这就是说，我没有多少概念，那到底有多长。",
+      "start": 265.96000000000004,
+      "end": 269.96000000000004
+    },
+    {
+      "text": "It's maybe a lot.",
+      "trans": "是可能的。",
+      "start": 269.96000000000004,
+      "end": 270.76
+    },
+    {
+      "text": "It sounds like a lot.",
+      "trans": "听起来像很多。",
+      "start": 270.76,
+      "end": 271.76
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 271.76,
+      "end": 272.28000000000003
+    },
+    {
+      "text": "Well, basically, it is a lot.",
+      "trans": "基本来说，它是一个很大的。",
+      "start": 272.28000000000003,
+      "end": 274.44
+    },
+    {
+      "text": "But we saw later that he was asking",
+      "trans": "但是后来我们发现他正在问。",
+      "start": 274.44,
+      "end": 277.28000000000003
+    },
+    {
+      "text": "for a connection speed of two megabytes.",
+      "trans": "对于一个2兆字节的连接速度。",
+      "start": 277.28000000000003,
+      "end": 279.64
+    },
+    {
+      "text": "So mega is bigger than KBPS, right?",
+      "trans": "所以，Mega 是比 KBPS 大的吗？",
+      "start": 279.96,
+      "end": 283.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 283.0,
+      "end": 283.68
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 283.68,
+      "end": 284.15999999999997
+    },
+    {
+      "text": "So these are different speeds of transferring information.",
+      "trans": "所以这些是信息传输速度的不同。",
+      "start": 284.15999999999997,
+      "end": 288.08
+    },
+    {
+      "text": "So this is a way for you to see what kind of internet plan",
+      "trans": "所以，这是让你看到哪种互联网套餐的方式。",
+      "start": 288.08,
+      "end": 291.28
+    },
+    {
+      "text": "you want.",
+      "trans": "您想。",
+      "start": 291.28,
+      "end": 292.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 292.0,
+      "end": 293.03999999999996
+    },
+    {
+      "text": "And so you have kilobytes, we have megabytes.",
+      "trans": "所以您有千字，我们有兆字。",
+      "start": 293.03999999999996,
+      "end": 295.64
+    },
+    {
+      "text": "And basically, you want a faster connection speed",
+      "trans": "基本来说，你希望更快的连接速度。",
+      "start": 295.64,
+      "end": 298.47999999999996
+    },
+    {
+      "text": "because you want to avoid lag.",
+      "trans": "因为您希望避免延迟。",
+      "start": 298.47999999999996,
+      "end": 301.0
+    },
+    {
+      "text": "Ooh, lag.",
+      "trans": "啊呀，哎。",
+      "start": 301.0,
+      "end": 302.59999999999997
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 302.59999999999997,
+      "end": 303.8
+    },
+    {
+      "text": "This is a word that you can use in a lot of different ways.",
+      "trans": "这个词在很多不同的方式上都可以使用。",
+      "start": 303.8,
+      "end": 306.12
+    },
+    {
+      "text": "For example, my brother always lags behind.",
+      "trans": "例如，我的哥哥总是落后。",
+      "start": 306.12,
+      "end": 309.24
+    },
+    {
+      "text": "OK.",
+      "trans": "好的。",
+      "start": 309.24,
+      "end": 309.56
+    },
+    {
+      "text": "It's a verb.",
+      "trans": "是动词。",
+      "start": 310.36,
+      "end": 311.4
+    },
+    {
+      "text": "But in this case, we're talking about the noun.",
+      "trans": "但是在这个情况下，我们是在谈论名词。",
+      "start": 311.4,
+      "end": 312.68
+    },
+    {
+      "text": "So lag is slowness.",
+      "trans": "所以慢是迟缓。",
+      "start": 312.68,
+      "end": 315.2
+    },
+    {
+      "text": "Yeah, it's like a delay.",
+      "trans": "是的，就像一个延迟。",
+      "start": 315.2,
+      "end": 316.56
+    },
+    {
+      "text": "Yeah, it's delay in something.",
+      "trans": "是的，这是某个事物的延迟。",
+      "start": 316.56,
+      "end": 318.36
+    },
+    {
+      "text": "So in this case, I can't even play my video games",
+      "trans": "在这种情况下，我几乎无法玩我的视频游戏。",
+      "start": 318.36,
+      "end": 322.36
+    },
+    {
+      "text": "because there's too much lag.",
+      "trans": "因为太慢了。",
+      "start": 322.36,
+      "end": 324.12
+    },
+    {
+      "text": "So I mean, the internet's too slow.",
+      "trans": "所以，互联网太慢了。",
+      "start": 324.12,
+      "end": 325.48
+    },
+    {
+      "text": "It's too slow, exactly.",
+      "trans": "太慢了，正好。",
+      "start": 325.48,
+      "end": 327.0
+    },
+    {
+      "text": "So that's what happens when you have a slow connection speed.",
+      "trans": "所以，当你有慢速连接速度时会发生什么。",
+      "start": 327.0,
+      "end": 329.6
+    },
+    {
+      "text": "You have lag.",
+      "trans": "您有滞后。",
+      "start": 329.6,
+      "end": 330.76
+    },
+    {
+      "text": "And as you can say, it refers to something",
+      "trans": "而且，你可以说，它指的是什么。",
+      "start": 330.76,
+      "end": 332.8
+    },
+    {
+      "text": "that's slow or delayed.",
+      "trans": "这句话的中文翻译是：",
+      "start": 332.8,
+      "end": 334.4
+    },
+    {
+      "text": "So you can use it in other contexts",
+      "trans": "所以你可以在其他地方使用它。",
+      "start": 334.4,
+      "end": 336.08
+    },
+    {
+      "text": "when you want to say something is a little bit slow.",
+      "trans": "当你想说某事有点慢时。",
+      "start": 336.08,
+      "end": 338.4
+    },
+    {
+      "text": "Well, and another key thing here,",
+      "trans": "好的，这里还有一个关键点：",
+      "start": 339.4,
+      "end": 341.52
+    },
+    {
+      "text": "as we're talking about internet connections,",
+      "trans": "我们正在谈论互联网连接，翻译成中文是：我们正在讨论互联网连接。",
+      "start": 341.52,
+      "end": 343.88
+    },
+    {
+      "text": "is the router.",
+      "trans": "路由器是网络中的一个设备。在中文中，\"router\"通常指的是连接两个或多个网络的设备，用于将数据从一个网络传输到另一个网络。例如，在互联网上，路由器可以连接不同的局域网（LAN）和广域网（WAN），以实现数据交换和通信。",
+      "start": 343.88,
+      "end": 345.08
+    },
+    {
+      "text": "So router is something that helps us to route an internet",
+      "trans": "所以路由器是用来帮助我们路由互联网的。",
+      "start": 345.08,
+      "end": 350.23999999999995
+    },
+    {
+      "text": "connection.",
+      "trans": "连接。 (Wéijiān.)",
+      "start": 350.23999999999995,
+      "end": 350.79999999999995
+    },
+    {
+      "text": "So for example, it basically distributes the internet",
+      "trans": "所以，例如，它基本上是将互联网分发出去。",
+      "start": 350.79999999999995,
+      "end": 355.03999999999996
+    },
+    {
+      "text": "connection to different computers or to different users.",
+      "trans": "连接到不同的计算机或用户。",
+      "start": 355.03999999999996,
+      "end": 358.44
+    },
+    {
+      "text": "And some of these you plug in, and some of them",
+      "trans": "并且你选择了一些，还有些你没有选择。",
+      "start": 358.44,
+      "end": 360.28
+    },
+    {
+      "text": "are wireless.",
+      "trans": "无线是中文的缩写，通常表示为 \"wireless\"。在中文中，这个短语常用于描述设备或技术的特性，例如：",
+      "start": 360.28,
+      "end": 361.23999999999995
+    },
+    {
+      "text": "That means without a wire.",
+      "trans": "这句话的中文翻译是：“这意味着没有线。”",
+      "start": 361.23999999999995,
+      "end": 362.67999999999995
+    },
+    {
+      "text": "So a wireless router is something",
+      "trans": "所以，一个无线路由器是一个",
+      "start": 362.67999999999995,
+      "end": 364.71999999999997
+    },
+    {
+      "text": "a little box in your house that allows you to maybe",
+      "trans": "一个在你家里的小盒子，也许能",
+      "start": 364.71999999999997,
+      "end": 367.35999999999996
+    },
+    {
+      "text": "have three or four computers on one broadband connection.",
+      "trans": "有三个或四个在宽带连接下的计算机。",
+      "start": 367.36,
+      "end": 371.8
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 371.8,
+      "end": 372.56
+    },
+    {
+      "text": "So it's very popular now.",
+      "trans": "所以现在它非常流行。",
+      "start": 372.56,
+      "end": 373.76
+    },
+    {
+      "text": "You go to Starbucks and you have Wi-Fi.",
+      "trans": "您去星巴克，而且有Wi-Fi。",
+      "start": 373.76,
+      "end": 376.28000000000003
+    },
+    {
+      "text": "In order to have Wi-Fi or wireless internet,",
+      "trans": "为了有无线网络或Wi-Fi，以下是一些方法：",
+      "start": 376.28000000000003,
+      "end": 379.0
+    },
+    {
+      "text": "you need a router, a wireless router.",
+      "trans": "你需要一个路由器，或者无线路由器。",
+      "start": 379.0,
+      "end": 380.96000000000004
+    },
+    {
+      "text": "OK, so wireless router.",
+      "trans": "好的，无线路由器。",
+      "start": 380.96000000000004,
+      "end": 383.12
+    },
+    {
+      "text": "And finally, what is something that",
+      "trans": "最后，什么是我们所知道的。",
+      "start": 383.12,
+      "end": 385.0
+    },
+    {
+      "text": "might get in the way of a connection?",
+      "trans": "可能影响连接吗？",
+      "start": 385.0,
+      "end": 387.28000000000003
+    },
+    {
+      "text": "You have a firewall, very important security measure",
+      "trans": "您有防火墙，非常重要的安全措施",
+      "start": 387.28000000000003,
+      "end": 390.48
+    },
+    {
+      "text": "when navigating the internet.",
+      "trans": "当使用互联网导航。",
+      "start": 390.48,
+      "end": 392.40000000000003
+    },
+    {
+      "text": "All right, so a personal firewall is a firewall",
+      "trans": "好的，所以个人防火墙是防火墙。",
+      "start": 392.40000000000003,
+      "end": 394.44
+    },
+    {
+      "text": "that you have on your computer to keep people",
+      "trans": "你可以在你的电脑上设置什么来防止别人看到？",
+      "start": 394.44,
+      "end": 396.44
+    },
+    {
+      "text": "from spying on you.",
+      "trans": "从监视你。",
+      "start": 396.44,
+      "end": 397.6
+    },
+    {
+      "text": "This keeps other people out.",
+      "trans": "这个阻止了其他人。",
+      "start": 397.6,
+      "end": 400.36
+    },
+    {
+      "text": "So it's exactly that.",
+      "trans": "所以，正是这样。",
+      "start": 400.36,
+      "end": 401.36
+    },
+    {
+      "text": "It's a wall between your computer and the outside world.",
+      "trans": "这是一个墙，将你的电脑和外面的世界隔开。",
+      "start": 401.36,
+      "end": 406.44
+    },
+    {
+      "text": "So it protects you from any type of maybe malicious intruders.",
+      "trans": "所以它保护你免受任何可能的恶意入侵者。",
+      "start": 406.44,
+      "end": 411.24
+    },
+    {
+      "text": "Right.",
+      "trans": "右。",
+      "start": 411.24,
+      "end": 411.56
+    },
+    {
+      "text": "And oftentimes governments and public offices,",
+      "trans": "而且常常是政府和公共机构，",
+      "start": 411.56,
+      "end": 415.32
+    },
+    {
+      "text": "things like that law offices, they have firewalls",
+      "trans": "例如这样的法律办公室，它们有防火墙。",
+      "start": 415.32,
+      "end": 419.2
+    },
+    {
+      "text": "to protect the information that they store",
+      "trans": "为了保护他们存储的信息",
+      "start": 419.2,
+      "end": 421.0
+    },
+    {
+      "text": "because it's so important that it's secretive.",
+      "trans": "因为它是如此重要，以至于它保密。",
+      "start": 421.0,
+      "end": 423.52
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 423.52,
+      "end": 424.2
+    },
+    {
+      "text": "So firewalls, there are many different types",
+      "trans": "所以防火墙，有很多不同的类型。",
+      "start": 424.2,
+      "end": 426.15999999999997
+    },
+    {
+      "text": "of firewalls, but a personal firewall is just a basic one.",
+      "trans": "防火墙是基本的，但个人防火墙只是一个基础。",
+      "start": 426.16,
+      "end": 430.24
+    },
+    {
+      "text": "Great.",
+      "trans": "好的，以下是“Great”在中文的翻译：",
+      "start": 430.24,
+      "end": 430.52000000000004
+    },
+    {
+      "text": "So that is our language takeaway for today.",
+      "trans": "所以，这就是今天我们的语言取向。",
+      "start": 430.52000000000004,
+      "end": 433.12
+    },
+    {
+      "text": "Let's check out this dialogue again",
+      "trans": "请再次检查这个对话",
+      "start": 433.12,
+      "end": 435.24
+    },
+    {
+      "text": "and slow it down a bit this time.",
+      "trans": "这次要慢一点了。",
+      "start": 435.24,
+      "end": 436.8
+    },
+    {
+      "text": "MUSIC",
+      "trans": "音乐",
+      "start": 436.8,
+      "end": 443.44000000000005
+    },
+    {
+      "text": "Welcome to Galanet.",
+      "trans": "欢迎来到Galanet。",
+      "start": 443.44000000000005,
+      "end": 444.84000000000003
+    },
+    {
+      "text": "How can I help you?",
+      "trans": "如何能帮助您？",
+      "start": 444.84000000000003,
+      "end": 446.24
+    },
+    {
+      "text": "Hi.",
+      "trans": "你好。",
+      "start": 446.24,
+      "end": 447.12
+    },
+    {
+      "text": "I would like to get an internet plan for my house.",
+      "trans": "我想要为我的房子选择一个互联网套餐。",
+      "start": 447.12,
+      "end": 449.40000000000003
+    },
+    {
+      "text": "Of course.",
+      "trans": "当然。",
+      "start": 449.40000000000003,
+      "end": 450.52000000000004
+    },
+    {
+      "text": "We have three different plans with different prices",
+      "trans": "我们有三种不同的计划，价格各不相同。",
+      "start": 450.52000000000004,
+      "end": 453.0
+    },
+    {
+      "text": "you can choose from.",
+      "trans": "你可以选择。",
+      "start": 453.0,
+      "end": 454.28000000000003
+    },
+    {
+      "text": "The first one is the cheapest.",
+      "trans": "第一个是最便宜的。",
+      "start": 454.28000000000003,
+      "end": 455.72
+    },
+    {
+      "text": "But most basic plan, which is $30 a month.",
+      "trans": "但是最基础的计划，即每月30元。",
+      "start": 455.72,
+      "end": 459.20000000000005
+    },
+    {
+      "text": "This is for broadband internet, with a download speed of 512 KBPS.",
+      "trans": "这是宽带互联网，下载速度为512KBps。",
+      "start": 459.20000000000005,
+      "end": 465.12
+    },
+    {
+      "text": "I have no idea what KBPS means.",
+      "trans": "我并不知道KBPS是什么意思。",
+      "start": 465.12,
+      "end": 468.28000000000003
+    },
+    {
+      "text": "I just want to be able to get online, play games,",
+      "trans": "我只想能上网玩游戏。",
+      "start": 468.28000000000003,
+      "end": 470.56
+    },
+    {
+      "text": "and chat with my friends.",
+      "trans": "和我朋友们聊天。",
+      "start": 470.56,
+      "end": 472.20000000000005
+    },
+    {
+      "text": "Oh, and watch movies online as well.",
+      "trans": "哦，而且也要在网上看电影。",
+      "start": 472.20000000000005,
+      "end": 474.44000000000005
+    },
+    {
+      "text": "Well, this connection might be a bit too slow for your needs.",
+      "trans": "嗯，这个连接可能有点慢，不适合你的需求。",
+      "start": 474.44000000000005,
+      "end": 478.08000000000004
+    },
+    {
+      "text": "I suggest you get the premium package for $50 a month,",
+      "trans": "我建议您每月支付50元，享受高级会员服务。",
+      "start": 478.08000000000004,
+      "end": 481.52000000000004
+    },
+    {
+      "text": "which includes a connection speed of two megabytes.",
+      "trans": "这包括两兆字节的连接速度。",
+      "start": 481.52000000000004,
+      "end": 484.36
+    },
+    {
+      "text": "That way, you can play games online without any lag.",
+      "trans": "这样，你就可以在互联网上玩游戏，而不会出现延迟。",
+      "start": 484.36,
+      "end": 487.52000000000004
+    },
+    {
+      "text": "This package also includes a wireless router",
+      "trans": "这个包还包含无线路由器。",
+      "start": 487.52000000000004,
+      "end": 489.56
+    },
+    {
+      "text": "and a personal firewall, absolutely free.",
+      "trans": "和一个个人防火墙，绝对免费。",
+      "start": 489.56,
+      "end": 492.16
+    },
+    {
+      "text": "Do I have to pay an installation fee?",
+      "trans": "是的，您需要支付安装费吗？",
+      "start": 492.16,
+      "end": 494.52000000000004
+    },
+    {
+      "text": "Lucky for you, this month we aren't",
+      "trans": "幸运的是，今年这个月我们不是",
+      "start": 494.52000000000004,
+      "end": 496.36
+    },
+    {
+      "text": "charging our normal installation fee.",
+      "trans": "安装正常费充值。",
+      "start": 496.36,
+      "end": 498.44
+    },
+    {
+      "text": "You're saving yourself $100 right there",
+      "trans": "您正在为自己节省 $100 ！",
+      "start": 498.44,
+      "end": 501.16
+    },
+    {
+      "text": "and we'll throw in this pen drive.",
+      "trans": "和我们一起扔这个U盘。",
+      "start": 501.16,
+      "end": 503.0
+    },
+    {
+      "text": "Awesome.",
+      "trans": "很棒。",
+      "start": 503.0,
+      "end": 503.8
+    },
+    {
+      "text": "MUSIC",
+      "trans": "音乐",
+      "start": 503.8,
+      "end": 506.16
+    },
+    {
+      "text": "All right, great.",
+      "trans": "好的，好。",
+      "start": 506.16,
+      "end": 507.0
+    },
+    {
+      "text": "So we just heard all these words that we looked at before.",
+      "trans": "所以我们只是听到这些词，我们在之前就看过了。",
+      "start": 507.0,
+      "end": 510.48
+    },
+    {
+      "text": "But now why don't we take a look at some of these phrases",
+      "trans": "但是现在我们为什么不看看这些短语呢？",
+      "start": 510.48,
+      "end": 513.28
+    },
+    {
+      "text": "in Fluency Builder?",
+      "trans": "在流畅 builder 中？",
+      "start": 513.28,
+      "end": 515.36
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 515.36,
+      "end": 517.12
+    },
+    {
+      "text": "What's this first one?",
+      "trans": "这是第二句话。",
+      "start": 517.12,
+      "end": 518.0
+    },
+    {
+      "text": "I can't read it.",
+      "trans": "我读不懂它。",
+      "start": 518.0,
+      "end": 519.1999999999999
+    },
+    {
+      "text": "I have no idea.",
+      "trans": "我什么都不知道。",
+      "start": 519.1999999999999,
+      "end": 520.8399999999999
+    },
+    {
+      "text": "What?",
+      "trans": "什么?",
+      "start": 520.8399999999999,
+      "end": 521.52
+    },
+    {
+      "text": "Didn't you write it down?",
+      "trans": "你没写下来？",
+      "start": 521.52,
+      "end": 523.3199999999999
+    },
+    {
+      "text": "I have no idea what you're talking about.",
+      "trans": "我也不太明白你说的是什么。",
+      "start": 523.3199999999999,
+      "end": 525.56
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 525.56,
+      "end": 526.48
+    },
+    {
+      "text": "I love games, no.",
+      "trans": "我喜欢游戏，不。",
+      "start": 526.48,
+      "end": 527.4399999999999
+    },
+    {
+      "text": "I have no idea.",
+      "trans": "我什么都不知道。",
+      "start": 527.4399999999999,
+      "end": 529.24
+    },
+    {
+      "text": "This is what's going to treat this as a phrase that gets said",
+      "trans": "这是要处理这句话，这个话会被当作一个表达方式。",
+      "start": 529.24,
+      "end": 533.04
+    },
+    {
+      "text": "as is.",
+      "trans": "作为。",
+      "start": 533.04,
+      "end": 533.68
+    },
+    {
+      "text": "We're not going to take bits and pieces of it.",
+      "trans": "我们不会拿碎片来取它。",
+      "start": 533.68,
+      "end": 535.9599999999999
+    },
+    {
+      "text": "So I have no idea or he has no idea.",
+      "trans": "所以我不知道，他也不知道。",
+      "start": 535.9599999999999,
+      "end": 539.12
+    },
+    {
+      "text": "Is the way to say, listen.",
+      "trans": "是说，听。",
+      "start": 539.12,
+      "end": 540.64
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我不知道。",
+      "start": 540.64,
+      "end": 541.36
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我也不知道。",
+      "start": 541.36,
+      "end": 542.12
+    },
+    {
+      "text": "I really don't know.",
+      "trans": "我真的很不知道。",
+      "start": 542.12,
+      "end": 543.16
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 543.1999999999999,
+      "end": 543.8
+    },
+    {
+      "text": "The guy was talking about KBPS and all these things",
+      "trans": "这位先生正在谈论KBPS和所有这些事情。",
+      "start": 543.8,
+      "end": 546.3199999999999
+    },
+    {
+      "text": "and the other guy was like, I have no idea what you're talking about.",
+      "trans": "and the other guy was like, 我不知道你是在说什么。",
+      "start": 546.3199999999999,
+      "end": 549.8399999999999
+    },
+    {
+      "text": "I don't understand.",
+      "trans": "我不会理解。",
+      "start": 549.8399999999999,
+      "end": 551.0
+    },
+    {
+      "text": "And I can definitely empathize.",
+      "trans": "我完全能理解。",
+      "start": 551.0,
+      "end": 553.0
+    },
+    {
+      "text": "You can relate.",
+      "trans": "您可以联系。",
+      "start": 553.0,
+      "end": 554.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 554.28,
+      "end": 554.8
+    },
+    {
+      "text": "Well, we'll leave that for another one.",
+      "trans": "好的，我们以后再说。",
+      "start": 554.8,
+      "end": 556.8399999999999
+    },
+    {
+      "text": "But after this, it got bucks.",
+      "trans": "但是，这之后就涨了。",
+      "start": 556.8399999999999,
+      "end": 559.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 559.0,
+      "end": 559.52
+    },
+    {
+      "text": "So bucks.",
+      "trans": "所以，钱。",
+      "start": 559.52,
+      "end": 560.8399999999999
+    },
+    {
+      "text": "What is this slang?",
+      "trans": "This slang is \"这个\" (wángzhe).",
+      "start": 560.8399999999999,
+      "end": 562.4
+    },
+    {
+      "text": "Bucks.",
+      "trans": "Bucks in Chinese is \"百元钞\" (bǎ bìng xiān yú).",
+      "start": 562.4,
+      "end": 562.88
+    },
+    {
+      "text": "100 bucks.",
+      "trans": "100 元。",
+      "start": 562.88,
+      "end": 563.9599999999999
+    },
+    {
+      "text": "200 bucks.",
+      "trans": "200 元。",
+      "start": 563.9599999999999,
+      "end": 564.92
+    },
+    {
+      "text": "A lot of money.",
+      "trans": "大量金钱。",
+      "start": 564.92,
+      "end": 565.68
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 565.68,
+      "end": 566.1999999999999
+    },
+    {
+      "text": "So bucks is basically another way of saying dollars.",
+      "trans": "所以 bucks 是另一种方式表达美元。",
+      "start": 566.1999999999999,
+      "end": 568.88
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 568.88,
+      "end": 569.4
+    },
+    {
+      "text": "So this is a way for, well, this is a way that most Americans",
+      "trans": "所以这是通过... 这是大多数美国人的方式。",
+      "start": 569.4,
+      "end": 571.92
+    },
+    {
+      "text": "talk about money.",
+      "trans": "谈论金钱。",
+      "start": 571.92,
+      "end": 573.0
+    },
+    {
+      "text": "It's a one buck is one US dollar.",
+      "trans": "这是一个1元是1美元。",
+      "start": 573.0,
+      "end": 576.16
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 576.16,
+      "end": 577.16
+    },
+    {
+      "text": "So can I borrow 10 bucks, Marco?",
+      "trans": "所以，我可以借给你十元钱，马科？",
+      "start": 577.16,
+      "end": 578.72
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 578.72,
+      "end": 579.24
+    },
+    {
+      "text": "So yeah, sure.",
+      "trans": "所以啊，当然。",
+      "start": 579.24,
+      "end": 580.0
+    },
+    {
+      "text": "There you go.",
+      "trans": "在这里。",
+      "start": 580.0,
+      "end": 580.76
+    },
+    {
+      "text": "Now, bucks, you can only use it for American currency.",
+      "trans": "现在，兄弟，只能用于美国货币。",
+      "start": 580.76,
+      "end": 583.48
+    },
+    {
+      "text": "You can't use it for like euros or you can't say like 10",
+      "trans": "你不能用它像欧元一样，或者你不能说“10”。",
+      "start": 583.48,
+      "end": 586.68
+    },
+    {
+      "text": "euros would be 10 bucks.",
+      "trans": "欧元将等同于人民币的10元。",
+      "start": 586.68,
+      "end": 587.72
+    },
+    {
+      "text": "No, no, no, no.",
+      "trans": "不，不，不，不。",
+      "start": 587.72,
+      "end": 588.76
+    },
+    {
+      "text": "Usually you say this about American dollars",
+      "trans": "通常你总是说美元是中国的货币。",
+      "start": 588.76,
+      "end": 590.52
+    },
+    {
+      "text": "and you say this just when you're hanging out",
+      "trans": "你这么一说，我正和你在一起。",
+      "start": 590.52,
+      "end": 592.68
+    },
+    {
+      "text": "or how much is this cost?",
+      "trans": "或者这个费用是多少？",
+      "start": 592.68,
+      "end": 593.84
+    },
+    {
+      "text": "Oh, five bucks.",
+      "trans": "哈哈，五块钱。",
+      "start": 593.84,
+      "end": 595.16
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 595.16,
+      "end": 595.68
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 595.68,
+      "end": 596.52
+    },
+    {
+      "text": "So the guy was telling him about the price of the internet",
+      "trans": "所以那个家伙正在告诉他互联网的价格。",
+      "start": 596.52,
+      "end": 599.12
+    },
+    {
+      "text": "and everything.",
+      "trans": "一切。",
+      "start": 599.12,
+      "end": 599.64
+    },
+    {
+      "text": "And he said that he's going to throw in a pen drive.",
+      "trans": "And he said that he's going to throw in a pen drive. (翻译成中文)",
+      "start": 599.64,
+      "end": 602.56
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 602.56,
+      "end": 603.4
+    },
+    {
+      "text": "He's going to throw it.",
+      "trans": "他要扔。",
+      "start": 603.4,
+      "end": 604.2399999999999
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 604.2399999999999,
+      "end": 605.0799999999999
+    },
+    {
+      "text": "He's going to throw it.",
+      "trans": "他要扔。",
+      "start": 605.0799999999999,
+      "end": 605.92
+    },
+    {
+      "text": "No, he's going to throw in a pen drive for free.",
+      "trans": "是的，他将免费赠送一个U盘。",
+      "start": 605.92,
+      "end": 608.4399999999999
+    },
+    {
+      "text": "Oh, sweet.",
+      "trans": "你好，宝贝。",
+      "start": 608.4399999999999,
+      "end": 609.56
+    },
+    {
+      "text": "So throw in means to add or include include.",
+      "trans": "所以加入，即添加或包含。",
+      "start": 609.56,
+      "end": 614.28
+    },
+    {
+      "text": "So listen, sir, here's your large popcorn.",
+      "trans": "所以，先生，这是您的大 popcorn。",
+      "start": 614.28,
+      "end": 619.68
+    },
+    {
+      "text": "And I'm going to throw in a small deck coke for free.",
+      "trans": "我准备把一个小瓶可乐免费给你。",
+      "start": 619.68,
+      "end": 622.3199999999999
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 622.3199999999999,
+      "end": 623.3199999999999
+    },
+    {
+      "text": "So generous.",
+      "trans": "所以慷慨。",
+      "start": 623.3199999999999,
+      "end": 624.16
+    },
+    {
+      "text": "So you throw in something.",
+      "trans": "所以你扔出一些。",
+      "start": 624.16,
+      "end": 626.76
+    },
+    {
+      "text": "It's you include it for free, right?",
+      "trans": "是的，您免费包括了它。",
+      "start": 626.76,
+      "end": 629.16
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 629.16,
+      "end": 629.68
+    },
+    {
+      "text": "So this is usually a complimentary item.",
+      "trans": "所以通常是一个免费的项目。",
+      "start": 629.68,
+      "end": 633.16
+    },
+    {
+      "text": "Great.",
+      "trans": "好的，以下是“Great”在中文的翻译：",
+      "start": 633.16,
+      "end": 633.4399999999999
+    },
+    {
+      "text": "I think this word is really interesting or this phrase.",
+      "trans": "我认为这个单词或短语很有趣。",
+      "start": 633.4399999999999,
+      "end": 636.56
+    },
+    {
+      "text": "So why don't we listen to a couple of other examples",
+      "trans": "所以为什么我们不听听另外几个例子",
+      "start": 636.56,
+      "end": 639.16
+    },
+    {
+      "text": "using throw in example one.",
+      "trans": "在例子一中使用throw。",
+      "start": 639.16,
+      "end": 643.92
+    },
+    {
+      "text": "If you buy two pizzas, we will throw in another one for free.",
+      "trans": "如果您购买两份披萨，我们将免费赠送一份。",
+      "start": 643.92,
+      "end": 649.12
+    },
+    {
+      "text": "Example two.",
+      "trans": "Example two. 例二。",
+      "start": 649.12,
+      "end": 650.0
+    },
+    {
+      "text": "Tell you what, I'll buy this computer if you throw in",
+      "trans": "告诉你们，我愿意买这个电脑，只要你给我一些钱。",
+      "start": 653.76,
+      "end": 656.56
+    },
+    {
+      "text": "a pair of headphones.",
+      "trans": "一个耳机套。",
+      "start": 656.56,
+      "end": 657.76
+    },
+    {
+      "text": "Deal?",
+      "trans": "在中文中，\"Deal?\" 翻译成中文是 \"商谈吗？\" 或者更直接地说 \"讨论吗？\"。这个短语通常用于询问对方是否愿意进行某种交易或达成协议。",
+      "start": 657.76,
+      "end": 658.0799999999999
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 660.1999999999999,
+      "end": 661.92
+    },
+    {
+      "text": "The salesman threw in a subscription",
+      "trans": "这个销售人员提到了订阅。",
+      "start": 664.1999999999999,
+      "end": 666.3599999999999
+    },
+    {
+      "text": "to the local newspaper for buying his product.",
+      "trans": "将他的产品卖给当地的报纸。",
+      "start": 666.3599999999999,
+      "end": 668.8
+    },
+    {
+      "text": "Isn't that great?",
+      "trans": "是的，这是极好的。",
+      "start": 668.8,
+      "end": 669.52
+    },
+    {
+      "text": "All right, great.",
+      "trans": "好的，好。",
+      "start": 671.8399999999999,
+      "end": 672.88
+    },
+    {
+      "text": "So good examples.",
+      "trans": "所以好的例子。",
+      "start": 672.88,
+      "end": 674.0799999999999
+    },
+    {
+      "text": "I think it's clear now the phrases",
+      "trans": "我认为现在这些短语是清楚的。",
+      "start": 674.0799999999999,
+      "end": 675.88
+    },
+    {
+      "text": "all these words related to the internet.",
+      "trans": "这些与互联网有关的单词。",
+      "start": 675.88,
+      "end": 677.4399999999999
+    },
+    {
+      "text": "Absolutely.",
+      "trans": "绝对。",
+      "start": 677.4399999999999,
+      "end": 678.28
+    },
+    {
+      "text": "And so useful.",
+      "trans": "而且有用。",
+      "start": 678.28,
+      "end": 679.28
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 679.28,
+      "end": 679.88
+    },
+    {
+      "text": "So why don't we listen to this dialogue for the last time",
+      "trans": "所以为什么我们不继续听这个对话呢？",
+      "start": 679.88,
+      "end": 682.68
+    },
+    {
+      "text": "and then we'll come back and talk a little bit more?",
+      "trans": "然后我们再聊点什么？",
+      "start": 682.68,
+      "end": 684.7199999999999
+    },
+    {
+      "text": "Welcome to Gallonet.",
+      "trans": "欢迎来到格兰特。",
+      "start": 689.88,
+      "end": 691.28
+    },
+    {
+      "text": "How can I help you?",
+      "trans": "如何能帮助您？",
+      "start": 691.28,
+      "end": 692.68
+    },
+    {
+      "text": "Hi.",
+      "trans": "你好。",
+      "start": 692.68,
+      "end": 693.56
+    },
+    {
+      "text": "I would like to get an internet plan for my house.",
+      "trans": "我想要为我的房子选择一个互联网套餐。",
+      "start": 693.56,
+      "end": 695.88
+    },
+    {
+      "text": "Of course.",
+      "trans": "当然。",
+      "start": 695.88,
+      "end": 697.88
+    },
+    {
+      "text": "We have three different plans with different prices",
+      "trans": "我们有三种不同的计划，价格各不相同。",
+      "start": 697.88,
+      "end": 700.3599999999999
+    },
+    {
+      "text": "you can choose from.",
+      "trans": "你可以选择。",
+      "start": 700.3599999999999,
+      "end": 701.64
+    },
+    {
+      "text": "The first one is the cheapest, but most basic plan,",
+      "trans": "第一个是最便宜的，但最基础的计划。",
+      "start": 701.64,
+      "end": 704.76
+    },
+    {
+      "text": "which is $30 a month.",
+      "trans": "每个月是 30 元。",
+      "start": 704.76,
+      "end": 706.5999999999999
+    },
+    {
+      "text": "This is for broadband internet,",
+      "trans": "这是高速互联网，中文：",
+      "start": 706.5999999999999,
+      "end": 708.3599999999999
+    },
+    {
+      "text": "with a download speed of 512 KBPS.",
+      "trans": "下载速度为512KB/s。",
+      "start": 708.3599999999999,
+      "end": 712.4799999999999
+    },
+    {
+      "text": "I have no idea what KBPS means.",
+      "trans": "我对此词一无所知。",
+      "start": 712.4799999999999,
+      "end": 715.64
+    },
+    {
+      "text": "I just want to be able to get online, play games,",
+      "trans": "我只想能上网玩游戏。",
+      "start": 715.64,
+      "end": 717.9599999999999
+    },
+    {
+      "text": "and chat with my friends.",
+      "trans": "和我朋友们聊天。",
+      "start": 717.96,
+      "end": 719.64
+    },
+    {
+      "text": "Oh, and watch movies online as well.",
+      "trans": "哦，而且也要在网上看电影。",
+      "start": 719.64,
+      "end": 721.84
+    },
+    {
+      "text": "Well, this connection might be a bit too slow for your needs.",
+      "trans": "嗯，这个连接可能有点慢，不适合你的需求。",
+      "start": 721.84,
+      "end": 725.48
+    },
+    {
+      "text": "I suggest you get the premium package for $50 a month,",
+      "trans": "我建议您每月购买高级包，费用为人民币50元。",
+      "start": 725.48,
+      "end": 728.9200000000001
+    },
+    {
+      "text": "which includes a connection speed of two megabytes.",
+      "trans": "这包括两兆字节的连接速度。",
+      "start": 728.9200000000001,
+      "end": 731.76
+    },
+    {
+      "text": "That way, you can play games online without any lag.",
+      "trans": "这样，你就可以在互联网上玩游戏，而不会出现延迟。",
+      "start": 731.76,
+      "end": 734.88
+    },
+    {
+      "text": "This package also includes a wireless router",
+      "trans": "这个包还包含无线路由器。",
+      "start": 734.88,
+      "end": 736.9200000000001
+    },
+    {
+      "text": "and a personal firewall, absolutely free.",
+      "trans": "和一个个人防火墙，绝对免费。",
+      "start": 736.9200000000001,
+      "end": 739.6
+    },
+    {
+      "text": "Do I have to pay an installation fee?",
+      "trans": "是的，您需要支付安装费吗？",
+      "start": 739.6,
+      "end": 741.6
+    },
+    {
+      "text": "Lucky for you, this month we aren't charging",
+      "trans": "幸运的是，这个月我们不收费。",
+      "start": 742.5600000000001,
+      "end": 744.8000000000001
+    },
+    {
+      "text": "our normal installation fee.",
+      "trans": "我们的正常安装费。",
+      "start": 744.8000000000001,
+      "end": 746.48
+    },
+    {
+      "text": "You're receiving yourself a hundred bucks right there",
+      "trans": "您正在收到一百元人民币。",
+      "start": 746.48,
+      "end": 749.24
+    },
+    {
+      "text": "and we'll throw in this pen drive.",
+      "trans": "和我们把这个U盘一起扔进去。",
+      "start": 749.24,
+      "end": 751.04
+    },
+    {
+      "text": "Awesome.",
+      "trans": "[Conn Error]",
+      "start": 751.04,
+      "end": 751.88
+    },
+    {
+      "text": "So the internet, it's a big deal nowadays,",
+      "trans": "所以互联网，现在真是大得很，",
+      "start": 753.88,
+      "end": 758.52
+    },
+    {
+      "text": "and now you can do so much on it,",
+      "trans": "现在你可以这么做，很好。",
+      "start": 758.52,
+      "end": 760.4
+    },
+    {
+      "text": "not only navigate websites anymore,",
+      "trans": "“不光导航网站，”",
+      "start": 760.4,
+      "end": 762.44
+    },
+    {
+      "text": "but watch movies, download applications, photos,",
+      "trans": "但是看电影，下载应用程序，拍照。",
+      "start": 762.44,
+      "end": 767.04
+    },
+    {
+      "text": "Facebook, all this type of things now",
+      "trans": "对不起，我无法直接翻译中文到另一种语言。不过，我可以提供一些关于您问题的建议：",
+      "start": 767.04,
+      "end": 769.04
+    },
+    {
+      "text": "that you can do on the internet.",
+      "trans": "你可以在网上做。",
+      "start": 769.04,
+      "end": 770.24
+    },
+    {
+      "text": "You can even do it from your phone.",
+      "trans": "你也可以从你的手机上进行。",
+      "start": 770.24,
+      "end": 772.0
+    },
+    {
+      "text": "Like when you're in the bathroom or on the train,",
+      "trans": "像当你在浴室或火车上一样。",
+      "start": 772.0,
+      "end": 774.32
+    },
+    {
+      "text": "I mean, it's scary.",
+      "trans": "我指的是，这太可怕了。",
+      "start": 774.32,
+      "end": 775.32
+    },
+    {
+      "text": "There's, we're always connected.",
+      "trans": "是的，我们总是相连。",
+      "start": 775.32,
+      "end": 777.72
+    },
+    {
+      "text": "Right, so it's interesting.",
+      "trans": "正确，那么很好。",
+      "start": 777.72,
+      "end": 779.5200000000001
+    },
+    {
+      "text": "You're always connected.",
+      "trans": "您总是连接。",
+      "start": 779.5200000000001,
+      "end": 780.6800000000001
+    },
+    {
+      "text": "You're always online with people",
+      "trans": "您总是与人在线。",
+      "start": 780.6800000000001,
+      "end": 783.0400000000001
+    },
+    {
+      "text": "and it's actually very noticeable",
+      "trans": "而且实际上是非常明显的。",
+      "start": 783.0400000000001,
+      "end": 785.36
+    },
+    {
+      "text": "when you maybe live somewhere else",
+      "trans": "当您可能生活在一个地方时。",
+      "start": 785.36,
+      "end": 787.5200000000001
+    },
+    {
+      "text": "before you used to have to write letters.",
+      "trans": "在你过去常常需要写信。",
+      "start": 787.5200000000001,
+      "end": 789.6800000000001
+    },
+    {
+      "text": "I don't think many people will receive",
+      "trans": "我并不认为很多人会收到。",
+      "start": 789.6800000000001,
+      "end": 791.9200000000001
+    },
+    {
+      "text": "handwritten letters anymore.",
+      "trans": "手写信件不再。",
+      "start": 791.9200000000001,
+      "end": 793.48
+    },
+    {
+      "text": "Never.",
+      "trans": "永远。",
+      "start": 793.48,
+      "end": 794.5600000000001
+    },
+    {
+      "text": "I'm speaking for myself.",
+      "trans": "我代表自己。",
+      "start": 794.5600000000001,
+      "end": 795.5600000000001
+    },
+    {
+      "text": "I never receive, and I don't write them either.",
+      "trans": "我从不收到，也不写它们。",
+      "start": 795.5600000000001,
+      "end": 798.2
+    },
+    {
+      "text": "So I guess I'm guilty of it.",
+      "trans": "所以，我大概也是犯了这个错误。",
+      "start": 798.2,
+      "end": 800.0400000000001
+    },
+    {
+      "text": "So now people just send emails.",
+      "trans": "所以现在人们只是发送电子邮件。",
+      "start": 800.0400000000001,
+      "end": 801.6400000000001
+    },
+    {
+      "text": "Obviously it's more convenient,",
+      "trans": "当然，它更方便。",
+      "start": 801.6400000000001,
+      "end": 803.2800000000001
+    },
+    {
+      "text": "but maybe it's a little bit less significant, maybe,",
+      "trans": "但是，也许它并不那么重要。",
+      "start": 803.28,
+      "end": 807.0
+    },
+    {
+      "text": "than actually going to the post office",
+      "trans": "than actually going to the post office 翻译成中文是：比实际去邮局还要麻烦。",
+      "start": 807.0,
+      "end": 808.56
+    },
+    {
+      "text": "or taking the time to write a letter,",
+      "trans": "或者花时间写信，或者。",
+      "start": 808.56,
+      "end": 810.4399999999999
+    },
+    {
+      "text": "going to the post office and stuff.",
+      "trans": "将要到邮局和事情。",
+      "start": 810.4399999999999,
+      "end": 811.9599999999999
+    },
+    {
+      "text": "Well, I don't know.",
+      "trans": "我也不清楚。",
+      "start": 811.9599999999999,
+      "end": 812.9599999999999
+    },
+    {
+      "text": "There's something nice about having",
+      "trans": "有啥好东西呢？",
+      "start": 812.9599999999999,
+      "end": 814.3199999999999
+    },
+    {
+      "text": "a physical thing you can hold onto,",
+      "trans": "一个你可以握住的物理事物。",
+      "start": 814.3199999999999,
+      "end": 815.8399999999999
+    },
+    {
+      "text": "but I wonder if one day we're gonna forget how to write.",
+      "trans": "但是，我想有一天我们可能会忘记如何写。",
+      "start": 815.8399999999999,
+      "end": 818.6
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 818.6,
+      "end": 819.4399999999999
+    },
+    {
+      "text": "You know, like write with a pen.",
+      "trans": "我知道，像用笔写字。",
+      "start": 819.4399999999999,
+      "end": 820.6
+    },
+    {
+      "text": "With a pen and pencil, exactly.",
+      "trans": "用笔和铅笔，正好。",
+      "start": 820.6,
+      "end": 822.04
+    },
+    {
+      "text": "We're gonna have these little PDAs and these little iPhones,",
+      "trans": "我们将会拥有这些小便携式平板电脑和这些小智能手机。",
+      "start": 822.04,
+      "end": 824.72
+    },
+    {
+      "text": "and they're gonna just, you're gonna talk,",
+      "trans": "他们将只是，你将谈论。",
+      "start": 824.72,
+      "end": 826.36
+    },
+    {
+      "text": "and they're gonna take everything down",
+      "trans": "他们将把一切都铲除。",
+      "start": 826.36,
+      "end": 827.56
+    },
+    {
+      "text": "and note form for you.",
+      "trans": "和您注意一下。",
+      "start": 827.56,
+      "end": 828.56
+    },
+    {
+      "text": "Well, now it's kind of happening with the Kindle, right?",
+      "trans": "是的，现在似乎正在发生与Kindle相关的事情。",
+      "start": 828.56,
+      "end": 831.48
+    },
+    {
+      "text": "Now you can have books on this electronic device",
+      "trans": "现在你可以在这里阅读这些电子设备上的书籍。",
+      "start": 831.48,
+      "end": 835.08
+    },
+    {
+      "text": "that lets you read through them.",
+      "trans": "这让你可以翻阅它们。",
+      "start": 835.08,
+      "end": 836.28
+    },
+    {
+      "text": "And, huh?",
+      "trans": "And, huh? 翻译成中文是：",
+      "start": 836.28,
+      "end": 837.12
+    },
+    {
+      "text": "You can carry a hundred books with you.",
+      "trans": "你可以携带一百本书。",
+      "start": 837.12,
+      "end": 838.44
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 838.44,
+      "end": 839.28
+    },
+    {
+      "text": "So now you don't even really need physical books.",
+      "trans": "所以现在你甚至不需要真的有实体书。",
+      "start": 839.28,
+      "end": 842.6800000000001
+    },
+    {
+      "text": "And which is good on some level,",
+      "trans": "而且在某种程度上是好的。",
+      "start": 842.6800000000001,
+      "end": 845.12
+    },
+    {
+      "text": "because you're saving trees and space and all that stuff,",
+      "trans": "因为您在保护树木和空间，以及所有这些东西，",
+      "start": 845.12,
+      "end": 848.64
+    },
+    {
+      "text": "but there's something, I don't know, physical,",
+      "trans": "但是，我并不知道，物理。",
+      "start": 848.64,
+      "end": 851.16
+    },
+    {
+      "text": "about reading a book.",
+      "trans": "关于阅读一本书。",
+      "start": 851.16,
+      "end": 852.4
+    },
+    {
+      "text": "You hold it, you flip the pages.",
+      "trans": "您握住它，翻页。",
+      "start": 852.4,
+      "end": 854.16
+    },
+    {
+      "text": "You know how many pages you have left.",
+      "trans": "您知道自己还有多少页未读吗？",
+      "start": 854.16,
+      "end": 856.44
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我也不知道。",
+      "start": 856.44,
+      "end": 857.28
+    },
+    {
+      "text": "We'll see.",
+      "trans": "我们将会看到。",
+      "start": 857.28,
+      "end": 858.12
+    },
+    {
+      "text": "Maybe I'll be a convert one day,",
+      "trans": "也许有一天我会成为转换者，中文：",
+      "start": 858.12,
+      "end": 858.96
+    },
+    {
+      "text": "but for now I'm gonna go with paper books.",
+      "trans": "但是现在我打算用纸书。",
+      "start": 858.96,
+      "end": 860.64
+    },
+    {
+      "text": "All right, so what do you guys think about the internet,",
+      "trans": "好的，那么你们对互联网有什么看法？",
+      "start": 860.64,
+      "end": 863.52
+    },
+    {
+      "text": "about electronic books?",
+      "trans": "关于电子书？",
+      "start": 863.52,
+      "end": 865.28
+    },
+    {
+      "text": "You can also tell us any problems or confusion you have",
+      "trans": "你还可以向我描述任何问题或困惑。",
+      "start": 865.28,
+      "end": 867.96
+    },
+    {
+      "text": "with the things that we talked about today.",
+      "trans": "今天，我们讨论了哪些事情。",
+      "start": 867.96,
+      "end": 869.68
+    },
+    {
+      "text": "Hopefully everything is clear,",
+      "trans": "希望一切都很清楚。",
+      "start": 869.68,
+      "end": 870.92
+    },
+    {
+      "text": "but if not, we are here to answer your questions.",
+      "trans": "但是，如果不是这样，我们就在这里回答你的问题。",
+      "start": 870.92,
+      "end": 872.88
+    },
+    {
+      "text": "We'd like to do so.",
+      "trans": "我们想这样做。",
+      "start": 872.88,
+      "end": 873.72
+    },
+    {
+      "text": "So check out our website, EnglishPod.com.",
+      "trans": "所以，请访问我们的网站，英语pod.com。",
+      "start": 873.72,
+      "end": 875.92
+    },
+    {
+      "text": "All right, we'll see you guys there,",
+      "trans": "好的，我们见了。",
+      "start": 875.92,
+      "end": 877.16
+    },
+    {
+      "text": "and until next time.",
+      "trans": "and until next time. (注：在中文里，\"直到\"可以翻译为 \"到...为止\" 或 \"直到...为止\"。在这里，“直到”更常用的是“直到”，因为中文的表达习惯是这样的。)",
+      "start": 877.16,
+      "end": 878.16
+    },
+    {
+      "text": "Good bye, everyone.",
+      "trans": "再见，大家。",
+      "start": 878.16,
+      "end": 879.16
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 879.16,
+      "end": 880.0
+    }
+  ]
+}

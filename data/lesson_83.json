@@ -1,0 +1,2148 @@
+{
+  "title": "englishpod_C0083pb",
+  "audio": "./assets/englishpod_C0083pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone, welcome back to another great lesson here with us at EnglishPod.",
+      "trans": "大家好，欢迎再次来到这里，与我们学习英语的课程。",
+      "start": 0.0,
+      "end": 7.5200000000000005
+    },
+    {
+      "text": "My name is Marco and I'm Erica and today we're going to be getting money.",
+      "trans": "我的名字是马科，我是埃里克，今天我们将讨论钱。",
+      "start": 7.5200000000000005,
+      "end": 11.76
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 11.76,
+      "end": 12.76
+    },
+    {
+      "text": "We're going to have a lesson about the ATM, the ATM or automatic teller machine.",
+      "trans": "我们将在课堂上学习自动取款机、ATM 或其他自助银行设备。",
+      "start": 12.76,
+      "end": 18.76
+    },
+    {
+      "text": "Okay, that's what it stands for.",
+      "trans": "好的，这就是它代表的了。",
+      "start": 18.76,
+      "end": 20.84
+    },
+    {
+      "text": "ATM.",
+      "trans": "[Conn Error]",
+      "start": 20.84,
+      "end": 21.84
+    },
+    {
+      "text": "So we're going to be looking at the language that you'll probably find in an ATM maybe",
+      "trans": "所以我们将要关注你可能在ATM上看到的语言。",
+      "start": 21.84,
+      "end": 26.16
+    },
+    {
+      "text": "in the United States or in English speaking country.",
+      "trans": "在中华人民共和国或英语国家。",
+      "start": 26.16,
+      "end": 29.44
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 29.44,
+      "end": 30.44
+    },
+    {
+      "text": "But before we begin, why don't we look at some vocabulary that we'll hear in the dialogue.",
+      "trans": "但是，我们先看看我们在对话中会听到的一些词汇。",
+      "start": 30.44,
+      "end": 35.120000000000005
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 35.120000000000005,
+      "end": 37.2
+    },
+    {
+      "text": "As we mentioned, the ATM or automatic teller machine is a machine where you get your money,",
+      "trans": "根据我们之前讨论的，自动取款机或自助银行是您把钱拿走的地方。",
+      "start": 37.2,
+      "end": 43.52
+    },
+    {
+      "text": "right?",
+      "trans": "是的。",
+      "start": 43.52,
+      "end": 44.52
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 44.52,
+      "end": 45.52
+    },
+    {
+      "text": "And also, well, some people or in different places, they may call it the bank machine.",
+      "trans": "而且，还有些人或在不同地方，他们可能会称它为银行机。",
+      "start": 45.52,
+      "end": 49.2
+    },
+    {
+      "text": "Yeah, or maybe the cash machine or just a money machine or something.",
+      "trans": "是的，或者可能是自动取款机或只是简单的钱箱。",
+      "start": 49.2,
+      "end": 54.52
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 54.52,
+      "end": 55.52
+    },
+    {
+      "text": "So ATM.",
+      "trans": "所以 ATM。",
+      "start": 55.52,
+      "end": 56.52
+    },
+    {
+      "text": "ATM.",
+      "trans": "[Conn Error]",
+      "start": 56.52,
+      "end": 57.52
+    },
+    {
+      "text": "Let's take a look at our next word.",
+      "trans": "让我们看看我们的下一个词。",
+      "start": 57.52,
+      "end": 60.28
+    },
+    {
+      "text": "Local authorities.",
+      "trans": "本地当局。",
+      "start": 60.28,
+      "end": 61.68000000000001
+    },
+    {
+      "text": "The local authorities.",
+      "trans": "本地当局。",
+      "start": 61.68000000000001,
+      "end": 63.120000000000005
+    },
+    {
+      "text": "The local authorities.",
+      "trans": "本地当局。",
+      "start": 63.120000000000005,
+      "end": 64.52000000000001
+    },
+    {
+      "text": "So what are the local authorities?",
+      "trans": "所以，当地政府部门？",
+      "start": 64.52000000000001,
+      "end": 67.04
+    },
+    {
+      "text": "Well, basically it's the police.",
+      "trans": "基本来说，它就是警察。",
+      "start": 67.04,
+      "end": 68.36
+    },
+    {
+      "text": "The police.",
+      "trans": "警察。",
+      "start": 68.36,
+      "end": 69.36
+    },
+    {
+      "text": "Why do you say local authorities?",
+      "trans": "为什么您说地方官员？",
+      "start": 69.36,
+      "end": 70.56
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 70.56,
+      "end": 71.56
+    },
+    {
+      "text": "Well, authority is the person in charge, right?",
+      "trans": "是的，权威是负责的人，对吗？",
+      "start": 71.56,
+      "end": 74.68
+    },
+    {
+      "text": "The boss.",
+      "trans": "老板。",
+      "start": 74.68,
+      "end": 75.68
+    },
+    {
+      "text": "So the local authorities are basically the people who are the boss of this place.",
+      "trans": "所以，地方政府基本上是这个地方的主人。",
+      "start": 75.68,
+      "end": 80.08
+    },
+    {
+      "text": "In that area.",
+      "trans": "在那个地方。",
+      "start": 80.08,
+      "end": 81.08
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 81.08,
+      "end": 82.08000000000001
+    },
+    {
+      "text": "So the police.",
+      "trans": "所以警察。",
+      "start": 82.08000000000001,
+      "end": 83.08000000000001
+    },
+    {
+      "text": "The local authorities.",
+      "trans": "本地当局。",
+      "start": 83.08000000000001,
+      "end": 84.08000000000001
+    },
+    {
+      "text": "So why don't we start now with our dialogue.",
+      "trans": "所以，我们为什么不从对话开始呢？",
+      "start": 84.08000000000001,
+      "end": 86.04
+    },
+    {
+      "text": "Why are we talking about local authorities and ATM machines?",
+      "trans": "为什么我们谈论地方当局和ATM机？",
+      "start": 86.04,
+      "end": 89.24000000000001
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我也不知道。",
+      "start": 89.24000000000001,
+      "end": 90.24000000000001
+    },
+    {
+      "text": "We got to listen to find out.",
+      "trans": "我们来听听，看看。",
+      "start": 90.24000000000001,
+      "end": 97.24000000000001
+    },
+    {
+      "text": "Stupid girl making me spend so much money.",
+      "trans": "愚蠢的女孩让我花那么多钱。",
+      "start": 97.24000000000001,
+      "end": 108.56
+    },
+    {
+      "text": "Now I have to get it from the ATM.",
+      "trans": "现在我必须从ATM取款。",
+      "start": 108.56,
+      "end": 111.32000000000001
+    },
+    {
+      "text": "Hello.",
+      "trans": "你好。",
+      "start": 111.32000000000001,
+      "end": 112.32000000000001
+    },
+    {
+      "text": "Welcome to Universal Bank.",
+      "trans": "欢迎来到 universal银行。",
+      "start": 112.32000000000001,
+      "end": 113.76
+    },
+    {
+      "text": "Please insert your card into the slot.",
+      "trans": "请将卡片插入插槽。",
+      "start": 113.76,
+      "end": 115.96000000000001
+    },
+    {
+      "text": "I know what I put my card.",
+      "trans": "我知道我放卡的是什么。",
+      "start": 115.96,
+      "end": 117.55999999999999
+    },
+    {
+      "text": "Stupid machine talking to me like I'm an idiot.",
+      "trans": "愚蠢的机器和我说话像我是个傻瓜。",
+      "start": 117.55999999999999,
+      "end": 119.8
+    },
+    {
+      "text": "Please input your six digit pink code followed by the pound key.",
+      "trans": "请输入您的六位粉红色代码，然后按下 pound 键。",
+      "start": 119.8,
+      "end": 123.96
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 123.96,
+      "end": 124.96
+    },
+    {
+      "text": "Please select an option.",
+      "trans": "请选择一个选项。",
+      "start": 124.96,
+      "end": 126.63999999999999
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 126.63999999999999,
+      "end": 127.8
+    },
+    {
+      "text": "You have selected withdraw.",
+      "trans": "您选择取款。",
+      "start": 127.8,
+      "end": 129.44
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 129.44,
+      "end": 130.44
+    },
+    {
+      "text": "I know what I selected.",
+      "trans": "我知道我选的。",
+      "start": 130.44,
+      "end": 131.44
+    },
+    {
+      "text": "Just give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 131.44,
+      "end": 133.16
+    },
+    {
+      "text": "Please type the amount you would like to withdraw.",
+      "trans": "请告诉我您想要取款的金额。",
+      "start": 133.16,
+      "end": 138.84
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 138.84,
+      "end": 139.76
+    },
+    {
+      "text": "You want to transfer.",
+      "trans": "您想转移。",
+      "start": 139.76,
+      "end": 141.6
+    },
+    {
+      "text": "Ten thousand US dollars.",
+      "trans": "十万元人民币。",
+      "start": 141.6,
+      "end": 143.6
+    },
+    {
+      "text": "Two.",
+      "trans": "两。",
+      "start": 143.6,
+      "end": 144.51999999999998
+    },
+    {
+      "text": "The world wildlife foundation.",
+      "trans": "世界自然基金会。",
+      "start": 144.52,
+      "end": 146.84
+    },
+    {
+      "text": "If this is correct, please press one.",
+      "trans": "如果这是正确的，那么请按一下。",
+      "start": 146.84,
+      "end": 148.64000000000001
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 148.64000000000001,
+      "end": 149.64000000000001
+    },
+    {
+      "text": "No.",
+      "trans": "没有。",
+      "start": 149.64000000000001,
+      "end": 150.64000000000001
+    },
+    {
+      "text": "Stupid machine.",
+      "trans": "愚蠢的机器。",
+      "start": 150.64000000000001,
+      "end": 151.64000000000001
+    },
+    {
+      "text": "What are you doing?",
+      "trans": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”",
+      "start": 151.64000000000001,
+      "end": 152.64000000000001
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 152.64000000000001,
+      "end": 153.64000000000001
+    },
+    {
+      "text": "Confirmed.",
+      "trans": "确认。",
+      "start": 153.64000000000001,
+      "end": 154.64000000000001
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 154.64000000000001,
+      "end": 155.64000000000001
+    },
+    {
+      "text": "Please remove your card from the slot.",
+      "trans": "请从卡槽中取下卡片。",
+      "start": 155.64000000000001,
+      "end": 156.64000000000001
+    },
+    {
+      "text": "Goodbye.",
+      "trans": "再见。",
+      "start": 156.64000000000001,
+      "end": 157.64000000000001
+    },
+    {
+      "text": "No way.",
+      "trans": "不能。",
+      "start": 157.64000000000001,
+      "end": 158.64000000000001
+    },
+    {
+      "text": "What happened?",
+      "trans": "What happened? (This phrase is not directly applicable in Chinese, but it can be translated as \"发生了什么？\" or \"发生了什么事？\")",
+      "start": 158.64000000000001,
+      "end": 159.64000000000001
+    },
+    {
+      "text": "Give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 159.64000000000001,
+      "end": 160.64000000000001
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 160.64000000000001,
+      "end": 161.64000000000001
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 161.64000000000001,
+      "end": 162.64000000000001
+    },
+    {
+      "text": "The exits have been sealed.",
+      "trans": "出口已经被封堵。",
+      "start": 162.64000000000001,
+      "end": 164.64000000000001
+    },
+    {
+      "text": "And the doors will remain locked until the local authorities arrive.",
+      "trans": "并且大门将永远锁闭，直到当地当局到来。",
+      "start": 164.64000000000001,
+      "end": 169.32000000000002
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 169.32000000000002,
+      "end": 171.0
+    },
+    {
+      "text": "Have a nice day.",
+      "trans": "祝你一天愉快。",
+      "start": 171.0,
+      "end": 172.0
+    },
+    {
+      "text": "No.",
+      "trans": "是。",
+      "start": 172.0,
+      "end": 173.0
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 174.0,
+      "end": 175.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 175.0,
+      "end": 178.0
+    },
+    {
+      "text": "So it's not his day today.",
+      "trans": "所以今天不是他的日子。",
+      "start": 178.0,
+      "end": 182.24
+    },
+    {
+      "text": "I think he was very unlucky.",
+      "trans": "我认为他很不幸。",
+      "start": 182.24,
+      "end": 184.36
+    },
+    {
+      "text": "And maybe he's going to be in trouble.",
+      "trans": "或许他会出问题。",
+      "start": 184.36,
+      "end": 186.36
+    },
+    {
+      "text": "I know.",
+      "trans": "我知道。 (Wǒ shì xiàng qīng.)",
+      "start": 186.36,
+      "end": 187.36
+    },
+    {
+      "text": "And he was on a date.",
+      "trans": "他正在约会。",
+      "start": 187.36,
+      "end": 188.36
+    },
+    {
+      "text": "This is probably one of the worst things that can happen to a guy when he's on a date.",
+      "trans": "这是可能对他来说最糟糕的事情，当他约会时。",
+      "start": 188.36,
+      "end": 191.36
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 191.36,
+      "end": 192.36
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 192.36,
+      "end": 193.36
+    },
+    {
+      "text": "So, well, we saw some of the language that was related to an ATM money and banking.",
+      "trans": "所以，嗯，我们看到了一些与ATM钱和银行相关的语言。",
+      "start": 193.36,
+      "end": 198.4
+    },
+    {
+      "text": "So why don't we take a look at that now in language takeaway?",
+      "trans": "所以，我们为什么不现在就看看那？",
+      "start": 198.4,
+      "end": 201.88
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 204.0,
+      "end": 206.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 206.0,
+      "end": 207.0
+    },
+    {
+      "text": "So the guy had to insert his card into the slot.",
+      "trans": "所以那个家伙得把卡片插入槽里。",
+      "start": 207.0,
+      "end": 211.12
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 211.12,
+      "end": 212.12
+    },
+    {
+      "text": "So, slot.",
+      "trans": "所以，槽。",
+      "start": 212.12,
+      "end": 213.12
+    },
+    {
+      "text": "Slot.",
+      "trans": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲\"。例如：",
+      "start": 213.12,
+      "end": 214.12
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 214.12,
+      "end": 215.12
+    },
+    {
+      "text": "Slot.",
+      "trans": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲\"。例如：",
+      "start": 215.12,
+      "end": 216.12
+    },
+    {
+      "text": "And that is an opening, right?",
+      "trans": "这句话的中文翻译是：“这是个开端，对吗？”",
+      "start": 216.12,
+      "end": 217.72
+    },
+    {
+      "text": "Or a type of hole, maybe.",
+      "trans": "或者是一种洞，也许。",
+      "start": 217.72,
+      "end": 219.12
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 219.12,
+      "end": 220.12
+    },
+    {
+      "text": "It's a hole that is usually longed.",
+      "trans": "这是一个通常被期望的洞。",
+      "start": 220.12,
+      "end": 221.52
+    },
+    {
+      "text": "Longed.",
+      "trans": "长了。",
+      "start": 221.52,
+      "end": 222.52
+    },
+    {
+      "text": "And it's like a rectangular hole.",
+      "trans": "而且就像一个矩形的洞。",
+      "start": 222.52,
+      "end": 224.36
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 224.36,
+      "end": 225.36
+    },
+    {
+      "text": "It's a slot is never a circle.",
+      "trans": "它是空位永远是圆的。",
+      "start": 225.36,
+      "end": 226.56
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 226.56,
+      "end": 227.56
+    },
+    {
+      "text": "So, for example, when you get mail, the mailman will put it into your mailbox through the",
+      "trans": "所以，例如，当你收到邮件时，邮差会把邮件放入你的邮箱。",
+      "start": 227.56,
+      "end": 231.6
+    },
+    {
+      "text": "slot.",
+      "trans": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲位置\"。例如：",
+      "start": 231.6,
+      "end": 232.6
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 232.6,
+      "end": 233.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 233.6,
+      "end": 234.6
+    },
+    {
+      "text": "And now that he put his card into the slot, he had to input a six digit pin code.",
+      "trans": "现在，他把他的卡片插入了插槽，必须输入一个六位数的密码。",
+      "start": 234.6,
+      "end": 240.84
+    },
+    {
+      "text": "Wanna just do both together?",
+      "trans": "你想同时做这两件事吗？",
+      "start": 240.84,
+      "end": 242.72
+    },
+    {
+      "text": "Digit and pin code?",
+      "trans": "数字和密码？",
+      "start": 242.72,
+      "end": 243.72
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 243.72,
+      "end": 244.72
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 244.72,
+      "end": 245.72
+    },
+    {
+      "text": "So a six digit pin code.",
+      "trans": "所以，六位数字的密码。",
+      "start": 245.72,
+      "end": 246.72
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 246.72,
+      "end": 247.72
+    },
+    {
+      "text": "Now we have two words here that are new.",
+      "trans": "现在我们有两个新词在这里。",
+      "start": 247.72,
+      "end": 249.44
+    },
+    {
+      "text": "Digit.",
+      "trans": "在中文中，\"digit\" 通常翻译为 \"数字\"。如果你需要更具体的解释或使用场景，请告诉我！",
+      "start": 249.44,
+      "end": 250.44
+    },
+    {
+      "text": "Digit is basically a number between zero and nine.",
+      "trans": "数字基本上是一个介于零和九之间的数。",
+      "start": 250.44,
+      "end": 253.68
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 253.68,
+      "end": 254.68
+    },
+    {
+      "text": "So, any number between zero and nine is considered a digit.",
+      "trans": "所以，任何数从零到九都被视为数字。",
+      "start": 254.68,
+      "end": 257.71999999999997
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 257.71999999999997,
+      "end": 258.71999999999997
+    },
+    {
+      "text": "So, 100 is made up of three digits.",
+      "trans": "所以，100是由三个数字组成的。",
+      "start": 258.71999999999997,
+      "end": 261.71999999999997
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 261.72,
+      "end": 262.72
+    },
+    {
+      "text": "And what about pin code?",
+      "trans": "And 什么密码？",
+      "start": 262.72,
+      "end": 265.04
+    },
+    {
+      "text": "A pin code is your secret number that you use to take money out.",
+      "trans": "一个密码是你的秘密号码，你用来取款。",
+      "start": 265.04,
+      "end": 268.96000000000004
+    },
+    {
+      "text": "Now, why wouldn't we say password?",
+      "trans": "现在，为什么我们不能说密码？",
+      "start": 268.96000000000004,
+      "end": 272.0
+    },
+    {
+      "text": "Password is usually letters.",
+      "trans": "密码通常是字母。",
+      "start": 272.0,
+      "end": 273.40000000000003
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 273.40000000000003,
+      "end": 274.40000000000003
+    },
+    {
+      "text": "And pin code is numbers.",
+      "trans": "而且PIN码是数字。",
+      "start": 274.40000000000003,
+      "end": 275.92
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 275.92,
+      "end": 276.92
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，我将这句话翻译成中文：",
+      "start": 276.92,
+      "end": 277.92
+    },
+    {
+      "text": "He had to input his six digit pin code.",
+      "trans": "他必须输入他的六位数字密码。",
+      "start": 277.92,
+      "end": 280.64000000000004
+    },
+    {
+      "text": "And then, after that, he had to press the pound key.",
+      "trans": "然后，他必须按下 pound 键。",
+      "start": 280.64000000000004,
+      "end": 285.12
+    },
+    {
+      "text": "Pound key.",
+      "trans": "英镑关键。",
+      "start": 285.12,
+      "end": 286.12
+    },
+    {
+      "text": "Now, this is strange.",
+      "trans": "现在，这是奇怪的。",
+      "start": 286.12,
+      "end": 287.12
+    },
+    {
+      "text": "A pound key.",
+      "trans": "一个磅键。",
+      "start": 287.12,
+      "end": 288.12
+    },
+    {
+      "text": "What is that?",
+      "trans": "啥？",
+      "start": 288.12,
+      "end": 289.12
+    },
+    {
+      "text": "Well, you know on a phone.",
+      "trans": "嗯，你知道在手机上。",
+      "start": 289.12,
+      "end": 290.12
+    },
+    {
+      "text": "On the bottom right, there's a key or a button that looks like a number sign.",
+      "trans": "在底部右上角有一个看起来像数字符号的键或按钮。",
+      "start": 290.84000000000003,
+      "end": 297.68
+    },
+    {
+      "text": "Number sign.",
+      "trans": "数字符号。",
+      "start": 297.68,
+      "end": 298.68
+    },
+    {
+      "text": "So, kind of like two vertical lines and two horizontal lines.",
+      "trans": "所以，有点像两根垂直线和两条水平线。",
+      "start": 298.68,
+      "end": 301.6
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 301.6,
+      "end": 302.6
+    },
+    {
+      "text": "Two lines going up and down.",
+      "trans": "两条向上的和一条向下的线。",
+      "start": 302.6,
+      "end": 303.6
+    },
+    {
+      "text": "Two lines going across.",
+      "trans": "两条线交叉。",
+      "start": 303.6,
+      "end": 304.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 304.6,
+      "end": 305.6
+    },
+    {
+      "text": "So, that's called the pound key.",
+      "trans": "所以，这就是英镑键。",
+      "start": 305.6,
+      "end": 306.6
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 306.6,
+      "end": 307.6
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 307.6,
+      "end": 308.6
+    },
+    {
+      "text": "What about the other one?",
+      "trans": "你呢？",
+      "start": 308.6,
+      "end": 309.6
+    },
+    {
+      "text": "It's called the star.",
+      "trans": "星是中国的名称。",
+      "start": 309.6,
+      "end": 310.6
+    },
+    {
+      "text": "The star key.",
+      "trans": "星标。",
+      "start": 310.6,
+      "end": 311.6
+    },
+    {
+      "text": "The star key.",
+      "trans": "星标。",
+      "start": 311.6,
+      "end": 312.6
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 312.6,
+      "end": 313.6
+    },
+    {
+      "text": "So, after the pin code, after the pound key, now he's ready to withdraw money.",
+      "trans": "所以，经过密码、英镑键后，现在他准备取款。",
+      "start": 313.6,
+      "end": 318.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 318.0,
+      "end": 319.0
+    },
+    {
+      "text": "He's heard withdrawal.",
+      "trans": "他听说过撤资。",
+      "start": 319.04,
+      "end": 320.8
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 320.8,
+      "end": 321.8
+    },
+    {
+      "text": "So, withdrawal is a noun.",
+      "trans": "所以，撤回是名词。",
+      "start": 321.8,
+      "end": 324.0
+    },
+    {
+      "text": "It's the action of taking money out.",
+      "trans": "是取钱的行为。",
+      "start": 324.0,
+      "end": 326.4
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 326.4,
+      "end": 327.4
+    },
+    {
+      "text": "A withdrawal.",
+      "trans": "一笔提款。",
+      "start": 327.4,
+      "end": 328.4
+    },
+    {
+      "text": "A withdrawal.",
+      "trans": "一笔提款。",
+      "start": 328.4,
+      "end": 329.4
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 329.4,
+      "end": 330.4
+    },
+    {
+      "text": "And two withdrawal.",
+      "trans": "和两个退汇。",
+      "start": 330.4,
+      "end": 331.4
+    },
+    {
+      "text": "Two withdrawal is just the verb to take out money, right?",
+      "trans": "是的，两个取款只是将钱从银行取出，对吗？",
+      "start": 331.4,
+      "end": 334.8
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 334.8,
+      "end": 335.8
+    },
+    {
+      "text": "So, we have the noun and the verb.",
+      "trans": "所以，我们有名词和动词。",
+      "start": 335.8,
+      "end": 336.96
+    },
+    {
+      "text": "The only difference is an L at the end.",
+      "trans": "这个唯一的区别是“L”在结尾。",
+      "start": 336.96,
+      "end": 338.64
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 338.64,
+      "end": 339.64
+    },
+    {
+      "text": "So, withdrawal, noun, and withdraw verb.",
+      "trans": "所以，提款、名词和动词。",
+      "start": 339.64,
+      "end": 342.4
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 342.4,
+      "end": 343.4
+    },
+    {
+      "text": "And, well, he wanted to withdraw money, but something happened with the ATM and it turned",
+      "trans": "而且，他想要取款，但ATM出了问题。",
+      "start": 343.4,
+      "end": 348.64
+    },
+    {
+      "text": "out that he was going to transfer money.",
+      "trans": "这句话的中文翻译是：",
+      "start": 348.64,
+      "end": 351.44
+    },
+    {
+      "text": "Uh-oh.",
+      "trans": "对不起。",
+      "start": 351.44,
+      "end": 352.44
+    },
+    {
+      "text": "So, transfer.",
+      "trans": "所以，转移。",
+      "start": 352.44,
+      "end": 354.03999999999996
+    },
+    {
+      "text": "Transfer.",
+      "trans": "转移。",
+      "start": 354.03999999999996,
+      "end": 355.03999999999996
+    },
+    {
+      "text": "Transfer.",
+      "trans": "转移。",
+      "start": 355.03999999999996,
+      "end": 356.03999999999996
+    },
+    {
+      "text": "When you transfer money, you take it from one place and put it in another.",
+      "trans": "当你将钱从一个地方转移到另一个地方时，你把钱从一个地点拿走并放入另一个地点。",
+      "start": 356.03999999999996,
+      "end": 360.24
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 360.24,
+      "end": 361.24
+    },
+    {
+      "text": "And, usually, in banking, when you transfer money, you don't really see it, right?",
+      "trans": "而且，在银行业务中，当你将钱转出时，你并不真正看到它，对吗？",
+      "start": 361.24,
+      "end": 364.84
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 364.84,
+      "end": 365.84
+    },
+    {
+      "text": "It's all electronic, so you just put it from one bank account to another, but you never",
+      "trans": "它全是电子的，所以你只需要将钱从一个银行账户转移到另一个银行账户，但你永远不会忘记。",
+      "start": 365.84,
+      "end": 369.91999999999996
+    },
+    {
+      "text": "actually see this money.",
+      "trans": "实际上看到这个钱。",
+      "start": 369.91999999999996,
+      "end": 371.24
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 371.24,
+      "end": 372.24
+    },
+    {
+      "text": "So, transfer money.",
+      "trans": "所以，转账。",
+      "start": 372.24,
+      "end": 373.24
+    },
+    {
+      "text": "Transfer.",
+      "trans": "转移。",
+      "start": 373.24,
+      "end": 374.24
+    },
+    {
+      "text": "And now, this one also has a verb and a noun, right?",
+      "trans": "现在，这个也同时具备动词和名词，对吗？",
+      "start": 374.24,
+      "end": 376.44
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的中文翻译：",
+      "start": 376.44,
+      "end": 377.44
+    },
+    {
+      "text": "A transfer.",
+      "trans": "一个转移。",
+      "start": 377.44,
+      "end": 378.44
+    },
+    {
+      "text": "Same word.",
+      "trans": "同义词。",
+      "start": 378.44,
+      "end": 379.44
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 379.44,
+      "end": 380.44
+    },
+    {
+      "text": "Easy.",
+      "trans": "易。 (Yi.)",
+      "start": 380.44,
+      "end": 381.44
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 381.44,
+      "end": 382.44
+    },
+    {
+      "text": "So, why don't we listen to our dialogue?",
+      "trans": "所以，我们为什么不倾听我们的对话？",
+      "start": 382.44,
+      "end": 383.84
+    },
+    {
+      "text": "For the second time, it's going to be slowed down a little bit and then we'll come back",
+      "trans": "第二次，将会稍微减慢一点，然后我们再回来。",
+      "start": 383.84,
+      "end": 388.2
+    },
+    {
+      "text": "and look at some phrases.",
+      "trans": "并且看看一些短语。",
+      "start": 388.2,
+      "end": 392.04
+    },
+    {
+      "text": "Stupid girl making me spend so much money.",
+      "trans": "愚蠢的女孩让我花那么多钱。",
+      "start": 392.04,
+      "end": 400.44
+    },
+    {
+      "text": "Now I have to get it from the ATM.",
+      "trans": "现在我必须从ATM取款。",
+      "start": 400.44,
+      "end": 402.44
+    },
+    {
+      "text": "Hello.",
+      "trans": "你好。",
+      "start": 402.44,
+      "end": 403.44
+    },
+    {
+      "text": "Welcome to Universal Bank.",
+      "trans": "欢迎来到 universal银行。",
+      "start": 403.44,
+      "end": 405.8
+    },
+    {
+      "text": "Please insert your card into the slot.",
+      "trans": "请将卡片插入插槽。",
+      "start": 405.8,
+      "end": 408.0
+    },
+    {
+      "text": "I know what I put in my card.",
+      "trans": "我知道我放入卡片中的东西。",
+      "start": 408.0,
+      "end": 409.6
+    },
+    {
+      "text": "Stupid machine talking to me like I'm an idiot.",
+      "trans": "愚蠢的机器和我说话像我是个傻瓜。",
+      "start": 409.6,
+      "end": 411.92
+    },
+    {
+      "text": "Please input your six-digit, pink code, followed by the pound key.",
+      "trans": "请输入您的六位数字，粉色代码和星号键。",
+      "start": 411.92,
+      "end": 416.24
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 416.24,
+      "end": 417.24
+    },
+    {
+      "text": "Please select an option.",
+      "trans": "请选一个选项。",
+      "start": 417.24,
+      "end": 419.08
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 419.08,
+      "end": 420.36
+    },
+    {
+      "text": "You have selected withdrawal.",
+      "trans": "您选择提前支取。",
+      "start": 420.36,
+      "end": 421.96
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 421.96,
+      "end": 422.96
+    },
+    {
+      "text": "I know what I selected.",
+      "trans": "我知道我选的。",
+      "start": 422.96,
+      "end": 423.96
+    },
+    {
+      "text": "Just give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 423.96,
+      "end": 425.96
+    },
+    {
+      "text": "Please type the amount you would like to withdraw.",
+      "trans": "请告诉我您想要取款的金额。",
+      "start": 425.96,
+      "end": 429.6
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 429.6,
+      "end": 430.6
+    },
+    {
+      "text": "You want to transfer.",
+      "trans": "您想转移。",
+      "start": 430.6,
+      "end": 432.4
+    },
+    {
+      "text": "Ten thousand US dollars.",
+      "trans": "十万元人民币。",
+      "start": 432.4,
+      "end": 434.44
+    },
+    {
+      "text": "Two.",
+      "trans": "两。",
+      "start": 434.44,
+      "end": 435.44
+    },
+    {
+      "text": "The World Wildlife Foundation.",
+      "trans": "世界自然基金会。",
+      "start": 435.44,
+      "end": 438.12
+    },
+    {
+      "text": "If this is correct, please press one.",
+      "trans": "如果这是正确的，那么请按一下。",
+      "start": 438.12,
+      "end": 440.12
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 440.12,
+      "end": 441.12
+    },
+    {
+      "text": "No.",
+      "trans": "是。",
+      "start": 441.12,
+      "end": 442.12
+    },
+    {
+      "text": "Stupid machine.",
+      "trans": "愚蠢的机器。",
+      "start": 442.12,
+      "end": 443.12
+    },
+    {
+      "text": "What are you doing?",
+      "trans": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”",
+      "start": 443.12,
+      "end": 444.12
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 444.12,
+      "end": 445.12
+    },
+    {
+      "text": "Confirmed.",
+      "trans": "确认。",
+      "start": 445.12,
+      "end": 446.12
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 446.12,
+      "end": 447.12
+    },
+    {
+      "text": "Please remove your card from the slot.",
+      "trans": "请从卡槽中取下卡片。",
+      "start": 447.12,
+      "end": 448.92
+    },
+    {
+      "text": "Goodbye.",
+      "trans": "再见。",
+      "start": 448.92,
+      "end": 449.92
+    },
+    {
+      "text": "No way.",
+      "trans": "不能。",
+      "start": 449.92,
+      "end": 450.92
+    },
+    {
+      "text": "What happened?",
+      "trans": "发生了什么？",
+      "start": 450.92,
+      "end": 451.92
+    },
+    {
+      "text": "Give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 451.92,
+      "end": 452.92
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 452.92,
+      "end": 453.92
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 453.92,
+      "end": 454.92
+    },
+    {
+      "text": "The exits have been sealed and the doors will remain locked until the local authorities",
+      "trans": "出口已被封堵，门将保持关闭状态直到当地当局。",
+      "start": 454.92,
+      "end": 459.92
+    },
+    {
+      "text": "arrive.",
+      "trans": "到达。",
+      "start": 459.92,
+      "end": 460.92
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 460.92,
+      "end": 462.64
+    },
+    {
+      "text": "Have a nice day.",
+      "trans": "祝你一天愉快。",
+      "start": 462.64,
+      "end": 463.64
+    },
+    {
+      "text": "No!",
+      "trans": "对不起！",
+      "start": 463.64,
+      "end": 466.12
+    },
+    {
+      "text": "OK, so that was a little easier to understand.",
+      "trans": "好的，那么这算是比较容易理解的了。",
+      "start": 466.12,
+      "end": 474.52
+    },
+    {
+      "text": "But Marco, there's some interesting phrases here, some instructions that you commonly",
+      "trans": "但马科，这里有一些有趣的话，一些你经常使用的指令。",
+      "start": 474.52,
+      "end": 479.47999999999996
+    },
+    {
+      "text": "read or hear when you're using a bank machine.",
+      "trans": "当您在银行机上使用时，可以阅读或听到。",
+      "start": 479.47999999999996,
+      "end": 482.44
+    },
+    {
+      "text": "So why don't we take a look at these phrases in Fluency Builder?",
+      "trans": "所以为什么不来看看这些短语在 Fluent Builder 中？",
+      "start": 482.44,
+      "end": 486.96
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 486.96,
+      "end": 488.76
+    },
+    {
+      "text": "Well the bank machine told this guy to insert your card.",
+      "trans": "银行机器告诉这个人把你的卡插入。",
+      "start": 488.76,
+      "end": 494.2
+    },
+    {
+      "text": "Insert your card.",
+      "trans": "插入你的卡。",
+      "start": 494.2,
+      "end": 495.59999999999997
+    },
+    {
+      "text": "Insert your card.",
+      "trans": "插入你的卡。",
+      "start": 495.59999999999997,
+      "end": 496.68
+    },
+    {
+      "text": "So this verb to insert.",
+      "trans": "所以这个动词是插入。",
+      "start": 496.68,
+      "end": 499.2
+    },
+    {
+      "text": "To place inside.",
+      "trans": "将...放入。",
+      "start": 499.2,
+      "end": 500.56
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 500.56,
+      "end": 501.56
+    },
+    {
+      "text": "So what else can we insert?",
+      "trans": "所以还有什么可以插入呢？",
+      "start": 501.56,
+      "end": 502.88
+    },
+    {
+      "text": "Well, for example, commonly you insert a disk.",
+      "trans": "好的，例如，您通常会插入一个盘。",
+      "start": 502.88,
+      "end": 506.48
+    },
+    {
+      "text": "Yeah, in your computer.",
+      "trans": "是的，在你的电脑上。",
+      "start": 506.48,
+      "end": 507.59999999999997
+    },
+    {
+      "text": "In your computer, right?",
+      "trans": "在你的电脑上，右键？",
+      "start": 507.59999999999997,
+      "end": 509.12
+    },
+    {
+      "text": "Or maybe insert a CD into your CD player.",
+      "trans": "或者插入CD到你的CD播放器中。",
+      "start": 509.12,
+      "end": 513.48
+    },
+    {
+      "text": "Or DVD into your DVD player.",
+      "trans": "将光盘转换为您的DVD播放器。",
+      "start": 513.48,
+      "end": 515.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 515.28,
+      "end": 516.28
+    },
+    {
+      "text": "To insert something to put inside.",
+      "trans": "将要插入的东西放入。",
+      "start": 516.28,
+      "end": 518.68
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 518.68,
+      "end": 519.68
+    },
+    {
+      "text": "So he had to insert his card into the slot.",
+      "trans": "所以，他必须将卡片插入插槽。",
+      "start": 519.68,
+      "end": 523.8
+    },
+    {
+      "text": "And then the bank machine asked him to select an option.",
+      "trans": "然后银行机器要求他选择一个选项。",
+      "start": 523.8,
+      "end": 529.24
+    },
+    {
+      "text": "Select an option.",
+      "trans": "选择一个选项。",
+      "start": 529.24,
+      "end": 530.4
+    },
+    {
+      "text": "Select an option.",
+      "trans": "选择一个选项。",
+      "start": 530.4,
+      "end": 531.4
+    },
+    {
+      "text": "Now this is a very common phrase that you will not only see in ATMs, but basically everywhere,",
+      "trans": "现在，这是一个非常常见的表达，在ATM机上使用时你也会经常看到，甚至在任何地方。",
+      "start": 531.4,
+      "end": 537.1999999999999
+    },
+    {
+      "text": "right?",
+      "trans": "是的。",
+      "start": 537.1999999999999,
+      "end": 538.1999999999999
+    },
+    {
+      "text": "Like computers or the internet or many things where you're dealing with machines.",
+      "trans": "像计算机、互联网或许多事物，你正在处理的机器。",
+      "start": 538.1999999999999,
+      "end": 542.88
+    },
+    {
+      "text": "So it's an order that says, well, select one of these choices that you have.",
+      "trans": "所以，这是命令，嗯，选择其中的一个选项。",
+      "start": 542.88,
+      "end": 547.84
+    },
+    {
+      "text": "Make a choice.",
+      "trans": "选择。",
+      "start": 547.84,
+      "end": 548.84
+    },
+    {
+      "text": "Make a choice.",
+      "trans": "选择。",
+      "start": 548.84,
+      "end": 549.84
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 549.84,
+      "end": 550.84
+    },
+    {
+      "text": "Select an option.",
+      "trans": "选择一个选项。",
+      "start": 550.84,
+      "end": 551.84
+    },
+    {
+      "text": "Alright, so two simple phrases, but very useful and also very high frequency, right?",
+      "trans": "好的，所以两个简单的短语，但非常有用且频率极高，对吗？",
+      "start": 551.84,
+      "end": 556.64
+    },
+    {
+      "text": "Yeah, and you know what?",
+      "trans": "是的，你知道吗？",
+      "start": 556.64,
+      "end": 557.64
+    },
+    {
+      "text": "When you use phrases like these two, it sounds quite professional, doesn't it?",
+      "trans": "当你使用这些短语，听起来确实很正式，对吧？",
+      "start": 557.64,
+      "end": 561.64
+    },
+    {
+      "text": "Yeah, a little bit formal.",
+      "trans": "是的，有一点正式。",
+      "start": 561.64,
+      "end": 563.32
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 563.32,
+      "end": 564.32
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 564.32,
+      "end": 565.32
+    },
+    {
+      "text": "So why don't we listen to our dialogue for the last time and then we'll come back and",
+      "trans": "所以为什么我们不要再倾听我们的对话，然后我们再来一次？",
+      "start": 565.32,
+      "end": 567.4
+    },
+    {
+      "text": "talk a little bit more.",
+      "trans": "聊点事。",
+      "start": 567.4,
+      "end": 568.24
+    },
+    {
+      "text": "Stupid girl making me spend so much money.",
+      "trans": "愚蠢的女孩让我花那么多钱。",
+      "start": 572.88,
+      "end": 582.96
+    },
+    {
+      "text": "Now I have to get it from the ATM.",
+      "trans": "现在我必须从ATM取款。",
+      "start": 582.96,
+      "end": 584.96
+    },
+    {
+      "text": "Hello.",
+      "trans": "你好。",
+      "start": 584.96,
+      "end": 585.96
+    },
+    {
+      "text": "Welcome to Universal Bank.",
+      "trans": "欢迎来到 universal银行。",
+      "start": 585.96,
+      "end": 588.2
+    },
+    {
+      "text": "Please insert your card into the slot.",
+      "trans": "请将卡片插入插槽。",
+      "start": 588.2,
+      "end": 590.2
+    },
+    {
+      "text": "I know what I put my card.",
+      "trans": "我知道我放卡的是什么。",
+      "start": 590.2,
+      "end": 592.0
+    },
+    {
+      "text": "Stupid machine talking to me like I'm an idiot.",
+      "trans": "愚蠢的机器和我说话像我是个傻瓜。",
+      "start": 592.0,
+      "end": 594.2
+    },
+    {
+      "text": "Please input your six digit pink code followed by the pound key.",
+      "trans": "请输入您的六位粉红色代码，然后按下美元符号。",
+      "start": 594.2,
+      "end": 598.52
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 598.52,
+      "end": 599.52
+    },
+    {
+      "text": "Please select an option.",
+      "trans": "请选择一个选项。",
+      "start": 599.52,
+      "end": 601.24
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 601.24,
+      "end": 602.24
+    },
+    {
+      "text": "You have selected withdrawal.",
+      "trans": "您选择提前支取。",
+      "start": 602.24,
+      "end": 603.6800000000001
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 603.6800000000001,
+      "end": 604.6800000000001
+    },
+    {
+      "text": "I know what I selected.",
+      "trans": "我知道我选的。",
+      "start": 604.6800000000001,
+      "end": 606.2
+    },
+    {
+      "text": "Just give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 606.2,
+      "end": 607.76
+    },
+    {
+      "text": "Please type the amount you would like to withdraw.",
+      "trans": "请告诉我您想要取款的金额。",
+      "start": 607.76,
+      "end": 613.44
+    },
+    {
+      "text": "Thank you.",
+      "trans": "谢谢。",
+      "start": 613.44,
+      "end": 614.44
+    },
+    {
+      "text": "You want to transfer.",
+      "trans": "您想转移。",
+      "start": 614.44,
+      "end": 616.16
+    },
+    {
+      "text": "Ten thousand US dollars.",
+      "trans": "十万元人民币。",
+      "start": 616.16,
+      "end": 618.04
+    },
+    {
+      "text": "Two.",
+      "trans": "两。",
+      "start": 618.04,
+      "end": 619.04
+    },
+    {
+      "text": "The World Wildlife Foundation.",
+      "trans": "世界自然基金会。",
+      "start": 619.04,
+      "end": 621.24
+    },
+    {
+      "text": "If this is correct, please press one.",
+      "trans": "如果这是正确的，那么请按一下。",
+      "start": 621.24,
+      "end": 623.04
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 623.04,
+      "end": 624.04
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 624.04,
+      "end": 625.04
+    },
+    {
+      "text": "Stupid machine.",
+      "trans": "愚蠢的机器。",
+      "start": 625.04,
+      "end": 626.04
+    },
+    {
+      "text": "What are you doing?",
+      "trans": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”",
+      "start": 626.04,
+      "end": 627.04
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 627.04,
+      "end": 628.04
+    },
+    {
+      "text": "Confirmed.",
+      "trans": "确认。",
+      "start": 628.04,
+      "end": 629.04
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 629.04,
+      "end": 630.04
+    },
+    {
+      "text": "Please remove your card from the slot.",
+      "trans": "请从卡槽中取下卡片。",
+      "start": 630.04,
+      "end": 631.5600000000001
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 631.56,
+      "end": 632.56
+    },
+    {
+      "text": "No way.",
+      "trans": "不能。",
+      "start": 632.56,
+      "end": 633.56
+    },
+    {
+      "text": "What happened?",
+      "trans": "发生了什么？",
+      "start": 633.56,
+      "end": 634.56
+    },
+    {
+      "text": "Give me my money.",
+      "trans": "请给我我的钱。",
+      "start": 634.56,
+      "end": 635.56
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 635.56,
+      "end": 636.56
+    },
+    {
+      "text": "Danger.",
+      "trans": "危险。",
+      "start": 636.56,
+      "end": 637.56
+    },
+    {
+      "text": "The exits have been sealed.",
+      "trans": "出口已经被封堵。",
+      "start": 637.56,
+      "end": 639.56
+    },
+    {
+      "text": "And the doors will remain locked until the local authorities arrive.",
+      "trans": "和大门将永远锁闭，直到当地当局到来。",
+      "start": 639.56,
+      "end": 643.76
+    },
+    {
+      "text": "Thank you for using our bank.",
+      "trans": "非常感谢使用我们的银行。",
+      "start": 643.76,
+      "end": 645.4
+    },
+    {
+      "text": "Have a nice day.",
+      "trans": "祝你一天愉快。",
+      "start": 645.4,
+      "end": 646.4
+    },
+    {
+      "text": "No.",
+      "trans": "是。",
+      "start": 646.4,
+      "end": 647.4
+    },
+    {
+      "text": "All right, Erica.",
+      "trans": "好的，艾瑞卡。",
+      "start": 647.4,
+      "end": 648.4
+    },
+    {
+      "text": "So what about you?",
+      "trans": "你好吗？",
+      "start": 648.4,
+      "end": 649.4
+    },
+    {
+      "text": "Have you ever had any problems with the ATM?",
+      "trans": "是的，我曾经遇到过ATM问题。",
+      "start": 649.4,
+      "end": 657.4
+    },
+    {
+      "text": "I've had more problems than I can count.",
+      "trans": "我经历过更多的问题，比我能数清还要多。",
+      "start": 657.4,
+      "end": 660.8399999999999
+    },
+    {
+      "text": "What have been?",
+      "trans": "What have been? 翻译成中文是： \"什么已经发生？",
+      "start": 660.84,
+      "end": 661.84
+    },
+    {
+      "text": "Well, I think in the last two years, I've probably lost about seven bank cards in an ATM.",
+      "trans": "嗯，我认为在过去的两年里，我大概已经丢失了大约七张ATM卡。",
+      "start": 661.84,
+      "end": 666.5600000000001
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 666.5600000000001,
+      "end": 667.5600000000001
+    },
+    {
+      "text": "You forget it?",
+      "trans": "你忘了这个吗？",
+      "start": 667.5600000000001,
+      "end": 668.5600000000001
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 668.5600000000001,
+      "end": 669.5600000000001
+    },
+    {
+      "text": "In the slot.",
+      "trans": "在槽。",
+      "start": 669.5600000000001,
+      "end": 670.5600000000001
+    },
+    {
+      "text": "I leave it in the slot and then walk away from the bank machine and no bank cards.",
+      "trans": "我留在机位上，然后离开银行机器，没有银行卡。",
+      "start": 670.5600000000001,
+      "end": 674.8000000000001
+    },
+    {
+      "text": "Well, I think now the ATM's because this is a common problem.",
+      "trans": "嗯，我认为现在ATM 是因为这个是常见的问题。",
+      "start": 674.8000000000001,
+      "end": 678.96
+    },
+    {
+      "text": "Now they have like a little alarm that when you take out your money and everything, it just",
+      "trans": "现在，它们就像一个小闹钟，当你取出你的钱和所有的东西时，它就会发出“嘀嗒”的声音。",
+      "start": 678.96,
+      "end": 684.0
+    },
+    {
+      "text": "starts beeping and beeping until you take out your card.",
+      "trans": "开始发出声音并持续发出声音，直到你取出卡片。",
+      "start": 684.0,
+      "end": 686.5600000000001
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 686.5600000000001,
+      "end": 687.5600000000001
+    },
+    {
+      "text": "I have a bank machine that actually give you your card first and then give you your",
+      "trans": "我有一个银行机器，它实际上先给你卡，然后给你钱。",
+      "start": 687.56,
+      "end": 691.3199999999999
+    },
+    {
+      "text": "money.",
+      "trans": "钱。",
+      "start": 691.3199999999999,
+      "end": 692.3199999999999
+    },
+    {
+      "text": "Because if they give me my money first, that's all I want, right?",
+      "trans": "因为如果他们先给我钱，那我就够了。",
+      "start": 692.3199999999999,
+      "end": 694.64
+    },
+    {
+      "text": "So I run away with my money and leave my card in the bank machine.",
+      "trans": "所以，我逃到银行里，把我的信用卡留在机器上。",
+      "start": 694.64,
+      "end": 697.56
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 697.56,
+      "end": 698.56
+    },
+    {
+      "text": "I think that's a good idea.",
+      "trans": "我认为这是一个好主意。",
+      "start": 698.56,
+      "end": 699.56
+    },
+    {
+      "text": "I've never seen it before though.",
+      "trans": "我以前从未见过它。",
+      "start": 699.56,
+      "end": 701.28
+    },
+    {
+      "text": "It's what's the length they have to like that.",
+      "trans": "它就是他们喜欢的长度。",
+      "start": 701.28,
+      "end": 703.1199999999999
+    },
+    {
+      "text": "So what's the length?",
+      "trans": "所以，长度是什么？",
+      "start": 703.1199999999999,
+      "end": 704.1199999999999
+    },
+    {
+      "text": "Or what about the ATM's that you only have to swipe your card?",
+      "trans": "或者，你只需要用信用卡来转账。",
+      "start": 704.1199999999999,
+      "end": 706.9599999999999
+    },
+    {
+      "text": "Oh, yeah.",
+      "trans": "哦，对了。",
+      "start": 706.9599999999999,
+      "end": 707.9599999999999
+    },
+    {
+      "text": "I've done that as well and also ruined a bank card with that.",
+      "trans": "我也是这样做的，还损坏了那个银行卡。",
+      "start": 707.9599999999999,
+      "end": 711.04
+    },
+    {
+      "text": "I've swiped it too many times, put in the wrong pin code and it blocks your card.",
+      "trans": "我刷了太多次，输入的密码不对，导致我的卡被封号。",
+      "start": 711.04,
+      "end": 714.88
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 714.88,
+      "end": 715.88
+    },
+    {
+      "text": "Terrible.",
+      "trans": "糟糕。",
+      "start": 715.88,
+      "end": 716.88
+    },
+    {
+      "text": "I'm sure everyone has some experience or some inconvenience with ATM machines.",
+      "trans": "我保证每个人都有在ATM机上遇到过或遇到了一些不便。",
+      "start": 716.88,
+      "end": 723.12
+    },
+    {
+      "text": "So why don't you come to our website and tell us all about it.",
+      "trans": "所以，你为什么不来我们的网站，让我们一起来谈论它。",
+      "start": 723.12,
+      "end": 725.8
+    },
+    {
+      "text": "You can also find lots more resources on our website to help you learn English.",
+      "trans": "您还可以在我们的网站上找到更多资源来帮助您学习英语。",
+      "start": 725.8,
+      "end": 731.08
+    },
+    {
+      "text": "So check it out and until next time, goodbye.",
+      "trans": "所以，请看看它，直到下次见，再见。",
+      "start": 731.08,
+      "end": 734.16
+    }
+  ]
+}

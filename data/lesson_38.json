@@ -1,0 +1,1884 @@
+{
+  "title": "englishpod_C0038pb",
+  "audio": "./assets/englishpod_C0038pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+      "trans": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。",
+      "start": 0.0,
+      "end": 5.32
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 5.32,
+      "end": 6.32
+    },
+    {
+      "text": "And today we're bringing you another great lesson for all of you who are interested in shopping.",
+      "trans": "今天我们将向您展示一个值得学习的购物技巧。",
+      "start": 6.32,
+      "end": 10.72
+    },
+    {
+      "text": "Especially those of you who are interested in shopping for a car.",
+      "trans": "特别那些对汽车感兴趣的人。",
+      "start": 10.72,
+      "end": 14.4
+    },
+    {
+      "text": "A car, exactly.",
+      "trans": "一辆车，正好。",
+      "start": 14.4,
+      "end": 16.12
+    },
+    {
+      "text": "So we're going to give you some great language about describing a car or characteristics of",
+      "trans": "英语：所以我们将给你一些关于描述一辆车或汽车特性的很棒的语言。",
+      "start": 16.12,
+      "end": 19.68
+    },
+    {
+      "text": "a car.",
+      "trans": "汽车。",
+      "start": 19.68,
+      "end": 21.0
+    },
+    {
+      "text": "And also some really interesting language for shopping.",
+      "trans": "还有些有趣的语言用于购物。",
+      "start": 21.0,
+      "end": 24.44
+    },
+    {
+      "text": "Yes, especially buying something really big and extensive.",
+      "trans": "是的，尤其是买一个非常大的和广泛的物品。",
+      "start": 24.44,
+      "end": 27.560000000000002
+    },
+    {
+      "text": "Yeah, like a car.",
+      "trans": "是的，像一辆车。",
+      "start": 27.560000000000002,
+      "end": 29.0
+    },
+    {
+      "text": "So before we listen to our dialogue, let's take a look at vocabulary preview.",
+      "trans": "英语：所以，让我们先看看词汇预览。",
+      "start": 29.16,
+      "end": 32.8
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 32.8,
+      "end": 35.16
+    },
+    {
+      "text": "On vocabulary preview today, we're bringing you two words.",
+      "trans": "今天词汇预览，我们将为您带来两个词。",
+      "start": 35.16,
+      "end": 38.84
+    },
+    {
+      "text": "The first one is vehicle.",
+      "trans": "第一个是汽车。",
+      "start": 38.84,
+      "end": 40.76
+    },
+    {
+      "text": "Vehicle.",
+      "trans": "车辆。",
+      "start": 40.76,
+      "end": 42.0
+    },
+    {
+      "text": "Vehicle.",
+      "trans": "车辆。",
+      "start": 42.0,
+      "end": 43.0
+    },
+    {
+      "text": "Vehicle.",
+      "trans": "车辆。",
+      "start": 43.0,
+      "end": 44.0
+    },
+    {
+      "text": "So again, a vehicle is a machine, right?",
+      "trans": "英语：所以，一辆车是机器吗？",
+      "start": 44.0,
+      "end": 47.64
+    },
+    {
+      "text": "Right, a machine that carries people from one place to another.",
+      "trans": "正确翻译：正确的机器将人们从一个地方带到另一个地方。",
+      "start": 47.64,
+      "end": 51.64
+    },
+    {
+      "text": "So it's important to say that a vehicle could be an airplane, a car, a boat, a boat, even",
+      "trans": "所以，说一辆车可以是飞机、汽车、船，甚至直升机。",
+      "start": 51.64,
+      "end": 58.08
+    },
+    {
+      "text": "a bicycle.",
+      "trans": "自行车。",
+      "start": 58.08,
+      "end": 59.08
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”的翻译：",
+      "start": 59.08,
+      "end": 60.08
+    },
+    {
+      "text": "That's a vehicle.",
+      "trans": "That's一辆车。",
+      "start": 60.08,
+      "end": 61.44
+    },
+    {
+      "text": "Our second word is sedan.",
+      "trans": "我们的第二个词是轿车。",
+      "start": 61.44,
+      "end": 63.68
+    },
+    {
+      "text": "Sedan.",
+      "trans": "汽车。",
+      "start": 63.68,
+      "end": 64.67999999999999
+    },
+    {
+      "text": "Sedan.",
+      "trans": "在中文中，\"sedan\" 翻译为 \"桑塔纳\"。",
+      "start": 64.67999999999999,
+      "end": 65.67999999999999
+    },
+    {
+      "text": "Sedan.",
+      "trans": "轿车。",
+      "start": 65.67999999999999,
+      "end": 66.67999999999999
+    },
+    {
+      "text": "So a sedan is a type of car.",
+      "trans": "所以，一辆轿车是一种车。",
+      "start": 66.67999999999999,
+      "end": 69.88
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 69.88,
+      "end": 70.88
+    },
+    {
+      "text": "It's a type of car with four doors that can fit five people inside.",
+      "trans": "它是一种四门的可以容纳五个人的汽车。",
+      "start": 70.88,
+      "end": 75.24
+    },
+    {
+      "text": "So to make it more clear, most taxis are sedans.",
+      "trans": "所以，为了更加清晰，大多数出租车都是轿车。",
+      "start": 75.24,
+      "end": 79.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 79.0,
+      "end": 80.0
+    },
+    {
+      "text": "Right?",
+      "trans": "是的。",
+      "start": 80.0,
+      "end": 81.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 81.0,
+      "end": 82.0
+    },
+    {
+      "text": "They have four doors.",
+      "trans": "他们有四个门。",
+      "start": 82.0,
+      "end": 83.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 83.0,
+      "end": 84.0
+    },
+    {
+      "text": "Five people can fit in there, including the driver.",
+      "trans": "五个人可以并排坐在那里，包括司机。",
+      "start": 84.0,
+      "end": 85.0
+    },
+    {
+      "text": "Except taxis in Mexico.",
+      "trans": "以下是根据提供的术语和规则进行的翻译：",
+      "start": 85.0,
+      "end": 86.0
+    },
+    {
+      "text": "They're not sedans.",
+      "trans": "他们不是轿车。",
+      "start": 86.0,
+      "end": 87.0
+    },
+    {
+      "text": "They're little beetles.",
+      "trans": "他们是一些小虫子。",
+      "start": 87.0,
+      "end": 88.0
+    },
+    {
+      "text": "They're focused on decals.",
+      "trans": "他们专注于涂装。",
+      "start": 88.0,
+      "end": 89.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 89.0,
+      "end": 90.0
+    },
+    {
+      "text": "So those are not sedans.",
+      "trans": "所以这些不是轿车。",
+      "start": 90.0,
+      "end": 91.32
+    },
+    {
+      "text": "But yeah, most countries have sedans as taxis.",
+      "trans": "但是，大多数国家都拥有电动汽车作为出租车。",
+      "start": 91.32,
+      "end": 94.12
+    },
+    {
+      "text": "To give you some examples, like the Toyota Corolla or the Toyota Camry is a sedan.",
+      "trans": "英语：为了给你一些例子，比如丰田卡罗拉或丰田雅力士，这是一款轿车。",
+      "start": 94.12,
+      "end": 98.32
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 98.32,
+      "end": 99.32
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 99.32,
+      "end": 100.32
+    },
+    {
+      "text": "Maybe like a Volkswagen Jetta.",
+      "trans": "英语：也许像一辆捷达车。",
+      "start": 100.32,
+      "end": 101.32
+    },
+    {
+      "text": "Is that it?",
+      "trans": "是的。",
+      "start": 101.32,
+      "end": 102.32
+    },
+    {
+      "text": "A Jetta, yeah.",
+      "trans": "英文：Jetta, yeah.",
+      "start": 102.32,
+      "end": 103.32
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 103.32,
+      "end": 104.32
+    },
+    {
+      "text": "A Jetta is a sedan.",
+      "trans": "英文：A Jetta is a sedan.",
+      "start": 104.32,
+      "end": 105.32
+    },
+    {
+      "text": "Now we can listen to our dialogue and it's going to be at a normal speed the first time,",
+      "trans": "现在我们可以听取我们的对话，预计会以正常速度开始。",
+      "start": 105.32,
+      "end": 107.32
+    },
+    {
+      "text": "but you don't have to worry about it.",
+      "trans": "但是你不需要担心它。",
+      "start": 107.32,
+      "end": 108.88
+    },
+    {
+      "text": "We'll come back and teach you some of the important words from the dialogue.",
+      "trans": "我们将会回来，教您一些对话中的重要词汇。",
+      "start": 108.88,
+      "end": 112.28
+    },
+    {
+      "text": "Hi there.",
+      "trans": "你好，大家。",
+      "start": 119.0,
+      "end": 120.0
+    },
+    {
+      "text": "Can I help you, folks?",
+      "trans": "英语：能帮我吗，朋友们？",
+      "start": 120.0,
+      "end": 124.4
+    },
+    {
+      "text": "I'm just browsing, seeing what's on the lot.",
+      "trans": "我正浏览，看看这个货。",
+      "start": 124.4,
+      "end": 127.4
+    },
+    {
+      "text": "My daughter wants a car for her birthday.",
+      "trans": "我的女儿想给她生日买辆汽车。",
+      "start": 127.4,
+      "end": 129.12
+    },
+    {
+      "text": "You know how it is.",
+      "trans": "英语：你知道吗？",
+      "start": 129.12,
+      "end": 130.12
+    },
+    {
+      "text": "Dad, I'm 16 already.",
+      "trans": "爸爸，我现在16岁了。",
+      "start": 130.12,
+      "end": 132.32
+    },
+    {
+      "text": "And I'm like the only one at school who doesn't have a car.",
+      "trans": "我就像学校里唯一一个没有车的一个人。",
+      "start": 132.32,
+      "end": 136.36
+    },
+    {
+      "text": "She's right, you know.",
+      "trans": "她对，你知道。",
+      "start": 136.36,
+      "end": 137.36
+    },
+    {
+      "text": "Kids these days all have cars.",
+      "trans": "孩子们这些天都开汽车了。",
+      "start": 137.36,
+      "end": 139.24
+    },
+    {
+      "text": "Let me show you something we just got in.",
+      "trans": "我给你展示一下我们刚刚收到的。",
+      "start": 139.24,
+      "end": 140.88
+    },
+    {
+      "text": "A 1996 sedan, excellent gas mileage.",
+      "trans": "一辆1996年的轿车，性能良好。",
+      "start": 140.88,
+      "end": 143.92000000000002
+    },
+    {
+      "text": "It has dual airbags and anti-lac brakes.",
+      "trans": "英语：它有双气囊和防侧滑制动系统。",
+      "start": 143.92,
+      "end": 145.95999999999998
+    },
+    {
+      "text": "A perfect vehicle for a young driver.",
+      "trans": "英文：一辆完美的车辆适合一个年轻的司机。",
+      "start": 145.95999999999998,
+      "end": 148.0
+    },
+    {
+      "text": "Dad, I love it.",
+      "trans": "爸爸，我喜欢它。",
+      "start": 148.0,
+      "end": 149.48
+    },
+    {
+      "text": "It's awesome.",
+      "trans": "英语：它很棒。",
+      "start": 149.48,
+      "end": 150.48
+    },
+    {
+      "text": "Can we get this one, please?",
+      "trans": "是的，我们可以得到这个。",
+      "start": 150.48,
+      "end": 153.35999999999999
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 153.35999999999999,
+      "end": 154.67999999999998
+    },
+    {
+      "text": "What can you tell me about this one?",
+      "trans": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我！",
+      "start": 154.67999999999998,
+      "end": 157.07999999999998
+    },
+    {
+      "text": "Oh, that's just an old World War II tank that we use for TV commercials.",
+      "trans": "英语：哦，那个只是我们用来做电视广告的老式坦克。",
+      "start": 157.07999999999998,
+      "end": 161.83999999999997
+    },
+    {
+      "text": "Now about this sedan.",
+      "trans": "现在关于这辆轿车。",
+      "start": 161.83999999999997,
+      "end": 162.83999999999997
+    },
+    {
+      "text": "Whoa, whoa, wait a minute.",
+      "trans": "英语：哇，哇，等一下。",
+      "start": 162.83999999999997,
+      "end": 164.51999999999998
+    },
+    {
+      "text": "Tell me more about this tank.",
+      "trans": "告诉我关于这个坦克更多的信息。",
+      "start": 164.51999999999998,
+      "end": 166.88
+    },
+    {
+      "text": "Well, sir, if you are looking for quality and safety, then look no further.",
+      "trans": "英语：嗯，先生，如果你想要质量和安全的话，那就再看看吧。",
+      "start": 166.88,
+      "end": 172.48
+    },
+    {
+      "text": "Three inches of reinforced steel protect your daughter from short-range missile attacks.",
+      "trans": "三寸长的高强度钢保护你的女儿免受短距离导弹攻击。",
+      "start": 172.48,
+      "end": 176.88
+    },
+    {
+      "text": "Does the sedan protect her from missile attacks?",
+      "trans": "是的，它能保护她免受导弹攻击。",
+      "start": 176.88,
+      "end": 180.72
+    },
+    {
+      "text": "It does not.",
+      "trans": "它不。",
+      "start": 180.72,
+      "end": 181.72
+    },
+    {
+      "text": "Well, I don't know.",
+      "trans": "英语：嗯，我不知道。",
+      "start": 181.72,
+      "end": 183.35999999999999
+    },
+    {
+      "text": "Let me sleep on it.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 183.35999999999999,
+      "end": 184.6
+    },
+    {
+      "text": "Did I mention the tank is a tank?",
+      "trans": "英语：Did I mention the tank is a tank?",
+      "start": 184.6,
+      "end": 186.6
+    },
+    {
+      "text": "I'll take it.",
+      "trans": "我将接手。",
+      "start": 186.6,
+      "end": 187.6
+    },
+    {
+      "text": "Dad.",
+      "trans": "爸爸。",
+      "start": 187.6,
+      "end": 188.6
+    },
+    {
+      "text": "I think she's really lucky.",
+      "trans": "我猜她真的很幸运。",
+      "start": 188.6,
+      "end": 198.6
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 198.6,
+      "end": 199.6
+    },
+    {
+      "text": "She's getting a tank to go to school.",
+      "trans": "她正在准备去上学。",
+      "start": 199.6,
+      "end": 201.2
+    },
+    {
+      "text": "How awesome is that?",
+      "trans": "太棒了！",
+      "start": 201.2,
+      "end": 202.2
+    },
+    {
+      "text": "I would be so embarrassed if I had to drive to school in a tank.",
+      "trans": "英语：我如果要开车去上学，会感到多么尴尬啊。",
+      "start": 202.23999999999998,
+      "end": 206.04
+    },
+    {
+      "text": "It's like the coolest car.",
+      "trans": "英语：它就像最酷的车。",
+      "start": 206.04,
+      "end": 207.28
+    },
+    {
+      "text": "Oh, you're such a boy.",
+      "trans": "英语：Oh, you're such a boy.",
+      "start": 207.28,
+      "end": 209.2
+    },
+    {
+      "text": "All right, a surprising ending to a relatively easy shopping day.",
+      "trans": "英语：一切好，一个相对轻松的购物日后的意外结尾。",
+      "start": 209.2,
+      "end": 215.11999999999998
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 215.11999999999998,
+      "end": 216.11999999999998
+    },
+    {
+      "text": "Let's take a look at some language that we saw in our dialogue on Language Takeaway.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 216.11999999999998,
+      "end": 221.88
+    },
+    {
+      "text": "Language Takeaway.",
+      "trans": "语言总结。",
+      "start": 221.88,
+      "end": 224.56
+    },
+    {
+      "text": "We have four words for you today.",
+      "trans": "我们今天给你四个词。",
+      "start": 224.56,
+      "end": 226.95999999999998
+    },
+    {
+      "text": "The first one is gas mileage.",
+      "trans": "英语：第一辆车是油耗。",
+      "start": 226.95999999999998,
+      "end": 231.0
+    },
+    {
+      "text": "Gas mileage.",
+      "trans": "英语：气缸。",
+      "start": 231.0,
+      "end": 232.0
+    },
+    {
+      "text": "Gas mileage.",
+      "trans": "英语：气缸。",
+      "start": 232.0,
+      "end": 233.0
+    },
+    {
+      "text": "Gas mileage.",
+      "trans": "英语：气缸。",
+      "start": 233.0,
+      "end": 234.0
+    },
+    {
+      "text": "So gas mileage is how many miles you can travel on a gallon or liter of gasoline?",
+      "trans": "英语：所以，燃油效率是每加仑或升汽油可以行驶多少公里。",
+      "start": 234.0,
+      "end": 240.84
+    },
+    {
+      "text": "Well, you know what's interesting.",
+      "trans": "英语：嗯，你知道有趣的事情吗？",
+      "start": 240.84,
+      "end": 242.2
+    },
+    {
+      "text": "In some English-speaking countries like Australia, New Zealand, Canada, we use kilometers to",
+      "trans": "在一些英语国家，如澳大利亚、新西兰和加拿大，我们使用公里作为距离的单位。",
+      "start": 242.2,
+      "end": 247.44
+    },
+    {
+      "text": "measure distance.",
+      "trans": "测量距离。",
+      "start": 247.44,
+      "end": 248.8
+    },
+    {
+      "text": "But we still talk about gas mileage.",
+      "trans": "但是我们仍然谈论燃油效率。",
+      "start": 248.8,
+      "end": 251.44
+    },
+    {
+      "text": "Mm.",
+      "trans": "英语：mm。",
+      "start": 251.44,
+      "end": 252.44
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 252.44,
+      "end": 253.44
+    },
+    {
+      "text": "I guess you can say gas kilomilege.",
+      "trans": "我猜你可以说公里数。",
+      "start": 253.44,
+      "end": 255.44
+    },
+    {
+      "text": "No.",
+      "trans": "是。",
+      "start": 255.44,
+      "end": 256.44
+    },
+    {
+      "text": "Or something like that.",
+      "trans": "英语：或者像这样。",
+      "start": 256.44,
+      "end": 258.44
+    },
+    {
+      "text": "Yeah, it's basically how many kilometers or how many miles you can travel on a tank or",
+      "trans": "是的，它基本上能行驶多少公里或多远。",
+      "start": 258.44,
+      "end": 264.4
+    },
+    {
+      "text": "on a liter or gallon of gas.",
+      "trans": "英语：在一瓶或一加仑汽油里。",
+      "start": 264.4,
+      "end": 266.68
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案是：Exactly.",
+      "start": 266.68,
+      "end": 267.68
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 267.68,
+      "end": 268.68
+    },
+    {
+      "text": "The next word is air bags.",
+      "trans": "下一个单词是气囊。",
+      "start": 268.68,
+      "end": 271.92
+    },
+    {
+      "text": "Airbags.",
+      "trans": "空气袋。",
+      "start": 271.92,
+      "end": 272.92
+    },
+    {
+      "text": "Airbags.",
+      "trans": "空气袋。",
+      "start": 272.92,
+      "end": 273.92
+    },
+    {
+      "text": "Airbags.",
+      "trans": "空气袋。",
+      "start": 273.92,
+      "end": 274.92
+    },
+    {
+      "text": "These are like big bags of air that fill up and come out of the car when there's a crash.",
+      "trans": "这些就像装满了空气的袋子，当汽车发生碰撞时就会从车里出来。",
+      "start": 274.92,
+      "end": 280.4
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 280.4,
+      "end": 281.4
+    },
+    {
+      "text": "So that way you don't hit your head against the steering wheel or something like that.",
+      "trans": "所以这样你就不至于撞到方向盘或者什么的。",
+      "start": 281.4,
+      "end": 284.92
+    },
+    {
+      "text": "So they protect you.",
+      "trans": "所以他们保护你。",
+      "start": 284.92,
+      "end": 285.92
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 285.92,
+      "end": 286.92
+    },
+    {
+      "text": "Volvo has like 18 airbags now in their cars.",
+      "trans": "瑞典斯堪的纳维亚汽车制造商沃尔沃现在有大约18个气囊。",
+      "start": 286.92,
+      "end": 289.84000000000003
+    },
+    {
+      "text": "They are very safe cars, you know.",
+      "trans": "他们非常安全的汽车，你知道。",
+      "start": 289.84000000000003,
+      "end": 291.84000000000003
+    },
+    {
+      "text": "Like a big balloon.",
+      "trans": "像一个大气球。",
+      "start": 291.84000000000003,
+      "end": 293.44
+    },
+    {
+      "text": "Uh-huh.",
+      "trans": "嗯，哈。",
+      "start": 293.44,
+      "end": 294.44
+    },
+    {
+      "text": "Okay, our third word today is brakes.",
+      "trans": "好的，我们的第三个单词是刹车。",
+      "start": 294.44,
+      "end": 297.48
+    },
+    {
+      "text": "Brakes.",
+      "trans": "英语：Brakes.",
+      "start": 297.48,
+      "end": 298.48
+    },
+    {
+      "text": "Brakes.",
+      "trans": "英语：Brakes.",
+      "start": 298.48,
+      "end": 299.48
+    },
+    {
+      "text": "So what are brakes?",
+      "trans": "英语：所以是什么？",
+      "start": 299.48,
+      "end": 301.76
+    },
+    {
+      "text": "Brakes are little, what are brakes?",
+      "trans": "英语：刹车是小的，这是什么？",
+      "start": 301.76,
+      "end": 304.28000000000003
+    },
+    {
+      "text": "Brakes are what make your car stop.",
+      "trans": "英语：刹车是让你的车停下来的关键。",
+      "start": 304.28000000000003,
+      "end": 306.48
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 306.48,
+      "end": 307.48
+    },
+    {
+      "text": "So they're the little machines maybe that stop your car?",
+      "trans": "所以他们可能是那些小机器，可能能帮你停住车。",
+      "start": 307.48,
+      "end": 310.6
+    },
+    {
+      "text": "Yeah, they're on the wheels.",
+      "trans": "是的，他们是在车轮上。",
+      "start": 310.6,
+      "end": 311.6
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 311.6,
+      "end": 312.6
+    },
+    {
+      "text": "They make your car stop.",
+      "trans": "他们让你的车停下来。",
+      "start": 312.6,
+      "end": 313.6
+    },
+    {
+      "text": "Uh-huh.",
+      "trans": "英语：嗯，对。",
+      "start": 313.6,
+      "end": 314.6
+    },
+    {
+      "text": "You have brakes on your bike.",
+      "trans": "你有刹车吗？",
+      "start": 314.6,
+      "end": 315.6
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 315.6,
+      "end": 316.6
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rù.)",
+      "start": 316.6,
+      "end": 317.6
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 317.6,
+      "end": 318.6
+    },
+    {
+      "text": "So we have some examples of how we use reinforced.",
+      "trans": "所以我们有一些例子如何使用强化。",
+      "start": 318.6,
+      "end": 328.96000000000004
+    },
+    {
+      "text": "Because it's a little bit weird.",
+      "trans": "因为有点奇怪。",
+      "start": 328.96000000000004,
+      "end": 330.36
+    },
+    {
+      "text": "Yeah, these will help you understand the meaning.",
+      "trans": "是的，这些将有助于你理解含义。",
+      "start": 330.36,
+      "end": 334.16
+    },
+    {
+      "text": "Example 1.",
+      "trans": "例1.",
+      "start": 334.16,
+      "end": 341.20000000000005
+    },
+    {
+      "text": "So I reinforced all the walls.",
+      "trans": "所以，我强化了所有的墙壁。",
+      "start": 341.2,
+      "end": 343.28
+    },
+    {
+      "text": "There's no way they're going to fall down.",
+      "trans": "没有办法，他们不会掉下来。",
+      "start": 343.28,
+      "end": 351.36
+    },
+    {
+      "text": "Example 2.",
+      "trans": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)",
+      "start": 351.36,
+      "end": 357.32
+    },
+    {
+      "text": "This plastic is reinforced with a glass.",
+      "trans": "这个塑料用玻璃强化了。",
+      "start": 357.32,
+      "end": 359.52
+    },
+    {
+      "text": "So it's both light and strong.",
+      "trans": "所以它既轻便又坚固。",
+      "start": 359.52,
+      "end": 365.56
+    },
+    {
+      "text": "So basically anything that's reinforced is made stronger.",
+      "trans": "所以，基本上任何强化过的都是更强的。",
+      "start": 365.56,
+      "end": 368.84
+    },
+    {
+      "text": "Perfect.",
+      "trans": "很好。",
+      "start": 368.84,
+      "end": 369.84
+    },
+    {
+      "text": "Or steel, reinforced table, anything.",
+      "trans": "英语：或者钢制、强化桌，任何东西。",
+      "start": 369.84,
+      "end": 372.52
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 372.52,
+      "end": 373.52
+    },
+    {
+      "text": "Great.",
+      "trans": "好的，以下是“Great”在中文的翻译：",
+      "start": 373.52,
+      "end": 374.52
+    },
+    {
+      "text": "So now we could listen to our dialogue again.",
+      "trans": "所以现在我们能再次倾听我们的对话了。",
+      "start": 374.52,
+      "end": 375.64
+    },
+    {
+      "text": "You can practice all these words that we just talked about and we'll come back shortly.",
+      "trans": "英语：你可以练习一下我们刚才讨论的所有这些单词，我们会尽快回来的。",
+      "start": 375.64,
+      "end": 382.03999999999996
+    },
+    {
+      "text": "Hi there.",
+      "trans": "你好，大家。",
+      "start": 382.03999999999996,
+      "end": 386.32
+    },
+    {
+      "text": "Can I help you folks?",
+      "trans": "英语：能帮我吗？",
+      "start": 386.32,
+      "end": 388.67999999999995
+    },
+    {
+      "text": "I'm just browsing, seeing what's on the lot.",
+      "trans": "我正浏览，看看这个摊子上的东西。",
+      "start": 388.67999999999995,
+      "end": 392.71999999999997
+    },
+    {
+      "text": "My daughter wants a car for her birthday.",
+      "trans": "我的女儿想给她生日买辆汽车。",
+      "start": 392.71999999999997,
+      "end": 395.71999999999997
+    },
+    {
+      "text": "You know how it is.",
+      "trans": "英语：你知道吗？",
+      "start": 395.71999999999997,
+      "end": 397.23999999999995
+    },
+    {
+      "text": "Dad.",
+      "trans": "爸爸。",
+      "start": 397.23999999999995,
+      "end": 398.23999999999995
+    },
+    {
+      "text": "I'm 16 already and I'm like the only one at school who doesn't have a car.",
+      "trans": "我今年16岁，和班上唯一一个没有车的男生一样。",
+      "start": 398.24,
+      "end": 404.76
+    },
+    {
+      "text": "She is right, you know.",
+      "trans": "她没错，你知道。",
+      "start": 404.76,
+      "end": 406.8
+    },
+    {
+      "text": "Kids these days all have cars.",
+      "trans": "孩子们这些天都开汽车了。",
+      "start": 406.8,
+      "end": 409.72
+    },
+    {
+      "text": "Let me show you something we just got in.",
+      "trans": "请让我展示一下我们刚刚收到的东西。",
+      "start": 409.72,
+      "end": 412.56
+    },
+    {
+      "text": "A 1996 Sudan.",
+      "trans": "一张1996年的苏丹照片。",
+      "start": 412.56,
+      "end": 416.0
+    },
+    {
+      "text": "Excellent gas mileage.",
+      "trans": "英语：优秀燃油效率。",
+      "start": 416.0,
+      "end": 417.88
+    },
+    {
+      "text": "It has dual airbags and anti-lock brakes.",
+      "trans": "英语：它有双气囊和防抱死制动系统。",
+      "start": 417.88,
+      "end": 422.04
+    },
+    {
+      "text": "A perfect vehicle for a young driver.",
+      "trans": "英文：一辆完美的车辆适合一个年轻的司机。",
+      "start": 422.04,
+      "end": 424.52
+    },
+    {
+      "text": "Dad, I love it.",
+      "trans": "爸爸，我喜欢它。",
+      "start": 424.52,
+      "end": 427.8
+    },
+    {
+      "text": "It's awesome.",
+      "trans": "英语：It's awesome.",
+      "start": 427.8,
+      "end": 429.36
+    },
+    {
+      "text": "Can we get this one, please?",
+      "trans": "是的，我们可以得到这个。",
+      "start": 429.36,
+      "end": 432.12
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 432.12,
+      "end": 433.96000000000004
+    },
+    {
+      "text": "What can you tell me about this one?",
+      "trans": "请问你对这个相机有什么了解？",
+      "start": 433.96000000000004,
+      "end": 437.08
+    },
+    {
+      "text": "Oh, that's just an old World War II tank that we use for TV commercials.",
+      "trans": "英语：哦，那只是我们用来做电视广告的旧世界大战坦克。",
+      "start": 437.08,
+      "end": 444.68
+    },
+    {
+      "text": "Now about this Sudan.",
+      "trans": "现在关于这个苏丹。",
+      "start": 444.68,
+      "end": 447.28000000000003
+    },
+    {
+      "text": "Whoa, whoa, wait a minute.",
+      "trans": "英语：哇，哇，等一下。",
+      "start": 447.28000000000003,
+      "end": 450.08000000000004
+    },
+    {
+      "text": "Tell me more about this tank.",
+      "trans": "告诉我关于这个坦克更多详情。",
+      "start": 450.08000000000004,
+      "end": 453.52
+    },
+    {
+      "text": "Elsa, if you are looking for quality and safety, then look no further.",
+      "trans": "英语：Elsa，如果你正在寻找质量与安全，请不要犹豫。",
+      "start": 453.52,
+      "end": 461.2
+    },
+    {
+      "text": "Three inches of reinforced steel, protect your daughter from short-range missile attacks.",
+      "trans": "三寸长的高强度钢，保护你的女儿免受短距离导弹攻击。",
+      "start": 461.2,
+      "end": 467.71999999999997
+    },
+    {
+      "text": "Does the Sudan protect her from missile attacks?",
+      "trans": "是否苏丹能免受导弹攻击？",
+      "start": 467.71999999999997,
+      "end": 472.03999999999996
+    },
+    {
+      "text": "It does not.",
+      "trans": "它不。",
+      "start": 472.03999999999996,
+      "end": 473.35999999999996
+    },
+    {
+      "text": "Well, I don't know.",
+      "trans": "英语：嗯，我不知道。",
+      "start": 473.35999999999996,
+      "end": 476.2
+    },
+    {
+      "text": "Let me sleep on it.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 476.2,
+      "end": 478.0
+    },
+    {
+      "text": "Did I mention the tank is a tank?",
+      "trans": "英语：Did I mention the tank is a tank?",
+      "start": 478.0,
+      "end": 481.2
+    },
+    {
+      "text": "I'll take it.",
+      "trans": "我会拿它。",
+      "start": 481.2,
+      "end": 482.79999999999995
+    },
+    {
+      "text": "Dad.",
+      "trans": "爸爸。",
+      "start": 483.2,
+      "end": 484.44
+    },
+    {
+      "text": "So we have a couple of interesting phrases to talk about shopping.",
+      "trans": "英语：所以我们谈一下购物的话题。",
+      "start": 490.64,
+      "end": 494.48
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 494.48,
+      "end": 495.28000000000003
+    },
+    {
+      "text": "Let's look at these in Fluency Builder.",
+      "trans": "让我们看看这些在流利构建单元。",
+      "start": 495.28000000000003,
+      "end": 498.28000000000003
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 498.28000000000003,
+      "end": 500.08000000000004
+    },
+    {
+      "text": "The first one today is I'm just browsing.",
+      "trans": "今天的第一个是我刚刚浏览。",
+      "start": 500.08000000000004,
+      "end": 503.40000000000003
+    },
+    {
+      "text": "I'm just browsing.",
+      "trans": "我正浏览。",
+      "start": 503.40000000000003,
+      "end": 505.48
+    },
+    {
+      "text": "I'm just browsing.",
+      "trans": "我正浏览。",
+      "start": 505.48,
+      "end": 506.8
+    },
+    {
+      "text": "I'm just browsing.",
+      "trans": "我正浏览。",
+      "start": 506.8,
+      "end": 507.88
+    },
+    {
+      "text": "This is a really useful phrase because usually,",
+      "trans": "这个是真的很实用的短语，因为通常。",
+      "start": 507.88,
+      "end": 510.72
+    },
+    {
+      "text": "salespeople will come up to you and ask you, can I help you?",
+      "trans": "英语：销售员会过来问您，我可以帮您吗？",
+      "start": 510.72,
+      "end": 513.64
+    },
+    {
+      "text": "Are you interested in something?",
+      "trans": "是的，你对什么感兴趣？",
+      "start": 513.64,
+      "end": 514.64
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 514.64,
+      "end": 515.1600000000001
+    },
+    {
+      "text": "And you're just looking.",
+      "trans": "您只是看着。",
+      "start": 515.1600000000001,
+      "end": 516.32
+    },
+    {
+      "text": "Yeah, you maybe don't really want to buy it.",
+      "trans": "是的，你可能并不真正想要买它。",
+      "start": 516.32,
+      "end": 518.84
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 518.84,
+      "end": 519.36
+    },
+    {
+      "text": "So you're just, I'm just browsing.",
+      "trans": "所以，你只是，我则是浏览。",
+      "start": 519.36,
+      "end": 521.1600000000001
+    },
+    {
+      "text": "So then they'll just leave you alone.",
+      "trans": "所以他们就会让你自己一个人。",
+      "start": 521.1600000000001,
+      "end": 523.0
+    },
+    {
+      "text": "Yeah, they won't bother you as much.",
+      "trans": "是的，他们不会像你这么累。",
+      "start": 523.0,
+      "end": 524.96
+    },
+    {
+      "text": "Yeah, it's a good, good phrase.",
+      "trans": "是的，这是一个好词。",
+      "start": 524.96,
+      "end": 526.36
+    },
+    {
+      "text": "Another good phrase.",
+      "trans": "另一个好词。",
+      "start": 526.36,
+      "end": 528.5600000000001
+    },
+    {
+      "text": "Sleep on it.",
+      "trans": "英语：睡一觉。",
+      "start": 528.5600000000001,
+      "end": 529.52
+    },
+    {
+      "text": "Sleep on it.",
+      "trans": "英语：睡一觉。",
+      "start": 529.52,
+      "end": 530.8000000000001
+    },
+    {
+      "text": "Sleep on it.",
+      "trans": "英语：睡一觉。",
+      "start": 530.8000000000001,
+      "end": 531.84
+    },
+    {
+      "text": "Sleep on it.",
+      "trans": "英语：睡一觉。",
+      "start": 531.84,
+      "end": 533.24
+    },
+    {
+      "text": "So we have some examples of how you sleep on it.",
+      "trans": "所以我们有一些例子，如何你使用它。",
+      "start": 533.24,
+      "end": 537.0400000000001
+    },
+    {
+      "text": "Example one.",
+      "trans": "Example one: 一台单反相机。",
+      "start": 537.0400000000001,
+      "end": 538.24
+    },
+    {
+      "text": "I don't know if we should buy that house.",
+      "trans": "我也不知道我们是否应该买那栋房子。",
+      "start": 541.72,
+      "end": 545.12
+    },
+    {
+      "text": "It's perfect for us, but it's so expensive.",
+      "trans": "英语：它非常适合我们，但价格很高。",
+      "start": 545.12,
+      "end": 547.9200000000001
+    },
+    {
+      "text": "Let's sleep on it.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 547.9200000000001,
+      "end": 551.96
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 551.96,
+      "end": 556.48
+    },
+    {
+      "text": "Why don't you sleep on it and tell me tomorrow?",
+      "trans": "英语：为什么你不今天就睡个懒觉，告诉我明天？",
+      "start": 556.48,
+      "end": 568.0400000000001
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 568.04,
+      "end": 572.8
+    },
+    {
+      "text": "This is a bit more than what I can afford.",
+      "trans": "这个有点超过我的承受能力。",
+      "start": 572.8,
+      "end": 574.88
+    },
+    {
+      "text": "Let me sleep on it.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 574.88,
+      "end": 580.04
+    },
+    {
+      "text": "To sleep on it means to think about it overnight.",
+      "trans": "要睡觉意味着在白天思考。",
+      "start": 580.04,
+      "end": 583.8399999999999
+    },
+    {
+      "text": "To think about it.",
+      "trans": "要思考。",
+      "start": 583.8399999999999,
+      "end": 584.8399999999999
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 584.8399999999999,
+      "end": 585.8399999999999
+    },
+    {
+      "text": "So maybe you want to buy this really expensive car.",
+      "trans": "英语：所以，你可能想买这辆非常昂贵的车。",
+      "start": 585.8399999999999,
+      "end": 588.8399999999999
+    },
+    {
+      "text": "But you need to think about it.",
+      "trans": "但是你得考虑一下。",
+      "start": 588.8399999999999,
+      "end": 589.8399999999999
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 589.8399999999999,
+      "end": 590.8399999999999
+    },
+    {
+      "text": "So you'll sleep on it.",
+      "trans": "所以你就会睡着了。",
+      "start": 590.8399999999999,
+      "end": 591.8399999999999
+    },
+    {
+      "text": "So yeah, you go home, sleep on it, think about it twice, and then make a decision.",
+      "trans": "所以啊，你回家吧，好好休息一下，再想想这个问题，然后做出决定。",
+      "start": 591.8399999999999,
+      "end": 596.0799999999999
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 596.0799999999999,
+      "end": 597.0799999999999
+    },
+    {
+      "text": "Okay, great words and great dialogues.",
+      "trans": "好的，好词和好对话。",
+      "start": 597.08,
+      "end": 598.88
+    },
+    {
+      "text": "Yeah, I love this dialogue.",
+      "trans": "是的，我喜欢这段对话。",
+      "start": 598.88,
+      "end": 600.4000000000001
+    },
+    {
+      "text": "Yeah, it's kind of funny.",
+      "trans": "是的，它有点奇怪。",
+      "start": 600.4000000000001,
+      "end": 601.88
+    },
+    {
+      "text": "So we could listen to it again, and then we'll come back and talk a little bit about",
+      "trans": "所以我们可以再次听取它，然后我们再聊点小的。",
+      "start": 601.88,
+      "end": 605.0400000000001
+    },
+    {
+      "text": "it.",
+      "trans": "它。",
+      "start": 605.0400000000001,
+      "end": 606.0400000000001
+    },
+    {
+      "text": "Hi there.",
+      "trans": "你好，大家。",
+      "start": 619.72,
+      "end": 620.72
+    },
+    {
+      "text": "Can I help you, folks?",
+      "trans": "英语：能帮我吗，朋友们？",
+      "start": 620.72,
+      "end": 623.2800000000001
+    },
+    {
+      "text": "I'm just browsing, seeing what's on the lot.",
+      "trans": "我正浏览，看看这个货。",
+      "start": 623.2800000000001,
+      "end": 626.24
+    },
+    {
+      "text": "My daughter wants a car for her birthday.",
+      "trans": "我的女儿想要一辆车作为她的生日礼物。",
+      "start": 626.24,
+      "end": 627.96
+    },
+    {
+      "text": "You know how it is.",
+      "trans": "英语：你知道吗？",
+      "start": 627.96,
+      "end": 628.96
+    },
+    {
+      "text": "Dad, I'm 16 already, and I'm like the only one at school who doesn't have a car.",
+      "trans": "爸爸，我今年16岁了，和学校里唯一一个不会开车的男生一样。",
+      "start": 628.96,
+      "end": 635.24
+    },
+    {
+      "text": "She's right, you know.",
+      "trans": "她没错，你知道。",
+      "start": 635.24,
+      "end": 636.28
+    },
+    {
+      "text": "Kids, these days, all have cars.",
+      "trans": "孩子们，这些天，所有的人都有车了。",
+      "start": 636.28,
+      "end": 638.08
+    },
+    {
+      "text": "Let me show you something we just got in.",
+      "trans": "我给你展示一下我们刚刚收到的。",
+      "start": 638.08,
+      "end": 639.5600000000001
+    },
+    {
+      "text": "A 1996 sedan, excellent gas mileage.",
+      "trans": "一辆1996年的轿车，性能良好。",
+      "start": 639.5600000000001,
+      "end": 642.76
+    },
+    {
+      "text": "It has dual airbags and anti-lac brakes, a perfect vehicle for a young driver.",
+      "trans": "英语：它有双气囊和防侧滑制动系统，是一款非常适合年轻驾驶的车辆。",
+      "start": 642.76,
+      "end": 646.8
+    },
+    {
+      "text": "Dad, I love it.",
+      "trans": "爸爸，我喜欢它。",
+      "start": 646.8,
+      "end": 648.28
+    },
+    {
+      "text": "It's awesome.",
+      "trans": "很好。",
+      "start": 648.28,
+      "end": 649.28
+    },
+    {
+      "text": "Can we get this one, please?",
+      "trans": "是的，可以，请问您需要我做什么？",
+      "start": 649.28,
+      "end": 652.2
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 652.2,
+      "end": 653.52
+    },
+    {
+      "text": "What can you tell me about this one?",
+      "trans": "对不起，我无法直接提供中文翻译。不过，我可以尝试用英语来回答这个问题。",
+      "start": 653.52,
+      "end": 655.52
+    },
+    {
+      "text": "Oh, that's just an old World War II tank that we use for TV commercials.",
+      "trans": "英语：哦，那只是我们用来做电视广告的旧世界大战坦克。",
+      "start": 655.88,
+      "end": 660.48
+    },
+    {
+      "text": "Now about this sedan.",
+      "trans": "现在关于这辆轿车。",
+      "start": 660.48,
+      "end": 661.48
+    },
+    {
+      "text": "Whoa, whoa, wait a minute.",
+      "trans": "英语：哇，哇，等一下。",
+      "start": 661.48,
+      "end": 663.28
+    },
+    {
+      "text": "Tell me more about this tank.",
+      "trans": "请告诉我关于这个坦克的更多信息。",
+      "start": 663.28,
+      "end": 665.52
+    },
+    {
+      "text": "Well, sir, if you are looking for quality and safety, then look no further.",
+      "trans": "英语：嗯，先生，如果你想要质量和安全的话，那就再看看其他选项吧。",
+      "start": 666.52,
+      "end": 671.16
+    },
+    {
+      "text": "Three inches of reinforced steel, protect your daughter from short-range missile attacks.",
+      "trans": "三寸长的高强度钢，保护你的女儿免受短距离导弹攻击。",
+      "start": 671.16,
+      "end": 676.1999999999999
+    },
+    {
+      "text": "Does the sedan protector from missile attacks?",
+      "trans": "英语：它从导弹攻击中保护的车灯。",
+      "start": 676.1999999999999,
+      "end": 679.52
+    },
+    {
+      "text": "It does not.",
+      "trans": "它不。",
+      "start": 679.52,
+      "end": 680.84
+    },
+    {
+      "text": "Well, I don't know.",
+      "trans": "我也不清楚。",
+      "start": 680.84,
+      "end": 682.16
+    },
+    {
+      "text": "Let me sleep on it.",
+      "trans": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。",
+      "start": 682.16,
+      "end": 683.4
+    },
+    {
+      "text": "Did I mention the tank is a tank?",
+      "trans": "英语：Did I mention the tank is a tank?",
+      "start": 683.4,
+      "end": 685.48
+    },
+    {
+      "text": "I'll take it.",
+      "trans": "我将接手。",
+      "start": 685.48,
+      "end": 686.48
+    },
+    {
+      "text": "Dad.",
+      "trans": "爸爸。",
+      "start": 686.48,
+      "end": 687.48
+    },
+    {
+      "text": "So Marco, have you ever driven a tank?",
+      "trans": "英语：所以马科，你有没有开过坦克？",
+      "start": 693.96,
+      "end": 696.5600000000001
+    },
+    {
+      "text": "I mean, I know you're in the army, so.",
+      "trans": "我意思是，我知道你正在服役，所以。",
+      "start": 696.5600000000001,
+      "end": 700.12
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 700.12,
+      "end": 701.12
+    },
+    {
+      "text": "Yeah, actually, I did.",
+      "trans": "是的，实际上，我做了。",
+      "start": 701.12,
+      "end": 703.52
+    },
+    {
+      "text": "I did drive a tank before.",
+      "trans": "我之前开过坦克。",
+      "start": 703.52,
+      "end": 705.5600000000001
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 705.5600000000001,
+      "end": 706.5600000000001
+    },
+    {
+      "text": "Yeah, really old one.",
+      "trans": "是的，它真的很老。",
+      "start": 706.5600000000001,
+      "end": 707.5600000000001
+    },
+    {
+      "text": "Kind of like a World War II type tank.",
+      "trans": "有点像二战时期的坦克。",
+      "start": 707.5600000000001,
+      "end": 709.6
+    },
+    {
+      "text": "But yeah, they're really fun and interesting.",
+      "trans": "但是啊，他们真的很有趣和好玩。",
+      "start": 709.6,
+      "end": 711.4
+    },
+    {
+      "text": "It's not like driving a normal car.",
+      "trans": "英语：它不像开普通汽车那样。",
+      "start": 711.4,
+      "end": 712.96
+    },
+    {
+      "text": "You have pedals and you have.",
+      "trans": "你有脚踏板，也有。",
+      "start": 712.96,
+      "end": 714.04
+    },
+    {
+      "text": "So there's no steering wheel?",
+      "trans": "英语：所以没有方向盘？",
+      "start": 714.04,
+      "end": 715.3199999999999
+    },
+    {
+      "text": "No, no, no.",
+      "trans": "英语：No, no, no.",
+      "start": 715.3199999999999,
+      "end": 716.3199999999999
+    },
+    {
+      "text": "You have levers.",
+      "trans": "你有扳手。",
+      "start": 716.3199999999999,
+      "end": 717.56
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 717.56,
+      "end": 718.56
+    },
+    {
+      "text": "And what many people don't know is that actually tanks are manual transmissions.",
+      "trans": "很多人不知道实际上坦克是手动变速器。",
+      "start": 718.56,
+      "end": 723.52
+    },
+    {
+      "text": "You have to change gears.",
+      "trans": "你必须换挡。",
+      "start": 723.52,
+      "end": 724.76
+    },
+    {
+      "text": "Oh, really?",
+      "trans": "英语：哦，真的？",
+      "start": 724.76,
+      "end": 725.76
+    },
+    {
+      "text": "And it's really hard to change gears on those things.",
+      "trans": "A、它确实很难改变换挡杆的位置。",
+      "start": 725.76,
+      "end": 728.3199999999999
+    },
+    {
+      "text": "And what's the gas mileage like in a tank?",
+      "trans": "A、什么在罐子里的油耗是多少？",
+      "start": 728.3199999999999,
+      "end": 730.9599999999999
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我不会。",
+      "start": 730.9599999999999,
+      "end": 731.9599999999999
+    },
+    {
+      "text": "Maybe like five miles per gallon.",
+      "trans": "英语：也许能跑五英里/小时。",
+      "start": 731.9599999999999,
+      "end": 733.56
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 733.56,
+      "end": 734.56
+    },
+    {
+      "text": "They run on diesel, which is a different type of fuel, right?",
+      "trans": "他们使用柴油，这是一种不同的燃料吗？",
+      "start": 734.56,
+      "end": 737.0799999999999
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 737.0799999999999,
+      "end": 738.0799999999999
+    },
+    {
+      "text": "Okay, well, very cool.",
+      "trans": "好的，很好。超级酷。",
+      "start": 738.0799999999999,
+      "end": 739.0799999999999
+    },
+    {
+      "text": "I never knew that my podcast partner had driven a tank.",
+      "trans": "我从没知道我的播客搭档开过坦克。",
+      "start": 739.0799999999999,
+      "end": 742.3199999999999
+    },
+    {
+      "text": "That's pretty awesome.",
+      "trans": "那真是太棒了。",
+      "start": 742.3199999999999,
+      "end": 743.3199999999999
+    },
+    {
+      "text": "Well, it was fun, definitely.",
+      "trans": "英语：很好，确实很有趣。",
+      "start": 743.32,
+      "end": 745.24
+    },
+    {
+      "text": "And I hope I get to do it again someday.",
+      "trans": "我希望能有一天再次做得到。",
+      "start": 745.24,
+      "end": 747.32
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 747.32,
+      "end": 748.32
+    },
+    {
+      "text": "Well, guys, have you ever driven a tank?",
+      "trans": "是的，兄弟们，你们有没有开过坦克？",
+      "start": 748.32,
+      "end": 752.08
+    },
+    {
+      "text": "Or a submarine or any type of armored vehicle?",
+      "trans": "英语：或者潜艇或其他类型的装甲车辆。",
+      "start": 752.08,
+      "end": 755.6400000000001
+    },
+    {
+      "text": "Yeah, tell us about it at our website, EnglishPod.com.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文内容。",
+      "start": 755.6400000000001,
+      "end": 759.84
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 759.84,
+      "end": 760.84
+    },
+    {
+      "text": "We'll be there to answer all your questions.",
+      "trans": "我们都会为你解答所有问题。",
+      "start": 760.84,
+      "end": 762.12
+    },
+    {
+      "text": "I'll also be there to maybe post some more crazy stories.",
+      "trans": "我也会去帮忙，说不定能分享一些有趣的新闻。",
+      "start": 762.12,
+      "end": 765.32
+    },
+    {
+      "text": "Or some pictures of a tank.",
+      "trans": "英语：或者一些坦克的照片。",
+      "start": 765.32,
+      "end": 766.5200000000001
+    },
+    {
+      "text": "Yeah, maybe.",
+      "trans": "是的，也许。",
+      "start": 766.5200000000001,
+      "end": 767.5200000000001
+    },
+    {
+      "text": "All right, guys.",
+      "trans": "英语：一切好，朋友们。",
+      "start": 767.5200000000001,
+      "end": 768.36
+    },
+    {
+      "text": "We'll see you there.",
+      "trans": "我们会在那里见你。",
+      "start": 768.36,
+      "end": 769.36
+    },
+    {
+      "text": "Until then, it's goodbye.",
+      "trans": "直到那时，就别客气了。",
+      "start": 769.36,
+      "end": 770.36
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 770.36,
+      "end": 771.36
+    }
+  ]
+}

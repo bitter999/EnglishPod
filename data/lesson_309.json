@@ -1,0 +1,1464 @@
+{
+  "title": "englishpod_0309pb",
+  "audio": "./assets/englishpod_0309pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好，大家和欢迎来到英语播客。我的名字是马克。",
+      "start": 0.0,
+      "end": 5.0
+    },
+    {
+      "text": "My name is Catherine and if you've been listening to our recent lessons you know that we've",
+      "trans": "我的名字是凯西，如果你已经听我们的最近课程了，那么你一定知道我们正在讨论的话题。",
+      "start": 5.0,
+      "end": 9.0
+    },
+    {
+      "text": "been talking a lot about food.",
+      "trans": "英语：我一直都在谈论食物。",
+      "start": 9.0,
+      "end": 11.0
+    },
+    {
+      "text": "That's right and today we have another lesson all about food from a different country.",
+      "trans": "英语：那对的，今天我们又学习了关于从不同国家来的食物。",
+      "start": 11.0,
+      "end": 16.0
+    },
+    {
+      "text": "Last time we took a look at Mexican food, Chinese food now we are talking about Indian food.",
+      "trans": "上一次我们看了墨西哥的食物，现在我们正在谈论印度的食物。",
+      "start": 16.0,
+      "end": 22.0
+    },
+    {
+      "text": "Okay Indian food is very famous for being spicy but not all of it is spicy.",
+      "trans": "英语：它很受欢迎，因为很多印度菜都是辣的，但不是所有的都辣。",
+      "start": 22.0,
+      "end": 27.0
+    },
+    {
+      "text": "Let's take a listen to today's dialogue and find out just what kinds of food you will",
+      "trans": "让我们听听今天的对话，看看你将吃到哪些食物。",
+      "start": 27.0,
+      "end": 31.0
+    },
+    {
+      "text": "find at an Indian restaurant.",
+      "trans": "找到一家印度餐厅。",
+      "start": 31.0,
+      "end": 34.0
+    },
+    {
+      "text": "So where is this mystery restaurant that we're going to?",
+      "trans": "英语：所以这个我们要去的神秘餐厅在哪里呢？",
+      "start": 34.0,
+      "end": 43.0
+    },
+    {
+      "text": "It's an Indian restaurant. I know you have never had Indian food so I thought you might want",
+      "trans": "英语：它是一家印度餐厅。我知道你从未吃过印度食物，所以我猜测你可能想要。",
+      "start": 43.0,
+      "end": 49.0
+    },
+    {
+      "text": "to try it.",
+      "trans": "尝试它。",
+      "start": 49.0,
+      "end": 50.0
+    },
+    {
+      "text": "That sounds great. I am craving some type of beef dish.",
+      "trans": "这句话的意思是：“听起来不错。我正渴望一些牛肉菜肴。”",
+      "start": 50.0,
+      "end": 55.0
+    },
+    {
+      "text": "Well Indian cuisine actually doesn't serve beef. You see cows are a sacred animal, a very",
+      "trans": "印度菜实际上并不提供牛肉。你看牛是神圣的动物，是非常重要的。",
+      "start": 55.0,
+      "end": 61.0
+    },
+    {
+      "text": "important element in the Hindu religion so beef is not eaten.",
+      "trans": "重要元素在印度教中，所以牛肉不能食用。",
+      "start": 61.0,
+      "end": 66.0
+    },
+    {
+      "text": "I see. So what are we having?",
+      "trans": "我看到。所以我们正在做什么？",
+      "start": 66.0,
+      "end": 69.0
+    },
+    {
+      "text": "There are many amazing dishes to choose from. We can have some chicken tikka masala which is an",
+      "trans": "有很多美味的菜肴可以选择。我们可以尝试一下鸡肉泰式咖喱，这是一道非常受欢迎的泰国菜。",
+      "start": 69.0,
+      "end": 76.0
+    },
+    {
+      "text": "amazing curry. It's a bit spicy but I think you can handle it.",
+      "trans": "英语：超棒的咖喱。它有点辣，但我认为你可以处理的。",
+      "start": 76.0,
+      "end": 80.0
+    },
+    {
+      "text": "Sounds good. I've always heard that Indian spices give a rich flavor to food.",
+      "trans": "英语：听起来不错。我一直听说印度香料为食物增添了一份丰富风味。",
+      "start": 80.0,
+      "end": 84.0
+    },
+    {
+      "text": "Yeah. Also we can have some non bread which has baked in a tandoori oven.",
+      "trans": "是的。我们也可以有一些没有烤熟在印度厨房里的东西。",
+      "start": 85.0,
+      "end": 89.0
+    },
+    {
+      "text": "Since you don't use any utensils to eat you can use this bread to scoop up the",
+      "trans": "自从你不用餐具来吃，你可以用这个面包来舀取。",
+      "start": 89.0,
+      "end": 93.0
+    },
+    {
+      "text": "curry you're right.",
+      "trans": "你真是对的。",
+      "start": 93.0,
+      "end": 94.0
+    },
+    {
+      "text": "What about veggies?",
+      "trans": "关于蔬菜？",
+      "start": 94.0,
+      "end": 95.0
+    },
+    {
+      "text": "Oh they have a good variety of vegetable based dishes like palak paneer, vegetable",
+      "trans": "英语：他们有各种蔬菜类的主菜，比如炒青椒、炒菠菜等。",
+      "start": 95.0,
+      "end": 101.0
+    },
+    {
+      "text": "samosas or dal.",
+      "trans": "萨莫亚斯或干巴。",
+      "start": 101.0,
+      "end": 102.0
+    },
+    {
+      "text": "It all sounds so exquisite. I can't wait.",
+      "trans": "英语：它听起来真是太精致了。我迫不及待了。",
+      "start": 102.0,
+      "end": 107.0
+    },
+    {
+      "text": "Alright we're back. So now let's take a look at a couple of words and phrases here on",
+      "trans": "好的，我明白了。现在让我们一起来看看一些词汇和短语吧。",
+      "start": 109.0,
+      "end": 113.0
+    },
+    {
+      "text": "language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 113.0,
+      "end": 114.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言总结。",
+      "start": 114.0,
+      "end": 120.0
+    },
+    {
+      "text": "So in this first language takeaway today we have words that are about the kinds of food",
+      "trans": "英语：所以今天在第一语言取向中，我们有关于食物的词汇。",
+      "start": 120.0,
+      "end": 125.0
+    },
+    {
+      "text": "we're eating today.",
+      "trans": "我们今天吃东西。",
+      "start": 125.0,
+      "end": 126.0
+    },
+    {
+      "text": "So the first one the character said I am craving some type of beef so to crave something.",
+      "trans": "所以第一个他所说的，我想要一些牛肉。",
+      "start": 126.0,
+      "end": 132.0
+    },
+    {
+      "text": "Okay so that is a verb to crave and that means that you have a desire. You really want",
+      "trans": "好的，那么这就是一个动词“渴望”，意味着你有欲望。你真的很想要",
+      "start": 132.0,
+      "end": 139.0
+    },
+    {
+      "text": "to eat something to have a particular thing.",
+      "trans": "吃点什么来得到某个特定的东西。",
+      "start": 139.0,
+      "end": 142.0
+    },
+    {
+      "text": "That's right but it's particular so it's something specific. For example pregnant women are",
+      "trans": "英语：那对，但具体一点，所以例如孕妇就是特别的。",
+      "start": 142.0,
+      "end": 147.0
+    },
+    {
+      "text": "famous for craving strange foods like pickles.",
+      "trans": "英语：著名的因为喜欢奇怪的食物，比如腌菜。",
+      "start": 147.0,
+      "end": 151.0
+    },
+    {
+      "text": "Yeah exactly. So if you say I'm craving some ice cream you specifically want ice cream or",
+      "trans": "是的，你说得对。如果你说我要一些冰淇淋，你想要的是冰淇淋还是其他的东西？",
+      "start": 151.0,
+      "end": 158.0
+    },
+    {
+      "text": "maybe vanilla ice cream.",
+      "trans": "或许就是 vanilla 冰淇淋。",
+      "start": 158.0,
+      "end": 159.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 159.0,
+      "end": 160.0
+    },
+    {
+      "text": "And this person wants beef but unfortunately there's no beef at Indian restaurants because",
+      "trans": "这个人想要牛肉，但不幸的是，在印度餐厅里没有牛肉。",
+      "start": 160.0,
+      "end": 165.0
+    },
+    {
+      "text": "cows are what?",
+      "trans": "牛奶是什么？",
+      "start": 165.0,
+      "end": 167.0
+    },
+    {
+      "text": "Cows are a sacred animal so they are sacred in India.",
+      "trans": "印度的牛是神圣的，所以它们在印度被视为神圣。",
+      "start": 167.0,
+      "end": 171.0
+    },
+    {
+      "text": "Sacred means special or somehow important in a religious way.",
+      "trans": "释义：神圣意味着在宗教中具有特殊或重要性。",
+      "start": 171.0,
+      "end": 177.0
+    },
+    {
+      "text": "For example you could say this is a very sacred place so please don't use cameras or phones",
+      "trans": "英语：例如，你可以这样描述这是个非常神圣的地方，请不要使用相机或手机。",
+      "start": 177.0,
+      "end": 184.0
+    },
+    {
+      "text": "and take your shoes off.",
+      "trans": "和脱鞋一样。",
+      "start": 184.0,
+      "end": 186.0
+    },
+    {
+      "text": "That's right so the word sacred refers to something that is religious and very important for that religion.",
+      "trans": "没错，那么“神圣”一词指的是宗教中非常重要的、值得尊敬的东西。",
+      "start": 186.0,
+      "end": 193.0
+    },
+    {
+      "text": "Specifically in this occasion we're talking about the Hindu religion.",
+      "trans": "在这个场合，我们主要讨论印度教。",
+      "start": 193.0,
+      "end": 198.0
+    },
+    {
+      "text": "Okay so the Hindu religion or Hinduism is a religion that's widely practiced in the world and",
+      "trans": "好的，所以佛教或印度教是世界上广泛实践的宗教之一。",
+      "start": 198.0,
+      "end": 208.0
+    },
+    {
+      "text": "maybe most commonly found in India.",
+      "trans": "英语：它很可能是印度最常见的。",
+      "start": 208.0,
+      "end": 211.0
+    },
+    {
+      "text": "So you'll see a lot of Hindu temples in India and people don't eat beef like we said because",
+      "trans": "所以你会看到印度很多佛塔，人们不吃牛肉，因为我们说的。",
+      "start": 211.0,
+      "end": 218.0
+    },
+    {
+      "text": "cows are sacred in the Hindu religion.",
+      "trans": "牛在中国宗教中被视为神圣的。",
+      "start": 218.0,
+      "end": 220.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 220.0,
+      "end": 222.0
+    },
+    {
+      "text": "Okay so now in India or for Indian food it's common to not use any type of utensil to eat.",
+      "trans": "英语：现在在印度或吃印度食物时，通常不需要使用任何餐具来吃饭。",
+      "start": 222.0,
+      "end": 231.0
+    },
+    {
+      "text": "Okay so you might be wondering what is a utensil?",
+      "trans": "好的，那么请告诉我一个关于物品的疑问。",
+      "start": 231.0,
+      "end": 234.0
+    },
+    {
+      "text": "I know forks, I know spoons.",
+      "trans": "我认识叉子，我也认识勺子。",
+      "start": 234.0,
+      "end": 236.0
+    },
+    {
+      "text": "Well utensil is the word that describes all forks spoons and knives, things that you eat with.",
+      "trans": "餐具是指所有叉、勺和刀等用来吃的东西。",
+      "start": 236.0,
+      "end": 242.0
+    },
+    {
+      "text": "Okay so utensils are tools for eating and it's a very general category.",
+      "trans": "好的，所以餐具是用来吃饭的工具，这是一个非常广泛的类别。",
+      "start": 242.0,
+      "end": 247.0
+    },
+    {
+      "text": "Right exactly.",
+      "trans": "正确答案：完全正确。",
+      "start": 247.0,
+      "end": 248.0
+    },
+    {
+      "text": "So utensils are spoons, forks, knives, everything.",
+      "trans": "所以餐具是叉子、勺子、刀子，等等。",
+      "start": 248.0,
+      "end": 251.0
+    },
+    {
+      "text": "Topsticks are utensils even.",
+      "trans": "顶级筷子是餐具。",
+      "start": 251.0,
+      "end": 253.0
+    },
+    {
+      "text": "Okay very good.",
+      "trans": "好的，很好。",
+      "start": 253.0,
+      "end": 254.0
+    },
+    {
+      "text": "And now since we don't use any utensils you usually eat with your hand and you scoop up the food, the rice or the curry.",
+      "trans": "现在，因为我们在饭前自己动手吃饭，所以米饭或咖喱。",
+      "start": 254.0,
+      "end": 263.0
+    },
+    {
+      "text": "Okay to scoop up this is a verb and usually you use your hands to scoop something.",
+      "trans": "好的，可以舀取这个是动词，通常你用双手来舀取东西。",
+      "start": 263.0,
+      "end": 269.0
+    },
+    {
+      "text": "So in this case I can use a piece of bread to scoop up or to pick up some food.",
+      "trans": "所以，在这种情况下，我可以用一块面包来舀或捡起一些食物。",
+      "start": 269.0,
+      "end": 274.0
+    },
+    {
+      "text": "That's right so the verb to scoop up it usually means that you somehow make a little bowl or",
+      "trans": "没错，所以这个动词“to scoop up”通常意味着你通过某种方式使一个小碗或容器变得有些小。",
+      "start": 274.0,
+      "end": 280.0
+    },
+    {
+      "text": "a little figure with your hand so that the liquid or the food will fit inside kind of like a little scoop.",
+      "trans": "一个手拿着小物体，这样液体或食物可以像一个小勺子一样放入。",
+      "start": 280.0,
+      "end": 287.0
+    },
+    {
+      "text": "Or a little cup that's right.",
+      "trans": "英语：或者一个杯子，正好。",
+      "start": 287.0,
+      "end": 289.0
+    },
+    {
+      "text": "So to scoop up, scoop something up.",
+      "trans": "所以，要收集，收集什么。",
+      "start": 289.0,
+      "end": 291.0
+    },
+    {
+      "text": "Alright so now let's go back, let's review this dialogue and when we come back we're going to take a look at the specific Indian dishes found in this dialogue.",
+      "trans": "好的，现在让我们回到对话开始的地方，让我们回顾一下这个对话中提到的印度菜肴。",
+      "start": 291.0,
+      "end": 300.0
+    },
+    {
+      "text": "So where's this mystery restaurant that we're going to?",
+      "trans": "英语：所以这个神秘的餐厅我们要去不了。",
+      "start": 300.0,
+      "end": 310.0
+    },
+    {
+      "text": "It's an Indian restaurant.",
+      "trans": "它是一家印度餐厅。",
+      "start": 310.0,
+      "end": 312.0
+    },
+    {
+      "text": "I know you have never had Indian food so I thought you might want to try it.",
+      "trans": "我了解你从未吃过印度食物，所以我猜测你可能想尝试一下。",
+      "start": 312.0,
+      "end": 317.0
+    },
+    {
+      "text": "That sounds great.",
+      "trans": "听起来不错。",
+      "start": 317.0,
+      "end": 319.0
+    },
+    {
+      "text": "I am craving some type of beef dish.",
+      "trans": "我正在寻找一些牛肉菜肴。",
+      "start": 319.0,
+      "end": 322.0
+    },
+    {
+      "text": "Well Indian cuisine actually doesn't serve beef.",
+      "trans": "英语：印度菜实际上并不提供牛肉。",
+      "start": 322.0,
+      "end": 325.0
+    },
+    {
+      "text": "You see cows are a sacred animal, a very important element in the Hindu religion so beef is not eaten.",
+      "trans": "英语：你看到牛是神圣的动物，非常重要的元素之一，在印度教中不吃牛肉。",
+      "start": 325.0,
+      "end": 333.0
+    },
+    {
+      "text": "I see.",
+      "trans": "我看见。",
+      "start": 333.0,
+      "end": 334.0
+    },
+    {
+      "text": "So what are we having?",
+      "trans": "英语：所以我们正在做什么？",
+      "start": 334.0,
+      "end": 335.0
+    },
+    {
+      "text": "Chicken.",
+      "trans": "鸡蛋。",
+      "start": 335.0,
+      "end": 336.0
+    },
+    {
+      "text": "There are many amazing dishes to choose from.",
+      "trans": "有很多美味的食物可以选择。",
+      "start": 336.0,
+      "end": 339.0
+    },
+    {
+      "text": "We can have some chicken tikka masala which is an amazing curry.",
+      "trans": "我们能尝尝一些鸡肉泰式咖喱，这是一道非常美味的咖喱。",
+      "start": 339.0,
+      "end": 344.0
+    },
+    {
+      "text": "It's a bit spicy but I think you can handle it.",
+      "trans": "英语：它有点辣，但我认为你能处理好。",
+      "start": 344.0,
+      "end": 347.0
+    },
+    {
+      "text": "Sounds good.",
+      "trans": "好的。",
+      "start": 347.0,
+      "end": 348.0
+    },
+    {
+      "text": "I've always heard that Indian spices give a rich flavor to food.",
+      "trans": "我一直在听老话说，印度香料能为食物增添丰富的风味。",
+      "start": 348.0,
+      "end": 352.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 352.0,
+      "end": 353.0
+    },
+    {
+      "text": "Also we can have some non bread which has baked in a tandoori oven.",
+      "trans": "英语：还我们可以有一些带有烤制过的豆子的面点。",
+      "start": 353.0,
+      "end": 357.0
+    },
+    {
+      "text": "Since you don't use any utensils to eat you can use this bread to scoop up the curry, right?",
+      "trans": "因为您不用用任何工具来吃，您可以使用这个面包来舀起咖喱，对吗？",
+      "start": 357.0,
+      "end": 362.0
+    },
+    {
+      "text": "What about veggies?",
+      "trans": "关于蔬菜？",
+      "start": 362.0,
+      "end": 363.0
+    },
+    {
+      "text": "Oh they have a good variety of vegetable-based dishes like palak paneer, vegetable samosas or dal.",
+      "trans": "英语：他们有各种蔬菜基底的菜肴，比如炒青椒、炒菠菜或炒豆腐。",
+      "start": 363.0,
+      "end": 370.0
+    },
+    {
+      "text": "It all sounds so exquisite.",
+      "trans": "英语：它听起来真是太精致了。",
+      "start": 370.0,
+      "end": 372.0
+    },
+    {
+      "text": "I can't wait.",
+      "trans": "我迫不及待了。",
+      "start": 372.0,
+      "end": 375.0
+    },
+    {
+      "text": "Alright we're back so now let's take a look at those dishes on Language Takeaway Part 2.",
+      "trans": "好的，我们已经回来。现在让我们来看看Part 2中的那些菜肴。",
+      "start": 375.0,
+      "end": 381.0
+    },
+    {
+      "text": "Now Marco these lessons are making me so hungry and we've been doing them for a couple weeks now.",
+      "trans": "现在莫卡斯这些课程让我胃口大开，我们已经持续学习了两周多了。",
+      "start": 381.0,
+      "end": 386.0
+    },
+    {
+      "text": "And this one is no exception.",
+      "trans": "而且这个也是例外。",
+      "start": 386.0,
+      "end": 388.0
+    },
+    {
+      "text": "We talked a little bit today about chicken dishes and vegetable dishes but a very general kind of dish in Indian food is a curry.",
+      "trans": "我们今天聊了鸡丁和豆皮，但印度菜里的一个普遍类型是咖喱。",
+      "start": 388.0,
+      "end": 395.0
+    },
+    {
+      "text": "That's right, a curry.",
+      "trans": "没错，这是咖喱。",
+      "start": 395.0,
+      "end": 396.0
+    },
+    {
+      "text": "Now this is a noun and it's a dish that has a variety of spices in it.",
+      "trans": "现在这个是个名词，它里面有一个菜，里面有各种调料。",
+      "start": 396.0,
+      "end": 402.0
+    },
+    {
+      "text": "That's right so there are many different flavors, not just one flavor.",
+      "trans": "没错，所以有很多不同的口味，不仅仅是单一的口味。",
+      "start": 402.0,
+      "end": 405.0
+    },
+    {
+      "text": "You can have chicken curries and vegetable curries and mutton or lamb curries.",
+      "trans": "你可以说炒鸡的鸡肉咖喱和羊肉咖喱，或者说炖肉或煮肉的咖喱。",
+      "start": 405.0,
+      "end": 410.0
+    },
+    {
+      "text": "But the thing that you need to remember in Indian food is that there's usually different colors of curry.",
+      "trans": "但是，在印度食物中，通常会有不同的咖喱颜色。",
+      "start": 410.0,
+      "end": 415.0
+    },
+    {
+      "text": "Red, yellow or green curries.",
+      "trans": "红、黄或绿炒菜。",
+      "start": 415.0,
+      "end": 418.0
+    },
+    {
+      "text": "That's right exactly.",
+      "trans": "正确翻译：那正好。",
+      "start": 418.0,
+      "end": 420.0
+    },
+    {
+      "text": "The dishes are usually called curries and an example of a curry.",
+      "trans": "英文：菜肴通常被称为咖喱和一道菜的例证。",
+      "start": 420.0,
+      "end": 425.0
+    },
+    {
+      "text": "We have a chicken tikka masala curry.",
+      "trans": "我们有一道鸡肉泰式咖喱菜。",
+      "start": 425.0,
+      "end": 428.0
+    },
+    {
+      "text": "Okay so we know that there's chicken in it and tikka means that it's grilled chicken.",
+      "trans": "好的，我们已经知道有鸡和泰式咖喱。",
+      "start": 428.0,
+      "end": 434.0
+    },
+    {
+      "text": "And masala is the name of the spice or the curry, the spice that's in that curry.",
+      "trans": "英语：和咖喱是辣酱或咖喱粉，咖喱粉在那道菜里。",
+      "start": 434.0,
+      "end": 439.0
+    },
+    {
+      "text": "Exactly, exactly.",
+      "trans": "正确，正确。",
+      "start": 439.0,
+      "end": 441.0
+    },
+    {
+      "text": "So a curry is kind of like a thick sauce with pieces of chicken in it.",
+      "trans": "所以，一个咖喱是像鸡肉块和一些鸡丁的汤一样稠。",
+      "start": 441.0,
+      "end": 446.0
+    },
+    {
+      "text": "In this case for the chicken tikka masala, it's a little bit spicy and it's a color red.",
+      "trans": "在这个案例中，对于鸡肉泰式咖喱酱，它有点辣，颜色是红色的。",
+      "start": 446.0,
+      "end": 451.0
+    },
+    {
+      "text": "All right so we've got the chicken tikka masala or masala.",
+      "trans": "英语：所有准备好了，所以我们有咖喱鸡或咖喱粉。",
+      "start": 451.0,
+      "end": 456.0
+    },
+    {
+      "text": "And usually you eat this with rice or bread.",
+      "trans": "通常，你吃这个食物通常是用米饭或面包。",
+      "start": 456.0,
+      "end": 459.0
+    },
+    {
+      "text": "But in India there's a special, there are many different kinds of bread.",
+      "trans": "但是，在印度，有一种特别的，有很多不同的面包。",
+      "start": 459.0,
+      "end": 462.0
+    },
+    {
+      "text": "But the special bread we heard today was called non bread.",
+      "trans": "但是今天我们听到的特别面包叫做非面包。",
+      "start": 462.0,
+      "end": 465.0
+    },
+    {
+      "text": "Right, non bread.",
+      "trans": "正确，不面包。",
+      "start": 465.0,
+      "end": 467.0
+    },
+    {
+      "text": "And it's just basically a type of bread.",
+      "trans": "而且基本上是一种面包。",
+      "start": 467.0,
+      "end": 469.0
+    },
+    {
+      "text": "Now it's not like the bread that you usually have at home.",
+      "trans": "现在，它不像你通常在家吃的面包那么香。",
+      "start": 469.0,
+      "end": 472.0
+    },
+    {
+      "text": "It's a flat bread.",
+      "trans": "它是面饼。",
+      "start": 472.0,
+      "end": 474.0
+    },
+    {
+      "text": "So it kind of looks like a pancake almost.",
+      "trans": "所以它有点像一个煎饼。",
+      "start": 474.0,
+      "end": 476.0
+    },
+    {
+      "text": "It does. It's not fluffy. It's flat.",
+      "trans": "是的，它不是蓬松的。它是平的。",
+      "start": 476.0,
+      "end": 479.0
+    },
+    {
+      "text": "And the way they cook it is they use this special oven and they cook it inside the oven.",
+      "trans": "他们用这个特别的炉子烹饪，然后把食物放在炉子里。",
+      "start": 479.0,
+      "end": 484.0
+    },
+    {
+      "text": "Now the question is what is that oven called?",
+      "trans": "现在这个问题是“那个烤箱叫什么名字？”",
+      "start": 484.0,
+      "end": 486.0
+    },
+    {
+      "text": "Marco.",
+      "trans": "马克。",
+      "start": 486.0,
+      "end": 487.0
+    },
+    {
+      "text": "That's right. The oven that we heard is a tandoori oven.",
+      "trans": "没错，我们听到的那台烤箱就是泰式烤箱。",
+      "start": 487.0,
+      "end": 491.0
+    },
+    {
+      "text": "Okay so tandoori is just the name of this oven.",
+      "trans": "好的，所以这个烤箱叫这台炉子。",
+      "start": 491.0,
+      "end": 494.0
+    },
+    {
+      "text": "It's also a style of cooking in India.",
+      "trans": "它也是印度的一种烹饪风格。",
+      "start": 494.0,
+      "end": 497.0
+    },
+    {
+      "text": "And it's actually one of my favorite kinds of Indian food because you have these many different kinds of grilled meats.",
+      "trans": "而且，这其实是我最喜欢的印度食物之一，因为你可以享受到这么多不同的烤肉。",
+      "start": 497.0,
+      "end": 503.0
+    },
+    {
+      "text": "You can have tandoori chicken, tandoori, mutton, things like that.",
+      "trans": "你可以说烤鸡、烤肉、羊肉，等等。",
+      "start": 503.0,
+      "end": 508.0
+    },
+    {
+      "text": "Exactly. So a tandoori oven is a type of oven usually made from clay.",
+      "trans": "是的。所以，一个塔司炉是一种通常由粘土制成的烤箱。",
+      "start": 508.0,
+      "end": 513.0
+    },
+    {
+      "text": "That's why it's called tandoori.",
+      "trans": "因此，它被称为泰式。",
+      "start": 513.0,
+      "end": 515.0
+    },
+    {
+      "text": "Now towards the end we also have some vegetarian options because as we heard in India they don't eat beef.",
+      "trans": "现在我们还有一些素食选项，因为正如我们在印度听到的那样，他们不吃牛肉。",
+      "start": 515.0,
+      "end": 523.0
+    },
+    {
+      "text": "And many people are also vegetarians.",
+      "trans": "和很多人也是素食主义者。",
+      "start": 523.0,
+      "end": 525.0
+    },
+    {
+      "text": "They don't eat any type of meat at all.",
+      "trans": "他们不吃任何肉类。",
+      "start": 525.0,
+      "end": 527.0
+    },
+    {
+      "text": "So the first vegetable based dish that we heard is a palak paneer.",
+      "trans": "所以第一道菜是咖喱粉条。",
+      "start": 527.0,
+      "end": 532.0
+    },
+    {
+      "text": "That's interesting actually because paneer is curd or like a cheese type of cheese type of thing.",
+      "trans": "这个确实很有趣，因为那是一种像奶酪或类似奶酪的东西。",
+      "start": 532.0,
+      "end": 540.0
+    },
+    {
+      "text": "So it's usually white and comes in rectangles.",
+      "trans": "所以通常它会是白色的，并且通常是长方形的。",
+      "start": 540.0,
+      "end": 545.0
+    },
+    {
+      "text": "And paneer you can have many different flavors of it.",
+      "trans": "你可以尝试不同的口味来享用奶酪。",
+      "start": 545.0,
+      "end": 548.0
+    },
+    {
+      "text": "But paneer generally is kind of a cheese, like cottage cheese.",
+      "trans": "但是 Paneer 通常是一种奶酪，类似于 cottage cheese。",
+      "start": 548.0,
+      "end": 551.0
+    },
+    {
+      "text": "That's right. And palak is actually spinach.",
+      "trans": "是的，正确。而且帕拉克实际上是一种菠菜。",
+      "start": 551.0,
+      "end": 554.0
+    },
+    {
+      "text": "So it's a dish that it kind of looks like a thick sauce, green sauce, which is made out of spinach.",
+      "trans": "所以它有点像一道浓稠的酱汁，里面是菠菜。",
+      "start": 554.0,
+      "end": 562.0
+    },
+    {
+      "text": "And within it it has little pieces of this type of cheese.",
+      "trans": "并且在其中它有这种类型的奶酪碎片。",
+      "start": 562.0,
+      "end": 566.0
+    },
+    {
+      "text": "I love this dish.",
+      "trans": "我爱这个菜。",
+      "start": 566.0,
+      "end": 567.0
+    },
+    {
+      "text": "It's very very delicious.",
+      "trans": "它是极极美味的。",
+      "start": 567.0,
+      "end": 569.0
+    },
+    {
+      "text": "And we also have vegetable samosas.",
+      "trans": "和我们还有蔬菜沙拉呢。",
+      "start": 569.0,
+      "end": 571.0
+    },
+    {
+      "text": "Now a samosa, what's that?",
+      "trans": "现在一个萨摩亚，什么？",
+      "start": 571.0,
+      "end": 573.0
+    },
+    {
+      "text": "This is a great dish.",
+      "trans": "这个是美味的菜肴。",
+      "start": 573.0,
+      "end": 574.0
+    },
+    {
+      "text": "This is often used as an appetizer or as a snack.",
+      "trans": "这个经常被用作开胃菜或零食。",
+      "start": 574.0,
+      "end": 577.0
+    },
+    {
+      "text": "You see these on carts or on the street in India.",
+      "trans": "英语：你看到这些在卡车或路边。",
+      "start": 577.0,
+      "end": 580.0
+    },
+    {
+      "text": "Now samosas are like pyramids or triangles.",
+      "trans": "现在这些点心像金字塔或三角形一样。",
+      "start": 580.0,
+      "end": 583.0
+    },
+    {
+      "text": "And inside they have vegetables.",
+      "trans": "而且里面还有蔬菜。",
+      "start": 583.0,
+      "end": 585.0
+    },
+    {
+      "text": "So you can have potatoes and peas or lentils.",
+      "trans": "所以你可以有土豆和豌豆，或者绿豆。",
+      "start": 585.0,
+      "end": 589.0
+    },
+    {
+      "text": "No, not lentils.",
+      "trans": "是的，不是豌豆。",
+      "start": 589.0,
+      "end": 590.0
+    },
+    {
+      "text": "You can have potatoes and peas.",
+      "trans": "你可以说有土豆和豌豆。",
+      "start": 590.0,
+      "end": 592.0
+    },
+    {
+      "text": "And they're a little bit crunchy on the outside and soft on the inside.",
+      "trans": "他们外皮稍微有点脆，内里柔软。",
+      "start": 592.0,
+      "end": 596.0
+    },
+    {
+      "text": "And they're very tasty.",
+      "trans": "他们很好吃。",
+      "start": 596.0,
+      "end": 597.0
+    },
+    {
+      "text": "Yes, the equivalent would be to...",
+      "trans": "是的，这个等效的表达方式是...。",
+      "start": 597.0,
+      "end": 599.0
+    },
+    {
+      "text": "It's something like an egg roll, more or less...",
+      "trans": "英语：它像一个鸡蛋卷，稍微...",
+      "start": 599.0,
+      "end": 601.0
+    },
+    {
+      "text": "Like a dumpling.",
+      "trans": "像一个饺子。",
+      "start": 601.0,
+      "end": 602.0
+    },
+    {
+      "text": "Like a dumpling because it is deep fried.",
+      "trans": "英语：像一个大饺子，因为是深煎的。",
+      "start": 602.0,
+      "end": 604.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "那正是。",
+      "start": 604.0,
+      "end": 605.0
+    },
+    {
+      "text": "And we also have a doll.",
+      "trans": "和我们还有个娃娃。",
+      "start": 605.0,
+      "end": 608.0
+    },
+    {
+      "text": "So this is actually a type of lentil, as you mentioned.",
+      "trans": "所以，这实际上是一种豆类，您提到的。",
+      "start": 608.0,
+      "end": 612.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 612.0,
+      "end": 613.0
+    },
+    {
+      "text": "So doll is a lentil dish and it can be flavored in different ways.",
+      "trans": "所以豆腐是个炖菜，可以调成各种口味。",
+      "start": 613.0,
+      "end": 617.0
+    },
+    {
+      "text": "But basically lentils are these very very very small round things.",
+      "trans": "但是基本上这些是非常非常小的圆球。",
+      "start": 617.0,
+      "end": 623.0
+    },
+    {
+      "text": "They're very good for your health.",
+      "trans": "他们对你的健康非常有帮助。",
+      "start": 623.0,
+      "end": 625.0
+    },
+    {
+      "text": "And doll is kind of a soupy lentil dish.",
+      "trans": "而且这个娃娃有点像炖菜。",
+      "start": 625.0,
+      "end": 629.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 629.0,
+      "end": 630.0
+    },
+    {
+      "text": "So lentil is the category of this type of...",
+      "trans": "所以豌豆是这种类型的类别...",
+      "start": 630.0,
+      "end": 634.0
+    },
+    {
+      "text": "I don't know if it's not a grain.",
+      "trans": "我并不知道是不是没有颗粒。",
+      "start": 634.0,
+      "end": 636.0
+    },
+    {
+      "text": "It's a legume.",
+      "trans": "是豆类。",
+      "start": 636.0,
+      "end": 637.0
+    },
+    {
+      "text": "It's a legume exactly.",
+      "trans": "它是一种豆类。",
+      "start": 637.0,
+      "end": 639.0
+    },
+    {
+      "text": "So it may sound a little bit weird, but we'll put some pictures of different types of lentils",
+      "trans": "所以，这可能听起来有点奇怪，但我们将展示不同类型的鹰嘴豆的照片。",
+      "start": 639.0,
+      "end": 644.0
+    },
+    {
+      "text": "because it's like saying potatoes.",
+      "trans": "因为它像在说土豆一样。",
+      "start": 644.0,
+      "end": 646.0
+    },
+    {
+      "text": "There are many different types of potatoes.",
+      "trans": "有很多不同的种类的土豆。",
+      "start": 646.0,
+      "end": 648.0
+    },
+    {
+      "text": "Sweet potato and all this.",
+      "trans": "甜薯和这一切。",
+      "start": 648.0,
+      "end": 649.0
+    },
+    {
+      "text": "And the same thing goes with lentils.",
+      "trans": "同样，豌豆也跟着发芽。",
+      "start": 649.0,
+      "end": 651.0
+    },
+    {
+      "text": "So we'll put some pictures so you can see what it looks like.",
+      "trans": "所以我们将放置一些照片，以便您能看到它是什么样子。",
+      "start": 651.0,
+      "end": 654.0
+    },
+    {
+      "text": "But now why don't we go back?",
+      "trans": "但是现在我们为什么不回去呢？",
+      "start": 654.0,
+      "end": 656.0
+    },
+    {
+      "text": "Let's listen to the dialogue again.",
+      "trans": "让我们再次听对话。",
+      "start": 656.0,
+      "end": 658.0
+    },
+    {
+      "text": "Let's review everything and we'll be right back.",
+      "trans": "让我们回顾一下所有的事情，然后我们马上回来。",
+      "start": 658.0,
+      "end": 660.0
+    },
+    {
+      "text": "So where's this mystery restaurant that we're going to?",
+      "trans": "英语：所以这个神秘的餐厅我们要去不了。",
+      "start": 666.0,
+      "end": 669.0
+    },
+    {
+      "text": "It's an Indian restaurant.",
+      "trans": "它是一家印度餐厅。",
+      "start": 669.0,
+      "end": 671.0
+    },
+    {
+      "text": "I know you have never had Indian food.",
+      "trans": "我了解你从未吃过印度食物。",
+      "start": 671.0,
+      "end": 674.0
+    },
+    {
+      "text": "So I thought you might want to try it.",
+      "trans": "所以我想你可能想试试这个。",
+      "start": 674.0,
+      "end": 676.0
+    },
+    {
+      "text": "That sounds great.",
+      "trans": "听起来不错。",
+      "start": 676.0,
+      "end": 678.0
+    },
+    {
+      "text": "I am craving some type of beef dish.",
+      "trans": "我正在寻找一些牛肉菜肴。",
+      "start": 678.0,
+      "end": 681.0
+    },
+    {
+      "text": "Well, Indian cuisine actually doesn't serve beef.",
+      "trans": "英语：嗯，印度菜其实不放牛肉。",
+      "start": 681.0,
+      "end": 685.0
+    },
+    {
+      "text": "You see cows are a sacred animal.",
+      "trans": "你看到牛是神圣的动物。",
+      "start": 685.0,
+      "end": 687.0
+    },
+    {
+      "text": "A very important element in the Hindu religion.",
+      "trans": "一个非常重要的元素在印度教中。",
+      "start": 687.0,
+      "end": 690.0
+    },
+    {
+      "text": "So beef is not eaten.",
+      "trans": "所以牛肉不是吃的食物。",
+      "start": 690.0,
+      "end": 692.0
+    },
+    {
+      "text": "I see.",
+      "trans": "我看到。",
+      "start": 692.0,
+      "end": 693.0
+    },
+    {
+      "text": "So what are we having?",
+      "trans": "英语：所以我们正在做什么？",
+      "start": 693.0,
+      "end": 694.0
+    },
+    {
+      "text": "Chicken.",
+      "trans": "鸡蛋。",
+      "start": 694.0,
+      "end": 695.0
+    },
+    {
+      "text": "There are many amazing dishes to choose from.",
+      "trans": "有很多美味的食物可以尝试。",
+      "start": 695.0,
+      "end": 699.0
+    },
+    {
+      "text": "We can have some chicken tikka masala, which is an amazing curry.",
+      "trans": "我们能尝尝一些鸡肉泰式咖喱，这是一道非常美味的咖喱。",
+      "start": 699.0,
+      "end": 703.0
+    },
+    {
+      "text": "It's a bit spicy, but I think you can handle it.",
+      "trans": "英语：它有点辣，但我认为你能处理好。",
+      "start": 703.0,
+      "end": 707.0
+    },
+    {
+      "text": "Sounds good.",
+      "trans": "好的。",
+      "start": 707.0,
+      "end": 708.0
+    },
+    {
+      "text": "I've always heard that Indian spices give a rich flavor to food.",
+      "trans": "英语：我一直听说印度香料能为食物增添丰富的风味。",
+      "start": 708.0,
+      "end": 712.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 712.0,
+      "end": 713.0
+    },
+    {
+      "text": "Also, we can have some non-bread, which has baked in a tandoori oven.",
+      "trans": "另外，我们还可以有一些非烘焙食品，它们已经烤在了烤炉里。",
+      "start": 713.0,
+      "end": 716.0
+    },
+    {
+      "text": "Since you don't use any utensils to eat, you can use this bread to scoop up the curry or rice.",
+      "trans": "因为您不使用任何餐具来吃饭，您可以用这个面包来舀起咖喱或米饭。",
+      "start": 716.0,
+      "end": 721.0
+    },
+    {
+      "text": "What about veggies?",
+      "trans": "关于蔬菜？",
+      "start": 721.0,
+      "end": 723.0
+    },
+    {
+      "text": "Oh, they have a good variety of vegetable-based dishes like palak paneer, vegetable samosas, or dal.",
+      "trans": "英语：哦，他们有各种蔬菜基底的菜肴，比如咖喱炒饭、蔬菜沙拉或豆沙包。",
+      "start": 723.0,
+      "end": 729.0
+    },
+    {
+      "text": "It all sounds so exquisite.",
+      "trans": "英语：它听起来真是太精致了。",
+      "start": 729.0,
+      "end": 731.0
+    },
+    {
+      "text": "I can't wait.",
+      "trans": "我迫不及待了。",
+      "start": 731.0,
+      "end": 733.0
+    },
+    {
+      "text": "All right, we're back.",
+      "trans": "英语：一切好，我们回来了。",
+      "start": 734.0,
+      "end": 736.0
+    },
+    {
+      "text": "So Indian food has a reputation of being spicy, but it's very, very delicious.",
+      "trans": "英语：所以印度食物有被描述为辛辣，但实际上非常美味。",
+      "start": 736.0,
+      "end": 741.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 741.0,
+      "end": 742.0
+    },
+    {
+      "text": "And you know, what people always tell me, at least my Indian friends always tell me,",
+      "trans": "而且你知道，至少我的印度朋友总是告诉我。",
+      "start": 742.0,
+      "end": 746.0
+    },
+    {
+      "text": "is that Indian food, saying Indian food is like saying Chinese food.",
+      "trans": "是这样的，印度食物和说印度食物就像说中国食物。",
+      "start": 746.0,
+      "end": 750.0
+    },
+    {
+      "text": "We have some general idea, but every different part of India has its own special foods.",
+      "trans": "我们有一些基本的了解，但每个印度的不同部分都有自己独特的美食。",
+      "start": 750.0,
+      "end": 755.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 755.0,
+      "end": 756.0
+    },
+    {
+      "text": "And so what we get in America at Indian restaurants might not be the same as what we get at Indian restaurants in India.",
+      "trans": "美国的印度餐厅可能与在印度的印度餐厅不同。",
+      "start": 756.0,
+      "end": 762.0
+    },
+    {
+      "text": "So I just want to say that.",
+      "trans": "英语：所以我只是想说。",
+      "start": 763.0,
+      "end": 764.0
+    },
+    {
+      "text": "But generally, you can find these dishes at any Indian restaurants in America.",
+      "trans": "但是通常，你可以在这里找到各种印度餐厅的餐点。",
+      "start": 764.0,
+      "end": 768.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "正确。",
+      "start": 768.0,
+      "end": 769.0
+    },
+    {
+      "text": "Actually, if next time you're in an Indian restaurant, or if you ever go,",
+      "trans": "实际上，如果下次你去印度餐厅或者你将来有一天会去，",
+      "start": 769.0,
+      "end": 772.0
+    },
+    {
+      "text": "ask them from what region or what area of India the food is from,",
+      "trans": "请告诉我他们从哪里或印度哪个地区购买的食物。",
+      "start": 772.0,
+      "end": 776.0
+    },
+    {
+      "text": "because it may be northern Indian cuisine, and obviously that is going to be a little bit different than maybe the southern.",
+      "trans": "因为可能是北方印度菜，而且显然那会比南方稍微复杂一些。",
+      "start": 776.0,
+      "end": 783.0
+    },
+    {
+      "text": "I think the southern is supposed to be spicy.",
+      "trans": "我感觉南方应该辣。",
+      "start": 783.0,
+      "end": 785.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 785.0,
+      "end": 786.0
+    },
+    {
+      "text": "And it's just like in every country, even in our own home countries,",
+      "trans": "而且就像在每一个国家一样，甚至在我们的本国之中。",
+      "start": 786.0,
+      "end": 790.0
+    },
+    {
+      "text": "maybe the food from the coast or from the north will be different from the south or the inland.",
+      "trans": "英语：也许从海岸或北方来的食物会比南方或内陆的食物要不同。",
+      "start": 790.0,
+      "end": 795.0
+    },
+    {
+      "text": "And I just want to make one more comment.",
+      "trans": "而且我只是想再提一个建议。",
+      "start": 795.0,
+      "end": 798.0
+    },
+    {
+      "text": "One of my favorite things to do that many Indian restaurants offer in America is the lunch buffet.",
+      "trans": "我的最爱在美国内地的许多印度餐厅，午餐自助餐是我最喜欢的一道菜。",
+      "start": 798.0,
+      "end": 804.0
+    },
+    {
+      "text": "So a buffet is basically a self-serve of food.",
+      "trans": "所以自助餐基本上就是自己点菜了。",
+      "start": 804.0,
+      "end": 809.0
+    },
+    {
+      "text": "So the restaurant will put out many different dishes, and you can take as much as you want to each, but you pay one price.",
+      "trans": "所以餐厅会提供许多不同的菜肴，你可以根据自己的口味随意选择，但每道菜都要付一个价格。",
+      "start": 809.0,
+      "end": 815.0
+    },
+    {
+      "text": "So it's $11.99 or something.",
+      "trans": "英语：所以它$11.99或更多。",
+      "start": 815.0,
+      "end": 818.0
+    },
+    {
+      "text": "That's very, very good.",
+      "trans": "那真是太好了。",
+      "start": 818.0,
+      "end": 819.0
+    },
+    {
+      "text": "And yeah, so I often do this when I'm home in the States, and I just, you know,",
+      "trans": "而且，我经常在家里美国做这件事，你知道……",
+      "start": 819.0,
+      "end": 824.0
+    },
+    {
+      "text": "I get to pick my favorite dishes, and I eat as much as I want.",
+      "trans": "我可以选择我的最爱菜肴，而且吃得比别人多。",
+      "start": 824.0,
+      "end": 827.0
+    },
+    {
+      "text": "And actually, I think one other thing that's worth mentioning,",
+      "trans": "而且，我认为另一件值得提及的事情。",
+      "start": 827.0,
+      "end": 829.0
+    },
+    {
+      "text": "we didn't mention in the dialogue, but the Indian sweets and the tea is very, very good.",
+      "trans": "我们没有在对话中提到印度的甜点和茶，但印度的糖果和茶叶非常棒。",
+      "start": 829.0,
+      "end": 835.0
+    },
+    {
+      "text": "The milk tea that they drink in India is delicious, and the sweets are very, very good.",
+      "trans": "印度的奶茶非常美味，而甜点也非常棒。",
+      "start": 835.0,
+      "end": 841.0
+    },
+    {
+      "text": "That's right. They're famous for being very good and not very healthy for you.",
+      "trans": "是的，他们很擅长并且不太适合你。",
+      "start": 841.0,
+      "end": 845.0
+    },
+    {
+      "text": "Yeah, exactly. They're very sweet.",
+      "trans": "是的，他们真的很甜。",
+      "start": 845.0,
+      "end": 846.0
+    },
+    {
+      "text": "If you're in a restaurant, take note.",
+      "trans": "如果你在餐厅，记得注意。",
+      "start": 846.0,
+      "end": 849.0
+    },
+    {
+      "text": "Look for these different things, and let us know.",
+      "trans": "请告诉我，这些不同的东西是什么？",
+      "start": 849.0,
+      "end": 852.0
+    },
+    {
+      "text": "Do you like to eat Indian food?",
+      "trans": "是的，我喜欢吃印度食物。",
+      "start": 852.0,
+      "end": 853.0
+    },
+    {
+      "text": "If so, what's your favorite dish?",
+      "trans": "如果这样，你最喜欢的食物是什么？",
+      "start": 853.0,
+      "end": 855.0
+    },
+    {
+      "text": "All right. So we'll see you guys at our website, Englishpa.com.",
+      "trans": "好的，我已经按照规则完成了任务。以下是翻译结果：",
+      "start": 855.0,
+      "end": 859.0
+    },
+    {
+      "text": "And until next time.",
+      "trans": "直到下次。",
+      "start": 859.0,
+      "end": 860.0
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 860.0,
+      "end": 861.0
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 861.0,
+      "end": 862.0
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "title": "englishpod_0165pb",
+  "audio": "./assets/englishpod_0165pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners and welcome back to EnglishPod. My name is Marco.",
+      "trans": "你好，英语学习者，欢迎再次来到英语有声阅读。我的名字是Marco。",
+      "start": 0.0,
+      "end": 6.8
+    },
+    {
+      "text": "And my name is Catherine and today we're talking about money, but this time we're talking about",
+      "trans": "我的名字是凯瑟琳，今天我们要谈论的是钱，但这次我们谈论的是关于\n\n请注意，这里翻译了“money”为“钱”，这是对原文的直接翻译。如果需要更准确地表达“金钱”或“货币”的意思，请告知。",
+      "start": 6.8,
+      "end": 11.92
+    },
+    {
+      "text": "borrowing money. Right, so we're asking for money. We're going to the bank and we are asking for",
+      "trans": "借债。没错，所以我们向银行借款。我们去那里并要求他们提供贷款。",
+      "start": 11.92,
+      "end": 17.6
+    },
+    {
+      "text": "a loan. But before we go, why don't we take a look at vocabulary preview?",
+      "trans": "贷款。但是在我们继续之前，为什么不先看看词汇预览？",
+      "start": 17.6,
+      "end": 22.16
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 22.16,
+      "end": 24.96
+    },
+    {
+      "text": "Okay, so a loan is some money that you get from the bank, so we're talking about requesting",
+      "trans": "好的，所以贷款是你从银行借来的钱，所以我们谈论的是请求。",
+      "start": 25.92,
+      "end": 30.96
+    },
+    {
+      "text": "a loan today. All right, so you request for a loan or you ask for a loan?",
+      "trans": "今天借呗。好的，你要求贷款吗？还是你想申请贷款？",
+      "start": 30.96,
+      "end": 35.6
+    },
+    {
+      "text": "Exactly. So to request is to ask. Okay, very good. And that's the word that we have for",
+      "trans": "Exactly。所以请求就是询问。好的，非常好。这就是我们使用的单词是",
+      "start": 35.6,
+      "end": 40.64
+    },
+    {
+      "text": "vocabulary preview. So let's listen to the dialogue for the first time.",
+      "trans": "词汇预览。让我们第一次聆听对话。",
+      "start": 40.64,
+      "end": 44.32
+    },
+    {
+      "text": "Hello, sir. May I help you? Yes, I would like some information for requesting a loan.",
+      "trans": "你好，先生。我可以帮你吗？是的，我需要一些信息来申请贷款。",
+      "start": 44.32,
+      "end": 57.68
+    },
+    {
+      "text": "Very well. Here are the general terms of our loan policies. We pride ourselves in having the",
+      "trans": "很好。这是我们的贷款政策的一般条款。我们以拥有良好的信誉而自豪，因为我们有资格获得这项业务。",
+      "start": 58.56,
+      "end": 64.48
+    },
+    {
+      "text": "lowest interest rate in the country for personal loans. I see. So let me get this straight.",
+      "trans": "国家个人贷款的最低利率。我明白了。那么让我弄清楚这个。",
+      "start": 64.48,
+      "end": 71.2
+    },
+    {
+      "text": "If I borrow, let's say, $10,000, how much will I have to pay each month?",
+      "trans": "如果我借，比如说借 10000 元，每个月我要还多少钱？",
+      "start": 71.2,
+      "end": 76.56
+    },
+    {
+      "text": "It depends on how long you take to pay it back. If we lend you $10,000 at an annual interest rate of",
+      "trans": "这取决于你还款的时间有多长。如果我们借给你1万美元，年利率为",
+      "start": 76.56,
+      "end": 83.60000000000001
+    },
+    {
+      "text": "10% for 48 months, you would have to pay each month a portion of the loan, which is called the",
+      "trans": "10% 十个百分点 的贷款，你每个月需要支付一部分贷款金额，这被称为 每月还款额。",
+      "start": 83.60000000000001,
+      "end": 89.60000000000001
+    },
+    {
+      "text": "principal, and another small portion of the annual interest rate. This of course is considering",
+      "trans": "本金，以及每年利息总额的另一小部分。当然这是考虑了的。",
+      "start": 89.60000000000001,
+      "end": 95.84
+    },
+    {
+      "text": "that you don't default on a payment. It sounds good, but there's just one problem.",
+      "trans": "那就是你不要拖欠付款。听起来不错，但有一个问题。",
+      "start": 95.84,
+      "end": 101.28
+    },
+    {
+      "text": "I have a terrible credit score. That is a very serious problem, you see. The bank must assess your",
+      "trans": "我有一个糟糕的信用评分。那是一个非常严重的问题，你看。银行必须评估你的状况。",
+      "start": 101.84,
+      "end": 108.08
+    },
+    {
+      "text": "personal information, past loans, assets, and any other relevant information, such as your credit",
+      "trans": "个人资料、过去的贷款、资产以及其他相关的信息，如您的信用状况。",
+      "start": 108.08,
+      "end": 114.16
+    },
+    {
+      "text": "score in order to approve your loan. You know what? I don't really need the money. Thanks, anyways.",
+      "trans": "为了批准你的贷款，你需要支付费用。你知道吗？其实我并不需要这笔钱。谢谢。",
+      "start": 114.16,
+      "end": 120.08000000000001
+    },
+    {
+      "text": "Alright, we're back. So now, why don't we take a look at some of the key words that we'll find in language takeaway?",
+      "trans": "好的，我们回来了。那么现在，让我们来看看语言拿取中的一些关键词汇吧？",
+      "start": 120.88,
+      "end": 130.8
+    },
+    {
+      "text": "Language takeaway. Alright, so on language takeaway today, we have a couple of different words. Why",
+      "trans": "语言取走。今天，我们有几种不同的单词。为什么",
+      "start": 133.04,
+      "end": 140.07999999999998
+    },
+    {
+      "text": "don't we start off with the loan policies? Okay, so a policy is like a rule. For example,",
+      "trans": "我们不是从贷款政策开始的吗？好吧，所以一个政策就是一条规则。例如,",
+      "start": 140.07999999999998,
+      "end": 148.32
+    },
+    {
+      "text": "a government can have policies, but in this case, a loan policy is the rules regarding the loan",
+      "trans": "政府可以有政策，但在这种情况下，贷款政策是关于贷款的规则。",
+      "start": 148.32,
+      "end": 153.84
+    },
+    {
+      "text": "that you have. Right, so maybe the loan policies can include how long, what's the maximum length of",
+      "trans": "那就是你有的。对，所以贷款政策可能包括最长多久，最长可以贷多少",
+      "start": 153.84,
+      "end": 160.32
+    },
+    {
+      "text": "your loan, or maybe what's the annual interest rate, etc. How much you have to pay each month,",
+      "trans": "你的贷款，或者可能是年利率等等。你每个月要付多少钱？",
+      "start": 160.32,
+      "end": 167.04
+    },
+    {
+      "text": "exactly. So a loan policy is the rules related to the loan that you've taken out. And we have some",
+      "trans": "确切地说。贷款政策是关于你所取的贷款的相关规则。我们有一些",
+      "start": 167.04,
+      "end": 174.4
+    },
+    {
+      "text": "very, very important words following this. They go together. So the first word is to borrow.",
+      "trans": "非常非常重要的话接下来。它们是并列的，所以第一个词是借。",
+      "start": 174.4,
+      "end": 179.12
+    },
+    {
+      "text": "Okay, so you probably know this word already to borrow. So can I borrow your pen? Can I borrow some money?",
+      "trans": "好的，所以你大概率已经知道这个词了。我可以借你的钢笔吗？我可以借点钱吗？",
+      "start": 179.12,
+      "end": 184.96
+    },
+    {
+      "text": "Sure. Let me give you my pen. Let me give you my money. Okay. But wait, giving is different,",
+      "trans": "好的。让我给你我的钢笔。让我给你我的钱。好吧。但别急，给予是不同的。",
+      "start": 184.96,
+      "end": 189.92000000000002
+    },
+    {
+      "text": "because giving means I don't have to get it back. Right. So if you want to give it to someone",
+      "trans": "因为给予就意味着我不需要再取回。没错。所以如果你想把它送给某人",
+      "start": 189.92000000000002,
+      "end": 195.68
+    },
+    {
+      "text": "temporarily, then you lend them your pen, or you lend them some money. Great. So to borrow is to",
+      "trans": "暂时，然后你借给他们你的笔，或者你借给他们一些钱。很好。所以借钱就是",
+      "start": 195.68,
+      "end": 203.44
+    },
+    {
+      "text": "take something from someone knowing that you will have to give it back later. Right.",
+      "trans": "拿走某人东西，知道你后来要归还。对。",
+      "start": 203.6,
+      "end": 208.07999999999998
+    },
+    {
+      "text": "Until land is to give it to someone. Right. So can you lend me your pen? That means can you give",
+      "trans": "直到土地要归于某人。对了，你可以借我你的笔吗？这意味着你也可以给予",
+      "start": 208.07999999999998,
+      "end": 215.84
+    },
+    {
+      "text": "it to me, please? Right. And this is a common mistake with language learners, especially English learners,",
+      "trans": "请告诉我，好吗？当然。这在语言学习者中是一个常见的错误，尤其是英语学习者中。",
+      "start": 215.84,
+      "end": 221.28
+    },
+    {
+      "text": "that they make the mistake of using borrow instead of land. So can you borrow me some money?",
+      "trans": "那他们犯了使用借入而不是土地的错误。你能借给我一些钱吗？",
+      "start": 222.0,
+      "end": 227.76
+    },
+    {
+      "text": "Right. So can you lend me some money? Sure. But I expect you to pay me back later.",
+      "trans": "正确。你能借我一些钱吗？当然可以。不过，我希望你以后能按时还钱。",
+      "start": 228.64,
+      "end": 233.51999999999998
+    },
+    {
+      "text": "Okay. Very good. And if I pay you back later, I'll include an interest rate.",
+      "trans": "好的。很好。如果我以后再还你，我会加上利息的。",
+      "start": 233.51999999999998,
+      "end": 238.23999999999998
+    },
+    {
+      "text": "Will you really? No, not really. No, not really. Mostly it's banks that ask for an interest rate.",
+      "trans": "你会真的吗？不，不是真的。不，不是真的。大多数是银行要求利息率。",
+      "start": 238.23999999999998,
+      "end": 244.07999999999998
+    },
+    {
+      "text": "So in this case, an interest rate means the amount of money that a bank will charge you",
+      "trans": "在这种情况下，利率就是银行会收取你的金额。",
+      "start": 244.07999999999998,
+      "end": 250.0
+    },
+    {
+      "text": "in addition to the money that you owe them. Exactly. So it's called an interest rate. And it's a",
+      "trans": "除了你欠他们的钱之外。完全正确。所以这就是利息率。它是一个",
+      "start": 250.0,
+      "end": 255.92
+    },
+    {
+      "text": "rate because it's a percentage. So it's like 5% exactly 5, 10%. That is an interest rate.",
+      "trans": "因为这是一个百分比，所以是百分之五，百分之十。那是一个利率。",
+      "start": 255.92,
+      "end": 263.03999999999996
+    },
+    {
+      "text": "And now moving on if you have a loan and you have to pay each month, be careful to not default",
+      "trans": "现在，如果你有贷款并且每个月都要还钱，请注意不要违约。",
+      "start": 263.68,
+      "end": 269.44
+    },
+    {
+      "text": "on your payments. Okay. Defaults in the banking world, this means to not be able to pay your",
+      "trans": "在你的付款上。好的。银行世界中的默认设置意味着无法支付你的",
+      "start": 269.44,
+      "end": 276.08
+    },
+    {
+      "text": "loan. So that means that if I owe $1,000 to you bank of Marco and I don't have the money,",
+      "trans": "贷款。这意味着我欠马可银行1000美元，而我没有钱。",
+      "start": 276.08,
+      "end": 284.15999999999997
+    },
+    {
+      "text": "I can't pay for it, then I default. So to be late or to not make the payment.",
+      "trans": "我不能付款，那就违约了。所以要迟交或者不付款。",
+      "start": 284.16,
+      "end": 289.52000000000004
+    },
+    {
+      "text": "It's a verb to default. Very good. And will the person asking for the loan has a small problem,",
+      "trans": "这是一个动词，用于默认。很好。而且借款请求者是否有小问题？",
+      "start": 289.52000000000004,
+      "end": 295.20000000000005
+    },
+    {
+      "text": "his credit score is not very good. Okay. I think he calls it terrible. And one of the ways that you",
+      "trans": "他的信用评分不太好。好吧，我认为他称之为糟糕的。其中一个让他感到困扰的方式是...",
+      "start": 295.20000000000005,
+      "end": 300.88
+    },
+    {
+      "text": "get a terrible credit score is by defaulting on a loan. But it also means that maybe you borrow",
+      "trans": "欠下一笔贷款是获得糟糕信用评分的默认结果。但这还意味着你可能借了更多钱。",
+      "start": 300.88,
+      "end": 306.40000000000003
+    },
+    {
+      "text": "money or you have credit cards and you can't pay off your bills. And so a credit score is very",
+      "trans": "钱或者你有信用卡，但无法偿还账单。因此，信用评分非常重要。",
+      "start": 306.40000000000003,
+      "end": 312.16
+    },
+    {
+      "text": "important in America and it's like a report card for your finances. Right. So for example,",
+      "trans": "重要在美国，它就像你的财务报告卡。没错。例如，",
+      "start": 312.16,
+      "end": 317.6
+    },
+    {
+      "text": "if your credit score is a report card and you have an A credit score, that means that the banks",
+      "trans": "如果你的信用评分是报告卡，你有A级信用分数，这意味着银行对你持有一张“A”报告。",
+      "start": 317.6,
+      "end": 323.6
+    },
+    {
+      "text": "won't have a problem with lending you money or if you want to buy a new car, it'll be okay.",
+      "trans": "不会借钱给你，买车也行。",
+      "start": 323.6,
+      "end": 327.84000000000003
+    },
+    {
+      "text": "But if you don't pay your bills on time or you default on your loans, then maybe you'll have a",
+      "trans": "但是，如果你没有按时支付账单或者拖欠贷款，那么也许你会有...",
+      "start": 327.84000000000003,
+      "end": 333.68
+    },
+    {
+      "text": "C or a D and then people will not really lend you money in the future. They won't trust you. Exactly.",
+      "trans": "C或D，那么将来人们就不会真正借钱给你了。他们不会信任你。完全正确。",
+      "start": 333.68,
+      "end": 339.68
+    },
+    {
+      "text": "All right. So that's a credit score. That's all the words we have for fluency,",
+      "trans": "好的。这就是信用评分。这是我们用来表示流畅性的所有词汇。",
+      "start": 339.68,
+      "end": 343.68
+    },
+    {
+      "text": "builder. Why don't we listen to the dialogue again and we'll be back shortly.",
+      "trans": "建设者。我们再听听对话，很快就会回来的。",
+      "start": 343.68,
+      "end": 347.2
+    },
+    {
+      "text": "Hello, sir. May I help you? Yes. I would like some information for requesting a loan.",
+      "trans": "你好，先生。我可以帮你吗？是的。我需要一些信息来请求贷款。",
+      "start": 352.96000000000004,
+      "end": 358.4
+    },
+    {
+      "text": "Very well. Here are the general terms of our loan policies. We pride ourselves in having the",
+      "trans": "很好。这是我们的贷款政策的通用条款。我们以拥有优良记录为荣，提供以下服务：",
+      "start": 359.28000000000003,
+      "end": 365.2
+    },
+    {
+      "text": "lowest interest rate in the country for personal loans. I see. So let me get this straight.",
+      "trans": "国家个人贷款的最低利率。我知道了。让我弄清楚这个吧。",
+      "start": 365.2,
+      "end": 371.92
+    },
+    {
+      "text": "If I borrow, let's say, $10,000, how much will I have to pay each month? It depends on how long",
+      "trans": "如果我借，比如说借 10,000 元，那么每个月我要还多少呢？这取决于借款的期限。",
+      "start": 371.92,
+      "end": 378.64
+    },
+    {
+      "text": "you take to pay it back. If we lend you $10,000 at an annual interest rate of 10% for 48 months,",
+      "trans": "你将偿还这笔钱。如果我们借给你10,000美元，年利率为10%，为期48个月。",
+      "start": 378.64,
+      "end": 386.32
+    },
+    {
+      "text": "you would have to pay each month a portion of the loan, which is called the principal,",
+      "trans": "你每个月需要支付贷款的一部分，这部分被称为本金。",
+      "start": 386.96,
+      "end": 391.28
+    },
+    {
+      "text": "and another small portion of the annual interest rate. This, of course, is considering that you",
+      "trans": "而且还有年度利息的一小部分。当然，这是考虑到你",
+      "start": 391.28,
+      "end": 396.79999999999995
+    },
+    {
+      "text": "don't default on a payment. It sounds good, but there's just one problem. I have a terrible credit",
+      "trans": "不要拖欠付款。听起来不错，但有一个问题。我有严重的信用记录。",
+      "start": 396.79999999999995,
+      "end": 404.0
+    },
+    {
+      "text": "score. That is a very serious problem, you see. The bank must assess your personal information,",
+      "trans": "分数。那是一个非常严肃的问题，你看。银行必须评估你的个人信息。",
+      "start": 404.0,
+      "end": 410.08
+    },
+    {
+      "text": "past loans, assets, and any other relevant information, such as your credit score in order to",
+      "trans": "过去的贷款、资产和其他相关信息，如您的信用评分，以便于",
+      "start": 410.08,
+      "end": 415.91999999999996
+    },
+    {
+      "text": "approve your loan. You know what? I don't really need the money. Thanks, anyways.",
+      "trans": "批准你的贷款。你知道吗？我真的不需要这笔钱。谢谢，毕竟。",
+      "start": 416.40000000000003,
+      "end": 420.16
+    },
+    {
+      "text": "All right, we're back. So now, what do we take a look at? Three key phrases on Fluency Builder.",
+      "trans": "好的，我们回来了。那么现在我们要看什么呢？在“流利度训练器”上，有三个关键短语。",
+      "start": 423.52000000000004,
+      "end": 428.64000000000004
+    },
+    {
+      "text": "Fluency Builder. Let me get this straight. We're going to do Fluency Builder. That's right. Wait,",
+      "trans": "流利度训练。让我弄清楚一下。我们是要做流利度训练吗？没错，等等，",
+      "start": 430.48,
+      "end": 436.88
+    },
+    {
+      "text": "I don't wait. So, okay, this is our first phrase. Let me get this straight. And this is a fixed phrase.",
+      "trans": "我不等。好吧，这是我们第一个短语。让我弄清楚这个。这是一个固定短语。",
+      "start": 436.88,
+      "end": 443.04
+    },
+    {
+      "text": "It means we always say it the same way. Wait, let me get this straight. We always say it the same way.",
+      "trans": "意思是，我们总是说同样的事情。对了，让我解释一下。我们总是说同样的事情。",
+      "start": 443.04,
+      "end": 448.40000000000003
+    },
+    {
+      "text": "Right. So you're asking for a confirmation or you're repeating what that person said just to be",
+      "trans": "好的。所以你是要求确认，还是只是为了重复那个人说的？只是为了确认？",
+      "start": 449.6,
+      "end": 454.8
+    },
+    {
+      "text": "sure that it's correct. Exactly. So maybe you don't understand something or maybe you think you might",
+      "trans": "确定它是正确的。完全正确。也许你没有理解某些内容，或者也许你觉得你会犯错。",
+      "start": 454.8,
+      "end": 460.08000000000004
+    },
+    {
+      "text": "have misunderstood. You say, hey, so let me get this straight. And you repeat what the person just",
+      "trans": "你误解了。你说，嘿，那让我把这弄清楚吧。然后你重复了那个人刚刚说的。",
+      "start": 460.08000000000004,
+      "end": 466.64000000000004
+    },
+    {
+      "text": "said. It's a way for you to, like you say, get confirmation on what you've heard. Very good. Let",
+      "trans": "你说。这是一种让你确认你所听到的内容的方式。很好。来吧。",
+      "start": 466.64000000000004,
+      "end": 471.92
+    },
+    {
+      "text": "me get this straight. And now moving on, we have the phrase, pay it back. You have to pay it back.",
+      "trans": "让我明白过来。现在我们继续，有句话是“还债”。你必须还清这笔钱。",
+      "start": 471.92,
+      "end": 476.88
+    },
+    {
+      "text": "Okay. And so in this case, we have the verb to pay, but we also have the word back. So pay it back",
+      "trans": "好的。在这种情况下，我们有动词pay，但也有单词back。所以付还它",
+      "start": 477.68,
+      "end": 483.92
+    },
+    {
+      "text": "means to repay. So if we take out a loan, we obviously have to pay it back to the bank. Right. So",
+      "trans": "就是偿还。所以，如果我们借了款，我们当然要还给银行。对。",
+      "start": 483.92,
+      "end": 490.08000000000004
+    },
+    {
+      "text": "you have to pay the loan back. Okay. So just remember that these words often go together to pay it back.",
+      "trans": "你必须偿还贷款。好的。所以记住，这些词经常一起用于还清它。",
+      "start": 490.08000000000004,
+      "end": 495.36
+    },
+    {
+      "text": "I'll pay you back, I promise. Right. Can you lend me a dollar? I'll pay you back tomorrow.",
+      "trans": "我一定会还你的，我保证。对了。你能借给我一美元吗？我会明天还的。",
+      "start": 495.36,
+      "end": 499.04
+    },
+    {
+      "text": "I don't worry about it. All right. And the bank started off saying, we pride ourselves in having",
+      "trans": "我不担心。好的。银行一开始就说，我们以拥有",
+      "start": 499.04,
+      "end": 504.96000000000004
+    },
+    {
+      "text": "the lowest interest rate in the country. Yeah. Right. All right. So we pride ourselves. What does it mean",
+      "trans": "中国的最低利率。没错。好的。所以我们以自豪。这意味着什么",
+      "start": 504.96000000000004,
+      "end": 511.12
+    },
+    {
+      "text": "if I, if I pride myself in something? The word pride means to be really happy about something",
+      "trans": "如果我，如果我以某事为傲？这个词的骄傲意味着真的为自己做某事而感到快乐。",
+      "start": 511.12,
+      "end": 518.8000000000001
+    },
+    {
+      "text": "that has to do with yourself. So, so something that you're proud of is something that you want to",
+      "trans": "那涉及到你自己。所以，你值得骄傲的事情是你要想做的事情",
+      "start": 519.36,
+      "end": 523.6800000000001
+    },
+    {
+      "text": "tell a lot of other people about. So for example, a father may say, my son just got straight A's and",
+      "trans": "告诉很多人。例如，一个父亲可能会说：“我儿子刚刚考了全A。”",
+      "start": 523.68,
+      "end": 529.76
+    },
+    {
+      "text": "he's an excellent soccer player. And so he's proud of his son. But to be to pride oneself means to",
+      "trans": "他是一个优秀的足球运动员。因此他为他的儿子感到骄傲。但自以为是意味着为了炫耀而骄傲。",
+      "start": 529.76,
+      "end": 536.4
+    },
+    {
+      "text": "to be really happy with the way that you do something. Right. So for example, if I've never smoked.",
+      "trans": "为了真正地对所做的事情感到满意。没错。例如，如果我从没抽过烟。",
+      "start": 537.52,
+      "end": 542.7199999999999
+    },
+    {
+      "text": "Right. So I can say I pride myself in being a non-smoker. Or I could say I pride myself",
+      "trans": "好的。我可以自豪地说自己不吸烟，或者我也可以自豪地说自己不喝酒。",
+      "start": 542.7199999999999,
+      "end": 549.1999999999999
+    },
+    {
+      "text": "in always saving lots of money for my paycheck. Very good. So I mean, I try to do this because I know",
+      "trans": "总是为我的工资节省很多钱。很好。所以，我指的是，我这样做是因为我知道",
+      "start": 549.9200000000001,
+      "end": 554.88
+    },
+    {
+      "text": "it's a good thing. But you feel very good about this and you feel that people should be proud of you",
+      "trans": "这是一个很好的事情。但是你对此感到非常满意，并且你认为人们应该以自豪的心情看待你。",
+      "start": 554.88,
+      "end": 559.2
+    },
+    {
+      "text": "as well. So we could ask our students here, what do you pride yourselves in as as a challenge as a",
+      "trans": "当然。我们可以问我们的学生，你们在这里以什么为荣，作为挑战？",
+      "start": 559.2,
+      "end": 565.12
+    },
+    {
+      "text": "challenge for the website? All right. So why don't we listen to the dialogue for the last time and we'll be back.",
+      "trans": "网站的挑战？好的。那么让我们最后一次听听对话，然后我们还会回来。",
+      "start": 565.12,
+      "end": 570.32
+    },
+    {
+      "text": "Hello, sir. May I help you? Yes, I would like some information for requesting a loan.",
+      "trans": "你好，先生。我可以帮你吗？是的，我需要一些关于贷款的信息。",
+      "start": 579.2800000000001,
+      "end": 584.8000000000001
+    },
+    {
+      "text": "Very well. Here are the general terms of our loan policies. We pride ourselves in having the",
+      "trans": "很好。这是我们的贷款政策的一般条款。我们自豪于拥有这些。",
+      "start": 585.6,
+      "end": 591.6
+    },
+    {
+      "text": "lowest interest rate in the country for personal loans. I see. So let me get this straight. If I borrow",
+      "trans": "最低的国家个人贷款利率。我明白了。那么让我弄清楚这个吧。如果我借了",
+      "start": 591.6,
+      "end": 599.12
+    },
+    {
+      "text": "let's say $10,000, how much will I have to pay each month? It depends on how long you take to pay",
+      "trans": "假设你将花费10,000元，你需要每月支付多少钱？这取决于你打算多久还款。",
+      "start": 599.12,
+      "end": 605.9200000000001
+    },
+    {
+      "text": "it back. If we lend you $10,000 at an annual interest rate of 10% for 48 months, you would have to pay",
+      "trans": "已经还清。如果我们借你10000元，年利率为10%，期限为48个月，你需要支付",
+      "start": 605.92,
+      "end": 614.24
+    },
+    {
+      "text": "each month a portion of the loan, which is called the principal, and another small portion of the",
+      "trans": "每个月偿还一部分贷款，这部分称为本金，以及另一小部分利息。",
+      "start": 614.24,
+      "end": 619.52
+    },
+    {
+      "text": "annual interest rate. This of course is considering that you don't default on a payment.",
+      "trans": "年利率。当然，这假设你不会拖欠付款。",
+      "start": 619.52,
+      "end": 624.56
+    },
+    {
+      "text": "It sounds good, but there's just one problem. I have a terrible credit score. That is a very serious",
+      "trans": "听起来不错，但只有一个问题。我有一个非常糟糕的信用评分。那是一个非常严重的问题。",
+      "start": 625.4399999999999,
+      "end": 632.56
+    },
+    {
+      "text": "problem you see. The bank must assess your personal information, past loans, assets, and any other",
+      "trans": "你看到的问题。银行必须评估你的个人信息、过往贷款、资产以及任何其他相关信息。",
+      "start": 632.64,
+      "end": 639.1199999999999
+    },
+    {
+      "text": "relevant information such as your credit score in order to approve your loan. You know what?",
+      "trans": "包含你的信用评分在内的相关信息，以批准贷款。你知道吗？",
+      "start": 639.1199999999999,
+      "end": 644.16
+    },
+    {
+      "text": "I don't really need the money. Thanks anyways.",
+      "trans": "我不需要钱。谢谢。",
+      "start": 645.1199999999999,
+      "end": 647.1199999999999
+    },
+    {
+      "text": "All right, very good. So as you say, saving is important and well, sometimes do you think",
+      "trans": "好的，很好。所以正如你说的那样，保存很重要，而且有时候你会觉得",
+      "start": 652.56,
+      "end": 657.1199999999999
+    },
+    {
+      "text": "do you think you need a loan? I think sometimes people need loans because they want to go into business",
+      "trans": "你觉得你需要贷款吗？我认为有时候人们需要贷款是因为他们想做生意。",
+      "start": 657.1199999999999,
+      "end": 662.2399999999999
+    },
+    {
+      "text": "for example. So people who want to go into small businesses or open their own companies need",
+      "trans": "例如，那些想要进入小型企业或开设自己的公司的人需要",
+      "start": 662.24,
+      "end": 668.08
+    },
+    {
+      "text": "startup capital. So this is a really great example of when people don't have the money lying around",
+      "trans": "启动资金。所以这是一个人们钱箱里没有钱的时候非常棒的例子",
+      "start": 668.08,
+      "end": 672.96
+    },
+    {
+      "text": "and will go to find a bank that will give them a loan. So yeah, I think it's really important,",
+      "trans": "而且他们会去找一家会给他们贷款的银行。所以，我认为这非常重要。",
+      "start": 672.96,
+      "end": 678.0
+    },
+    {
+      "text": "especially for the economy of a country, for business loans or small business loans to be",
+      "trans": "尤其是对于国家的经济来说，中小企业贷款或企业贷款是必要的。",
+      "start": 678.0,
+      "end": 683.12
+    },
+    {
+      "text": "available because sometimes it's very difficult to find a bank that will actually lend a person",
+      "trans": "因为有时候很难找到愿意实际贷款给一个人的银行。",
+      "start": 683.12,
+      "end": 688.4
+    },
+    {
+      "text": "money to start a business. Usually they won't have a problem with lending the money to buy a new car.",
+      "trans": "启动生意的钱。通常他们不会有问题借钱买新车。",
+      "start": 688.4,
+      "end": 693.68
+    },
+    {
+      "text": "Right, but to start off a business, it's completely the opposite. It is. And one of the really",
+      "trans": "好的，但要开始一个生意，完全相反。是的。",
+      "start": 693.68,
+      "end": 698.8
+    },
+    {
+      "text": "popular trends in foreign investment right now is called micro lending. So micro loans. And that",
+      "trans": "目前外国投资的热门趋势被称为微贷。所以微贷款。",
+      "start": 698.8,
+      "end": 704.4
+    },
+    {
+      "text": "means that if I want to help people in a very poor country, I can donate, I can lend $100 for",
+      "trans": "这意味着，如果我想帮助一个非常贫穷的国家的人们，我可以捐款，也可以借给$100。",
+      "start": 704.4,
+      "end": 714.16
+    },
+    {
+      "text": "someone to buy a sewing machine or for someone to buy a small computer, $500 for a small computer.",
+      "trans": "有人需要买缝纫机，或者有人需要买一台小电脑，价格为 500 美元。",
+      "start": 714.16,
+      "end": 722.0
+    },
+    {
+      "text": "And that is a micro loan. It's a very, very small loan for one thing and that can help them",
+      "trans": "那就是一笔微小的贷款。这是另一大好处，而且这可以帮助他们",
+      "start": 722.0,
+      "end": 727.12
+    },
+    {
+      "text": "towards their goal of being a business person. Right. And you're not really getting money out of it",
+      "trans": "为了成为商人的目标。没错。你其实并没有从中学到钱。",
+      "start": 727.12,
+      "end": 731.52
+    },
+    {
+      "text": "though. You're not charging like 100% interest rate. You're not. You're charging like one or two",
+      "trans": "尽管你没有像百分之百的利率那样收费。你不是。你只是收取了大约一到两成的利息。",
+      "start": 731.52,
+      "end": 736.64
+    },
+    {
+      "text": "percent interest, very low interest. And you're giving people a chance to pay the money back because",
+      "trans": "百分比利息，非常低的利率。而且你给了人们还钱的机会是因为",
+      "start": 736.64,
+      "end": 742.0799999999999
+    },
+    {
+      "text": "it's such a small amount. Wow, that's really good, a really positive thing. Very good. So if you have",
+      "trans": "那真是太少了。哇，真的很好，一件非常积极的事情。非常好。所以如果你有",
+      "start": 742.08,
+      "end": 746.8000000000001
+    },
+    {
+      "text": "any questions, any comments or any suggestions, please come to our website at EnglishPod.com. And we'll",
+      "trans": "任何问题、任何评论或建议，请访问我们的网站：EnglishPod.com",
+      "start": 746.8000000000001,
+      "end": 752.4000000000001
+    },
+    {
+      "text": "see you guys there. Bye everyone. Bye.",
+      "trans": "见你们在那边。大家byebye。",
+      "start": 752.4000000000001,
+      "end": 755.6
+    }
+  ]
+}

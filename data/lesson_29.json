@@ -1,0 +1,1290 @@
+{
+  "title": "englishpod_E0029pb",
+  "audio": "./assets/englishpod_E0029pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+      "trans": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。",
+      "start": 0.0,
+      "end": 6.0
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 6.0,
+      "end": 7.0
+    },
+    {
+      "text": "We're bringing you an advanced lesson today.",
+      "trans": "今天，我们将为您带来一个高级课程。",
+      "start": 7.0,
+      "end": 10.0
+    },
+    {
+      "text": "That's right. An advanced lesson where we talk about investing in emerging markets.",
+      "trans": "正确。一个关于投资新兴市场的高级课程。",
+      "start": 10.0,
+      "end": 14.0
+    },
+    {
+      "text": "Right. So it's kind of a business topic. It's kind of a world topic as well.",
+      "trans": "正确。因此，这是一个商业话题，也是一个全球话题。",
+      "start": 14.0,
+      "end": 19.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 19.0,
+      "end": 20.0
+    },
+    {
+      "text": "And it's pretty difficult.",
+      "trans": "而且很难。",
+      "start": 20.0,
+      "end": 22.0
+    },
+    {
+      "text": "Yeah, it is really hard.",
+      "trans": "是的，确实很难。",
+      "start": 22.0,
+      "end": 23.0
+    },
+    {
+      "text": "Right. So if you're listening and you don't understand everything,",
+      "trans": "正确。如果你在听，但你不明白所有的内容，",
+      "start": 23.0,
+      "end": 27.0
+    },
+    {
+      "text": "please don't get discouraged. Don't worry about it because we're here to learn.",
+      "trans": "请不要气馁。别担心，我们在这里学习。",
+      "start": 27.0,
+      "end": 31.0
+    },
+    {
+      "text": "Yes. And we're here to help you.",
+      "trans": "是的。我们在这里帮助你。",
+      "start": 31.0,
+      "end": 32.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 32.0,
+      "end": 33.0
+    },
+    {
+      "text": "So let's get started with this. I'm really excited about this lesson.",
+      "trans": "所以，我们先开始吧。我真的很兴奋能和你一起学习这个课程。",
+      "start": 33.0,
+      "end": 37.0
+    },
+    {
+      "text": "Yeah. Okay. Well, Marco, maybe you can tell us a little bit what is an emerging market?",
+      "trans": "是的。好的。嗯，马科斯，或许你能够告诉我们一下什么是新兴市场？",
+      "start": 37.0,
+      "end": 41.0
+    },
+    {
+      "text": "An emerging market is a market that is starting to develop.",
+      "trans": "一个新兴市场是指正在发展的市场。",
+      "start": 41.0,
+      "end": 46.0
+    },
+    {
+      "text": "Okay. And it's growing rapidly.",
+      "trans": "好的。它正在迅速增长。",
+      "start": 46.0,
+      "end": 48.0
+    },
+    {
+      "text": "So you can maybe give some examples of an emerging market.",
+      "trans": "所以你或许可以提供一些新兴市场的例子。",
+      "start": 48.0,
+      "end": 51.0
+    },
+    {
+      "text": "Well, for example, China is an emerging market.",
+      "trans": "好的，以下是翻译成中文的句子：",
+      "start": 51.0,
+      "end": 53.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 53.0,
+      "end": 54.0
+    },
+    {
+      "text": "And last year's has been growing rapidly.",
+      "trans": "去年的增长速度非常快。",
+      "start": 54.0,
+      "end": 56.0
+    },
+    {
+      "text": "More and more people are moving to the middle class and have money to spend.",
+      "trans": "越来越多的人正在向中产阶级过渡，拥有足够的钱来消费。",
+      "start": 56.0,
+      "end": 59.0
+    },
+    {
+      "text": "Right. Exactly.",
+      "trans": "正确。完全。",
+      "start": 59.0,
+      "end": 60.0
+    },
+    {
+      "text": "So China is like a really great example of an emerging market.",
+      "trans": "所以中国就像一个真正的新兴市场榜样。",
+      "start": 60.0,
+      "end": 64.0
+    },
+    {
+      "text": "All right. Well, with that, let's listen to the dialogue for the first time.",
+      "trans": "好的。好了，让我们先听一下对话的第一遍。",
+      "start": 64.0,
+      "end": 67.0
+    },
+    {
+      "text": "Dad, I'd like to borrow some money.",
+      "trans": "爸爸，我想借点钱。",
+      "start": 79.0,
+      "end": 81.0
+    },
+    {
+      "text": "Sure, Johnny. How much do you need? 5 bucks?",
+      "trans": "好的，约翰尼。你需要多少？5块钱？",
+      "start": 81.0,
+      "end": 84.0
+    },
+    {
+      "text": "Come on, Dad. I need 30,000. I want to get into the market.",
+      "trans": "来吧，爸爸。我需要三十万。我想进入市场。",
+      "start": 84.0,
+      "end": 87.0
+    },
+    {
+      "text": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession,",
+      "trans": "我知道，我厌倦了听到关于经济衰退和不可避免的衰退的一切新闻。",
+      "start": 87.0,
+      "end": 92.0
+    },
+    {
+      "text": "people stuffing their money in their mattresses.",
+      "trans": "人们把钱塞进他们的床垫里。",
+      "start": 92.0,
+      "end": 94.0
+    },
+    {
+      "text": "I look at this as an opportunity. This is a chance for me to get a jumpstart on building my nest egg.",
+      "trans": "我把它看作是一个机会。这是我有机会积累财富的绝佳时机。",
+      "start": 94.0,
+      "end": 98.0
+    },
+    {
+      "text": "I don't know about that, huh? With only uncertainty in the markets right now,",
+      "trans": "我也不清楚，对吧？现在市场上的不确定性还是很大。",
+      "start": 98.0,
+      "end": 102.0
+    },
+    {
+      "text": "it'll be a very unwise decision to invest.",
+      "trans": "这是一个非常不明智的决定。",
+      "start": 102.0,
+      "end": 104.0
+    },
+    {
+      "text": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+      "trans": "我也不清楚，儿子，最近市场发生了许多动荡。",
+      "start": 104.0,
+      "end": 109.0
+    },
+    {
+      "text": "And there have already been half a million layoffs in the last few months,",
+      "trans": "和过去几个月里已经有半万次裁员一样，中国已经经历了数百万人的减员。",
+      "start": 109.0,
+      "end": 112.0
+    },
+    {
+      "text": "and we have no idea how the proposed stimulus package will impact upon the economy.",
+      "trans": "和我们没有把握，这个提出的刺激方案将如何影响经济。",
+      "start": 112.0,
+      "end": 117.0
+    },
+    {
+      "text": "There's just too much instability. I just wouldn't feel comfortable investing in this climate.",
+      "trans": "这里太不稳定了。我就不愿意在这个气候中投资了。",
+      "start": 117.0,
+      "end": 122.0
+    },
+    {
+      "text": "Look at it this way. Every challenge is an opportunity.",
+      "trans": "请看它这样。每一个挑战都是机遇。",
+      "start": 122.0,
+      "end": 125.0
+    },
+    {
+      "text": "In any way, I'm not talking about investing in the domestic market.",
+      "trans": "在任何情况下，我都不谈论投资于国内市场。",
+      "start": 125.0,
+      "end": 128.0
+    },
+    {
+      "text": "There are emerging markets that promise great returns.",
+      "trans": "有崛起的市场，它们将带来巨大的回报。",
+      "start": 128.0,
+      "end": 130.0
+    },
+    {
+      "text": "Look at China, for example. They have 1.4 billion people,",
+      "trans": "请看中国，例如。他们有14亿人口，",
+      "start": 130.0,
+      "end": 134.0
+    },
+    {
+      "text": "half a billion of whom have recently entered the middle class.",
+      "trans": "半亿中产阶级中有多少人？",
+      "start": 134.0,
+      "end": 136.0
+    },
+    {
+      "text": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+      "trans": "在这里，消费者商品的总需求是一个令人惊叹的财富创造机会。",
+      "start": 137.0,
+      "end": 141.0
+    },
+    {
+      "text": "Oh, come on. Son, you're looking at this too, no, Evli.",
+      "trans": "哦，来吧。儿子，你也在看这个，不，王丽。",
+      "start": 141.0,
+      "end": 145.0
+    },
+    {
+      "text": "The Chinese market has exhibited a great deal of instability,",
+      "trans": "中国市场的不稳定程度很高。",
+      "start": 145.0,
+      "end": 148.0
+    },
+    {
+      "text": "and that currency has been devalued by almost a whole percentage point.",
+      "trans": "并且，人民币已经贬值了几乎一个百分点。",
+      "start": 148.0,
+      "end": 151.0
+    },
+    {
+      "text": "Fine then. If that's the way you feel, so be it.",
+      "trans": "好的，以下是根据您提供的文本翻译成中文：",
+      "start": 151.0,
+      "end": 154.0
+    },
+    {
+      "text": "But you're losing out on a great opportunity here. I'm going to hit up mom for the cash.",
+      "trans": "但是在这里你将失去一个巨大的机会。我要去问妈妈要钱。",
+      "start": 154.0,
+      "end": 158.0
+    },
+    {
+      "text": "Well, it sounds like the dad has missed out on a really big investment opportunity.",
+      "trans": "嗯，看来爸爸错过了一个非常大的投资机会。",
+      "start": 167.0,
+      "end": 174.0
+    },
+    {
+      "text": "Yeah, and his son is pretty smart.",
+      "trans": "是的，他的儿子聪明。",
+      "start": 174.0,
+      "end": 176.0
+    },
+    {
+      "text": "Yeah, pretty smart little boy.",
+      "trans": "是的，一个聪明的小男孩。",
+      "start": 176.0,
+      "end": 178.0
+    },
+    {
+      "text": "Uh-huh.",
+      "trans": "嗯，哈。",
+      "start": 178.0,
+      "end": 179.0
+    },
+    {
+      "text": "Okay, so we have some great words that we want to look at here.",
+      "trans": "好的，我们这里有一些很棒的词汇想要看看。",
+      "start": 179.0,
+      "end": 182.0
+    },
+    {
+      "text": "Why don't we start with the first one, turmoil?",
+      "trans": "为什么不从第一个开始，动荡？",
+      "start": 182.0,
+      "end": 185.0
+    },
+    {
+      "text": "Turmoil.",
+      "trans": "在中文中，\"turmoil\" 的翻译是 \"动荡\"。",
+      "start": 185.0,
+      "end": 187.0
+    },
+    {
+      "text": "Turmoil.",
+      "trans": "动荡。",
+      "start": 187.0,
+      "end": 188.0
+    },
+    {
+      "text": "Turmoil.",
+      "trans": "动荡。",
+      "start": 188.0,
+      "end": 189.0
+    },
+    {
+      "text": "So we have some great examples of how turmoil is used in different sentences.",
+      "trans": "所以，我们有一些例子，如何在不同的句子中使用动荡。",
+      "start": 189.0,
+      "end": 192.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 192.0,
+      "end": 193.0
+    },
+    {
+      "text": "So let's listen.",
+      "trans": "所以，让我们倾听。",
+      "start": 193.0,
+      "end": 194.0
+    },
+    {
+      "text": "Example one.",
+      "trans": "Example one. 例一。",
+      "start": 194.0,
+      "end": 196.0
+    },
+    {
+      "text": "With a civil war, a famine, and inflation, the country has been in turmoil for 10 years.",
+      "trans": "随着一场内战、饥荒和通货膨胀的困扰，这个国家已经经历了十年的动荡。",
+      "start": 199.0,
+      "end": 205.0
+    },
+    {
+      "text": "Example two.",
+      "trans": "例子二。",
+      "start": 209.0,
+      "end": 211.0
+    },
+    {
+      "text": "There's been a lot of Turmoil in my life recently.",
+      "trans": "我的生活最近发生了许多动荡。",
+      "start": 215.0,
+      "end": 217.0
+    },
+    {
+      "text": "I've moved to a new city. I've changed my job.",
+      "trans": "我搬到了一个新的城市。我已经换了工作。",
+      "start": 217.0,
+      "end": 220.0
+    },
+    {
+      "text": "I broke up with my girlfriend.",
+      "trans": "我与我的女朋友分手了。",
+      "start": 220.0,
+      "end": 222.0
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 225.0,
+      "end": 227.0
+    },
+    {
+      "text": "The devaluation of the dollar caused a great deal of turmoil in the markets.",
+      "trans": "美元的贬值导致了市场的剧烈动荡。",
+      "start": 230.0,
+      "end": 235.0
+    },
+    {
+      "text": "So turmoil is a state of uncertainty, of change, of difficult times.",
+      "trans": "所以动荡是不确定、变化和艰难的时期。",
+      "start": 238.0,
+      "end": 245.0
+    },
+    {
+      "text": "A little bit of chaos.",
+      "trans": "一个小小的混乱。",
+      "start": 245.0,
+      "end": 247.0
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 247.0,
+      "end": 248.0
+    },
+    {
+      "text": "So for example, when there's a lot of turmoil in the market, that means stock prices are changing drastically from day to day.",
+      "trans": "所以，例如，在市场动荡时，股票价格每天都在发生剧烈的变化。",
+      "start": 248.0,
+      "end": 253.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的翻译：",
+      "start": 254.0,
+      "end": 255.0
+    },
+    {
+      "text": "Or the economy is in turmoil.",
+      "trans": "或者经济处于动荡之中。",
+      "start": 255.0,
+      "end": 256.0
+    },
+    {
+      "text": "There's a lot of problems going on.",
+      "trans": "这里有很多问题。",
+      "start": 256.0,
+      "end": 258.0
+    },
+    {
+      "text": "Yeah, uncertainty.",
+      "trans": "是的，不确定性。",
+      "start": 258.0,
+      "end": 259.0
+    },
+    {
+      "text": "Uncertainty.",
+      "trans": "不确定性。",
+      "start": 259.0,
+      "end": 260.0
+    },
+    {
+      "text": "Okay. Good word.",
+      "trans": "好的。好词。",
+      "start": 260.0,
+      "end": 262.0
+    },
+    {
+      "text": "All right. And we also saw something really interesting in the dialogue about a proposed stimulus package.",
+      "trans": "好的。我们也看到了一个非常有趣的话题讨论中的实际内容。",
+      "start": 262.0,
+      "end": 268.0
+    },
+    {
+      "text": "A proposed stimulus package.",
+      "trans": "一个提出的刺激方案。",
+      "start": 268.0,
+      "end": 271.0
+    },
+    {
+      "text": "So a proposed stimulus package is something that's going on now.",
+      "trans": "所以，提出的刺激方案正在现在发生。",
+      "start": 271.0,
+      "end": 275.0
+    },
+    {
+      "text": "Yes, let's break this phrase down.",
+      "trans": "是的，让我们把这个短语分解一下。",
+      "start": 275.0,
+      "end": 277.0
+    },
+    {
+      "text": "So we've got stimulus package.",
+      "trans": "所以我们有刺激计划。",
+      "start": 277.0,
+      "end": 279.0
+    },
+    {
+      "text": "A stimulus package.",
+      "trans": "一个刺激包。",
+      "start": 280.0,
+      "end": 281.0
+    },
+    {
+      "text": "Something to stimulate the economy, right?",
+      "trans": "有什么办法能刺激经济吗？",
+      "start": 281.0,
+      "end": 284.0
+    },
+    {
+      "text": "Right. So money from the government to get the economy moving.",
+      "trans": "正确。政府向经济发展的目标迈进的钱。",
+      "start": 284.0,
+      "end": 287.0
+    },
+    {
+      "text": "To get it moving.",
+      "trans": "要让它运转。",
+      "start": 287.0,
+      "end": 288.0
+    },
+    {
+      "text": "A stimulus package.",
+      "trans": "一个刺激包。",
+      "start": 288.0,
+      "end": 289.0
+    },
+    {
+      "text": "Proposed.",
+      "trans": "请允许我翻译一下：",
+      "start": 289.0,
+      "end": 290.0
+    },
+    {
+      "text": "It means that it hasn't been approved yet.",
+      "trans": "这句话意味着还没有通过。",
+      "start": 290.0,
+      "end": 292.0
+    },
+    {
+      "text": "Right. It's suggested.",
+      "trans": "正确。建议。",
+      "start": 292.0,
+      "end": 294.0
+    },
+    {
+      "text": "Suggested. It's an idea.",
+      "trans": "给定。这是一个想法。",
+      "start": 294.0,
+      "end": 295.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想了解什么？如果您能提供更多的上下文信息或具体语境，我可以尝试更好地帮助您。",
+      "start": 295.0,
+      "end": 296.0
+    },
+    {
+      "text": "So the proposed stimulus package for the US economy, for example, is $150 billion.",
+      "trans": "所以，例如，美国经济的刺激方案，比如是150亿美元。",
+      "start": 296.0,
+      "end": 302.0
+    },
+    {
+      "text": "Right. That's $150 billion of American taxpayers money that the government wants to put into the economy",
+      "trans": "正确。这是美国纳税人为经济注入150亿美元的政府资金。",
+      "start": 302.0,
+      "end": 308.0
+    },
+    {
+      "text": "to keep it moving.",
+      "trans": "保持它流动。",
+      "start": 308.0,
+      "end": 309.0
+    },
+    {
+      "text": "To keep it moving, right?",
+      "trans": "要保持流动，对吗？",
+      "start": 309.0,
+      "end": 311.0
+    },
+    {
+      "text": "So if it works or not, that's still a debate, but it's a proposed stimulus package.",
+      "trans": "所以，如果它有效还是无效，那仍然是一个辩论，但这是一个提出的刺激方案。",
+      "start": 311.0,
+      "end": 316.0
+    },
+    {
+      "text": "Let's move to our third phrase.",
+      "trans": "让我们移动到第三句话。",
+      "start": 316.0,
+      "end": 318.0
+    },
+    {
+      "text": "Aggregate demand.",
+      "trans": "聚合需求。",
+      "start": 318.0,
+      "end": 320.0
+    },
+    {
+      "text": "Aggregate demand.",
+      "trans": "聚合需求。",
+      "start": 320.0,
+      "end": 321.0
+    },
+    {
+      "text": "Aggregate demand.",
+      "trans": "聚合需求。",
+      "start": 321.0,
+      "end": 322.0
+    },
+    {
+      "text": "Aggregate demand.",
+      "trans": "聚合需求。",
+      "start": 322.0,
+      "end": 324.0
+    },
+    {
+      "text": "So demand is pretty clear, but this word aggregate.",
+      "trans": "所以需求很明显，但这个聚合词。",
+      "start": 324.0,
+      "end": 327.0
+    },
+    {
+      "text": "What's that about?",
+      "trans": "这句话的意思是“有什么关于的？”",
+      "start": 327.0,
+      "end": 328.0
+    },
+    {
+      "text": "Aggregate is like a combined added.",
+      "trans": "聚合是像合并加在一起一样。",
+      "start": 328.0,
+      "end": 331.0
+    },
+    {
+      "text": "Yeah. Right?",
+      "trans": "是的。对吗？",
+      "start": 331.0,
+      "end": 332.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 332.0,
+      "end": 333.0
+    },
+    {
+      "text": "Aggregate demand.",
+      "trans": "聚合需求。",
+      "start": 333.0,
+      "end": 334.0
+    },
+    {
+      "text": "For example, in a country like China, where cities like in Shanghai or cities like Beijing,",
+      "trans": "例如，在中国，如上海或北京这样的城市，中国的许多地方都存在。",
+      "start": 334.0,
+      "end": 341.0
+    },
+    {
+      "text": "where more and more people are accumulating wealth, the aggregate demand is increasing.",
+      "trans": "在中国，越来越多的人积累财富，总需求也在增加。",
+      "start": 341.0,
+      "end": 347.0
+    },
+    {
+      "text": "Right. Right. The combined demand for consumer goods is growing.",
+      "trans": "正确。正确。消费者商品的需求正在增长。",
+      "start": 347.0,
+      "end": 351.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 351.0,
+      "end": 352.0
+    },
+    {
+      "text": "More people have more money, so they're spending more.",
+      "trans": "更多的人有更多的钱，所以他们花的钱就更多。",
+      "start": 352.0,
+      "end": 354.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 354.0,
+      "end": 355.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 355.0,
+      "end": 356.0
+    },
+    {
+      "text": "You know, Marco, there's a ton of excellent language in this dialogue, isn't there?",
+      "trans": "我知道，马科，这里有很多优秀的语言，不是吗？",
+      "start": 356.0,
+      "end": 360.0
+    },
+    {
+      "text": "Yeah. A lot of good stuff here.",
+      "trans": "是的。这里有很多好东西。",
+      "start": 360.0,
+      "end": 362.0
+    },
+    {
+      "text": "And we want to listen to the dialogue one more time, but before we do, we have three words for you that we want you to listen for.",
+      "trans": "我们还想再听一次对话，但在此之前，我们需要三句话给你听。",
+      "start": 362.0,
+      "end": 369.0
+    },
+    {
+      "text": "Yeah. Pay attention to these words.",
+      "trans": "是的。注意这些字眼。",
+      "start": 369.0,
+      "end": 371.0
+    },
+    {
+      "text": "Nest egg.",
+      "trans": "蛋壳。",
+      "start": 371.0,
+      "end": 373.0
+    },
+    {
+      "text": "Nest egg.",
+      "trans": "蛋壳。",
+      "start": 373.0,
+      "end": 374.0
+    },
+    {
+      "text": "Inevitable.",
+      "trans": "不可避免。",
+      "start": 374.0,
+      "end": 375.0
+    },
+    {
+      "text": "Inevitable.",
+      "trans": "不可避免。",
+      "start": 375.0,
+      "end": 376.0
+    },
+    {
+      "text": "And hit up.",
+      "trans": "并且去。",
+      "start": 376.0,
+      "end": 378.0
+    },
+    {
+      "text": "Hit up.",
+      "trans": "上车。",
+      "start": 378.0,
+      "end": 379.0
+    },
+    {
+      "text": "So from the context of the dialogue, try and see if you can figure out what they mean.",
+      "trans": "因此，从对话的背景中尝试找出他们所表示的意思。",
+      "start": 379.0,
+      "end": 384.0
+    },
+    {
+      "text": "But after listening to it, we'll come back and explain it anyways.",
+      "trans": "但是听完它，我们还是会回来再解释一下。",
+      "start": 384.0,
+      "end": 388.0
+    },
+    {
+      "text": "Dad, I'd like to borrow some money.",
+      "trans": "爸爸，我想借点钱。",
+      "start": 393.0,
+      "end": 397.0
+    },
+    {
+      "text": "Sure, Johnny. How much do you need? Five bucks?",
+      "trans": "好的，小明。你需要多少钱？五元钱。",
+      "start": 397.0,
+      "end": 400.0
+    },
+    {
+      "text": "Come on, Dad. I need 30,000. I want to get into the market.",
+      "trans": "来吧，爸爸。我需要三十万。我想进入市场。",
+      "start": 400.0,
+      "end": 404.0
+    },
+    {
+      "text": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.",
+      "trans": "我知道，我厌倦了听到关于经济衰退、不可避免的衰退、人们把钱塞进床垫里的所有新闻。",
+      "start": 404.0,
+      "end": 410.0
+    },
+    {
+      "text": "I look at this as an opportunity. This is a chance for me to get a jumpstart on building my nest egg.",
+      "trans": "我把它看作是一个机会。这是我有机会积累财富的机会。",
+      "start": 410.0,
+      "end": 415.0
+    },
+    {
+      "text": "I don't know about that, huh? With only uncertainty in the markets right now, to be very unwise decision to invest.",
+      "trans": "我不知道，对吗？现在市场不确定性很高，做出非常不明智的决策。",
+      "start": 415.0,
+      "end": 420.0
+    },
+    {
+      "text": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+      "trans": "我也不太清楚，儿子，但最近市场的动荡程度确实很大。",
+      "start": 421.0,
+      "end": 425.0
+    },
+    {
+      "text": "And there have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.",
+      "trans": "和过去几个月的裁员数量已经达到了半万个，我们对此一无所知，不知道刺激方案将如何影响经济。",
+      "start": 425.0,
+      "end": 433.0
+    },
+    {
+      "text": "There's just too much instability. I just wouldn't feel comfortable investing in this climate.",
+      "trans": "这里太不稳定了。我就不愿意在这个气候中投资。",
+      "start": 433.0,
+      "end": 438.0
+    },
+    {
+      "text": "I'm looking at this way. Every challenge is an opportunity.",
+      "trans": "我正在看这个。每一个挑战都是机遇。",
+      "start": 438.0,
+      "end": 441.0
+    },
+    {
+      "text": "And anyway, I'm not talking about investing in the domestic market.",
+      "trans": "而且，我并不是在谈论投资国内市场。",
+      "start": 441.0,
+      "end": 444.0
+    },
+    {
+      "text": "There are emerging markets that promise great returns.",
+      "trans": "有崛起的市场，它们将带来巨大的回报。",
+      "start": 444.0,
+      "end": 447.0
+    },
+    {
+      "text": "Look at China, for example. They have 1.4 billion people, half a billion of whom have recently entered the middle class.",
+      "trans": "看中国，比如。他们有14亿人口，其中8亿人口已经进入中产阶级。",
+      "start": 447.0,
+      "end": 453.0
+    },
+    {
+      "text": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+      "trans": "在这里，消费者商品的总需求是一个令人惊叹的财富创造机会。",
+      "start": 453.0,
+      "end": 458.0
+    },
+    {
+      "text": "Oh, come on. Son, you're looking at this too, no, Evli.",
+      "trans": "哦，过来吧。儿子，你也在看啊，不，王丽。",
+      "start": 458.0,
+      "end": 461.0
+    },
+    {
+      "text": "The Chinese market has exhibited a great deal of instability, and that currency has been devalued by almost a whole percentage point.",
+      "trans": "中国的市场经常出现剧烈波动，人民币已经贬值了几乎一个百分点。",
+      "start": 461.0,
+      "end": 468.0
+    },
+    {
+      "text": "Fine then. If that's the way you feel, so be it.",
+      "trans": "好的，以下是该句子的中文翻译：",
+      "start": 468.0,
+      "end": 471.0
+    },
+    {
+      "text": "What you're losing out on a great opportunity here. I'm going to hit up Mom for the cash.",
+      "trans": "你在这里错失了一个很好的机会。我要去妈妈那里要钱。",
+      "start": 471.0,
+      "end": 475.0
+    },
+    {
+      "text": "So the kid wants to invest because he wants to set up his nest egg.",
+      "trans": "所以这个孩子想投资，因为他想要为自己攒一笔钱。",
+      "start": 478.0,
+      "end": 484.0
+    },
+    {
+      "text": "That's right. So basically he wants to get a bunch of cash together so that he can buy a house or get married or whatever.",
+      "trans": "是的。所以基本上他想把钱集在一起，以便以后可以买房子或者结婚等。",
+      "start": 484.0,
+      "end": 494.0
+    },
+    {
+      "text": "It's that money you need to start your life, right?",
+      "trans": "是那钱让你开始你的生活吗？",
+      "start": 494.0,
+      "end": 496.0
+    },
+    {
+      "text": "To start your life, your nest egg. It's kind of a weird way of referring to this money, right?",
+      "trans": "开始你的生活，你的储蓄。这有点像把钱称为这个钱的另一种方式，对吗？",
+      "start": 496.0,
+      "end": 500.0
+    },
+    {
+      "text": "I guess it is kind of funny.",
+      "trans": "我猜这很有趣。",
+      "start": 500.0,
+      "end": 502.0
+    },
+    {
+      "text": "And also the little boy talked about an inevitable recession.",
+      "trans": "而且那个小男孩谈到一个不可避免的衰退。",
+      "start": 502.0,
+      "end": 506.0
+    },
+    {
+      "text": "Yes, inevitable.",
+      "trans": "是的，不可避免。",
+      "start": 506.0,
+      "end": 508.0
+    },
+    {
+      "text": "Inevitable.",
+      "trans": "不可避免。",
+      "start": 508.0,
+      "end": 509.0
+    },
+    {
+      "text": "Inevitable basically means unavoidable.",
+      "trans": "不可避免地，基本上意味着不可避免。",
+      "start": 509.0,
+      "end": 512.0
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Rì)",
+      "start": 512.0,
+      "end": 513.0
+    },
+    {
+      "text": "So this guy thinks that the recession is unavoidable.",
+      "trans": "所以这个人认为经济衰退不可避免。",
+      "start": 513.0,
+      "end": 516.0
+    },
+    {
+      "text": "It's going to happen.",
+      "trans": "它将发生。",
+      "start": 516.0,
+      "end": 517.0
+    },
+    {
+      "text": "Yes, inevitable.",
+      "trans": "是的，不可避免。",
+      "start": 517.0,
+      "end": 518.0
+    },
+    {
+      "text": "You know this word inevitable. If you apply the root word, you can get a noun and adjective or an adverb, right?",
+      "trans": "你了解这个词\"不可避免\"。如果你应用根词，你可以得到一个名词和形容词或副词，对吗？",
+      "start": 518.0,
+      "end": 524.0
+    },
+    {
+      "text": "Right.",
+      "trans": "右。",
+      "start": 524.0,
+      "end": 525.0
+    },
+    {
+      "text": "So we've got some examples where you can see this word in action.",
+      "trans": "所以我们已经看到这个单词在实践中是如何运作的。",
+      "start": 525.0,
+      "end": 529.0
+    },
+    {
+      "text": "Example 1.",
+      "trans": "好的，以下是例句的中文翻译：",
+      "start": 529.0,
+      "end": 531.0
+    },
+    {
+      "text": "Jason knew he was going to get laid off.",
+      "trans": "亚历山大知道他要被解雇了。",
+      "start": 531.0,
+      "end": 534.0
+    },
+    {
+      "text": "But he was trying to delay the inevitable.",
+      "trans": "但是他正在试图推迟不可避免的。",
+      "start": 534.0,
+      "end": 537.0
+    },
+    {
+      "text": "Example 2.",
+      "trans": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)",
+      "start": 537.0,
+      "end": 541.0
+    },
+    {
+      "text": "As a new manager, it's inevitable that you're going to make mistakes.",
+      "trans": "作为新经理，不可避免的是你一定会犯错误。",
+      "start": 541.0,
+      "end": 548.0
+    },
+    {
+      "text": "Example 3.",
+      "trans": "Example 3. (注释)",
+      "start": 548.0,
+      "end": 552.0
+    },
+    {
+      "text": "Inevitably, we all die at the end of our lives.",
+      "trans": "在我们生命的最后时刻，我们都不可避免地会死亡。",
+      "start": 552.0,
+      "end": 558.0
+    },
+    {
+      "text": "So as you can see, the noun and adjective form are the same.",
+      "trans": "所以，你可以看到，名词和形容词的形式是相同的。",
+      "start": 559.0,
+      "end": 564.0
+    },
+    {
+      "text": "Yes, inevitable.",
+      "trans": "是的，不可避免。",
+      "start": 564.0,
+      "end": 565.0
+    },
+    {
+      "text": "Inevitably.",
+      "trans": "当然，以下是中文翻译：",
+      "start": 565.0,
+      "end": 566.0
+    },
+    {
+      "text": "When we use it as an adverb though, we add the LY to it.",
+      "trans": "当它作为副词使用时，我们会在其后加上 \"LY\"。",
+      "start": 566.0,
+      "end": 569.0
+    },
+    {
+      "text": "Inevitably.",
+      "trans": "当然，以下是中文翻译：",
+      "start": 569.0,
+      "end": 570.0
+    },
+    {
+      "text": "Inevitably.",
+      "trans": "当然，以下是中文翻译：",
+      "start": 570.0,
+      "end": 571.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 571.0,
+      "end": 572.0
+    },
+    {
+      "text": "So yeah, as you can see, we could use it in many different ways depending on what we want to say.",
+      "trans": "所以啊，正如您所见，我们可以在许多不同的方式上使用它，取决于我们要说的内容。",
+      "start": 572.0,
+      "end": 576.0
+    },
+    {
+      "text": "Right. Well, inevitably we have to move on to our third word.",
+      "trans": "正确。当然，不可避免地我们需要转向我们的第三个单词。",
+      "start": 576.0,
+      "end": 580.0
+    },
+    {
+      "text": "Hit up.",
+      "trans": "上车。",
+      "start": 580.0,
+      "end": 581.0
+    },
+    {
+      "text": "Hit up.",
+      "trans": "上车。",
+      "start": 581.0,
+      "end": 582.0
+    },
+    {
+      "text": "So he says he's going to hit up mom for the cash.",
+      "trans": "所以他说他会去找妈妈要钱。",
+      "start": 582.0,
+      "end": 585.0
+    },
+    {
+      "text": "Ask his mom.",
+      "trans": "请问他的妈妈。",
+      "start": 585.0,
+      "end": 586.0
+    },
+    {
+      "text": "Yeah, hit up.",
+      "trans": "是的，去吧。",
+      "start": 586.0,
+      "end": 587.0
+    },
+    {
+      "text": "Yeah, this is kind of a slang-y term, isn't it?",
+      "trans": "是的，这有点俚俗的说法吧？",
+      "start": 587.0,
+      "end": 590.0
+    },
+    {
+      "text": "Yeah, it's more informal, a lot more slang-y.",
+      "trans": "是的，它更正式一些，用得更多的是俚语。",
+      "start": 590.0,
+      "end": 593.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 593.0,
+      "end": 594.0
+    },
+    {
+      "text": "We wouldn't really use it with your boss, would you?",
+      "trans": "我们不会真正使用你的老板，好吗？",
+      "start": 594.0,
+      "end": 596.0
+    },
+    {
+      "text": "No, you're not going to go up to your boss and say, hey, I need to hit you up for some cash.",
+      "trans": "是的，你不会向上级领导提出要找钱的要求。",
+      "start": 596.0,
+      "end": 599.0
+    },
+    {
+      "text": "No.",
+      "trans": "是。",
+      "start": 599.0,
+      "end": 600.0
+    },
+    {
+      "text": "So, Marko, I think this word is only applying to money, right?",
+      "trans": "所以，马克奥，我认为这个字只适用于金钱吗？",
+      "start": 600.0,
+      "end": 604.0
+    },
+    {
+      "text": "Well, you wouldn't go up to your boss and say, oh, I need to hit you up for some vacation time.",
+      "trans": "嗯，你不会去找你的老板说：“我需要找时间去度假。”",
+      "start": 604.0,
+      "end": 608.0
+    },
+    {
+      "text": "No, it's typically used like for money in this context.",
+      "trans": "是的，通常用于金钱在这里使用。",
+      "start": 608.0,
+      "end": 611.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 611.0,
+      "end": 612.0
+    },
+    {
+      "text": "Yeah, we've got some examples of the phrase, hit up.",
+      "trans": "是的，我们有一些例子了。上手。",
+      "start": 612.0,
+      "end": 615.0
+    },
+    {
+      "text": "Let's listen.",
+      "trans": "让我们倾听。",
+      "start": 615.0,
+      "end": 617.0
+    },
+    {
+      "text": "Example one.",
+      "trans": "例子一。",
+      "start": 617.0,
+      "end": 620.0
+    },
+    {
+      "text": "I'm going to hit up the boss for a race.",
+      "trans": "我将去向老板要一场比赛。",
+      "start": 620.0,
+      "end": 624.0
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 624.0,
+      "end": 628.0
+    },
+    {
+      "text": "Are you trying to hit me up for money?",
+      "trans": "是想找我借钱吗？",
+      "start": 628.0,
+      "end": 633.0
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 633.0,
+      "end": 636.0
+    },
+    {
+      "text": "I don't have any cash.",
+      "trans": "我没有任何现金。",
+      "start": 636.0,
+      "end": 637.0
+    },
+    {
+      "text": "Have you tried hitting up Sophie?",
+      "trans": "是的，我试过联系Sophie。",
+      "start": 637.0,
+      "end": 639.0
+    },
+    {
+      "text": "She's rich.",
+      "trans": "她很富。",
+      "start": 639.0,
+      "end": 642.0
+    },
+    {
+      "text": "Okay, so this is our first advanced lesson.",
+      "trans": "好的，这是我们的第一堂高级课。",
+      "start": 642.0,
+      "end": 644.0
+    },
+    {
+      "text": "I hope you enjoyed it.",
+      "trans": "我祝愿你玩得开心。",
+      "start": 644.0,
+      "end": 645.0
+    },
+    {
+      "text": "It is a lot more challenging, I think.",
+      "trans": "这是一个很大的挑战，我认为。",
+      "start": 645.0,
+      "end": 647.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 647.0,
+      "end": 648.0
+    },
+    {
+      "text": "Especially because it's set in a business context, so we have a lot of specific words and a lot of technical vocabulary.",
+      "trans": "特别因为它是商业环境，所以我们有很多特定的词汇和大量的技术词汇。",
+      "start": 648.0,
+      "end": 655.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 655.0,
+      "end": 656.0
+    },
+    {
+      "text": "Marko, you're exactly right.",
+      "trans": "马克，你真是对的。",
+      "start": 656.0,
+      "end": 657.0
+    },
+    {
+      "text": "And I think that our users are going to have a lot of questions about the language in this lesson.",
+      "trans": "并且我认为我们的用户将有很多关于语言的问题，这节课。",
+      "start": 657.0,
+      "end": 662.0
+    },
+    {
+      "text": "So, I'd like to invite you guys to come onto our website at englishpod.com.",
+      "trans": "所以，我想邀请你们来我们的网站访问英语pod.com。",
+      "start": 662.0,
+      "end": 666.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 666.0,
+      "end": 667.0
+    },
+    {
+      "text": "You can leave all your questions and comments and we'll be there to answer them.",
+      "trans": "您可以将所有问题和评论都带走，我们将在这里为您解答。",
+      "start": 667.0,
+      "end": 670.0
+    },
+    {
+      "text": "But until then, it's goodbye.",
+      "trans": "但是直到那时，就别说了。",
+      "start": 670.0,
+      "end": 673.0
+    }
+  ]
+}

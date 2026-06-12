@@ -1,0 +1,774 @@
+{
+  "title": "englishpod_0267pb",
+  "audio": "./assets/englishpod_0267pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎来到英语有声。我的名字是Marco。",
+      "start": 0.0,
+      "end": 4.44
+    },
+    {
+      "text": "My name is Catherine and today we have an intermediate level lesson about going to the bank.",
+      "trans": "我的名字是凯瑟琳，今天我们要进行一次关于去银行的中级课程。",
+      "start": 4.44,
+      "end": 9.0
+    },
+    {
+      "text": "That's right. Today we're going to go to the bank and we need to do something there.",
+      "trans": "没错。今天我们要去银行，那里需要我们做些什么呢？",
+      "start": 9.0,
+      "end": 13.200000000000001
+    },
+    {
+      "text": "We're not going to put money in the bank actually. We're going to make a transfer.",
+      "trans": "我们不是真的往银行里存钱，而是要转账。",
+      "start": 13.200000000000001,
+      "end": 17.2
+    },
+    {
+      "text": "Okay, so you'll learn all about this in a minute. Let's take a listen to the dialogue first.",
+      "trans": "好的，你很快就会学到的。我们先来听听对话吧。",
+      "start": 17.2,
+      "end": 21.8
+    },
+    {
+      "text": "Good morning. Welcome to Bank of the USA. How may I help you today?",
+      "trans": "早上好。欢迎来到美国银行。今天有什么我可以帮助你的吗？",
+      "start": 22.0,
+      "end": 32.0
+    },
+    {
+      "text": "Hi, I need to transfer some money to another account. It's urgent.",
+      "trans": "你好，我需要把钱转到另一个账户。急事。",
+      "start": 32.0,
+      "end": 36.0
+    },
+    {
+      "text": "Okay, have you made a wire transfer at our bank before?",
+      "trans": "好的，你之前在我们银行里做过电汇吗？",
+      "start": 36.0,
+      "end": 39.0
+    },
+    {
+      "text": "No, I've never made a transfer before.",
+      "trans": "不，我以前从没做过转账。",
+      "start": 39.0,
+      "end": 42.0
+    },
+    {
+      "text": "It's alright. I will take you through the procedure. Are you transferring funds to a company or an individual account?",
+      "trans": "好的。我来带你走流程。你是转账到公司账户还是个人账户？",
+      "start": 42.0,
+      "end": 48.0
+    },
+    {
+      "text": "A company account. I need to pay a bill.",
+      "trans": "公司账户。我需要付账单。",
+      "start": 48.0,
+      "end": 51.2
+    },
+    {
+      "text": "Okay, I'll need the name of the company and their bank rooting number as well as their bank's address and phone number.",
+      "trans": "好的，需要公司名称、银行账号以及银行地址和电话号码。",
+      "start": 51.2,
+      "end": 58.2
+    },
+    {
+      "text": "I have all the information in this folder.",
+      "trans": "我这个文件夹里都有所有信息。",
+      "start": 58.2,
+      "end": 61.2
+    },
+    {
+      "text": "Well, you've come prepared.",
+      "trans": "嗯，你已经准备好了。",
+      "start": 61.2,
+      "end": 64.2
+    },
+    {
+      "text": "I have all the necessary materials so we can go ahead and make the transfer right now.",
+      "trans": "我已经准备好了所有必要的材料，我们现在可以开始进行转账了。",
+      "start": 67.2,
+      "end": 72.2
+    },
+    {
+      "text": "It's a simple transaction and we can process it today.",
+      "trans": "这是一个简单的交易，我们可以今天处理。",
+      "start": 72.2,
+      "end": 76.2
+    },
+    {
+      "text": "Oh, that's such a relief. I didn't want the payment to be overdue. Thank you so much.",
+      "trans": "哦，那真是太好了。我可不想付款逾期了。谢谢你的帮助。",
+      "start": 76.8,
+      "end": 82.0
+    },
+    {
+      "text": "It's my pleasure.",
+      "trans": "很高兴。",
+      "start": 82.0,
+      "end": 84.0
+    },
+    {
+      "text": "All right, we're back. So interesting dialogue. Very common situation.",
+      "trans": "好的，我们又回来了。这段有趣的对话真是太常见了。",
+      "start": 86.60000000000001,
+      "end": 90.60000000000001
+    },
+    {
+      "text": "We need to transfer money to another account.",
+      "trans": "我们需要把钱转到另一个账户。",
+      "start": 90.60000000000001,
+      "end": 93.2
+    },
+    {
+      "text": "So we have some very interesting vocab words right there. Why don't we take a look at those on language takeaway?",
+      "trans": "当然，我们这里有一些非常有趣的词汇。让我们看看这些词汇在语言取餐处怎么说吧？",
+      "start": 93.2,
+      "end": 99.2
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 100.2,
+      "end": 102.60000000000001
+    },
+    {
+      "text": "So Marco, the first word is one that you've already said a couple of times in today's lesson. It is to transfer.",
+      "trans": "所以，Marco，今天课上你已经说过好几次的单词是“转移”。",
+      "start": 102.8,
+      "end": 108.19999999999999
+    },
+    {
+      "text": "Okay, that's right. We need to transfer money. So to transfer, what does this verb mean?",
+      "trans": "好的，没错。我们需要转账。所以要转账，这个动词是什么意思？",
+      "start": 108.19999999999999,
+      "end": 113.6
+    },
+    {
+      "text": "So to transfer means to move from one place to another.",
+      "trans": "所以，转移就是从一个地方移动到另一个地方。",
+      "start": 113.6,
+      "end": 116.8
+    },
+    {
+      "text": "In the case of money, you're moving money from one bank to another bank or from one account to another account.",
+      "trans": "在钱的问题上，你是在银行之间或者账户之间移动钱。",
+      "start": 116.8,
+      "end": 123.39999999999999
+    },
+    {
+      "text": "So just think of transferring as moving.",
+      "trans": "所以，想想就是搬家。",
+      "start": 123.39999999999999,
+      "end": 126.0
+    },
+    {
+      "text": "That's right. But the bank teller also mentioned something about a wire transfer.",
+      "trans": "没错。但是银行柜员还提到一笔转账的事情。",
+      "start": 126.0,
+      "end": 130.79999999999998
+    },
+    {
+      "text": "So that's basically the same thing, right? That's right.",
+      "trans": "是的，就是这样。没错。",
+      "start": 130.8,
+      "end": 133.20000000000002
+    },
+    {
+      "text": "So when you're talking about money, you don't actually take a bag of money and you don't walk to another bank to put it in the account.",
+      "trans": "当你谈论钱的时候，你真的不会拿一个钱袋子去银行，然后把它存到账户里。",
+      "start": 133.20000000000002,
+      "end": 139.60000000000002
+    },
+    {
+      "text": "A wire transfer means that the transfer is electronic.",
+      "trans": "汇款是指转账是电子的。",
+      "start": 139.60000000000002,
+      "end": 142.60000000000002
+    },
+    {
+      "text": "One bank tells another bank that you're going to exchange this money.",
+      "trans": "银行A告诉银行B，你打算兑换这笔钱。",
+      "start": 142.60000000000002,
+      "end": 146.60000000000002
+    },
+    {
+      "text": "So it's going to move from one person to another person or from one company to another company.",
+      "trans": "所以它会从一个人转移到另一个人，或者从一个公司转移到另一个公司。",
+      "start": 146.60000000000002,
+      "end": 151.0
+    },
+    {
+      "text": "But it's never actually the money itself. It's always just the number of funds in the account.",
+      "trans": "但那从来都不是钱本身。只是账户里的资金数目而已。",
+      "start": 151.0,
+      "end": 155.4
+    },
+    {
+      "text": "That's right. Okay. So a wire transfer to transfer money electronically from one account to another and talking about this word account.",
+      "trans": "没错。好的。转账是指将一笔钱从一个账户转移到另一个账户的过程，这个单词“account”就是用来描述的。",
+      "start": 155.4,
+      "end": 164.20000000000002
+    },
+    {
+      "text": "We're talking about a bank account. What is this?",
+      "trans": "我们正在谈论一个银行账户。这是什么？",
+      "start": 164.20000000000002,
+      "end": 167.0
+    },
+    {
+      "text": "Well, this is really important. Even if you're not making a wire transfer or if you're not working at a bank,",
+      "trans": "好的，这真的很重要。即使你不是通过电汇或者是在银行工作，也是需要的。",
+      "start": 167.0,
+      "end": 172.4
+    },
+    {
+      "text": "this is something that most people have for their personal use.",
+      "trans": "这是一件大多数人都用于个人用途的东西。",
+      "start": 172.4,
+      "end": 175.8
+    },
+    {
+      "text": "So an account is a space for money in a bank that's kind of registered to one person or one company.",
+      "trans": "所以，账户就像是银行里一个用来存放钱的空间，有点像是注册给一个人或公司用的。",
+      "start": 175.8,
+      "end": 182.0
+    },
+    {
+      "text": "And there are many, many different kinds of accounts.",
+      "trans": "而且，有很多很多不同的账户类型。",
+      "start": 182.0,
+      "end": 184.6
+    },
+    {
+      "text": "That's right. Many of you probably have a savings account.",
+      "trans": "没错。你们中很多人应该都有个储蓄账户。",
+      "start": 184.6,
+      "end": 187.6
+    },
+    {
+      "text": "This is where you keep your money to save for the future or many companies or people have a checking account or a default account",
+      "trans": "这是你用来存钱的地方，可以为未来做准备，也可以是公司或个人的储蓄账户或者默认账户。",
+      "start": 187.6,
+      "end": 195.79999999999998
+    },
+    {
+      "text": "where basically you put money in, but you're also taking money out and paying for bills and paying to go to the movies, etc.",
+      "trans": "你基本上是把钱存进去，但也拿出去了，还要付水电费、看电影的钱等等。",
+      "start": 195.79999999999998,
+      "end": 201.79999999999998
+    },
+    {
+      "text": "Yeah. So these different accounts have different rules.",
+      "trans": "好的。这些不同的账号有不同的规则。",
+      "start": 201.79999999999998,
+      "end": 204.2
+    },
+    {
+      "text": "They have rules about how much money you can keep in them or how much money you need to open them.",
+      "trans": "他们有关于存钱的数量和开销的规则。",
+      "start": 204.2,
+      "end": 209.2
+    },
+    {
+      "text": "So the basic word here is account and just remember that companies and people can all have accounts at a bank.",
+      "trans": "所以这里的关键词是账户，记住公司和人都可以在银行开立账户。",
+      "start": 209.39999999999998,
+      "end": 215.2
+    },
+    {
+      "text": "That's right. Okay. So when talking about an account, we're talking about transferring money to another account.",
+      "trans": "没错。好的。说到账户，我们就是在说把钱转到另一个账户。",
+      "start": 215.2,
+      "end": 220.6
+    },
+    {
+      "text": "We don't say we want to transfer money. We say we want to transfer funds.",
+      "trans": "我们不说是想要转账钱。我们说是要转账资金。",
+      "start": 220.6,
+      "end": 225.0
+    },
+    {
+      "text": "Funds. So funds, we usually say in the plural funds with an S, this means money.",
+      "trans": "资金。我们通常说的“资金”是单数形式，带有S，意思是钱。",
+      "start": 225.0,
+      "end": 231.0
+    },
+    {
+      "text": "So we're talking about transferring funds from one company to another or I could say,",
+      "trans": "我们说的是把资金从一家公司转移到另一家公司，或者我可以说，",
+      "start": 231.0,
+      "end": 235.6
+    },
+    {
+      "text": "I need to deposit funds in my account. That's right. Now an interesting word because funds with an S at the end,",
+      "trans": "我需要把钱存到账户里。没错，这个单词挺有意思的，因为结尾有个S的钱。",
+      "start": 235.79999999999998,
+      "end": 241.6
+    },
+    {
+      "text": "that's a plural noun, as you said. But if we use it in the singular, it could also be a verb to fund.",
+      "trans": "你说的没错，那是一个复数名词。但如果用作单数，它也可以是动词来筹集资金。",
+      "start": 241.6,
+      "end": 247.6
+    },
+    {
+      "text": "That's right. And that means to pay for something or someone. So my grandfather funded my college education.",
+      "trans": "没错。这意味着要为某人付费。所以我的祖父资助了我的大学教育。",
+      "start": 247.6,
+      "end": 254.6
+    },
+    {
+      "text": "He paid money for my college education. That's right. Okay. So both words, either the verb or the noun have to do with money.",
+      "trans": "他花了钱供我上大学。没错。对了，这两个词，要么是动词，要么是名词，都和钱有关。",
+      "start": 254.6,
+      "end": 262.2
+    },
+    {
+      "text": "And when we're talking about transferring money, we're talking about different, a type of transaction, right?",
+      "trans": "当我们谈论转账时，我们指的是不同的类型交易，对吧？",
+      "start": 262.2,
+      "end": 268.2
+    },
+    {
+      "text": "We're at the bank transfer or wire transfer is a type of transaction.",
+      "trans": "我们正在处理银行转账或电汇，这是一种交易。",
+      "start": 268.2,
+      "end": 272.2
+    },
+    {
+      "text": "That's right. So a transaction is a noun and it's something that you do at a bank, for example,",
+      "trans": "没错。所以，交易就是个名词，你在银行做这种事情。比如，你存钱、取款或者转账等。",
+      "start": 272.2,
+      "end": 278.2
+    },
+    {
+      "text": "usually involving the exchange of money. So a wire transfer is a kind of transaction.",
+      "trans": "通常涉及金钱的交换。所以，电汇是一种交易形式。",
+      "start": 278.2,
+      "end": 285.2
+    },
+    {
+      "text": "But also depositing or putting money into my savings account is also a kind of transaction.",
+      "trans": "但是，把钱存入我的储蓄账户也是一种交易。",
+      "start": 285.2,
+      "end": 290.2
+    },
+    {
+      "text": "That's right. So a transaction is kind of like a business move or a business deal involving money.",
+      "trans": "好的。所以一笔交易就像一种业务行为或涉及金钱的商业交易。",
+      "start": 290.2,
+      "end": 295.2
+    },
+    {
+      "text": "For example, a transaction can also be buying a car.",
+      "trans": "例如，一笔交易也可以是买辆车。",
+      "start": 295.2,
+      "end": 299.2
+    },
+    {
+      "text": "That's right. So the transaction is I give my money to Marco the car salesperson and the transaction is exchanging that money for the car.",
+      "trans": "确实。所以那笔交易是，我把钱给了车行的马可，然后这笔钱又变成了车子。",
+      "start": 299.2,
+      "end": 307.2
+    },
+    {
+      "text": "That's right. Okay. And lastly, since we needed to pay a bill, we were worried that the bill would be overdue.",
+      "trans": "没错。最后，因为我们需要付账单，我们担心账单会逾期。",
+      "start": 307.2,
+      "end": 314.2
+    },
+    {
+      "text": "And that's why we really needed to make this wire transfer.",
+      "trans": "那就是为什么我们需要真的需要进行这笔电汇。",
+      "start": 314.2,
+      "end": 317.2
+    },
+    {
+      "text": "Okay. So to be overdue is to be late. So think about do.",
+      "trans": "好的。所以要迟到了就是晚了。那么想想吧。",
+      "start": 317.2,
+      "end": 322.2
+    },
+    {
+      "text": "This is the time when something has to be done by. So for example, if the bill for the electricity is due on Wednesday,",
+      "trans": "这是该做什么的时候了。比如说，如果周三是电费账单到期的日子，那么就要做了。",
+      "start": 322.2,
+      "end": 330.2
+    },
+    {
+      "text": "but I pay it on Thursday, it's overdue. Okay. So it not only has to do with money,",
+      "trans": "但是我在周四付的，已经逾期了。好吧，这不仅仅是因为钱的问题。",
+      "start": 330.2,
+      "end": 335.2
+    },
+    {
+      "text": "it could also be something that is late. For example, if I visit my grandma after not going there for three months,",
+      "trans": "它也可能是因为迟到了。比如，我三个月没有去看望我的奶奶了。",
+      "start": 335.2,
+      "end": 342.2
+    },
+    {
+      "text": "you would say this visit is long overdue. That means Marco should have visited his grandmother earlier,",
+      "trans": "你说这次访问已经迟来了，这意味着马可应该早些时候去探望他的奶奶。",
+      "start": 342.2,
+      "end": 348.2
+    },
+    {
+      "text": "but he didn't. That's right. Okay. So a lot of great vocab there all involving banks and different types of words",
+      "trans": "但没有。没错。好吧。那里有很多关于银行和不同类型的词汇的美好词组。",
+      "start": 348.2,
+      "end": 355.2
+    },
+    {
+      "text": "you may find when transferring funds. So why don't we listen to the dialogue again and we'll be back in a bit with fluency building.",
+      "trans": "在转账时，你可能会遇到这种情况。为什么不重新听听对话呢？稍后我们会更加流利地回来。",
+      "start": 355.2,
+      "end": 361.2
+    },
+    {
+      "text": "Good morning. Welcome to Bank of the USA. How may I help you today?",
+      "trans": "早上好。欢迎来到美国银行。今天有什么我可以帮助你的吗？",
+      "start": 361.2,
+      "end": 373.2
+    },
+    {
+      "text": "Hi, I need to transfer some money to another account. It's urgent.",
+      "trans": "你好，我需要把钱转到另一个账户。很急。",
+      "start": 373.2,
+      "end": 377.2
+    },
+    {
+      "text": "Okay. Have you made a wire transfer at our bank before?",
+      "trans": "好的。你之前在我们银行做过电汇吗？",
+      "start": 377.2,
+      "end": 380.2
+    },
+    {
+      "text": "No, I've never made a transfer before.",
+      "trans": "不，我从没转过账。",
+      "start": 380.2,
+      "end": 383.2
+    },
+    {
+      "text": "It's alright. I will take you through the procedure. Are you transferring funds to a company or an individual account?",
+      "trans": "好的。我来带你走流程。你是把钱转到公司账户还是个人账户？",
+      "start": 383.2,
+      "end": 389.2
+    },
+    {
+      "text": "A company account. I need to pay a bill.",
+      "trans": "公司账户。我需要付账单。",
+      "start": 389.2,
+      "end": 392.2
+    },
+    {
+      "text": "Okay. I'll need the name of the company and their bank rooting number, as well as their banks, address and phone number.",
+      "trans": "好的。我需要公司的名字、银行账号以及他们的银行信息、地址和电话号码。",
+      "start": 392.2,
+      "end": 399.2
+    },
+    {
+      "text": "I have all the information in this folder.",
+      "trans": "我这文件夹里有所有信息。",
+      "start": 399.2,
+      "end": 402.2
+    },
+    {
+      "text": "Whoa! You've come prepared.",
+      "trans": "哇！你已经准备好了。",
+      "start": 402.2,
+      "end": 405.2
+    },
+    {
+      "text": "I have all the necessary materials, so we can go ahead and make the transfer right now.",
+      "trans": "我已经准备好了所有必要的材料，我们现在就可以开始转账了。",
+      "start": 408.2,
+      "end": 413.2
+    },
+    {
+      "text": "It's a simple transaction and we can process it today.",
+      "trans": "这是一笔简单的交易，我们今天可以处理。",
+      "start": 413.2,
+      "end": 417.2
+    },
+    {
+      "text": "Oh, that's such a relief. I didn't want the payment to be overdue. Thank you so much.",
+      "trans": "哦，那真是太好了。我不想付款逾期了。非常感谢你。",
+      "start": 417.2,
+      "end": 422.2
+    },
+    {
+      "text": "It's my pleasure.",
+      "trans": "很高兴。",
+      "start": 422.2,
+      "end": 424.2
+    },
+    {
+      "text": "Alright, we're back. So we have three key phrases for you. Let's take a look at those now on fluency builder.",
+      "trans": "好的，我们又回来了。所以给你们三个关键短语。现在让我们在流利uilder上看看它们吧。",
+      "start": 427.2,
+      "end": 432.2
+    },
+    {
+      "text": "Fluency builder.",
+      "trans": "流畅构建。",
+      "start": 432.2,
+      "end": 435.2
+    },
+    {
+      "text": "So our first phrase comes from something that the person at the bank told the client. That person said,",
+      "trans": "所以我们的第一个短语来自于银行那边的人告诉客户，那个人说：",
+      "start": 435.2,
+      "end": 440.2
+    },
+    {
+      "text": "it's alright. I will take you through the procedure. Okay. So let's look at this word procedure.",
+      "trans": "好的。我将带你看流程。好。那么让我们看看这个词“程序”。",
+      "start": 440.2,
+      "end": 446.2
+    },
+    {
+      "text": "Procedure can be many different things, but what is it in this case?",
+      "trans": "流程可以有很多种，但在这种情况下呢？",
+      "start": 446.2,
+      "end": 449.2
+    },
+    {
+      "text": "It's basically the steps or the process of taking money from the account and transferring it to another one.",
+      "trans": "基本上就是从账户里取钱，然后转到另一个账户的过程。",
+      "start": 449.2,
+      "end": 456.2
+    },
+    {
+      "text": "That's the procedure. What we have to do, all the steps, you have to fill out the paperwork, you have to sign here and all these things.",
+      "trans": "这是操作指南。我们都需要填写表格，签名并完成这些步骤。",
+      "start": 456.2,
+      "end": 463.2
+    },
+    {
+      "text": "Right. So we're talking about a wire transfer.",
+      "trans": "好的。所以我们要谈的是电汇。",
+      "start": 463.2,
+      "end": 466.2
+    },
+    {
+      "text": "So there is a procedure for doing a wire transfer. That means like you say, there are steps that we have to go through to complete this action.",
+      "trans": "所以，做一笔电汇有程序。那就是说像你说的那样，我们必须要经过一系列步骤才能完成这个动作。",
+      "start": 466.2,
+      "end": 474.2
+    },
+    {
+      "text": "But we can also have a medical procedure. So heart surgery has its own procedure, but that's very different from a wire transfer procedure.",
+      "trans": "但我们也有一种医疗程序。所以心脏手术有自己的程序，但这和转账很不一样。",
+      "start": 474.2,
+      "end": 482.2
+    },
+    {
+      "text": "That's right. But it still has different steps and different things that you must do in order to operate.",
+      "trans": "没错。但其实它还有不同的步骤和需要你做的事情，才能正常运作。",
+      "start": 482.2,
+      "end": 486.2
+    },
+    {
+      "text": "But when we have a bank teller who will take us through the procedure, this means that he or she will help us understand the steps we need to complete.",
+      "trans": "但是，当我们可以有一个银行柜员带我们完成流程时，这意味着他或她会帮助我们理解我们需要完成的步骤。",
+      "start": 486.2,
+      "end": 494.2
+    },
+    {
+      "text": "That's right. So we could also use this in another bank scenario if maybe my little brother wants to open a bank account.",
+      "trans": "没错。如果我小弟弟想开个银行账户，我们也可以用这个方法在另一家银行场景中试试看。",
+      "start": 494.2,
+      "end": 502.2
+    },
+    {
+      "text": "So I'm going to take him through the procedure of what he needs. He needs to maybe get a copy of his ID. He needs to have $20, et cetera.",
+      "trans": "所以我要带他走一遍他需要的流程。他可能需要复印身份证，需要$20等。",
+      "start": 502.2,
+      "end": 512.2
+    },
+    {
+      "text": "Take him through the procedure. So you're going to help him. That's right.",
+      "trans": "带他走一遍这个流程。你就是要去帮助他的。没错。",
+      "start": 512.2,
+      "end": 515.2
+    },
+    {
+      "text": "And after this, we find out why the person is so anxious to transfer this money. The person says, I have a company account. I need to pay a bill.",
+      "trans": "然后，我们发现这个人这么急着要转账这笔钱的原因。他说他有一个公司的账户，需要付账单。",
+      "start": 515.2,
+      "end": 525.2
+    },
+    {
+      "text": "So this is why the money is going to be transferred from one place to another to pay the bill. So this is something we say, not just about company things or business things.",
+      "trans": "所以，这就是为什么钱要从一个地方转移到另一个地方来支付账单。这不是关于我们公司的事情或生意的事情。",
+      "start": 525.2,
+      "end": 535.2
+    },
+    {
+      "text": "We say about our things at home like the electricity bill. That's right. And actually this is more and more common.",
+      "trans": "我们家里说的那些事，就像电费单一样。没错，这越来越普遍了。",
+      "start": 535.2,
+      "end": 540.2
+    },
+    {
+      "text": "We pay our bills using our electronic banking services. So for example, maybe he needs to pay the electricity bill or the telephone bill.",
+      "trans": "我们用电子银行服务来支付账单。比如说，他可能需要付电费或电话费。",
+      "start": 540.2,
+      "end": 549.2
+    },
+    {
+      "text": "And this is why we're transferring money. So to pay a bill is to cancel the bill.",
+      "trans": "所以，付账就是取消账单。",
+      "start": 549.2,
+      "end": 554.2
+    },
+    {
+      "text": "That's right. So I could say it's time to pay the bills. It's the end of the month or shoot. I forgot to pay the bills again. They're going to turn my electricity off.",
+      "trans": "没错。所以我说时候该付账了。月底快到了，又忘了还钱。又要断电了。",
+      "start": 554.2,
+      "end": 562.2
+    },
+    {
+      "text": "That's right. And now an interesting phrase here, very specific to making transfers.",
+      "trans": "没错。这里有个有趣的短语，非常具体地与转账有关。",
+      "start": 562.2,
+      "end": 569.2
+    },
+    {
+      "text": "When we talk about bank routing number, a bank routing number, well, this is pretty simple. Actually, if you're going to transfer money, you need to be able to tell the bank where the money will go.",
+      "trans": "英语：当我们谈论银行转账号码时，一个银行转账号码，嗯，这确实挺简单的。实际上，如果你要将钱转移到银行，你必须能够告诉银行钱会去哪里。",
+      "start": 569.2,
+      "end": 579.2
+    },
+    {
+      "text": "So you can't just say Mr. Smith, you have to have a number for the account and each number is unique. It's it's special. And it's usually very, very long.",
+      "trans": "所以你不能只是说“史密斯先生”，你需要有一个唯一的账号，并且每个号码都是独一无二的。它非常特殊，而且通常会很长。",
+      "start": 579.2,
+      "end": 587.2
+    },
+    {
+      "text": "That's right. And actually it also has to do with what bank it is because obviously you can't just say, oh, bank of USA because you know, maybe there are two banks with the same name.",
+      "trans": "英语：那对了。而且实际上它还与银行有关，因为当然你不能说，哦，美国银行，因为你知道，可能有两家名字相同的银行。",
+      "start": 587.2,
+      "end": 597.2
+    },
+    {
+      "text": "Or maybe there's one bank of USA in the United States. And there's another one in, I don't know, in Europe.",
+      "trans": "也许美国有一家银行在美国，另一家在欧洲。",
+      "start": 597.2,
+      "end": 602.2
+    },
+    {
+      "text": "Right. So each bank will have a certain number or letter combination in the bank routing number. And so all the kind of account is it savings or is it a business account and so on and so forth so that you know exactly where the money will go.",
+      "trans": "是的。所以每家银行都会有一个特定的数字或字母组合，以及所有类型的账户是什么，例如储蓄还是商业账户等等，这样你就能知道钱会去哪里了。",
+      "start": 602.2,
+      "end": 614.2
+    },
+    {
+      "text": "Because you don't want to give the money to the wrong person. That's right. Okay. So a lot of great things on this lesson. Why don't we listen to the dialogue for one last time?",
+      "trans": "因为你不希望把钱给错人。没错。好的。这节课有很多很棒的东西。我们再听一遍对话吧？",
+      "start": 614.2,
+      "end": 622.2
+    },
+    {
+      "text": "Good morning. Welcome to bank of the USA. How may I help you today? Hi, I need to transfer some money to another account. It's urgent.",
+      "trans": "早上好。欢迎来到美国银行。今天有什么可以帮助你的吗？嗨，我需要把一些钱转到另一个账户里。这很重要。",
+      "start": 628.2,
+      "end": 638.2
+    },
+    {
+      "text": "Okay. Have you made a wire transfer at our bank before? No, I've never made a transfer before.",
+      "trans": "好的。你之前在我们银行汇过款吗？没有，我从没汇过款。",
+      "start": 638.2,
+      "end": 644.2
+    },
+    {
+      "text": "It's all right. I will take you through the procedure. Are you transferring funds to a company or an individual account?",
+      "trans": "好的。我来带你走流程。你是把资金转到公司账户还是个人账户？",
+      "start": 644.2,
+      "end": 651.2
+    },
+    {
+      "text": "I need to pay a bill. Okay. I'll need the name of the company and their bank routing number as well as their banks address and phone number.",
+      "trans": "我需要付账单。好的，还需要公司的名字、银行账号以及银行地址和电话号码。",
+      "start": 651.2,
+      "end": 661.2
+    },
+    {
+      "text": "I have all the information in this folder. Well, you've come prepared. I have all the necessary materials so we can go ahead and make the transfer right now. It's a simple transaction and we can process it today.",
+      "trans": "我有这文件夹里的所有信息。嗯，你已经准备好了。我已经准备好一切了，我们可以马上开始处理这个交易，并且今天就可以完成。这是一个简单的交易，我们可以在今天就处理完毕。",
+      "start": 661.2,
+      "end": 678.2
+    },
+    {
+      "text": "Oh, that's such a relief. I didn't want the payment to be overdue. Thank you so much. It's my pleasure.",
+      "trans": "哦，那真是太舒坦了。我不想付款逾期。非常感谢你。这是我的荣幸。",
+      "start": 678.2,
+      "end": 687.2
+    },
+    {
+      "text": "So Marco, this is really, really important stuff even if you're not talking about the business context, but you're trying to make transactions for your personal life.",
+      "trans": "所以马科，这真是非常重要的事情，即使你不是在讨论商业背景，但你正在试图为你的个人生活进行交易。",
+      "start": 687.2,
+      "end": 694.2
+    },
+    {
+      "text": "That's right. Just imagine maybe you're abroad, you're in the United States, and maybe your parents need to send you money. So maybe you need to go to the bank and receive those funds.",
+      "trans": "是的，你做得很好。想象一下，也许你在国外，美国，或者你的父母需要给你汇款。那么，你可能需要去银行并领取那些资金。",
+      "start": 694.2,
+      "end": 703.2
+    },
+    {
+      "text": "So now you have the language and the vocab necessary to more or less talk about a bank transfer. You can say I was wired money from Spain, for example.",
+      "trans": "现在你已经有了语言和词汇，可以大致谈论银行转账了。你可以这样说：“我从西班牙被汇款了钱。”",
+      "start": 703.2,
+      "end": 712.2
+    },
+    {
+      "text": "Right. And one of the most famous places to do this that you'll find all over the United States is Western Union.",
+      "trans": "没错。你在美国能找到的最著名的做这件事的地方之一就是西联汇款。",
+      "start": 712.2,
+      "end": 717.2
+    },
+    {
+      "text": "That's right. You can just go up to them and say I need to transfer money or I need to transfer funds.",
+      "trans": "没错。你直接上去对他们说，我需要转账或者我要转资金吧。",
+      "start": 717.2,
+      "end": 721.2
+    },
+    {
+      "text": "And so they will send the money from one Western Union to another Western Union and then the person at home or wherever will pick up your money.",
+      "trans": "所以他们会在一个西联汇款给另一个西联汇款，然后在家里或者你指定的任何地方的人会来取你的钱。",
+      "start": 721.2,
+      "end": 729.2
+    },
+    {
+      "text": "And so they will wire the money from one place to another. That's right. And I think this is how it started. The wire transferring was, I don't think it was originally with banks. I think it was something, some sort of service similar to Western Union or maybe Western Union started.",
+      "trans": "所以他们会将钱从一个地方转移到另一个地方。没错，这是正确的。我认为这与银行无关。我认为它可能是类似于西方汇款或西方汇款的某种服务。",
+      "start": 729.2,
+      "end": 741.2
+    },
+    {
+      "text": "So you mean it was like telegraphs? Yeah, something like this. But I don't know if it was from bank to bank. It's an interesting story though.",
+      "trans": "英语：所以你说得对吧？是的，就像这种。不过我并不知道它从银行到银行是什么样子。这是一个有趣的故事呢。",
+      "start": 741.2,
+      "end": 747.2
+    },
+    {
+      "text": "We'll have to look it up and let you know. I'm not sure of the story either. But if you're out there and you need to wire some money now, you know how to do it. Well, not how to do it, but you have to talk about it.",
+      "trans": "我们得查一查，然后你才能知道。我也不太清楚现在需要怎么操作。不过如果你在那边需要一些钱，你应该能搞定的。别担心，你不能自己解决，要找专业人士帮忙。",
+      "start": 747.2,
+      "end": 756.2
+    },
+    {
+      "text": "We hope you have luck with this and if you have any questions, you know where to find us, EnglishPod.com. All right. We'll see you guys there. Bye.",
+      "trans": "我们希望你这次操作顺利，如果有任何疑问，请随时联系我们的客服。再见！祝你好运！",
+      "start": 756.2,
+      "end": 762.2
+    }
+  ]
+}

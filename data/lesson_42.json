@@ -1,0 +1,1674 @@
+{
+  "title": "englishpod_B0042pb",
+  "audio": "./assets/englishpod_B0042pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to English.",
+      "trans": "各位英语学习者大家好，欢迎回到英语频道。",
+      "start": 0.0,
+      "end": 4.24
+    },
+    {
+      "text": "Pod, my name is Marco.",
+      "trans": "我是英语 Pod 的 Marco。",
+      "start": 4.24,
+      "end": 5.72
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是 Erica。",
+      "start": 5.72,
+      "end": 7.08
+    },
+    {
+      "text": "And today with Erica we're bringing you a great lesson about time.",
+      "trans": "今天我和 Erica 将为大家带来一堂关于时间的精彩课程。",
+      "start": 7.08,
+      "end": 10.56
+    },
+    {
+      "text": "You need more of it.",
+      "trans": "你总是需要更多的时间。",
+      "start": 10.56,
+      "end": 11.56
+    },
+    {
+      "text": "We need more time, right?",
+      "trans": "我们需要更多的时间，对吧？",
+      "start": 11.56,
+      "end": 13.04
+    },
+    {
+      "text": "So we're going to be teaching you how you can ask for more time.",
+      "trans": "所以我们要教你如何请求更多的时间。",
+      "start": 13.04,
+      "end": 16.44
+    },
+    {
+      "text": "If you're working on a project at work and you can't finish it on time, you have to ask",
+      "trans": "如果你正在处理一项工作，但无法按时完成，你就必须请求",
+      "start": 16.44,
+      "end": 21.28
+    },
+    {
+      "text": "your boss for more time.",
+      "trans": "你的老板多给你一点时间。",
+      "start": 21.28,
+      "end": 23.92
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。",
+      "start": 23.92,
+      "end": 24.92
+    },
+    {
+      "text": "So when our dialogue Casey needs more time to put together a press kit.",
+      "trans": "在我们的对话中，Casey 需要更多时间来整理一份新闻资料包。",
+      "start": 24.92,
+      "end": 30.24
+    },
+    {
+      "text": "What's a press kit?",
+      "trans": "什么是新闻资料包（press kit）？",
+      "start": 30.24,
+      "end": 31.84
+    },
+    {
+      "text": "Good question.",
+      "trans": "问得好。",
+      "start": 31.84,
+      "end": 32.84
+    },
+    {
+      "text": "A press kit is something the marketing department will put together.",
+      "trans": "新闻资料包通常是由市场部门整理的一套东西。",
+      "start": 32.84,
+      "end": 36.48
+    },
+    {
+      "text": "Basically pictures, logos, information about the company.",
+      "trans": "基本上包括照片、标志、以及公司的背景信息。",
+      "start": 36.48,
+      "end": 41.68
+    },
+    {
+      "text": "So when a newspaper or a magazine wants to write an article about them, so they have something",
+      "trans": "这样当报纸或杂志想写一篇关于他们的文章时，他们就有",
+      "start": 41.68,
+      "end": 46.08
+    },
+    {
+      "text": "already prepared that they could give the newspaper or magazine.",
+      "trans": "现成准备好的东西可以提供给媒体。",
+      "start": 46.08,
+      "end": 49.08
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 49.08,
+      "end": 50.08
+    },
+    {
+      "text": "Okay.",
+      "trans": "明白了。",
+      "start": 50.08,
+      "end": 51.08
+    },
+    {
+      "text": "So let's listen to our dialogue for the first time.",
+      "trans": "那我们先来听一遍对话吧。",
+      "start": 51.08,
+      "end": 53.96
+    },
+    {
+      "text": "And as always, it's going to be at a normal speed so it might be a little bit difficult",
+      "trans": "和往常一样，它会以正常速度播放，所以理解起来可能会",
+      "start": 53.96,
+      "end": 57.52
+    },
+    {
+      "text": "to understand.",
+      "trans": "有一点点困难。",
+      "start": 57.52,
+      "end": 58.72
+    },
+    {
+      "text": "Welcome back in one minute and tell you about some of the key language.",
+      "trans": "一分钟后我们将回到这里，为你讲解一些关键语言点。",
+      "start": 58.72,
+      "end": 71.0
+    },
+    {
+      "text": "So Casey, how are things going with the photos for the press kit?",
+      "trans": "那么 Casey，新闻资料包的照片进展得怎么样了？",
+      "start": 71.0,
+      "end": 77.52
+    },
+    {
+      "text": "Yeah.",
+      "trans": "额。",
+      "start": 77.52,
+      "end": 78.52
+    },
+    {
+      "text": "I've been meaning to talk to you about that.",
+      "trans": "我一直想跟你谈谈这件事。",
+      "start": 78.52,
+      "end": 81.6
+    },
+    {
+      "text": "I might need to ask for an extension on that deadline.",
+      "trans": "我可能需要申请延长一下截止日期。",
+      "start": 81.6,
+      "end": 85.52
+    },
+    {
+      "text": "You've had over a month to get this finalized.",
+      "trans": "你已经有一个多月的时间来完成最后定稿了。",
+      "start": 85.52,
+      "end": 88.76
+    },
+    {
+      "text": "Why are things delayed?",
+      "trans": "为什么进度被推迟了？",
+      "start": 88.76,
+      "end": 91.16
+    },
+    {
+      "text": "Well the thing is, we ran into a lot of problems.",
+      "trans": "呃，情况是这样的，我们遇到了很多问题。",
+      "start": 91.16,
+      "end": 95.84
+    },
+    {
+      "text": "I'm not looking for excuses here.",
+      "trans": "我不是来听你找借口的。",
+      "start": 95.84,
+      "end": 97.96
+    },
+    {
+      "text": "I just want to get this finished on time.",
+      "trans": "我只希望这件事能按时完成。",
+      "start": 97.96,
+      "end": 100.68
+    },
+    {
+      "text": "I know.",
+      "trans": "我知道。",
+      "start": 100.68,
+      "end": 101.76
+    },
+    {
+      "text": "And I apologize for the delay.",
+      "trans": "我为延误感到抱歉。",
+      "start": 101.76,
+      "end": 103.88
+    },
+    {
+      "text": "But some things were just beyond my control.",
+      "trans": "但有些事情确实超出了我的控制范围。",
+      "start": 103.88,
+      "end": 106.48
+    },
+    {
+      "text": "I had trouble booking the photographer.",
+      "trans": "我在预约摄影师时遇到了困难。",
+      "start": 106.48,
+      "end": 109.0
+    },
+    {
+      "text": "And then Michael was sick for three weeks.",
+      "trans": "接着 Michael 病了三周。",
+      "start": 109.0,
+      "end": 111.4
+    },
+    {
+      "text": "But I couldn't include him in the photos.",
+      "trans": "所以我没法把他拍进照片里。",
+      "start": 111.4,
+      "end": 114.08
+    },
+    {
+      "text": "And the design team lost all the files.",
+      "trans": "而且设计团队弄丢了所有文件。",
+      "start": 114.08,
+      "end": 116.72
+    },
+    {
+      "text": "So I had to redo the pictures.",
+      "trans": "所以我不得不重拍这些照片。",
+      "start": 116.72,
+      "end": 119.0
+    },
+    {
+      "text": "I'm not going to put this off any longer, Casey.",
+      "trans": "我不会再让你拖下去了，Casey。",
+      "start": 119.0,
+      "end": 121.84
+    },
+    {
+      "text": "I want those photos.",
+      "trans": "我要那些照片。",
+      "start": 121.84,
+      "end": 123.48
+    },
+    {
+      "text": "ASAP.",
+      "trans": "越快越好（尽快）。",
+      "start": 123.48,
+      "end": 124.48
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 124.48,
+      "end": 127.0
+    },
+    {
+      "text": "So Casey is in trouble, I think.",
+      "trans": "我想 Casey 遇到麻烦了。",
+      "start": 127.0,
+      "end": 132.68
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是的。",
+      "start": 132.68,
+      "end": 133.68
+    },
+    {
+      "text": "I think her boss is pretty upset.",
+      "trans": "我觉得她的老板非常生气。",
+      "start": 133.68,
+      "end": 135.6
+    },
+    {
+      "text": "Yeah.",
+      "trans": "没错。",
+      "start": 135.6,
+      "end": 136.6
+    },
+    {
+      "text": "Well, let's take a look at some of the language that we saw in this dialogue in language takeaway.",
+      "trans": "好了，让我们在“语言要点”环节中看看对话里出现的一些词汇。",
+      "start": 136.6,
+      "end": 143.32
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言要点。",
+      "start": 143.32,
+      "end": 145.44
+    },
+    {
+      "text": "First word today is deadline.",
+      "trans": "今天的第一个词是 deadline。",
+      "start": 145.44,
+      "end": 147.96
+    },
+    {
+      "text": "Deadline.",
+      "trans": "截止日期。",
+      "start": 147.96,
+      "end": 149.48
+    },
+    {
+      "text": "Deadline.",
+      "trans": "截止日期。",
+      "start": 149.48,
+      "end": 150.48
+    },
+    {
+      "text": "Deadline.",
+      "trans": "截止日期。",
+      "start": 150.48,
+      "end": 151.48
+    },
+    {
+      "text": "So Erica, what's a deadline?",
+      "trans": "那么 Erica，deadline 是什么意思？",
+      "start": 151.48,
+      "end": 153.36
+    },
+    {
+      "text": "It is the last possible date to do something.",
+      "trans": "它是指做某件事最后期限的日期。",
+      "start": 153.36,
+      "end": 157.12
+    },
+    {
+      "text": "So for example, when we were in school, our teacher would send us homework and say it was",
+      "trans": "例如，我们在上学时，老师会发作业并说",
+      "start": 157.12,
+      "end": 160.79
+    },
+    {
+      "text": "for Friday.",
+      "trans": "周五交。",
+      "start": 160.79,
+      "end": 161.96
+    },
+    {
+      "text": "So the deadline was Friday.",
+      "trans": "所以截止日期就是周五。",
+      "start": 161.96,
+      "end": 163.48
+    },
+    {
+      "text": "Was Friday, right?",
+      "trans": "就是周五，对吧？",
+      "start": 163.48,
+      "end": 165.12
+    },
+    {
+      "text": "Or when you're at work, you have projects that you have to finish by a certain date.",
+      "trans": "或者在工作中，你必须在特定日期前完成项目。",
+      "start": 165.12,
+      "end": 169.2
+    },
+    {
+      "text": "That's your deadline.",
+      "trans": "那就是你的截止日期。",
+      "start": 169.2,
+      "end": 170.2
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正是如此。",
+      "start": 170.2,
+      "end": 171.2
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 171.2,
+      "end": 172.2
+    },
+    {
+      "text": "Let's look at our next word.",
+      "trans": "让我们看下一个词。",
+      "start": 172.2,
+      "end": 173.6
+    },
+    {
+      "text": "Extension.",
+      "trans": "延长。",
+      "start": 173.6,
+      "end": 174.6
+    },
+    {
+      "text": "Extension.",
+      "trans": "延长。",
+      "start": 174.6,
+      "end": 175.6
+    },
+    {
+      "text": "Extension.",
+      "trans": "延长。",
+      "start": 175.6,
+      "end": 176.6
+    },
+    {
+      "text": "Extension.",
+      "trans": "延长。",
+      "start": 176.6,
+      "end": 177.6
+    },
+    {
+      "text": "So extension and deadline go together, right?",
+      "trans": "所以 extension（延期）和 deadline（截止日期）是常在一起用的，对吧？",
+      "start": 177.6,
+      "end": 180.76
+    },
+    {
+      "text": "Exactly.",
+      "trans": "没错。",
+      "start": 180.76,
+      "end": 181.76
+    },
+    {
+      "text": "If you can't reach your deadline or you can't make your deadline, you must ask for an extension.",
+      "trans": "如果你无法赶上截止日期，你就必须申请延期。",
+      "start": 181.76,
+      "end": 188.2
+    },
+    {
+      "text": "An extension.",
+      "trans": "延期。",
+      "start": 188.2,
+      "end": 189.2
+    },
+    {
+      "text": "So you ask for more time.",
+      "trans": "也就是请求更多的时间。",
+      "start": 189.2,
+      "end": 190.84
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是的。",
+      "start": 190.84,
+      "end": 191.84
+    },
+    {
+      "text": "Extension is moving the deadline in the future.",
+      "trans": "延期就是把截止日期往后推。",
+      "start": 191.84,
+      "end": 195.12
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 195.12,
+      "end": 196.12
+    },
+    {
+      "text": "Interesting.",
+      "trans": "很有意思。",
+      "start": 196.12,
+      "end": 197.12
+    },
+    {
+      "text": "Let's look at our next word.",
+      "trans": "看下一个词。",
+      "start": 197.12,
+      "end": 198.44
+    },
+    {
+      "text": "Ran into.",
+      "trans": "遭遇，遇到。",
+      "start": 198.44,
+      "end": 200.28
+    },
+    {
+      "text": "Ran into.",
+      "trans": "遇见。",
+      "start": 200.28,
+      "end": 201.28
+    },
+    {
+      "text": "Ran into.",
+      "trans": "遇到。",
+      "start": 201.28,
+      "end": 202.28
+    },
+    {
+      "text": "Ran into some problems.",
+      "trans": "遇到了一些问题。",
+      "start": 202.28,
+      "end": 205.2
+    },
+    {
+      "text": "So we ran into some problems in this dialogue.",
+      "trans": "在对话中，我们“遇到了”一些问题。",
+      "start": 205.2,
+      "end": 208.32
+    },
+    {
+      "text": "Let's listen to some more examples of run into so we can understand the meaning.",
+      "trans": "让我们听听更多关于 run into 的例子来理解它的含义。",
+      "start": 208.32,
+      "end": 213.36
+    },
+    {
+      "text": "Example one.",
+      "trans": "例一。",
+      "start": 213.36,
+      "end": 216.28
+    },
+    {
+      "text": "We ran into a storm on our way home.",
+      "trans": "我们在回家的路上遇到了暴风雨。",
+      "start": 216.28,
+      "end": 221.8
+    },
+    {
+      "text": "Example two.",
+      "trans": "例二。",
+      "start": 221.8,
+      "end": 225.36
+    },
+    {
+      "text": "If you're not careful now, you're going to run into a lot of problems later.",
+      "trans": "如果你现在不小心，以后会遇到很多麻烦。",
+      "start": 225.36,
+      "end": 231.76
+    },
+    {
+      "text": "Example three.",
+      "trans": "例三。",
+      "start": 231.76,
+      "end": 235.16
+    },
+    {
+      "text": "I ran into some trouble with my computer.",
+      "trans": "我的电脑遇到了一些故障。",
+      "start": 235.16,
+      "end": 238.84
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 238.84,
+      "end": 239.84
+    },
+    {
+      "text": "Good example.",
+      "trans": "很好的例子。",
+      "start": 239.84,
+      "end": 240.84
+    },
+    {
+      "text": "So it's clear now, right?",
+      "trans": "现在很清楚了吧？",
+      "start": 240.84,
+      "end": 242.36
+    },
+    {
+      "text": "Right.",
+      "trans": "是的。",
+      "start": 242.36,
+      "end": 243.36
+    },
+    {
+      "text": "If you run into problems, you meet some problems.",
+      "trans": "Run into problems 就是遇到问题的意思。",
+      "start": 243.36,
+      "end": 245.64
+    },
+    {
+      "text": "Right.",
+      "trans": "没错。",
+      "start": 245.64,
+      "end": 246.64
+    },
+    {
+      "text": "Many students say it in that way.",
+      "trans": "很多学生会那样说。",
+      "start": 246.64,
+      "end": 248.0
+    },
+    {
+      "text": "I met some problems.",
+      "trans": "我遇到了一些问题。",
+      "start": 248.0,
+      "end": 249.44
+    },
+    {
+      "text": "Yeah, but that's wrong.",
+      "trans": "是的，但那是错的。",
+      "start": 249.44,
+      "end": 250.84
+    },
+    {
+      "text": "Right.",
+      "trans": "对。",
+      "start": 250.84,
+      "end": 251.6
+    },
+    {
+      "text": "So you would say I ran into some problems.",
+      "trans": "所以你应该说 I ran into some problems。",
+      "start": 251.6,
+      "end": 253.76
+    },
+    {
+      "text": "Right.",
+      "trans": "没错。",
+      "start": 253.76,
+      "end": 254.76
+    },
+    {
+      "text": "I met some problems.",
+      "trans": "我遇到了一些问题。",
+      "start": 254.76,
+      "end": 255.76
+    },
+    {
+      "text": "Is wrong.",
+      "trans": "是错误的。",
+      "start": 255.76,
+      "end": 256.76
+    },
+    {
+      "text": "Wrong.",
+      "trans": "错误的。",
+      "start": 256.76,
+      "end": 257.76
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 257.76,
+      "end": 258.76
+    },
+    {
+      "text": "Don't say met some problems.",
+      "trans": "不要说遇到了一些问题。",
+      "start": 258.76,
+      "end": 259.76
+    },
+    {
+      "text": "I ran into some problems.",
+      "trans": "我遇到了一些问题。",
+      "start": 259.76,
+      "end": 260.76
+    },
+    {
+      "text": "I ran into.",
+      "trans": "使用 ran into。",
+      "start": 260.76,
+      "end": 261.76
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 261.76,
+      "end": 262.76
+    },
+    {
+      "text": "And our last word for language takeaway.",
+      "trans": "最后一个语言要点词汇。",
+      "start": 262.76,
+      "end": 265.36
+    },
+    {
+      "text": "Delayed.",
+      "trans": "延误，延迟。",
+      "start": 265.36,
+      "end": 266.36
+    },
+    {
+      "text": "Delayed.",
+      "trans": "延迟。",
+      "start": 266.36,
+      "end": 267.36
+    },
+    {
+      "text": "Delayed.",
+      "trans": "延迟。",
+      "start": 267.36,
+      "end": 268.36
+    },
+    {
+      "text": "Delayed.",
+      "trans": "延迟。",
+      "start": 268.36,
+      "end": 269.36
+    },
+    {
+      "text": "So when something is delayed, it's late.",
+      "trans": "当某事 delayed 时，就是迟了。",
+      "start": 269.36,
+      "end": 271.6
+    },
+    {
+      "text": "Late.",
+      "trans": "晚了。",
+      "start": 271.6,
+      "end": 272.6
+    },
+    {
+      "text": "And the opposite is on time.",
+      "trans": "反义词是 on time（按时）。",
+      "start": 272.6,
+      "end": 274.8
+    },
+    {
+      "text": "Yeah.",
+      "trans": "没错。",
+      "start": 274.8,
+      "end": 275.8
+    },
+    {
+      "text": "So your flight was delayed or your flight was on time.",
+      "trans": "所以你的航班可能延误了，也可能按时起飞。",
+      "start": 275.8,
+      "end": 278.96
+    },
+    {
+      "text": "The project was delayed.",
+      "trans": "项目延期了。",
+      "start": 278.96,
+      "end": 280.8
+    },
+    {
+      "text": "Or your project was on time.",
+      "trans": "或者你的项目按时完成了。",
+      "start": 280.8,
+      "end": 282.48
+    },
+    {
+      "text": "Clear.",
+      "trans": "很清晰。",
+      "start": 282.48,
+      "end": 283.48
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 283.48,
+      "end": 284.48
+    },
+    {
+      "text": "So now let's go back to the dialogue.",
+      "trans": "现在让我们回到对话中。",
+      "start": 284.48,
+      "end": 285.96
+    },
+    {
+      "text": "Let's listen to it again.",
+      "trans": "再听一遍。",
+      "start": 285.96,
+      "end": 287.4
+    },
+    {
+      "text": "And this time it will be a little bit slower.",
+      "trans": "这次语速会稍微慢一点。",
+      "start": 287.4,
+      "end": 289.64
+    },
+    {
+      "text": "So you can understand some of these phrases we just talked about.",
+      "trans": "这样你就能理解我们刚才谈到的这些短语了。",
+      "start": 289.64,
+      "end": 301.0
+    },
+    {
+      "text": "So Casey, how are things going with the photos for the press kit?",
+      "trans": "那么 Casey，新闻资料包的照片进展得怎么样了？",
+      "start": 301.0,
+      "end": 307.64
+    },
+    {
+      "text": "Yeah.",
+      "trans": "额。",
+      "start": 307.64,
+      "end": 308.64
+    },
+    {
+      "text": "I've been meaning to talk to you about that.",
+      "trans": "我一直想跟你谈谈这件事。",
+      "start": 308.64,
+      "end": 311.64
+    },
+    {
+      "text": "I might need to ask for an extension on that deadline.",
+      "trans": "我可能需要申请延长截止日期。",
+      "start": 311.64,
+      "end": 315.56
+    },
+    {
+      "text": "You've had over a month to get this finalized.",
+      "trans": "你已经有一个多月的时间来完成最后定稿了。",
+      "start": 315.56,
+      "end": 318.8
+    },
+    {
+      "text": "Why are things delayed?",
+      "trans": "为什么进度被推迟了？",
+      "start": 318.8,
+      "end": 321.2
+    },
+    {
+      "text": "Well, the thing is, we ran into a lot of problems.",
+      "trans": "呃，情况是这样的，我们遇到了很多问题。",
+      "start": 321.2,
+      "end": 325.92
+    },
+    {
+      "text": "I'm not looking for excuses here.",
+      "trans": "我不是来听你找借口的。",
+      "start": 325.92,
+      "end": 327.96
+    },
+    {
+      "text": "I just want to get this finished on time.",
+      "trans": "我只希望这件事能按时完成。",
+      "start": 327.96,
+      "end": 331.2
+    },
+    {
+      "text": "I know.",
+      "trans": "我知道。",
+      "start": 331.2,
+      "end": 332.2
+    },
+    {
+      "text": "And I apologize for the delay.",
+      "trans": "我为延误感到抱歉。",
+      "start": 332.2,
+      "end": 334.64
+    },
+    {
+      "text": "But some things were just beyond my control.",
+      "trans": "但有些事情确实超出了我的控制。",
+      "start": 334.64,
+      "end": 337.92
+    },
+    {
+      "text": "I had trouble booking the photographer.",
+      "trans": "我在预约摄影师时遇到了麻烦。",
+      "start": 337.92,
+      "end": 340.56
+    },
+    {
+      "text": "And then Michael was sick for three weeks, so I couldn't include him in the photos.",
+      "trans": "接着 Michael 病了三周，所以我没法把他拍进照片里。",
+      "start": 340.56,
+      "end": 345.36
+    },
+    {
+      "text": "And the design team lost all the files, so I had to redo the pictures.",
+      "trans": "而且设计团队弄丢了所有文件，所以我不得不重拍照片。",
+      "start": 345.36,
+      "end": 350.92
+    },
+    {
+      "text": "I'm not going to put this off any longer, Casey.",
+      "trans": "我不会再让你拖下去了，Casey。",
+      "start": 350.92,
+      "end": 354.64
+    },
+    {
+      "text": "I want those photos ASAP.",
+      "trans": "我要那些照片，越快越好。",
+      "start": 354.64,
+      "end": 358.44
+    },
+    {
+      "text": "Okay, so there were some really useful phrases that we saw in this dialogue.",
+      "trans": "好的，我们在对话中看到了一些非常有用的短语。",
+      "start": 359.16,
+      "end": 367.8
+    },
+    {
+      "text": "Yes, some wonderful phrases that you can use when you want to ask for more time.",
+      "trans": "是的，当你想要申请更多时间时，可以使用这些极好的短语。",
+      "start": 367.8,
+      "end": 372.64
+    },
+    {
+      "text": "Okay, so let's look at these phrases in Fluency Builder.",
+      "trans": "好的，让我们在“流利表达”环节中看看这些短语。",
+      "start": 372.64,
+      "end": 377.04
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流利表达。",
+      "start": 377.04,
+      "end": 378.04
+    },
+    {
+      "text": "Alright, what's our first phrase?",
+      "trans": "好了，我们的第一个短语是什么？",
+      "start": 378.04,
+      "end": 380.28
+    },
+    {
+      "text": "I've been meaning to talk to you.",
+      "trans": "我一直想跟你谈谈。",
+      "start": 380.28,
+      "end": 383.0
+    },
+    {
+      "text": "I've been meaning too.",
+      "trans": "我一直打算（做某事）。",
+      "start": 383.0,
+      "end": 384.88
+    },
+    {
+      "text": "I've been meaning too.",
+      "trans": "我一直想...",
+      "start": 384.88,
+      "end": 386.88
+    },
+    {
+      "text": "Okay, we have some really great examples of how you can combine.",
+      "trans": "好的，我们有一些关于如何组合的优秀例子。",
+      "start": 386.88,
+      "end": 391.68
+    },
+    {
+      "text": "I've been meaning too with different verbs.",
+      "trans": "如何将 “I’ve been meaning to” 与不同的动词搭配。",
+      "start": 391.68,
+      "end": 394.0
+    },
+    {
+      "text": "Yeah, let's listen.",
+      "trans": "是的，一起来听听。",
+      "start": 394.0,
+      "end": 395.72
+    },
+    {
+      "text": "Example one.",
+      "trans": "例一。",
+      "start": 395.72,
+      "end": 399.08
+    },
+    {
+      "text": "I'm sorry I haven't called you yet.",
+      "trans": "对不起，我还没给你打电话。",
+      "start": 399.08,
+      "end": 400.96
+    },
+    {
+      "text": "I've been meaning too, but I've been busy.",
+      "trans": "我一直想打，但我一直很忙。",
+      "start": 400.96,
+      "end": 406.08
+    },
+    {
+      "text": "Example two.",
+      "trans": "例二。",
+      "start": 406.08,
+      "end": 410.24
+    },
+    {
+      "text": "I've been meaning to tell you that John Quitt yesterday.",
+      "trans": "我一直想告诉你 John 昨天辞职了。",
+      "start": 410.24,
+      "end": 416.76
+    },
+    {
+      "text": "Example three.",
+      "trans": "例三。",
+      "start": 416.76,
+      "end": 420.92
+    },
+    {
+      "text": "I've been meaning to see that film for a while.",
+      "trans": "我想看那部电影已经有一段时间了。",
+      "start": 420.92,
+      "end": 426.16
+    },
+    {
+      "text": "I've been meaning to go to that restaurant, but I haven't had time.",
+      "trans": "我一直想去那家餐厅，但我一直没时间。",
+      "start": 426.16,
+      "end": 430.0
+    },
+    {
+      "text": "So you've been wanting to for a long time.",
+      "trans": "所以你已经想了很久了。",
+      "start": 430.0,
+      "end": 432.52
+    },
+    {
+      "text": "Right.",
+      "trans": "没错。",
+      "start": 432.52,
+      "end": 433.52
+    },
+    {
+      "text": "I've been thinking about it.",
+      "trans": "我一直在考虑这件事。",
+      "start": 433.52,
+      "end": 435.0
+    },
+    {
+      "text": "I've been planning to do it.",
+      "trans": "我一直在计划去做。",
+      "start": 435.0,
+      "end": 436.44
+    },
+    {
+      "text": "But you just haven't done it.",
+      "trans": "但你只是还没做。",
+      "start": 436.44,
+      "end": 437.44
+    },
+    {
+      "text": "I haven't done it, because I haven't had time or money.",
+      "trans": "我还没做是因为我没时间或者没钱。",
+      "start": 437.44,
+      "end": 440.76
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 440.76,
+      "end": 442.08
+    },
+    {
+      "text": "Good phrase.",
+      "trans": "很好的短语。",
+      "start": 442.08,
+      "end": 443.44
+    },
+    {
+      "text": "Our next phrase is Beyond My Control.",
+      "trans": "我们的下一个短语是 Beyond My Control（超出我的控制）。",
+      "start": 443.44,
+      "end": 447.32
+    },
+    {
+      "text": "Beyond My Control.",
+      "trans": "超出我的控制。",
+      "start": 447.32,
+      "end": 449.4
+    },
+    {
+      "text": "It's Beyond My Control.",
+      "trans": "这超出了我的掌控。",
+      "start": 449.4,
+      "end": 451.32
+    },
+    {
+      "text": "So it means that I can't control it.",
+      "trans": "所以它的意思是我无法控制它。",
+      "start": 451.32,
+      "end": 454.04
+    },
+    {
+      "text": "You can't do anything about it.",
+      "trans": "你对此无能为力。",
+      "start": 454.04,
+      "end": 455.36
+    },
+    {
+      "text": "Can't do anything about it.",
+      "trans": "无法采取任何行动。",
+      "start": 455.36,
+      "end": 456.2
+    },
+    {
+      "text": "The weather is Beyond My Control.",
+      "trans": "天气是超出我控制的。",
+      "start": 456.2,
+      "end": 458.2
+    },
+    {
+      "text": "Right.",
+      "trans": "对。",
+      "start": 458.2,
+      "end": 459.2
+    },
+    {
+      "text": "Or relate with this project because Jane was sick for one month.",
+      "trans": "或者项目延期是因为 Jane 病了一个月。",
+      "start": 459.2,
+      "end": 463.36
+    },
+    {
+      "text": "It was Beyond My Control.",
+      "trans": "那是超出了我的控制的。",
+      "start": 463.36,
+      "end": 464.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 464.6,
+      "end": 465.6
+    },
+    {
+      "text": "It wasn't your fault.",
+      "trans": "那不是你的错。",
+      "start": 465.6,
+      "end": 466.6
+    },
+    {
+      "text": "No.",
+      "trans": "不是。",
+      "start": 466.6,
+      "end": 467.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "明白了。",
+      "start": 467.6,
+      "end": 468.6
+    },
+    {
+      "text": "And our last phrase for fluency builder.",
+      "trans": "“流利表达”环节的最后一个短语。",
+      "start": 468.6,
+      "end": 471.2
+    },
+    {
+      "text": "Put this off.",
+      "trans": "拖延，推迟某事。",
+      "start": 471.2,
+      "end": 472.76
+    },
+    {
+      "text": "Put this off.",
+      "trans": "推迟这个。",
+      "start": 472.76,
+      "end": 475.12
+    },
+    {
+      "text": "Put this off.",
+      "trans": "推迟这个。",
+      "start": 475.12,
+      "end": 477.16
+    },
+    {
+      "text": "Put this off.",
+      "trans": "推迟这个。",
+      "start": 477.16,
+      "end": 479.2
+    },
+    {
+      "text": "So let's listen to some more examples of Put this off before we explain the meaning.",
+      "trans": "在解释含义之前，让我们多听几个关于 Put this off 的例子。",
+      "start": 479.2,
+      "end": 484.92
+    },
+    {
+      "text": "Example 1.",
+      "trans": "例一。",
+      "start": 484.92,
+      "end": 488.2
+    },
+    {
+      "text": "I've been putting off this project for a week.",
+      "trans": "我把这个项目推迟了一周。",
+      "start": 488.2,
+      "end": 490.84
+    },
+    {
+      "text": "And it's due tomorrow.",
+      "trans": "而明天就是最后期限了。",
+      "start": 490.84,
+      "end": 495.88
+    },
+    {
+      "text": "Example 2.",
+      "trans": "例二。",
+      "start": 495.88,
+      "end": 499.92
+    },
+    {
+      "text": "Can we put off our meeting till next week?",
+      "trans": "我们可以把会议推迟到下周吗？",
+      "start": 499.92,
+      "end": 501.92
+    },
+    {
+      "text": "I'm too busy right now.",
+      "trans": "我现在太忙了。",
+      "start": 501.92,
+      "end": 506.8
+    },
+    {
+      "text": "Example 3.",
+      "trans": "例三。",
+      "start": 506.8,
+      "end": 507.8
+    },
+    {
+      "text": "I've been putting off my email all day.",
+      "trans": "我一整天都在拖延处理邮件。",
+      "start": 507.8,
+      "end": 512.72
+    },
+    {
+      "text": "And now I have 50 messages to respond to.",
+      "trans": "现在我有 50 条消息要回复。",
+      "start": 512.72,
+      "end": 517.32
+    },
+    {
+      "text": "So Marco, when you put something off, you leave it for later.",
+      "trans": "所以 Marco，当你 put something off 时，你是把它留到以后处理。",
+      "start": 517.32,
+      "end": 521.16
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 521.16,
+      "end": 522.16
+    },
+    {
+      "text": "Right.",
+      "trans": "没错。",
+      "start": 522.16,
+      "end": 523.16
+    },
+    {
+      "text": "So maybe I have to write a report today, but I'm going to put it off till tomorrow.",
+      "trans": "所以可能我今天得写报告，但我打算把它推迟到明天。",
+      "start": 523.16,
+      "end": 527.44
+    },
+    {
+      "text": "So you're going to do it tomorrow.",
+      "trans": "所以你打算明天做。",
+      "start": 527.44,
+      "end": 528.8
+    },
+    {
+      "text": "I'll do it tomorrow.",
+      "trans": "我会明天再做。",
+      "start": 528.8,
+      "end": 529.8
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 529.8,
+      "end": 530.8
+    },
+    {
+      "text": "So we've got some really great words and some really good phrases.",
+      "trans": "我们学到了一些非常棒的词和短语。",
+      "start": 530.8,
+      "end": 533.92
+    },
+    {
+      "text": "So now let's listen to our dialogue for the last time.",
+      "trans": "现在让我们最后听一遍对话。",
+      "start": 533.92,
+      "end": 537.08
+    },
+    {
+      "text": "And then we'll come back and talk some more.",
+      "trans": "然后我们再回来聊一聊。",
+      "start": 537.08,
+      "end": 544.48
+    },
+    {
+      "text": "So Casey, how are things going with the photos for the press kit?",
+      "trans": "那么 Casey，新闻资料包的照片进展得怎么样了？",
+      "start": 544.48,
+      "end": 551.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "额。",
+      "start": 551.24,
+      "end": 552.24
+    },
+    {
+      "text": "I've been meaning to talk to you about that.",
+      "trans": "我一直想跟你谈谈这件事。",
+      "start": 552.24,
+      "end": 555.08
+    },
+    {
+      "text": "I might need to ask for an extension on that deadline.",
+      "trans": "我可能需要申请延长截止日期。",
+      "start": 555.08,
+      "end": 559.0
+    },
+    {
+      "text": "We've had over a month to get this finalized.",
+      "trans": "你已经有一个多月的时间来完成最后定稿了。",
+      "start": 559.0,
+      "end": 562.24
+    },
+    {
+      "text": "Why are things delayed?",
+      "trans": "为什么进度被推迟了？",
+      "start": 562.24,
+      "end": 564.36
+    },
+    {
+      "text": "Well, the thing is, we ran into a lot of problems.",
+      "trans": "呃，情况是这样的，我们遇到了很多问题。",
+      "start": 564.36,
+      "end": 569.36
+    },
+    {
+      "text": "I'm not looking for excuses here.",
+      "trans": "我不是来听你找借口的。",
+      "start": 569.36,
+      "end": 571.48
+    },
+    {
+      "text": "I just want to get this finished on time.",
+      "trans": "我只希望这件事能按时完成。",
+      "start": 571.48,
+      "end": 574.16
+    },
+    {
+      "text": "I know.",
+      "trans": "我知道。",
+      "start": 574.16,
+      "end": 575.24
+    },
+    {
+      "text": "And I apologize for the delay.",
+      "trans": "我为延误感到抱歉。",
+      "start": 575.24,
+      "end": 577.36
+    },
+    {
+      "text": "But some things were just beyond my control.",
+      "trans": "但有些事情确实超出了我的控制。",
+      "start": 577.36,
+      "end": 580.0
+    },
+    {
+      "text": "I had trouble booking the photographer.",
+      "trans": "我在预约摄影师时遇到了困难。",
+      "start": 580.0,
+      "end": 582.48
+    },
+    {
+      "text": "And then, Michael was sick for three weeks.",
+      "trans": "接着 Michael 病了三周。",
+      "start": 582.48,
+      "end": 584.88
+    },
+    {
+      "text": "So I couldn't include him in the photos.",
+      "trans": "所以我没法把他拍进照片里。",
+      "start": 584.88,
+      "end": 587.6
+    },
+    {
+      "text": "And the design team lost all the files.",
+      "trans": "而且设计团队弄丢了所有文件。",
+      "start": 587.6,
+      "end": 590.2
+    },
+    {
+      "text": "So I had to redo the pictures.",
+      "trans": "所以我不得不重拍照片。",
+      "start": 590.2,
+      "end": 592.48
+    },
+    {
+      "text": "I'm not going to put this off any longer, Casey.",
+      "trans": "我不会再让你拖下去了，Casey。",
+      "start": 592.48,
+      "end": 595.32
+    },
+    {
+      "text": "I want those photos.",
+      "trans": "我要那些照片。",
+      "start": 595.32,
+      "end": 597.2
+    },
+    {
+      "text": "ASAP.",
+      "trans": "越快越好。",
+      "start": 597.2,
+      "end": 598.2
+    },
+    {
+      "text": "Marco, do you think that Casey's reasons for being late are good?",
+      "trans": "Marco，你认为 Casey 迟到的理由充分吗？",
+      "start": 598.2,
+      "end": 609.36
+    },
+    {
+      "text": "I think so because it wasn't really her fault, the whole situation with the photographer.",
+      "trans": "我觉得还行，因为那确实不是她的错，比如摄影师那边的情况。",
+      "start": 609.36,
+      "end": 615.24
+    },
+    {
+      "text": "And then one of her coworkers was sick for three weeks.",
+      "trans": "而且她的一个同事还病了三周。",
+      "start": 615.24,
+      "end": 618.88
+    },
+    {
+      "text": "It's not really her fault, right?",
+      "trans": "这真的不是她的错，对吧？",
+      "start": 618.88,
+      "end": 620.2
+    },
+    {
+      "text": "Right.",
+      "trans": "对。",
+      "start": 620.2,
+      "end": 621.2
+    },
+    {
+      "text": "But maybe the boss thinks that she's making excuses.",
+      "trans": "但也许老板认为她是在找借口。",
+      "start": 621.2,
+      "end": 623.84
+    },
+    {
+      "text": "Yeah, maybe she's making excuses.",
+      "trans": "是的，也许她在找借口。",
+      "start": 623.84,
+      "end": 626.08
+    },
+    {
+      "text": "That's really common.",
+      "trans": "这非常普遍。",
+      "start": 626.08,
+      "end": 627.08
+    },
+    {
+      "text": "For example, when we were kids, you would say, oh, my dog ate my homework.",
+      "trans": "比如我们小时候，你会说：噢，我的狗把我的作业吃了。",
+      "start": 627.08,
+      "end": 631.68
+    },
+    {
+      "text": "Right.",
+      "trans": "没错。",
+      "start": 631.68,
+      "end": 632.68
+    },
+    {
+      "text": "But that really happened to me once.",
+      "trans": "但这种事真的在我身上发生过一次。",
+      "start": 632.68,
+      "end": 634.84
+    },
+    {
+      "text": "Your dog ate your homework?",
+      "trans": "你的狗吃了你的作业？",
+      "start": 634.84,
+      "end": 635.84
+    },
+    {
+      "text": "My cat ate my homework.",
+      "trans": "是我的猫吃了我的作业。",
+      "start": 635.84,
+      "end": 637.12
+    },
+    {
+      "text": "Your cat ate your homework.",
+      "trans": "你的猫吃了你的作业。",
+      "start": 637.12,
+      "end": 638.52
+    },
+    {
+      "text": "And what did your teacher say?",
+      "trans": "那你的老师怎么说？",
+      "start": 638.52,
+      "end": 639.92
+    },
+    {
+      "text": "Well, actually, I was a really good student, so my teacher believed me.",
+      "trans": "额，其实我是个很好的学生，所以老师相信了我。",
+      "start": 639.92,
+      "end": 644.44
+    },
+    {
+      "text": "Well, my teacher wouldn't have believed me.",
+      "trans": "好吧，我的老师肯定不会相信我。",
+      "start": 644.44,
+      "end": 646.64
+    },
+    {
+      "text": "Really?",
+      "trans": "真的吗？",
+      "start": 646.64,
+      "end": 647.64
+    },
+    {
+      "text": "No, no, she would have called my parents most likely.",
+      "trans": "不不，她很可能会打电话给我父母。",
+      "start": 647.64,
+      "end": 650.92
+    },
+    {
+      "text": "My cat really did eat my homework.",
+      "trans": "我的猫真的把作业吃了。",
+      "start": 650.92,
+      "end": 652.72
+    },
+    {
+      "text": "And I just left it on the table and it chewed it all up.",
+      "trans": "我把它留在桌子上，它把它嚼碎了。",
+      "start": 652.72,
+      "end": 655.4
+    },
+    {
+      "text": "That's weird.",
+      "trans": "太奇怪了。",
+      "start": 655.4,
+      "end": 656.4
+    },
+    {
+      "text": "Why would your cat do that?",
+      "trans": "你的猫为什么要那样做？",
+      "start": 656.4,
+      "end": 657.4
+    },
+    {
+      "text": "I don't know.",
+      "trans": "我也不知道。",
+      "start": 657.4,
+      "end": 658.4
+    },
+    {
+      "text": "A lot of weird excuses out there.",
+      "trans": "外面有很多稀奇古怪的借口。",
+      "start": 658.4,
+      "end": 659.92
+    },
+    {
+      "text": "I was abducted by aliens.",
+      "trans": "“我被外星人绑架了。”",
+      "start": 659.92,
+      "end": 662.6
+    },
+    {
+      "text": "My mom accidentally mailed my homework to Africa.",
+      "trans": "“我妈妈不小心把我的作业邮寄到了非洲。”",
+      "start": 662.6,
+      "end": 665.84
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 665.84,
+      "end": 666.84
+    },
+    {
+      "text": "Does this happen to you?",
+      "trans": "这发生在你身上过吗？",
+      "start": 666.84,
+      "end": 668.32
+    },
+    {
+      "text": "Creative writing.",
+      "trans": "创意写作（脑洞大开）。",
+      "start": 668.32,
+      "end": 669.32
+    },
+    {
+      "text": "Creative excuses.",
+      "trans": "有创意的借口。",
+      "start": 669.32,
+      "end": 670.64
+    },
+    {
+      "text": "Well, I want to hear from our listeners.",
+      "trans": "好了，我想听听听众的想法。",
+      "start": 670.64,
+      "end": 673.84
+    },
+    {
+      "text": "I want to know what excuses they've used for being late with something.",
+      "trans": "我想知道他们曾用过什么借口来解释迟交某物。",
+      "start": 673.84,
+      "end": 677.96
+    },
+    {
+      "text": "So send us your excuses.",
+      "trans": "把你们的借口发给我们吧。",
+      "start": 677.96,
+      "end": 679.56
+    },
+    {
+      "text": "Send us your comments and questions.",
+      "trans": "也发送你们的评论和问题。",
+      "start": 679.56,
+      "end": 681.28
+    },
+    {
+      "text": "Go to our website at englishpod.com where Eric and I are always there to answer your questions.",
+      "trans": "访问我们的网站 englishpod.com，我和 Erica 随时准备回答您的问题。",
+      "start": 681.28,
+      "end": 686.36
+    },
+    {
+      "text": "That's right, Marco.",
+      "trans": "没错，Marco。",
+      "start": 686.36,
+      "end": 687.36
+    },
+    {
+      "text": "And this is an elementary lesson, right?",
+      "trans": "这是初级课程，对吧？",
+      "start": 687.36,
+      "end": 689.16
+    },
+    {
+      "text": "Exactly.",
+      "trans": "没错。",
+      "start": 689.16,
+      "end": 690.16
+    },
+    {
+      "text": "But we also have intermediate and upper intermediate and advanced lessons for you more fluent English",
+      "trans": "但我们也有中级、中高级和高级课程，适合更流利的",
+      "start": 690.16,
+      "end": 697.28
+    },
+    {
+      "text": "speakers.",
+      "trans": "英语使用者。",
+      "start": 697.28,
+      "end": 698.28
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正是。",
+      "start": 698.28,
+      "end": 699.28
+    },
+    {
+      "text": "So if you're listening to us on iTunes, be sure to visit our website and come see what",
+      "trans": "所以如果你在 iTunes 上收听，一定要访问我们的网站，看看",
+      "start": 699.28,
+      "end": 702.76
+    },
+    {
+      "text": "else we have to offer.",
+      "trans": "我们还能提供些什么。",
+      "start": 702.76,
+      "end": 703.76
+    },
+    {
+      "text": "Well, I think we're out of time.",
+      "trans": "好了，我想我们的时间到了。",
+      "start": 703.76,
+      "end": 705.76
+    },
+    {
+      "text": "But until next time, it's goodbye.",
+      "trans": "下次见，再见。",
+      "start": 705.76,
+      "end": 708.0
+    }
+  ]
+}

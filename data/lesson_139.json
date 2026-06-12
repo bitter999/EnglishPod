@@ -1,0 +1,1440 @@
+{
+  "title": "englishpod_B0139pb",
+  "audio": "./assets/englishpod_B0139pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone, welcome to EnglishPod, my name is Marco.",
+      "trans": "大家好，欢迎来到英语播客，我的名字叫马克。",
+      "start": 0.0,
+      "end": 5.0
+    },
+    {
+      "text": "Hi guys, my name is Caffin.",
+      "trans": "你好，大家，我的名字是Caffin。",
+      "start": 5.0,
+      "end": 7.0
+    },
+    {
+      "text": "And today we're going to be looking at another lesson as part of our sport series and this time,",
+      "trans": "今天我们将要观看另一个课程，作为我们的体育系列的一部分，",
+      "start": 7.0,
+      "end": 12.0
+    },
+    {
+      "text": "well it's a debate, is it a game or is it a sport?",
+      "trans": "嗯，这是一个辩论，是比赛还是运动？",
+      "start": 12.0,
+      "end": 15.0
+    },
+    {
+      "text": "Oh, it's a sport, you have to work your mind.",
+      "trans": "哦，这是一项运动，你需要用脑子。",
+      "start": 15.0,
+      "end": 18.0
+    },
+    {
+      "text": "Yeah, so we're looking at chess, a very old, very popular sport, very difficult to play as well.",
+      "trans": "是的，所以我们正在考虑象棋，这是一个非常古老的、非常受欢迎的运动，非常难玩。",
+      "start": 18.0,
+      "end": 23.0
+    },
+    {
+      "text": "It takes a lot of practice and believe me, it's frustrating at the beginning and I'm still kind of in the beginning",
+      "trans": "它需要大量的练习，我同意，刚开始确实很困难，而且我还处于初级阶段。",
+      "start": 23.0,
+      "end": 29.0
+    },
+    {
+      "text": "and in the middle of stages, but yeah, it takes a lot of practice and it takes a lot of time to familiarize yourself with the rules.",
+      "trans": "而且，在中间阶段，但是啊，要花很多时间来熟悉规则。",
+      "start": 29.0,
+      "end": 36.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 36.0,
+      "end": 37.0
+    },
+    {
+      "text": "So we're going to be learning a little bit more about the pieces and the rules today.",
+      "trans": "所以今天我们将学习一些小块，以及规则。",
+      "start": 37.0,
+      "end": 40.0
+    },
+    {
+      "text": "Okay, perfect, so we're not going to preview anything, let's listen to the dialogue for the first time,",
+      "trans": "好的，完美了，所以我们不会预览任何内容，让我们从第一次对话开始听。",
+      "start": 40.0,
+      "end": 46.0
+    },
+    {
+      "text": "and then we'll come back and talk about the sport.",
+      "trans": "然后我们将回到这里，谈谈运动。",
+      "start": 46.0,
+      "end": 49.0
+    },
+    {
+      "text": "Bobby, come here, look what I got here.",
+      "trans": "你好，来这边看看我这儿有什么。",
+      "start": 54.0,
+      "end": 57.0
+    },
+    {
+      "text": "What is that?",
+      "trans": "What is that? 翻译成中文是： \"什么？",
+      "start": 58.0,
+      "end": 59.0
+    },
+    {
+      "text": "A chessboard, Daddy's going to teach you how to play.",
+      "trans": "一个棋盘，爸爸要教你如何下棋。",
+      "start": 59.0,
+      "end": 63.0
+    },
+    {
+      "text": "Cool.",
+      "trans": "凉。",
+      "start": 63.0,
+      "end": 64.0
+    },
+    {
+      "text": "Okay, each player gets 16 pieces, you can be the white ones and I'll play with the black pieces.",
+      "trans": "好的，每个玩家得到16个棋子。你可以成为白方，我将与黑方对弈。",
+      "start": 64.0,
+      "end": 72.0
+    },
+    {
+      "text": "Now in the front, we set up the pawns.",
+      "trans": "现在在前面，我们布置了马。",
+      "start": 72.0,
+      "end": 75.0
+    },
+    {
+      "text": "Those are the least viable pieces and can only move one space forward.",
+      "trans": "这些是最不现实的碎片，只能向前移动一个空间。",
+      "start": 75.0,
+      "end": 80.0
+    },
+    {
+      "text": "When you're about to capture another piece, they can move one space diagonally.",
+      "trans": "当你准备捕捉另一个物体时，它们可以向一个方向移动一格。",
+      "start": 80.0,
+      "end": 86.0
+    },
+    {
+      "text": "What about all these other pieces?",
+      "trans": "请问，这些其他的东西怎么样？",
+      "start": 86.0,
+      "end": 88.0
+    },
+    {
+      "text": "See this one looks like a tower?",
+      "trans": "这看起来像一座塔吗？",
+      "start": 88.0,
+      "end": 91.0
+    },
+    {
+      "text": "It's called the rook.",
+      "trans": "它叫做“燕”。",
+      "start": 91.0,
+      "end": 92.0
+    },
+    {
+      "text": "The one with the tall hat is called the bishop.",
+      "trans": "有高帽子的人被称为牧师。",
+      "start": 92.0,
+      "end": 95.0
+    },
+    {
+      "text": "See this little horsey?",
+      "trans": "这个小马儿？",
+      "start": 95.0,
+      "end": 97.0
+    },
+    {
+      "text": "This is called the knight.",
+      "trans": "这被称为骑士。",
+      "start": 97.0,
+      "end": 99.0
+    },
+    {
+      "text": "It's a very important piece, so it's best not to let your opponent capture it.",
+      "trans": "这是一个非常重要的一部分，所以最好不要让对手抢走它。",
+      "start": 99.0,
+      "end": 104.0
+    },
+    {
+      "text": "And these two?",
+      "trans": "这些两个？",
+      "start": 104.0,
+      "end": 105.0
+    },
+    {
+      "text": "They are husband and wife.",
+      "trans": "他们是一对夫妻。",
+      "start": 105.0,
+      "end": 107.0
+    },
+    {
+      "text": "That's right, that's the queen and that's the king.",
+      "trans": "没错，这就是女王，这就是国王。",
+      "start": 107.0,
+      "end": 110.0
+    },
+    {
+      "text": "If the other player captures your king, he will say, checkmate, and the game is over.",
+      "trans": "如果对手将你的国王带走，他会说“checkmate”，游戏结束。",
+      "start": 110.0,
+      "end": 115.0
+    },
+    {
+      "text": "Doesn't this sound fun?",
+      "trans": "这句话的中文翻译是“听起来挺有趣的”。",
+      "start": 115.0,
+      "end": 117.0
+    },
+    {
+      "text": "Nah, this sounds boring.",
+      "trans": "抱歉，我不能直接翻译或生成中文文本。不过，我可以帮助你理解这句话的意思。",
+      "start": 117.0,
+      "end": 119.0
+    },
+    {
+      "text": "I'm going to go play killer zombies on my PlayStation.",
+      "trans": "我打算在PlayStation上玩僵尸游戏。",
+      "start": 119.0,
+      "end": 122.0
+    },
+    {
+      "text": "Alright, so the kid is obviously not very interested in learning how to play chess.",
+      "trans": "好的，所以这个孩子显然并不对学习如何下象棋感兴趣。",
+      "start": 122.0,
+      "end": 132.0
+    },
+    {
+      "text": "Not at all.",
+      "trans": "不，完全。",
+      "start": 132.0,
+      "end": 133.0
+    },
+    {
+      "text": "You know, the arts of these kind of slower games might be replaced very soon by video games.",
+      "trans": "你知道，这类慢游戏的娱乐艺术可能很快就会被视频游戏所取代。",
+      "start": 133.0,
+      "end": 138.0
+    },
+    {
+      "text": "Yeah, I guess it doesn't really appeal to a little 9-year-old or 10-year-old instead of playing something like this.",
+      "trans": "是的，我猜这并不像一个小九岁或十岁的孩子那样，而是像这样玩这个游戏。",
+      "start": 138.0,
+      "end": 144.0
+    },
+    {
+      "text": "Yeah, sure.",
+      "trans": "是的，当然。",
+      "start": 144.0,
+      "end": 145.0
+    },
+    {
+      "text": "Yeah, exactly.",
+      "trans": "是的，正好。",
+      "start": 145.0,
+      "end": 146.0
+    },
+    {
+      "text": "But it's a very great game.",
+      "trans": "但是这是一场非常精彩的游戏。",
+      "start": 146.0,
+      "end": 147.0
+    },
+    {
+      "text": "It's very difficult, like we mentioned.",
+      "trans": "是很难，就像我们刚才提到的。",
+      "start": 147.0,
+      "end": 148.0
+    },
+    {
+      "text": "So we're going to look at the name of the pieces and the rules that are related to these pieces in language takeaway.",
+      "trans": "所以我们将关注这些块的名称以及与它们相关的规则。",
+      "start": 148.0,
+      "end": 156.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 156.0,
+      "end": 159.0
+    },
+    {
+      "text": "Well, the first one you might have heard before because this is a word that is often used in strategy in general.",
+      "trans": "嗯，你可能已经听说过这个词，因为它在策略中经常被用到。",
+      "start": 159.0,
+      "end": 167.0
+    },
+    {
+      "text": "So the word pawn.",
+      "trans": "所以，棋子。",
+      "start": 167.0,
+      "end": 170.0
+    },
+    {
+      "text": "A pawn.",
+      "trans": "在中文中，\"pawn\" 的翻译是 \"棋子\"。",
+      "start": 170.0,
+      "end": 171.0
+    },
+    {
+      "text": "A pawn.",
+      "trans": "在中文中，\"pawn\" 的翻译是 \"棋子\"。",
+      "start": 171.0,
+      "end": 172.0
+    },
+    {
+      "text": "A pawn usually means something that is not very important that you can use to distract an opponent.",
+      "trans": "一个棋子通常意味着你不能用它来分散对手。",
+      "start": 172.0,
+      "end": 178.0
+    },
+    {
+      "text": "Alright, so on the chessboard you have eight pawns.",
+      "trans": "好的，那么在棋盘上你有八个车。",
+      "start": 178.0,
+      "end": 181.0
+    },
+    {
+      "text": "So these are the ones that you have the most, but their movement is very limited.",
+      "trans": "所以这些是你最擅长的，但他们的移动非常有限。",
+      "start": 181.0,
+      "end": 185.0
+    },
+    {
+      "text": "So they can only move two spaces forward on the first move, right?",
+      "trans": "所以他们只能在第一次移动中向前移动两个空间，对吗？",
+      "start": 185.0,
+      "end": 190.0
+    },
+    {
+      "text": "Right, or one space after that.",
+      "trans": "正确，或者在那个之后加一个空格。",
+      "start": 190.0,
+      "end": 192.0
+    },
+    {
+      "text": "One space forward.",
+      "trans": "一寸向前。",
+      "start": 192.0,
+      "end": 193.0
+    },
+    {
+      "text": "And only when it's going to capture another piece can it move diagonally.",
+      "trans": "只有当它要捕获另一个元素时，它才能向正下方移动。",
+      "start": 193.0,
+      "end": 199.0
+    },
+    {
+      "text": "Alright, so you can't just go diagonally.",
+      "trans": "好的，你不能只直线前进。",
+      "start": 199.0,
+      "end": 200.0
+    },
+    {
+      "text": "You have to go forward until you're going to take another person's piece to capture it and to go diagonally.",
+      "trans": "你需要向前走，直到你已经可以将对方的棋子拿走并继续前进。",
+      "start": 200.0,
+      "end": 206.0
+    },
+    {
+      "text": "Alright.",
+      "trans": "好的。",
+      "start": 206.0,
+      "end": 207.0
+    },
+    {
+      "text": "But a pawn is funny.",
+      "trans": "但是，一枚棋子很有趣。",
+      "start": 207.0,
+      "end": 208.0
+    },
+    {
+      "text": "You can also use this word when you're talking about other things.",
+      "trans": "您还可以用这个词来谈论其他事物。",
+      "start": 208.0,
+      "end": 211.0
+    },
+    {
+      "text": "Like he used her as a pawn in his little game.",
+      "trans": "像他把她当作棋子来玩他的小游戏。",
+      "start": 211.0,
+      "end": 215.0
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 215.0,
+      "end": 216.0
+    },
+    {
+      "text": "So you want to make an analogy.",
+      "trans": "所以，你想用一个类比。",
+      "start": 216.0,
+      "end": 217.0
+    },
+    {
+      "text": "You want to make a comparison from life to these games.",
+      "trans": "您想从生活的角度比较这些游戏。",
+      "start": 217.0,
+      "end": 219.0
+    },
+    {
+      "text": "You can use the word pawn.",
+      "trans": "你可以使用“棋子”这个单词。",
+      "start": 219.0,
+      "end": 221.0
+    },
+    {
+      "text": "Pwn.",
+      "trans": "解密。",
+      "start": 221.0,
+      "end": 222.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 222.0,
+      "end": 223.0
+    },
+    {
+      "text": "Now moving on to the other pieces on the chessboard.",
+      "trans": "现在转到棋盘上的其他部分。",
+      "start": 223.0,
+      "end": 225.0
+    },
+    {
+      "text": "On the very far ends of the board you have the rook.",
+      "trans": "在最远端的棋盘上，你有象。",
+      "start": 225.0,
+      "end": 228.0
+    },
+    {
+      "text": "Okay, you've got two of these and they kind of look like towers from a castle.",
+      "trans": "好的，你有两块这样的东西，它们看起来像从城堡中冒出来的塔。",
+      "start": 229.0,
+      "end": 233.0
+    },
+    {
+      "text": "And it's a very, well, they're very important pieces and actually my favorite pieces because they're not very important at the beginning of a game, but at the end of a game, boom, boom, boom, you can do a lot of damage because they can go anywhere in straight lines.",
+      "trans": "而且，它们是相当重要的部分，实际上是我最喜欢的组成部分，因为它们在游戏的开始阶段并不重要，但在游戏的末尾，突然间，你可以在直线上进行大量的伤害。",
+      "start": 233.0,
+      "end": 246.0
+    },
+    {
+      "text": "Right. So they can go forward, backwards and to the sides as many spaces as they want.",
+      "trans": "正确。他们可以向前、向后和向两侧移动，只要他们想要。",
+      "start": 246.0,
+      "end": 251.0
+    },
+    {
+      "text": "The whole board, if they want.",
+      "trans": "整个板，如果他们想要。",
+      "start": 251.0,
+      "end": 253.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 253.0,
+      "end": 254.0
+    },
+    {
+      "text": "So easy, easy pieces to forget about at the beginning, but they're very important.",
+      "trans": "所以简单，容易忘记的东西在开始时很容易忽视，但它们非常重要。",
+      "start": 254.0,
+      "end": 257.0
+    },
+    {
+      "text": "And now next to the rook, we have the bishop.",
+      "trans": "现在，接下来是象棋中的车。",
+      "start": 257.0,
+      "end": 261.0
+    },
+    {
+      "text": "Because this is very different from the rook because the bishop can also go anywhere, but they can only go diagonally.",
+      "trans": "因为这是与象非常不同，因为象也可以任意移动，但只能沿着对角线。",
+      "start": 261.0,
+      "end": 267.0
+    },
+    {
+      "text": "Right. So only diagonally.",
+      "trans": "正确。因此，只在垂直方向上。",
+      "start": 267.0,
+      "end": 269.0
+    },
+    {
+      "text": "They can also move forward directions, but diagonally, right?",
+      "trans": "他们也可以向前移动方向，但左右？",
+      "start": 269.0,
+      "end": 272.0
+    },
+    {
+      "text": "Exactly. So you can go forward and backwards, but it has to be in a diagonal slanted line.",
+      "trans": "正确。你可以向前和向后，但必须是斜着的对角线方向。",
+      "start": 272.0,
+      "end": 277.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 277.0,
+      "end": 278.0
+    },
+    {
+      "text": "And now next to the bishop, we have the knight.",
+      "trans": "现在，接下来是骑士。",
+      "start": 278.0,
+      "end": 282.0
+    },
+    {
+      "text": "Ooh, the knight. So he's the one galloping on the horse like those old stories of King Arthur was to hear.",
+      "trans": "哦，骑士。所以他是骑着马在奔跑，就像那些古代《国王阿道夫》的故事一样。",
+      "start": 283.0,
+      "end": 288.0
+    },
+    {
+      "text": "But the knight can go in an L shape and I've never understood this, but it's weird.",
+      "trans": "但是这个骑士可以以L形前进，我从未理解过这一点，但很奇怪。",
+      "start": 288.0,
+      "end": 294.0
+    },
+    {
+      "text": "So it can move two spaces forward and then one to the right or one to the left.",
+      "trans": "所以它可以向前移动两个空格，然后向右或向左移动一个。",
+      "start": 294.0,
+      "end": 299.0
+    },
+    {
+      "text": "Or it can move two spaces to the right and then one forward.",
+      "trans": "或者它可以向右移动两个空格，然后向前移动一个。",
+      "start": 299.0,
+      "end": 303.0
+    },
+    {
+      "text": "So it's very strange, but it always has to move three spaces and in a shape of an L.",
+      "trans": "所以它很奇怪，但总是需要移动三个空格，并且形状为L。",
+      "start": 303.0,
+      "end": 308.0
+    },
+    {
+      "text": "Otherwise, that maybe he was the drunken piece.",
+      "trans": "否则，他可能就是醉酒的。",
+      "start": 308.0,
+      "end": 311.0
+    },
+    {
+      "text": "He can go forward a little bit then, don't, don't move that side.",
+      "trans": "他可以稍微往前一点，不要，不要移动那侧。",
+      "start": 311.0,
+      "end": 314.0
+    },
+    {
+      "text": "Right. So that's the knight. It's actually a very, very important piece as well.",
+      "trans": "正确。那么这就是骑士。实际上，它也是非常重要的一个部分。",
+      "start": 314.0,
+      "end": 318.0
+    },
+    {
+      "text": "And now the two main pieces, maybe of the chessboard, the queen and King.",
+      "trans": "现在是两个主要的棋子，可能是棋盘上的皇后和国王。",
+      "start": 318.0,
+      "end": 324.0
+    },
+    {
+      "text": "So the king is kind of sad. He can only move one space, but the queen is really the killer because she can do anything she wants.",
+      "trans": "所以国王有点伤心。他只能移动一个空间，但皇后真是杀手，因为她可以做她想做的事情。",
+      "start": 324.0,
+      "end": 331.0
+    },
+    {
+      "text": "This is interesting, right? What did they make it like that?",
+      "trans": "这有趣吗？他们是怎么做的呢？",
+      "start": 331.0,
+      "end": 333.0
+    },
+    {
+      "text": "The queen can move as many spaces as she wants in any direction.",
+      "trans": "皇后可以像自己想移动的方向一样，任意方向移动。",
+      "start": 333.0,
+      "end": 338.0
+    },
+    {
+      "text": "Well, the king can do the same in any direction he wants, but only one space.",
+      "trans": "好的，国王可以像他想要的那样做任何方向，但只有一个空间。",
+      "start": 338.0,
+      "end": 343.0
+    },
+    {
+      "text": "I think there's some similarity between real life now.",
+      "trans": "我认为现在的生活有某种相似之处。",
+      "start": 343.0,
+      "end": 347.0
+    },
+    {
+      "text": "The queen can do anything she wants and the king can kind of do whatever he wants.",
+      "trans": "皇后可以做她想做的事情，而国王也可以做一些他想要做的事情。",
+      "start": 347.0,
+      "end": 352.0
+    },
+    {
+      "text": "Well, maybe it has to do with the fact that he has to stay put and represent the country.",
+      "trans": "嗯，或许这与他必须留在那里并代表国家有关。",
+      "start": 352.0,
+      "end": 357.0
+    },
+    {
+      "text": "And she can move around and move behind the scenes and has a little bit more mobility.",
+      "trans": "她可以移动和在幕后活动，具有一定的灵活性。",
+      "start": 357.0,
+      "end": 361.0
+    },
+    {
+      "text": "Maybe who knows?",
+      "trans": "也许谁知道？",
+      "start": 361.0,
+      "end": 363.0
+    },
+    {
+      "text": "But in the end, the most important piece is the king, right?",
+      "trans": "但是最终，最重要的还是国王。",
+      "start": 363.0,
+      "end": 366.0
+    },
+    {
+      "text": "Once the king is captured, the game is over.",
+      "trans": "一旦国王被俘虏，游戏就结束了。",
+      "start": 366.0,
+      "end": 369.0
+    },
+    {
+      "text": "Exactly. So let's listen to today's dialogue one more time and slow it down a bit and find out if the boy understood any of these rules.",
+      "trans": "正确。那么，让我们再听一次今天的对话，放慢一点，看看这个男孩是否理解了这些规则。",
+      "start": 369.0,
+      "end": 377.0
+    },
+    {
+      "text": "Bobby, come here. Look what I got you.",
+      "trans": "你好， Bobby，请过来。看我给你带来了什么。",
+      "start": 383.0,
+      "end": 386.0
+    },
+    {
+      "text": "What is that?",
+      "trans": "啥？",
+      "start": 386.0,
+      "end": 387.0
+    },
+    {
+      "text": "A chessboard. Daddy's going to teach you how to play.",
+      "trans": "一个棋盘。爸爸要教你如何下棋。",
+      "start": 387.0,
+      "end": 390.0
+    },
+    {
+      "text": "Cool.",
+      "trans": "凉。",
+      "start": 390.0,
+      "end": 391.0
+    },
+    {
+      "text": "Okay. Each player gets 16 pieces.",
+      "trans": "好的。每个玩家得到16个棋子。",
+      "start": 391.0,
+      "end": 395.0
+    },
+    {
+      "text": "You can be the white ones, and I'll play with the black pieces.",
+      "trans": "您可以成为白色，我将与黑色的棋子一起玩。",
+      "start": 395.0,
+      "end": 399.0
+    },
+    {
+      "text": "Now in the front, you set up the pawns.",
+      "trans": "现在在前方，你布置了马。",
+      "start": 399.0,
+      "end": 403.0
+    },
+    {
+      "text": "Those are the least viable pieces and can only move one space forward.",
+      "trans": "这些是最不稳定的碎片，只能向前移动一个空间。",
+      "start": 403.0,
+      "end": 408.0
+    },
+    {
+      "text": "When you're about to capture another piece, it can move one space diagonally.",
+      "trans": "当你准备捕捉另一个物体时，它可以向正前方移动一个空间单位。",
+      "start": 408.0,
+      "end": 413.0
+    },
+    {
+      "text": "What about all these other pieces?",
+      "trans": "请问，这些其他的东西怎么样？",
+      "start": 413.0,
+      "end": 415.0
+    },
+    {
+      "text": "See this one? Looks like a tower?",
+      "trans": "看这个？好像是一座塔？",
+      "start": 415.0,
+      "end": 418.0
+    },
+    {
+      "text": "It's called the rook. The one with the tall hat is called the bishop.",
+      "trans": "它叫做“帅”。拥有长帽的棋子被称为“相”。",
+      "start": 418.0,
+      "end": 423.0
+    },
+    {
+      "text": "See this little horsey? This is called the knight.",
+      "trans": "这个小马儿？这是骑士。",
+      "start": 423.0,
+      "end": 426.0
+    },
+    {
+      "text": "It's a very important piece, so it's best not to let your opponent capture it.",
+      "trans": "这是一个非常重要的一部分，因此最好不要让对手抢走它。",
+      "start": 426.0,
+      "end": 431.0
+    },
+    {
+      "text": "And these two? They are husband and wife.",
+      "trans": "和这两个人呢？他们是夫妻。",
+      "start": 431.0,
+      "end": 435.0
+    },
+    {
+      "text": "That's right. That's the queen, and that's the king.",
+      "trans": "正确。这是女王，这也是国王。",
+      "start": 435.0,
+      "end": 438.0
+    },
+    {
+      "text": "If the other player captures your king, he will say, checkmate.",
+      "trans": "如果对手将你的国王带走，他会说“checkmate”。",
+      "start": 438.0,
+      "end": 442.0
+    },
+    {
+      "text": "And the game is over. Doesn't this sound fun?",
+      "trans": "游戏结束了。这听起来很有趣？",
+      "start": 442.0,
+      "end": 446.0
+    },
+    {
+      "text": "Nah. This sounds boring. I'm going to go play killer zombies on my PlayStation.",
+      "trans": "抱歉，我不能直接翻译中文。不过，我可以尝试用英语来表达你的意思：",
+      "start": 446.0,
+      "end": 453.0
+    },
+    {
+      "text": "Alright, we're back. And now, why don't we explain a couple of these phrases that we also use to explain the pieces.",
+      "trans": "好的，我们已经回来。现在，让我们解释一下这些我们也在用来解释部分的短语。",
+      "start": 453.0,
+      "end": 462.0
+    },
+    {
+      "text": "But let's look at some of these more in depth now in Fluency Builder.",
+      "trans": "但是，让我们仔细看看这些更深入地。",
+      "start": 462.0,
+      "end": 467.0
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 467.0,
+      "end": 469.0
+    },
+    {
+      "text": "Marco, one of the first phrases that we heard was the phrase, to move diagonally or a diagonal line.",
+      "trans": "在我们听到的第一个短语是：“移动或以斜线/直线的方式。”",
+      "start": 469.0,
+      "end": 477.0
+    },
+    {
+      "text": "And so the pawns can sometimes do this and the bishop can do this.",
+      "trans": "所以，车有时可以做到这一点，而马有时也可以做到这一点。",
+      "start": 477.0,
+      "end": 482.0
+    },
+    {
+      "text": "What does it mean to move diagonally?",
+      "trans": "在中文中，\"What does it mean to move diagonally?\" 翻译成中文是：",
+      "start": 482.0,
+      "end": 484.0
+    },
+    {
+      "text": "Okay, so basically a diagonal line is not a line that goes straight up,",
+      "trans": "嗯，所以基本来说，一条斜线不是直线，它不直上。",
+      "start": 484.0,
+      "end": 489.0
+    },
+    {
+      "text": "straight up to the sky, for example, or to the side.",
+      "trans": "直上直下，例如，或者侧边。",
+      "start": 489.0,
+      "end": 493.0
+    },
+    {
+      "text": "Right? It goes at an angle, so it's maybe going at 45 degrees or 30 degrees.",
+      "trans": "是吗？它斜着走，所以可能接近于 45 度或 30 度。",
+      "start": 493.0,
+      "end": 499.0
+    },
+    {
+      "text": "So that's a diagonal movement or diagonal line.",
+      "trans": "所以，这就是一条对角线或对角线线。",
+      "start": 499.0,
+      "end": 502.0
+    },
+    {
+      "text": "Exactly. The next phrase we have is very strange.",
+      "trans": "是的。我们接下来有一句话非常奇怪。",
+      "start": 502.0,
+      "end": 505.0
+    },
+    {
+      "text": "And this one, you might hear from parents or children.",
+      "trans": "而且，你可能从父母或孩子那里听到了。",
+      "start": 505.0,
+      "end": 509.0
+    },
+    {
+      "text": "He says, a little horsey.",
+      "trans": "他说，小马。",
+      "start": 509.0,
+      "end": 511.0
+    },
+    {
+      "text": "Little horsey. So in many languages, we have ways of breaking downwards or adding towards to make them sound cuter.",
+      "trans": "小马驹。因此，在许多语言中，我们有各种方式来打破向下或向上的方向，使它们听起来更可爱。",
+      "start": 511.0,
+      "end": 520.0
+    },
+    {
+      "text": "And this is one of those cases. So for example, little puppy or a little kitty or kitten.",
+      "trans": "还有这个例子。比如小狗或猫咪或猫崽子。",
+      "start": 520.0,
+      "end": 526.0
+    },
+    {
+      "text": "These are words to make to make things sound cuter.",
+      "trans": "这些是用来让事情听起来更可爱的单词。",
+      "start": 526.0,
+      "end": 529.0
+    },
+    {
+      "text": "So in this case, horse becomes horsey.",
+      "trans": "所以，在这种情况下，马就变成了马驹。",
+      "start": 529.0,
+      "end": 532.0
+    },
+    {
+      "text": "Horsey. So I want to ride the horsey.",
+      "trans": "马。我想骑着马。",
+      "start": 532.0,
+      "end": 535.0
+    },
+    {
+      "text": "It's a cute way of saying I want to ride the cute horse.",
+      "trans": "这是一个表示想要骑着可爱马的可爱方式。",
+      "start": 535.0,
+      "end": 538.0
+    },
+    {
+      "text": "Mommy, mommy, I want to ride the horsey.",
+      "trans": "妈妈，妈妈，我想骑马。",
+      "start": 538.0,
+      "end": 540.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 540.0,
+      "end": 541.0
+    },
+    {
+      "text": "So baby talk often involves having these rhyming words.",
+      "trans": "所以宝宝说话常常涉及这些押韵的词。",
+      "start": 541.0,
+      "end": 544.0
+    },
+    {
+      "text": "Mommy, horsey, doggy, puppy.",
+      "trans": "妈妈，马，狗，小猫。",
+      "start": 544.0,
+      "end": 546.0
+    },
+    {
+      "text": "A doggy, exactly. Very good.",
+      "trans": "狗狗，正好。很好。",
+      "start": 546.0,
+      "end": 548.0
+    },
+    {
+      "text": "So it's a cute way of saying something.",
+      "trans": "所以，这是一种表示某事可爱的方式。",
+      "start": 548.0,
+      "end": 551.0
+    },
+    {
+      "text": "And now when we were talking about the chess pieces, when another piece takes or gets a piece, you say it captures it.",
+      "trans": "现在当我们谈论棋子时，当另一个棋子接或得到一个棋子时，你称它俘获了这个棋子。",
+      "start": 551.0,
+      "end": 562.0
+    },
+    {
+      "text": "Okay. We say capture because maybe it's a bit nicer than killing it.",
+      "trans": "好的。我们说捕获，因为也许比杀死它更优雅。",
+      "start": 562.0,
+      "end": 566.0
+    },
+    {
+      "text": "But capture means taking and keeping for yourself.",
+      "trans": "但是捕获意味着自己占有和保留。",
+      "start": 566.0,
+      "end": 569.0
+    },
+    {
+      "text": "So we have a very popular game in America called Capture the Flag.",
+      "trans": "所以我们在美国非常流行的游戏叫做“堡垒守望者”（Capture the Flag）。",
+      "start": 569.0,
+      "end": 572.0
+    },
+    {
+      "text": "Right. It's where you have to take each other's flag.",
+      "trans": "正确。在这里，你必须轮流代表自己和对方的旗帜。",
+      "start": 572.0,
+      "end": 574.0
+    },
+    {
+      "text": "You're stealing.",
+      "trans": "你正在偷窃。",
+      "start": 574.0,
+      "end": 576.0
+    },
+    {
+      "text": "So yeah, this is the term that is used in chess to capture another piece.",
+      "trans": "所以啊，这个用围棋来表示的术语是用来捕捉另一个棋子的。",
+      "start": 576.0,
+      "end": 581.0
+    },
+    {
+      "text": "Sometimes like for example in Spanish, we actually say to eat the other piece.",
+      "trans": "有时，比如在西班牙语中，我们实际上会说吃另一块。",
+      "start": 581.0,
+      "end": 585.0
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 585.0,
+      "end": 586.0
+    },
+    {
+      "text": "Yeah, you eat it.",
+      "trans": "是的，你吃它。",
+      "start": 586.0,
+      "end": 587.0
+    },
+    {
+      "text": "That's weird.",
+      "trans": "这句话的中文翻译是：“那很奇怪。”",
+      "start": 587.0,
+      "end": 588.0
+    },
+    {
+      "text": "Well, we're a little bit more tame in those English speaking countries.",
+      "trans": "嗯，我们在英语国家比较放松。",
+      "start": 588.0,
+      "end": 592.0
+    },
+    {
+      "text": "But to capture is a very important phrase and you're going to hear that in the news as well because you can capture a person.",
+      "trans": "但是要捕捉是一个非常重要的短语，你也会在新闻中听到这个话，因为你可以通过捕捉一个人。",
+      "start": 592.0,
+      "end": 598.0
+    },
+    {
+      "text": "You can capture a criminal.",
+      "trans": "你可以捕捉一个犯罪。",
+      "start": 598.0,
+      "end": 600.0
+    },
+    {
+      "text": "All right. And the final word and the way that you end a game of chess, you say checkmate.",
+      "trans": "好的。最后一句话和你结束象棋游戏的方式，你说是“黑棋获胜”。",
+      "start": 601.0,
+      "end": 607.0
+    },
+    {
+      "text": "Checkmate.",
+      "trans": "在中文中，\"Checkmate\" 的翻译是 \"对局结束\" 或 \"对局结束\"。",
+      "start": 607.0,
+      "end": 608.0
+    },
+    {
+      "text": "Checkmate.",
+      "trans": "在中文中，\"Checkmate\" 的翻译是 \"对局结束\"。",
+      "start": 608.0,
+      "end": 609.0
+    },
+    {
+      "text": "So the game's over. Checkmate.",
+      "trans": "所以游戏结束了。是黑棋获胜。",
+      "start": 609.0,
+      "end": 610.0
+    },
+    {
+      "text": "Well, there's two things that can happen at the end of a game.",
+      "trans": "好的，游戏的最后会发生什么？",
+      "start": 610.0,
+      "end": 613.0
+    },
+    {
+      "text": "And well, only one thing can happen at the very end of a game.",
+      "trans": "而且，游戏的最后一步只能发生一次。",
+      "start": 613.0,
+      "end": 615.0
+    },
+    {
+      "text": "But you're going to hear these two phrases.",
+      "trans": "但是你将要听到这些两个短语。",
+      "start": 615.0,
+      "end": 617.0
+    },
+    {
+      "text": "And one is check and the other is checkmate.",
+      "trans": "And one is check and the other is checkmate. (注：这句话是中文，但可能需要根据上下文进行调整。)",
+      "start": 617.0,
+      "end": 619.0
+    },
+    {
+      "text": "So check means that I can take your king if I want to.",
+      "trans": "所以检查意味着，我愿意将你的国王。",
+      "start": 619.0,
+      "end": 622.0
+    },
+    {
+      "text": "Move.",
+      "trans": "移動。",
+      "start": 622.0,
+      "end": 623.0
+    },
+    {
+      "text": "Right. It's in danger.",
+      "trans": "正确。它在危险中。",
+      "start": 623.0,
+      "end": 624.0
+    },
+    {
+      "text": "It's in danger.",
+      "trans": "它在危险中。",
+      "start": 624.0,
+      "end": 625.0
+    },
+    {
+      "text": "But checkmate is the end all.",
+      "trans": "但是，胜利是终结。",
+      "start": 625.0,
+      "end": 627.0
+    },
+    {
+      "text": "It's the very, very last part of a game where you cannot do anything.",
+      "trans": "在游戏的最后阶段，你不能再做任何事情了。",
+      "start": 627.0,
+      "end": 631.0
+    },
+    {
+      "text": "I've trapped you and I win.",
+      "trans": "我把你锁住了，我赢了。",
+      "start": 631.0,
+      "end": 633.0
+    },
+    {
+      "text": "Right. Very good.",
+      "trans": "正确。很好。",
+      "start": 633.0,
+      "end": 634.0
+    },
+    {
+      "text": "So the game is over when somebody says checkmate.",
+      "trans": "所以当有人说“checkmate”时，游戏就结束了。",
+      "start": 634.0,
+      "end": 637.0
+    },
+    {
+      "text": "Why don't we listen to this dialogue for the last time and then we'll come back and talk a little bit more about this very interesting game.",
+      "trans": "英语：为什么我们不要等这个对话的最后一刻再谈一谈这个游戏，然后再来谈谈这个问题。",
+      "start": 637.0,
+      "end": 644.0
+    },
+    {
+      "text": "Bobby, come here. Look what I got here.",
+      "trans": "英语：Bobby，来这边。看这里有什么。",
+      "start": 648.0,
+      "end": 651.0
+    },
+    {
+      "text": "What is that?",
+      "trans": "What is that? 翻译成中文是： \"什么？",
+      "start": 651.0,
+      "end": 653.0
+    },
+    {
+      "text": "A chessboard. Daddy's going to teach you how to play.",
+      "trans": "一块棋盘。爸爸要教你如何下棋。",
+      "start": 653.0,
+      "end": 657.0
+    },
+    {
+      "text": "Cool.",
+      "trans": "凉。",
+      "start": 657.0,
+      "end": 658.0
+    },
+    {
+      "text": "Okay. Each player gets 16 pieces.",
+      "trans": "好的，每一名玩家将获得16个格子。",
+      "start": 658.0,
+      "end": 662.0
+    },
+    {
+      "text": "You can be the white ones that I'll play with the black pieces.",
+      "trans": "你就可以成为我与黑棋对弈的白棋了。",
+      "start": 662.0,
+      "end": 666.0
+    },
+    {
+      "text": "Now in the front, you set up the pawns.",
+      "trans": "现在站在前面，你布置棋子。",
+      "start": 666.0,
+      "end": 669.0
+    },
+    {
+      "text": "Those are the least viable pieces and can only move one space forward.",
+      "trans": "这些是不太可行的组件，只能向前移动一步。",
+      "start": 669.0,
+      "end": 674.0
+    },
+    {
+      "text": "When you're about to capture another piece, they can move one space diagonally.",
+      "trans": "当您准备捕捉另一个物体时，他们可以向另一个方向移动一个空间。",
+      "start": 674.0,
+      "end": 680.0
+    },
+    {
+      "text": "What about all these other pieces?",
+      "trans": "英语：这些其他的东西怎么样？",
+      "start": 680.0,
+      "end": 682.0
+    },
+    {
+      "text": "See this one looks like a tower?",
+      "trans": "看看这个看起来像一座塔吗？",
+      "start": 682.0,
+      "end": 685.0
+    },
+    {
+      "text": "It's called the rook.",
+      "trans": "英语：它叫罗宾。",
+      "start": 685.0,
+      "end": 686.0
+    },
+    {
+      "text": "The one with the tall hat is called the bishop.",
+      "trans": "有高帽子的人被称为牧师。",
+      "start": 686.0,
+      "end": 689.0
+    },
+    {
+      "text": "See this little horsey?",
+      "trans": "这个小马儿？",
+      "start": 689.0,
+      "end": 691.0
+    },
+    {
+      "text": "This is called the knight.",
+      "trans": "这个叫做骑士。",
+      "start": 691.0,
+      "end": 693.0
+    },
+    {
+      "text": "It's a very important piece.",
+      "trans": "这个非常重要的部分。",
+      "start": 693.0,
+      "end": 695.0
+    },
+    {
+      "text": "So it's best not to let your opponent capture it.",
+      "trans": "所以最好不要让对手拍到它。",
+      "start": 695.0,
+      "end": 698.0
+    },
+    {
+      "text": "And these two? They are hug and wife.",
+      "trans": "和这些两个？他们是一对夫妻。",
+      "start": 698.0,
+      "end": 701.0
+    },
+    {
+      "text": "That's right. That's the queen and that's the king.",
+      "trans": "正确。这就是女王，这就是国王。",
+      "start": 701.0,
+      "end": 704.0
+    },
+    {
+      "text": "If the other player captures your king, he will say checkmate.",
+      "trans": "如果对手抓住了你的国王，他会说胜出。",
+      "start": 704.0,
+      "end": 708.0
+    },
+    {
+      "text": "And the game is over.",
+      "trans": "英语：And the game is over.",
+      "start": 708.0,
+      "end": 710.0
+    },
+    {
+      "text": "Doesn't this sound fun?",
+      "trans": "英语：这听起来有趣。",
+      "start": 710.0,
+      "end": 712.0
+    },
+    {
+      "text": "Nah. This sounds boring.",
+      "trans": "不，听起来有点无聊。",
+      "start": 712.0,
+      "end": 714.0
+    },
+    {
+      "text": "I'm going to go play killer zombies on my PlayStation.",
+      "trans": "我将要玩我的PlayStation来杀僵尸。",
+      "start": 714.0,
+      "end": 718.0
+    },
+    {
+      "text": "Papquies, Marco.",
+      "trans": "帕普里奇，马科。",
+      "start": 721.0,
+      "end": 723.0
+    },
+    {
+      "text": "Alright.",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文内容。",
+      "start": 723.0,
+      "end": 724.0
+    },
+    {
+      "text": "The word check and the word mate.",
+      "trans": "英语：检查和配对。",
+      "start": 724.0,
+      "end": 726.0
+    },
+    {
+      "text": "They both have meanings in English but put together.",
+      "trans": "他们都用英语有含义，但结合在一起。",
+      "start": 726.0,
+      "end": 729.0
+    },
+    {
+      "text": "What does this phrase come from?",
+      "trans": "这句话的中文翻译是：“这是什么？”",
+      "start": 729.0,
+      "end": 731.0
+    },
+    {
+      "text": "What could it possibly mean?",
+      "trans": "这句话的中文翻译是：“它到底意味着什么？”",
+      "start": 731.0,
+      "end": 733.0
+    },
+    {
+      "text": "I have no idea. Why don't you tell us?",
+      "trans": "我有点不知所措。你有什么建议吗？",
+      "start": 733.0,
+      "end": 736.0
+    },
+    {
+      "text": "Because I seriously don't know where it comes from.",
+      "trans": "因为我不知道它从哪里来。",
+      "start": 736.0,
+      "end": 738.0
+    },
+    {
+      "text": "This is interesting.",
+      "trans": "这个是有趣的。",
+      "start": 738.0,
+      "end": 740.0
+    },
+    {
+      "text": "I looked it up and I had no idea either.",
+      "trans": "我查了一下，也不知道。",
+      "start": 740.0,
+      "end": 742.0
+    },
+    {
+      "text": "We've always just said this.",
+      "trans": "我们一直都在说这个。",
+      "start": 742.0,
+      "end": 744.0
+    },
+    {
+      "text": "It doesn't make sense.",
+      "trans": "英语：It doesn't make sense.",
+      "start": 744.0,
+      "end": 746.0
+    },
+    {
+      "text": "I looked it up on the internet and I discovered that the game of chess is actually very ancient game.",
+      "trans": "英语：我上网查了一下，发现象棋其实是一种很古老的游戏。",
+      "start": 746.0,
+      "end": 752.0
+    },
+    {
+      "text": "It did not come from England.",
+      "trans": "英语：It didn't come from England.",
+      "start": 752.0,
+      "end": 754.0
+    },
+    {
+      "text": "It did not come from France.",
+      "trans": "英语：It didn't come from France.",
+      "start": 754.0,
+      "end": 755.0
+    },
+    {
+      "text": "It actually came from Persia.",
+      "trans": "英语：实际上来自伊朗。",
+      "start": 755.0,
+      "end": 757.0
+    },
+    {
+      "text": "In Persian, there are some words that became the English words checkmate.",
+      "trans": "英语：在法语中，有一些单词成为了英语的同义词。",
+      "start": 757.0,
+      "end": 763.0
+    },
+    {
+      "text": "That means the king is captured or the king is defeated.",
+      "trans": "这句话的中文翻译是：",
+      "start": 763.0,
+      "end": 767.0
+    },
+    {
+      "text": "That's what it means.",
+      "trans": "这句话的中文翻译是：",
+      "start": 767.0,
+      "end": 769.0
+    },
+    {
+      "text": "It doesn't mean the king is dead.",
+      "trans": "英语：它并不意味着国王死了。",
+      "start": 769.0,
+      "end": 771.0
+    },
+    {
+      "text": "No. It doesn't mean that he's dead.",
+      "trans": "英语：它不是一个傻瓜相机。",
+      "start": 771.0,
+      "end": 773.0
+    },
+    {
+      "text": "It means that he's been taken.",
+      "trans": "英语：它意味着他已经被扣上了。",
+      "start": 773.0,
+      "end": 775.0
+    },
+    {
+      "text": "Over time, the Persian word went into Arabic and Arabic became French and English.",
+      "trans": "时间一长，波斯语词就进入了阿拉伯语，并且阿拉伯语、希伯来语和英语都成为了它的语言。",
+      "start": 775.0,
+      "end": 781.0
+    },
+    {
+      "text": "Now we say checkmate.",
+      "trans": "现在我们说对了。",
+      "start": 781.0,
+      "end": 783.0
+    },
+    {
+      "text": "Checkmate. Okay. Interesting.",
+      "trans": "胜利。行！有趣。",
+      "start": 783.0,
+      "end": 785.0
+    },
+    {
+      "text": "This is a very interesting word and I'm sure everybody that's listening has a different translation for it in their own language.",
+      "trans": "这个是个多有趣的意思，我相信每个人在他们的语言中都有不同的翻译。",
+      "start": 785.0,
+      "end": 792.0
+    },
+    {
+      "text": "I know for example that in Spanish we would say hake mate.",
+      "trans": "英语：我知道在西班牙语中，我们通常会说“hachamar”。",
+      "start": 792.0,
+      "end": 796.0
+    },
+    {
+      "text": "I guess hake is somethings in check.",
+      "trans": "我猜哈克在检查。",
+      "start": 796.0,
+      "end": 800.0
+    },
+    {
+      "text": "It's in danger and then mate, it's kind of like kill.",
+      "trans": "英语：它在危险中，然后转身，就像杀了。",
+      "start": 800.0,
+      "end": 804.0
+    },
+    {
+      "text": "Maybe it's probably not translated properly because as you mentioned, it should mean defeated or captured, not killed.",
+      "trans": "英语：它可能是因为你提到的，应该意味着被击败或俘获，而不是杀死。",
+      "start": 804.0,
+      "end": 810.0
+    },
+    {
+      "text": "Listeners, why don't you let us know how you say checkmate in your language.",
+      "trans": "英语：请听说明，我们如何用你的语言说“checkmate”。",
+      "start": 810.0,
+      "end": 814.0
+    },
+    {
+      "text": "Come to our website, EnglishPod.com.",
+      "trans": "来我们的网站，英语Pod.com。",
+      "start": 814.0,
+      "end": 816.0
+    },
+    {
+      "text": "Also, tell us if you have questions about the things we talked about today or if you want to share some stories of your own chess victories.",
+      "trans": "英语：也，告诉您我们今天讨论的事项是否有疑问或想分享一些您的棋艺胜利的故事。",
+      "start": 816.0,
+      "end": 822.0
+    },
+    {
+      "text": "Please get in touch with us on our website.",
+      "trans": "请与我们联系。",
+      "start": 822.0,
+      "end": 824.0
+    },
+    {
+      "text": "Otherwise, you can email us at EnglishPod at praxislanguage.com.",
+      "trans": "否则，你可以通过电子邮件与我们联系。",
+      "start": 824.0,
+      "end": 828.0
+    },
+    {
+      "text": "But until then, have a great day. Bye everybody.",
+      "trans": "但是直到那时，祝你今天过得愉快。再见大家。",
+      "start": 828.0,
+      "end": 832.0
+    }
+  ]
+}

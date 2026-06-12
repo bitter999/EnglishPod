@@ -1,0 +1,1944 @@
+{
+  "title": "englishpod_E0094pb",
+  "audio": "./assets/englishpod_E0094pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to another lesson with us here at EnglishPod.",
+      "trans": "你好，英语学习者，欢迎再次来到我们在这里的英语课程。",
+      "start": 0.0,
+      "end": 7.4
+    },
+    {
+      "text": "My name is Marco.",
+      "trans": "我的名字是马科。",
+      "start": 7.4,
+      "end": 8.4
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 8.4,
+      "end": 9.5
+    },
+    {
+      "text": "And today we're going to be talking about physics.",
+      "trans": "今天我们将谈论物理学。",
+      "start": 9.5,
+      "end": 11.5
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 11.5,
+      "end": 12.5
+    },
+    {
+      "text": "An advanced lesson for all you physics lovers out there.",
+      "trans": "一个物理学爱好者应该了解的高级课程。",
+      "start": 12.5,
+      "end": 16.2
+    },
+    {
+      "text": "And even for those of you who maybe don't love physics so much, there's still some great",
+      "trans": "而且，即使你可能对物理学不那么感兴趣，仍然有一些非常棒的东西。",
+      "start": 16.2,
+      "end": 19.56
+    },
+    {
+      "text": "language here.",
+      "trans": "语言在这里。",
+      "start": 19.56,
+      "end": 20.56
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 20.56,
+      "end": 21.56
+    },
+    {
+      "text": "We're going to be talking about the big bang theory, a very popular theory of how the universe",
+      "trans": "我们将谈论大爆炸理论，这是一个非常流行的宇宙学理论，如何解释宇宙的起源和演化。",
+      "start": 21.56,
+      "end": 26.16
+    },
+    {
+      "text": "or the world and how we came upon being created.",
+      "trans": "或者世界，以及我们是如何诞生的。",
+      "start": 26.16,
+      "end": 30.16
+    },
+    {
+      "text": "That's right.",
+      "trans": "正确。",
+      "start": 30.16,
+      "end": 31.16
+    },
+    {
+      "text": "So we've got some physics language, but we've also got some really tough words that I bet many",
+      "trans": "所以我们已经有了物理学的语言，但我们也有一些非常困难的词汇，我相信许多中国人会知道。",
+      "start": 31.16,
+      "end": 35.6
+    },
+    {
+      "text": "of our users have never seen before.",
+      "trans": "我们的用户从未见过之前。",
+      "start": 35.6,
+      "end": 37.24
+    },
+    {
+      "text": "Which we're going to look at those in this lesson.",
+      "trans": "我们将在这节课里看看这些。",
+      "start": 37.24,
+      "end": 39.4
+    },
+    {
+      "text": "Alright, so why don't we get started with this great and interesting lesson and let's listen",
+      "trans": "好的，那么我们为什么不从这个很棒有趣的故事开始呢？让我们听听。",
+      "start": 39.4,
+      "end": 44.760000000000005
+    },
+    {
+      "text": "to the dialogue for the first time.",
+      "trans": "第一次对话。",
+      "start": 44.760000000000005,
+      "end": 52.96
+    },
+    {
+      "text": "What's up?",
+      "trans": "What's up? 翻译成中文是：“你好吗？”",
+      "start": 52.96,
+      "end": 53.96
+    },
+    {
+      "text": "You don't look too good.",
+      "trans": "您看起来不太好。",
+      "start": 53.96,
+      "end": 54.96
+    },
+    {
+      "text": "Yeah, my head hurts.",
+      "trans": "是的，我的头痛。",
+      "start": 54.96,
+      "end": 55.96
+    },
+    {
+      "text": "That's all.",
+      "trans": "所有的。",
+      "start": 55.96,
+      "end": 56.96
+    },
+    {
+      "text": "I've been physics class all day.",
+      "trans": "我一直在物理课上学习了。",
+      "start": 56.96,
+      "end": 58.56
+    },
+    {
+      "text": "It's killer.",
+      "trans": "它就是杀手。",
+      "start": 58.56,
+      "end": 59.56
+    },
+    {
+      "text": "I like physics.",
+      "trans": "我喜欢物理。",
+      "start": 59.56,
+      "end": 60.56
+    },
+    {
+      "text": "It's all math really.",
+      "trans": "是数学真。",
+      "start": 60.56,
+      "end": 61.56
+    },
+    {
+      "text": "Arks, curves, velocity, cool stuff.",
+      "trans": "当然，以下是将英文“Arks, curves, velocity, cool stuff”翻译成中文：",
+      "start": 61.56,
+      "end": 63.4
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 63.4,
+      "end": 64.4
+    },
+    {
+      "text": "But today's lesson was all about the creation of the universe.",
+      "trans": "但是今天的课是关于宇宙的创建。",
+      "start": 64.4,
+      "end": 68.28
+    },
+    {
+      "text": "A physics class about the creation of the universe.",
+      "trans": "一个关于宇宙创生的物理课。",
+      "start": 68.28,
+      "end": 70.88
+    },
+    {
+      "text": "That's some pretty unscientific language there.",
+      "trans": "这句话的中文翻译是：",
+      "start": 70.88,
+      "end": 72.68
+    },
+    {
+      "text": "Sounds more religious to me.",
+      "trans": "声音听起来更宗教给我听。",
+      "start": 72.68,
+      "end": 74.08
+    },
+    {
+      "text": "It's all religion.",
+      "trans": "是所有的宗教。",
+      "start": 74.08,
+      "end": 75.8
+    },
+    {
+      "text": "Take the theory of the big bang.",
+      "trans": "理论大爆炸。",
+      "start": 75.8,
+      "end": 77.24000000000001
+    },
+    {
+      "text": "How is it possible that all of the stuff in the universe comes from an explosion?",
+      "trans": "如何可能宇宙中的所有东西都是从爆炸中产生的？",
+      "start": 77.24000000000001,
+      "end": 81.76
+    },
+    {
+      "text": "That's no better than atlas carrying the globe on his back or African myths about turtles",
+      "trans": "这不是更好的话，就像阿特拉斯山上的地图和非洲关于鳄鱼的传说一样。",
+      "start": 81.76,
+      "end": 85.08000000000001
+    },
+    {
+      "text": "and stuff.",
+      "trans": "和...一样。",
+      "start": 85.08000000000001,
+      "end": 86.08000000000001
+    },
+    {
+      "text": "Turtles?",
+      "trans": "乌龟？",
+      "start": 86.08000000000001,
+      "end": 87.08000000000001
+    },
+    {
+      "text": "Whatever.",
+      "trans": "无论。",
+      "start": 87.08000000000001,
+      "end": 88.08000000000001
+    },
+    {
+      "text": "Look, all that's required for the creation of matter is an imbalance of particles and",
+      "trans": "请看，创造物质的唯一条件是粒子间的不平衡。",
+      "start": 88.08000000000001,
+      "end": 91.24000000000001
+    },
+    {
+      "text": "anti-particles.",
+      "trans": "反粒子。",
+      "start": 91.24000000000001,
+      "end": 92.24000000000001
+    },
+    {
+      "text": "At least, that's what the math says.",
+      "trans": "至少，这就是数学说的。",
+      "start": 92.24000000000001,
+      "end": 94.08000000000001
+    },
+    {
+      "text": "Math?",
+      "trans": "数学？",
+      "start": 94.08000000000001,
+      "end": 95.08000000000001
+    },
+    {
+      "text": "What's the evidence?",
+      "trans": "什么证据？",
+      "start": 95.08000000000001,
+      "end": 96.4
+    },
+    {
+      "text": "There is evidence.",
+      "trans": "有证据。",
+      "start": 96.4,
+      "end": 97.4
+    },
+    {
+      "text": "You know, Edwin Hubble, the guy who in the early 20th century was the first scientist",
+      "trans": "知道，埃德温·赫罗比，那个在20世纪初是第一个科学家。",
+      "start": 97.4,
+      "end": 102.12
+    },
+    {
+      "text": "to measure the drift of matter in the universe, thus advancing notions of an expanding universe.",
+      "trans": "要测量宇宙中物质的漂移，从而推进对膨胀宇宙的观念。",
+      "start": 102.12,
+      "end": 107.44
+    },
+    {
+      "text": "What would it be expanding from?",
+      "trans": "What would it be expanding from? 翻译成中文是：什么会从这里开始？",
+      "start": 107.44,
+      "end": 109.2
+    },
+    {
+      "text": "Well, the big bang, duh.",
+      "trans": "好的，大爆炸，这真是个笑话。",
+      "start": 109.2,
+      "end": 111.04
+    },
+    {
+      "text": "Anyway, it's just a theory.",
+      "trans": "当然，这只是个理论。",
+      "start": 111.4,
+      "end": 113.60000000000001
+    },
+    {
+      "text": "Why do people go around touting theories?",
+      "trans": "为什么人们总是谈论理论？",
+      "start": 113.60000000000001,
+      "end": 115.44000000000001
+    },
+    {
+      "text": "Where's the rigor in that?",
+      "trans": "在哪儿有严格的严格性？",
+      "start": 115.44000000000001,
+      "end": 116.92
+    },
+    {
+      "text": "Dude, don't equivocate.",
+      "trans": "嘿，别绕弯子。",
+      "start": 116.92,
+      "end": 118.48
+    },
+    {
+      "text": "A theory only becomes a theory after withstanding rigorous testing.",
+      "trans": "一个理论只有在经过严格的测试之后才能成为理论。",
+      "start": 118.48,
+      "end": 122.24000000000001
+    },
+    {
+      "text": "You slept through class, didn't you?",
+      "trans": "您睡过了课，对不对？",
+      "start": 122.24000000000001,
+      "end": 123.96000000000001
+    },
+    {
+      "text": "You're making my head hurt again.",
+      "trans": "我正在让你的脑袋痛。",
+      "start": 123.96000000000001,
+      "end": 126.08000000000001
+    },
+    {
+      "text": "Quit with the question.",
+      "trans": "离开问题。",
+      "start": 126.08000000000001,
+      "end": 127.08000000000001
+    },
+    {
+      "text": "Well, it sure does sound like a difficult class, doesn't it?",
+      "trans": "是的，感觉确实有点难啊。",
+      "start": 133.08,
+      "end": 135.92000000000002
+    },
+    {
+      "text": "It's a very interesting topic and very controversial, so there are many opinions on it.",
+      "trans": "这是一个非常有趣的话题，而且是非常争议性的，因此有很多不同的观点。",
+      "start": 135.92000000000002,
+      "end": 140.84
+    },
+    {
+      "text": "But before we get into that, why don't we take a look at some of those physics-related",
+      "trans": "但是，我们先来看看那些与物理学相关的。",
+      "start": 140.84,
+      "end": 145.56
+    },
+    {
+      "text": "words that we listen to in language takeaway?",
+      "trans": "在语言学习中，我们听到的单词有哪些？",
+      "start": 145.56,
+      "end": 150.2
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 150.2,
+      "end": 152.04
+    },
+    {
+      "text": "We've got four words we've heard in the dialogue that are all related to physics.",
+      "trans": "我们已经听到对话中四个与物理学有关的词。",
+      "start": 152.04,
+      "end": 156.24
+    },
+    {
+      "text": "So let's start with the first one, which is matter.",
+      "trans": "所以，让我们从第一个开始，即物质。",
+      "start": 156.24,
+      "end": 159.76
+    },
+    {
+      "text": "Matter.",
+      "trans": "物质。",
+      "start": 159.76,
+      "end": 160.76
+    },
+    {
+      "text": "Matter.",
+      "trans": "物质。",
+      "start": 160.76,
+      "end": 161.76
+    },
+    {
+      "text": "Okay, so you probably know this word from what's the matter?",
+      "trans": "好的，您应该知道这个单词是从什么来的？",
+      "start": 161.76,
+      "end": 164.52
+    },
+    {
+      "text": "What's wrong?",
+      "trans": "你有什么问题？",
+      "start": 164.52,
+      "end": 165.52
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 165.52,
+      "end": 166.52
+    },
+    {
+      "text": "In this case, we're talking about matter, so anything that occupies space that has a mass",
+      "trans": "在这个情况下，我们谈论的是物质，因此任何占据空间并具有质量的事物。",
+      "start": 166.52,
+      "end": 170.16
+    },
+    {
+      "text": "or that is related to energy.",
+      "trans": "或者与能源有关。",
+      "start": 170.4,
+      "end": 172.56
+    },
+    {
+      "text": "So matter.",
+      "trans": "所以。",
+      "start": 172.56,
+      "end": 174.35999999999999
+    },
+    {
+      "text": "So all things in the world are made up of matter, right?",
+      "trans": "所以世界的一切都是由物质构成的，对吗？",
+      "start": 174.35999999999999,
+      "end": 177.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 177.0,
+      "end": 178.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 178.0,
+      "end": 179.0
+    },
+    {
+      "text": "Now let's move on to another one.",
+      "trans": "现在让我们继续。",
+      "start": 179.0,
+      "end": 181.76
+    },
+    {
+      "text": "Particles.",
+      "trans": "粒子。",
+      "start": 181.76,
+      "end": 182.76
+    },
+    {
+      "text": "Particles.",
+      "trans": "粒子。",
+      "start": 182.76,
+      "end": 183.76
+    },
+    {
+      "text": "Particles.",
+      "trans": "粒子。",
+      "start": 183.76,
+      "end": 184.76
+    },
+    {
+      "text": "Now, particles are a little bit more...",
+      "trans": "现在，粒子稍微有点...",
+      "start": 184.76,
+      "end": 187.4
+    },
+    {
+      "text": "Now particles are a little bit easier.",
+      "trans": "现在粒子稍微容易一些。",
+      "start": 187.4,
+      "end": 189.6
+    },
+    {
+      "text": "They're just very small pieces of a hole.",
+      "trans": "他们只是洞中很小的碎片。",
+      "start": 189.6,
+      "end": 192.76
+    },
+    {
+      "text": "An apple is made up of apple particles?",
+      "trans": "苹果是由苹果颗粒组成的吗？",
+      "start": 192.76,
+      "end": 195.44
+    },
+    {
+      "text": "Something like that.",
+      "trans": "像这样。",
+      "start": 195.44,
+      "end": 196.44
+    },
+    {
+      "text": "If you want to understand it easily, yeah, apple has many small particles that make up",
+      "trans": "如果你想快速理解它，是的，苹果有很多小颗粒使它组成。",
+      "start": 196.44,
+      "end": 201.44
+    },
+    {
+      "text": "the apple.",
+      "trans": "苹果。 (Wǒmen bǎ pěi.)",
+      "start": 201.44,
+      "end": 202.44
+    },
+    {
+      "text": "So like, let's paint a picture here.",
+      "trans": "所以，让我们在这里画一幅画。",
+      "start": 202.44,
+      "end": 204.44
+    },
+    {
+      "text": "Imagine you've got a beach and all the pieces of sand are particles of the beach.",
+      "trans": "想象你有一个海滩，所有的沙粒都是海滩上的颗粒。",
+      "start": 204.44,
+      "end": 208.96
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 208.96,
+      "end": 209.96
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 209.96,
+      "end": 210.96
+    },
+    {
+      "text": "So those are particles.",
+      "trans": "所以这些是粒子。",
+      "start": 210.96,
+      "end": 212.76
+    },
+    {
+      "text": "Now the next one is a little bit difficult for me.",
+      "trans": "现在，这个下一步对我来说有点困难。",
+      "start": 212.76,
+      "end": 215.12
+    },
+    {
+      "text": "I don't understand this.",
+      "trans": "我并不理解这个。",
+      "start": 215.12,
+      "end": 216.36
+    },
+    {
+      "text": "Antiparticles.",
+      "trans": "反粒子。",
+      "start": 216.36,
+      "end": 217.36
+    },
+    {
+      "text": "Alright, so.",
+      "trans": "好的，所以。",
+      "start": 217.36,
+      "end": 219.12
+    },
+    {
+      "text": "Antiparticles.",
+      "trans": "反粒子。",
+      "start": 219.12,
+      "end": 220.12
+    },
+    {
+      "text": "Antiparticles.",
+      "trans": "反粒子。",
+      "start": 220.12,
+      "end": 221.12
+    },
+    {
+      "text": "Now this prefix, ant.",
+      "trans": "现在这个前缀，反。",
+      "start": 221.12,
+      "end": 223.72
+    },
+    {
+      "text": "It means something that is against, right?",
+      "trans": "这句话意味着什么？是正确的吗？",
+      "start": 223.72,
+      "end": 226.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 226.04,
+      "end": 227.04
+    },
+    {
+      "text": "And I've seen this one in anti-clockwise.",
+      "trans": "我见过这个在逆时针方向。",
+      "start": 227.04,
+      "end": 228.88
+    },
+    {
+      "text": "Alright, so.",
+      "trans": "好的，所以。",
+      "start": 228.88,
+      "end": 230.44
+    },
+    {
+      "text": "Antiparticles are those that are against particles.",
+      "trans": "反粒子是那些与粒子相对立的粒子。",
+      "start": 230.44,
+      "end": 233.44
+    },
+    {
+      "text": "So basically if you have a particle that has a positive charge...",
+      "trans": "所以基本上，如果你有一个带正电荷的粒子...",
+      "start": 233.44,
+      "end": 237.68
+    },
+    {
+      "text": "Uh-huh.",
+      "trans": "嗯，哈。",
+      "start": 237.68,
+      "end": 238.68
+    },
+    {
+      "text": "...and another one comes in with a negative charge in the same weight and the same type of particle.",
+      "trans": "... 也有一只带着负电荷的动物，它的重量和类型与前面提到的那只相同。",
+      "start": 238.68,
+      "end": 243.6
+    },
+    {
+      "text": "If they get together, they cancel each other out and they both die.",
+      "trans": "如果他们在一起，它们相互抵消，各自死亡。",
+      "start": 243.6,
+      "end": 247.64
+    },
+    {
+      "text": "Oh.",
+      "trans": "哦。",
+      "start": 247.64,
+      "end": 248.64
+    },
+    {
+      "text": "So that's an antiparticle.",
+      "trans": "所以这就是反粒子。",
+      "start": 248.64,
+      "end": 250.64
+    },
+    {
+      "text": "Alright, well, you heard it first.",
+      "trans": "好的，很好，你听到了。",
+      "start": 250.64,
+      "end": 252.48
+    },
+    {
+      "text": "You heard English hot.",
+      "trans": "您听到了英语热。",
+      "start": 252.48,
+      "end": 254.16
+    },
+    {
+      "text": "So anti-barticles are not a good thing to have around.",
+      "trans": "所以反恐措施不是一件好事。",
+      "start": 254.16,
+      "end": 257.04
+    },
+    {
+      "text": "Now we also heard them talk about the drift of matter.",
+      "trans": "现在我们还听说他们谈论物质的漂移。",
+      "start": 257.04,
+      "end": 260.48
+    },
+    {
+      "text": "Right, drift of matter.",
+      "trans": "正确，物质的运动。",
+      "start": 260.48,
+      "end": 262.36
+    },
+    {
+      "text": "Drift of matter.",
+      "trans": "漂移的物质。",
+      "start": 262.36,
+      "end": 263.68
+    },
+    {
+      "text": "Also sometimes called drift of dark matter.",
+      "trans": "也常被称为暗物质的漂移。",
+      "start": 263.68,
+      "end": 266.84
+    },
+    {
+      "text": "Okay, well I know the verb to drift, right?",
+      "trans": "是的，我知道漂移这个动词。",
+      "start": 266.84,
+      "end": 270.2
+    },
+    {
+      "text": "To sort of float away on the sea.",
+      "trans": "大致可以浮在海面上。",
+      "start": 270.2,
+      "end": 272.68
+    },
+    {
+      "text": "Right, if you have a little ship, you leave it on the beach, it'll drift away.",
+      "trans": "正确，如果你有一艘小船，就让它在沙滩上漂浮，它会随风飘荡。",
+      "start": 272.68,
+      "end": 276.88
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”的翻译：",
+      "start": 276.88,
+      "end": 277.88
+    },
+    {
+      "text": "It'll go slowly away.",
+      "trans": "它会慢慢消失。",
+      "start": 277.88,
+      "end": 278.88
+    },
+    {
+      "text": "But what about drift of matter?",
+      "trans": "但是，物质的漂移问题？",
+      "start": 278.88,
+      "end": 280.36
+    },
+    {
+      "text": "So basically the drift of matter is this residue, the remains of the big bang of the explosion.",
+      "trans": "所以基本上，物质的运动是这个残余，爆炸大爆炸的余烬。",
+      "start": 280.36,
+      "end": 287.28000000000003
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 287.28000000000003,
+      "end": 288.28000000000003
+    },
+    {
+      "text": "So matter and radiation keeps on drifting through the universe.",
+      "trans": "所以物质和辐射一直在宇宙中飘荡。",
+      "start": 288.28000000000003,
+      "end": 292.88
+    },
+    {
+      "text": "So it's moving slowly through the universe?",
+      "trans": "所以它在宇宙中缓慢地移动？",
+      "start": 292.88,
+      "end": 294.72
+    },
+    {
+      "text": "So this big explosion and just consider it to be like this ripple and it's expanding and expanding.",
+      "trans": "所以这个巨大的爆炸，就如这波涟漪一样，它在扩张，在扩张。",
+      "start": 294.72,
+      "end": 301.52000000000004
+    },
+    {
+      "text": "That's the drift of matter.",
+      "trans": "这是一切物质的运动规律。",
+      "start": 301.52000000000004,
+      "end": 302.52000000000004
+    },
+    {
+      "text": "Alright, well, I learned something else today.",
+      "trans": "好的，嗯，我学到了另一件事情。",
+      "start": 302.52000000000004,
+      "end": 305.96000000000004
+    },
+    {
+      "text": "Very specific words related to physics, but it's very interesting once you get into reading about these things.",
+      "trans": "非常具体的物理学术语，但当你深入阅读这些话题时，它们变得非常有趣。",
+      "start": 305.96,
+      "end": 312.23999999999995
+    },
+    {
+      "text": "It will help you to understand it better.",
+      "trans": "它将帮助你更好地理解。",
+      "start": 312.23999999999995,
+      "end": 314.71999999999997
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 314.71999999999997,
+      "end": 315.71999999999997
+    },
+    {
+      "text": "But we've also got some non-physics related language that we want to look at now in language",
+      "trans": "但是我们还想要看看一些与物理学无关的语言，现在在语言上。",
+      "start": 315.71999999999997,
+      "end": 321.03999999999996
+    },
+    {
+      "text": "takeaway, part two.",
+      "trans": "takeaway, 二部分。",
+      "start": 321.03999999999996,
+      "end": 324.52
+    },
+    {
+      "text": "Yeah, yes, do not.",
+      "trans": "是的，是的，不要。",
+      "start": 324.52,
+      "end": 327.52
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 327.52,
+      "end": 328.52
+    },
+    {
+      "text": "So we were talking about the drift of matter and how it's drifting through the universe.",
+      "trans": "所以我们在谈论物质的运动和它如何在宇宙中漂浮。",
+      "start": 328.52,
+      "end": 333.28
+    },
+    {
+      "text": "And then he said, thus advancing the notions of an expanding universe.",
+      "trans": "然后他说道，于是提出了一个宇宙膨胀的观念。",
+      "start": 333.32,
+      "end": 338.15999999999997
+    },
+    {
+      "text": "So I want to look at the phrase, thus advancing notions.",
+      "trans": "所以我想看看这个短语，从而推进观念。",
+      "start": 338.15999999999997,
+      "end": 342.32
+    },
+    {
+      "text": "Thus advancing notions.",
+      "trans": "因此，观念。",
+      "start": 342.32,
+      "end": 344.32
+    },
+    {
+      "text": "Okay, let's start with the first word here, thus.",
+      "trans": "好的，让我们从这里开始，因此。",
+      "start": 344.32,
+      "end": 347.23999999999995
+    },
+    {
+      "text": "Okay, so this is a good connector.",
+      "trans": "好的，这是个好连接器。",
+      "start": 347.23999999999995,
+      "end": 350.55999999999995
+    },
+    {
+      "text": "Or conjunction.",
+      "trans": "或连接。",
+      "start": 350.55999999999995,
+      "end": 351.55999999999995
+    },
+    {
+      "text": "Or conjunction.",
+      "trans": "或连接。",
+      "start": 351.55999999999995,
+      "end": 352.4
+    },
+    {
+      "text": "And basically it means.",
+      "trans": "总的来说，就是……",
+      "start": 352.4,
+      "end": 353.71999999999997
+    },
+    {
+      "text": "Therefore.",
+      "trans": "因此。",
+      "start": 353.71999999999997,
+      "end": 354.71999999999997
+    },
+    {
+      "text": "Therefore or in consequence, right?",
+      "trans": "因此或者因为，正确？",
+      "start": 354.71999999999997,
+      "end": 356.35999999999996
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 356.35999999999996,
+      "end": 357.35999999999996
+    },
+    {
+      "text": "So thus advancing notions.",
+      "trans": "所以这样就产生了新的概念。",
+      "start": 357.35999999999996,
+      "end": 359.08
+    },
+    {
+      "text": "Now notions are ideas.",
+      "trans": "现在观念是思想。",
+      "start": 359.08,
+      "end": 361.71999999999997
+    },
+    {
+      "text": "Right.",
+      "trans": "右。 (Wǒ zuò yī shí.)",
+      "start": 361.71999999999997,
+      "end": 362.71999999999997
+    },
+    {
+      "text": "And so when you advance notions or advance ideas, you help them make progress.",
+      "trans": "A. 既然你提出观点或想法，你就帮助它们进步。",
+      "start": 362.76000000000005,
+      "end": 369.20000000000005
+    },
+    {
+      "text": "You help them go forward and become known.",
+      "trans": "您帮助他们前进，让他们成为知名人士。",
+      "start": 369.20000000000005,
+      "end": 371.88000000000005
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 371.88000000000005,
+      "end": 372.88000000000005
+    },
+    {
+      "text": "So in order to understand this in the context, they are saying that the drift of matter, thus",
+      "trans": "因此，他们说，物质的运动是如此。",
+      "start": 372.88000000000005,
+      "end": 379.04
+    },
+    {
+      "text": "advances notions of an expanding universe.",
+      "trans": "进步了对一个不断扩大的宇宙的观念。",
+      "start": 379.04,
+      "end": 381.96000000000004
+    },
+    {
+      "text": "So it is making progress to people believing that the universe is getting bigger.",
+      "trans": "因此，它正在使人们相信宇宙在变大。",
+      "start": 381.96000000000004,
+      "end": 386.36
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 386.36,
+      "end": 387.36
+    },
+    {
+      "text": "So interesting phrase.",
+      "trans": "所以有趣的话。",
+      "start": 387.36,
+      "end": 388.36
+    },
+    {
+      "text": "Now, I really like this word thus.",
+      "trans": "现在，我真的很喜欢这个词。",
+      "start": 388.36,
+      "end": 391.76000000000005
+    },
+    {
+      "text": "And a lot of people are afraid to use it.",
+      "trans": "A  很多人都害怕使用它。",
+      "start": 391.76,
+      "end": 393.76
+    },
+    {
+      "text": "So why don't we hear a few examples of how it's used in context?",
+      "trans": "所以为什么我们没有听到一些例子，如何在语境中使用呢？",
+      "start": 393.76,
+      "end": 399.32
+    },
+    {
+      "text": "Example one.",
+      "trans": "例子一。",
+      "start": 399.32,
+      "end": 402.03999999999996
+    },
+    {
+      "text": "So you can see that we've studied the fossil record, and thus we can conclude that evolution",
+      "trans": "所以，您可以看到我们已经研究了化石记录，并因此可以得出结论：进化",
+      "start": 402.03999999999996,
+      "end": 405.88
+    },
+    {
+      "text": "is a fact.",
+      "trans": "是事实。",
+      "start": 405.88,
+      "end": 410.03999999999996
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 410.03999999999996,
+      "end": 412.96
+    },
+    {
+      "text": "He broke severe company policies.",
+      "trans": "他打破了公司的严格政策。",
+      "start": 412.96,
+      "end": 415.15999999999997
+    },
+    {
+      "text": "Thus we had to fire him.",
+      "trans": "因此，我们必须解雇他。",
+      "start": 415.15999999999997,
+      "end": 419.03999999999996
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 419.03999999999996,
+      "end": 420.64
+    },
+    {
+      "text": "I did not receive the documents on time.",
+      "trans": "我未能按时收到文件。",
+      "start": 421.64,
+      "end": 423.91999999999996
+    },
+    {
+      "text": "Thus I was unable to send them to you.",
+      "trans": "因此，我无法将他们发送给你。",
+      "start": 423.91999999999996,
+      "end": 426.59999999999997
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 426.59999999999997,
+      "end": 428.08
+    },
+    {
+      "text": "Good examples of thus.",
+      "trans": "好的例子。",
+      "start": 428.08,
+      "end": 430.2
+    },
+    {
+      "text": "And I guess now we can use it a little bit better.",
+      "trans": "并且我猜现在我们可以稍微用它一点。",
+      "start": 430.2,
+      "end": 432.32
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 432.32,
+      "end": 433.32
+    },
+    {
+      "text": "Now let's move on to our next word.",
+      "trans": "现在让我们转到下一个单词。",
+      "start": 433.32,
+      "end": 435.15999999999997
+    },
+    {
+      "text": "So they were talking about people who go around touting theories.",
+      "trans": "所以他们谈论的是那些鼓吹理论的人。",
+      "start": 435.15999999999997,
+      "end": 440.47999999999996
+    },
+    {
+      "text": "Tout.",
+      "trans": "全部。",
+      "start": 440.47999999999996,
+      "end": 441.47999999999996
+    },
+    {
+      "text": "To tout.",
+      "trans": "要高呼。",
+      "start": 441.47999999999996,
+      "end": 442.47999999999996
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 442.47999999999996,
+      "end": 443.47999999999996
+    },
+    {
+      "text": "So what does this mean, tout?",
+      "trans": "所以，这有什么含义呢？",
+      "start": 443.47999999999996,
+      "end": 445.96
+    },
+    {
+      "text": "Well, basically when you tout something, you talk about it in a positive way.",
+      "trans": "嗯，基本上当你大谈某事时，你都在用积极的方式谈论它。",
+      "start": 445.96,
+      "end": 451.52
+    },
+    {
+      "text": "So as to almost like sell that thing.",
+      "trans": "所以，几乎要像卖那件东西。",
+      "start": 451.52,
+      "end": 453.84
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 453.84,
+      "end": 454.84
+    },
+    {
+      "text": "So for example, we can say the company is touting the many benefits of its product.",
+      "trans": "所以，例如，我们可以说公司正在宣传其产品的许多好处。",
+      "start": 454.84,
+      "end": 460.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 460.0,
+      "end": 461.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 461.0,
+      "end": 462.0
+    },
+    {
+      "text": "So to talk positively about something.",
+      "trans": "所以要谈论积极的事情。",
+      "start": 462.0,
+      "end": 463.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 463.0,
+      "end": 464.0
+    },
+    {
+      "text": "With the idea of trying to sell that thing or make people buy into it or believe it.",
+      "trans": "以试图卖这个东西或者让人们相信它为宜。",
+      "start": 464.0,
+      "end": 467.2
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 467.2,
+      "end": 468.2
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 468.2,
+      "end": 469.2
+    },
+    {
+      "text": "What about our next word?",
+      "trans": "关于我们的下一个单词。",
+      "start": 469.2,
+      "end": 470.2
+    },
+    {
+      "text": "Well, we heard two related words in the dialogue.",
+      "trans": "嗯，我们听到两个相关的词在对话中。",
+      "start": 470.2,
+      "end": 473.52
+    },
+    {
+      "text": "They were talking about where's the rigor in these theories and rigorous testing.",
+      "trans": "他们正在讨论这些理论中的严谨性和严格的测试。",
+      "start": 473.52,
+      "end": 479.71999999999997
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 479.71999999999997,
+      "end": 480.71999999999997
+    },
+    {
+      "text": "So what's the difference between rigor and rigorous?",
+      "trans": "所以，什么是严格的和严格的要求的区别？",
+      "start": 480.71999999999997,
+      "end": 482.88
+    },
+    {
+      "text": "Rigger is the state of being very clear and careful and exact.",
+      "trans": "李工是极其清晰、小心和精确的状态。",
+      "start": 482.88,
+      "end": 487.71999999999997
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 487.71999999999997,
+      "end": 488.71999999999997
+    },
+    {
+      "text": "And rigorous is just the adjective, clear, careful, attention to detail and exact.",
+      "trans": "严格就是形容词，清晰、仔细、注意细节和精确。",
+      "start": 488.71999999999997,
+      "end": 494.79999999999995
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 494.79999999999995,
+      "end": 495.79999999999995
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 495.79999999999995,
+      "end": 496.79999999999995
+    },
+    {
+      "text": "So rigorous training.",
+      "trans": "所以严格的训练。",
+      "start": 496.79999999999995,
+      "end": 498.03999999999996
+    },
+    {
+      "text": "I'm going over my notes in rigorous detail.",
+      "trans": "我正在详细地检查我的笔记。",
+      "start": 498.03999999999996,
+      "end": 500.84
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 500.84,
+      "end": 501.84
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 501.84,
+      "end": 502.84
+    },
+    {
+      "text": "Now we have one more word today in language takeaway and that is equivocate.",
+      "trans": "今天我们有另一个字在语言小测验中，那就是“含糊”。",
+      "start": 503.15999999999997,
+      "end": 508.23999999999995
+    },
+    {
+      "text": "So we heard dude, don't equivocate.",
+      "trans": "所以啊，你别绕弯子。",
+      "start": 508.23999999999995,
+      "end": 512.0
+    },
+    {
+      "text": "Don't equivocate.",
+      "trans": "不要含糊。",
+      "start": 512.0,
+      "end": 513.3199999999999
+    },
+    {
+      "text": "Don't equivocate.",
+      "trans": "不要含糊。",
+      "start": 513.3199999999999,
+      "end": 514.3199999999999
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 514.3199999999999,
+      "end": 515.3199999999999
+    },
+    {
+      "text": "So what does he mean by this?",
+      "trans": "所以，他怎么说呢？",
+      "start": 515.3199999999999,
+      "end": 517.68
+    },
+    {
+      "text": "Well, when you equivocate, you use big words to try and mislead somebody.",
+      "trans": "嗯，当你含糊其辞时，你用大字来试图误导某人。",
+      "start": 517.68,
+      "end": 523.3199999999999
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 523.3199999999999,
+      "end": 524.3199999999999
+    },
+    {
+      "text": "So using big words to confuse or to mislead.",
+      "trans": "所以使用大词来迷惑或误导。",
+      "start": 524.3199999999999,
+      "end": 527.52
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 527.52,
+      "end": 528.52
+    },
+    {
+      "text": "So for example, we could say the job candidate, we could say when asked about his experience,",
+      "trans": "所以，例如，我们可以说应聘者，我们可以说他/她关于工作经验的问题。",
+      "start": 528.52,
+      "end": 534.88
+    },
+    {
+      "text": "the job candidate equivocated.",
+      "trans": "这个句子在中文中的翻译是：",
+      "start": 534.88,
+      "end": 537.12
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 537.12,
+      "end": 538.4399999999999
+    },
+    {
+      "text": "Or even the presidential nominee did not equivocate when he explained his tax policy.",
+      "trans": "或者，就连总统候选人也没有回避他解释税收政策的问题。",
+      "start": 538.4399999999999,
+      "end": 543.84
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 543.84,
+      "end": 544.84
+    },
+    {
+      "text": "So some good examples, good phrases, a lot of interesting stuff and a little bit more educational",
+      "trans": "所以有一些好的例子、好词句，很多有趣的东西和一点点更教育的内容。",
+      "start": 544.84,
+      "end": 550.12
+    },
+    {
+      "text": "podcast today.",
+      "trans": "今天播客。",
+      "start": 550.12,
+      "end": 551.12
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 551.12,
+      "end": 552.12
+    },
+    {
+      "text": "So let's continue with our education by listening to the dialogue one last time.",
+      "trans": "所以，我们继续教育吧，再听一次对话。",
+      "start": 552.12,
+      "end": 555.3199999999999
+    },
+    {
+      "text": "What's up?",
+      "trans": "What's up? 翻译成中文是：“你好吗？”",
+      "start": 557.52,
+      "end": 563.52
+    },
+    {
+      "text": "You don't look too good.",
+      "trans": "您看起来不太好。",
+      "start": 563.52,
+      "end": 564.96
+    },
+    {
+      "text": "Yeah, my head hurts.",
+      "trans": "是的，我的头痛。",
+      "start": 564.96,
+      "end": 566.52
+    },
+    {
+      "text": "That's all.",
+      "trans": "所有的。",
+      "start": 566.52,
+      "end": 567.52
+    },
+    {
+      "text": "I've been a physics class all day.",
+      "trans": "我一直在上物理课。",
+      "start": 567.52,
+      "end": 568.96
+    },
+    {
+      "text": "It's killer.",
+      "trans": "它就是杀手。",
+      "start": 568.96,
+      "end": 570.12
+    },
+    {
+      "text": "I like physics.",
+      "trans": "我喜欢物理学。",
+      "start": 570.12,
+      "end": 571.12
+    },
+    {
+      "text": "It's all math really.",
+      "trans": "是数学一切。",
+      "start": 571.12,
+      "end": 572.12
+    },
+    {
+      "text": "Arks, curves, velocity, cool stuff.",
+      "trans": "当然，我会尽力将这句话翻译成中文。以下是该短语的中文翻译：",
+      "start": 572.12,
+      "end": 573.76
+    },
+    {
+      "text": "Yeah, yeah.",
+      "trans": "是的，是的。",
+      "start": 573.76,
+      "end": 574.76
+    },
+    {
+      "text": "But today's lesson was all about the creation of the universe.",
+      "trans": "但是今天的课程是关于宇宙的创建。",
+      "start": 574.76,
+      "end": 578.64
+    },
+    {
+      "text": "A physics class about the creation of the universe.",
+      "trans": "一个关于宇宙创生的物理课。",
+      "start": 578.64,
+      "end": 581.24
+    },
+    {
+      "text": "That's some pretty unscientific language there.",
+      "trans": "这句话的中文翻译是：",
+      "start": 581.24,
+      "end": 583.04
+    },
+    {
+      "text": "Sounds more religious to me.",
+      "trans": "声音听起来更宗教给我听。",
+      "start": 583.04,
+      "end": 584.4399999999999
+    },
+    {
+      "text": "It's all religion.",
+      "trans": "是所有的宗教。",
+      "start": 584.4399999999999,
+      "end": 586.16
+    },
+    {
+      "text": "Think the theory of the big bang, how is it possible that all of the stuff in the universe",
+      "trans": "思考大爆炸理论，宇宙中的一切物质是如何可能的？",
+      "start": 586.16,
+      "end": 589.8399999999999
+    },
+    {
+      "text": "comes from an explosion?",
+      "trans": "来自爆炸？",
+      "start": 589.8399999999999,
+      "end": 592.12
+    },
+    {
+      "text": "That's no better than atlas carrying the globe on his back or African myths about turtles",
+      "trans": "这就是比Atlas背着地球或非洲关于海龟的神话差远了。",
+      "start": 592.12,
+      "end": 595.4
+    },
+    {
+      "text": "and stuff.",
+      "trans": "和...一样。",
+      "start": 595.4,
+      "end": 596.4
+    },
+    {
+      "text": "Turtles, whatever.",
+      "trans": "根据您提供的文本，\"Turtles, whatever.\" 翻译成中文是：",
+      "start": 596.4,
+      "end": 597.7199999999999
+    },
+    {
+      "text": "Look, all that's required for the creation of matter is an imbalance of particles and",
+      "trans": "请看，创造物质的唯一条件是粒子间的不平衡。",
+      "start": 597.7199999999999,
+      "end": 601.6
+    },
+    {
+      "text": "anti-particles.",
+      "trans": "反粒子。",
+      "start": 601.6,
+      "end": 602.6
+    },
+    {
+      "text": "At least that's what the math says.",
+      "trans": "至少这算得上数学的真理。",
+      "start": 602.6,
+      "end": 604.4
+    },
+    {
+      "text": "Math, schmath, what's the evidence?",
+      "trans": "数学、数论，什么证据呢？",
+      "start": 604.4,
+      "end": 606.8
+    },
+    {
+      "text": "There is evidence.",
+      "trans": "有证据。",
+      "start": 606.8,
+      "end": 607.8
+    },
+    {
+      "text": "You know, Edwin Hubble, the guy who in the early 20th century was the first scientist",
+      "trans": "知道，埃德温·赫罗比，那个在20世纪初是第一个科学家。",
+      "start": 607.8,
+      "end": 612.48
+    },
+    {
+      "text": "to measure the drift of matter in the universe, thus advancing notions of an expanding universe.",
+      "trans": "要测量宇宙中物质的漂移，从而推进对膨胀宇宙的观念。",
+      "start": 612.48,
+      "end": 617.8000000000001
+    },
+    {
+      "text": "What would it be expanding from?",
+      "trans": "What would it be expanding from? 翻译成中文是：什么会从这里开始？",
+      "start": 617.8000000000001,
+      "end": 619.6
+    },
+    {
+      "text": "Well, the big bang, duh.",
+      "trans": "好的，大爆炸，这真是个笑话。",
+      "start": 619.6,
+      "end": 621.32
+    },
+    {
+      "text": "Anyway, it's just a theory.",
+      "trans": "当然，这只是理论。",
+      "start": 621.32,
+      "end": 623.96
+    },
+    {
+      "text": "Why do people go around touting theories?",
+      "trans": "为什么人们总是谈论理论？",
+      "start": 623.96,
+      "end": 625.84
+    },
+    {
+      "text": "Where's the rigor in that?",
+      "trans": "在哪儿有严格的严格性？",
+      "start": 625.84,
+      "end": 627.32
+    },
+    {
+      "text": "Dude, don't equivocate.",
+      "trans": "嘿，别客气。",
+      "start": 627.32,
+      "end": 628.84
+    },
+    {
+      "text": "A theory only becomes a theory after withstanding rigorous testing.",
+      "trans": "一个理论只有在经过严格的测试之后才能成为理论。",
+      "start": 628.84,
+      "end": 632.6
+    },
+    {
+      "text": "You slept through class, didn't you?",
+      "trans": "您睡过了课，对不对？",
+      "start": 632.6,
+      "end": 634.28
+    },
+    {
+      "text": "Uhhh, you're making my head hurt again.",
+      "trans": "嗯，你又让我头疼了。",
+      "start": 634.28,
+      "end": 636.44
+    },
+    {
+      "text": "Quit with a question.",
+      "trans": "离开时问一句。",
+      "start": 636.44,
+      "end": 637.44
+    },
+    {
+      "text": "Alright, so the big bang theory, very controversial.",
+      "trans": "好的，大爆炸理论非常争议。",
+      "start": 637.44,
+      "end": 645.4000000000001
+    },
+    {
+      "text": "In some schools in the United States, they have prohibited the teachers from teaching",
+      "trans": "在一些美国学校，他们禁止教师教学。",
+      "start": 645.4000000000001,
+      "end": 649.5600000000001
+    },
+    {
+      "text": "it.",
+      "trans": "它。",
+      "start": 649.5600000000001,
+      "end": 650.5600000000001
+    },
+    {
+      "text": "I know, which seems quite interesting to me.",
+      "trans": "我明白，这似乎很有趣。",
+      "start": 650.5600000000001,
+      "end": 653.5600000000001
+    },
+    {
+      "text": "But it is actually very controversial and people can get really, really upset about this",
+      "trans": "但是，这其实是非常有争议的，并且人们可能会非常生气地对此表示不满。",
+      "start": 653.5600000000001,
+      "end": 658.4000000000001
+    },
+    {
+      "text": "America.",
+      "trans": "美国。",
+      "start": 658.4000000000001,
+      "end": 659.4000000000001
+    },
+    {
+      "text": "So, it is an interesting topic.",
+      "trans": "所以，这是一个有趣的话题。",
+      "start": 659.4000000000001,
+      "end": 661.6800000000001
+    },
+    {
+      "text": "Take it from the point of view of just something else, maybe just to learn a little bit more",
+      "trans": "从另一个角度看，或许只是学习一点更多。",
+      "start": 661.6800000000001,
+      "end": 666.0
+    },
+    {
+      "text": "about this topic, such as physics, right?",
+      "trans": "关于这个问题，比如物理学。",
+      "start": 666.0,
+      "end": 669.12
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语在中文中的翻译：",
+      "start": 669.12,
+      "end": 670.12
+    },
+    {
+      "text": "But there's something that is uncontroversial, but I did want to talk about now that we heard",
+      "trans": "但是，有一些东西是不被讨论的，但我现在想谈谈。",
+      "start": 670.12,
+      "end": 674.12
+    },
+    {
+      "text": "in the dialogue.",
+      "trans": "在对话中。",
+      "start": 674.12,
+      "end": 675.12
+    },
+    {
+      "text": "There's a lot of really interesting sort of slang words here in the dialogue, isn't",
+      "trans": "在这里，这里有很多非常有趣的小说词汇，不是？",
+      "start": 675.12,
+      "end": 679.2
+    },
+    {
+      "text": "there?",
+      "trans": "是的，我可以帮助你将英文短语 \"there?\" 翻译成中文。\"There?\" 在中文中可以翻译为“呢”、“哦”或者“啊”。例如：",
+      "start": 679.2,
+      "end": 680.2
+    },
+    {
+      "text": "Yeah, we heard in the first part of the dialogue when he said, I've been in physics class",
+      "trans": "是的，我们在对话的第一部分听到他说道：“我在物理课。”",
+      "start": 680.2,
+      "end": 684.28
+    },
+    {
+      "text": "all day.",
+      "trans": "全部一天。",
+      "start": 684.28,
+      "end": 685.28
+    },
+    {
+      "text": "Killer.",
+      "trans": "在中文中，\"killer\" 翻译为 \"杀手\"。",
+      "start": 685.28,
+      "end": 686.28
+    },
+    {
+      "text": "Killer.",
+      "trans": "在中文中，\"killer\" 的翻译是 \"杀手\"。",
+      "start": 686.28,
+      "end": 687.28
+    },
+    {
+      "text": "So, what does he mean by killer?",
+      "trans": "所以，他意味着什么？",
+      "start": 687.28,
+      "end": 688.28
+    },
+    {
+      "text": "Oh, he's just basically saying it's really hard.",
+      "trans": "哦，他只是在说真难。",
+      "start": 688.28,
+      "end": 690.88
+    },
+    {
+      "text": "You know, it's like, it's so difficult that it's murderous.",
+      "trans": "我知道，确实如此，它就像杀人一样。",
+      "start": 690.88,
+      "end": 693.56
+    },
+    {
+      "text": "It was intense.",
+      "trans": "它是激烈的。",
+      "start": 693.56,
+      "end": 694.56
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 694.56,
+      "end": 695.56
+    },
+    {
+      "text": "He's used positively as well, can't we?",
+      "trans": "他用得也很好，我们不能？",
+      "start": 695.56,
+      "end": 697.28
+    },
+    {
+      "text": "Yeah, I guess you could say that was a killer party.",
+      "trans": "是的，我猜你可以说那是一场杀手派对。",
+      "start": 697.28,
+      "end": 699.4799999999999
+    },
+    {
+      "text": "Yeah, killer moves on the dance floor.",
+      "trans": "是的，舞池上的杀手锏。",
+      "start": 699.4799999999999,
+      "end": 701.28
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 701.28,
+      "end": 702.28
+    },
+    {
+      "text": "Another interesting thing is that he said, math, schmath.",
+      "trans": "又一个有趣的事情是，他说，数学，schmath。",
+      "start": 702.28,
+      "end": 705.7199999999999
+    },
+    {
+      "text": "Now, schmath isn't really a word.",
+      "trans": "现在，schmath 也不是一个词。",
+      "start": 705.7199999999999,
+      "end": 707.68
+    },
+    {
+      "text": "No, but this is a really common structure we use in English when we want to sort of take",
+      "trans": "是的，但这正是我们在英语中经常使用的结构，当我们想要稍微简化或调整排序时。",
+      "start": 707.68,
+      "end": 712.8
+    },
+    {
+      "text": "away from the importance of an idea.",
+      "trans": "远离一个想法的重要性。",
+      "start": 712.8,
+      "end": 714.9599999999999
+    },
+    {
+      "text": "Okay, so you're saying it's not important.",
+      "trans": "好的，你说得很对。",
+      "start": 714.9599999999999,
+      "end": 717.2399999999999
+    },
+    {
+      "text": "I don't care about it or it's not worth it.",
+      "trans": "我不在乎它，或者它不值得。",
+      "start": 717.2399999999999,
+      "end": 720.2399999999999
+    },
+    {
+      "text": "Yeah, so for example, I'm on a diet.",
+      "trans": "是的，例如，我正在减肥。",
+      "start": 720.2399999999999,
+      "end": 722.8
+    },
+    {
+      "text": "Right, and I would say diet, schmai, yeah.",
+      "trans": "是的，我同意饮食、沙米、嗯。",
+      "start": 722.8,
+      "end": 725.52
+    },
+    {
+      "text": "So basically the structure is just added SH and then just kind of make it rhyme.",
+      "trans": "所以基本上结构只是加上SH，然后就变成押韵了。",
+      "start": 725.52,
+      "end": 730.24
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 730.24,
+      "end": 731.24
+    },
+    {
+      "text": "Schmai it or like...",
+      "trans": "这句话的中文翻译是：“或者像...”。",
+      "start": 731.24,
+      "end": 733.48
+    },
+    {
+      "text": "Like, work schmirk.",
+      "trans": "像，工作沙弥。",
+      "start": 733.48,
+      "end": 734.48
+    },
+    {
+      "text": "Yeah, work schmirk or something like that.",
+      "trans": "是的，工作就是或者像这样。",
+      "start": 734.48,
+      "end": 736.76
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 736.76,
+      "end": 737.76
+    },
+    {
+      "text": "So you're just making fun of it and you're taking away importance.",
+      "trans": "所以你只是在开玩笑，把它的价值给拿走了。",
+      "start": 737.76,
+      "end": 739.56
+    },
+    {
+      "text": "Yeah, that's a pretty neat phrase and one more.",
+      "trans": "是的，那是一个很不错的短语，还有一次。",
+      "start": 739.56,
+      "end": 743.76
+    },
+    {
+      "text": "We heard them say duh.",
+      "trans": "我们听到他们说“duh”。",
+      "start": 743.76,
+      "end": 746.0
+    },
+    {
+      "text": "Duh.",
+      "trans": "哈哈。",
+      "start": 746.0,
+      "end": 747.0
+    },
+    {
+      "text": "So when we say this, we're just saying like, you should know this, stupid.",
+      "trans": "所以当我们说这句话时，我们只是在说，你应当知道这个，愚蠢。",
+      "start": 747.0,
+      "end": 750.72
+    },
+    {
+      "text": "Yeah, this is obvious.",
+      "trans": "是的，这是显而易见的。",
+      "start": 750.72,
+      "end": 752.1999999999999
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 752.1999999999999,
+      "end": 753.1999999999999
+    },
+    {
+      "text": "It's kind of making fun of the person, you know, just saying it's so obvious how can you",
+      "trans": "是有点嘲笑这个人的，你知道的，你这么简单就能明白。",
+      "start": 753.2,
+      "end": 757.6800000000001
+    },
+    {
+      "text": "not know it.",
+      "trans": "不知道。",
+      "start": 757.6800000000001,
+      "end": 758.6800000000001
+    },
+    {
+      "text": "And it always goes either at the beginning or at the end of a sentence.",
+      "trans": "这句话的中文翻译是：“无论在句子的开始还是结尾，总是会有一个固定的位置。”",
+      "start": 758.6800000000001,
+      "end": 762.72
+    },
+    {
+      "text": "Yeah, so duh, Marco, we're recording a podcast.",
+      "trans": "是的，所以多谢，马科，我们正在录制播客。",
+      "start": 762.72,
+      "end": 765.72
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是该短语的翻译：",
+      "start": 765.72,
+      "end": 766.72
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 766.72,
+      "end": 767.72
+    },
+    {
+      "text": "So some great words and phrases in this dialogue and a little bit of slang as well so you",
+      "trans": "所以这段对话中的好词和短语以及一些俚语，还有些小幽默，这样你",
+      "start": 767.72,
+      "end": 771.88
+    },
+    {
+      "text": "can use it maybe with your friends.",
+      "trans": "可以试试，也许和你朋友一起。",
+      "start": 771.88,
+      "end": 773.48
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 773.48,
+      "end": 774.48
+    },
+    {
+      "text": "If you have any questions about the language in this dialogue or any thoughts on physics",
+      "trans": "如果您有任何关于对话中的语言问题或对物理学的看法，请随时提问。",
+      "start": 774.48,
+      "end": 778.48
+    },
+    {
+      "text": "or the big bang theory, come and check out our website at englishpod.com.",
+      "trans": "或者大爆炸理论，快来看看我们的网站：englishpod.com。",
+      "start": 778.48,
+      "end": 783.12
+    },
+    {
+      "text": "All right, we'll see you guys there and until next time.",
+      "trans": "好的，我们会见到你们的。下一次见。",
+      "start": 783.12,
+      "end": 786.04
+    },
+    {
+      "text": "Goodbye.",
+      "trans": "再见。",
+      "start": 786.04,
+      "end": 787.04
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 787.04,
+      "end": 788.04
+    }
+  ]
+}

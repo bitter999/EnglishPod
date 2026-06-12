@@ -1,0 +1,1398 @@
+{
+  "title": "englishpod_0199pb",
+  "audio": "./assets/englishpod_0199pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+      "trans": "你好，大家欢迎再次来到英语有声书。我的名字是马可波罗。",
+      "start": 0.0,
+      "end": 6.8
+    },
+    {
+      "text": "And my name is Catherine and today we might just teach you how to save a life.",
+      "trans": "我的名字是凯瑟琳，今天可能教你们如何拯救生命。",
+      "start": 6.8,
+      "end": 10.8
+    },
+    {
+      "text": "That's right we're going to save a life and we are going to do this by applying first aid.",
+      "trans": "那我们就要拯救一条生命，我们要通过急救来实现这个目标。",
+      "start": 10.8,
+      "end": 15.8
+    },
+    {
+      "text": "So let's take a look at vocabulary preview and find out just exactly what this phrase means.",
+      "trans": "那么，让我们看看词汇预览，然后找出这个短语确切的意思。",
+      "start": 15.8,
+      "end": 21.8
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 21.8,
+      "end": 24.3
+    },
+    {
+      "text": "Okay so we have this word first aid. It's two parts. So first is...",
+      "trans": "好的，我们有一个急救这个词。它分为两部分。首先...",
+      "start": 24.3,
+      "end": 28.8
+    },
+    {
+      "text": "Before.",
+      "trans": "好的，以下是翻译结果：\n\nBefore.",
+      "start": 28.900000000000002,
+      "end": 29.6
+    },
+    {
+      "text": "Before.",
+      "trans": "在前。",
+      "start": 29.6,
+      "end": 30.1
+    },
+    {
+      "text": "Early.",
+      "trans": "早。",
+      "start": 30.1,
+      "end": 30.6
+    },
+    {
+      "text": "Early alright.",
+      "trans": "早好。",
+      "start": 30.6,
+      "end": 31.400000000000002
+    },
+    {
+      "text": "And aid. So when you aid someone you help them right?",
+      "trans": "你帮助别人，你会帮到他们吗？",
+      "start": 31.400000000000002,
+      "end": 34.2
+    },
+    {
+      "text": "Right so this is actually a noun. Aid is help.",
+      "trans": "对了，这其实是一个名词。援助是帮助。",
+      "start": 34.2,
+      "end": 37.2
+    },
+    {
+      "text": "So we're applying first aid. This means we're the first person to come and help someone.",
+      "trans": "所以我们在进行急救。这意味着我们是第一个赶到并且帮助别人的人。",
+      "start": 37.2,
+      "end": 42.6
+    },
+    {
+      "text": "So for example, if someone is bleeding, the first aid is to stop the bleeding.",
+      "trans": "例如，如果有人流血，急救的第一步是止血。",
+      "start": 42.6,
+      "end": 46.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 46.6,
+      "end": 47.5
+    },
+    {
+      "text": "Alright so first aid. We're going to learn all about this.",
+      "trans": "好的，我们首先学习急救的知识。",
+      "start": 47.5,
+      "end": 49.8
+    },
+    {
+      "text": "Take a listen to today's dialogue and we'll be back in a moment.",
+      "trans": "听今天的对话，我们一会儿就回来。",
+      "start": 49.8,
+      "end": 53.0
+    },
+    {
+      "text": "Hey Joe, where have you been these past few days?",
+      "trans": "嘿，Joe，你最近几天去哪儿了？",
+      "start": 59.4,
+      "end": 62.099999999999994
+    },
+    {
+      "text": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
+      "trans": "我已经忙于在红十字会开始的一周前就开始的第一期救护课程。",
+      "start": 62.099999999999994,
+      "end": 66.2
+    },
+    {
+      "text": "Cool. I've always wanted to do something like that.",
+      "trans": "很好。我一直想要做那样的事情。",
+      "start": 66.2,
+      "end": 69.2
+    },
+    {
+      "text": "Have you learned anything useful?",
+      "trans": "你学到过有用的吗？",
+      "start": 69.2,
+      "end": 70.8
+    },
+    {
+      "text": "For sure. I mean we learned how to apply pressure to stop bleeding, how to check for a pulse,",
+      "trans": "当然。我指的是我们学会了如何施加压力来止血，如何检查脉搏。",
+      "start": 70.8,
+      "end": 76.0
+    },
+    {
+      "text": "and even how to apply CPR.",
+      "trans": "而且，如何应用心肺复苏术。",
+      "start": 76.0,
+      "end": 78.0
+    },
+    {
+      "text": "Have you treated any real emergencies?",
+      "trans": "你处理过真实的紧急情况吗？",
+      "start": 78.0,
+      "end": 80.0
+    },
+    {
+      "text": "Well they took us along with some paramedics.",
+      "trans": "他们带我们去了医院，还有一些急救人员。",
+      "start": 80.0,
+      "end": 82.6
+    },
+    {
+      "text": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "trans": "这个家伙骑摩托车时摔了下来，不仅撞伤了头，还摔断了几处骨折。",
+      "start": 82.6,
+      "end": 88.0
+    },
+    {
+      "text": "His wounds were pretty serious so they had to rush into the hospital. It was intense.",
+      "trans": "他的伤口很严重，所以他们不得不紧急送去医院。挺紧张的。",
+      "start": 88.0,
+      "end": 92.4
+    },
+    {
+      "text": "I can imagine. I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon.",
+      "trans": "我能够想象。看到血液时，我经常感到晕眩，所以我想我不会很快开始这样的课程。",
+      "start": 92.4,
+      "end": 98.2
+    },
+    {
+      "text": "Alright we're back. So there are a lot of medical and like health related terms in this dialogue,",
+      "trans": "好的，我们又回来了。在这段对话中有很多与医疗和健康相关的术语。",
+      "start": 104.6,
+      "end": 109.4
+    },
+    {
+      "text": "so why don't we take a look at a couple of those in language takeaway?",
+      "trans": "所以，我们为什么不看看那些语言小吃？",
+      "start": 109.4,
+      "end": 113.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "英语：语言取走。\n中文：语言带走。",
+      "start": 115.0,
+      "end": 117.0
+    },
+    {
+      "text": "Well starting us out here in language takeaway, we have the name of an organization that's not for profit,",
+      "trans": "好的，让我们从语言取走的地方开始。我们有一个非营利组织的名称。",
+      "start": 117.0,
+      "end": 123.4
+    },
+    {
+      "text": "that's very very very famous. This is called the Red Cross.",
+      "trans": "那就是非常有名了。这叫红十字会。",
+      "start": 123.4,
+      "end": 127.0
+    },
+    {
+      "text": "Okay so the Red Cross.",
+      "trans": "好的，红十字会。",
+      "start": 127.0,
+      "end": 129.4
+    },
+    {
+      "text": "And this is usually a place where you donate blood, you can also get some blood exams done.",
+      "trans": "而且这通常是一个你捐赠血液的地方，你也能够做些血检。",
+      "start": 129.4,
+      "end": 137.8
+    },
+    {
+      "text": "What else do you do there?",
+      "trans": "你那边还有其他什么活动吗？",
+      "start": 137.8,
+      "end": 139.8
+    },
+    {
+      "text": "Well the Red Cross is an organization that has offices and clinics all over the world.",
+      "trans": "红十字会是一个遍布全球的组织，拥有世界各地的办事处和诊所。",
+      "start": 139.8,
+      "end": 145.0
+    },
+    {
+      "text": "And if you want to help, you can volunteer, you can donate money and you can donate blood.",
+      "trans": "如果你想要帮助，你可以去志愿服务，你也可以捐款，还可以献血。",
+      "start": 145.0,
+      "end": 150.4
+    },
+    {
+      "text": "But the Red Cross will take this and it will help other people, people who have been in disasters or wars.",
+      "trans": "但红十字会会接受它，这将帮助其他人们，那些在灾难或战争中受过伤的人。",
+      "start": 150.4,
+      "end": 157.4
+    },
+    {
+      "text": "And so maybe the Red Cross office near you will have blood banks and blood donations.",
+      "trans": "所以，你附近的红十字会办公室可能会有血库和献血。",
+      "start": 157.4,
+      "end": 163.4
+    },
+    {
+      "text": "But really they help people, they provide aid to people who are unhealthy or sick or have been in a war.",
+      "trans": "但它们确实帮助人们，他们提供援助给那些生病或不健康的或是经历过战争的人。",
+      "start": 163.4,
+      "end": 171.0
+    },
+    {
+      "text": "A very humanitarian organization, so worth it, go to the Red Cross and donate blood.",
+      "trans": "这是一个非常有爱心的组织，值得去红十字会献血。",
+      "start": 171.0,
+      "end": 176.0
+    },
+    {
+      "text": "In the dialogue, the two people are discussing real emergencies.",
+      "trans": "对话中，两个人正在讨论真实发生的紧急情况。",
+      "start": 176.0,
+      "end": 179.0
+    },
+    {
+      "text": "And one person says he went along with some paramedics.",
+      "trans": "一个人说他跟着一些急救人员去了。",
+      "start": 179.0,
+      "end": 182.0
+    },
+    {
+      "text": "So a paramedic is a person.",
+      "trans": "所以，救护车司机是人。",
+      "start": 182.0,
+      "end": 184.0
+    },
+    {
+      "text": "It's a person, it's a profession, right, to be a paramedic.",
+      "trans": "这是一个人，是份职业，对吧，当一名救护员。",
+      "start": 184.0,
+      "end": 187.0
+    },
+    {
+      "text": "Exactly, but it's not really a doctor, so what's the difference here?",
+      "trans": "确实，但其实它并不是真正的医生，所以这里有什么区别？",
+      "start": 187.0,
+      "end": 190.0
+    },
+    {
+      "text": "So paramedics are something like nurses, right, that travel in an ambulance and get to an emergency or get to the scene of an accident",
+      "trans": "所以，急救人员就像护士一样，他们开着救护车在紧急情况或事故现场出现。",
+      "start": 190.0,
+      "end": 198.0
+    },
+    {
+      "text": "and help out a person.",
+      "trans": "和帮助一个人。",
+      "start": 198.0,
+      "end": 200.0
+    },
+    {
+      "text": "So they immobilize the person, they give them oxygen, they make sure that they stay alive until they reach the hospital.",
+      "trans": "所以他们让那个人动不了，给他氧气，确保他能活到医院。",
+      "start": 200.0,
+      "end": 207.0
+    },
+    {
+      "text": "Okay, so a paramedic, you might hear the word medic, it's the same thing.",
+      "trans": "好的，所以一个救护员，你可能会听到“医生”这个词，它指的是同一件事情。",
+      "start": 207.0,
+      "end": 211.0
+    },
+    {
+      "text": "A paramedic is like a nurse.",
+      "trans": "医生就像护士。",
+      "start": 211.0,
+      "end": 213.0
+    },
+    {
+      "text": "They're not a doctor, but they're usually the first person to help when there's been an accident or a disaster.",
+      "trans": "他们不是医生，但通常在事故发生或灾难发生时是第一个提供帮助的人。",
+      "start": 213.0,
+      "end": 221.0
+    },
+    {
+      "text": "Right, exactly.",
+      "trans": "对，没错。",
+      "start": 221.0,
+      "end": 222.0
+    },
+    {
+      "text": "So if there is an earthquake and many people are stuck in the buildings, usually paramedics will be the ones on the scene trying to get them out and helping them by applying for a state.",
+      "trans": "所以，如果地震发生且许多人在建筑物中被困，通常会由救援人员在现场尝试将他们从建筑物中拉出，并帮助他们在申请一个政府援助。",
+      "start": 222.0,
+      "end": 232.0
+    },
+    {
+      "text": "Great, well after that we have finally some of the injuries that a paramedic might see.",
+      "trans": "好，那我们终于有一些急诊室里可能看到的伤情。",
+      "start": 232.0,
+      "end": 237.0
+    },
+    {
+      "text": "The first injury is usually associated with the head.",
+      "trans": "中国：头部通常是第一个受伤的地方。",
+      "start": 237.0,
+      "end": 241.0
+    },
+    {
+      "text": "This is called a concussion.",
+      "trans": "这叫脑震荡。",
+      "start": 241.0,
+      "end": 243.0
+    },
+    {
+      "text": "You suffered a concussion.",
+      "trans": "你遭受了脑震荡。",
+      "start": 243.0,
+      "end": 245.0
+    },
+    {
+      "text": "Hmm, sounds painful.",
+      "trans": "嗯，听起来很疼。",
+      "start": 245.0,
+      "end": 246.0
+    },
+    {
+      "text": "Yeah, it does.",
+      "trans": "是的。",
+      "start": 246.0,
+      "end": 247.0
+    },
+    {
+      "text": "And actually it's very common, I think, right, if you fall and you hit your head.",
+      "trans": "而且，这其实是非常常见的事，我觉得是的，如果你跌倒了然后撞到头。",
+      "start": 247.0,
+      "end": 250.0
+    },
+    {
+      "text": "That's right, so a concussion is really when your brain hits your skull.",
+      "trans": "没错，真正的脑震荡就是你的大脑撞到头骨。",
+      "start": 251.0,
+      "end": 255.0
+    },
+    {
+      "text": "That's the bone that protects your brain.",
+      "trans": "那就是保护你的大脑的骨头。",
+      "start": 255.0,
+      "end": 257.0
+    },
+    {
+      "text": "So really you're hitting your head really, really hard.",
+      "trans": "你真的是真的在撞头。",
+      "start": 257.0,
+      "end": 261.0
+    },
+    {
+      "text": "And usually this can have some bad side effects like you lose your memory or you're a little bit confused.",
+      "trans": "而且通常会有不良反应，比如你会忘记一些事情或者会有点儿糊涂。",
+      "start": 261.0,
+      "end": 268.0
+    },
+    {
+      "text": "It's very common with football players.",
+      "trans": "足球运动员很常见。",
+      "start": 268.0,
+      "end": 270.0
+    },
+    {
+      "text": "Yeah, yeah, with any contact sport of people suffer concussions.",
+      "trans": "是的，是任何接触性运动都会导致脑震荡。",
+      "start": 270.0,
+      "end": 274.0
+    },
+    {
+      "text": "And it's just like imagine when you have a DVD player and you hit it in the disc skips or it goes back.",
+      "trans": "就像你有一个DVD播放器，然后你按一下碟片跳过或倒回去一样。",
+      "start": 274.0,
+      "end": 280.0
+    },
+    {
+      "text": "That's kind of what happens to your brain so you can suffer memory loss.",
+      "trans": "那确实是因为你的大脑才会让你经历记忆丧失。",
+      "start": 280.0,
+      "end": 283.0
+    },
+    {
+      "text": "You can even lose your sight temporarily.",
+      "trans": "你甚至可以暂时失明。",
+      "start": 283.0,
+      "end": 285.0
+    },
+    {
+      "text": "That's right, so this can be very serious and obviously should be looked at by a paramedic.",
+      "trans": "没错，所以这可能会非常严重，显然需要由急救人员来处理。",
+      "start": 285.0,
+      "end": 290.0
+    },
+    {
+      "text": "We also have another situation that is similarly serious.",
+      "trans": "我们还有另一个同样严重的情况。",
+      "start": 290.0,
+      "end": 294.0
+    },
+    {
+      "text": "It's called a compound fracture.",
+      "trans": "它叫复合骨折。",
+      "start": 294.0,
+      "end": 297.0
+    },
+    {
+      "text": "Okay, so what is a fracture or two fracture?",
+      "trans": "好的，什么是骨折或者两处骨折？",
+      "start": 297.0,
+      "end": 300.0
+    },
+    {
+      "text": "A fracture is a thing, it's a break.",
+      "trans": "骨折是件事情，它是一条裂痕。",
+      "start": 300.0,
+      "end": 303.0
+    },
+    {
+      "text": "Okay, so you could say I broke my arm.",
+      "trans": "好的，你可以说我摔断了胳膊。",
+      "start": 303.0,
+      "end": 306.0
+    },
+    {
+      "text": "But you could also say I fractured my arm.",
+      "trans": "但你也可以说是我的胳膊断了。",
+      "start": 306.0,
+      "end": 308.0
+    },
+    {
+      "text": "This is the more medical term.",
+      "trans": "这是更医学的术语。",
+      "start": 308.0,
+      "end": 310.0
+    },
+    {
+      "text": "But of course there are different ways to break something.",
+      "trans": "当然，有不同的方法可以破坏某物。",
+      "start": 310.0,
+      "end": 313.0
+    },
+    {
+      "text": "And so in medicine we have a compound fracture.",
+      "trans": "所以，在医学中，我们也有复合骨折。",
+      "start": 313.0,
+      "end": 317.0
+    },
+    {
+      "text": "So a compound fracture is pretty painful and it's a little bit more serious.",
+      "trans": "所以复合骨折确实很疼，而且比较严重。",
+      "start": 317.0,
+      "end": 321.0
+    },
+    {
+      "text": "You have a simple fracture which is when your bone just breaks.",
+      "trans": "你有一个简单的骨折，也就是你的骨头只是断裂了。",
+      "start": 321.0,
+      "end": 324.0
+    },
+    {
+      "text": "Or a hairline which means that there's a little thin part where it's not, it's broken but it's not really serious.",
+      "trans": "或者一条细线，意味着那里有一小部分是不完整的，但并不是真的严重。",
+      "start": 324.0,
+      "end": 330.0
+    },
+    {
+      "text": "In this case it's your bones actually push towards each other.",
+      "trans": "这种情况实际上是你的骨头彼此靠近。",
+      "start": 330.0,
+      "end": 333.0
+    },
+    {
+      "text": "They kind of form like a little mountain, right?",
+      "trans": "它们的样子有点像一个小山丘，对吗？",
+      "start": 333.0,
+      "end": 336.0
+    },
+    {
+      "text": "Or they're on top of each other.",
+      "trans": "他们重叠在一起。",
+      "start": 336.0,
+      "end": 338.0
+    },
+    {
+      "text": "Think about when two cars hit and they kind of crash up into each other.",
+      "trans": "考虑一下两辆车相撞的情景，它们似乎相互碰撞在一起。",
+      "start": 338.0,
+      "end": 342.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "确实。",
+      "start": 342.0,
+      "end": 343.0
+    },
+    {
+      "text": "It's like that but it's your bone.",
+      "trans": "感觉就是这样，但那是你的骨头。",
+      "start": 343.0,
+      "end": 344.0
+    },
+    {
+      "text": "So it's extremely painful.",
+      "trans": "所以这真是太痛苦了。",
+      "start": 344.0,
+      "end": 346.0
+    },
+    {
+      "text": "Yeah, yeah, it's very, very painful.",
+      "trans": "没错，真的非常痛苦。",
+      "start": 346.0,
+      "end": 348.0
+    },
+    {
+      "text": "So the person suffered a concussion and a compound fracture.",
+      "trans": "所以这个人遭受了脑震荡和复合性骨折。",
+      "start": 348.0,
+      "end": 351.0
+    },
+    {
+      "text": "Now the friend that he was talking to said, wow, you know, it sounds amazing.",
+      "trans": "现在他正在说话的朋友说：“哇，你知道，听起来真的很棒。”",
+      "start": 351.0,
+      "end": 354.0
+    },
+    {
+      "text": "It's really cool that you're doing that.",
+      "trans": "真的很好啊，你在做呢。",
+      "start": 354.0,
+      "end": 356.0
+    },
+    {
+      "text": "But you know what, I faint when I see blood.",
+      "trans": "但你知道，我看到血的时候会晕过去。",
+      "start": 356.0,
+      "end": 359.0
+    },
+    {
+      "text": "Do you do this?",
+      "trans": "你这样做吗？",
+      "start": 359.0,
+      "end": 361.0
+    },
+    {
+      "text": "No, I mean either.",
+      "trans": "不，我指的是。",
+      "start": 361.0,
+      "end": 362.0
+    },
+    {
+      "text": "Well some people when they see blood they feel very, very uncomfortable or sick.",
+      "trans": "确实有些人在看到血时会感到非常不舒服或恶心。",
+      "start": 362.0,
+      "end": 367.0
+    },
+    {
+      "text": "And so to faint is to fall down on the ground.",
+      "trans": "于是，软弱就变成了倒在地上。",
+      "start": 367.0,
+      "end": 370.0
+    },
+    {
+      "text": "It's almost like you're falling asleep.",
+      "trans": "感觉就像是你快要睡着了。",
+      "start": 370.0,
+      "end": 372.0
+    },
+    {
+      "text": "But it's not sleep.",
+      "trans": "但不是睡觉。",
+      "start": 372.0,
+      "end": 374.0
+    },
+    {
+      "text": "Have you ever fainted?",
+      "trans": "你有没有晕倒过？",
+      "start": 374.0,
+      "end": 376.0
+    },
+    {
+      "text": "I fainted twice in my life.",
+      "trans": "我一生中晕了两次。",
+      "start": 376.0,
+      "end": 379.0
+    },
+    {
+      "text": "One time I fainted because of heat.",
+      "trans": "一次，我因中暑而昏倒。",
+      "start": 379.0,
+      "end": 381.0
+    },
+    {
+      "text": "It was very, very, very hot.",
+      "trans": "天气非常热。",
+      "start": 381.0,
+      "end": 383.0
+    },
+    {
+      "text": "And I couldn't breathe for a moment and then I woke up on the ground.",
+      "trans": "我瞬间无法呼吸，然后就倒在了地上。",
+      "start": 383.0,
+      "end": 387.0
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 387.0,
+      "end": 388.0
+    },
+    {
+      "text": "Yeah, that's what happens.",
+      "trans": "是的，这就是发生了的事情。",
+      "start": 388.0,
+      "end": 390.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "好的。",
+      "start": 390.0,
+      "end": 391.0
+    },
+    {
+      "text": "So yeah, if you ever faint, it's basically that you're just standing there, you're sitting somewhere",
+      "trans": "所以，如果你突然晕倒了，那基本上就是你只是站在那里，或者你在某个地方坐着。",
+      "start": 391.0,
+      "end": 395.0
+    },
+    {
+      "text": "and all of a sudden everything goes black and you wake up and you're on the ground.",
+      "trans": "突然什么都看不见了，你醒了，发现自己在地上。",
+      "start": 395.0,
+      "end": 398.0
+    },
+    {
+      "text": "And you feel very, very weak before that.",
+      "trans": "你那个时候感觉非常虚弱。",
+      "start": 398.0,
+      "end": 401.0
+    },
+    {
+      "text": "And very pale I think as well because you look pale.",
+      "trans": "你看起来很苍白，我也觉得一样。",
+      "start": 401.0,
+      "end": 404.0
+    },
+    {
+      "text": "Yeah, your blood goes away from your brain and you pass out.",
+      "trans": "是的，你的血液从大脑里流走了，你会失去意识。",
+      "start": 404.0,
+      "end": 406.0
+    },
+    {
+      "text": "It's very strange sensation.",
+      "trans": "感觉非常奇怪。",
+      "start": 406.0,
+      "end": 409.0
+    },
+    {
+      "text": "Because then everyone else around you they know what happened.",
+      "trans": "因为那时，你周围的人都知道发生了什么。",
+      "start": 409.0,
+      "end": 412.0
+    },
+    {
+      "text": "They saw you and so they're looking at you like you're crazy.",
+      "trans": "他们看到你了，所以他们看你就像你疯了一样。",
+      "start": 412.0,
+      "end": 415.0
+    },
+    {
+      "text": "You're maybe sick.",
+      "trans": "你可能是生病了。",
+      "start": 415.0,
+      "end": 417.0
+    },
+    {
+      "text": "Right.",
+      "trans": "好的。",
+      "start": 417.0,
+      "end": 418.0
+    },
+    {
+      "text": "To faint.",
+      "trans": "晕了。",
+      "start": 418.0,
+      "end": 419.0
+    },
+    {
+      "text": "Alright, so that's to faint.",
+      "trans": "好的，那就要睡过去了。",
+      "start": 419.0,
+      "end": 421.0
+    },
+    {
+      "text": "So those are the keywords that we have for you in language takeaway.",
+      "trans": "所以，这是我们为你准备的语言带走的关键词。",
+      "start": 421.0,
+      "end": 423.0
+    },
+    {
+      "text": "Let's take a listen to our dialogue again and we'll be back shortly to take a look at some phrases on fluency builder.",
+      "trans": "让我们再次聆听我们的对话，并很快回来，以便稍后看看一些流利训练中的短语。",
+      "start": 423.0,
+      "end": 429.0
+    },
+    {
+      "text": "Hey, Joe.",
+      "trans": "嘿，乔。",
+      "start": 433.0,
+      "end": 434.0
+    },
+    {
+      "text": "Where have you been these past few days?",
+      "trans": "你最近几天去哪儿了？",
+      "start": 434.0,
+      "end": 436.0
+    },
+    {
+      "text": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
+      "trans": "我最近忙于开始的一周红十字会初级救护培训。",
+      "start": 436.0,
+      "end": 440.0
+    },
+    {
+      "text": "Cool.",
+      "trans": "好酷。",
+      "start": 440.0,
+      "end": 441.0
+    },
+    {
+      "text": "I've always wanted to do something like that.",
+      "trans": "我一直都想做那样的事情。",
+      "start": 441.0,
+      "end": 443.0
+    },
+    {
+      "text": "Have you learnt anything useful?",
+      "trans": "你学到了有用的东西了吗？",
+      "start": 443.0,
+      "end": 444.0
+    },
+    {
+      "text": "For sure.",
+      "trans": "当然。",
+      "start": 444.0,
+      "end": 445.0
+    },
+    {
+      "text": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR.",
+      "trans": "我意思是我们学会了如何施加压力止血、如何检查脉搏，甚至是如何进行心肺复苏。",
+      "start": 445.0,
+      "end": 452.0
+    },
+    {
+      "text": "Have you treated any real emergencies?",
+      "trans": "你处理过任何真正的紧急情况吗？",
+      "start": 452.0,
+      "end": 454.0
+    },
+    {
+      "text": "Well, they took us along with some paramedics.",
+      "trans": "好吧，他们带我们去医院了，还有一些急救人员。",
+      "start": 454.0,
+      "end": 456.0
+    },
+    {
+      "text": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "trans": "这个家伙摔摩托车时也撞伤了，还摔断了几处。",
+      "start": 456.0,
+      "end": 462.0
+    },
+    {
+      "text": "His wounds were pretty serious so they had to rush him to the hospital.",
+      "trans": "他的伤口很严重，所以他们不得不把他送往医院。",
+      "start": 462.0,
+      "end": 465.0
+    },
+    {
+      "text": "It was intense.",
+      "trans": "那很激烈。",
+      "start": 465.0,
+      "end": 466.0
+    },
+    {
+      "text": "I can imagine.",
+      "trans": "我当然能想象。",
+      "start": 466.0,
+      "end": 467.0
+    },
+    {
+      "text": "I tend to faint when I see blood.",
+      "trans": "我看到血时容易晕倒。",
+      "start": 467.0,
+      "end": 469.0
+    },
+    {
+      "text": "So I think I won't be taking up a course like that anytime soon.",
+      "trans": "我觉得我短时间内不太可能参加那种课程。",
+      "start": 469.0,
+      "end": 472.0
+    },
+    {
+      "text": "Alright, so quiz, Margot.",
+      "trans": "好的，那么考一考你，玛格特。",
+      "start": 475.0,
+      "end": 477.0
+    },
+    {
+      "text": "What is the first thing that a paramedic does when he or she finds a body at an emergency?",
+      "trans": "当急救人员在紧急情况下发现尸体时，他们首先会做什么？",
+      "start": 477.0,
+      "end": 483.0
+    },
+    {
+      "text": "That paramedic checks for a pulse to make sure you're alive, right?",
+      "trans": "那急救员检查你的脉搏，确保你还活着呢。",
+      "start": 483.0,
+      "end": 487.0
+    },
+    {
+      "text": "Right.",
+      "trans": "好的。",
+      "start": 487.0,
+      "end": 488.0
+    },
+    {
+      "text": "A pulse, so, thong, thong, thong, thong.",
+      "trans": "脉搏，嗯，通，通，通，通。",
+      "start": 488.0,
+      "end": 491.0
+    },
+    {
+      "text": "The pulse is the rhythm.",
+      "trans": "脉搏是节奏。",
+      "start": 491.0,
+      "end": 493.0
+    },
+    {
+      "text": "It's the sound of your heart pumping blood.",
+      "trans": "那是你的心跳声。",
+      "start": 493.0,
+      "end": 495.0
+    },
+    {
+      "text": "And you can feel someone's wrist or their throat.",
+      "trans": "你就能感觉到某人的手腕或喉咙。",
+      "start": 495.0,
+      "end": 499.0
+    },
+    {
+      "text": "So to check for a pulse means to check and make sure their heart is pumping blood.",
+      "trans": "所以检查脉搏就是检查并确保他们的心脏在泵送血液。",
+      "start": 500.0,
+      "end": 505.0
+    },
+    {
+      "text": "Right.",
+      "trans": "好的。",
+      "start": 505.0,
+      "end": 506.0
+    },
+    {
+      "text": "And not only that, but to make sure that the heart is pumping blood relatively normal.",
+      "trans": "而且，为了确保心脏泵血正常。",
+      "start": 506.0,
+      "end": 511.0
+    },
+    {
+      "text": "Because sometimes your heart can be pumping blood too fast or too slow.",
+      "trans": "因为有时候你的心脏可能会跳动过快或过慢。",
+      "start": 511.0,
+      "end": 515.0
+    },
+    {
+      "text": "And if it's too slow, it's very possible that you will faint.",
+      "trans": "如果你太慢了，很有可能你会晕倒。",
+      "start": 515.0,
+      "end": 518.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 518.0,
+      "end": 520.0
+    },
+    {
+      "text": "Alright, so we check for a pulse.",
+      "trans": "好的，所以我们检查脉搏。",
+      "start": 520.0,
+      "end": 522.0
+    },
+    {
+      "text": "Now, what else happens?",
+      "trans": "现在，还有什么发生？",
+      "start": 522.0,
+      "end": 523.0
+    },
+    {
+      "text": "Well, if there's a very serious emergency and the paramedic needs help to give aid to the person who's dead,",
+      "trans": "好吧，如果有非常严重的紧急情况，救护车需要帮助来对已经死亡的人提供援助。",
+      "start": 523.0,
+      "end": 528.0
+    },
+    {
+      "text": "and if they have aid to the person who is injured, then they will rush that person to the hospital.",
+      "trans": "而且如果他们有帮助受伤的人的援助，那么他们会将那个受伤的人送往医院。",
+      "start": 528.0,
+      "end": 533.0
+    },
+    {
+      "text": "Okay, so the verb to rush, what does that mean?",
+      "trans": "好的，那么“冲”这个动词是什么意思？",
+      "start": 533.0,
+      "end": 536.0
+    },
+    {
+      "text": "Alright, so to rush someone or to rush someone to the hospital means to take someone or to go with someone very, very quickly.",
+      "trans": "好的，所以为了赶人或者去医院，意味着要快速地把某人或某人带去医院。",
+      "start": 536.0,
+      "end": 544.0
+    },
+    {
+      "text": "Okay, so let's give an example.",
+      "trans": "好的，那么让我们举个例子。",
+      "start": 544.0,
+      "end": 546.0
+    },
+    {
+      "text": "I could say, listen, Marco, I don't want to rush you, but I really need the report done today.",
+      "trans": "我可以说，听我说，Marco，我不想催你，但我真的需要今天完成报告。",
+      "start": 546.0,
+      "end": 552.0
+    },
+    {
+      "text": "Or I could say, I need to rush home.",
+      "trans": "或者我可以说是，我需要赶紧回家。",
+      "start": 552.0,
+      "end": 555.0
+    },
+    {
+      "text": "My parents need me.",
+      "trans": "我的父母需要我。",
+      "start": 555.0,
+      "end": 556.0
+    },
+    {
+      "text": "Or if a woman is having a baby, you want to rush her to the emergency room.",
+      "trans": "如果一个女人要生孩子，你希望她马上去急诊室。",
+      "start": 556.0,
+      "end": 560.0
+    },
+    {
+      "text": "Right.",
+      "trans": "好的。",
+      "start": 560.0,
+      "end": 561.0
+    },
+    {
+      "text": "Okay, so you need to go quickly.",
+      "trans": "好的，你得赶紧去。",
+      "start": 561.0,
+      "end": 563.0
+    },
+    {
+      "text": "Alright, now when we were talking about fainting, the person said before he used the word fainting, he said, I tend to faint.",
+      "trans": "好的，现在我们来谈谈晕厥。说话的人在说他以前使用“晕厥”这个词时，他可能会说：“我经常晕厥。”",
+      "start": 563.0,
+      "end": 572.0
+    },
+    {
+      "text": "Okay, I tend to.",
+      "trans": "好的，我喜欢。",
+      "start": 572.0,
+      "end": 574.0
+    },
+    {
+      "text": "I tend to is a really great verb that describes a normal or habitual behavior.",
+      "trans": "我倾向于是一个真的很棒的动词，用来描述一种正常行为或习惯。",
+      "start": 574.0,
+      "end": 580.0
+    },
+    {
+      "text": "That's like saying, I tend to faint when it's very, very hot outside.",
+      "trans": "那就好像是说，我一热就容易晕过去。",
+      "start": 580.0,
+      "end": 586.0
+    },
+    {
+      "text": "That means I often faint when it's very, very hot outside.",
+      "trans": "那意味着外面特别热时我经常虚脱。",
+      "start": 586.0,
+      "end": 590.0
+    },
+    {
+      "text": "It's something that happens normally.",
+      "trans": "这是正常发生的事情。",
+      "start": 590.0,
+      "end": 592.0
+    },
+    {
+      "text": "So it's a tendency.",
+      "trans": "所以这是一个趋势。",
+      "start": 592.0,
+      "end": 593.0
+    },
+    {
+      "text": "Right, but it's not for everyone.",
+      "trans": "对，但并不是所有人都适用。",
+      "start": 593.0,
+      "end": 594.0
+    },
+    {
+      "text": "It's for me.",
+      "trans": "那是给我用的。",
+      "start": 594.0,
+      "end": 595.0
+    },
+    {
+      "text": "So I tend to, what's something that you tend to faint when you see?",
+      "trans": "所以，你看到的时候，你会晕倒吗？",
+      "start": 595.0,
+      "end": 601.0
+    },
+    {
+      "text": "I never faint.",
+      "trans": "我从不晕倒。",
+      "start": 601.0,
+      "end": 602.0
+    },
+    {
+      "text": "You don't faint.",
+      "trans": "你没有晕倒。",
+      "start": 602.0,
+      "end": 603.0
+    },
+    {
+      "text": "No, it's just kidding.",
+      "trans": "不，这只是玩笑。",
+      "start": 603.0,
+      "end": 604.0
+    },
+    {
+      "text": "But you know what, I tend to leave the towel on the bed sometimes after I take a shower.",
+      "trans": "但你知道吗，我有时候在洗完澡之后会把毛巾放在床上。",
+      "start": 605.0,
+      "end": 610.0
+    },
+    {
+      "text": "I know, it's a bad habit.",
+      "trans": "我知道，这是一个坏习惯。",
+      "start": 610.0,
+      "end": 611.0
+    },
+    {
+      "text": "And then the sheet smell.",
+      "trans": "然后，那张纸的味道。",
+      "start": 611.0,
+      "end": 612.0
+    },
+    {
+      "text": "No, they don't.",
+      "trans": "不，它们没有。",
+      "start": 612.0,
+      "end": 613.0
+    },
+    {
+      "text": "Because I leave it there for like five or ten minutes and then I realize, oh my god, and then I pick it up.",
+      "trans": "因为我在那里呆了大概五到十分钟，然后我意识到，天啊，然后我就把它拿起来。",
+      "start": 613.0,
+      "end": 618.0
+    },
+    {
+      "text": "But you know, it's hard to.",
+      "trans": "但你知道，这很难。",
+      "start": 618.0,
+      "end": 620.0
+    },
+    {
+      "text": "That's gross.",
+      "trans": "那是太粗鲁了。",
+      "start": 620.0,
+      "end": 621.0
+    },
+    {
+      "text": "No, it's not.",
+      "trans": "不，不是。",
+      "start": 621.0,
+      "end": 622.0
+    },
+    {
+      "text": "Well, I tend to forget my leftover food in the refrigerator for a long time.",
+      "trans": "嗯，我习惯性地把冰箱里的剩饭好久都不忘记。",
+      "start": 622.0,
+      "end": 628.0
+    },
+    {
+      "text": "Oh, that's even.",
+      "trans": "哦，那更糟了。",
+      "start": 628.0,
+      "end": 629.0
+    },
+    {
+      "text": "And then it starts to smell.",
+      "trans": "然后就开始有味道了。",
+      "start": 629.0,
+      "end": 630.0
+    },
+    {
+      "text": "That's gross.",
+      "trans": "那太丢人了。",
+      "start": 630.0,
+      "end": 631.0
+    },
+    {
+      "text": "But I don't like to waste food.",
+      "trans": "但我不喜欢浪费食物。",
+      "start": 631.0,
+      "end": 632.0
+    },
+    {
+      "text": "But you let it rot and then you fridge smells.",
+      "trans": "但是你让它腐烂了，然后冰箱开始发出异味。",
+      "start": 633.0,
+      "end": 635.0
+    },
+    {
+      "text": "It happens.",
+      "trans": "真的发生了。",
+      "start": 635.0,
+      "end": 636.0
+    },
+    {
+      "text": "So that's all we've got for Fluency Builder today.",
+      "trans": "今天就是我们为流利 builder 所剩的练习了。",
+      "start": 636.0,
+      "end": 639.0
+    },
+    {
+      "text": "But we can talk about tendencies in a moment.",
+      "trans": "但我们可以稍后谈谈趋势。",
+      "start": 639.0,
+      "end": 642.0
+    },
+    {
+      "text": "Maybe a homework assignment could be to think of something that you tend to do.",
+      "trans": "也许可以做一个作业，想想你经常做的事情。",
+      "start": 642.0,
+      "end": 645.0
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 645.0,
+      "end": 646.0
+    },
+    {
+      "text": "That could be an interesting homework assignment.",
+      "trans": "那可能是一个有趣的家庭作业。",
+      "start": 646.0,
+      "end": 648.0
+    },
+    {
+      "text": "But before we jump into that, why don't we listen to our dialogue for the very last time?",
+      "trans": "但在我们深入讨论之前，不如最后再听听我们的对话？",
+      "start": 648.0,
+      "end": 652.0
+    },
+    {
+      "text": "Hey Joe, where have you been these past few days?",
+      "trans": "嘿，乔，你最近都去哪儿了？",
+      "start": 652.0,
+      "end": 662.0
+    },
+    {
+      "text": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
+      "trans": "我最近一周开始的红十字会救护课程一直忙得不可开交。",
+      "start": 662.0,
+      "end": 666.0
+    },
+    {
+      "text": "Cool.",
+      "trans": "很好。",
+      "start": 666.0,
+      "end": 667.0
+    },
+    {
+      "text": "I've always wanted to do something like that.",
+      "trans": "我一直都想做那样的事情。",
+      "start": 667.0,
+      "end": 669.0
+    },
+    {
+      "text": "Have you learned anything useful?",
+      "trans": "你学到了有用的东西了吗？",
+      "start": 669.0,
+      "end": 671.0
+    },
+    {
+      "text": "For sure.",
+      "trans": "当然。",
+      "start": 671.0,
+      "end": 672.0
+    },
+    {
+      "text": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse,",
+      "trans": "我意思是，我们学会了如何施压止血、如何检查脉搏。",
+      "start": 672.0,
+      "end": 676.0
+    },
+    {
+      "text": "and even how to apply CPR.",
+      "trans": "并且如何应用CPR。",
+      "start": 676.0,
+      "end": 678.0
+    },
+    {
+      "text": "Have you treated any real emergencies?",
+      "trans": "你处理过任何真实的紧急情况吗？",
+      "start": 678.0,
+      "end": 680.0
+    },
+    {
+      "text": "Well, they took us along with some paramedics.",
+      "trans": "哦，他们带我们去了医院，还带着一些急救人员。",
+      "start": 680.0,
+      "end": 683.0
+    },
+    {
+      "text": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
+      "trans": "英语：他摔了一跤，还受了两处骨折。",
+      "start": 683.0,
+      "end": 688.0
+    },
+    {
+      "text": "His wounds were pretty serious, so they had to rush into the hospital.",
+      "trans": "他的伤口很严重，所以他们不得不赶紧去医院。",
+      "start": 688.0,
+      "end": 691.0
+    },
+    {
+      "text": "It was intense.",
+      "trans": "那是激烈的。",
+      "start": 691.0,
+      "end": 692.0
+    },
+    {
+      "text": "I can imagine.",
+      "trans": "我能够想象。",
+      "start": 692.0,
+      "end": 693.0
+    },
+    {
+      "text": "I tend to faint when I see blood, so I think I won't be taking up a course like that any time soon.",
+      "trans": "我总是害怕看到血，所以我认为我不会像这样参加那个课程。",
+      "start": 693.0,
+      "end": 698.0
+    },
+    {
+      "text": "Alright, we're back.",
+      "trans": "好的，我们又回来了。",
+      "start": 698.0,
+      "end": 707.0
+    },
+    {
+      "text": "So that's all the time we have for today.",
+      "trans": "这就是今天剩下的时间了。",
+      "start": 707.0,
+      "end": 710.0
+    },
+    {
+      "text": "Be sure to do your homework assignment.",
+      "trans": "请务必完成作业。",
+      "start": 710.0,
+      "end": 712.0
+    },
+    {
+      "text": "Come to EnglishPod.com.",
+      "trans": "来英语有声网。",
+      "start": 712.0,
+      "end": 714.0
+    },
+    {
+      "text": "In the comments section, tell us what do you tend to do?",
+      "trans": "在评论区里，说说你平时喜欢做什么？",
+      "start": 714.0,
+      "end": 717.0
+    },
+    {
+      "text": "It could be a good thing, it could be a bad thing.",
+      "trans": "这可能是个好事，也可能是个坏事。",
+      "start": 717.0,
+      "end": 719.0
+    },
+    {
+      "text": "Obviously, you can try and use some of the vocabulary you heard in today's lesson about health and safety.",
+      "trans": "当然，你可以尝试使用今天健康与安全课上听到的一些词汇。",
+      "start": 719.0,
+      "end": 726.0
+    },
+    {
+      "text": "You might get some extra points from us for doing that.",
+      "trans": "你做这件事可能会得到我们的额外表扬哦。",
+      "start": 726.0,
+      "end": 729.0
+    },
+    {
+      "text": "I know some people who tend to leave the house with a whole medicine kit in their bags or in their purses.",
+      "trans": "我知道有些人出门时会把药箱放在包里或口袋里。",
+      "start": 729.0,
+      "end": 735.0
+    },
+    {
+      "text": "Really? We could say a first aid kit.",
+      "trans": "真的吗？我们可以说是急救包。",
+      "start": 735.0,
+      "end": 737.0
+    },
+    {
+      "text": "A first aid kit, exactly.",
+      "trans": "急救包，没错。",
+      "start": 737.0,
+      "end": 738.0
+    },
+    {
+      "text": "Wow, so do you do this? Let us know.",
+      "trans": "哇，你也是这样吗？快告诉我们。",
+      "start": 738.0,
+      "end": 740.0
+    },
+    {
+      "text": "Our website is englispod.com. That's all we've got for today.",
+      "trans": "我们的网站是englispod.com。今天就这些了。",
+      "start": 740.0,
+      "end": 743.0
+    },
+    {
+      "text": "So until next time.",
+      "trans": "所以，下次见。",
+      "start": 743.0,
+      "end": 744.0
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 744.0,
+      "end": 745.0
+    },
+    {
+      "text": "Bye guys.",
+      "trans": "Bye guys (英语：Bye guys) 是一个中文的网络用语，通常用于表示“再见”或“别了”。在不同的语言和文化中，这个短语可能有不同的含义。以下是一些常见的翻译：",
+      "start": 745.0,
+      "end": 746.0
+    }
+  ]
+}

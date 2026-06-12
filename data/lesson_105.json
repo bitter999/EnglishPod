@@ -1,0 +1,1830 @@
+{
+  "title": "englishpod_C0105pb",
+  "audio": "./assets/englishpod_C0105pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+      "trans": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。",
+      "start": 0.0,
+      "end": 5.12
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 5.12,
+      "end": 6.12
+    },
+    {
+      "text": "Today we're bringing you a lesson about the office, so something related to business,",
+      "trans": "今天，我们将向您介绍关于办公室的一课，因为与商业有关。",
+      "start": 6.12,
+      "end": 11.32
+    },
+    {
+      "text": "right?",
+      "trans": "是的。",
+      "start": 11.32,
+      "end": 12.32
+    },
+    {
+      "text": "That's right.",
+      "trans": "对的。",
+      "start": 12.32,
+      "end": 13.32
+    },
+    {
+      "text": "And in this lesson, we're learning language you can use to tell someone they did a good",
+      "trans": "在这个课程中，我们正在学习能够用来告诉别人他们做得好的语言。",
+      "start": 13.32,
+      "end": 18.88
+    },
+    {
+      "text": "job.",
+      "trans": "在中文中，\"job\" 的翻译是 \"工作\"。",
+      "start": 18.88,
+      "end": 19.88
+    },
+    {
+      "text": "Okay, so a job well done.",
+      "trans": "好的，那么一个做得很好的工作。",
+      "start": 19.88,
+      "end": 21.68
+    },
+    {
+      "text": "You want to praise somebody.",
+      "trans": "您想赞扬某人。",
+      "start": 21.68,
+      "end": 24.12
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 24.12,
+      "end": 25.12
+    },
+    {
+      "text": "The first lesson in as a manager praises his employee on a presentation.",
+      "trans": "第一个管理者的课程表扬他的员工在演示中的表现。",
+      "start": 25.12,
+      "end": 30.8
+    },
+    {
+      "text": "Okay, so before we listen to the dialogue, let's take a look very quickly at vocabulary",
+      "trans": "好的，那么在我们开始听对话之前，让我们先快速看一下词汇。",
+      "start": 30.8,
+      "end": 36.120000000000005
+    },
+    {
+      "text": "preview.",
+      "trans": "预览。",
+      "start": 36.120000000000005,
+      "end": 37.120000000000005
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 37.120000000000005,
+      "end": 40.92
+    },
+    {
+      "text": "Well we're going to hear both of these words in the dialogue and the first one is a",
+      "trans": "我们将在对话中听到这两个词，其中第一个是 \"well\"。",
+      "start": 40.92,
+      "end": 46.400000000000006
+    },
+    {
+      "text": "whiz.",
+      "trans": "在中文中，\"whiz\"可以翻译为：",
+      "start": 46.400000000000006,
+      "end": 47.400000000000006
+    },
+    {
+      "text": "Whiz.",
+      "trans": "嗨。",
+      "start": 47.400000000000006,
+      "end": 48.400000000000006
+    },
+    {
+      "text": "To be a whiz.",
+      "trans": "要成为超人。",
+      "start": 48.400000000000006,
+      "end": 49.400000000000006
+    },
+    {
+      "text": "Okay, so it's an adjective, somebody is a whiz.",
+      "trans": "好的，所以是形容词，有人是高手。",
+      "start": 49.400000000000006,
+      "end": 52.400000000000006
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 52.4,
+      "end": 53.4
+    },
+    {
+      "text": "And whiz comes from the word wizard.",
+      "trans": "嗖嗖嗖来自“巫师”这个词。",
+      "start": 53.4,
+      "end": 55.96
+    },
+    {
+      "text": "Okay, so kind of like a witch, but a guy witch.",
+      "trans": "好的，有点像巫婆，但是一位男巫。",
+      "start": 55.96,
+      "end": 60.12
+    },
+    {
+      "text": "Yeah, man witch.",
+      "trans": "是的，哥哥。",
+      "start": 60.12,
+      "end": 61.12
+    },
+    {
+      "text": "But so a whiz is someone who is really good at something.",
+      "trans": "但是，一个超人是某事做得非常好。",
+      "start": 61.12,
+      "end": 65.52
+    },
+    {
+      "text": "Okay, so I can say David is a computer whiz.",
+      "trans": "好的，我可以这么说，大卫是一位计算机高手。",
+      "start": 65.52,
+      "end": 70.92
+    },
+    {
+      "text": "Or Antony is a math whiz.",
+      "trans": "或者安东尼是数学天才。",
+      "start": 70.92,
+      "end": 73.32
+    },
+    {
+      "text": "Okay, so he's really good at computers or he's really good at math or he knows a lot about",
+      "trans": "好的，他真的很擅长电脑或他真的很擅长数学或他知道很多关于中文。",
+      "start": 73.32,
+      "end": 78.12
+    },
+    {
+      "text": "math.",
+      "trans": "数学。",
+      "start": 78.12,
+      "end": 79.12
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 79.12,
+      "end": 80.12
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 80.12,
+      "end": 81.12
+    },
+    {
+      "text": "And our second word.",
+      "trans": "和我们的第二个字。",
+      "start": 81.12,
+      "end": 82.12
+    },
+    {
+      "text": "Well, we're going to hear about slides.",
+      "trans": "嗯，我们将听有关幻灯片的介绍。",
+      "start": 82.12,
+      "end": 84.80000000000001
+    },
+    {
+      "text": "Slides.",
+      "trans": "在中文中，\"Slides\" 翻译为 \"幻灯片\"。",
+      "start": 84.80000000000001,
+      "end": 85.80000000000001
+    },
+    {
+      "text": "PowerPoint slides.",
+      "trans": "PPT幻灯片。",
+      "start": 85.80000000000001,
+      "end": 86.80000000000001
+    },
+    {
+      "text": "PowerPoint slides.",
+      "trans": "PPT幻灯片。",
+      "start": 86.80000000000001,
+      "end": 87.80000000000001
+    },
+    {
+      "text": "Okay, so everyone knows PowerPoint, right?",
+      "trans": "是的，大家都知道PowerPoint了吗？",
+      "start": 87.80000000000001,
+      "end": 90.64
+    },
+    {
+      "text": "A computer program.",
+      "trans": "计算机程序。",
+      "start": 90.64,
+      "end": 91.72
+    },
+    {
+      "text": "A computer program that you use to make presentations.",
+      "trans": "一个用于制作演示文稿的计算机程序。",
+      "start": 91.72,
+      "end": 96.32000000000001
+    },
+    {
+      "text": "And a slide is one page in that presentation.",
+      "trans": "一张幻灯片是一张在演示文稿中的一页。",
+      "start": 96.32000000000001,
+      "end": 100.0
+    },
+    {
+      "text": "Okay, so if you have 10 pages in your PowerPoint presentation, you basically have 10 slides.",
+      "trans": "好的，如果你在PowerPoint演示文稿中有10页，那么基本上你有10张幻灯片。",
+      "start": 100.0,
+      "end": 106.64
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 106.64,
+      "end": 107.64
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 107.64,
+      "end": 108.64
+    },
+    {
+      "text": "Now let's listen to the dialogue for the first time and we're going to see what's happening",
+      "trans": "现在让我们听第一次对话，然后看看会发生什么。",
+      "start": 108.64,
+      "end": 113.68
+    },
+    {
+      "text": "in this business meeting.",
+      "trans": "在这个商务会议中。",
+      "start": 113.68,
+      "end": 119.08
+    },
+    {
+      "text": "And so that concludes my outline for our marketing strategy next year.",
+      "trans": "接下来的这一年，我们的营销策略将结束。",
+      "start": 119.08,
+      "end": 123.44
+    },
+    {
+      "text": "Thank you very much for your time.",
+      "trans": "非常感谢您的时间。",
+      "start": 123.44,
+      "end": 126.48
+    },
+    {
+      "text": "Hey, that was quite the presentation.",
+      "trans": "你好，那真是个精彩的演示。",
+      "start": 126.48,
+      "end": 130.72
+    },
+    {
+      "text": "Honestly, I was completely blown away by your strategy outline.",
+      "trans": "说实话，我对你的战略规划方案简直无法置信。",
+      "start": 130.72,
+      "end": 134.72
+    },
+    {
+      "text": "I've got to say Alex, you really wowed me today.",
+      "trans": "我不得不说，Alex，你今天真的很让我佩服。",
+      "start": 134.72,
+      "end": 138.2
+    },
+    {
+      "text": "Oh, come on.",
+      "trans": "啊，快点！",
+      "start": 138.2,
+      "end": 139.2
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 139.2,
+      "end": 140.2
+    },
+    {
+      "text": "I'm just doing my job.",
+      "trans": "我是做我的工作。",
+      "start": 140.2,
+      "end": 141.51999999999998
+    },
+    {
+      "text": "No, I think you deserve some recognition here.",
+      "trans": "是的，我认为你在这里应该得到一些认可。",
+      "start": 141.51999999999998,
+      "end": 144.39999999999998
+    },
+    {
+      "text": "I mean, if I look back on your previous presentations, this was a huge improvement.",
+      "trans": "我指的是，如果你回顾一下你之前的演示，这真是一个巨大的进步。",
+      "start": 144.39999999999998,
+      "end": 149.16
+    },
+    {
+      "text": "Well, Kristen did give me a hand with the slides.",
+      "trans": "嗯，肯蒂帮我帮忙准备了幻灯片。",
+      "start": 149.16,
+      "end": 151.6
+    },
+    {
+      "text": "She's a real whiz on PowerPoint.",
+      "trans": "她是一位真正的PowerPoint高手。",
+      "start": 151.6,
+      "end": 153.39999999999998
+    },
+    {
+      "text": "And I saw that you took on board my feedback about pricing strategies.",
+      "trans": "我看到您采纳了我的关于定价策略的意见。",
+      "start": 153.39999999999998,
+      "end": 157.07999999999998
+    },
+    {
+      "text": "I really appreciate you taking the time to think through my suggestions.",
+      "trans": "我非常感谢您花时间考虑我的建议。",
+      "start": 157.07999999999998,
+      "end": 160.2
+    },
+    {
+      "text": "Yeah, well, that was some good advice.",
+      "trans": "是的，嗯，那真是不错的建议。",
+      "start": 160.2,
+      "end": 165.0
+    },
+    {
+      "text": "You made some really good points.",
+      "trans": "您说得非常正确。",
+      "start": 165.0,
+      "end": 167.04
+    },
+    {
+      "text": "Well, I just wanted to say, well done.",
+      "trans": "好的，我只想说，辛苦了。",
+      "start": 167.04,
+      "end": 169.72
+    },
+    {
+      "text": "Really you did a great job.",
+      "trans": "真的你做得很好。",
+      "start": 169.72,
+      "end": 172.48
+    },
+    {
+      "text": "All right, well, it sounds like the employee is a little bit shy or embarrassed by receiving",
+      "trans": "好的，嗯，听起来似乎这个员工有点害羞或尴尬地接受了。",
+      "start": 172.48,
+      "end": 180.79999999999998
+    },
+    {
+      "text": "all of these compliments.",
+      "trans": "这些赞美。",
+      "start": 180.79999999999998,
+      "end": 182.35999999999999
+    },
+    {
+      "text": "Yeah, I guess he's kind of being humble about it.",
+      "trans": "是的，我猜他有点谦虚。",
+      "start": 182.35999999999999,
+      "end": 185.64
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 185.64,
+      "end": 186.64
+    },
+    {
+      "text": "So why don't we move on to the language now?",
+      "trans": "所以为什么不赶紧转到语言了？",
+      "start": 186.64,
+      "end": 188.72
+    },
+    {
+      "text": "There are so many really useful phrases in this dialogue that I think we're just going",
+      "trans": "在对话中有很多非常实用的短语，我认为我们已经达到了这个程度。",
+      "start": 188.72,
+      "end": 193.2
+    },
+    {
+      "text": "to focus on those today.",
+      "trans": "聚焦于今天。",
+      "start": 193.2,
+      "end": 194.79999999999998
+    },
+    {
+      "text": "So let's get started with Fluency Builder.",
+      "trans": "所以，我们先从 Fluent Builder 开始吧。",
+      "start": 194.8,
+      "end": 199.0
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 199.0,
+      "end": 200.0
+    },
+    {
+      "text": "Okay, so today on Fluency Builder, let's start with our first phrase.",
+      "trans": "好的，今天在 Fluent Builder 上，让我们开始我们的第一个短语。",
+      "start": 200.0,
+      "end": 204.4
+    },
+    {
+      "text": "The boss was so impressed with the presentation that he said, I was completely blown away.",
+      "trans": "老板对演示非常印象深刻，他说：“我完全被震撼了。”",
+      "start": 204.4,
+      "end": 211.48000000000002
+    },
+    {
+      "text": "To be completely blown away.",
+      "trans": "要完全被震惊。",
+      "start": 211.48000000000002,
+      "end": 214.04000000000002
+    },
+    {
+      "text": "Okay, so to be completely blown away.",
+      "trans": "好的，所以完全被震惊了。",
+      "start": 214.04000000000002,
+      "end": 217.72000000000003
+    },
+    {
+      "text": "Or to be blown away.",
+      "trans": "或者被吹得东倒西歪。",
+      "start": 217.72000000000003,
+      "end": 219.48000000000002
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 219.48000000000002,
+      "end": 220.48000000000002
+    },
+    {
+      "text": "So what does that mean to be blown away?",
+      "trans": "所以，这到底意味着什么？",
+      "start": 220.48000000000002,
+      "end": 223.48000000000002
+    },
+    {
+      "text": "To be surprised and amazed, but in a very positive way.",
+      "trans": "要被惊讶和感动，但又非常积极地看待。",
+      "start": 223.48,
+      "end": 227.95999999999998
+    },
+    {
+      "text": "Okay, so I can say, I'm surprised, I'm amazed, but I'm still not very clear on this.",
+      "trans": "好的，所以我说，我惊讶，我很惊讶，但我还是不清楚这个。",
+      "start": 227.95999999999998,
+      "end": 234.04
+    },
+    {
+      "text": "Why don't we listen to a couple of examples of how we could use this phrase?",
+      "trans": "为什么我们不听听几个例子，如何用这个短语呢？",
+      "start": 234.04,
+      "end": 239.2
+    },
+    {
+      "text": "Example one.",
+      "trans": "例子一。",
+      "start": 239.2,
+      "end": 242.39999999999998
+    },
+    {
+      "text": "Carl blew me away with his knowledge of political science.",
+      "trans": "卡尔让我大吃一惊，他对中国政治科学的知识了如指掌。",
+      "start": 242.39999999999998,
+      "end": 247.72
+    },
+    {
+      "text": "Example two.",
+      "trans": "这个例子。",
+      "start": 247.72,
+      "end": 248.72
+    },
+    {
+      "text": "I was blown away when I heard that Jenny and Rick had gotten married.",
+      "trans": "听到Jenny和Rick结婚的消息，我被深深地吸引住了。",
+      "start": 249.72,
+      "end": 253.52
+    },
+    {
+      "text": "They've known each other for less than a month.",
+      "trans": "他们已经认识不到一个月。",
+      "start": 253.52,
+      "end": 257.4
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 257.4,
+      "end": 260.92
+    },
+    {
+      "text": "My parents were blown away when they found out I had a tattoo.",
+      "trans": "我的父母被我有 Tattoo 打印的图案所震惊。",
+      "start": 260.92,
+      "end": 265.0
+    },
+    {
+      "text": "Okay, so I think that's a little bit clearer now.",
+      "trans": "好的，所以我认为现在稍微清晰一些。",
+      "start": 265.0,
+      "end": 267.68
+    },
+    {
+      "text": "And this is a wonderful way to give your praise to someone when they do something really",
+      "trans": "这是赞美别人时用得非常好的方式。",
+      "start": 267.68,
+      "end": 272.64
+    },
+    {
+      "text": "amazing.",
+      "trans": "很赞。",
+      "start": 272.64,
+      "end": 273.64
+    },
+    {
+      "text": "Okay, so completely blown away.",
+      "trans": "好的，完全被震惊了。",
+      "start": 273.64,
+      "end": 275.72
+    },
+    {
+      "text": "You blew me away.",
+      "trans": "您让我大吃一惊。",
+      "start": 275.72,
+      "end": 277.04
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 277.04,
+      "end": 278.04
+    },
+    {
+      "text": "Now what about our second word?",
+      "trans": "现在我们第二句话是什么？",
+      "start": 278.04,
+      "end": 279.32
+    },
+    {
+      "text": "Well, it's quite similar.",
+      "trans": "很好，它和很相似。",
+      "start": 279.32,
+      "end": 280.96000000000004
+    },
+    {
+      "text": "The boss said that you really wowed me.",
+      "trans": "老板说，你真的让我震惊了。",
+      "start": 280.96000000000004,
+      "end": 284.96000000000004
+    },
+    {
+      "text": "You wowed me.",
+      "trans": "我被你的表现所打动。",
+      "start": 284.96000000000004,
+      "end": 285.96000000000004
+    },
+    {
+      "text": "To wow someone.",
+      "trans": "要惊吓某人。",
+      "start": 285.96000000000004,
+      "end": 287.56
+    },
+    {
+      "text": "Okay, so it spelled W-O-W-W.",
+      "trans": "好的，所以是 \"W-OW-WO-W\"。",
+      "start": 287.56,
+      "end": 290.68
+    },
+    {
+      "text": "So when you wow someone, you make that person go, wow.",
+      "trans": "所以当你让别人感到惊讶，你让他们也感到惊讶。",
+      "start": 290.68,
+      "end": 294.16
+    },
+    {
+      "text": "Okay, so you impress somebody.",
+      "trans": "好的，你让别人感到印象深刻。",
+      "start": 294.16,
+      "end": 296.72
+    },
+    {
+      "text": "To wow someone.",
+      "trans": "要惊吓某人。",
+      "start": 296.72,
+      "end": 297.8
+    },
+    {
+      "text": "I can use it as a verb.",
+      "trans": "我可以作为动词使用。",
+      "start": 297.8,
+      "end": 299.12
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 299.12,
+      "end": 300.12
+    },
+    {
+      "text": "Wowed me.",
+      "trans": "我被深深打动。",
+      "start": 300.12,
+      "end": 301.12
+    },
+    {
+      "text": "I want to wow you.",
+      "trans": "我要让你震惊。",
+      "start": 301.12,
+      "end": 302.12
+    },
+    {
+      "text": "Well, I want you to wow me.",
+      "trans": "很好，我想让你大吃一惊。",
+      "start": 302.12,
+      "end": 303.36
+    },
+    {
+      "text": "Okay, so wow.",
+      "trans": "好的，所以哇。",
+      "start": 303.36,
+      "end": 305.28000000000003
+    },
+    {
+      "text": "Now let's take a look at our third phrase.",
+      "trans": "现在让我们看看我们的第三句话。",
+      "start": 305.28000000000003,
+      "end": 307.64000000000004
+    },
+    {
+      "text": "The guy, he's a little bit shy.",
+      "trans": "这个家伙，他有点害羞。",
+      "start": 307.64,
+      "end": 309.4
+    },
+    {
+      "text": "He's trying to be a little bit humble about receiving so many compliments.",
+      "trans": "他正在试图谦虚一点，接受这么多夸奖。",
+      "start": 309.4,
+      "end": 313.64
+    },
+    {
+      "text": "So he says, oh, it was nothing.",
+      "trans": "所以他说，哦，没什么。",
+      "start": 313.64,
+      "end": 316.08
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 316.08,
+      "end": 317.08
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 317.08,
+      "end": 318.08
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 318.08,
+      "end": 319.08
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 319.08,
+      "end": 320.08
+    },
+    {
+      "text": "So that's the way of saying it wasn't hard or it's not a big deal.",
+      "trans": "所以，这就是说它并不难或者不是大不了。",
+      "start": 320.08,
+      "end": 322.8
+    },
+    {
+      "text": "It's not that important.",
+      "trans": "是的，它并不重要。",
+      "start": 322.8,
+      "end": 323.96
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 323.96,
+      "end": 324.96
+    },
+    {
+      "text": "So if somebody's saying, wow, thank you so much for lending me your car.",
+      "trans": "所以，如果有人这么说：“哇，谢谢你这么好心地借给我你的车。”",
+      "start": 324.96,
+      "end": 328.2
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 328.2,
+      "end": 329.2
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 329.2,
+      "end": 330.2
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 330.2,
+      "end": 331.2
+    },
+    {
+      "text": "It's a polite way actually to respond to a nice compliment.",
+      "trans": "是礼貌的方式，实际上应该回应一个友好的 compliment。",
+      "start": 331.2,
+      "end": 334.76
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 334.76,
+      "end": 335.76
+    },
+    {
+      "text": "We move on to our next phrase.",
+      "trans": "我们转向下一个句子。",
+      "start": 335.76,
+      "end": 338.0
+    },
+    {
+      "text": "Let's listen to a couple of examples with it was nothing.",
+      "trans": "让我们听听这句是啥。",
+      "start": 338.0,
+      "end": 342.56
+    },
+    {
+      "text": "Example one.",
+      "trans": "Example one. 例一。",
+      "start": 342.56,
+      "end": 344.56
+    },
+    {
+      "text": "Thanks for lending me your car this week.",
+      "trans": "非常感谢您上周借给我您的车。",
+      "start": 344.56,
+      "end": 346.15999999999997
+    },
+    {
+      "text": "I really appreciate it.",
+      "trans": "我非常感谢。",
+      "start": 346.15999999999997,
+      "end": 347.76
+    },
+    {
+      "text": "It's okay really.",
+      "trans": "很好。",
+      "start": 347.76,
+      "end": 348.76
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 348.76,
+      "end": 351.4
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 351.4,
+      "end": 353.84
+    },
+    {
+      "text": "I can't believe you organized the surprise birthday party.",
+      "trans": "我无法相信你组织了惊喜的生日派对。",
+      "start": 353.84,
+      "end": 356.88
+    },
+    {
+      "text": "Thank you so much.",
+      "trans": "非常感谢。",
+      "start": 356.88,
+      "end": 358.24
+    },
+    {
+      "text": "Don't worry about it.",
+      "trans": "不要担心。",
+      "start": 358.24,
+      "end": 359.24
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 359.24,
+      "end": 361.24
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 361.24,
+      "end": 362.24
+    },
+    {
+      "text": "So I think that's pretty clear.",
+      "trans": "所以我认为这是很清楚的。",
+      "start": 362.24,
+      "end": 364.32
+    },
+    {
+      "text": "Now our final phrase here for Fluency Builder, the employee said that Kirsten gave him a",
+      "trans": "现在我们的最后一句话，员工说：“克里斯坦德罗给了我。”",
+      "start": 364.32,
+      "end": 370.59999999999997
+    },
+    {
+      "text": "hand.",
+      "trans": "手 (zhǐ) in Chinese is \"手\" or \"手部\" (手の部) .",
+      "start": 370.59999999999997,
+      "end": 371.59999999999997
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 371.59999999999997,
+      "end": 372.59999999999997
+    },
+    {
+      "text": "So to give someone a hand.",
+      "trans": "所以要帮助某人。",
+      "start": 372.59999999999997,
+      "end": 374.52
+    },
+    {
+      "text": "Give me a hand.",
+      "trans": "请给我一个手。",
+      "start": 374.52,
+      "end": 375.52
+    },
+    {
+      "text": "Give me a hand.",
+      "trans": "请给我一个手。",
+      "start": 375.52,
+      "end": 377.0
+    },
+    {
+      "text": "Basically to help someone.",
+      "trans": "基本来说，帮助别人。",
+      "start": 377.0,
+      "end": 378.24
+    },
+    {
+      "text": "Help me or assist me.",
+      "trans": "请帮助我或协助我。",
+      "start": 378.24,
+      "end": 380.04
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 380.04,
+      "end": 381.03999999999996
+    },
+    {
+      "text": "So to help someone, give me a hand or let me give you a hand.",
+      "trans": "所以，帮助别人，给我一个手或者让你给我一个手。",
+      "start": 381.03999999999996,
+      "end": 384.92
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 384.92,
+      "end": 385.92
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 385.92,
+      "end": 386.92
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 386.92,
+      "end": 387.92
+    },
+    {
+      "text": "So great phrases in Fluency Builder today.",
+      "trans": "所以今天 Fluent Builder 的好短语。",
+      "start": 387.92,
+      "end": 389.4
+    },
+    {
+      "text": "I think it's time for us to listen to the dialogue for the second time.",
+      "trans": "我认为我们有必要再次倾听对话。",
+      "start": 389.4,
+      "end": 393.6
+    },
+    {
+      "text": "We're going to slow it down a little bit so we can catch all these phrases and then we'll",
+      "trans": "我们将稍微减速一下，以便我们可以捕捉到这些短语，并然后……",
+      "start": 393.6,
+      "end": 397.64000000000004
+    },
+    {
+      "text": "come back.",
+      "trans": "返回。",
+      "start": 397.64000000000004,
+      "end": 404.64000000000004
+    },
+    {
+      "text": "And so that concludes my outline for our marketing strategy for next year.",
+      "trans": "所以，这个概述涵盖了我们明年营销策略的框架。",
+      "start": 404.64000000000004,
+      "end": 409.92
+    },
+    {
+      "text": "Thank you very much for your time.",
+      "trans": "非常感谢您的时间。",
+      "start": 409.92,
+      "end": 411.88
+    },
+    {
+      "text": "Hey, that was quite the presentation.",
+      "trans": "你好，那真是个精彩的演示。",
+      "start": 411.88,
+      "end": 415.52000000000004
+    },
+    {
+      "text": "Honestly, I was completely blown away by your strategy outline.",
+      "trans": "说实话，我对你的战略规划方案简直无法用言语形容。",
+      "start": 415.52000000000004,
+      "end": 420.44
+    },
+    {
+      "text": "I've got to say, Alex, you really wild me today.",
+      "trans": "我得说，阿历克斯，今天你真的很疯狂。",
+      "start": 420.6,
+      "end": 424.76
+    },
+    {
+      "text": "Ah, come on.",
+      "trans": "是的，快过来。",
+      "start": 424.76,
+      "end": 426.92
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 426.92,
+      "end": 427.92
+    },
+    {
+      "text": "I'm just doing my job.",
+      "trans": "我是做我的工作。",
+      "start": 427.92,
+      "end": 429.84
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 429.84,
+      "end": 430.84
+    },
+    {
+      "text": "I think you deserve some recognition here.",
+      "trans": "我认为你在这里应该得到一些认可。",
+      "start": 430.84,
+      "end": 433.64
+    },
+    {
+      "text": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+      "trans": "我指的是，如果你回顾一下你之前的演示稿，这是一次巨大的进步。",
+      "start": 433.64,
+      "end": 439.88
+    },
+    {
+      "text": "Well, Kristin did give me a hand with the slides.",
+      "trans": "好的，Kristin 为我提供了帮助。",
+      "start": 439.88,
+      "end": 443.68
+    },
+    {
+      "text": "She's a real whiz on PowerPoint.",
+      "trans": "她是一位真正的PowerPoint高手。",
+      "start": 443.68,
+      "end": 446.2
+    },
+    {
+      "text": "And I saw that you took on board my feedback about pricing strategies.",
+      "trans": "我看到你采纳了我的关于定价策略的意见。",
+      "start": 446.2,
+      "end": 451.24
+    },
+    {
+      "text": "I really appreciate you taking the time to think through my suggestions.",
+      "trans": "我非常感谢您花时间考虑我的建议。",
+      "start": 451.24,
+      "end": 455.47999999999996
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 455.47999999999996,
+      "end": 456.47999999999996
+    },
+    {
+      "text": "Well, that was some good advice.",
+      "trans": "好的，那真是不错的建议。",
+      "start": 456.47999999999996,
+      "end": 458.96
+    },
+    {
+      "text": "You made some really good points.",
+      "trans": "您说得非常正确。",
+      "start": 458.96,
+      "end": 461.15999999999997
+    },
+    {
+      "text": "Well, I just wanted to say, well done.",
+      "trans": "好的，我只想说，辛苦了。",
+      "start": 461.15999999999997,
+      "end": 465.03999999999996
+    },
+    {
+      "text": "Really, you did a great job.",
+      "trans": "真的，你做得很好。",
+      "start": 465.03999999999996,
+      "end": 468.03999999999996
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 468.03999999999996,
+      "end": 469.03999999999996
+    },
+    {
+      "text": "So like we said before, there's a lot of really helpful phrases in here.",
+      "trans": "所以，就像我们之前说的那样，在这里有很多非常有用的短语。",
+      "start": 469.03999999999996,
+      "end": 475.96
+    },
+    {
+      "text": "And we're going to look at a few more of these in putting it together.",
+      "trans": "我们将对这些进行一些进一步的处理。",
+      "start": 475.96,
+      "end": 481.76
+    },
+    {
+      "text": "Putting it together.",
+      "trans": "将它组装起来。",
+      "start": 481.76,
+      "end": 483.28
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 483.28,
+      "end": 484.28
+    },
+    {
+      "text": "So let's start with the first phrase.",
+      "trans": "所以，让我们从第一个短语开始。",
+      "start": 484.28,
+      "end": 487.35999999999996
+    },
+    {
+      "text": "The boss was quite impressed with him.",
+      "trans": "老板对他说得非常满意。",
+      "start": 487.35999999999996,
+      "end": 490.0
+    },
+    {
+      "text": "And he said, that was quite the presentation.",
+      "trans": "他说，那真是一个精彩的演示。",
+      "start": 490.0,
+      "end": 493.32
+    },
+    {
+      "text": "That was quite the presentation.",
+      "trans": "那真是一个精彩的演示。",
+      "start": 493.32,
+      "end": 495.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 495.0,
+      "end": 496.0
+    },
+    {
+      "text": "Quite the presentation.",
+      "trans": "很精彩的演示。",
+      "start": 496.0,
+      "end": 497.52
+    },
+    {
+      "text": "So this phrase, quite the presentation, it means it was good, right?",
+      "trans": "所以这句话，可以说是一种展示，它意味着确实很好，对吗？",
+      "start": 497.52,
+      "end": 502.76
+    },
+    {
+      "text": "It was special.",
+      "trans": "是特别的。",
+      "start": 502.76,
+      "end": 503.76
+    },
+    {
+      "text": "It was very good.",
+      "trans": "很好。",
+      "start": 503.76,
+      "end": 505.0
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 505.0,
+      "end": 506.0
+    },
+    {
+      "text": "Now we can take the noun presentation out and replace it with any other noun.",
+      "trans": "现在我们可以把名词展示替换为任何其他名词。",
+      "start": 506.0,
+      "end": 510.56
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 510.56,
+      "end": 511.56
+    },
+    {
+      "text": "So I can say, Bob is quite the basketball player.",
+      "trans": "所以我说，鲍勃确实是一名篮球运动员。",
+      "start": 511.56,
+      "end": 515.0
+    },
+    {
+      "text": "Mm-hmm.",
+      "trans": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。",
+      "start": 515.0,
+      "end": 516.0
+    },
+    {
+      "text": "Why don't we listen now for a few more examples?",
+      "trans": "为什么我们不先听听几个例子？",
+      "start": 516.0,
+      "end": 519.72
+    },
+    {
+      "text": "Example one.",
+      "trans": "Example one. 例一。",
+      "start": 519.72,
+      "end": 522.32
+    },
+    {
+      "text": "I heard you are quite the dancer.",
+      "trans": "我听说你是一位出色的舞蹈家。",
+      "start": 522.32,
+      "end": 524.12
+    },
+    {
+      "text": "Can you teach me some moves?",
+      "trans": "可以教我一些招式吗？",
+      "start": 524.12,
+      "end": 528.12
+    },
+    {
+      "text": "Example two.",
+      "trans": "例子二。",
+      "start": 528.12,
+      "end": 531.12
+    },
+    {
+      "text": "So the boss was quite the ladies man.",
+      "trans": "所以老板是个漂亮的女人。",
+      "start": 531.12,
+      "end": 532.5600000000001
+    },
+    {
+      "text": "He is very good when it comes to talking to girls.",
+      "trans": "他说话时非常擅长与女生交谈。",
+      "start": 532.5600000000001,
+      "end": 537.0
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 537.0,
+      "end": 540.44
+    },
+    {
+      "text": "Nancy is quite gifted at math.",
+      "trans": "尼可尔在数学方面很有天赋。",
+      "start": 540.44,
+      "end": 542.36
+    },
+    {
+      "text": "She can solve any math problem you give her.",
+      "trans": "她能解决你给她的任何数学问题。",
+      "start": 542.36,
+      "end": 546.76
+    },
+    {
+      "text": "So you're saying in a very good way that something is very good or very special.",
+      "trans": "所以你说得很客气，说某事非常好或特别。",
+      "start": 546.76,
+      "end": 551.92
+    },
+    {
+      "text": "Or special or very special.",
+      "trans": "或者特别或非常特别。",
+      "start": 551.92,
+      "end": 552.92
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 552.92,
+      "end": 553.92
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 553.92,
+      "end": 554.92
+    },
+    {
+      "text": "So the boss was very impressed with the employee.",
+      "trans": "所以老板对员工非常满意。",
+      "start": 554.92,
+      "end": 556.44
+    },
+    {
+      "text": "Like he said, and I saw that you took on board my feedback.",
+      "trans": "像他说的，我看到你接受了我的反馈。",
+      "start": 556.44,
+      "end": 561.0
+    },
+    {
+      "text": "To take on board my feedback.",
+      "trans": "要接受我的反馈。",
+      "start": 561.0,
+      "end": 563.4000000000001
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 563.4000000000001,
+      "end": 564.4000000000001
+    },
+    {
+      "text": "So take on board something.",
+      "trans": "所以要认真对待。",
+      "start": 564.4000000000001,
+      "end": 566.84
+    },
+    {
+      "text": "So here my feedback is my suggestions, right?",
+      "trans": "所以，我的反馈是我的建议，对吗？",
+      "start": 566.84,
+      "end": 571.1600000000001
+    },
+    {
+      "text": "And when you take on board my feedback, you accept my feedback and you use it.",
+      "trans": "当您接受我的反馈，您也接受了我的反馈，并且使用了它。",
+      "start": 571.1600000000001,
+      "end": 577.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 577.6,
+      "end": 578.6
+    },
+    {
+      "text": "So I can say for example, I want you to take on board my ideas.",
+      "trans": "所以，我可以说，例如，我希望你接受我的想法。",
+      "start": 578.6,
+      "end": 585.0400000000001
+    },
+    {
+      "text": "For Jenny took on board a few of my suggestions.",
+      "trans": "对于詹妮接受了我的一些建议。",
+      "start": 585.04,
+      "end": 588.24
+    },
+    {
+      "text": "I was really happy.",
+      "trans": "我真的很高兴。",
+      "start": 588.24,
+      "end": 589.4
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 589.4,
+      "end": 590.4
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 590.4,
+      "end": 591.4
+    },
+    {
+      "text": "So to take on board, to accept and use.",
+      "trans": "所以要接受，要承认和使用。",
+      "start": 591.4,
+      "end": 593.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的。",
+      "start": 593.0,
+      "end": 594.0
+    },
+    {
+      "text": "So take on board feedback.",
+      "trans": "所以要认真听取反馈。",
+      "start": 594.0,
+      "end": 595.0
+    },
+    {
+      "text": "Take on board suggestion.",
+      "trans": "请接受建议。",
+      "start": 595.0,
+      "end": 596.5999999999999
+    },
+    {
+      "text": "Take on board ideas.",
+      "trans": "请接受意见。",
+      "start": 596.5999999999999,
+      "end": 598.1999999999999
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 598.1999999999999,
+      "end": 599.1999999999999
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 599.1999999999999,
+      "end": 600.1999999999999
+    },
+    {
+      "text": "And we have one more phrase I'm putting it together today to think something through.",
+      "trans": "今天我将准备的这句话整理一下，想听听大家的看法。",
+      "start": 600.1999999999999,
+      "end": 605.12
+    },
+    {
+      "text": "To think it through.",
+      "trans": "要深思熟虑。",
+      "start": 605.12,
+      "end": 606.52
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 606.52,
+      "end": 607.52
+    },
+    {
+      "text": "So think it through.",
+      "trans": "所以想想。",
+      "start": 607.52,
+      "end": 609.3199999999999
+    },
+    {
+      "text": "So here the boss said that he took the time to think through my suggestions.",
+      "trans": "所以，这个老板说他花了一些时间来思考我的建议。",
+      "start": 609.3199999999999,
+      "end": 614.56
+    },
+    {
+      "text": "So think through what does that mean?",
+      "trans": "所以想一想，那意味着什么？",
+      "start": 614.56,
+      "end": 616.68
+    },
+    {
+      "text": "To think carefully about all of the details of something.",
+      "trans": "要仔细考虑这个事物的所有细节。",
+      "start": 616.68,
+      "end": 620.64
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 620.64,
+      "end": 621.64
+    },
+    {
+      "text": "So to take into consideration all the aspects.",
+      "trans": "所以要考虑到所有的方面。",
+      "start": 621.64,
+      "end": 624.8
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 624.8,
+      "end": 625.8
+    },
+    {
+      "text": "So why don't we give an example?",
+      "trans": "所以为什么不给你一个例子？",
+      "start": 625.8,
+      "end": 628.28
+    },
+    {
+      "text": "If you're thinking through a plan, right?",
+      "trans": "如果您正在考虑一个计划，是的。",
+      "start": 628.28,
+      "end": 630.8399999999999
+    },
+    {
+      "text": "You don't just think about the end.",
+      "trans": "您不只思考着结尾。",
+      "start": 630.8399999999999,
+      "end": 632.76
+    },
+    {
+      "text": "The outcome.",
+      "trans": "结果。",
+      "start": 632.76,
+      "end": 633.76
+    },
+    {
+      "text": "You want to think about all of the small details, the steps in that plan.",
+      "trans": "您想考虑所有的小细节，这个计划中的每一个步骤。",
+      "start": 633.76,
+      "end": 638.0799999999999
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 638.0799999999999,
+      "end": 639.0799999999999
+    },
+    {
+      "text": "So maybe I want to buy a new car, but it's a lot of money.",
+      "trans": "所以，我可能想要买一辆新车，但价格很高。",
+      "start": 639.0799999999999,
+      "end": 642.4399999999999
+    },
+    {
+      "text": "So I really have to think it through.",
+      "trans": "所以，我真的必须好好考虑一下。",
+      "start": 642.44,
+      "end": 644.8000000000001
+    },
+    {
+      "text": "So you have to think carefully about everything that is involved in buying the new car.",
+      "trans": "所以，你必须仔细考虑涉及购买新车的所有事情。",
+      "start": 644.8000000000001,
+      "end": 650.2
+    },
+    {
+      "text": "All the money you're going to have to not spend on parties.",
+      "trans": "所有你将要花费在派对上的钱。",
+      "start": 650.2,
+      "end": 654.5200000000001
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 654.5200000000001,
+      "end": 655.5200000000001
+    },
+    {
+      "text": "You have to think it through.",
+      "trans": "您必须考虑一下。",
+      "start": 655.5200000000001,
+      "end": 656.5200000000001
+    },
+    {
+      "text": "You have to analyze it very carefully.",
+      "trans": "您必须仔细分析它。",
+      "start": 656.5200000000001,
+      "end": 658.6800000000001
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 658.6800000000001,
+      "end": 659.6800000000001
+    },
+    {
+      "text": "So let's give a few examples of how we can use this phrase.",
+      "trans": "所以，让我们举几个例子来展示如何使用这个短语。",
+      "start": 659.6800000000001,
+      "end": 661.8800000000001
+    },
+    {
+      "text": "Hey, Marco, have you thought through my suggestions?",
+      "trans": "你好，马科，你考虑过我的建议了吗？",
+      "start": 661.8800000000001,
+      "end": 665.48
+    },
+    {
+      "text": "I can say you guys are very young.",
+      "trans": "我可以说你们年轻人很年轻。",
+      "start": 665.48,
+      "end": 667.0
+    },
+    {
+      "text": "I think you should think it through before you get married.",
+      "trans": "我认为在结婚之前，你应该先考虑清楚。",
+      "start": 667.0,
+      "end": 669.6800000000001
+    },
+    {
+      "text": "Good advice.",
+      "trans": "好的建议。",
+      "start": 669.6800000000001,
+      "end": 670.6800000000001
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 670.6800000000001,
+      "end": 671.6800000000001
+    },
+    {
+      "text": "Get through.",
+      "trans": "通过。",
+      "start": 671.68,
+      "end": 672.68
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 672.68,
+      "end": 673.68
+    },
+    {
+      "text": "So three great phrases.",
+      "trans": "所以三个伟大的短语。",
+      "start": 673.68,
+      "end": 675.0799999999999
+    },
+    {
+      "text": "And why don't we hear them one more time in our dialogue?",
+      "trans": "我们为什么不重复听他们呢？",
+      "start": 675.0799999999999,
+      "end": 682.9599999999999
+    },
+    {
+      "text": "And so that concludes my outline for our marketing strategy next year.",
+      "trans": "所以，这个年的营销策略概要结束。",
+      "start": 682.9599999999999,
+      "end": 687.0799999999999
+    },
+    {
+      "text": "Thank you very much for your time.",
+      "trans": "非常感谢您的时间。",
+      "start": 687.0799999999999,
+      "end": 689.7199999999999
+    },
+    {
+      "text": "Hey, that was quite the presentation.",
+      "trans": "你好，那真是个精彩的演示。",
+      "start": 689.7199999999999,
+      "end": 694.5999999999999
+    },
+    {
+      "text": "Honestly, I was completely blown away by your strategy outline.",
+      "trans": "说实话，我对你的战略规划方案简直无法用言语形容。",
+      "start": 694.5999999999999,
+      "end": 698.56
+    },
+    {
+      "text": "I've got to say, Alex, you really wowed me today.",
+      "trans": "我必须说，阿历克斯，你今天真的很让我佩服。",
+      "start": 698.56,
+      "end": 702.0
+    },
+    {
+      "text": "Ah, come on.",
+      "trans": "是的，快过来。",
+      "start": 702.0,
+      "end": 703.0
+    },
+    {
+      "text": "It was nothing.",
+      "trans": "是啥。",
+      "start": 703.0,
+      "end": 704.0
+    },
+    {
+      "text": "I'm just doing my job.",
+      "trans": "我是做我的工作。",
+      "start": 704.0,
+      "end": 705.4
+    },
+    {
+      "text": "No, I think you deserve some recognition here.",
+      "trans": "是的，我认为你在这里应该得到一些认可。",
+      "start": 705.4,
+      "end": 708.28
+    },
+    {
+      "text": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+      "trans": "我指的是，如果你回顾一下你之前的演示稿，这是一个巨大的进步。",
+      "start": 708.28,
+      "end": 713.1199999999999
+    },
+    {
+      "text": "Well, Kristen did give me a hand with the slides.",
+      "trans": "嗯，肯蒂帮我帮忙准备了幻灯片。",
+      "start": 713.1199999999999,
+      "end": 715.4799999999999
+    },
+    {
+      "text": "She's a real whiz on PowerPoint.",
+      "trans": "她是一位真正的PowerPoint高手。",
+      "start": 715.4799999999999,
+      "end": 717.28
+    },
+    {
+      "text": "And I saw that you took on board my feedback about pricing strategies.",
+      "trans": "我看到您采纳了我的关于定价策略的意见。",
+      "start": 717.28,
+      "end": 720.9599999999999
+    },
+    {
+      "text": "I really appreciate you taking the time to think through my suggestions.",
+      "trans": "我非常感谢您花时间考虑我的建议。",
+      "start": 720.9599999999999,
+      "end": 724.0799999999999
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 724.0799999999999,
+      "end": 725.0799999999999
+    },
+    {
+      "text": "Well, that was some good advice.",
+      "trans": "好的，那真是不错的建议。",
+      "start": 725.0799999999999,
+      "end": 727.8399999999999
+    },
+    {
+      "text": "You made some really good points.",
+      "trans": "您说得非常正确。",
+      "start": 728.84,
+      "end": 730.6800000000001
+    },
+    {
+      "text": "Well, I just wanted to say well done.",
+      "trans": "很好，我只是想说辛苦了。",
+      "start": 730.6800000000001,
+      "end": 733.6
+    },
+    {
+      "text": "Really, you did a great job.",
+      "trans": "真的，你做得很好。",
+      "start": 733.6,
+      "end": 737.6800000000001
+    },
+    {
+      "text": "Okay, great dialogue and some interesting phrases for giving praise, right?",
+      "trans": "好的，好的对话和一些有趣的表达方式来给赞美，对吗？",
+      "start": 737.6800000000001,
+      "end": 745.6
+    },
+    {
+      "text": "That's, I think, very important in the workplace.",
+      "trans": "这句话的中文翻译是：",
+      "start": 745.6,
+      "end": 747.9200000000001
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 747.9200000000001,
+      "end": 748.9200000000001
+    },
+    {
+      "text": "And you know what?",
+      "trans": "您知道吗？",
+      "start": 748.9200000000001,
+      "end": 749.9200000000001
+    },
+    {
+      "text": "I read recently that something like six out of every ten employees don't get regular",
+      "trans": "我最近读到，像六成员工都没有定期得到的待遇。",
+      "start": 749.9200000000001,
+      "end": 755.2800000000001
+    },
+    {
+      "text": "praise from their boss.",
+      "trans": "赞扬来自他们的老板。",
+      "start": 755.2800000000001,
+      "end": 756.52
+    },
+    {
+      "text": "Yeah, it's very important.",
+      "trans": "是的，非常重要。",
+      "start": 757.0,
+      "end": 758.3199999999999
+    },
+    {
+      "text": "And in some cultures, well, it's not very common to praise or to give positive feedback",
+      "trans": "在一些文化中，嗯，这并不常见表扬或给予积极反馈。",
+      "start": 758.3199999999999,
+      "end": 764.4
+    },
+    {
+      "text": "to their employees.",
+      "trans": "将“to their employees”翻译成中文是：“对他们员工来说。”",
+      "start": 764.4,
+      "end": 765.4
+    },
+    {
+      "text": "Yeah, but I think for Western employees, actually, it's really important and it helps them work harder.",
+      "trans": "是的，但我认为对于西方员工来说，实际上是非常重要的，并且有助于他们工作更努力。",
+      "start": 765.4,
+      "end": 771.84
+    },
+    {
+      "text": "The more, the more times they hear job well done.",
+      "trans": "听到工作做得很好，他们就更愿意重复。",
+      "start": 771.84,
+      "end": 775.6
+    },
+    {
+      "text": "Yeah, very good.",
+      "trans": "是的，很好。",
+      "start": 775.6,
+      "end": 776.8
+    },
+    {
+      "text": "So now you have the tools that maybe you can use with your employees or with your friends.",
+      "trans": "所以现在你可能已经拥有了与你的员工或朋友共享的工具。",
+      "start": 776.8,
+      "end": 782.04
+    },
+    {
+      "text": "With your friends.",
+      "trans": "你的朋友。",
+      "start": 782.04,
+      "end": 783.04
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 783.04,
+      "end": 784.04
+    },
+    {
+      "text": "Okay, so if you have any questions, comments or doubts, please come to our website.",
+      "trans": "好的，如果有任何问题、评论或疑虑，请访问我们的网站。",
+      "start": 784.04,
+      "end": 786.48
+    },
+    {
+      "text": "EnglishPod.com.",
+      "trans": "中文名：英语播客。",
+      "start": 786.48,
+      "end": 787.48
+    },
+    {
+      "text": "Yep.",
+      "trans": "是。",
+      "start": 787.48,
+      "end": 788.48
+    },
+    {
+      "text": "Marco and I are always around to help you out.",
+      "trans": "马科和我总是愿意帮助你。",
+      "start": 788.48,
+      "end": 791.0
+    },
+    {
+      "text": "So until next time, thanks for listening and goodbye.",
+      "trans": "所以直到下次，谢谢你的倾听，再见。",
+      "start": 791.0,
+      "end": 795.24
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 795.24,
+      "end": 796.24
+    }
+  ]
+}

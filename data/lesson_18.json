@@ -1,0 +1,774 @@
+{
+  "title": "englishpod_D0018pb",
+  "audio": "./assets/englishpod_D0018pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone, welcome to EnglishPod. My name is Marco.",
+      "trans": "大家好，欢迎来到英语播客。我的名字是马科。",
+      "start": 0.0,
+      "end": 4.5600000000000005
+    },
+    {
+      "text": "And I'm Erica.",
+      "trans": "我是艾瑞克。",
+      "start": 4.5600000000000005,
+      "end": 5.68
+    },
+    {
+      "text": "And today with Erica, we have a very aggressive lesson for you today.",
+      "trans": "今天，我和埃里卡一起，今天对我们来说是一个非常激烈的课程。",
+      "start": 5.68,
+      "end": 10.56
+    },
+    {
+      "text": "That's true. We've got a revolutionary lesson.",
+      "trans": "这句话的中文翻译是：",
+      "start": 10.56,
+      "end": 13.84
+    },
+    {
+      "text": "Yes. Today at EnglishPod, we're protesting.",
+      "trans": "是的。今天在英语播客上，我们抗议。",
+      "start": 13.84,
+      "end": 16.6
+    },
+    {
+      "text": "So Erica, why don't you tell us what a protest is?",
+      "trans": "所以艾瑞克，你为什么不告诉我什么是抗议？",
+      "start": 16.6,
+      "end": 20.080000000000002
+    },
+    {
+      "text": "Well, when you protest something, you go into the streets and show your disagreement.",
+      "trans": "嗯，当你抗议某事时，你走上街头，并展示你的反对意见。",
+      "start": 20.080000000000002,
+      "end": 27.36
+    },
+    {
+      "text": "Right. And you yell and you have signs and everyone's just protesting.",
+      "trans": "正确。你大声喊叫，你有标志，每个人都在抗议。",
+      "start": 27.439999999999998,
+      "end": 32.8
+    },
+    {
+      "text": "And the news comes. And if it's not clear now, it'll be clear after the dialogue.",
+      "trans": "和事实有关。如果现在不清楚，那么在对话中就会清楚起来。",
+      "start": 32.8,
+      "end": 38.16
+    },
+    {
+      "text": "I'm sure. Definitely. Definitely. So why don't we start with our vocabulary preview?",
+      "trans": "我肯定。当然。当然。所以为什么不先看我们的词汇预览呢？",
+      "start": 38.16,
+      "end": 43.92
+    },
+    {
+      "text": "Vocabulary preview. We have two words in our vocabulary preview today. The first is bankrupt.",
+      "trans": "词汇预览。我们今天在词汇预览中有一词。第一个是破产。",
+      "start": 44.56,
+      "end": 51.68
+    },
+    {
+      "text": "Bankrupt. Bankrupt. Bankrupt. Bankrupt.",
+      "trans": "破产。破产。破产。破产。",
+      "start": 51.68,
+      "end": 55.04
+    },
+    {
+      "text": "So if a company goes bankrupt, what happens?",
+      "trans": "所以如果一家公司破产，会发生什么？",
+      "start": 55.04,
+      "end": 58.0
+    },
+    {
+      "text": "It means the company doesn't have any more money.",
+      "trans": "这句话的中文翻译是：“这意味着这家公司没有更多的钱。”",
+      "start": 58.0,
+      "end": 60.64
+    },
+    {
+      "text": "So it can't pay salaries. It can't pay.",
+      "trans": "所以它不能支付工资。它也不能支付。",
+      "start": 60.64,
+      "end": 62.8
+    },
+    {
+      "text": "Can't pay its bills. Yeah. So basically if it's bankrupt, it's probably going to close.",
+      "trans": "不能还账。嗯，总之，如果破产了，大概率会关闭。",
+      "start": 62.8,
+      "end": 67.84
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 67.84,
+      "end": 68.96
+    },
+    {
+      "text": "Okay, our second word today is bail out.",
+      "trans": "今天我们的第二句话是“放水”。",
+      "start": 68.96,
+      "end": 71.92
+    },
+    {
+      "text": "bail out. bail out. bail out.",
+      "trans": "在中文中，\"bail out\" 的翻译是 \"救赎\" 或 \"挽救\"。例如：",
+      "start": 71.92,
+      "end": 74.88
+    },
+    {
+      "text": "B-A-I-L bail out. So bail out is when the government gives money to a company that is about to go bankrupt.",
+      "trans": "B-A-I-L 担保。因此，担保是政府向正在破产的企业提供资金。",
+      "start": 74.88,
+      "end": 82.88
+    },
+    {
+      "text": "That's true. It's emergency money that will help save the company.",
+      "trans": "这句话的中文翻译是：",
+      "start": 82.88,
+      "end": 86.39999999999999
+    },
+    {
+      "text": "Well, these two words are taken directly from our dialogue.",
+      "trans": "好的，这些两个词直接来自我们的对话。",
+      "start": 86.39999999999999,
+      "end": 90.16
+    },
+    {
+      "text": "And in today's dialogue, we're going to bring you live to a newscast.",
+      "trans": "今天在对话中的内容，我们将带您观看新的新闻节目。",
+      "start": 90.16,
+      "end": 97.11999999999999
+    },
+    {
+      "text": "Right. So why don't we just listen to the dialogue?",
+      "trans": "正确。为什么不就听对话呢？",
+      "start": 97.11999999999999,
+      "end": 99.44
+    },
+    {
+      "text": "This is Action 5 News reporter Sarah O'Connell reporting live from Washington, D.C.,",
+      "trans": "这个是来自华盛顿特区的记者萨拉·奥康纳森现场直播。",
+      "start": 99.84,
+      "end": 115.03999999999999
+    },
+    {
+      "text": "where protests has broken out. Thousands of angry citizens are protesting against the",
+      "trans": "在抗议活动爆发的地方。成千上万的愤怒公民正在抗议中国。",
+      "start": 115.03999999999999,
+      "end": 119.44
+    },
+    {
+      "text": "proposed bailout of the auto manufacturing industry.",
+      "trans": "提出的汽车制造行业的救助计划。",
+      "start": 119.44,
+      "end": 122.88
+    },
+    {
+      "text": "Sir, sir, Sarah O'Connell, tell five news. Can you tell us what's happening?",
+      "trans": "尊敬的先生，女士，萨拉·奥康纳森，请告诉我五个新闻。你能告诉我们发生了什么吗？",
+      "start": 122.88,
+      "end": 127.68
+    },
+    {
+      "text": "Yeah. Yeah. We're here because we feel this is an injustice.",
+      "trans": "是的。是的。我们在这里是因为我们认为这是不公平的。",
+      "start": 127.68,
+      "end": 131.84
+    },
+    {
+      "text": "The financially responsibility of big business has to stop.",
+      "trans": "大企业的财务责任必须停止。",
+      "start": 131.84,
+      "end": 135.92000000000002
+    },
+    {
+      "text": "We're here to show the government that we don't like the way they're spending our tax dollars.",
+      "trans": "我们在这里表明，政府不欢迎他们如何用我们的税收钱。",
+      "start": 135.92000000000002,
+      "end": 140.56
+    },
+    {
+      "text": "Sir, but what exactly is making everyone so angry?",
+      "trans": "尊敬的先生，为什么大家都这么生气呢？",
+      "start": 140.56,
+      "end": 144.08
+    },
+    {
+      "text": "It's an absolute outrage, Sarah. The U.S. government wants to give $25 billion of taxpayers money",
+      "trans": "这是一个绝对的羞辱，莎拉。美国政府希望向纳税人提供250亿美元的财政资金",
+      "start": 144.08,
+      "end": 150.8
+    },
+    {
+      "text": "to the auto industry. These are companies that have been mismanaged and are now nearly bankrupt.",
+      "trans": "这是一家汽车行业的公司。这些是被管理不当的公司，现在已经几乎破产了。",
+      "start": 150.8,
+      "end": 156.4
+    },
+    {
+      "text": "I see. But many supporters of the bailout argue that it could help save the jobs of millions",
+      "trans": "我看到。但许多支持救助计划的拥护者认为这可能有助于拯救数百万个就业岗位。",
+      "start": 156.4,
+      "end": 162.24
+    },
+    {
+      "text": "of hard work in Americans. That may be true. And I for what don't want to see anyone lose their job.",
+      "trans": "美国的勤奋。这可能是真的。我对于什么都不想看到任何人失去工作。",
+      "start": 162.24,
+      "end": 167.28
+    },
+    {
+      "text": "But how can these CEOs ask for a bailout when they're making millions of dollars?",
+      "trans": "但是，这些CEO们为什么要求救援贷款？",
+      "start": 167.28,
+      "end": 171.76
+    },
+    {
+      "text": "And then they have the nerve to fly to Washington in private jets.",
+      "trans": "然后他们有胆量飞到华盛顿去。",
+      "start": 171.76,
+      "end": 175.28
+    },
+    {
+      "text": "This costs hundreds of thousands of dollars. They're asking for money. That is just not right.",
+      "trans": "这个花费了数百万元。他们要求钱。这是完全不对的。",
+      "start": 175.28,
+      "end": 181.52
+    },
+    {
+      "text": "Good point. This is Sarah O'Connell reporting live from Washington DC back to Utah.",
+      "trans": "好的观点。这是萨拉·奥康纳尔现场报道从华盛顿特区回到佛蒙特州的报告。",
+      "start": 181.60000000000002,
+      "end": 186.64000000000001
+    },
+    {
+      "text": "Wow, these people are really angry. I think they're furious.",
+      "trans": "哇，这些人真的很生气。我想他们很愤怒。",
+      "start": 196.08,
+      "end": 199.36
+    },
+    {
+      "text": "Well, I think they have some good points and we'll talk about that later. But now it's time for",
+      "trans": "嗯，我认为他们有一些优点，我们以后再讨论。不过现在该是时候了。",
+      "start": 200.16000000000003,
+      "end": 205.12
+    },
+    {
+      "text": "language takeaway. Language takeaway.",
+      "trans": "语言小贴士。语言小贴士。",
+      "start": 205.20000000000002,
+      "end": 209.04
+    },
+    {
+      "text": "There was some great language in this dialogue. A lot of language we use to express our anger.",
+      "trans": "在这个对话中，有一些很好的语言。我们使用的一些表达我们愤怒的语言很多。",
+      "start": 210.72,
+      "end": 216.0
+    },
+    {
+      "text": "Right. And one of those words and the first one for language takeaway is injustice.",
+      "trans": "正确。其中，那个词和语言取走的第一句话是不公正。",
+      "start": 216.88,
+      "end": 223.12
+    },
+    {
+      "text": "Injustice. Injustice. And injustice. So an injustice is something that isn't fair.",
+      "trans": "在不正义。在不正义。和不正义。所以，不正义就是不公平的事情。",
+      "start": 223.12,
+      "end": 231.44
+    },
+    {
+      "text": "It's totally unfair. It's unfair. Yeah. This is an injustice. Let's look at our second word.",
+      "trans": "它完全不公平。它完全不公平。是的。这是不公平。让我们看看我们的第二个单词。",
+      "start": 231.44,
+      "end": 237.44
+    },
+    {
+      "text": "Outrage. Outrage. Outrage. And outrage. So Erica, why don't you give us an example on how you would use outrage?",
+      "trans": "愤怒。愤怒。愤怒。而且愤怒。所以， Erica，你为什么不给我们一个例子，如何你会用愤怒？",
+      "start": 237.44,
+      "end": 247.12
+    },
+    {
+      "text": "There's no more coffee. This is an outrage. Yeah, that's an outrage. Okay.",
+      "trans": "没有咖啡了。这是个大错误。是的，这也是一个大错误。",
+      "start": 247.12,
+      "end": 254.07999999999998
+    },
+    {
+      "text": "Let's go to our next word now. Break out. Break out. Break out. So we have some great",
+      "trans": "让我们继续我们的下一个单词。打破。打破。打破。所以我们有一些很棒的中文。",
+      "start": 254.07999999999998,
+      "end": 261.36
+    },
+    {
+      "text": "examples on how we use break out. So let's listen. Example one.",
+      "trans": "好的，以下是将英文翻译成中文的步骤：",
+      "start": 261.36,
+      "end": 266.64
+    },
+    {
+      "text": "War is broken out in Antarctica as countries of the world fight for control of the icy continent.",
+      "trans": "南极洲发生战争，因为世界各国争夺控制冰原的控制权。",
+      "start": 269.84000000000003,
+      "end": 274.48
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 278.24,
+      "end": 279.04
+    },
+    {
+      "text": "Officials are warning that fighting could break out in the border regions.",
+      "trans": "官方警告说，边境地区可能会发生冲突。",
+      "start": 283.84000000000003,
+      "end": 286.8
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 292.24,
+      "end": 293.36
+    },
+    {
+      "text": "A forest fire broke out last night.",
+      "trans": "昨晚发生了一次森林火灾。",
+      "start": 297.92,
+      "end": 299.52000000000004
+    },
+    {
+      "text": "Well, this is a wonderful phrasal verb that means to begin suddenly.",
+      "trans": "很好，这是一个非常美妙的短语，意思是突然开始。",
+      "start": 302.64,
+      "end": 308.08000000000004
+    },
+    {
+      "text": "Okay, so I think that's pretty clear. Yep. Yeah. Break out. Let's go to our next word now.",
+      "trans": "好的，那么我觉得这是很清楚的。是的。出去吧。我们现在去我们的下一个单词了。",
+      "start": 308.72,
+      "end": 313.6
+    },
+    {
+      "text": "Mismanaged. Mismanaged. Mismanaged. So when something is mismanaged, it's",
+      "trans": "当事情被管理不当时，那么当有事情被管理不当时，那么当有事情被管理不当时。",
+      "start": 314.24,
+      "end": 320.72
+    },
+    {
+      "text": "not managed properly. Managed poorly. Poorly, right? Yeah. Our final word today is",
+      "trans": "好的，以下是将英文翻译成中文的句子：",
+      "start": 321.20000000000005,
+      "end": 327.04
+    },
+    {
+      "text": "have the nerve to have the nerve to have the nerve to. I think this one also is a little bit",
+      "trans": "有勇气去有勇气去有勇气去。我认为这同样是一个小部分。",
+      "start": 327.76000000000005,
+      "end": 334.96000000000004
+    },
+    {
+      "text": "difficult to understand. Yeah, but we have some great examples prepared for you. So let's listen to them.",
+      "trans": "难懂。是的，但我们可以为你准备一些好的例子。那我们还是听听吧。",
+      "start": 334.96000000000004,
+      "end": 340.08000000000004
+    },
+    {
+      "text": "Example one.",
+      "trans": "一个例子。",
+      "start": 341.44000000000005,
+      "end": 342.32000000000005
+    },
+    {
+      "text": "I've been in love with you since the third grade, but I didn't have the nerve to tell you.",
+      "trans": "自从我上小学第三年起，我就对你说过话了，但我不敢告诉你。",
+      "start": 342.4,
+      "end": 350.56
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 355.12,
+      "end": 355.92
+    },
+    {
+      "text": "I don't believe it. You have the nerve to ask me for money and when you know I've just lost my job.",
+      "trans": "我不相信你。你有勇气问我借钱，当你知道我已经失业了。",
+      "start": 360.88,
+      "end": 365.6
+    },
+    {
+      "text": "So.",
+      "trans": "所以。",
+      "start": 365.68,
+      "end": 366.64000000000004
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 370.48,
+      "end": 371.52000000000004
+    },
+    {
+      "text": "What? You have the nerve to bring your new girlfriend to visit my mother.",
+      "trans": "什么？你敢把你的新女朋友带过来见我的妈妈吗？",
+      "start": 375.92,
+      "end": 380.40000000000003
+    },
+    {
+      "text": "So have the nerve to is like dare to do something, right? Yeah, how dare you? Yeah.",
+      "trans": "所以要敢做是像有勇气去做一样，对吗？对，你怎么可以这样做？",
+      "start": 384.88,
+      "end": 390.0
+    },
+    {
+      "text": "Have the nerve to. It's like I can't believe you would do that.",
+      "trans": "有勇气。就像我无法相信你敢做那件事。",
+      "start": 390.64000000000004,
+      "end": 394.24
+    },
+    {
+      "text": "Yeah, I think that's quite clear. Yeah. Okay. A lot of great words in our dialogue today.",
+      "trans": "是的，我觉得这是很清楚的。嗯。今天我们的对话中有很多好词。",
+      "start": 394.32,
+      "end": 399.2
+    },
+    {
+      "text": "And also we have some really interesting grammar in today's dialogue. Right. So today,",
+      "trans": "今天还有些有趣的语法。正确。今天，我们有今天的对话中的一些有趣语法。",
+      "start": 399.2,
+      "end": 405.12
+    },
+    {
+      "text": "let's look at some grammar breakdown.",
+      "trans": "让我们看看一些语法解析。",
+      "start": 405.12,
+      "end": 408.08
+    },
+    {
+      "text": "Grammar breakdown. In this section, grammar breakdown, we show you a particular grammar",
+      "trans": "在这一部分，我们将展示特定的语法。在这里，我们展示了特定的语法。",
+      "start": 410.16,
+      "end": 418.32
+    },
+    {
+      "text": "structure and explain a little bit about how that structure affects meaning. So it's not really",
+      "trans": "结构和稍微解释一下这个结构对意义的影响。所以它并不完全是",
+      "start": 418.4,
+      "end": 424.96
+    },
+    {
+      "text": "about getting the grammar perfectly right. It's about understanding the meaning.",
+      "trans": "关于语法准确无误。这是理解意义的过程。",
+      "start": 424.96,
+      "end": 430.08
+    },
+    {
+      "text": "Right. And in today's lesson, we saw some really great examples on how we use the present",
+      "trans": "正确。今天的学习课上，我们看到了一些非常棒的例子，如何使用现在。",
+      "start": 430.88,
+      "end": 436.08
+    },
+    {
+      "text": "perfect tense. Let's listen to an example from the dialogue.",
+      "trans": "完美时态。让我们听听对话中的一个例子。",
+      "start": 436.08,
+      "end": 439.84
+    },
+    {
+      "text": "Where protests has broken out. Where protests has broken out.",
+      "trans": "在抗议活动爆发的地方。",
+      "start": 440.88,
+      "end": 445.76
+    },
+    {
+      "text": "See the verb here break out like a protest has broken out happened in the past, right? Right.",
+      "trans": "请看这个动词，这里像抗议已经爆发一样，过去发生过吗？",
+      "start": 446.48,
+      "end": 454.08
+    },
+    {
+      "text": "And it's still going on now. Exactly. So present perfect is used when we're talking about",
+      "trans": "现在还在继续。是的，所以我们使用现在完成时来描述我们正在谈论的事情。",
+      "start": 454.08,
+      "end": 460.64
+    },
+    {
+      "text": "a event that happened in the past and is continuing on now. Exactly. Or is continuing to affect now.",
+      "trans": "一个发生在过去，并且现在仍在继续发生的事情。是的，或者正在对现在产生影响。",
+      "start": 460.64,
+      "end": 467.76
+    },
+    {
+      "text": "Exactly. Okay. I think that's pretty clear. Yeah, but now if you want to indicate or if you want",
+      "trans": "是的。明白了。不过现在如果你想要表示或者如果你想表达，那么就请告诉我吧。",
+      "start": 467.76,
+      "end": 473.68
+    },
+    {
+      "text": "to demonstrate that the action has finished, the event is over, then you would say it like this.",
+      "trans": "要证明事件已经结束，动作已完成，那么你就可以这样说。",
+      "start": 473.68,
+      "end": 479.84000000000003
+    },
+    {
+      "text": "A protest broke out. A protest broke out.",
+      "trans": "一个抗议活动爆发了。一个抗议活动爆发了。",
+      "start": 482.0,
+      "end": 487.44
+    },
+    {
+      "text": "This form, you see that the protest is over. It happened yesterday already. Right. And I think",
+      "trans": "这个表格，你看，抗议已经结束。昨天就已经发生了。对了。",
+      "start": 489.44,
+      "end": 494.8
+    },
+    {
+      "text": "it's really emphasizing the fact that it is no longer affecting the present moment. Exactly.",
+      "trans": "它确实强调了现在并不影响当下。exact.",
+      "start": 494.8,
+      "end": 501.6
+    },
+    {
+      "text": "So remember the difference between present perfect and simple past. Now if you want to know more",
+      "trans": "所以记住现在完成时和简单过去时的区别。现在如果你想知道更多关于这个主题的信息。",
+      "start": 501.68,
+      "end": 507.20000000000005
+    },
+    {
+      "text": "about these tenses, present perfect and simple past, be sure to go to our website at englishpod.com.",
+      "trans": "关于这些时态、现在完成时和简单过去时，一定要去我们的网站：englishpod.com。",
+      "start": 507.20000000000005,
+      "end": 513.52
+    },
+    {
+      "text": "In the grammar section, you can find some more great examples and a really clear explanation",
+      "trans": "在语法部分，你可以找到一些更精彩的例子，并且有一个非常清晰的解释。",
+      "start": 513.52,
+      "end": 518.4
+    },
+    {
+      "text": "on how these tenses are formed. But now we are ready to listen to our dialogue a second time.",
+      "trans": "以下是我根据您提供的文本翻译成中文：",
+      "start": 518.72,
+      "end": 526.72
+    },
+    {
+      "text": "This is action 5 news reporter Sarah O'Connor reporting live from Washington, D.C.,",
+      "trans": "这是新闻主播萨拉·奥康纳在华盛顿特区直播。",
+      "start": 539.4399999999999,
+      "end": 544.4
+    },
+    {
+      "text": "where protests has broken out. Thousands of angry citizens are protesting against the",
+      "trans": "在抗议活动爆发的地方。成千上万的愤怒公民正在抗议中国。",
+      "start": 544.4,
+      "end": 548.8
+    },
+    {
+      "text": "proposed bailout of the auto manufacturing industry. Sir, Sarah O'Connor, tele 5 news, can you tell us",
+      "trans": "提议对汽车制造行业的救助。先生，萨拉·奥康纳女士，请问您能告诉我有关的信息吗？",
+      "start": 548.8,
+      "end": 555.84
+    },
+    {
+      "text": "what's happening? Yeah, yeah, we're here because we feel this is an injustice. The",
+      "trans": "请问发生了什么？是的，是的，我们在这里是因为我们认为这是不公平的。",
+      "start": 555.84,
+      "end": 561.36
+    },
+    {
+      "text": "financially responsibility of big business has to stop. We're here to show the government that we",
+      "trans": "财务上的责任必须停止。我们在这里要向政府展示，我们",
+      "start": 561.36,
+      "end": 567.04
+    },
+    {
+      "text": "don't like the way they're spending our tax dollars. Sir, but what exactly is making everyone so",
+      "trans": "您不喜欢他们如何花我们的税收钱。先生，但到底是什么在让每个人都如此",
+      "start": 567.04,
+      "end": 572.72
+    },
+    {
+      "text": "angry? It's an absolute outrage, Sarah. The U.S. government wants to give $25 billion of tax payers",
+      "trans": "生气？美国政府想给250亿美元的纳税人出钱。",
+      "start": 572.72,
+      "end": 579.6800000000001
+    },
+    {
+      "text": "money to the auto industry. These are companies that have been mismanaged and are now nearly bankrupt.",
+      "trans": "钱给汽车工业。这些公司已经被管理不当，现在已经几乎破产了。",
+      "start": 579.6800000000001,
+      "end": 585.76
+    },
+    {
+      "text": "I see. But many supporters of the bailout argue that it could help save the jobs of millions of",
+      "trans": "我看到。但许多支持者认为，这可能有助于拯救数百万中国的就业岗位。",
+      "start": 585.76,
+      "end": 591.84
+    },
+    {
+      "text": "hardwifing Americans. That may be true and I for what don't want to see anyone lose their job.",
+      "trans": "美国的软件开发工作可能需要改进。这可能是真的，但我对看不到任何人失去工作感到失望。",
+      "start": 591.84,
+      "end": 596.64
+    },
+    {
+      "text": "But how can these CEOs ask for a bailout when they're making millions of dollars? And then they have",
+      "trans": "但是，这些CEO们为什么要求救援？而且他们还拥有这么多钱。",
+      "start": 596.64,
+      "end": 601.76
+    },
+    {
+      "text": "the nerve to fly to Washington in private jets. This costs hundreds of thousands of dollars. They're",
+      "trans": "这个费用是数百万美元。他们用私人飞机飞往华盛顿，这在私人市场上是罕见的。",
+      "start": 601.76,
+      "end": 608.08
+    },
+    {
+      "text": "asking for money. That is just not right. Good point. This is Sarah O'Connor reporting live from",
+      "trans": "询问金钱。那是不对的。好点。这是萨拉·奥康纳现场直播报道。",
+      "start": 608.08,
+      "end": 614.0
+    },
+    {
+      "text": "Washington DC back to Utah.",
+      "trans": "北京回到乌鲁木齐。",
+      "start": 614.0,
+      "end": 616.0
+    },
+    {
+      "text": "Okay, Erica. So what do you think about this situation? About the bailout of the auto industry.",
+      "trans": "好的，艾瑞克。你觉得这种情况怎么样？关于汽车行业的救助。",
+      "start": 624.56,
+      "end": 629.4399999999999
+    },
+    {
+      "text": "I think it's a bad idea. Why? There's so many reasons. I mean, I don't think it's fair for us as",
+      "trans": "我认为这是一个坏主意。为什么？有很多原因。我并不认为这是公平的，因为：",
+      "start": 629.84,
+      "end": 637.2800000000001
+    },
+    {
+      "text": "taxpayers. Well, I guess I'm not really an American taxpayer. But I don't think it's fair for the",
+      "trans": "纳税人。嗯，我猜我不是真正的中国纳税人为好。不过我认为这不公平，因为",
+      "start": 637.2800000000001,
+      "end": 642.1600000000001
+    },
+    {
+      "text": "taxpayers to have to pay for the mismanagement of these companies. I mean, they've got so much debt.",
+      "trans": "纳税义务人必须为这些公司的不当管理支付。我指的是，他们负债这么多。",
+      "start": 642.1600000000001,
+      "end": 648.08
+    },
+    {
+      "text": "They've produced cars that nobody really wants to buy and now they're in trouble and it's not",
+      "trans": "他们制造的车没有人真正想要买，现在他们陷入困境，这并不",
+      "start": 648.08,
+      "end": 652.4000000000001
+    },
+    {
+      "text": "our money that should be spent on saving them. Yeah, I would agree with you on that. But you do have",
+      "trans": "我们的钱应该用于帮助他们。嗯，我同意你的看法。但你确实有",
+      "start": 652.4000000000001,
+      "end": 658.32
+    },
+    {
+      "text": "to take into consideration the fact that if these companies go bankrupt, thousands of people will",
+      "trans": "将这句话翻译成中文，可以得到以下内容：",
+      "start": 658.32,
+      "end": 664.6400000000001
+    },
+    {
+      "text": "lose their jobs and not only the people that work at the factories, but also people that work for",
+      "trans": "失业的人和工厂的员工，还有为他们工作的其他人。",
+      "start": 664.6400000000001,
+      "end": 670.5600000000001
+    },
+    {
+      "text": "other companies that supply these factories. Yeah, I mean, I see what you're saying, Marco. But",
+      "trans": "其他公司提供这些工厂。嗯，我明白了，Marco。不过",
+      "start": 670.5600000000001,
+      "end": 676.32
+    },
+    {
+      "text": "at the same time, we can't support an industry that isn't working properly. I mean, if one of these",
+      "trans": "在同时支持一个不正常的工作环境中，我们不能支持一个行业。我指的是，如果有一个这样的行业，它可能需要以下几点：",
+      "start": 676.32,
+      "end": 681.6
+    },
+    {
+      "text": "companies goes bankrupt, it's going to be terrible. But it will force the other two companies, perhaps",
+      "trans": "企业破产，将非常糟糕。但可能会迫使另外两个公司。",
+      "start": 681.6,
+      "end": 687.44
+    },
+    {
+      "text": "to manage themselves better, to streamline and become more efficient. I just think it will be",
+      "trans": "要更好地管理自己，要简化并变得更高效。我只是觉得这将是一个好主意。",
+      "start": 687.44,
+      "end": 692.32
+    },
+    {
+      "text": "better in the future. Well, it could be, but also maybe all three companies can go bankrupt.",
+      "trans": "更好的在未来。嗯，可能，但也许三个公司都会破产。",
+      "start": 692.32,
+      "end": 698.6400000000001
+    },
+    {
+      "text": "It would be sad because the American car, the American auto industry is a symbol of prosperity.",
+      "trans": "它会让人感到遗憾，因为美国的汽车、美国的汽车工业是繁荣的象征。",
+      "start": 698.6400000000001,
+      "end": 705.12
+    },
+    {
+      "text": "Yeah. It's also the symbol of like the American culture in general. I guess that's true.",
+      "trans": "是的。这也是美国文化的一个象征，我猜这是真的。",
+      "start": 705.12,
+      "end": 710.48
+    },
+    {
+      "text": "So it would be a shame for it to go bankrupt because everyone owns a car in the United States or",
+      "trans": "因此，它应该不会破产，因为美国的每个人都有车。",
+      "start": 710.48,
+      "end": 717.0400000000001
+    },
+    {
+      "text": "most people. And it's just something that we can't lose. But it is an interesting topic and we",
+      "trans": "大多数人都会同意。而且这只是我们无法放弃的。但是这是一个有趣的话题，我们",
+      "start": 717.04,
+      "end": 721.5999999999999
+    },
+    {
+      "text": "also want to know your opinions about it. Yeah, listeners, please come to our website at",
+      "trans": "您也想了解您的意见吗？是的，听众朋友们，请访问我们的网站。",
+      "start": 721.5999999999999,
+      "end": 726.24
+    },
+    {
+      "text": "www.englishpod.com and tell us what you think about this bailout and about this lesson.",
+      "trans": "www.englishpod.com 请问您对这个救市和这个教训有什么看法？",
+      "start": 726.24,
+      "end": 732.8
+    },
+    {
+      "text": "On the website, we'll post a link to the news article where you can read a little bit more about",
+      "trans": "在网站上，我们将发布链接到新闻文章中，供您阅读更多关于",
+      "start": 732.8,
+      "end": 736.56
+    },
+    {
+      "text": "this because this is actually going on now. That's true. Well, everyone, thanks for listening.",
+      "trans": "这个，因为这是现在正在发生的。这就是真的。大家，谢谢你的倾听。",
+      "start": 736.56,
+      "end": 742.24
+    },
+    {
+      "text": "And until next time, goodbye.",
+      "trans": "直到下次见，再见。",
+      "start": 742.24,
+      "end": 745.52
+    }
+  ]
+}

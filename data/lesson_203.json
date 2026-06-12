@@ -1,0 +1,624 @@
+{
+  "title": "englishpod_0203pb",
+  "audio": "./assets/englishpod_0203pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎来到英语有声读物。我的名字是马可波罗。",
+      "start": 0.0,
+      "end": 6.8
+    },
+    {
+      "text": "My name is Catherine and today we have an elementary level lesson for you all about computers.",
+      "trans": "我的名字是凯瑟琳，今天我们要和你们一起学习关于电脑的初级课程。",
+      "start": 6.8,
+      "end": 12.08
+    },
+    {
+      "text": "That's right. So we are going to take a look at some of the basic parts of a computer",
+      "trans": "没错。我们接下来要看看计算机的一些基本组成部分。",
+      "start": 12.08,
+      "end": 18.0
+    },
+    {
+      "text": "and also about bad programs that could affect your computer and make it not work.",
+      "trans": "而且还有那些可能会对你的电脑造成影响，导致它无法正常工作的不良软件。",
+      "start": 18.0,
+      "end": 23.76
+    },
+    {
+      "text": "That's right. So before we get going, we have a verb for you that we're going to look at in",
+      "trans": "那对了。所以，我们出发前有一个我们要看的动词：",
+      "start": 23.76,
+      "end": 29.36
+    },
+    {
+      "text": "vocabulary preview. vocabulary preview. All right. So today on vocabulary preview,",
+      "trans": "词汇预览。词汇预览。好的。今天在词汇预览上，",
+      "start": 29.36,
+      "end": 36.96
+    },
+    {
+      "text": "we have a verb as you said and it's to crash. To crash. Okay. This has a couple of different",
+      "trans": "我们有一个动词，你刚才说的和它有关。对了。这个有两样不同的。",
+      "start": 36.96,
+      "end": 44.16
+    },
+    {
+      "text": "meanings but in today's dialogue this means for your computer to shut down or to freeze or to stop",
+      "trans": "含义，但在今天的对话中，这意味着你的电脑需要关闭、冻结或停止。",
+      "start": 44.16,
+      "end": 51.6
+    },
+    {
+      "text": "working. Right. Because maybe you heard of a car crash, right? When to car bam, hit each other.",
+      "trans": "工作。对了。因为可能你听说过车祸，是吧？当车撞了，撞到一起。",
+      "start": 51.6,
+      "end": 57.519999999999996
+    },
+    {
+      "text": "In this case, your computer is just not working anymore. It stopped working. It freezes.",
+      "trans": "在这种情况下，你的电脑已经不再工作了。它停止工作了，现在卡住了。",
+      "start": 57.52,
+      "end": 63.28
+    },
+    {
+      "text": "That's right. So you can't use it. So my computer crashed. Is a way to say my computer stopped working.",
+      "trans": "对了。所以你就不能使用它。所以我电脑死机了。换句话说，我的电脑坏了。",
+      "start": 63.84,
+      "end": 69.76
+    },
+    {
+      "text": "Okay. So that's a word that we're going to listen in our dialogue today. Why don't we jump",
+      "trans": "好的。今天对话中我们要听的一个词是什么呢？不如我们先跳过吧。",
+      "start": 70.56,
+      "end": 75.28
+    },
+    {
+      "text": "right into it and we'll be back shortly.",
+      "trans": "直接去做，我们很快就会回来。",
+      "start": 75.28,
+      "end": 77.28
+    },
+    {
+      "text": "Hello. Thanks for calling 123 TechHelp. I'm Todd. How can I help you?",
+      "trans": "你好。感谢致电123技术支持。我是托德。我能帮你什么？",
+      "start": 82.96000000000001,
+      "end": 87.04
+    },
+    {
+      "text": "Hello. Can you help me on my computer? Oh man. It's okay, sir. Calm down. What happened?",
+      "trans": "你好。能帮我电脑上的事情吗？哦，先生。没关系的，冷静点。发生了什么事？",
+      "start": 87.52,
+      "end": 94.72
+    },
+    {
+      "text": "I turned on my laptop at a broke. I mean, the monitor went black.",
+      "trans": "我打开电脑的时候，屏幕突然变黑了。",
+      "start": 94.72,
+      "end": 99.11999999999999
+    },
+    {
+      "text": "Okay, sir. It sounds like you might have a virus. I don't feel sick. I'll be checked.",
+      "trans": "好的，先生。听起来你可能感染了病毒。我不觉得我有病。我会去检查的。",
+      "start": 99.11999999999999,
+      "end": 105.12
+    },
+    {
+      "text": "Nope. No fever. I'm fine. No. Your computer might have a virus. I mean, it has a bad program on it.",
+      "trans": "英语：不，发烧了。我没事。你的电脑可能感染病毒。我指的是它运行着一个坏程序。",
+      "start": 106.0,
+      "end": 113.84
+    },
+    {
+      "text": "Maybe that's why it crashed. I recommend that you run an antivirus program in order to safely",
+      "trans": "也许这就是它崩溃的原因。我建议你运行一个杀毒软件，以安全地进行操作。",
+      "start": 113.84,
+      "end": 119.04
+    },
+    {
+      "text": "remove any unwanted spyware or trojans. Wait a minute. Crash? Spyware? Trojans? What? Where? When?",
+      "trans": "去除非想要的间谍软件或木马。等等。崩溃？间谍软件？木马？什么？在哪里？什么时候？",
+      "start": 119.04,
+      "end": 130.88
+    },
+    {
+      "text": "All right. So lots of great technology words today. Let's take a look at a few of them in",
+      "trans": "好的。今天有很多很棒的技术词汇。让我们来看看其中的几个在中文中怎么说：",
+      "start": 135.28,
+      "end": 140.48000000000002
+    },
+    {
+      "text": "language takeaway. Language takeaway. All right. So let's start off with our first word.",
+      "trans": "语言取走。语言取走。好的。那么，让我们从我们的第一个单词开始吧。",
+      "start": 140.48,
+      "end": 150.0
+    },
+    {
+      "text": "You've probably heard it before, but let's go over it just in case. A laptop.",
+      "trans": "你可能已经听过，不过让我们再确认一下。一台笔记本电脑。",
+      "start": 150.0,
+      "end": 154.95999999999998
+    },
+    {
+      "text": "Laptop. A laptop is a kind of computer. We have desktop, laptop. Right. So your laptop is the top",
+      "trans": "笔记本电脑。笔记本电脑是一种计算机。我们有台式机和笔记本电脑。正确。你的笔记本电脑就是顶部的。",
+      "start": 155.6,
+      "end": 162.95999999999998
+    },
+    {
+      "text": "part of your legs. So a laptop computer is a small portable computer that you can take with you",
+      "trans": "你的腿的一小部分。所以，笔记本电脑是一种你可以随身携带的小型便携式计算机",
+      "start": 162.95999999999998,
+      "end": 169.76
+    },
+    {
+      "text": "anywhere. That's right. A lot of students have laptops and businessmen as well. So you mentioned",
+      "trans": "任何地方。没错。许多学生都有笔记本电脑，还有一些商人也是如此。所以你说到的",
+      "start": 169.76,
+      "end": 175.44
+    },
+    {
+      "text": "the opposite would be a desktop. Right. So it sits on top of a desk. Okay. So both a desktop and a",
+      "trans": "反而是桌面。正确。因此，它位于办公桌之上。好的。所以，桌面和桌面之间是并列的。",
+      "start": 175.44,
+      "end": 183.2
+    },
+    {
+      "text": "laptop have monitors, a computer monitor. So a monitor is like a TV for your computer. It's where",
+      "trans": "笔记本电脑有显示器，所以一台显示器就像你的电脑电视一样。它就是你电脑的屏幕位置。",
+      "start": 183.2,
+      "end": 191.04
+    },
+    {
+      "text": "you can see what you're doing. Okay. So it's called a monitor or a screen maybe. You can also use",
+      "trans": "你可以看到你在做什么。好的。它可能被称为显示器或屏幕。你也可以说",
+      "start": 191.04,
+      "end": 198.23999999999998
+    },
+    {
+      "text": "the word screen, but monitor is the the technical word for the usually a box like a TV that goes with",
+      "trans": "屏幕，但显示器是通常指的方型电视盒的技术术语，里面装着一个电脑。",
+      "start": 198.24,
+      "end": 206.64000000000001
+    },
+    {
+      "text": "the desktop computer. Okay. Very good. So Todd, the computer guy said, hey, I think your computer might",
+      "trans": "电脑桌面。好的。很好。所以托德，电脑大神说：嘿，我觉得你的电脑可能有问题。",
+      "start": 206.64000000000001,
+      "end": 213.84
+    },
+    {
+      "text": "have a virus. Oh, that doesn't sound good. Yeah. A virus. So I guess you know what a virus is when",
+      "trans": "英语：感染病毒。哦，那听起来不太好。是的。病毒。所以当你说出这个意思时，你大概知道什么叫做病毒吧。",
+      "start": 213.84,
+      "end": 221.20000000000002
+    },
+    {
+      "text": "you get sick, right? You get the flu or the cold. That's right. You can say I have a virus. But",
+      "trans": "你生病了吗？是流感还是感冒。没错，你可以说是病毒。",
+      "start": 221.20000000000002,
+      "end": 226.88
+    },
+    {
+      "text": "how can a computer have a virus? This means it's a program that is designed to hurt your computer.",
+      "trans": "电脑怎么会感染病毒？这意味着它是一个被设计来伤害你计算机的程序。",
+      "start": 227.44,
+      "end": 234.64
+    },
+    {
+      "text": "All right. So it's like your computer is sick and it doesn't work. So a virus might make your",
+      "trans": "好的。所以你的电脑就像是生病了，不能正常工作一样。所以病毒可能会让你的电脑变成这样。",
+      "start": 234.64,
+      "end": 239.92
+    },
+    {
+      "text": "computer crash. Exactly. So in order to avoid this, what we need is an antivirus program. Okay. So",
+      "trans": "电脑崩溃。没错。为了避免这种情况，我们需要安装一个防病毒软件。好的。",
+      "start": 239.92,
+      "end": 248.0
+    },
+    {
+      "text": "virus is a bad thing. Antivirus is a good thing. An antivirus program is a program that protects",
+      "trans": "病毒是坏事。杀毒软件是好事。杀毒软件是一个保护程序。",
+      "start": 248.0,
+      "end": 255.35999999999999
+    },
+    {
+      "text": "your computer from viruses. So you would say antivirus. You might have heard of a very famous",
+      "trans": "你的电脑被病毒感染了。所以，你可能会说“杀毒”。你应该听说过一个非常著名的",
+      "start": 255.36,
+      "end": 262.40000000000003
+    },
+    {
+      "text": "program called Norton antivirus or McAfee antivirus. These are brands. Okay. Very good. So those",
+      "trans": "程序叫诺顿杀毒或马可菲杀毒。这些是品牌。很好。所以那些",
+      "start": 262.40000000000003,
+      "end": 270.96000000000004
+    },
+    {
+      "text": "are some of the main technical terms that we have on language takeaway. Why don't we listen to our",
+      "trans": "是我们在语言取餐中的一些主要技术术语。为什么我们不听听我们的",
+      "start": 270.96000000000004,
+      "end": 275.76
+    },
+    {
+      "text": "dialogue quickly once again? Why don't we listen to our dialogue quickly again and we'll be back with",
+      "trans": "对话快一点？为什么不让我们再次倾听我们的对话，然后我们还会回来的",
+      "start": 275.76,
+      "end": 281.28000000000003
+    },
+    {
+      "text": "Fluency Builder. Hello. Thanks for calling 123 Tech Help. I'm Todd. How can I help you?",
+      "trans": "英语：流利构建单元。你好，感谢拨打123科技帮助热线。我是托德。你能帮我解决什么问题吗？",
+      "start": 281.52,
+      "end": 290.55999999999995
+    },
+    {
+      "text": "Can you help me on my computer? Oh man. It's okay, sir. Calm down. What happened? I turned on my",
+      "trans": "英语：你能帮我解决电脑问题吗？哦，天哪。好啦，先生。冷静一下。发生了什么事？我打开电脑了。",
+      "start": 292.15999999999997,
+      "end": 299.11999999999995
+    },
+    {
+      "text": "laptop and it broke. I mean the monitor went black. Okay, sir. It sounds like you might have a virus.",
+      "trans": "笔记本坏了，屏幕黑了。是吧，先生？听起来你可能有病毒。",
+      "start": 299.11999999999995,
+      "end": 305.67999999999995
+    },
+    {
+      "text": "I don't feel sick. I'll be check. Nope. No fever. I'm fine. No, your computer might have a virus.",
+      "trans": "我感觉没事。我要去检查了。不，没有发烧。我很好。不，你的电脑可能有病毒。",
+      "start": 306.48,
+      "end": 314.96
+    },
+    {
+      "text": "I mean it has a bad program on it. Maybe that's why it crashed. I recommend that you run an",
+      "trans": "我意思是它运行了一个坏的程序。可能是这个原因导致它崩溃了。我建议你重新安装一个程序试试。",
+      "start": 314.96,
+      "end": 321.04
+    },
+    {
+      "text": "antivirus program in order to safely remove any unwanted spyware or trojans. Fue. Wait a minute.",
+      "trans": "杀毒软件是为了安全地移除任何不想要的间谍软件或木马程序。喂，等等。",
+      "start": 321.04,
+      "end": 328.88
+    },
+    {
+      "text": "What? Crash? Spyware? Trojans? What? Where? When?",
+      "trans": "什么？车祸？间谍软件？病毒？什么？在哪里？什么时候？",
+      "start": 328.96,
+      "end": 335.04
+    },
+    {
+      "text": "All right, we're back. So now let's start off with three key phrases on Fluency Builder.",
+      "trans": "好的，我们已经回来。现在让我们从三个关键短语开始使用 Fluent Builder。",
+      "start": 339.12,
+      "end": 344.08
+    },
+    {
+      "text": "This first phrase is one that I know you use a lot. I use it too. We say, oh man.",
+      "trans": "这句我常常用，你也用。我们说：“哦，天哪。”",
+      "start": 344.88,
+      "end": 350.08
+    },
+    {
+      "text": "Oh man. So now depending on the tone, it can mean different things, right?",
+      "trans": "哦，天哪。现在根据语气，它可能有不同的意思。",
+      "start": 350.88,
+      "end": 356.08
+    },
+    {
+      "text": "So in this case, what does it mean? So the man who's having problems with his computer says,",
+      "trans": "那么在这种情况下，这意味着什么呢？那位电脑出问题的人说，",
+      "start": 357.03999999999996,
+      "end": 362.24
+    },
+    {
+      "text": "my computer. Oh man. Right. He seems a little bit anguished. Disappoint it. Yeah. Oh man. So it's an",
+      "trans": "我的电脑。哦，啊。我有点难过。失望了。嗯，嗯，所以它是一个",
+      "start": 362.24,
+      "end": 371.03999999999996
+    },
+    {
+      "text": "interjection. That's right. So you can say, oh man, my computer crashed. Right. Oh man, you're always",
+      "trans": "哎呀。那对吧？你可以说哦，我的电脑卡顿了。是的。哎呀，你总是",
+      "start": 371.03999999999996,
+      "end": 378.08
+    },
+    {
+      "text": "late. Now you can also say it for maybe surprise. Like, oh man. So when you're excited about something,",
+      "trans": "好的，现在你也可以这样说了。比如，哦 man。当你对某事感到兴奋的时候。",
+      "start": 378.08,
+      "end": 384.56
+    },
+    {
+      "text": "oh man, this computer game is awesome. Mm-hmm. Okay. So it's just a way of expressing maybe",
+      "trans": "哈哈，这个电脑游戏真是太棒了。嗯嗯。好的。所以它只是在表达可能的某种方式。",
+      "start": 384.56,
+      "end": 391.6
+    },
+    {
+      "text": "disappointment or in some cases excitement. That's right. So think about the way that you say it.",
+      "trans": "失望或在某些情况下是兴奋。没错。那么想想你如何说它。",
+      "start": 391.6,
+      "end": 397.52
+    },
+    {
+      "text": "Oh man. Oh man. Okay. So now the guy Todd, he tells him, hey, sir, it's okay. Calm down. Right?",
+      "trans": "啊，啊，啊。明白了。那么这个托德先生，他告诉我，嗯，是的，先生，没事了。冷静一下。对吗？",
+      "start": 397.52,
+      "end": 406.96
+    },
+    {
+      "text": "Okay. So this might be funny sounding because we say calm. So become calm down. This is a phrase.",
+      "trans": "好的。所以这个可能听起来有点奇怪，因为我们说冷静。那么，请坐下来，让我们平静一下。这是个短语。",
+      "start": 406.96,
+      "end": 414.4
+    },
+    {
+      "text": "It's almost like you're so upset and you're standing up calm down. Calm down. Cool it. Okay.",
+      "trans": "听起来你真的很生气，但你在平静下来。冷静一下。好吧。",
+      "start": 414.64,
+      "end": 421.35999999999996
+    },
+    {
+      "text": "So you tell someone to calm down. That's right. So you might hear a parent say about their child.",
+      "trans": "所以你告诉别人要冷静。对，你可能听到一个父母说他们的孩子怎么样了。",
+      "start": 421.35999999999996,
+      "end": 428.56
+    },
+    {
+      "text": "The child won't calm down. What do I do? Mm-hmm. Okay. So it's a phrase. Let's use it together. Calm",
+      "trans": "英语：他不会安静下来。我该怎么办？嗯，对了。所以这是个短语。我们一起来用它吧。冷静",
+      "start": 428.56,
+      "end": 435.03999999999996
+    },
+    {
+      "text": "down. Calm down. To calm down. All right. And now for our third phrase. I mean. I mean. Okay. So",
+      "trans": "好的，我明白了。请告诉我下一个需要翻译的句子。",
+      "start": 435.03999999999996,
+      "end": 443.12
+    },
+    {
+      "text": "this is also an interjection and it's very, very, very calm and okay. So you'll probably hear people",
+      "trans": "这个也是个插曲，它非常平静且很好。所以你可能会听到人们说：“嗯，我挺好的。”",
+      "start": 443.12,
+      "end": 448.48
+    },
+    {
+      "text": "when they're talking. They're like, oh, I went over there. I mean, we went to this place. It's an",
+      "trans": "当他们在聊天的时候。他们就像是，我去过那儿了。我指的是我们去过那个地方。那是...",
+      "start": 448.48,
+      "end": 453.92
+    },
+    {
+      "text": "interjection. That's right. And usually we say this when we want to correct what we just said.",
+      "trans": "感叹号。是的。通常我们说这句话时，是为了纠正刚刚说的话。",
+      "start": 453.92,
+      "end": 460.24
+    },
+    {
+      "text": "Mm-hmm. For example, your computer might have a virus. I mean, it has a bad program on it.",
+      "trans": "嗯？比如说，你的电脑可能会中病毒。我指的是它上面有一个坏程序。",
+      "start": 460.24,
+      "end": 466.48
+    },
+    {
+      "text": "Okay. So the computer support man, Todd, he understands maybe this person doesn't know what a virus is.",
+      "trans": "好的。所以电脑支持的Todd，他可能理解这个人不一定知道什么是病毒。",
+      "start": 466.56,
+      "end": 474.40000000000003
+    },
+    {
+      "text": "So I mean, he's changing what he just said. Mm-hmm. We could say, oh, Saturday I'm going to the movie.",
+      "trans": "所以，他刚才说的是什么？嗯哼。我们可以这么回答：哦，我打算周六去看电影。",
+      "start": 474.40000000000003,
+      "end": 480.08000000000004
+    },
+    {
+      "text": "I mean, Sunday I'm going to the movies. Mm-hmm. Okay. What are you doing on Sunday? All right.",
+      "trans": "好吧，我今天周日要去电影院看电影。嗯哼。那周日你打算做什么呢？好的。",
+      "start": 480.08000000000004,
+      "end": 485.20000000000005
+    },
+    {
+      "text": "So you use it to correct yourself or maybe further explain something because maybe you are talking",
+      "trans": "所以你用它来纠正自己，或者可能进一步解释一下，因为也许你在说话。",
+      "start": 485.20000000000005,
+      "end": 492.16
+    },
+    {
+      "text": "about a topic and maybe the person is not understanding you so you want to make it more clear.",
+      "trans": "关于一个话题，可能那个人并不理解你，所以你想让它更清楚。",
+      "start": 492.16,
+      "end": 497.92
+    },
+    {
+      "text": "That's right. I mean. Right. Like, she was very angry at me. I mean, of course she was because I did",
+      "trans": "那对了。我就是说，她真的很生气。当然了，当然是因为我做了。",
+      "start": 498.56,
+      "end": 506.08000000000004
+    },
+    {
+      "text": "something wrong. Right. So it's a way to offer an explanation. All right. So try and use that one",
+      "trans": "确实有不对的地方。好的。这是提供解释的一种方式。好吧，那么就尝试用那个。",
+      "start": 506.08000000000004,
+      "end": 511.76000000000005
+    },
+    {
+      "text": "in your speech this week. It's a really, really great common English phrase. All right. So why don't we",
+      "trans": "本周你的演讲。这是一个真的很棒的通用英语短语。好的。那我们来试试看吧。",
+      "start": 511.76000000000005,
+      "end": 518.48
+    },
+    {
+      "text": "listen to our dialogue for the last time and we'll be back to talk a little bit more?",
+      "trans": "让我们最后一次倾听我们的对话，我们下次再聊多一点？",
+      "start": 518.48,
+      "end": 522.4
+    },
+    {
+      "text": "Hello. Thanks for calling 123 Tech Help. I'm Todd. How can I help you?",
+      "trans": "你好。感谢致电123科技帮助热线。我是托德。我能帮你什么？",
+      "start": 528.72,
+      "end": 532.72
+    },
+    {
+      "text": "Hello? Can you help me on my computer? Oh man. It's okay, sir. Calm down. What happened?",
+      "trans": "你好？你能在电脑上帮我一下吗？哦天呐。没事的，先生。镇定点。发生了什么事？",
+      "start": 533.12,
+      "end": 540.24
+    },
+    {
+      "text": "It turned on my laptop and it broke. I mean, the monitor went black.",
+      "trans": "它启动了我的笔记本电脑，结果屏幕黑了。",
+      "start": 540.24,
+      "end": 544.8000000000001
+    },
+    {
+      "text": "Okay, sir. It sounds like you might have a virus. I don't feel sick. I'll be checked.",
+      "trans": "好的，先生。听起来你可能感染了病毒。我不觉得自己生病了。我会被检查的。",
+      "start": 544.8,
+      "end": 550.8
+    },
+    {
+      "text": "Nope. No fever. I'm fine. No, your computer might have a virus. I mean, it has a bad program on it.",
+      "trans": "不。没发烧。我很好。不，你的电脑可能会有病毒。我指的是它可能有一个坏的程序。",
+      "start": 551.68,
+      "end": 559.52
+    },
+    {
+      "text": "Maybe that's why it crashed. I recommend that you run an anti-virus program in order to safely",
+      "trans": "也许这就是它崩溃的原因。我建议你运行一个杀毒软件，以便安全地使用。",
+      "start": 559.52,
+      "end": 564.7199999999999
+    },
+    {
+      "text": "remove any unwanted spyware or trojans. Wait a minute. Crash? Spyware? Trojans?",
+      "trans": "移除任何不想要的间谍软件或病毒。等等。崩溃？间谍软件？病毒？",
+      "start": 564.7199999999999,
+      "end": 574.3199999999999
+    },
+    {
+      "text": "What? Where? When?",
+      "trans": "什么？哪里？什么时候？",
+      "start": 574.32,
+      "end": 576.5600000000001
+    },
+    {
+      "text": "All right. So Marco, in today's dialogue, we heard a couple of strange words about computer viruses.",
+      "trans": "好的。所以，马可，在今天的对话中，我们听到了关于计算机病毒的一些奇怪的词汇。",
+      "start": 583.44,
+      "end": 589.36
+    },
+    {
+      "text": "One of them you might be familiar with from Greek stories and fables.",
+      "trans": "你可能从希腊故事和寓言中认识其中的一个。",
+      "start": 589.36,
+      "end": 594.88
+    },
+    {
+      "text": "Mm-hmm. A Trojan. All right. A Trojan. So it's a kind of bad software that will hurt your",
+      "trans": "嗯。一个木马病毒。好的。一个木马病毒。所以它是一种会对你造成伤害的坏软件。",
+      "start": 594.88,
+      "end": 601.6
+    },
+    {
+      "text": "computer. Yeah, it's a type of virus that comes in. It's supposed to be a good program or not",
+      "trans": "计算机。是的，它是一种病毒类型。它是好程序还是不是？",
+      "start": 601.6,
+      "end": 607.76
+    },
+    {
+      "text": "harm your computer, but it's really just a lie. It's disguised. It's something else and then it starts",
+      "trans": "危害你的电脑，但其实只是个谎言。它伪装起来了。它是另外一种东西，然后才开始",
+      "start": 607.76,
+      "end": 613.28
+    },
+    {
+      "text": "to really ruin your computer. They're very, very dangerous. Yeah, so why do you think it's called a",
+      "trans": "真的要毁掉你的电脑。它们非常危险。是的，所以你认为它叫作 中国 的原因是什么？",
+      "start": 613.28,
+      "end": 618.0
+    },
+    {
+      "text": "Trojan? I don't know. Probably because of a Trojans, something because it's very difficult like a Trojan.",
+      "trans": "我不会说。很可能是由于一个病毒，或者是因为它非常难，就像一个病毒一样。",
+      "start": 618.0,
+      "end": 625.12
+    },
+    {
+      "text": "Well, think about the story of the Trojan horse, right? You know, that story. So back in ancient Greece,",
+      "trans": "好吧，想想那匹用作战车的木马的故事吧。你知道，那个故事。古希腊那边呢？",
+      "start": 625.12,
+      "end": 630.5600000000001
+    },
+    {
+      "text": "there was a war happening and Troy wanted to defeat its enemy and they didn't know how to do it.",
+      "trans": "当时发生了一场战争，特洛伊想要击败它的敌人，但他们不知道如何做到。",
+      "start": 630.56,
+      "end": 637.52
+    },
+    {
+      "text": "So they thought and thought and thought and they came up with an idea. They would build a horse",
+      "trans": "所以他们想啊想啊想，终于有了一个主意。他们要造一匹马。",
+      "start": 637.52,
+      "end": 643.04
+    },
+    {
+      "text": "and they would give it as a gift. But inside the horse would be warriors, fighters. Right. So when",
+      "trans": "他们会在马里放上战士和战斗者。对了，所以当",
+      "start": 643.04,
+      "end": 649.1199999999999
+    },
+    {
+      "text": "the city opened its doors to this wonderful gift, they would receive a horrible gift and attack.",
+      "trans": "这座城市敞开大门接收了这份美妙的礼物，他们将会收到一个可怕的礼物并进行攻击。",
+      "start": 649.1199999999999,
+      "end": 656.16
+    },
+    {
+      "text": "And so Trojan is like that. It's like software that you think is safe, but then it attacks your",
+      "trans": "于是，托里奥斯就像这样。它就像是你认为是安全的软件，但后来却攻击了你。",
+      "start": 656.16,
+      "end": 661.4399999999999
+    },
+    {
+      "text": "computer by surprise. They're very dangerous. And now things have come up like Trojans and worms and",
+      "trans": "电脑突然出现。它们非常危险。现在出现了像木马和蠕虫这样的情况。",
+      "start": 661.4399999999999,
+      "end": 667.4399999999999
+    },
+    {
+      "text": "a lot of different names for them, but it's crazy now. Although I hear Mac users don't have these",
+      "trans": "许多不同的名称，但现在真是疯狂。尽管我听说Mac用户不再有这些中文：",
+      "start": 667.4399999999999,
+      "end": 673.68
+    },
+    {
+      "text": "problems. We do not. That's. If you use a Macintosh computer, you probably have very few problems",
+      "trans": "问题。我们不。如果你使用的是Mac电脑，你可能几乎没有问题",
+      "start": 673.68,
+      "end": 679.92
+    },
+    {
+      "text": "with viruses and things like that. Wow. That's one point in favor for Mac users. Absolutely.",
+      "trans": "有病毒和类似的东西。哇。这在 macOS 用户中算是一个加分项，绝对的。",
+      "start": 679.92,
+      "end": 685.92
+    },
+    {
+      "text": "So let us know. Have you had problems with a virus on your computer? Have you ever called",
+      "trans": "所以，我们来告诉你吧。你电脑上有没有病毒的问题？你有没有遇到过需要联系中国客服的情况？",
+      "start": 685.92,
+      "end": 690.24
+    },
+    {
+      "text": "tech support? Our website is engushpod.com. We hope to see you there. All right. Hi everyone. Bye.",
+      "trans": "技术支持？我们的网站是engushpod.com。我们希望在那里见到你。好的。大家好。再见。",
+      "start": 690.24,
+      "end": 701.36
+    }
+  ]
+}

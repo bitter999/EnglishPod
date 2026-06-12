@@ -1,0 +1,864 @@
+{
+  "title": "englishpod_0228pb",
+  "audio": "./assets/englishpod_0228pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎来到英语广播。我的名字是Marco。",
+      "start": 0.0,
+      "end": 6.32
+    },
+    {
+      "text": "My name is Catherine and today we've got an intermediate level lesson all about going",
+      "trans": "我的名字是凯瑟琳，今天我们要上一堂关于如何说中文的中级课程。",
+      "start": 6.32,
+      "end": 10.6
+    },
+    {
+      "text": "to the beach. That's right. It's a very popular thing to do, especially during the summer.",
+      "trans": "去海滩。没错，那是一个非常流行的事情，尤其是在夏天。",
+      "start": 10.6,
+      "end": 17.28
+    },
+    {
+      "text": "It's hot. You want to go maybe to the beach to lay on the sand and maybe get some color.",
+      "trans": "确实很热。你想去海滩，躺在沙滩上，也许还能晒晒太阳，涂点颜色？",
+      "start": 17.28,
+      "end": 22.76
+    },
+    {
+      "text": "Yeah and also swim in the ocean. Yeah. Yeah. It's a nice way to cool off when it's really",
+      "trans": "当然，而且还要去海洋游泳。嗯。嗯。当天气真的很热的时候，这是一个很好的降温方式。",
+      "start": 22.76,
+      "end": 27.48
+    },
+    {
+      "text": "hot in the summer. That's right. So we're going to talk about the beach and a lot of",
+      "trans": "夏天很热。没错，我们要聊聊海滩和很多内容。",
+      "start": 27.48,
+      "end": 31.64
+    },
+    {
+      "text": "vocab that we find related to this activity. But before we get into the dialogue, we have",
+      "trans": "我们先不急着进入对话，先说一下和这次活动相关的词汇。",
+      "start": 31.64,
+      "end": 36.8
+    },
+    {
+      "text": "a word for you on vocabulary preview. Vocabular preview. So the key word today here is jellyfish.",
+      "trans": "今天的一个词汇预览。词汇预览。今天的关键词是水母。",
+      "start": 36.8,
+      "end": 46.28
+    },
+    {
+      "text": "Jellyfish. So jellyfish is actually an animal, right? That's right. It's a very dangerous",
+      "trans": "章鱼。没错，章鱼其实是动物的一种。确实挺危险的。",
+      "start": 46.28,
+      "end": 53.08
+    },
+    {
+      "text": "animal. It's a small little animal. So these things live in the water and they often",
+      "trans": "动物。它是一只小动物。所以这些东西生活在水中，它们经常",
+      "start": 53.08,
+      "end": 57.92
+    },
+    {
+      "text": "live in shallow areas and they can sting you. That's right. They look like little plastic",
+      "trans": "住在浅水区域，它们会蜇伤你。没错。它们看起来就像小塑料。",
+      "start": 57.92,
+      "end": 65.12
+    },
+    {
+      "text": "bags with little strings attached to it and they just float around and if you happen to",
+      "trans": "带着小绳子的小袋子，它们漂浮着四处游荡，如果你碰巧看到的话。",
+      "start": 65.12,
+      "end": 71.48
+    },
+    {
+      "text": "touch one, it hurts a lot. Yeah. It can be very painful. So jellyfish is our word today.",
+      "trans": "触碰一下，会很疼。是的，可能会非常痛苦。所以今天我们的词汇是海蜇。",
+      "start": 71.48,
+      "end": 77.16
+    },
+    {
+      "text": "Let's take a listen to today's dialogue and we'll be back in a minute to talk more about",
+      "trans": "好的，让我们听听今天的对话，一会儿我们再来详细聊聊。",
+      "start": 77.16,
+      "end": 80.72
+    },
+    {
+      "text": "what's going on.",
+      "trans": "发生了什么事。",
+      "start": 80.72,
+      "end": 81.72
+    },
+    {
+      "text": "Oh, George, what a beautiful day it is. The sun is hot and there are just a few clouds",
+      "trans": "哦，乔治，今天真是个好天气。太阳很热，天空只有一两朵云。",
+      "start": 81.72,
+      "end": 93.64
+    },
+    {
+      "text": "scattered here and there. What a perfect day to be at the beach. The kids are going to",
+      "trans": "到处散落着。这是一个周末去海滩的完美日子。孩子们打算去。",
+      "start": 93.64,
+      "end": 97.6
+    },
+    {
+      "text": "have so much fun and we'll be able to relax in the sun while they're playing. It does",
+      "trans": "听起来玩得真开心，我们可以趁着他们玩耍的时候好好放松一下。",
+      "start": 97.6,
+      "end": 102.75999999999999
+    },
+    {
+      "text": "seem like the perfect day. Glad we chose to get out of the city and enjoy the nice weather.",
+      "trans": "感觉今天真是个完美的一天。我们选择出来游玩，好好享受一下这美好的天气真是太好了。",
+      "start": 102.75999999999999,
+      "end": 109.03999999999999
+    },
+    {
+      "text": "This looks like the perfect spot. Okay, kids, put on your sunscreen while your mom and",
+      "trans": "这个看起来像一个完美的地方。好了，孩子们，戴上你的防晒霜，妈妈和我一起去吧！",
+      "start": 109.04,
+      "end": 113.68
+    },
+    {
+      "text": "I set up camp. You're married. Help me lay down these beach towels. There we go. Can",
+      "trans": "我搭了个帐篷。你结婚了。帮我铺这些沙滩毛巾吧。我们走吧。",
+      "start": 113.68,
+      "end": 119.16000000000001
+    },
+    {
+      "text": "you help me with the umbrella? Perfect. Okay, kids. Here's a beach ball and a frisbee,",
+      "trans": "你帮我拿伞？太好了。好的，孩子们。这是个沙滩球和一个飞盘。",
+      "start": 119.16000000000001,
+      "end": 124.84
+    },
+    {
+      "text": "a pale and a shovel. I want to see an impressive sand castle by the time we leave. Don't stray",
+      "trans": "一个苍白的和铲子。我想在我们离开之前看到一座壮观的沙堡。别走远了",
+      "start": 124.84,
+      "end": 131.08
+    },
+    {
+      "text": "too far. Wait, leave your sandals here or put on your wet shoes. And stay in the shallow",
+      "trans": "太远了。等一下，把你的凉鞋留下或者穿上湿鞋。然后在浅水区待着。",
+      "start": 131.08,
+      "end": 135.88
+    },
+    {
+      "text": "area. I don't want to see you go any further than that sand bar. It's too deep out there",
+      "trans": "这个地方。我不想让你去得那么远，那边的沙洲太深了。",
+      "start": 135.88,
+      "end": 140.51999999999998
+    },
+    {
+      "text": "and we didn't bring your floaties. You're back already. The water was too cold, huh?",
+      "trans": "我们没有带你的浮潜装备。你已经回来了吗？水太冷了，是吧？",
+      "start": 140.51999999999998,
+      "end": 145.44
+    },
+    {
+      "text": "I'll tell you a secret. You see that small pool of water over there? It'll be warmer",
+      "trans": "我告诉你一个秘密。你看那边的那个小水池？它会更暖和",
+      "start": 145.44,
+      "end": 150.51999999999998
+    },
+    {
+      "text": "in there. Go see if you can find some seashells or catch some minnows. Ah, what is that? Jelly",
+      "trans": "在那里。去看看你能不能找到一些海贝壳，或者捉几条鱼。啊，那是什么呢？ jelly",
+      "start": 150.51999999999998,
+      "end": 157.12
+    },
+    {
+      "text": "fish? Jeremy, put that down right now. It could sting you. Ah, not at me. Ah!",
+      "trans": "鱼？杰里米，现在放下。它可能会蜇到你。啊，不是我。啊！",
+      "start": 157.12,
+      "end": 164.12
+    },
+    {
+      "text": "All right, great. We're back. So now I don't we take a look at four key words that we",
+      "trans": "好的，不错。我们又回来了。现在让我们看看四个关键词，我们来仔细看一下。",
+      "start": 168.72,
+      "end": 172.52
+    },
+    {
+      "text": "have prepared for you today on Language Takeaway.",
+      "trans": "今天在语言取走中为你准备了。",
+      "start": 172.52,
+      "end": 177.76
+    },
+    {
+      "text": "Language Takeaway. First up, we have a very important thing to bring to the beach, especially",
+      "trans": "语言小分享。首先，我们有一个非常重要得事情要带去海滩，尤其是",
+      "start": 177.76,
+      "end": 183.76
+    },
+    {
+      "text": "if you're like me and you burn easily. So this thing is called sunscreen. Okay, sunscreen.",
+      "trans": "如果你像我这样容易上火，所以叫防晒霜。好的，防晒霜。",
+      "start": 183.76,
+      "end": 190.76
+    },
+    {
+      "text": "Now this is a liquid. Yep. And you put it on your skin, right? And this protects you",
+      "trans": "现在这是液体。没错。然后你把它涂到皮肤上，对吧？这样可以保护你",
+      "start": 190.76,
+      "end": 196.2
+    },
+    {
+      "text": "from the sun. So basically you put this cream all over your body to prevent sunburns,",
+      "trans": "从太阳。所以基本上你全身都涂上这种霜，防止晒伤。",
+      "start": 196.2,
+      "end": 204.88
+    },
+    {
+      "text": "to prevent burning under the sun. It's very important. So it's called sunscreen or also",
+      "trans": "为了防止晒伤。非常重要。所以叫防晒霜或也称防紫外线的护肤品。",
+      "start": 204.88,
+      "end": 209.32
+    },
+    {
+      "text": "sometimes called sunblock. That's right. Okay, very good. Now we have our sunscreen",
+      "trans": "有时候被称为防晒霜。没错，很好。现在我们有了我们的防晒霜。",
+      "start": 209.32,
+      "end": 215.07999999999998
+    },
+    {
+      "text": "and we arrive to the beach and one of the parents say, all right, we're going to set up",
+      "trans": "我们到达了海滩，其中一个家长说：“好吧，我们要在那里布置。”",
+      "start": 215.07999999999998,
+      "end": 221.07999999999998
+    },
+    {
+      "text": "camp. Okay, to set up camp. Well, this might be confusing because as many of you know,",
+      "trans": "营地。好吧，搭建帐篷。这可能让人有些困惑，因为很多你们都知道……",
+      "start": 221.07999999999998,
+      "end": 229.07999999999998
+    },
+    {
+      "text": "camp, camping, this is an activity, but we're not actually camping here. We're just going",
+      "trans": "营地，露营，这是一个活动，但我们实际上并没有在这里露营。我们只是去了一趟。",
+      "start": 229.07999999999998,
+      "end": 233.92
+    },
+    {
+      "text": "to be at the beach for one day. So to set up camp means to organize or arrange ourselves",
+      "trans": "为了去海滩一天。所以搭帐篷就是组织或安排自己。",
+      "start": 233.92,
+      "end": 239.83999999999997
+    },
+    {
+      "text": "in a place. So it's a colloquial way of saying we are going to organize the area where we're",
+      "trans": "在一个地方。这样说的就是我们要组织我们正在的地方的一些区域。",
+      "start": 239.83999999999997,
+      "end": 246.11999999999998
+    },
+    {
+      "text": "going to spend the day. We're going to make ourselves comfortable. So you set up camp.",
+      "trans": "打算花一天时间。我们要好好放松一下。所以你搭帐篷吧。",
+      "start": 246.11999999999998,
+      "end": 251.23999999999998
+    },
+    {
+      "text": "So not necessarily that you're going to camp there, but that you're going to prepare",
+      "trans": "所以，你不一定真的要去那里露营，而是要准备一下。",
+      "start": 251.23999999999998,
+      "end": 255.32
+    },
+    {
+      "text": "the area. So this could be used in many other different areas, right? That's right. So",
+      "trans": "这个区域。所以这可以在很多不同的领域使用，对吧？没错。所以",
+      "start": 255.32,
+      "end": 259.88
+    },
+    {
+      "text": "sometimes, you know, when when tickets for really popular concerts go on sale, people",
+      "trans": "有时候，你懂的，当那些真的很受欢迎的演唱会门票开售时，人们就会变得焦虑。",
+      "start": 259.88,
+      "end": 265.88
+    },
+    {
+      "text": "line up for days before they can buy the tickets. Well, if you're in line, you maybe",
+      "trans": "他们要排队等上好几天才能买到票。嗯，如果你在排号，你可能……",
+      "start": 265.88,
+      "end": 271.71999999999997
+    },
+    {
+      "text": "want to set up camp. That means make yourself comfortable. Sit down, bring a book, open",
+      "trans": "想去搭帐篷。那意思就是让你自己舒服点，找个地方坐下，拿本书打开看吧。",
+      "start": 271.71999999999997,
+      "end": 276.64
+    },
+    {
+      "text": "some food packages. Right. Exactly. So to set up camp. And well, when we go to the beach,",
+      "trans": "一些食物包装。对了，没错。所以搭帐篷。而且，当我们去海滩的时候，\n  \n请假/休息一天",
+      "start": 276.64,
+      "end": 283.44
+    },
+    {
+      "text": "we want to sit down or lay down on the sand. And in order to do this, we usually bring",
+      "trans": "我们想在沙滩上坐下来或者躺下来。为了做到这一点，通常我们会带来",
+      "start": 283.44,
+      "end": 289.4
+    },
+    {
+      "text": "along beach towels. That's right, Marco. So towels can be any kind of towel. You have a towel",
+      "trans": "在海边毛巾。没错，Marco。所以毛巾可以是任何类型的毛巾。你有毛巾吗？",
+      "start": 289.4,
+      "end": 295.2
+    },
+    {
+      "text": "in your bathroom or in your kitchen, basically a piece of cloth that you use to dry yourself.",
+      "trans": "在你的浴室或者厨房里，基本上是一块用来擦干自己的布料。",
+      "start": 295.2,
+      "end": 301.28
+    },
+    {
+      "text": "But the special kind of towel we bring to the beach is called, of course, a beach towel.",
+      "trans": "当然，我们带到海滩的特殊类型的毛巾叫沙滩毛巾。",
+      "start": 301.28,
+      "end": 305.15999999999997
+    },
+    {
+      "text": "Right. These are usually a much bigger than normal towels. Yeah. They're very, very big.",
+      "trans": "没错。这些通常是比正常大小的浴巾。对，它们非常大。",
+      "start": 305.15999999999997,
+      "end": 309.15999999999997
+    },
+    {
+      "text": "And this is usually because you want to lay down on the sand on top of this towel, right?",
+      "trans": "这通常是因为你想躺在沙滩上，顶着这个毛巾呢？",
+      "start": 309.16,
+      "end": 314.24
+    },
+    {
+      "text": "That's right. Okay. And the last word that we have for language takeaway is a beach umbrella",
+      "trans": "没错。好的。最后一个语言取走的单词是沙滩伞。",
+      "start": 314.24,
+      "end": 320.64000000000004
+    },
+    {
+      "text": "or just an umbrella. That's right. So maybe you're lying down on this big, comfortable,",
+      "trans": "或者只是把伞拿在手里。没错，所以你可能正在躺在这个大而舒适的沙发上休息呢。",
+      "start": 320.64000000000004,
+      "end": 326.08000000000004
+    },
+    {
+      "text": "soft beach towel and you're afraid of being under the sun too much. So an umbrella is",
+      "trans": "软沙滩毛巾，你怕晒太阳太多。所以一把伞是必要的。",
+      "start": 326.08000000000004,
+      "end": 331.92
+    },
+    {
+      "text": "a way to protect yourself from the sun. It provides shade. That's right. So it's it's called",
+      "trans": "一个保护自己免受阳光直射的方法。它可以提供阴凉。对了，这就是它叫的名称。",
+      "start": 331.92,
+      "end": 337.96000000000004
+    },
+    {
+      "text": "an umbrella or usually if you want to distinguish between the umbrella you use for the rain, you",
+      "trans": "一个雨伞，或者如果你想要区分你用的雨伞来遮雨的话。",
+      "start": 337.96,
+      "end": 344.08
+    },
+    {
+      "text": "can call it a beach umbrella. That's right. Okay. And these are usually a lot bigger and you don't",
+      "trans": "可以叫它海滩伞。没错。而且这些都是通常更大，你不会用得那么频繁。",
+      "start": 344.08,
+      "end": 349.15999999999997
+    },
+    {
+      "text": "actually carry them around in your hand. You have to put them into the sand. That's right.",
+      "trans": "实际上，你得把它们放在手上。你必须扔进沙子里。对了。",
+      "start": 349.15999999999997,
+      "end": 353.24
+    },
+    {
+      "text": "So it stands alone. Okay. So four key phrases there for you on language takeaway. When we go back,",
+      "trans": "那它就单独站立。好的。那么这四个关键词给你了语言小贴士。我们回去时，这些关键词将会派上用场。",
+      "start": 353.24,
+      "end": 359.08
+    },
+    {
+      "text": "listen to the dialogue again and we'll be back shortly. Oh, George,",
+      "trans": "好的，我们再听一遍对话。哦，乔治，",
+      "start": 359.08,
+      "end": 367.79999999999995
+    },
+    {
+      "text": "what a beautiful day it is. The sun is hot and there are just a few clouds scattered here and",
+      "trans": "今天真是个美好的日子。太阳很热，天空中只散落着几朵云。",
+      "start": 367.8,
+      "end": 372.52000000000004
+    },
+    {
+      "text": "there. What a perfect day to be at the beach. The kids are going to have so much fun and we'll be",
+      "trans": "真的。这一天真是去海边的好天气。孩子们肯定会玩得开心，我们也会有很多乐趣。",
+      "start": 372.52000000000004,
+      "end": 377.64
+    },
+    {
+      "text": "able to relax in the sun while they're playing. It does seem like the perfect day. Glad we chose to",
+      "trans": "能够晒太阳玩得开心，感觉真是个完美的日子。我们选对了！",
+      "start": 377.64,
+      "end": 383.64
+    },
+    {
+      "text": "get out of the city and enjoy the nice weather. This looks like the perfect spot. Okay, kids,",
+      "trans": "出去城市享受一下好天气吧，这看起来像是个完美的地方。好的，孩子们，",
+      "start": 383.64,
+      "end": 389.88
+    },
+    {
+      "text": "put on your sunscreen while your mom and I set up camp. Your Mary, help me lay down these beach",
+      "trans": "妈妈和我正在搭帐篷呢。你玛丽，帮我把沙滩的东西铺好吧。",
+      "start": 389.88,
+      "end": 395.08000000000004
+    },
+    {
+      "text": "towels. There we go. Can you help me with the umbrella? Perfect. Okay, kids, here's a beach ball and",
+      "trans": "毛巾。那我们开始了。你能帮我拿把伞吗？完美。孩子们，这里有沙滩球和",
+      "start": 396.03999999999996,
+      "end": 402.12
+    },
+    {
+      "text": "a frisbee a pale and a shovel. I want to see an impressive sand castle by the time we leave.",
+      "trans": "一个飞盘，一个沙包，一把铲子。我们离开时想看看一个令人印象深刻的沙滩城堡。",
+      "start": 402.12,
+      "end": 407.88
+    },
+    {
+      "text": "Don't stray too far. Wait, leave your sandals here or put on your wet shoes.",
+      "trans": "请注意，不要偏离主题。请把你的鞋子留下，或者穿上湿鞋。",
+      "start": 408.68,
+      "end": 412.84
+    },
+    {
+      "text": "And stay in the shallow area. I don't want to see you go any further than that sand bar. It's too deep",
+      "trans": "而且要待在浅水区。我不想让你再往前走到那个沙洲了，太深了",
+      "start": 412.84,
+      "end": 417.96
+    },
+    {
+      "text": "out there and we didn't bring your floaties. You're back already. The water was too cold, huh?",
+      "trans": "你在那边玩得很开心吗？我们忘记带你的浮潜装备了，你倒是回来了。水太冷了吧？",
+      "start": 417.96,
+      "end": 422.84
+    },
+    {
+      "text": "I'll tell you a secret. Do you see that small pool of water over there? It'll be warmer in there.",
+      "trans": "我告诉你一个秘密。你看那边的那个小水池吗？里面会更暖和。",
+      "start": 423.4,
+      "end": 429.0
+    },
+    {
+      "text": "You'll see if you can find some seashells or catch some minnows.",
+      "trans": "你要是能找到一些海螺壳或者逮到几条鱼，就会发现这里的风景真的美得不像话。",
+      "start": 429.0,
+      "end": 432.03999999999996
+    },
+    {
+      "text": "Ah, what is that? Jellyfish? Jeremy, put that down right now. It could sting you.",
+      "trans": "哎，这是什么？水母？杰里米，你快把它放下。它可能会蜇到你。",
+      "start": 432.84,
+      "end": 438.44
+    },
+    {
+      "text": "All right, we're back. So now we have five more words that we're going to take a look at in",
+      "trans": "好的，我们又回来了。现在我们要看一下的五个词是：",
+      "start": 446.12,
+      "end": 450.52
+    },
+    {
+      "text": "language takeaway part two. Language takeaway. Okay, so there are lots of fun things to do at the",
+      "trans": "语言学习第二部分。语言学习。好的，那么在那边有很多有趣的事情可以做。",
+      "start": 450.52,
+      "end": 460.52
+    },
+    {
+      "text": "beach and today we're not going to be talking about all of them because there are too many things,",
+      "trans": "海滩今天不打算讨论所有的事情，因为太多了。",
+      "start": 460.52,
+      "end": 464.76
+    },
+    {
+      "text": "but one fun activity is playing frisbee. That's right. Frisbee. So this is a thing. It's an object,",
+      "trans": "但玩飞盘是一个有趣活动。没错，飞盘。所以这是一个东西。它是一个物体。",
+      "start": 464.76,
+      "end": 471.15999999999997
+    },
+    {
+      "text": "a frisbee or you also play frisbee. That's right. So a frisbee itself is usually made of plastic",
+      "trans": "一个飞盘，你当然也玩飞盘。没错。所以飞盘通常是由塑料制成的。",
+      "start": 471.15999999999997,
+      "end": 478.52
+    },
+    {
+      "text": "and it's like a plate and it's very light and you throw it to your friends and it",
+      "trans": "就像一个盘子，非常轻，你把它扔给朋友就完事了。",
+      "start": 478.52,
+      "end": 483.32
+    },
+    {
+      "text": "sails through the air. Right, it kind of flies along the air and then somebody else has to catch it.",
+      "trans": "当然，它就像在空中飘荡一样沿着空气飞着，然后另一个人需要接住它。",
+      "start": 483.32,
+      "end": 488.84
+    },
+    {
+      "text": "That's right. So you can play frisbee or throw the frisbee. It's very popular with people playing",
+      "trans": "好的。那你可以玩飞盘或者扔飞盘。它很受喜欢打球的人们的欢迎。",
+      "start": 488.84,
+      "end": 494.84
+    },
+    {
+      "text": "frisbee with their dogs, right? You throw the frisbee and the dog chases it. Dogs love frisbee.",
+      "trans": "当然，和他们的狗狗一起玩飞盘怎么样？你扔飞盘，狗狗就去追。狗狗很喜欢飞盘。",
+      "start": 494.84,
+      "end": 499.47999999999996
+    },
+    {
+      "text": "All right. Another great activity that usually we do when we go to the beach is we build sandcastles.",
+      "trans": "好的。我们去海滩时通常会做的一件有趣的事情是建造沙堡。",
+      "start": 500.28,
+      "end": 507.08
+    },
+    {
+      "text": "Okay, so I'm a master sandcastle builder. I'm a really big fan of this activity.",
+      "trans": "好的，我是沙包大师。我对这项活动非常喜欢。",
+      "start": 507.08,
+      "end": 511.15999999999997
+    },
+    {
+      "text": "Basically you use water and sand to create castles. Right. And obviously you have to use tools",
+      "trans": "基本上，你用水和沙子建造城堡。对了，当然你也得用工具。",
+      "start": 511.96,
+      "end": 519.24
+    },
+    {
+      "text": "like shovels and buckets. Otherwise it might look kind of funny. And this is actually such a popular",
+      "trans": "比如说铲子和桶。否则看起来有点儿奇怪。这其实挺流行的。",
+      "start": 519.24,
+      "end": 526.68
+    },
+    {
+      "text": "activity that there are even competitions at times. People will not only build castles or houses",
+      "trans": "有时候会有比赛呢。人们不仅会建造城堡或房子，还会……",
+      "start": 526.68,
+      "end": 533.3199999999999
+    },
+    {
+      "text": "or structures but maybe a statue of some sort or an animal or different things. That's right,",
+      "trans": "是结构，可能是一个雕像、某种动物或不同的东西。没错，",
+      "start": 533.32,
+      "end": 539.4000000000001
+    },
+    {
+      "text": "or people. People. Yeah. So sandcastle. Okay. And well, whenever we go to the beach, the ocean",
+      "trans": "当然了。沙滩排球挺不错的嘛。对吧。我们去海滩的时候，总是看到有人在玩沙子建城堡。那感觉挺有意思的。你呢？你也喜欢这项运动吗？",
+      "start": 539.4000000000001,
+      "end": 547.4000000000001
+    },
+    {
+      "text": "can be a little bit dangerous and that's why in the dialogue, one of the parents told their kids to",
+      "trans": "当然有点危险，这就是为什么在对话中，其中一个家长告诉他们的孩子了。",
+      "start": 547.4000000000001,
+      "end": 553.96
+    },
+    {
+      "text": "to stay in the shallow area of the water. That's right. So shallow is it describes depth. So how deep",
+      "trans": "去浅水区待着。没错，那深浅形容的是深度。那么深呢？",
+      "start": 553.96,
+      "end": 561.8000000000001
+    },
+    {
+      "text": "something is something is shallow. It's not very deep. Okay. So there's very little water. Okay.",
+      "trans": "好的，我知道了。水不多，浅得很。",
+      "start": 561.8,
+      "end": 567.7199999999999
+    },
+    {
+      "text": "But if there's a lot of water, maybe if you swim and you can't touch your feet on the ground, we call that deep.",
+      "trans": "但是，如果水很多，也许如果你游到一定程度，脚都触不到地面，我们就说这是深水。",
+      "start": 567.7199999999999,
+      "end": 573.9599999999999
+    },
+    {
+      "text": "So shallow is very low water and deep is lots and lots of water. Okay. Very good. So you'll usually",
+      "trans": "所以水浅是低水，水深是很多水。好的。很好。你通常会：",
+      "start": 574.76,
+      "end": 581.4
+    },
+    {
+      "text": "find this in the ocean. If you go further further further in, it'll get deeper and deeper and deeper.",
+      "trans": "找到它在海洋里。如果你再往深处走，就越来越深了。",
+      "start": 581.4,
+      "end": 586.92
+    },
+    {
+      "text": "And more and more dangerous. Right. And this is why the mom also told the kid to not pass that sand bar",
+      "trans": "而且越来越危险。对的。这就是为什么妈妈也告诉孩子不要过那个沙洲。",
+      "start": 586.92,
+      "end": 595.0799999999999
+    },
+    {
+      "text": "that was ahead. Okay. Sand bar. This is a piece of sand that basically rises very high in the water.",
+      "trans": "那是在前面。好的。沙洲。这是一个基本在水中很高的沙滩的片段。",
+      "start": 595.0799999999999,
+      "end": 603.3199999999999
+    },
+    {
+      "text": "So usually when you're on the beach and you go into the water and it gets deeper and deeper and",
+      "trans": "所以通常当你在海滩上，进入水中时，它会越来越深。",
+      "start": 603.9599999999999,
+      "end": 607.88
+    },
+    {
+      "text": "then all of a sudden it gets high again. And there's more sand. Right. And so that part that you can",
+      "trans": "然后突然又高了。而且又有更多的沙子。对，所以你可以看到那部分。",
+      "start": 607.88,
+      "end": 612.5999999999999
+    },
+    {
+      "text": "stand on that sand out in the water that's called a sand bar. It's almost like a little island.",
+      "trans": "站在那叫沙洲的水里，几乎像个小岛。",
+      "start": 612.6,
+      "end": 617.4
+    },
+    {
+      "text": "Yeah. Exactly. And as you say, usually it gets deeper, deeper than you have the sand bar. So it gets",
+      "trans": "是的。完全正确。正如你说的，通常会更深，更深，比你沙洲还要深。所以它就变成了",
+      "start": 617.4,
+      "end": 622.84
+    },
+    {
+      "text": "higher. But usually if you pass the sand bar, it's going to get really deep all of a sudden. That's",
+      "trans": "更高。但通常，如果你过了沙坝，那就会突然变得非常深。",
+      "start": 622.84,
+      "end": 627.4
+    },
+    {
+      "text": "right. So that's why the mother doesn't want her child to go past the sand bar. Right. And well,",
+      "trans": "好的。所以这就是为什么妈妈不想让她的孩子越过沙洲的原因吧。对了，",
+      "start": 627.4,
+      "end": 633.32
+    },
+    {
+      "text": "if you're ever swimming in a swimming pool in the ocean, it's always a good idea if you don't know",
+      "trans": "如果你们在海洋游泳池里畅游，总是不错的选择。如果你不确定自己知道怎么做。",
+      "start": 633.32,
+      "end": 638.52
+    },
+    {
+      "text": "how to swim well or if you have children to take along little floaties. Okay. floaties. I like",
+      "trans": "如何游泳好呢？还是带孩子的小浮板呢。好的，小浮板。我喜欢",
+      "start": 638.52,
+      "end": 645.3199999999999
+    },
+    {
+      "text": "this word. A floaties are plastic rings that you put around your arms or maybe around your stomach",
+      "trans": "这个单词。浮潜是当你把塑料环放在你的手臂或可能是肚子上时进行的活动。",
+      "start": 645.3199999999999,
+      "end": 653.4
+    },
+    {
+      "text": "and they're filled with air. Right. So when you go in the water, they help you float. Exactly. So this",
+      "trans": "它们里面充满了空气。对了。当你在水里时，它们帮助你浮起来。完全正确。所以这个",
+      "start": 653.4,
+      "end": 658.76
+    },
+    {
+      "text": "is very, very common thing to put on children because they don't know how to swim well. You put",
+      "trans": "是很多小孩子都喜欢的，因为他们不会游泳。你把他们穿上是因为他们不会游水。",
+      "start": 658.76,
+      "end": 663.72
+    },
+    {
+      "text": "little floaties on their arms or around their stomachs and they can just float and they won't drown.",
+      "trans": "他们的小浮球就挂在手臂上或者肚子里，它们就能漂起来，不会淹死。",
+      "start": 664.12,
+      "end": 669.1600000000001
+    },
+    {
+      "text": "That's right. A floaties. Very good. So a lot of key words, they're all related to the fun of going",
+      "trans": "没错。浮潜挺好的。很多关键词都是和去玩有关的。",
+      "start": 669.1600000000001,
+      "end": 675.0
+    },
+    {
+      "text": "to the beach. Why don't we go back and listen to the dialogue for the very last time.",
+      "trans": "去海滩吧。我们再去听一遍最后的对话怎么样？",
+      "start": 675.0,
+      "end": 678.6
+    },
+    {
+      "text": "Oh, George, what a beautiful day it is. The sun is hot and there are just a few clouds scattered",
+      "trans": "哦，乔治，今天天气真好。太阳很热，天空只有一两片云彩。",
+      "start": 686.36,
+      "end": 691.72
+    },
+    {
+      "text": "here and there. What a perfect day to be at the beach. The kids are going to have so much fun",
+      "trans": "在这里和那里。这是一个非常适合去海滩的日子。孩子们会玩得非常开心。",
+      "start": 691.88,
+      "end": 696.6800000000001
+    },
+    {
+      "text": "and we'll be able to relax in the sun while they're playing. It does seem like the perfect day.",
+      "trans": "我们可以在阳光下放松，他们正玩得开心。这似乎是个完美的日子。",
+      "start": 696.6800000000001,
+      "end": 702.52
+    },
+    {
+      "text": "Glad we chose to get out of the city and enjoy the nice weather. This looks like the perfect spot.",
+      "trans": "太好了，我们选择离开城市享受好天气。这看起来就是完美的地方。",
+      "start": 702.52,
+      "end": 708.0400000000001
+    },
+    {
+      "text": "Okay, kids, put on your sunscreen while your mom and I set up camp. Your Mary, help me lay down",
+      "trans": "好的，孩子们，妈妈和我正在搭帐篷呢。你玛丽，帮我铺好地垫吧。",
+      "start": 708.76,
+      "end": 714.2
+    },
+    {
+      "text": "these beach towels. There we go. Can you help me with the umbrella? Perfect. Okay, kids,",
+      "trans": "这些沙滩毛巾。那我们开始吧。你能帮我拿伞吗？完美。好的，孩子们，\n中文：好了，今天就到这里啦！明天见！",
+      "start": 714.2,
+      "end": 720.76
+    },
+    {
+      "text": "here's a beach ball and a frisbee, a pale and a shovel. I want to see an impressive sand castle",
+      "trans": "这里有沙包和飞盘，一个浅色的，一个铲子。我想看看一个壮观的沙滩城堡。",
+      "start": 720.76,
+      "end": 726.52
+    },
+    {
+      "text": "by the time we leave. Don't stray too far. Wait, leave your sandals here or put on your wet shoes.",
+      "trans": "我们走的时候，别走远。等一下，把你的凉鞋留下或者穿上湿鞋。",
+      "start": 726.52,
+      "end": 732.52
+    },
+    {
+      "text": "And stay in the shallow area. I don't want to see you go any further than that sand bar. It's too deep",
+      "trans": "继续在浅水区待着。我不想看到你再深入到那个沙洲那边去。太深了",
+      "start": 732.52,
+      "end": 737.64
+    },
+    {
+      "text": "out there and we didn't bring your floaties. You're back already. The water was too cold, huh?",
+      "trans": "那边去了，我们没带你的浮潜装备。你已经回来了吧？水太冷了呢？",
+      "start": 737.64,
+      "end": 742.52
+    },
+    {
+      "text": "I'll tell you a secret. Do you see that small pool of water over there? It'll be warmer in there.",
+      "trans": "我会告诉你一个秘密。你看那边的那个小水池吗？里面会更暖和一些。",
+      "start": 743.08,
+      "end": 748.68
+    },
+    {
+      "text": "Go see if you can find some seashells or catch some minnows.",
+      "trans": "去试试，能不能找到一些海贝壳或者钓到几条鱼。",
+      "start": 748.68,
+      "end": 751.7199999999999
+    },
+    {
+      "text": "Ah, what is that? Jellyfish? Terri me, put that down right now. It could sting you.",
+      "trans": "哎呀，那是什么？章鱼吗？天啊，你把它放下吧。这样可能会蜇到你。",
+      "start": 752.5999999999999,
+      "end": 758.12
+    },
+    {
+      "text": "All right, so beach activities. You said you're a master sand castle builder.",
+      "trans": "好的，那海滩活动。你说你是沙雕的高手呢。",
+      "start": 768.1999999999999,
+      "end": 772.3599999999999
+    },
+    {
+      "text": "I love building sandcastles. I won't say that I'm very good at it. Maybe not a professional,",
+      "trans": "我爱建沙包。我不太擅长，但也不是专业水平。\n\n新闻资料包 -> 新闻资料包\n\n延期 -> 延期\n\n截止日期 -> 截止日期\n\n免费赠送 -> 免费赠送\n\n请假/休息一天 -> 请假/休息一天",
+      "start": 772.3599999999999,
+      "end": 777.16
+    },
+    {
+      "text": "but I do a pretty good sand castle. Do you like getting buried in the sand?",
+      "trans": "但是我会做挺好的沙堡。你喜欢被埋在沙子里吗？",
+      "start": 777.16,
+      "end": 782.4399999999999
+    },
+    {
+      "text": "I love it. Although it also scares me. Have you ever had someone maybe cover you with sand and then",
+      "trans": "我爱它。虽然也让我害怕。你有没有人可能是把沙子盖在你身上然后...",
+      "start": 782.4399999999999,
+      "end": 787.4
+    },
+    {
+      "text": "you can't move? Yeah. Yeah, so it's a little bit scary. Obviously, I'm not very comfortable with",
+      "trans": "你不能动？是的。是的，所以有点儿可怕。当然，我不太习惯于",
+      "start": 787.4,
+      "end": 793.4
+    },
+    {
+      "text": "having my head covered, but some people even do that. They cover their entire body head to toe.",
+      "trans": "戴着头套，但有些人甚至会全身包裹。",
+      "start": 793.4,
+      "end": 799.64
+    },
+    {
+      "text": "How do they breathe? And they have a straw out of their mouth to breathe. Wow. Now, I actually love",
+      "trans": "他们怎么呼吸？而且他们的嘴上还有一根吸管。哇。现在，我真的爱上了",
+      "start": 799.64,
+      "end": 805.0799999999999
+    },
+    {
+      "text": "going to the beach. It's relaxing. It's really fun. But I don't really enjoy it going when",
+      "trans": "打算去海滩。挺放松的。挺有意思的。但是我不太喜欢去的时候。",
+      "start": 805.08,
+      "end": 812.2
+    },
+    {
+      "text": "there are a lot of people. Because I like to relax on the beach. But when there are too many people,",
+      "trans": "有很多人。因为我在沙滩上喜欢放松。但是当人太多时，就不好了。",
+      "start": 812.2,
+      "end": 816.36
+    },
+    {
+      "text": "you know, they're running around. They're kids running around. It's not very relaxing.",
+      "trans": "你知道，他们跑来跑去。他们是孩子在跑。这不太放松。",
+      "start": 816.36,
+      "end": 821.32
+    },
+    {
+      "text": "Yeah, I hear you. But swimming in the ocean is also very dangerous, right? It can be. It can be.",
+      "trans": "嗯，我听你了。但游泳在海里也很危险，对吧？也对吧？",
+      "start": 821.32,
+      "end": 826.6
+    },
+    {
+      "text": "So we recommend you go places where there are lifeguards on duty or that you go with an expert swimmer.",
+      "trans": "我们建议你去有救生员执勤的地方，或者和一个专家游泳者一起。",
+      "start": 826.6,
+      "end": 833.08
+    },
+    {
+      "text": "Lifeguards. Very good. Yeah. That's all we've got, though, for today. We hope you've enjoyed",
+      "trans": "救生员。不错。不过今天就这些了。希望你玩得开心吧。",
+      "start": 833.08,
+      "end": 837.0
+    },
+    {
+      "text": "this lesson. And we hope you're excited about the upcoming summer months. If you have any questions",
+      "trans": "这节课。我们希望你对即将到来的暑假充满期待。如果你有任何问题，请随时提问。",
+      "start": 837.0,
+      "end": 841.4000000000001
+    },
+    {
+      "text": "or comments, please do visit our website, EnglishPod.com. All right. We'll see you guys there. Bye. Bye.",
+      "trans": "当然，请访问我们的网站，英语播客。一切顺利。我们会在那里见。再见。再见。",
+      "start": 841.4000000000001,
+      "end": 845.96
+    }
+  ]
+}

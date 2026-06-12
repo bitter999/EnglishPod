@@ -1,0 +1,1932 @@
+{
+  "title": "englishpod_C0143pb",
+  "audio": "./assets/englishpod_C0143pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+      "trans": "大家好，欢迎再次来到英语播客。我的名字是马科。",
+      "start": 0.0,
+      "end": 7.0
+    },
+    {
+      "text": "And my name is Catherine.",
+      "trans": "我的名字是凯特。",
+      "start": 7.0,
+      "end": 9.0
+    },
+    {
+      "text": "And today we're going to be visiting one of my favorite places I must say.",
+      "trans": "今天，我们将参观我最喜爱的地方。我必须说。",
+      "start": 9.0,
+      "end": 13.0
+    },
+    {
+      "text": "Really? You're a big meat eater.",
+      "trans": "真的？你是个大肉食。",
+      "start": 13.0,
+      "end": 15.0
+    },
+    {
+      "text": "I am. I have to have meat every day. So that's why I usually go to the butcher.",
+      "trans": "我是。我必须每天有肉。所以，我通常去肉铺。",
+      "start": 15.0,
+      "end": 21.0
+    },
+    {
+      "text": "So vegetarians be warned today's dialogue is all about eating meat and where to go to get meat.",
+      "trans": "所以素食者请今天的话题是关于吃肉和去哪里买到肉。",
+      "start": 21.0,
+      "end": 27.0
+    },
+    {
+      "text": "So as Marco said, that place is called the butchers.",
+      "trans": "所以正如马库斯所说，这个地方叫做屠宰场。",
+      "start": 27.0,
+      "end": 29.0
+    },
+    {
+      "text": "So we're going to be visiting the butcher and we're going to learn all the different types of meat you can find there.",
+      "trans": "所以我们将去肉铺，学习那里可以找到的各种肉类。",
+      "start": 29.0,
+      "end": 34.0
+    },
+    {
+      "text": "Great. So we don't have anything to preview, but before we get started, just like to mention that you're going to hear a lot of different kinds of words and we'll be back in a minute to talk about what they mean.",
+      "trans": "好的。所以没有可以预览的内容，但在此之前，我想说，您将要听到的很多不同的词汇，我们将很快回到这里讨论它们的意义。",
+      "start": 34.0,
+      "end": 44.0
+    },
+    {
+      "text": "Hi. What can I get for you?",
+      "trans": "你好。你有什么想要的吗？",
+      "start": 54.0,
+      "end": 57.0
+    },
+    {
+      "text": "I'd like half pound of ground beef please.",
+      "trans": "我想要半斤牛肉。",
+      "start": 57.0,
+      "end": 60.0
+    },
+    {
+      "text": "Good choice. Our ground beef is extra lean.",
+      "trans": "好的选择。我们的牛肉是瘦肉。",
+      "start": 60.0,
+      "end": 65.0
+    },
+    {
+      "text": "If you know what I mean.",
+      "trans": "如果你知道我什么意思。",
+      "start": 65.0,
+      "end": 67.0
+    },
+    {
+      "text": "Could I also have half a dozen pork chops and two pounds of boneless chicken breast?",
+      "trans": "我还可以有半 dozen 猪排和两磅骨肉鸡胸肉吗？",
+      "start": 67.0,
+      "end": 72.0
+    },
+    {
+      "text": "No, no, no. Chicken breasts at the moment. But we have some nice chicken thighs.",
+      "trans": "是的，不，不。现在有鸡胸肉，但也有些好的鸡腿肉。",
+      "start": 72.0,
+      "end": 82.0
+    },
+    {
+      "text": "No, that won't do. I'll take this smoked ham you have here.",
+      "trans": "不，那不行。我这儿有这熏肉你拿来了。",
+      "start": 82.0,
+      "end": 86.0
+    },
+    {
+      "text": "Okay. Is there anything else?",
+      "trans": "是的。还有其他什么？",
+      "start": 86.0,
+      "end": 89.0
+    },
+    {
+      "text": "Is this salami and bologna you have here?",
+      "trans": "是这道菜里的香肠和熏肉吗？",
+      "start": 89.0,
+      "end": 92.0
+    },
+    {
+      "text": "Yes. It's very fine meat. Made it myself.",
+      "trans": "是的。这是非常好的肉。我自己做的。",
+      "start": 92.0,
+      "end": 98.0
+    },
+    {
+      "text": "Sounds good. Okay, that's it.",
+      "trans": "好的，那就结束了。",
+      "start": 98.0,
+      "end": 101.0
+    },
+    {
+      "text": "Wait. We have tea bowl, ribeye, and saline sticks. They are very fresh.",
+      "trans": "请等待。我们有茶碗、牛排和盐渍萝卜。它们非常新鲜。",
+      "start": 101.0,
+      "end": 109.0
+    },
+    {
+      "text": "Just came from the slaughterhouse.",
+      "trans": "刚刚从屠宰场回来。",
+      "start": 109.0,
+      "end": 112.0
+    },
+    {
+      "text": "No, that's okay really. I think that's all for today.",
+      "trans": "是的，没关系。我觉得今天就结束了。",
+      "start": 113.0,
+      "end": 117.0
+    },
+    {
+      "text": "Okay, that'll be $34.50.",
+      "trans": "好的，那将为34.50元。",
+      "start": 123.0,
+      "end": 126.0
+    },
+    {
+      "text": "All right, we're back. So this butcher was kind of creepy in the beginning.",
+      "trans": "好的，我们已经回来。所以这个肉商在开始时有点 creepy。",
+      "start": 130.0,
+      "end": 133.0
+    },
+    {
+      "text": "Very creepy in the beginning.",
+      "trans": "很吓人的从头开始。",
+      "start": 133.0,
+      "end": 136.0
+    },
+    {
+      "text": "I think that's usually the conception that you have of butchers because they always have a knife.",
+      "trans": "我认为，通常你认为屠宰工人的想法是这样的：他们总是拿着刀。",
+      "start": 136.0,
+      "end": 141.0
+    },
+    {
+      "text": "And they're always covered in blood, but it's not human blood.",
+      "trans": "他们总是被鲜血覆盖，但不是人类的血液。",
+      "start": 141.0,
+      "end": 144.0
+    },
+    {
+      "text": "Right, like the movie Sweeney Todd.",
+      "trans": "正确，就像电影《苏艾》。",
+      "start": 144.0,
+      "end": 147.0
+    },
+    {
+      "text": "Yeah, like Sweeney Todd.",
+      "trans": "是的，像西蒙·德·亚历山大。",
+      "start": 147.0,
+      "end": 148.0
+    },
+    {
+      "text": "Buster of Fleet Street.",
+      "trans": "英国伦敦的“布鲁塞尔”号巡洋舰。",
+      "start": 148.0,
+      "end": 151.0
+    },
+    {
+      "text": "But we actually took a look at a lot of different types of meat that the woman was ordering.",
+      "trans": "但是，我们实际上对女人正在订购的多种肉类类型进行了仔细查看。",
+      "start": 151.0,
+      "end": 157.0
+    },
+    {
+      "text": "So why don't we take a look at these now in language takeaway?",
+      "trans": "所以，我们为什么不来看看这些现在在语言小站呢？",
+      "start": 157.0,
+      "end": 161.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 161.0,
+      "end": 164.0
+    },
+    {
+      "text": "Okay, so the first is a classic cut.",
+      "trans": "好的，所以第一是经典的切割。",
+      "start": 164.0,
+      "end": 167.0
+    },
+    {
+      "text": "This is something that we had at my house about once a week growing up.",
+      "trans": "这是我小时候经常在家里做的事情。",
+      "start": 167.0,
+      "end": 170.0
+    },
+    {
+      "text": "It's called a pork chop.",
+      "trans": "它叫做猪排。",
+      "start": 170.0,
+      "end": 172.0
+    },
+    {
+      "text": "Pork chop.",
+      "trans": "猪肉刀。",
+      "start": 172.0,
+      "end": 173.0
+    },
+    {
+      "text": "So a pork chop comes from the animal, the pork or pig.",
+      "trans": "所以，猪肉是从动物来的，是猪或猪。",
+      "start": 173.0,
+      "end": 177.0
+    },
+    {
+      "text": "Yeah, we actually don't say pork to mean the animal.",
+      "trans": "是的，我们实际上并不说“猪肉”意味着动物。",
+      "start": 177.0,
+      "end": 179.0
+    },
+    {
+      "text": "Pork just means the kind of meat that comes from a pig.",
+      "trans": "猪肉就是从猪身上提取的肉。",
+      "start": 179.0,
+      "end": 182.0
+    },
+    {
+      "text": "So big difference there when we're talking about food, we say pork.",
+      "trans": "所以，大相径庭的是当我们谈论食物时，我们说猪肉。",
+      "start": 182.0,
+      "end": 185.0
+    },
+    {
+      "text": "Oh, wow. And what about a pork chop?",
+      "trans": "哈哈，好笑。还有，一个猪肉圈？",
+      "start": 185.0,
+      "end": 188.0
+    },
+    {
+      "text": "So what exactly is that?",
+      "trans": "所以，到底是什么？",
+      "start": 188.0,
+      "end": 190.0
+    },
+    {
+      "text": "Chop is usually just on the bone.",
+      "trans": "通常，切是只在骨头上。",
+      "start": 190.0,
+      "end": 192.0
+    },
+    {
+      "text": "And oftentimes it's fried or baked, I guess.",
+      "trans": "而且常常是煎或烤的，大概吧。",
+      "start": 192.0,
+      "end": 196.0
+    },
+    {
+      "text": "But it's just a piece of pork on the bone and a chop.",
+      "trans": "但是这只是骨头上的肉，一个刀。",
+      "start": 196.0,
+      "end": 199.0
+    },
+    {
+      "text": "You just imagine a knife chopping something.",
+      "trans": "您只是想象一把刀在做什么。",
+      "start": 199.0,
+      "end": 202.0
+    },
+    {
+      "text": "All right, so a pork chop.",
+      "trans": "好的，所以一个猪排。",
+      "start": 202.0,
+      "end": 205.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 205.0,
+      "end": 206.0
+    },
+    {
+      "text": "And after pork chops, we were ordering some ground beef.",
+      "trans": "然后是猪肉切片，我们正在点一些牛肉。",
+      "start": 206.0,
+      "end": 209.0
+    },
+    {
+      "text": "All right, so ground beef is another important one.",
+      "trans": "好的，所以牛肉是另一个重要的选项。",
+      "start": 209.0,
+      "end": 212.0
+    },
+    {
+      "text": "Ground beef is beef that's been chopped up and pushed through a machine that kind of pushes it out in very, very small bits and pieces.",
+      "trans": "地肉是经过切碎和通过机器压过的牛肉，这种机器会把它切成非常小的碎片。",
+      "start": 212.0,
+      "end": 223.0
+    },
+    {
+      "text": "There's no bones.",
+      "trans": "没有骨头。",
+      "start": 223.0,
+      "end": 224.0
+    },
+    {
+      "text": "So ground comes from the verb to grind.",
+      "trans": "所以，地（物）来源于动词“磨”。",
+      "start": 224.0,
+      "end": 227.0
+    },
+    {
+      "text": "So to grind up meat, to make it very, very small pieces.",
+      "trans": "所以要剁肉，让它变得非常小。",
+      "start": 227.0,
+      "end": 231.0
+    },
+    {
+      "text": "Right, so if you want to make a spaghetti bulgoyneza, the kind of beef you use is ground beef or even hamburgers.",
+      "trans": "正确，如果您想制作意大利肉酱面，您使用的牛肉是生牛肉或甚至汉堡肉。",
+      "start": 231.0,
+      "end": 237.0
+    },
+    {
+      "text": "Oh, yeah, exactly.",
+      "trans": "哦，对了，正好。",
+      "start": 237.0,
+      "end": 239.0
+    },
+    {
+      "text": "So ground beef, you ground up beef.",
+      "trans": "所以牛肉，你把牛肉磨碎。",
+      "start": 239.0,
+      "end": 241.0
+    },
+    {
+      "text": "What other things would you grind?",
+      "trans": "请问，你还会磨什么？",
+      "start": 241.0,
+      "end": 243.0
+    },
+    {
+      "text": "Oh, you could grind your teeth.",
+      "trans": "你好，你可以磨你的牙齿。",
+      "start": 243.0,
+      "end": 246.0
+    },
+    {
+      "text": "Some people do that when they're sleeping, they grind their teeth.",
+      "trans": "有些人这样做，他们在睡觉时磨牙。",
+      "start": 246.0,
+      "end": 250.0
+    },
+    {
+      "text": "You can grind, you have pepper grinders.",
+      "trans": "你可以磨，你有辣椒机。",
+      "start": 250.0,
+      "end": 254.0
+    },
+    {
+      "text": "You know, peppers sometimes come in balls.",
+      "trans": "我知道，辣椒有时会成串。",
+      "start": 254.0,
+      "end": 256.0
+    },
+    {
+      "text": "You have to grind them to make them smaller and broken down.",
+      "trans": "你需要磨碎它们，以便使其更小且破碎。",
+      "start": 256.0,
+      "end": 259.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 259.0,
+      "end": 260.0
+    },
+    {
+      "text": "So that's ground beef and from the verb to grind.",
+      "trans": "所以，这就是牛肉和动词“磨碎”的意思。",
+      "start": 260.0,
+      "end": 264.0
+    },
+    {
+      "text": "Now we are buying some boneless chicken breasts.",
+      "trans": "现在我们正在购买一些骨肉不化的鸡胸肉。",
+      "start": 264.0,
+      "end": 268.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，我将这句话翻译成中文：",
+      "start": 268.0,
+      "end": 269.0
+    },
+    {
+      "text": "So boneless, as you have a guest, means without bones.",
+      "trans": "所以骨头不剩，就像你有客人一样，意味着没有骨头。",
+      "start": 269.0,
+      "end": 273.0
+    },
+    {
+      "text": "And chicken breasts are usually just a really nice juicy kind of tender cut of meat from the chicken, from the kind of underside of the chicken where obviously.",
+      "trans": "和鸡胸肉通常是鸡肉里最嫩、最柔软的切片，从鸡肉的下部，也就是鸡肉的肌肉组织上。",
+      "start": 273.0,
+      "end": 285.0
+    },
+    {
+      "text": "Yeah, they have it.",
+      "trans": "是的，他们有它。",
+      "start": 285.0,
+      "end": 286.0
+    },
+    {
+      "text": "It's not a wing, it's not a leg, it's just a chicken breast.",
+      "trans": "不是翅膀，也不是腿，只是鸡胸肉。",
+      "start": 286.0,
+      "end": 289.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，我将这句话翻译成中文：",
+      "start": 289.0,
+      "end": 290.0
+    },
+    {
+      "text": "So boneless chicken breast.",
+      "trans": "所以骨头不剩的鸡肉胸肉。",
+      "start": 290.0,
+      "end": 291.0
+    },
+    {
+      "text": "Now usually it is boneless, right, when you buy it at the supermarket.",
+      "trans": "现在通常它骨头不剩，当你在超市买的时候。",
+      "start": 291.0,
+      "end": 294.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 294.0,
+      "end": 295.0
+    },
+    {
+      "text": "Next up we've got some classic deli counter favorites.",
+      "trans": "接下来，我们有各种经典快餐连锁店的招牌食品。",
+      "start": 295.0,
+      "end": 299.0
+    },
+    {
+      "text": "These are our cold cuts.",
+      "trans": "这些是我们的腊肉。",
+      "start": 299.0,
+      "end": 301.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，我将这句话翻译成中文：",
+      "start": 301.0,
+      "end": 302.0
+    },
+    {
+      "text": "So cold cuts.",
+      "trans": "所以冷切。",
+      "start": 302.0,
+      "end": 303.0
+    },
+    {
+      "text": "Now this means that they are cold.",
+      "trans": "现在，这意味着他们很冷。",
+      "start": 303.0,
+      "end": 305.0
+    },
+    {
+      "text": "Oh well, yeah, they're cold.",
+      "trans": "嗯，对，他们冷。",
+      "start": 305.0,
+      "end": 308.0
+    },
+    {
+      "text": "But I think cold cuts, the most important thing to remember here is that they're mostly like kinds of salami or cured meats.",
+      "trans": "但是，我认为在这里最重要的事情是，它们大多是像香肠或熏肉这样的主要原料。",
+      "start": 308.0,
+      "end": 316.0
+    },
+    {
+      "text": "So these are salt cured or they're dried meats.",
+      "trans": "所以，这些是腌制的肉或干燥的肉类。",
+      "start": 316.0,
+      "end": 319.0
+    },
+    {
+      "text": "And you usually have them on sandwiches, so like a salami sandwich.",
+      "trans": "你通常用它们做三明治，所以像香肠三明治一样。",
+      "start": 319.0,
+      "end": 323.0
+    },
+    {
+      "text": "So like cured meat, you mean that meat has, it hasn't been cooked?",
+      "trans": "所以，比如腌肉，你指的是肉已经煮熟了？",
+      "start": 323.0,
+      "end": 326.0
+    },
+    {
+      "text": "Oh no, it's not been cooked but it's treated in a way that allows it to last for a very long time.",
+      "trans": "抱歉，它还没有被煮熟，但它允许长时间保存。",
+      "start": 326.0,
+      "end": 331.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 331.0,
+      "end": 332.0
+    },
+    {
+      "text": "So they look like long, long tubes of meat.",
+      "trans": "所以它们看起来像长长的肉管。",
+      "start": 332.0,
+      "end": 336.0
+    },
+    {
+      "text": "They look very dry.",
+      "trans": "他们看起来非常干燥。",
+      "start": 336.0,
+      "end": 337.0
+    },
+    {
+      "text": "So they look very dry like beef jerky for example.",
+      "trans": "所以他们看起来像牛肉干，例如。",
+      "start": 337.0,
+      "end": 339.0
+    },
+    {
+      "text": "All right, so cured meat.",
+      "trans": "好的，所以腌肉。",
+      "start": 339.0,
+      "end": 341.0
+    },
+    {
+      "text": "Now for example we have salami and baloney.",
+      "trans": "现在，我们有香肠和火腿。",
+      "start": 341.0,
+      "end": 345.0
+    },
+    {
+      "text": "Baloney.",
+      "trans": "抱歉，我不能直接翻译成中文。不过，我可以告诉你这个词语的含义：\"谎言\"。如果你需要更详细的解释或翻译，请告诉我！",
+      "start": 345.0,
+      "end": 346.0
+    },
+    {
+      "text": "Now it's interesting because baloney is actually spelled B-O-L-O-G and A, so you would say balona, balochna or something like that.",
+      "trans": "现在很有趣，因为“垃圾”是实际拼写为B-O-L-O-G的，所以你可以说“巴拿马”，“巴拿尼亚”或类似的。",
+      "start": 346.0,
+      "end": 355.0
+    },
+    {
+      "text": "Well I think comes in Italian and baloney, but it's definitely a change that happened in the English language when it came over from Italy.",
+      "trans": "我倒是觉得是意大利语和垃圾，但这个变化在英语语言传入意大利后确实发生了。",
+      "start": 355.0,
+      "end": 363.0
+    },
+    {
+      "text": "But baloney is a kind of meat that's got, yeah, it's got a very funny looking name.",
+      "trans": "但是垃圾是一种非常有趣的肉，是的，它有一个非常有趣的名字。",
+      "start": 363.0,
+      "end": 368.0
+    },
+    {
+      "text": "Yeah, so you're more sophisticated than I am.",
+      "trans": "是的，你比我还聪明。",
+      "start": 368.0,
+      "end": 370.0
+    },
+    {
+      "text": "That's why you know this.",
+      "trans": "这句话的中文翻译是：",
+      "start": 370.0,
+      "end": 371.0
+    },
+    {
+      "text": "I just speak Italian.",
+      "trans": "我只会意大利语。",
+      "start": 371.0,
+      "end": 373.0
+    },
+    {
+      "text": "All right, so you have salami, baloney and...",
+      "trans": "好的，您有盐、腊肠和............",
+      "start": 373.0,
+      "end": 377.0
+    },
+    {
+      "text": "Pastrami.",
+      "trans": "黄油。",
+      "start": 377.0,
+      "end": 378.0
+    },
+    {
+      "text": "Pastrami.",
+      "trans": "美式奶酪。",
+      "start": 378.0,
+      "end": 379.0
+    },
+    {
+      "text": "What about ham?",
+      "trans": "关于火腿，你觉得怎么样？",
+      "start": 379.0,
+      "end": 380.0
+    },
+    {
+      "text": "Is that considered a cold cut?",
+      "trans": "是这样的，还是冷切？",
+      "start": 380.0,
+      "end": 381.0
+    },
+    {
+      "text": "You can have ham in the cold cut section because ham sometimes comes in tubes that you slice.",
+      "trans": "您可以将火腿放在冷冻切片区，因为有时火腿会夹在管子里，您需要切割。",
+      "start": 381.0,
+      "end": 386.0
+    },
+    {
+      "text": "But ham is also just a normal kind of pork.",
+      "trans": "但是猪肉也是普通的猪肉。",
+      "start": 386.0,
+      "end": 390.0
+    },
+    {
+      "text": "But ham is cured you know.",
+      "trans": "但是，猪肉已经经过处理。",
+      "start": 390.0,
+      "end": 391.0
+    },
+    {
+      "text": "Like smoked ham.",
+      "trans": "像熏肉。",
+      "start": 391.0,
+      "end": 392.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 392.0,
+      "end": 393.0
+    },
+    {
+      "text": "Or smoked turkey one of my favorites.",
+      "trans": "或者我最喜欢的一道菜是烤鸡。",
+      "start": 393.0,
+      "end": 395.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "很好。",
+      "start": 395.0,
+      "end": 396.0
+    },
+    {
+      "text": "And well now moving on from the cold cuts, we're going to concentrate on steaks.",
+      "trans": "现在转而从火腿转到牛肉，我们将集中精力于牛排。",
+      "start": 396.0,
+      "end": 401.0
+    },
+    {
+      "text": "Ooh steaks, so there are a thousand kinds of steaks in this world and every city seems to have its own kind.",
+      "trans": "哦啊，牛肉呀，这个世界上的千种牛肉样样俱全，每个城市似乎都有自己的种类。",
+      "start": 401.0,
+      "end": 407.0
+    },
+    {
+      "text": "But here we're only looking at three, the first of which is the tea bone.",
+      "trans": "但是，我们只关注这三个，即茶骨。",
+      "start": 408.0,
+      "end": 412.0
+    },
+    {
+      "text": "All right, the tea bone steak I think is one of the most popular ones.",
+      "trans": "好的，我认为这是一道最受欢迎的菜。",
+      "start": 412.0,
+      "end": 415.0
+    },
+    {
+      "text": "Definitely.",
+      "trans": "当然。",
+      "start": 415.0,
+      "end": 416.0
+    },
+    {
+      "text": "It's a steak that's pretty big right?",
+      "trans": "是块牛肉，挺大的？",
+      "start": 416.0,
+      "end": 418.0
+    },
+    {
+      "text": "Yeah well, yeah I can't be.",
+      "trans": "是的，是的，我不能。",
+      "start": 418.0,
+      "end": 420.0
+    },
+    {
+      "text": "And it has a bone inside that looks like a tea.",
+      "trans": "And it has a bone inside that looks like a tea. (注释：这里的“骨”是“骨头”的意思，而“茶”在这里指的是茶叶。)",
+      "start": 420.0,
+      "end": 424.0
+    },
+    {
+      "text": "All right, so you're saying Marco that the tea bone is named after the shape and the look of this steak.",
+      "trans": "好的，你说的Marco说这个茶骨的名字是根据这道菜的形状和样子命名的。",
+      "start": 424.0,
+      "end": 431.0
+    },
+    {
+      "text": "Yeah, tea bone steak.",
+      "trans": "是的，牛骨烤肉。",
+      "start": 431.0,
+      "end": 433.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 433.0,
+      "end": 434.0
+    },
+    {
+      "text": "And as well as our next one is also a rib eye.",
+      "trans": "And as well as our next one is also a rib eye. (注：在中文中，\"我们的下一个\"可以翻译为“我们的下一个”，但在这里我选择使用“我们的”来保持一致性。)",
+      "start": 434.0,
+      "end": 437.0
+    },
+    {
+      "text": "Okay, so the rib eye I think actually has a piece of the rib in it.",
+      "trans": "好的，所以我认为牛排里有条肋骨。",
+      "start": 437.0,
+      "end": 441.0
+    },
+    {
+      "text": "So the rib is the bone and there's a circle which is kind of a, it's, the piece of meat is sliced off the rib and the circle is actually part of that rib.",
+      "trans": "所以，骨头就是骨，圆圈有点像，它切开的肉是从骨头里割下来的，圆圈实际上也是从骨头里的一部分。",
+      "start": 441.0,
+      "end": 448.0
+    },
+    {
+      "text": "So there's a little bit of bone in it.",
+      "trans": "所以这里有一点骨头。",
+      "start": 448.0,
+      "end": 450.0
+    },
+    {
+      "text": "But it's not as boney as the tea bone.",
+      "trans": "但是，它不像茶骨那样结实。",
+      "start": 450.0,
+      "end": 454.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”的翻译：",
+      "start": 454.0,
+      "end": 455.0
+    },
+    {
+      "text": "So it does have one small bone that kind of looks like an eye because you can see through it.",
+      "trans": "所以它确实有像一只眼睛一样的小骨头，因为你可以看到里面。",
+      "start": 455.0,
+      "end": 459.0
+    },
+    {
+      "text": "And our next steak has no bone and is the most tender and the best steak you can have sirloin steak.",
+      "trans": "和我们的下一个牛排没有骨头，是口感最好、最嫩的牛肉先生林牛排。",
+      "start": 459.0,
+      "end": 466.0
+    },
+    {
+      "text": "So I think the sirloin is definitely the most expensive if you're in a restaurant.",
+      "trans": "所以我认为牛排绝对是餐厅里最贵的。",
+      "start": 466.0,
+      "end": 469.0
+    },
+    {
+      "text": "Definitely the most tender I think of all those kinds of stuff.",
+      "trans": "毫无疑问，我最欣赏那些类型的物品。",
+      "start": 469.0,
+      "end": 472.0
+    },
+    {
+      "text": "It's delicious.",
+      "trans": "是可口的。",
+      "start": 472.0,
+      "end": 473.0
+    },
+    {
+      "text": "And usually you can have like a big sirloin steak like a half a kilo, like a 400 gram sirloin steak.",
+      "trans": "通常你也可以有像大排肉这样的大小，比如半斤左右的400克大排肉。",
+      "start": 473.0,
+      "end": 479.0
+    },
+    {
+      "text": "At a friend of a full kilo.",
+      "trans": "在朋友的半斤八两里。",
+      "start": 479.0,
+      "end": 481.0
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 481.0,
+      "end": 482.0
+    },
+    {
+      "text": "Sirloin steak.",
+      "trans": "Sirloin steak in Chinese is \"牛杂肉\" (bān lǎo mò).",
+      "start": 482.0,
+      "end": 483.0
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 483.0,
+      "end": 484.0
+    },
+    {
+      "text": "For is it a competition or?",
+      "trans": "对于是竞争还是？",
+      "start": 484.0,
+      "end": 485.0
+    },
+    {
+      "text": "There's a kind of steak called the bistecca alla Fiorentina.",
+      "trans": "有叫做佛罗伦萨牛排的肉。",
+      "start": 485.0,
+      "end": 489.0
+    },
+    {
+      "text": "And it'll be, it's the Florentine beef steak and it is, it can be about a kilo of meat.",
+      "trans": "而且，它将是一个佛罗伦萨牛肉排，大约一公斤的肉。",
+      "start": 489.0,
+      "end": 495.0
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 495.0,
+      "end": 496.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 496.0,
+      "end": 497.0
+    },
+    {
+      "text": "I bet you can't even move after that.",
+      "trans": "我估计你连那之后都动不了。",
+      "start": 497.0,
+      "end": 498.0
+    },
+    {
+      "text": "No.",
+      "trans": "不。",
+      "start": 498.0,
+      "end": 499.0
+    },
+    {
+      "text": "You fall asleep with your head and your soup on the table.",
+      "trans": "您睡着时头和汤在桌子上。",
+      "start": 499.0,
+      "end": 502.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 502.0,
+      "end": 503.0
+    },
+    {
+      "text": "So that's all the meat related words that we have for you today.",
+      "trans": "所以，今天我们就为您介绍今天的肉相关词汇。",
+      "start": 503.0,
+      "end": 507.0
+    },
+    {
+      "text": "So why don't we move on now to Fluency Builder where we're going to take a look at some of the phrases in this dialogue.",
+      "trans": "所以为什么不赶紧转向 Fluent Builder，看看这段对话中的这些短语。",
+      "start": 507.0,
+      "end": 513.0
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 513.0,
+      "end": 514.0
+    },
+    {
+      "text": "Fluency Builder.",
+      "trans": "流畅 builder.",
+      "start": 514.0,
+      "end": 515.0
+    },
+    {
+      "text": "We're going to look at the phrases if you know what I mean.",
+      "trans": "我们将会看看你所说的这些短语。",
+      "start": 515.0,
+      "end": 518.0
+    },
+    {
+      "text": "If you know what I mean.",
+      "trans": "如果你知道我什么意思。",
+      "start": 518.0,
+      "end": 519.0
+    },
+    {
+      "text": "Now I love this phrase.",
+      "trans": "现在我爱这个短语。",
+      "start": 519.0,
+      "end": 521.0
+    },
+    {
+      "text": "If you know what I mean.",
+      "trans": "如果你知道我什么意思。",
+      "start": 521.0,
+      "end": 523.0
+    },
+    {
+      "text": "I do know what you mean.",
+      "trans": "我懂你所说的。",
+      "start": 523.0,
+      "end": 524.0
+    },
+    {
+      "text": "Well, it's weird.",
+      "trans": "很好，这很奇怪。",
+      "start": 524.0,
+      "end": 525.0
+    },
+    {
+      "text": "I like it too.",
+      "trans": "我喜欢它。",
+      "start": 525.0,
+      "end": 526.0
+    },
+    {
+      "text": "So you can use it for sarcasm.",
+      "trans": "所以你可以用它来进行讽刺。",
+      "start": 526.0,
+      "end": 529.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 529.0,
+      "end": 530.0
+    },
+    {
+      "text": "Right?",
+      "trans": "是的？",
+      "start": 530.0,
+      "end": 531.0
+    },
+    {
+      "text": "Or you can use it to kind of insinuate something, right?",
+      "trans": "你可以用它来暗示一些什么，对吗？",
+      "start": 531.0,
+      "end": 533.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 533.0,
+      "end": 534.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 534.0,
+      "end": 535.0
+    },
+    {
+      "text": "So you're saying, you're saying there's a double meaning in what I want to say.",
+      "trans": "所以你说，你是在说，我想要说什么有双重含义。",
+      "start": 535.0,
+      "end": 539.0
+    },
+    {
+      "text": "So there's two things I could say and I'm not going to say it outright.",
+      "trans": "所以，我可以说的两个东西，我不打算直接说。",
+      "start": 539.0,
+      "end": 542.0
+    },
+    {
+      "text": "But you know, this thing that we can't really say.",
+      "trans": "但是，你可能不知道，我们不能完全地说。",
+      "start": 542.0,
+      "end": 546.0
+    },
+    {
+      "text": "So for example, we can say she likes to go out if you know what I mean.",
+      "trans": "所以，例如，我们可以说她喜欢出去，如果你知道我所说的。",
+      "start": 546.0,
+      "end": 552.0
+    },
+    {
+      "text": "All right.",
+      "trans": "好的，以下是“所有好”的翻译：",
+      "start": 552.0,
+      "end": 553.0
+    },
+    {
+      "text": "So you're insinuating that not only does she like to go out, but maybe...",
+      "trans": "所以你说她喜欢出去，或者可能...",
+      "start": 553.0,
+      "end": 557.0
+    },
+    {
+      "text": "Maybe she goes out a lot.",
+      "trans": "可能她经常出去。",
+      "start": 557.0,
+      "end": 558.0
+    },
+    {
+      "text": "A lot.",
+      "trans": "很多。",
+      "start": 558.0,
+      "end": 559.0
+    },
+    {
+      "text": "Or maybe she gets drunk or something like that.",
+      "trans": "或者她可能喝醉了或者有什么其他原因。",
+      "start": 559.0,
+      "end": 561.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 561.0,
+      "end": 562.0
+    },
+    {
+      "text": "So it's kind of like a double meaning, but you're trying to be subtle.",
+      "trans": "所以它有点像双关，但你是在隐晦地表达。",
+      "start": 562.0,
+      "end": 565.0
+    },
+    {
+      "text": "Yeah, but it's not so subtle because you're actually saying like this is not what I mean.",
+      "trans": "是的，但并不是那么隐晦，因为你实际上是在这么说，这并不意味着我想要什么。",
+      "start": 565.0,
+      "end": 569.0
+    },
+    {
+      "text": "Or she's eating for two if you know what I mean.",
+      "trans": "或者她俩吃两个。",
+      "start": 569.0,
+      "end": 573.0
+    },
+    {
+      "text": "Oh, there we go.",
+      "trans": "哈哈，一切顺利。",
+      "start": 573.0,
+      "end": 574.0
+    },
+    {
+      "text": "So you're insinuating that...",
+      "trans": "所以您是在暗示...",
+      "start": 574.0,
+      "end": 575.0
+    },
+    {
+      "text": "Well, you're not really insinuating.",
+      "trans": "正确翻译为中文是：“嗯，你不是在暗示吗？”",
+      "start": 575.0,
+      "end": 577.0
+    },
+    {
+      "text": "You're telling me that.",
+      "trans": "您是在说：“你”。",
+      "start": 577.0,
+      "end": 578.0
+    },
+    {
+      "text": "She's pregnant.",
+      "trans": "她怀孕了。",
+      "start": 578.0,
+      "end": 579.0
+    },
+    {
+      "text": "Eating for two is a common idiom in English.",
+      "trans": "吃两顿饭是中国话里的一个常见成语。",
+      "start": 579.0,
+      "end": 581.0
+    },
+    {
+      "text": "It means that a person, a woman, has a...",
+      "trans": "这句话的意思是：一个人，一个女人，有...",
+      "start": 581.0,
+      "end": 584.0
+    },
+    {
+      "text": "Well, it's going to have a baby.",
+      "trans": "嗯，它会生个宝宝。",
+      "start": 584.0,
+      "end": 586.0
+    },
+    {
+      "text": "So here I'm saying, hey, do you know this idiom?",
+      "trans": "所以在这里，我说，你听说过这个成语吗？",
+      "start": 586.0,
+      "end": 588.0
+    },
+    {
+      "text": "She's eating for two if you know what I mean.",
+      "trans": "她吃两顿饭如果知道我什么意思。",
+      "start": 588.0,
+      "end": 591.0
+    },
+    {
+      "text": "Right.",
+      "trans": "正确。以下是“right”在中文中的翻译：",
+      "start": 591.0,
+      "end": 592.0
+    },
+    {
+      "text": "Wink, wink, wink.",
+      "trans": "眨眼，眨眼，眨眼。",
+      "start": 592.0,
+      "end": 593.0
+    },
+    {
+      "text": "So now why don't we take a look at some other examples of how we could use...",
+      "trans": "所以现在，我们为什么不看看一些其他例子，如何我们可以使用...",
+      "start": 593.0,
+      "end": 597.0
+    },
+    {
+      "text": "If you know what I mean in different circumstances when you're trying to insinuate something.",
+      "trans": "如果你知道我在不同的情况下如何暗示某事。",
+      "start": 597.0,
+      "end": 602.0
+    },
+    {
+      "text": "Example one.",
+      "trans": "一例。",
+      "start": 602.0,
+      "end": 604.0
+    },
+    {
+      "text": "She's eating for two now if you know what I mean.",
+      "trans": "她现在吃两顿饭。如果你知道我什么意思，那么她现在吃两顿饭。",
+      "start": 604.0,
+      "end": 609.0
+    },
+    {
+      "text": "Example two.",
+      "trans": "翻译成中文是：",
+      "start": 609.0,
+      "end": 611.0
+    },
+    {
+      "text": "Tim hit her home run today if you know what I mean.",
+      "trans": "今天，蒂姆今天在她的家中取得了大个子。",
+      "start": 611.0,
+      "end": 615.0
+    },
+    {
+      "text": "Example three.",
+      "trans": "翻译成中文是：",
+      "start": 615.0,
+      "end": 618.0
+    },
+    {
+      "text": "Jim and Laura are going their separate ways if you know what I mean.",
+      "trans": "在你了解我的意思之前，吉姆和劳拉各自走自己的路。",
+      "start": 618.0,
+      "end": 624.0
+    },
+    {
+      "text": "Alright, we're back.",
+      "trans": "好的，我们回来了。",
+      "start": 624.0,
+      "end": 626.0
+    },
+    {
+      "text": "So now that that's clear, why don't we move on to our next phrase?",
+      "trans": "所以现在说清楚了，我们为什么不转到下一个句子呢？",
+      "start": 626.0,
+      "end": 629.0
+    },
+    {
+      "text": "So this one is a counting phrase and for those of you who have heard the word doesn't before,",
+      "trans": "所以这个是计数词，对于那些听过这个词之前没有听说过的人来说。",
+      "start": 629.0,
+      "end": 633.0
+    },
+    {
+      "text": "it might not be so new.",
+      "trans": "它可能并不新鲜。",
+      "start": 633.0,
+      "end": 634.0
+    },
+    {
+      "text": "The phrase is half a dozen.",
+      "trans": "这个短语是半截子。",
+      "start": 634.0,
+      "end": 636.0
+    },
+    {
+      "text": "Half a dozen.",
+      "trans": "半幅。",
+      "start": 636.0,
+      "end": 637.0
+    },
+    {
+      "text": "So that means half of twelve.",
+      "trans": "所以，意味着十二点的一半。",
+      "start": 637.0,
+      "end": 640.0
+    },
+    {
+      "text": "Twelve.",
+      "trans": "十二。",
+      "start": 640.0,
+      "end": 641.0
+    },
+    {
+      "text": "So a dozen is twelve.",
+      "trans": "所以，十二就是二十。",
+      "start": 641.0,
+      "end": 642.0
+    },
+    {
+      "text": "And it's...",
+      "trans": "和它一样...",
+      "start": 642.0,
+      "end": 643.0
+    },
+    {
+      "text": "I'm not really sure when this started being used in English, but a dozen is twelve.",
+      "trans": "我不太确定这是何时开始被用在英语中的，但是十是一个十二。",
+      "start": 643.0,
+      "end": 647.0
+    },
+    {
+      "text": "And half a dozen is then six.",
+      "trans": "And half a dozen is then six. (注：在中文中，\"半\"和\"六\"是两个不同的数字。)",
+      "start": 647.0,
+      "end": 650.0
+    },
+    {
+      "text": "Now there's another phrase or another saying that's very common, a dime a dozen.",
+      "trans": "现在还有另一个常见的表达，一个“ dime a dozen ”。",
+      "start": 650.0,
+      "end": 655.0
+    },
+    {
+      "text": "He's a dime a dozen.",
+      "trans": "他是一文不值。",
+      "start": 655.0,
+      "end": 657.0
+    },
+    {
+      "text": "So that means you can get twelve of the same type of guys for ten cents.",
+      "trans": "所以，这意味着你可以得到十个人中同一类型的男人们，每人都要花10分钱。",
+      "start": 657.0,
+      "end": 662.0
+    },
+    {
+      "text": "Right, so they're easy to find.",
+      "trans": "正确，他们很容易找到。",
+      "start": 662.0,
+      "end": 664.0
+    },
+    {
+      "text": "They're easy to find.",
+      "trans": "他们很容易找到。",
+      "start": 664.0,
+      "end": 665.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 665.0,
+      "end": 666.0
+    },
+    {
+      "text": "The dime a dozen.",
+      "trans": "美元一打。",
+      "start": 666.0,
+      "end": 667.0
+    },
+    {
+      "text": "Alright, very good.",
+      "trans": "好的，很好。",
+      "start": 667.0,
+      "end": 668.0
+    },
+    {
+      "text": "And moving on to our last one.",
+      "trans": "并且转到我们的最后一个。",
+      "start": 668.0,
+      "end": 670.0
+    },
+    {
+      "text": "When they were talking, they said something about the meat being lean, extra lean.",
+      "trans": "在他们说话的时候，他们说肉是瘦的，特别瘦。",
+      "start": 670.0,
+      "end": 675.0
+    },
+    {
+      "text": "Okay, lean.",
+      "trans": "好的，趴下。",
+      "start": 675.0,
+      "end": 676.0
+    },
+    {
+      "text": "This is not mean lean on a door.",
+      "trans": "这并不是用门敲的。",
+      "start": 676.0,
+      "end": 679.0
+    },
+    {
+      "text": "This is not like resting on something.",
+      "trans": "这是和着什么似的。",
+      "start": 679.0,
+      "end": 681.0
+    },
+    {
+      "text": "This is actually a kind of way to describe food.",
+      "trans": "这是对食物的一种描述方式。",
+      "start": 681.0,
+      "end": 685.0
+    },
+    {
+      "text": "And so food is lean if it's not got much fat.",
+      "trans": "所以食物是瘦的，如果它没有太多脂肪。",
+      "start": 685.0,
+      "end": 688.0
+    },
+    {
+      "text": "It's not fatty.",
+      "trans": "是脂肪。",
+      "start": 688.0,
+      "end": 690.0
+    },
+    {
+      "text": "Okay, so if it's lean, it doesn't have much fat.",
+      "trans": "好的，如果瘦了，它就没有多少脂肪。",
+      "start": 690.0,
+      "end": 693.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 693.0,
+      "end": 694.0
+    },
+    {
+      "text": "So I prefer to eat lean meats, so I often eat birds and poultry.",
+      "trans": "所以我喜欢吃瘦肉，所以我经常吃鸟和禽类。",
+      "start": 694.0,
+      "end": 698.0
+    },
+    {
+      "text": "So chicken, I like it pretty lean.",
+      "trans": "所以鸡肉，我喜欢它很瘦。",
+      "start": 698.0,
+      "end": 700.0
+    },
+    {
+      "text": "And if it's got fat on it, I'll cut the fat off.",
+      "trans": "如果它有脂肪，我会把它切掉。",
+      "start": 700.0,
+      "end": 703.0
+    },
+    {
+      "text": "Okay, like the skin.",
+      "trans": "好的，像皮肤。",
+      "start": 703.0,
+      "end": 704.0
+    },
+    {
+      "text": "The skin is fat, right?",
+      "trans": "是的，皮肤很厚。",
+      "start": 704.0,
+      "end": 706.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 706.0,
+      "end": 707.0
+    },
+    {
+      "text": "So you can have lean beef.",
+      "trans": "所以你可以有瘦牛肉。",
+      "start": 707.0,
+      "end": 709.0
+    },
+    {
+      "text": "It doesn't have much fat around it.",
+      "trans": "它脂肪不多。",
+      "start": 709.0,
+      "end": 711.0
+    },
+    {
+      "text": "Yeah, and in America, actually, on the packages at the supermarket, it often says the percentage",
+      "trans": "是的，而且在美国，实际上，在超市的包装上经常写着百分比。",
+      "start": 711.0,
+      "end": 716.16
+    },
+    {
+      "text": "of meat that you have.",
+      "trans": "肉你有吗？",
+      "start": 716.16,
+      "end": 717.16
+    },
+    {
+      "text": "So it's 95% lean.",
+      "trans": "所以，接近100%的精炼。",
+      "start": 717.16,
+      "end": 719.0
+    },
+    {
+      "text": "Or 98% lean.",
+      "trans": "或98% 稳定。",
+      "start": 719.0,
+      "end": 721.0
+    },
+    {
+      "text": "So that means you have 3% fat in there.",
+      "trans": "所以，这意味着你在这里有3%的脂肪。",
+      "start": 721.0,
+      "end": 723.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确翻译为中文是：“正好。”",
+      "start": 723.0,
+      "end": 724.0
+    },
+    {
+      "text": "Or 2%.",
+      "trans": "或者 2%。",
+      "start": 724.0,
+      "end": 725.0
+    },
+    {
+      "text": "My math skills are amazing.",
+      "trans": "我的数学能力很强。",
+      "start": 725.0,
+      "end": 727.0
+    },
+    {
+      "text": "Alright, so now that we've finished with all of these words on fluency bill, let's take",
+      "trans": "好的，现在我们已经完成了所有关于流利度预算的讨论，请让我们一起完成这个任务。",
+      "start": 727.0,
+      "end": 732.0
+    },
+    {
+      "text": "a look at our dialogue for the last time.",
+      "trans": "请看我们的对话最后一次。",
+      "start": 732.0,
+      "end": 735.0
+    },
+    {
+      "text": "Hi, what can I get for you?",
+      "trans": "你好，你能给我什么吗？",
+      "start": 735.0,
+      "end": 747.0
+    },
+    {
+      "text": "I'd like half pound of ground beef, please.",
+      "trans": "我想要半斤牛肉，请。",
+      "start": 747.0,
+      "end": 750.0
+    },
+    {
+      "text": "Good choice.",
+      "trans": "好的选择。",
+      "start": 750.0,
+      "end": 751.0
+    },
+    {
+      "text": "Our ground beef is extra lean.",
+      "trans": "我们的牛肉是特别瘦的。",
+      "start": 751.0,
+      "end": 755.0
+    },
+    {
+      "text": "If you know what I mean.",
+      "trans": "如果你知道我什么意思。",
+      "start": 755.0,
+      "end": 757.0
+    },
+    {
+      "text": "Could I also have half a dozen pork chops and 2 pounds of boneless chicken breast?",
+      "trans": "我还可以有半斤猪排和两磅无骨鸡肉胸肉吗？",
+      "start": 757.0,
+      "end": 762.0
+    },
+    {
+      "text": "No, no, no chicken breasts at the moment.",
+      "trans": "不，不，不准备鸡肉胸脯了。",
+      "start": 762.0,
+      "end": 768.0
+    },
+    {
+      "text": "But we have some nice chicken thighs.",
+      "trans": "但是我们有一些鸡肉大腿。",
+      "start": 768.0,
+      "end": 772.0
+    },
+    {
+      "text": "No, that won't do.",
+      "trans": "对不起，我不太明白您的意思。如果您有其他问题或需要帮助，请随时告诉我！",
+      "start": 772.0,
+      "end": 774.0
+    },
+    {
+      "text": "I'll take this smoked ham you have here.",
+      "trans": "我这里有这道烟熏火腿。",
+      "start": 774.0,
+      "end": 776.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 776.0,
+      "end": 777.0
+    },
+    {
+      "text": "Is there anything else?",
+      "trans": "是还有别的吗？",
+      "start": 777.0,
+      "end": 779.0
+    },
+    {
+      "text": "Is this salami and bologna you have here?",
+      "trans": "是这道菜里的香肠和熏肉吗？",
+      "start": 779.0,
+      "end": 783.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 783.0,
+      "end": 784.0
+    },
+    {
+      "text": "It's very fine meat.",
+      "trans": "非常嫩的肉。",
+      "start": 784.0,
+      "end": 787.0
+    },
+    {
+      "text": "Made it myself.",
+      "trans": "我亲手制作了它。",
+      "start": 787.0,
+      "end": 789.0
+    },
+    {
+      "text": "Sounds good.",
+      "trans": "好的。",
+      "start": 789.0,
+      "end": 790.0
+    },
+    {
+      "text": "Okay, that's it.",
+      "trans": "好的，这就是了。",
+      "start": 790.0,
+      "end": 791.0
+    },
+    {
+      "text": "Wait, we have tea, ribeye and salami sticks.",
+      "trans": "等待，我们有茶、牛排和香肠棒。",
+      "start": 791.0,
+      "end": 797.0
+    },
+    {
+      "text": "They are very fresh.",
+      "trans": "他们很新鲜。",
+      "start": 797.0,
+      "end": 799.0
+    },
+    {
+      "text": "Just came from the slaughterhouse.",
+      "trans": "刚刚从屠宰场回来。",
+      "start": 799.0,
+      "end": 802.0
+    },
+    {
+      "text": "No, that's okay really.",
+      "trans": "是的，没关系。",
+      "start": 802.0,
+      "end": 805.0
+    },
+    {
+      "text": "I think that's all for today.",
+      "trans": "我认为今天就结束了。",
+      "start": 805.0,
+      "end": 813.0
+    },
+    {
+      "text": "Okay, that'll be $34.50.",
+      "trans": "好的，那将为34.50元。",
+      "start": 813.0,
+      "end": 816.0
+    },
+    {
+      "text": "Alright, we're back.",
+      "trans": "好的，我们回来了。",
+      "start": 821.0,
+      "end": 822.0
+    },
+    {
+      "text": "So, Katherine, are you a big beef or meat eater?",
+      "trans": "所以，凯特琳，你是大肉还是大牛肉的吃货？",
+      "start": 822.0,
+      "end": 825.0
+    },
+    {
+      "text": "Definitely am.",
+      "trans": "绝对肯定。",
+      "start": 825.0,
+      "end": 826.0
+    },
+    {
+      "text": "It helps that my partner in crime is from Kansas City and they have the best among the best",
+      "trans": "它有助于我的罪犯伴侣来自堪萨斯城，并且他们是最好的之一。",
+      "start": 826.0,
+      "end": 832.64
+    },
+    {
+      "text": "steaks in our entire country in Kansas City.",
+      "trans": "我们的整个国家在堪萨斯城烤肉。",
+      "start": 832.64,
+      "end": 835.0
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 835.0,
+      "end": 836.0
+    },
+    {
+      "text": "Wow.",
+      "trans": "哇。",
+      "start": 836.0,
+      "end": 837.0
+    },
+    {
+      "text": "I actually miss.",
+      "trans": "我实际上想念。",
+      "start": 837.0,
+      "end": 838.0
+    },
+    {
+      "text": "There was back in California we had the $6 burger from Carl's Jr.",
+      "trans": "在加利福尼亚，我们曾有从卡罗莱纳州Carl's Jr.购买的$6汉堡。",
+      "start": 838.0,
+      "end": 842.0
+    },
+    {
+      "text": "It was just basically beef, bacon, cheese.",
+      "trans": "基本就是牛肉、香肠、奶酪。",
+      "start": 842.0,
+      "end": 845.0
+    },
+    {
+      "text": "It was just like this huge burger with full of meat and obviously a lot of calories.",
+      "trans": "这是这么一个巨大的汉堡，里面装满了肉，而且显然含有大量的热量。",
+      "start": 845.0,
+      "end": 850.0
+    },
+    {
+      "text": "Oh yeah.",
+      "trans": "哦，对了。",
+      "start": 850.0,
+      "end": 851.0
+    },
+    {
+      "text": "But it was delicious.",
+      "trans": "但是它很好吃。",
+      "start": 851.0,
+      "end": 852.0
+    },
+    {
+      "text": "In Ecuador we are very used to having some meat product every day with our food.",
+      "trans": "在厄瓜多尔，我们已经习惯了每天吃一些肉产品。",
+      "start": 852.0,
+      "end": 858.0
+    },
+    {
+      "text": "Yeah, well, it's the same in the Midwest actually from where we're from.",
+      "trans": "是的，也是在我们这里同样的。从哪里来，哪里就是一样。",
+      "start": 858.0,
+      "end": 863.0
+    },
+    {
+      "text": "It's the same in the Midwest because people in the Midwest generally think that if you're not",
+      "trans": "在中西部也是如此，因为中西部的人们普遍认为，如果你不是中国人的话。",
+      "start": 863.0,
+      "end": 867.6
+    },
+    {
+      "text": "eating meat then what are you eating?",
+      "trans": "吃肉，那你是吃什么？",
+      "start": 867.6,
+      "end": 871.0
+    },
+    {
+      "text": "Bread?",
+      "trans": "面包？",
+      "start": 871.0,
+      "end": 872.0
+    },
+    {
+      "text": "Corn?",
+      "trans": "玉米？",
+      "start": 872.0,
+      "end": 873.0
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是。",
+      "start": 873.0,
+      "end": 874.0
+    },
+    {
+      "text": "So meat is considered a healthy part of the day and you definitely eat it with your meals.",
+      "trans": "所以，肉被看作是一天中的健康部分，并且你肯定会在你的餐桌上吃它。",
+      "start": 874.0,
+      "end": 878.0
+    },
+    {
+      "text": "Yeah, and I'm sure our vegetarian listeners might not appreciate this but you know it's",
+      "trans": "是的，而且我保证我们的素食听众可能不会喜欢这个，但你知道这确实是中国的。",
+      "start": 878.0,
+      "end": 883.0
+    },
+    {
+      "text": "just kind of different diets.",
+      "trans": "只要稍微不同的饮食。",
+      "start": 883.0,
+      "end": 885.0
+    },
+    {
+      "text": "Some people eat for example rice every day.",
+      "trans": "有些人每天吃米饭。",
+      "start": 885.0,
+      "end": 887.64
+    },
+    {
+      "text": "So where in other countries you wouldn't really have rice every day or for example when I was",
+      "trans": "所以，在其他国家，你不会每天都吃米饭或者比如当我第一次去中国的时候。",
+      "start": 887.64,
+      "end": 892.0
+    },
+    {
+      "text": "in Chile had a lot of potatoes.",
+      "trans": "在智利有很多土豆。",
+      "start": 892.0,
+      "end": 894.0
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 894.0,
+      "end": 895.0
+    },
+    {
+      "text": "A lot of potato.",
+      "trans": "大量土豆。",
+      "start": 895.0,
+      "end": 896.0
+    },
+    {
+      "text": "Have you ever had an Argentine steak?",
+      "trans": "是的，我曾经吃过阿根廷牛排。",
+      "start": 896.0,
+      "end": 898.0
+    },
+    {
+      "text": "I hear they have the best beef in the world.",
+      "trans": "我听到他们有世界上最好的牛肉。",
+      "start": 898.0,
+      "end": 900.0
+    },
+    {
+      "text": "They are not only delicious but they are very inexpensive and it's amazing.",
+      "trans": "他们不仅美味，而且非常便宜，真是太神奇了。",
+      "start": 900.0,
+      "end": 904.32
+    },
+    {
+      "text": "You can have a complete steak buffet for like I can't even remember but I sat there for",
+      "trans": "你可以享受一个完整的牛排自助餐，就像我无法回忆起这一点一样。",
+      "start": 904.32,
+      "end": 912.0
+    },
+    {
+      "text": "three hours and couldn't move and kept eating.",
+      "trans": "三小时后，他无法移动，仍然在吃。",
+      "start": 912.0,
+      "end": 914.32
+    },
+    {
+      "text": "Oh my.",
+      "trans": "我的呀。",
+      "start": 914.32,
+      "end": 915.32
+    },
+    {
+      "text": "Is it true you can eat it with a spoon?",
+      "trans": "是吗，你可以用勺子吃它？",
+      "start": 915.32,
+      "end": 917.6800000000001
+    },
+    {
+      "text": "It's so soft.",
+      "trans": "是这么柔软。",
+      "start": 917.6800000000001,
+      "end": 918.6800000000001
+    },
+    {
+      "text": "Some of the meat is very, very tender and not if it's grilled you can't really do that",
+      "trans": "有些肉非常嫩，即使不烤也不能做到。",
+      "start": 918.6800000000001,
+      "end": 921.96
+    },
+    {
+      "text": "but in other preparations it's almost like that.",
+      "trans": "但是，在其他准备中，几乎就像这样。",
+      "start": 921.96,
+      "end": 924.32
+    },
+    {
+      "text": "With a nice butter sauce.",
+      "trans": "好的，以下是“With a nice butter sauce”这句话的翻译：",
+      "start": 924.32,
+      "end": 926.32
+    },
+    {
+      "text": "Um, herbs.",
+      "trans": "是的，中药。",
+      "start": 926.32,
+      "end": 927.32
+    },
+    {
+      "text": "Alright so you've made me hungry.",
+      "trans": "好的，你让我感到饿了。",
+      "start": 927.32,
+      "end": 929.32
+    },
+    {
+      "text": "I know you've made me hungry.",
+      "trans": "我知道你让我饿了。",
+      "start": 929.32,
+      "end": 930.8000000000001
+    },
+    {
+      "text": "I think we're going to take off and have some burgers.",
+      "trans": "我认为我们打算起飞，吃些汉堡。",
+      "start": 930.8,
+      "end": 933.8
+    },
+    {
+      "text": "Alright so if you have any questions, any comments please come to our website at EnglishPod.com",
+      "trans": "好的，如果有任何问题或评论，请通过我们的网站英语频道来联系我们。",
+      "start": 933.8,
+      "end": 940.52
+    },
+    {
+      "text": "and we're there to answer any doubts.",
+      "trans": "和我们在这里回答任何疑问。",
+      "start": 940.52,
+      "end": 942.52
+    },
+    {
+      "text": "And we'd love to know what your favorite foods are meat or otherwise so post something",
+      "trans": "我们希望知道您的最爱食物，肉或其它，请随时留言。",
+      "start": 942.52,
+      "end": 946.0799999999999
+    },
+    {
+      "text": "on our website.",
+      "trans": "在我们的网站上。",
+      "start": 946.0799999999999,
+      "end": 947.0799999999999
+    },
+    {
+      "text": "Hope to see you there soon.",
+      "trans": "希望很快见到你。",
+      "start": 947.0799999999999,
+      "end": 948.0799999999999
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 948.0799999999999,
+      "end": 949.0799999999999
+    },
+    {
+      "text": "Bye.",
+      "trans": "拜。",
+      "start": 949.0799999999999,
+      "end": 950.0799999999999
+    }
+  ]
+}

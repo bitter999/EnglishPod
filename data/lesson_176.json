@@ -1,0 +1,960 @@
+{
+  "title": "englishpod_0176pb",
+  "audio": "./assets/englishpod_0176pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+      "trans": "大家好，欢迎回到 EnglishPod。我是 Marco。",
+      "start": 0.0,
+      "end": 6.0
+    },
+    {
+      "text": "And my name is Catherine and today we have a cold lesson.",
+      "trans": "我是 Catherine，今天我们要讲一课关于“冷”的内容。",
+      "start": 6.0,
+      "end": 10.4
+    },
+    {
+      "text": "That's right. It's the winter season and of course it gets cold in a lot of different places",
+      "trans": "没错。现在是冬季，当然世界各地很多地方都变冷了，",
+      "start": 10.4,
+      "end": 15.52
+    },
+    {
+      "text": "around the world and so we're going to talk about heating.",
+      "trans": "所以我们今天要聊聊供暖。",
+      "start": 15.52,
+      "end": 19.04
+    },
+    {
+      "text": "Okay, this is very important but before we do get started we have a very important word",
+      "trans": "好的，这很重要，但在我们开始之前，我们需要先看一个非常重要的单词，",
+      "start": 19.04,
+      "end": 23.44
+    },
+    {
+      "text": "to preview in vocabulary preview.",
+      "trans": "就在词汇预览里。",
+      "start": 23.44,
+      "end": 26.240000000000002
+    },
+    {
+      "text": "Vocabulary preview.",
+      "trans": "词汇预览。",
+      "start": 26.240000000000002,
+      "end": 0
+    },
+    {
+      "text": "All right so we're going to preview the word freezing.",
+      "trans": "好的，我们要预览的词是 freezing（极冷/冰冻）。",
+      "start": 29.119999999999997,
+      "end": 32.0
+    },
+    {
+      "text": "It is freezing today by the way so this is very appropriate.",
+      "trans": "顺便说一下，今天真的冷极了，所以这个词非常应景。",
+      "start": 33.839999999999996,
+      "end": 37.519999999999996
+    },
+    {
+      "text": "Freezing means very very very cold.",
+      "trans": "Freezing 的意思是非常非常非常冷。",
+      "start": 37.519999999999996,
+      "end": 40.16
+    },
+    {
+      "text": "Okay it is freezing okay so it's very cold.",
+      "trans": "好，这就是 freezing，表示非常冷。",
+      "start": 40.16,
+      "end": 43.44
+    },
+    {
+      "text": "It's freezing today.",
+      "trans": "今天冻死人了。",
+      "start": 43.44,
+      "end": 44.8
+    },
+    {
+      "text": "It's so cold in fact you can't have water outside because the water will become ice.",
+      "trans": "事实上太冷了，你不能把水放在外面，因为水会结成冰。",
+      "start": 44.8,
+      "end": 50.08
+    },
+    {
+      "text": "It will freeze.",
+      "trans": "它会结冰（freeze）。",
+      "start": 50.08,
+      "end": 50.879999999999995
+    },
+    {
+      "text": "Okay great word so let's listen to a dialogue for the very first time.",
+      "trans": "好的，很好的词。让我们来第一次听一下对话。",
+      "start": 51.68,
+      "end": 55.68
+    },
+    {
+      "text": "It's freezing in here.",
+      "trans": "这里冷死了。",
+      "start": 59.36,
+      "end": 63.44
+    },
+    {
+      "text": "Can I turn up the heat?",
+      "trans": "我能把暖气调大点吗？",
+      "start": 63.44,
+      "end": 64.48
+    },
+    {
+      "text": "Don't touch that thermostat.",
+      "trans": "别碰那个温控器。",
+      "start": 65.03999999999999,
+      "end": 66.96
+    },
+    {
+      "text": "You don't pay the bills around here.",
+      "trans": "在这个家你又不付账单。",
+      "start": 66.96,
+      "end": 68.88
+    },
+    {
+      "text": "Dad are you serious?",
+      "trans": "爸，你是认真的吗？",
+      "start": 68.88,
+      "end": 70.24
+    },
+    {
+      "text": "What's the point of having central heating if we can't use it?",
+      "trans": "如果我们不能用，那装中央供暖有什么意义？",
+      "start": 70.24,
+      "end": 73.28
+    },
+    {
+      "text": "Look I can see my breath.",
+      "trans": "你看，我说话都能看到哈气了。",
+      "start": 73.28,
+      "end": 75.84
+    },
+    {
+      "text": "Put on a sweater.",
+      "trans": "穿件毛衣。",
+      "start": 76.4,
+      "end": 77.68
+    },
+    {
+      "text": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "trans": "我才不会因为有点凉快就让你把我的暖气费搞得那么高。",
+      "start": 77.68,
+      "end": 81.75999999999999
+    },
+    {
+      "text": "Dad I'm going to catch it cold.",
+      "trans": "爸，我会感冒的。",
+      "start": 81.75999999999999,
+      "end": 83.92
+    },
+    {
+      "text": "When I was your age my parents didn't have central heating like you do.",
+      "trans": "我像你这么大的时候，我父母可不像你这样有中央供暖。",
+      "start": 83.92,
+      "end": 88.56
+    },
+    {
+      "text": "We had a furnace in the center of the living room and that was it.",
+      "trans": "我们客厅中央只有一个大炉子，仅此而已。",
+      "start": 88.56,
+      "end": 91.76
+    },
+    {
+      "text": "We used it to cook, heat the house and even dry our clothes.",
+      "trans": "我们用它做饭、取暖，甚至烘干衣服。",
+      "start": 91.76,
+      "end": 95.36
+    },
+    {
+      "text": "We never caught a cold.",
+      "trans": "我们从没感冒过。",
+      "start": 95.36,
+      "end": 96.88
+    },
+    {
+      "text": "You should be grateful.",
+      "trans": "你应该懂得感恩。",
+      "start": 96.88,
+      "end": 98.08
+    },
+    {
+      "text": "All right we're back and this is actually what a lot of dads are like I think around the world.",
+      "trans": "好了，我们回来了。这其实是全世界很多爸爸的样子。",
+      "start": 101.44,
+      "end": 106.56
+    },
+    {
+      "text": "Yep my dad definitely like to keep the heat low.",
+      "trans": "没错，我爸绝对喜欢把暖气开得很低。",
+      "start": 106.56,
+      "end": 109.6
+    },
+    {
+      "text": "Really?",
+      "trans": "真的吗？",
+      "start": 109.6,
+      "end": 110.24000000000001
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是的。",
+      "start": 110.24000000000001,
+      "end": 111.2
+    },
+    {
+      "text": "All right so we'll talk about that a little bit later but let's take a look at some",
+      "trans": "好的，我们稍后再聊这个，现在让我们先看看",
+      "start": 111.2,
+      "end": 115.6
+    },
+    {
+      "text": "four words on language takeaway today.",
+      "trans": "今天的语言要点中的四个词。",
+      "start": 115.6,
+      "end": 117.76
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言要点。",
+      "start": 118.96000000000001,
+      "end": 121.12
+    },
+    {
+      "text": "Well this first word is important for anyone who has a home with heating.",
+      "trans": "第一个词对于任何家里有暖气的人来说都很重要。",
+      "start": 122.08,
+      "end": 126.56
+    },
+    {
+      "text": "It's called a thermostat.",
+      "trans": "它叫 thermostat（温控器）。",
+      "start": 126.56,
+      "end": 128.24
+    },
+    {
+      "text": "All right a thermostat.",
+      "trans": "好的，温控器。",
+      "start": 128.24,
+      "end": 130.16
+    },
+    {
+      "text": "What is a thermostat?",
+      "trans": "什么是温控器？",
+      "start": 130.16,
+      "end": 131.68
+    },
+    {
+      "text": "A thermostat is a dial or like a device.",
+      "trans": "温控器是一个旋钮或者类似的一个装置。",
+      "start": 131.68,
+      "end": 136.88
+    },
+    {
+      "text": "A device on the wall that tells you how hot or how cold the house is.",
+      "trans": "墙上的一个装置，告诉你房子里有多热或多冷。",
+      "start": 136.88,
+      "end": 141.68
+    },
+    {
+      "text": "It's like a thermometer for your house.",
+      "trans": "就像是你房子的温度计。",
+      "start": 141.68,
+      "end": 143.84
+    },
+    {
+      "text": "So you can move the thermostat, the temperature to make the house warmer or colder.",
+      "trans": "你可以调节温控器、设定温度，让房子变暖或变冷。",
+      "start": 144.64000000000001,
+      "end": 148.72
+    },
+    {
+      "text": "Right so if it says it's 20 degrees and I think that's too cold I can turn the thermostat up",
+      "trans": "对，所以如果它显示是20度，我觉得太冷了，我可以把温控器调高",
+      "start": 148.72,
+      "end": 155.44
+    },
+    {
+      "text": "to 23 degrees.",
+      "trans": "到23度。",
+      "start": 155.44,
+      "end": 156.88
+    },
+    {
+      "text": "All right and well very much related to a thermostat and what this device does is our next word",
+      "trans": "好的，跟温控器以及这个设备的功能密切相关的就是我们的下一个词，",
+      "start": 156.88,
+      "end": 164.32
+    },
+    {
+      "text": "central heating.",
+      "trans": "中央供暖。",
+      "start": 164.32,
+      "end": 165.44
+    },
+    {
+      "text": "Right so if you have central heating you have a thermostat that's the way to control the heat",
+      "trans": "对，如果你有中央供暖，你就会有一个温控器，那是控制热量的方法。",
+      "start": 165.44,
+      "end": 170.56
+    },
+    {
+      "text": "and central heating means that you have one heater for the whole house and so the air comes",
+      "trans": "中央供暖意味着整个房子只有一个加热器，然后热空气会",
+      "start": 170.56,
+      "end": 176.56
+    },
+    {
+      "text": "into all the different rooms.",
+      "trans": "进入所有不同的房间。",
+      "start": 176.56,
+      "end": 178.16
+    },
+    {
+      "text": "So not many places in China have this but for example in the United States and Canada it is",
+      "trans": "中国这种设施不太多（注：其实北方很普遍），但在美国和加拿大",
+      "start": 178.64000000000001,
+      "end": 185.04
+    },
+    {
+      "text": "very common.",
+      "trans": "非常普遍。",
+      "start": 185.04,
+      "end": 185.84
+    },
+    {
+      "text": "Okay so your house or your apartment building will have central heating and then you can control how",
+      "trans": "好的，所以你的房子或公寓楼会有中央供暖，然后你可以",
+      "start": 185.84,
+      "end": 191.2
+    },
+    {
+      "text": "cold or warm the house is with thermostat.",
+      "trans": "通过温控器控制房子的冷热。",
+      "start": 191.2,
+      "end": 193.76
+    },
+    {
+      "text": "Exactly.",
+      "trans": "没错。",
+      "start": 193.76,
+      "end": 194.64000000000001
+    },
+    {
+      "text": "Very good and well our next word is related to temperature and it's chilly.",
+      "trans": "很好，我们的下一个词也和温度有关，它是 chilly（寒意/凉飕飕）。",
+      "start": 194.64000000000001,
+      "end": 199.84
+    },
+    {
+      "text": "Okay so there's a big difference between chilly and freezing.",
+      "trans": "好的，那冷和冻之间有很大的区别。",
+      "start": 200.56,
+      "end": 204.64000000000001
+    },
+    {
+      "text": "Freezing means very very very cold.",
+      "trans": "Freezing 意味着非常非常非常冷。",
+      "start": 205.68,
+      "end": 207.6
+    },
+    {
+      "text": "Chilli means a little cold.",
+      "trans": "Chilly 意味着有一点冷。",
+      "start": 208.16,
+      "end": 209.92000000000002
+    },
+    {
+      "text": "Right so it's a little cold it's a bit chilly.",
+      "trans": "对，就是有点冷，凉飕飕的。",
+      "start": 209.92000000000002,
+      "end": 212.88
+    },
+    {
+      "text": "Right so it's a bit chilly today I'm going to wear a hat.",
+      "trans": "是的，所以今天有点凉，我要戴顶帽子。",
+      "start": 212.88,
+      "end": 215.44
+    },
+    {
+      "text": "Okay if it's freezing I'm going to wear hat, a hat and mittens and a scarf and coat and boots.",
+      "trans": "如果是 freezing（严寒），我会戴帽子、手套、围巾，穿大衣和靴子。",
+      "start": 216.0,
+      "end": 222.0
+    },
+    {
+      "text": "All right so if it's a bit chilly it's not very cold and while moving on the dad mentioned",
+      "trans": "好的，所以 chilly 并不是非常冷。继续往下说，那位爸爸提到",
+      "start": 222.0,
+      "end": 228.16
+    },
+    {
+      "text": "about him having a furnace when he was young.",
+      "trans": "他年轻的时候家里有个 furnace（火炉）。",
+      "start": 228.16,
+      "end": 231.92
+    },
+    {
+      "text": "That's right the dad had a furnace in his house and the furnace is a way to heat your house.",
+      "trans": "没错，爸爸家里有个火炉，火炉是给房子取暖的一种方式。",
+      "start": 231.92,
+      "end": 237.92
+    },
+    {
+      "text": "It's like a stove.",
+      "trans": "它就像个炉灶。",
+      "start": 237.92,
+      "end": 238.88
+    },
+    {
+      "text": "So yeah just consider it like a big oven right maybe you've seen it in the old movies where you",
+      "trans": "所以可以把它看作一个大烤箱，也许你在老电影里见过，",
+      "start": 240.0,
+      "end": 244.16
+    },
+    {
+      "text": "would have to throw firewood into the furnace to make it heat up the house.",
+      "trans": "你得把柴火扔进火炉里才能让屋子热起来。",
+      "start": 244.16,
+      "end": 248.72
+    },
+    {
+      "text": "Exactly and so this is very common in older homes and not very common in apartments.",
+      "trans": "没错，这在老房子里很常见，但在公寓里不常见。",
+      "start": 248.72,
+      "end": 254.64
+    },
+    {
+      "text": "Right and well that's all the words we have for language takeaway today.",
+      "trans": "是的，这就是今天语言要点的所有单词。",
+      "start": 255.6,
+      "end": 260.56
+    },
+    {
+      "text": "Why don't we listen to this chilly dialogue again?",
+      "trans": "让我们再听一遍这段“寒冷”的对话吧？",
+      "start": 260.56,
+      "end": 262.47999999999996
+    },
+    {
+      "text": "It's freezing in here can I turn up the heat?",
+      "trans": "这里冷死了，我能把暖气调大点吗？",
+      "start": 268.24,
+      "end": 270.4
+    },
+    {
+      "text": "Don't touch that thermostat.",
+      "trans": "别碰那个温控器。",
+      "start": 270.96,
+      "end": 272.88
+    },
+    {
+      "text": "You don't pay the bills around here.",
+      "trans": "这个家的账单又不是你付的。",
+      "start": 272.88,
+      "end": 274.88
+    },
+    {
+      "text": "Dad are you serious?",
+      "trans": "爸，你是认真的吗？",
+      "start": 274.88,
+      "end": 276.15999999999997
+    },
+    {
+      "text": "What's the point of having central heating if we can't use it?",
+      "trans": "如果我们不能用，那装中央供暖有什么意义？",
+      "start": 276.15999999999997,
+      "end": 279.2
+    },
+    {
+      "text": "Look I can see my breath.",
+      "trans": "你看，我说话都能看到哈气了。",
+      "start": 279.2,
+      "end": 281.76
+    },
+    {
+      "text": "Put on a sweater.",
+      "trans": "穿件毛衣。",
+      "start": 282.32,
+      "end": 283.59999999999997
+    },
+    {
+      "text": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "trans": "我才不会因为有点凉快就让你把我的暖气费搞得那么高。",
+      "start": 283.59999999999997,
+      "end": 287.68
+    },
+    {
+      "text": "Dad I'm going to catch a cold.",
+      "trans": "爸，我会感冒的。",
+      "start": 287.68,
+      "end": 289.84
+    },
+    {
+      "text": "When I was your age my parents didn't have central heating like you do.",
+      "trans": "我像你这么大的时候，我父母可不像你这样有中央供暖。",
+      "start": 289.84,
+      "end": 294.48
+    },
+    {
+      "text": "We had a furnace in the center of the living room and that was it.",
+      "trans": "我们客厅中央只有一个大炉子，仅此而已。",
+      "start": 294.48,
+      "end": 297.68
+    },
+    {
+      "text": "We used it to cook, heat the house and even dry our clothes.",
+      "trans": "我们用它做饭、取暖，甚至烘干衣服。",
+      "start": 297.68,
+      "end": 301.36
+    },
+    {
+      "text": "We never caught a cold.",
+      "trans": "我们从没感冒过。",
+      "start": 301.36,
+      "end": 302.8
+    },
+    {
+      "text": "You should be grateful.",
+      "trans": "你应该懂得感恩。",
+      "start": 302.8,
+      "end": 304.0
+    },
+    {
+      "text": "We're back so now we have prepared for you three key phrases on fluency builder.",
+      "trans": "我们回来了，现在我们在流利构建单元为你准备了三个关键短语。",
+      "start": 304.16,
+      "end": 313.52
+    },
+    {
+      "text": "Fluency builder.",
+      "trans": "流利构建单元。",
+      "start": 314.88,
+      "end": 315.92
+    },
+    {
+      "text": "This first phrase is related to thermostat.",
+      "trans": "第一个短语和温控器有关。",
+      "start": 317.44,
+      "end": 321.36
+    },
+    {
+      "text": "So thermostat like we said is like a thermometer but we can control the temperature.",
+      "trans": "正如我们所说，温控器像温度计，但我们可以控制温度。",
+      "start": 321.36,
+      "end": 326.0
+    },
+    {
+      "text": "So if we want to make the temperature hotter we turn up thermostat.",
+      "trans": "所以如果我们想让温度变热，我们就调高（turn up）温控器。",
+      "start": 326.0,
+      "end": 330.64
+    },
+    {
+      "text": "So this is a phrasal verb to turn up the heat.",
+      "trans": "所以这是一句用来提高温度的短语。",
+      "start": 331.28,
+      "end": 334.96
+    },
+    {
+      "text": "You could say this about heat.",
+      "trans": "你可以用它来描述热度。",
+      "start": 334.96,
+      "end": 336.64
+    },
+    {
+      "text": "You could say this about noise too.",
+      "trans": "你也可以用它来描述噪音。",
+      "start": 336.64,
+      "end": 338.0
+    },
+    {
+      "text": "Can you turn up the radio?",
+      "trans": "你能把收音机声音调大点吗？",
+      "start": 338.0,
+      "end": 339.44
+    },
+    {
+      "text": "Turn up the volume.",
+      "trans": "调高音量。",
+      "start": 339.44,
+      "end": 340.96
+    },
+    {
+      "text": "So it's to increase.",
+      "trans": "所以意思是增加。",
+      "start": 340.96,
+      "end": 342.15999999999997
+    },
+    {
+      "text": "To increase to make bigger or warmer or louder.",
+      "trans": "增加，使之变大、变暖或变响。",
+      "start": 342.15999999999997,
+      "end": 345.84
+    },
+    {
+      "text": "All right and if we wanted to decrease the temperature in the thermostat you would say",
+      "trans": "好的，如果我们想降低温控器的温度，你会说",
+      "start": 345.84,
+      "end": 350.4
+    },
+    {
+      "text": "Turn down.",
+      "trans": "转小声。",
+      "start": 350.4,
+      "end": 351.59999999999997
+    },
+    {
+      "text": "Turn down the heat.",
+      "trans": "把暖气调小点。",
+      "start": 351.59999999999997,
+      "end": 352.64
+    },
+    {
+      "text": "Exactly so it's too hot in here.",
+      "trans": "没错，这里太热了。",
+      "start": 352.64,
+      "end": 354.64
+    },
+    {
+      "text": "Can you please turn down the heat?",
+      "trans": "请你把暖气调小点好吗？",
+      "start": 354.64,
+      "end": 356.64
+    },
+    {
+      "text": "All right very good.",
+      "trans": "好的，非常好。",
+      "start": 356.64,
+      "end": 358.15999999999997
+    },
+    {
+      "text": "And our next phrase is well the dad was talking about the bills and how expensive it is to use",
+      "trans": "下一个短语，爸爸当时在谈论账单，以及使用",
+      "start": 358.24,
+      "end": 364.8
+    },
+    {
+      "text": "a thermostat and he said I'm not going to let you run up my heating bill.",
+      "trans": "温控器有多贵，他说我不会让你 run up（积累/增加）我的暖气费。",
+      "start": 364.8,
+      "end": 369.6
+    },
+    {
+      "text": "Okay so a bill is like you know something that you pay it's money.",
+      "trans": "好的，bill（账单）就是你需要支付的钱。",
+      "start": 369.6,
+      "end": 373.28000000000003
+    },
+    {
+      "text": "And so in this case I don't want you to run up the bill that means to increase the amount of money",
+      "trans": "在这种情况下，我不想让你 run up the bill，意思就是增加",
+      "start": 373.28000000000003,
+      "end": 378.24
+    },
+    {
+      "text": "I have to spend.",
+      "trans": "我必须花的钱的数额。",
+      "start": 378.24,
+      "end": 379.20000000000005
+    },
+    {
+      "text": "So maybe if you leave your television on all night you're running up your electricity bill.",
+      "trans": "所以如果你整晚开着电视，你就在增加（run up）你的电费账单。",
+      "start": 380.08000000000004,
+      "end": 385.68
+    },
+    {
+      "text": "Exactly or if you talk on the phone 10 hours a day you run up the phone bill and your mother",
+      "trans": "没错，或者如果你每天打10个小时电话，你会让电话费飙升，你妈妈会",
+      "start": 385.68,
+      "end": 390.32
+    },
+    {
+      "text": "kills you.",
+      "trans": "杀了你的。",
+      "start": 390.32,
+      "end": 391.52
+    },
+    {
+      "text": "All right and well the daughter was complaining about her catching a cold to catch a cold.",
+      "trans": "好的，这是感冒也想感冒。",
+      "start": 391.52,
+      "end": 397.92
+    },
+    {
+      "text": "All right so remember this a cold is when you have maybe a runny nose and the cough and the sore",
+      "trans": "好的，记住，cold（感冒）就是你流鼻涕、咳嗽、喉咙",
+      "start": 397.92,
+      "end": 404.0
+    },
+    {
+      "text": "throat it usually happens when the weather changes but we don't get a cold you catch a cold.",
+      "trans": "喉咙通常发生在天气变化的时候，但我们不会感冒。你只是得了感冒。",
+      "start": 404.0,
+      "end": 409.6
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 409.6,
+      "end": 410.24
+    },
+    {
+      "text": "Remember like in baseball you throw and catch it's something that's fast.",
+      "trans": "记得就像在棒球里，你投球然后接球（catch），那是很快的动作。",
+      "start": 410.24,
+      "end": 415.12
+    },
+    {
+      "text": "All right so you catch a cold what about the flu?",
+      "trans": "好的，你感冒了呢，流感呢？",
+      "start": 415.12,
+      "end": 417.44
+    },
+    {
+      "text": "Do you get the flu or catch the flu?",
+      "trans": "你好，你得了流感还是感冒？",
+      "start": 417.44,
+      "end": 419.2
+    },
+    {
+      "text": "So you can't catch a flu but you can't catch a cold.",
+      "trans": "所以，你不会感冒，但你会流鼻涕。",
+      "start": 419.2,
+      "end": 422.24
+    },
+    {
+      "text": "Just remember this phrase to catch a cold I caught the cold.",
+      "trans": "记得这句话，感冒了。我也是感冒的。",
+      "start": 422.24,
+      "end": 426.64
+    },
+    {
+      "text": "No to catch a cold or I caught a cold it's almost like if I have it I could throw it to you Marco.",
+      "trans": "不感冒，或者我感冒了，差不多是如果我有它的话，我可以传染给你马可。",
+      "start": 427.36,
+      "end": 433.84000000000003
+    },
+    {
+      "text": "A TOO!",
+      "trans": "阿嚏！",
+      "start": 433.84000000000003,
+      "end": 434.48
+    },
+    {
+      "text": "I knew catch it.",
+      "trans": "我就知道（我会/你会）被传染。",
+      "start": 434.48,
+      "end": 435.76
+    },
+    {
+      "text": "Right because it's in the air the virus.",
+      "trans": "对，因为病毒在空气中。",
+      "start": 435.76,
+      "end": 437.52
+    },
+    {
+      "text": "Yeah it passes very quickly.",
+      "trans": "是的，它传播得很快。",
+      "start": 437.52,
+      "end": 439.28000000000003
+    },
+    {
+      "text": "All right very good so an interesting dialogue let's listen to it one last time.",
+      "trans": "好的非常好，很有趣的对话，让我们最后再听一遍。",
+      "start": 439.28000000000003,
+      "end": 443.68
+    },
+    {
+      "text": "It's freezing in here can I turn up the heat?",
+      "trans": "这里冷死了，我能把暖气调大点吗？",
+      "start": 445.76,
+      "end": 452.88
+    },
+    {
+      "text": "Don't touch that thermostat you don't pay the bills around here.",
+      "trans": "别碰那个温控器，这个家的账单又不是你付的。",
+      "start": 453.52,
+      "end": 457.28000000000003
+    },
+    {
+      "text": "Dad are you serious what's the point of having central heating if we can't use it?",
+      "trans": "爸，你是认真的吗？如果我们不能用，那装中央供暖有什么意义？",
+      "start": 457.28000000000003,
+      "end": 461.68
+    },
+    {
+      "text": "Look I can see my breath.",
+      "trans": "你看，我说话都能看到哈气了。",
+      "start": 461.68,
+      "end": 464.24
+    },
+    {
+      "text": "Put on a sweater I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "trans": "穿件毛衣。我才不会因为有点凉快就让你把我的暖气费搞得那么高。",
+      "start": 464.8,
+      "end": 470.16
+    },
+    {
+      "text": "Dad I'm going to catch a cold.",
+      "trans": "爸，我会感冒的。",
+      "start": 470.16,
+      "end": 472.32
+    },
+    {
+      "text": "When I was your age my parents didn't have central heating like you do.",
+      "trans": "我像你这么大的时候，我父母可不像你这样有中央供暖。",
+      "start": 472.32,
+      "end": 476.96
+    },
+    {
+      "text": "We had a furnace in the center of the living room and that was it.",
+      "trans": "我们客厅中央只有一个大炉子，仅此而已。",
+      "start": 476.96,
+      "end": 480.15999999999997
+    },
+    {
+      "text": "We used it to cook heat the house and even dry our clothes.",
+      "trans": "我们用它做饭、取暖，甚至烘干衣服。",
+      "start": 480.15999999999997,
+      "end": 483.84
+    },
+    {
+      "text": "We never caught a cold you should be grateful.",
+      "trans": "我们从没感冒过，你应该懂得感恩。",
+      "start": 483.84,
+      "end": 486.48
+    },
+    {
+      "text": "All right we're back and well you mentioned about the thermostat and your dad actually",
+      "trans": "好的，我们回来了。你刚才提到了温控器，那你爸爸真的",
+      "start": 491.6,
+      "end": 495.28
+    },
+    {
+      "text": "controlling the heating at home was it was is the case like this in this scenario?",
+      "trans": "在家里控制暖气吗？就像对话里的情况一样吗？",
+      "start": 495.28,
+      "end": 499.12
+    },
+    {
+      "text": "It was sometimes we'd have to wear more clothes because we didn't want to run up the bill",
+      "trans": "有时候是这样，我们不得不穿更多的衣服，因为我们不想让账单太高，",
+      "start": 500.0,
+      "end": 505.6
+    },
+    {
+      "text": "but we had a special situation in my house because I'm from Chicago and it's very cold in the",
+      "trans": "但我家情况特殊，因为我来自芝加哥，",
+      "start": 505.6,
+      "end": 510.48
+    },
+    {
+      "text": "winters in Chicago but we had a fireplace.",
+      "trans": "芝加哥的冬天非常冷，但我们有壁炉。",
+      "start": 510.48,
+      "end": 513.44
+    },
+    {
+      "text": "Even if it was very cold we always had firewood and we could put on the fire in the fireplace",
+      "trans": "即使天气很冷，我们总是有柴火，我们可以在壁炉里生火",
+      "start": 515.12,
+      "end": 521.28
+    },
+    {
+      "text": "to keep warm so everyone would stay in the living room and read and listen to music and just",
+      "trans": "取暖，所以大家都会待在客厅里，看书、听音乐，",
+      "start": 521.28,
+      "end": 526.16
+    },
+    {
+      "text": "relax.",
+      "trans": "放松。",
+      "start": 526.3199999999999,
+      "end": 527.1999999999999
+    },
+    {
+      "text": "Now I heard that because when you're burning wood it causes some pollution in some cities it's",
+      "trans": "我听说因为烧柴火会造成污染，所以在有些城市",
+      "start": 527.1999999999999,
+      "end": 532.16
+    },
+    {
+      "text": "banned to actually turn on or to have a fireplace.",
+      "trans": "是禁止生火或者使用壁炉的。",
+      "start": 532.16,
+      "end": 536.0799999999999
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 536.0799999999999,
+      "end": 536.88
+    },
+    {
+      "text": "Yeah so but in Chicago you can still do it.",
+      "trans": "是的，但在芝加哥你仍然可以这么做。",
+      "start": 536.88,
+      "end": 538.64
+    },
+    {
+      "text": "Absolutely and in most of the states you can although a lot of people in new houses they don't",
+      "trans": "当然，大多数州都可以，虽然现在很多住新房子的人没有",
+      "start": 538.64,
+      "end": 543.28
+    },
+    {
+      "text": "have real fireplaces they have electric fireplaces and so you can use a light switch to turn",
+      "trans": "真正的壁炉，他们有电壁炉，所以你可以用开关来打开",
+      "start": 543.28,
+      "end": 548.4
+    },
+    {
+      "text": "on your fire. It's not a real fire it's just a glowing light.",
+      "trans": "你的火。那不是真火，只是发光而已。",
+      "start": 548.4,
+      "end": 551.28
+    },
+    {
+      "text": "Yeah.",
+      "trans": "是的。",
+      "start": 551.36,
+      "end": 551.92
+    },
+    {
+      "text": "All right well very good this is an interesting lesson especially because the winter season is",
+      "trans": "好的，非常好，这是一节很有趣的课，特别是冬天",
+      "start": 551.92,
+      "end": 556.88
+    },
+    {
+      "text": "coming up and well everyone is cold so we hope you enjoyed it and if you have any questions",
+      "trans": "快到了，大家都很冷，所以希望你们喜欢。如果你有任何问题",
+      "start": 556.88,
+      "end": 561.6
+    },
+    {
+      "text": "and e-douts you can come to our website englishpod.com.",
+      "trans": "或疑问，你可以来我们的网站 englishpod.com。",
+      "start": 561.6,
+      "end": 564.4
+    },
+    {
+      "text": "We hope to see you there happy studies and stay warm.",
+      "trans": "希望在那里见到你，学习快乐，注意保暖。",
+      "start": 564.4,
+      "end": 566.88
+    },
+    {
+      "text": "All right everyone.",
+      "trans": "好的各位。",
+      "start": 566.88,
+      "end": 567.8399999999999
+    }
+  ]
+}

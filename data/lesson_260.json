@@ -1,0 +1,924 @@
+{
+  "title": "englishpod_0260pb",
+  "audio": "./assets/englishpod_0260pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎来到英语广播。我叫马可波罗。",
+      "start": 0.0,
+      "end": 5.28
+    },
+    {
+      "text": "My name is Catherine and today we have a very dangerous lesson for you guys.",
+      "trans": "我的名字是凯瑟琳，今天我们要给大家上的是一节非常危险的课程。",
+      "start": 5.28,
+      "end": 9.44
+    },
+    {
+      "text": "That's right. Today we're going to talk about guns or specifically about weapons.",
+      "trans": "没错。今天我们要聊的是枪，或者说更具体地说是武器。",
+      "start": 9.44,
+      "end": 14.16
+    },
+    {
+      "text": "So yeah, we're talking about kinds of guns.",
+      "trans": "哎呀，我们说的是枪的种类。",
+      "start": 14.16,
+      "end": 16.56
+    },
+    {
+      "text": "There are more than I think I ever knew and we're going to discuss about six today.",
+      "trans": "我知道的远超过我想象的，今天我们要讨论的内容有六项。",
+      "start": 16.56,
+      "end": 20.8
+    },
+    {
+      "text": "But before we get going, Marco, we've got a phrase in vocabulary preview.",
+      "trans": "但在我们开始之前，Marco，我们词汇预览中有一个短语。",
+      "start": 20.8,
+      "end": 24.560000000000002
+    },
+    {
+      "text": "That's right. So today on vocabulary preview, we're going to take a look at shooting range.",
+      "trans": "没错。今天在词汇预览中，我们要看看射击场。",
+      "start": 24.560000000000002,
+      "end": 28.64
+    },
+    {
+      "text": "Have you ever been to one of these places?",
+      "trans": "你有没有去过这些地方吗？",
+      "start": 28.64,
+      "end": 30.400000000000002
+    },
+    {
+      "text": "Yes, a shooting range. It's a place like you say and it's a place where you can",
+      "trans": "好的，射击场。那是一个你所说的那种地方，也是你可以去的地方。",
+      "start": 30.400000000000002,
+      "end": 35.68
+    },
+    {
+      "text": "fire your weapons or you can use guns safely. So you don't kill anyone or you don't hurt someone.",
+      "trans": "英语：如果你不使用武器，那么你可以安全地使用枪械。这样就不会伤害任何人，也不会伤害人。",
+      "start": 36.32,
+      "end": 42.32
+    },
+    {
+      "text": "No, basically, yeah, it's a place to practice shooting.",
+      "trans": "不，基本上是练枪的地方。",
+      "start": 42.32,
+      "end": 45.519999999999996
+    },
+    {
+      "text": "So maybe for example, if you want to practice how to shoot guns, you go to this place and they",
+      "trans": "所以比如说，如果你想要练习如何使用枪支，你可以去这个地方，然后他们会教你。",
+      "start": 45.519999999999996,
+      "end": 49.84
+    },
+    {
+      "text": "have special things to help you improve your shooting abilities.",
+      "trans": "有特别的东西帮助你提升射击技巧。",
+      "start": 49.84,
+      "end": 53.68
+    },
+    {
+      "text": "Usually, these are very, very secure. They have guards and things because you don't want to give the guns out to anybody.",
+      "trans": "通常，这些很安全。它们有警卫和其它东西，因为你不希望把枪交给任何人。",
+      "start": 54.48,
+      "end": 60.24
+    },
+    {
+      "text": "That's right.",
+      "trans": "没错。",
+      "start": 60.24,
+      "end": 61.04
+    },
+    {
+      "text": "But let's listen to today's dialogue about a shooting range and find out what kinds of guns they have.",
+      "trans": "但是让我们听听今天关于射击场的对话，看看他们有哪些枪械。",
+      "start": 61.04,
+      "end": 65.52
+    },
+    {
+      "text": "Hey, Nick. What are you up to?",
+      "trans": "嘿，尼克。你在忙什么呢？",
+      "start": 74.0,
+      "end": 77.2
+    },
+    {
+      "text": "Not much. Just heading over to the shooting range. You want to come?",
+      "trans": "没什么，只是去射击场。你过来吗？",
+      "start": 77.2,
+      "end": 80.16
+    },
+    {
+      "text": "Seriously? You mean to fire a real weapon? I don't know, man.",
+      "trans": "真的吗？你真要开枪了吗？我不太知道，先生。",
+      "start": 80.88,
+      "end": 86.32
+    },
+    {
+      "text": "Yeah, it will be fun. I have a 9-millimeter pistol that's really easy to shoot.",
+      "trans": "是的，它会很有趣。我有一支9毫米的手枪，真容易射！",
+      "start": 86.32,
+      "end": 90.72
+    },
+    {
+      "text": "I also have a revolver that's really fun too. They have big targets at the range that we could use to",
+      "trans": "我还有个手枪，玩起来也挺有趣的。它们的瞄准线很大，我们可以用来在距离上测试我们的射击技巧。",
+      "start": 90.72,
+      "end": 95.36
+    },
+    {
+      "text": "practice and improve your aim. Yeah, that would be cool. Maybe I can also have a try at other weapons",
+      "trans": "练习和提高你的准头。那会很酷的。也许我也可以尝试一下其他武器吧。",
+      "start": 95.36,
+      "end": 101.44
+    },
+    {
+      "text": "like a machine gun or a shotgun, maybe even a rocket launcher or an anti-tank missile.",
+      "trans": "就像机枪、手枪，甚至可能是反坦克导弹。",
+      "start": 101.44,
+      "end": 107.03999999999999
+    },
+    {
+      "text": "Or what about a flamethrower? Whoa, take it easy there, Rambo. Don't get carried away.",
+      "trans": "英语：或者，让我们来个火器吧？哈！别这么干，马布里。不要太过分了。",
+      "start": 107.60000000000001,
+      "end": 113.68
+    },
+    {
+      "text": "These weapons are not toys and you must first learn how to handle them properly.",
+      "trans": "这些武器不是玩具，你必须先学会如何正确使用它们。",
+      "start": 113.68,
+      "end": 117.28
+    },
+    {
+      "text": "There are basic rules that you must abide by in order to be safe.",
+      "trans": "当然，有基本规则需要遵守才能确保安全。",
+      "start": 117.76,
+      "end": 120.64
+    },
+    {
+      "text": "For example, never handle a weapon that you haven't inspected yourself.",
+      "trans": "例如，从未未经自己检查过的武器进行处理。",
+      "start": 121.44000000000001,
+      "end": 125.12
+    },
+    {
+      "text": "Always make sure there isn't anything in the chamber and never put your finger to the trigger unless",
+      "trans": "确保房间里没有东西，除非你把手指放在扳机上。",
+      "start": 125.12,
+      "end": 129.28
+    },
+    {
+      "text": "you are ready to shoot. Wow, I didn't know. It always looks so cool and easy in the movies.",
+      "trans": "你准备好开拍了。哇，我没想到会这样。在电影里看起来总是那么酷和容易啊。",
+      "start": 129.28,
+      "end": 135.68
+    },
+    {
+      "text": "The reality is different. Running and firing a weapon is a lot harder than in the movies.",
+      "trans": "现实情况完全不同。实弹射击比电影里更难。",
+      "start": 135.68,
+      "end": 140.48000000000002
+    },
+    {
+      "text": "So, are you ready? Let's do it.",
+      "trans": "所以，你准备好了吗？来吧！",
+      "start": 140.48000000000002,
+      "end": 142.48000000000002
+    },
+    {
+      "text": "All right, we're back. So obviously this guy was very excited about using these weapons.",
+      "trans": "好的，我们又回来了。所以这个家伙对使用这些武器非常激动。\n\n当然，他很兴奋！",
+      "start": 149.92000000000002,
+      "end": 154.24
+    },
+    {
+      "text": "And you may have heard that we're using this word weapons. It's basically all of these things.",
+      "trans": "你可能听说过我们用的是这些武器。基本上都是这些东西。",
+      "start": 154.24,
+      "end": 160.56
+    },
+    {
+      "text": "I guess anything that can be used in defense or hurts someone.",
+      "trans": "我猜任何能用来防卫或伤害他人的东西。",
+      "start": 160.56,
+      "end": 163.68
+    },
+    {
+      "text": "Yes, anything that can be used to hurt someone as a weapon. So a knife can be a weapon,",
+      "trans": "是的，任何可以用来作为武器的东西。所以刀也可以是武器。",
+      "start": 163.68,
+      "end": 167.76000000000002
+    },
+    {
+      "text": "not just guns. Guns are kind of weapon. That's right. So,",
+      "trans": "不是只有枪。枪确实是一种武器。是的，对了。",
+      "start": 167.76000000000002,
+      "end": 171.04000000000002
+    },
+    {
+      "text": "taking a look at our first type of gun or our first type of weapon, we have a 9-millimeter pistol.",
+      "trans": "看看我们第一种枪或者第一种武器，我们有9毫米手枪。",
+      "start": 171.04000000000002,
+      "end": 176.96
+    },
+    {
+      "text": "Okay, so the weapon is the pistol. And the pistol is basically a handgun.",
+      "trans": "好的，那么武器就是手枪。而手枪基本上就是一个手枪。",
+      "start": 176.96,
+      "end": 182.48000000000002
+    },
+    {
+      "text": "But it comes in different sizes. So that's what the 9-millimeter refers to.",
+      "trans": "但是它有不同的尺寸。所以这就是九毫米所指的。",
+      "start": 183.04000000000002,
+      "end": 186.64000000000001
+    },
+    {
+      "text": "That's right. That's the size of the projectile that will come out of the weapon.",
+      "trans": "对了。那将是武器射出的弹丸大小。",
+      "start": 186.64000000000001,
+      "end": 191.92000000000002
+    },
+    {
+      "text": "And a pistol, as you say, it's a handgun. It's usually small. And it can fit in your hand.",
+      "trans": "而且，你所说的“手枪”就是“手枪”。它通常很小。而且，它可以放在你的手中。",
+      "start": 191.92,
+      "end": 198.79999999999998
+    },
+    {
+      "text": "So you can use just one hand to use this weapon.",
+      "trans": "所以你只需要一只手就可以使用这个武器。",
+      "start": 198.79999999999998,
+      "end": 201.6
+    },
+    {
+      "text": "Okay, so there's a similar handgun. That's a little bit bigger. That's called a revolver.",
+      "trans": "好的，那么有一种类似的手枪。那稍微大一点。叫做转轮手枪。",
+      "start": 201.6,
+      "end": 206.16
+    },
+    {
+      "text": "That's right. A revolver. So this one has a revolving chamber. So you kind of see this in the",
+      "trans": "对了。手枪。所以这个有一个旋转的弹匣。所以你大概能看到这种情形。",
+      "start": 206.16,
+      "end": 213.11999999999998
+    },
+    {
+      "text": "old western movies when they would have six bullets, right? Yeah. Like swing their guns into their",
+      "trans": "老西部片的时候，他们六个弹夹吗？对。像挥动枪杆子一样。",
+      "start": 213.11999999999998,
+      "end": 218.32
+    },
+    {
+      "text": "side holsters. Yeah. Well, yeah, that's right. The revolver refers to the to revolve. It means to",
+      "trans": "侧滑手套。对，没错。手枪指的是转轮。意思是说",
+      "start": 218.32,
+      "end": 224.23999999999998
+    },
+    {
+      "text": "move around to spin. That's right. And so the place with the bullets basically spins after you",
+      "trans": "绕着走，转圈。没错。然后那个有子弹的地方基本上是你一走动之后就开始旋转了。",
+      "start": 224.23999999999998,
+      "end": 230.48
+    },
+    {
+      "text": "shoot the gun. That's right. So that's why it's called a revolver. Unlike the pistol, the pistol will",
+      "trans": "开枪吧。没错，这就是为什么叫它手枪的原因。和手枪不一样，手枪会",
+      "start": 230.48,
+      "end": 235.6
+    },
+    {
+      "text": "usually not really have a revolver. It will have a magazine. Okay. Now moving on to our next type of",
+      "trans": "通常并没有真的拥有一把手枪。它会有一个弹匣。好的。接下来，我们处理一下我们的下一种类型。",
+      "start": 235.6,
+      "end": 243.35999999999999
+    },
+    {
+      "text": "weapon. We have the very famous machine gun. That's the one that shoots off really fast.",
+      "trans": "武器。我们有著名的机枪。那是一把射速很快的枪。",
+      "start": 243.36,
+      "end": 249.76000000000002
+    },
+    {
+      "text": "And so basically it's called a machine gun because it's automatically releasing all these",
+      "trans": "所以基本上它叫枪是因为它自动释放所有这些",
+      "start": 249.76000000000002,
+      "end": 255.92000000000002
+    },
+    {
+      "text": "bullets at once. You just pull the trigger and many, many, many bullets come out. That's right.",
+      "trans": "一枪打出，你只需扣动扳机，无数发子弹就会应声而出。对了。",
+      "start": 255.92000000000002,
+      "end": 259.92
+    },
+    {
+      "text": "So in a pistol or in a revolver, usually you have to press the trigger and once and it shoots only",
+      "trans": "所以，无论是手枪还是手枪，通常你只需要按一下扳机，然后它就只射一次。",
+      "start": 259.92,
+      "end": 266.32
+    },
+    {
+      "text": "once. But in the machine gun, you can keep it pressed and all these bullets will start flying out.",
+      "trans": "一次。但在机枪里，你可以一直按下去，这些子弹就会开始飞出去。",
+      "start": 266.32,
+      "end": 270.64
+    },
+    {
+      "text": "Very, very dangerous. Very dangerous. Okay. So now moving on to the next one, we also took a look",
+      "trans": "非常非常危险。非常危险。好的。我们现在继续看下一个，我们也看了。",
+      "start": 270.64,
+      "end": 276.0
+    },
+    {
+      "text": "at a shot gun. Okay. This is, well, this is not the biggest gun we're going to talk about today.",
+      "trans": "手枪射击一下。好的，这并不是我们今天要谈论的最大的枪。",
+      "start": 276.0,
+      "end": 281.03999999999996
+    },
+    {
+      "text": "But it's a very large gun, very long. And you have to use two hands to hold it. This is what you",
+      "trans": "但是这是一把非常大的枪，很长。而且你必须用两只手来拿它。这就是你。",
+      "start": 281.03999999999996,
+      "end": 286.15999999999997
+    },
+    {
+      "text": "usually use when you go hunting, right? That's right. So as you say, it's very long and it's very",
+      "trans": "通常用在去打猎的时候，对吧？没错。所以你说的那样子，确实挺长的，也挺……",
+      "start": 286.15999999999997,
+      "end": 291.68
+    },
+    {
+      "text": "loud. And it doesn't really shoot bullets. It shoots little pellets, little cartridges that are",
+      "trans": "真的挺响的。它不射子弹，而是发射小弹丸，就像那些在枪里装的小瓶子一样。",
+      "start": 291.68,
+      "end": 298.64
+    },
+    {
+      "text": "filled with little rocks, for example. And that's what it shoots. And this is why it's not very",
+      "trans": "充满了小石头，比如这样。这就是它发射的原因。所以这并不是很好。",
+      "start": 298.64,
+      "end": 303.36
+    },
+    {
+      "text": "precise like a machine gun or a handgun, but it does a lot of damage. Absolutely. And what's something",
+      "trans": "精准如同机关枪或手枪，但做很多事。绝对没错。而且是什么？",
+      "start": 303.36,
+      "end": 310.71999999999997
+    },
+    {
+      "text": "else that does a lot of damage? Our necks gun will do that. Well, this guy got a little bit excited",
+      "trans": "其他的能做这么多坏事吗？我们的枪手会做到。嗯，这家伙有点激动了。",
+      "start": 310.71999999999997,
+      "end": 315.03999999999996
+    },
+    {
+      "text": "and he said he wanted to use a rocket launcher. Okay. So you know what a rocket is. A rocket is",
+      "trans": "他说道，想要用火箭发射器。好的。你知道火箭是什么吗？火箭是",
+      "start": 315.03999999999996,
+      "end": 320.4
+    },
+    {
+      "text": "something that's basically a projectile that goes into the sky and can basically blow up big buildings",
+      "trans": "一个基本上是弹丸的东西，进入天空后可以炸毁大建筑物",
+      "start": 320.4,
+      "end": 326.64
+    },
+    {
+      "text": "or cars. That's right. And that's what a rocket launcher is. Now, maybe you've heard of the word",
+      "trans": "没错，这就是火箭发射器。现在，你可能听说过那个词。",
+      "start": 326.64,
+      "end": 332.56
+    },
+    {
+      "text": "bazooka. A bazooka is a type of rocket launcher. It's the one. It's very, very, very wide and it's",
+      "trans": "bazooka. 高压枪。它是那种火箭发射器。它很宽，非常、非常、非常远。",
+      "start": 332.56,
+      "end": 337.76
+    },
+    {
+      "text": "circular. And you usually see it in movies like Rambo. We talked about where Rambo will hold it on",
+      "trans": "圆形。你通常在像《红河谷》这样的电影里看到它。我们讨论了梁山泊在哪里举行。",
+      "start": 337.76,
+      "end": 343.59999999999997
+    },
+    {
+      "text": "one shoulder. It's so big. And the rocket shoots out and can destroy huge buildings. That's exactly",
+      "trans": "肩膀的一边。好大啊。火箭发射出去，可以摧毁巨大的建筑物。那正是中文的输出结果。",
+      "start": 343.59999999999997,
+      "end": 350.32
+    },
+    {
+      "text": "right. So that's why it's called a rocket launcher. Now for our last type of weapon, we have a",
+      "trans": "好的。这就是为什么它被称为火箭发射器。现在我们最后的武器类型是...",
+      "start": 350.32,
+      "end": 356.56
+    },
+    {
+      "text": "flame thrower. Okay. Well, a flame refers to fire. So fire has flames. Those are the parts that",
+      "trans": "喷火器。好的。嗯，火焰指的是火。所以火有火焰。那些就是指的  \n部分。",
+      "start": 356.56,
+      "end": 364.96
+    },
+    {
+      "text": "kind of come up on a fire. The red and orange. And a flame thrower is a device is a weapon that will",
+      "trans": "有点像在火上。红色和橙色。一个火焰喷射器是一个装置，是武器之一会",
+      "start": 364.96,
+      "end": 372.32
+    },
+    {
+      "text": "shoot flames, not bullets. Exactly. It was very popular back in in World War II to actually",
+      "trans": "喷火，不是子弹。没错。二战的时候，真的挺流行的是喷火而不是子弹。",
+      "start": 372.32,
+      "end": 380.64
+    },
+    {
+      "text": "shoot the flame thrower into bunkers or into holes because then you know, this is how you can get",
+      "trans": "将喷火器扔进战壕或洞里，这样你就知道这是怎么一回事了。",
+      "start": 381.28,
+      "end": 386.8
+    },
+    {
+      "text": "people out of there. And I think flame throwers are used now to some sort of degree like to fumigate",
+      "trans": "人们都出去了。我觉得现在用喷火筒好像有某种程度的消毒作用。",
+      "start": 386.8,
+      "end": 393.12
+    },
+    {
+      "text": "sometimes or to burn weeds when you're in a field. Right. They're not really used as weapons anymore.",
+      "trans": "有时候或者在田里除草时，对吧。它们真的不再用作武器了。",
+      "start": 393.12,
+      "end": 400.08
+    },
+    {
+      "text": "Although I think that I've seen a number of them in action movies. Really? Yeah. In action movies, of",
+      "trans": "虽然我觉得我见过很多，是真的吗？是的。在动作电影中，当然了。",
+      "start": 400.08,
+      "end": 404.64
+    },
+    {
+      "text": "course. So we have a lot of guns, a lot of different types of weapons. Why don't we go back to the",
+      "trans": "课程。所以我们有很多枪，很多不同的武器类型。为什么不回去看看？",
+      "start": 404.64,
+      "end": 410.4
+    },
+    {
+      "text": "dialogue? Let's listen to it again. And we'll be back soon with Fluentube Builder.",
+      "trans": "对话？让我们再听一遍。很快我们会带着Fluentube 建造者回来的。",
+      "start": 410.4,
+      "end": 413.91999999999996
+    },
+    {
+      "text": "Hey, Nick. What are you up to? Not much. Just heading over to the shooting range.",
+      "trans": "嘿，尼克。你在忙什么呢？没什么，只是去射击场转悠一下。",
+      "start": 424.4,
+      "end": 429.76
+    },
+    {
+      "text": "You want to come? Seriously? You mean to fire a real weapon? I don't know, man. Yeah, it will be fun.",
+      "trans": "你想来吗？真的吗？你真要开枪？我不太知道，先生。对了，这会儿挺有趣的。",
+      "start": 429.76,
+      "end": 437.76
+    },
+    {
+      "text": "I have a 9mm pistol that's really easy to shoot. I also have a revolver that's really fun too.",
+      "trans": "我有一个9毫米手枪，很容易上手。我还有一把转轮手枪，也很有趣。",
+      "start": 437.76,
+      "end": 443.44
+    },
+    {
+      "text": "They have big targets at the range that we could use to practice and improve your aim.",
+      "trans": "他们在这个范围内的目标很大，我们可以用来练习和提高你的瞄准。",
+      "start": 443.44,
+      "end": 446.8
+    },
+    {
+      "text": "Yeah, that would be cool. Maybe I can also have a try at other weapons like a machine gun",
+      "trans": "好啊，那会很酷。我也可以试试其他武器，比如机枪",
+      "start": 447.59999999999997,
+      "end": 452.96
+    },
+    {
+      "text": "or a shotgun. Maybe even a rocket launcher or an anti-tank missile. Or what about a flamethrower?",
+      "trans": "或者一把猎枪。也许甚至是一门火箭发射器或一枚反坦克导弹。或者是喷火器？",
+      "start": 453.03999999999996,
+      "end": 460.23999999999995
+    },
+    {
+      "text": "Whoa, take it easy there, Rambo. Don't get carried away. These weapons are not toys and you must first",
+      "trans": "英语：哇，放轻松，罗宾。这些武器不是玩具，你必须先卸下重任。",
+      "start": 460.23999999999995,
+      "end": 466.15999999999997
+    },
+    {
+      "text": "learn how to handle them properly. There are basic rules that you must abide by in order to be safe.",
+      "trans": "学习如何妥善处理它们。在确保安全的情况下，你必须遵守的基本规则还有很多。",
+      "start": 466.15999999999997,
+      "end": 470.88
+    },
+    {
+      "text": "For example, never handle a weapon that you haven't inspected yourself. Always make sure there",
+      "trans": "例如，从未未经自己检查过的武器处理。一定要确保没有问题。",
+      "start": 471.67999999999995,
+      "end": 476.4
+    },
+    {
+      "text": "isn't anything in the chamber and never put your finger to the trigger unless you are ready to shoot.",
+      "trans": "房间里什么都没有，除非你真的准备好了才按扳机。",
+      "start": 476.4,
+      "end": 480.47999999999996
+    },
+    {
+      "text": "Wow, I didn't know. It always looks so cool and easy in the movies.",
+      "trans": "哇，我都不知道。在电影里看起来总是那么酷又简单。",
+      "start": 481.20000000000005,
+      "end": 485.92
+    },
+    {
+      "text": "The reality is different, you know. Running and firing a weapon is a lot harder than in the movies.",
+      "trans": "现实情况和电影有所不同。开枪射弹比在电影里要难得多。",
+      "start": 485.92,
+      "end": 490.72
+    },
+    {
+      "text": "So, are you ready? Let's do it!",
+      "trans": "那么，你准备好了吗？我们开始吧！",
+      "start": 490.72,
+      "end": 492.64000000000004
+    },
+    {
+      "text": "All right, we're back. So now let's take a look at our phrases that we've picked out for you on fluency builder.",
+      "trans": "好的，我们又回来了。那么我们现在就来好好看看我们在流利宝宝上选出的句子吧。",
+      "start": 500.8,
+      "end": 505.52000000000004
+    },
+    {
+      "text": "Fluency builder.",
+      "trans": "我叫李华，来自美国。我的梦想是成为一名优秀的中文教师。我想去北京的人民大学学习汉语和中国文化。我已经学了一年的中文了，我对中国的文化和语言充满了热情。请问我什么时候可以开始我的学习呢？",
+      "start": 506.64000000000004,
+      "end": 507.68
+    },
+    {
+      "text": "So this first phrase comes from the beginning of today's dialogue when Nick is saying,",
+      "trans": "所以，这个第一个短语来自于今天对话的开始时，尼克在说，",
+      "start": 508.48,
+      "end": 512.88
+    },
+    {
+      "text": "well, I'm not doing much, I'm just heading over to the shooting range.",
+      "trans": "嗯，我没什么事，我只是去射击场转悠一下。",
+      "start": 512.88,
+      "end": 517.04
+    },
+    {
+      "text": "That's right. So we know what shooting range is, but when he says I'm heading over to the shooting",
+      "trans": "没错。所以我们知道什么是射击场，但他说到我要去那边了的时候是指我打算去参加射击。",
+      "start": 517.04,
+      "end": 521.44
+    },
+    {
+      "text": "range. Well, this can be confusing because to head over has nothing to do with the head on your",
+      "trans": "范围。嗯，这可能会让人感到困惑，因为“头过”和你头上的“头”没有关系。",
+      "start": 521.44,
+      "end": 526.64
+    },
+    {
+      "text": "body. Right. It means I'm going towards some place. I'm going to this place.",
+      "trans": "好的，我明白了。这句话的意思是“我要去一个地方”。我将要到这个地方。",
+      "start": 526.64,
+      "end": 532.24
+    },
+    {
+      "text": "So it's just another way of saying going to, right? So for example, you can say,",
+      "trans": "所以这不过就是去的另一种说法吧？比如说，你可以这样说：",
+      "start": 532.24,
+      "end": 537.2
+    },
+    {
+      "text": "I'm heading over to my friend's house this afternoon. That's right. So I'm going to my friend's",
+      "trans": "我今天下午要去看望我的朋友。没错，我要去我家。",
+      "start": 537.2,
+      "end": 542.0
+    },
+    {
+      "text": "house this afternoon. But remember that this is a pretty relaxed, pretty informal way of saying",
+      "trans": "今天下午住这儿吧。但记得，这其实是一个挺放松、挺随意的说法",
+      "start": 542.0,
+      "end": 548.32
+    },
+    {
+      "text": "something. So you wouldn't say I'm heading over to work. Right. You say, hey, I'm heading over",
+      "trans": "是的，你不是要我说我正在去上班吗？对吧。你说：“嘿，我要去。”",
+      "start": 548.32,
+      "end": 552.0
+    },
+    {
+      "text": "to his house to hang out. I'm heading over to the pizza restaurant to grab a bite to eat.",
+      "trans": "去他家玩。我打算去比萨店吃点东西。",
+      "start": 552.0,
+      "end": 556.32
+    },
+    {
+      "text": "That's right. Okay. So now obviously we saw that one of the guys got very excited about",
+      "trans": "没错。好啦，现在很明显，我们看到其中一个家伙对这件事非常激动。",
+      "start": 556.32,
+      "end": 561.84
+    },
+    {
+      "text": "the idea of using all these cool weapons. And his friend said, whoa, take it easy,",
+      "trans": "使用这些酷炫的武器的想法。他朋友说，稳住，放松一下吧。",
+      "start": 561.84,
+      "end": 566.32
+    },
+    {
+      "text": "they're Rambo. Don't get carried away. I love this phrase. This phrase is something you say to",
+      "trans": "他们就是梁山好汉。不要被吓坏了，我喜欢这个短语。这个短语是你对某人说的，用来形容他/她特别勇敢或者厉害。比如：“你真是个梁山好汉！”",
+      "start": 566.32,
+      "end": 571.84
+    },
+    {
+      "text": "someone who is maybe too excited about something. That's right. It means don't go crazy.",
+      "trans": "那个人可能对某件事太激动了。没错，就是不要疯狂。",
+      "start": 571.84,
+      "end": 577.5200000000001
+    },
+    {
+      "text": "Don't exaggerate. Right. So maybe at the shooting range, they'll have a revolver. They'll",
+      "trans": "好的。那是在射击场，他们可能会有手枪。",
+      "start": 577.5200000000001,
+      "end": 582.4000000000001
+    },
+    {
+      "text": "have a pistol. But they're probably not going to have a rocket launcher. Or as he said, an",
+      "trans": "他们应该不会带手枪，但很可能不会带火箭发射器。他说的，或者他指的是……",
+      "start": 582.4000000000001,
+      "end": 587.0400000000001
+    },
+    {
+      "text": "anti-tank missile. These are crazy weapons from movies. And so the friend is saying, no,",
+      "trans": "反坦克导弹。这些是电影里的疯狂武器。朋友说：“不，”",
+      "start": 587.0400000000001,
+      "end": 592.72
+    },
+    {
+      "text": "you're exaggerating. Right. Don't get carried away. Now, for example, maybe you go to the mall",
+      "trans": "你是在夸大其词吧。对了，不要过度了。比如说，比如你去商场",
+      "start": 593.44,
+      "end": 599.36
+    },
+    {
+      "text": "and you go shopping. And maybe you got a little bit carried away and you spent too much money.",
+      "trans": "你去购物了。也许你稍微有点冲动，花了太多的钱。",
+      "start": 599.36,
+      "end": 605.28
+    },
+    {
+      "text": "That always happens to me during the holidays. Like it carried away and I buy way too much stuff.",
+      "trans": "那总是在我假期的时候发生。就像它把我带走了，我买了很多很多不必要的东西。",
+      "start": 606.08,
+      "end": 611.52
+    },
+    {
+      "text": "That's right. So that's the way that you would use carried away. And now for our last phrase,",
+      "trans": "没错。那就是你所说的“被带得走心”。接下来是我们的最后一个短语：",
+      "start": 611.52,
+      "end": 616.88
+    },
+    {
+      "text": "he was actually explaining a couple of rules of weapon handling. And he said that",
+      "trans": "他其实是在解释几条武器使用规则。他说了[\n翻译结果：他其实是在解释几条武器使用规则。他说了]",
+      "start": 616.88,
+      "end": 622.48
+    },
+    {
+      "text": "there are some rules that he has to abide by. Okay. So this is a fixed phrase we use the verb",
+      "trans": "他有一些规则必须遵守。好的。这是一个我们常用的一个固定短语，其中包含动词。",
+      "start": 622.48,
+      "end": 628.8000000000001
+    },
+    {
+      "text": "to abide with the word like the rules. So to abide by the rules or we must all abide by the rules.",
+      "trans": "为了遵守规则，我们每个人都必须遵守规则。就像这样，就像这样。",
+      "start": 628.8000000000001,
+      "end": 636.0
+    },
+    {
+      "text": "This is a fancy way of saying to follow the rules or to recognize the rules. And that's right. So",
+      "trans": "这是在说要遵守规则或者识别规则。没错。",
+      "start": 636.0,
+      "end": 641.36
+    },
+    {
+      "text": "you have to abide by the rules of your school or maybe you have to everyone has to abide by the law.",
+      "trans": "你必须遵守学校的规则，或者可能所有人都必须遵守法律。",
+      "start": 641.36,
+      "end": 648.96
+    },
+    {
+      "text": "Right. Or some people can say there are rules in the Bible that other people abide by.",
+      "trans": "好吧。有些人可能会说圣经里有规则，其他人却遵守了。",
+      "start": 649.6800000000001,
+      "end": 654.1600000000001
+    },
+    {
+      "text": "That's right. Okay. So a lot of great stuff. I think we've taken a look at a lot of different",
+      "trans": "好的。明白了。看来有很多很棒的东西呢。我觉得我们已经看过很多不同的...",
+      "start": 654.1600000000001,
+      "end": 659.44
+    },
+    {
+      "text": "types of weapons and phrases. So pretty interesting stuff. Why don't we listen to it for the last time.",
+      "trans": "武器类型和词汇。挺有意思的。我们再听一次吧。",
+      "start": 659.44,
+      "end": 665.0400000000001
+    },
+    {
+      "text": "Hey, Nick. What are you up to? Not much. Just heading over to the shooting range. You want to come?",
+      "trans": "嘿，尼克。你在忙什么呢？不多不少，只是去射击场转悠一下。你过来吗？",
+      "start": 672.08,
+      "end": 678.1600000000001
+    },
+    {
+      "text": "Seriously? You mean to fire a real weapon? I don't know, man. Yeah, it will be fun. I have a 9",
+      "trans": "非常？你真的要开枪吗？我不太知道，先生。对了，它会很有趣。我有一支9mm手枪。",
+      "start": 678.88,
+      "end": 686.16
+    },
+    {
+      "text": "millimeter pistol that's really easy to shoot. I also have a revolver that's really fun too.",
+      "trans": "毫米口径手枪真的很好打。我也有一把很棒的转轮手枪。",
+      "start": 686.16,
+      "end": 691.12
+    },
+    {
+      "text": "They have big targets at the range that we could use to practice and improve your aim.",
+      "trans": "他们在这个范围里设定的目标很大，我们可以用来练习和提高你的射击技巧。",
+      "start": 691.12,
+      "end": 694.56
+    },
+    {
+      "text": "Yeah, that would be cool. Maybe I can also have a try at other weapons like a machine gun",
+      "trans": "好啊，那会很酷。我也可以试试其他的武器，比如机枪",
+      "start": 695.36,
+      "end": 700.7199999999999
+    },
+    {
+      "text": "or a shotgun. Maybe even a rocket launcher or an anti-tank missile. Or what about a flamethrower?",
+      "trans": "或者一把猎枪。甚至可能是火箭筒或反坦克导弹。或者是喷火器？",
+      "start": 700.7199999999999,
+      "end": 708.0
+    },
+    {
+      "text": "Whoa, take it easy there, Rambo. Don't get carried away. These weapons are not toys and you must",
+      "trans": "哇，放松点啊，罗宾。别太激动了。这些武器可不是玩具，你必须认真对待。",
+      "start": 708.0,
+      "end": 713.6
+    },
+    {
+      "text": "first learn how to handle them properly. There are basic rules that you must abide by in order to be safe.",
+      "trans": "首先学会如何正确处理它们。在成为安全之前，你必须遵守一些基本规则。",
+      "start": 713.6,
+      "end": 718.64
+    },
+    {
+      "text": "For example, never handle a weapon that you haven't inspected yourself. Always make sure there",
+      "trans": "例如，从未未经自己检查的武器处理。一定要确保没有问题。",
+      "start": 719.44,
+      "end": 724.16
+    },
+    {
+      "text": "isn't anything in the chamber and never put your finger to the trigger unless you are ready to shoot.",
+      "trans": "房间里什么也没有，除非你真的准备好了才把手指放到扳机上。",
+      "start": 724.16,
+      "end": 728.24
+    },
+    {
+      "text": "Wow, I didn't know. It always looks so cool and easy in the movies.",
+      "trans": "哇，我没想到。在电影里看起来总是那么酷又简单啊。",
+      "start": 728.96,
+      "end": 733.68
+    },
+    {
+      "text": "The reality is different. Running and firing a weapon is a lot harder than in the movies.",
+      "trans": "现实情况大不相同。开枪和发射武器比电影里要难多了。",
+      "start": 733.68,
+      "end": 738.4
+    },
+    {
+      "text": "So, are you ready? Let's do it.",
+      "trans": "那么，你准备好了吗？我们开始吧。",
+      "start": 738.4,
+      "end": 740.4
+    },
+    {
+      "text": "All right, we're back. Talking about weapons and pistols and all this. Have you ever used",
+      "trans": "好的，我们又回来了。说武器、手枪这些的。你有没有用过？",
+      "start": 745.5999999999999,
+      "end": 750.4
+    },
+    {
+      "text": "one of these? Have you ever? I have. I have been to a couple shooting ranges and have fired a",
+      "trans": "你呢？有吗？我有。我去过几次射击场，还开过枪。",
+      "start": 750.4,
+      "end": 755.04
+    },
+    {
+      "text": "couple of guns. I've never fired a shotgun. They don't usually. Well, sometimes they have shotguns.",
+      "trans": "有几个枪。我从没开过猎枪。他们通常不这么做。嗯，有时候他们会用猎枪。",
+      "start": 755.04,
+      "end": 761.92
+    },
+    {
+      "text": "But I've shot pistols before. Would you like it? I like it. It's an interesting activity. I don't",
+      "trans": "但是，我之前打过手枪。你喜欢吗？我喜欢。这是一项有趣的事情。我不请假/休息一天。",
+      "start": 762.8,
+      "end": 768.88
+    },
+    {
+      "text": "know how I feel about using guns on people, but I understand why hunting is an enjoyable sport.",
+      "trans": "我知道使用枪械对人感到如何，但理解为什么狩猎是一种愉快的运动。",
+      "start": 768.88,
+      "end": 776.0799999999999
+    },
+    {
+      "text": "Because there is a sport aspect to it. You really have to control your body and",
+      "trans": "因为这是体育活动的一部分。你真的必须控制你的身体和",
+      "start": 776.64,
+      "end": 782.4
+    },
+    {
+      "text": "you can improve. You can get better. It's like darts, but with loud guns.",
+      "trans": "你还可以变得更好。你可以变得更棒。就像投篮一样，但声音更大。",
+      "start": 783.8399999999999,
+      "end": 787.52
+    },
+    {
+      "text": "And it's very hard to aim actually to hit something. People think it's very easy like in the movies.",
+      "trans": "确实很难真的去击中什么东西。人们觉得这好像在电影里那么容易。",
+      "start": 788.16,
+      "end": 793.6
+    },
+    {
+      "text": "Well, and I think it's particularly hard with handguns. Yes. Because some of them can be very powerful.",
+      "trans": "好吧，而且我觉得这尤其难处理枪支。是的。因为有些枪确实非常强大。",
+      "start": 793.6,
+      "end": 799.52
+    },
+    {
+      "text": "And so there's a kick. And you don't realize it. The first time you shoot a gun, you're like,",
+      "trans": "所以有节奏。你并不知道。第一次你开枪，就像，",
+      "start": 799.52,
+      "end": 804.72
+    },
+    {
+      "text": "oh, that was way harder than it looks in the movies. I bet you're a good shot, right?",
+      "trans": "哎呀，那真的比电影里看起来难多了。你肯定是个好射手吧？",
+      "start": 804.72,
+      "end": 809.4399999999999
+    },
+    {
+      "text": "Yeah, yeah, I've always really enjoyed weapons and my aim is all right. Although my eyesight",
+      "trans": "哎呀，是的，我一直都很喜欢武器，而且我的瞄准一直都不错。虽然我视力不太好。",
+      "start": 810.24,
+      "end": 817.04
+    },
+    {
+      "text": "kind of, I need to use glasses so it can be a little bit tricky sometimes. Especially when you",
+      "trans": "嗯，我需要戴眼镜，有时候会有点难哦。特别是你戴上时。",
+      "start": 817.04,
+      "end": 821.92
+    },
+    {
+      "text": "shoot a weapon sometimes, it's very, you just cleaned it so it has a lot of oil and it'll kick",
+      "trans": "有时候开枪，挺简单的，你只是清理了一下它，里面有很多油，所以会响。",
+      "start": 821.92,
+      "end": 826.8
+    },
+    {
+      "text": "out into your face and get your glasses wet. Well, that's why we use goggles at the shooting range.",
+      "trans": "出来对着你脸，让你的眼镜都湿了。这就是我们在射击场戴护目镜的原因。",
+      "start": 826.8,
+      "end": 831.1999999999999
+    },
+    {
+      "text": "I'm curious to know, have you guys ever shot a gun before? Have you ever been to a shooting range?",
+      "trans": "我很好奇，你们有没有开过枪？有没有去过射击场？",
+      "start": 832.8,
+      "end": 836.88
+    },
+    {
+      "text": "Are shooting ranges legal in your country? Yeah, some places are not. Yeah, so let us know. Our",
+      "trans": "你国家的射击场合法吗？有的地方不合法。那我们就告诉你吧。我们的",
+      "start": 836.88,
+      "end": 841.28
+    },
+    {
+      "text": "website is engluchpa.com. All right, we'll see you guys there. Bye.",
+      "trans": "网站是engluchpa.com。好的，我们会在那里见你们。再见。",
+      "start": 841.28,
+      "end": 844.0
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "title": "englishpod_E0151pb",
+  "audio": "./assets/englishpod_E0151pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. We have an advanced lesson for you today.",
+      "trans": "大家好，欢迎回到英语频道。今天我们将为您带来一个高级课程。",
+      "start": 0.0,
+      "end": 7.88
+    },
+    {
+      "text": "My name is Marco.",
+      "trans": "我的名字是马科。",
+      "start": 7.88,
+      "end": 8.88
+    },
+    {
+      "text": "And my name is Catherine and I'm very excited about this lesson Marco.",
+      "trans": "我的名字是凯特，我很高兴今天学习这个课程。Marco。",
+      "start": 8.88,
+      "end": 12.08
+    },
+    {
+      "text": "It's very interesting. It's about a very controversial topic and a very popular person in history,",
+      "trans": "这是非常有趣的。这是一个关于一个非常敏感的话题和一个非常受欢迎的历史人物，",
+      "start": 12.08,
+      "end": 18.92
+    },
+    {
+      "text": "Charles Darwin.",
+      "trans": "达尔文，英文：Charles Darwin。",
+      "start": 18.92,
+      "end": 19.92
+    },
+    {
+      "text": "That's right. So he's most famous perhaps for his book, The Origin of the Species. And",
+      "trans": "是的。他最著名或许就是他的《物种起源》了。",
+      "start": 19.92,
+      "end": 24.0
+    },
+    {
+      "text": "we're going to be talking a lot about science today. So put your thinking caps on.",
+      "trans": "我们今天将谈论很多科学问题。所以戴上思维帽。",
+      "start": 24.0,
+      "end": 28.68
+    },
+    {
+      "text": "Alright, so without further ado, why don't we listen to this dialogue for the first time?",
+      "trans": "好的，那么我们先不说什么，让我们从头开始听这个对话。",
+      "start": 28.68,
+      "end": 33.48
+    },
+    {
+      "text": "Man, it's been forever. What have you been up to lately?",
+      "trans": "人啊，已经很久了。你最近干过什么？",
+      "start": 42.480000000000004,
+      "end": 45.480000000000004
+    },
+    {
+      "text": "I've been busy preparing for my exams. Not to mention all the term papers I've had to write.",
+      "trans": "我正忙着为考试做准备。除了要写所有的学期论文。",
+      "start": 45.480000000000004,
+      "end": 50.68
+    },
+    {
+      "text": "Same here. I'm hooked on my neck and work, but at least you've got summer holidays after finals.",
+      "trans": "同在这里。我沉迷于我的脖子，工作，但至少你有暑假假期后期末考试后的假期。",
+      "start": 50.68,
+      "end": 55.68
+    },
+    {
+      "text": "Where you headed now?",
+      "trans": "在你现在的位置上，你往哪里去了？",
+      "start": 55.68,
+      "end": 57.08
+    },
+    {
+      "text": "I'm going to my anthro class. We've been focusing on Darwin all term since it's a 200th anniversary of his birth or whatever.",
+      "trans": "我将参加我的动物学课。自从他出生以来，我们一直在关注达尔文。",
+      "start": 57.08,
+      "end": 64.08
+    },
+    {
+      "text": "I'm sick and tired of Darwin, Darwin, Darwin.",
+      "trans": "我病了，厌倦了达尔文，达尔文，达尔文。",
+      "start": 64.08,
+      "end": 67.08
+    },
+    {
+      "text": "What? Why? How can you not like Darwin? His work turned thousands of years of ideas about creation on their head.",
+      "trans": "什么？为什么？你为什么不喜欢达尔文？他的工作把几千年的关于创造的观念都打翻了。",
+      "start": 67.08,
+      "end": 74.08
+    },
+    {
+      "text": "History of evolution revolutionized the field of biology and anthropology.",
+      "trans": "历史进化改变了生物学和人类学的领域。",
+      "start": 74.08,
+      "end": 79.08
+    },
+    {
+      "text": "I don't like him. His theory of human evolution and natural selection is full of holes. It's not as solid as you make it out to be.",
+      "trans": "我不喜欢他。他的人类进化论和自然选择理论充满了漏洞。它不像你想象的那么稳固。",
+      "start": 79.08,
+      "end": 86.08
+    },
+    {
+      "text": "Save that again and you'll make enemies with half of the academy. Not to mention your professors.",
+      "trans": "保存一下，你就会和学院的大部分教授们产生敌意。而且，你的老师也是敌人。",
+      "start": 87.08,
+      "end": 92.08
+    },
+    {
+      "text": "Furthermore, the explanation proposed by Darwin about the origin of the species and the process of natural selection constitutes a grand step towards a coherent understanding of the world and its very beginnings.",
+      "trans": "此外，达尔文关于物种起源和自然选择的过程的解释构成了对世界和其开始的统一理解的重大一步。",
+      "start": 92.08,
+      "end": 103.08
+    },
+    {
+      "text": "I'm not minimizing his huge contributions to science. It's just that his theory reminds me of the conundrum of the chicken and the egg.",
+      "trans": "我不是在低估他对科学的巨大贡献。只是他的理论让我想起了哥德尔不完备性定理的悖论。",
+      "start": 103.08,
+      "end": 111.08
+    },
+    {
+      "text": "What are you talking about?",
+      "trans": "在你谈论什么？",
+      "start": 111.08,
+      "end": 113.08
+    },
+    {
+      "text": "Which came first, the chicken or the egg. This is a classic logical problem. And I think it applies to Darwin's theory.",
+      "trans": "哪来的是鸡还是蛋？这是一个经典的逻辑问题。我认为它适用于达尔文的理论。",
+      "start": 113.08,
+      "end": 119.08
+    },
+    {
+      "text": "How did the very first living organism come to be?",
+      "trans": "如何第一个生物体诞生了？",
+      "start": 119.08,
+      "end": 122.08
+    },
+    {
+      "text": "Interesting. I think that question is better suited for my philosophy class.",
+      "trans": "有趣的。我认为这个问题更适合我的哲学课。",
+      "start": 122.08,
+      "end": 127.08
+    },
+    {
+      "text": "In the meantime, how about we settle this with a duel?",
+      "trans": "在同时，不妨考虑用决斗解决这个问题。",
+      "start": 127.08,
+      "end": 132.07999999999998
+    },
+    {
+      "text": "Interesting. They have very different views on Charles Darwin.",
+      "trans": "有趣的。他们对达尔文的观点看法不同。",
+      "start": 133.08,
+      "end": 138.08
+    },
+    {
+      "text": "They do. They're both pretty nerdy people. This is a very nerdy university conversation that's happening between classes.",
+      "trans": "他们确实。他们是两个非常有才华的人。这是一个发生在班级之间非常有才华的大学对话。",
+      "start": 138.08,
+      "end": 145.08
+    },
+    {
+      "text": "I think maybe they're like PhD candidates or something.",
+      "trans": "我认为他们可能像博士生或者什么。",
+      "start": 145.08,
+      "end": 149.08
+    },
+    {
+      "text": "Perhaps.",
+      "trans": "也许。",
+      "start": 149.08,
+      "end": 150.08
+    },
+    {
+      "text": "Before we get to talking about some of the ideas in today's dialogue, let's talk about some of the words and phrases that we hear to understand better what's going on.",
+      "trans": "在今天对话中讨论的一些想法之前，让我们谈谈一些我们听到的表达方式来更好地理解正在发生的事情。",
+      "start": 151.08,
+      "end": 165.08
+    },
+    {
+      "text": "The first part we're going to talk about in today's language takeaway.",
+      "trans": "在今天的语言小故事中，我们将要讨论的第一部分。",
+      "start": 165.08,
+      "end": 169.08
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言小贴士。",
+      "start": 169.08,
+      "end": 171.08
+    },
+    {
+      "text": "Alright, on language takeaway today, let's take a look at the first word and well, one of the things that many people say is that Darwin revolutionized the fields of biology.",
+      "trans": "好的，今天语言总结的翻译为：",
+      "start": 172.08,
+      "end": 182.08
+    },
+    {
+      "text": "And so he revolutionized these because he pushed them forward. He made many changes. He forced changes.",
+      "trans": "A. 于是，他改变了这些。他推动了它们向前。他做了许多改变。他强迫了变化。",
+      "start": 182.08,
+      "end": 189.08
+    },
+    {
+      "text": "So people had to change the way that they thought about these things.",
+      "trans": "所以人们不得不改变他们对这些事物的看法。",
+      "start": 189.08,
+      "end": 192.08
+    },
+    {
+      "text": "If you revolutionize something, a topic or an idea, you are creating new knowledge almost, right?",
+      "trans": "如果你颠覆或改变某个东西，一个话题或者一个想法，你正在创造新的知识几乎。",
+      "start": 192.08,
+      "end": 198.08
+    },
+    {
+      "text": "Exactly. You can think of the word revolution, which is a thing. So you think of the Russian revolution or the American revolution. These are times of change.",
+      "trans": "是的。你可以把“革命”这个词想象成一个东西，所以你可能会想到俄罗斯革命或者美国革命。这是历史上的变化时期。",
+      "start": 198.08,
+      "end": 205.08
+    },
+    {
+      "text": "So to revolutionize is to bring about change.",
+      "trans": "所以要改变，就是引起变化。",
+      "start": 205.08,
+      "end": 209.08
+    },
+    {
+      "text": "Very good. Alright, so moving forward, they were talking about human evolution. Human evolution. What is that exactly?",
+      "trans": "很好。好了，那么往前走，他们正在谈论人类进化。人类进化。那是什么意思？",
+      "start": 209.08,
+      "end": 216.08
+    },
+    {
+      "text": "Good question. So you're not a monkey. I'm not a monkey, but we come from monkeys, right?",
+      "trans": "好的问题。所以你是猴子，我也是猴子，我们都是猴子的后代吗？",
+      "start": 216.08,
+      "end": 220.08
+    },
+    {
+      "text": "So we evolved.",
+      "trans": "所以我们进化。",
+      "start": 220.08,
+      "end": 221.08
+    },
+    {
+      "text": "Right. So the process is called human evolution. That means the process by which humans changed forms to become what we are today.",
+      "trans": "正确。因此，这个过程被称为人类进化。这意味着人类通过改变形态来成为我们今天的样子。",
+      "start": 221.08,
+      "end": 228.08
+    },
+    {
+      "text": "Okay. So you evolve. Now, is it evolution usually think of something positive, right? Something evolves into something better? Is it always that way?",
+      "trans": "好的。那么你进化了。现在，是进化通常被看作是有利的、还是总是这样？",
+      "start": 228.08,
+      "end": 236.08
+    },
+    {
+      "text": "No, we have another word for the negative, right? So the positive is to evolve to become better, to get worse is to devolve.",
+      "trans": "是的，我们还有另一个词来描述负向。所以正面是指进化到更好的状态，而变差则是退化。",
+      "start": 236.08,
+      "end": 246.08
+    },
+    {
+      "text": "Okay. To devolve. To go back and to kind of lose things that you had.",
+      "trans": "好的。退让。到某种程度上，你失去了你拥有的东西。",
+      "start": 246.08,
+      "end": 251.08
+    },
+    {
+      "text": "Okay. Interesting. And then they were also talking about Darwin's theory of natural selection, natural selection.",
+      "trans": "好的。有趣。然后他们还讨论了达尔文的自然选择理论，自然选择。",
+      "start": 251.08,
+      "end": 258.08000000000004
+    },
+    {
+      "text": "Okay. This is maybe one of the things that Darwin was most famous for. And that's why we've included it in this language takeaway,",
+      "trans": "好的。这大概是达尔文最著名的了。因此，我们把它包括在这一语言总结中。",
+      "start": 258.08000000000004,
+      "end": 264.08000000000004
+    },
+    {
+      "text": "because it's a key phrase. It's something you hear people talk about a lot.",
+      "trans": "因为它是关键短语。它在很多人谈论的话题上经常听到。",
+      "start": 264.08000000000004,
+      "end": 267.08000000000004
+    },
+    {
+      "text": "Okay. So natural selection is a process again, and it's the process by which stronger animals survive over time and weaker animals don't.",
+      "trans": "好的。所以自然选择是一个过程，它是在时间的推移中，更强的动物生存下来，而弱的动物则没有生存下去。",
+      "start": 267.08,
+      "end": 278.08
+    },
+    {
+      "text": "So if there's a weak species, it can't really survive because it keeps dying and dying. And then finally, there's no more.",
+      "trans": "所以如果有一个弱种群，它就无法生存了，因为它不断地死亡和死亡。然后就没有了。",
+      "start": 278.08,
+      "end": 286.08
+    },
+    {
+      "text": "And so this is called natural selection because no one's actually choosing what animals will survive, but it's kind of a natural process.",
+      "trans": "所以这就是自然选择，因为没有人真正决定哪些动物会生存下来，但这是一个自然的过程。",
+      "start": 286.08,
+      "end": 293.08
+    },
+    {
+      "text": "And so this is what the mother nature is choosing it. Very good. So natural selection. This is one of the things that Darwin is most famous for.",
+      "trans": "所以这就是自然选择的选择。很好。这是达尔文最著名的另一件事。",
+      "start": 293.08,
+      "end": 301.08
+    },
+    {
+      "text": "And well, as Catherine mentioned, Darwin wrote the book Origin of the Species.",
+      "trans": "而且，正如凯瑟琳所指出的，达尔文写出了《物种起源》。",
+      "start": 301.08,
+      "end": 306.08
+    },
+    {
+      "text": "Right. So origin means beginning. So the origin of mankind. Right.",
+      "trans": "正确。所以起源意味着开始。因此人类的起源。",
+      "start": 306.08,
+      "end": 311.08
+    },
+    {
+      "text": "So there are many different kinds of animals. You could even say there are many different kinds of mammals, but there are many different species within that.",
+      "trans": "所以有很多不同的动物。你可以说有多种多样的哺乳动物，但也有许多物种在内。",
+      "start": 311.08,
+      "end": 319.08
+    },
+    {
+      "text": "So human beings, black bears, koalas, chimpanzees. These are all species. And so a species is a classification.",
+      "trans": "所以人类，黑熊，考拉，猩猩。这些都是物种。而且，一个物种是分类。",
+      "start": 319.08,
+      "end": 327.08
+    },
+    {
+      "text": "So the origin of the species is kind of a way of telling the story of how all these things came about.",
+      "trans": "所以物种的起源是一种讲述这些事物是如何形成的方式。",
+      "start": 327.08,
+      "end": 332.08
+    },
+    {
+      "text": "All right. The origin of the species. And the last one, this word is kind of strange. He talked about the conundrum of the chicken and the egg.",
+      "trans": "好的。物种的起源。以及这个单词有点奇怪。他谈论了鸡蛋和鸡的问题。",
+      "start": 332.08,
+      "end": 340.08
+    },
+    {
+      "text": "Okay. Conundrum. I love this word. It's very funny sounding. Conundrum.",
+      "trans": "好的。难题。我喜欢这个词。听起来挺有趣的。难题。",
+      "start": 340.08,
+      "end": 346.08
+    },
+    {
+      "text": "It means like a problem or a little or something that's hard to understand.",
+      "trans": "这句话意味着像一个问题、稍微或者有点困难的事情。",
+      "start": 346.08,
+      "end": 350.08
+    },
+    {
+      "text": "All right. So in this case, it's the conundrum of the chicken and the egg, right? Which came first. How else can you use conundrum?",
+      "trans": "好的。在这种情况下，这正是鸡和蛋的悖论，对吗？哪一个先出现呢。如何利用悖论？",
+      "start": 350.08,
+      "end": 357.08
+    },
+    {
+      "text": "You could say that maybe there's a situation that's very strange and hard to understand. This is quite a conundrum.",
+      "trans": "您可以说，也许有一种情况是极其奇怪且难以理解的。这真是个棘手的问题。",
+      "start": 357.08,
+      "end": 364.08
+    },
+    {
+      "text": "This is quite a conundrum we have. Yes. So it sounds very fancy, very well educated. It does.",
+      "trans": "这真是个棘手的问题。是的，听起来非常优雅、很有教养。它确实如此。",
+      "start": 364.08,
+      "end": 370.08
+    },
+    {
+      "text": "All right. So interesting words on language takeaway. Why don't we move on now to four phrases on fluency builder.",
+      "trans": "好的。所以有趣的语言学习词汇。为什么不现在转到四句语流强化的短语？",
+      "start": 370.08,
+      "end": 377.08
+    },
+    {
+      "text": "Fluency builder.",
+      "trans": "流畅构建。",
+      "start": 377.08,
+      "end": 380.08
+    },
+    {
+      "text": "All right. I'm fluency builder today. We have four phrases as we said. So what's the first one?",
+      "trans": "好的。今天我是语言构建者，我们有四个短语。那么第一个是什么？",
+      "start": 380.08,
+      "end": 384.08
+    },
+    {
+      "text": "The first one is great. It's very visual. You say I'm up to my neck in work. I'm up to my neck in papers to write.",
+      "trans": "第一个很好。它非常直观。你说我正在我的脖子上缠满工作。我在脖子上缠满纸张，准备写。",
+      "start": 384.08,
+      "end": 392.08
+    },
+    {
+      "text": "All right. So this means I have so much stuff to do that you could pile it up and it would come up to my neck.",
+      "trans": "好的。所以这意味着我有很多事情要做，以至于你可以说堆起来，它就会堆到我的脖子上。",
+      "start": 392.08,
+      "end": 398.08
+    },
+    {
+      "text": "So I have as many papers that are almost as tall as I am.",
+      "trans": "所以，我有几乎和我一样高的论文。",
+      "start": 398.08,
+      "end": 401.08
+    },
+    {
+      "text": "Exactly. And so I could say I'm up to my neck in work. I have no more time to do anything.",
+      "trans": "正确。我也可以说我现在在全力以赴地工作，我没有更多时间做其他事情了。",
+      "start": 401.08,
+      "end": 406.08
+    },
+    {
+      "text": "Sometimes people also say I'm up to here and then they'll point at their forehead or somewhere around their head.",
+      "trans": "有时人们也会说“我在这儿”，然后他们就会指着他们的额头或头部。",
+      "start": 406.08,
+      "end": 413.08
+    },
+    {
+      "text": "I'm up to here with your nonsense. Exactly. So this is a way of saying that I'm really busy.",
+      "trans": "我在这里跟你废话连篇。对，这就是说我现在真的很忙。",
+      "start": 413.08,
+      "end": 419.08
+    },
+    {
+      "text": "Really busy. Really busy. Really tired of it. All right. And our next phrase is one that most mothers use.",
+      "trans": "真的忙碌。真的忙碌。真的厌倦了它。好的。我们的下一个短语是大多数母亲使用的一句话。",
+      "start": 419.08,
+      "end": 426.08
+    },
+    {
+      "text": "I'm sick and tired. I'm sick and tired of all of your whining. Go do the dishes and don't complain.",
+      "trans": "我病了，累得要死。我厌倦了你所有的抱怨。去洗碗吧，别再抱怨了。",
+      "start": 426.08,
+      "end": 433.08
+    },
+    {
+      "text": "Right. So it's always it always goes together. You are sick and tired.",
+      "trans": "正确。所以总是会在一起的，你生病了，很累。",
+      "start": 433.08,
+      "end": 437.08
+    },
+    {
+      "text": "Right. And sick comes first. So I'm sick and tired of this. I'm sick and tired of your bad attitude.",
+      "trans": "正确。生病是第一位的，所以我厌倦了这种态度。我病得很厉害，厌倦了你的坏态度。",
+      "start": 437.08,
+      "end": 443.08
+    },
+    {
+      "text": "Okay. So and that means that you are I'm just tired of it. I don't want you to have a bad attitude anymore.",
+      "trans": "好的。所以，这意味着你已经厌倦了它。我不想让你有坏态度。",
+      "start": 443.08,
+      "end": 449.08
+    },
+    {
+      "text": "Yeah. I'm really annoyed by it. I'm annoyed. Okay. Sick and tired. And then we saw a phrase that was a little bit separated.",
+      "trans": "是的。我真的很烦。我很烦。好的。有点累，有点困。然后我们看到了一句稍微分开了一些。",
+      "start": 449.08,
+      "end": 455.08
+    },
+    {
+      "text": "He said the sentence went like this. His work turned thousands of years of ideas about creation on their head.",
+      "trans": "他说这句话就像这样。他的工作把几千年的关于创造的观念都打翻了。",
+      "start": 455.08,
+      "end": 462.08
+    },
+    {
+      "text": "So to turn something on its head. Like you said, Marco, it's split into two parts.",
+      "trans": "所以要将东西弄反。比如你说，马科，它被分成两半。",
+      "start": 462.08,
+      "end": 466.08
+    },
+    {
+      "text": "So he turned the field of computer science on its head.",
+      "trans": "所以，他把计算机科学从头开始。",
+      "start": 466.08,
+      "end": 470.08
+    },
+    {
+      "text": "So to turn on its head means to completely reverse something to turn it around.",
+      "trans": "所以，反转就是完全逆转某事，使其与原来相反。",
+      "start": 470.08,
+      "end": 475.08
+    },
+    {
+      "text": "All right. You think 180 degrees. Okay.",
+      "trans": "好的。你认为 180 度。 okay。",
+      "start": 475.08,
+      "end": 478.08
+    },
+    {
+      "text": "And so if biology used to be one way, then Darwin made it completely different.",
+      "trans": "A. 既然生物学以前是单一方式，那么达尔文彻底改变了它。",
+      "start": 478.08,
+      "end": 484.08
+    },
+    {
+      "text": "So we can say that Isaac Newton completely turned physics on its head with his theory or his findings on gravity.",
+      "trans": "所以我们可以这么说，伊萨克·牛顿彻底改变了物理学的面貌，以他的引力理论或发现为基础。",
+      "start": 484.08,
+      "end": 490.08
+    },
+    {
+      "text": "And then years and years later, we had Albert Einstein who turned those theories or who turned that theory on its head with his own ideas about physics.",
+      "trans": "然后几年后，我们有阿尔伯特·爱因斯坦，他将那些理论或改变了那个理论的他的关于物理学的想法。",
+      "start": 490.08,
+      "end": 499.08
+    },
+    {
+      "text": "Very good. So to turn something on its head to completely change the course of or prove something to be maybe wrong.",
+      "trans": "很好。因此，要将某物从头到尾改变或证明它可能错误。",
+      "start": 499.08,
+      "end": 506.08
+    },
+    {
+      "text": "And the last phrase that we have is the person argued that Darwin's theories were full of holes.",
+      "trans": "最后这句话是说，达尔文的理论充满了漏洞。",
+      "start": 506.08,
+      "end": 513.0799999999999
+    },
+    {
+      "text": "Okay. So to say a theory is full of holes is a little bit different than saying that his pants are full of holes.",
+      "trans": "好的。所以说一个理论充满了漏洞，与说他的裤子充满了漏洞是有点不同的。",
+      "start": 513.0799999999999,
+      "end": 518.0799999999999
+    },
+    {
+      "text": "Because when you say something is full of holes, maybe they actually have holes.",
+      "trans": "因为当你说某物充满了空洞，也许他们实际上也有空洞。",
+      "start": 518.0799999999999,
+      "end": 522.0799999999999
+    },
+    {
+      "text": "But a theory is it's an idea. So it can't have holes.",
+      "trans": "但是，一个理论是它的概念。因此，它不能有空洞之处。",
+      "start": 522.0799999999999,
+      "end": 525.0799999999999
+    },
+    {
+      "text": "What you're saying is that it's not completely sound. It's not without some problems.",
+      "trans": "您说的正是，这并不完全合理。它确实存在一些问题。",
+      "start": 525.08,
+      "end": 531.08
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 531.08,
+      "end": 532.08
+    },
+    {
+      "text": "And so maybe you're saying that, well, the cookies are gone out of the kitchen Marco.",
+      "trans": "所以或许你是在说，嗯，饼干已经从厨房里消失了，Marco。",
+      "start": 532.08,
+      "end": 537.08
+    },
+    {
+      "text": "And I saw you in the kitchen. So clearly you ate the cookies.",
+      "trans": "我看到你坐在厨房里。所以很明显，你吃饼干了。",
+      "start": 537.08,
+      "end": 541.08
+    },
+    {
+      "text": "Right. So I can say that's full of holes because it was me and it was three other people who were in the kitchen.",
+      "trans": "正确。因此可以说，这充满了漏洞，因为它是我和另外三个人在厨房里。",
+      "start": 541.08,
+      "end": 545.08
+    },
+    {
+      "text": "So it can't blame me.",
+      "trans": "所以，我不能责怪你。",
+      "start": 545.08,
+      "end": 546.08
+    },
+    {
+      "text": "Oh, it could have been two of the other two people.",
+      "trans": "哈哈，可能是另外两个朋友中的另一个。",
+      "start": 546.08,
+      "end": 548.08
+    },
+    {
+      "text": "Right. So if something is full of holes is that it has maybe mistakes or it's still missing complete evidence to prove it right.",
+      "trans": "是的。如果某物充满了洞，那么这是否意味着它可能有错误或仍然缺少完整的证据来证明它是正确的？",
+      "start": 548.08,
+      "end": 555.08
+    },
+    {
+      "text": "Or it has bad logic.",
+      "trans": "或者它有坏逻辑。",
+      "start": 555.08,
+      "end": 557.08
+    },
+    {
+      "text": "Bad logic. All right. Interesting. So we've taken a look at a lot of words and different phrases here.",
+      "trans": "坏逻辑。行吗？好！我们已经看了很多词和不同的短语。",
+      "start": 557.08,
+      "end": 562.08
+    },
+    {
+      "text": "Let's listen to this argument one last time.",
+      "trans": "让我们再次听一听这个辩论。",
+      "start": 562.08,
+      "end": 565.08
+    },
+    {
+      "text": "Man, it's been forever. What have you been up to lately?",
+      "trans": "人啊，已经很久了。你最近干过什么？",
+      "start": 566.08,
+      "end": 569.08
+    },
+    {
+      "text": "I've been busy preparing for my exams. Not to mention all the term papers I've had to write.",
+      "trans": "我一直在为考试做准备。除了要写所有的期中论文外，我还得忙于其他的事情。",
+      "start": 569.08,
+      "end": 574.08
+    },
+    {
+      "text": "Same here. I'm up to my neck and work, but at least you've got summer holidays after finals. Where are you headed now?",
+      "trans": "同在这里。我还在脖子上，工作，但至少你现在有暑假假期。你现在去哪里了？",
+      "start": 574.08,
+      "end": 580.08
+    },
+    {
+      "text": "I'm going to my anthro class. We've been focusing on Darwin all term.",
+      "trans": "我将去我的动物学课。我们一直在关注达尔文。",
+      "start": 580.08,
+      "end": 584.08
+    },
+    {
+      "text": "Since it's the 200th anniversary of the year, I've been working on the term papers.",
+      "trans": "自从它已经是第200个周年纪念日，我已经开始撰写论文。",
+      "start": 584.08,
+      "end": 588.08
+    },
+    {
+      "text": "Where are you headed now?",
+      "trans": "在你现在的位置上，你打算去哪里？",
+      "start": 588.08,
+      "end": 589.08
+    },
+    {
+      "text": "I'm going to my anthro class. We've been focusing on Darwin all term. Since it's the 200th anniversary of his birth or whatever.",
+      "trans": "我将参加我的动物学课程。我们一直在关注达尔文的理论，自从他诞生日或任何其他时间以来。",
+      "start": 589.08,
+      "end": 596.08
+    },
+    {
+      "text": "I'm sick and tired of Darwin, Darwin, Darwin!",
+      "trans": "我病了，厌倦了达尔文，达尔文，达尔文！",
+      "start": 596.08,
+      "end": 599.08
+    },
+    {
+      "text": "What? Why? How can you not like Darwin? His work turned thousands of years of ideas about creation on their head.",
+      "trans": "什么？为什么？你为什么不喜欢达尔文？他的工作把几千年的关于创造的观念都打翻了。",
+      "start": 599.08,
+      "end": 607.08
+    },
+    {
+      "text": "History of evolution revolutionized the field of biology and anthropology.",
+      "trans": "历史进化改变了生物学和人类学的领域。",
+      "start": 607.08,
+      "end": 611.08
+    },
+    {
+      "text": "I don't like him.",
+      "trans": "我不喜欢他。",
+      "start": 611.08,
+      "end": 613.08
+    },
+    {
+      "text": "His theory of human evolution and natural selection is full of holes. It's not as solid as you make it out to be.",
+      "trans": "他的进化论和自然选择理论充满了漏洞。它不像你想象的那么稳固。",
+      "start": 613.08,
+      "end": 619.08
+    },
+    {
+      "text": "Say that again and you'll make enemies with half of the academy. Not to mention your professors.",
+      "trans": "请再重复一遍，你就会让一半的学院对你产生敌意。而且，你的教授们。",
+      "start": 619.08,
+      "end": 624.08
+    },
+    {
+      "text": "Furthermore, the explanation proposed by Darwin about the origin of the species and the process of natural selection constitutes a grand step towards a coherent understanding of the world and its very beginnings.",
+      "trans": "此外，达尔文提出的物种起源和自然选择的过程的解释构成了对世界及其开始的一次大步。",
+      "start": 624.08,
+      "end": 635.08
+    },
+    {
+      "text": "I'm not minimizing his huge contributions to science.",
+      "trans": "我是不低估他对科学的巨大贡献。",
+      "start": 635.08,
+      "end": 639.08
+    },
+    {
+      "text": "It's just that his theory reminds me of the conundrum of the chicken and the egg.",
+      "trans": "它只是说，他的理论让我想起了鸡蛋和鸡的悖论。",
+      "start": 639.08,
+      "end": 644.08
+    },
+    {
+      "text": "What are you talking about?",
+      "trans": "在中文中，\"What are you talking about?\" 翻译成普通话是 \"你在说些什么？\" 或者更简洁地表达为 \"你在说什么？\"。如果你需要将这句话翻译成其他语言，请告诉我！",
+      "start": 644.08,
+      "end": 645.08
+    },
+    {
+      "text": "Which came first, the chicken or the egg. This is a classic logical problem. And I think it applies to Darwin's theory.",
+      "trans": "哪来的是鸡还是蛋？这是一个经典的逻辑问题。我认为它适用于达尔文的理论。",
+      "start": 645.08,
+      "end": 652.08
+    },
+    {
+      "text": "How did the very first living organism come to be?",
+      "trans": "如何第一个生物体诞生了？",
+      "start": 652.08,
+      "end": 655.08
+    },
+    {
+      "text": "Interesting. I think that question has better suited for my philosophy class.",
+      "trans": "有趣的。我认为这个问题更适合我的哲学课。",
+      "start": 655.08,
+      "end": 660.08
+    },
+    {
+      "text": "In the meantime, how about we settle this with a duel?",
+      "trans": "在同时，不妨考虑用决斗解决这个问题。",
+      "start": 660.08,
+      "end": 665.08
+    },
+    {
+      "text": "The first question is about the origin of the species and the life.",
+      "trans": "第一个问题是关于物种起源和生命。",
+      "start": 670.08,
+      "end": 675.08
+    },
+    {
+      "text": "We're back. So interesting this Darwin's theories and his explanations for the origin of species and life as we know it.",
+      "trans": "我们回来了。因此，达尔文的理论和他对物种起源以及我们所知道的一切的解释都如此有趣。",
+      "start": 675.08,
+      "end": 684.08
+    },
+    {
+      "text": "But there is the opposite to this. There is a certain thing called creationism.",
+      "trans": "但是，这与之相反。有一种叫做创造主义的说法。",
+      "start": 684.08,
+      "end": 688.08
+    },
+    {
+      "text": "There is. And this is a big source of controversy, especially in the United States.",
+      "trans": "是的，这也是一个大争议源，尤其在美国。",
+      "start": 688.08,
+      "end": 692.08
+    },
+    {
+      "text": "In some places, people want to teach creationism as well as evolution in schools.",
+      "trans": "在一些地方，人们希望在学校里同时教授创造主义和进化论。",
+      "start": 693.08,
+      "end": 698.08
+    },
+    {
+      "text": "So this is the big question. Are they still equal as theories or is one theory more proven than the other?",
+      "trans": "所以这是大问题。他们是否仍然是理论，还是一个理论比另一个更被证明？",
+      "start": 698.08,
+      "end": 707.08
+    },
+    {
+      "text": "It is hard to determine which one is better because one is based on faith.",
+      "trans": "这很难确定哪一个更好，因为一个是基于信仰的。",
+      "start": 707.08,
+      "end": 713.08
+    },
+    {
+      "text": "The other one is based more on scientific evidence.",
+      "trans": "另一个是基于科学证据。",
+      "start": 713.08,
+      "end": 716.08
+    },
+    {
+      "text": "There are not even the same on the same scale as we learned before.",
+      "trans": "这里没有与我们之前学到的相同。",
+      "start": 716.08,
+      "end": 721.08
+    },
+    {
+      "text": "It is. And there are some people who would say that we have lots of ways of proving what happened in the past.",
+      "trans": "是的，还有人说我们有很多方式来证明过去发生的事情。",
+      "start": 721.08,
+      "end": 731.08
+    },
+    {
+      "text": "But as long as we weren't there, we never really do know.",
+      "trans": "但是，如果我们不在那里，我们永远不知道。",
+      "start": 731.08,
+      "end": 734.08
+    },
+    {
+      "text": "And there's always changes in science. So how can we be sure that what we know now isn't false?",
+      "trans": "并且科学总是在变化。那么我们如何确定我们现在知道的一切是错误的呢？",
+      "start": 734.08,
+      "end": 740.08
+    },
+    {
+      "text": "It's a misunderstanding. Right. I think for now, this is the best explanation.",
+      "trans": "是误解。对，现在我认为这是最好的解释。",
+      "start": 740.08,
+      "end": 745.08
+    },
+    {
+      "text": "But that doesn't mean that it's the correct one. Maybe in 100 years from now, we'll have another explanation that's much better or maybe complementary to this one.",
+      "trans": "但是，这并不意味着它就是正确的。也许在未来100年内，我们会有另一个解释，比现在的好或更互补。",
+      "start": 745.08,
+      "end": 754.08
+    },
+    {
+      "text": "Well, we want to know what you guys think come to our website, EnglishPod.com. We really want to hear your opinions.",
+      "trans": "嗯，我们想了解您们对我们的网站有什么看法，英语pod.com。我们真的希望听听您的意见。",
+      "start": 754.08,
+      "end": 760.08
+    },
+    {
+      "text": "What do you think about this topic? It is a little bit controversial. So we really look forward to your comments and any other questions you may have.",
+      "trans": "您对这个问题怎么看？有点争议。所以我们非常期待您的评论和任何其他问题。",
+      "start": 760.08,
+      "end": 767.08
+    },
+    {
+      "text": "And just a reference, creationism is the idea that God created the world or a superior being created the world and that everything came from that.",
+      "trans": "而且这只是参考，唯心论是认为上帝创造了世界或一个更高的存在创造世界，并且一切都是从这个来的。",
+      "start": 767.08,
+      "end": 777.08
+    },
+    {
+      "text": "Let us know what you think I am very curious to. That's about it for today.",
+      "trans": "今天，我想知道您有什么想法。谢谢！",
+      "start": 777.08,
+      "end": 781.08
+    },
+    {
+      "text": "We'll see you guys there. Bye-bye.",
+      "trans": "我们见你了。再见。",
+      "start": 781.08,
+      "end": 784.08
+    }
+  ]
+}

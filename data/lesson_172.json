@@ -1,0 +1,924 @@
+{
+  "title": "englishpod_0172pb",
+  "audio": "./assets/englishpod_0172pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好，大家欢迎来到英语有声教材。我的名字是马可。",
+      "start": 0.0,
+      "end": 6.32
+    },
+    {
+      "text": "And my name is Catherine and today we have a very exciting elementary lesson for you.",
+      "trans": "我的名字是凯瑟琳，今天我们将有一个非常激动人心的初级课程。",
+      "start": 6.32,
+      "end": 12.040000000000001
+    },
+    {
+      "text": "That's right. We are going to take our clothes to the dry cleaners.",
+      "trans": "那是对的。我们是去干洗店拿衣服。",
+      "start": 12.040000000000001,
+      "end": 17.0
+    },
+    {
+      "text": "Oh okay. So that means we have some dirty clothes. They need to be cleaned.",
+      "trans": "哦，好的。这意味着我们有一些脏衣服需要清洗。",
+      "start": 17.0,
+      "end": 21.88
+    },
+    {
+      "text": "Let's listen to this dialogue one time and when we come back we'll be talking about the words and phrases that you hear in it.",
+      "trans": "让我们听这段对话一次，我们下次回来时会讨论你听到的词语和短语。",
+      "start": 21.88,
+      "end": 28.0
+    },
+    {
+      "text": "Thank God you are open. I have an emergency. Hello Mr. Hanson. What can I do for you?",
+      "trans": "感谢上帝你开放。我有紧急情况。你好，汉森先生。我能为你做些什么？",
+      "start": 30.0,
+      "end": 40.0
+    },
+    {
+      "text": "I need this dress and this suit dry cleaned ASAP.",
+      "trans": "我需要這件禮服和這套西裝馬上乾洗。",
+      "start": 40.0,
+      "end": 44.0
+    },
+    {
+      "text": "Okay. I can have it ready by the end of the week.",
+      "trans": "好的，我可以下周结束前准备好。",
+      "start": 44.0,
+      "end": 47.0
+    },
+    {
+      "text": "No you don't understand. I need this tomorrow morning.",
+      "trans": "你不懂的。我明天早上需要它。",
+      "start": 47.0,
+      "end": 51.0
+    },
+    {
+      "text": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's going to kill me.",
+      "trans": "我意外把啤酒洒在了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。",
+      "start": 51.0,
+      "end": 58.0
+    },
+    {
+      "text": "Okay. I can have it ready tomorrow afternoon but this suit is also very stained. I can't guarantee we can remove it completely.",
+      "trans": "好的。我可以明天下午准备好，但这件西装也染得很脏了。我不能保证我们能完全去除它。",
+      "start": 58.0,
+      "end": 65.0
+    },
+    {
+      "text": "Fine. Can you also iron and starch this shirt?",
+      "trans": "好的。这件衬衫你也可以熨烫和打褶吗？",
+      "start": 65.0,
+      "end": 69.0
+    },
+    {
+      "text": "Certainly.",
+      "trans": "当然。",
+      "start": 69.0,
+      "end": 70.0
+    },
+    {
+      "text": "Great. This is our secret. If you see my wife say nothing to her about this.",
+      "trans": "好的。这就是我们的秘密。如果你看到我妻子不谈论这件事。",
+      "start": 70.0,
+      "end": 75.0
+    },
+    {
+      "text": "Alright we're back so now there are probably a couple of words that you didn't understand so why don't we look at those now in language takeaway?",
+      "trans": "好的，我们回来了。现在可能有几个单词你不理解，让我们现在看看这些吧，在语言速递中。",
+      "start": 79.0,
+      "end": 87.0
+    },
+    {
+      "text": "Language takeaway.",
+      "trans": "语言取走。",
+      "start": 88.0,
+      "end": 91.0
+    },
+    {
+      "text": "Marco you already told our listeners about one phrase to dry clean so dry cleaned.",
+      "trans": "马可，你们已经告诉我们有一句话可以用来干洗了。",
+      "start": 91.0,
+      "end": 97.0
+    },
+    {
+      "text": "Alright so that's when you take your clothes to a professional who doesn't only wash them right you don't just put water and soap on it.",
+      "trans": "好的，那就是当你把衣服送到一个只洗它们而不是只是用水和肥皂的专业的裁缝那里。",
+      "start": 97.0,
+      "end": 106.0
+    },
+    {
+      "text": "They actually put some special chemicals and use special machines to get very hard to remove stains from it.",
+      "trans": "他们实际上用了一些特殊的化学物质和使用了特殊的机器，能够非常有效地去除这些难以清除的污渍。",
+      "start": 106.0,
+      "end": 113.0
+    },
+    {
+      "text": "Exactly and so this is often what we use when we clean coats or fancy shirts and dresses because you don't want to clean those yourself.",
+      "trans": "确切地说，这就是我们在清洗外套或昂贵的衬衫、裙子时所使用的方法，因为不想自己动手去清洁。",
+      "start": 114.0,
+      "end": 122.0
+    },
+    {
+      "text": "You can't put those in the washing machine.",
+      "trans": "你不能把它们放进洗衣机。",
+      "start": 122.0,
+      "end": 124.0
+    },
+    {
+      "text": "No so this is the dry cleaner that's the name of the place and the action what they do is they dry clean clothes.",
+      "trans": "这不是这个干洗店的名字，而是他们的工作内容。他们清洗衣服。",
+      "start": 124.0,
+      "end": 131.0
+    },
+    {
+      "text": "Okay very good. Alright well I mentioned that we take them to the dry cleaners because we want to remove stains.",
+      "trans": "好的很好。好吧，我提到我们会把它们送到干洗店，因为我们想去除污渍。",
+      "start": 131.0,
+      "end": 137.0
+    },
+    {
+      "text": "Okay so a stain is a mark or some color that does not come off does not go away.",
+      "trans": "好的，污渍是一个标记或颜色，这些标记或颜色无法去除或消失。",
+      "start": 137.0,
+      "end": 144.0
+    },
+    {
+      "text": "Alright so for example sometimes you can have a wine stain.",
+      "trans": "好的，例如有时候你可能会有红酒渍。",
+      "start": 144.0,
+      "end": 149.0
+    },
+    {
+      "text": "Oh wine stains are the worst they're red and they never come off or blood stain.",
+      "trans": "哦，酒渍是最糟糕的，它们是红色的，并且永远不会掉下来或者血迹。",
+      "start": 149.0,
+      "end": 154.0
+    },
+    {
+      "text": "Or blood stain.",
+      "trans": "或者血迹。",
+      "start": 154.0,
+      "end": 155.0
+    },
+    {
+      "text": "Right so you can a stain is a noun but you can also use it as an adjective my shirt is stained.",
+      "trans": "所以，你可以用“染”这个动词做名词，也可以用它当形容词。我的衬衫是脏的。",
+      "start": 155.0,
+      "end": 162.0
+    },
+    {
+      "text": "Okay so it's stained. My pants are stained and I can't wear them again.",
+      "trans": "好的，所以裤子染上了。我的裤子不能再穿了。",
+      "start": 162.0,
+      "end": 167.0
+    },
+    {
+      "text": "Again now that's also you can also use it as a verb I stained my pants.",
+      "trans": "现在也是，你也可以用它当动词，我染了裤子。",
+      "start": 167.0,
+      "end": 171.0
+    },
+    {
+      "text": "Alright so it's a verb it's a noun and an adjective all in one.",
+      "trans": "好的，它既是动词又是名词和形容词。",
+      "start": 171.0,
+      "end": 175.0
+    },
+    {
+      "text": "Easy to remember well there's another word that's so well related to this word.",
+      "trans": "很容易记住，另一个词和这个词关系密切。",
+      "start": 175.0,
+      "end": 180.0
+    },
+    {
+      "text": "We spilled something okay so I spilled wine and it stained my shirt.",
+      "trans": "我们弄了一点，所以我弄了酒，它把我的衬衫染红了。",
+      "start": 180.0,
+      "end": 184.0
+    },
+    {
+      "text": "Okay so two spilled and that means that you took some liquid and you put it onto your clothes.",
+      "trans": "好的，这意味着你弄了一些液体到你的衣服上。",
+      "start": 184.0,
+      "end": 191.0
+    },
+    {
+      "text": "Or you dropped it and it made a mess.",
+      "trans": "或者你丢掉了，结果弄成一团糟。",
+      "start": 191.0,
+      "end": 194.0
+    },
+    {
+      "text": "Okay so spilled I spilled some milk.",
+      "trans": "好的，我洒了一些牛奶。",
+      "start": 194.0,
+      "end": 197.0
+    },
+    {
+      "text": "Okay spilled now it's pronounced differently from spell right.",
+      "trans": "好吧，现在它发音和拼写不同了。",
+      "start": 197.0,
+      "end": 200.0
+    },
+    {
+      "text": "That's right it has it.",
+      "trans": "那就是了，它有。",
+      "start": 200.0,
+      "end": 201.0
+    },
+    {
+      "text": "It has an i spilled.",
+      "trans": "它洒了。",
+      "start": 201.0,
+      "end": 203.0
+    },
+    {
+      "text": "Alright now our next word is also a noun and a verb to iron.",
+      "trans": "好的，我们的下一个单词也是名词和动词。",
+      "start": 203.0,
+      "end": 208.0
+    },
+    {
+      "text": "To iron means to make something flat with no lines.",
+      "trans": "熨烫的意思是使某物变得平滑，没有任何线条。",
+      "start": 208.0,
+      "end": 212.0
+    },
+    {
+      "text": "Okay to smooth it out.",
+      "trans": "好吧，让它平滑一下。",
+      "start": 212.0,
+      "end": 215.0
+    },
+    {
+      "text": "So we use an iron to iron.",
+      "trans": "所以我们用熨斗熨衣服。",
+      "start": 215.0,
+      "end": 218.0
+    },
+    {
+      "text": "Exactly so it's a metal electronic object.",
+      "trans": "确切地说，这是一个金属电子物体。",
+      "start": 218.0,
+      "end": 222.0
+    },
+    {
+      "text": "It gets very hot.",
+      "trans": "非常热。",
+      "start": 222.0,
+      "end": 223.0
+    },
+    {
+      "text": "So you wash your shirts for example and your shirts are wrinkled because you just washed them.",
+      "trans": "所以你洗衬衫，结果衬衫皱巴巴的，因为你刚刚洗过。",
+      "start": 223.0,
+      "end": 228.0
+    },
+    {
+      "text": "So you need to iron them.",
+      "trans": "所以，你需要熨烫它们。",
+      "start": 228.0,
+      "end": 230.0
+    },
+    {
+      "text": "That's right and so you smooth them out you flatten them with this object and iron.",
+      "trans": "那就是对它们进行平整处理，然后用这个物体压平它们并熨烫。",
+      "start": 230.0,
+      "end": 234.0
+    },
+    {
+      "text": "Okay and well usually if you take them to the dry cleaners they will iron them and also starch them.",
+      "trans": "好吧，通常如果你把它们送去干洗店，他们会熨烫并给它们上粉。",
+      "start": 234.0,
+      "end": 242.0
+    },
+    {
+      "text": "Okay so to starch something means to use some powder or chemical to make something stiff or hard.",
+      "trans": "好的，把某物弄硬就是用一些粉末或化学物质使它变得僵硬或坚硬。",
+      "start": 242.0,
+      "end": 252.0
+    },
+    {
+      "text": "So the the noun or the chemical is also called starch.",
+      "trans": "所以，名词或化学物质也被称作淀粉。",
+      "start": 252.0,
+      "end": 256.0
+    },
+    {
+      "text": "Exactly so you think of a shirt with many buttons that a man wears to work.",
+      "trans": "确切地说，你认为的是那种穿在工作上的衬衫，有很多扣子的。",
+      "start": 256.0,
+      "end": 261.0
+    },
+    {
+      "text": "He has a collar around his neck and that needs to be high and tall.",
+      "trans": "他脖子上系着一条领带，需要高且长。",
+      "start": 261.0,
+      "end": 266.0
+    },
+    {
+      "text": "It can't be flat and wrinkled.",
+      "trans": "它不能是平的且皱巴巴的。",
+      "start": 266.0,
+      "end": 268.0
+    },
+    {
+      "text": "And so a dry cleaner will use starch to make sure that this stands up.",
+      "trans": "所以，干洗店会用淀粉确保它立得住。",
+      "start": 268.0,
+      "end": 273.0
+    },
+    {
+      "text": "Okay very good.",
+      "trans": "好的非常好。",
+      "start": 273.0,
+      "end": 274.0
+    },
+    {
+      "text": "So those are five key words for the dialogue today.",
+      "trans": "所以，今天对话中的五个关键词汇是。",
+      "start": 274.0,
+      "end": 278.0
+    },
+    {
+      "text": "Let's listen to the dialogue again and we'll be back with Fluency Builder.",
+      "trans": "让我们再听一遍对话，我们下次会用流利 builder。",
+      "start": 278.0,
+      "end": 282.0
+    },
+    {
+      "text": "Thank God you are open.",
+      "trans": "感谢你敞开心扉。",
+      "start": 288.0,
+      "end": 290.0
+    },
+    {
+      "text": "I have an emergency.",
+      "trans": "我有紧急情况。",
+      "start": 290.0,
+      "end": 291.0
+    },
+    {
+      "text": "Hello Mr. Hanson.",
+      "trans": "你好，汉森先生。",
+      "start": 291.0,
+      "end": 292.0
+    },
+    {
+      "text": "What can I do for you?",
+      "trans": "我能为你做些什么？",
+      "start": 292.0,
+      "end": 294.0
+    },
+    {
+      "text": "I need this dress and this suit dry cleaned ASAP.",
+      "trans": "我需要這條連衣裙和這件西装立即干洗。",
+      "start": 294.0,
+      "end": 298.0
+    },
+    {
+      "text": "Okay I can have it ready by the end of the week.",
+      "trans": "好的，我会在本周结束前准备好。",
+      "start": 298.0,
+      "end": 301.0
+    },
+    {
+      "text": "No you don't understand.",
+      "trans": "你不懂。",
+      "start": 301.0,
+      "end": 303.0
+    },
+    {
+      "text": "I need this tomorrow morning.",
+      "trans": "我明天早上需要这个。",
+      "start": 303.0,
+      "end": 305.0
+    },
+    {
+      "text": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's gonna kill me.",
+      "trans": "我意外把啤酒洒在了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。",
+      "start": 305.0,
+      "end": 312.0
+    },
+    {
+      "text": "Okay I can have it ready tomorrow afternoon but this suit is also very stained.",
+      "trans": "好的，我可以明天下午准备好，但这件西装也染得很脏。",
+      "start": 312.0,
+      "end": 317.0
+    },
+    {
+      "text": "I can't guarantee we can remove it completely.",
+      "trans": "我不能保证我们能完全去除它。",
+      "start": 317.0,
+      "end": 319.0
+    },
+    {
+      "text": "Fine.",
+      "trans": "好。",
+      "start": 319.0,
+      "end": 320.0
+    },
+    {
+      "text": "Can you also iron and starch this shirt?",
+      "trans": "你也会熨烫和打褶这件衬衫吗？",
+      "start": 320.0,
+      "end": 323.0
+    },
+    {
+      "text": "Possessionally.",
+      "trans": "占有。",
+      "start": 323.0,
+      "end": 324.0
+    },
+    {
+      "text": "Great. This is our secret.",
+      "trans": "好的。这是我们的秘密。",
+      "start": 324.0,
+      "end": 326.0
+    },
+    {
+      "text": "If you see my wife say nothing to her about this.",
+      "trans": "如果你看到我妻子不提这件事。",
+      "start": 326.0,
+      "end": 329.0
+    },
+    {
+      "text": "Alright we're back now so let's take a look at Fluency Builder.",
+      "trans": "好的，我们又回来了，现在让我们来看看流利builder。",
+      "start": 332.0,
+      "end": 336.0
+    },
+    {
+      "text": "Thank God.",
+      "trans": "感谢上帝。",
+      "start": 336.0,
+      "end": 337.0
+    },
+    {
+      "text": "Thank God.",
+      "trans": "感谢上帝。",
+      "start": 337.0,
+      "end": 338.0
+    },
+    {
+      "text": "Alright what is this phrase?",
+      "trans": "好的，这是什么短语？",
+      "start": 338.0,
+      "end": 340.0
+    },
+    {
+      "text": "Thank God.",
+      "trans": "感谢上帝。",
+      "start": 340.0,
+      "end": 341.0
+    },
+    {
+      "text": "Okay this is a phrase we use in English to say that we're happy about something or that we're relieved.",
+      "trans": "好的，这是我们英语中用来表示对某事感到高兴或感到宽慰的短语。",
+      "start": 341.0,
+      "end": 346.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 346.0,
+      "end": 347.0
+    },
+    {
+      "text": "So maybe I'm nervous that the male isn't going to come today.",
+      "trans": "所以也许我今天不会见到那个男生。",
+      "start": 347.0,
+      "end": 352.0
+    },
+    {
+      "text": "Then the male comes and I say oh thank God the male came.",
+      "trans": "然后男的来了，我说哦，太好了，男的来了。",
+      "start": 352.0,
+      "end": 356.0
+    },
+    {
+      "text": "I'm happy.",
+      "trans": "我开心。",
+      "start": 356.0,
+      "end": 357.0
+    },
+    {
+      "text": "I was hoping it would come.",
+      "trans": "我本希望它会来。",
+      "start": 357.0,
+      "end": 358.0
+    },
+    {
+      "text": "So you're relieved thank God.",
+      "trans": "所以你真是松了一口气，上帝保佑。",
+      "start": 358.0,
+      "end": 360.0
+    },
+    {
+      "text": "Now is it, we are using the word their God but it doesn't really have a religious connotation that much right?",
+      "trans": "现在，我们用“他们的神”这个词，但其实宗教含义并不强。",
+      "start": 360.0,
+      "end": 367.0
+    },
+    {
+      "text": "Not anymore.",
+      "trans": "不这样了。",
+      "start": 367.0,
+      "end": 368.0
+    },
+    {
+      "text": "No.",
+      "trans": "不行。",
+      "start": 368.0,
+      "end": 369.0
+    },
+    {
+      "text": "It's usually just a phrase.",
+      "trans": "通常只是一个短语。",
+      "start": 369.0,
+      "end": 370.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "确实。",
+      "start": 370.0,
+      "end": 371.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 371.0,
+      "end": 372.0
+    },
+    {
+      "text": "Now what about this acronym ASAP or ASAP?",
+      "trans": "现在这个缩写是 ASAP 或者 ASAP？",
+      "start": 372.0,
+      "end": 375.0
+    },
+    {
+      "text": "ASAP.",
+      "trans": "即刻行动。",
+      "start": 375.0,
+      "end": 376.0
+    },
+    {
+      "text": "ASAP.",
+      "trans": "即刻。",
+      "start": 376.0,
+      "end": 377.0
+    },
+    {
+      "text": "So as soon as possible as an acronym so the first letter comes from the word.",
+      "trans": "所以尽快，作为一个缩写词，第一个字母来自单词。",
+      "start": 377.0,
+      "end": 383.0
+    },
+    {
+      "text": "It means as soon as possible very quickly right away.",
+      "trans": "立刻，非常快。",
+      "start": 383.0,
+      "end": 387.0
+    },
+    {
+      "text": "You always hear that in an office setting as well.",
+      "trans": "你总是听到在办公室里也是这样。",
+      "start": 387.0,
+      "end": 389.0
+    },
+    {
+      "text": "I need those papers ASAP.",
+      "trans": "我需要那些文件尽快。",
+      "start": 389.0,
+      "end": 391.0
+    },
+    {
+      "text": "I need those reports ASAP.",
+      "trans": "我需要那些报告尽快。",
+      "start": 391.0,
+      "end": 392.0
+    },
+    {
+      "text": "Exactly so you can say it either way ASAP or ASAP and it means immediately.",
+      "trans": "Exactly，你可以随时说，快一点或者快一点，那就意味着马上。",
+      "start": 392.0,
+      "end": 398.0
+    },
+    {
+      "text": "Okay.",
+      "trans": "好的。",
+      "start": 398.0,
+      "end": 399.0
+    },
+    {
+      "text": "And he said that he needed the suit ASAP and he said I can have it ready by the end of the year.",
+      "trans": "他说他需要这件夹克衫尽快，他说我可以年底之前准备好。",
+      "start": 399.0,
+      "end": 405.0
+    },
+    {
+      "text": "Okay so that might not be fast enough for the clients, for the person here who has the stain but the end of the week is a very very useful phrase because it means that maybe today's Monday or Tuesday by Friday or Saturday we'll have this ready for you.",
+      "trans": "好的，这可能还不够快给客户。对于今天有污渍的人，但本周末是一个非常有用的短语，因为它意味着也许在周五或周六之前我们可以准备好你。",
+      "start": 405.0,
+      "end": 423.0
+    },
+    {
+      "text": "No.",
+      "trans": "中国：不。",
+      "start": 423.0,
+      "end": 424.0
+    },
+    {
+      "text": "Because we think of the end of the week as Friday maybe Thursday Friday.",
+      "trans": "因为我们将周末的结束看作是星期五可能也是周四。",
+      "start": 424.0,
+      "end": 427.0
+    },
+    {
+      "text": "So I can say the end of the week or the end of the day.",
+      "trans": "所以，我可以说一周的结束或者一天的结束。",
+      "start": 427.0,
+      "end": 431.0
+    },
+    {
+      "text": "Exactly the end of the month or the end of the year.",
+      "trans": "恰好是月底或者年底。",
+      "start": 431.0,
+      "end": 434.0
+    },
+    {
+      "text": "Exactly so the end of is usually the last time.",
+      "trans": "正是这样，结尾通常就是最后的时间。",
+      "start": 434.0,
+      "end": 440.0
+    },
+    {
+      "text": "So thank goodness it's the end of the week.",
+      "trans": "所以，感谢这个星期天的结束。",
+      "start": 440.0,
+      "end": 444.0
+    },
+    {
+      "text": "I'm ready for my weekend.",
+      "trans": "我准备好过周末了。",
+      "start": 444.0,
+      "end": 445.0
+    },
+    {
+      "text": "Very good.",
+      "trans": "非常好。",
+      "start": 445.0,
+      "end": 446.0
+    },
+    {
+      "text": "Okay so great phrases there as well.",
+      "trans": "好的，这些好词也很棒。",
+      "start": 446.0,
+      "end": 449.0
+    },
+    {
+      "text": "Let's listen to the dialogue for the last time.",
+      "trans": "让我们再听一次对话。",
+      "start": 449.0,
+      "end": 452.0
+    },
+    {
+      "text": "Thank God you are open.",
+      "trans": "感谢你敞开心扉。",
+      "start": 459.0,
+      "end": 461.0
+    },
+    {
+      "text": "I have an emergency.",
+      "trans": "我有紧急情况。",
+      "start": 461.0,
+      "end": 462.0
+    },
+    {
+      "text": "Hello Mr. Hanson. What can I do for you?",
+      "trans": "你好， Hanson先生。我能为你做些什么？",
+      "start": 462.0,
+      "end": 465.0
+    },
+    {
+      "text": "I need this dress and this suit dry cleaned ASAP.",
+      "trans": "我急需这两件衣服干洗。",
+      "start": 465.0,
+      "end": 469.0
+    },
+    {
+      "text": "Okay I can have it ready by the end of the week.",
+      "trans": "好的，我可以下周完成。",
+      "start": 469.0,
+      "end": 472.0
+    },
+    {
+      "text": "No you don't understand.",
+      "trans": "你不懂。",
+      "start": 472.0,
+      "end": 474.0
+    },
+    {
+      "text": "I need this tomorrow morning.",
+      "trans": "我明天早上需要它。",
+      "start": 474.0,
+      "end": 476.0
+    },
+    {
+      "text": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's gonna kill me.",
+      "trans": "我意外把啤酒洒到了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。",
+      "start": 476.0,
+      "end": 483.0
+    },
+    {
+      "text": "Okay I can have it ready tomorrow afternoon but this suit is also very stained.",
+      "trans": "好的，我可以明天下午准备好，但这件西装也相当脏。",
+      "start": 483.0,
+      "end": 487.0
+    },
+    {
+      "text": "I can't guarantee we can remove it completely.",
+      "trans": "我不能保证我们能完全去除它。",
+      "start": 487.0,
+      "end": 490.0
+    },
+    {
+      "text": "Fine. Can you also iron and starch this shirt?",
+      "trans": "好的。这件衬衫你也可以熨烫和打褶吗？",
+      "start": 490.0,
+      "end": 494.0
+    },
+    {
+      "text": "Possibly.",
+      "trans": "可能。",
+      "start": 494.0,
+      "end": 495.0
+    },
+    {
+      "text": "Great. This is our secret.",
+      "trans": "好的。这是我们秘密。",
+      "start": 495.0,
+      "end": 497.0
+    },
+    {
+      "text": "If you see my wife say nothing to her about this.",
+      "trans": "如果你看到我妻子对此什么也不说。",
+      "start": 497.0,
+      "end": 500.0
+    },
+    {
+      "text": "Alright we're back so now.",
+      "trans": "好的，我们回来了。现在。",
+      "start": 506.0,
+      "end": 508.0
+    },
+    {
+      "text": "Dry cleaning ironing. Are you good at this or do you get a lot of your clothes dry cleaned?",
+      "trans": "干洗熨烫。你会吗，还是你的衣服经常被干洗？",
+      "start": 508.0,
+      "end": 512.0
+    },
+    {
+      "text": "I'm pretty good at this actually. I don't like to wash clothes.",
+      "trans": "我其实还挺好的。我不喜欢洗衣服。",
+      "start": 512.0,
+      "end": 515.0
+    },
+    {
+      "text": "I get really bored with the washing machine but I actually really like ironing.",
+      "trans": "我真的很无聊洗衣机，但我真的喜欢熨衣服。",
+      "start": 515.0,
+      "end": 519.0
+    },
+    {
+      "text": "Really?",
+      "trans": "真的？",
+      "start": 519.0,
+      "end": 520.0
+    },
+    {
+      "text": "Yeah I find it very relaxing.",
+      "trans": "是的，我觉得它非常放松。",
+      "start": 520.0,
+      "end": 522.0
+    },
+    {
+      "text": "Really? I usually find it very frustrating.",
+      "trans": "真的吗？我通常觉得非常 frustrative。",
+      "start": 522.0,
+      "end": 524.0
+    },
+    {
+      "text": "Really why is that?",
+      "trans": "为什么呢？",
+      "start": 524.0,
+      "end": 525.0
+    },
+    {
+      "text": "Because I can't really iron well.",
+      "trans": "因为我实在不会熨衣服。",
+      "start": 525.0,
+      "end": 529.0
+    },
+    {
+      "text": "I start on one side and I'm getting all the lines out and then the other side gets wrinkled",
+      "trans": "我从一边开始，然后把所有的线都拉了出来，另一边就皱起来了。",
+      "start": 529.0,
+      "end": 535.0
+    },
+    {
+      "text": "or lines appear what I don't want them to appear.",
+      "trans": "或者，我不想要它们出现的线条。",
+      "start": 535.0,
+      "end": 538.0
+    },
+    {
+      "text": "It's very frustrating for me.",
+      "trans": "这对我非常 frustrate。",
+      "start": 538.0,
+      "end": 539.0
+    },
+    {
+      "text": "It is frustrating. It takes some practice.",
+      "trans": "这很 frustrating。需要一些练习。",
+      "start": 539.0,
+      "end": 541.0
+    },
+    {
+      "text": "My suggestion is to use the spritzer.",
+      "trans": "我的建议是使用喷雾。",
+      "start": 541.0,
+      "end": 545.0
+    },
+    {
+      "text": "You know in the iron there's some water that can come out like that.",
+      "trans": "你知道铁中有水可以像这样出来。",
+      "start": 545.0,
+      "end": 549.0
+    },
+    {
+      "text": "Well if you spray the water it makes the lines go out for longer.",
+      "trans": "如果你喷水，线条会更长。",
+      "start": 549.0,
+      "end": 555.0
+    },
+    {
+      "text": "Because if you iron over that it's more permanent.",
+      "trans": "因为如果熨烫的话，那就更持久了。",
+      "start": 555.0,
+      "end": 559.0
+    },
+    {
+      "text": "I've also seen some sprays sometimes that you can spray your clothes with some special chemical.",
+      "trans": "我也见过一些喷雾，你可以用特殊化学物质喷洒你的衣服。",
+      "start": 559.0,
+      "end": 564.0
+    },
+    {
+      "text": "That's not actually starch but it helps remove the wrinkles quicker.",
+      "trans": "那并不是真正的淀粉，但它有助于更快地去除皱纹。",
+      "start": 564.0,
+      "end": 567.0
+    },
+    {
+      "text": "Exactly. I don't use that. I use water generally but they're all available.",
+      "trans": "的确。我不用那个。我一般用水，但它们都很容易得到。",
+      "start": 567.0,
+      "end": 572.0
+    },
+    {
+      "text": "That's all the time we have for today.",
+      "trans": "今天就剩下这段时间了。",
+      "start": 572.0,
+      "end": 574.0
+    },
+    {
+      "text": "If you have any questions or comments you can visit our comments section on EnglishPod.com.",
+      "trans": "如果你有任何问题或评论，请访问我们的英语有声读物.com上的评论部分。",
+      "start": 574.0,
+      "end": 579.0
+    },
+    {
+      "text": "We'll see you guys there.",
+      "trans": "我们会见你们的。",
+      "start": 579.0,
+      "end": 581.0
+    },
+    {
+      "text": "Bye everyone.",
+      "trans": "再见大家。",
+      "start": 581.0,
+      "end": 582.0
+    },
+    {
+      "text": "Bye.",
+      "trans": "再见。",
+      "start": 582.0,
+      "end": 583.0
+    }
+  ]
+}

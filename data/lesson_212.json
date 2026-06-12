@@ -1,0 +1,960 @@
+{
+  "title": "englishpod_0212pb",
+  "audio": "./assets/englishpod_0212pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好大家，欢迎来到英语有声读物。我的名字是Marco。",
+      "start": 0.0,
+      "end": 6.48
+    },
+    {
+      "text": "My name is Catherine and today we have a very serious dialogue for you.",
+      "trans": "我的名字是凯瑟琳，今天我们要进行一场非常严肃的对话。",
+      "start": 6.48,
+      "end": 10.64
+    },
+    {
+      "text": "That's right we are going to talk about a will and testament, the last will and testament",
+      "trans": "那就是我们要讨论的遗嘱和遗赠，最后的遗嘱和遗赠。",
+      "start": 10.64,
+      "end": 15.5
+    },
+    {
+      "text": "of someone.",
+      "trans": "这个人。",
+      "start": 15.5,
+      "end": 16.5
+    },
+    {
+      "text": "Alright so what is a will and testament? Well basically this is a document that someone",
+      "trans": "好的，那么什么是遗嘱和遗赠？其实这是一个用来指定财产分配方式的文件。",
+      "start": 16.5,
+      "end": 20.96
+    },
+    {
+      "text": "writes usually with a lawyer that explains what to do with the person's body and their",
+      "trans": "通常写作时，会使用律师来解释如何处理当事人的身体和他们的事务。",
+      "start": 20.96,
+      "end": 26.34
+    },
+    {
+      "text": "possessions, their things, after they die. So many people write these and the family",
+      "trans": "遗物，他们的东西，在他们死后。所以很多人写这些东西，然后留给家人。",
+      "start": 26.34,
+      "end": 32.34
+    },
+    {
+      "text": "will then use it to discover who gets to receive certain objects and what to do with this",
+      "trans": "那么，它会用来发现谁得到了某些物品以及如何处理这些物品。",
+      "start": 32.34,
+      "end": 37.58
+    },
+    {
+      "text": "person's body.",
+      "trans": "人的身体。",
+      "start": 37.58,
+      "end": 38.58
+    },
+    {
+      "text": "Right. Exactly so that is a last will and testament. We are going to take a look and",
+      "trans": "好的。的确如此，那是一个遗嘱和遗言。我们接下来要看看。",
+      "start": 38.58,
+      "end": 44.5
+    },
+    {
+      "text": "then at an example of once you would see more or less in English how one is written.",
+      "trans": "然后，你可能会看到更多或更少的示例在英语中是如何写的。",
+      "start": 44.5,
+      "end": 50.14
+    },
+    {
+      "text": "Obviously they can be very long and very complex. So we've taken one that has some interesting",
+      "trans": "当然，它们可能会很长而且很复杂。所以我们选择了一个有趣的一个。",
+      "start": 50.14,
+      "end": 55.82
+    },
+    {
+      "text": "words there that are a little bit more specific, very a lot of legal terms there.",
+      "trans": "那些稍微具体一些的词汇，里面包含了很多法律术语。",
+      "start": 55.82,
+      "end": 60.54
+    },
+    {
+      "text": "So why don't we listen to this dialogue for the first time and move back shortly.",
+      "trans": "既然我们第一次听这个对话，就先停下来吧。",
+      "start": 60.54,
+      "end": 71.78
+    },
+    {
+      "text": "Last will and testament of Luke Thompson. I Luke Thompson residing in California, being",
+      "trans": "英文：路斯·汤普森的遗嘱。我路斯·汤普森，居住在加利福尼亚州。",
+      "start": 71.78,
+      "end": 78.14
+    },
+    {
+      "text": "of sound mind to hereby declare this instrument to be my last will and testament. I hereby",
+      "trans": "有头脑的人在此声明，本文件为我的遗嘱和遗产清单。我 hereby",
+      "start": 78.14,
+      "end": 83.9
+    },
+    {
+      "text": "revoke all previous wills and codicils. I direct that the disposition of my remains",
+      "trans": "取消之前的遗嘱和附录。我指示我的遗体处置方式。",
+      "start": 83.9,
+      "end": 89.58000000000001
+    },
+    {
+      "text": "be as follows. I'm to be cremated and taken to the summit of Mount Everest where my ashes",
+      "trans": "如下。我将被火化，运送到珠穆朗玛峰的山顶，撒下我的骨灰。",
+      "start": 89.58000000000001,
+      "end": 95.34
+    },
+    {
+      "text": "will forever remain at the ceiling of the earth. I give all the rest and residue of my",
+      "trans": "我将永远停留在地球的天花板上。我给你所有的剩余和余下的东西。",
+      "start": 95.34,
+      "end": 101.14000000000001
+    },
+    {
+      "text": "estate to my spouse, Betty Thompson. Should she survive me for 60 days? If my spouse,",
+      "trans": "我的配偶，比尔兹·汤普森。如果她比我活到60天呢？如果是她的配偶，那么就该由他来继承遗产吧。",
+      "start": 101.14000000000001,
+      "end": 108.10000000000001
+    },
+    {
+      "text": "Betty Thompson does not survive me, I give all the rest and residue of my estate to English",
+      "trans": "Betty Thompson没有活下来，我把我所有的遗产都留给英国。",
+      "start": 108.10000000000001,
+      "end": 113.5
+    },
+    {
+      "text": "pod. If neither Betty Thompson nor English pod survives me, I give all the rest and residue",
+      "trans": "pod。如果贝蒂·汤普森和英语Pod中没有我，我会把剩下的所有东西都给你。",
+      "start": 113.54,
+      "end": 119.3
+    },
+    {
+      "text": "of my estate to my heirs as determined by the laws of the state of California relating",
+      "trans": "我的遗产由加州法律确定给继承人。",
+      "start": 119.3,
+      "end": 124.58
+    },
+    {
+      "text": "to descent and distribution. I appoint Robert Porter to act as the executor of this will",
+      "trans": "为了分配遗产。我任命罗伯特·波特为这封遗嘱的执行人",
+      "start": 124.58,
+      "end": 130.7
+    },
+    {
+      "text": "to serve without bond. Should Robert Porter be unable or unwilling to serve than I appoint",
+      "trans": "为了服务而不求回报。如果罗伯特·波特无法或不愿意服侍我，我会任命他。",
+      "start": 130.7,
+      "end": 136.62
+    },
+    {
+      "text": "Jason Smalls to act as the executor of this will? I herewith a fix my signature to this",
+      "trans": "杰森·斯马尔特被指定为这份遗嘱的执行人？我在此签字确认。",
+      "start": 136.62,
+      "end": 142.62
+    },
+    {
+      "text": "will on this 23rd May 2010 in the presence of the following witnesses who witnessed and",
+      "trans": "将这句话翻译成中文，可以得到以下内容：",
+      "start": 142.62,
+      "end": 149.32
+    },
+    {
+      "text": "subscribed this will at my request and in my presence.",
+      "trans": "你订阅了这个，是出于我的请求，并且在我面前进行的。",
+      "start": 149.32,
+      "end": 155.1
+    },
+    {
+      "text": "Alright, we're back. So now we're going to take a look at five key words on language",
+      "trans": "好的，我们回来了。现在我们要看看五个关键的词汇在语言中的应用。",
+      "start": 155.1,
+      "end": 161.66
+    },
+    {
+      "text": "takeaway. Language takeaway. Okay, the first word here, language takeaway, comes from the",
+      "trans": "语言取餐。这个短语来自中文： takeaway。",
+      "start": 161.66,
+      "end": 170.1
+    },
+    {
+      "text": "very beginning of this monologue. We're reading the last one, Testament word. I Luke Thompson",
+      "trans": "我们正在读最后一章，遗嘱。我叫路易斯·汤普森。",
+      "start": 170.1,
+      "end": 177.5
+    },
+    {
+      "text": "residing in California, being of sound mind, sound as an adjective. What does this mean?",
+      "trans": "居住在加利福尼亚，心智清晰，形容词作状语。这是什么意思？",
+      "start": 177.5,
+      "end": 183.7
+    },
+    {
+      "text": "That's very interesting. So he says, I am in sound mind and sound is an adjective to",
+      "trans": "那挺有意思的。他说，我精神状态很好，精神是形容词。",
+      "start": 183.7,
+      "end": 189.26
+    },
+    {
+      "text": "describe. I am in a good state of mind. That's right. So it means not having any problems",
+      "trans": "描述。我现在心情很好。没错。这意味着没有任何问题",
+      "start": 189.26,
+      "end": 195.82
+    },
+    {
+      "text": "or logical or unaffected. Basically, I'm not crazy. Right. I'm not crazy. I don't have",
+      "trans": "或者逻辑上没有受到影响。基本上，我不疯狂。对了，我不疯狂。我没有",
+      "start": 195.82,
+      "end": 203.26
+    },
+    {
+      "text": "any problems. We can say this about other things too. We can say he's of sound body.",
+      "trans": "任何问题。我们也可以说对他来说身体是健康的。",
+      "start": 203.26,
+      "end": 207.9
+    },
+    {
+      "text": "Right. That means that he is healthy. He has no problems with his body. Or I could say,",
+      "trans": "好的，这句话的中文翻译是：",
+      "start": 207.9,
+      "end": 213.06
+    },
+    {
+      "text": "Mark, that's a really good decision. It's a sound decision. So again, that's also a way",
+      "trans": "马克，那真是个好决定。这是一个明智的决定。所以再次来说，这也是一个方式",
+      "start": 213.06,
+      "end": 218.29999999999998
+    },
+    {
+      "text": "of saying good or it will work. It will work. It's feasible. Yeah. So you can use this",
+      "trans": "说得好，那就行。行得通。嗯。那你可以用这个",
+      "start": 218.29999999999998,
+      "end": 224.85999999999999
+    },
+    {
+      "text": "adjective with sound body, sound mind, or a sound decision. Or sometimes some people",
+      "trans": "形容词有音质、音量，或者是一个好的决定。有时也有人认为是某些人",
+      "start": 224.86,
+      "end": 231.70000000000002
+    },
+    {
+      "text": "even say, I think in Ireland, they say, oh, he's a really sound guy. Oh, so he's a good",
+      "trans": "即使这么说，我觉得在爱尔兰，他们说哦，他是个真的棒的人。哦，所以他是个好家伙。",
+      "start": 231.70000000000002,
+      "end": 236.70000000000002
+    },
+    {
+      "text": "guy. He's a good guy. Very interesting. So sound body, sound mind, sound guy. Moving",
+      "trans": "英文：点和拍是傻瓜相机。",
+      "start": 236.70000000000002,
+      "end": 242.82000000000002
+    },
+    {
+      "text": "on, he was talking about the will and he says, I hear by Revoke, all previous wills and",
+      "trans": "好的，以下是翻译结果：\n\n他正在谈论遗嘱，他说：“我听说撤销了之前的遗嘱。”",
+      "start": 242.82000000000002,
+      "end": 248.10000000000002
+    },
+    {
+      "text": "cottisills. The verb here is to revoke. To revoke. This is something that a lot of people",
+      "trans": "Cottisills. 这里的动词是“撤销”。撤销。这是很多人经常做的事情。",
+      "start": 248.1,
+      "end": 254.46
+    },
+    {
+      "text": "hear in America when they drive their car too fast. Yeah. The police catch them and",
+      "trans": "听到在美国开车太快时，他们会受到警察的处罚。是的。警察会抓到他们。",
+      "start": 254.46,
+      "end": 260.7
+    },
+    {
+      "text": "the police revoke their driver's license. And that basically means to take away to,",
+      "trans": "警察吊销驾照。那基本上就是说，是要剥夺掉...",
+      "start": 260.7,
+      "end": 266.65999999999997
+    },
+    {
+      "text": "yeah, to take, right? To take away from. So this man here, Luke Thompson, what he's saying",
+      "trans": "是的，带走吧？ 这个男人叫卢克·托马斯，他说",
+      "start": 266.65999999999997,
+      "end": 271.98
+    },
+    {
+      "text": "is I revoke all previous wills. That means any other will that I wrote before, it's not",
+      "trans": "是，我撤销之前的全部遗嘱。这意味着任何我在之前写的其他遗嘱都不成立了。",
+      "start": 271.98,
+      "end": 278.62
+    },
+    {
+      "text": "good anymore. I'm throwing it away. This is the only one that will exist. So you can use",
+      "trans": "好的，现在我把它扔了。这是唯一能存在的那个。所以你可以使用它。",
+      "start": 278.62,
+      "end": 283.82
+    },
+    {
+      "text": "this word revoke with many aspects. For example, sometimes employees will get their benefits",
+      "trans": "这个词语有很多方面。例如，有时员工会获得他们的福利。",
+      "start": 283.82,
+      "end": 288.82
+    },
+    {
+      "text": "revoked by the company because maybe they don't have enough money anymore. Or maybe they're",
+      "trans": "你们公司或许是因为没有钱了才撤销的，或者可能他们只是想要换一个看起来更好一些的版本。",
+      "start": 288.82,
+      "end": 293.14000000000004
+    },
+    {
+      "text": "bad employees. Or maybe they were bad employees. All right. So to revoke. Now moving on, he",
+      "trans": "坏员工。或者可能是他们本来就是坏员工。好吧，所以撤销。继续前进，他",
+      "start": 293.14000000000004,
+      "end": 298.42
+    },
+    {
+      "text": "was talking about his estate. So this is very interesting because he says, I give all the",
+      "trans": "正在谈论他的产业。所以这非常有趣，因为他说，我全部都给了你。",
+      "start": 298.42,
+      "end": 303.82
+    },
+    {
+      "text": "rest and residue of my estate to my spouse. Okay, estate, it sounds like a very fancy word.",
+      "trans": "休息和我遗产的剩余部分留给我的配偶。好吧，遗产，听起来好像一个非常正式的词。",
+      "start": 303.82,
+      "end": 310.86
+    },
+    {
+      "text": "It is a fancy word. Sometimes we use this word to mean someone's property, their house.",
+      "trans": "这是一个漂亮的词。有时候我们用这个词来表示某人的财产，他们的房子。",
+      "start": 310.86,
+      "end": 316.38
+    },
+    {
+      "text": "But in a will, this means everything the person owns, house, car, things, pets, stocks,",
+      "trans": "但遗嘱中，这指的是这个人拥有的所有东西：房子、汽车、物品、宠物和股票。",
+      "start": 316.38,
+      "end": 325.06
+    },
+    {
+      "text": "investments. The estate is essentially everything the person owns as a kind of one unit.",
+      "trans": "投资。这个遗产实际上是这个人作为整体拥有的所有东西。",
+      "start": 325.06,
+      "end": 331.66
+    },
+    {
+      "text": "Right. Exactly. So anything that is yours or you may have bought, just consider the estate",
+      "trans": "对了。完全正确。所以，任何属于你或你可能购买的东西，都考虑是你的遗产。",
+      "start": 331.66,
+      "end": 337.18
+    },
+    {
+      "text": "is a big bag. Right. That's your estate. And inside this bag is everything that you own.",
+      "trans": "这是一个大包。没错，这就是你的财产。而这个包里装着你所有的东西。",
+      "start": 337.18,
+      "end": 342.5
+    },
+    {
+      "text": "You might see advertisements in fact in America or in England for estate sales. This means",
+      "trans": "你可能会在美国或英国看到广告，这些广告是关于拍卖会的。这意味着",
+      "start": 342.5,
+      "end": 348.1
+    },
+    {
+      "text": "that when someone passes away when they die, their family will sell their things. And",
+      "trans": "当某人去世时，他们的家人会出售他们的东西。",
+      "start": 348.1,
+      "end": 353.18
+    },
+    {
+      "text": "this is an estate sale. You can find beautiful, interesting things in the state sales.",
+      "trans": "这是一个古董拍卖会。你可以在这里找到漂亮的、有趣的东西。",
+      "start": 353.18,
+      "end": 357.26
+    },
+    {
+      "text": "Exactly. Very interesting. So that is a person's estate. Now remember, this is in the legal",
+      "trans": "的确。非常有趣。所以这就是一个人的遗产。现在记住，这是在法律上的。",
+      "start": 357.26,
+      "end": 362.34000000000003
+    },
+    {
+      "text": "terms because you also have other things like real estate. And as you mentioned, which",
+      "trans": "因为你也拥有其他东西，比如房产。正如你提到的那样，哪一项？",
+      "start": 362.34000000000003,
+      "end": 366.66
+    },
+    {
+      "text": "would be a house, right? Okay. Now apart from his from his estate, he was telling everyone",
+      "trans": "那不是房子吗？好的。除了他的产业，他正在告诉所有人",
+      "start": 366.66,
+      "end": 372.26
+    },
+    {
+      "text": "as to how they should take care of his body or what they should do with it. And he said,",
+      "trans": "根据他的身体应该怎样照顾，或者他们应该如何处理它。他还说，",
+      "start": 372.26,
+      "end": 377.62
+    },
+    {
+      "text": "well, I am to be cremated. Okay. This is important. When a person dies, there are generally",
+      "trans": "好的，我要被火化。好的。这很重要。当一个人去世时，通常会有以下几种情况：",
+      "start": 377.62,
+      "end": 383.5
+    },
+    {
+      "text": "two options. Their body can be buried in a casket in the ground. That means they're put",
+      "trans": "两个选择。他们的尸体可以埋在地下的棺材里。这意味着他们被安葬了。",
+      "start": 383.5,
+      "end": 391.46
+    },
+    {
+      "text": "in the earth. But a lot of people choose to be cremated. All right. That means that their",
+      "trans": "在地球上。但很多人选择火化。好吧，这意味着他们的\n\nTranslation:\n\n在中国。但很多人都会选择火化。对吧？",
+      "start": 391.46,
+      "end": 396.26
+    },
+    {
+      "text": "body will be burned. And their ashes, that means the things that are left after they are",
+      "trans": "体会被烧掉。而他们的骨灰，这就是他们离开后剩下的东西。",
+      "start": 396.26,
+      "end": 401.62
+    },
+    {
+      "text": "burned, they will be taken somewhere else, right? Like in a bowl or a pot. Right. And in",
+      "trans": "被烧，他们会去其他地方的。对了，就像在碗里或锅里那样。对了。",
+      "start": 401.62,
+      "end": 407.82
+    },
+    {
+      "text": "this case, that's what the person wants. He wants to be cremated. So that would be the",
+      "trans": "在这个情况下，那就是这个人想要的。他想火化。那么这就是答案。",
+      "start": 407.82,
+      "end": 411.66
+    },
+    {
+      "text": "verb to cremate. And then now would be a cremation. Cremation. And what is going to happen",
+      "trans": "动词火化。然后现在是火化。火化。接下来会发生什么？",
+      "start": 411.66,
+      "end": 418.26
+    },
+    {
+      "text": "to all this stuff? Basically, it's going to be given away to his wife, to English pod,",
+      "trans": "这玩意儿？基本上，它会送给他的妻子，给英语pod。",
+      "start": 418.26,
+      "end": 425.3
+    },
+    {
+      "text": "to his ears. This is our next word. What is an air? Now, if you notice, the age is silent",
+      "trans": "对他的耳朵来说。这是我们的下一个单词。什么是空气？现在，如果你注意到，年龄是沉默的",
+      "start": 425.3,
+      "end": 431.94
+    },
+    {
+      "text": "there. So his ears and that though, those are basically his children, his daughters or his",
+      "trans": "那。所以他的耳朵和那些，基本上都是他的孩子、女儿或者是儿子。",
+      "start": 431.94,
+      "end": 439.26
+    },
+    {
+      "text": "sons. Right. My ears are the people who are related to me, who in this case will receive",
+      "trans": "儿子。对了。我的耳朵是与我相关的人，这些人将在这种情况下接收。",
+      "start": 439.26,
+      "end": 446.54
+    },
+    {
+      "text": "some of my things. Now, is it only there? The children are also, it could be maybe any",
+      "trans": "我的一些东西。现在，只有那里？孩子们也一样，也许任何地方都可能有它。",
+      "start": 446.54,
+      "end": 452.38
+    },
+    {
+      "text": "other relatives. It could be any other relative. You could say, I'm his air. He's my great",
+      "trans": "其他亲戚。可能任何一个亲戚。你可以这样回答，他是我的空气。他就是我的至亲。",
+      "start": 452.38,
+      "end": 457.58
+    },
+    {
+      "text": "uncle. Means we're related, but we're not necessarily father and daughter or grandfather",
+      "trans": "叔叔。我们是亲戚，但我们并不一定是父女关系或者祖孙关系。",
+      "start": 457.58,
+      "end": 462.82
+    },
+    {
+      "text": "and granddaughter. And an air is someone who is related to the family. It doesn't have",
+      "trans": "和孙女。 和一个与家人相关的人有关。 不是任何人，不是任何人。",
+      "start": 462.82,
+      "end": 467.42
+    },
+    {
+      "text": "to be a certain relationship. And now it's interesting because from this word, we can get",
+      "trans": "成为某种关系。现在很有趣，因为从这个词中，我们可以得到",
+      "start": 467.42,
+      "end": 471.58
+    },
+    {
+      "text": "inheritance. Now we didn't find it in the dialogue. So it's very interesting because",
+      "trans": "继承。现在我们没有在对话中找到它，所以这非常有趣因为",
+      "start": 471.58,
+      "end": 476.02
+    },
+    {
+      "text": "it comes, they're very similar in spelling, right? Inheritance and air. Right. Good to",
+      "trans": "它来了，它们的拼写非常相似，对吧？继承和空气。没错。很好。",
+      "start": 476.02,
+      "end": 481.34
+    },
+    {
+      "text": "remember. Yeah. Good to remember. You can, you switch the E in the eyes, right? That's",
+      "trans": "记得。好的。记得好。你的眼睛里可以换E的，对吧？",
+      "start": 481.34,
+      "end": 485.14
+    },
+    {
+      "text": "right. So inheritance is a thing. You can receive this. So I received an inheritance from",
+      "trans": "好的。继承就是一种东西。你可以接收这个。所以我从你那里收到了一份遗产。",
+      "start": 485.14,
+      "end": 491.79999999999995
+    },
+    {
+      "text": "my great grandmother. That means I received some money or some things. That means you were",
+      "trans": "我的曾祖母。这意味着我得到了一些钱或者一些东西。这意味着你也是。",
+      "start": 491.79999999999995,
+      "end": 497.38
+    },
+    {
+      "text": "that person's air. That's right. Okay. Or, you know, in his inheritance, he, he received",
+      "trans": "那个人的空气。没错。或者，你知道，在他的遗产里，他得到了",
+      "start": 497.38,
+      "end": 503.47999999999996
+    },
+    {
+      "text": "a large house. He was the heir to a great fortune. Okay. Interesting. So again, inheritance",
+      "trans": "一座大房子。他是巨富的继承人。好的。有趣。所以，再次说一下继承。",
+      "start": 503.47999999999996,
+      "end": 509.46
+    },
+    {
+      "text": "wasn't in the dialogue, but I think it's worth mentioning. And I think now we can move",
+      "trans": "不在对话中，但我觉得有必要提一下。我认为现在我们可以继续了。",
+      "start": 509.46,
+      "end": 514.36
+    },
+    {
+      "text": "on to four very interesting items that we have for you on fluency builder. Okay. These",
+      "trans": "好的，我们有四个非常有趣的话题供您在“流利说”中使用。",
+      "start": 514.36,
+      "end": 521.22
+    },
+    {
+      "text": "first two are words that we normally read or hear in legal documents. And I want to",
+      "trans": "第一两个词是我们通常在法律文件中阅读或听到的。我想说一下。",
+      "start": 521.22,
+      "end": 527.1
+    },
+    {
+      "text": "place emphasis on the fact that we don't really say them in spoken English. So remember",
+      "trans": "记得，我们真的在口语中并没有说这些。",
+      "start": 527.1,
+      "end": 531.9399999999999
+    },
+    {
+      "text": "that these are more formal terms. Yeah. The first one is here by here by I here by",
+      "trans": "这些是更正式的术语。对了，第一个是这里，这里是我在说。",
+      "start": 531.9399999999999,
+      "end": 539.12
+    },
+    {
+      "text": "declare. Right. That means now. Now. With this word with this spoken sentence, this will",
+      "trans": "声明。对了。这意味着现在。现在。用这个单词加上这句话，这将会",
+      "start": 539.12,
+      "end": 548.1
+    },
+    {
+      "text": "happen. I think we've seen it like in movie sometimes. I was like, I hereby declare this",
+      "trans": "确实，我觉得我们好像在电影里看到过这种场景。我就是说，我宣布了这个情况。",
+      "start": 548.1,
+      "end": 552.36
+    },
+    {
+      "text": "country in the name of England. I hereby declare you man and wife. Exactly. Okay. That means",
+      "trans": "这个国家的名称是英格兰。我正式宣布你是我妻子。没错。那意味着",
+      "start": 552.36,
+      "end": 559.0
+    },
+    {
+      "text": "in this moment, this happens. Okay. And a very similar word that we also saw in the dialogue",
+      "trans": "在这个时刻，这发生了。好的。我们也在对话中看到的一个非常相似的单词。",
+      "start": 559.0,
+      "end": 564.8
+    },
+    {
+      "text": "is here with. So in the will and testament, we hear Luke Thompson who says, I hear with",
+      "trans": "是的，我在这里。在遗嘱中，我们听到路克·汤普森说：我听见了",
+      "start": 564.8,
+      "end": 570.92
+    },
+    {
+      "text": "a fix my signature. That means with the action of signing my name, signing my signature, this",
+      "trans": "一个修复签名的指令。这意味着通过签署我的名字，签署我的签名，这个动作可以完成。",
+      "start": 570.92,
+      "end": 578.52
+    },
+    {
+      "text": "will be completed. Okay. So I hear with you have to have an action not just a word. Okay.",
+      "trans": "已经完成了。好的。我听说你不仅要说出一个动作，还要有实际行动。好吧。",
+      "start": 578.52,
+      "end": 584.3199999999999
+    },
+    {
+      "text": "So I hear with I hear with attach my seal. Okay. A seal is like a stamp. Very common in",
+      "trans": "英语：所以我听说了，我听说了把我的印章放下来。好的。一个印章就像一张票，非常常见在中国。",
+      "start": 584.3199999999999,
+      "end": 593.0799999999999
+    },
+    {
+      "text": "the old days when you had real letters, but I hear with us, you know, I hear with attach",
+      "trans": "过去的年代，你有真正的信件，但我听说现在我们是这样：我听到的是附带的。",
+      "start": 593.08,
+      "end": 597.24
+    },
+    {
+      "text": "my seal and give my approval to this document. Okay. So it has to be something physical. Right.",
+      "trans": "我的印章，批准这份文件。好的。所以必须是实体的。对。",
+      "start": 597.24,
+      "end": 604.12
+    },
+    {
+      "text": "So if maybe you're writing like this very classic letter and you say, I hear with include",
+      "trans": "所以，如果你正在写这种经典信件，并且你说，“我听到包括”",
+      "start": 604.12,
+      "end": 609.4000000000001
+    },
+    {
+      "text": "a lock of my hair. Oh, how romantic. Okay. That's kind of creepy. But yeah. But you hear",
+      "trans": "一缕我的头发。哦，多浪漫啊。好吧。有点鬼怪的感觉。但对了。但你听到",
+      "start": 609.4000000000001,
+      "end": 613.6
+    },
+    {
+      "text": "with you, you're including or attaching physically, right? I guess, I guess the modern version",
+      "trans": "和你在一起，你是通过物理方式包含或附着的吗？我想应该是现代版本。",
+      "start": 613.6,
+      "end": 619.4000000000001
+    },
+    {
+      "text": "of here with would be attached. Yeah. Okay. Here with here by, we've got another phrase",
+      "trans": "在这里，我会附上。好的。在这里，这里也是，我们又有了一个短语",
+      "start": 619.4,
+      "end": 626.16
+    },
+    {
+      "text": "here that you might hear more commonly. The beginning of the will and testament. There's",
+      "trans": "这里可能会听到更多。遗嘱的开始部分。有\n\n中文：这里是遗嘱的开始部分。",
+      "start": 626.16,
+      "end": 631.1999999999999
+    },
+    {
+      "text": "a phrase as follows. Okay. I direct that the disposition of my remains be as follows. So",
+      "trans": "好的。我指定我的遗体处置如下。",
+      "start": 631.1999999999999,
+      "end": 638.84
+    },
+    {
+      "text": "with my body, do as follows. So basically, this is a very common way of putting this in",
+      "trans": "嗯，这是个很常见的做法。",
+      "start": 638.84,
+      "end": 647.4
+    },
+    {
+      "text": "a sentence to indicate that you're going to start to list items. That's right. Or give",
+      "trans": "这是一个句子，表示你要开始列出项目了。是的。或者给出",
+      "start": 647.4,
+      "end": 652.48
+    },
+    {
+      "text": "instructions. Instructions. So for example, to make a loaf of bread, do as follows. Number",
+      "trans": "指令。指令。所以，例如，要制作面包，按照以下步骤操作：1. 按照图示将面粉、酵母和水混合在一起；2. 加入糖和盐，搅拌均匀；3. 将面团揉成球形，然后放在烤盘上；4. 烘焙至表面呈金黄色。",
+      "start": 652.48,
+      "end": 657.84
+    },
+    {
+      "text": "one, get some flour. Number two, add some water. So this is a way for us to to say, listen,",
+      "trans": "一、取些面粉。二、加点水。这样我们就可以说，听好了，",
+      "start": 657.84,
+      "end": 664.16
+    },
+    {
+      "text": "I'm going to give you instructions or a list. Pay attention. So please do as follows.",
+      "trans": "我要给你指示或清单。注意听好。请按照以下步骤来做。",
+      "start": 664.16,
+      "end": 670.12
+    },
+    {
+      "text": "Please act as follows. Okay. Very good. And our last word that we have here, going back",
+      "trans": "请按照以下方式进行。好的。非常好。我们这里最后说的最后一个词是：",
+      "start": 670.12,
+      "end": 677.0
+    },
+    {
+      "text": "to here with, he said, I hear with a fix my signature. What does it mean when you fix?",
+      "trans": "去这里，他说：“我听到的时候会签上名字。当你固定时是什么意思？",
+      "start": 677.0,
+      "end": 682.68
+    },
+    {
+      "text": "Okay. A fix is a word we have a number of other words for these days. So you rarely hear",
+      "trans": "好的。一个修复是这些天我们经常用到的一个词。所以你很少听到这个词。",
+      "start": 682.68,
+      "end": 689.28
+    },
+    {
+      "text": "it. It means to attach or to include. Okay. So I hear with a fix my signature would be",
+      "trans": "它。意思是附上或包含。好的。我听说加上签名会是",
+      "start": 689.28,
+      "end": 695.0
+    },
+    {
+      "text": "attach my signature. Right. I provide my signature or I hear with a fix my address or I hear",
+      "trans": "签个名。好的。我提供签名，或者我给你地址，或者我告诉你我的地址。",
+      "start": 695.0,
+      "end": 701.76
+    },
+    {
+      "text": "with a fix something. Okay. Very good. Really interesting stuff. You'll obviously see this",
+      "trans": "好的。很好。真的很有趣的东西。你肯定会看到的",
+      "start": 701.76,
+      "end": 708.68
+    },
+    {
+      "text": "very commonly with legal documents such as these, even though it is like older English,",
+      "trans": "在这些法律文件中，尽管它像更老的英语一样常见。",
+      "start": 708.68,
+      "end": 715.3199999999999
+    },
+    {
+      "text": "it's still very commonly used. I guess because the lie is so old. That's right. Definitely.",
+      "trans": "它仍然非常普遍。我想是因为这个谎言太古老了。没错。肯定的。",
+      "start": 715.3199999999999,
+      "end": 719.3199999999999
+    },
+    {
+      "text": "And I think that it's worth listening to today's monologue one more time. Think about some",
+      "trans": "我觉得今天这段话再听一遍挺值得的。想一想一些",
+      "start": 719.3199999999999,
+      "end": 724.3199999999999
+    },
+    {
+      "text": "of the words that we've just discussed and we'll be back in a moment.",
+      "trans": "我们刚才讨论过的这些单词，稍后我们会回来的。",
+      "start": 724.3199999999999,
+      "end": 727.48
+    },
+    {
+      "text": "Last will in testament of Luke Thompson. I Luke Thompson residing in California, being of sound",
+      "trans": "遗嘱：路易斯·托马斯，居住在加利福尼亚州。我，路易斯·托马斯，现健康状况良好。",
+      "start": 731.76,
+      "end": 742.4
+    },
+    {
+      "text": "mind to hereby declare this instrument to be my last will in testament. I hear by revoke",
+      "trans": "我在此声明，此文件为我的遗嘱。我听说要撤销它了。",
+      "start": 742.4,
+      "end": 748.16
+    },
+    {
+      "text": "all previous wills and codicils. I direct that the disposition of my remains be as follows.",
+      "trans": "所有之前的遗嘱和副本。我指示我的遗体处理如下。",
+      "start": 748.16,
+      "end": 755.12
+    },
+    {
+      "text": "I'm to be cremated and taken to the summit of Mount Everest where my ashes will forever",
+      "trans": "我将被火化，然后被运送到珠穆朗玛峰的山顶，我的灰烬将会永远在那里。",
+      "start": 755.12,
+      "end": 759.8
+    },
+    {
+      "text": "remain at the ceiling of the earth. I give all the rest and residue of my estate to my spouse,",
+      "trans": "我将我的全部遗产，除了给配偶的那部分外，都留给地球的天花板。",
+      "start": 759.8,
+      "end": 766.04
+    },
+    {
+      "text": "Betty Thompson. Should she survive me for 60 days? If my spouse, Betty Thompson does not survive",
+      "trans": "Betty Thompson。我给她60天，她会活下来吗？如果我的丈夫，Betty Thompson，不在了。",
+      "start": 766.04,
+      "end": 773.4799999999999
+    },
+    {
+      "text": "me, I give all the rest and residue of my estate to English pod. If neither Betty Thompson nor",
+      "trans": "我，我全部将我的财产都给了英语播客。如果 neither Betty Thompson 吗？",
+      "start": 773.4799999999999,
+      "end": 779.9599999999999
+    },
+    {
+      "text": "English pod survives me, I give all the rest and residue of my estate to my heirs as determined by",
+      "trans": "英语Pod陪伴我，我将其余的所有遗产和余下的一切都留给我的继承人。",
+      "start": 779.9599999999999,
+      "end": 785.4799999999999
+    },
+    {
+      "text": "the laws of the state of California relating to descent and distribution. I appoint Robert Porter",
+      "trans": "加州法律关于继承和分配的规定。我指定罗伯特·波特为受遗赠人。",
+      "start": 785.48,
+      "end": 791.88
+    },
+    {
+      "text": "to act as the executor of this will to serve without bond. Should Robert Porter be unable or unwilling",
+      "trans": "作为这份遗嘱的执行人，无偿为他人服务。如果罗伯特·波特无法或不愿意履行这一职责。",
+      "start": 791.88,
+      "end": 798.84
+    },
+    {
+      "text": "to serve than I appoint Jason Smalls to act as the executor of this will? I hear with a fix my",
+      "trans": "如果你愿意，我可以让简小明来执行这份遗嘱吗？我听说他很有能力。",
+      "start": 798.84,
+      "end": 805.48
+    },
+    {
+      "text": "signature to this will on this 23rd of May 2010 in the presence of the following witnesses,",
+      "trans": "签名于2010年5月23日，在场见证人如下：",
+      "start": 805.48,
+      "end": 812.12
+    },
+    {
+      "text": "who witnessed and subscribed this will at my request and in my presence.",
+      "trans": "谁在我请求和在场的情况下见证了并订阅了这份声明。",
+      "start": 812.12,
+      "end": 816.52
+    },
+    {
+      "text": "All right we're back. So this is a very interesting topic. Now I wonder within the will or within",
+      "trans": "好的，我们回来了。这是一个非常有趣的话题。现在我想知道，在心中还是在现实里，我是否真的相信过？",
+      "start": 823.8,
+      "end": 829.88
+    },
+    {
+      "text": "the estate, do you also acquire a person's debts? That's a good question. Because I know in some countries,",
+      "trans": "这个庄园，你也会获得他人的债务吗？这是一个好问题。因为我知道在一些国家，这是允许的。",
+      "start": 829.88,
+      "end": 836.76
+    },
+    {
+      "text": "you do in some countries you don't. I know in like some cases some heirs have found themselves",
+      "trans": "你有的国家，你没有。我知道在一些情况下，继承人也遇到了自己。",
+      "start": 836.76,
+      "end": 844.76
+    },
+    {
+      "text": "in some legal problems because all of a sudden they inherited that person's debts and stuff like that.",
+      "trans": "在某些法律问题中，因为突然间继承了那个人的债务和类似的东西。",
+      "start": 844.76,
+      "end": 851.56
+    },
+    {
+      "text": "I think that does happen especially for people whose properties are mortgaged. For example,",
+      "trans": "我觉得这种情况特别发生在那些抵押了房产的人身上。比如，",
+      "start": 851.56,
+      "end": 856.84
+    },
+    {
+      "text": "if your uncle has a house and he didn't pay for it with cash, he has a mortgage and he dies and you",
+      "trans": "如果你的叔叔有一栋房子，但他没有用现金支付，那么他有抵押贷款，他去世后，你会继承。",
+      "start": 857.56,
+      "end": 863.64
+    },
+    {
+      "text": "inherit this house. You also inherit the mortgage. So sometimes inheritances are not always a good",
+      "trans": "继承这栋房子。你也继承了抵押贷款。所以有时候继承并不总是件好事。",
+      "start": 863.64,
+      "end": 870.36
+    },
+    {
+      "text": "thing. I think this happened more in the past. There are more protections and safeguards for people",
+      "trans": "事情。我觉得这在过去发生得更多了。现在人们有更多的保护措施和安全措施。",
+      "start": 870.36,
+      "end": 876.12
+    },
+    {
+      "text": "today. But definitely, I mean what is it like in Ecuador? Do people inherit debt? Yeah, I think most,",
+      "trans": "今天。但肯定地说，我想知道厄瓜多尔的情况是怎样的？人们会继承债务吗？嗯，我认为大多数人都不会的。",
+      "start": 876.12,
+      "end": 883.48
+    },
+    {
+      "text": "well obviously most banks when they give out loans or a mortgage you are, they have somebody that",
+      "trans": "当然，大多数银行在提供贷款或抵押品时，都会有一个人。",
+      "start": 883.48,
+      "end": 890.76
+    },
+    {
+      "text": "will kind of co-sign on these things. And I imagine I'm not really very sure but I know that if",
+      "trans": "我会签一些，我想象我不是特别确定，但我知道如果",
+      "start": 890.76,
+      "end": 897.64
+    },
+    {
+      "text": "you inherit in a state that has a mortgage, you are forced to pay it. And if you can then they will",
+      "trans": "你继承了一所有抵押的房子，必须支付。如果可以的话，他们就会...",
+      "start": 897.64,
+      "end": 902.6
+    },
+    {
+      "text": "make that other person who co-sign it responsible if he still exists. I don't know. In these legal",
+      "trans": "将这句话翻译成中文，可以得到：",
+      "start": 902.6,
+      "end": 908.28
+    },
+    {
+      "text": "systems it's sometimes very strange because it seems like there would be a lot of gaps. That's",
+      "trans": "系统有时候确实很奇怪，因为似乎有很多空隙。",
+      "start": 908.28,
+      "end": 912.68
+    },
+    {
+      "text": "right. And everyone wants to protect themselves. Yeah. So we've got the bank that wants to protect",
+      "trans": "好的。大家都想保护自己。是的。所以我们有银行想要保护",
+      "start": 912.68,
+      "end": 917.4
+    },
+    {
+      "text": "itself. It gives a loan. It wants the money back. Right. And a person who wants to protect himself",
+      "trans": "它借了钱。它想要本金归还。对。一个想要保护自己的人",
+      "start": 917.4,
+      "end": 923.48
+    },
+    {
+      "text": "from maybe a relative who dies and has debt. Yeah. So I'm curious to know what our users have to say.",
+      "trans": "从可能的一个死了还欠债的人那里。是的，我很好奇我们的用户会怎么说。",
+      "start": 923.48,
+      "end": 931.16
+    },
+    {
+      "text": "What is the situation in your country? Do most people have a will and testament? What happens with debt?",
+      "trans": "你国家的情况怎么样？大多数人都有遗嘱和遗赠吗？债务怎么办？",
+      "start": 931.16,
+      "end": 937.0799999999999
+    },
+    {
+      "text": "Or what happens if somebody dies and they don't have a will and testament? That's a good question too.",
+      "trans": "或者，如果有人死了但没有遗嘱怎么办？这也是个好问题。",
+      "start": 937.0799999999999,
+      "end": 941.24
+    },
+    {
+      "text": "I don't have an answer for that one. All right, so let us know and we'll give you guys some",
+      "trans": "我对此问题没有答案。好的，那么我们可以告知你们，我们会提供给各位。",
+      "start": 941.24,
+      "end": 945.96
+    },
+    {
+      "text": "information on that as well. EnglishPod.com. We'll see everyone there. Bye everyone. Bye.",
+      "trans": "关于那方面的信息。英语有播客网。我们到时候见大家。拜拜了大家。拜拜了。",
+      "start": 945.96,
+      "end": 950.2800000000001
+    }
+  ]
+}

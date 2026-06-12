@@ -1,0 +1,924 @@
+{
+  "title": "englishpod_0164pb",
+  "audio": "./assets/englishpod_0164pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+      "trans": "你好，大家欢迎再次来到英语有声教材。我的名字是Marco。",
+      "start": 0.0,
+      "end": 6.4
+    },
+    {
+      "text": "My name is Catherine and today we have a very special lesson for everyone. It's a new level",
+      "trans": "我的名字是凯瑟琳，今天我们将进行一次非常特殊的课程。这是一个新级别的学习。",
+      "start": 6.4,
+      "end": 11.36
+    },
+    {
+      "text": "for us. Right, it's an advanced media lesson and we are going to be listening to an apology.",
+      "trans": "对于我们来说。对了，这是一个高级媒体课程，我们将会聆听一份道歉。",
+      "start": 11.36,
+      "end": 17.28
+    },
+    {
+      "text": "Well, it's an apology letter but we're going to actually have someone talk it out.",
+      "trans": "好吧，这是道歉信，但我们真的会有人来谈一谈。",
+      "start": 17.28,
+      "end": 21.84
+    },
+    {
+      "text": "Right, so what's happening here is someone is reading a letter they've written and they're",
+      "trans": "好的，所以这里发生的是有人在阅读他们写过的信件。",
+      "start": 21.84,
+      "end": 26.48
+    },
+    {
+      "text": "trying to apologize for something and we don't really know what this something is but I want everyone",
+      "trans": "试图为某事道歉，我们并不确定这个“某事”是什么，但我希望大家都能知道。",
+      "start": 26.48,
+      "end": 30.8
+    },
+    {
+      "text": "to really listen here to the words that are being used and to the ways in which we can say sorry",
+      "trans": "为了真正倾听正在使用的词语和我们可以如何道歉的方式",
+      "start": 30.8,
+      "end": 36.32
+    },
+    {
+      "text": "because as they say there are a thousand ways to say I'm sorry.",
+      "trans": "因为正如他们所说，有千百种方式可以表达我的歉意。",
+      "start": 36.32,
+      "end": 39.92
+    },
+    {
+      "text": "Dear Mary, I come here today this way because I need to apologize to you. I failed you.",
+      "trans": "亲爱的玛丽，今天我来是因为我想向你道歉。我没有做到。",
+      "start": 47.04,
+      "end": 53.28
+    },
+    {
+      "text": "Although I did not lie to you in words I lied to you with faces that did not belong to me.",
+      "trans": "尽管我没有在言语上欺骗你，但我用不属于我的脸面欺骗了你。",
+      "start": 54.0,
+      "end": 58.88
+    },
+    {
+      "text": "I never meant to ruin the friendship that meant the world to me. You mean the world to me and now I",
+      "trans": "我本意不是要破坏对我而言意义重大的友谊。你对我来说也是这样，现在我也不希望它消失。",
+      "start": 59.84,
+      "end": 65.36
+    },
+    {
+      "text": "come to you asking for forgiveness. If in your heart you find you can't and then I will understand",
+      "trans": "来向你道歉。如果你心里觉得做不到，我就会理解",
+      "start": 65.36,
+      "end": 71.44
+    },
+    {
+      "text": "and learn from this experience. You came into my life at a time when I needed you the most.",
+      "trans": "并且从这次经历中学习。你在我最需要你的时刻来到我的生命中。",
+      "start": 71.44,
+      "end": 77.28
+    },
+    {
+      "text": "We talked about so many things that I started to realize my heart and my soul could actually feel",
+      "trans": "我们谈了很多事情，我开始意识到我的心和灵魂实际上是可以感受的。",
+      "start": 77.28,
+      "end": 82.72
+    },
+    {
+      "text": "something other than hurt. You placed comfort where there was fear, confidence when there was doubt,",
+      "trans": "除了疼痛之外的任何事物。你把安慰放在恐惧的地方，把自信放在怀疑的地方。",
+      "start": 82.72,
+      "end": 88.72
+    },
+    {
+      "text": "a shoulder where tears could fall and completeness where there was emptiness.",
+      "trans": "一个肩膀，泪水可以落下；一个空洞中充满了完整。",
+      "start": 89.36,
+      "end": 93.44
+    },
+    {
+      "text": "I wanted to hold on to this so badly that I did whatever it took for you to notice.",
+      "trans": "我想要紧紧抓住这一点，以至于为了让你注意到它，我什么都做了。",
+      "start": 94.32,
+      "end": 98.48
+    },
+    {
+      "text": "What I didn't realize was that I could lose my entire being, all of who I was and all of that I had",
+      "trans": "我没想到我会完全失去我的整个存在，我的全部我是以及我所拥有的一切。",
+      "start": 99.36,
+      "end": 106.4
+    },
+    {
+      "text": "placed in you. I wanted to be the one who would be there when you needed to talk.",
+      "trans": "放在你那里。我想要成为你需要说话时的那个。",
+      "start": 106.4,
+      "end": 110.88
+    },
+    {
+      "text": "I wanted to be the comfort for your soul when the world was too much to handle.",
+      "trans": "我想成为你心灵的慰藉，当世界负担过重时。",
+      "start": 111.52,
+      "end": 115.36
+    },
+    {
+      "text": "I wanted to be strong for you when everything else seemed impossible. I wanted to love you and",
+      "trans": "我想当你觉得一切不可能时，我想要为你变得坚强。我想爱你，",
+      "start": 116.08,
+      "end": 121.44
+    },
+    {
+      "text": "only the way you deserve to be loved. Never realizing that I was destroying myself and you.",
+      "trans": "只有你值得被爱的方式。从未意识到我正在毁灭自己和你。",
+      "start": 121.44,
+      "end": 127.28
+    },
+    {
+      "text": "Somehow I needed you to be a part of my life. The only problem was that I was willing to",
+      "trans": "somehow，我需要你成为我的生活的一部分。唯一的问题是我愿意。",
+      "start": 128.4,
+      "end": 133.44
+    },
+    {
+      "text": "jeopardize everything to get that done. All the things that I told you about how I felt and how",
+      "trans": "为了完成任务，我愿意放弃一切。我告诉过你的所有关于我的感受和想法。",
+      "start": 133.44,
+      "end": 138.64
+    },
+    {
+      "text": "you make me feel were true. Nothing else mattered to me except hearing the laughter in your voice",
+      "trans": "你让我感到真实。除了听到你的声音中带着的笑声，其他的一切都不重要了。",
+      "start": 138.64,
+      "end": 143.83999999999997
+    },
+    {
+      "text": "when you were happy. You made my days easy to get through and my nights peaceful. You helped me",
+      "trans": "当你快乐的时候。你让我的日子变得容易度过，夜晚也变得宁静安详。你帮助了我",
+      "start": 143.83999999999997,
+      "end": 149.04
+    },
+    {
+      "text": "look forward to another day. Even though distance separated us just being was enough.",
+      "trans": "期待着另一个明天。即使距离让我们分开，只是存在就足够了。",
+      "start": 149.04,
+      "end": 154.55999999999997
+    },
+    {
+      "text": "I'm sorry for hurting you and if I had to do it all over again, I would have been 100% with you.",
+      "trans": "我为伤害你而道歉，如果我可以重新来过，我会百分之百地支持你。",
+      "start": 155.6,
+      "end": 161.27999999999997
+    },
+    {
+      "text": "Forgive me please.",
+      "trans": "请原谅我。",
+      "start": 162.32,
+      "end": 163.2
+    },
+    {
+      "text": "Alright we're back so the guy seemed to be pretty sad.",
+      "trans": "好的，我们又回来了。那个家伙看起来挺伤心的。",
+      "start": 169.6,
+      "end": 173.44
+    },
+    {
+      "text": "Yeah this is a very intense, well it's not a dialogue, it's a monologue. One person is reading it so",
+      "trans": "是的，这是一个非常激烈、很不寻常的经历。它不是一个对话，而是一个独白。一个人在读。",
+      "start": 174.07999999999998,
+      "end": 179.67999999999998
+    },
+    {
+      "text": "it's a very intense monologue. Very romantic. Yeah, romantic but also an heir of melancholy.",
+      "trans": "这是一个非常激烈的独白。非常浪漫。是的，浪漫但也是忧郁的继承者。",
+      "start": 179.67999999999998,
+      "end": 186.48
+    },
+    {
+      "text": "Yeah that's true. He's kind of like apologizing at the same time expressing love and all these",
+      "trans": "是的，那是真的。他有点像是在同时表达爱意和道歉。",
+      "start": 186.48,
+      "end": 193.2
+    },
+    {
+      "text": "feelings. So it was very interesting but why don't we take a look at a couple of phrases now.",
+      "trans": "情感。所以它非常有趣，但我们现在为什么不看看几个短语呢？",
+      "start": 193.2,
+      "end": 198.95999999999998
+    },
+    {
+      "text": "In advanced media we're not going to analyze the entire dialogue or as we do in the other levels",
+      "trans": "在高级媒体中，我们不会分析整个对话，就像我们在其他级别所做的那样。",
+      "start": 198.95999999999998,
+      "end": 206.0
+    },
+    {
+      "text": "actually pick out items for language takeaway or fluency builder. So in advanced media we're",
+      "trans": "实际上挑选语言取餐或习语建设的物品。所以在高级媒体中，我们是",
+      "start": 206.0,
+      "end": 211.51999999999998
+    },
+    {
+      "text": "only going to pick out a couple of words and phrases and just talk about it and talk about the",
+      "trans": "只挑选几个单词和短语来讨论，谈谈它和谈一谈",
+      "start": 211.51999999999998,
+      "end": 215.35999999999999
+    },
+    {
+      "text": "topic in general. Exactly and so one of the first phrases that we decided to talk about here is this",
+      "trans": "关于主题。我们在这里决定要讨论的第一个短语是这个",
+      "start": 215.35999999999999,
+      "end": 221.83999999999997
+    },
+    {
+      "text": "phrase I failed you because this is really the theme of the letter. Right so if you fail someone it",
+      "trans": "因为这是我信的主题。所以如果你失败了某人，",
+      "start": 221.84,
+      "end": 227.68
+    },
+    {
+      "text": "means that you let that person down. Okay so you fail someone I failed you we can say he failed me.",
+      "trans": "这意味着你让那个人失望了。好的，所以你会让某人失望。我让你失望了，我们可以说他让我失望了。",
+      "start": 227.68,
+      "end": 235.6
+    },
+    {
+      "text": "So when I really needed that person the most that person didn't come through or let me down or",
+      "trans": "所以当我最需要那个人的时候，那个人却没有出现或者让我失望了。",
+      "start": 235.6,
+      "end": 241.84
+    },
+    {
+      "text": "failed me. Alright so let's give an example maybe. I needed my brother to pick me up because I don't",
+      "trans": "让我失望了。好吧，那我们举个例子吧。我需要我的哥哥来接我，因为我不能自己去。",
+      "start": 241.84,
+      "end": 247.84
+    },
+    {
+      "text": "have a car and my brother was supposed to pick me up at four o'clock and he forgot he didn't come.",
+      "trans": "有车，我哥哥原定四点接我，但他忘了没有来。",
+      "start": 247.84,
+      "end": 253.04
+    },
+    {
+      "text": "He really failed me. Alright he failed you. Yeah I was disappointed. Well this isn't that's not as",
+      "trans": "他真的让我失望了。好吧，他让你失望了。对的，我很失望。这不，这不是这样。",
+      "start": 253.04,
+      "end": 258.88
+    },
+    {
+      "text": "serious as what happened here in this in this letter I think right. I think so but we can talk about",
+      "trans": "我这么认为，我觉得是的，但我们可以谈。",
+      "start": 258.88,
+      "end": 263.92
+    },
+    {
+      "text": "what did happen I think I have a theory and I know you have a theory so we can talk about it in a",
+      "trans": "我认为我想我有一个理论，我知道你也有一些理论，我们可以就此进行讨论。",
+      "start": 263.92,
+      "end": 268.08
+    },
+    {
+      "text": "minute but before that we have some other phrases about forgiveness and disappointment. Right well",
+      "trans": "分钟，但在此之前我们有一些关于原谅和失望的其他短语。对了",
+      "start": 268.08,
+      "end": 273.76
+    },
+    {
+      "text": "he also said you mean the world to me and now I come to you asking for forgiveness. Okay so we've",
+      "trans": "他也说，你对我这个世界很重要，现在我来向你道歉了。好吧，所以我们已经...",
+      "start": 273.84,
+      "end": 279.76
+    },
+    {
+      "text": "got a positive and a negative so the positive here is you mean the world to be you mean the world to",
+      "trans": "得到了一个积极的和消极的，所以这里的积极的意思是你意味着世界给你意味着世界",
+      "start": 279.76,
+      "end": 285.59999999999997
+    },
+    {
+      "text": "me this means you are so important to me you're one of the most important people in my life you're",
+      "trans": "这意味着你对我来说如此重要，你是我的生活中最重要的一个人。",
+      "start": 285.59999999999997,
+      "end": 292.08
+    },
+    {
+      "text": "you're worth this you're worth the entire world in my opinion. Yeah it's a very poetic way of saying",
+      "trans": "你值得这一切，我甚至认为你值得整个世界。是的，这是一种非常诗意的说法。",
+      "start": 292.08,
+      "end": 296.48
+    },
+    {
+      "text": "you're very important. Yeah and then he says and now I come asking for your forgiveness. Okay so",
+      "trans": "你非常重要。然后他说，现在我来求你的原谅了。好吧，所以",
+      "start": 296.48,
+      "end": 303.03999999999996
+    },
+    {
+      "text": "this implies that he did something wrong. I come asking for forgiveness so in English we ask",
+      "trans": "这表明他做了错事。我来求饶，所以用英文来说是",
+      "start": 303.04,
+      "end": 309.04
+    },
+    {
+      "text": "for forgiveness. You can also beg for forgiveness so please forgive me but you can't you can't",
+      "trans": "为了原谅你。你也可以说服自己原谅我，但你不能。",
+      "start": 309.04,
+      "end": 315.68
+    },
+    {
+      "text": "demand forgiveness. I demand you for good no that doesn't quite work. Alright what else do we have?",
+      "trans": "要求宽恕。我要求你，至少不要那么糟糕。还有其他什么？",
+      "start": 315.68,
+      "end": 321.36
+    },
+    {
+      "text": "We've got the world again here he says he the guy who's reading he says you know I wanted to be",
+      "trans": "他说我们又得到了整个世界。他指的那个人正在阅读，他说你知道我想成为。",
+      "start": 321.36,
+      "end": 326.64000000000004
+    },
+    {
+      "text": "the comfort for your soul so this is very again poetic when the world was too much to handle",
+      "trans": "让你的灵魂感到舒适，所以这非常诗意，当世界负担过重时",
+      "start": 326.64,
+      "end": 332.8
+    },
+    {
+      "text": "too much to handle is a really important English reason I'm sure you've heard it before but we",
+      "trans": "处理得太复杂，实在是很重要的一个英语原因，我相信你之前应该听过。",
+      "start": 333.68,
+      "end": 337.28
+    },
+    {
+      "text": "could talk about a little bit here. Right so he says when everything else was too much to handle so",
+      "trans": "可以在这里稍微聊一下。对了，他说当其他事情都处理不下来的时候",
+      "start": 337.28,
+      "end": 342.08
+    },
+    {
+      "text": "everything was so difficult or it was overwhelming. Right so you could say even in the office man all",
+      "trans": "一切都那么困难，或者说是压得你喘不过气来。所以，你可以说，在办公室里，人们也一样。",
+      "start": 342.08,
+      "end": 348.56
+    },
+    {
+      "text": "this work I have to do it's too much to handle. Right right okay. Too much to handle you could also",
+      "trans": "这工作我得做太多来处理。对对对，太多了你也可以",
+      "start": 348.56,
+      "end": 354.24
+    },
+    {
+      "text": "say a child is too much to handle. I think they said this about my brother he was very difficult",
+      "trans": "说孩子太多了。我想他们说的是我的哥哥，他非常难处理",
+      "start": 354.24,
+      "end": 358.48
+    },
+    {
+      "text": "growing up too hard he's too he's too difficult to handle. Alright well what about in the part where he",
+      "trans": "成长得太艰难，他太难处理了。好吧，那在那个部分里他是怎么做的？",
+      "start": 358.48,
+      "end": 364.64
+    },
+    {
+      "text": "says you place comfort where there was fear. Confidence where there was doubt. So this structure is",
+      "trans": "你把安逸放在了恐惧的地方。把自信放在了怀疑的地方。所以这个结构是",
+      "start": 364.64,
+      "end": 370.88
+    },
+    {
+      "text": "interesting because you placed something where there used to be something else. So you were placing",
+      "trans": "有趣是因为你放了东西，那里原来有另一些东西。所以你是放置的",
+      "start": 370.88,
+      "end": 377.28000000000003
+    },
+    {
+      "text": "something you're changing something for something else. It's an exchange so you could say you placed",
+      "trans": "你正在交换什么，是为了别的东西。这是一个交易，你可以这么说你投入了",
+      "start": 377.28000000000003,
+      "end": 382.08
+    },
+    {
+      "text": "comfort where there was fear you placed happiness where there was sadness. So it's always like",
+      "trans": "你将恐惧之处安置为快乐，悲伤之处则变为幸福。因此，总是如此",
+      "start": 382.08,
+      "end": 387.91999999999996
+    },
+    {
+      "text": "kind of opposites right. Exactly. Okay. It's like where there was dark. Right exactly. So that's",
+      "trans": "确实。没错。就像黑暗那边是光明，对吧？",
+      "start": 387.91999999999996,
+      "end": 393.2
+    },
+    {
+      "text": "an interesting format of saying something you did something where there used to be something else.",
+      "trans": "一种有趣的方式表达你做了某事，原来那里是另一样东西。",
+      "start": 393.2,
+      "end": 397.91999999999996
+    },
+    {
+      "text": "Alright and what about this word to jeopardize. Alright this is a good one. I always think of the",
+      "trans": "好的，关于这个词“危及”，这是一个不错的选择。我总是想到这个词。",
+      "start": 398.71999999999997,
+      "end": 404.79999999999995
+    },
+    {
+      "text": "TV game show Jeopardy but that's a noun. This here is a verb to jeopardize and that means to put",
+      "trans": "电视游戏节目知识竞赛，但这是名词。这在这里是动词“置疑”，意味着要置疑。",
+      "start": 404.79999999999995,
+      "end": 411.36
+    },
+    {
+      "text": "something in danger or to risk losing something. Okay so to jeopardize your health if you're doing",
+      "trans": "有危险或冒失去某物的风险。好的，如果你在做的话，可能会危及你的健康。",
+      "start": 411.36,
+      "end": 418.32
+    },
+    {
+      "text": "something dangerous. So smoking jeopardizes one's health. You're putting your health at risk.",
+      "trans": "有危险。所以吸烟损害健康。你是在危害自己的健康。",
+      "start": 418.32,
+      "end": 423.84000000000003
+    },
+    {
+      "text": "Or I don't want to jeopardize my savings by investing everything I have in stocks. That means I",
+      "trans": "或者我不愿通过将所有积蓄投资于股票来冒险。这意味着我",
+      "start": 423.84000000000003,
+      "end": 431.12
+    },
+    {
+      "text": "would prefer to do something safer. So you don't you don't like to jeopardize your your well-being.",
+      "trans": "我宁愿做些更安全的事情。所以你不会不希望保护你的健康和福祉。",
+      "start": 431.12,
+      "end": 437.6
+    },
+    {
+      "text": "I like to play it safe as we say. Alright very good. And last but not least this almost the last",
+      "trans": "我总是喜欢安分守己，正如我们所说。非常好。最后但并非最不重要的是，这几乎是最后的了。",
+      "start": 437.6,
+      "end": 445.12
+    },
+    {
+      "text": "phrase when he says even those distance separated us just being was enough. What does he mean when he",
+      "trans": "当他说即使距离隔开了我们，只是在一起就足够了时，他是想表达什么？",
+      "start": 445.12,
+      "end": 451.36
+    },
+    {
+      "text": "says just being was enough. Alright this is very romantic. Intense romantic. He says even though",
+      "trans": "他说只要在一起就是足够的。好吧，这非常浪漫。强烈的浪漫。他说道，即使",
+      "start": 451.36,
+      "end": 456.64000000000004
+    },
+    {
+      "text": "we were far apart just being so just existing just breathing was enough. So just knowing that she's",
+      "trans": "我们只是那么远，仅仅存在、呼吸就足够了。所以只是知道她还在那儿。",
+      "start": 457.52000000000004,
+      "end": 465.04
+    },
+    {
+      "text": "in the world was enough for him to feel happy. So that's what he means with just being was enough.",
+      "trans": "在这个世界上，他感到足够快乐。这就是他说的“只需要存在”就足够了。",
+      "start": 465.04,
+      "end": 470.40000000000003
+    },
+    {
+      "text": "Right so being is existing. It's it's being alive. Okay very good. I think we should listen to this",
+      "trans": "所以，存在就是被。它就是活着的存在。好的，我觉得我们应该听这个",
+      "start": 470.40000000000003,
+      "end": 478.08000000000004
+    },
+    {
+      "text": "apology letter one more time and we'll be back.",
+      "trans": "再道歉一次，我们还会回来的。",
+      "start": 478.08000000000004,
+      "end": 480.40000000000003
+    },
+    {
+      "text": "Dear Mary, I come here today this way because I need to apologize to you. I failed you.",
+      "trans": "亲爱的玛丽，今天我来是因为我想向你道歉。我没有让你失望。",
+      "start": 487.84000000000003,
+      "end": 494.08000000000004
+    },
+    {
+      "text": "Although I did not lie to you in words I lied to you with faces that did not belong to me.",
+      "trans": "尽管我没有在言语上欺骗你，但我用不属于我的面孔欺骗了你。",
+      "start": 494.8,
+      "end": 499.68
+    },
+    {
+      "text": "I never meant to ruin the friendship that meant the world to me. You mean the world to me and now I",
+      "trans": "我本意不是要破坏对我而言至为重要的友谊。你对我来说也非常重要，现在我失去了你。",
+      "start": 500.64,
+      "end": 506.15999999999997
+    },
+    {
+      "text": "come to you asking for forgiveness. If in your heart you find you can't and then I will understand",
+      "trans": "来向你道歉。如果你心里觉得做不到，那我理解了",
+      "start": 506.15999999999997,
+      "end": 512.24
+    },
+    {
+      "text": "and learn from this experience. You came into my life at a time when I needed you the most.",
+      "trans": "而且从这次经历中学到教训。你在我最需要你的时候来到我的生命中。",
+      "start": 512.24,
+      "end": 518.0
+    },
+    {
+      "text": "We talked about so many things that I started to realize my heart and my soul could actually feel",
+      "trans": "我们谈了很多事情，我开始意识到我的心和灵魂其实可以感受到",
+      "start": 518.3199999999999,
+      "end": 523.52
+    },
+    {
+      "text": "something other than hurt. You placed comfort where there was fear, confidence when there was doubt,",
+      "trans": "除了痛苦之外。你将安慰安置在恐惧之处，将自信安置在怀疑之中。",
+      "start": 523.52,
+      "end": 529.52
+    },
+    {
+      "text": "a shoulder where tears could fall and completeness where there was emptiness. I wanted to hold on to",
+      "trans": "一个肩膀，泪水可以落下；一个空洞的地方，却充满了完整。我想要抓住",
+      "start": 530.16,
+      "end": 536.24
+    },
+    {
+      "text": "this so badly that I did whatever it took for you to notice. What I didn't realize was that I could",
+      "trans": "我做得非常糟糕，以至于为了让你注意到。我没有意识到的是，我可以",
+      "start": 536.24,
+      "end": 542.24
+    },
+    {
+      "text": "lose my entire being. All of who I was and all of that I had placed in you. I wanted to be the one",
+      "trans": "失去我所有的存在。你就是我曾经的全部，所有我拥有的。我想成为那个唯一的人。",
+      "start": 542.24,
+      "end": 549.84
+    },
+    {
+      "text": "who would be there when you needed to talk. I wanted to be the comfort for your soul when the",
+      "trans": "当你需要说话的时候，谁会在那里。我想成为你灵魂的慰藉，当我想要安慰你的时候。",
+      "start": 549.84,
+      "end": 554.64
+    },
+    {
+      "text": "world was too much to handle. I wanted to be strong for you when everything else seemed impossible.",
+      "trans": "世界负担太重。我想要为你变得强大，即使其他一切似乎都不可行。",
+      "start": 554.64,
+      "end": 560.08
+    },
+    {
+      "text": "I wanted to love you and only the way you deserve to be loved. Never realizing that I was destroying",
+      "trans": "我本想爱你，只因你是值得被爱的方式。从未意识到自己正在摧毁你。",
+      "start": 560.72,
+      "end": 566.8000000000001
+    },
+    {
+      "text": "myself and you. Somehow I needed you to be a part of my life. The only problem was that I was",
+      "trans": "我与你。 somehow，我觉得自己需要你在我的生活中扮演一个角色。唯一的麻烦是，我被要求必须把你也加入到我的生活之中。",
+      "start": 566.8000000000001,
+      "end": 573.84
+    },
+    {
+      "text": "willing to jeopardize everything to get that done. All the things that I told you about how I felt and",
+      "trans": "愿意为了达成目的而放弃一切。我告诉过你的所有关于我感受的事情都是。",
+      "start": 573.84,
+      "end": 579.2
+    },
+    {
+      "text": "how you make me feel were true. Nothing else mattered to me except hearing the laughter in your",
+      "trans": "你让我感到的一切都是真实的。对我来说，除了听到你的笑声，其他的事情都不重要了。",
+      "start": 579.2,
+      "end": 584.32
+    },
+    {
+      "text": "voice when you were happy. You made my days easy to get through and my nights peaceful. You helped",
+      "trans": "当你快乐的时候，你的声音让我的日子变得容易度过，夜晚变得宁静。你帮助了我",
+      "start": 584.32,
+      "end": 589.76
+    },
+    {
+      "text": "me look forward to another day. Even though distance separated us just being was enough.",
+      "trans": "我期待着另一个日子。尽管距离隔开了我们，仅仅只是存在就足够了。",
+      "start": 589.76,
+      "end": 595.36
+    },
+    {
+      "text": "I'm sorry for hurting you and if I had to do it all over again, I would have been 100% with you.",
+      "trans": "我为伤害你而道歉，如果我可以重来一次，我会百分之百地与你在一起。",
+      "start": 596.4000000000001,
+      "end": 602.08
+    },
+    {
+      "text": "Forgive me please.",
+      "trans": "请原谅我。",
+      "start": 603.12,
+      "end": 606.72
+    },
+    {
+      "text": "What do you think he did that he's apologizing in this way? I don't think there were a couple. He",
+      "trans": "你觉得他做了什么，以至于他会用这种方式道歉呢？我不认为有两个人。他",
+      "start": 609.6,
+      "end": 617.9200000000001
+    },
+    {
+      "text": "mentions friendship a couple of times. Yes, with a butt. You don't write a letter like this to someone",
+      "trans": "提到了友谊好几次。是的，用屁股写信。你不会这么写信给某人",
+      "start": 617.9200000000001,
+      "end": 624.08
+    },
+    {
+      "text": "who you want to stay friends with. You write a letter to someone who you have some kind of romantic",
+      "trans": "你想和谁做朋友。你给一个人写了一封信，这个人给你一些浪漫的感觉。",
+      "start": 624.08,
+      "end": 628.72
+    },
+    {
+      "text": "or intense feeling for. To me, this seems like a letter that was written to someone who was a great",
+      "trans": "或者强烈的感情。对我来说，这似乎是一封写给一个非常重要的某人的信。",
+      "start": 628.72,
+      "end": 634.48
+    },
+    {
+      "text": "friend and he's afraid of losing that because he cares even more for her.",
+      "trans": "朋友，他害怕失去这一点，因为他对她更加关心。",
+      "start": 634.48,
+      "end": 639.6800000000001
+    },
+    {
+      "text": "Do you think he's confessing his love in a certain way here? I think in some ways he's confessing",
+      "trans": "你觉得他在这里是在用某种方式表白爱吗？我觉得他也在某种程度上在表白。",
+      "start": 640.64,
+      "end": 647.36
+    },
+    {
+      "text": "a love. You can love your friends. That's okay. But more than that, he's apologizing for something",
+      "trans": "一个爱。你可以爱你的朋友。那没问题。但是更重要的是，他为一些事情道歉。",
+      "start": 647.36,
+      "end": 653.6
+    },
+    {
+      "text": "that he thinks has completely destroyed their friendship. That is where I'm very confused because",
+      "trans": "那他认为已经完全毁掉了他们的友谊。我非常困惑是因为",
+      "start": 653.6,
+      "end": 658.24
+    },
+    {
+      "text": "I have no idea what he did. Well, maybe he did something that let her down. Maybe he became",
+      "trans": "我也不太知道他干了什么。嗯，也许他干了一些让她失望的事情。也许他成了中国的人。",
+      "start": 658.24,
+      "end": 666.88
+    },
+    {
+      "text": "jealous of her new boyfriend or something like that. Yeah, or maybe it's something",
+      "trans": "嫉妒她的新男友，或者是那样的。是的，或者可能是其他什么。",
+      "start": 666.88,
+      "end": 670.72
+    },
+    {
+      "text": "caddy like he was supposed to do something with her and ended up doing something with other",
+      "trans": "像他本应该做的那样，结果却做了其他的事情",
+      "start": 670.72,
+      "end": 675.04
+    },
+    {
+      "text": "people and left her out or embarrassed her in front of people. It's hard to say. Have you ever",
+      "trans": "人们总是把她冷落了，或者在人面前羞辱她。很难说。你有没有试过？",
+      "start": 675.04,
+      "end": 680.48
+    },
+    {
+      "text": "written an apology letter? Yeah. I've written a few apology letters. I have a very strong sense of",
+      "trans": "写过道歉信吗？是的。我写过好几封道歉信。我有一种非常强烈的",
+      "start": 680.48,
+      "end": 687.28
+    },
+    {
+      "text": "guilt. I was raised Catholic. In apology, do you usually plan out what you want to say or just",
+      "trans": "内疚。我被教了天主教。为了道歉，你通常会计划好要说的话还是只是随便说说？",
+      "start": 687.28,
+      "end": 695.04
+    },
+    {
+      "text": "like you just splurge your feelings onto the paper? Well, you know me. My personality is very",
+      "trans": "就像你把感情都写在纸上一样？好吧，你知道我。我的性格非常独特。",
+      "start": 695.04,
+      "end": 700.8
+    },
+    {
+      "text": "planned and organized and so normally I have points. So I say if this is the problem, there's three",
+      "trans": "计划和组织得很好，所以通常我会有一些点。所以我可以说，如果这是问题，那么有三个原因。",
+      "start": 700.8,
+      "end": 706.8
+    },
+    {
+      "text": "parts. I have an answer for each part and the very end I have the heartfelt apology. It's like an essay.",
+      "trans": "每个部分我都有答案，最后我会有一个真挚的道歉。这就像一篇文章。",
+      "start": 706.8,
+      "end": 712.0
+    },
+    {
+      "text": "I guess it's a little bit more organized. If I were to write something like this, I would just",
+      "trans": "我觉得这有点更系统化了。如果我写这种东西，我会只是...",
+      "start": 712.0,
+      "end": 716.24
+    },
+    {
+      "text": "start writing and whatever comes out. So it would probably make less sense than your letter.",
+      "trans": "开始写作，不管写出来是什么。这样可能会比你的信更不切实际。",
+      "start": 716.72,
+      "end": 720.5600000000001
+    },
+    {
+      "text": "Well, I just try to stay on focused standpoint and address the matter at hand because otherwise",
+      "trans": "好吧，我只是尽量保持专注的角度，并处理当务之急的事情，否则的话",
+      "start": 721.28,
+      "end": 726.64
+    },
+    {
+      "text": "then you get into other stuff and you can make people more angry. Right. But it is really important",
+      "trans": "然后你就会涉及其他事情，而且可以激怒更多的人。没错。但这是真的非常重要。",
+      "start": 726.64,
+      "end": 731.2
+    },
+    {
+      "text": "to write an apology letter. Now, some of the words and phrases and the vocabulary used here can be",
+      "trans": "写一封道歉信。现在，这里使用的单词和短语可以是",
+      "start": 731.2,
+      "end": 736.64
+    },
+    {
+      "text": "used in circumstances that are not only romantic. You can be used in a professional way as well.",
+      "trans": "可以在不是浪漫的情况下使用。你也可以在专业上使用它。",
+      "start": 736.64,
+      "end": 743.12
+    },
+    {
+      "text": "That's true. In a professional sense, you want to be careful not to get too personal. So in a",
+      "trans": "那确实是。从专业角度来看，你想要避免过于个人化。所以，在一个",
+      "start": 743.68,
+      "end": 747.84
+    },
+    {
+      "text": "professional sense, it's good to say that you're sorry for any mix-ups or from misunderstandings,",
+      "trans": "专业来说，承认任何混淆或误解是好的。",
+      "start": 747.84,
+      "end": 752.72
+    },
+    {
+      "text": "but in the future you will try to make things better or improve. But in friendships,",
+      "trans": "但是将来你将会努力使事情变好或者改进。但至于友谊，",
+      "start": 752.72,
+      "end": 758.32
+    },
+    {
+      "text": "send in families and in romantic relationships, apology letters are very important because",
+      "trans": "在家庭和浪漫关系中发送道歉信非常重要因为",
+      "start": 758.32,
+      "end": 765.28
+    },
+    {
+      "text": "I'm a big believer in mending bridges. I know a lot of people who we say in English, you know,",
+      "trans": "我坚信修复桥梁。我知道很多人，我们用英语说，你知道，",
+      "start": 765.84,
+      "end": 770.48
+    },
+    {
+      "text": "you two burn a bridge. That means to destroy a relationship and never go back. But I like to",
+      "trans": "你俩烧了桥。这意味着毁掉一段关系，从此不再回头。但我喜欢",
+      "start": 770.48,
+      "end": 775.76
+    },
+    {
+      "text": "mend bridges to make sure that people who I was friends with don't, you know, if we have a fight,",
+      "trans": "建立桥梁，确保我和我以前的朋友之间不会发生冲突。",
+      "start": 775.76,
+      "end": 780.32
+    },
+    {
+      "text": "don't just hate me forever. Right. That even if there's a disagreement that they understand my",
+      "trans": "不要永远恨我。没错。即使有分歧，他们也能理解我的立场。",
+      "start": 780.32,
+      "end": 784.24
+    },
+    {
+      "text": "perspective or that I understand theirs. Yeah, that's true. I think that's important. What about",
+      "trans": "视角或者说我理解他们的。对，那是真的。我认为那很重要。那么是...",
+      "start": 784.24,
+      "end": 787.9200000000001
+    },
+    {
+      "text": "apology emails do you agree with those? I think that they are a necessity of the 21st century.",
+      "trans": "你同意道歉电子邮件是必需的吗？我认为它们是21世纪的必要性。",
+      "start": 787.9200000000001,
+      "end": 794.0
+    },
+    {
+      "text": "I mean, I live far away from most of my friends and family and so it's important for me to be able",
+      "trans": "我指的是，我离大多数朋友和家人很远，所以对我来说很重要的是能够做到。",
+      "start": 794.0,
+      "end": 797.52
+    },
+    {
+      "text": "to communicate in any way. But and sometimes I mean, I'm very shy with some people so sometimes",
+      "trans": "要与任何人交流。但有时，我确实很害羞，有时候",
+      "start": 797.52,
+      "end": 802.72
+    },
+    {
+      "text": "it's hard for me to talk on the phone because I get stuck and then I don't I can't think of what I",
+      "trans": "打电话对我来说很难，因为我总是卡住，然后我无法想出我说什么。",
+      "start": 802.72,
+      "end": 807.28
+    },
+    {
+      "text": "wanted to say. And so if a letter helps in that way to to get you past your your fear or your anxiety,",
+      "trans": "想要说。因此，如果一封信有助于你克服你的恐惧或焦虑，那么它就会帮助你前进。",
+      "start": 807.28,
+      "end": 815.12
+    },
+    {
+      "text": "then by all means and emails just just as much. I actually received a letter, a handwritten letter",
+      "trans": "然后当然，电子邮件也一样多。实际上我收到了一封信，是一封手写的信。",
+      "start": 815.12,
+      "end": 820.88
+    },
+    {
+      "text": "through an email. How did that happen? So the person they scanned it. They scanned the letter. Oh wow.",
+      "trans": "通过电子邮件。那怎么发生的？那个扫描过的人是他们。他们扫描的是一封信。哦，天啊。",
+      "start": 820.88,
+      "end": 826.0
+    },
+    {
+      "text": "So it was still like it's so had a very intimate and personal sense, but obviously since the",
+      "trans": "所以它还是像以前那样充满了非常亲密和个人的感觉，但显然自从那以后...",
+      "start": 826.0,
+      "end": 831.12
+    },
+    {
+      "text": "mail takes a long and everything, they just scanned it and then they sent it to my email. That's nice.",
+      "trans": "邮件很长，他们只是扫描了一下然后就发到了我的邮箱。那挺好。",
+      "start": 831.12,
+      "end": 834.96
+    },
+    {
+      "text": "So that I think that's a good idea. Maybe you could try that one. I don't agree with the the",
+      "trans": "所以我认为这是一个好主意。也许你可以试试那个。我不赞同那个。",
+      "start": 834.96,
+      "end": 840.08
+    },
+    {
+      "text": "one line email. I'm sorry, forgive me. Yeah, yeah, that's not good. As my parents always, you just say",
+      "trans": "一行电邮。对不起，原谅我。是的，是的，那不是好的。正如我父母总是说的那样。",
+      "start": 840.08,
+      "end": 844.88
+    },
+    {
+      "text": "when I was growing up and I'd get them fights with my little brother, the only apologies that we accept",
+      "trans": "当我小时候和我弟弟打架时，我们唯一接受的道歉是",
+      "start": 844.88,
+      "end": 850.0
+    },
+    {
+      "text": "are the ones that are from the heart. So I used to have to apologize again and again and again",
+      "trans": "都是发自内心的。所以，我不得不一遍又一遍地道歉",
+      "start": 850.0,
+      "end": 855.04
+    },
+    {
+      "text": "until you actually meant it. And so I think that this is a very true kind of idea that that well,",
+      "trans": "直到你真的这么做了。所以我认为这真是一个非常真实的想法，那就是：",
+      "start": 855.12,
+      "end": 862.0799999999999
+    },
+    {
+      "text": "maybe not in business and work where you have to be cordial with friends and real relationships",
+      "trans": "也许不是在需要与朋友保持融洽关系和真实关系的工作和事业中。",
+      "start": 862.0799999999999,
+      "end": 866.64
+    },
+    {
+      "text": "with people who you care about. Obviously, real apologies are very important. Of course. So this",
+      "trans": "与你关心的人在一起。当然，真正的道歉非常重要。是的。所以这个",
+      "start": 866.64,
+      "end": 872.88
+    },
+    {
+      "text": "is an interesting topic and we recommend that you if you have any other questions or doubts or maybe",
+      "trans": "这是一个有趣的话题，我们建议你如果有其他问题或疑虑或者可能的疑问，请随时提问。",
+      "start": 872.88,
+      "end": 878.48
+    },
+    {
+      "text": "you want some other explanation for this letter, you can come to englishpot.com, leave it in the",
+      "trans": "你想要其他解释吗？你可以来到英语派网站，把它留在那里。",
+      "start": 878.48,
+      "end": 883.68
+    },
+    {
+      "text": "comments section and we'll be there. So until next time, bye!",
+      "trans": "评论区见，下次再见！",
+      "start": 883.68,
+      "end": 887.5999999999999
+    }
+  ]
+}

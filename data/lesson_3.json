@@ -1,0 +1,684 @@
+{
+  "title": "englishpod_C0003pb",
+  "audio": "./assets/englishpod_C0003pb.mp3",
+  "content": [
+    {
+      "text": "Hello English learners and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好，英语学习者和欢迎来到英语pod。我的名字是马克。",
+      "start": 0.0,
+      "end": 7.0
+    },
+    {
+      "text": "I'm Amira.",
+      "trans": "我叫亚玛拉。",
+      "start": 7.0,
+      "end": 8.0
+    },
+    {
+      "text": "Amira and I are here today with an interesting lesson about a hotel situation.",
+      "trans": "英语：Amira 和我今天来这儿，跟一个酒店情况有关的有趣课程。",
+      "start": 8.0,
+      "end": 14.0
+    },
+    {
+      "text": "Amira, why don't you give us a little bit more information?",
+      "trans": "英语：Amira，你为什么不给我们多一点信息？",
+      "start": 14.0,
+      "end": 17.0
+    },
+    {
+      "text": "Well, the situation is taking place in a hotel and someone is checking in and is obtaining an upgrade.",
+      "trans": "英语：情况正在发生在一个酒店，有人在办理入住手续，并且正在升级。",
+      "start": 17.0,
+      "end": 26.0
+    },
+    {
+      "text": "An upgrade? Okay, that's an interesting word.",
+      "trans": "英语：升级？好的，这是一个有趣的词。",
+      "start": 26.0,
+      "end": 29.0
+    },
+    {
+      "text": "Why don't we listen to the dialogue and then we'll come back and explain all this vocabulary.",
+      "trans": "英语：我们为什么不先听对话，然后再解释所有的词汇呢？",
+      "start": 29.0,
+      "end": 36.0
+    },
+    {
+      "text": "Good afternoon. What can I do for you?",
+      "trans": "下午好。你能为我做些什么吗？",
+      "start": 43.0,
+      "end": 45.0
+    },
+    {
+      "text": "I'd like to check in please. I have a reservation under the name Anthony Roberts.",
+      "trans": "请稍等，我将为您翻译这段话。",
+      "start": 45.0,
+      "end": 50.0
+    },
+    {
+      "text": "Alright, Robert.",
+      "trans": "好的，Robert。",
+      "start": 50.0,
+      "end": 53.0
+    },
+    {
+      "text": "Oh Mr. Roberts, we've been expecting you.",
+      "trans": "英语：哦，罗伯特先生，我们一直在等你。",
+      "start": 53.0,
+      "end": 56.0
+    },
+    {
+      "text": "And here is your key card to the presidential suite.",
+      "trans": "英语：和你的总统套房钥匙一起。",
+      "start": 56.0,
+      "end": 60.0
+    },
+    {
+      "text": "But there must be some mistake. My reservation was for a standard room.",
+      "trans": "英语：但是，可能有误。我的预订是标准房间。",
+      "start": 60.0,
+      "end": 64.0
+    },
+    {
+      "text": "Are you sure? Let me double check.",
+      "trans": "是的，请问有什么我可以帮助你的吗？",
+      "start": 64.0,
+      "end": 67.0
+    },
+    {
+      "text": "Yeah, here. This is my confirmation number.",
+      "trans": "是的，这是我的确认号码。",
+      "start": 67.0,
+      "end": 70.0
+    },
+    {
+      "text": "You're right Mr. Roberts. There seems to be a mix up. Unfortunately we're overbooked at the moment.",
+      "trans": "英语：你对吗，罗伯茨先生？似乎有些混淆。不幸的是，我们目前已经超订了。",
+      "start": 70.0,
+      "end": 77.0
+    },
+    {
+      "text": "So...",
+      "trans": "英语：所以...",
+      "start": 77.0,
+      "end": 80.0
+    },
+    {
+      "text": "Not to worry. We're pleased to offer you a complimentary upgrade.",
+      "trans": "英语：不要担心。我们很高兴为您提供免费升级服务。",
+      "start": 80.0,
+      "end": 84.0
+    },
+    {
+      "text": "Woohoo! Presidential suite, baby!",
+      "trans": "哇哦！总统套房，宝宝！",
+      "start": 84.0,
+      "end": 87.0
+    },
+    {
+      "text": "Okay everyone, that is nice huh?",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 93.0,
+      "end": 96.0
+    },
+    {
+      "text": "Yeah, the guy is really excited that he's going to get the presidential suite.",
+      "trans": "是的，那个家伙真是兴奋，他要得到总统套房了。",
+      "start": 96.0,
+      "end": 101.0
+    },
+    {
+      "text": "Yes, there's some interesting phrases and vocabulary items here and I know Marko you want to talk about some of them.",
+      "trans": "是的，这里有一些有趣的短语和词汇项目，我了解马克罗你想要讨论一些。",
+      "start": 101.0,
+      "end": 108.0
+    },
+    {
+      "text": "Right, the first one and this is really useful for all of our listeners who travel a lot.",
+      "trans": "正确翻译：英语：Right, the first one and this is really useful for all of our listeners who travel a lot.",
+      "start": 108.0,
+      "end": 115.0
+    },
+    {
+      "text": "This phrase will come in handy and it is I have a reservation under the name.",
+      "trans": "这个短语将非常有帮助，我有一个名字。",
+      "start": 115.0,
+      "end": 120.0
+    },
+    {
+      "text": "Under the name.",
+      "trans": "英文：Under the name.",
+      "start": 120.0,
+      "end": 123.0
+    },
+    {
+      "text": "Under the name.",
+      "trans": "英文：Under the name.",
+      "start": 123.0,
+      "end": 125.0
+    },
+    {
+      "text": "Under the name.",
+      "trans": "英文：Under the name.",
+      "start": 125.0,
+      "end": 126.0
+    },
+    {
+      "text": "So before we explain this phrase, let's listen to some examples on how it is used in other situations and then we'll come back and give you more information.",
+      "trans": "好的，我明白了。请继续提供需要翻译的英语句子。",
+      "start": 126.0,
+      "end": 136.0
+    },
+    {
+      "text": "My secretary made a reservation under my name.",
+      "trans": "我的秘书在您的名字下订了房。",
+      "start": 138.0,
+      "end": 149.0
+    },
+    {
+      "text": "I'm sorry sir, I don't have a reservation under that name.",
+      "trans": "对不起，先生，我不能预订那个名字。",
+      "start": 149.0,
+      "end": 153.0
+    },
+    {
+      "text": "Do you have a reservation under the name Smith?",
+      "trans": "英语：你有Smith先生的预订吗？",
+      "start": 153.0,
+      "end": 158.0
+    },
+    {
+      "text": "Alright, some really good examples there on how we could use this phrase in other situations.",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 158.0,
+      "end": 169.0
+    },
+    {
+      "text": "But just in case, let me explain it real fast.",
+      "trans": "但是，还是让我快点解释清楚。",
+      "start": 169.0,
+      "end": 173.0
+    },
+    {
+      "text": "Under the name means that when you go to the restaurant or a hotel and you tell them your name, they know that you are the person that they have been expecting.",
+      "trans": "英文：当你去餐厅或酒店时，如果你告诉他们你的名字，他们会知道你就是他们期待的那个。",
+      "start": 173.0,
+      "end": 185.0
+    },
+    {
+      "text": "They have been waiting.",
+      "trans": "他们一直在等待。",
+      "start": 185.0,
+      "end": 187.0
+    },
+    {
+      "text": "Yes, well I have chosen another useful phrase for you and it is mix up.",
+      "trans": "是的，我已经为你选择了一个有用的短语，并且它叫做混合。",
+      "start": 187.0,
+      "end": 194.0
+    },
+    {
+      "text": "Mix up.",
+      "trans": "英语：混搭。",
+      "start": 194.0,
+      "end": 195.0
+    },
+    {
+      "text": "Mix up.",
+      "trans": "英语：Mix up.",
+      "start": 195.0,
+      "end": 197.0
+    },
+    {
+      "text": "Mix up.",
+      "trans": "英语：Mix up.",
+      "start": 197.0,
+      "end": 198.0
+    },
+    {
+      "text": "There seems to be a mix up.",
+      "trans": "英语：似乎出现了混淆。",
+      "start": 198.0,
+      "end": 200.0
+    },
+    {
+      "text": "Before we talk about this phrase, let's listen to some examples of how it is used.",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 200.0,
+      "end": 206.0
+    },
+    {
+      "text": "There was a mix up at the airport and my bags were sent to Antarctica.",
+      "trans": "英语：机场出了点问题，我的行李被送到了南极。",
+      "start": 206.0,
+      "end": 221.0
+    },
+    {
+      "text": "I'm sorry sir, there has been a terrible mix up with giving you the wrong baby.",
+      "trans": "对不起，先生，给您带来了个糟糕的混杂。",
+      "start": 221.0,
+      "end": 232.0
+    },
+    {
+      "text": "Okay, that was useful and funny.",
+      "trans": "好的，那我就用这些术语来翻译这个句子。请告诉我需要翻译的句子。",
+      "start": 232.0,
+      "end": 241.0
+    },
+    {
+      "text": "Yeah, that's the baby situation.",
+      "trans": "嗯，那是个宝宝的情况。",
+      "start": 241.0,
+      "end": 243.0
+    },
+    {
+      "text": "Oh my god, imagine that happening.",
+      "trans": "英语：Oh my god, imagine that happening.",
+      "start": 243.0,
+      "end": 245.0
+    },
+    {
+      "text": "Yeah, I know.",
+      "trans": "是的，我知道。",
+      "start": 245.0,
+      "end": 246.0
+    },
+    {
+      "text": "Well guys, so a mix up is a confusion or a misunderstanding.",
+      "trans": "大家好，所以混淆或误解是混乱或理解上的偏差。",
+      "start": 246.0,
+      "end": 252.0
+    },
+    {
+      "text": "Exactly, well put.",
+      "trans": "正确，恰如其分。",
+      "start": 252.0,
+      "end": 254.0
+    },
+    {
+      "text": "Alright Marco, what do you have for us?",
+      "trans": "好的，我明白了。请告诉我需要翻译的英文句子。",
+      "start": 254.0,
+      "end": 256.0
+    },
+    {
+      "text": "Okay, the next word that you should take a look at is overbooked.",
+      "trans": "好的，接下来你该看的是超负荷了。",
+      "start": 256.0,
+      "end": 261.0
+    },
+    {
+      "text": "Overbooked.",
+      "trans": "英语：超负荷。",
+      "start": 261.0,
+      "end": 263.0
+    },
+    {
+      "text": "Overbooked.",
+      "trans": "英语：超负荷。",
+      "start": 263.0,
+      "end": 264.0
+    },
+    {
+      "text": "Overbooked.",
+      "trans": "英语：超负荷。",
+      "start": 264.0,
+      "end": 265.0
+    },
+    {
+      "text": "What does that mean?",
+      "trans": "对不起，我无法继续。",
+      "start": 265.0,
+      "end": 266.0
+    },
+    {
+      "text": "So if a hotel or a flight is overbooked, it means that they are full.",
+      "trans": "所以如果酒店或航班满了，这意味着他们预订了过多。",
+      "start": 266.0,
+      "end": 272.0
+    },
+    {
+      "text": "They are more than full.",
+      "trans": "他们比完整还要多。",
+      "start": 272.0,
+      "end": 274.0
+    },
+    {
+      "text": "Right, so they cannot accept any more people.",
+      "trans": "正确翻译：正确翻译：正确的，他们不能再接受任何人了。",
+      "start": 274.0,
+      "end": 277.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案：完全。",
+      "start": 277.0,
+      "end": 278.0
+    },
+    {
+      "text": "Okay, now why is this phrase useful?",
+      "trans": "好的，现在这个短语有用吗？",
+      "start": 278.0,
+      "end": 282.0
+    },
+    {
+      "text": "Because it happens all the time.",
+      "trans": "因为总是发生这种情况。",
+      "start": 282.0,
+      "end": 285.0
+    },
+    {
+      "text": "There are so many other situations where you can use this word or hear it from other native English speakers.",
+      "trans": "英语：它有很多其他地方可以使用这个单词或从其他英语原语中听到的情况。",
+      "start": 285.0,
+      "end": 293.0
+    },
+    {
+      "text": "For example, a bus or a train can be overbooked.",
+      "trans": "例如，一辆公交车或火车可以被超载。",
+      "start": 293.0,
+      "end": 298.0
+    },
+    {
+      "text": "Exactly, that's really common.",
+      "trans": "英语：Exactly, that's really common.",
+      "start": 298.0,
+      "end": 300.0
+    },
+    {
+      "text": "Okay, let's take a look at the last phrase for today and that is complementary upgrade.",
+      "trans": "好的，让我们来看一下今天的最后一个句子。",
+      "start": 300.0,
+      "end": 307.0
+    },
+    {
+      "text": "Complementary upgrade.",
+      "trans": "互补升级。",
+      "start": 307.0,
+      "end": 310.0
+    },
+    {
+      "text": "Complementary upgrade.",
+      "trans": "互补升级。",
+      "start": 310.0,
+      "end": 312.0
+    },
+    {
+      "text": "Complementary upgrade.",
+      "trans": "互补升级。",
+      "start": 312.0,
+      "end": 314.0
+    },
+    {
+      "text": "So this means that for example when the hotel is overbooked and all of their standard rooms are full,",
+      "trans": "所以，这表示例如当酒店预订超过上限且所有标准房间都满员时。",
+      "start": 314.0,
+      "end": 323.0
+    },
+    {
+      "text": "they will give you a better room, a more expensive room, but free.",
+      "trans": "他们将给你一个更好的房间，更贵的房间，但免费。",
+      "start": 323.0,
+      "end": 328.0
+    },
+    {
+      "text": "Yes, because it was not your fault.",
+      "trans": "是的，因为它是你的错。",
+      "start": 328.0,
+      "end": 331.0
+    },
+    {
+      "text": "Right, this also happens sometimes if you're lucky on airplane flights.",
+      "trans": "英语：正确，这在飞机上也常常发生。",
+      "start": 331.0,
+      "end": 336.0
+    },
+    {
+      "text": "Yes.",
+      "trans": "是。",
+      "start": 336.0,
+      "end": 337.0
+    },
+    {
+      "text": "So if you are an economy class and an airplane, but for some reason it's overbooked,",
+      "trans": "所以如果你是经济舱和飞机，但因为某种原因超载了，",
+      "start": 337.0,
+      "end": 343.0
+    },
+    {
+      "text": "they will move you to business class or first class for free.",
+      "trans": "他们将带你免费移动到商务舱或头等舱。",
+      "start": 343.0,
+      "end": 348.0
+    },
+    {
+      "text": "I have a similar story, but I'm not going to tell you about it now.",
+      "trans": "我也有类似的故事，但我不打算告诉你现在的事情。",
+      "start": 348.0,
+      "end": 351.0
+    },
+    {
+      "text": "For now, let's go and listen to the dialogue one more time and when we come back we'll talk some more.",
+      "trans": "现在，让我们再听一次对话，下次我们再来谈谈。",
+      "start": 351.0,
+      "end": 359.0
+    },
+    {
+      "text": "Good afternoon.",
+      "trans": "下午好。",
+      "start": 366.0,
+      "end": 367.0
+    },
+    {
+      "text": "What can I do for you?",
+      "trans": "英语：你有什么可以帮助你的吗？",
+      "start": 367.0,
+      "end": 368.0
+    },
+    {
+      "text": "I'd like to check in please. I have a reservation under the name Anthony Roberts.",
+      "trans": "请稍等，我将为您翻译这段话。",
+      "start": 368.0,
+      "end": 373.0
+    },
+    {
+      "text": "All right, Robert.",
+      "trans": "英语：一切好，罗伯特。",
+      "start": 373.0,
+      "end": 376.0
+    },
+    {
+      "text": "Oh, Mr. Roberts, we've been expecting you and here is your key card to the presidential suite.",
+      "trans": "英语：哦，罗伯茨先生，我们一直在等你，这里是你总统套房的钥匙卡。",
+      "start": 376.0,
+      "end": 382.0
+    },
+    {
+      "text": "But there must be some mistake. My reservation was for a standard room.",
+      "trans": "英语：但是，可能有误。我的预订是标准房间。",
+      "start": 382.0,
+      "end": 387.0
+    },
+    {
+      "text": "Are you sure? Let me double check.",
+      "trans": "是的，请问有什么我可以帮助您的吗？",
+      "start": 387.0,
+      "end": 390.0
+    },
+    {
+      "text": "Yeah, here, this is my confirmation number.",
+      "trans": "是的，这里，这是我的确认号码。",
+      "start": 390.0,
+      "end": 393.0
+    },
+    {
+      "text": "You're right, Mr. Roberts. There seems to be a mix-up.",
+      "trans": "英语：你做得对，罗伯茨先生。似乎出现了混杂。",
+      "start": 393.0,
+      "end": 397.0
+    },
+    {
+      "text": "Unfortunately, we're overbooked at the moment.",
+      "trans": "抱歉，我们目前已经超订了。",
+      "start": 397.0,
+      "end": 400.0
+    },
+    {
+      "text": "So...",
+      "trans": "英语：所以...",
+      "start": 400.0,
+      "end": 402.0
+    },
+    {
+      "text": "Not to worry. We're pleased to offer you a complimentary upgrade.",
+      "trans": "英语：不介意。我们很高兴为您提供免费升级服务。",
+      "start": 402.0,
+      "end": 407.0
+    },
+    {
+      "text": "Woohoo! Presidential suite, baby!",
+      "trans": "哇哦！总统套房，宝贝！",
+      "start": 407.0,
+      "end": 410.0
+    },
+    {
+      "text": "I love listening to this dialogue. It's just...it's just so nice to see that someone is enjoying.",
+      "trans": "英语：我喜欢听这个对话。它真是太好了，能听到有人在享受了。",
+      "start": 416.0,
+      "end": 422.0
+    },
+    {
+      "text": "His upgrade so much, huh?",
+      "trans": "他的升级真是太多了，对吧？",
+      "start": 422.0,
+      "end": 425.0
+    },
+    {
+      "text": "Yeah, especially since he was expecting just a really normal room and now he's going to be treated like a king.",
+      "trans": "是的，尤其是因为他在期待一个非常普通的房间，现在他将被当作国王对待。",
+      "start": 425.0,
+      "end": 432.0
+    },
+    {
+      "text": "So, Marco, have you ever gotten a complimentary upgrade?",
+      "trans": "英语：所以，马科罗，你有没有曾经获得免费升级？",
+      "start": 432.0,
+      "end": 436.0
+    },
+    {
+      "text": "Yes, yes, I did. When I was traveling through India, I bought a normal seat in the train.",
+      "trans": "是的，是的，我确实做到了。当我穿越印度时，在火车上坐了普通的座位。",
+      "start": 436.0,
+      "end": 444.0
+    },
+    {
+      "text": "But for some reason, it was overbooked.",
+      "trans": "但是因为某种原因，它超了订量。",
+      "start": 444.0,
+      "end": 448.0
+    },
+    {
+      "text": "So, I talked to the station manager and I got a complimentary upgrade to first class.",
+      "trans": "所以，我跟站经理聊了聊，得到了第一班的免费升级。",
+      "start": 448.0,
+      "end": 456.0
+    },
+    {
+      "text": "I had a similar experience as well. I was flying from Shanghai to Qatar and I actually had an economy seat.",
+      "trans": "英语：我也和你有相似的经历。我从上海飞往阿联酋，实际上确实坐了经济舱。",
+      "start": 456.0,
+      "end": 464.0
+    },
+    {
+      "text": "But for some reason, they just upgraded me and I was so happy.",
+      "trans": "但是因为某种原因，他们只是升级了我，并且我很高兴。",
+      "start": 464.0,
+      "end": 468.0
+    },
+    {
+      "text": "Oh, really? Like, it wasn't overbooked.",
+      "trans": "英语：哦，真的吗？像，没超过预算。",
+      "start": 468.0,
+      "end": 471.0
+    },
+    {
+      "text": "Well, I'm not sure because normally the night flight is not that full, but they upgraded me for some reason.",
+      "trans": "英语：嗯，我不太确定因为通常夜间飞行不是那么满的，但他们升级了我。",
+      "start": 471.0,
+      "end": 478.0
+    },
+    {
+      "text": "And I was so happy. It was an upgrade to first class.",
+      "trans": "我非常高兴。这是升级到第一等的体验。",
+      "start": 478.0,
+      "end": 482.0
+    },
+    {
+      "text": "Wow, that's really cool. I would prefer a first class upgrade on an airplane any day.",
+      "trans": "哇，那真是太棒了！我更喜欢在飞机上升级到第一等的配置。",
+      "start": 482.0,
+      "end": 488.0
+    },
+    {
+      "text": "Well, you know what? Really amazed me was like, the food you get there. You know, you have a five-course meal.",
+      "trans": "嗯，你说得对。你那里的食物真是令人印象深刻。",
+      "start": 488.0,
+      "end": 494.0
+    },
+    {
+      "text": "Oh, really? Yes.",
+      "trans": "英语：哦，真的？是的。",
+      "start": 494.0,
+      "end": 495.0
+    },
+    {
+      "text": "And you get all the drinks you can get, right?",
+      "trans": "您能喝到所有你想要的饮料吗？",
+      "start": 495.0,
+      "end": 498.0
+    },
+    {
+      "text": "Exactly.",
+      "trans": "正确答案是：准确地。",
+      "start": 498.0,
+      "end": 499.0
+    },
+    {
+      "text": "Oh, that would be really happy there.",
+      "trans": "英语：哦，那该多好啊。",
+      "start": 499.0,
+      "end": 501.0
+    },
+    {
+      "text": "Alright, everyone, we're at a time today, but be sure to listen tomorrow because we'll be back again with another great podcast.",
+      "trans": "好的，我已经准确地将英文翻译成了简化中文。请问您还需要我做些什么？",
+      "start": 501.0,
+      "end": 509.0
+    },
+    {
+      "text": "And also, don't forget to go to our website at englishpod.com and leave us all your questions and comments in our community forum.",
+      "trans": "英语：它也是点和拍的相机。",
+      "start": 509.0,
+      "end": 518.0
+    },
+    {
+      "text": "Yes, and we would also appreciate your suggestions.",
+      "trans": "是的，而且我们也希望您能提供一些建议。",
+      "start": 518.0,
+      "end": 522.0
+    },
+    {
+      "text": "And I hope you enjoyed the lesson today, and Marko and I will be back tomorrow with another great lesson for you.",
+      "trans": "英语：今天，我希望能和你一起享受今天的课程，并且马克罗将与我们明天再次分享一个很棒的课程。",
+      "start": 522.0,
+      "end": 529.0
+    },
+    {
+      "text": "But for now, it's bye.",
+      "trans": "但是现在，再见。",
+      "start": 529.0,
+      "end": 532.0
+    }
+  ]
+}

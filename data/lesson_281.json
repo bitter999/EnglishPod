@@ -1,0 +1,918 @@
+{
+  "title": "englishpod_0281pb",
+  "audio": "./assets/englishpod_0281pb.mp3",
+  "content": [
+    {
+      "text": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "trans": "你好，大家和欢迎来到英语播客。我的名字是马克。",
+      "start": 0.0,
+      "end": 4.16
+    },
+    {
+      "text": "My name is Catherine and we've got a very sad dialogue today actually Marco.",
+      "trans": "我的名字是凯特，我们今天讨论了一个非常悲伤的对话。",
+      "start": 4.16,
+      "end": 8.68
+    },
+    {
+      "text": "That's right today we have a very sad but interesting dialogue of something that happens",
+      "trans": "今天，我们有一个非常悲伤但有趣的对话，关于发生的事情。",
+      "start": 8.68,
+      "end": 13.200000000000001
+    },
+    {
+      "text": "all the time. Maybe you have a girlfriend, maybe you had a boyfriend and you break up.",
+      "trans": "英语：一直都在。或许你有女朋友，或许你曾经有一个男朋友，然后你们分手了。",
+      "start": 13.200000000000001,
+      "end": 19.16
+    },
+    {
+      "text": "That means you are no longer boyfriend and girlfriend.",
+      "trans": "这句话的中文翻译是：“这意味着你不再是恋人和伴侣。”",
+      "start": 19.16,
+      "end": 22.76
+    },
+    {
+      "text": "Let's take a listen to today's dialogue and we'll be back in a moment to talk about what's going on.",
+      "trans": "让我们听听今天的对话，然后在稍后再聊一聊我们今天正在讨论的事情。",
+      "start": 22.76,
+      "end": 27.72
+    },
+    {
+      "text": "Hello. Hey, do you want to go out tonight? No, I think I'll pass. Mark broke up with me.",
+      "trans": "你好。晚上好，你打算今晚出去吗？我想我先走了。马克和我分手了。",
+      "start": 30.0,
+      "end": 44.64
+    },
+    {
+      "text": "I feel awful. What? What happened? Just last week you were talking about going on vacation",
+      "trans": "我感到非常糟糕。什么？发生了什么事？上周你刚刚谈论了去度假的事情。",
+      "start": 44.64,
+      "end": 51.32
+    },
+    {
+      "text": "together. I don't know what I did wrong. He said he needed some space to figure things",
+      "trans": "一起。我不知道我做错了什么。他说他需要一些空间来思考这些问题。",
+      "start": 51.32,
+      "end": 57.96
+    },
+    {
+      "text": "out. He said I didn't do anything wrong that I'm a great person. Just not the one for him.",
+      "trans": "英语：out. 他说，我没有做错什么，我就是那个适合他的那个人。",
+      "start": 57.96,
+      "end": 64.96000000000001
+    },
+    {
+      "text": "That's so cliche. Mark's not worth your time Lydia. You deserve so much better.",
+      "trans": "英语：那太俗套了。马克不是你值得花时间找的那个人，你应该更努力一些。",
+      "start": 64.96000000000001,
+      "end": 72.52
+    },
+    {
+      "text": "I know we had hit a rough patch but I had hoped we could work it out next weekend when",
+      "trans": "我明白我们遇到了一个困难，但我想下周我们可以找到解决问题的方法。",
+      "start": 72.52,
+      "end": 77.64
+    },
+    {
+      "text": "we both had some time off. I think he found someone else. I had been getting suspicious",
+      "trans": "我们都在休假。我想他找到了其他人。我一直在怀疑。",
+      "start": 77.64,
+      "end": 83.76
+    },
+    {
+      "text": "because he had been spending a lot of time with a coworker. Whatever. He's a jerk. Forget",
+      "trans": "因为和同事相处的时间很多。不管怎么样，他是个废物。算了。",
+      "start": 83.76,
+      "end": 89.92
+    },
+    {
+      "text": "about him. There are many more fish in the sea. Talk about being cliche, Maggie. But you're",
+      "trans": "关于他。海洋里有许多鱼，谈什么都是废话，马小虎。",
+      "start": 89.92,
+      "end": 97.92
+    },
+    {
+      "text": "right. There's no use for me to sulk around. Let's go out tonight.",
+      "trans": "正确答案是：右。我没有什么用，让我们今晚出去吧。",
+      "start": 97.92,
+      "end": 104.44
+    },
+    {
+      "text": "All right, we're back. So obviously this girl Lydia is very torn. She's very sad because",
+      "trans": "好的，我们已经回来。很明显，这个女孩Lydia非常伤心。因为她很悲伤。",
+      "start": 104.44,
+      "end": 112.4
+    },
+    {
+      "text": "her boyfriend broke up with her. That's right. She's crying the whole time. That's right.",
+      "trans": "她的男朋友和她分手了。没错，她一直在哭。没错。",
+      "start": 112.4,
+      "end": 119.24000000000001
+    },
+    {
+      "text": "But she did mention her and her friend mentioned some interesting things. Why don't we take",
+      "trans": "但是她提到她的朋友提到了一些有趣的事情。我们为什么不一起讨论一下呢？",
+      "start": 119.24000000000001,
+      "end": 123.32000000000001
+    },
+    {
+      "text": "a look at some of the words they used on language takeaway?",
+      "trans": "英语：看看他们用在语言小测验上的一些词汇。",
+      "start": 123.32000000000001,
+      "end": 128.32
+    },
+    {
+      "text": "Language takeaway. So first of all, her friend says, hey, do you want to go out tonight?",
+      "trans": "英语：语言总结。所以首先，她的朋友说，嗨，今晚你打算去哪里？",
+      "start": 128.32,
+      "end": 135.16
+    },
+    {
+      "text": "And what does Lydia say? She says, no. I think I'll pass.",
+      "trans": "Lydia说，不。我认为我会通过的。",
+      "start": 135.16,
+      "end": 139.64000000000001
+    },
+    {
+      "text": "All right. I think I'll pass. I will pass. So what does this verb mean to pass?",
+      "trans": "好的。我想我会通过的。我将通过。这句话的意思是：（ ） 这个动词表示什么？",
+      "start": 139.64,
+      "end": 145.51999999999998
+    },
+    {
+      "text": "So that means she is politely rejecting the offer or the invitation. So no thanks. No",
+      "trans": "所以，这意味着她礼貌地拒绝了这个邀请或提议。因此，谢谢你的帮助。",
+      "start": 145.51999999999998,
+      "end": 151.35999999999999
+    },
+    {
+      "text": "thanks. That's basically what it means. I won't go. So, hey, Marco, you want to go see",
+      "trans": "好的，我明白了。那我就直接翻译成中文吧：",
+      "start": 151.35999999999999,
+      "end": 155.32
+    },
+    {
+      "text": "a movie in a couple hours? No, I think I'll pass. I got homework to do.",
+      "trans": "电影在两小时内？不，我觉得我将放弃。我已经完成了作业了。",
+      "start": 155.32,
+      "end": 159.07999999999998
+    },
+    {
+      "text": "All right. So Marco will not come. That means to decline an invitation. That's right. So",
+      "trans": "好的。所以马科不会来。这意味着拒绝邀请。这是正确的。所以",
+      "start": 159.07999999999998,
+      "end": 165.56
+    },
+    {
+      "text": "that's what it means to pass. Now, as they continue to talk, they mentioned some of the",
+      "trans": "英语：that's what it means to pass. 现在，随着他们继续交谈，他们提到了一些话题。",
+      "start": 165.56,
+      "end": 170.28
+    },
+    {
+      "text": "problems with their boyfriend. But Maggie said, oh, that's so cliche. So the boyfriend",
+      "trans": "问题与他们的男朋友有关。但马戈说，那真是太 cliché了。所以男友",
+      "start": 170.28,
+      "end": 176.6
+    },
+    {
+      "text": "said something and Maggie thinks that what he said was very, very cliche. So what is",
+      "trans": "英语：他说了什么，Maggie觉得他说的话非常 cliché。所以她认为他说了什么很蠢。",
+      "start": 176.6,
+      "end": 181.36
+    },
+    {
+      "text": "something that is cliche? cliche means something that is said or done very often. It's almost",
+      "trans": "这句话的中文翻译是：",
+      "start": 181.36,
+      "end": 189.44
+    },
+    {
+      "text": "like we would expect it. So like, for example, what's a cliche phrase or a cliche action?",
+      "trans": "像我们所期待的那样。所以，例如，什么是 cliché phrase 或 cliché action？",
+      "start": 189.44,
+      "end": 196.68
+    },
+    {
+      "text": "Well, in the dialogue, they were talking about ways of breaking up with people. So, for",
+      "trans": "好的，我明白了。请继续提供需要翻译的英文内容。",
+      "start": 196.68,
+      "end": 201.92
+    },
+    {
+      "text": "example, it's not you. It's me. Let's break up. So that's a cliche because it's a sentence.",
+      "trans": "英语：它不是你。它是我。让我们分开了。所以，这是一个陈词滥调，因为它是一句句子。",
+      "start": 201.92,
+      "end": 208.32
+    },
+    {
+      "text": "It's a phrase. Everyone always says it's not very, maybe not very honest. Or like a movie",
+      "trans": "英语：它是一句谚语。每个人都总是说它不是很，也许不很诚实。或者像电影一样。",
+      "start": 208.32,
+      "end": 215.0
+    },
+    {
+      "text": "cliche would be a couple. They're getting married, but their parents, the parents of the bride,",
+      "trans": "英语：这是一对老套的夫妻。他们即将结婚，但他们的父母是这对新人的父母。",
+      "start": 215.0,
+      "end": 222.04
+    },
+    {
+      "text": "they're divorced, they hate each other. But then at the wedding, they get back together.",
+      "trans": "他们离婚了，他们恨透了。但婚礼后，他们又在一起了。",
+      "start": 222.04,
+      "end": 227.08
+    },
+    {
+      "text": "They're going to get married again. That's a cliche story. That's right. Because you've heard",
+      "trans": "他们又要结婚了。那真是一个陈词滥调的故事。没错，因为你们已经听过了。",
+      "start": 227.08,
+      "end": 232.52
+    },
+    {
+      "text": "it before. Right. All the time. It's very common. So something's very common. Something that you",
+      "trans": "它之前。正确。总是。非常普遍。所以，经常是。你",
+      "start": 232.52,
+      "end": 237.48
+    },
+    {
+      "text": "would expect that's almost that's a cliche. And a cliche calling something a cliche is not a good",
+      "trans": "英语：它几乎就是那个 cliché。而且，一个称谓是 cliché 的说法并不好。",
+      "start": 237.48,
+      "end": 242.52
+    },
+    {
+      "text": "thing. It's usually a bad thing. That's right. Okay. So Maggie goes on to say that this guy",
+      "trans": "这个东西。通常是一件坏事。对，正确。好的。所以马戈接着说：“这个人。”",
+      "start": 242.52,
+      "end": 249.32000000000002
+    },
+    {
+      "text": "Mark, her ex-boyfriend, he's not really worth it. She says you deserve so much better.",
+      "trans": "英语：马克，她的前任男友，他真的不值钱。她说你值得更好的。",
+      "start": 249.32000000000002,
+      "end": 254.20000000000002
+    },
+    {
+      "text": "Okay. So to deserve is a verb. And it means that you should receive something or you should expect",
+      "trans": "好的。所以，为了得到某物或预期到某事，应该使用动词\"deserve\"。并且，它意味着你应当接受某种东西或者期待某事。",
+      "start": 254.20000000000002,
+      "end": 261.96000000000004
+    },
+    {
+      "text": "something. So almost like, in this case, you deserve better. You have earned something better.",
+      "trans": "英语：something.",
+      "start": 261.96000000000004,
+      "end": 269.40000000000003
+    },
+    {
+      "text": "You're a good person. You should receive a, you know, you should have a good boyfriend. That's",
+      "trans": "你是个好男人。你应该接受这个，你知道，你应该有一个好男朋友。这是正确的。",
+      "start": 269.4,
+      "end": 274.84
+    },
+    {
+      "text": "right. So when she says you deserve so much better, she's talking about deserving a better guy,",
+      "trans": "正确翻译：她说你值得更好的，所以当她说你应该得到更好的时候，她是在称赞一个更好的人。",
+      "start": 274.84,
+      "end": 280.2
+    },
+    {
+      "text": "a better man. Or for example, so Marco, you work so hard at school, you're always doing your homework,",
+      "trans": "一个更好的人。或者，比如，莫卡，你工作这么努力，总是把作业做好。",
+      "start": 280.2,
+      "end": 286.2
+    },
+    {
+      "text": "you really deserve good grades. You should receive good grades. Very good. Now when Lydia said, yeah,",
+      "trans": "你真的值得好成绩。你应该得到好成绩。很好。现在当莉迪亚说，对吧，嗯，嗯，嗯。",
+      "start": 286.2,
+      "end": 293.96
+    },
+    {
+      "text": "you know what? I just thought we were having some problems. And we had hit a rough patch. So she's",
+      "trans": "你明白吗？我刚刚想说我们遇到了一些问题。然后我们又陷入了困境。所以她现在很忙了。",
+      "start": 293.96,
+      "end": 301.0
+    },
+    {
+      "text": "talking about a rough patch. What is that? A rough patch is actually something we talk about a lot",
+      "trans": "英语：谈论一个大问题。那是什么？实际上，我们经常讨论大问题。",
+      "start": 301.0,
+      "end": 305.71999999999997
+    },
+    {
+      "text": "in spoken English. It's a way to describe a period of time. So maybe a week or a month when things",
+      "trans": "在口语化的英文中，它是一种描述时间的方式。所以也许是一个星期或一个月的时期，当事情发生的时候。",
+      "start": 305.71999999999997,
+      "end": 313.56
+    },
+    {
+      "text": "are difficult, you know, when maybe you argue with your boyfriend or girlfriend or when you're",
+      "trans": "是的，当可能你与你的男朋友或女朋友发生争吵时。",
+      "start": 313.56,
+      "end": 319.0
+    },
+    {
+      "text": "sad a lot or when you're confused. And so a period of time when you're angry or sad with your",
+      "trans": "英语：很多，或者当你困惑时。所以你正在经历一段情绪低落或沮丧的时期。",
+      "start": 319.0,
+      "end": 325.56
+    },
+    {
+      "text": "boyfriend or girlfriend, that's a rough patch. So maybe we can apply a rough patch to another situation",
+      "trans": "男/女朋友，这是一段困难的时期。所以或许我们可以将这段困难的时间应用到另一个情境中。",
+      "start": 325.56,
+      "end": 331.08
+    },
+    {
+      "text": "like at work. Maybe you're going through a rough patch at work. That means I'm always busy. I'm",
+      "trans": "英语：像在工作时一样。或许你在工作中遇到了一些困难。这意味着我总是忙碌的。我一直在为你的项目努力。",
+      "start": 331.08,
+      "end": 335.4
+    },
+    {
+      "text": "always tired. I don't feel happy with my job. I'm going through a rough patch. So it's usually a",
+      "trans": "英语：我总是感到疲惫。我现在正经历一个困难时期，所以我通常总是感觉不开心。",
+      "start": 335.4,
+      "end": 341.32
+    },
+    {
+      "text": "temporary period of time where things are going bad. It could be, it could be a week. It could be a",
+      "trans": "临时的、糟糕的状态。可能是几天，也可能是一个星期。",
+      "start": 341.32,
+      "end": 346.12
+    },
+    {
+      "text": "month. It could be a year. But it's a it's a fixed amount of time. It's not forever. It's just a",
+      "trans": "月。它可能是年，但它是固定的时间单位。它不是永恒的。它只是一个时间点。",
+      "start": 346.12,
+      "end": 351.4
+    },
+    {
+      "text": "period. Okay, very good. And Lydia went on to say that, you know, she thought that maybe he was going",
+      "trans": "周期。好的，很好。亚德里安说，他知道，她可能认为他可能是",
+      "start": 351.4,
+      "end": 359.08
+    },
+    {
+      "text": "out with someone else. And she was suspicious because she was he was spending a lot of time with some",
+      "trans": "英语：出人一头热。她很怀疑，因为她正在花很多时间与某人在一起。",
+      "start": 359.08,
+      "end": 365.48
+    },
+    {
+      "text": "other girl. Okay, so to be suspicious is to think that something is happening. But you don't know.",
+      "trans": "其他女孩。嗯，所以可疑就是怀疑某事发生了。但你不知道。",
+      "start": 365.48,
+      "end": 372.28000000000003
+    },
+    {
+      "text": "So for example, Marco, I think you've been taking the milk from the kitchen. You are always drinking",
+      "trans": "英语：所以，比如说马科，我认为你一直在厨房里放牛奶。你总是喝不完的。",
+      "start": 372.91999999999996,
+      "end": 379.55999999999995
+    },
+    {
+      "text": "coffee and you always take milk in your coffee and there's no more milk. So I think it was you.",
+      "trans": "咖啡和你总是把牛奶放在你的咖啡里，所以我认为是你。",
+      "start": 379.55999999999995,
+      "end": 383.55999999999995
+    },
+    {
+      "text": "I'm being suspicious. I'm thinking that maybe you did something bad or wrong. I'm guilty. So maybe",
+      "trans": "我有点怀疑。我可能认为你干了坏事或做了不好的事情。我犯的是罪。或许，也许。",
+      "start": 384.11999999999995,
+      "end": 390.2
+    },
+    {
+      "text": "you're suspicious that someone is stealing the milk or maybe you suspect or you're suspicious",
+      "trans": "你怀疑有人偷喝了牛奶或者可能怀疑或有疑虑。",
+      "start": 390.2,
+      "end": 397.15999999999997
+    },
+    {
+      "text": "that your next door neighbor is maybe a car thief. Right. So you're very suspicious. That means",
+      "trans": "英语：那你的隔壁邻居可能是个车贼。对吧？所以你很怀疑。这表示",
+      "start": 397.24,
+      "end": 402.52000000000004
+    },
+    {
+      "text": "you're always thinking that this person or someone else is doing something bad. That's right.",
+      "trans": "你的表达很准确，但可以稍微调整一下以更符合中文的语境。以下是修改后的版本：",
+      "start": 402.52000000000004,
+      "end": 408.20000000000005
+    },
+    {
+      "text": "Okay. So a lot of words there talking about relationships, talking about cliches. Why don't we",
+      "trans": "好的。那么，有很多关于关系的话题在谈论，谈论着陈词滥调。为什么不呢？",
+      "start": 408.20000000000005,
+      "end": 413.40000000000003
+    },
+    {
+      "text": "go back? Let's listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
+      "trans": "英语：继续吗？让我们再听一遍对话，然后我们就会在下次看到Fluency Builder了。",
+      "start": 413.40000000000003,
+      "end": 417.16
+    },
+    {
+      "text": "Hello. Hey, do you want to go out tonight? No, I think I'll pass. Mark broke up with me. I feel",
+      "trans": "你好。晚上好，你打算今晚出去吗？我想我分手了。我感觉很伤心。",
+      "start": 417.56,
+      "end": 434.52000000000004
+    },
+    {
+      "text": "awful. What? What happened? Just last week you were talking about going on vacation together.",
+      "trans": "英语：糟糕。你是在讨论度假吗？上周你和我一起度假的事情你忘了。",
+      "start": 434.52000000000004,
+      "end": 441.24
+    },
+    {
+      "text": "I don't know what I did wrong. He said he needed some space to figure things out. He said,",
+      "trans": "我并不知道我做错了什么。他说他需要一些空间来弄清楚问题。他说，\"",
+      "start": 442.12,
+      "end": 448.76
+    },
+    {
+      "text": "I didn't do anything wrong, but I'm a great person. Just not the one for him.",
+      "trans": "我也没做错事，但我不适合他。",
+      "start": 448.76,
+      "end": 453.48
+    },
+    {
+      "text": "That's so cliche. Mark's not worth your time, Lydia. You deserve so much better.",
+      "trans": "英语：那太俗套了。马克不是你的对手，Lydia。你值得更好的。",
+      "start": 454.68,
+      "end": 461.0
+    },
+    {
+      "text": "I know we had hit a rough patch, but I had hoped we could work it out next weekend when we both",
+      "trans": "我明白我们已经陷入了一段困难时期，但我想在下周末我们可以一起解决这个问题。",
+      "start": 461.88,
+      "end": 467.40000000000003
+    },
+    {
+      "text": "had some time off. I think he found someone else. I had been getting suspicious because he had",
+      "trans": "英语：我有空了。我想他找到了其他人。我一直在怀疑，因为他似乎找到了其他人。",
+      "start": 467.4,
+      "end": 474.2
+    },
+    {
+      "text": "been spending a lot of time with a coworker. Whatever. He's a jerk. Forget about him. There are many",
+      "trans": "英语：一直在和同事相处。算了，他是个废物。不管怎么说，总有其他人需要帮助。",
+      "start": 474.2,
+      "end": 481.0
+    },
+    {
+      "text": "more fish in the sea. Talk about being cliche, Maggie, but you're right. There's no use for me to",
+      "trans": "英语：更多鱼在海洋里。谈何无用，马哥，但你还是说得对。",
+      "start": 481.0,
+      "end": 489.15999999999997
+    },
+    {
+      "text": "talk about. Let's go out tonight. All right, we're back. So now let's take a look at some of those",
+      "trans": "英语：谈论。让我们今晚出去吧。行，我们回来。现在让我们看看那些。",
+      "start": 490.12,
+      "end": 498.68
+    },
+    {
+      "text": "phrases on Fluency Builder. Fluency Builder. All right, so Marco, these are cliche phrases that we",
+      "trans": "英语：点和拍是傻瓜相机。",
+      "start": 498.68,
+      "end": 507.56
+    },
+    {
+      "text": "hear in English when people are breaking up. Okay, so there's some breaking up phrases, but there's",
+      "trans": "英语：听懂英语时，人们会分手。好吧，所以有一些分手的表达方式，但也有分手的语境。",
+      "start": 507.56,
+      "end": 512.52
+    },
+    {
+      "text": "also phrases that you might hear from your friend after you have a breakup. Okay, the first phrase we're",
+      "trans": "好的，接下来我们来翻译一下：",
+      "start": 512.52,
+      "end": 518.2
+    },
+    {
+      "text": "going to look at I think is to need space. So he said he needed some space. Right. And that's a",
+      "trans": "英语：要看看，我觉得需要空间。所以他说他需要一些空间。对了。",
+      "start": 518.2,
+      "end": 524.6
+    },
+    {
+      "text": "cliche phrase as we said, but it means that maybe her ex-boyfriend or Mark needs more space, needs",
+      "trans": "英语：它像我们说的那样，但可能她的前任男友或马克需要更多的空间，需要。",
+      "start": 524.6,
+      "end": 534.0400000000001
+    },
+    {
+      "text": "more time to be on his own or needs more time to do his own things. That's right. So when you're in",
+      "trans": "英语：更多的时间来独自一人，或者需要更多的时间来做自己的事情。那真是对的。所以当你在的时候，你最好能自己做决定。",
+      "start": 534.0400000000001,
+      "end": 539.48
+    },
+    {
+      "text": "a relationship, you have a boyfriend or girlfriend, you're always together. I need some space means",
+      "trans": "关系，你有男朋友或女朋友，总是在一起。我需要一些空间意味着。",
+      "start": 539.48,
+      "end": 545.4000000000001
+    },
+    {
+      "text": "I want to be alone. I don't want to be with my boyfriend or girlfriend. Sometimes this is just a",
+      "trans": "我想要独处。我不喜欢和我的男朋友或女朋友在一起。有时候这只是一个小小的愿望。",
+      "start": 545.4,
+      "end": 550.6
+    },
+    {
+      "text": "small period. Sometimes it's forever. It depends. That's right. So when somebody says that they need",
+      "trans": "小周期。有时候是永远的。它取决于。这就是正确的。所以当有人说他们需要的时候，我应该怎么做呢？",
+      "start": 550.6,
+      "end": 556.1999999999999
+    },
+    {
+      "text": "space, it means they need a little bit of more time to be on their own or to be alone, as you said.",
+      "trans": "空间，这意味着他们需要一些时间来独立或独自行动，正如你说的。",
+      "start": 556.1999999999999,
+      "end": 561.24
+    },
+    {
+      "text": "And also he had also given her another cliche phrase. Mark said that she is not the one for him.",
+      "trans": "英语：而且他还给她提了一个另类的表达。马克说，她不是他适合的人选。",
+      "start": 561.24,
+      "end": 568.92
+    },
+    {
+      "text": "Okay, so the emphasis here is the one. The one. She's not the one for him. So in English, we often talk",
+      "trans": "好的，现在请将这句话翻译成简化的中文：",
+      "start": 569.8,
+      "end": 576.28
+    },
+    {
+      "text": "about the one. And this means the person that you will marry, the love of your life. Your",
+      "trans": "关于这个。这表示你将要结婚，你的爱情。",
+      "start": 576.28,
+      "end": 582.4399999999999
+    },
+    {
+      "text": "significant other, your other half. That's right. And so you hope that you will marry the one.",
+      "trans": "有兄弟姐妹，你的另一半。没错。所以你希望你能嫁给那个。",
+      "start": 582.4399999999999,
+      "end": 587.8
+    },
+    {
+      "text": "But her boyfriend realized he said, listen, I like you, but you're not the one. You're not the",
+      "trans": "但是她的男友意识到，听我说，我喜欢你，但你是不是那个？你不是那个。",
+      "start": 588.4399999999999,
+      "end": 594.36
+    },
+    {
+      "text": "person that I will marry. So this is a phrase you often hear and break up. So if you're single,",
+      "trans": "这个傻瓜相机就是你经常听到和分手的那个人。所以如果你单身，",
+      "start": 594.36,
+      "end": 599.72
+    },
+    {
+      "text": "maybe you don't have a boyfriend or you're not married, you might say that you haven't found the one.",
+      "trans": "英语：也许你没有男朋友或者还没有结婚，你可能说你还没有找到那个对象。",
+      "start": 599.72,
+      "end": 605.4
+    },
+    {
+      "text": "Or yeah, you have a lot of different boyfriends, but you still haven't found the one. That means the",
+      "trans": "英语：或者，你有好多不同的男朋友，但还没找到那个。这意味着你还没有找到那个。",
+      "start": 605.4,
+      "end": 609.88
+    },
+    {
+      "text": "one you will marry. That's right. Okay, very good. And now towards the end of the dialogue, Maggie",
+      "trans": "英语：你将嫁给我。没错，很好。现在到了对话的最后阶段，梅格。",
+      "start": 609.88,
+      "end": 616.12
+    },
+    {
+      "text": "also gives her some advice and said, you know what? Forget about him. There are many more fish in the sea.",
+      "trans": "英语：她也给了她一些建议，并说，你知道吗？别忘了他。海洋里有很多鱼呢。",
+      "start": 616.12,
+      "end": 622.04
+    },
+    {
+      "text": "Okay, so this is a phrase that we often say when we're trying to make somebody feel better.",
+      "trans": "英语：嗯，所以当我们试图让某人感觉好一些时，我们会说这句话。",
+      "start": 622.12,
+      "end": 626.92
+    },
+    {
+      "text": "So the person is sad and we want to make them happy. And so there are many more fish in the sea",
+      "trans": "所以这个人在难过，我们想让他开心。而且在海洋里有很多鱼。",
+      "start": 626.92,
+      "end": 633.0799999999999
+    },
+    {
+      "text": "means that there are other men in the world. Okay, you're sad. You broke up. I understand.",
+      "trans": "英语：这意味着世界上还有其他男人。嗯，你伤心了。你分手了。我理解。",
+      "start": 633.0799999999999,
+      "end": 638.8399999999999
+    },
+    {
+      "text": "But there are so many other men you could date. So she's trying to say, hey, listen,",
+      "trans": "但是还有那么多男人可以约会。所以她正试图说，等等，听。",
+      "start": 638.8399999999999,
+      "end": 642.52
+    },
+    {
+      "text": "look at this world. There's so many different options. That's right. So it's the similarity of how",
+      "trans": "看这个世界。有这么多不同的选项。没错，这就是相似之处了。",
+      "start": 642.52,
+      "end": 647.88
+    },
+    {
+      "text": "in the sea you have so many fish in the world, you have so many men. So don't worry about it.",
+      "trans": "在大海里你有那么多鱼，你又有那么多男人。所以别担心。",
+      "start": 647.88,
+      "end": 652.2
+    },
+    {
+      "text": "And you can say this about women too. So for example, if I'm talking to my male friend or my",
+      "trans": "而且，你也可以这么说。比如，如果我正在和我的男性朋友交谈，或者在与男性朋友一起吃饭时说这句话。",
+      "start": 652.2,
+      "end": 657.08
+    },
+    {
+      "text": "brother and my brother just broke up with his girlfriend, I can say, hey, listen, there are many",
+      "trans": "英语：哥哥和我哥哥刚刚分手，我可以这么说，嘿，听着，有很多。",
+      "start": 657.08,
+      "end": 661.96
+    },
+    {
+      "text": "more fish in the sea. That's right. Many other women. So don't worry about it. Don't worry about it.",
+      "trans": "更多鱼儿在海洋里。没错。还有许多其他女人。所以别担心，别担心。",
+      "start": 661.96,
+      "end": 666.36
+    },
+    {
+      "text": "You'll be okay. And Lydia says, you know what? I think you're right. And there's really no use for",
+      "trans": "你没问题。亚历山大小姐说，你知道吗？我真觉得你对了。而且，真的没有用处。",
+      "start": 666.36,
+      "end": 671.4
+    },
+    {
+      "text": "me to soak around. So what does she mean to soak around? To soak. Now this is something that is very",
+      "trans": "我来泡。她到底在泡什么？泡的意思是做什么？现在这事儿可真是复杂了。",
+      "start": 671.4,
+      "end": 677.0
+    },
+    {
+      "text": "visual for me. I see somebody soaking their head is low. They're sad. Someone who is soaking",
+      "trans": "英语：视觉让我明白。我看到有人低着头，一脸悲伤。有人正在低着头。",
+      "start": 677.0,
+      "end": 684.36
+    },
+    {
+      "text": "often wears their sweatpants or their pajamas. They don't they don't make themselves look good.",
+      "trans": "经常穿他们的短裤或睡衣。他们自己看起来不自在。",
+      "start": 684.36,
+      "end": 688.6
+    },
+    {
+      "text": "To soak around means to be in your house, to be sad, to watch TV and eat ice cream. So stop",
+      "trans": "要浸泡在就是住在家里，是悲伤，看电视和吃冰淇淋。所以停止",
+      "start": 689.56,
+      "end": 696.6
+    },
+    {
+      "text": "soaking. Don't look sad. Be happy. So to soak is to act sad and to, you know, be very down. So it's",
+      "trans": "洗去。不要难过。开心点。所以，洗掉就是伤心和非常低落的意思。所以，洗掉是伤心和非常低落的同义词。",
+      "start": 696.6,
+      "end": 703.32
+    },
+    {
+      "text": "kind of like you're very it's kind of a combination of being lazy but and also sad at the same",
+      "trans": "英语：有点像你，很像你被懒惰和悲伤混合了。",
+      "start": 703.32,
+      "end": 709.4000000000001
+    },
+    {
+      "text": "time because something bad happened to you. Exactly. And so we often say that in English, teenagers",
+      "trans": "时间因为发生了一些坏事。的确如此。我们经常说，英语中青少年常常会说“时间因为……”。",
+      "start": 709.4000000000001,
+      "end": 714.7600000000001
+    },
+    {
+      "text": "like to soak, you know, oh, I'm so angry at my parents and your parents will say, hey, stop",
+      "trans": "英语：像要浸泡一样，你懂的，哦，我好生气了，我的父母和你的父母会说，哎呀，停下吧。",
+      "start": 714.7600000000001,
+      "end": 720.9200000000001
+    },
+    {
+      "text": "soaking. Go study. That's right. Very good. Okay. So a lot of great phrases here. I think we can",
+      "trans": "所以泡。去学习。很好。行。这里有很多好词句。我觉得我们可以",
+      "start": 720.9200000000001,
+      "end": 726.2
+    },
+    {
+      "text": "go back. Let's listen to this dialogue one last time. Hello? Hey, do you want to go out tonight?",
+      "trans": "英语：再次听你说。你好吗？你今天想出去吗？",
+      "start": 726.2,
+      "end": 739.72
+    },
+    {
+      "text": "No. I think I'll pass. Mark broke up with me. I feel awful. What? What happened? Just last week,",
+      "trans": "英语：它是一个傻瓜相机。",
+      "start": 740.6800000000001,
+      "end": 750.44
+    },
+    {
+      "text": "you were talking about going on vacation together. I don't know what I did wrong. He said he needed",
+      "trans": "你正在一起度假吗？我不太明白我做错了什么。他说他需要请假。",
+      "start": 750.44,
+      "end": 757.32
+    },
+    {
+      "text": "some space to figure things out. He said, I didn't do anything wrong, but I'm a great person.",
+      "trans": "一些空间来思考问题。他说，我没有做错什么，但我是个好人。",
+      "start": 757.32,
+      "end": 763.4000000000001
+    },
+    {
+      "text": "Just not the one for him. That's so cliche. Mark's not worth your time, Lydia. You deserve so much",
+      "trans": "英语：只是不适合他。那真是老生常谈了。马克对你没用，Lydia。你应该值得很多。",
+      "start": 763.96,
+      "end": 772.44
+    },
+    {
+      "text": "better. I know we had hit a rough patch, but I had hoped we could work it out next weekend when",
+      "trans": "更好的。我知道我们已经遇到了一些困难，但我想我们可以下周六再一起努力解决问题。",
+      "start": 772.44,
+      "end": 778.7600000000001
+    },
+    {
+      "text": "we both had some time off. I think he found someone else. I had been getting suspicious because",
+      "trans": "我们都在休假。我想他找到了其他人。我一直在怀疑，因为我在担心。",
+      "start": 778.76,
+      "end": 785.72
+    },
+    {
+      "text": "he had been spending a lot of time with a coworker. Whatever. He's a jerk. Forget about him. There are",
+      "trans": "他一直在和同事相处很长时间。算了，他是个废物。不管怎么样，别忘了他。",
+      "start": 785.72,
+      "end": 792.36
+    },
+    {
+      "text": "many more fish in the sea. Talk about being cliche, Maggie, but you're right. There's no use for",
+      "trans": "许多鱼在海洋里。谈何无用，马哥，你这是说的什么？",
+      "start": 792.36,
+      "end": 800.52
+    },
+    {
+      "text": "me to sulk around. Let's go out tonight. All right. Talking about breakups, these cliche lines.",
+      "trans": "我来撒娇。让我们今晚出去吧。行吗？聊点分手的话题，这些陈词滥调的句子。",
+      "start": 800.52,
+      "end": 811.3199999999999
+    },
+    {
+      "text": "Maggie is obviously upset. What other cliche lines or break up phrases have you heard apart from?",
+      "trans": "英语：Maggie 无疑非常生气。你听说过的其他离题的句子或破句表达，除了？",
+      "start": 812.36,
+      "end": 818.04
+    },
+    {
+      "text": "It's not you, it's me. You're just not the one. I need some space. I need some space. I think if you",
+      "trans": "不是你，是我。你只是不够合适。我需要一些空间。我需要一些空间。我想如果你",
+      "start": 818.04,
+      "end": 826.52
+    },
+    {
+      "text": "more like a friend, because there's a boyfriend or girlfriend, but then there's a friend. I like",
+      "trans": "英语：更像朋友，因为有男朋友或女朋友，然后还有个朋友。我喜欢。",
+      "start": 826.52,
+      "end": 831.96
+    },
+    {
+      "text": "you, but I think if you more like a friend. I think that's a typical one, especially if you're",
+      "trans": "你，但我觉得如果你更像朋友。我认为这很常见，尤其是当你和你一样时。",
+      "start": 831.96,
+      "end": 837.48
+    },
+    {
+      "text": "asking someone out on a date, they might say that. I really like you, but I see you more as a friend",
+      "trans": "英语：问别人出个约会，他们可能会说你真好，但我更喜欢你是朋友。",
+      "start": 837.48,
+      "end": 842.84
+    },
+    {
+      "text": "than anything else. There's another one that's very popular. Sometimes you hear people say,",
+      "trans": "比什么都重要。还有另一个非常流行的话题。有时候你会听到人们说，\"我最近在学习编程，因为我觉得这很有趣，所以我也开始学编程了。",
+      "start": 842.84,
+      "end": 846.92
+    },
+    {
+      "text": "I'm just not ready for a relationship. That's also a cliche line. I'm not ready to commit. I'm not",
+      "trans": "我还没准备好谈恋爱。这也是个陈词滥调。我没有准备好承诺。我没有准备好接受这个现实。",
+      "start": 846.92,
+      "end": 854.36
+    },
+    {
+      "text": "ready to commit. It's interesting because I think breaking up is one of the hardest things that",
+      "trans": "准备好要分手。这有趣的地方在于，我认为分手是人生中最难的一件事之一。",
+      "start": 854.36,
+      "end": 859.5600000000001
+    },
+    {
+      "text": "people can do. I think maybe this is why you just use one of these phrases that are so popular and",
+      "trans": "英语：人们可以做到。我认为这可能是因为你使用这些流行且受欢迎的表达方式的原因。",
+      "start": 859.5600000000001,
+      "end": 865.32
+    },
+    {
+      "text": "common, because I guess it's kind of a good way to explain in very soft terms what you want to say",
+      "trans": "英语：它是一种点和拍相机。",
+      "start": 865.32,
+      "end": 871.5600000000001
+    },
+    {
+      "text": "and to break up with someone. That's right. I think that sometimes people are afraid to make the",
+      "trans": "和分手。那正是。我觉得有时候人们害怕做出改变。",
+      "start": 871.5600000000001,
+      "end": 875.48
+    },
+    {
+      "text": "other person sad. They say these things that are very general. It's not you, it's me.",
+      "trans": "英语：其他人很伤心。他们说这些话是泛泛而谈，不是你，而是我。",
+      "start": 875.48,
+      "end": 880.52
+    },
+    {
+      "text": "Right. But sometimes this makes the other person even more sad because they don't understand why",
+      "trans": "是的。但是有时候，这会让对方更加难过，因为他们不明白为什么",
+      "start": 880.92,
+      "end": 886.76
+    },
+    {
+      "text": "that they're breaking up. What about breaking up over the telephone or breaking up with the letter?",
+      "trans": "这个点和拍是傻瓜相机。他们分手了，或者分手信。",
+      "start": 886.76,
+      "end": 892.4399999999999
+    },
+    {
+      "text": "Generally, at least in America, we say that breaking up over email or letter or phone is not a good",
+      "trans": "通常，在美国，我们说分手或电话沟通不是个好主意。",
+      "start": 893.56,
+      "end": 901.72
+    },
+    {
+      "text": "way to end a relationship. It's very cold. It's very cold. So the other person would be very angry if",
+      "trans": "英语：结束一段关系。非常冷。非常冷。所以对方会非常生气的。",
+      "start": 901.72,
+      "end": 907.0
+    },
+    {
+      "text": "if that happened. That's right. You just want to see the person and say, listen, let's have a",
+      "trans": "如果发生这种情况。没错，你只想看看这个人并说，听好了，让我们有这个。",
+      "start": 907.64,
+      "end": 911.32
+    },
+    {
+      "text": "conversation. Let's talk about this face to face. Okay. So this is actually very interesting because",
+      "trans": "英语：对话。让我们面对面谈谈这个问题。对，实际上挺有趣的。",
+      "start": 911.32,
+      "end": 917.48
+    },
+    {
+      "text": "as we say, maybe in other countries or in other cultures is not really a negative thing to break",
+      "trans": "英语：它就像我们说的，或许在其他地方或文化中，这并不是一个负面的事情。",
+      "start": 917.48,
+      "end": 923.64
+    },
+    {
+      "text": "up over the phone or maybe send an email saying, you know what? I don't want to see you anymore.",
+      "trans": "英语：上到电话或可能发邮件说，我知道了。我不想再见到你了。",
+      "start": 923.64,
+      "end": 928.28
+    },
+    {
+      "text": "Right. So I'd be very curious to hear about you guys and your cultures and what happens when",
+      "trans": "正确。所以我很想知道你们的朋友们和你们的文化，以及你们在发生什么时会发生什么。",
+      "start": 928.28,
+      "end": 932.6
+    },
+    {
+      "text": "people break up where you live. So let us know. Our website is englishpa.com. We hope to see you there.",
+      "trans": "人们在你住的地方分手。所以请告诉我们。我们的网站是englishpa.com。我们希望在这里见到您。",
+      "start": 932.6,
+      "end": 938.6
+    },
+    {
+      "text": "And of course, we hope that you haven't had any very bad backup experiences. But if you're comfortable",
+      "trans": "当然，我们希望您没有经历过非常糟糕的备份体验。不过如果您是舒适的，那我们就继续讨论吧。",
+      "start": 938.6,
+      "end": 942.6
+    },
+    {
+      "text": "sharing, we'd like to hear about your culture and your background. All right. So we'll see you guys there. Bye. Bye.",
+      "trans": "分享，我们想听听您的文化背景和背景。行吗？再见！再见！",
+      "start": 942.6,
+      "end": 946.9200000000001
+    }
+  ]
+}
