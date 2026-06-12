@@ -1,0 +1,782 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.5,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco. My name is Catherine and today",
+        "chinese": "你好大家，欢迎来到英语pod。我的名字是Marco。我的名字是Catherine，今天"
+    },
+    {
+        "start": 7.5,
+        "end": 12.48,
+        "english": "we've got another lesson all about food and eating. So today we're going to talk about",
+        "chinese": "我们今天将谈论食物和饮食。所以，今天我们将会讨论。"
+    },
+    {
+        "start": 12.48,
+        "end": 16.96,
+        "english": "all the tools that we use when we're at the table. So what we use when we're eating.",
+        "chinese": "当你在桌子前时，我们用的所有工具。那么我们在吃的时候用的是什么？"
+    },
+    {
+        "start": 16.96,
+        "end": 21.06,
+        "english": "That's right. So let's take a listen to today's dialogue and when we come back we'll talk",
+        "chinese": "没错。我们先听听今天的对话，回来的时候我们就聊起来吧。"
+    },
+    {
+        "start": 21.06,
+        "end": 24.16,
+        "english": "about some of these words and some of the great phrases you're learning today.",
+        "chinese": "关于这些单词和今天学的一些好短语。"
+    },
+    {
+        "start": 30.56,
+        "end": 35.44,
+        "english": "Honey, can you set the table? Well I'm sure. What are we having for dinner? Do I need to put",
+        "chinese": "亲爱的，你能摆桌子吗？我确定可以的。晚餐吃什么？我需要把什么放在那里？"
+    },
+    {
+        "start": 35.44,
+        "end": 40.08,
+        "english": "anything out in particular? Well make sure to put out the pepper and salt shakers. I don't know if",
+        "chinese": "什么特别的？记得放点儿盐和胡椒吧。我不清楚"
+    },
+    {
+        "start": 40.08,
+        "end": 45.44,
+        "english": "your brother is coming tonight so set an extra place mat just in case. Okay should I use the fancy",
+        "chinese": "你的哥哥今晚会来的，所以请提前准备好一个额外的地毯。你是否应该使用高级别的服务？"
+    },
+    {
+        "start": 45.44,
+        "end": 51.2,
+        "english": "silverware? Yeah go ahead. Forks, spoons and knives. I roasted some meat so be sure to put out",
+        "chinese": "英文：刀叉？好啊， forks, spoons and knives. 我烤了些肉，所以请务必把餐巾纸放好。"
+    },
+    {
+        "start": 51.2,
+        "end": 55.519999999999996,
+        "english": "some steak knives as well. I'll also set some cups and sauces for some coffee after dinner.",
+        "chinese": "还有一些牛排刀。我会在晚餐后也准备一些杯子和酱料。"
+    },
+    {
+        "start": 56.400000000000006,
+        "end": 60.56,
+        "english": "Honey, have you seen our soup bowls? During the cupboard where you keep the gravy boat",
+        "chinese": "英语：它是一只傻瓜相机。"
+    },
+    {
+        "start": 60.56,
+        "end": 65.36,
+        "english": "and serving dishes just be careful because the wine glasses are also there. Oops.",
+        "chinese": "对不起，吃饭的时候也要小心哦，因为酒杯也在这里。"
+    },
+    {
+        "start": 71.60000000000001,
+        "end": 75.84,
+        "english": "All right we're back so now let's take a look at a couple of words in language takeaway.",
+        "chinese": "好的，我们已经回来。现在让我们看看语言小贴士中的几个单词。"
+    },
+    {
+        "start": 78.0,
+        "end": 84.64,
+        "english": "Language takeaway. So our first word is a very important one. You might have heard it before. The",
+        "chinese": "语言总结。所以我们的第一个单词非常重要。你可能已经听过它了。"
+    },
+    {
+        "start": 84.64,
+        "end": 91.2,
+        "english": "word is silverware. Okay silverware. Now this means that it's usually made something that's made",
+        "chinese": "字是餐具。好的，餐具。现在这个意味着通常是由某种东西制成的。"
+    },
+    {
+        "start": 91.2,
+        "end": 95.68,
+        "english": "out of silver right? It could be. Maybe traditionally it's made out of silver but it doesn't have to be.",
+        "chinese": "是吗？可能是。也许传统上它是由银制成的，但并不一定如此。"
+    },
+    {
+        "start": 95.68,
+        "end": 102.72,
+        "english": "You could have wooden silverware or other metals. It's basically the things that you use to eat",
+        "chinese": "你也可以有木头的银器或者其他金属。基本上就是用来吃饭的东西。"
+    },
+    {
+        "start": 102.72,
+        "end": 108.48,
+        "english": "food with. Okay so we're going to take this as a category. Silverware are all the tools that we",
+        "chinese": "食品的工具，我们叫它们银餐具。"
+    },
+    {
+        "start": 108.48,
+        "end": 116.4,
+        "english": "use to eat food with and in this so for example a fork is some a part of a silverware. It's a",
+        "chinese": "用它来吃食物，比如叉子是餐具的一部分。"
+    },
+    {
+        "start": 116.4,
+        "end": 123.04,
+        "english": "kind of silverware fork. A fork is the one that you usually put in your mouth with a piece of lettuce",
+        "chinese": "一把类似银叉的勺子。你通常用一块小土豆放在嘴里，然后用勺子舀取食物。"
+    },
+    {
+        "start": 123.04,
+        "end": 129.52,
+        "english": "or meat or something. Okay so it's pointy it has like four little points. Now the one that we use",
+        "chinese": "英语：或者肉或者什么。现在我们使用的是点和线。"
+    },
+    {
+        "start": 129.52,
+        "end": 136.8,
+        "english": "to have dessert or to have soup with we call that a spoon. A spoon that's right so to eat yogurt or",
+        "chinese": "将这句话翻译成中文，可以得到："
+    },
+    {
+        "start": 136.8,
+        "end": 143.60000000000002,
+        "english": "ice cream you use a spoon and finally to cut things you use a knife. Okay so in the dialogue we",
+        "chinese": "冰淇淋你用勺子吃，最后切东西你用刀。好的，那么在对话中……"
+    },
+    {
+        "start": 143.60000000000002,
+        "end": 150.56,
+        "english": "saw the plural form knives but singular it would be knife. That's right and sometimes there are",
+        "chinese": "我看到了单数形式的刀子，但看到的是单数。对了，有时候会有错误。"
+    },
+    {
+        "start": 150.56,
+        "end": 156.0,
+        "english": "foods that are very very hard to cut. For example steak is very hard to cut because it's it's a",
+        "chinese": "非常非常难切的食物。例如牛肉，因为它的质地很硬，很难切断。"
+    },
+    {
+        "start": 156.0,
+        "end": 162.16000000000003,
+        "english": "tough meat and so in that case we use a steak knife to cut it. Okay so we have a knife or a steak",
+        "chinese": "英语：这是一把点和拍相机。"
+    },
+    {
+        "start": 162.32,
+        "end": 168.88,
+        "english": "knife. Steak knife more specifically is used to cut meats. Alright so these are three kinds or",
+        "chinese": "刀。更具体地说，这种刀是用来切肉的。好的，这些是三种类型或者"
+    },
+    {
+        "start": 168.88,
+        "end": 174.24,
+        "english": "actually four kinds of silverware. Of course there are other kinds but those are the most important.",
+        "chinese": "实际上有四种银器。当然还有其他种类，但这些都是最重要的。"
+    },
+    {
+        "start": 174.24,
+        "end": 178.8,
+        "english": "After that that we have something that's important for making your food taste better. So what if I",
+        "chinese": "好的，那我们有什么对食物口感有好处的东西呢？比如说我"
+    },
+    {
+        "start": 178.8,
+        "end": 184.56,
+        "english": "want to add salt or pepper? What are those things called? Those are called salt and pepper shakers. We",
+        "chinese": "我想加点盐还是吗？这些东西叫什么？叫盐和味精勺子。"
+    },
+    {
+        "start": 184.56,
+        "end": 190.8,
+        "english": "saw them in the dialogue that we need to put out the pepper and salt shakers. So the little thing",
+        "chinese": "我们对话中看到，需要把调味瓶和盐罐拿出来。所以那个小东西"
+    },
+    {
+        "start": 190.8,
+        "end": 197.12,
+        "english": "where you keep the salt is called a shaker. That's right because the action the verb is to shake.",
+        "chinese": "盐罐里藏着的，就是个调香瓶。没错，因为这个动作是摇晃。"
+    },
+    {
+        "start": 197.12,
+        "end": 202.96,
+        "english": "That means moving your hand up and down so some salt will fall out onto your food. Exactly so usually",
+        "chinese": "这意味着你的手要上下移动，让一些盐掉到你的食物上。通常就是这样。"
+    },
+    {
+        "start": 202.96,
+        "end": 208.4,
+        "english": "it's only salt and pepper that we keep in these things and these little shakers. But apart from",
+        "chinese": "这些里面只有盐和黑胡椒，除了……"
+    },
+    {
+        "start": 208.4,
+        "end": 213.68,
+        "english": "salt and pepper shakers when all the silverware we're putting out we're also putting out some",
+        "chinese": "当我们把所有的银器都拿出来的时候，我们也放了一些盐和胡椒的调料。"
+    },
+    {
+        "start": 213.68,
+        "end": 218.8,
+        "english": "saucers because we're going to have coffee later on. Oh say okay so this normally goes together with",
+        "chinese": "好吧，因为我们要后来喝咖啡。哦，好的，通常就是这样一起的"
+    },
+    {
+        "start": 218.8,
+        "end": 224.08,
+        "english": "cups, cups and saucers but everyone knows what a cup is. What is a saucer? So a saucer is this",
+        "chinese": "杯子，杯子和盘子，但大家都知道什么是一杯。那么是什么是盘子？所以盘子就是这个。"
+    },
+    {
+        "start": 224.08,
+        "end": 229.28,
+        "english": "little plate that you put under the cup when you're having coffee so usually that's where you keep",
+        "chinese": "小杯子底下放的小碟子，一般就是用来装咖啡的。"
+    },
+    {
+        "start": 229.28,
+        "end": 234.88000000000002,
+        "english": "your spoon or maybe the little bag of tea. Okay so a saucer is important because it also helps",
+        "chinese": "你的勺子或者可能是那个小茶杯。嗯，汤匙非常重要，因为它也帮助了。"
+    },
+    {
+        "start": 234.88000000000002,
+        "end": 240.48000000000002,
+        "english": "in case you spill some coffee or tea so the coffee or tea doesn't go on the ground it goes on the",
+        "chinese": "在case，你如果不小心洒了一些咖啡或茶，那么它们会掉在地上。"
+    },
+    {
+        "start": 240.48000000000002,
+        "end": 246.8,
+        "english": "plate. Exactly so that little plate is called a saucer. Now where do we keep all the plates? All the",
+        "chinese": "当然，小碟子也叫碗。现在我们怎么保管所有这些盘子？"
+    },
+    {
+        "start": 246.8,
+        "end": 253.60000000000002,
+        "english": "silverware we usually keep them in a cupboard. Okay so you might want to say cup board because it's",
+        "chinese": "银器通常放在橱柜里。嗯，你可能想说“柜子”，因为这是正确的。"
+    },
+    {
+        "start": 253.60000000000002,
+        "end": 262.08000000000004,
+        "english": "cup C U P B O A R D that's not right. The word is pronounced cupboard. Okay so even though it may",
+        "chinese": "英语：它不是一个点和拍的相机。"
+    },
+    {
+        "start": 262.08000000000004,
+        "end": 268.48,
+        "english": "seem like you should pronounce cup board the correct pronunciation is cupboard cupboard cupboard",
+        "chinese": "听起来你应该把“cupboard”发音正确，正确的发音是“cup-ber-duck”。"
+    },
+    {
+        "start": 268.48,
+        "end": 274.40000000000003,
+        "english": "and a cupboard like you said is usually in the dining room or the kitchen because it houses it keeps",
+        "chinese": "和一个像你所说的橱柜通常在餐厅或厨房里，因为它是储物的地方。"
+    },
+    {
+        "start": 274.4,
+        "end": 280.23999999999995,
+        "english": "all of our plates and bowls and sometimes our silverware. That's right okay so actually in the",
+        "chinese": "我们的所有餐具和一些银器。正确，所以实际上在。"
+    },
+    {
+        "start": 280.23999999999995,
+        "end": 287.12,
+        "english": "cupboard we also have some other things dishes. Specifically we have a gravy boat in there. Okay so I'm",
+        "chinese": "厨房里我们还有一些其他东西，比如盘子。具体来说，我们有一个汤匙在那儿。嗯，我现在就上楼了。"
+    },
+    {
+        "start": 287.12,
+        "end": 293.91999999999996,
+        "english": "not even sure why they call it a boat but a gravy boat is basically a special dish. It's like us it's",
+        "chinese": "不，我甚至不确定为什么他们叫它船，但一个汤船基本上是一个特别的菜肴。就像我们一样，它就是"
+    },
+    {
+        "start": 293.91999999999996,
+        "end": 301.2,
+        "english": "like a tall bowl with a spout so you can pour it that keeps gravy so gravy is like a liquid or a sauce",
+        "chinese": "英语：像一个高脚杯，你可以在上面倒入那里的汤，汤就像液体或酱汁一样。"
+    },
+    {
+        "start": 301.2,
+        "end": 307.12,
+        "english": "that goes on top of meat or potatoes. I guess it kind of looks like a boat just imagine a boat",
+        "chinese": "那有点像一艘船，不过它看起来更像是个点和拍的机器。"
+    },
+    {
+        "start": 307.12,
+        "end": 311.92,
+        "english": "but inside it's empty so then that's where you put the gravy in. You pour it you can pour it.",
+        "chinese": "但是里面空着，所以你在这里放点糖。你可以倒，也可以倒。"
+    },
+    {
+        "start": 311.92,
+        "end": 317.03999999999996,
+        "english": "All right and so we can find that we can also find serving dishes which are basically big plates or",
+        "chinese": "好的，我们来看一下可以找到的基本上是大碟子或者是餐具的东西。"
+    },
+    {
+        "start": 317.03999999999996,
+        "end": 322.8,
+        "english": "bowls that we use when we're having dinner at the dinner table to keep for example a turkey or a",
+        "chinese": "我们吃饭时放在餐桌上的碗，用来比如保存一只火鸡的。"
+    },
+    {
+        "start": 322.8,
+        "end": 329.36,
+        "english": "roast. And specifically we were also looking for wine glasses. Well maybe we weren't looking for",
+        "chinese": "烤鸡。而且我们确实也在找酒杯。也许我们根本没有在找。"
+    },
+    {
+        "start": 329.44,
+        "end": 335.2,
+        "english": "them but they found us because the person getting stuff out of the cupboard dropped some wine glasses.",
+        "chinese": "他们但他们在橱柜里拿东西的时候，有人把酒杯摔坏了。"
+    },
+    {
+        "start": 335.2,
+        "end": 342.56,
+        "english": "These are very very easy to break. Wine glasses are basically just glasses that maybe are tall",
+        "chinese": "这些很容易碎裂。酒杯基本上就是玻璃杯，可能只是高一些。"
+    },
+    {
+        "start": 342.56,
+        "end": 347.92,
+        "english": "and you drink wine out of them. That's right so there's specific type of glass usually used to",
+        "chinese": "和你喝红酒的时候，他们用这些瓶子。那通常用来专门制作玻璃的瓶子。"
+    },
+    {
+        "start": 347.92,
+        "end": 354.40000000000003,
+        "english": "drink wine so wine glasses I guess. A normal glass that you used to drink maybe juice or water",
+        "chinese": "喝红酒，所以我的酒杯。我以前用来喝水或者果汁的杯子。"
+    },
+    {
+        "start": 354.47999999999996,
+        "end": 358.56,
+        "english": "is just called a glass. Right you wouldn't say wine glass only when you're drinking wine.",
+        "chinese": "对，当你要喝葡萄酒的时候，你不会只叫它葡萄酒杯。"
+    },
+    {
+        "start": 359.59999999999997,
+        "end": 364.71999999999997,
+        "english": "Okay so we've taken a look at a lot of vocab here a lot of tools that we use at the dinner table",
+        "chinese": "好的，我们已经看了很多词汇和工具在这里使用了很多。"
+    },
+    {
+        "start": 364.71999999999997,
+        "end": 368.64,
+        "english": "when we're having dinner so let's listen to the dialogue again and review.",
+        "chinese": "当我们吃晚饭的时候，让我们再听听对话，好好复习一下。"
+    },
+    {
+        "start": 373.59999999999997,
+        "end": 378.96,
+        "english": "Honey can you set the table? Sure what are we having for dinner? Do I need to put anything out in",
+        "chinese": "英语：蜜能你摆桌子吗？我们今晚吃什么？我需要在哪儿放点东西。"
+    },
+    {
+        "start": 378.96,
+        "end": 383.67999999999995,
+        "english": "particular? Well make sure to put out the pepper and salt shakers. I don't know if your brother is",
+        "chinese": "特别吗？一定要把调料盒放好。我不太知道你的哥哥是不是有辣椒和盐。"
+    },
+    {
+        "start": 383.68,
+        "end": 389.2,
+        "english": "coming tonight so is that an extra place Matt just in case? Okay should I use the fancy silverware?",
+        "chinese": "英语：今晚有空，那张桌子是特地为Matt准备的吗？嗯，我应该使用精致的银盘。"
+    },
+    {
+        "start": 389.2,
+        "end": 395.2,
+        "english": "Yeah go ahead. Forks, spoons and knives. I roasted some meat so be sure to put out some steak knives",
+        "chinese": "是的，可以。请开始。切菜刀、叉子和刀片。我烤了一些肉，所以请确保把一些钢丝钳放好。"
+    },
+    {
+        "start": 395.2,
+        "end": 400.8,
+        "english": "as well. I also set some cups and sauces for some coffee after dinner. Honey have you seen our",
+        "chinese": "英语：也。我还为晚餐后的一些咖啡准备了一些杯子和酱料。你有没有看到我们的咖啡？"
+    },
+    {
+        "start": 400.8,
+        "end": 405.2,
+        "english": "soup bowls? They're in the cupboard where you keep the gravy boat and serving dishes just be careful",
+        "chinese": "碗？它们在你用来放黄油勺子和餐具的地方。小心点吧。"
+    },
+    {
+        "start": 405.2,
+        "end": 408.8,
+        "english": "because the wine glasses are also the... oops!",
+        "chinese": "因为酒杯也是……哦！"
+    },
+    {
+        "start": 413.2,
+        "end": 418.64,
+        "english": "All right we're back so now we have four key phrases that we've prepared for you on fluency builder.",
+        "chinese": "好的，我们已经回来。现在，我们有四个关键短语，您可以在“流利.builder”中找到它们。"
+    },
+    {
+        "start": 420.71999999999997,
+        "end": 426.4,
+        "english": "Fluency builder. Okay so this first phrase is very important especially as a child your mother",
+        "chinese": "好的，这个短语非常重要，特别是作为一个孩子，你的妈妈也很重要。"
+    },
+    {
+        "start": 426.4,
+        "end": 433.36,
+        "english": "or father might ask you to do this the phrase is to set the table. Okay so that's a frazel verb to",
+        "chinese": "英语：或者父亲可能会让你去执行这个。"
+    },
+    {
+        "start": 433.36,
+        "end": 439.12,
+        "english": "set the table and what does it mean if you're asked to set the table? It means you will put down the",
+        "chinese": "设置餐桌意味着你将放下什么？这表示你会把桌子放下来。"
+    },
+    {
+        "start": 439.12,
+        "end": 445.68,
+        "english": "plates and the silverware and the bowls so that everything is prepared for dinner. Okay so this is",
+        "chinese": "餐具和盘子，以便于晚餐的准备。好了，这就是这个了。"
+    },
+    {
+        "start": 445.68,
+        "end": 451.12,
+        "english": "actually what we were doing and a complimentary frazel verb to this when you're setting the table as",
+        "chinese": "我们其实正在做的事情，还有免费赠送的餐桌礼仪时的一个补充动作。"
+    },
+    {
+        "start": 451.12,
+        "end": 458.64,
+        "english": "you said you are putting down or putting out the different spoons knives dishes all that stuff.",
+        "chinese": "你刚才说你把不同的勺子、刀叉、盘子等全放下来了。"
+    },
+    {
+        "start": 458.64,
+        "end": 465.36,
+        "english": "Right so the verb to the verbal phrase to put out means to place down or to to make sure that you",
+        "chinese": "正确。"
+    },
+    {
+        "start": 465.36,
+        "end": 471.36,
+        "english": "get something out on the table. In this case my mother would usually ask me to put out extra glasses",
+        "chinese": "把事情摆上桌面。这次我妈妈通常会让我多端几杯酒。"
+    },
+    {
+        "start": 471.36,
+        "end": 475.91999999999996,
+        "english": "for water okay or don't forget to put out the wine glasses in case we're drinking wine it just",
+        "chinese": "没问题哦，记得把酒杯擦干净以防万一我们要喝红酒。"
+    },
+    {
+        "start": 475.91999999999996,
+        "end": 481.84,
+        "english": "means to place down. Exactly so just remember that it's we use it because all these things that are",
+        "chinese": "意思是放下。当然就是这样，记住是因为我们用它是因为这些事情都是汉语。"
+    },
+    {
+        "start": 481.84,
+        "end": 487.68,
+        "english": "inside the cupboard so you have to take them out so you have to put them out on the table. All right and",
+        "chinese": "好的，柜子里的，你得拿出来放在桌子上。好了。"
+    },
+    {
+        "start": 488.24,
+        "end": 495.92,
+        "english": "sometimes we may have a guest or we may need an extra chair or an extra seat because we were having",
+        "chinese": "有时候我们可能会有客人，或者我们需要额外的椅子或者是座位。"
+    },
+    {
+        "start": 495.92,
+        "end": 504.16,
+        "english": "company and the person in dialogue said to set an extra placemat just in case. Okay so placemat",
+        "chinese": "公司和对话中的那个人说，如果需要的话，可以在桌子上额外放一张。嗯，这张桌子。"
+    },
+    {
+        "start": 504.16,
+        "end": 510.32,
+        "english": "is basically a piece of plastic or maybe fabric that you put in front of a person when they're at",
+        "chinese": "基本上是一个塑料或可能的布料，当你把一个人放在前面时。"
+    },
+    {
+        "start": 510.32,
+        "end": 516.72,
+        "english": "the table so it's on the table and it's something that protects the table so it's small everyone has",
+        "chinese": "这张桌子，放在桌子上，它是一种保护桌子的东西，所以很小，每个人都有。"
+    },
+    {
+        "start": 516.72,
+        "end": 521.6800000000001,
+        "english": "one and the bowl and the silverware will go on top of that placemat but it also indicates that",
+        "chinese": "一和盘子和刀叉会放在那个餐巾上，但同时也表明了"
+    },
+    {
+        "start": 521.6800000000001,
+        "end": 529.2,
+        "english": "that is where someone will sit. Okay so to put out or to set out an extra placemat means to prepare",
+        "chinese": "那就是你会坐的地方。好的，放一个或者摆一个额外的桌布的意思是准备起来。"
+    },
+    {
+        "start": 529.2,
+        "end": 534.1600000000001,
+        "english": "an extra place for someone else who will be coming. So if you have a guest for example you'll set out",
+        "chinese": "英语：额外的地方，以便有客人。例如，如果你有一个客人，你就会出发。"
+    },
+    {
+        "start": 534.1600000000001,
+        "end": 539.84,
+        "english": "an extra placemat for him or for her. Okay so we can say set an extra placemat because this is",
+        "chinese": "一个额外的盘子，比如给他或她。好吧，我们可以说把一个额外的盘子放在这里，因为这是必要的。"
+    },
+    {
+        "start": 539.84,
+        "end": 546.08,
+        "english": "by this we are referring that somebody is going to sit down at the table or you can just simply say",
+        "chinese": "我们指的是某人要坐下来吃饭，或者你可以直接说"
+    },
+    {
+        "start": 546.08,
+        "end": 550.4000000000001,
+        "english": "set an extra place for someone. That's right set an extra place your older brother is coming home",
+        "chinese": "为某人预留一张桌子。没错，给你的哥哥安排一张桌子他回家了。"
+    },
+    {
+        "start": 550.4000000000001,
+        "end": 556.4000000000001,
+        "english": "from college tonight. Okay so we can set an extra place for him at the table and well in this case we",
+        "chinese": "从今晚起，我们可以在桌子边多留一个座位。在这一例中，我们可以将桌子边的空位视为额外的位置，以便他能更好地融入环境。"
+    },
+    {
+        "start": 556.4000000000001,
+        "end": 562.5600000000001,
+        "english": "didn't know if the brother was really coming or not so she said just in case. This is a great phrase",
+        "chinese": "英语：她不知道这个兄弟是不是真的来了，所以她说了一句\"万一\"。这是个好句法。"
+    },
+    {
+        "start": 562.5600000000001,
+        "end": 567.9200000000001,
+        "english": "one that you'll hear all the time it means I'm not sure what the result will be or what the outcome",
+        "chinese": "我并不确定结果或结局会是什么。"
+    },
+    {
+        "start": 567.9200000000001,
+        "end": 574.8000000000001,
+        "english": "will be but in case something happens or just in case we should do this. So for example Marco I think",
+        "chinese": "会是的，以防万一或者只是万一我们需要这么做。比如说，Marco，我认为"
+    },
+    {
+        "start": 574.8,
+        "end": 580.0799999999999,
+        "english": "it's going to rain today you should bring an umbrella just in case. Okay so this is a way of saying",
+        "chinese": "英语：今天会下雨，你最好带把雨伞。嗯，这就是说，这是一种表示方式。"
+    },
+    {
+        "start": 580.64,
+        "end": 585.8399999999999,
+        "english": "you're preventing something you're prepared maybe if it does rain you'll have an umbrella just in case",
+        "chinese": "你是为了防止万一下雨，准备了把伞。"
+    },
+    {
+        "start": 585.8399999999999,
+        "end": 592.0799999999999,
+        "english": "bring your umbrella. Okay so a lot of great phrases there a lot of vocab so why don't we listen to",
+        "chinese": "带伞。嗯，这么多好词啊，为什么不听一听？"
+    },
+    {
+        "start": 592.0799999999999,
+        "end": 604.0,
+        "english": "the dialogue for the last time. Honey can you set the table? Well I'm sure what are we having for dinner?",
+        "chinese": "英语：对话的最后。蜜，你能把桌子摆好吗？嗯，我们今晚吃什么呢？"
+    },
+    {
+        "start": 604.8,
+        "end": 608.88,
+        "english": "Do I need to put anything out in particular? Well make sure to put out the pepper and salt",
+        "chinese": "你有必要特别公布什么内容吗？确保放上盐和胡椒就好了。"
+    },
+    {
+        "start": 608.88,
+        "end": 613.28,
+        "english": "shakers I don't know if your brother is coming tonight so set an extra place match just in case.",
+        "chinese": "我还没确定你哥哥今晚会不会来，所以设个备用的位置吧。"
+    },
+    {
+        "start": 614.0,
+        "end": 620.0799999999999,
+        "english": "Okay should I use the fancy silverware? Yeah go ahead fork spoons and knives I roasted some meat",
+        "chinese": "英语：嗯，我该用那个高级银器吗？好啊，没问题，你先切肉，再切刀和叉子。"
+    },
+    {
+        "start": 620.0799999999999,
+        "end": 624.88,
+        "english": "so be sure to put out some steak knives as well. I'll also set some cups and sauces for some coffee",
+        "chinese": "所以，请务必准备好一些刀具，我也会为一些咖啡准备一些汤匙和酱料。"
+    },
+    {
+        "start": 624.88,
+        "end": 630.24,
+        "english": "after dinner. Honey have you seen our soup bowls? During the cupboard where you keep the gravy",
+        "chinese": "晚饭后。亲爱的，你看到我们的汤碗了吗？你在哪里放的汁啊？"
+    },
+    {
+        "start": 630.24,
+        "end": 635.2,
+        "english": "boat and serving dishes just be careful because the wine glasses are also the... Oop!",
+        "chinese": "小心啊，因为酒杯也是餐具之一。对了，忘记带筷子了呢！"
+    },
+    {
+        "start": 643.76,
+        "end": 648.72,
+        "english": "All right we're back so talking about dinner and silverware there are also a couple of other names",
+        "chinese": "好的，我们又开了。说到晚餐和餐具，还有一些其他的名字。"
+    },
+    {
+        "start": 648.72,
+        "end": 655.76,
+        "english": "that we didn't mention for example many people refer to ceramic plates as China. Yeah these are usually",
+        "chinese": "我们没有提到的例子中，很多人都把陶瓷盘子称为中国。是的，这些通常是中国的。"
+    },
+    {
+        "start": 656.3199999999999,
+        "end": 661.84,
+        "english": "the the fancy kinds of plates and dishes that you have in your house obviously if you have",
+        "chinese": "当然，你家里的漂亮餐具和盘子肯定不少吧。"
+    },
+    {
+        "start": 662.72,
+        "end": 668.48,
+        "english": "just kind of the cheap ceramics that you can throw away or even paper or paper plates those",
+        "chinese": "只是那种便宜的陶瓷，你扔掉都可以，甚至用纸或者纸盘子都是可以的。"
+    },
+    {
+        "start": 668.48,
+        "end": 674.48,
+        "english": "aren't very important but at a wedding or in a special occasion a person or a family might receive",
+        "chinese": "不是很重要，但在婚礼或者特殊场合，一个人或一个家庭可能会收到"
+    },
+    {
+        "start": 674.48,
+        "end": 682.24,
+        "english": "Chinaware China and that is very nice very pretty porcelain plates or or just lacquerware.",
+        "chinese": "瓷器中国，那真是太漂亮了。只是普通的瓷盘或者漆器。"
+    },
+    {
+        "start": 682.24,
+        "end": 688.96,
+        "english": "Okay so you can call it Chinaware which is basically plates that are either very fine ceramic",
+        "chinese": "好的，你可以说成“瓷器餐具”，其实就是非常精美的陶瓷盘子。"
+    },
+    {
+        "start": 688.96,
+        "end": 693.52,
+        "english": "or porcelain as you said. That's right. What was the other word that you said before? lacquerware.",
+        "chinese": "英语：或者像你所说的那样。没错，你说的其他单词之前是什么意思？漆器。"
+    },
+    {
+        "start": 693.52,
+        "end": 699.2,
+        "english": "Lacquerware is a certain certain kind of plate or ceramic that has a kind of sheen to it it's",
+        "chinese": "漆器是一种特定的盘子或陶瓷，它有一种光泽。"
+    },
+    {
+        "start": 699.2,
+        "end": 706.5600000000001,
+        "english": "very it's got a special kind of basically paint job. Oh okay yeah because it's always been kind of",
+        "chinese": "英语：它非常有这种基本的风格。哦，对了，因为一直都是这样。"
+    },
+    {
+        "start": 707.28,
+        "end": 713.76,
+        "english": "strange the fact that a name like China would also now be related to plates but apparently I guess",
+        "chinese": "英语：奇怪的是，现在这个名字像中国一样，也跟纸张有关，但似乎猜到的。"
+    },
+    {
+        "start": 713.76,
+        "end": 720.88,
+        "english": "because Chinese porcelain is renowned as being such high quality I guess this is why now we just",
+        "chinese": "因为中国的瓷器以这么高的质量闻名，我想这就是为什么现在我们就这样。"
+    },
+    {
+        "start": 720.88,
+        "end": 725.1199999999999,
+        "english": "have a word for it called China or Chinaware. I think it actually has to do with the fact that the",
+        "chinese": "中国有一个词叫“瓷器”，我觉得它实际上跟中国人用的瓷有关。"
+    },
+    {
+        "start": 726.0,
+        "end": 732.88,
+        "english": "Chinese and the old days sent sold well most of the British bought their porcelain from China",
+        "chinese": "中国和旧日的英国人，大部分都从中国购买瓷器。"
+    },
+    {
+        "start": 732.88,
+        "end": 738.16,
+        "english": "and so it was very very invoked it's very popular and it was basically the only thing that the",
+        "chinese": "这样，所以这事儿就非常火了。基本上就是中国唯一的东西吧。"
+    },
+    {
+        "start": 738.88,
+        "end": 744.24,
+        "english": "that the British wanted they just wanted all of this China and it became a part of the vocabulary then.",
+        "chinese": "那英国人想要的，他们只是想把这一切都变成中国的词汇。"
+    },
+    {
+        "start": 744.24,
+        "end": 748.08,
+        "english": "Yeah it's really strange though that you would that you would call something China it's like",
+        "chinese": "确实挺奇怪的，你竟然会叫它中国，就像是说啊"
+    },
+    {
+        "start": 748.72,
+        "end": 754.08,
+        "english": "I don't know any other country that you call something you know like French this is a French",
+        "chinese": "我不认识你叫法国的任何其他国家，这是法语。"
+    },
+    {
+        "start": 754.64,
+        "end": 761.28,
+        "english": "or Frenchware I don't know I can't think of any. Limog is a name of a city in France and it's a",
+        "chinese": "或者叫法国器皿，我不太知道。利莫是法国的一个城市，它是一个……"
+    },
+    {
+        "start": 761.28,
+        "end": 767.52,
+        "english": "certain kind of ceramics. Oh there you go. Alright so an interesting topic there are many other tools",
+        "chinese": "英文：它是一种特定类型的陶瓷。哦，好啊！所以，有趣的话题有很多其他工具。"
+    },
+    {
+        "start": 767.52,
+        "end": 773.92,
+        "english": "that we didn't mention like salad fork and and ice cream spoon and I don't know there's so many",
+        "chinese": "我们没有提到像叉子和冰淇淋勺这样的工具，我不知道这么多。"
+    },
+    {
+        "start": 773.92,
+        "end": 779.04,
+        "english": "as sometimes if you go to a fancy dinner you will have maybe three spoons three knives three",
+        "chinese": "根据您提供的信息，可以将这句话翻译成中文："
+    },
+    {
+        "start": 779.04,
+        "end": 783.68,
+        "english": "forks and you don't know what to do with it. Start on the outside and go in that's my recommendation.",
+        "chinese": "好吧，你不知道该怎么办。从外面开始，然后往里走是我的建议。"
+    },
+    {
+        "start": 783.68,
+        "end": 788.72,
+        "english": "Exactly so we're really curious to know what you have to say come to our website englishpot.com",
+        "chinese": "我们真的很想知道你有什么要说的，请访问我们的网站，网址是 EnglishPot.com"
+    },
+    {
+        "start": 788.72,
+        "end": 792.88,
+        "english": "if you have any questions you can leave them there or if you also want to suggest a topic for",
+        "chinese": "如果你有任何问题，可以在这里留下它们，或者如果你想提出一个话题。"
+    },
+    {
+        "start": 792.88,
+        "end": 796.8000000000001,
+        "english": "a lesson or anything you want just let us know. Alright we'll see you then. Alright bye.",
+        "chinese": "好的，我们见了。再见。"
+    }
+]

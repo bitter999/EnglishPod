@@ -1,0 +1,1466 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.8,
+        "english": "Hello English learners and welcome to another great lesson with us here at EnglishPod.",
+        "chinese": "你好，英语学习者，请欢迎来到我们这里为大家带来另一堂精彩的课程。"
+    },
+    {
+        "start": 6.8,
+        "end": 11.8,
+        "english": "My name is Marco and I'm Erica and today we're bringing you a great upper intermediate",
+        "chinese": "我的名字是马科，我是埃瑞克，今天我们将为您带来一个中上段的中级。"
+    },
+    {
+        "start": 11.8,
+        "end": 12.8,
+        "english": "lesson.",
+        "chinese": "课程。"
+    },
+    {
+        "start": 12.8,
+        "end": 13.8,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 13.8,
+        "end": 18.3,
+        "english": "We're going to talk about a topic that's been in the news recently and this topic is",
+        "chinese": "我们将在最近的话题上进行讨论，这个话题是"
+    },
+    {
+        "start": 18.3,
+        "end": 19.3,
+        "english": "the bird flu.",
+        "chinese": "鸟流感\" translates to \"禽流感\" in Chinese."
+    },
+    {
+        "start": 19.3,
+        "end": 20.3,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 20.3,
+        "end": 23.2,
+        "english": "So can you tell us what the bird flu really is?",
+        "chinese": "所以你能告诉我们禽流感到底是什么吗？"
+    },
+    {
+        "start": 23.2,
+        "end": 27.88,
+        "english": "Basically the story is a lot of chickens and birds keep getting this disease and they've",
+        "chinese": "基本故事是许多鸡和鸟感染了这种病，它们已经"
+    },
+    {
+        "start": 27.88,
+        "end": 33.68,
+        "english": "managed to pass this disease to humans and the fear is that humans will start to pass",
+        "chinese": "我成功地将这个疾病传给了人类，而恐惧是人类开始传播的。"
+    },
+    {
+        "start": 33.68,
+        "end": 38.36,
+        "english": "this disease to each other and a huge, huge number of people in the world could get really",
+        "chinese": "将此病传染给彼此，以及世界上的人数众多，将会真的非常。"
+    },
+    {
+        "start": 38.36,
+        "end": 39.36,
+        "english": "sick.",
+        "chinese": "在中文中，\"sick\" 的翻译是 \"病的\"。"
+    },
+    {
+        "start": 39.36,
+        "end": 40.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 40.36,
+        "end": 41.36,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 41.36,
+        "end": 42.36,
+        "english": "So it sounds scary.",
+        "chinese": "所以听起来很吓人。"
+    },
+    {
+        "start": 42.36,
+        "end": 45.8,
+        "english": "Well it may be a little bit scary but we do have some interesting language.",
+        "chinese": "嗯，这可能有点吓人，但我们确实有一些有趣的语言。"
+    },
+    {
+        "start": 45.8,
+        "end": 51.32,
+        "english": "We've got language to talk about a disease and language that you might use in a planning",
+        "chinese": "我们有语言来谈论疾病，还有你可能在规划时使用的语言。"
+    },
+    {
+        "start": 51.32,
+        "end": 52.32,
+        "english": "meeting at work.",
+        "chinese": "会议在工作场所。"
+    },
+    {
+        "start": 52.32,
+        "end": 53.32,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 53.32,
+        "end": 57.64,
+        "english": "So let's start by looking at our vocabulary preview for this dialogue.",
+        "chinese": "所以，我们先来看看这个对话的词汇预览。"
+    },
+    {
+        "start": 57.64,
+        "end": 59.64,
+        "english": "So vocabulary preview.",
+        "chinese": "所以词汇预览。"
+    },
+    {
+        "start": 59.64,
+        "end": 60.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 60.64,
+        "end": 64.96000000000001,
+        "english": "The first word on our vocabulary preview today is contingency plan.",
+        "chinese": "今天的词汇预览第一句话是“预备方案”。"
+    },
+    {
+        "start": 64.96000000000001,
+        "end": 65.96000000000001,
+        "english": "Contingency plan.",
+        "chinese": "应急计划。"
+    },
+    {
+        "start": 65.96000000000001,
+        "end": 66.96000000000001,
+        "english": "Contingency plan.",
+        "chinese": "应急计划。"
+    },
+    {
+        "start": 66.96000000000001,
+        "end": 68.44,
+        "english": "Contingency plan.",
+        "chinese": "应急计划。"
+    },
+    {
+        "start": 68.44,
+        "end": 74.52,
+        "english": "So a contingency plan is a plan that you make to prepare for an emergency.",
+        "chinese": "所以，一个应急计划是指你为应对突发事件而制定的计划。"
+    },
+    {
+        "start": 74.52,
+        "end": 76.2,
+        "english": "So like a backup plan.",
+        "chinese": "所以，就像备份计划。"
+    },
+    {
+        "start": 76.2,
+        "end": 77.2,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 77.2,
+        "end": 78.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 78.2,
+        "end": 79.2,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 79.2,
+        "end": 83.6,
+        "english": "And our last word for the vocabulary preview today is pandemic.",
+        "chinese": "今天词汇预览的最后一句话是“流行病”。"
+    },
+    {
+        "start": 83.6,
+        "end": 84.6,
+        "english": "Pandemic.",
+        "chinese": "疫情。"
+    },
+    {
+        "start": 84.6,
+        "end": 85.6,
+        "english": "Pandemic.",
+        "chinese": "疫情。"
+    },
+    {
+        "start": 85.6,
+        "end": 86.6,
+        "english": "Pandemic.",
+        "chinese": "疫情。"
+    },
+    {
+        "start": 86.6,
+        "end": 88.24,
+        "english": "Pandemic is something scary.",
+        "chinese": "疫情是件可怕的事情。"
+    },
+    {
+        "start": 88.24,
+        "end": 89.24,
+        "english": "Well yes.",
+        "chinese": "是的，很好。"
+    },
+    {
+        "start": 89.24,
+        "end": 94.47999999999999,
+        "english": "It's an event where a disease affects a lot of people like we're talking millions of",
+        "chinese": "这是一个影响很多人，像我们正在谈论数百万人的事件。"
+    },
+    {
+        "start": 94.47999999999999,
+        "end": 95.47999999999999,
+        "english": "people.",
+        "chinese": "人们。 (Rén rú.)"
+    },
+    {
+        "start": 95.47999999999999,
+        "end": 96.47999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 96.47999999999999,
+        "end": 100.67999999999999,
+        "english": "And it spreads very quickly and it goes international.",
+        "chinese": "而且传播得很快，它很快就走向世界。"
+    },
+    {
+        "start": 100.67999999999999,
+        "end": 101.67999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 101.67999999999999,
+        "end": 104.88,
+        "english": "So a disease that spreads very fast and goes everywhere.",
+        "chinese": "所以一种非常迅速且到处流行的病。"
+    },
+    {
+        "start": 104.88,
+        "end": 105.88,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 105.88,
+        "end": 106.88,
+        "english": "Pandemic.",
+        "chinese": "疫情。"
+    },
+    {
+        "start": 106.88,
+        "end": 107.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 107.88,
+        "end": 109.36,
+        "english": "So we're ready to listen to our dialogue.",
+        "chinese": "所以我们准备好倾听我们的对话。"
+    },
+    {
+        "start": 109.36,
+        "end": 114.52,
+        "english": "We are going to be at a business meeting where people are talking about a contingency plan.",
+        "chinese": "我们将参加一个商务会议，讨论一个应急计划。"
+    },
+    {
+        "start": 116.6,
+        "end": 123.24,
+        "english": "Well, right.",
+        "chinese": "正确翻译为中文是："
+    },
+    {
+        "start": 123.24,
+        "end": 126.56,
+        "english": "Let's move to our next order of business.",
+        "chinese": "让我们转到我们的下一个业务。"
+    },
+    {
+        "start": 126.56,
+        "end": 132.35999999999999,
+        "english": "As many of you are aware in recent weeks there has been a lot of media coverage surrounding",
+        "chinese": "在最近的几周里，有许多媒体关注焦点围绕着中国。"
+    },
+    {
+        "start": 132.35999999999999,
+        "end": 134.95999999999998,
+        "english": "this bird flu issue.",
+        "chinese": "这个禽流感问题。"
+    },
+    {
+        "start": 134.95999999999998,
+        "end": 140.79999999999998,
+        "english": "And it's come to my attention that our company lacks any sort of bird flu contingency plan.",
+        "chinese": "并且我注意到我们的公司缺乏任何鸟类流感的应急计划。"
+    },
+    {
+        "start": 140.79999999999998,
+        "end": 143.64,
+        "english": "Basically, we need to come up with a clear plan.",
+        "chinese": "基本来说，我们需要制定一个明确的计划。"
+    },
+    {
+        "start": 143.64,
+        "end": 147.79999999999998,
+        "english": "We need to outline specific actions that our company can take to maintain critical business",
+        "chinese": "我们有必要制定具体的行动来维护我们的公司，以确保关键业务的持续性。"
+    },
+    {
+        "start": 147.79999999999998,
+        "end": 151.32,
+        "english": "functions in case a pandemic strikes.",
+        "chinese": "在面对一场大流行病时，函数在此类情况下适用。"
+    },
+    {
+        "start": 151.32,
+        "end": 156.95999999999998,
+        "english": "So what I'd like to do is first appoint someone to look after drafting our plan.",
+        "chinese": "所以我想首先任命一个人来负责起草我们的计划。"
+    },
+    {
+        "start": 156.95999999999998,
+        "end": 160.07999999999998,
+        "english": "Ralph, I'd like you to head up this project.",
+        "chinese": "李安，我让你负责这个项目。"
+    },
+    {
+        "start": 160.07999999999998,
+        "end": 161.07999999999998,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 161.07999999999998,
+        "end": 162.07999999999998,
+        "english": "No problem.",
+        "chinese": "没问题。"
+    },
+    {
+        "start": 162.07999999999998,
+        "end": 163.07999999999998,
+        "english": "What issues do you want me to consider?",
+        "chinese": "您想考虑哪些问题？"
+    },
+    {
+        "start": 163.07999999999998,
+        "end": 164.07999999999998,
+        "english": "Well, let's see.",
+        "chinese": "好的，让我们看看。"
+    },
+    {
+        "start": 164.07999999999998,
+        "end": 167.2,
+        "english": "There are a few points we need to be thinking about.",
+        "chinese": "我们有必要考虑以下几点。"
+    },
+    {
+        "start": 167.2,
+        "end": 172.2,
+        "english": "First, I'll need you to analyse our numbers and figure out what kind of financial impact",
+        "chinese": "首先，我需要你分析我们的数据并找出哪种财务影响。"
+    },
+    {
+        "start": 172.2,
+        "end": 173.6,
+        "english": "and outbreak I have.",
+        "chinese": "和疫情我有。"
+    },
+    {
+        "start": 173.6,
+        "end": 179.16,
+        "english": "You will also need to think about how we can avoid any of our employees getting infected.",
+        "chinese": "您还需要考虑如何避免我们的员工感染。"
+    },
+    {
+        "start": 179.16,
+        "end": 184.76,
+        "english": "Think of ways to reduce employee customer contact, perhaps some IT solutions that will allow",
+        "chinese": "思考如何减少员工与客户的接触，或许可以考虑一些IT解决方案，这些方案将允许"
+    },
+    {
+        "start": 184.76,
+        "end": 187.28,
+        "english": "our people to work from home.",
+        "chinese": "我们的人民将居家办公。"
+    },
+    {
+        "start": 187.28,
+        "end": 191.2,
+        "english": "I guess you'll need me to forecast employee absence as well, right?",
+        "chinese": "我猜你还需要我预测员工缺勤吗？"
+    },
+    {
+        "start": 191.2,
+        "end": 194.32,
+        "english": "And I'll think about the impact this will have on our clients.",
+        "chinese": "我将考虑这个对我们的客户产生的影响。"
+    },
+    {
+        "start": 194.32,
+        "end": 195.32,
+        "english": "Hey, what about vaccines?",
+        "chinese": "你好，关于疫苗有什么想法吗？"
+    },
+    {
+        "start": 195.32,
+        "end": 198.88,
+        "english": "Should we be thinking about getting vaccines for our employees?",
+        "chinese": "是否应该考虑为员工接种疫苗？"
+    },
+    {
+        "start": 198.88,
+        "end": 201.32,
+        "english": "Exactly right, Todd.",
+        "chinese": "正确无误，托德。"
+    },
+    {
+        "start": 202.32,
+        "end": 212.2,
+        "english": "So I'll leave this to you and we'll review the draft plan in two weeks.",
+        "chinese": "所以，我将把这份计划交给你审阅，并在两周后进行讨论。"
+    },
+    {
+        "start": 212.2,
+        "end": 216.16,
+        "english": "Okay, so anyone want to order some KFC for lunch?",
+        "chinese": "好的，你想吃肯德基午餐吗？"
+    },
+    {
+        "start": 222.4,
+        "end": 225.2,
+        "english": "All right, what an ironic meeting.",
+        "chinese": "好的，一个有趣的会议。"
+    },
+    {
+        "start": 225.2,
+        "end": 228.32,
+        "english": "They are talking about the bird flu and they are going to have chicken.",
+        "chinese": "他们正在谈论禽流感，计划进行鸡的养殖。"
+    },
+    {
+        "start": 228.32,
+        "end": 231.0,
+        "english": "Yes, after sneezing all over.",
+        "chinese": "是的，一喷嚏就沾满了。"
+    },
+    {
+        "start": 231.36,
+        "end": 236.28,
+        "english": "Yeah, I guess now we could take a look at our language takeaway for this dialogue.",
+        "chinese": "是的，我猜现在我们可以看看我们的对话中的语言小结。"
+    },
+    {
+        "start": 237.28,
+        "end": 239.36,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 239.36,
+        "end": 242.84,
+        "english": "We heard a lot of really useful language in this dialogue and right now we're going to look",
+        "chinese": "我们听到了很多非常有用的语言，在这个对话中，我们现在将要看看。"
+    },
+    {
+        "start": 242.84,
+        "end": 245.72,
+        "english": "at four different words from the dialogue.",
+        "chinese": "在对话的四个不同词中。"
+    },
+    {
+        "start": 245.72,
+        "end": 248.16,
+        "english": "The first one is critical.",
+        "chinese": "第一个是关键的。"
+    },
+    {
+        "start": 248.16,
+        "end": 248.96,
+        "english": "Critical.",
+        "chinese": "关键。"
+    },
+    {
+        "start": 248.96,
+        "end": 250.2,
+        "english": "Critical.",
+        "chinese": "关键。"
+    },
+    {
+        "start": 250.2,
+        "end": 251.48,
+        "english": "Critical.",
+        "chinese": "关键。"
+    },
+    {
+        "start": 251.48,
+        "end": 256.24,
+        "english": "We've got some examples of this word that'll help us to understand the meaning, so let's listen.",
+        "chinese": "我们有一些例子来帮助我们理解这个单词的意思，所以让我们听听。"
+    },
+    {
+        "start": 256.24,
+        "end": 257.6,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 258.6,
+        "end": 263.20000000000005,
+        "english": "It's absolutely critical that we increase our sales.",
+        "chinese": "绝对重要的是我们要增加销售。"
+    },
+    {
+        "start": 263.20000000000005,
+        "end": 265.20000000000005,
+        "english": "If not, the company will go bankrupt.",
+        "chinese": "如果不行，公司就会破产。"
+    },
+    {
+        "start": 265.20000000000005,
+        "end": 268.52000000000004,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 268.52000000000004,
+        "end": 273.88,
+        "english": "We have a critical shortage of food.",
+        "chinese": "我们有严重的食物短缺问题。"
+    },
+    {
+        "start": 273.88,
+        "end": 279.40000000000003,
+        "english": "If we don't get help, people will die.",
+        "chinese": "如果我们得不到帮助，人们就会死去。"
+    },
+    {
+        "start": 279.40000000000003,
+        "end": 282.28000000000003,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 282.28000000000003,
+        "end": 284.40000000000003,
+        "english": "This is a critical step in the process.",
+        "chinese": "这是过程中的关键一步。"
+    },
+    {
+        "start": 284.40000000000003,
+        "end": 285.72,
+        "english": "You can't make a mistake here.",
+        "chinese": "在这里，你不能犯错误。"
+    },
+    {
+        "start": 288.32000000000005,
+        "end": 292.84000000000003,
+        "english": "So when something's critical, it's basically really important, really urgent.",
+        "chinese": "所以当事情重要时，它几乎可以说是极其重要的、非常紧急的。"
+    },
+    {
+        "start": 292.84000000000003,
+        "end": 293.84000000000003,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 293.84000000000003,
+        "end": 294.84000000000003,
+        "english": "Great word.",
+        "chinese": "好的，以下是“Great word”在中文的翻译："
+    },
+    {
+        "start": 294.84000000000003,
+        "end": 295.84000000000003,
+        "english": "Critical.",
+        "chinese": "关键。"
+    },
+    {
+        "start": 295.84000000000003,
+        "end": 298.16,
+        "english": "The next word we have is outbreak.",
+        "chinese": "接下来的单词是爆发。"
+    },
+    {
+        "start": 298.16,
+        "end": 299.16,
+        "english": "Outbreak.",
+        "chinese": "爆发。"
+    },
+    {
+        "start": 299.16,
+        "end": 300.16,
+        "english": "Outbreak.",
+        "chinese": "爆发。"
+    },
+    {
+        "start": 300.16,
+        "end": 301.36,
+        "english": "And outbreak.",
+        "chinese": "和爆发。"
+    },
+    {
+        "start": 301.36,
+        "end": 306.48,
+        "english": "So when outbreak is a sudden start of a disease, right?",
+        "chinese": "所以当疫情突然开始流行时，对吗？"
+    },
+    {
+        "start": 306.48,
+        "end": 309.48,
+        "english": "Can I say, oh, I got an outbreak of flu.",
+        "chinese": "是的，我可以这么说，我得了流感的爆发。"
+    },
+    {
+        "start": 309.48,
+        "end": 311.40000000000003,
+        "english": "Can outbreak describe one person?",
+        "chinese": "是的，可以描述一个人的爆发。"
+    },
+    {
+        "start": 311.40000000000003,
+        "end": 314.84000000000003,
+        "english": "No, an outbreak means that it's infecting a lot of people.",
+        "chinese": "是的，爆发意味着它正在感染很多人。"
+    },
+    {
+        "start": 314.84000000000003,
+        "end": 315.84000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 315.84000000000003,
+        "end": 316.84000000000003,
+        "english": "Not only one person.",
+        "chinese": "不止一个人。"
+    },
+    {
+        "start": 316.84,
+        "end": 319.64,
+        "english": "We could say there was an outbreak of the flu at the office.",
+        "chinese": "我们可以说在办公室发生了流感的爆发。"
+    },
+    {
+        "start": 319.64,
+        "end": 320.64,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī shí.)"
+    },
+    {
+        "start": 320.64,
+        "end": 321.64,
+        "english": "Which there was.",
+        "chinese": "哪有。"
+    },
+    {
+        "start": 321.64,
+        "end": 322.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 322.64,
+        "end": 323.64,
+        "english": "A lot of people got sick here with the flu.",
+        "chinese": "这里有很多人在那里因为流感而生病。"
+    },
+    {
+        "start": 323.64,
+        "end": 324.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 324.64,
+        "end": 325.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 325.64,
+        "end": 326.64,
+        "english": "Why don't you tell us about our third word?",
+        "chinese": "为什么你不告诉我我们的第三个词？"
+    },
+    {
+        "start": 326.64,
+        "end": 329.64,
+        "english": "Our third word is forecast.",
+        "chinese": "我们的第三句话是预测。"
+    },
+    {
+        "start": 329.64,
+        "end": 330.64,
+        "english": "Forecast.",
+        "chinese": "预报。"
+    },
+    {
+        "start": 330.64,
+        "end": 331.64,
+        "english": "Forecast.",
+        "chinese": "预报。"
+    },
+    {
+        "start": 331.64,
+        "end": 332.64,
+        "english": "Forecast.",
+        "chinese": "预报。"
+    },
+    {
+        "start": 332.64,
+        "end": 335.64,
+        "english": "So to forecast basically means to predict.",
+        "chinese": "所以，预测基本上意味着预测。"
+    },
+    {
+        "start": 335.64,
+        "end": 336.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 336.64,
+        "end": 339.03999999999996,
+        "english": "For example, you talk about the weather forecast.",
+        "chinese": "例如，你谈论天气预报。"
+    },
+    {
+        "start": 339.03999999999996,
+        "end": 340.03999999999996,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 340.03999999999996,
+        "end": 341.03999999999996,
+        "english": "Okay, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 341.03999999999996,
+        "end": 344.91999999999996,
+        "english": "And the last word for a language takeaway is vaccines.",
+        "chinese": "最后的语言小贴士是疫苗。"
+    },
+    {
+        "start": 345.92,
+        "end": 346.92,
+        "english": "Vaccines.",
+        "chinese": "疫苗。"
+    },
+    {
+        "start": 346.92,
+        "end": 347.92,
+        "english": "Vaccines.",
+        "chinese": "疫苗。"
+    },
+    {
+        "start": 347.92,
+        "end": 351.92,
+        "english": "So vaccines are something we all had when we were children.",
+        "chinese": "所以疫苗是我们所有孩子都有的。"
+    },
+    {
+        "start": 351.92,
+        "end": 352.92,
+        "english": "That's true.",
+        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+    },
+    {
+        "start": 352.92,
+        "end": 359.32,
+        "english": "They are injections that you get to prevent you from getting sick later.",
+        "chinese": "他们是一种注射剂，你用来防止自己在不久的将来生病。"
+    },
+    {
+        "start": 359.32,
+        "end": 360.32,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 360.32,
+        "end": 365.32,
+        "english": "So an injection of medicine from your doctor so that you don't get a disease in the future.",
+        "chinese": "所以，从医生那里注入药物，以避免在未来发生疾病。"
+    },
+    {
+        "start": 365.32,
+        "end": 366.32,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 366.32,
+        "end": 368.32,
+        "english": "When we are small, we get polio vaccines.",
+        "chinese": "当我们在很小的时候，我们会接种脊髓灰质炎疫苗。"
+    },
+    {
+        "start": 368.32,
+        "end": 369.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 369.32,
+        "end": 370.32,
+        "english": "Or measles, vaccines.",
+        "chinese": "或者，疫苗。"
+    },
+    {
+        "start": 370.32,
+        "end": 371.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 371.32,
+        "end": 373.32,
+        "english": "A lot of common diseases.",
+        "chinese": "大量常见的疾病。"
+    },
+    {
+        "start": 373.32,
+        "end": 374.32,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 374.32,
+        "end": 375.92,
+        "english": "So that's all for language takeaway.",
+        "chinese": "所以，这就是语言小结。"
+    },
+    {
+        "start": 375.92,
+        "end": 378.92,
+        "english": "Some great language related to health and disease.",
+        "chinese": "一些与健康和疾病相关的良好语言。"
+    },
+    {
+        "start": 378.92,
+        "end": 382.32,
+        "english": "But we also heard some great business related words in this dialogue.",
+        "chinese": "但是，我们还听到了一些有关商业方面的词汇。"
+    },
+    {
+        "start": 382.32,
+        "end": 383.32,
+        "english": "That's true.",
+        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+    },
+    {
+        "start": 383.32,
+        "end": 386.28,
+        "english": "There's a lot of words that you can use in a planning meeting.",
+        "chinese": "在计划会议上有很多可以使用的词汇。"
+    },
+    {
+        "start": 386.28,
+        "end": 389.32,
+        "english": "So let's look at those now in fluency builder.",
+        "chinese": "所以，让我们看看现在在流利表达器里。"
+    },
+    {
+        "start": 389.32,
+        "end": 391.52,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 391.52,
+        "end": 395.28,
+        "english": "In today's fluency builder, we're going to look at four useful phrases.",
+        "chinese": "在今天的流畅构建中，我们将关注四个有用的短语。"
+    },
+    {
+        "start": 395.28,
+        "end": 402.08,
+        "english": "Now this first phrase you can use when you want to change the subject at a meeting.",
+        "chinese": "现在，当你想在会议上改变主题时，你可以使用这个第一句话。"
+    },
+    {
+        "start": 402.08,
+        "end": 405.08,
+        "english": "Let's listen to what they said in the dialogue.",
+        "chinese": "让我们听一听他们在对话中的言论。"
+    },
+    {
+        "start": 405.08,
+        "end": 410.08,
+        "english": "Let's move to our next order of business.",
+        "chinese": "让我们转到我们的下一个业务。"
+    },
+    {
+        "start": 410.08,
+        "end": 413.28,
+        "english": "Let's move to our next order of business.",
+        "chinese": "让我们转到我们的下一个业务。"
+    },
+    {
+        "start": 413.28,
+        "end": 414.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 414.28,
+        "end": 417.28,
+        "english": "So let's move to our next order of business.",
+        "chinese": "所以，让我们转到我们的下一个业务领域。"
+    },
+    {
+        "start": 417.28,
+        "end": 419.88,
+        "english": "It's a great way of saying, let's move on.",
+        "chinese": "这是一个很好的方式，让我们继续。"
+    },
+    {
+        "start": 419.88,
+        "end": 420.88,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 420.88,
+        "end": 421.88,
+        "english": "Let's pass to the next topic.",
+        "chinese": "让我们转到下一个话题。"
+    },
+    {
+        "start": 421.88,
+        "end": 422.88,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一种常见的英文缩写，通常用来表示同意或认可。如果你需要将这句话翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 422.88,
+        "end": 423.88,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 423.88,
+        "end": 426.38,
+        "english": "Speaking of passing to the next topic, we heard another really interesting phrase in the",
+        "chinese": "在谈到下一个话题时，我们还听到另一个非常有趣的话。"
+    },
+    {
+        "start": 426.38,
+        "end": 427.38,
+        "english": "dialogue.",
+        "chinese": "对话。"
+    },
+    {
+        "start": 427.38,
+        "end": 428.38,
+        "english": "Let's listen.",
+        "chinese": "让我们倾听。"
+    },
+    {
+        "start": 428.38,
+        "end": 431.76,
+        "english": "We need to come up with a clear plan.",
+        "chinese": "我们有必要制定一个明确的计划。"
+    },
+    {
+        "start": 431.76,
+        "end": 434.08,
+        "english": "We need to come up with a clear plan.",
+        "chinese": "我们有必要制定一个明确的计划。"
+    },
+    {
+        "start": 434.08,
+        "end": 436.2,
+        "english": "So we need to come up with a clear plan.",
+        "chinese": "所以我们需要制定一个明确的计划。"
+    },
+    {
+        "start": 436.2,
+        "end": 439.76,
+        "english": "We need to think of a clear plan.",
+        "chinese": "我们有必要制定一个明确的计划。"
+    },
+    {
+        "start": 439.76,
+        "end": 440.76,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 440.76,
+        "end": 441.76,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 441.76,
+        "end": 442.76,
+        "english": "We need to come up with.",
+        "chinese": "我们有必要。"
+    },
+    {
+        "start": 442.76,
+        "end": 443.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 443.76,
+        "end": 445.76,
+        "english": "Our third phrase we heard in the dialogue is this.",
+        "chinese": "我们的第三句话在对话中听到的是这句话。"
+    },
+    {
+        "start": 445.76,
+        "end": 446.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 446.76,
+        "end": 449.2,
+        "english": "I'd like you to head up this project.",
+        "chinese": "我希望您能接手这个项目。"
+    },
+    {
+        "start": 449.2,
+        "end": 450.96,
+        "english": "So this phrase head up.",
+        "chinese": "所以这个短语“头高”。"
+    },
+    {
+        "start": 450.96,
+        "end": 452.71999999999997,
+        "english": "This is a great phrase.",
+        "chinese": "这个是很好的表达。"
+    },
+    {
+        "start": 452.71999999999997,
+        "end": 456.15999999999997,
+        "english": "It means I'd like you to lead or take care of this project.",
+        "chinese": "这句话意味着我想要你来领导或负责这个项目。"
+    },
+    {
+        "start": 456.15999999999997,
+        "end": 457.15999999999997,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 457.16,
+        "end": 464.1,
+        "english": "Last phrase for fluency builder, you can use when you want to give someone the responsibility",
+        "chinese": "最后的语句，您可以在需要时使用，当您希望给某人分配责任。"
+    },
+    {
+        "start": 464.1,
+        "end": 465.16,
+        "english": "of a job.",
+        "chinese": "一个职位。"
+    },
+    {
+        "start": 465.16,
+        "end": 467.24,
+        "english": "We heard this.",
+        "chinese": "我们听到这个。"
+    },
+    {
+        "start": 467.24,
+        "end": 470.76000000000005,
+        "english": "So I leave this to you.",
+        "chinese": "所以我就交给你了。"
+    },
+    {
+        "start": 470.76000000000005,
+        "end": 472.96000000000004,
+        "english": "So I leave this to you.",
+        "chinese": "所以我就让你走了。"
+    },
+    {
+        "start": 472.96000000000004,
+        "end": 474.24,
+        "english": "So I'll leave this to you.",
+        "chinese": "所以我就把这件事交给你了。"
+    },
+    {
+        "start": 474.24,
+        "end": 476.08000000000004,
+        "english": "This is you take charge.",
+        "chinese": "这是你负责。"
+    },
+    {
+        "start": 476.08000000000004,
+        "end": 477.08000000000004,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 477.08000000000004,
+        "end": 478.32000000000005,
+        "english": "I'll leave this to you.",
+        "chinese": "我会把这件事留给您。"
+    },
+    {
+        "start": 478.32000000000005,
+        "end": 481.12,
+        "english": "That's a great way of delegating a responsibility.",
+        "chinese": "这是非常有效的分派责任的方式。"
+    },
+    {
+        "start": 481.12,
+        "end": 485.92,
+        "english": "And so we're going to leave you to listen to our dialogue last time.",
+        "chinese": "所以我们将让你听我们的对话上次。"
+    },
+    {
+        "start": 485.92,
+        "end": 494.52000000000004,
+        "english": "And be sure to pick up all the great vocabulary that we just talked about.",
+        "chinese": "并且一定要记得我们刚刚讨论过的所有大词汇。"
+    },
+    {
+        "start": 494.52000000000004,
+        "end": 495.52000000000004,
+        "english": "Well right.",
+        "chinese": "正确翻译为中文是：“很好。”"
+    },
+    {
+        "start": 495.52000000000004,
+        "end": 499.28000000000003,
+        "english": "Let's move to our next order of business.",
+        "chinese": "让我们转到我们的下一个业务。"
+    },
+    {
+        "start": 499.28000000000003,
+        "end": 505.04,
+        "english": "As many of you are aware in recent weeks there has been a lot of media coverage surrounding",
+        "chinese": "在最近的几周里，有许多媒体关注焦点围绕着中国。"
+    },
+    {
+        "start": 505.04,
+        "end": 507.68,
+        "english": "this bird flu issue.",
+        "chinese": "这个禽流感问题。"
+    },
+    {
+        "start": 507.68,
+        "end": 513.48,
+        "english": "And it's come to my attention that our company lacks any sort of bird flu contingency plan.",
+        "chinese": "并且我注意到我们的公司缺乏任何针对禽流感的应急预案。"
+    },
+    {
+        "start": 513.72,
+        "end": 516.36,
+        "english": "Basically we need to come up with a clear plan.",
+        "chinese": "基本上，我们需要制定一个明确的计划。"
+    },
+    {
+        "start": 516.36,
+        "end": 520.52,
+        "english": "We need to outline specific actions that our company can take to maintain critical business",
+        "chinese": "我们有必要制定具体的行动方案，以确保我们的公司能够持续地维护关键业务。"
+    },
+    {
+        "start": 520.52,
+        "end": 524.04,
+        "english": "functions in case a pandemic strikes.",
+        "chinese": "在面对一场大流行病时，函数在此类情况下适用。"
+    },
+    {
+        "start": 524.04,
+        "end": 529.6800000000001,
+        "english": "So what I'd like to do is first appoint someone to look after drafting our plan.",
+        "chinese": "所以我想首先任命一个人来负责起草我们的计划。"
+    },
+    {
+        "start": 529.6800000000001,
+        "end": 532.5600000000001,
+        "english": "Ralph, I'd like you to head up this project.",
+        "chinese": "李安，我让你负责这个项目。"
+    },
+    {
+        "start": 532.5600000000001,
+        "end": 533.5600000000001,
+        "english": "Sure, no problem.",
+        "chinese": "是的，没问题。"
+    },
+    {
+        "start": 533.5600000000001,
+        "end": 535.76,
+        "english": "What issues do you want me to consider?",
+        "chinese": "您想考虑哪些问题？"
+    },
+    {
+        "start": 535.76,
+        "end": 536.76,
+        "english": "Well, let's see.",
+        "chinese": "好的，让我们看看。"
+    },
+    {
+        "start": 536.76,
+        "end": 539.88,
+        "english": "There are a few points we need to be thinking about.",
+        "chinese": "我们有必要考虑以下几点。"
+    },
+    {
+        "start": 539.88,
+        "end": 544.88,
+        "english": "First, I'll need you to analyze our numbers and figure out what kind of financial impact",
+        "chinese": "首先，我会需要您分析我们的数据并找出哪种财务影响的规模。"
+    },
+    {
+        "start": 544.88,
+        "end": 546.32,
+        "english": "and outbreak I have.",
+        "chinese": "和疫情我有。"
+    },
+    {
+        "start": 546.32,
+        "end": 551.88,
+        "english": "You will also need to think about how we can avoid any of our employees getting infected.",
+        "chinese": "您还需要考虑如何避免我们的员工感染。"
+    },
+    {
+        "start": 551.88,
+        "end": 555.48,
+        "english": "Think of ways to reduce employee customer contact.",
+        "chinese": "思考如何减少员工与客户的接触。"
+    },
+    {
+        "start": 555.48,
+        "end": 560.0,
+        "english": "Perhaps some IT solutions that will allow our people to work from home.",
+        "chinese": "或许一些能够允许我们的员工在家工作的IT解决方案。"
+    },
+    {
+        "start": 560.0,
+        "end": 563.92,
+        "english": "I guess you'll need me to forecast employee absence as well, right?",
+        "chinese": "我猜你还需要我预测员工缺勤吗？"
+    },
+    {
+        "start": 563.92,
+        "end": 566.96,
+        "english": "And I'll think about the impact this will have on our clients.",
+        "chinese": "我将考虑这个对我们的客户的影响。"
+    },
+    {
+        "start": 567.2,
+        "end": 568.2800000000001,
+        "english": "Hey, what about vaccines?",
+        "chinese": "你好，关于疫苗有什么想法吗？"
+    },
+    {
+        "start": 568.2800000000001,
+        "end": 571.36,
+        "english": "Should be the thinking about getting vaccines for employees?",
+        "chinese": "应该是对员工接种疫苗的思考吗？"
+    },
+    {
+        "start": 571.36,
+        "end": 573.96,
+        "english": "Exactly right, Todd.",
+        "chinese": "正确无误，托德。"
+    },
+    {
+        "start": 573.96,
+        "end": 575.96,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 575.96,
+        "end": 578.96,
+        "english": "So I'll leave this to you and...",
+        "chinese": "所以我就让你先说吧..."
+    },
+    {
+        "start": 581.36,
+        "end": 584.5600000000001,
+        "english": "Well, we'll review the draft plan in two weeks.",
+        "chinese": "很好，我们将两周后对计划进行审查。"
+    },
+    {
+        "start": 584.5600000000001,
+        "end": 588.1600000000001,
+        "english": "Okay, so anyone want to order some KFC for lunch?",
+        "chinese": "好的，你想吃肯德基午餐吗？"
+    },
+    {
+        "start": 588.16,
+        "end": 596.7199999999999,
+        "english": "Okay, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 596.7199999999999,
+        "end": 600.76,
+        "english": "So this contingency plan idea is really interesting, right?",
+        "chinese": "所以这个应急计划的想法真的很有趣，对吗？"
+    },
+    {
+        "start": 600.76,
+        "end": 606.12,
+        "english": "Yeah, it makes sense for a company to prepare in case there is an outbreak of bird flu.",
+        "chinese": "是的，公司应该准备以防鸟流感爆发。"
+    },
+    {
+        "start": 606.12,
+        "end": 610.68,
+        "english": "I mean, they need to maintain their critical business functions, even if all the employees",
+        "chinese": "我指的是，他们需要保持其关键业务功能的稳定性，即使所有的员工都离开了。"
+    },
+    {
+        "start": 610.68,
+        "end": 611.68,
+        "english": "are sick, okay?",
+        "chinese": "是病，行吗？"
+    },
+    {
+        "start": 611.68,
+        "end": 614.12,
+        "english": "Right, I guess that's really important.",
+        "chinese": "是的，我猜这非常重要。"
+    },
+    {
+        "start": 614.12,
+        "end": 617.76,
+        "english": "And you have to forecast all these possibilities.",
+        "chinese": "您必须预测这些可能性。"
+    },
+    {
+        "start": 617.76,
+        "end": 624.04,
+        "english": "Like people are going to be away from the office or even forecast less sales, etc.",
+        "chinese": "像人们将离开办公室或甚至预测销售量减少，等等。"
+    },
+    {
+        "start": 624.04,
+        "end": 625.04,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 625.04,
+        "end": 629.44,
+        "english": "The interesting thing is that businesses that may not actually be involved in food production",
+        "chinese": "这个有趣的事情是那些可能并不真正参与食品生产的企业。"
+    },
+    {
+        "start": 629.44,
+        "end": 633.24,
+        "english": "or raising chickens or something like that are making these contingency plans.",
+        "chinese": "或者养鸡或其他类似的事情正在制定这些应急计划。"
+    },
+    {
+        "start": 633.24,
+        "end": 634.72,
+        "english": "I find that really fascinating.",
+        "chinese": "我发现真的很有趣。"
+    },
+    {
+        "start": 634.72,
+        "end": 639.36,
+        "english": "So it seems there is a lot of fear out there about the possibility of a pandemic.",
+        "chinese": "所以似乎到处都存在关于一场大流行病的恐惧。"
+    },
+    {
+        "start": 639.36,
+        "end": 640.36,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 640.36,
+        "end": 645.08,
+        "english": "Well, hopefully they'll come out with a vaccine so we don't have to worry about these things.",
+        "chinese": "嗯，希望他们能出疫苗，这样我们就不必担心这些事情。"
+    },
+    {
+        "start": 645.08,
+        "end": 646.08,
+        "english": "That's true.",
+        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+    },
+    {
+        "start": 646.08,
+        "end": 649.0,
+        "english": "But until then, we'll have to create contingency plans.",
+        "chinese": "但是直到那时，我们还得制定应急计划。"
+    },
+    {
+        "start": 649.0,
+        "end": 650.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 650.0,
+        "end": 653.84,
+        "english": "Okay, guys, we're out of time today and I hope you enjoyed our lesson and found all these",
+        "chinese": "好的，朋友们，今天我们的时间已经用完了，我希望大家今天的课程体验愉快，并且找到了这些内容。"
+    },
+    {
+        "start": 653.84,
+        "end": 657.12,
+        "english": "words and phrases really useful and you can apply them in real life.",
+        "chinese": "词语和短语非常实用，你可以应用它们在现实生活中。"
+    },
+    {
+        "start": 657.12,
+        "end": 662.44,
+        "english": "Alright, guys, thanks for listening and be sure to check out our website, EnglishPod.com,",
+        "chinese": "好的，朋友们，谢谢你们的倾听，并请务必检查我们的网站，英语pod.com。"
+    },
+    {
+        "start": 662.44,
+        "end": 664.5600000000001,
+        "english": "where you can leave all your questions and comments.",
+        "chinese": "在你能够留下所有问题和评论的地方。"
+    },
+    {
+        "start": 664.5600000000001,
+        "end": 667.12,
+        "english": "Marco and I are always around to answer your questions.",
+        "chinese": "马科和我总是随时准备回答你的问题。"
+    },
+    {
+        "start": 667.12,
+        "end": 669.16,
+        "english": "So until then, it's bye.",
+        "chinese": "所以直到那时，再见。"
+    },
+    {
+        "start": 669.16,
+        "end": 670.16,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

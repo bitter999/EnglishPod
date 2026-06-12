@@ -1,0 +1,1100 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.64,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.64,
+        "end": 8.0,
+        "english": "My name is Catherine and today we're going to a very special place, Marco.",
+        "chinese": "我的名字是凯特，今天我们将要去一个非常特别的地方，马科。"
+    },
+    {
+        "start": 8.0,
+        "end": 12.0,
+        "english": "A place where men and women alike, but usually women are associated with it.",
+        "chinese": "一个男人和女人都喜欢的地方，但通常男性与之相关。"
+    },
+    {
+        "start": 12.0,
+        "end": 15.0,
+        "english": "And with these women like to go, what is this place we're going to?",
+        "chinese": "而且这些女人喜欢去，这个地方我们要去？"
+    },
+    {
+        "start": 15.0,
+        "end": 18.0,
+        "english": "That's right. Today we are going to a beauty spa.",
+        "chinese": "是的，今天我们将去美容院。"
+    },
+    {
+        "start": 18.0,
+        "end": 22.0,
+        "english": "Alright, so let's check that out in today's vocabulary preview.",
+        "chinese": "好的，现在让我们检查一下今天的词汇预览。"
+    },
+    {
+        "start": 22.0,
+        "end": 24.0,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 24.0,
+        "end": 29.5,
+        "english": "Alright, so this place, a beauty spa. It's interesting because it's not just a normal spa.",
+        "chinese": "好的，所以这个地方，一个美容SPA。它有趣的地方在于，它不仅仅是一个普通的SPA。"
+    },
+    {
+        "start": 29.5,
+        "end": 34.0,
+        "english": "It's a particular spa where you get treated for some things.",
+        "chinese": "英语：它是一间专门治疗某些问题的私人spa。"
+    },
+    {
+        "start": 34.0,
+        "end": 38.5,
+        "english": "That's right. So a beauty spa is a place where you go to feel good.",
+        "chinese": "是的，你说得对。那么一个美丽SPA就是你去感受美好之地的地方。"
+    },
+    {
+        "start": 38.5,
+        "end": 44.0,
+        "english": "So women and men like to have their nails and their faces and their skin taking care of.",
+        "chinese": "所以，女人和男人喜欢对自己的头发、皮肤和脸进行护理。"
+    },
+    {
+        "start": 44.0,
+        "end": 50.0,
+        "english": "Maybe their makeup and hair as well. So it's not just a place where you maybe go from massage,",
+        "chinese": "可能他们的化妆和头发也一样。所以，这不仅仅是在某个地方去美容院，而是更广泛地进行社交活动。"
+    },
+    {
+        "start": 50.0,
+        "end": 54.0,
+        "english": "but you get a lot of other services that make your skin nice.",
+        "chinese": "但是你得到了很多其他服务，使你的皮肤变得漂亮。"
+    },
+    {
+        "start": 54.0,
+        "end": 55.5,
+        "english": "Make you look and feel good.",
+        "chinese": "英语：让你们看起来和感觉好。"
+    },
+    {
+        "start": 55.5,
+        "end": 58.5,
+        "english": "Alright, so that's where we're going today. We're going to go to a beauty spa.",
+        "chinese": "好的，今天我们将前往美容院。"
+    },
+    {
+        "start": 58.5,
+        "end": 62.0,
+        "english": "And we're going to talk about all the different things that you can do there.",
+        "chinese": "我们将会讨论你可以在那里做的事情的所有不同方面。"
+    },
+    {
+        "start": 62.0,
+        "end": 65.0,
+        "english": "So let's listen to our dialogue for the very first time.",
+        "chinese": "英语：所以让我们来听听我们的对话吧。"
+    },
+    {
+        "start": 70.0,
+        "end": 72.0,
+        "english": "You want to go get a facial with me today?",
+        "chinese": "你好，今天想和你一起去拍脸吗？"
+    },
+    {
+        "start": 72.0,
+        "end": 74.5,
+        "english": "Dude, what are you talking about? All the girls do that.",
+        "chinese": "Dude, what are you talking about? 所有女孩都这样做。"
+    },
+    {
+        "start": 74.5,
+        "end": 78.5,
+        "english": "Not at all. Guys also get facial manicures and pedicures.",
+        "chinese": "不，哥们。你也得去打个面红耳赤和剪个假指甲。"
+    },
+    {
+        "start": 78.5,
+        "end": 81.0,
+        "english": "There's nothing wrong with looking after your skin and looking good.",
+        "chinese": "英语：没有什么不对的地方，保持你的皮肤和外表好。"
+    },
+    {
+        "start": 81.0,
+        "end": 84.5,
+        "english": "True. So what do they do to you at your beauty spa?",
+        "chinese": "正确。那么，他们到底在你的美容SPA里做了些什么呢？"
+    },
+    {
+        "start": 84.5,
+        "end": 88.0,
+        "english": "Well, first they exfoliate my face, getting rid of all the dead skin.",
+        "chinese": "嗯，他们先是用面膜去除我的皮肤，把所有的死皮都去掉。"
+    },
+    {
+        "start": 88.0,
+        "end": 91.5,
+        "english": "Then I get a face mask with nutrients that keep my skin healthy and young.",
+        "chinese": "然后，我得到一个面罩，它含有营养素，可以帮助我的皮肤保持健康和年轻。"
+    },
+    {
+        "start": 91.5,
+        "end": 95.0,
+        "english": "Afterwards, they apply some moisturizer and you leave feeling like a million bucks.",
+        "chinese": "之后，他们给皮肤打了一层保湿霜，并且你感觉整个人都比以前强壮了。"
+    },
+    {
+        "start": 95.0,
+        "end": 98.5,
+        "english": "That doesn't really sound like something I would be interested in.",
+        "chinese": "这句话的意思是：“那听起来并不像我感兴趣的事情。”"
+    },
+    {
+        "start": 98.5,
+        "end": 102.5,
+        "english": "In any case, I just wash my face every night and use sunscreen during the day.",
+        "chinese": "英语：在任何情况下，我总是洗完脸后立即使用防晒霜。"
+    },
+    {
+        "start": 102.5,
+        "end": 105.5,
+        "english": "Well, you should come with me one day. I'm sure you'll love it.",
+        "chinese": "英语：嗯，你今天来一起吗？我可保证你会喜欢的。"
+    },
+    {
+        "start": 105.5,
+        "end": 107.5,
+        "english": "Uh, no.",
+        "chinese": "英语：Uh, no."
+    },
+    {
+        "start": 109.0,
+        "end": 112.5,
+        "english": "Alright, we're back. So now let's take a look at Language Takeaway.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 114.5,
+        "end": 116.5,
+        "english": "Language Takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 116.5,
+        "end": 121.0,
+        "english": "Got a lot of great phrases and words in Language Takeaway today.",
+        "chinese": "今天在语言总结中分享了许多有趣和有用的短语。"
+    },
+    {
+        "start": 121.0,
+        "end": 125.0,
+        "english": "The first one though is from the very first line of dialogue.",
+        "chinese": "英语：第一句话是对话的开头。"
+    },
+    {
+        "start": 125.0,
+        "end": 127.5,
+        "english": "You want to go get a facial with me today?",
+        "chinese": "你好，今天想和你一起去拍脸吗？"
+    },
+    {
+        "start": 127.5,
+        "end": 133.0,
+        "english": "That's right. We are asking our friend if he wants to go with us to go get a facial.",
+        "chinese": "是的，我们正在询问我们的朋友是否愿意和我们一起前往去面部处理。"
+    },
+    {
+        "start": 133.0,
+        "end": 136.0,
+        "english": "Now, what exactly does it mean to get a facial?",
+        "chinese": "现在，到底是什么意思来获取面部信息？"
+    },
+    {
+        "start": 136.0,
+        "end": 140.5,
+        "english": "Alright, a facial here is a thing. In this case, a service that we would pay for.",
+        "chinese": "好的，这里有一个面部是事物。在这种情况下，我们支付的服务之一。"
+    },
+    {
+        "start": 140.5,
+        "end": 145.5,
+        "english": "And basically, a facial is just a skincare treatment or a treatment for your face.",
+        "chinese": "基本来说，面部只是皮肤护理或针对脸部的治疗。"
+    },
+    {
+        "start": 145.5,
+        "end": 152.5,
+        "english": "So maybe you will get some cream and cleansing and, you know, in the advertisements,",
+        "chinese": "所以，也许你将获得一些奶油和去角质，你知道，在广告中。"
+    },
+    {
+        "start": 152.5,
+        "end": 157.0,
+        "english": "you often see someone getting a facial with like cucumbers on their eyes.",
+        "chinese": "你经常看到有人戴着像黄瓜样的眼睛。"
+    },
+    {
+        "start": 157.0,
+        "end": 160.5,
+        "english": "And so it's just a way to make your skin feel really good.",
+        "chinese": "所以这样只是让你的皮肤感觉非常舒服。"
+    },
+    {
+        "start": 160.5,
+        "end": 162.5,
+        "english": "Okay, particularly on your face.",
+        "chinese": "好的，特别是你的脸。"
+    },
+    {
+        "start": 162.5,
+        "end": 165.0,
+        "english": "Yes, your face. And the verb here is to get.",
+        "chinese": "是的，你的脸。这里的意思是“得到”。"
+    },
+    {
+        "start": 165.0,
+        "end": 169.5,
+        "english": "So I'm going to get a facial or I got a facial yesterday.",
+        "chinese": "所以，我打算去拍脸或昨天拍了脸。"
+    },
+    {
+        "start": 169.5,
+        "end": 175.5,
+        "english": "Okay, very good. Now, apart from getting a facial, getting a special treatment on your face,",
+        "chinese": "好的，很好。现在，除了得到面部美容外，还可以获得特别的治疗，例如："
+    },
+    {
+        "start": 175.5,
+        "end": 178.5,
+        "english": "you can also get a manicure and a pedicure.",
+        "chinese": "你也可以去修指甲和拔甲。"
+    },
+    {
+        "start": 178.5,
+        "end": 183.5,
+        "english": "That's right. So manicure, pedicure, these we're going to keep together because they're very similar.",
+        "chinese": "是的，这是正确的。所以我们决定一起进行 manicure 和 pedicure，因为它们非常相似。"
+    },
+    {
+        "start": 183.5,
+        "end": 185.5,
+        "english": "But they're a little bit different.",
+        "chinese": "但是它们有点不同。"
+    },
+    {
+        "start": 185.5,
+        "end": 189.5,
+        "english": "Manicure, mani, that means something to do with the hands.",
+        "chinese": "手指甲护理，指甲刀，这与手有关。"
+    },
+    {
+        "start": 189.5,
+        "end": 195.5,
+        "english": "So manicure is actually when you have your fingernails kind of cleaned and taken care of.",
+        "chinese": "所以修甲是当你的指甲很干净并得到了适当的护理。"
+    },
+    {
+        "start": 195.5,
+        "end": 199.5,
+        "english": "And then they will apply some paint. So nail polish.",
+        "chinese": "英语：然后他们将给一些油漆。所以是指甲油。"
+    },
+    {
+        "start": 199.5,
+        "end": 203.5,
+        "english": "So basically having your nails treated and then colored.",
+        "chinese": "所以基本上你的指甲被处理并染色了。"
+    },
+    {
+        "start": 203.5,
+        "end": 207.5,
+        "english": "Okay, and then pedicure, I imagine is the same thing but for your feet.",
+        "chinese": "好的，接下来请将“Okay, and then pedicure, I imagine is the same thing but for your feet.” 用简化中文翻译："
+    },
+    {
+        "start": 207.5,
+        "end": 210.5,
+        "english": "That's right. Pedicure refers to feet.",
+        "chinese": "是的，你理解得真好。那么，接下来请告诉我一个关于脚的问题。"
+    },
+    {
+        "start": 210.5,
+        "end": 214.5,
+        "english": "So pedicure is the same treatment, the same service but for your toes.",
+        "chinese": "所以拔甲是同样的治疗，同样的服务，但针对您的脚。"
+    },
+    {
+        "start": 214.5,
+        "end": 218.5,
+        "english": "In this case, you'd have very nice nail polish on your toes.",
+        "chinese": "在这种情况里，你肯定会有一双漂亮的大脚丫。"
+    },
+    {
+        "start": 218.5,
+        "end": 222.5,
+        "english": "All right. Now, going back to skin treatment,",
+        "chinese": "好的，我将根据提供的标准进行翻译："
+    },
+    {
+        "start": 222.5,
+        "end": 226.5,
+        "english": "because manicure and pedicure for your fingernails and for your hands and feet,",
+        "chinese": "因为修剪指甲和脚趾甲，所以为您的手指和脚趾加装护甲。"
+    },
+    {
+        "start": 226.5,
+        "end": 231.5,
+        "english": "we are talking about getting your face exfoliated.",
+        "chinese": "我们正在讨论如何让你的脸部被剥离。"
+    },
+    {
+        "start": 231.5,
+        "end": 235.5,
+        "english": "Or he says, well, first they exfoliate my face.",
+        "chinese": "英语：或者他说，嗯，首先他们去皮了。"
+    },
+    {
+        "start": 235.5,
+        "end": 239.5,
+        "english": "So exfoliate, you think X means taking something away.",
+        "chinese": "所以，你认为X意味着什么。"
+    },
+    {
+        "start": 239.5,
+        "end": 243.5,
+        "english": "In this case, to exfoliate means to take the dead skin away.",
+        "chinese": "在这种情况里，剥离皮肤意味着去除死皮。"
+    },
+    {
+        "start": 243.5,
+        "end": 247.5,
+        "english": "And sometimes this can be a little bit painful.",
+        "chinese": "英语：有时这可能有点痛苦。"
+    },
+    {
+        "start": 247.5,
+        "end": 251.5,
+        "english": "Because you think at first you have some dry skin, some dead skin.",
+        "chinese": "因为您一开始觉得皮肤有些干燥，有点脱皮。"
+    },
+    {
+        "start": 251.5,
+        "end": 255.5,
+        "english": "And they have to take it away. They have to use something rough.",
+        "chinese": "英语：他们必须把它卸下。他们必须使用粗劣的东西。"
+    },
+    {
+        "start": 255.5,
+        "end": 257.5,
+        "english": "You can do it on your feet as well.",
+        "chinese": "你也可以像这样做。"
+    },
+    {
+        "start": 257.5,
+        "end": 263.5,
+        "english": "But when they exfoliate your face, they use some kind of cleanser or some kind of maybe sponge",
+        "chinese": "但是当他们用一些清洁剂或者海绵去除你的皮肤时，他们会使用某种类型的去角质产品。"
+    },
+    {
+        "start": 263.5,
+        "end": 265.5,
+        "english": "to clear the dead skin.",
+        "chinese": "英语：去清除死皮。"
+    },
+    {
+        "start": 265.5,
+        "end": 270.5,
+        "english": "And then afterwards you have the fresh new skin and it's very smooth and nice looking.",
+        "chinese": "英语：然后你有新的皮肤，它非常光滑和漂亮。"
+    },
+    {
+        "start": 270.5,
+        "end": 274.5,
+        "english": "Okay, so that's what it means to exfoliate the skin.",
+        "chinese": "好的，现在请将这句话翻译成中文："
+    },
+    {
+        "start": 274.5,
+        "end": 278.5,
+        "english": "It can be on your face, your feet pretty much anywhere on your body.",
+        "chinese": "英语：它可以在你的脸上、脚上几乎任何地方。"
+    },
+    {
+        "start": 278.5,
+        "end": 286.5,
+        "english": "And lastly, we also are just using sunscreen during the day to protect our skin and to keep it healthy.",
+        "chinese": "最后，我们还只是在白天使用防晒霜来保护我们的皮肤，并保持其健康。"
+    },
+    {
+        "start": 286.5,
+        "end": 290.5,
+        "english": "That's right. So sunscreen is a kind of cream. Do you sunscreen Marco?",
+        "chinese": "是的，你正确。那么防晒霜是一种什么？你是否需要我帮你找一下？"
+    },
+    {
+        "start": 290.5,
+        "end": 292.5,
+        "english": "No, you don't have to.",
+        "chinese": "是的，你不需要。"
+    },
+    {
+        "start": 292.5,
+        "end": 295.5,
+        "english": "Well, I often use sunscreen because I'm very, very pale.",
+        "chinese": "英语：嗯，我经常用防晒霜是因为我很白。"
+    },
+    {
+        "start": 295.5,
+        "end": 302.5,
+        "english": "And so when I go in the sun, maybe at the beach, it's very easy for me to burn my skin to turn red.",
+        "chinese": "所以当我走进太阳，也许是在海滩上，很容易被晒伤，皮肤变红。"
+    },
+    {
+        "start": 302.5,
+        "end": 304.5,
+        "english": "And so sunscreen helps me protect my skin.",
+        "chinese": "所以防晒霜帮助我保护我的皮肤。"
+    },
+    {
+        "start": 304.5,
+        "end": 306.5,
+        "english": "So that's exactly what it does.",
+        "chinese": "所以，这就是它该做的。"
+    },
+    {
+        "start": 306.5,
+        "end": 312.5,
+        "english": "Sunscreen is a specific type of lotion that you put on your skin and it prevents you from getting sunburns",
+        "chinese": "防晒霜是一种专门用于皮肤的乳液，它能防止你晒伤。"
+    },
+    {
+        "start": 312.5,
+        "end": 315.5,
+        "english": "or from darkening your skin.",
+        "chinese": "或者从暗处提升你的形象。"
+    },
+    {
+        "start": 315.5,
+        "end": 319.5,
+        "english": "That's right. So those are the words we have relating to skincare",
+        "chinese": "是的，那么您需要我为您翻译一些关于护肤的相关词汇吗？"
+    },
+    {
+        "start": 319.5,
+        "end": 321.5,
+        "english": "and some of these services at the beauty spa.",
+        "chinese": "和这些服务一起在美容院体验。"
+    },
+    {
+        "start": 321.5,
+        "end": 323.5,
+        "english": "But we've got some more phrases for you.",
+        "chinese": "但是我们还有更多的表达给你。"
+    },
+    {
+        "start": 323.5,
+        "end": 326.5,
+        "english": "So let's first listen to our dialogue again and we'll be back in a moment.",
+        "chinese": "英语：所以让我们再次听一下我们的对话，然后我们马上回来。"
+    },
+    {
+        "start": 331.5,
+        "end": 333.5,
+        "english": "You want to go get a facial with me today?",
+        "chinese": "英语：你今天想和我一起去拍脸吗？"
+    },
+    {
+        "start": 333.5,
+        "end": 336.5,
+        "english": "Dude, what are you talking about? What do girls do that?",
+        "chinese": "嘿，你这是在说什么？女生们干了什么？"
+    },
+    {
+        "start": 336.5,
+        "end": 339.5,
+        "english": "Not at all. Guys also get facial, manicures and pedicures.",
+        "chinese": "不，哥们。你也得化妆、打蜡和做美甲。"
+    },
+    {
+        "start": 339.5,
+        "end": 342.5,
+        "english": "There's nothing wrong with looking after your skin and looking good.",
+        "chinese": "没有什么不对的地方，好好照顾你的皮肤和保持好状态。"
+    },
+    {
+        "start": 342.5,
+        "end": 345.5,
+        "english": "True. So what do they do to you at your beauty spa?",
+        "chinese": "是的，他们如何对待你在这里的美容院？"
+    },
+    {
+        "start": 345.5,
+        "end": 349.5,
+        "english": "Well, first they exfoliate my face, getting rid of all the dead skin.",
+        "chinese": "嗯，他们先是用面膜去除我的脸部死皮，让皮肤恢复活力。"
+    },
+    {
+        "start": 349.5,
+        "end": 352.5,
+        "english": "Then I get a face mask with nutrients that keep my skin healthy and young.",
+        "chinese": "然后，我戴上一个面罩，它含有营养，可以帮助我的皮肤保持健康和年轻。"
+    },
+    {
+        "start": 352.5,
+        "end": 356.5,
+        "english": "Afterwards, they apply some moisturizer and you leave feeling like a million bucks.",
+        "chinese": "之后，他们给皮肤打了一次针，并且感觉整个人都比以前强了。"
+    },
+    {
+        "start": 356.5,
+        "end": 359.5,
+        "english": "That doesn't really sound like something I would be interested in.",
+        "chinese": "这个傻瓜相机听起来不太像是我感兴趣的。"
+    },
+    {
+        "start": 359.5,
+        "end": 363.5,
+        "english": "In any case, I just wash my face every night and use sunscreen during the day.",
+        "chinese": "英语：在任何情况下，我总是洗完脸后第二天早上使用防晒霜。"
+    },
+    {
+        "start": 363.5,
+        "end": 366.5,
+        "english": "Well, you should come with me one day. I'm sure you'll love it.",
+        "chinese": "英语：嗯，你最好跟我一起。我相信你会喜欢的。"
+    },
+    {
+        "start": 366.5,
+        "end": 368.5,
+        "english": "Uh, no.",
+        "chinese": "抱歉，我不理解您的意思。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 370.5,
+        "end": 374.5,
+        "english": "Alright, so now it's time for some fluency builder. Let's check out three key phrases.",
+        "chinese": "好的，现在是时候检查一下三个关键短语了。"
+    },
+    {
+        "start": 376.5,
+        "end": 377.5,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 378.5,
+        "end": 382.5,
+        "english": "So we've got this first phrase here, not at all.",
+        "chinese": "英语：所以这里我们已经有了这个开头，一点也不。"
+    },
+    {
+        "start": 382.5,
+        "end": 385.5,
+        "english": "So one person says, only girls go to the beauty spa.",
+        "chinese": "所以，一个人说，只有女孩去美容院。"
+    },
+    {
+        "start": 385.5,
+        "end": 387.5,
+        "english": "And what does the other person say?",
+        "chinese": "请告诉我其他人的意见。"
+    },
+    {
+        "start": 387.5,
+        "end": 390.5,
+        "english": "Right. He says, no, not at all, not at all.",
+        "chinese": "正确：英语：正确。他说，不，一点也不，一点也不。"
+    },
+    {
+        "start": 390.5,
+        "end": 394.5,
+        "english": "So basically he's responding by saying, no, that's not true.",
+        "chinese": "所以基本上他是在说，不，那不是真的。"
+    },
+    {
+        "start": 394.5,
+        "end": 398.5,
+        "english": "Now you could have said no, but why do you say not at all?",
+        "chinese": "现在你可以说不，但为什么你说不呢？"
+    },
+    {
+        "start": 398.5,
+        "end": 401.5,
+        "english": "You could say no, but no is almost rude.",
+        "chinese": "英语：你可以说不，但不总是礼貌的。"
+    },
+    {
+        "start": 401.5,
+        "end": 407.5,
+        "english": "Uh, not at all is a way to say, actually in reality, this is different.",
+        "chinese": "抱歉，我不能直接翻译中文。不过，我可以尝试用英文来表达你的意思："
+    },
+    {
+        "start": 407.5,
+        "end": 412.5,
+        "english": "So it's a, it's a more polite way of disagreeing with what the person just said.",
+        "chinese": "所以，它是一种更礼貌的表达方式。"
+    },
+    {
+        "start": 412.5,
+        "end": 415.5,
+        "english": "Okay. So you can say, no, not at all.",
+        "chinese": "好的。那么你可以这么说，不，一点也不。"
+    },
+    {
+        "start": 415.5,
+        "end": 420.5,
+        "english": "I guess you can say both, right? Not at all or together. No, not at all.",
+        "chinese": "英语：我猜你可以说两者，对吧？不完全或一起。不，不完全。"
+    },
+    {
+        "start": 420.5,
+        "end": 422.5,
+        "english": "No, not at all.",
+        "chinese": "英语：不，一点也不。"
+    },
+    {
+        "start": 422.5,
+        "end": 425.5,
+        "english": "And you could say, um, women don't like to watch football.",
+        "chinese": "您可以说，女人不喜欢看足球。"
+    },
+    {
+        "start": 425.5,
+        "end": 427.5,
+        "english": "Mm-hmm. And you can say, oh, not at all.",
+        "chinese": "英语：嗯，对，不。"
+    },
+    {
+        "start": 427.5,
+        "end": 429.5,
+        "english": "You could say only men like to watch football.",
+        "chinese": "英语：你可以说只有男人喜欢看足球。"
+    },
+    {
+        "start": 429.5,
+        "end": 434.5,
+        "english": "Right. And then if I disagree or you say, actually, I can say no, not at all.",
+        "chinese": "正确。然后，如果我不同意或者你说的话，实际上我不同意，不客气。"
+    },
+    {
+        "start": 434.5,
+        "end": 436.5,
+        "english": "Actually girls like to watch football as well.",
+        "chinese": "实际上，女孩们也喜欢看足球。"
+    },
+    {
+        "start": 436.5,
+        "end": 438.5,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 438.5,
+        "end": 444.5,
+        "english": "Okay. So now continuing on with the skincare topic, we saw this interesting verb to apply.",
+        "chinese": "好的，继续这个美容话题，我们看到了一个有趣的动词“应用”。"
+    },
+    {
+        "start": 444.5,
+        "end": 449.5,
+        "english": "Some moisturizer. So the verb here is to apply something on your skin.",
+        "chinese": "一些保湿霜。所以这个动词在这里是涂抹在你的皮肤上的。"
+    },
+    {
+        "start": 449.5,
+        "end": 454.5,
+        "english": "All right. So the verb to apply means to put on, okay, or to use.",
+        "chinese": "英语：一切好。所以，动词“应用”意味着穿上、使用或利用。"
+    },
+    {
+        "start": 454.5,
+        "end": 461.5,
+        "english": "And this is a verb we often use with beauty care products like apply the shampoo to your head.",
+        "chinese": "英语：和这个我们经常用在美容产品上，比如洗头时把洗发水倒在头上。"
+    },
+    {
+        "start": 461.5,
+        "end": 462.5,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 462.5,
+        "end": 465.5,
+        "english": "Or apply some fingernail polish.",
+        "chinese": "英语：或者涂抹一些指甲油。"
+    },
+    {
+        "start": 465.5,
+        "end": 468.5,
+        "english": "Mm-hmm. Means that you're going to, yeah, to put it on yourself.",
+        "chinese": "英语：嗯，意思就是你得自己动手了。"
+    },
+    {
+        "start": 468.5,
+        "end": 469.5,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 469.5,
+        "end": 474.5,
+        "english": "So, when we say apply some moisturizer is to use moisturizer.",
+        "chinese": "所以，当我们说使用一些保湿霜时，就是用保湿霜了。"
+    },
+    {
+        "start": 474.5,
+        "end": 476.5,
+        "english": "Yeah, to put it on your skin.",
+        "chinese": "嗯，贴在身上。"
+    },
+    {
+        "start": 476.5,
+        "end": 479.5,
+        "english": "Like I apply my makeup. That means I put the makeup on my skin.",
+        "chinese": "英语：像我化妆一样。这意味着我在我的皮肤上涂了化妆品。"
+    },
+    {
+        "start": 479.5,
+        "end": 480.5,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 480.5,
+        "end": 485.5,
+        "english": "So in this case moisturizer is a great cream that we use when our skin is dry and we want it to be more healthy.",
+        "chinese": "所以，在这种情况下，保湿霜是我们用来补充皮肤干燥并使其变得更健康的非常有效的产品。"
+    },
+    {
+        "start": 485.5,
+        "end": 489.5,
+        "english": "We want it to be less dry and we add this.",
+        "chinese": "我们希望它更湿润，所以我们添加了这个。"
+    },
+    {
+        "start": 489.5,
+        "end": 490.5,
+        "english": "Right. Okay.",
+        "chinese": "正确。好的。"
+    },
+    {
+        "start": 490.5,
+        "end": 494.5,
+        "english": "And lastly, after you exfoliate, you apply moisturizer.",
+        "chinese": "最后，你还需要在之后的护肤步骤中使用保湿产品。"
+    },
+    {
+        "start": 494.5,
+        "end": 501.5,
+        "english": "You do everything. He says that you leave the beauty salon feeling like a million bucks.",
+        "chinese": "你做的一切。他说，你离开美容沙龙时会感觉像富翁一样。"
+    },
+    {
+        "start": 501.5,
+        "end": 507.5,
+        "english": "All right. To feel like a million bucks, this is a phrase that we often use to say you feel wonderful.",
+        "chinese": "英语：一切好。这句话我们经常用来表示你感觉非常棒。"
+    },
+    {
+        "start": 507.5,
+        "end": 508.5,
+        "english": "You feel great.",
+        "chinese": "你感觉很好。"
+    },
+    {
+        "start": 508.5,
+        "end": 512.5,
+        "english": "You feel really good. And so this is the main reason to go to the beauty spa, right, Marco?",
+        "chinese": "你好，Marco。感觉很好。所以这个去美容院的原因就是你提到的，对吧？"
+    },
+    {
+        "start": 512.5,
+        "end": 516.5,
+        "english": "Right. So you go there because you want to feel like a million bucks.",
+        "chinese": "正确：英语：你去那里是因为你想感觉自己像百万富翁。"
+    },
+    {
+        "start": 516.5,
+        "end": 518.5,
+        "english": "So you feel very, very, very good.",
+        "chinese": "英语：所以你感觉非常，非常，非常好。"
+    },
+    {
+        "start": 518.5,
+        "end": 522.5,
+        "english": "Sometimes when I buy a new outfit and I try it on, I'm really excited.",
+        "chinese": "英语：有时当我买新衣服试穿时，我真的很兴奋。"
+    },
+    {
+        "start": 522.5,
+        "end": 525.5,
+        "english": "I say, oh, I feel like a million bucks.",
+        "chinese": "我来说，哎呀，我感觉自己像百万富翁。"
+    },
+    {
+        "start": 525.5,
+        "end": 530.5,
+        "english": "So I guess the other form of this word will actually be you look like a million bucks.",
+        "chinese": "英语：所以我想，这个其他形式应该会是你看起来像百万富翁。"
+    },
+    {
+        "start": 530.5,
+        "end": 532.5,
+        "english": "Someone can look like a million bucks.",
+        "chinese": "一个人可以看起来像百万美元。"
+    },
+    {
+        "start": 532.5,
+        "end": 537.5,
+        "english": "Exactly. So I see my friend coming from the beauty spa and I say, wow, you look like a million bucks.",
+        "chinese": "正好。所以我看到我的朋友从美容院过来，我说，哇，你看起来就像百万富翁一样。"
+    },
+    {
+        "start": 537.5,
+        "end": 538.5,
+        "english": "You look great.",
+        "chinese": "你好！有什么我可以帮助你的吗？"
+    },
+    {
+        "start": 538.5,
+        "end": 541.5,
+        "english": "All right. So let's listen to our dialogue one last time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 541.5,
+        "end": 544.5,
+        "english": "Let's review everything and we'll be back in a bit.",
+        "chinese": "让我们回顾一下所有的事情，然后我们会尽快回来。"
+    },
+    {
+        "start": 548.5,
+        "end": 550.5,
+        "english": "You want to go get a facial with me today?",
+        "chinese": "你好，今天想和你一起去拍脸吗？"
+    },
+    {
+        "start": 550.5,
+        "end": 552.5,
+        "english": "Dude, what are you talking about?",
+        "chinese": "嘿，你正在说什么？"
+    },
+    {
+        "start": 552.5,
+        "end": 553.5,
+        "english": "Holy girls, do that.",
+        "chinese": "在中文中，这句话可以翻译为："
+    },
+    {
+        "start": 553.5,
+        "end": 557.5,
+        "english": "Not at all. Guys also get facials, manicures and pedicures.",
+        "chinese": "不，哥们。你也得去理毛发，美甲和脱毛。"
+    },
+    {
+        "start": 557.5,
+        "end": 560.5,
+        "english": "There's nothing wrong with looking after your skin and looking good.",
+        "chinese": "有啥不对的地方，还是应该好好照顾自己的皮肤和保持好状态。"
+    },
+    {
+        "start": 560.5,
+        "end": 563.5,
+        "english": "True. So what do they do to you at your beauty spa?",
+        "chinese": "是的。他们到底在你的美容SPA里干了些什么？"
+    },
+    {
+        "start": 563.5,
+        "end": 567.5,
+        "english": "Well, first they exfoliate my face, getting rid of all the dead skin.",
+        "chinese": "嗯，他们先是用面膜去除我的皮肤，把所有的死皮都去掉。"
+    },
+    {
+        "start": 567.5,
+        "end": 570.5,
+        "english": "Then I get a face mask with nutrients that keep my skin healthy and young.",
+        "chinese": "然后，我得到一个面罩，它含有营养素，可以帮助我的皮肤保持健康和年轻。"
+    },
+    {
+        "start": 570.5,
+        "end": 574.5,
+        "english": "Afterwards, they apply some moisturizer and you leave feeling like a million bucks.",
+        "chinese": "然后，他们给皮肤打了一层保湿霜，并且你感觉整个人都比以前强了。"
+    },
+    {
+        "start": 574.5,
+        "end": 577.5,
+        "english": "That doesn't really sound like something I would be interested in.",
+        "chinese": "这句话的意思是：“那并不像我感兴趣。”"
+    },
+    {
+        "start": 577.5,
+        "end": 581.5,
+        "english": "In any case, I just wash my face every night and use sunscreen during the day.",
+        "chinese": "英语：在任何情况下，我总是洗完脸然后使用防晒霜。"
+    },
+    {
+        "start": 581.5,
+        "end": 584.5,
+        "english": "Well, you should come with me one day. I'm sure you'll love it.",
+        "chinese": "英语：嗯，你明天来一起。我相信你会喜欢的。"
+    },
+    {
+        "start": 584.5,
+        "end": 586.5,
+        "english": "Uh, no.",
+        "chinese": "嗯，没有。"
+    },
+    {
+        "start": 588.5,
+        "end": 594.5,
+        "english": "All right. So facials, this sort of thing is commonly, mostly associated with women.",
+        "chinese": "好的。所以面部，这种类型的东西通常与女性有关。"
+    },
+    {
+        "start": 594.5,
+        "end": 600.5,
+        "english": "But as we saw in the dialogue, more and more men are actually taking care of their skin and their appearance.",
+        "chinese": "但是正如对话中所见，越来越多的男人正在努力照顾他们的皮肤和外表。"
+    },
+    {
+        "start": 600.5,
+        "end": 606.5,
+        "english": "That's right. So while this might have been traditionally a woman's event going to the spa, having a girl's day,",
+        "chinese": "是的，你说得对。虽然这可能在传统上被视为女士们的日间活动，但去美容院时，女性一天的时间还是有的。"
+    },
+    {
+        "start": 606.5,
+        "end": 610.5,
+        "english": "having a girl's day at the spa, you're right, Mark. A lot of men like to do this.",
+        "chinese": "英语：拥有一个女日的spa日，你对吗，马克？很多男人喜欢做这个。"
+    },
+    {
+        "start": 610.5,
+        "end": 614.5,
+        "english": "Just because you get a manicure doesn't mean you have to have pink fingernails.",
+        "chinese": "英语：只要你修个指甲，就不一定意味着你要有粉色的指甲。"
+    },
+    {
+        "start": 614.5,
+        "end": 620.5,
+        "english": "You can actually just have your nails taking care of and cleaned and cut and your cuticles taking care of.",
+        "chinese": "你可以说，你可以直接让你的指甲、剪刀和手指去照顾自己的问题。"
+    },
+    {
+        "start": 620.5,
+        "end": 622.5,
+        "english": "So it feels really nice.",
+        "chinese": "英语：所以感觉真的很舒服。"
+    },
+    {
+        "start": 622.5,
+        "end": 628.5,
+        "english": "That's right. Actually, it's a common new trend that we've even heard in the news about.",
+        "chinese": "是的，正确。实际上，在我们听到这个新闻的时候，这种新趋势已经相当普遍了。"
+    },
+    {
+        "start": 628.5,
+        "end": 639.5,
+        "english": "And the term that men are labeled with when they take excessive care of their skin and their appearance, they say they're metrosexuals.",
+        "chinese": "和人们在皮肤和外表上过度照顾自己时被标签化，他们说他们是“摩登型”。"
+    },
+    {
+        "start": 639.5,
+        "end": 641.5,
+        "english": "Metrosexual. Right.",
+        "chinese": "地铁恋。对。"
+    },
+    {
+        "start": 641.5,
+        "end": 648.5,
+        "english": "Now, this is a man who, like you say, likes to dress nicely, takes care of his hair, has nice skin.",
+        "chinese": "现在，这是个喜欢打扮、照顾头发和皮肤的人。"
+    },
+    {
+        "start": 648.5,
+        "end": 656.5,
+        "english": "Someone who really takes care of their body. And it's different from, um, from being a homosexual, for example,",
+        "chinese": "真正照顾自己的人。和同性恋者一样，这是不同的。"
+    },
+    {
+        "start": 656.5,
+        "end": 664.5,
+        "english": "where maybe that's a stereotype that we have, where we say, oh, well, you know, some people who are homosexual like to dress right",
+        "chinese": "在那也许是一个刻板印象，我们说，哦，你知道，有些人喜欢穿正装。"
+    },
+    {
+        "start": 664.5,
+        "end": 670.5,
+        "english": "well and take care of their skin. Metrosexual people, men are straight. They're not gay.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 670.5,
+        "end": 676.5,
+        "english": "But they still like to do these things to go to the spa or to take care of their appearances.",
+        "chinese": "但是他们仍然喜欢去做这些事情，比如去美容院或者保养自己的外貌。"
+    },
+    {
+        "start": 676.5,
+        "end": 683.5,
+        "english": "Right. So it's a very interesting topic, specifically now a days where this type of thing is more and more common.",
+        "chinese": "正确。所以，它是一种非常有趣的话题，特别是在今天，这种类型的东西越来越普遍了。"
+    },
+    {
+        "start": 683.5,
+        "end": 697.5,
+        "english": "And yet still in many places and cultures, it's very much taboo, obviously being a manly, man-associated with that is, you know, you don't really take care of your appearance.",
+        "chinese": "英语：然而，在许多地方和文化中，它仍然是非常不受欢迎的，很明显是男性相关的，你可能并不太关心自己的外貌。"
+    },
+    {
+        "start": 697.5,
+        "end": 707.5,
+        "english": "You know, you wake up and you still look kind of messy and half asleep or, you know, a guy has scars and beards and stuff.",
+        "chinese": "英语：你知道，你醒来后仍然看起来有点乱和半睡半醒的样子，或者，你可能有一个疤痕和胡须。"
+    },
+    {
+        "start": 707.5,
+        "end": 714.5,
+        "english": "So you don't really associate it much, but it's very interesting to see these types of different cultural aspects.",
+        "chinese": "所以，你并不太把它当作一个点和拍的设备，但确实很有趣看到这些不同的文化方面。"
+    },
+    {
+        "start": 714.5,
+        "end": 722.5,
+        "english": "So we would like to know if in your culture, your country, this is a common practice. Is it acceptable or is it very, very rare?",
+        "chinese": "英语：所以我们希望知道，在你的文化、国家或你这里，这是普遍的习俗吗？是可接受的还是非常罕见的？"
+    },
+    {
+        "start": 722.5,
+        "end": 731.5,
+        "english": "And if you go to the beauty spa, whether you're a man or a woman, what's your favorite service? Do you like the facials? Do you like the pedicures? Let us know.",
+        "chinese": "英语：如果你想去美容院，无论你是男人还是女人，你最喜欢的服务是什么？你喜欢做面部护理吗？你喜欢美甲服务吗？让我们知道。"
+    },
+    {
+        "start": 731.5,
+        "end": 733.5,
+        "english": "Our website is engluchpod.com.",
+        "chinese": "我们的网站是英伦点播网。"
+    },
+    {
+        "start": 733.5,
+        "end": 734.5,
+        "english": "All right. We'll see you guys there.",
+        "chinese": "好的。我们见你了。"
+    },
+    {
+        "start": 734.5,
+        "end": 735.5,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

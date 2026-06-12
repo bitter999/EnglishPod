@@ -1,0 +1,758 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.2,
+        "english": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+        "chinese": "大家好，欢迎再次来到英语播客。我的名字是马科。"
+    },
+    {
+        "start": 7.2,
+        "end": 11.92,
+        "english": "And my name is Catherine. So as usual we've got a great dialogue for you today",
+        "chinese": "我是凯特，所以今天我们的对话总是很愉快。"
+    },
+    {
+        "start": 11.92,
+        "end": 15.32,
+        "english": "and before we get going I should mention what the topic is. So Marco, take it away.",
+        "chinese": "首先，我需要澄清的是，您提供的这句话是用中文写的。如果您有其他问题或需要进一步的帮助，请随时告诉我。"
+    },
+    {
+        "start": 15.32,
+        "end": 20.04,
+        "english": "We are actually having a small fight at the office. Somebody or a coworker",
+        "chinese": "我们实际上在办公室里正发生小摩擦。有人或同事正在争吵。"
+    },
+    {
+        "start": 20.04,
+        "end": 25.560000000000002,
+        "english": "is annoying us. So you know sometimes coworkers, you see them every day, they're doing something that's",
+        "chinese": "是让人烦人的。所以你知道有时同事，你每天看到他们，他们正在做的事情"
+    },
+    {
+        "start": 25.560000000000002,
+        "end": 29.96,
+        "english": "maybe getting on your nerves. And you practically live together because you're with each other",
+        "chinese": "也许让你生气。而且你几乎和对方生活在一起，因为你与他/她在一起。"
+    },
+    {
+        "start": 29.96,
+        "end": 34.84,
+        "english": "for eight, nine, ten hours every day. Exactly. So that's what we're going to be looking at.",
+        "chinese": "对于八、九、十个小时每天。正好。所以我们打算每天都要看。"
+    },
+    {
+        "start": 34.84,
+        "end": 39.72,
+        "english": "Today some language related to this topic. So let's listen to that dialogue for the first time.",
+        "chinese": "今天有关这个话题的语种。所以让我们先听一下这段对话。"
+    },
+    {
+        "start": 46.120000000000005,
+        "end": 53.16,
+        "english": "Hey Mary, can you cut that out? Cut what out. I'm not doing anything. The tapping of your pen on your desk.",
+        "chinese": "你好玛丽，你能去掉这个吗？去掉什么。我没有做任何事情。你的钢笔在桌子上敲打的声音。"
+    },
+    {
+        "start": 53.16,
+        "end": 58.52,
+        "english": "It's driving me crazy. Fine. By the way, would you mind not",
+        "chinese": "我感到非常困扰。好的，不过，你介意我不打扰你一下吗？"
+    },
+    {
+        "start": 58.52,
+        "end": 64.44,
+        "english": "slurping your coffee every time you have a cup? I don't slurp my coffee. And plus how can you hear it",
+        "chinese": "每次喝咖啡时，你总是咕噜咕噜地喝吗？我不咕噜咕噜地喝咖啡。而且，你怎么能听到呢？"
+    },
+    {
+        "start": 64.44,
+        "end": 70.76,
+        "english": "when you're shouting into your phone all the time? You've got to be kidding me. You're complaining about me",
+        "chinese": "当你一直对着手机大喊大叫？你得让我咋办。你一直在抱怨我"
+    },
+    {
+        "start": 70.76,
+        "end": 75.96000000000001,
+        "english": "talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze.",
+        "chinese": "当您每天出去抽烟十次，打电话聊天。"
+    },
+    {
+        "start": 76.84,
+        "end": 82.36,
+        "english": "Look, we have a lot of accumulated anger from working in these conditions. And it's probably okay to",
+        "chinese": "请看，我们有很多积攒的愤怒来自这些条件。而且，大概是可以接受的。"
+    },
+    {
+        "start": 82.36,
+        "end": 87.56,
+        "english": "let off steam once in a while. But it's probably not a good idea to keep it up. I'm willing to",
+        "chinese": "放轻松一会儿。但恐怕不是个好主意，我愿意"
+    },
+    {
+        "start": 87.56,
+        "end": 93.88,
+        "english": "forgive and forget if you are. Fine. Let's call it truce. I'll try to be more considerate and",
+        "chinese": "请原谅和忘记，如果你们是。好的。我们可以称作“停战”。我会尽量更加周到和"
+    },
+    {
+        "start": 93.88,
+        "end": 100.28,
+        "english": "keep the noise down. Yeah, I'll try to do the same. So I was wondering, do you want to go out to",
+        "chinese": "请保持噪音低。嗯，我也会试试。所以我想知道，你是否想出去走走。"
+    },
+    {
+        "start": 100.28,
+        "end": 112.12,
+        "english": "dinner for a night? All right, we're back. So yeah, I think this is a common situation, right?",
+        "chinese": "晚饭吃个夜？行，我们回来。所以啊，我觉得这是个普遍情况，对吧？"
+    },
+    {
+        "start": 112.44,
+        "end": 118.68,
+        "english": "So common, this might even be based on our own lives. It is. You may not know, but Catherine",
+        "chinese": "所以，这可能甚至基于我们的生活。是的，你可能不知道，但凯瑟琳"
+    },
+    {
+        "start": 118.68,
+        "end": 124.76,
+        "english": "and I get into fights all the time. All the time. No, not really. All right, so I think there was some",
+        "chinese": "我经常与人争吵。无休止的争吵。不是真的，对吧？好吧，我想说的是，确实存在一些问题。"
+    },
+    {
+        "start": 124.76,
+        "end": 130.44,
+        "english": "interesting words here, but mostly phrases. So let's start with the words first on language takeaway.",
+        "chinese": "在这里有趣的话，但大部分是短语。所以让我们先从语言小贴士开始。"
+    },
+    {
+        "start": 132.68,
+        "end": 139.32,
+        "english": "Language takeaway. All right, so the first word as you might have guessed has to do with eating and",
+        "chinese": "语言小贴士。好了，那么第一个词你可能已经猜到了，它与吃有关。"
+    },
+    {
+        "start": 139.32,
+        "end": 144.68,
+        "english": "drinking. This is called slurping. And it's slurping. To slurp. So the the noun, the thing is",
+        "chinese": "喝。这是叫吞咽的。而且是吞咽。要吞咽。所以这个名词，就是那个东西。"
+    },
+    {
+        "start": 144.68,
+        "end": 153.4,
+        "english": "slurping. And it's very common with people who who eat their food quickly. Like soup. Yeah, soup",
+        "chinese": "流口水。而且，这在很多人吃饭快的人中很常见。比如汤。嗯，汤"
+    },
+    {
+        "start": 153.4,
+        "end": 160.12,
+        "english": "or you know, yeah, or when they're eating soup noodles. Or sometimes when you have a drink and",
+        "chinese": "或者你懂，对吧？比如在吃汤圆或喝饮料的时候。有时候，当你有酒和茶时。"
+    },
+    {
+        "start": 160.12,
+        "end": 165.88,
+        "english": "you're drinking it through a straw towards the end, you're just like trying to get the very last",
+        "chinese": "你正用一根细长的管子向终点喝，就像试图得到最后的那一滴。"
+    },
+    {
+        "start": 166.68,
+        "end": 172.84,
+        "english": "part at the bottom. So yeah, the straw slurps. Yeah, so slurping. Some people really can't stand it.",
+        "chinese": "底部的部分。所以啊，那根草会流口水。嗯，那么流口水。有些人真的受不了。"
+    },
+    {
+        "start": 172.84,
+        "end": 178.92,
+        "english": "And sometimes you don't even notice that you're doing it. No, absolutely not. All right, so apart from",
+        "chinese": "有时候你甚至不知道你在做什么。对，绝对不。好，所以除了……"
+    },
+    {
+        "start": 178.92,
+        "end": 184.51999999999998,
+        "english": "slurping, what else do we have? We've got a great word here, accumulated. So a lot of accumulated",
+        "chinese": "我们还有什么？这里有一个好词，积累了很多。所以很多积累下来了。"
+    },
+    {
+        "start": 184.51999999999998,
+        "end": 190.44,
+        "english": "anger, the word is a verb to accumulate. And what does that mean? It means to kind of grow or to",
+        "chinese": "愤怒，这个词是一个动词来积累。那么，那意味着什么呢？它意味着："
+    },
+    {
+        "start": 191.4,
+        "end": 196.68,
+        "english": "become more and more. All right. So you're like saving it. Or even it's like building up. You know,",
+        "chinese": "成为...越来越。好！那么你就像保存它，或者甚至像积累。你知道，"
+    },
+    {
+        "start": 196.68,
+        "end": 202.12,
+        "english": "we say this will oftentimes in Chicago where it snows a lot in the winter that there's a foot of",
+        "chinese": "我们说，这在芝加哥，冬天里雪得很多的地方，常常会有半尺厚的积雪。"
+    },
+    {
+        "start": 202.12,
+        "end": 207.64,
+        "english": "snow accumulated on the ground. That means there's a lot of snow. And every time it snows, it keeps",
+        "chinese": "积雪覆盖地面。这意味着有很多雪。每次下雪，它都会保持。"
+    },
+    {
+        "start": 207.64,
+        "end": 213.48,
+        "english": "getting bigger. Yeah. So it's to accumulate. So accumulated anger, your anger is getting bigger",
+        "chinese": "获得更大。是的。所以它是为了积累。所以累积的愤怒，你的愤怒越来越大。"
+    },
+    {
+        "start": 213.48,
+        "end": 217.64,
+        "english": "and bigger. Right. Because you never tell anyone about your anger. So it keeps building and it keeps",
+        "chinese": "而且更大。正确。因为你从不说别人关于你的愤怒的事情，所以它不断增长，最终会达到顶点。"
+    },
+    {
+        "start": 217.64,
+        "end": 223.55999999999997,
+        "english": "piling up. All right. Well, towards the end, they said, well, let's call a truce. So they want to",
+        "chinese": "堆积。好的。最后，他们说的很好，让我们暂时停一停。所以他们想"
+    },
+    {
+        "start": 223.55999999999997,
+        "end": 229.32,
+        "english": "call a truce. All right. A truce is another word for a piece. And so this is a way that you can stop",
+        "chinese": "请一个停顿。好的。停顿是另一个词，而且这是你停止的一种方式。"
+    },
+    {
+        "start": 229.32,
+        "end": 234.2,
+        "english": "fighting and say that you and I have been fighting for a long time. We may not come to a deal, but",
+        "chinese": "战斗并说，你和我已经打了很长时间。我们可能不会达成协议，但"
+    },
+    {
+        "start": 234.2,
+        "end": 239.56,
+        "english": "we'll say truce from now on, we just won't fight. Okay. We won't fight about it. Okay. Brothers and",
+        "chinese": "我们以后将说停战，我们将不再打仗。好的。我们不会因为这事而争吵。好的。兄弟们和姐妹们，"
+    },
+    {
+        "start": 239.56,
+        "end": 245.48,
+        "english": "sisters often call truces. True. And well, if you're calling a truce, you're trying to be more",
+        "chinese": "姐妹们经常称作停火。正确。而且，如果你是在说停火，你就是在试图变得更"
+    },
+    {
+        "start": 245.48,
+        "end": 251.07999999999998,
+        "english": "considerate. Okay. Considerate. Like you're saying is a is a way to be or a way to act and consider it",
+        "chinese": "考虑周到。好的。考虑周到。像你说的，是表示一种方式或行为，或者是一种行动。"
+    },
+    {
+        "start": 252.12,
+        "end": 256.76,
+        "english": "often has to do with how you act towards other people. So it's being nice to other people or",
+        "chinese": "经常与别人的行为有关。因此，我们应该以友善的态度对待他人。"
+    },
+    {
+        "start": 256.76,
+        "end": 262.44,
+        "english": "thinking about other people's feelings before yourself. All right. So if you're considerate, then",
+        "chinese": "思考别人感受之前自己。好的，如果你是体贴的，那么"
+    },
+    {
+        "start": 262.44,
+        "end": 267.24,
+        "english": "you are maybe more polite. You think about the other person's feelings before you do anything.",
+        "chinese": "您可能更礼貌。您考虑别人的情绪之前做任何事情。"
+    },
+    {
+        "start": 267.24,
+        "end": 271.64,
+        "english": "Exactly. You just say nice little things like please and thank you. And I'm sorry. And",
+        "chinese": "是的。你只是说些客气话，比如请和谢谢。我非常抱歉。"
+    },
+    {
+        "start": 271.64,
+        "end": 277.08,
+        "english": "these things are all ways of being considerate. Very good. All right. So four great words on",
+        "chinese": "这些事物都是考虑周到的方式。很好。好的。所以四句好词在。"
+    },
+    {
+        "start": 277.08,
+        "end": 283.88,
+        "english": "language takeaway. Why don't we move on now to Fluency Builder. Fluency Builder.",
+        "chinese": "语言小贴士。我们为什么不赶紧转向 Fluent Builder？Fluent Builder."
+    },
+    {
+        "start": 285.4,
+        "end": 291.71999999999997,
+        "english": "All right. So as we mentioned, this dialogue is very, very rich in a lot of different phrases. So",
+        "chinese": "好的。所以，我们提到的这个对话非常丰富，有很多不同的表达方式。"
+    },
+    {
+        "start": 291.71999999999997,
+        "end": 296.36,
+        "english": "let's start with a couple of them. The very first one and the title of the lesson. Cut it out.",
+        "chinese": "我们先从几个开始。这节课的标题和第一部分。删掉它。"
+    },
+    {
+        "start": 296.36,
+        "end": 303.48,
+        "english": "Cut that out. Hey Mary, can you cut that out? Right. So you're not actually saying to cut something",
+        "chinese": "切掉那个。嘿，玛丽，你能把那个剪掉吗？对的。所以你不是说要剪什么"
+    },
+    {
+        "start": 303.48,
+        "end": 309.88,
+        "english": "with scissors or something. No, this is it's a way of saying can you stop that? Stop it. Stop doing that.",
+        "chinese": "用剪刀或别的东西。不，这是说你不能停止它？停止它。停止做那件事。"
+    },
+    {
+        "start": 309.88,
+        "end": 315.88,
+        "english": "Stop it. Quit it. Okay. Cut that out. Cut it out. So if someone's doing something that's really",
+        "chinese": "停止它。停止它。好的。切断那条线。切断掉。所以如果有人正在做真的"
+    },
+    {
+        "start": 315.88,
+        "end": 321.16,
+        "english": "annoying to you, it's not very nice to say, but you can say, hey, cut that out. Cut it out. Or if",
+        "chinese": "打扰你，说不客气的不说，但你可以这么说，哎呀，放掉这个。放掉这个。或者如果"
+    },
+    {
+        "start": 321.16,
+        "end": 325.72,
+        "english": "someone's doing something mean to someone like my brother used to hit me, my mom would say, Peter,",
+        "chinese": "有人在做一件坏事，就像我哥哥曾经打我一样，我的妈妈会说：彼得。"
+    },
+    {
+        "start": 325.72,
+        "end": 332.44000000000005,
+        "english": "cut that out. All right. So it is a good mom phrase as well. All right. Moving on to our next",
+        "chinese": "切掉那部分。好的，这也是一个好妈妈的表达方式。好的，继续我们的下一个话题。"
+    },
+    {
+        "start": 332.44000000000005,
+        "end": 339.64000000000004,
+        "english": "phrase, the guy said that the tapping on the desk was driving him crazy. It's driving me crazy.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 339.64000000000004,
+        "end": 345.16,
+        "english": "All right. To drive someone crazy means to make someone just feel like they're going nuts. Or",
+        "chinese": "好的。开车把人搞疯意味着要把他们当成自己疯了。或者"
+    },
+    {
+        "start": 345.88000000000005,
+        "end": 352.44000000000005,
+        "english": "you know, just it makes you kind of angry or frustrated or tense. But it can also be used like in",
+        "chinese": "您知道，这只是让你有点生气、有些沮丧或紧张。但也可以用在……"
+    },
+    {
+        "start": 353.16,
+        "end": 358.12,
+        "english": "in a romantic sense, right? That girl drives me crazy. It means like he can't even think about",
+        "chinese": "在浪漫意义上，对吗？那个女孩让我疯狂。也就是说，他连思考都不想。"
+    },
+    {
+        "start": 358.12,
+        "end": 365.64,
+        "english": "anything else. All right. So in this case, what drives you crazy? When I'll tell you what drives me crazy,",
+        "chinese": "任何其他。好的。在这种情况下，您为什么烦恼？当我告诉您我烦恼的原因时，"
+    },
+    {
+        "start": 366.36,
+        "end": 374.28,
+        "english": "when people clip their fingernails and toenails at the office. Can't believe. Well, it drives me crazy,",
+        "chinese": "当人们在办公室剪指甲和指甲时，简直不可思议。嗯，真让我烦透了。"
+    },
+    {
+        "start": 374.28,
+        "end": 379.24,
+        "english": "like for example, when somebody or my brother leaves his clothes lying on the floor in the living room.",
+        "chinese": "例如，当有人或我哥哥把衣服铺在客厅的地板上时。"
+    },
+    {
+        "start": 379.24,
+        "end": 386.12,
+        "english": "That's annoying too. Yeah. So that drives me crazy. All right. So moving on to our third phrase,",
+        "chinese": "那真是烦人。是的，所以让我疯狂。好的。继续我们的第三句话。"
+    },
+    {
+        "start": 386.12,
+        "end": 391.64,
+        "english": "this is a pretty big one, but take it as a whole. You've got to be kidding me. All right. So this is,",
+        "chinese": "这是一幅漂亮的画，但整体来看。你不能相信我。好的。所以这是，"
+    },
+    {
+        "start": 391.64,
+        "end": 397.96000000000004,
+        "english": "as you said, a fixed phrase, these words usually go together and it is a perfect example of sarcasm.",
+        "chinese": "根据您说的，一个固定短语，这些词通常会一起出现，并且这正是讽刺的例子。"
+    },
+    {
+        "start": 398.52,
+        "end": 405.16,
+        "english": "So it's a way the way you say it is very important. So I could say, you've got to be kidding me.",
+        "chinese": "所以，这确实很重要。所以我可以说，你必须开玩笑。"
+    },
+    {
+        "start": 405.8,
+        "end": 411.32000000000005,
+        "english": "What's a good, what's a good situation for this? Maybe I get to the airport and I'm running late",
+        "chinese": "好的，我好好的。你的情况怎么样？可能是我在机场等车，我有点晚到。"
+    },
+    {
+        "start": 411.32000000000005,
+        "end": 416.68,
+        "english": "and I'm really happy that I get there on time. And then I see the flight is delayed seven hours.",
+        "chinese": "我真的很高兴能在时间上准时到达。然后，我看到航班已经延误了七个小时。"
+    },
+    {
+        "start": 416.68,
+        "end": 422.04,
+        "english": "Exactly. You've got to be kidding me. Right. So it's a way of saying I can't believe it or",
+        "chinese": "是的。你不能相信我。对，这就是说我无法相信或者"
+    },
+    {
+        "start": 422.04,
+        "end": 428.28000000000003,
+        "english": "seriously, this isn't. Yeah. What's happening? What bad luck. Right. So it is a sarcastic phrase,",
+        "chinese": "很显然，这并不。是的。发生了什么？真是糟糕透了。对。所以这是讽刺用语。"
+    },
+    {
+        "start": 428.28000000000003,
+        "end": 433.08000000000004,
+        "english": "but use it as a whole. Usually you don't change the subject. You don't say you've got to be kidding him.",
+        "chinese": "但是使用它为整体。通常你不会改变主题。你不会说你要给他开玩笑。"
+    },
+    {
+        "start": 433.08,
+        "end": 438.28,
+        "english": "No, it's always this. You've got to be kidding me. All right. Or you've got to be kidding me.",
+        "chinese": "是的，总是这样。你不能骗我。好吧。或者你也不能骗我。"
+    },
+    {
+        "start": 439.32,
+        "end": 444.84,
+        "english": "See, different meetings with different inflections. Different inflections. Very good. What's our next phrase?",
+        "chinese": "请看，不同的会议有不同的变体。不同的变体。很好。我们的下一个短语是什么？"
+    },
+    {
+        "start": 445.47999999999996,
+        "end": 453.0,
+        "english": "Our next phrase is a good one because it doesn't mean what it sounds like. Okay, so to shoot the breeze,",
+        "chinese": "我们的下一个句子很妙，因为它不像听起来那么有趣。好的，让我们聊点轻松的话题。"
+    },
+    {
+        "start": 453.56,
+        "end": 459.47999999999996,
+        "english": "all right. Shoot means like you can shoot a gun and breeze is like the wind. But here to shoot the",
+        "chinese": "好的。打的意思，比如你可以用枪打子弹和风。但是，这里要打的。"
+    },
+    {
+        "start": 459.48,
+        "end": 464.36,
+        "english": "breeze is to have a nice little conversation just to talk about nothing. Okay. So not really do",
+        "chinese": "风是和别人闲聊，聊点无关紧要的事情。好的。所以不完全是这样。"
+    },
+    {
+        "start": 464.36,
+        "end": 469.08000000000004,
+        "english": "anything. Just talk a little bit. Right. So if we think about this in the context of this sentence,",
+        "chinese": "任何事情。只是聊点小。对吧？。所以如果我们从这个句子的角度来思考，等等。"
+    },
+    {
+        "start": 469.08000000000004,
+        "end": 473.8,
+        "english": "it's, you know, you go out for your cigarette break 10 times a day to shoot the breeze.",
+        "chinese": "它，你知道，你每天出去抽烟10次来打气。"
+    },
+    {
+        "start": 474.6,
+        "end": 479.0,
+        "english": "That means you go outside and you just talk about nothing and whatever. And it's almost like",
+        "chinese": "也就是说，你出去了，只是在说些什么都没有。而且几乎就像是 一样的。"
+    },
+    {
+        "start": 479.0,
+        "end": 483.32,
+        "english": "you're wasting time just talking. Okay. So shooting the breeze, you can say, oh, we were just shooting",
+        "chinese": "你浪费时间只是聊天。好的，那么聊点别的，你可以这么说，哦，我们刚才只是聊。"
+    },
+    {
+        "start": 483.32,
+        "end": 489.40000000000003,
+        "english": "the breeze. Just having a nice little conversation. Nothing important. Okay. And our last phrase for",
+        "chinese": "风。只是随便聊一聊。没什么重要的。好的。我们的最后一个句子是："
+    },
+    {
+        "start": 489.4,
+        "end": 495.32,
+        "english": "today, forgive and forget. Let's forgive and forget. Let's forgive and forget. This is these words",
+        "chinese": "今天，原谅和忘记。让我们原谅和忘记。让我们原谅和忘记。这是这些话"
+    },
+    {
+        "start": 495.32,
+        "end": 501.08,
+        "english": "again like the last phrases go together, forgive and forget. So I could say this to you, Marco, I say,",
+        "chinese": "再次像上文的最后部分一起出现，原谅和忘记。所以我可以说给您听，马科，我说……"
+    },
+    {
+        "start": 501.08,
+        "end": 506.12,
+        "english": "I know you've been fighting with your brother for 10 years. I say finally, just forgive and forget.",
+        "chinese": "我知道你和哥哥已经打了10年。我告诉你，最后，原谅并忘记。"
+    },
+    {
+        "start": 506.12,
+        "end": 512.28,
+        "english": "I mean, just put everything behind you and try and start again. Okay. Let it go. Yeah, forgive the",
+        "chinese": "我意思是，就将一切放好，再试着开始。行吗？放下吧。嗯，原谅我的错误。"
+    },
+    {
+        "start": 512.28,
+        "end": 518.36,
+        "english": "person. Forget about it. Move on. Okay. Forgive and forget. Very good. So very interesting phrase is,",
+        "chinese": "人。 忘掉它。 跑起来。 好的。 感恩和原谅。 很好。 这个很有趣的话是， 请看下面："
+    },
+    {
+        "start": 518.36,
+        "end": 523.8000000000001,
+        "english": "I think they're very useful. And this is very colloquial English, right? Absolutely. This is",
+        "chinese": "我认为它们很有用。而且，这是非常口语化的英语，对吗？绝对。"
+    },
+    {
+        "start": 523.8000000000001,
+        "end": 528.44,
+        "english": "stuff that you're going to hear all the time, but maybe not all together at the same time.",
+        "chinese": "你经常听到的那些东西，但可能不会同时全部听清楚。"
+    },
+    {
+        "start": 528.44,
+        "end": 533.64,
+        "english": "Definitely though, very helpful for interacting with foreign friends and colleagues. Very good. So",
+        "chinese": "当然，总的来说，对与外国朋友和同事进行交流非常有帮助。很好。"
+    },
+    {
+        "start": 533.64,
+        "end": 536.76,
+        "english": "let's listen to the dialogue for the last time and we'll be right back.",
+        "chinese": "让我们再次聆听对话，然后我们马上回来。"
+    },
+    {
+        "start": 543.8000000000001,
+        "end": 548.04,
+        "english": "Hey, Mary, can you cut that out? Cut what out. I'm not doing anything.",
+        "chinese": "你好，玛丽，你能把那块去掉吗？去掉什么。我没有做任何事。"
+    },
+    {
+        "start": 548.36,
+        "end": 552.52,
+        "english": "The tapping of your pen on your desk. It's driving me crazy.",
+        "chinese": "你的笔在桌子上敲击。这让我感到非常烦恼。"
+    },
+    {
+        "start": 553.16,
+        "end": 558.2,
+        "english": "Fine. By the way, would you mind not sipping your coffee every time you have a cup?",
+        "chinese": "好的。不过，你下次喝咖啡时别每次都加水。"
+    },
+    {
+        "start": 558.84,
+        "end": 564.52,
+        "english": "I don't slurp my coffee. And plus, how can you hear it when you're shouting into your phone all the time?",
+        "chinese": "我不吞咽我的咖啡。而且，你如何能听到它，在你一直用手机大声喊叫时？"
+    },
+    {
+        "start": 565.32,
+        "end": 570.6,
+        "english": "You've got to be kidding me. You're complaining about me talking on the phone when you go out for a",
+        "chinese": "你不能骗我。你一直在抱怨我在打电话，当你出去散步时。"
+    },
+    {
+        "start": 570.6,
+        "end": 576.76,
+        "english": "cigarette break 10 times a day to shoot the breeze. Look, we have a lot of accumulated anger",
+        "chinese": "每天抽烟10次，聊点闲事。看，我们有很多积攒的怒气。"
+    },
+    {
+        "start": 576.76,
+        "end": 581.4,
+        "english": "from working in these conditions. And it's probably okay to let off steam once in a while.",
+        "chinese": "从这些条件下工作。而且，偶尔放个假也是可以的。"
+    },
+    {
+        "start": 581.88,
+        "end": 587.24,
+        "english": "But it's probably not a good idea to keep it up. I'm willing to forgive and forget if you are.",
+        "chinese": "但是，我认为最好不要让它继续下去。如果你们愿意原谅和忘记，我愿意放弃它。"
+    },
+    {
+        "start": 587.24,
+        "end": 592.28,
+        "english": "Fine. Let's call it truce. I'll try to be more considerate and keep the noise down.",
+        "chinese": "好的。我们叫它停火。我会尽量更加周到，减少噪音。"
+    },
+    {
+        "start": 592.84,
+        "end": 598.68,
+        "english": "Yeah, I'll try to do the same. So, I was wondering, do you want to go out to dinner Friday night?",
+        "chinese": "是的，我愿意尝试。所以，我想问你，你周五晚上想出去吃晚饭吗？"
+    },
+    {
+        "start": 606.92,
+        "end": 609.3199999999999,
+        "english": "So, do you ever see the TV show Full House when you were a kid?",
+        "chinese": "所以，你是否曾经在小时候看到《全屋》这个电视节目？"
+    },
+    {
+        "start": 609.96,
+        "end": 611.88,
+        "english": "I did. I did. It was a puppet.",
+        "chinese": "我做了。我做了。这是个傀儡。"
+    },
+    {
+        "start": 614.76,
+        "end": 617.8,
+        "english": "With the Olsen twins and all those, right?",
+        "chinese": "有 Olsen 妹妹和她们，对吗？"
+    },
+    {
+        "start": 617.8,
+        "end": 622.4399999999999,
+        "english": "Yeah, and Bob Saggett. So, there was an uncle on the show, Uncle Joey.",
+        "chinese": "是的，还有鲍勃·塞格特。所以，节目里有一个叔叔，叫乔·琼斯。"
+    },
+    {
+        "start": 622.4399999999999,
+        "end": 628.92,
+        "english": "And he always used to say, cut it out. And he had like hand motions for it.",
+        "chinese": "他总是这么说，删掉它。他还像手势一样做了。"
+    },
+    {
+        "start": 628.92,
+        "end": 633.64,
+        "english": "And so, cut it out as a way to say, kind of stop it, quit it. You're killing me.",
+        "chinese": "所以，把它剪掉作为一种方式来表达，大概停止了，结束了。你正在杀死我。"
+    },
+    {
+        "start": 633.64,
+        "end": 636.36,
+        "english": "It's like he was saying too funny. Right.",
+        "chinese": "这句话可以翻译成中文为："
+    },
+    {
+        "start": 636.36,
+        "end": 640.12,
+        "english": "And so, whenever I hear this phrase, I always think of that early 90s show.",
+        "chinese": "所以，每当听到这句话时，我总是会想到那个早期的90年代节目。"
+    },
+    {
+        "start": 640.12,
+        "end": 641.4,
+        "english": "Very early 90s.",
+        "chinese": "早期的九十年代。"
+    },
+    {
+        "start": 642.52,
+        "end": 648.6,
+        "english": "Well, this whole situation with the office as well, I think there was a TV show called The Office, right?",
+        "chinese": "是的，这个办公室的情况，我想有电视节目叫《工作》。"
+    },
+    {
+        "start": 648.6,
+        "end": 651.72,
+        "english": "Yeah, there was the British office and then there was an American version.",
+        "chinese": "是的，有英国办公室，然后有一个美国版本。"
+    },
+    {
+        "start": 652.4399999999999,
+        "end": 658.04,
+        "english": "And it's also something about office life and how colleagues get on each other's nerves and they",
+        "chinese": "而且，也是关于办公室生活和同事之间如何相处以及彼此的烦恼。"
+    },
+    {
+        "start": 658.04,
+        "end": 660.52,
+        "english": "play pranks on each other and everyone's kind of weird.",
+        "chinese": "玩捉弄对方，每个人都有些奇怪。"
+    },
+    {
+        "start": 660.52,
+        "end": 664.28,
+        "english": "And everyone drives everyone else crazy. Exactly.",
+        "chinese": "和每个人都感到烦恼一样。Exactly."
+    },
+    {
+        "start": 664.28,
+        "end": 668.1999999999999,
+        "english": "No, it's funny because once you start working in an office full-time,",
+        "chinese": "是的，这很有趣，因为一旦你开始在办公室全职工作，"
+    },
+    {
+        "start": 668.1999999999999,
+        "end": 672.36,
+        "english": "I mean, everyone's maybe had a little bit of office experience, but when it's full-time,",
+        "chinese": "我指的是，每个人可能都有点办公室经验，但当它全职化时。"
+    },
+    {
+        "start": 672.36,
+        "end": 675.8,
+        "english": "you spend more time with your colleagues and you do with your family.",
+        "chinese": "您花更多的时间与同事相处，也花时间与家人相处。"
+    },
+    {
+        "start": 676.36,
+        "end": 681.48,
+        "english": "It's really amazing what makes you crazy, what drives you crazy, and what stuff does",
+        "chinese": "真的非常让你疯狂，让你疯狂的原因是什么，以及这些东西对你有什么影响。"
+    },
+    {
+        "start": 681.48,
+        "end": 685.3199999999999,
+        "english": "doesn't matter. So, this is an interesting topic. We really want to hear from you guys.",
+        "chinese": "没关系。所以，这是一个有趣的话题。我们真的很想听听你们的意见。"
+    },
+    {
+        "start": 686.0400000000001,
+        "end": 688.44,
+        "english": "Many of you probably work at an office, so tell us.",
+        "chinese": "许多您可能工作在办公室，所以告诉我。"
+    },
+    {
+        "start": 688.44,
+        "end": 693.96,
+        "english": "So, come and tell us what drives you crazy or maybe what colleague is driving you mad.",
+        "chinese": "所以，来告诉我你为什么烦恼或者可能是你的同事在生气。"
+    },
+    {
+        "start": 693.96,
+        "end": 698.6,
+        "english": "You don't have to use names. You can just use nicknames if you want.",
+        "chinese": "您不需要使用名字。如果您想，可以使用昵称。"
+    },
+    {
+        "start": 698.6,
+        "end": 702.84,
+        "english": "Right. So, we'll be waiting for you at EnglishPod.com, leave questions and comments,",
+        "chinese": "好的，那么我们将等待在英语pod.com上，请问有问题和评论。"
+    },
+    {
+        "start": 702.84,
+        "end": 704.44,
+        "english": "and we'll see you guys next time.",
+        "chinese": "下一次见。"
+    },
+    {
+        "start": 704.44,
+        "end": 705.4000000000001,
+        "english": "Yep. Bye, everyone.",
+        "chinese": "是的。再见，大家。"
+    },
+    {
+        "start": 705.4000000000001,
+        "end": 705.88,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

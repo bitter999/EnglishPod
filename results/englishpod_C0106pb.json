@@ -1,0 +1,2066 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.8,
+        "english": "Hello English learners, welcome back to another podcast with us here at EnglishPod.",
+        "chinese": "大家好，欢迎再次来到我们的英语学习节目。很高兴再次与大家分享我的经验。"
+    },
+    {
+        "start": 6.8,
+        "end": 7.8,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是马科。"
+    },
+    {
+        "start": 7.8,
+        "end": 9.36,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 9.36,
+        "end": 13.72,
+        "english": "And today we're going to be looking at a very popular topic, something that everyone",
+        "chinese": "今天我们将要讨论的一个非常受欢迎的话题，这是一个每个人都关心的问题。"
+    },
+    {
+        "start": 13.72,
+        "end": 16.64,
+        "english": "has to do at least once in their life.",
+        "chinese": "至少在他们的生活中要进行一次。"
+    },
+    {
+        "start": 16.64,
+        "end": 22.400000000000002,
+        "english": "That's right, we're talking about mobile phones and getting a mobile phone plan.",
+        "chinese": "那对，我们正在谈论移动电话和获得移动电话套餐。"
+    },
+    {
+        "start": 22.400000000000002,
+        "end": 27.52,
+        "english": "Right, so you have a mobile phone, you need to get a plan or you need to do something",
+        "chinese": "是的，您有手机，需要订购计划还是做点什么？"
+    },
+    {
+        "start": 27.52,
+        "end": 29.560000000000002,
+        "english": "in order to make it work, right?",
+        "chinese": "为了使其工作，正确？"
+    },
+    {
+        "start": 29.639999999999997,
+        "end": 33.8,
+        "english": "Yes, and in this lesson we're going to learn some language to help you do that.",
+        "chinese": "是的，在这节课里，我们将学习一些语言，帮助你实现这个目标。"
+    },
+    {
+        "start": 33.8,
+        "end": 37.239999999999995,
+        "english": "Alright, so let's start with the language on vocabulary preview.",
+        "chinese": "好的，那么我们就开始用词汇预览的语言进行对话。"
+    },
+    {
+        "start": 40.28,
+        "end": 47.480000000000004,
+        "english": "In the dialogue, we're going to compare two types of mobile phone plans, the prepaid plan",
+        "chinese": "在对话中，我们将比较两种移动电话套餐类型，即预付费计划。"
+    },
+    {
+        "start": 47.480000000000004,
+        "end": 49.239999999999995,
+        "english": "and the monthly rate plan.",
+        "chinese": "和月度计划。"
+    },
+    {
+        "start": 49.239999999999995,
+        "end": 52.76,
+        "english": "Okay, so we have two types of plans, prepaid.",
+        "chinese": "好的，所以我们有两个类型的选择。预存费。"
+    },
+    {
+        "start": 52.76,
+        "end": 54.76,
+        "english": "Prepaid plan.",
+        "chinese": "预付费计划。"
+    },
+    {
+        "start": 54.76,
+        "end": 56.92,
+        "english": "Okay, a prepaid plan.",
+        "chinese": "好的，预存计划。"
+    },
+    {
+        "start": 56.92,
+        "end": 64.6,
+        "english": "Well, a prepaid plan, basically just like the name suggests, you pay before you use the minutes.",
+        "chinese": "嗯，预存套餐，基本上就像名字所暗示的那样，你先用分钟支付。"
+    },
+    {
+        "start": 64.6,
+        "end": 70.04,
+        "english": "So you maybe you have to buy a card and then you can use maybe 20 minutes or 30 minutes or 100 minutes.",
+        "chinese": "所以你可能需要买一张卡，然后你可以使用大约20分钟、30分钟或100分钟。"
+    },
+    {
+        "start": 70.04,
+        "end": 70.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 70.84,
+        "end": 77.56,
+        "english": "And then when you run out of money or you use all your minutes, you can buy another card and like that.",
+        "chinese": "然后当你用完了钱或使用完所有分钟，你可以再买一张卡，并且像这样。"
+    },
+    {
+        "start": 77.56,
+        "end": 81.16,
+        "english": "Yeah, but the monthly rate plan is different.",
+        "chinese": "是的，但是月度计费计划有所不同。"
+    },
+    {
+        "start": 81.16,
+        "end": 84.44,
+        "english": "So the monthly rate plan you have to pay each month.",
+        "chinese": "所以，您每月需要支付的月费计划。"
+    },
+    {
+        "start": 84.52,
+        "end": 85.88,
+        "english": "Right, at the end of each month.",
+        "chinese": "正确，每月末。"
+    },
+    {
+        "start": 85.88,
+        "end": 86.92,
+        "english": "At the end of each month.",
+        "chinese": "在每个月的末尾。"
+    },
+    {
+        "start": 86.92,
+        "end": 87.88,
+        "english": "And what do you pay?",
+        "chinese": "您支付什么？"
+    },
+    {
+        "start": 88.44,
+        "end": 90.44,
+        "english": "You pay for everything you used.",
+        "chinese": "您为所有您使用的东西付费。"
+    },
+    {
+        "start": 90.44,
+        "end": 92.12,
+        "english": "You get a bill at the end of the month.",
+        "chinese": "您在月底收到账单。"
+    },
+    {
+        "start": 92.12,
+        "end": 92.75999999999999,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 92.75999999999999,
+        "end": 94.75999999999999,
+        "english": "Okay, so very interesting.",
+        "chinese": "好的，非常有趣。"
+    },
+    {
+        "start": 94.75999999999999,
+        "end": 97.72,
+        "english": "These are the ways that mobile phone plans usually work.",
+        "chinese": "这些是大多数移动电话套餐通常的工作方式。"
+    },
+    {
+        "start": 97.72,
+        "end": 102.03999999999999,
+        "english": "And well, now it's time for us to listen to this dialogue for the first time.",
+        "chinese": "而且，现在是时候听了。"
+    },
+    {
+        "start": 102.03999999999999,
+        "end": 109.72,
+        "english": "We are going to be listening as a shopper is looking to buy maybe a mobile phone or get a mobile phone plan.",
+        "chinese": "我们将会倾听正在寻找买手机或订购手机套餐的顾客。"
+    },
+    {
+        "start": 115.08,
+        "end": 119.56,
+        "english": "Yeah, I just moved here and I'd like to activate my cell phone.",
+        "chinese": "是的，我刚刚搬到了这里，并且想激活我的手机。"
+    },
+    {
+        "start": 119.56,
+        "end": 123.48,
+        "english": "And I'm not sure if I should go with a prepaid plan or a monthly rate plan.",
+        "chinese": "我并不确定是否应该选择预付费计划或月度计费计划。"
+    },
+    {
+        "start": 124.28,
+        "end": 124.67999999999999,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 125.24,
+        "end": 126.36,
+        "english": "Well, can I have a look at your phone?",
+        "chinese": "你好，可以看看你的手机吗？"
+    },
+    {
+        "start": 127.48,
+        "end": 129.8,
+        "english": "Unfortunately, this phone can't be used in the US.",
+        "chinese": "抱歉，这个手机在美国无法使用。"
+    },
+    {
+        "start": 129.8,
+        "end": 131.72,
+        "english": "It's not compatible with our 3G network.",
+        "chinese": "不是我们的3G网络兼容。"
+    },
+    {
+        "start": 132.44,
+        "end": 132.76,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 133.32,
+        "end": 133.64,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 134.2,
+        "end": 136.92,
+        "english": "I don't really want to have to buy a new phone.",
+        "chinese": "我不太想买新的手机。"
+    },
+    {
+        "start": 136.92,
+        "end": 137.8,
+        "english": "Well, you're in luck.",
+        "chinese": "很好，你运气好。"
+    },
+    {
+        "start": 137.8,
+        "end": 141.48,
+        "english": "You see, if you sign up for our three-year plan, we'll throw in a handset for free.",
+        "chinese": "如果你选择我们的三年计划，我们将免费赠送一部手机。"
+    },
+    {
+        "start": 141.48,
+        "end": 141.96,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 141.96,
+        "end": 143.0,
+        "english": "What's the cat?",
+        "chinese": "猫是什么？"
+    },
+    {
+        "start": 143.0,
+        "end": 144.04,
+        "english": "There's no catch.",
+        "chinese": "没有问题。"
+    },
+    {
+        "start": 144.12,
+        "end": 147.07999999999998,
+        "english": "You just choose a plan, sign a three-year contract, and that's it.",
+        "chinese": "选择一个计划，签订三年的合同，这就是了。"
+    },
+    {
+        "start": 147.07999999999998,
+        "end": 149.64,
+        "english": "Actually, we're running a special promotion right now.",
+        "chinese": "实际上，我们正在进行特别促销。"
+    },
+    {
+        "start": 149.64,
+        "end": 153.39999999999998,
+        "english": "And we're giving away a Blackberry Curve with our special mega-value $40 plan.",
+        "chinese": "我们正在向您提供一款BlackBerry Curve，该产品带有我们的特别价值$40的超级套餐。"
+    },
+    {
+        "start": 153.95999999999998,
+        "end": 156.6,
+        "english": "So, what does this plan include?",
+        "chinese": "所以，这个计划包括什么？"
+    },
+    {
+        "start": 156.6,
+        "end": 161.56,
+        "english": "Well, you get 900 anytime minutes and you can also enjoy free mobile-to-mobile calling",
+        "chinese": "嗯，你每次通话可以得到900分钟的时长，还可以免费进行手机与手机之间的通话。"
+    },
+    {
+        "start": 161.56,
+        "end": 163.07999999999998,
+        "english": "to other tell mobile clients.",
+        "chinese": "将其他告诉移动客户端。"
+    },
+    {
+        "start": 163.07999999999998,
+        "end": 167.0,
+        "english": "A thousand text messages per month and unlimited evening and weekend minutes.",
+        "chinese": "千条短信每月，无限的晚上和周末分钟。"
+    },
+    {
+        "start": 167.0,
+        "end": 169.39999999999998,
+        "english": "Oh, and we also offer a roll-over option.",
+        "chinese": "当然，我们还提供滚回选项。"
+    },
+    {
+        "start": 169.95999999999998,
+        "end": 172.92,
+        "english": "Wow, all this for $40 per month.",
+        "chinese": "哇，这么多，每月只需 40 元。"
+    },
+    {
+        "start": 172.92,
+        "end": 173.55999999999997,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 173.55999999999997,
+        "end": 176.35999999999999,
+        "english": "Plus the activation fee and the emergency services fee,",
+        "chinese": "plus 申领费和紧急服务费"
+    },
+    {
+        "start": 176.35999999999999,
+        "end": 180.6,
+        "english": "the monthly service fee, and oh, and any charges for extra minutes and...",
+        "chinese": "月服务费，还有任何额外分钟的费用..."
+    },
+    {
+        "start": 185.48,
+        "end": 189.39999999999998,
+        "english": "Well, it sounds like a lot more than $40, doesn't it?",
+        "chinese": "是的，听起来比40多一点。"
+    },
+    {
+        "start": 189.39999999999998,
+        "end": 190.51999999999998,
+        "english": "This is very common.",
+        "chinese": "这是非常常见的。"
+    },
+    {
+        "start": 190.51999999999998,
+        "end": 196.44,
+        "english": "They always say that it's a very low price and they always have these hidden charges, right?",
+        "chinese": "他们总是说价格很低，而且总是有这些隐藏费用。"
+    },
+    {
+        "start": 196.44,
+        "end": 197.88,
+        "english": "Yeah, you're right.",
+        "chinese": "是的，您说得对。"
+    },
+    {
+        "start": 197.88,
+        "end": 201.88,
+        "english": "So, why don't we look at some of the language they were using in the dialogue now in",
+        "chinese": "所以，我们为什么不看看一下他们现在在对话中使用的语言呢？"
+    },
+    {
+        "start": 201.88,
+        "end": 202.68,
+        "english": "language takeaway?",
+        "chinese": "语言小贴士？"
+    },
+    {
+        "start": 204.6,
+        "end": 205.72,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 206.76,
+        "end": 208.44,
+        "english": "All right, a language takeaway today.",
+        "chinese": "今天，语言小站来了。"
+    },
+    {
+        "start": 208.44,
+        "end": 213.79999999999998,
+        "english": "We're going to be looking at four very basic words that are used in this whole mobile phone",
+        "chinese": "我们将会关注这整个手机的四个非常基础的词，这些词在这一整套移动电话中都使用。"
+    },
+    {
+        "start": 213.79999999999998,
+        "end": 217.0,
+        "english": "context and the first one is activate.",
+        "chinese": "在上下文和第一个是激活。"
+    },
+    {
+        "start": 217.96,
+        "end": 220.04,
+        "english": "To activate my cell phone.",
+        "chinese": "要激活我的手机。"
+    },
+    {
+        "start": 220.04,
+        "end": 223.32,
+        "english": "All right, so you have to activate your cell phone.",
+        "chinese": "好的，你得激活你的手机。"
+    },
+    {
+        "start": 223.32,
+        "end": 224.28,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 224.28,
+        "end": 227.24,
+        "english": "You have to make the cell phone work.",
+        "chinese": "你需要让手机工作。"
+    },
+    {
+        "start": 227.24,
+        "end": 228.76,
+        "english": "So, basically, you make it work.",
+        "chinese": "所以，基本上，你让它运作。"
+    },
+    {
+        "start": 228.76,
+        "end": 231.48,
+        "english": "Now, can you only apply this to mobile phones?",
+        "chinese": "现在，你能只用这种方法来手机吗？"
+    },
+    {
+        "start": 231.56,
+        "end": 234.76,
+        "english": "No, there's many things that you must activate to make work.",
+        "chinese": "是的，您必须激活许多东西才能使工作。"
+    },
+    {
+        "start": 234.76,
+        "end": 238.44,
+        "english": "For example, you must activate your computer software.",
+        "chinese": "例如，您必须激活您的计算机软件。"
+    },
+    {
+        "start": 238.44,
+        "end": 241.95999999999998,
+        "english": "Okay, or maybe you have to activate your credit card.",
+        "chinese": "好的，或者你可能需要激活你的信用卡。"
+    },
+    {
+        "start": 241.95999999999998,
+        "end": 243.79999999999998,
+        "english": "Or activate your bank account.",
+        "chinese": "或者激活你的银行账户。"
+    },
+    {
+        "start": 243.79999999999998,
+        "end": 247.64,
+        "english": "So, usually, you do this for the first time before you start using it.",
+        "chinese": "所以，通常你第一次使用它时就这样做。"
+    },
+    {
+        "start": 247.64,
+        "end": 250.76,
+        "english": "Yeah, like, imagine your mobile phone is sleeping, right?",
+        "chinese": "是的，就像你手机正在睡觉一样。"
+    },
+    {
+        "start": 250.76,
+        "end": 253.16,
+        "english": "And you need to activate it to make it start working.",
+        "chinese": "您需要激活它才能让它开始工作。"
+    },
+    {
+        "start": 253.16,
+        "end": 254.2,
+        "english": "But you only do it once.",
+        "chinese": "但是你只做了一次。"
+    },
+    {
+        "start": 254.2,
+        "end": 254.67999999999998,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 254.67999999999998,
+        "end": 255.16,
+        "english": "Only once.",
+        "chinese": "一次。"
+    },
+    {
+        "start": 255.16,
+        "end": 255.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 255.88,
+        "end": 259.0,
+        "english": "We talk about mobile phone or we say the cell phone,",
+        "chinese": "我们谈论手机或说手机，"
+    },
+    {
+        "start": 259.0,
+        "end": 261.24,
+        "english": "but this also has a specific name, right?",
+        "chinese": "但是，这也是有特定名称的。"
+    },
+    {
+        "start": 261.48,
+        "end": 262.04,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 262.04,
+        "end": 263.0,
+        "english": "A handset.",
+        "chinese": "一个手机。"
+    },
+    {
+        "start": 263.64,
+        "end": 264.6,
+        "english": "Handset.",
+        "chinese": "手机。"
+    },
+    {
+        "start": 264.6,
+        "end": 265.64,
+        "english": "A handset.",
+        "chinese": "一个手机。"
+    },
+    {
+        "start": 265.64,
+        "end": 269.64,
+        "english": "So, the device, the phone, you can call it a handset.",
+        "chinese": "所以，手机，你可以说它是手柄。"
+    },
+    {
+        "start": 269.64,
+        "end": 270.2,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 271.0,
+        "end": 274.68,
+        "english": "All right, a very easy word, but it's kind of a little bit more technical.",
+        "chinese": "好的，一个非常简单的词，但有点稍微复杂一些。"
+    },
+    {
+        "start": 274.68,
+        "end": 274.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 275.56,
+        "end": 281.08,
+        "english": "Now, one of the things they were talking about with this monthly rate plan was",
+        "chinese": "现在，他们正在讨论这个月度计费计划。"
+    },
+    {
+        "start": 281.08,
+        "end": 283.64,
+        "english": "and was a roll over option.",
+        "chinese": "而且是一个到期为零的看涨期权。"
+    },
+    {
+        "start": 284.36,
+        "end": 285.16,
+        "english": "Roll over.",
+        "chinese": "滚开。"
+    },
+    {
+        "start": 285.8,
+        "end": 287.24,
+        "english": "A roll over option.",
+        "chinese": "一个滚动选项。"
+    },
+    {
+        "start": 287.24,
+        "end": 289.0,
+        "english": "So, what is this roll over option about?",
+        "chinese": "所以，这个滚动到期选择有什么意思？"
+    },
+    {
+        "start": 289.64,
+        "end": 290.44,
+        "english": "Well, okay.",
+        "chinese": "好的，明白了。"
+    },
+    {
+        "start": 290.44,
+        "end": 291.4,
+        "english": "I'll give you an example.",
+        "chinese": "我给你一个例子。"
+    },
+    {
+        "start": 292.04,
+        "end": 295.48,
+        "english": "Let's say you have 500 minutes each month.",
+        "chinese": "请假设你每月有500分钟。"
+    },
+    {
+        "start": 296.2,
+        "end": 298.68,
+        "english": "And you only use four of them in this month.",
+        "chinese": "您只使用这四个在本月中。"
+    },
+    {
+        "start": 299.72,
+        "end": 302.04,
+        "english": "100 of those minutes can roll over.",
+        "chinese": "100 分钟可以滚动。"
+    },
+    {
+        "start": 302.04,
+        "end": 303.72,
+        "english": "It can move over to the next month.",
+        "chinese": "它可以转移到下个月。"
+    },
+    {
+        "start": 303.72,
+        "end": 305.24,
+        "english": "And I have 600 minutes.",
+        "chinese": "我有600分钟。"
+    },
+    {
+        "start": 305.24,
+        "end": 308.12,
+        "english": "So, basically, the minutes that you don't use,",
+        "chinese": "所以，基本上，你不用的分钟，"
+    },
+    {
+        "start": 308.12,
+        "end": 310.36,
+        "english": "you can still use the following month.",
+        "chinese": "你可以继续使用下面的月份。"
+    },
+    {
+        "start": 310.36,
+        "end": 310.84,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 310.84,
+        "end": 311.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 311.48,
+        "end": 313.24,
+        "english": "So, that's a roll over plan.",
+        "chinese": "所以，这就是滚动计划。"
+    },
+    {
+        "start": 313.88,
+        "end": 317.48,
+        "english": "Now, we might recognize the verb to roll over, right?",
+        "chinese": "现在，我们或许能识别出“滚翻”的动词吗？"
+    },
+    {
+        "start": 317.48,
+        "end": 322.04,
+        "english": "Right. So, it's very similar to physically move from one place to another.",
+        "chinese": "正确。因此，它与物理上从一个地方移动到另一个地点非常相似。"
+    },
+    {
+        "start": 322.04,
+        "end": 322.52000000000004,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 322.52000000000004,
+        "end": 323.8,
+        "english": "All right, roll over.",
+        "chinese": "好的，躺下。"
+    },
+    {
+        "start": 323.8,
+        "end": 327.88,
+        "english": "And now, in the end, we talked about many types of fees.",
+        "chinese": "现在，我们讨论了各种费用。"
+    },
+    {
+        "start": 327.88,
+        "end": 328.84000000000003,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 328.84000000000003,
+        "end": 330.44,
+        "english": "Activation fee.",
+        "chinese": "激活费。"
+    },
+    {
+        "start": 330.44,
+        "end": 330.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 330.76,
+        "end": 333.64000000000004,
+        "english": "Or we also had emergency services fee.",
+        "chinese": "我们还有一般服务费。"
+    },
+    {
+        "start": 333.64000000000004,
+        "end": 334.36,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 334.36,
+        "end": 335.56,
+        "english": "So, what is a fee?",
+        "chinese": "所以，什么是费用？"
+    },
+    {
+        "start": 335.56,
+        "end": 340.28000000000003,
+        "english": "A fee is the amount of money you must pay for a service.",
+        "chinese": "一个费用是指你必须为服务支付的金额。"
+    },
+    {
+        "start": 340.28000000000003,
+        "end": 340.84000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 340.84000000000003,
+        "end": 342.04,
+        "english": "So, this is important.",
+        "chinese": "所以，这是重要的。"
+    },
+    {
+        "start": 342.04,
+        "end": 343.16,
+        "english": "It's for a service.",
+        "chinese": "是服务。"
+    },
+    {
+        "start": 343.16,
+        "end": 343.40000000000003,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 343.40000000000003,
+        "end": 346.12,
+        "english": "You can't pay a fee for something you can touch.",
+        "chinese": "你不能为能触摸的东西付费。"
+    },
+    {
+        "start": 346.2,
+        "end": 346.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 346.6,
+        "end": 349.08,
+        "english": "So, if I go to the store, I don't say,",
+        "chinese": "所以，如果我去商店，我就不说了。"
+    },
+    {
+        "start": 349.08,
+        "end": 351.32,
+        "english": "what is the fee of this bottle of water?",
+        "chinese": "请问这个瓶子里的水费是多少？"
+    },
+    {
+        "start": 351.32,
+        "end": 352.12,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 352.12,
+        "end": 354.84000000000003,
+        "english": "What's the fee for filling this bottle of water?",
+        "chinese": "请问，为这个瓶子装水的费用是多少？"
+    },
+    {
+        "start": 354.84000000000003,
+        "end": 355.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 355.08,
+        "end": 356.36,
+        "english": "So, for a service.",
+        "chinese": "所以，服务。"
+    },
+    {
+        "start": 356.36,
+        "end": 357.48,
+        "english": "Yes, for an action.",
+        "chinese": "是的，一个行动。"
+    },
+    {
+        "start": 357.48,
+        "end": 357.96,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 357.96,
+        "end": 358.76,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 358.76,
+        "end": 361.96,
+        "english": "So, I think it's time for us to listen to this dialogue.",
+        "chinese": "所以，我认为我们有必要倾听这段对话。"
+    },
+    {
+        "start": 361.96,
+        "end": 365.72,
+        "english": "Again, we're going to slow it down because it was a little bit fast.",
+        "chinese": "再次，我们将减慢速度，因为那是有点快。"
+    },
+    {
+        "start": 365.72,
+        "end": 368.12,
+        "english": "And then we'll come back and look at some great phrases.",
+        "chinese": "然后我们将回来看看一些好词。"
+    },
+    {
+        "start": 373.56,
+        "end": 374.36,
+        "english": "Hi there.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 374.36,
+        "end": 375.24,
+        "english": "Can I help you?",
+        "chinese": "是的，我可以帮助你。"
+    },
+    {
+        "start": 375.88,
+        "end": 376.84000000000003,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 376.84000000000003,
+        "end": 378.68,
+        "english": "I've just moved here.",
+        "chinese": "我刚搬到这里。"
+    },
+    {
+        "start": 378.68,
+        "end": 381.40000000000003,
+        "english": "And I'd like to activate my cell phone.",
+        "chinese": "我想要激活我的手机。"
+    },
+    {
+        "start": 381.40000000000003,
+        "end": 387.16,
+        "english": "And I'm not sure if I should go with a prepaid plan or a monthly rate plan.",
+        "chinese": "我也不确定是否应该选择预付费计划或月度计费计划。"
+    },
+    {
+        "start": 387.8,
+        "end": 388.44,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 389.24,
+        "end": 391.24,
+        "english": "Well, can I have a look at your phone?",
+        "chinese": "你好，可以看看你的手机吗？"
+    },
+    {
+        "start": 392.44,
+        "end": 395.8,
+        "english": "Unfortunately, this phone can't be used in the US.",
+        "chinese": "抱歉，这个手机在美国无法使用。"
+    },
+    {
+        "start": 396.44,
+        "end": 399.56,
+        "english": "It's not compatible with our 3G network.",
+        "chinese": "不是我们的3G网络兼容。"
+    },
+    {
+        "start": 399.56,
+        "end": 399.8,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 400.68,
+        "end": 401.56,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 401.56,
+        "end": 404.84000000000003,
+        "english": "I don't really want to have to buy a new phone.",
+        "chinese": "我不真正想买新的手机。"
+    },
+    {
+        "start": 404.91999999999996,
+        "end": 406.59999999999997,
+        "english": "Well, you're in luck.",
+        "chinese": "很好，你运气好。"
+    },
+    {
+        "start": 406.59999999999997,
+        "end": 410.11999999999995,
+        "english": "You see, if you sign up for our 3-year plan,",
+        "chinese": "如果你选择我们的三年计划，"
+    },
+    {
+        "start": 410.11999999999995,
+        "end": 412.28,
+        "english": "we'll throw in a handset for free.",
+        "chinese": "我们免费赠送一部手机。"
+    },
+    {
+        "start": 413.23999999999995,
+        "end": 413.64,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 414.35999999999996,
+        "end": 415.56,
+        "english": "What's the catch?",
+        "chinese": "这句话的中文翻译是：“捉迷藏？”"
+    },
+    {
+        "start": 415.56,
+        "end": 416.91999999999996,
+        "english": "There's no catch.",
+        "chinese": "没有问题。"
+    },
+    {
+        "start": 417.56,
+        "end": 418.84,
+        "english": "You just choose a plan?",
+        "chinese": "您只需要选择一个计划吗？"
+    },
+    {
+        "start": 419.47999999999996,
+        "end": 421.96,
+        "english": "Sign a 3-year contract and that's it.",
+        "chinese": "签订一个三年的合同，这就是了。"
+    },
+    {
+        "start": 422.67999999999995,
+        "end": 425.79999999999995,
+        "english": "Actually, we're running a special promotion right now.",
+        "chinese": "实际上，我们正在进行特别促销。"
+    },
+    {
+        "start": 425.79999999999995,
+        "end": 430.84,
+        "english": "And we're giving away a Blackberry curve with our special mega value $40 plan.",
+        "chinese": "我们正在向您提供一个带有BlackBerry曲线的超级价值套餐，该套餐包含我们的特别大流量月费计划。"
+    },
+    {
+        "start": 431.64,
+        "end": 434.03999999999996,
+        "english": "So, what does this plan include?",
+        "chinese": "所以，这个计划包括什么？"
+    },
+    {
+        "start": 435.0,
+        "end": 438.52,
+        "english": "Well, you get 900 anytime minutes.",
+        "chinese": "很好，你每次都能用900分钟。"
+    },
+    {
+        "start": 438.52,
+        "end": 443.96,
+        "english": "And you can also enjoy free mobile-to-mobile calling to other cell-mobile clients.",
+        "chinese": "你可以还享受免费的手机到手机通话服务给其他移动电话用户。"
+    },
+    {
+        "start": 443.96,
+        "end": 446.35999999999996,
+        "english": "1000 text messages per month.",
+        "chinese": "1000 个每日通话记录。"
+    },
+    {
+        "start": 446.35999999999996,
+        "end": 449.56,
+        "english": "And unlimited evening and weekend minutes.",
+        "chinese": "和无限的晚上和周末分钟。"
+    },
+    {
+        "start": 449.56,
+        "end": 452.84,
+        "english": "Oh, and we also offer a roll-over option.",
+        "chinese": "哦，而且我们还提供滚出选项。"
+    },
+    {
+        "start": 452.84,
+        "end": 453.88,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 453.88,
+        "end": 456.84,
+        "english": "All this for $40 per month.",
+        "chinese": "所有这一切，每月只需40元。"
+    },
+    {
+        "start": 456.84,
+        "end": 458.03999999999996,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 458.03999999999996,
+        "end": 463.79999999999995,
+        "english": "Plus the activation fee, the emergency services fee, the monthly service fee,",
+        "chinese": "此外，激活费、紧急服务费和每月服务费。"
+    },
+    {
+        "start": 463.88,
+        "end": 466.6,
+        "english": "oh, and any charges for extra minutes.",
+        "chinese": "哦，还有额外分钟的费用。"
+    },
+    {
+        "start": 466.6,
+        "end": 466.76,
+        "english": "And...",
+        "chinese": "和..."
+    },
+    {
+        "start": 470.36,
+        "end": 473.96000000000004,
+        "english": "Well, you know, there are some interesting phrases in this dialogue.",
+        "chinese": "嗯，你知道，这里面有一些有趣的表达。"
+    },
+    {
+        "start": 473.96000000000004,
+        "end": 477.48,
+        "english": "And, you know, a lot of them can be used when you're talking about",
+        "chinese": "而且，他们当中很多可以用来谈论。"
+    },
+    {
+        "start": 477.48,
+        "end": 480.28000000000003,
+        "english": "an negotiation or a contract or a deal.",
+        "chinese": "一个谈判、合同或协议。"
+    },
+    {
+        "start": 480.28000000000003,
+        "end": 481.0,
+        "english": "All right. Great.",
+        "chinese": "好的。很好。"
+    },
+    {
+        "start": 481.0,
+        "end": 483.88,
+        "english": "So, let's take a look at these phrases in Fluency Builder.",
+        "chinese": "所以，让我们来看看这些短语在 Fluent Builder 中。"
+    },
+    {
+        "start": 485.56,
+        "end": 487.08000000000004,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 487.08000000000004,
+        "end": 492.2,
+        "english": "Okay, the first phrase that we have on Fluency Builder today was the problem that she had with",
+        "chinese": "好的，今天Fluency Builder 上的第一句话是她与中文有关的问题。"
+    },
+    {
+        "start": 492.2,
+        "end": 497.0,
+        "english": "her mobile phone was that it wasn't compatible with a 3G network.",
+        "chinese": "她的手机是它不能与3G网络兼容。"
+    },
+    {
+        "start": 497.0,
+        "end": 499.47999999999996,
+        "english": "Okay, to be compatible with.",
+        "chinese": "好的，兼容。"
+    },
+    {
+        "start": 499.47999999999996,
+        "end": 501.4,
+        "english": "To be compatible with.",
+        "chinese": "兼容。"
+    },
+    {
+        "start": 501.4,
+        "end": 502.68,
+        "english": "To be compatible with.",
+        "chinese": "要兼容。"
+    },
+    {
+        "start": 502.68,
+        "end": 506.68,
+        "english": "Now, this word compatible means that it works well with something else.",
+        "chinese": "现在，这个兼容的词意味着它与另一事物相得益彰。"
+    },
+    {
+        "start": 506.68,
+        "end": 511.4,
+        "english": "Exactly. Now, there's a lot of things that you can use this phrase compatible with,",
+        "chinese": "是的。现在，你可以使用这个短语兼容的很多东西，"
+    },
+    {
+        "start": 511.4,
+        "end": 512.12,
+        "english": "together with.",
+        "chinese": "与...一起。"
+    },
+    {
+        "start": 512.92,
+        "end": 514.36,
+        "english": "You know, people, things...",
+        "chinese": "我知道，人们，事物..."
+    },
+    {
+        "start": 514.36,
+        "end": 515.88,
+        "english": "So, why don't we hear a few examples now?",
+        "chinese": "所以，我们为什么不先听几个例子呢？"
+    },
+    {
+        "start": 517.0,
+        "end": 517.96,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 518.36,
+        "end": 523.32,
+        "english": "Our application is compatible with most smartphones.",
+        "chinese": "我们的应用程序兼容大多数智能手机。"
+    },
+    {
+        "start": 525.32,
+        "end": 526.12,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译粘贴在这里，以便我能够更好地帮助您。)"
+    },
+    {
+        "start": 527.96,
+        "end": 530.2,
+        "english": "My roommate and I are just not compatible.",
+        "chinese": "我的室友和我并不和谐。"
+    },
+    {
+        "start": 530.2,
+        "end": 531.88,
+        "english": "All she ever does is study.",
+        "chinese": "所有她做的事情都是学习。"
+    },
+    {
+        "start": 531.88,
+        "end": 533.48,
+        "english": "And I like to say a blatant party.",
+        "chinese": "我更喜欢说一个公开的派对。"
+    },
+    {
+        "start": 535.08,
+        "end": 536.12,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 538.36,
+        "end": 541.32,
+        "english": "I'm sorry, your computer is not compatible with our software.",
+        "chinese": "我非常抱歉，您的计算机与我们的软件不兼容。"
+    },
+    {
+        "start": 541.32,
+        "end": 542.12,
+        "english": "It's too old.",
+        "chinese": "太老了。"
+    },
+    {
+        "start": 543.32,
+        "end": 544.76,
+        "english": "Okay, great example.",
+        "chinese": "好的，好例子。"
+    },
+    {
+        "start": 544.76,
+        "end": 546.92,
+        "english": "So, compatible with very clear end.",
+        "chinese": "所以，兼容非常清晰的末尾。"
+    },
+    {
+        "start": 546.92,
+        "end": 548.28,
+        "english": "It's very useful.",
+        "chinese": "它非常有用。"
+    },
+    {
+        "start": 548.28,
+        "end": 549.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 549.08,
+        "end": 551.24,
+        "english": "Now, what about the next phrase?",
+        "chinese": "现在，接下来的这句话是什么？"
+    },
+    {
+        "start": 551.24,
+        "end": 556.2,
+        "english": "Well, you know, the girl was hearing about all of these great things that are included in the",
+        "chinese": "嗯，你知道，这个女孩正在听这些她能听到的、包含在中文中的美好事物。"
+    },
+    {
+        "start": 556.2,
+        "end": 559.48,
+        "english": "contract and she asked, what's the catch?",
+        "chinese": "合同，她问：“什么陷阱？”"
+    },
+    {
+        "start": 559.48,
+        "end": 560.6,
+        "english": "What's the catch?",
+        "chinese": "这句话的中文翻译是“什么陷阱？”"
+    },
+    {
+        "start": 560.6,
+        "end": 561.64,
+        "english": "What's the catch?",
+        "chinese": "这句话的中文翻译是：“什么陷阱？”"
+    },
+    {
+        "start": 561.64,
+        "end": 563.88,
+        "english": "So, she was asking for the catch.",
+        "chinese": "所以，她是在问“捉到”。"
+    },
+    {
+        "start": 564.4399999999999,
+        "end": 565.64,
+        "english": "What is the catch?",
+        "chinese": "这句话的中文翻译是：“什么是我？”"
+    },
+    {
+        "start": 565.64,
+        "end": 566.68,
+        "english": "Well, good thing you asked.",
+        "chinese": "很好，你问的时机。"
+    },
+    {
+        "start": 566.68,
+        "end": 572.68,
+        "english": "A catch is something negative, something that's hidden that makes the deal seem not so great.",
+        "chinese": "一个捉是负面的，隐藏的东西使交易看起来不那么好。"
+    },
+    {
+        "start": 573.3199999999999,
+        "end": 576.92,
+        "english": "Okay, so if somebody offers me a new car,",
+        "chinese": "好的，如果有人愿意给我一辆新车，"
+    },
+    {
+        "start": 576.92,
+        "end": 578.92,
+        "english": "they say you can have this new for free.",
+        "chinese": "他们说你可以免费获得这个新。"
+    },
+    {
+        "start": 578.92,
+        "end": 581.0799999999999,
+        "english": "Okay, well, that seems too good to be true.",
+        "chinese": "好的，很好说。那似乎有点太好了。"
+    },
+    {
+        "start": 581.0799999999999,
+        "end": 582.68,
+        "english": "So, what is the catch?",
+        "chinese": "所以，什么是一下子？"
+    },
+    {
+        "start": 582.68,
+        "end": 586.5999999999999,
+        "english": "The catch is that I can only drive it at night.",
+        "chinese": "这个陷阱在于，我只能在夜晚开车。"
+    },
+    {
+        "start": 586.5999999999999,
+        "end": 588.1999999999999,
+        "english": "Okay, that's kind of annoying.",
+        "chinese": "好的，那有点烦人。"
+    },
+    {
+        "start": 588.1999999999999,
+        "end": 588.68,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 588.68,
+        "end": 589.7199999999999,
+        "english": "So, that's the catch.",
+        "chinese": "所以，这就是捉迷藏。"
+    },
+    {
+        "start": 589.7199999999999,
+        "end": 591.16,
+        "english": "There's like a condition.",
+        "chinese": "有类似条件。"
+    },
+    {
+        "start": 591.16,
+        "end": 591.7199999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 591.7199999999999,
+        "end": 595.4,
+        "english": "Now, she asked about the catch and she said, well, there's no catch, you know,",
+        "chinese": "现在，她问到了捕获的问题，她说：“嗯，没有捕获，你知道吗？”"
+    },
+    {
+        "start": 595.4,
+        "end": 597.4799999999999,
+        "english": "it's you just signed the contract.",
+        "chinese": "它是你刚刚签合同。"
+    },
+    {
+        "start": 597.4799999999999,
+        "end": 601.88,
+        "english": "And then the salesman told the lady that she is in luck.",
+        "chinese": "然后，推销员告诉那位女士她运气好。"
+    },
+    {
+        "start": 601.96,
+        "end": 602.6,
+        "english": "You're in luck.",
+        "chinese": "您是幸运的。"
+    },
+    {
+        "start": 603.32,
+        "end": 604.4399999999999,
+        "english": "To be in luck.",
+        "chinese": "要幸运。"
+    },
+    {
+        "start": 604.92,
+        "end": 607.88,
+        "english": "Well, okay, I think we can really understand the meaning, right?",
+        "chinese": "是的，嗯，我认为我们真的能理解意思了。"
+    },
+    {
+        "start": 607.88,
+        "end": 610.04,
+        "english": "When you're in luck, something lucky has happened.",
+        "chinese": "当你运气好时，发生了好事。"
+    },
+    {
+        "start": 610.04,
+        "end": 610.6,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 610.6,
+        "end": 611.88,
+        "english": "You're having good fortune.",
+        "chinese": "您有好运气。"
+    },
+    {
+        "start": 612.6,
+        "end": 613.8,
+        "english": "But how do we use it?",
+        "chinese": "但是，我们如何使用它？"
+    },
+    {
+        "start": 613.8,
+        "end": 618.2,
+        "english": "So, maybe you're looking for a very special bottle of wine for dinner tonight.",
+        "chinese": "所以，也许你正在寻找今晚晚餐特别一瓶酒。"
+    },
+    {
+        "start": 618.2,
+        "end": 619.4,
+        "english": "Yep, it's very rare.",
+        "chinese": "是的，非常罕见。"
+    },
+    {
+        "start": 619.4,
+        "end": 623.4,
+        "english": "Okay, and you go into this little store and all of a sudden you're in luck.",
+        "chinese": "好的，你走进这个小商店，突然就遇到了好运气。"
+    },
+    {
+        "start": 623.4,
+        "end": 624.36,
+        "english": "You found it there.",
+        "chinese": "您找到了这里。"
+    },
+    {
+        "start": 624.36,
+        "end": 625.08,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 625.08,
+        "end": 625.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 625.56,
+        "end": 630.2,
+        "english": "This phrase is actually most commonly used in the second person.",
+        "chinese": "这个短语实际上最常见地用于第二人称。"
+    },
+    {
+        "start": 630.2,
+        "end": 631.4,
+        "english": "You're in luck.",
+        "chinese": "您是幸运的。"
+    },
+    {
+        "start": 631.4,
+        "end": 632.36,
+        "english": "You are in luck.",
+        "chinese": "您是幸运的。"
+    },
+    {
+        "start": 632.36,
+        "end": 632.84,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想了解什么？如果您能提供更多的上下文信息或具体语境，我可以尝试帮助您进行更准确的翻译。"
+    },
+    {
+        "start": 632.84,
+        "end": 633.9599999999999,
+        "english": "You are in luck tonight.",
+        "chinese": "今晚你运气不错。"
+    },
+    {
+        "start": 633.9599999999999,
+        "end": 634.1999999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 634.1999999999999,
+        "end": 638.36,
+        "english": "And it usually when someone asks you for something, then you say, you're in luck.",
+        "chinese": "A. 且通常，当有人向你索要某物时，你会说：“运气真好。”"
+    },
+    {
+        "start": 638.36,
+        "end": 638.92,
+        "english": "You're in luck.",
+        "chinese": "您是幸运的。"
+    },
+    {
+        "start": 638.92,
+        "end": 639.56,
+        "english": "I have it.",
+        "chinese": "我有它。"
+    },
+    {
+        "start": 639.56,
+        "end": 640.28,
+        "english": "Or you're in luck.",
+        "chinese": "你好，你运气不错。"
+    },
+    {
+        "start": 640.28,
+        "end": 641.9599999999999,
+        "english": "I have the very last one.",
+        "chinese": "我有最后的。"
+    },
+    {
+        "start": 641.9599999999999,
+        "end": 643.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 643.0,
+        "end": 643.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 643.4,
+        "end": 646.84,
+        "english": "And now to end a fluency builder, we have one more phrase.",
+        "chinese": "现在结束一个流利构建，我们有一个另一个词。"
+    },
+    {
+        "start": 646.84,
+        "end": 652.84,
+        "english": "And so, it was when the salesman said, we'll throw in a handset for free.",
+        "chinese": "所以，当推销员说：“我们免费赠送一个手柄。”"
+    },
+    {
+        "start": 652.84,
+        "end": 653.16,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 653.16,
+        "end": 655.3199999999999,
+        "english": "To throw something in.",
+        "chinese": "要扔东西。"
+    },
+    {
+        "start": 655.3199999999999,
+        "end": 660.1999999999999,
+        "english": "So, if she signs the contract, he will throw in a free handset.",
+        "chinese": "所以，如果她签署合同，他将赠送一个免费的手机。"
+    },
+    {
+        "start": 660.2800000000001,
+        "end": 663.08,
+        "english": "It means to include something for free.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 663.08,
+        "end": 663.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 663.88,
+        "end": 668.2800000000001,
+        "english": "So, you can say, if you buy this house, I'll throw in the dog.",
+        "chinese": "所以，你可以说，如果我买下了这个房子，我就把狗一起扔进去了。"
+    },
+    {
+        "start": 668.2800000000001,
+        "end": 669.72,
+        "english": "The dog for free.",
+        "chinese": "狗免费。"
+    },
+    {
+        "start": 669.72,
+        "end": 670.0400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 670.0400000000001,
+        "end": 670.6,
+        "english": "Right?",
+        "chinese": "是的？"
+    },
+    {
+        "start": 670.6,
+        "end": 672.76,
+        "english": "So, to throw in, to include for free.",
+        "chinese": "所以，为了方便，请一并提供。"
+    },
+    {
+        "start": 672.76,
+        "end": 673.4000000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 673.4000000000001,
+        "end": 674.2800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 674.2800000000001,
+        "end": 674.6800000000001,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 674.6800000000001,
+        "end": 675.72,
+        "english": "So, great phrases.",
+        "chinese": "所以，好词句。"
+    },
+    {
+        "start": 675.72,
+        "end": 677.6400000000001,
+        "english": "And I think we understand them now.",
+        "chinese": "我也认为我们理解了他们。"
+    },
+    {
+        "start": 677.6400000000001,
+        "end": 680.76,
+        "english": "So, let's listen to this dialogue for the very last time.",
+        "chinese": "所以，让我们再次聆听这段对话。"
+    },
+    {
+        "start": 681.24,
+        "end": 682.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 682.28,
+        "end": 693.0,
+        "english": "I just moved here and I'd like to activate my cell phone.",
+        "chinese": "我刚搬到这里，我想激活我的手机。"
+    },
+    {
+        "start": 693.0,
+        "end": 696.76,
+        "english": "And I'm not sure if I should go with a prepaid plan or a monthly rate plan.",
+        "chinese": "我也不确定是否应该选择预付费计划或每月收费计划。"
+    },
+    {
+        "start": 697.56,
+        "end": 698.04,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 698.6,
+        "end": 699.64,
+        "english": "Well, can I have a look at your phone?",
+        "chinese": "你好，可以看看你的手机吗？"
+    },
+    {
+        "start": 700.68,
+        "end": 703.16,
+        "english": "Unfortunately, this phone can't be used in the US.",
+        "chinese": "抱歉，这个手机在美国无法使用。"
+    },
+    {
+        "start": 703.16,
+        "end": 705.0,
+        "english": "It's not compatible with our 3G network.",
+        "chinese": "不是我们的3G网络兼容。"
+    },
+    {
+        "start": 705.72,
+        "end": 706.2,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 706.6,
+        "end": 706.92,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 707.48,
+        "end": 710.2,
+        "english": "I don't really want to have to buy a new phone.",
+        "chinese": "我不真正想买新的手机。"
+    },
+    {
+        "start": 710.2,
+        "end": 711.0,
+        "english": "Well, you're in luck.",
+        "chinese": "很好，你运气好。"
+    },
+    {
+        "start": 711.0,
+        "end": 714.76,
+        "english": "You see, if you sign up for our 3-year plan, we'll throw in a handset for free.",
+        "chinese": "如果你选择我们的三年计划，我们将免费赠送一部手机。"
+    },
+    {
+        "start": 714.76,
+        "end": 715.48,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 715.48,
+        "end": 716.2800000000001,
+        "english": "What's the catch?",
+        "chinese": "这句话的中文翻译是：“捉迷藏？”"
+    },
+    {
+        "start": 716.2800000000001,
+        "end": 717.32,
+        "english": "There's no catch.",
+        "chinese": "没有问题。"
+    },
+    {
+        "start": 717.32,
+        "end": 720.36,
+        "english": "You just choose a plan, sign a 3-year contract, and that's it.",
+        "chinese": "选择一个计划，签订三年的合同，这就是了。"
+    },
+    {
+        "start": 720.36,
+        "end": 722.84,
+        "english": "Actually, we're running a special promotion right now.",
+        "chinese": "实际上，我们正在进行特别促销。"
+    },
+    {
+        "start": 722.84,
+        "end": 726.6800000000001,
+        "english": "And we're giving away a Blackberry Curve with our special mega value, $40 plan.",
+        "chinese": "我们正在向您提供一款BlackBerry Curve的超级价值套餐，即“40元”计划。"
+    },
+    {
+        "start": 727.24,
+        "end": 729.88,
+        "english": "So, what does this plan include?",
+        "chinese": "所以，这个计划包括什么？"
+    },
+    {
+        "start": 729.88,
+        "end": 734.76,
+        "english": "Well, you get 900 anytime minutes and you can also enjoy free mobile-to-mobile calling",
+        "chinese": "嗯，你每次通话可以得到900分钟的时长，还可以免费进行手机与手机之间的通话。"
+    },
+    {
+        "start": 734.76,
+        "end": 736.2800000000001,
+        "english": "to other tell mobile clients.",
+        "chinese": "将其他告诉移动客户端。"
+    },
+    {
+        "start": 736.2800000000001,
+        "end": 739.88,
+        "english": "A thousand text messages per month and unlimited evening and weekend minutes.",
+        "chinese": "千条短信每月，无限长假和周末分钟。"
+    },
+    {
+        "start": 740.2,
+        "end": 742.6,
+        "english": "Oh, and we also offer a roll-over option.",
+        "chinese": "哦，而且我们还提供滚出选项。"
+    },
+    {
+        "start": 743.24,
+        "end": 746.12,
+        "english": "Wow, all this for $40 per month.",
+        "chinese": "哇，这么多，每月只需 40 元。"
+    },
+    {
+        "start": 746.12,
+        "end": 746.76,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 746.76,
+        "end": 750.76,
+        "english": "Plus the activation fee and the emergency services fee, the monthly service fee,",
+        "chinese": "月服务费，包括激活费和紧急服务费，每月的费用是："
+    },
+    {
+        "start": 750.76,
+        "end": 753.8000000000001,
+        "english": "and oh, and any charges for extra minutes and...",
+        "chinese": "和啊，还有额外分钟的费用..."
+    },
+    {
+        "start": 758.36,
+        "end": 759.32,
+        "english": "Mobile phones.",
+        "chinese": "手机。"
+    },
+    {
+        "start": 759.32,
+        "end": 761.72,
+        "english": "This is very common in the United States, right?",
+        "chinese": "是的，在美国也是很常见的。"
+    },
+    {
+        "start": 761.72,
+        "end": 763.24,
+        "english": "These monthly plans.",
+        "chinese": "这些月度计划。"
+    },
+    {
+        "start": 763.24,
+        "end": 768.84,
+        "english": "Yeah, most places where I have lived, it's much more common to pay as you go, right?",
+        "chinese": "是的，我住过的大多数地方，通常都是按使用付费，对吗？"
+    },
+    {
+        "start": 768.84,
+        "end": 770.6800000000001,
+        "english": "To have a prepaid plan.",
+        "chinese": "要有一个预付费计划。"
+    },
+    {
+        "start": 771.24,
+        "end": 775.08,
+        "english": "But in the States, almost everyone goes with the monthly plan.",
+        "chinese": "但是，在美国，几乎每个人都选择月度计划。"
+    },
+    {
+        "start": 775.08,
+        "end": 780.2,
+        "english": "Maybe it's because in order to have a monthly plan, you need to have a credit card.",
+        "chinese": "可能是因为为了拥有每月计划，你需要有一个信用卡。"
+    },
+    {
+        "start": 780.2,
+        "end": 781.4,
+        "english": "You might be on to something.",
+        "chinese": "您可能已经找到了正确的答案。"
+    },
+    {
+        "start": 781.4,
+        "end": 781.88,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 781.88,
+        "end": 786.44,
+        "english": "So, if you don't have a credit card or maybe you're 18, you can't get a monthly plan.",
+        "chinese": "所以，如果你没有信用卡或者可能只有18岁，你就无法获得月度计划。"
+    },
+    {
+        "start": 786.44,
+        "end": 788.6800000000001,
+        "english": "So, you got to do this prepaid plan.",
+        "chinese": "所以，你得这样做预存计划。"
+    },
+    {
+        "start": 788.6800000000001,
+        "end": 789.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 789.32,
+        "end": 791.8000000000001,
+        "english": "You know, another interesting thing that I've noticed when",
+        "chinese": "你知道，我还注意到另一件有趣的事情是……"
+    },
+    {
+        "start": 792.9200000000001,
+        "end": 796.52,
+        "english": "living in different countries and seeing mobile phone habits,",
+        "chinese": "在不同的国家和地区，观察手机习惯。"
+    },
+    {
+        "start": 797.48,
+        "end": 802.68,
+        "english": "Americans and North Americans respond very differently to a ringing mobile phone",
+        "chinese": "美国和北美的美国人对一个响铃的手机反应非常不同。"
+    },
+    {
+        "start": 802.68,
+        "end": 803.64,
+        "english": "than other people do.",
+        "chinese": "比其他人做得更好。"
+    },
+    {
+        "start": 803.64,
+        "end": 804.04,
+        "english": "How so?",
+        "chinese": "如何呢？"
+    },
+    {
+        "start": 805.48,
+        "end": 809.56,
+        "english": "For example, if I was in a meeting in America and my phone rang and I answered it,",
+        "chinese": "例如，如果我在美国的会议中接听电话，并且我接到了一个来电，"
+    },
+    {
+        "start": 809.56,
+        "end": 813.0,
+        "english": "people might think that I was very rude to answer the phone in a meeting.",
+        "chinese": "人们可能会认为，我是在会议中回答电话时非常粗鲁。"
+    },
+    {
+        "start": 813.8,
+        "end": 816.52,
+        "english": "But, you know, here when we're living in China, it's totally normal.",
+        "chinese": "但是，你知道，在中国，这里生活的时候，一切都完全正常。"
+    },
+    {
+        "start": 816.52,
+        "end": 817.88,
+        "english": "It's, you know, everyone does it.",
+        "chinese": "是的，你知道吗？"
+    },
+    {
+        "start": 817.88,
+        "end": 819.4,
+        "english": "That's the polite thing to do.",
+        "chinese": "这是礼貌的行为。"
+    },
+    {
+        "start": 819.4,
+        "end": 820.28,
+        "english": "Answer your phone.",
+        "chinese": "回答你的电话。"
+    },
+    {
+        "start": 820.28,
+        "end": 820.84,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 820.84,
+        "end": 823.4,
+        "english": "And I think that's absolutely true.",
+        "chinese": "我也完全同意。"
+    },
+    {
+        "start": 823.48,
+        "end": 829.24,
+        "english": "And maybe it's because in North America, you have this voicemail option for your mobile phone.",
+        "chinese": "而且，或许是因为在美国，你有在手机上设置语音提醒的功能。"
+    },
+    {
+        "start": 829.24,
+        "end": 830.1999999999999,
+        "english": "Yeah, and everyone has it.",
+        "chinese": "是的，每个人都有它。"
+    },
+    {
+        "start": 830.1999999999999,
+        "end": 830.92,
+        "english": "Everyone has it.",
+        "chinese": "每个人都有它。"
+    },
+    {
+        "start": 830.92,
+        "end": 835.16,
+        "english": "So, if it's something very important, then the person will leave you a voicemail message,",
+        "chinese": "所以，如果是一件非常重要的事情，那么那个人会给你留下一个语音消息。"
+    },
+    {
+        "start": 835.16,
+        "end": 837.64,
+        "english": "and then you will know what it's about or you can call them back.",
+        "chinese": "然后，你就会知道这是什么或者你可以联系他们。"
+    },
+    {
+        "start": 838.36,
+        "end": 841.3199999999999,
+        "english": "But here, I guess, or in other countries, maybe they don't have that option.",
+        "chinese": "但是，大概或者在其他国家，他们可能没有这个选择。"
+    },
+    {
+        "start": 841.3199999999999,
+        "end": 844.1999999999999,
+        "english": "So, they need to answer every call.",
+        "chinese": "所以，他们需要回答每一个呼叫。"
+    },
+    {
+        "start": 844.1999999999999,
+        "end": 845.3199999999999,
+        "english": "Yeah, it's interesting.",
+        "chinese": "是的，挺有趣的。"
+    },
+    {
+        "start": 845.3199999999999,
+        "end": 849.16,
+        "english": "An interesting sort of cultural difference in the way we use our phones.",
+        "chinese": "一个有趣的文化差异，我们在手机上使用的方式。"
+    },
+    {
+        "start": 849.16,
+        "end": 851.4,
+        "english": "But what about listeners in your country?",
+        "chinese": "但是，你们的听众在哪里？"
+    },
+    {
+        "start": 851.4,
+        "end": 854.92,
+        "english": "Do you answer the phone immediately or do you let it ring?",
+        "chinese": "您是否立即接听电话或让电话响起？"
+    },
+    {
+        "start": 854.92,
+        "end": 855.24,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 855.24,
+        "end": 858.1999999999999,
+        "english": "Or maybe do you see who's calling and maybe just not answer it?",
+        "chinese": "或者你是否看到谁在打电话，也许只是不接电话。"
+    },
+    {
+        "start": 858.1999999999999,
+        "end": 859.4,
+        "english": "Yeah, I screen your calls.",
+        "chinese": "是的，我监控你的通话。"
+    },
+    {
+        "start": 859.4,
+        "end": 860.36,
+        "english": "Just screen a call.",
+        "chinese": "请稍等，我将直接翻译这段话到中文："
+    },
+    {
+        "start": 860.36,
+        "end": 862.84,
+        "english": "So, come to our website, EnglishPod.com.",
+        "chinese": "所以，来我们的网站，英语pod.com。"
+    },
+    {
+        "start": 862.84,
+        "end": 865.9599999999999,
+        "english": "Let us know what your mobile phone habits are.",
+        "chinese": "请告诉我您的手机习惯。"
+    },
+    {
+        "start": 865.9599999999999,
+        "end": 868.28,
+        "english": "And also, if you have any questions or doubts.",
+        "chinese": "而且，如果有任何问题或疑虑。"
+    },
+    {
+        "start": 868.28,
+        "end": 870.36,
+        "english": "Yeah, Marco and I are always there to answer your questions.",
+        "chinese": "是的，马科和我总是在这里为你解答问题。"
+    },
+    {
+        "start": 870.36,
+        "end": 874.12,
+        "english": "So, until next time, thanks for listening, and goodbye.",
+        "chinese": "所以，直到下次见，谢谢你的倾听，再见。"
+    },
+    {
+        "start": 874.12,
+        "end": 874.36,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "english": "Welcome back English learners, my name is Marco and I'm joined here by the lovely",
+        "chinese": "欢迎回来的英语学习者，我叫马科，今天很高兴和大家一起在这里。"
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "english": "Erica!",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以提供一些关于如何将中文翻译成其他语言的建议："
+    },
+    {
+        "start": 7.0,
+        "end": 11.6,
+        "english": "And today we're going to be bringing you another great lesson, one of the lessons that you requested.",
+        "chinese": "今天，我们将向您展示另一个值得学习的重要教训，即您请求的那一个。"
+    },
+    {
+        "start": 11.6,
+        "end": 15.3,
+        "english": "Yes, that's right, actually Maxum, Maxum asked requested this one.",
+        "chinese": "是的，那正是Maxum，Maxum 询问了这个。"
+    },
+    {
+        "start": 15.3,
+        "end": 24.0,
+        "english": "Right, I think he's really into research and investigation, so we're bringing you a great lesson about this topic.",
+        "chinese": "是的，我认为他非常投入于研究和调查，所以我们将向您介绍这个话题。"
+    },
+    {
+        "start": 24.0,
+        "end": 29.900000000000002,
+        "english": "Okay, so I'm really excited to hear this dialogue all about research, so why don't we start?",
+        "chinese": "好的，所以我要非常兴奋地听到这个关于研究的对话，那么我们为什么不从这里开始呢？"
+    },
+    {
+        "start": 29.9,
+        "end": 34.9,
+        "english": "Listening to two university professors discussing an important question.",
+        "chinese": "听两位大学教授讨论一个重要的问题。"
+    },
+    {
+        "start": 39.9,
+        "end": 44.4,
+        "english": "We've been over this a thousand times, the data is irrefutable.",
+        "chinese": "我们已经讨论过这个问题上千次，数据是不可更改的。"
+    },
+    {
+        "start": 44.4,
+        "end": 51.7,
+        "english": "Look, we've done extensive research, built studies and read the literature, and there is conclusive evidence to support my theory.",
+        "chinese": "请看，我们已经进行了广泛的调查、建立了研究和阅读文献的项目，并且有充分的证据支持我的理论。"
+    },
+    {
+        "start": 51.7,
+        "end": 54.9,
+        "english": "Horowitz, I beg to differ.",
+        "chinese": "我不同意。 Horowitz, 我同意。"
+    },
+    {
+        "start": 54.9,
+        "end": 59.4,
+        "english": "Even in your most recent study, the investigative approach was flawed!",
+        "chinese": "在你最近的研究中，调查方法是错误的！"
+    },
+    {
+        "start": 59.4,
+        "end": 65.4,
+        "english": "You know as well that I do, the collection of data was not systematic and there's a large margin of error.",
+        "chinese": "你知道，我也知道，数据的收集并不是系统化的，并且存在较大的误差。"
+    },
+    {
+        "start": 65.4,
+        "end": 68.9,
+        "english": "To draw a definitive conclusion based on that data would be misleading.",
+        "chinese": "要基于这些数据得出一个明确的结论是不准确的。"
+    },
+    {
+        "start": 68.9,
+        "end": 70.9,
+        "english": "Doctors preposterous!",
+        "chinese": "医生愚蠢！"
+    },
+    {
+        "start": 70.9,
+        "end": 77.9,
+        "english": "You are trying to single-handedly solve one of the world's greatest mysteries and yet you're oblivious to the fact that you're wrong!",
+        "chinese": "您试图独自解决世界最大的谜团，但你却不知晓自己在做什么！"
+    },
+    {
+        "start": 77.9,
+        "end": 80.9,
+        "english": "Or I'm not wrong, the chicken came first!",
+        "chinese": "我也不对，鸡先飞！"
+    },
+    {
+        "start": 80.9,
+        "end": 82.9,
+        "english": "No, the egg came first!",
+        "chinese": "是的，鸡蛋先来了！"
+    },
+    {
+        "start": 82.9,
+        "end": 83.9,
+        "english": "The chicken!",
+        "chinese": "鸡！"
+    },
+    {
+        "start": 83.9,
+        "end": 84.4,
+        "english": "Egg!",
+        "chinese": "蛋！"
+    },
+    {
+        "start": 84.4,
+        "end": 84.9,
+        "english": "The chicken!",
+        "chinese": "鸡！"
+    },
+    {
+        "start": 84.9,
+        "end": 85.9,
+        "english": "The egg!",
+        "chinese": "蛋！"
+    },
+    {
+        "start": 85.9,
+        "end": 86.9,
+        "english": "The chicken!",
+        "chinese": "鸡！"
+    },
+    {
+        "start": 86.9,
+        "end": 87.9,
+        "english": "The egg!",
+        "chinese": "蛋！"
+    },
+    {
+        "start": 89.4,
+        "end": 97.4,
+        "english": "Alright, so interesting, which came first, the chicken or the egg?",
+        "chinese": "好的，有趣的是，哪个先出现的鸡或蛋？"
+    },
+    {
+        "start": 97.4,
+        "end": 100.4,
+        "english": "It's an age old question, isn't it?",
+        "chinese": "是啊，不是吗？"
+    },
+    {
+        "start": 100.4,
+        "end": 103.9,
+        "english": "And apparently they are not going to agree anytime soon.",
+        "chinese": "而且他们很快就会意见不合。"
+    },
+    {
+        "start": 103.9,
+        "end": 111.9,
+        "english": "Alright, well, what they can agree about is this awesome language, so why don't we take a look at it now in Language Takeaway?",
+        "chinese": "好的，好的，他们可以达成的共识就是这个超赞的语言，所以让我们现在来看看它在语言小贴士里怎么样？"
+    },
+    {
+        "start": 111.9,
+        "end": 114.9,
+        "english": "Language Takeaway",
+        "chinese": "语言小贴士"
+    },
+    {
+        "start": 115.4,
+        "end": 120.4,
+        "english": "Okay, on Language Takeaway today we have some really great words and this first one is really good.",
+        "chinese": "好的，今天在语言总结会上我们有一些非常棒的词汇。这个第一个词真的很棒。"
+    },
+    {
+        "start": 120.4,
+        "end": 121.9,
+        "english": "Irrefuutable!",
+        "chinese": "不可改变！"
+    },
+    {
+        "start": 121.9,
+        "end": 122.9,
+        "english": "Irrefuutable!",
+        "chinese": "不可改变！"
+    },
+    {
+        "start": 122.9,
+        "end": 124.4,
+        "english": "Irrefuutable!",
+        "chinese": "不可改变！"
+    },
+    {
+        "start": 124.4,
+        "end": 126.4,
+        "english": "The data is irrefutable!",
+        "chinese": "数据是不可辩驳的！"
+    },
+    {
+        "start": 126.4,
+        "end": 132.9,
+        "english": "Okay, so if the professor says that the data is irrefutable, what does he mean by that?",
+        "chinese": "好的，如果教授说数据是不可证伪的，他意味着什么？"
+    },
+    {
+        "start": 132.9,
+        "end": 137.9,
+        "english": "He's saying that you cannot deny it, it is really, really true!",
+        "chinese": "他说，你不能否认它，它是真的！"
+    },
+    {
+        "start": 137.9,
+        "end": 140.4,
+        "english": "It is really true, there is no way this is a lie!",
+        "chinese": "是的，这真是一个谎言！"
+    },
+    {
+        "start": 140.4,
+        "end": 141.4,
+        "english": "Exactly!",
+        "chinese": "准确！"
+    },
+    {
+        "start": 141.4,
+        "end": 144.4,
+        "english": "Okay, irrefutable evidence for example.",
+        "chinese": "好的，无可辩驳的证据。"
+    },
+    {
+        "start": 144.9,
+        "end": 145.9,
+        "english": "Yeah, that's a great phrase.",
+        "chinese": "是的，这是一个很好的表达。"
+    },
+    {
+        "start": 145.9,
+        "end": 152.9,
+        "english": "Alright, so the professor complained that Dr. Harlowitz's experiment was flawed.",
+        "chinese": "好的，教授抱怨道，哈罗尔茨的实验有问题。"
+    },
+    {
+        "start": 152.9,
+        "end": 153.9,
+        "english": "Flawed.",
+        "chinese": "错的。"
+    },
+    {
+        "start": 153.9,
+        "end": 154.9,
+        "english": "Flawed.",
+        "chinese": "错误。"
+    },
+    {
+        "start": 154.9,
+        "end": 158.9,
+        "english": "So, flawed, is that an adjective of verb or noun?",
+        "chinese": "所以，错误的，那是一个动词还是一个名词？"
+    },
+    {
+        "start": 158.9,
+        "end": 161.9,
+        "english": "Mmm, it is an adjective here.",
+        "chinese": "这句话在中文中可以翻译为："
+    },
+    {
+        "start": 161.9,
+        "end": 162.9,
+        "english": "Oh, here.",
+        "chinese": "哦，这里。"
+    },
+    {
+        "start": 162.9,
+        "end": 166.9,
+        "english": "Now, when something is flawed, there is a problem with it, right?",
+        "chinese": "现在，当某件东西有问题时，确实存在问题。"
+    },
+    {
+        "start": 166.9,
+        "end": 168.9,
+        "english": "Okay, so it has an error.",
+        "chinese": "好的，所以它有一个错误。"
+    },
+    {
+        "start": 169.4,
+        "end": 174.4,
+        "english": "Okay, so there is an adjective, there is a way of saying that his experiment has a flaw.",
+        "chinese": "好的，所以有一个形容词，他实验有缺陷。"
+    },
+    {
+        "start": 174.4,
+        "end": 175.4,
+        "english": "A mistake.",
+        "chinese": "一个错误。"
+    },
+    {
+        "start": 175.4,
+        "end": 176.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 176.4,
+        "end": 179.4,
+        "english": "So, flawed is the adjective of a flaw.",
+        "chinese": "所以，一个缺陷的形容词是不完美的。"
+    },
+    {
+        "start": 179.4,
+        "end": 180.4,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 180.4,
+        "end": 181.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 181.4,
+        "end": 188.4,
+        "english": "Now the reason that his study or his experiment was flawed is because it was not systematic.",
+        "chinese": "现在他研究或实验的缺陷在于它不是系统性的。"
+    },
+    {
+        "start": 188.4,
+        "end": 190.4,
+        "english": "Systematic.",
+        "chinese": "系统化。"
+    },
+    {
+        "start": 190.4,
+        "end": 191.4,
+        "english": "Systematic.",
+        "chinese": "系统化。"
+    },
+    {
+        "start": 191.4,
+        "end": 193.4,
+        "english": "So, systematic.",
+        "chinese": "所以，系统。"
+    },
+    {
+        "start": 193.4,
+        "end": 194.4,
+        "english": "That's an interesting word.",
+        "chinese": "这个有趣的词。"
+    },
+    {
+        "start": 194.4,
+        "end": 195.4,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话“Mmm-hmm”是用英语写的，意思是“嗯”。"
+    },
+    {
+        "start": 195.4,
+        "end": 198.4,
+        "english": "Now, I think we can recognize the word system in here, right?",
+        "chinese": "现在，我认为我们这里可以识别出这个字的系统了吗？"
+    },
+    {
+        "start": 198.9,
+        "end": 202.9,
+        "english": "So, when something is systematic, it follows a process.",
+        "chinese": "所以，当事情是系统化的，它遵循了一套过程。"
+    },
+    {
+        "start": 202.9,
+        "end": 203.9,
+        "english": "A certain order.",
+        "chinese": "一个特定的顺序。"
+    },
+    {
+        "start": 203.9,
+        "end": 205.4,
+        "english": "Yes, a certain system.",
+        "chinese": "是的，有一个系统。"
+    },
+    {
+        "start": 205.4,
+        "end": 210.4,
+        "english": "Right, so that's basically what systematic means to follow a certain order to be more organized, right?",
+        "chinese": "是的，所以这就是系统化到按照一定的顺序来更加有序了。"
+    },
+    {
+        "start": 210.4,
+        "end": 211.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 211.4,
+        "end": 212.4,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 212.4,
+        "end": 213.9,
+        "english": "Okay, and what about our next word?",
+        "chinese": "好的，我们的下一个单词是什么？"
+    },
+    {
+        "start": 213.9,
+        "end": 214.9,
+        "english": "Proposterous.",
+        "chinese": "Proposterous\" in Chinese is \"推想者\" (chuāng xiàng shì)."
+    },
+    {
+        "start": 214.9,
+        "end": 215.9,
+        "english": "Proposterous.",
+        "chinese": "Proposterous\" in Chinese is \"推想者\" (chuàng xiǎo zuò)."
+    },
+    {
+        "start": 215.9,
+        "end": 216.9,
+        "english": "Proposterous.",
+        "chinese": "Proposterous\" in Chinese is \"推想者\" (chuāng xiàng shì)."
+    },
+    {
+        "start": 216.9,
+        "end": 218.9,
+        "english": "That is preposterous.",
+        "chinese": "这句话的中文翻译是：“那太荒谬了。”"
+    },
+    {
+        "start": 218.9,
+        "end": 220.4,
+        "english": "I love this phrase.",
+        "chinese": "我喜欢这句话。"
+    },
+    {
+        "start": 220.4,
+        "end": 221.9,
+        "english": "It usually goes together, right?",
+        "chinese": "通常一起，对吗？"
+    },
+    {
+        "start": 221.9,
+        "end": 222.9,
+        "english": "That is preposterous.",
+        "chinese": "这句话的中文翻译是：“那真是荒谬。”"
+    },
+    {
+        "start": 222.9,
+        "end": 223.9,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 223.9,
+        "end": 226.4,
+        "english": "Okay, so what does it mean when I say that?",
+        "chinese": "好的，那么这句话的意思是什么？"
+    },
+    {
+        "start": 226.4,
+        "end": 228.4,
+        "english": "It means it's absurd.",
+        "chinese": "这句话在中文中可以翻译为：“这意味着它很荒谬。”"
+    },
+    {
+        "start": 228.4,
+        "end": 229.4,
+        "english": "It's ridiculous.",
+        "chinese": "它太荒谬了。"
+    },
+    {
+        "start": 229.4,
+        "end": 230.4,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī shí.)"
+    },
+    {
+        "start": 230.4,
+        "end": 231.4,
+        "english": "It doesn't make sense.",
+        "chinese": "它不成立。"
+    },
+    {
+        "start": 231.4,
+        "end": 232.4,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话的中文翻译是“嗯，嗯”。"
+    },
+    {
+        "start": 232.4,
+        "end": 233.4,
+        "english": "I can't believe you said that.",
+        "chinese": "我无法相信你说了什么。"
+    },
+    {
+        "start": 233.4,
+        "end": 239.20000000000002,
+        "english": "All right, well, this is a really interesting phrase, but I think it's a little bit more common",
+        "chinese": "好的，很好，这个确实是一个很有趣的话，但我认为它比更常见。"
+    },
+    {
+        "start": 239.20000000000002,
+        "end": 241.0,
+        "english": "when it's used by older people.",
+        "chinese": "当它被用在老年人身上。"
+    },
+    {
+        "start": 241.0,
+        "end": 242.20000000000002,
+        "english": "Yeah, I don't think...",
+        "chinese": "是的，我不认为..."
+    },
+    {
+        "start": 242.20000000000002,
+        "end": 247.8,
+        "english": "I don't really see a young person going up to someone and say, hey, that's preposterous.",
+        "chinese": "我并不真正看到一个年轻人走上某人，说：“那可真是荒谬。”"
+    },
+    {
+        "start": 247.8,
+        "end": 249.8,
+        "english": "Yeah, but it is a wonderful phrase.",
+        "chinese": "是的，但这是一个美妙的短语。"
+    },
+    {
+        "start": 249.8,
+        "end": 252.4,
+        "english": "Now, our final phrase for takeaway.",
+        "chinese": "现在，我们的最后一句话是：享用完毕。"
+    },
+    {
+        "start": 252.4,
+        "end": 253.4,
+        "english": "Oblivious.",
+        "chinese": "无意识。"
+    },
+    {
+        "start": 253.4,
+        "end": 254.4,
+        "english": "Oblivious.",
+        "chinese": "无意识。"
+    },
+    {
+        "start": 254.4,
+        "end": 256.4,
+        "english": "You're oblivious to the facts.",
+        "chinese": "您对事实一无所知。"
+    },
+    {
+        "start": 256.4,
+        "end": 257.4,
+        "english": "Mmm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 257.4,
+        "end": 260.4,
+        "english": "So a person that is oblivious to something.",
+        "chinese": "所以一个人对某事一无所知。"
+    },
+    {
+        "start": 260.4,
+        "end": 262.4,
+        "english": "They don't know, or they're unaware.",
+        "chinese": "他们不知道，或者他们没有意识到。"
+    },
+    {
+        "start": 262.4,
+        "end": 266.4,
+        "english": "Okay, so they ignore maybe the facts or they don't see it.",
+        "chinese": "好的，所以他们可能忽视了事实或者他们并不看到。"
+    },
+    {
+        "start": 266.4,
+        "end": 269.4,
+        "english": "Yeah, you're oblivious to the fact that we're in a recession.",
+        "chinese": "是的，你对我们的经济衰退一无所知。"
+    },
+    {
+        "start": 269.4,
+        "end": 272.4,
+        "english": "Okay, or he is completely oblivious.",
+        "chinese": "好的，或者他完全不知晓。"
+    },
+    {
+        "start": 272.4,
+        "end": 273.4,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话“Mmm-hmm”是中文的缩写，用于表示微笑或同意。在不同的语言中，“Mmm-hmm”可以有不同的含义和表达方式，但通常它会表示微笑或者同意。"
+    },
+    {
+        "start": 273.4,
+        "end": 274.4,
+        "english": "You can just say it like that, right?",
+        "chinese": "您可以说这样，对吗？"
+    },
+    {
+        "start": 274.4,
+        "end": 275.4,
+        "english": "Yeah, he doesn't know.",
+        "chinese": "是的，他不知道。"
+    },
+    {
+        "start": 275.4,
+        "end": 281.0,
+        "english": "Okay, so we took a look at some of the great vocabulary we found in the dialogue, but there",
+        "chinese": "好的，我们看了对话中的一些好词汇，但还是有些地方需要进一步了解。"
+    },
+    {
+        "start": 281.0,
+        "end": 284.6,
+        "english": "were also some really good phrases that I think we should look at.",
+        "chinese": "也还有一些我认为值得一看的真正好词。"
+    },
+    {
+        "start": 284.6,
+        "end": 288.0,
+        "english": "Okay, and let's take a look at those and putting it together.",
+        "chinese": "好的，让我们看看这些，然后一起整理。"
+    },
+    {
+        "start": 288.0,
+        "end": 292.0,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 292.0,
+        "end": 298.6,
+        "english": "You know, Marco, one of the things I love about English is the way that words seem to fit",
+        "chinese": "我知道，马科，我对英语的另一点是单词似乎能和谐地融入。"
+    },
+    {
+        "start": 298.6,
+        "end": 301.4,
+        "english": "together, like blocks coming together.",
+        "chinese": "同在一起，就像块儿拼合。"
+    },
+    {
+        "start": 301.4,
+        "end": 305.8,
+        "english": "And here we have a lot of great examples of these words that fit together really nicely.",
+        "chinese": "在这里，我们有大量这些单词完美地结合在一起。"
+    },
+    {
+        "start": 305.8,
+        "end": 307.6,
+        "english": "Okay, so why don't we look at those?",
+        "chinese": "好的，那么我们为什么不看看这些呢？"
+    },
+    {
+        "start": 307.6,
+        "end": 312.6,
+        "english": "Our first one now is extensive research.",
+        "chinese": "我们的第一个现在是广泛的调查。"
+    },
+    {
+        "start": 312.6,
+        "end": 313.6,
+        "english": "Extensive research.",
+        "chinese": "深入的研究。"
+    },
+    {
+        "start": 313.6,
+        "end": 314.6,
+        "english": "Extensive research.",
+        "chinese": "深入的研究。"
+    },
+    {
+        "start": 314.6,
+        "end": 318.6,
+        "english": "All right, so we know extensive means a lot.",
+        "chinese": "好的，所以我们知道很多方法。"
+    },
+    {
+        "start": 318.6,
+        "end": 319.6,
+        "english": "A lot.",
+        "chinese": "很多。"
+    },
+    {
+        "start": 319.6,
+        "end": 322.6,
+        "english": "Yeah, so that's really good when you put it to get extensive research.",
+        "chinese": "是的，这样真的很棒，当你把它用于广泛的调查时。"
+    },
+    {
+        "start": 322.6,
+        "end": 325.6,
+        "english": "It means you have a lot of research.",
+        "chinese": "这句话意味着你有很多研究。"
+    },
+    {
+        "start": 325.6,
+        "end": 328.6,
+        "english": "You have really studied, you have really looked things up.",
+        "chinese": "您真的学习得非常认真，您确实查阅了相关资料。"
+    },
+    {
+        "start": 328.6,
+        "end": 329.6,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话“Mmm-hmm”在中文中可以翻译为“嗯，嗯”。"
+    },
+    {
+        "start": 329.6,
+        "end": 330.6,
+        "english": "Okay, extensive research.",
+        "chinese": "好的，深入的研究。"
+    },
+    {
+        "start": 330.6,
+        "end": 336.6,
+        "english": "Another great research related phrase here is conclusive evidence.",
+        "chinese": "另一个重要的研究主题是结论性的证据。"
+    },
+    {
+        "start": 336.6,
+        "end": 338.6,
+        "english": "Conclusive evidence.",
+        "chinese": "结论性的证据。"
+    },
+    {
+        "start": 338.6,
+        "end": 340.6,
+        "english": "Conclusive evidence.",
+        "chinese": "结论性的证据。"
+    },
+    {
+        "start": 340.6,
+        "end": 343.20000000000005,
+        "english": "All right, now the first word there, conclusive.",
+        "chinese": "好的，现在第一个字是“结论”的。"
+    },
+    {
+        "start": 343.20000000000005,
+        "end": 347.16,
+        "english": "When something is conclusive, you can't argue with it.",
+        "chinese": "当某事是确定的，你就不能与它争论。"
+    },
+    {
+        "start": 347.16,
+        "end": 348.6,
+        "english": "It's the final decision.",
+        "chinese": "它是最后的决定。"
+    },
+    {
+        "start": 348.6,
+        "end": 354.84000000000003,
+        "english": "All right, well, the professor complained that Horowitz's, that Horowitz's investigative",
+        "chinese": "好的，很好，教授抱怨说霍夫曼的调查。"
+    },
+    {
+        "start": 354.84000000000003,
+        "end": 356.6,
+        "english": "approach was flawed, right?",
+        "chinese": "方法是错误的，对吗？"
+    },
+    {
+        "start": 356.6,
+        "end": 357.6,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话“Mmm-hmm”是用英语写的，可以翻译为："
+    },
+    {
+        "start": 357.6,
+        "end": 360.6,
+        "english": "So this is our next phrase, investigative approach.",
+        "chinese": "所以这是我们的下一个策略，调查式方法。"
+    },
+    {
+        "start": 360.6,
+        "end": 362.6,
+        "english": "Investigative approach.",
+        "chinese": "调查方法。"
+    },
+    {
+        "start": 362.6,
+        "end": 363.6,
+        "english": "Investigative approach.",
+        "chinese": "调查方法。"
+    },
+    {
+        "start": 363.6,
+        "end": 366.6,
+        "english": "Okay, so I remember the word investigate is a verb.",
+        "chinese": "好的，所以我记得“调查”是一个动词。"
+    },
+    {
+        "start": 366.6,
+        "end": 367.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 367.6,
+        "end": 369.6,
+        "english": "But in this case, it's an adjective.",
+        "chinese": "但是，在这种情况下，它是一个形容词。"
+    },
+    {
+        "start": 369.6,
+        "end": 370.6,
+        "english": "It's an adjective.",
+        "chinese": "它是一个形容词。"
+    },
+    {
+        "start": 370.6,
+        "end": 376.6,
+        "english": "When something is investigative, it's obviously having to do with an investigation.",
+        "chinese": "当某事是调查性的，它显然是与调查有关的。"
+    },
+    {
+        "start": 376.6,
+        "end": 377.6,
+        "english": "Mmm-hmm.",
+        "chinese": "这句话的中文翻译是“嗯，嗯”。"
+    },
+    {
+        "start": 377.6,
+        "end": 381.6,
+        "english": "So the approach, or the, so when he said, investigative approach.",
+        "chinese": "所以，或者，当他说，调查方法。"
+    },
+    {
+        "start": 381.6,
+        "end": 386.6,
+        "english": "Just the, I mean, just simply the way you investigate.",
+        "chinese": "请稍等，我将直接翻译这段话并提供中文版本："
+    },
+    {
+        "start": 386.6,
+        "end": 387.6,
+        "english": "Okay, the problem.",
+        "chinese": "好的，问题。"
+    },
+    {
+        "start": 387.6,
+        "end": 388.6,
+        "english": "The way he investigated.",
+        "chinese": "你的问题翻译成中文是："
+    },
+    {
+        "start": 388.6,
+        "end": 389.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 389.6,
+        "end": 391.6,
+        "english": "Very interesting.",
+        "chinese": "非常有趣。"
+    },
+    {
+        "start": 391.6,
+        "end": 393.6,
+        "english": "What about this other phrase that I saw?",
+        "chinese": "这句话的英文是 \"What about this other phrase that I saw? \"。"
+    },
+    {
+        "start": 393.6,
+        "end": 394.6,
+        "english": "It was really interesting.",
+        "chinese": "是真的很有趣。"
+    },
+    {
+        "start": 394.6,
+        "end": 396.6,
+        "english": "Definitive conclusion.",
+        "chinese": "确定结论。"
+    },
+    {
+        "start": 396.6,
+        "end": 398.6,
+        "english": "Definitive conclusion.",
+        "chinese": "确定结论。"
+    },
+    {
+        "start": 398.6,
+        "end": 401.6,
+        "english": "So a definitive conclusion.",
+        "chinese": "所以一个明确的结论。"
+    },
+    {
+        "start": 401.6,
+        "end": 404.6,
+        "english": "All right, well, again, I think we know the word conclusion, right?",
+        "chinese": "好的，嗯，再次，我认为我们已经知道结论了。"
+    },
+    {
+        "start": 404.6,
+        "end": 405.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 405.6,
+        "end": 407.6,
+        "english": "So it's a final judgment or decision.",
+        "chinese": "所以，这是最终判决或决定。"
+    },
+    {
+        "start": 407.6,
+        "end": 408.6,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 408.6,
+        "end": 413.6,
+        "english": "When something is definitive, you can't argue with it or change it.",
+        "chinese": "当某事是确定的，你就不能争论它或改变它。"
+    },
+    {
+        "start": 413.6,
+        "end": 420.6,
+        "english": "Okay, so the conclusion or the final result is,",
+        "chinese": "好的，结论或最终结果是，"
+    },
+    {
+        "start": 420.6,
+        "end": 423.6,
+        "english": "is final, like there is no way of arguing it.",
+        "chinese": "最终，就像没有办法争论它。"
+    },
+    {
+        "start": 423.6,
+        "end": 424.6,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 424.6,
+        "end": 425.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 425.6,
+        "end": 426.6,
+        "english": "All right, definitive conclusion.",
+        "chinese": "好的，最终结论。"
+    },
+    {
+        "start": 426.6,
+        "end": 428.6,
+        "english": "This is some great language.",
+        "chinese": "这是些很好的语言。"
+    },
+    {
+        "start": 428.6,
+        "end": 431.6,
+        "english": "So why don't we listen to it one more time in the dialogue?",
+        "chinese": "所以为什么我们在对话中再听一次呢？"
+    },
+    {
+        "start": 436.6,
+        "end": 438.6,
+        "english": "We've been over this a thousand times.",
+        "chinese": "我们已经重复了这个话题上千次。"
+    },
+    {
+        "start": 438.6,
+        "end": 440.6,
+        "english": "The data is irrefutable.",
+        "chinese": "数据是不可辩驳的。"
+    },
+    {
+        "start": 440.6,
+        "end": 444.6,
+        "english": "Look, we've done extensive research, built studies and read the literature.",
+        "chinese": "请看，我们已经进行了广泛的调查、建立了研究和阅读了文献。"
+    },
+    {
+        "start": 444.6,
+        "end": 447.6,
+        "english": "And there is conclusive evidence to support my theory.",
+        "chinese": "并且有确凿的证据支持我的理论。"
+    },
+    {
+        "start": 447.6,
+        "end": 448.6,
+        "english": "Horowitz.",
+        "chinese": "在中文中，\"Horowitz\"可以翻译为："
+    },
+    {
+        "start": 448.6,
+        "end": 451.6,
+        "english": "I beg to differ.",
+        "chinese": "我不同意。"
+    },
+    {
+        "start": 451.6,
+        "end": 455.6,
+        "english": "Even in your most recent study, the investigative approach was flawed.",
+        "chinese": "在你最近的研究中，调查方法是错误的。"
+    },
+    {
+        "start": 455.6,
+        "end": 459.6,
+        "english": "You know as well as I do, the collection of data was not systematic,",
+        "chinese": "您也知道，我比您了解得更清楚，数据的收集并不是系统化的。"
+    },
+    {
+        "start": 459.6,
+        "end": 461.6,
+        "english": "and there's a large margin of error.",
+        "chinese": "和有较大的误差 Margin of error."
+    },
+    {
+        "start": 461.6,
+        "end": 464.6,
+        "english": "To draw a definitive conclusion based on that data would be misleading.",
+        "chinese": "要基于这些数据得出一个明确的结论是误导性的。"
+    },
+    {
+        "start": 464.6,
+        "end": 466.6,
+        "english": "Doctors preposterous.",
+        "chinese": "医生疯癫。"
+    },
+    {
+        "start": 466.6,
+        "end": 470.6,
+        "english": "You are trying to single-handedly solve one of the world's greatest mysteries,",
+        "chinese": "您正在试图独自解决世界上最大的谜团。"
+    },
+    {
+        "start": 470.6,
+        "end": 473.6,
+        "english": "and yet you're oblivious to the fact that you're wrong.",
+        "chinese": "而且你还是没有意识到自己错了。"
+    },
+    {
+        "start": 473.6,
+        "end": 475.6,
+        "english": "Or I'm not wrong.",
+        "chinese": "或者我错了。"
+    },
+    {
+        "start": 475.6,
+        "end": 476.6,
+        "english": "The chicken came first.",
+        "chinese": "鸡先飞。"
+    },
+    {
+        "start": 476.6,
+        "end": 478.6,
+        "english": "No, the egg came first.",
+        "chinese": "是的，鸡蛋先于我。"
+    },
+    {
+        "start": 478.6,
+        "end": 479.6,
+        "english": "The chicken.",
+        "chinese": "鸡。"
+    },
+    {
+        "start": 479.6,
+        "end": 480.6,
+        "english": "Egg.",
+        "chinese": "蛋。"
+    },
+    {
+        "start": 480.6,
+        "end": 481.6,
+        "english": "The chicken.",
+        "chinese": "鸡蛋。"
+    },
+    {
+        "start": 481.6,
+        "end": 482.6,
+        "english": "The egg.",
+        "chinese": "蛋。"
+    },
+    {
+        "start": 482.6,
+        "end": 483.6,
+        "english": "The chicken.",
+        "chinese": "鸡。"
+    },
+    {
+        "start": 483.6,
+        "end": 484.6,
+        "english": "The egg.",
+        "chinese": "蛋。"
+    },
+    {
+        "start": 489.6,
+        "end": 490.6,
+        "english": "So an interesting question.",
+        "chinese": "所以一个问题。"
+    },
+    {
+        "start": 490.6,
+        "end": 491.6,
+        "english": "What do you think?",
+        "chinese": "你觉得？"
+    },
+    {
+        "start": 491.6,
+        "end": 492.6,
+        "english": "What came first?",
+        "chinese": "这句话的英文是 \"What came first? \"。"
+    },
+    {
+        "start": 492.6,
+        "end": 493.6,
+        "english": "The chicken or the egg?",
+        "chinese": "“鸡还是蛋？”"
+    },
+    {
+        "start": 493.6,
+        "end": 496.6,
+        "english": "Well, if you ask me, it was the egg.",
+        "chinese": "嗯，如果我问你，那鸡蛋是你的。"
+    },
+    {
+        "start": 496.6,
+        "end": 497.6,
+        "english": "It was the egg?",
+        "chinese": "是鸡蛋吗？"
+    },
+    {
+        "start": 497.6,
+        "end": 498.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 498.6,
+        "end": 499.6,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 499.6,
+        "end": 501.6,
+        "english": "What about why did the chicken cross the road?",
+        "chinese": "为什么鸡要穿过马路？"
+    },
+    {
+        "start": 501.6,
+        "end": 503.6,
+        "english": "To get to the other side.",
+        "chinese": "要到另一边。"
+    },
+    {
+        "start": 503.6,
+        "end": 505.6,
+        "english": "Do you think that's really the reason?",
+        "chinese": "是的，你觉得这是真的吗？"
+    },
+    {
+        "start": 505.6,
+        "end": 506.6,
+        "english": "There's a million different reasons.",
+        "chinese": "这里有一百万种不同的原因。"
+    },
+    {
+        "start": 506.6,
+        "end": 507.6,
+        "english": "But this is great.",
+        "chinese": "但是这是很好的。"
+    },
+    {
+        "start": 507.6,
+        "end": 511.6,
+        "english": "I'm glad you brought that up, because this is like the classic English joke.",
+        "chinese": "我为你高兴，因为这就像经典英语的笑话。"
+    },
+    {
+        "start": 511.6,
+        "end": 513.6,
+        "english": "The classic English joke, right?",
+        "chinese": "是的，经典的英语笑话？"
+    },
+    {
+        "start": 513.6,
+        "end": 515.6,
+        "english": "Why did the chicken cross the road?",
+        "chinese": "为什么鸡要穿过马路？"
+    },
+    {
+        "start": 515.6,
+        "end": 516.6,
+        "english": "And the answer is always...",
+        "chinese": "答案总是..."
+    },
+    {
+        "start": 516.6,
+        "end": 518.6,
+        "english": "Well, there are a million answers.",
+        "chinese": "很好，有成千上万的答案。"
+    },
+    {
+        "start": 518.6,
+        "end": 520.6,
+        "english": "So, do you guys know any chicken jokes?",
+        "chinese": "所以，你们知道哪些鸡笑话吗？"
+    },
+    {
+        "start": 520.6,
+        "end": 523.6,
+        "english": "Yeah, why don't you come to our website, www.englishpot.com,",
+        "chinese": "是的，为什么不来我们的网站，www.englishpot.com?"
+    },
+    {
+        "start": 523.6,
+        "end": 527.6,
+        "english": "and on the comment section, why don't you leave us your thoughts on what came first?",
+        "chinese": "而且在评论区，你为什么不给我们留下你的想法，关于谁先来的呢？"
+    },
+    {
+        "start": 527.6,
+        "end": 528.6,
+        "english": "The chicken or the egg?",
+        "chinese": "请问，鸡蛋还是鸡？"
+    },
+    {
+        "start": 528.6,
+        "end": 531.6,
+        "english": "And why do you think the chicken crossed the road?",
+        "chinese": "为什么你认为鸡飞上了马路？"
+    },
+    {
+        "start": 531.6,
+        "end": 532.6,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 532.6,
+        "end": 537.6,
+        "english": "So, we really look forward to hearing your ideas, and Marco and I will be around to answer your questions.",
+        "chinese": "所以，我们真的期待听到你的想法，而马克和我将随时准备回答你的问题。"
+    },
+    {
+        "start": 537.6,
+        "end": 540.6,
+        "english": "So, I think we're out of time for today, but thanks for listening, and...",
+        "chinese": "所以，我认为今天的时间已经用完了，谢谢你的倾听，..."
+    },
+    {
+        "start": 540.6,
+        "end": 541.6,
+        "english": "We'll see you there.",
+        "chinese": "我们将在这里等你。"
+    },
+    {
+        "start": 541.6,
+        "end": 542.6,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 542.6,
+        "end": 543.6,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

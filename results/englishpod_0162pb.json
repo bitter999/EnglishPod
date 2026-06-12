@@ -1,0 +1,1268 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.4,
+        "english": "Hello everyone, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "你好大家，欢迎再次来到英语广播，我是Marco。"
+    },
+    {
+        "start": 6.4,
+        "end": 10.72,
+        "english": "And my name is Catherine and today we are talking about an important holiday the world",
+        "chinese": "而且我的名字是凯瑟琳，今天我们谈论的是一个世界非常重要的节日"
+    },
+    {
+        "start": 10.72,
+        "end": 11.72,
+        "english": "over.",
+        "chinese": "过。"
+    },
+    {
+        "start": 11.72,
+        "end": 15.96,
+        "english": "It's very important all over the world, especially in the United States.",
+        "chinese": "在全球范围内，尤其是在美国，这非常重要。"
+    },
+    {
+        "start": 15.96,
+        "end": 20.36,
+        "english": "So let's take a look at this holiday in vocabulary preview.",
+        "chinese": "那么，让我们来看看这个假期的词汇预览。"
+    },
+    {
+        "start": 20.36,
+        "end": 22.8,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 22.8,
+        "end": 26.0,
+        "english": "So the name of the holiday is Veterans Day.",
+        "chinese": "所以这个节日的名字是老兵节。"
+    },
+    {
+        "start": 26.0,
+        "end": 27.0,
+        "english": "So Veteran.",
+        "chinese": "所以老手。"
+    },
+    {
+        "start": 27.0,
+        "end": 28.560000000000002,
+        "english": "So what's a Veteran?",
+        "chinese": "什么是老兵？"
+    },
+    {
+        "start": 28.56,
+        "end": 36.32,
+        "english": "A Veteran is a person who has participated in a war or in some kind of military situation.",
+        "chinese": "老兵是指曾经参与过战争或某种军事情况的人。"
+    },
+    {
+        "start": 36.32,
+        "end": 37.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 37.32,
+        "end": 42.92,
+        "english": "So Veterans Day is a day where you commemorate all the people that fought in the different",
+        "chinese": "所以，老兵节是一个纪念所有参与不同战争的人的日期。"
+    },
+    {
+        "start": 42.92,
+        "end": 43.92,
+        "english": "wars.",
+        "chinese": "战争。"
+    },
+    {
+        "start": 43.92,
+        "end": 44.92,
+        "english": "Exactly.",
+        "chinese": "确切地。"
+    },
+    {
+        "start": 44.92,
+        "end": 47.28,
+        "english": "A Veteran doesn't have to be a World War II Veteran.",
+        "chinese": "老兵不一定非是二战老兵。"
+    },
+    {
+        "start": 47.28,
+        "end": 52.519999999999996,
+        "english": "They could be a Civil War Veteran or a Vietnam War Veteran, just a general term.",
+        "chinese": "他们可能是战地老兵，也可能是越南战争老兵，只是泛称。"
+    },
+    {
+        "start": 52.519999999999996,
+        "end": 53.519999999999996,
+        "english": "Or a Gulf War.",
+        "chinese": "或者一场海湾战争。"
+    },
+    {
+        "start": 53.519999999999996,
+        "end": 54.519999999999996,
+        "english": "Exactly.",
+        "chinese": "确实。"
+    },
+    {
+        "start": 54.92,
+        "end": 59.96,
+        "english": "So that's the day in the United States where everyone honors all the soldiers that participated",
+        "chinese": "这样就是美国的这一天，所有人都会尊重所有参与战争的士兵。"
+    },
+    {
+        "start": 59.96,
+        "end": 63.480000000000004,
+        "english": "in different wars and they fought for their country.",
+        "chinese": "在不同的战争中，他们为国家而战。"
+    },
+    {
+        "start": 63.480000000000004,
+        "end": 68.12,
+        "english": "Alright, so why don't we take a look at our dialogue for the first time and we'll be back.",
+        "chinese": "好吧，那我们不妨先来看看我们的第一次对话吧，然后我们再回来。"
+    },
+    {
+        "start": 76.44,
+        "end": 78.88,
+        "english": "Do you have any plans for Veterans Day?",
+        "chinese": "你有退役军人节的计划吗？"
+    },
+    {
+        "start": 78.88,
+        "end": 80.64,
+        "english": "You mean, almost a day?",
+        "chinese": "你意思是，几乎是一天？"
+    },
+    {
+        "start": 80.64,
+        "end": 81.84,
+        "english": "What are you talking about?",
+        "chinese": "你在说什么？"
+    },
+    {
+        "start": 81.84,
+        "end": 84.60000000000001,
+        "english": "November 11th is Veterans Day.",
+        "chinese": "十一月十一日是退役军人节。"
+    },
+    {
+        "start": 84.60000000000001,
+        "end": 86.16,
+        "english": "What planet are you from?",
+        "chinese": "你来自哪个星球？"
+    },
+    {
+        "start": 86.16,
+        "end": 91.16,
+        "english": "Well, as you know, on November 11th, the Allies signed a peace treaty with the Germans,",
+        "chinese": "嗯，你知道的，在十一月十一日，同盟国与德国签署了和约。"
+    },
+    {
+        "start": 91.16,
+        "end": 93.12,
+        "english": "also known as the Armistice Treaty.",
+        "chinese": "也被称为停战条约。"
+    },
+    {
+        "start": 93.12,
+        "end": 96.60000000000001,
+        "english": "This marked the end of World War I and many countries around the world commemorate at",
+        "chinese": "这标志着第一次世界大战的结束，许多国家在世界各地纪念这一时刻。"
+    },
+    {
+        "start": 96.60000000000001,
+        "end": 99.16,
+        "english": "this date and the names such as Remembrance Day.",
+        "chinese": "这个日期以及诸如纪念日这样的名称。"
+    },
+    {
+        "start": 99.16,
+        "end": 101.32000000000001,
+        "english": "In Poland, it's their Independence Day.",
+        "chinese": "在波兰，这是他们的独立日。"
+    },
+    {
+        "start": 101.32000000000001,
+        "end": 103.52000000000001,
+        "english": "There's a lot going on around the world on this day.",
+        "chinese": "这一天，世界各地都在发生很多事情。"
+    },
+    {
+        "start": 103.52000000000001,
+        "end": 106.0,
+        "english": "Wow, I didn't know.",
+        "chinese": "哇，我没想到。"
+    },
+    {
+        "start": 106.0,
+        "end": 108.0,
+        "english": "Probably because I flunked history in school.",
+        "chinese": "大概是因为我在学校学历史的时候没考好。"
+    },
+    {
+        "start": 112.48,
+        "end": 120.4,
+        "english": "Alright, so there's a lot of really great vocabulary in this elementary lesson.",
+        "chinese": "好的，所以这个初级课中有很多非常优秀的词汇。"
+    },
+    {
+        "start": 120.4,
+        "end": 124.80000000000001,
+        "english": "So let's take a look at some of these words and phrases in language takeaway.",
+        "chinese": "那么让我们来看看这些单词和短语在语言包里。"
+    },
+    {
+        "start": 124.80000000000001,
+        "end": 127.80000000000001,
+        "english": "Language takeaway.",
+        "chinese": "语言取走。"
+    },
+    {
+        "start": 127.80000000000001,
+        "end": 135.32,
+        "english": "Alright, so the first word that came up after the guy mentioned Veterans Day, the girl",
+        "chinese": "好的，那么在提到老兵节之后出现的第一个单词是女孩。"
+    },
+    {
+        "start": 135.32,
+        "end": 137.32,
+        "english": "mentioned Armistice Day.",
+        "chinese": "提到停战纪念日。"
+    },
+    {
+        "start": 137.32,
+        "end": 138.32,
+        "english": "Mm, Armistice.",
+        "chinese": "嗯，停战。"
+    },
+    {
+        "start": 138.32,
+        "end": 139.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 139.32,
+        "end": 141.32,
+        "english": "So what is this Armistice Day?",
+        "chinese": "所以，这是什么停战纪念日？"
+    },
+    {
+        "start": 142.2,
+        "end": 145.16,
+        "english": "Armistice means stop to stop fighting, right?",
+        "chinese": "停战意味着停止战斗，对吗？"
+    },
+    {
+        "start": 145.16,
+        "end": 149.2,
+        "english": "So it's a time in which people lay down their arms, we say.",
+        "chinese": "所以，这是一个人们放下武器的时候。"
+    },
+    {
+        "start": 149.2,
+        "end": 155.64,
+        "english": "And it's one that's celebrated in Commonwealth countries like England or Canada and in parts",
+        "chinese": "而且，它在英联邦国家如英国或加拿大以及部分地区庆祝。"
+    },
+    {
+        "start": 155.64,
+        "end": 156.64,
+        "english": "of Europe.",
+        "chinese": "欧洲的"
+    },
+    {
+        "start": 156.64,
+        "end": 157.72,
+        "english": "Okay, very good.",
+        "chinese": "好的，非常好。"
+    },
+    {
+        "start": 157.72,
+        "end": 162.51999999999998,
+        "english": "So Armistice Day, kind of like the equivalent for Commonwealth countries to Veterans Day.",
+        "chinese": "所以，11月11日就像英联邦国家对老兵节的等效形式。"
+    },
+    {
+        "start": 162.51999999999998,
+        "end": 163.51999999999998,
+        "english": "Mm-hmm.",
+        "chinese": "嗯嗯。"
+    },
+    {
+        "start": 163.51999999999998,
+        "end": 164.51999999999998,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 164.51999999999998,
+        "end": 169.04,
+        "english": "And well, the girl gave him a bit of a history lesson and mentioned that on November",
+        "chinese": "而且，女孩给了他一些历史课，并提到在十一月。"
+    },
+    {
+        "start": 169.04,
+        "end": 172.72,
+        "english": "8th, 11th, the Allies signed a peace treaty.",
+        "chinese": "第八、十一日，同盟国签署停战条约。"
+    },
+    {
+        "start": 172.72,
+        "end": 175.64,
+        "english": "So we have two great words here, Allies.",
+        "chinese": "所以这里有两个伟大的词，盟友。"
+    },
+    {
+        "start": 175.64,
+        "end": 184.32,
+        "english": "So Allies is a word that we use in English to indicate people who fought against the Germans,",
+        "chinese": "所以，Allies这个词在英语中用来指代那些与德国人作战的人。"
+    },
+    {
+        "start": 184.32,
+        "end": 187.79999999999998,
+        "english": "Italians and Japanese in World War II.",
+        "chinese": "第二次世界大战中的意大利人和日本人。"
+    },
+    {
+        "start": 187.79999999999998,
+        "end": 192.88,
+        "english": "So Allies include Great Britain, America, France.",
+        "chinese": "所以盟友包括英国、美国和法国。"
+    },
+    {
+        "start": 192.88,
+        "end": 194.92,
+        "english": "France for some time.",
+        "chinese": "法国一段时间。"
+    },
+    {
+        "start": 194.92,
+        "end": 199.0,
+        "english": "So these are countries that were, that and Russia, they were fighting against the Germans.",
+        "chinese": "所以这些国家，包括俄罗斯，在与德国作战。"
+    },
+    {
+        "start": 199.0,
+        "end": 200.0,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 200.0,
+        "end": 203.04,
+        "english": "So in general terms, an ally is a friend, right?",
+        "chinese": "所以一般来说，盟友就是朋友。"
+    },
+    {
+        "start": 203.04,
+        "end": 204.04,
+        "english": "Exactly.",
+        "chinese": "确切地。"
+    },
+    {
+        "start": 204.04,
+        "end": 206.96,
+        "english": "So Mark won our Allies.",
+        "chinese": "所以马克赢得了我们的盟友。"
+    },
+    {
+        "start": 206.96,
+        "end": 209.12,
+        "english": "If there's a fight, I'm on his side.",
+        "chinese": "如果有人打架，我站在他的那一边。"
+    },
+    {
+        "start": 209.12,
+        "end": 210.32,
+        "english": "The opposite of enemies.",
+        "chinese": "敌人的对立面。"
+    },
+    {
+        "start": 210.32,
+        "end": 211.32,
+        "english": "Exactly.",
+        "chinese": "确切。"
+    },
+    {
+        "start": 211.32,
+        "end": 212.32,
+        "english": "Very good.",
+        "chinese": "非常好。"
+    },
+    {
+        "start": 212.32,
+        "end": 214.96,
+        "english": "And well, the Allies signed a peace treaty.",
+        "chinese": "而且，盟国签署了和约。"
+    },
+    {
+        "start": 214.96,
+        "end": 216.68,
+        "english": "So what is a peace treaty?",
+        "chinese": "那么，和平条约是什么？"
+    },
+    {
+        "start": 216.68,
+        "end": 221.2,
+        "english": "A treaty is a document that outlines new rules for a situation.",
+        "chinese": "条约是概述新规则的文件。"
+    },
+    {
+        "start": 221.2,
+        "end": 224.4,
+        "english": "And a peace treaty is a document that calls for peace.",
+        "chinese": "和平条约是一份要求和平的文件。"
+    },
+    {
+        "start": 224.4,
+        "end": 227.04,
+        "english": "It says, we will not fight anymore.",
+        "chinese": "它说，我们不再战斗。"
+    },
+    {
+        "start": 227.04,
+        "end": 228.44,
+        "english": "We will have peace.",
+        "chinese": "我们将有和平。"
+    },
+    {
+        "start": 228.48,
+        "end": 230.04,
+        "english": "And this is what this means.",
+        "chinese": "这就是这意味着。"
+    },
+    {
+        "start": 230.04,
+        "end": 231.04,
+        "english": "So we have new rules.",
+        "chinese": "所以我们有了新的规定。"
+    },
+    {
+        "start": 231.04,
+        "end": 233.0,
+        "english": "So it's in agreements like a contract.",
+        "chinese": "所以，它就像合同一样存在于协议中。"
+    },
+    {
+        "start": 233.0,
+        "end": 234.0,
+        "english": "Exactly.",
+        "chinese": "确切地。"
+    },
+    {
+        "start": 234.0,
+        "end": 235.32,
+        "english": "It's a contract between nations.",
+        "chinese": "这是国家之间的合同。"
+    },
+    {
+        "start": 235.32,
+        "end": 236.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 236.32,
+        "end": 237.32,
+        "english": "Very good.",
+        "chinese": "非常好。"
+    },
+    {
+        "start": 237.32,
+        "end": 242.68,
+        "english": "And as we mentioned, Veterans Day or Armistice Day, we commemorate these events that happened",
+        "chinese": "而且正如我们所提到的，老兵节或停战纪念日，我们纪念这些发生的事情"
+    },
+    {
+        "start": 242.68,
+        "end": 243.68,
+        "english": "in the past.",
+        "chinese": "在过去。"
+    },
+    {
+        "start": 243.68,
+        "end": 244.88,
+        "english": "So to commemorate something.",
+        "chinese": "因此来纪念某事。"
+    },
+    {
+        "start": 244.88,
+        "end": 245.88,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 245.88,
+        "end": 247.84,
+        "english": "So in a sense, we are honoring it.",
+        "chinese": "所以，我们是在尊重它。"
+    },
+    {
+        "start": 247.84,
+        "end": 253.12,
+        "english": "So to commemorate is to remember, to honor, to remember with respect.",
+        "chinese": "所以纪念是为了铭记、敬拜，也是为了以崇敬之心去记住。"
+    },
+    {
+        "start": 253.12,
+        "end": 255.36,
+        "english": "So yeah, to remember with respect, exactly.",
+        "chinese": "所以，为了表示尊重，确实如此。"
+    },
+    {
+        "start": 255.36,
+        "end": 258.2,
+        "english": "There's a positive, respectful tone here.",
+        "chinese": "这里有一种积极且尊重的语气。"
+    },
+    {
+        "start": 258.2,
+        "end": 259.64,
+        "english": "It's remembering for a good reason.",
+        "chinese": "是为了一个好的原因而记住。"
+    },
+    {
+        "start": 259.64,
+        "end": 260.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 260.64,
+        "end": 261.64,
+        "english": "Very good.",
+        "chinese": "非常好。"
+    },
+    {
+        "start": 261.64,
+        "end": 263.15999999999997,
+        "english": "So we've taken a look at these four words.",
+        "chinese": "所以，我们已经审视了这四个词。"
+    },
+    {
+        "start": 263.15999999999997,
+        "end": 265.47999999999996,
+        "english": "Why don't we listen to our dialogue again?",
+        "chinese": "为什么我们不重新听听我们的对话？"
+    },
+    {
+        "start": 265.47999999999996,
+        "end": 272.48,
+        "english": "And we'll be back in a bit to look at too many buildings.",
+        "chinese": "我们稍后会再次看看太多的房子。"
+    },
+    {
+        "start": 272.48,
+        "end": 274.91999999999996,
+        "english": "Do you have any plans for Veterans Day?",
+        "chinese": "你有退役军人节的计划吗？"
+    },
+    {
+        "start": 274.91999999999996,
+        "end": 276.64,
+        "english": "You mean Armistice Day?",
+        "chinese": "你是指停战纪念日？"
+    },
+    {
+        "start": 276.64,
+        "end": 277.91999999999996,
+        "english": "What are you talking about?",
+        "chinese": "你在说什么？"
+    },
+    {
+        "start": 277.91999999999996,
+        "end": 280.64,
+        "english": "November 11th is Veterans Day.",
+        "chinese": "十一月十一日是老兵节。"
+    },
+    {
+        "start": 280.64,
+        "end": 282.48,
+        "english": "What planet are you from?",
+        "chinese": "你来自哪个星球？"
+    },
+    {
+        "start": 282.48,
+        "end": 287.12,
+        "english": "Well, as you know, on November 11th, the Allies signed a peace treaty with the Germans,",
+        "chinese": "好吧，你知道的，11月11日，同盟国与德国签订了和约。"
+    },
+    {
+        "start": 287.12,
+        "end": 289.16,
+        "english": "also known as the Armistice Treaty.",
+        "chinese": "也被称为停战条约。"
+    },
+    {
+        "start": 289.16,
+        "end": 292.6,
+        "english": "This marked the end of World War I and many countries around the world commemorated",
+        "chinese": "这标志着第一次世界大战的结束，许多世界上其他国家也举行了纪念活动。"
+    },
+    {
+        "start": 292.6,
+        "end": 295.2,
+        "english": "the state and the names such as Remembrance Day.",
+        "chinese": "国家和纪念日的名称。"
+    },
+    {
+        "start": 295.2,
+        "end": 297.24,
+        "english": "In Poland, it's their Independence Day.",
+        "chinese": "在波兰，那是他们的独立日。"
+    },
+    {
+        "start": 297.24,
+        "end": 299.48,
+        "english": "There's a lot going on around the world on this day.",
+        "chinese": "今天世界各地都在发生很多事情。"
+    },
+    {
+        "start": 299.48,
+        "end": 300.48,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 300.48,
+        "end": 301.96,
+        "english": "I didn't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 301.96,
+        "end": 308.04,
+        "english": "Probably because I flung history in school.",
+        "chinese": "大概是因为我在学校里抛开了历史。"
+    },
+    {
+        "start": 308.04,
+        "end": 311.6,
+        "english": "Today's fluency builder includes a couple of really interesting phrases that are kind",
+        "chinese": "今天的流利 builders 包含了一些非常有趣且有趣的短语，这些短语是相当有启发性的。"
+    },
+    {
+        "start": 311.6,
+        "end": 312.6,
+        "english": "of longer.",
+        "chinese": "更长的"
+    },
+    {
+        "start": 312.6,
+        "end": 317.32000000000005,
+        "english": "So let's take a look at the first one, which is very, very common in English.",
+        "chinese": "那么，让我们来看看第一个非常普遍的英语单词。"
+    },
+    {
+        "start": 317.32000000000005,
+        "end": 318.32000000000005,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 318.32000000000005,
+        "end": 321.24,
+        "english": "So this first sentence was kind of using a sarcastic tone because he said, what are you",
+        "chinese": "所以这句话其实是在用一种讽刺的语气，因为他说是你在说什么。"
+    },
+    {
+        "start": 321.24,
+        "end": 322.24,
+        "english": "talking about?",
+        "chinese": "谈论？"
+    },
+    {
+        "start": 322.24,
+        "end": 323.24,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 323.24,
+        "end": 324.92,
+        "english": "So this guy says Veterans Day?",
+        "chinese": "所以这个家伙说老兵节？"
+    },
+    {
+        "start": 324.92,
+        "end": 327.52000000000004,
+        "english": "Oh, you mean Armistice Day?",
+        "chinese": "哦，你是指一战结束日？"
+    },
+    {
+        "start": 327.52000000000004,
+        "end": 328.68,
+        "english": "What are you talking about?",
+        "chinese": "你在说什么？"
+    },
+    {
+        "start": 328.68,
+        "end": 329.68,
+        "english": "That means no.",
+        "chinese": "这意味着没有。"
+    },
+    {
+        "start": 329.68,
+        "end": 331.16,
+        "english": "I mean, Veterans Day.",
+        "chinese": "我指的是老兵节。"
+    },
+    {
+        "start": 331.16,
+        "end": 332.16,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 332.16,
+        "end": 334.92,
+        "english": "So he wasn't really asking like, what are you talking about?",
+        "chinese": "所以他并不是真的在问，你在说什么？"
+    },
+    {
+        "start": 334.92,
+        "end": 338.92,
+        "english": "He was literally saying with this sentence, are you crazy or like?",
+        "chinese": "他这句话简直是在说，你疯了吗还是像？"
+    },
+    {
+        "start": 338.92,
+        "end": 339.92,
+        "english": "You're wrong.",
+        "chinese": "你错了。"
+    },
+    {
+        "start": 339.92,
+        "end": 340.92,
+        "english": "You're wrong.",
+        "chinese": "你错了。"
+    },
+    {
+        "start": 340.92,
+        "end": 341.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 341.92,
+        "end": 347.2,
+        "english": "So what you're talking about is a way, very sarcastic way to say, listen, I think you're",
+        "chinese": "所以你所说的，是一种非常讽刺的方式来说，我其实觉得你是"
+    },
+    {
+        "start": 347.2,
+        "end": 350.24,
+        "english": "wrong or you must be a little bit crazy.",
+        "chinese": "错，你必须有点疯狂。"
+    },
+    {
+        "start": 350.24,
+        "end": 351.24,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 351.24,
+        "end": 352.24,
+        "english": "What are you talking about?",
+        "chinese": "你在说什么？"
+    },
+    {
+        "start": 352.24,
+        "end": 353.24,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 353.24,
+        "end": 359.8,
+        "english": "And then to end the whole sarcastic sentence there, he said, what planet are you from?",
+        "chinese": "然后，他以结束整个讽刺的句子为由说：“你来自哪个星球？”"
+    },
+    {
+        "start": 359.8,
+        "end": 362.48,
+        "english": "So obviously this is Veterans Day.",
+        "chinese": "所以，这不就是老兵日吗？"
+    },
+    {
+        "start": 362.48,
+        "end": 364.04,
+        "english": "What planet are you from?",
+        "chinese": "你来自哪个星球？"
+    },
+    {
+        "start": 364.04,
+        "end": 365.64,
+        "english": "So you're so wrong.",
+        "chinese": "所以你完全错了。"
+    },
+    {
+        "start": 365.64,
+        "end": 368.24,
+        "english": "How do you not understand what this is?",
+        "chinese": "你难道不明白这是什么吗？"
+    },
+    {
+        "start": 368.24,
+        "end": 369.64,
+        "english": "How do you not know this?",
+        "chinese": "你怎么不知道这个？"
+    },
+    {
+        "start": 369.71999999999997,
+        "end": 370.71999999999997,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 370.71999999999997,
+        "end": 375.08,
+        "english": "And so for example, I could say, maybe I'll ask you Marco, who's the president of the",
+        "chinese": "因此，例如，我可以說， maybe 我會問你馬可，誰是墨西哥的總統？"
+    },
+    {
+        "start": 375.08,
+        "end": 376.08,
+        "english": "United States?",
+        "chinese": "美国？"
+    },
+    {
+        "start": 376.08,
+        "end": 377.08,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 377.08,
+        "end": 379.2,
+        "english": "I can say, well, what planet are you from?",
+        "chinese": "我可以说，好吧，你来自哪个星球？"
+    },
+    {
+        "start": 379.2,
+        "end": 380.96,
+        "english": "It's obviously President Obama.",
+        "chinese": "显然，是美国总统奥巴马。"
+    },
+    {
+        "start": 380.96,
+        "end": 383.0,
+        "english": "Oh, though.",
+        "chinese": "哦，不过。"
+    },
+    {
+        "start": 383.0,
+        "end": 385.44,
+        "english": "So it's like, obviously everybody knows this.",
+        "chinese": "所以，这不就是显而易见的吗？"
+    },
+    {
+        "start": 385.44,
+        "end": 388.88,
+        "english": "So you're saying, how do you not, like how do you not know this already?",
+        "chinese": "所以，你说你怎么不知道呢？"
+    },
+    {
+        "start": 388.88,
+        "end": 390.12,
+        "english": "So it's very sarcastic.",
+        "chinese": "所以这非常讽刺。"
+    },
+    {
+        "start": 390.12,
+        "end": 391.96,
+        "english": "What planet are you from?",
+        "chinese": "你来自哪个星球？"
+    },
+    {
+        "start": 391.96,
+        "end": 396.15999999999997,
+        "english": "And finally, the guy is talking about how he doesn't understand what the meaning of",
+        "chinese": "最后，这个人正在解释他不明白什么是..."
+    },
+    {
+        "start": 396.16,
+        "end": 402.28000000000003,
+        "english": "Veterans Day is and after this long explanation, he says, well, I didn't know.",
+        "chinese": "老兵节，经过这一长篇大论的解释后，他说：“我也不知道。”"
+    },
+    {
+        "start": 402.28000000000003,
+        "end": 406.12,
+        "english": "Probably because I flunked history in school.",
+        "chinese": "大概是因为我在学校历史课上挂科了。"
+    },
+    {
+        "start": 406.12,
+        "end": 411.88000000000005,
+        "english": "So if you flunked history or you flunked any subject in school, it means you didn't pass.",
+        "chinese": "所以，如果你在历史课上或任何一门学校课程中不及格，就意味着你没有通过。"
+    },
+    {
+        "start": 411.88000000000005,
+        "end": 412.88,
+        "english": "Exactly.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 412.88,
+        "end": 418.6,
+        "english": "So flunk to flunk is a verb in English and it means to fail a subject.",
+        "chinese": "所以不及格是英语中的一个动词，意思是不及格。"
+    },
+    {
+        "start": 418.6,
+        "end": 421.92,
+        "english": "That means maybe in 100% is perfect.",
+        "chinese": "这意味着百分之百可能是完美的。"
+    },
+    {
+        "start": 421.92,
+        "end": 425.6,
+        "english": "You got 50% to 40% and you have to take the course again.",
+        "chinese": "你得到了 50% 到 40%，你需要再次参加课程。"
+    },
+    {
+        "start": 425.6,
+        "end": 426.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 426.6,
+        "end": 429.16,
+        "english": "Did you ever flunk an exam in school?",
+        "chinese": "你上学时有没有不及格的考试吗？"
+    },
+    {
+        "start": 429.16,
+        "end": 430.16,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 430.16,
+        "end": 431.16,
+        "english": "No, really?",
+        "chinese": "不，真的？"
+    },
+    {
+        "start": 431.16,
+        "end": 432.16,
+        "english": "You didn't?",
+        "chinese": "你不是？"
+    },
+    {
+        "start": 432.16,
+        "end": 433.16,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 433.16,
+        "end": 434.16,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 434.16,
+        "end": 435.16,
+        "english": "Such a good student.",
+        "chinese": "这样一个好学生。"
+    },
+    {
+        "start": 435.16,
+        "end": 436.16,
+        "english": "Did you?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 436.16,
+        "end": 437.36,
+        "english": "Maybe it did maybe once or twice.",
+        "chinese": "也许它曾经或者两次。"
+    },
+    {
+        "start": 437.36,
+        "end": 439.56,
+        "english": "I was much too self-critical.",
+        "chinese": "我对自己太苛刻了。"
+    },
+    {
+        "start": 439.56,
+        "end": 453.04,
+        "english": "Alright, let's listen to this dialogue again and we'll be back in a bit.",
+        "chinese": "好的，让我们再听一遍这段对话，并稍后回来。"
+    },
+    {
+        "start": 453.04,
+        "end": 455.56,
+        "english": "Do you have any plans for Veterans Day?",
+        "chinese": "你有退役军人节的计划吗？"
+    },
+    {
+        "start": 455.56,
+        "end": 457.32,
+        "english": "Do you mean Armistice Day?",
+        "chinese": "你是不是说一战结束日？"
+    },
+    {
+        "start": 457.32,
+        "end": 458.64,
+        "english": "What are you talking about?",
+        "chinese": "你在说什么？"
+    },
+    {
+        "start": 458.64,
+        "end": 461.28000000000003,
+        "english": "November 11th is Veterans Day.",
+        "chinese": "十一月十一日是退伍军人节。"
+    },
+    {
+        "start": 461.28000000000003,
+        "end": 463.04,
+        "english": "What planet are you from?",
+        "chinese": "你来自哪个星球？"
+    },
+    {
+        "start": 463.04,
+        "end": 467.84000000000003,
+        "english": "Well, as you know, on November 11th, the Allies signed a peace treaty with the Germans,",
+        "chinese": "嗯，你知道的，十一月十一日，同盟国与德国签署了和平条约。"
+    },
+    {
+        "start": 467.84000000000003,
+        "end": 469.84000000000003,
+        "english": "also known as the Armistice Treaty.",
+        "chinese": "也被称为停战条约。"
+    },
+    {
+        "start": 469.84000000000003,
+        "end": 473.28,
+        "english": "This marked the end of World War I and many countries around the world commemorated",
+        "chinese": "这标志着第一次世界大战的结束，许多国家在世界各地纪念这一事件。"
+    },
+    {
+        "start": 473.28,
+        "end": 475.88,
+        "english": "the state and the names such as Remembrance Day.",
+        "chinese": "国家和诸如纪念日这样的名称。"
+    },
+    {
+        "start": 475.88,
+        "end": 478.04,
+        "english": "In Poland, it's their Independence Day.",
+        "chinese": "在波兰，那是他们的独立日。"
+    },
+    {
+        "start": 478.04,
+        "end": 480.24,
+        "english": "There's a lot going on around the world on this day.",
+        "chinese": "今天世界上发生了很多事情。"
+    },
+    {
+        "start": 480.24,
+        "end": 481.24,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 481.24,
+        "end": 482.24,
+        "english": "I didn't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 482.24,
+        "end": 489.24,
+        "english": "Probably because I've flunged history in school.",
+        "chinese": "大概是因为我在学校把历史扔掉了。"
+    },
+    {
+        "start": 489.24,
+        "end": 497.08,
+        "english": "Alright, so Veterans Day, it's a big deal in the United States, right?",
+        "chinese": "好的，所以美国的退役军人节在这一天是一个大日子。"
+    },
+    {
+        "start": 497.08,
+        "end": 498.08,
+        "english": "It's a very big deal.",
+        "chinese": "这是一个非常大的事情。"
+    },
+    {
+        "start": 498.08,
+        "end": 499.08,
+        "english": "It's a parade.",
+        "chinese": "这是一个游行。"
+    },
+    {
+        "start": 499.08,
+        "end": 501.92,
+        "english": "Yeah, in most cities in the country, there are parades.",
+        "chinese": "是的，在大多数国家的城市里，都有游行。"
+    },
+    {
+        "start": 501.92,
+        "end": 505.28000000000003,
+        "english": "And when I was in school, we had to play music because I was in band.",
+        "chinese": "当我上学时，我们不得不玩音乐因为我是在乐队的。"
+    },
+    {
+        "start": 505.28000000000003,
+        "end": 509.96000000000004,
+        "english": "We used to play music for the Veterans and we go to the cemetery and play taps.",
+        "chinese": "我们过去为老兵演奏音乐，然后去墓地弹奏巴斯克。"
+    },
+    {
+        "start": 510.96,
+        "end": 516.96,
+        "english": "And we went and play taps.",
+        "chinese": "我们去玩了踢踏舞。"
+    },
+    {
+        "start": 516.96,
+        "end": 518.96,
+        "english": "That's like the funeral song.",
+        "chinese": "那就是丧礼的歌。"
+    },
+    {
+        "start": 518.96,
+        "end": 524.76,
+        "english": "Yeah, we will play funeral songs and taps for the local veterans who will be respecting",
+        "chinese": "是的，我们将为即将敬献花圈和挽歌的本地老兵们演奏葬礼进行曲。"
+    },
+    {
+        "start": 524.76,
+        "end": 527.8,
+        "english": "and commemorating fallen soldiers.",
+        "chinese": "悼念阵亡将士。"
+    },
+    {
+        "start": 527.8,
+        "end": 528.8,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 528.8,
+        "end": 531.04,
+        "english": "And the president talks as well like on national TV and stuff.",
+        "chinese": "而且总统在电视上讲话也像在家里一样。"
+    },
+    {
+        "start": 531.04,
+        "end": 532.04,
+        "english": "That's right.",
+        "chinese": "那是对的。"
+    },
+    {
+        "start": 532.04,
+        "end": 533.04,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 533.04,
+        "end": 537.96,
+        "english": "So it's very interesting, especially the history lesson, the fact that on November, I think",
+        "chinese": "所以这非常有趣，尤其是历史课，我猜想十一月的这个事实。"
+    },
+    {
+        "start": 537.96,
+        "end": 540.2,
+        "english": "it's called 11-11-11, right?",
+        "chinese": "它叫作 11-11-11 吗？"
+    },
+    {
+        "start": 540.2,
+        "end": 546.64,
+        "english": "November 11th at 11 o'clock, they signed this armistice treaty.",
+        "chinese": "2011年11月11日11点，他们签署停战协定。"
+    },
+    {
+        "start": 546.64,
+        "end": 547.8000000000001,
+        "english": "And that was in 1918.",
+        "chinese": "那是1918年。"
+    },
+    {
+        "start": 547.8000000000001,
+        "end": 549.64,
+        "english": "So this is World War I.",
+        "chinese": "这就是第一次世界大战。"
+    },
+    {
+        "start": 549.64,
+        "end": 555.6800000000001,
+        "english": "We're talking about when the world had never really seen fighting like this before.",
+        "chinese": "我们正在谈论这种从未见过的战斗。"
+    },
+    {
+        "start": 555.6800000000001,
+        "end": 561.0400000000001,
+        "english": "And so everyone was just relieved when what they called the Great War was finally over.",
+        "chinese": "于是，大家都松了一口气，因为他们所说的“大战”终于结束了。"
+    },
+    {
+        "start": 561.0400000000001,
+        "end": 562.8000000000001,
+        "english": "It's a very interesting history lesson.",
+        "chinese": "这是一个非常有趣的歷史課堂。"
+    },
+    {
+        "start": 562.8000000000001,
+        "end": 565.24,
+        "english": "So I'm sure many people have some opinions on this.",
+        "chinese": "所以我肯定有很多人对此有些看法。"
+    },
+    {
+        "start": 565.24,
+        "end": 570.28,
+        "english": "So we would be glad to hear it from you on our website at EnglishPOT.com.",
+        "chinese": "我们很高兴在我们的网站上听到您的反馈，网址是EnglishPOT.com。"
+    },
+    {
+        "start": 570.28,
+        "end": 573.24,
+        "english": "You can also leave questions or comments and we'll see you guys there.",
+        "chinese": "你也可以留下问题或评论，我们会在那里见你们的。"
+    },
+    {
+        "start": 573.24,
+        "end": 574.24,
+        "english": "And let us know.",
+        "chinese": "让我们知道。"
+    },
+    {
+        "start": 574.24,
+        "end": 576.16,
+        "english": "Do you celebrate this holiday in your country?",
+        "chinese": "你国家的这个节日你会庆祝吗？"
+    },
+    {
+        "start": 576.16,
+        "end": 577.16,
+        "english": "Yep.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 577.16,
+        "end": 578.16,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 578.16,
+        "end": 578.6800000000001,
+        "english": "Until next time, bye everyone.",
+        "chinese": "直到下次见，大家再见。"
+    }
+]

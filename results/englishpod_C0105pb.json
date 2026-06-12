@@ -1,0 +1,1826 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.12,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.12,
+        "end": 6.12,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.12,
+        "end": 11.32,
+        "english": "Today we're bringing you a lesson about the office, so something related to business,",
+        "chinese": "今天，我们将向您介绍关于办公室的一课，因为与商业有关。"
+    },
+    {
+        "start": 11.32,
+        "end": 12.32,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 12.32,
+        "end": 13.32,
+        "english": "That's right.",
+        "chinese": "对的。"
+    },
+    {
+        "start": 13.32,
+        "end": 18.88,
+        "english": "And in this lesson, we're learning language you can use to tell someone they did a good",
+        "chinese": "在这个课程中，我们正在学习能够用来告诉别人他们做得好的语言。"
+    },
+    {
+        "start": 18.88,
+        "end": 19.88,
+        "english": "job.",
+        "chinese": "在中文中，\"job\" 的翻译是 \"工作\"。"
+    },
+    {
+        "start": 19.88,
+        "end": 21.68,
+        "english": "Okay, so a job well done.",
+        "chinese": "好的，那么一个做得很好的工作。"
+    },
+    {
+        "start": 21.68,
+        "end": 24.12,
+        "english": "You want to praise somebody.",
+        "chinese": "您想赞扬某人。"
+    },
+    {
+        "start": 24.12,
+        "end": 25.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 25.12,
+        "end": 30.8,
+        "english": "The first lesson in as a manager praises his employee on a presentation.",
+        "chinese": "第一个管理者的课程表扬他的员工在演示中的表现。"
+    },
+    {
+        "start": 30.8,
+        "end": 36.120000000000005,
+        "english": "Okay, so before we listen to the dialogue, let's take a look very quickly at vocabulary",
+        "chinese": "好的，那么在我们开始听对话之前，让我们先快速看一下词汇。"
+    },
+    {
+        "start": 36.120000000000005,
+        "end": 37.120000000000005,
+        "english": "preview.",
+        "chinese": "预览。"
+    },
+    {
+        "start": 37.120000000000005,
+        "end": 40.92,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 40.92,
+        "end": 46.400000000000006,
+        "english": "Well we're going to hear both of these words in the dialogue and the first one is a",
+        "chinese": "我们将在对话中听到这两个词，其中第一个是 \"well\"。"
+    },
+    {
+        "start": 46.400000000000006,
+        "end": 47.400000000000006,
+        "english": "whiz.",
+        "chinese": "在中文中，\"whiz\"可以翻译为："
+    },
+    {
+        "start": 47.400000000000006,
+        "end": 48.400000000000006,
+        "english": "Whiz.",
+        "chinese": "嗨。"
+    },
+    {
+        "start": 48.400000000000006,
+        "end": 49.400000000000006,
+        "english": "To be a whiz.",
+        "chinese": "要成为超人。"
+    },
+    {
+        "start": 49.400000000000006,
+        "end": 52.400000000000006,
+        "english": "Okay, so it's an adjective, somebody is a whiz.",
+        "chinese": "好的，所以是形容词，有人是高手。"
+    },
+    {
+        "start": 52.4,
+        "end": 53.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 53.4,
+        "end": 55.96,
+        "english": "And whiz comes from the word wizard.",
+        "chinese": "嗖嗖嗖来自“巫师”这个词。"
+    },
+    {
+        "start": 55.96,
+        "end": 60.12,
+        "english": "Okay, so kind of like a witch, but a guy witch.",
+        "chinese": "好的，有点像巫婆，但是一位男巫。"
+    },
+    {
+        "start": 60.12,
+        "end": 61.12,
+        "english": "Yeah, man witch.",
+        "chinese": "是的，哥哥。"
+    },
+    {
+        "start": 61.12,
+        "end": 65.52,
+        "english": "But so a whiz is someone who is really good at something.",
+        "chinese": "但是，一个超人是某事做得非常好。"
+    },
+    {
+        "start": 65.52,
+        "end": 70.92,
+        "english": "Okay, so I can say David is a computer whiz.",
+        "chinese": "好的，我可以这么说，大卫是一位计算机高手。"
+    },
+    {
+        "start": 70.92,
+        "end": 73.32,
+        "english": "Or Antony is a math whiz.",
+        "chinese": "或者安东尼是数学天才。"
+    },
+    {
+        "start": 73.32,
+        "end": 78.12,
+        "english": "Okay, so he's really good at computers or he's really good at math or he knows a lot about",
+        "chinese": "好的，他真的很擅长电脑或他真的很擅长数学或他知道很多关于中文。"
+    },
+    {
+        "start": 78.12,
+        "end": 79.12,
+        "english": "math.",
+        "chinese": "数学。"
+    },
+    {
+        "start": 79.12,
+        "end": 80.12,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 80.12,
+        "end": 81.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 81.12,
+        "end": 82.12,
+        "english": "And our second word.",
+        "chinese": "和我们的第二个字。"
+    },
+    {
+        "start": 82.12,
+        "end": 84.80000000000001,
+        "english": "Well, we're going to hear about slides.",
+        "chinese": "嗯，我们将听有关幻灯片的介绍。"
+    },
+    {
+        "start": 84.80000000000001,
+        "end": 85.80000000000001,
+        "english": "Slides.",
+        "chinese": "在中文中，\"Slides\" 翻译为 \"幻灯片\"。"
+    },
+    {
+        "start": 85.80000000000001,
+        "end": 86.80000000000001,
+        "english": "PowerPoint slides.",
+        "chinese": "PPT幻灯片。"
+    },
+    {
+        "start": 86.80000000000001,
+        "end": 87.80000000000001,
+        "english": "PowerPoint slides.",
+        "chinese": "PPT幻灯片。"
+    },
+    {
+        "start": 87.80000000000001,
+        "end": 90.64,
+        "english": "Okay, so everyone knows PowerPoint, right?",
+        "chinese": "是的，大家都知道PowerPoint了吗？"
+    },
+    {
+        "start": 90.64,
+        "end": 91.72,
+        "english": "A computer program.",
+        "chinese": "计算机程序。"
+    },
+    {
+        "start": 91.72,
+        "end": 96.32000000000001,
+        "english": "A computer program that you use to make presentations.",
+        "chinese": "一个用于制作演示文稿的计算机程序。"
+    },
+    {
+        "start": 96.32000000000001,
+        "end": 100.0,
+        "english": "And a slide is one page in that presentation.",
+        "chinese": "一张幻灯片是一张在演示文稿中的一页。"
+    },
+    {
+        "start": 100.0,
+        "end": 106.64,
+        "english": "Okay, so if you have 10 pages in your PowerPoint presentation, you basically have 10 slides.",
+        "chinese": "好的，如果你在PowerPoint演示文稿中有10页，那么基本上你有10张幻灯片。"
+    },
+    {
+        "start": 106.64,
+        "end": 107.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 107.64,
+        "end": 108.64,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 108.64,
+        "end": 113.68,
+        "english": "Now let's listen to the dialogue for the first time and we're going to see what's happening",
+        "chinese": "现在让我们听第一次对话，然后看看会发生什么。"
+    },
+    {
+        "start": 113.68,
+        "end": 119.08,
+        "english": "in this business meeting.",
+        "chinese": "在这个商务会议中。"
+    },
+    {
+        "start": 119.08,
+        "end": 123.44,
+        "english": "And so that concludes my outline for our marketing strategy next year.",
+        "chinese": "接下来的这一年，我们的营销策略将结束。"
+    },
+    {
+        "start": 123.44,
+        "end": 126.48,
+        "english": "Thank you very much for your time.",
+        "chinese": "非常感谢您的时间。"
+    },
+    {
+        "start": 126.48,
+        "end": 130.72,
+        "english": "Hey, that was quite the presentation.",
+        "chinese": "你好，那真是个精彩的演示。"
+    },
+    {
+        "start": 130.72,
+        "end": 134.72,
+        "english": "Honestly, I was completely blown away by your strategy outline.",
+        "chinese": "说实话，我对你的战略规划方案简直无法置信。"
+    },
+    {
+        "start": 134.72,
+        "end": 138.2,
+        "english": "I've got to say Alex, you really wowed me today.",
+        "chinese": "我不得不说，Alex，你今天真的很让我佩服。"
+    },
+    {
+        "start": 138.2,
+        "end": 139.2,
+        "english": "Oh, come on.",
+        "chinese": "啊，快点！"
+    },
+    {
+        "start": 139.2,
+        "end": 140.2,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 140.2,
+        "end": 141.51999999999998,
+        "english": "I'm just doing my job.",
+        "chinese": "我是做我的工作。"
+    },
+    {
+        "start": 141.51999999999998,
+        "end": 144.39999999999998,
+        "english": "No, I think you deserve some recognition here.",
+        "chinese": "是的，我认为你在这里应该得到一些认可。"
+    },
+    {
+        "start": 144.39999999999998,
+        "end": 149.16,
+        "english": "I mean, if I look back on your previous presentations, this was a huge improvement.",
+        "chinese": "我指的是，如果你回顾一下你之前的演示，这真是一个巨大的进步。"
+    },
+    {
+        "start": 149.16,
+        "end": 151.6,
+        "english": "Well, Kristen did give me a hand with the slides.",
+        "chinese": "嗯，肯蒂帮我帮忙准备了幻灯片。"
+    },
+    {
+        "start": 151.6,
+        "end": 153.39999999999998,
+        "english": "She's a real whiz on PowerPoint.",
+        "chinese": "她是一位真正的PowerPoint高手。"
+    },
+    {
+        "start": 153.39999999999998,
+        "end": 157.07999999999998,
+        "english": "And I saw that you took on board my feedback about pricing strategies.",
+        "chinese": "我看到您采纳了我的关于定价策略的意见。"
+    },
+    {
+        "start": 157.07999999999998,
+        "end": 160.2,
+        "english": "I really appreciate you taking the time to think through my suggestions.",
+        "chinese": "我非常感谢您花时间考虑我的建议。"
+    },
+    {
+        "start": 160.2,
+        "end": 165.0,
+        "english": "Yeah, well, that was some good advice.",
+        "chinese": "是的，嗯，那真是不错的建议。"
+    },
+    {
+        "start": 165.0,
+        "end": 167.04,
+        "english": "You made some really good points.",
+        "chinese": "您说得非常正确。"
+    },
+    {
+        "start": 167.04,
+        "end": 169.72,
+        "english": "Well, I just wanted to say, well done.",
+        "chinese": "好的，我只想说，辛苦了。"
+    },
+    {
+        "start": 169.72,
+        "end": 172.48,
+        "english": "Really you did a great job.",
+        "chinese": "真的你做得很好。"
+    },
+    {
+        "start": 172.48,
+        "end": 180.79999999999998,
+        "english": "All right, well, it sounds like the employee is a little bit shy or embarrassed by receiving",
+        "chinese": "好的，嗯，听起来似乎这个员工有点害羞或尴尬地接受了。"
+    },
+    {
+        "start": 180.79999999999998,
+        "end": 182.35999999999999,
+        "english": "all of these compliments.",
+        "chinese": "这些赞美。"
+    },
+    {
+        "start": 182.35999999999999,
+        "end": 185.64,
+        "english": "Yeah, I guess he's kind of being humble about it.",
+        "chinese": "是的，我猜他有点谦虚。"
+    },
+    {
+        "start": 185.64,
+        "end": 186.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 186.64,
+        "end": 188.72,
+        "english": "So why don't we move on to the language now?",
+        "chinese": "所以为什么不赶紧转到语言了？"
+    },
+    {
+        "start": 188.72,
+        "end": 193.2,
+        "english": "There are so many really useful phrases in this dialogue that I think we're just going",
+        "chinese": "在对话中有很多非常实用的短语，我认为我们已经达到了这个程度。"
+    },
+    {
+        "start": 193.2,
+        "end": 194.79999999999998,
+        "english": "to focus on those today.",
+        "chinese": "聚焦于今天。"
+    },
+    {
+        "start": 194.8,
+        "end": 199.0,
+        "english": "So let's get started with Fluency Builder.",
+        "chinese": "所以，我们先从 Fluent Builder 开始吧。"
+    },
+    {
+        "start": 199.0,
+        "end": 200.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 200.0,
+        "end": 204.4,
+        "english": "Okay, so today on Fluency Builder, let's start with our first phrase.",
+        "chinese": "好的，今天在 Fluent Builder 上，让我们开始我们的第一个短语。"
+    },
+    {
+        "start": 204.4,
+        "end": 211.48000000000002,
+        "english": "The boss was so impressed with the presentation that he said, I was completely blown away.",
+        "chinese": "老板对演示非常印象深刻，他说：“我完全被震撼了。”"
+    },
+    {
+        "start": 211.48000000000002,
+        "end": 214.04000000000002,
+        "english": "To be completely blown away.",
+        "chinese": "要完全被震惊。"
+    },
+    {
+        "start": 214.04000000000002,
+        "end": 217.72000000000003,
+        "english": "Okay, so to be completely blown away.",
+        "chinese": "好的，所以完全被震惊了。"
+    },
+    {
+        "start": 217.72000000000003,
+        "end": 219.48000000000002,
+        "english": "Or to be blown away.",
+        "chinese": "或者被吹得东倒西歪。"
+    },
+    {
+        "start": 219.48000000000002,
+        "end": 220.48000000000002,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 220.48000000000002,
+        "end": 223.48000000000002,
+        "english": "So what does that mean to be blown away?",
+        "chinese": "所以，这到底意味着什么？"
+    },
+    {
+        "start": 223.48,
+        "end": 227.95999999999998,
+        "english": "To be surprised and amazed, but in a very positive way.",
+        "chinese": "要被惊讶和感动，但又非常积极地看待。"
+    },
+    {
+        "start": 227.95999999999998,
+        "end": 234.04,
+        "english": "Okay, so I can say, I'm surprised, I'm amazed, but I'm still not very clear on this.",
+        "chinese": "好的，所以我说，我惊讶，我很惊讶，但我还是不清楚这个。"
+    },
+    {
+        "start": 234.04,
+        "end": 239.2,
+        "english": "Why don't we listen to a couple of examples of how we could use this phrase?",
+        "chinese": "为什么我们不听听几个例子，如何用这个短语呢？"
+    },
+    {
+        "start": 239.2,
+        "end": 242.39999999999998,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 242.39999999999998,
+        "end": 247.72,
+        "english": "Carl blew me away with his knowledge of political science.",
+        "chinese": "卡尔让我大吃一惊，他对中国政治科学的知识了如指掌。"
+    },
+    {
+        "start": 247.72,
+        "end": 248.72,
+        "english": "Example two.",
+        "chinese": "这个例子。"
+    },
+    {
+        "start": 249.72,
+        "end": 253.52,
+        "english": "I was blown away when I heard that Jenny and Rick had gotten married.",
+        "chinese": "听到Jenny和Rick结婚的消息，我被深深地吸引住了。"
+    },
+    {
+        "start": 253.52,
+        "end": 257.4,
+        "english": "They've known each other for less than a month.",
+        "chinese": "他们已经认识不到一个月。"
+    },
+    {
+        "start": 257.4,
+        "end": 260.92,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 260.92,
+        "end": 265.0,
+        "english": "My parents were blown away when they found out I had a tattoo.",
+        "chinese": "我的父母被我有 Tattoo 打印的图案所震惊。"
+    },
+    {
+        "start": 265.0,
+        "end": 267.68,
+        "english": "Okay, so I think that's a little bit clearer now.",
+        "chinese": "好的，所以我认为现在稍微清晰一些。"
+    },
+    {
+        "start": 267.68,
+        "end": 272.64,
+        "english": "And this is a wonderful way to give your praise to someone when they do something really",
+        "chinese": "这是赞美别人时用得非常好的方式。"
+    },
+    {
+        "start": 272.64,
+        "end": 273.64,
+        "english": "amazing.",
+        "chinese": "很赞。"
+    },
+    {
+        "start": 273.64,
+        "end": 275.72,
+        "english": "Okay, so completely blown away.",
+        "chinese": "好的，完全被震惊了。"
+    },
+    {
+        "start": 275.72,
+        "end": 277.04,
+        "english": "You blew me away.",
+        "chinese": "您让我大吃一惊。"
+    },
+    {
+        "start": 277.04,
+        "end": 278.04,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 278.04,
+        "end": 279.32,
+        "english": "Now what about our second word?",
+        "chinese": "现在我们第二句话是什么？"
+    },
+    {
+        "start": 279.32,
+        "end": 280.96000000000004,
+        "english": "Well, it's quite similar.",
+        "chinese": "很好，它和很相似。"
+    },
+    {
+        "start": 280.96000000000004,
+        "end": 284.96000000000004,
+        "english": "The boss said that you really wowed me.",
+        "chinese": "老板说，你真的让我震惊了。"
+    },
+    {
+        "start": 284.96000000000004,
+        "end": 285.96000000000004,
+        "english": "You wowed me.",
+        "chinese": "我被你的表现所打动。"
+    },
+    {
+        "start": 285.96000000000004,
+        "end": 287.56,
+        "english": "To wow someone.",
+        "chinese": "要惊吓某人。"
+    },
+    {
+        "start": 287.56,
+        "end": 290.68,
+        "english": "Okay, so it spelled W-O-W-W.",
+        "chinese": "好的，所以是 \"W-OW-WO-W\"。"
+    },
+    {
+        "start": 290.68,
+        "end": 294.16,
+        "english": "So when you wow someone, you make that person go, wow.",
+        "chinese": "所以当你让别人感到惊讶，你让他们也感到惊讶。"
+    },
+    {
+        "start": 294.16,
+        "end": 296.72,
+        "english": "Okay, so you impress somebody.",
+        "chinese": "好的，你让别人感到印象深刻。"
+    },
+    {
+        "start": 296.72,
+        "end": 297.8,
+        "english": "To wow someone.",
+        "chinese": "要惊吓某人。"
+    },
+    {
+        "start": 297.8,
+        "end": 299.12,
+        "english": "I can use it as a verb.",
+        "chinese": "我可以作为动词使用。"
+    },
+    {
+        "start": 299.12,
+        "end": 300.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 300.12,
+        "end": 301.12,
+        "english": "Wowed me.",
+        "chinese": "我被深深打动。"
+    },
+    {
+        "start": 301.12,
+        "end": 302.12,
+        "english": "I want to wow you.",
+        "chinese": "我要让你震惊。"
+    },
+    {
+        "start": 302.12,
+        "end": 303.36,
+        "english": "Well, I want you to wow me.",
+        "chinese": "很好，我想让你大吃一惊。"
+    },
+    {
+        "start": 303.36,
+        "end": 305.28000000000003,
+        "english": "Okay, so wow.",
+        "chinese": "好的，所以哇。"
+    },
+    {
+        "start": 305.28000000000003,
+        "end": 307.64000000000004,
+        "english": "Now let's take a look at our third phrase.",
+        "chinese": "现在让我们看看我们的第三句话。"
+    },
+    {
+        "start": 307.64,
+        "end": 309.4,
+        "english": "The guy, he's a little bit shy.",
+        "chinese": "这个家伙，他有点害羞。"
+    },
+    {
+        "start": 309.4,
+        "end": 313.64,
+        "english": "He's trying to be a little bit humble about receiving so many compliments.",
+        "chinese": "他正在试图谦虚一点，接受这么多夸奖。"
+    },
+    {
+        "start": 313.64,
+        "end": 316.08,
+        "english": "So he says, oh, it was nothing.",
+        "chinese": "所以他说，哦，没什么。"
+    },
+    {
+        "start": 316.08,
+        "end": 317.08,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 317.08,
+        "end": 318.08,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 318.08,
+        "end": 319.08,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 319.08,
+        "end": 320.08,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 320.08,
+        "end": 322.8,
+        "english": "So that's the way of saying it wasn't hard or it's not a big deal.",
+        "chinese": "所以，这就是说它并不难或者不是大不了。"
+    },
+    {
+        "start": 322.8,
+        "end": 323.96,
+        "english": "It's not that important.",
+        "chinese": "是的，它并不重要。"
+    },
+    {
+        "start": 323.96,
+        "end": 324.96,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 324.96,
+        "end": 328.2,
+        "english": "So if somebody's saying, wow, thank you so much for lending me your car.",
+        "chinese": "所以，如果有人这么说：“哇，谢谢你这么好心地借给我你的车。”"
+    },
+    {
+        "start": 328.2,
+        "end": 329.2,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 329.2,
+        "end": 330.2,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 330.2,
+        "end": 331.2,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 331.2,
+        "end": 334.76,
+        "english": "It's a polite way actually to respond to a nice compliment.",
+        "chinese": "是礼貌的方式，实际上应该回应一个友好的 compliment。"
+    },
+    {
+        "start": 334.76,
+        "end": 335.76,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 335.76,
+        "end": 338.0,
+        "english": "We move on to our next phrase.",
+        "chinese": "我们转向下一个句子。"
+    },
+    {
+        "start": 338.0,
+        "end": 342.56,
+        "english": "Let's listen to a couple of examples with it was nothing.",
+        "chinese": "让我们听听这句是啥。"
+    },
+    {
+        "start": 342.56,
+        "end": 344.56,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 344.56,
+        "end": 346.15999999999997,
+        "english": "Thanks for lending me your car this week.",
+        "chinese": "非常感谢您上周借给我您的车。"
+    },
+    {
+        "start": 346.15999999999997,
+        "end": 347.76,
+        "english": "I really appreciate it.",
+        "chinese": "我非常感谢。"
+    },
+    {
+        "start": 347.76,
+        "end": 348.76,
+        "english": "It's okay really.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 348.76,
+        "end": 351.4,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 351.4,
+        "end": 353.84,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 353.84,
+        "end": 356.88,
+        "english": "I can't believe you organized the surprise birthday party.",
+        "chinese": "我无法相信你组织了惊喜的生日派对。"
+    },
+    {
+        "start": 356.88,
+        "end": 358.24,
+        "english": "Thank you so much.",
+        "chinese": "非常感谢。"
+    },
+    {
+        "start": 358.24,
+        "end": 359.24,
+        "english": "Don't worry about it.",
+        "chinese": "不要担心。"
+    },
+    {
+        "start": 359.24,
+        "end": 361.24,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 361.24,
+        "end": 362.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 362.24,
+        "end": 364.32,
+        "english": "So I think that's pretty clear.",
+        "chinese": "所以我认为这是很清楚的。"
+    },
+    {
+        "start": 364.32,
+        "end": 370.59999999999997,
+        "english": "Now our final phrase here for Fluency Builder, the employee said that Kirsten gave him a",
+        "chinese": "现在我们的最后一句话，员工说：“克里斯坦德罗给了我。”"
+    },
+    {
+        "start": 370.59999999999997,
+        "end": 371.59999999999997,
+        "english": "hand.",
+        "chinese": "手 (zhǐ) in Chinese is \"手\" or \"手部\" (手の部) ."
+    },
+    {
+        "start": 371.59999999999997,
+        "end": 372.59999999999997,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 372.59999999999997,
+        "end": 374.52,
+        "english": "So to give someone a hand.",
+        "chinese": "所以要帮助某人。"
+    },
+    {
+        "start": 374.52,
+        "end": 375.52,
+        "english": "Give me a hand.",
+        "chinese": "请给我一个手。"
+    },
+    {
+        "start": 375.52,
+        "end": 377.0,
+        "english": "Give me a hand.",
+        "chinese": "请给我一个手。"
+    },
+    {
+        "start": 377.0,
+        "end": 378.24,
+        "english": "Basically to help someone.",
+        "chinese": "基本来说，帮助别人。"
+    },
+    {
+        "start": 378.24,
+        "end": 380.04,
+        "english": "Help me or assist me.",
+        "chinese": "请帮助我或协助我。"
+    },
+    {
+        "start": 380.04,
+        "end": 381.03999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 381.03999999999996,
+        "end": 384.92,
+        "english": "So to help someone, give me a hand or let me give you a hand.",
+        "chinese": "所以，帮助别人，给我一个手或者让你给我一个手。"
+    },
+    {
+        "start": 384.92,
+        "end": 385.92,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 385.92,
+        "end": 386.92,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 386.92,
+        "end": 387.92,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 387.92,
+        "end": 389.4,
+        "english": "So great phrases in Fluency Builder today.",
+        "chinese": "所以今天 Fluent Builder 的好短语。"
+    },
+    {
+        "start": 389.4,
+        "end": 393.6,
+        "english": "I think it's time for us to listen to the dialogue for the second time.",
+        "chinese": "我认为我们有必要再次倾听对话。"
+    },
+    {
+        "start": 393.6,
+        "end": 397.64000000000004,
+        "english": "We're going to slow it down a little bit so we can catch all these phrases and then we'll",
+        "chinese": "我们将稍微减速一下，以便我们可以捕捉到这些短语，并然后……"
+    },
+    {
+        "start": 397.64000000000004,
+        "end": 404.64000000000004,
+        "english": "come back.",
+        "chinese": "返回。"
+    },
+    {
+        "start": 404.64000000000004,
+        "end": 409.92,
+        "english": "And so that concludes my outline for our marketing strategy for next year.",
+        "chinese": "所以，这个概述涵盖了我们明年营销策略的框架。"
+    },
+    {
+        "start": 409.92,
+        "end": 411.88,
+        "english": "Thank you very much for your time.",
+        "chinese": "非常感谢您的时间。"
+    },
+    {
+        "start": 411.88,
+        "end": 415.52000000000004,
+        "english": "Hey, that was quite the presentation.",
+        "chinese": "你好，那真是个精彩的演示。"
+    },
+    {
+        "start": 415.52000000000004,
+        "end": 420.44,
+        "english": "Honestly, I was completely blown away by your strategy outline.",
+        "chinese": "说实话，我对你的战略规划方案简直无法用言语形容。"
+    },
+    {
+        "start": 420.6,
+        "end": 424.76,
+        "english": "I've got to say, Alex, you really wild me today.",
+        "chinese": "我得说，阿历克斯，今天你真的很疯狂。"
+    },
+    {
+        "start": 424.76,
+        "end": 426.92,
+        "english": "Ah, come on.",
+        "chinese": "是的，快过来。"
+    },
+    {
+        "start": 426.92,
+        "end": 427.92,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 427.92,
+        "end": 429.84,
+        "english": "I'm just doing my job.",
+        "chinese": "我是做我的工作。"
+    },
+    {
+        "start": 429.84,
+        "end": 430.84,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 430.84,
+        "end": 433.64,
+        "english": "I think you deserve some recognition here.",
+        "chinese": "我认为你在这里应该得到一些认可。"
+    },
+    {
+        "start": 433.64,
+        "end": 439.88,
+        "english": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+        "chinese": "我指的是，如果你回顾一下你之前的演示稿，这是一次巨大的进步。"
+    },
+    {
+        "start": 439.88,
+        "end": 443.68,
+        "english": "Well, Kristin did give me a hand with the slides.",
+        "chinese": "好的，Kristin 为我提供了帮助。"
+    },
+    {
+        "start": 443.68,
+        "end": 446.2,
+        "english": "She's a real whiz on PowerPoint.",
+        "chinese": "她是一位真正的PowerPoint高手。"
+    },
+    {
+        "start": 446.2,
+        "end": 451.24,
+        "english": "And I saw that you took on board my feedback about pricing strategies.",
+        "chinese": "我看到你采纳了我的关于定价策略的意见。"
+    },
+    {
+        "start": 451.24,
+        "end": 455.47999999999996,
+        "english": "I really appreciate you taking the time to think through my suggestions.",
+        "chinese": "我非常感谢您花时间考虑我的建议。"
+    },
+    {
+        "start": 455.47999999999996,
+        "end": 456.47999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 456.47999999999996,
+        "end": 458.96,
+        "english": "Well, that was some good advice.",
+        "chinese": "好的，那真是不错的建议。"
+    },
+    {
+        "start": 458.96,
+        "end": 461.15999999999997,
+        "english": "You made some really good points.",
+        "chinese": "您说得非常正确。"
+    },
+    {
+        "start": 461.15999999999997,
+        "end": 465.03999999999996,
+        "english": "Well, I just wanted to say, well done.",
+        "chinese": "好的，我只想说，辛苦了。"
+    },
+    {
+        "start": 465.03999999999996,
+        "end": 468.03999999999996,
+        "english": "Really, you did a great job.",
+        "chinese": "真的，你做得很好。"
+    },
+    {
+        "start": 468.03999999999996,
+        "end": 469.03999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 469.03999999999996,
+        "end": 475.96,
+        "english": "So like we said before, there's a lot of really helpful phrases in here.",
+        "chinese": "所以，就像我们之前说的那样，在这里有很多非常有用的短语。"
+    },
+    {
+        "start": 475.96,
+        "end": 481.76,
+        "english": "And we're going to look at a few more of these in putting it together.",
+        "chinese": "我们将对这些进行一些进一步的处理。"
+    },
+    {
+        "start": 481.76,
+        "end": 483.28,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 483.28,
+        "end": 484.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 484.28,
+        "end": 487.35999999999996,
+        "english": "So let's start with the first phrase.",
+        "chinese": "所以，让我们从第一个短语开始。"
+    },
+    {
+        "start": 487.35999999999996,
+        "end": 490.0,
+        "english": "The boss was quite impressed with him.",
+        "chinese": "老板对他说得非常满意。"
+    },
+    {
+        "start": 490.0,
+        "end": 493.32,
+        "english": "And he said, that was quite the presentation.",
+        "chinese": "他说，那真是一个精彩的演示。"
+    },
+    {
+        "start": 493.32,
+        "end": 495.0,
+        "english": "That was quite the presentation.",
+        "chinese": "那真是一个精彩的演示。"
+    },
+    {
+        "start": 495.0,
+        "end": 496.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 496.0,
+        "end": 497.52,
+        "english": "Quite the presentation.",
+        "chinese": "很精彩的演示。"
+    },
+    {
+        "start": 497.52,
+        "end": 502.76,
+        "english": "So this phrase, quite the presentation, it means it was good, right?",
+        "chinese": "所以这句话，可以说是一种展示，它意味着确实很好，对吗？"
+    },
+    {
+        "start": 502.76,
+        "end": 503.76,
+        "english": "It was special.",
+        "chinese": "是特别的。"
+    },
+    {
+        "start": 503.76,
+        "end": 505.0,
+        "english": "It was very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 505.0,
+        "end": 506.0,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 506.0,
+        "end": 510.56,
+        "english": "Now we can take the noun presentation out and replace it with any other noun.",
+        "chinese": "现在我们可以把名词展示替换为任何其他名词。"
+    },
+    {
+        "start": 510.56,
+        "end": 511.56,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 511.56,
+        "end": 515.0,
+        "english": "So I can say, Bob is quite the basketball player.",
+        "chinese": "所以我说，鲍勃确实是一名篮球运动员。"
+    },
+    {
+        "start": 515.0,
+        "end": 516.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 516.0,
+        "end": 519.72,
+        "english": "Why don't we listen now for a few more examples?",
+        "chinese": "为什么我们不先听听几个例子？"
+    },
+    {
+        "start": 519.72,
+        "end": 522.32,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 522.32,
+        "end": 524.12,
+        "english": "I heard you are quite the dancer.",
+        "chinese": "我听说你是一位出色的舞蹈家。"
+    },
+    {
+        "start": 524.12,
+        "end": 528.12,
+        "english": "Can you teach me some moves?",
+        "chinese": "可以教我一些招式吗？"
+    },
+    {
+        "start": 528.12,
+        "end": 531.12,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 531.12,
+        "end": 532.5600000000001,
+        "english": "So the boss was quite the ladies man.",
+        "chinese": "所以老板是个漂亮的女人。"
+    },
+    {
+        "start": 532.5600000000001,
+        "end": 537.0,
+        "english": "He is very good when it comes to talking to girls.",
+        "chinese": "他说话时非常擅长与女生交谈。"
+    },
+    {
+        "start": 537.0,
+        "end": 540.44,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 540.44,
+        "end": 542.36,
+        "english": "Nancy is quite gifted at math.",
+        "chinese": "尼可尔在数学方面很有天赋。"
+    },
+    {
+        "start": 542.36,
+        "end": 546.76,
+        "english": "She can solve any math problem you give her.",
+        "chinese": "她能解决你给她的任何数学问题。"
+    },
+    {
+        "start": 546.76,
+        "end": 551.92,
+        "english": "So you're saying in a very good way that something is very good or very special.",
+        "chinese": "所以你说得很客气，说某事非常好或特别。"
+    },
+    {
+        "start": 551.92,
+        "end": 552.92,
+        "english": "Or special or very special.",
+        "chinese": "或者特别或非常特别。"
+    },
+    {
+        "start": 552.92,
+        "end": 553.92,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 553.92,
+        "end": 554.92,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 554.92,
+        "end": 556.44,
+        "english": "So the boss was very impressed with the employee.",
+        "chinese": "所以老板对员工非常满意。"
+    },
+    {
+        "start": 556.44,
+        "end": 561.0,
+        "english": "Like he said, and I saw that you took on board my feedback.",
+        "chinese": "像他说的，我看到你接受了我的反馈。"
+    },
+    {
+        "start": 561.0,
+        "end": 563.4000000000001,
+        "english": "To take on board my feedback.",
+        "chinese": "要接受我的反馈。"
+    },
+    {
+        "start": 563.4000000000001,
+        "end": 564.4000000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 564.4000000000001,
+        "end": 566.84,
+        "english": "So take on board something.",
+        "chinese": "所以要认真对待。"
+    },
+    {
+        "start": 566.84,
+        "end": 571.1600000000001,
+        "english": "So here my feedback is my suggestions, right?",
+        "chinese": "所以，我的反馈是我的建议，对吗？"
+    },
+    {
+        "start": 571.1600000000001,
+        "end": 577.6,
+        "english": "And when you take on board my feedback, you accept my feedback and you use it.",
+        "chinese": "当您接受我的反馈，您也接受了我的反馈，并且使用了它。"
+    },
+    {
+        "start": 577.6,
+        "end": 578.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 578.6,
+        "end": 585.0400000000001,
+        "english": "So I can say for example, I want you to take on board my ideas.",
+        "chinese": "所以，我可以说，例如，我希望你接受我的想法。"
+    },
+    {
+        "start": 585.04,
+        "end": 588.24,
+        "english": "For Jenny took on board a few of my suggestions.",
+        "chinese": "对于詹妮接受了我的一些建议。"
+    },
+    {
+        "start": 588.24,
+        "end": 589.4,
+        "english": "I was really happy.",
+        "chinese": "我真的很高兴。"
+    },
+    {
+        "start": 589.4,
+        "end": 590.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 590.4,
+        "end": 591.4,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 591.4,
+        "end": 593.0,
+        "english": "So to take on board, to accept and use.",
+        "chinese": "所以要接受，要承认和使用。"
+    },
+    {
+        "start": 593.0,
+        "end": 594.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 594.0,
+        "end": 595.0,
+        "english": "So take on board feedback.",
+        "chinese": "所以要认真听取反馈。"
+    },
+    {
+        "start": 595.0,
+        "end": 596.5999999999999,
+        "english": "Take on board suggestion.",
+        "chinese": "请接受建议。"
+    },
+    {
+        "start": 596.5999999999999,
+        "end": 598.1999999999999,
+        "english": "Take on board ideas.",
+        "chinese": "请接受意见。"
+    },
+    {
+        "start": 598.1999999999999,
+        "end": 599.1999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 599.1999999999999,
+        "end": 600.1999999999999,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 600.1999999999999,
+        "end": 605.12,
+        "english": "And we have one more phrase I'm putting it together today to think something through.",
+        "chinese": "今天我将准备的这句话整理一下，想听听大家的看法。"
+    },
+    {
+        "start": 605.12,
+        "end": 606.52,
+        "english": "To think it through.",
+        "chinese": "要深思熟虑。"
+    },
+    {
+        "start": 606.52,
+        "end": 607.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 607.52,
+        "end": 609.3199999999999,
+        "english": "So think it through.",
+        "chinese": "所以想想。"
+    },
+    {
+        "start": 609.3199999999999,
+        "end": 614.56,
+        "english": "So here the boss said that he took the time to think through my suggestions.",
+        "chinese": "所以，这个老板说他花了一些时间来思考我的建议。"
+    },
+    {
+        "start": 614.56,
+        "end": 616.68,
+        "english": "So think through what does that mean?",
+        "chinese": "所以想一想，那意味着什么？"
+    },
+    {
+        "start": 616.68,
+        "end": 620.64,
+        "english": "To think carefully about all of the details of something.",
+        "chinese": "要仔细考虑这个事物的所有细节。"
+    },
+    {
+        "start": 620.64,
+        "end": 621.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 621.64,
+        "end": 624.8,
+        "english": "So to take into consideration all the aspects.",
+        "chinese": "所以要考虑到所有的方面。"
+    },
+    {
+        "start": 624.8,
+        "end": 625.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 625.8,
+        "end": 628.28,
+        "english": "So why don't we give an example?",
+        "chinese": "所以为什么不给你一个例子？"
+    },
+    {
+        "start": 628.28,
+        "end": 630.8399999999999,
+        "english": "If you're thinking through a plan, right?",
+        "chinese": "如果您正在考虑一个计划，是的。"
+    },
+    {
+        "start": 630.8399999999999,
+        "end": 632.76,
+        "english": "You don't just think about the end.",
+        "chinese": "您不只思考着结尾。"
+    },
+    {
+        "start": 632.76,
+        "end": 633.76,
+        "english": "The outcome.",
+        "chinese": "结果。"
+    },
+    {
+        "start": 633.76,
+        "end": 638.0799999999999,
+        "english": "You want to think about all of the small details, the steps in that plan.",
+        "chinese": "您想考虑所有的小细节，这个计划中的每一个步骤。"
+    },
+    {
+        "start": 638.0799999999999,
+        "end": 639.0799999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 639.0799999999999,
+        "end": 642.4399999999999,
+        "english": "So maybe I want to buy a new car, but it's a lot of money.",
+        "chinese": "所以，我可能想要买一辆新车，但价格很高。"
+    },
+    {
+        "start": 642.44,
+        "end": 644.8000000000001,
+        "english": "So I really have to think it through.",
+        "chinese": "所以，我真的必须好好考虑一下。"
+    },
+    {
+        "start": 644.8000000000001,
+        "end": 650.2,
+        "english": "So you have to think carefully about everything that is involved in buying the new car.",
+        "chinese": "所以，你必须仔细考虑涉及购买新车的所有事情。"
+    },
+    {
+        "start": 650.2,
+        "end": 654.5200000000001,
+        "english": "All the money you're going to have to not spend on parties.",
+        "chinese": "所有你将要花费在派对上的钱。"
+    },
+    {
+        "start": 654.5200000000001,
+        "end": 655.5200000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 655.5200000000001,
+        "end": 656.5200000000001,
+        "english": "You have to think it through.",
+        "chinese": "您必须考虑一下。"
+    },
+    {
+        "start": 656.5200000000001,
+        "end": 658.6800000000001,
+        "english": "You have to analyze it very carefully.",
+        "chinese": "您必须仔细分析它。"
+    },
+    {
+        "start": 658.6800000000001,
+        "end": 659.6800000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 659.6800000000001,
+        "end": 661.8800000000001,
+        "english": "So let's give a few examples of how we can use this phrase.",
+        "chinese": "所以，让我们举几个例子来展示如何使用这个短语。"
+    },
+    {
+        "start": 661.8800000000001,
+        "end": 665.48,
+        "english": "Hey, Marco, have you thought through my suggestions?",
+        "chinese": "你好，马科，你考虑过我的建议了吗？"
+    },
+    {
+        "start": 665.48,
+        "end": 667.0,
+        "english": "I can say you guys are very young.",
+        "chinese": "我可以说你们年轻人很年轻。"
+    },
+    {
+        "start": 667.0,
+        "end": 669.6800000000001,
+        "english": "I think you should think it through before you get married.",
+        "chinese": "我认为在结婚之前，你应该先考虑清楚。"
+    },
+    {
+        "start": 669.6800000000001,
+        "end": 670.6800000000001,
+        "english": "Good advice.",
+        "chinese": "好的建议。"
+    },
+    {
+        "start": 670.6800000000001,
+        "end": 671.6800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 671.68,
+        "end": 672.68,
+        "english": "Get through.",
+        "chinese": "通过。"
+    },
+    {
+        "start": 672.68,
+        "end": 673.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 673.68,
+        "end": 675.0799999999999,
+        "english": "So three great phrases.",
+        "chinese": "所以三个伟大的短语。"
+    },
+    {
+        "start": 675.0799999999999,
+        "end": 682.9599999999999,
+        "english": "And why don't we hear them one more time in our dialogue?",
+        "chinese": "我们为什么不重复听他们呢？"
+    },
+    {
+        "start": 682.9599999999999,
+        "end": 687.0799999999999,
+        "english": "And so that concludes my outline for our marketing strategy next year.",
+        "chinese": "所以，这个年的营销策略概要结束。"
+    },
+    {
+        "start": 687.0799999999999,
+        "end": 689.7199999999999,
+        "english": "Thank you very much for your time.",
+        "chinese": "非常感谢您的时间。"
+    },
+    {
+        "start": 689.7199999999999,
+        "end": 694.5999999999999,
+        "english": "Hey, that was quite the presentation.",
+        "chinese": "你好，那真是个精彩的演示。"
+    },
+    {
+        "start": 694.5999999999999,
+        "end": 698.56,
+        "english": "Honestly, I was completely blown away by your strategy outline.",
+        "chinese": "说实话，我对你的战略规划方案简直无法用言语形容。"
+    },
+    {
+        "start": 698.56,
+        "end": 702.0,
+        "english": "I've got to say, Alex, you really wowed me today.",
+        "chinese": "我必须说，阿历克斯，你今天真的很让我佩服。"
+    },
+    {
+        "start": 702.0,
+        "end": 703.0,
+        "english": "Ah, come on.",
+        "chinese": "是的，快过来。"
+    },
+    {
+        "start": 703.0,
+        "end": 704.0,
+        "english": "It was nothing.",
+        "chinese": "是啥。"
+    },
+    {
+        "start": 704.0,
+        "end": 705.4,
+        "english": "I'm just doing my job.",
+        "chinese": "我是做我的工作。"
+    },
+    {
+        "start": 705.4,
+        "end": 708.28,
+        "english": "No, I think you deserve some recognition here.",
+        "chinese": "是的，我认为你在这里应该得到一些认可。"
+    },
+    {
+        "start": 708.28,
+        "end": 713.1199999999999,
+        "english": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+        "chinese": "我指的是，如果你回顾一下你之前的演示稿，这是一个巨大的进步。"
+    },
+    {
+        "start": 713.1199999999999,
+        "end": 715.4799999999999,
+        "english": "Well, Kristen did give me a hand with the slides.",
+        "chinese": "嗯，肯蒂帮我帮忙准备了幻灯片。"
+    },
+    {
+        "start": 715.4799999999999,
+        "end": 717.28,
+        "english": "She's a real whiz on PowerPoint.",
+        "chinese": "她是一位真正的PowerPoint高手。"
+    },
+    {
+        "start": 717.28,
+        "end": 720.9599999999999,
+        "english": "And I saw that you took on board my feedback about pricing strategies.",
+        "chinese": "我看到您采纳了我的关于定价策略的意见。"
+    },
+    {
+        "start": 720.9599999999999,
+        "end": 724.0799999999999,
+        "english": "I really appreciate you taking the time to think through my suggestions.",
+        "chinese": "我非常感谢您花时间考虑我的建议。"
+    },
+    {
+        "start": 724.0799999999999,
+        "end": 725.0799999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 725.0799999999999,
+        "end": 727.8399999999999,
+        "english": "Well, that was some good advice.",
+        "chinese": "好的，那真是不错的建议。"
+    },
+    {
+        "start": 728.84,
+        "end": 730.6800000000001,
+        "english": "You made some really good points.",
+        "chinese": "您说得非常正确。"
+    },
+    {
+        "start": 730.6800000000001,
+        "end": 733.6,
+        "english": "Well, I just wanted to say well done.",
+        "chinese": "很好，我只是想说辛苦了。"
+    },
+    {
+        "start": 733.6,
+        "end": 737.6800000000001,
+        "english": "Really, you did a great job.",
+        "chinese": "真的，你做得很好。"
+    },
+    {
+        "start": 737.6800000000001,
+        "end": 745.6,
+        "english": "Okay, great dialogue and some interesting phrases for giving praise, right?",
+        "chinese": "好的，好的对话和一些有趣的表达方式来给赞美，对吗？"
+    },
+    {
+        "start": 745.6,
+        "end": 747.9200000000001,
+        "english": "That's, I think, very important in the workplace.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 747.9200000000001,
+        "end": 748.9200000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 748.9200000000001,
+        "end": 749.9200000000001,
+        "english": "And you know what?",
+        "chinese": "您知道吗？"
+    },
+    {
+        "start": 749.9200000000001,
+        "end": 755.2800000000001,
+        "english": "I read recently that something like six out of every ten employees don't get regular",
+        "chinese": "我最近读到，像六成员工都没有定期得到的待遇。"
+    },
+    {
+        "start": 755.2800000000001,
+        "end": 756.52,
+        "english": "praise from their boss.",
+        "chinese": "赞扬来自他们的老板。"
+    },
+    {
+        "start": 757.0,
+        "end": 758.3199999999999,
+        "english": "Yeah, it's very important.",
+        "chinese": "是的，非常重要。"
+    },
+    {
+        "start": 758.3199999999999,
+        "end": 764.4,
+        "english": "And in some cultures, well, it's not very common to praise or to give positive feedback",
+        "chinese": "在一些文化中，嗯，这并不常见表扬或给予积极反馈。"
+    },
+    {
+        "start": 764.4,
+        "end": 765.4,
+        "english": "to their employees.",
+        "chinese": "将“to their employees”翻译成中文是：“对他们员工来说。”"
+    },
+    {
+        "start": 765.4,
+        "end": 771.84,
+        "english": "Yeah, but I think for Western employees, actually, it's really important and it helps them work harder.",
+        "chinese": "是的，但我认为对于西方员工来说，实际上是非常重要的，并且有助于他们工作更努力。"
+    },
+    {
+        "start": 771.84,
+        "end": 775.6,
+        "english": "The more, the more times they hear job well done.",
+        "chinese": "听到工作做得很好，他们就更愿意重复。"
+    },
+    {
+        "start": 775.6,
+        "end": 776.8,
+        "english": "Yeah, very good.",
+        "chinese": "是的，很好。"
+    },
+    {
+        "start": 776.8,
+        "end": 782.04,
+        "english": "So now you have the tools that maybe you can use with your employees or with your friends.",
+        "chinese": "所以现在你可能已经拥有了与你的员工或朋友共享的工具。"
+    },
+    {
+        "start": 782.04,
+        "end": 783.04,
+        "english": "With your friends.",
+        "chinese": "你的朋友。"
+    },
+    {
+        "start": 783.04,
+        "end": 784.04,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 784.04,
+        "end": 786.48,
+        "english": "Okay, so if you have any questions, comments or doubts, please come to our website.",
+        "chinese": "好的，如果有任何问题、评论或疑虑，请访问我们的网站。"
+    },
+    {
+        "start": 786.48,
+        "end": 787.48,
+        "english": "EnglishPod.com.",
+        "chinese": "中文名：英语播客。"
+    },
+    {
+        "start": 787.48,
+        "end": 788.48,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 788.48,
+        "end": 791.0,
+        "english": "Marco and I are always around to help you out.",
+        "chinese": "马科和我总是愿意帮助你。"
+    },
+    {
+        "start": 791.0,
+        "end": 795.24,
+        "english": "So until next time, thanks for listening and goodbye.",
+        "chinese": "所以直到下次，谢谢你的倾听，再见。"
+    },
+    {
+        "start": 795.24,
+        "end": 796.24,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

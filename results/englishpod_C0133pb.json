@@ -1,0 +1,998 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.16,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 6.16,
+        "end": 10.56,
+        "english": "And my name is Catherine and today we're talking about being clean.",
+        "chinese": "我的名字是凯特，今天我们要谈论清洁。"
+    },
+    {
+        "start": 10.56,
+        "end": 13.36,
+        "english": "Yeah, we're going to be doing the laundry, right?",
+        "chinese": "是的，我们打算洗衣服吗？"
+    },
+    {
+        "start": 13.36,
+        "end": 16.16,
+        "english": "It's a very important part of everyone's weekly schedule.",
+        "chinese": "这是一个每个人都非常重要的部分的周计划。"
+    },
+    {
+        "start": 16.16,
+        "end": 19.92,
+        "english": "And not only important, but I find it to be a little bit difficult because you know,",
+        "chinese": "而且重要，但我发现有点困难，因为你知道。"
+    },
+    {
+        "start": 19.92,
+        "end": 23.2,
+        "english": "like washing machine and what clothes you should mix with what,",
+        "chinese": "例如洗衣机和你应如何搭配衣物，这是什么意思？"
+    },
+    {
+        "start": 23.2,
+        "end": 27.6,
+        "english": "and you know how much detergent and how long it's such a complicated process.",
+        "chinese": "你知道如何用多少洗涤剂和多长时间如此复杂的过程。"
+    },
+    {
+        "start": 27.6,
+        "end": 32.88,
+        "english": "Well, let's say this. It might not be difficult, but it's very easy to mess up.",
+        "chinese": "嗯，说这个。可能不难，但很容易出错。"
+    },
+    {
+        "start": 32.88,
+        "end": 37.6,
+        "english": "Exactly. Yeah, that's the problem. It's very easy to like just ruin your favorite t-shirt if you",
+        "chinese": "是的，这个问题确实很常见。如果你喜欢你最喜欢的T恤，那么很容易就因为它的破旧而抛弃它。"
+    },
+    {
+        "start": 37.6,
+        "end": 41.68,
+        "english": "don't do laundry correctly. Or all of your white socks. Turn pink, for example.",
+        "chinese": "不要把洗衣服弄糟。或者，你的所有白袜子都变成了粉色。例如，用粉笔画一个圆圈，然后在上面写上“正确”。"
+    },
+    {
+        "start": 41.68,
+        "end": 47.28,
+        "english": "Right. So we're going to be looking at a lot of vocabulary and phrases related to this topic.",
+        "chinese": "正确。我们将要关注与这个主题相关的大量词汇和短语。"
+    },
+    {
+        "start": 47.28,
+        "end": 51.760000000000005,
+        "english": "And before we get started with the dialogue, why don't we take a look at vocabulary preview?",
+        "chinese": "首先，我们先看看词汇预览。"
+    },
+    {
+        "start": 52.72,
+        "end": 59.68,
+        "english": "Vocabulary preview. Okay, so central to all of these phrases and words that we're going to be hearing",
+        "chinese": "词汇预览。嗯，所有这些我们将会听到的和使用的词语和短语的核心内容。"
+    },
+    {
+        "start": 59.68,
+        "end": 63.839999999999996,
+        "english": "is a thing, an electric thing that helps us wash our clothes.",
+        "chinese": "这是一个东西，一个电化的东西，它帮助我们洗衣服。"
+    },
+    {
+        "start": 63.839999999999996,
+        "end": 65.52,
+        "english": "Right, a washing machine.",
+        "chinese": "正确，洗衣机。"
+    },
+    {
+        "start": 65.52,
+        "end": 70.16,
+        "english": "I'm pretty simple, right? So washing is a to wash washing and machine.",
+        "chinese": "我挺简单的，对吧？所以洗是洗衣服和洗衣机。"
+    },
+    {
+        "start": 70.16,
+        "end": 75.2,
+        "english": "So they go together washing machine. Right. So it's easy now. You just put all your clothes in this",
+        "chinese": "所以他们一起洗衣服。正确。现在很简单，你只需要把所有的衣物放进这个"
+    },
+    {
+        "start": 75.2,
+        "end": 76.8,
+        "english": "thing and it washes it for you.",
+        "chinese": "事物和它帮你洗了。"
+    },
+    {
+        "start": 76.8,
+        "end": 82.32,
+        "english": "No, you know, a lot of people don't like to use washing machines. They say it doesn't really",
+        "chinese": "是的，你说得对。很多人不喜欢使用洗衣机。他们说它并不实际。"
+    },
+    {
+        "start": 82.32,
+        "end": 85.12,
+        "english": "clean the clothes as well as doing it by hand.",
+        "chinese": "清洁衣物也得像手一样做。"
+    },
+    {
+        "start": 85.12,
+        "end": 89.84,
+        "english": "Really? Well, I'd say most clothes get washed pretty well with a washing machine, but if you have",
+        "chinese": "真的？嗯，我可以说大多数衣服在洗衣机里洗得还不错，但如果你有特别喜欢的衣物或者需要特殊洗涤条件的衣服，可能就不一样了。"
+    },
+    {
+        "start": 89.84,
+        "end": 96.16,
+        "english": "those hard to get stains or some dirt, maybe it's good to have a washing board.",
+        "chinese": "这些难以清洗的污渍或一些灰尘，也许最好有拖把。"
+    },
+    {
+        "start": 96.16,
+        "end": 99.36,
+        "english": "A washing board, yeah. Yeah, where you can really scrub it yourself.",
+        "chinese": "洗碗板，对。你真能自己彻底清洗它。"
+    },
+    {
+        "start": 99.36,
+        "end": 103.67999999999999,
+        "english": "And well, funny, you mentioned that word stain because it's our second word that we're going to",
+        "chinese": "而且，好笑的是你提到这个词“污渍”，因为我们即将开始使用第二个单词“污渍”。"
+    },
+    {
+        "start": 103.68,
+        "end": 112.16000000000001,
+        "english": "preview a stain. Right, a stain is some color, maybe some food or wine or grass that you can't",
+        "chinese": "预览污渍。对，污渍可能是某种颜色，比如食物、葡萄酒或草地等你不能确定的物质。"
+    },
+    {
+        "start": 112.16000000000001,
+        "end": 117.44000000000001,
+        "english": "remove from your clothes. Right. So it's very common. You're having a nice dinner in all of a",
+        "chinese": "将衣物从你的衣服上取下。正确。所以非常常见。你正在享受一顿丰盛的晚餐。"
+    },
+    {
+        "start": 117.44000000000001,
+        "end": 123.44000000000001,
+        "english": "sudden you spill wine on your shirt. So you have a wine stain. I hate that. And you can also have",
+        "chinese": "突然你把酒洒在衬衫上。所以你有酒渍。我讨厌那个。而且你也可以说："
+    },
+    {
+        "start": 123.44000000000001,
+        "end": 128.8,
+        "english": "stain on your, you can also have a stain on your carpet. Right. So if you spill some coffee on your",
+        "chinese": "污渍在你身上，也可以沾到你的地毯上。正确。如果你把咖啡泼到你的沙发上。"
+    },
+    {
+        "start": 128.8,
+        "end": 135.52,
+        "english": "carpet, it's got a little circle that's brown forever. Right. Or even some people have stained the",
+        "chinese": "地毯，它有一个棕色的圆圈。正确。或者甚至有些人已经染上了污渍。"
+    },
+    {
+        "start": 135.52,
+        "end": 140.48000000000002,
+        "english": "teeth, right? That's right. So you can get them turned back white with a little money to your dentist.",
+        "chinese": "牙齿，对吗？没错。所以你可以用小钱请牙医把它们恢复成洁白的。"
+    },
+    {
+        "start": 140.48000000000002,
+        "end": 145.44,
+        "english": "Exactly. So those are the two words that we're going to be looking at today in vocabulary preview.",
+        "chinese": "正确。今天我们将要关注的词汇预览有两个词：Exactly 和 So. 也就是说，这两个词是我们今天要重点关注的两个词汇。"
+    },
+    {
+        "start": 145.44,
+        "end": 150.72000000000003,
+        "english": "So let's listen to our dialogue. Let's see what's happening with these people that are doing laundry.",
+        "chinese": "所以，让我们听听我们的对话。看看这些正在洗衣的人发生了什么。"
+    },
+    {
+        "start": 150.8,
+        "end": 164.8,
+        "english": "Okay. Let's go through this one more time. I don't want to be more ruined or dyed blouses.",
+        "chinese": "好的。我们再仔细看看这个。我不想被更糟或染成深色的衬衫。"
+    },
+    {
+        "start": 164.8,
+        "end": 171.12,
+        "english": "I know. I know. Okay. So I have to separate the colors from the whites and put them in this",
+        "chinese": "我知道。我也知道。好的。所以我必须将颜色与白色分开，然后放入这个"
+    },
+    {
+        "start": 171.12,
+        "end": 176.72,
+        "english": "strange looking contraption so called washing machine. Right. You have to turn it on and program it",
+        "chinese": "奇怪的装置，叫做洗衣机。正确。你需要打开它并设置它"
+    },
+    {
+        "start": 176.72,
+        "end": 181.35999999999999,
+        "english": "depending on what type of clothes you're washing. For example, for delegates, you should set a",
+        "chinese": "根据您洗衣服的类型。例如，对于代表来说，您应该设置一个"
+    },
+    {
+        "start": 181.35999999999999,
+        "end": 186.4,
+        "english": "shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.",
+        "chinese": "更短的洗碗循环。也请确保使用洗涤剂和柔顺剂，当清洗时。"
+    },
+    {
+        "start": 186.4,
+        "end": 193.36,
+        "english": "So complicated. Okay. What about this red wine stain? How do I get it out? Since this is a white",
+        "chinese": "所以复杂。好的，这个问题怎么样？这个红葡萄酒斑点怎么处理？因为这是白色的。"
+    },
+    {
+        "start": 193.36,
+        "end": 198.48,
+        "english": "t-shirt, you can just pour a little bit of bleach on it and it will do the trick. Cool. Then I can",
+        "chinese": "T恤，你可以直接在上面滴一点漂白剂，它就能奏效。凉爽。然后我可以"
+    },
+    {
+        "start": 198.48,
+        "end": 203.44,
+        "english": "just throw everything in the dryer for an hour and it's all set, right? No. Since you're washing",
+        "chinese": "根据你的要求，以下是将英文翻译成中文的版本："
+    },
+    {
+        "start": 203.52,
+        "end": 208.8,
+        "english": "delegates and cotton, you should set the dryer to medium heat and for 20 minutes. You know what?",
+        "chinese": "代表和棉花，你应该将烘干机调至中等温度，并保持20分钟。你知道吗？"
+    },
+    {
+        "start": 209.6,
+        "end": 210.88,
+        "english": "I'll just have everything dry cleaned.",
+        "chinese": "我会只对所有衣物进行干洗。"
+    },
+    {
+        "start": 217.12,
+        "end": 223.52,
+        "english": "Okay. So we've got someone who is maybe doing the laundry for the first time and he's not",
+        "chinese": "好的。所以我们已经有一位第一次做家务的人，他可能还没有开始洗衣了。"
+    },
+    {
+        "start": 223.52,
+        "end": 228.64,
+        "english": "really understanding the instructions. Well, that's the thing. I tell you, it's a little bit",
+        "chinese": "真的理解了指令。嗯，这就是事实。我告诉你，有点儿小问题。"
+    },
+    {
+        "start": 228.72,
+        "end": 234.79999999999998,
+        "english": "difficult and well, it's very tedious at times to try and do laundry like this. Well, the first",
+        "chinese": "困难且熟练，这在尝试这样洗衣服时非常令人厌烦。嗯，第一个"
+    },
+    {
+        "start": 234.79999999999998,
+        "end": 240.16,
+        "english": "thing it's maybe tedious about it is that you have to really worry about what colors go together.",
+        "chinese": "事物它可能有点麻烦，那就是你必须真的担心颜色在一起。"
+    },
+    {
+        "start": 240.16,
+        "end": 245.92,
+        "english": "Right. So let's take a look at those words that we're related to doing laundry now in language takeaway.",
+        "chinese": "是的。现在，让我们看看我们与洗衣有关的词汇在语言小超市里。"
+    },
+    {
+        "start": 247.6,
+        "end": 254.72,
+        "english": "Language takeaway. Okay. The first word we have is actually related to a joke we made earlier about",
+        "chinese": "语言小贴士。好的。第一个单词实际上与我们之前关于中文的笑话有关。"
+    },
+    {
+        "start": 254.72,
+        "end": 262.08,
+        "english": "pink socks. So if you change the color of something, you're dying it. Okay. Die. So it's pronounced",
+        "chinese": "红色袜子。所以如果你改变某个东西的颜色，你正在变色。好的。变。所以它被发音为"
+    },
+    {
+        "start": 262.08,
+        "end": 268.88,
+        "english": "exactly the same way as you know, to die to not live anymore. Die. But it's spelled differently.",
+        "chinese": "同你所知道的那样，为了不活而死。死了。但这个词是不同的。"
+    },
+    {
+        "start": 268.88,
+        "end": 276.32,
+        "english": "D-Y-E. Okay. So it can be a verb or an adjective. Or a noun. Or a noun. So something that you put on",
+        "chinese": "D-Y-E. 确实。那么它可以是动词或形容词。或者是一个名词。还是一个名词。所以你穿的什么"
+    },
+    {
+        "start": 276.32,
+        "end": 282.8,
+        "english": "clothes to change the color is called a die. A die. But to do this, to change the color of some clothes",
+        "chinese": "衣服改变颜色叫骰子。骰子。但要这样做，改变一些衣服的颜色"
+    },
+    {
+        "start": 282.8,
+        "end": 290.32,
+        "english": "is to die the clothes. So that's maybe what happens when you wash a red t-shirt with all your white",
+        "chinese": "是洗衣服。所以，也许当你用红色T恤在所有白色上洗的时候会发生什么。"
+    },
+    {
+        "start": 290.32,
+        "end": 296.40000000000003,
+        "english": "t-shirts. Then you have died shirts. You have pink shirts and... And also women when they go to the",
+        "chinese": "T-shirts. 然后你死了。你有粉色的 T 恤衫。... 以及当她们去的时候。"
+    },
+    {
+        "start": 296.40000000000003,
+        "end": 300.88,
+        "english": "beauty salon, they die their hair. Exactly. So that means you change the color of your hair. It means",
+        "chinese": "美容院，他们染发。正好。因此，意味着你改变你的头发的颜色。"
+    },
+    {
+        "start": 300.88,
+        "end": 307.04,
+        "english": "it's a long term change. It's not short. It's not like one day. It means probably for a long time.",
+        "chinese": "这是一个长期的变化。它不是短期的。不像一天。这意味着可能会长期进行。"
+    },
+    {
+        "start": 307.04,
+        "end": 312.32,
+        "english": "So that's the correct word to die. Very different. Maybe some people say to paint, which you know,",
+        "chinese": "所以，这就是正确的死法。非常不同。也许有些人说要画，你知道的。"
+    },
+    {
+        "start": 312.32,
+        "end": 318.88,
+        "english": "we understand, but the correct form would be to die. And next we have a word that describes a",
+        "chinese": "我们理解，但正确的形式是“死”。接下来我们有句话描述一个"
+    },
+    {
+        "start": 318.88,
+        "end": 323.2,
+        "english": "certain kind of clothing. We're not talking about pants or socks. We're talking about",
+        "chinese": "我们不谈论裤子或袜子。我们谈论的是"
+    },
+    {
+        "start": 323.2,
+        "end": 328.32,
+        "english": "delegates. Delegates. So now this adjective, delicate, which means it's very...",
+        "chinese": "在翻译这句话时，我需要确保保持原意和语境。以下是根据您提供的中文文本进行的翻译："
+    },
+    {
+        "start": 328.32,
+        "end": 331.6,
+        "english": "Easy to break. For agile, right? Yeah. But this is a noun, delegates.",
+        "chinese": "易碎。对于敏捷，对吗？是的。不过这是名词，代表人。"
+    },
+    {
+        "start": 332.4,
+        "end": 337.68,
+        "english": "Right. So you think of something that's easy to break or to ruin. Maybe you think of underwear.",
+        "chinese": "正确。您认为什么容易被破坏或损坏呢？也许您认为内衣。"
+    },
+    {
+        "start": 338.32,
+        "end": 342.88,
+        "english": "You know, underwear is something you wear under your clothing. And so it's generally not as",
+        "chinese": "你知道，内衣是穿在你衣服下面的东西。而且通常来说，它不如衣物那么重要。"
+    },
+    {
+        "start": 342.88,
+        "end": 349.52,
+        "english": "strong as a shirt or pair jeans. And so we call these in English, delegates. Very good. So you have",
+        "chinese": "强如一件衬衫或一条牛仔裤。而且我们称这些为英文，代表委员。很好。所以你有"
+    },
+    {
+        "start": 349.52,
+        "end": 353.76,
+        "english": "to be careful when you're washing your delegates because it's happened to me before. You like,",
+        "chinese": "当您在洗您的代表时，要小心，因为这和我之前发生过。您喜欢，对吗？"
+    },
+    {
+        "start": 353.76,
+        "end": 357.6,
+        "english": "put them in with all the clothes and then you have stretched out boxers or something like that.",
+        "chinese": "请将他们放在所有衣物上，然后你已经用布条或类似的东西把内衣或者什么一样。"
+    },
+    {
+        "start": 357.6,
+        "end": 363.2,
+        "english": "Yeah. So that's why many women, I know, wash delegates by hand. So you separate the clothes from",
+        "chinese": "是的。所以正是这样，许多女性会自己洗代表团成员的衣服。因此，你将衣物分开洗涤。"
+    },
+    {
+        "start": 363.2,
+        "end": 369.36,
+        "english": "the delegates. Very good. And now if you're washing delegates or you're washing towels or t-shirts,",
+        "chinese": "这里的“delegates”可以翻译为“代表”，即“代表”。至于“very good”，这在中文中通常表示“很好”，但在这里可能需要根据上下文进行调整。如果要表达“非常棒”的意思，可以改为：“非常棒的。”或者更正式一点，“非常出色地”。"
+    },
+    {
+        "start": 369.36,
+        "end": 374.88,
+        "english": "it's always a good idea to use fabric softener. All right, fabric softener. What are these two words?",
+        "chinese": "它总是建议使用柔顺剂。好的，柔顺剂。这些两个词是什么意思？"
+    },
+    {
+        "start": 374.88,
+        "end": 380.24,
+        "english": "One of them you understand already. Maybe it's soft, softener. So it makes it soft. Yeah,",
+        "chinese": "在其中的一个方面，你已经理解了。可能是软化剂。所以它使它变得柔软。嗯，"
+    },
+    {
+        "start": 380.24,
+        "end": 384.71999999999997,
+        "english": "something that makes something softer. We've got fabric softener. So that's something that makes",
+        "chinese": "什么东西能让东西变得更柔软。我们有棉柔顺剂。所以这就是能让"
+    },
+    {
+        "start": 384.71999999999997,
+        "end": 391.76,
+        "english": "the clothes that you wash softer. So fabric is any type of material, right? Like a textile. Yeah.",
+        "chinese": "洗得更柔软的衣服。所以面料是任何类型的东西，对吗？就像纤维。嗯。"
+    },
+    {
+        "start": 391.84,
+        "end": 398.08,
+        "english": "So it could be cotton or silk or nylon. linen. So these are all kinds of fabrics. So you pour a",
+        "chinese": "所以可能是棉或丝或尼龙。呢绒、呢绒。所以这些都是面料。那么，你倒入的应该是："
+    },
+    {
+        "start": 398.08,
+        "end": 402.0,
+        "english": "little bit of this in your washing machine and your clothes come out really nice and soft.",
+        "chinese": "小部分这在洗衣机里，衣服出来真的很好看和柔软。"
+    },
+    {
+        "start": 402.0,
+        "end": 408.0,
+        "english": "Hmm, it feels nice just talking about it. All right. And well, also to wash your clothes to actually",
+        "chinese": "嗯，聊聊天挺好的。行，也洗洗衣服，把它们晾干。"
+    },
+    {
+        "start": 408.0,
+        "end": 414.0,
+        "english": "make them clean, you use detergent. Right. So many people might want to say the word soap because soap",
+        "chinese": "让他们干净，你用洗涤剂。正确。所以很多人可能会想说“肥皂”因为肥皂"
+    },
+    {
+        "start": 414.0,
+        "end": 420.32,
+        "english": "is what we use to wash our hands and our dishes. But here we have detergent. So this is a special soap",
+        "chinese": "我们使用来洗手和餐具的清洁剂。但是这里有一块肥皂。所以这是特别的肥皂"
+    },
+    {
+        "start": 420.4,
+        "end": 426.4,
+        "english": "for your clothes. Right. Laundry detergent. Yeah, you could just say laundry detergent or simply",
+        "chinese": "衣服洗涤剂。正确。洗衣粉。当然，你可以直接说洗衣粉或者仅仅这样。"
+    },
+    {
+        "start": 426.96,
+        "end": 433.84,
+        "english": "detergent. And now in order to remove those nasty stains that maybe are very hard,",
+        "chinese": "洗涤剂。现在为了去除那些可能非常难清除的顽固污渍，比如可能是很难洗掉的油渍、血迹或墨迹等。"
+    },
+    {
+        "start": 434.56,
+        "end": 440.24,
+        "english": "you would use a chemical called bleach. All right. So bleach is the dangerous chemical because",
+        "chinese": "您会用一种叫漂白剂的化学物质。好的，所以漂白剂是危险的化学物质，因为"
+    },
+    {
+        "start": 440.24,
+        "end": 446.71999999999997,
+        "english": "it smells very strong. Right. And it can change the color of your clothes to white or yellow. So we",
+        "chinese": "它味道很强。正确。它可以改变你的衣服的颜色为白色或黄色。所以我们"
+    },
+    {
+        "start": 446.72,
+        "end": 453.6,
+        "english": "usually only use bleach with white clothes. I actually had a friend who changed the color of his",
+        "chinese": "通常只使用漂白剂来清洗白色衣物。实际上，我有一位朋友曾经更换了他的衣服颜色。"
+    },
+    {
+        "start": 453.6,
+        "end": 458.16,
+        "english": "hair to white using bleach. He put bleach on his head and on his hair and it just turned white.",
+        "chinese": "头发用漂白剂染成白色。他把漂白剂涂在头上和头发上，结果就变成了白色的。"
+    },
+    {
+        "start": 458.16,
+        "end": 462.8,
+        "english": "Oh, wow. So many people do that because they want to go from dark colors to light colors.",
+        "chinese": "哦，哇。这么多人这样做，因为他们想要从深色过渡到浅色。"
+    },
+    {
+        "start": 462.8,
+        "end": 467.6,
+        "english": "And in that case, you wouldn't say you could say that he dyed his hair white, but usually you would",
+        "chinese": "在这种情况下，你不会说他染发成了白色的，而是通常你会这么说。"
+    },
+    {
+        "start": 467.6,
+        "end": 473.28000000000003,
+        "english": "say he bleached his hair. It's so we understand that it turned white. Exactly. So those five words we",
+        "chinese": "他说他剃了头发。这真是太明白了，因为我们理解到它变成了白的。对，这些五个字我们说得很清楚。"
+    },
+    {
+        "start": 473.35999999999996,
+        "end": 477.67999999999995,
+        "english": "just looked at in language takeaway, they're important. They're related to doing laundry. So",
+        "chinese": "根据提供的信息，我将这句话翻译成中文："
+    },
+    {
+        "start": 478.32,
+        "end": 482.32,
+        "english": "before we move on, let's listen to our dialogue again, but a little bit slower.",
+        "chinese": "在我们继续讨论之前，让我们再次聆听我们的对话，但稍微慢一点。"
+    },
+    {
+        "start": 486.88,
+        "end": 494.08,
+        "english": "Okay, let's go through this one more time. I don't want any more ruined or dyed blouses.",
+        "chinese": "好的，我们再仔细看看这个。我不想再有破旧或染色的衬衫。"
+    },
+    {
+        "start": 494.08,
+        "end": 501.44,
+        "english": "I know. I know. Okay. So I have to separate the colors from the whites and put them in the strange",
+        "chinese": "我知道。我知道。好的。所以我必须分离颜色和白色，然后放入奇怪的颜色。"
+    },
+    {
+        "start": 501.44,
+        "end": 508.56,
+        "english": "looking contraption so called washing machine. Right. You have to turn it on and program it",
+        "chinese": "看起来是这样的：洗衣机。正确。你需要打开它并设置它"
+    },
+    {
+        "start": 508.56,
+        "end": 514.96,
+        "english": "depending on what type of clothes you are washing. For example, for delegates, you should set a",
+        "chinese": "根据您洗衣服的类型。例如，对于代表来说，您应该设置一个"
+    },
+    {
+        "start": 514.96,
+        "end": 522.64,
+        "english": "shorter washing cycle. Also, be sure to use fabric softener and this detergent when washing.",
+        "chinese": "更短的洗衣服循环。也请确保使用洗涤剂软化剂和此洗衣粉。"
+    },
+    {
+        "start": 523.36,
+        "end": 529.76,
+        "english": "So complicated. Okay. What about this red wine stain? How do I get it out?",
+        "chinese": "所以复杂。好的。这个红葡萄酒斑点怎么处理？我如何去除它？"
+    },
+    {
+        "start": 530.56,
+        "end": 536.56,
+        "english": "Since this is a white t-shirt, you can just pour a little bit of bleach on it and it will do the trick.",
+        "chinese": "根据这个是白色的T恤，你可以只用一点漂白剂在上面，它就能搞定。"
+    },
+    {
+        "start": 537.2,
+        "end": 543.76,
+        "english": "Cool. Then I can just throw everything in the dryer for an hour and it's all set, right?",
+        "chinese": "凉。那我就直接把所有东西放进烘干机里，一个小时就搞定，对吗？"
+    },
+    {
+        "start": 543.76,
+        "end": 550.56,
+        "english": "No. Since you are washing delegates and cotton, you should set the dryer to medium heat and for",
+        "chinese": "从现在开始，因为您正在洗代表团和棉布，请将烘干机设置为中等温度，并保持干燥。"
+    },
+    {
+        "start": 550.64,
+        "end": 555.1199999999999,
+        "english": "20 minutes. You know what? I'll just have everything dry clean.",
+        "chinese": "20分钟。你知道吗？我将一切都干洗好了。"
+    },
+    {
+        "start": 559.3599999999999,
+        "end": 564.4799999999999,
+        "english": "So here at EnglishPOP, we'd like to also provide u-listeners with some phrases that allow you to",
+        "chinese": "所以，我们很高兴地向您提供一些允许您使用的短语，以便您能够"
+    },
+    {
+        "start": 564.4799999999999,
+        "end": 568.9599999999999,
+        "english": "increase your fluency. So that means sound more like a native English speaker. And so today,",
+        "chinese": "提高你的流利度。因此意味着听起来像一个地道的英语口语。今天，"
+    },
+    {
+        "start": 568.9599999999999,
+        "end": 573.52,
+        "english": "let's check out these phrases in Fluency Builder. Fluency Builder.",
+        "chinese": "让我们检查一下这些短语在 Fluent Builder 中。 Fluent Builder."
+    },
+    {
+        "start": 574.4799999999999,
+        "end": 579.52,
+        "english": "All right. So on Fluency Builder, we're going to be looking at forwards or four phrases.",
+        "chinese": "好的。所以，在 Fluent Builder 中，我们将关注前四句或四个短语。"
+    },
+    {
+        "start": 579.52,
+        "end": 585.6,
+        "english": "So the first one was really easy when she was telling the guy or instructing him how to do the laundry.",
+        "chinese": "所以，第一个是她告诉那个人或指导他如何洗衣时非常简单。"
+    },
+    {
+        "start": 585.6,
+        "end": 592.24,
+        "english": "She said, let's go through this one more time. Go through what? The wall? No. So it's not actually",
+        "chinese": "她说，让我们再仔细看看这个。我们去摸什么？墙？不。所以不是真的。"
+    },
+    {
+        "start": 592.24,
+        "end": 598.64,
+        "english": "to go through an object like to pass. So it's let's repeat or let's rehearse again.",
+        "chinese": "去摸一个物体，就像重复或重演。所以让我们再做一遍或者再次练习一下。"
+    },
+    {
+        "start": 598.64,
+        "end": 604.0,
+        "english": "Okay. So normally we say this when there are many different steps to do something. So let's go",
+        "chinese": "好的。通常我们说这是在做很多事情时，有多个步骤。那么让我们继续。"
+    },
+    {
+        "start": 604.16,
+        "end": 611.44,
+        "english": "through this again. When you leave work, you go home, you unlock the door, you open the door,",
+        "chinese": "通过这个。当你下班后离开工作场所，你回家，你打开门，你打开门。"
+    },
+    {
+        "start": 612.32,
+        "end": 618.56,
+        "english": "and so it means that there's a process, there are many steps. And so let's go through this again",
+        "chinese": "而且这意味着，有过程，有很多步骤。那么，我们再来一遍。"
+    },
+    {
+        "start": 618.56,
+        "end": 625.68,
+        "english": "as a way for us to say let's think about and discuss this process. Very good. So we also use it",
+        "chinese": "作为我们说“让我们思考和讨论这个过程”的方式。很好。所以我们也使用它。"
+    },
+    {
+        "start": 625.68,
+        "end": 630.64,
+        "english": "maybe when we're studying. So let's go through this subject one more time. Can we go through chapter",
+        "chinese": "也许当我们学习。所以让我们再复习一下这个主题。我们可以继续阅读章节。"
+    },
+    {
+        "start": 630.72,
+        "end": 637.04,
+        "english": "five again? Exactly. So you would reread at chapter five. All right. So why don't we listen to a",
+        "chinese": "五次？是的。所以你再读一下第五章。好的。那么我们为什么不听一首中文歌呢？"
+    },
+    {
+        "start": 637.04,
+        "end": 645.12,
+        "english": "couple of more examples of how we could use go through? Example one. I want to go through chapter",
+        "chinese": "以下是我为你准备的翻译："
+    },
+    {
+        "start": 645.12,
+        "end": 653.76,
+        "english": "five again before the exam tomorrow. Example two. David, do you have time this afternoon to go",
+        "chinese": "五天后再考，明天考试。 例子二： 大卫，今天下午有时间去上课吗？"
+    },
+    {
+        "start": 653.76,
+        "end": 661.6,
+        "english": "over the details of this new project? Example three. I went through my contract and it says that",
+        "chinese": "关于这个新项目，你关心的细节是什么？ 例子三。 我查看了我的合同，它说："
+    },
+    {
+        "start": 661.6,
+        "end": 669.68,
+        "english": "I am entitled to 15 vacation days a year. Now this next phrase is very common when we're using",
+        "chinese": "我有每年享有15天假的时间。现在，当我们使用中文时，这个短语非常普遍。"
+    },
+    {
+        "start": 669.68,
+        "end": 676.64,
+        "english": "sarcasm when we're trying to make jokes. So we say so called. Right. So she said this so called",
+        "chinese": "当我们在试图制造笑话时，我们会说“这种叫”。正确。她说的这种叫"
+    },
+    {
+        "start": 676.64,
+        "end": 681.68,
+        "english": "contraption. It's like she doubts that it's really a washing machine. So I could say",
+        "chinese": "装置。它就像她怀疑它是真的洗衣机一样。所以我可以说"
+    },
+    {
+        "start": 682.3199999999999,
+        "end": 688.2399999999999,
+        "english": "her so-called boyfriend wants to go out tonight. So I say that because he doesn't really act",
+        "chinese": "她的所谓男友今天想出去。所以我说，因为他是真的不实际。"
+    },
+    {
+        "start": 688.2399999999999,
+        "end": 694.8,
+        "english": "like a boyfriend. So you're being sarcastic. It's a very good way and easy way of demonstrating sarcasm.",
+        "chinese": "像朋友。所以你是在嘲讽我。这是一个很好的方式，而且很容易展示讽刺。"
+    },
+    {
+        "start": 694.8,
+        "end": 700.0799999999999,
+        "english": "Yeah actually in the 1990s in America there was a very famous TV show called My So-called Life.",
+        "chinese": "是的，实际上在20世纪90年代，在美国有一种非常著名的电视节目叫《我的所谓生活》。"
+    },
+    {
+        "start": 700.0799999999999,
+        "end": 705.68,
+        "english": "Mm-hmm. All right. So this is My So-called Life. It's almost like it's not really like I have",
+        "chinese": "嗯，行。这样就是我的所谓生活了。它就像真的不是我有那么回事。"
+    },
+    {
+        "start": 705.68,
+        "end": 710.8,
+        "english": "any control over it. Yeah. Or I don't really have a life because it's kind of boring. Yeah. So",
+        "chinese": "任何控制。嗯，或者我没有生活了，因为有点无聊。嗯。所以"
+    },
+    {
+        "start": 710.8,
+        "end": 716.8,
+        "english": "My So-called Life. Not bragging. It's a joke. So you can say it, my so-called friends, my so-called",
+        "chinese": "我的所谓生活。不是炫耀。它只是笑话。所以你可以这么说，我的所谓的朋友们，我的所谓的中国。"
+    },
+    {
+        "start": 716.8,
+        "end": 722.4799999999999,
+        "english": "job. Basically you can almost be sarcastic with anything. Yeah but be careful that you know that",
+        "chinese": "工作。基本上你几乎可以像在说脏话一样与任何事物交谈。嗯，但请小心，你知道这可能对你有害。"
+    },
+    {
+        "start": 722.4799999999999,
+        "end": 726.88,
+        "english": "it's a joke because if you're trying to be serious you might make some people angry. Right.",
+        "chinese": "它是一个笑话，因为如果你试图严肃，可能会让有些人生气。"
+    },
+    {
+        "start": 726.88,
+        "end": 731.76,
+        "english": "Right. And now well she was explaining the whole process of how to do it and when she",
+        "chinese": "正确。现在她正在详细地解释如何做这件事，以及何时。"
+    },
+    {
+        "start": 731.76,
+        "end": 738.48,
+        "english": "recommended using bleach she said that should do the trick. Trick. So dogs do tricks right. Right",
+        "chinese": "推荐使用漂白剂。他说应该能奏效。这个说法，狗真的会做各种各样的动作。"
+    },
+    {
+        "start": 738.48,
+        "end": 745.12,
+        "english": "but to do the trick right what does that mean? All right so she's saying this should work. This",
+        "chinese": "但是，要实现这个目标，怎么做呢？好，她正在说这应该会工作。"
+    },
+    {
+        "start": 745.12,
+        "end": 752.08,
+        "english": "should fix your problem. Mm-hmm. So that should do the trick. So Marco I've been having this",
+        "chinese": "你应该解决这个问题。嗯，嗯，所以应该能解决问题。那么，马科斯，我一直在这个"
+    },
+    {
+        "start": 752.08,
+        "end": 757.6,
+        "english": "itch on my foot and I just can't I can't seem just to figure out what to do with it. Do you have any",
+        "chinese": "我的脚痒，我简直无法确定该怎么办。你有没有什么办法？"
+    },
+    {
+        "start": 757.6,
+        "end": 762.08,
+        "english": "suggestions? Yeah you should maybe just put some ointment on it and that should do the trick.",
+        "chinese": "你的问题？嗯，你可能应该给它涂点油膏，这样应该能解决这个问题。"
+    },
+    {
+        "start": 762.08,
+        "end": 766.8000000000001,
+        "english": "All right cool thanks for the suggestion. Yeah so very easy it's just a way of saying that should",
+        "chinese": "好的，谢谢你的建议。嗯，所以很简单，就是说应该……"
+    },
+    {
+        "start": 766.8000000000001,
+        "end": 772.24,
+        "english": "solve your problem. All right great so that should do the trick or it will do the trick.",
+        "chinese": "解决你的问题。好的，所以应该能解决问题或者它会解决问题。"
+    },
+    {
+        "start": 773.2,
+        "end": 780.32,
+        "english": "And well we have one last phrase all set. All set. So this is another phrase that has two words",
+        "chinese": "而且我们已经有一个最后的句子了。都对。这就是另一个可以使用的句子，有两个单词。"
+    },
+    {
+        "start": 780.32,
+        "end": 787.2,
+        "english": "that always go together to mean well we're finished. We're done. Everything is ready. Everything is",
+        "chinese": "这句话的意思是：“总是要一起表达善意，我们已经结束了。我们已经完成了。一切准备就绪。”"
+    },
+    {
+        "start": 787.2,
+        "end": 792.48,
+        "english": "ready. We're all set to go on vacation so my bags are packed. I have my passports. We are all set.",
+        "chinese": "准备好了。我们都是出发去度假的，我的包已经装好。我有护照。我们都准备好。"
+    },
+    {
+        "start": 792.48,
+        "end": 797.44,
+        "english": "Or after meeting you can say are we all set here? That means are we finished? Is it time to leave?",
+        "chinese": "在见面后可以说，我们都是准备好的吗？这表示我们已经完成了什么？是时候离开了？"
+    },
+    {
+        "start": 797.44,
+        "end": 802.5600000000001,
+        "english": "Very good. So we are almost all set. Let's listen to this dialogue one last time.",
+        "chinese": "很好。所以我们差不多都准备好了。让我们再听一次这个对话。"
+    },
+    {
+        "start": 809.5200000000001,
+        "end": 816.48,
+        "english": "Okay let's go through this one more time. I don't want the more ruined or dyed blouses.",
+        "chinese": "好的，我们再仔细看看这个。我不想更破旧或染色的衬衫。"
+    },
+    {
+        "start": 816.48,
+        "end": 822.8000000000001,
+        "english": "I know I know. Okay so I have to separate the colors from the whites and put them in this",
+        "chinese": "我知道我懂。好的，所以我必须将颜色与白色分开，并放入这个。"
+    },
+    {
+        "start": 822.8000000000001,
+        "end": 828.4,
+        "english": "strange looking contraption so called washing machine. Right you have to turn it on and program it",
+        "chinese": "奇怪的装置，叫做洗衣机。你必须打开它并设置它"
+    },
+    {
+        "start": 828.4,
+        "end": 832.96,
+        "english": "depending on what type of clothes you're washing. For example for delegates you should set a",
+        "chinese": "根据您洗衣服的类型。例如，对于代表来说，您应该设置一个"
+    },
+    {
+        "start": 832.96,
+        "end": 838.08,
+        "english": "shorter washing cycle. Also be sure to use fabric softener and this detergent when washing.",
+        "chinese": "更短的洗碗循环。也请确保使用洗涤剂和软化剂，当清洗时。"
+    },
+    {
+        "start": 838.08,
+        "end": 843.28,
+        "english": "So complicated. Okay what about this red wine stain? How do I get it out?",
+        "chinese": "所以复杂。那么这个问题呢？我怎么才能把它弄干净？"
+    },
+    {
+        "start": 843.8399999999999,
+        "end": 849.04,
+        "english": "Since this is a white t-shirt you can just pour a little bit of bleach on it and it will do the trick.",
+        "chinese": "根据这个，你可以用一点点漂白剂在上面涂点，它就能搞定。"
+    },
+    {
+        "start": 849.04,
+        "end": 853.36,
+        "english": "Cool. Then I can just throw everything in the dryer for an hour and it's all set right?",
+        "chinese": "凉。那我就把所有的东西放进烘干机里，一个小时后就一切搞定？"
+    },
+    {
+        "start": 853.36,
+        "end": 858.72,
+        "english": "No. Since you're washing delegates and cotton you should set the dryer to medium heat and for",
+        "chinese": "从你洗代表团和棉布开始，你应该将烘干机设置在中等温度，并且根据需要调整。"
+    },
+    {
+        "start": 858.72,
+        "end": 862.56,
+        "english": "20 minutes. You know what I'll just have everything dry cleaned.",
+        "chinese": "20分钟。你知道我将把所有的衣服都干洗吗？"
+    },
+    {
+        "start": 862.64,
+        "end": 873.5999999999999,
+        "english": "Have you ever had any laundry mishaps? Have you ever lost a sock?",
+        "chinese": "是的，我曾经有过洗衣事故。还是有袜子没找到？"
+    },
+    {
+        "start": 873.5999999999999,
+        "end": 879.3599999999999,
+        "english": "Wow. Died something. Have I ever? I hate doing the laundry. Why?",
+        "chinese": "哇。发生了什么？我曾经吗？我讨厌洗衣服。为什么？"
+    },
+    {
+        "start": 879.3599999999999,
+        "end": 885.8399999999999,
+        "english": "So it's time consuming. It takes a lot of time and I just have no patience.",
+        "chinese": "所以时间消耗得太多了。它花费了很多时间，我对此毫无耐心。"
+    },
+    {
+        "start": 886.4,
+        "end": 892.0,
+        "english": "And so normally when I was in college I would take all of my laundry in a bag and I'd throw",
+        "chinese": "所以通常，在我大学的时候，我会将所有的洗衣单都装入一个袋子，并将其扔进洗衣机。"
+    },
+    {
+        "start": 892.0,
+        "end": 897.2,
+        "english": "in the washing machine and I put it on cold. You know because cold water it's okay for all colors",
+        "chinese": "在洗衣机里，我把它放下了，并且让它放在冷水中。你知道，因为冷水对所有颜色都是合适的。"
+    },
+    {
+        "start": 897.2,
+        "end": 903.36,
+        "english": "but hot water makes the colors bleed. I took out the clothes and put them in the dryer and afterwards",
+        "chinese": "但是热水会使颜色变浅。我拿出了衣服，放进烘干机里，并且之后"
+    },
+    {
+        "start": 903.36,
+        "end": 908.24,
+        "english": "I saw all my clothes were clean except for my three sweaters which were small enough for babies.",
+        "chinese": "我看到我的所有衣服都是干净的，除了三件小毛衣，这些小毛衣适合为婴儿穿。"
+    },
+    {
+        "start": 908.24,
+        "end": 913.6,
+        "english": "Oh you shrunk it. Yeah I shrunk three brand new sweaters.",
+        "chinese": "你缩小了它。是的，我缩小了三个全新的毛衣。"
+    },
+    {
+        "start": 914.4,
+        "end": 920.08,
+        "english": "That's too bad. The problem that I have when doing laundry is that I forget that I started doing",
+        "chinese": "那真是太遗憾了。当我洗衣服时，我忘记自己开始做了。"
+    },
+    {
+        "start": 920.08,
+        "end": 925.84,
+        "english": "laundry so all of a sudden you know I'm doing laundry in the morning and then clothes are washed",
+        "chinese": "洗衣，突然你不知道，我现在正在早上洗衣服，然后衣物被洗涤。"
+    },
+    {
+        "start": 925.84,
+        "end": 930.0,
+        "english": "but they're still in the washing machine and I remember like the next day. So then the clothes",
+        "chinese": "但是他们还在洗衣机里，我记得第二天。所以然后衣服"
+    },
+    {
+        "start": 930.0,
+        "end": 935.84,
+        "english": "are like kind of smelling like kind of humid because they're moldy. Yeah so I have to re-wash them",
+        "chinese": "是像，味道上又像，因为它们腐烂了。嗯，所以我得重新洗一遍。"
+    },
+    {
+        "start": 935.84,
+        "end": 940.72,
+        "english": "and it's just like a pain. Yeah but doing laundry is sometimes so time consuming but let us know",
+        "chinese": "而且它就像一个痛。嗯，但是洗衣服有时候会很耗时，我们请示一下。"
+    },
+    {
+        "start": 940.72,
+        "end": 946.6400000000001,
+        "english": "what you think. Do you like doing laundry or have you ever lost a sock? I think everyone has lost",
+        "chinese": "你认为的。你喜欢洗衣服吗？还是有没丢失袜子的经历？我觉得每个人都有丢失过。"
+    },
+    {
+        "start": 946.64,
+        "end": 952.0,
+        "english": "a sock or something in the washing right. I don't know what happens. There's a secret home for socks",
+        "chinese": "袜子或什么在洗衣服时。我不知道会发生什么。有一个秘密的袜子之家"
+    },
+    {
+        "start": 952.0,
+        "end": 957.92,
+        "english": "somewhere. It's so weird. Maybe it's an Australia or something. So come to our website englishpod.com",
+        "chinese": "在某个地方。太奇怪了。也许它是一个澳大利亚或者什么。所以来我们的网站英语pod.com"
+    },
+    {
+        "start": 958.56,
+        "end": 963.04,
+        "english": "give us all your feedback, question, comments or suggestions and we're always there.",
+        "chinese": "请给我们所有反馈、问题、评论或建议，我们随时都在这里。"
+    },
+    {
+        "start": 963.52,
+        "end": 967.68,
+        "english": "Alright hope to hear from you soon and until next time everyone. Bye. Bye.",
+        "chinese": "你好，希望不久后能听到你的消息，并且在下次见面时再见。再见。再见。"
+    }
+]

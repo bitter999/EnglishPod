@@ -1,0 +1,974 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.2,
+        "english": "Hello everyone and welcome back to English.",
+        "chinese": "你好，大家和欢迎回到英语。"
+    },
+    {
+        "start": 5.2,
+        "end": 6.7,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是Marco。"
+    },
+    {
+        "start": 6.7,
+        "end": 9.8,
+        "english": "And my name is Katherine and it's the holiday season.",
+        "chinese": "我的名字是凯特琳，这个假期到了。"
+    },
+    {
+        "start": 9.8,
+        "end": 12.0,
+        "english": "That's right. It's almost Christmas.",
+        "chinese": "英语：那对，差不多到了圣诞节。"
+    },
+    {
+        "start": 12.0,
+        "end": 16.2,
+        "english": "And so we are bringing you one of the most typical Christmas songs",
+        "chinese": "所以我们在这里为你带来最典型的圣诞歌曲。"
+    },
+    {
+        "start": 16.2,
+        "end": 20.6,
+        "english": "through Christmas carols, I guess, in all over the world probably.",
+        "chinese": "英语：通过圣诞歌曲，大概在全世界。"
+    },
+    {
+        "start": 20.6,
+        "end": 24.2,
+        "english": "That's right and I've heard it in many different languages, even Chinese.",
+        "chinese": "没错，我听到它在许多不同的语言中都被说了一遍，甚至包括汉语。"
+    },
+    {
+        "start": 24.2,
+        "end": 26.0,
+        "english": "Yeah, even Chinese.",
+        "chinese": "是的，即使是中国人。"
+    },
+    {
+        "start": 26.0,
+        "end": 28.0,
+        "english": "Ding dong dee.",
+        "chinese": "英语：叮咚，叮咚。"
+    },
+    {
+        "start": 28.0,
+        "end": 29.400000000000002,
+        "english": "Okay, I'll have to ask.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 29.4,
+        "end": 30.4,
+        "english": "Yeah, I have to ask.",
+        "chinese": "是的，我必须问。"
+    },
+    {
+        "start": 30.4,
+        "end": 32.8,
+        "english": "But yeah, we're talking about jingle bells today.",
+        "chinese": "但是啊，我们今天谈的是铃铛。"
+    },
+    {
+        "start": 32.8,
+        "end": 37.599999999999994,
+        "english": "So the famous song, jingle bells, you'll hear it everywhere, especially during the Christmas season.",
+        "chinese": "所以著名的歌曲《圣诞颂歌》你都会唱，特别是在圣诞节这个季节。"
+    },
+    {
+        "start": 37.599999999999994,
+        "end": 39.6,
+        "english": "I only during the Christmas season.",
+        "chinese": "我只在圣诞节期间使用。"
+    },
+    {
+        "start": 39.6,
+        "end": 40.6,
+        "english": "Especially, yeah.",
+        "chinese": "特别，对吧。"
+    },
+    {
+        "start": 40.6,
+        "end": 43.1,
+        "english": "And so let's listen to the song.",
+        "chinese": "英语：And so let's listen to the song."
+    },
+    {
+        "start": 43.1,
+        "end": 44.2,
+        "english": "The song is pretty long.",
+        "chinese": "歌是挺长的。"
+    },
+    {
+        "start": 44.2,
+        "end": 47.2,
+        "english": "It has like a couple of different verses.",
+        "chinese": "它像一对兄弟姐妹一样。"
+    },
+    {
+        "start": 47.2,
+        "end": 52.8,
+        "english": "But we've taken the main one, the first one and the chorus, which are like the most famous ones.",
+        "chinese": "但是我们选了这三张，第一张和第二张，就像最著名的那几张。"
+    },
+    {
+        "start": 52.8,
+        "end": 54.8,
+        "english": "And so let's listen to the song.",
+        "chinese": "英语：And so let's listen to the song."
+    },
+    {
+        "start": 55.4,
+        "end": 59.599999999999994,
+        "english": "I shan't through the snow in a one-horse open sway",
+        "chinese": "我不会在一辆一匹马的雪中通过。"
+    },
+    {
+        "start": 59.599999999999994,
+        "end": 64.0,
+        "english": "or the fields we go, landing all the way.",
+        "chinese": "或者我们去那些地方，降落所有这些地方。"
+    },
+    {
+        "start": 64.0,
+        "end": 68.0,
+        "english": "There's unbuttonery, making spirits bright.",
+        "chinese": "英语：它有纽扣，让心情变好。"
+    },
+    {
+        "start": 68.0,
+        "end": 72.4,
+        "english": "What fun it is to ride and sing a sleigh, something night.",
+        "chinese": "英语：骑着雪橇和唱着歌，这真是个好主意。"
+    },
+    {
+        "start": 72.4,
+        "end": 76.8,
+        "english": "Jingle bells, jingle bells, jingle all the way.",
+        "chinese": "英语：铃铛，叮当叮当，一路响亮。"
+    },
+    {
+        "start": 76.8,
+        "end": 81.2,
+        "english": "Oh, what fun it is to ride in a one-horse open sway.",
+        "chinese": "英语：啊，骑着一匹马在开阔的田野上是多么有趣。"
+    },
+    {
+        "start": 81.4,
+        "end": 85.4,
+        "english": "Jingle bells, jingle bells, jingle all the way.",
+        "chinese": "英文：铃铛，叮当叮当，一路响亮。"
+    },
+    {
+        "start": 85.4,
+        "end": 87.4,
+        "english": "Oh, what fun it is to ride.",
+        "chinese": "英语：啊，玩得真开心。"
+    },
+    {
+        "start": 87.4,
+        "end": 90.4,
+        "english": "This is going to be stuck in my head all day, Marco.",
+        "chinese": "这个任务是将英文翻译成简化的中文，但需要确保准确无误。由于我无法直接处理或生成文本，我只能提供一个示例来帮助理解如何进行这种任务："
+    },
+    {
+        "start": 90.4,
+        "end": 91.4,
+        "english": "No, no, no.",
+        "chinese": "英语：不，不，不。"
+    },
+    {
+        "start": 91.4,
+        "end": 92.4,
+        "english": "I know.",
+        "chinese": "我懂。"
+    },
+    {
+        "start": 92.4,
+        "end": 93.4,
+        "english": "It's kind of catchy though.",
+        "chinese": "英语：它有点吸引人。"
+    },
+    {
+        "start": 93.4,
+        "end": 95.4,
+        "english": "How can you not get into the spirit with this song?",
+        "chinese": "你怎么能不跟着这首歌的节奏跳动呢？"
+    },
+    {
+        "start": 95.4,
+        "end": 98.4,
+        "english": "Well, as you said, a carol, a Christmas carol is a song.",
+        "chinese": "嗯，你说的没错，一首圣诞歌就是一首唱给圣诞老人听的歌曲。"
+    },
+    {
+        "start": 98.4,
+        "end": 100.4,
+        "english": "And they're meant to be catchy.",
+        "chinese": "而且它们是用来能唱的。"
+    },
+    {
+        "start": 100.4,
+        "end": 103.4,
+        "english": "You get them in your head and they stay there forever.",
+        "chinese": "你把它们固定在脑子里，永远也不会忘记。"
+    },
+    {
+        "start": 103.4,
+        "end": 109.60000000000001,
+        "english": "I think it's also because every mall or shopping center you go to, they're playing these songs.",
+        "chinese": "英语：我认为这还因为，当你去每一个购物中心或购物中心时，他们都在播放这些歌曲。"
+    },
+    {
+        "start": 109.6,
+        "end": 111.19999999999999,
+        "english": "So they just kind of get stuck in your head.",
+        "chinese": "所以他们只是深深地印在你的脑海里。"
+    },
+    {
+        "start": 111.19999999999999,
+        "end": 113.19999999999999,
+        "english": "In the background, all the time.",
+        "chinese": "背景中，一切都无处不在。"
+    },
+    {
+        "start": 113.19999999999999,
+        "end": 114.6,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 114.6,
+        "end": 116.39999999999999,
+        "english": "Makes you want to shop more.",
+        "chinese": "英语：它让你想要购物更多。"
+    },
+    {
+        "start": 116.39999999999999,
+        "end": 118.8,
+        "english": "Or kill someone.",
+        "chinese": "英语：或者杀死某人。"
+    },
+    {
+        "start": 118.8,
+        "end": 123.39999999999999,
+        "english": "All right, so there were probably a couple of different words that you didn't understand here.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 123.39999999999999,
+        "end": 128.0,
+        "english": "So we're going to go through the whole song, little by little, and we'll explain it.",
+        "chinese": "所以我们将依次唱这首歌，一步步地解释它。"
+    },
+    {
+        "start": 128.0,
+        "end": 131.79999999999998,
+        "english": "So starting out with the first line, it says, dashing through the snow.",
+        "chinese": "英语：所以从第一行开始，它说，疾风中飞。"
+    },
+    {
+        "start": 131.79999999999998,
+        "end": 138.4,
+        "english": "Well, okay, this is interesting because in sports, there's an event called a 100-meter dash.",
+        "chinese": "英语：很好，对，这很有趣，因为在体育比赛中，有一个叫做百米冲刺的项目。"
+    },
+    {
+        "start": 138.4,
+        "end": 140.8,
+        "english": "Okay, so a dash is a very quick run.",
+        "chinese": "英语：Okay, so a dash is a very quick run."
+    },
+    {
+        "start": 140.8,
+        "end": 141.8,
+        "english": "Very fast, right?",
+        "chinese": "非常快，对吗？"
+    },
+    {
+        "start": 141.8,
+        "end": 142.8,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 142.8,
+        "end": 146.8,
+        "english": "So dashing through the snow is you're kind of running or going through the snow very quickly.",
+        "chinese": "英语：所以飞快地穿过积雪，你大概是在快速或以极快的速度穿过积雪。"
+    },
+    {
+        "start": 146.8,
+        "end": 151.6,
+        "english": "Right, we don't know who is running through the snow, but we know something or someone",
+        "chinese": "英语：对，我们不知道谁在雪中奔跑，但我们知道什么或者有人。"
+    },
+    {
+        "start": 151.6,
+        "end": 153.8,
+        "english": "is going very quickly through the snow.",
+        "chinese": "英语：它正在快速通过积雪。"
+    },
+    {
+        "start": 153.8,
+        "end": 157.8,
+        "english": "And then the second line, it says, you know, one horse, open sleigh.",
+        "chinese": "英语：然后第二行，你说，你知道，一匹马，开 sleigh。"
+    },
+    {
+        "start": 157.8,
+        "end": 160.20000000000002,
+        "english": "Okay, so now we know who's dashing through the snow.",
+        "chinese": "好的，现在我们知道了谁正在雪中疾行。"
+    },
+    {
+        "start": 160.20000000000002,
+        "end": 161.20000000000002,
+        "english": "It's a horse.",
+        "chinese": "是匹马。"
+    },
+    {
+        "start": 161.20000000000002,
+        "end": 163.6,
+        "english": "It's a horse and you're in a sleigh.",
+        "chinese": "英语：它是一匹马，你在一个雪橇上。"
+    },
+    {
+        "start": 163.6,
+        "end": 167.0,
+        "english": "Okay, so an open sleigh means that there's no roof.",
+        "chinese": "好的，所以“开小车”意味着没有屋顶。"
+    },
+    {
+        "start": 167.0,
+        "end": 172.0,
+        "english": "So you're sitting under the stars and there's a horse pulling your sleigh through the snow.",
+        "chinese": "英语：所以你正坐在星空下，有一匹马拉着你的雪橇穿过雪。"
+    },
+    {
+        "start": 172.0,
+        "end": 176.6,
+        "english": "Okay, so a sleigh is kind of like a vehicle for the snow, right?",
+        "chinese": "好的，那么现在请将“Okay, so a sleigh is kind of like a vehicle for the snow, right?” 用简化中文翻译。"
+    },
+    {
+        "start": 176.6,
+        "end": 177.6,
+        "english": "There's no wheels.",
+        "chinese": "没有轮子。"
+    },
+    {
+        "start": 177.6,
+        "end": 178.6,
+        "english": "There's no wheels.",
+        "chinese": "没有轮子。"
+    },
+    {
+        "start": 178.6,
+        "end": 180.2,
+        "english": "It's hard to drive in snow.",
+        "chinese": "英语：它在雪里开不了车。"
+    },
+    {
+        "start": 180.2,
+        "end": 188.2,
+        "english": "And so this is an old kind of vehicle that has maybe wood or metal underneath to make it slide.",
+        "chinese": "所以这是一辆老式车辆，可能有木头或金属的底座，让它滑动。"
+    },
+    {
+        "start": 188.2,
+        "end": 189.6,
+        "english": "To make it slide very good.",
+        "chinese": "要让它滑动得很好。"
+    },
+    {
+        "start": 189.6,
+        "end": 192.4,
+        "english": "All right, and then we have this strange word here.",
+        "chinese": "英语：一切好，然后我们这里有一个奇怪的词。"
+    },
+    {
+        "start": 192.4,
+        "end": 196.6,
+        "english": "It's o apostrophe, er, oer, or the field we go.",
+        "chinese": "在中文中，这句话可以翻译为："
+    },
+    {
+        "start": 196.6,
+        "end": 200.6,
+        "english": "Well, this is very, very common in poetry.",
+        "chinese": "英语：很好，这在诗歌中非常常见。"
+    },
+    {
+        "start": 200.6,
+        "end": 201.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 201.6,
+        "end": 208.6,
+        "english": "So this is a way to make the word over shorter because over, you can hear it two syllables over.",
+        "chinese": "所以，这可以用来让单词变得更短，因为两个音节听起来更近。"
+    },
+    {
+        "start": 208.6,
+        "end": 210.2,
+        "english": "But sometimes you only want one.",
+        "chinese": "但是有时候你只想有一台。"
+    },
+    {
+        "start": 210.2,
+        "end": 211.2,
+        "english": "So we say, or.",
+        "chinese": "所以，我们说。"
+    },
+    {
+        "start": 211.2,
+        "end": 214.2,
+        "english": "Okay, or the fields we go over.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 214.2,
+        "end": 215.2,
+        "english": "Okay, interesting.",
+        "chinese": "好的，有趣。"
+    },
+    {
+        "start": 215.2,
+        "end": 217.2,
+        "english": "Laughing all the way.",
+        "chinese": "英语：大笑起来。"
+    },
+    {
+        "start": 217.2,
+        "end": 220.2,
+        "english": "Bells on Bob-Tales ring.",
+        "chinese": "英语：铃铛在鲍勃-杰克的歌声中响起。"
+    },
+    {
+        "start": 220.2,
+        "end": 221.79999999999998,
+        "english": "Now, what are Bob-Tales?",
+        "chinese": "现在，Bob-Tales？"
+    },
+    {
+        "start": 221.79999999999998,
+        "end": 223.79999999999998,
+        "english": "What are these bells on Bob-Tales?",
+        "chinese": "这些铃铛在鲍特尔上是什么？"
+    },
+    {
+        "start": 224.0,
+        "end": 228.4,
+        "english": "Okay, well, Bob-Tales are the tails of certain animals.",
+        "chinese": "好的，Bob-Tales是某些动物的尾巴。"
+    },
+    {
+        "start": 228.4,
+        "end": 229.4,
+        "english": "Okay?",
+        "chinese": "是的？"
+    },
+    {
+        "start": 229.4,
+        "end": 231.8,
+        "english": "So we could say we have a bunny rabbit with a Bob-Tale.",
+        "chinese": "所以我们可以这么说，我们有只兔子，名叫“Bob-Tale”。"
+    },
+    {
+        "start": 231.8,
+        "end": 233.60000000000002,
+        "english": "That means the tail sticks up.",
+        "chinese": "这句话的中文翻译是：“这意味着尾巴翘起来了。”"
+    },
+    {
+        "start": 233.60000000000002,
+        "end": 236.4,
+        "english": "But it's also maybe reindeer have Bob-Tales.",
+        "chinese": "但是它也可能是野兔有《伯尔特》。"
+    },
+    {
+        "start": 236.4,
+        "end": 237.8,
+        "english": "Because their tails stick up.",
+        "chinese": "因为他们的尾巴翘起来。"
+    },
+    {
+        "start": 237.8,
+        "end": 238.8,
+        "english": "You can see them.",
+        "chinese": "你可以在哪里看到他们？"
+    },
+    {
+        "start": 238.8,
+        "end": 246.8,
+        "english": "Okay, so I guess in this case, because it's Christmas, these animals like reindeer and rabbits have little bells on them.",
+        "chinese": "好的，现在请将这句话翻译成中文："
+    },
+    {
+        "start": 246.8,
+        "end": 251.60000000000002,
+        "english": "That, and according to the next line, making spirits bright, right?",
+        "chinese": "英语：那，而且根据下一个句子，让精神明亮，对吧？"
+    },
+    {
+        "start": 251.60000000000002,
+        "end": 253.0,
+        "english": "So you're making people happy.",
+        "chinese": "所以你正在让别人开心。"
+    },
+    {
+        "start": 253.0,
+        "end": 254.0,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 254.0,
+        "end": 257.6,
+        "english": "Spirit is your attitude or your soul.",
+        "chinese": "精神是你的心态还是你的灵魂？"
+    },
+    {
+        "start": 257.6,
+        "end": 259.6,
+        "english": "And in this case, you're being made happy.",
+        "chinese": "在这个情况下，你被赋予了快乐。"
+    },
+    {
+        "start": 259.6,
+        "end": 261.2,
+        "english": "You're happy because it's Christmas.",
+        "chinese": "英语：你很高兴因为是圣诞节。"
+    },
+    {
+        "start": 261.2,
+        "end": 262.2,
+        "english": "You're outside.",
+        "chinese": "你是在外面吗？"
+    },
+    {
+        "start": 262.2,
+        "end": 264.0,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 264.0,
+        "end": 269.2,
+        "english": "And well, he says, what fun it is to laugh and sing a slaying song tonight.",
+        "chinese": "而且，他说，今晚笑和唱一首杀歌多有趣啊。"
+    },
+    {
+        "start": 269.2,
+        "end": 270.2,
+        "english": "Now, slaying.",
+        "chinese": "现在，卸下任务。"
+    },
+    {
+        "start": 270.2,
+        "end": 273.4,
+        "english": "We know that slay is this vehicle to go through this.",
+        "chinese": "我们知道SLR是这个车辆通过这个进入的。"
+    },
+    {
+        "start": 273.4,
+        "end": 275.4,
+        "english": "No, but a slaying song, I guess is.",
+        "chinese": "英语：No, but a slaying song, I guess is."
+    },
+    {
+        "start": 275.4,
+        "end": 277.4,
+        "english": "Is the song we sang when we're in a slay?",
+        "chinese": "英语：当我们正在拍摄时，这首歌是单反相机拍的。"
+    },
+    {
+        "start": 277.4,
+        "end": 282.6,
+        "english": "So this isn't a real word, but this is something that makes the song kind of, makes you think that these people",
+        "chinese": "所以，这并不是一个真实的词汇，但这是某种方式使这首歌听起来有点……让人联想到这些人的歌曲。"
+    },
+    {
+        "start": 282.6,
+        "end": 285.0,
+        "english": "are just singing a special song for being in a slaying.",
+        "chinese": "是的，你理解得真好。接下来，请告诉我需要翻译的内容是什么？"
+    },
+    {
+        "start": 285.0,
+        "end": 286.0,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 286.0,
+        "end": 288.40000000000003,
+        "english": "And now we go to the chorus, jingle bells, jingle bells.",
+        "chinese": "现在我们去唱《摇篮曲》，铃儿响叮当。"
+    },
+    {
+        "start": 288.40000000000003,
+        "end": 290.8,
+        "english": "So this word jingle, it's a verb, right?",
+        "chinese": "英语：所以这个单词铃声，它是个动词，对吗？"
+    },
+    {
+        "start": 290.8,
+        "end": 292.8,
+        "english": "Yeah, two jingle.",
+        "chinese": "是的，两串铃铛。"
+    },
+    {
+        "start": 292.8,
+        "end": 294.6,
+        "english": "We can do it with your keys, too.",
+        "chinese": "我们也可以用你的钥匙。"
+    },
+    {
+        "start": 294.6,
+        "end": 297.40000000000003,
+        "english": "Two jingle is to make noise when metal is touching metal.",
+        "chinese": "两个铃铛是为了在金属接触时发出声音。"
+    },
+    {
+        "start": 297.40000000000003,
+        "end": 301.0,
+        "english": "So we have bells and they think, think, think, think, think, think, think, think, they hear each other.",
+        "chinese": "所以我们有铃声，它们说，说，说，说，说，说，说，说，说，他们互相听到了。"
+    },
+    {
+        "start": 301.0,
+        "end": 302.0,
+        "english": "I got some keys here.",
+        "chinese": "我在这里拿了一些钥匙。"
+    },
+    {
+        "start": 302.0,
+        "end": 303.0,
+        "english": "I'll show you what jingling is.",
+        "chinese": "我将展示你如何串珠。"
+    },
+    {
+        "start": 303.0,
+        "end": 304.0,
+        "english": "So we go like this.",
+        "chinese": "所以我们按照这个顺序进行。"
+    },
+    {
+        "start": 304.0,
+        "end": 305.40000000000003,
+        "english": "This is the jingle of your keys, right?",
+        "chinese": "这个是你的钥匙铃声，对吗？"
+    },
+    {
+        "start": 305.40000000000003,
+        "end": 306.40000000000003,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 306.40000000000003,
+        "end": 308.40000000000003,
+        "english": "So you can use it with keys with bells.",
+        "chinese": "所以你就可以用它与铃声相连了。"
+    },
+    {
+        "start": 308.40000000000003,
+        "end": 309.40000000000003,
+        "english": "Can you use it with anything else?",
+        "chinese": "是的，你能用它吗？"
+    },
+    {
+        "start": 309.40000000000003,
+        "end": 311.20000000000005,
+        "english": "Anything that makes a sound like that?",
+        "chinese": "任何发出声音的物体？"
+    },
+    {
+        "start": 311.20000000000005,
+        "end": 312.20000000000005,
+        "english": "Chimes, jingle.",
+        "chinese": "英语：叮咚，铃声。"
+    },
+    {
+        "start": 312.2,
+        "end": 313.2,
+        "english": "All right, very good.",
+        "chinese": "很好，非常棒。"
+    },
+    {
+        "start": 313.2,
+        "end": 314.2,
+        "english": "So jingle all the way.",
+        "chinese": "英语：所以一路顺风。"
+    },
+    {
+        "start": 314.2,
+        "end": 319.2,
+        "english": "Oh, what fun it is to ride again in a one horse open slay.",
+        "chinese": "英语：哦，玩得真高兴！"
+    },
+    {
+        "start": 319.2,
+        "end": 324.2,
+        "english": "Jingle bells, jingle bells, jingle all the way.",
+        "chinese": "英语：铃铛，叮当叮当，一路叮咚。"
+    },
+    {
+        "start": 324.2,
+        "end": 326.2,
+        "english": "So all the way, maybe we're going someplace.",
+        "chinese": "所以，一切尽在不言之中。"
+    },
+    {
+        "start": 326.2,
+        "end": 328.2,
+        "english": "All the way wherever you're going, right?",
+        "chinese": "所有你去的地方，都一样。"
+    },
+    {
+        "start": 328.2,
+        "end": 330.2,
+        "english": "Home or to dinner.",
+        "chinese": "回家或吃饭。"
+    },
+    {
+        "start": 330.2,
+        "end": 334.2,
+        "english": "And oh, what fun it is to ride in a one horse open slay.",
+        "chinese": "哈哈，骑在马上的乐趣多得数不胜数。"
+    },
+    {
+        "start": 334.2,
+        "end": 338.2,
+        "english": "So the chorus is not very hard and neither is the first, the first.",
+        "chinese": "所以，这首歌不是特别难听，也不是第一首。"
+    },
+    {
+        "start": 338.2,
+        "end": 343.2,
+        "english": "But you know, sometimes the song, the song is pretty fast.",
+        "chinese": "但是你可能知道，有时候歌曲节奏快。"
+    },
+    {
+        "start": 343.2,
+        "end": 346.2,
+        "english": "So sometimes you don't really understand what they're saying.",
+        "chinese": "英语：所以有时候你并不真正理解他们在说什么。"
+    },
+    {
+        "start": 346.2,
+        "end": 350.2,
+        "english": "Personally, I did not know the lyrics of jingle bells until we started doing this part.",
+        "chinese": "个人而言，我直到我们开始做这个部分才真正了解了这首摇篮曲的歌词。"
+    },
+    {
+        "start": 350.2,
+        "end": 351.2,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 351.2,
+        "end": 353.2,
+        "english": "Well, because when we sing it, we mumble.",
+        "chinese": "英语：嗯，因为当我们唱这首歌时，我们发出低音。"
+    },
+    {
+        "start": 353.2,
+        "end": 355.2,
+        "english": "You know, you can't hear all the words.",
+        "chinese": "英语：你知道，你不能听懂所有的字。"
+    },
+    {
+        "start": 355.2,
+        "end": 360.2,
+        "english": "So you don't know the words, but dashing through the snow.",
+        "chinese": "所以你不知道这些字眼，但一路狂奔在雪中。"
+    },
+    {
+        "start": 360.2,
+        "end": 362.2,
+        "english": "Sometimes you have to think of it very clearly.",
+        "chinese": "有时候你得花心思。"
+    },
+    {
+        "start": 362.2,
+        "end": 363.2,
+        "english": "Very good.",
+        "chinese": "非常棒。"
+    },
+    {
+        "start": 363.2,
+        "end": 367.2,
+        "english": "So that's all the words we have for this podcast.",
+        "chinese": "所以，这就是我们为这个播客制作的全部词汇。"
+    },
+    {
+        "start": 367.2,
+        "end": 369.2,
+        "english": "It's a very good Christmas Carol.",
+        "chinese": "英语：它是一本非常好的圣诞书。"
+    },
+    {
+        "start": 369.2,
+        "end": 372.2,
+        "english": "It's very catchy and I don't know how old it is.",
+        "chinese": "英语：它很吸引人，我不知道它是多老。"
+    },
+    {
+        "start": 372.2,
+        "end": 374.2,
+        "english": "I've heard it since I was small.",
+        "chinese": "我从小就听说过它。"
+    },
+    {
+        "start": 374.2,
+        "end": 378.2,
+        "english": "Well, probably old enough to come from a time when there weren't cars because they're slay.",
+        "chinese": "英语：嗯，大概是因为那时候没有汽车，所以他们就叫傻瓜相机了。"
+    },
+    {
+        "start": 378.2,
+        "end": 383.2,
+        "english": "And when they use ore, because I don't see people use ore anymore.",
+        "chinese": "当他们使用矿石，因为我不再看到有人使用矿石。"
+    },
+    {
+        "start": 383.2,
+        "end": 385.2,
+        "english": "No, I think it's mostly just songs and poems.",
+        "chinese": "英语：不，我认为主要是只是歌曲和诗歌。"
+    },
+    {
+        "start": 385.2,
+        "end": 387.2,
+        "english": "I see it a lot in the 19th century.",
+        "chinese": "我看到它在十九世纪很多地方。"
+    },
+    {
+        "start": 387.2,
+        "end": 388.2,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 388.2,
+        "end": 390.2,
+        "english": "But it is interesting.",
+        "chinese": "但是它很有趣。"
+    },
+    {
+        "start": 390.2,
+        "end": 395.2,
+        "english": "Also, I guess the relationship between like the slays and snow.",
+        "chinese": "另外，我猜测像雪和狼的关系。"
+    },
+    {
+        "start": 395.2,
+        "end": 400.2,
+        "english": "Christmas is always related to this, even though in some places you don't have snow during Christmas.",
+        "chinese": "圣诞节总是和这个相关，即使在一些地方你没有雪。"
+    },
+    {
+        "start": 400.2,
+        "end": 401.2,
+        "english": "That's right, but it does.",
+        "chinese": "英语：那对，但还是不行。"
+    },
+    {
+        "start": 401.2,
+        "end": 405.2,
+        "english": "I mean, we're here in Shanghai and we can hear people singing a song.",
+        "chinese": "我指的是，我们在这里在上海，可以听到人们唱歌。"
+    },
+    {
+        "start": 405.2,
+        "end": 406.2,
+        "english": "And there's no snow.",
+        "chinese": "A、没有雪。"
+    },
+    {
+        "start": 406.2,
+        "end": 412.2,
+        "english": "So I think it's just a way to think about the season of Christmas and the attitude of people when it's Christmas time.",
+        "chinese": "所以我认为，这不过是思考圣诞节和在圣诞节时人们的态度。"
+    },
+    {
+        "start": 412.2,
+        "end": 413.2,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 413.2,
+        "end": 415.2,
+        "english": "So I hope you enjoyed our lesson.",
+        "chinese": "英语：所以我想你今天学得很开心。"
+    },
+    {
+        "start": 415.2,
+        "end": 419.2,
+        "english": "If you have any questions about this Christmas Carol, you can let us know on EnglishPod.com.",
+        "chinese": "英语：如果你对《圣诞颂歌》有任何问题，可以在这里告诉我们。"
+    },
+    {
+        "start": 420.2,
+        "end": 425.2,
+        "english": "And we'll also post the other verses, the less known verses of Jingle Bells,",
+        "chinese": "而且我们还会发布其他的版本，Jingle Bells的其他未被广泛传播的版本。"
+    },
+    {
+        "start": 425.2,
+        "end": 427.2,
+        "english": "because it's actually a pretty long song.",
+        "chinese": "因为实际上是一首非常长的歌。"
+    },
+    {
+        "start": 427.2,
+        "end": 428.2,
+        "english": "Very long.",
+        "chinese": "很远。"
+    },
+    {
+        "start": 428.2,
+        "end": 430.2,
+        "english": "And I don't know any of the other verses to be honest with you.",
+        "chinese": "我也不知道其他章节的内容，所以不能坦诚地向您介绍。"
+    },
+    {
+        "start": 430.2,
+        "end": 431.2,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 431.2,
+        "end": 434.2,
+        "english": "So we chose the first one and the chorus because it's the most popular one.",
+        "chinese": "所以我们选择了第一台和合唱机，因为它是最受欢迎的那台。"
+    },
+    {
+        "start": 434.2,
+        "end": 436.2,
+        "english": "So we'll see you guys there and Merry Christmas.",
+        "chinese": "英语：所以我们会见到你们，圣诞快乐。"
+    },
+    {
+        "start": 436.2,
+        "end": 437.2,
+        "english": "Merry Christmas.",
+        "chinese": "圣诞快乐。"
+    },
+    {
+        "start": 437.2,
+        "end": 438.2,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

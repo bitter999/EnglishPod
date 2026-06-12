@@ -1,0 +1,896 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.2,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.2,
+        "end": 8.0,
+        "english": "My name is Catherine and today we're talking a little bit about small talk.",
+        "chinese": "我的名字是凯特，今天我们聊点小话题。"
+    },
+    {
+        "start": 8.0,
+        "end": 13.4,
+        "english": "That's right we are getting towards the end of our series. Actually this is the last podcast",
+        "chinese": "英语：那真是对头，我们即将进入尾声。实际上，这是我们的最后一个播客。"
+    },
+    {
+        "start": 13.4,
+        "end": 18.0,
+        "english": "that we will have all about small talk and we're just going to be following Mr. Campbell",
+        "chinese": "这个点和拍是傻瓜相机，单反相机叫SLR/DSLR。镜头叫机身，长焦叫长焦，偏振镜叫偏振镜，套机镜头叫套机镜头，流利构建单元叫Fluency Builder。全球视野叫Global View。"
+    },
+    {
+        "start": 18.0,
+        "end": 22.8,
+        "english": "and Michelle and Melissa and they're just going to talk very briefly about the weather,",
+        "chinese": "和梅丽莎、梅琳达以及他们刚刚将天气情况简要地讨论一下。"
+    },
+    {
+        "start": 22.8,
+        "end": 26.0,
+        "english": "about traveling, very casual things.",
+        "chinese": "关于旅行，非常随意的事情。"
+    },
+    {
+        "start": 26.0,
+        "end": 29.16,
+        "english": "That's right so let's take a listen to this dialogue and we'll be back in a moment to",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 29.16,
+        "end": 31.16,
+        "english": "discuss what's going on.",
+        "chinese": "英语：讨论什么？"
+    },
+    {
+        "start": 40.16,
+        "end": 44.16,
+        "english": "Hi ladies, thanks for picking me up. It's awful weather out there.",
+        "chinese": "你好姐妹，谢谢让你坐车。外面真糟糕啊。"
+    },
+    {
+        "start": 44.16,
+        "end": 47.16,
+        "english": "Absolutely. It's been raining for hours.",
+        "chinese": "绝对。它一直在下着雨。"
+    },
+    {
+        "start": 47.16,
+        "end": 49.16,
+        "english": "How are you Melissa? Are you okay?",
+        "chinese": "你好，梅丽莎？你没事吧？"
+    },
+    {
+        "start": 49.16,
+        "end": 51.16,
+        "english": "I'm great thanks Mr. Campbell.",
+        "chinese": "英语：我非常感谢卡彭博先生。"
+    },
+    {
+        "start": 51.16,
+        "end": 54.16,
+        "english": "Do you have any business trips plans in Mr. Campbell?",
+        "chinese": "英语：你有在麦克菲尔先生的出差计划吗？"
+    },
+    {
+        "start": 54.16,
+        "end": 58.16,
+        "english": "Of course I'm always traveling. I'll leave for London next Monday and then I'll fly to Boston",
+        "chinese": "当然，我总是去旅行。我将在下周一离开伦敦，然后飞往波士顿。"
+    },
+    {
+        "start": 59.16,
+        "end": 64.16,
+        "english": "from there. It's going to be a busy month. How about you Michelle? Do you have any vacation",
+        "chinese": "从那里。预计接下来会是个忙碌的月子。你有空吗，梅菜？"
+    },
+    {
+        "start": 64.16,
+        "end": 69.16,
+        "english": "plans? Yes, Mike and I will travel to Beijing to see my experience for the Spring Festival",
+        "chinese": "计划？是的，迈克和我将前往北京参观我的春节体验。"
+    },
+    {
+        "start": 69.16,
+        "end": 73.16,
+        "english": "and hopefully next year we will visit London. I hear it's a wonderful city.",
+        "chinese": "英语：和希望明年我们能去伦敦。我听说它是個美好的城市。"
+    },
+    {
+        "start": 73.16,
+        "end": 79.16,
+        "english": "I couldn't agree more. London is really fantastic. It's my favorite city. I'm sure you'll have a great time.",
+        "chinese": "我完全同意。伦敦真是非常棒的地方。它是我最喜欢的城池。我相信你会度过一个愉快的时光。"
+    },
+    {
+        "start": 82.16,
+        "end": 86.16,
+        "english": "Alright we're back so now let's take a look at Language Takeaway.",
+        "chinese": "好的，我们已经回来，现在让我们来看看语言小贴士。"
+    },
+    {
+        "start": 88.16,
+        "end": 90.16,
+        "english": "Language Takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 90.16,
+        "end": 95.16,
+        "english": "Alright we don't have that much today in Language Takeaway. We do have a couple of really important words and phrases.",
+        "chinese": "今天我们没有那么多的语言小贴士。我们确实有一些非常重要的词汇和短语。"
+    },
+    {
+        "start": 95.16,
+        "end": 101.16,
+        "english": "The first one comes from the very first line. Mr. Campbell says hi ladies. Thanks for picking me up.",
+        "chinese": "英语：第一条来自第一行。卡彭森女士，谢谢您接我上车。"
+    },
+    {
+        "start": 101.16,
+        "end": 108.16,
+        "english": "That's right now this phrasal verb to pick someone up means to get them right to...",
+        "chinese": "这个点和拍是傻瓜相机。"
+    },
+    {
+        "start": 108.16,
+        "end": 114.16,
+        "english": "Yeah to gather them to collect them. You can do this with a car like I will pick you up at the airport",
+        "chinese": "是的，我们可以一起收集他们。你可以这样和我一起开车去机场。"
+    },
+    {
+        "start": 114.16,
+        "end": 120.16,
+        "english": "but you can also do it in person by just walking to a place and meeting somebody and then taking them somewhere else.",
+        "chinese": "但是你也可以通过直接见面的方式，然后将他们带到另一个地方。"
+    },
+    {
+        "start": 120.16,
+        "end": 123.16,
+        "english": "That's the important part. You take them somewhere else.",
+        "chinese": "这个重要的部分是。你把它放在哪里？"
+    },
+    {
+        "start": 123.16,
+        "end": 128.16,
+        "english": "So maybe if you go pick your kids up from school you just walk there you get them and you walk back home.",
+        "chinese": "所以，如果你决定让你的孩子放学后直接回家，你只需要步行去接他们，然后步行回去。"
+    },
+    {
+        "start": 128.16,
+        "end": 135.16,
+        "english": "That's right and so the key here is that you remember that the verb goes first I will pick and then you have the person.",
+        "chinese": "这是正确的，那么接下来是这个关键点：记住动词先说，然后你有一个人。"
+    },
+    {
+        "start": 135.16,
+        "end": 140.16,
+        "english": "I will pick you up. I will pick them up. He will pick us up.",
+        "chinese": "我将接你上车。我会帮你接他们。他会接我们。"
+    },
+    {
+        "start": 140.16,
+        "end": 144.16,
+        "english": "That's right so the subject goes between pick and up.",
+        "chinese": "这句话的中文翻译是：“那对啊，这个话题要放在前面。”"
+    },
+    {
+        "start": 144.16,
+        "end": 149.16,
+        "english": "That's right. Alright so we're going to pick someone up and then Mr. Campbell comments on the weather.",
+        "chinese": "英语：那对，我们得先接上一个人，然后陈先生评论天气。"
+    },
+    {
+        "start": 149.16,
+        "end": 152.16,
+        "english": "He says it's awful weather out there.",
+        "chinese": "他说外面真糟糕。"
+    },
+    {
+        "start": 152.16,
+        "end": 160.16,
+        "english": "It's awful. Alright so awful you listen to the tone you automatically think that this is probably a bad thing and you're right it is a bad thing.",
+        "chinese": "太糟糕了。好吧，所以你听着，自动就知道这是个坏事情，你没错，这确实是件坏事。"
+    },
+    {
+        "start": 160.16,
+        "end": 163.16,
+        "english": "But what's another way to say awful?",
+        "chinese": "但是还有其他方式来表达糟糕的。"
+    },
+    {
+        "start": 163.16,
+        "end": 166.16,
+        "english": "It's terrible it's bad it's horrible.",
+        "chinese": "英语：它太糟糕了，简直无法忍受。"
+    },
+    {
+        "start": 166.16,
+        "end": 173.16,
+        "english": "So awful is a way to say something's really bad and we use it very often with the weather. This weather is awful.",
+        "chinese": "所以，说得很糟糕的方式是用这种方式来形容事情真的很糟糕，并且我们经常使用这种天气。"
+    },
+    {
+        "start": 173.16,
+        "end": 176.16,
+        "english": "But we can also use it about other things like food for example.",
+        "chinese": "但是我们也可以用它来制作食物，例如。"
+    },
+    {
+        "start": 176.16,
+        "end": 182.16,
+        "english": "So if you have something to eat and it doesn't taste good you can say this is awful what is this?",
+        "chinese": "所以如果你有东西要吃，而且它不怎么好吃，你可以这么说：“这是一只糟糕的家伙。”"
+    },
+    {
+        "start": 182.16,
+        "end": 185.16,
+        "english": "Or what's that awful smell?",
+        "chinese": "英语：或者那糟糕的气味。"
+    },
+    {
+        "start": 185.16,
+        "end": 189.16,
+        "english": "Oh Marco took his shoes off.",
+        "chinese": "英语：哦，马科。他脱下了鞋子。"
+    },
+    {
+        "start": 189.16,
+        "end": 198.16,
+        "english": "Alright and well Mr. Campbell went on to tell them that he's taking another trip soon but a specific kind of trip.",
+        "chinese": "好的，先生，卡彭特先生继续告诉他们他很快又要去旅行了，但是一次特定的旅行。"
+    },
+    {
+        "start": 198.16,
+        "end": 203.16,
+        "english": "Alright so you know that there are many different kinds of trips but the one that he's taking is a business trip.",
+        "chinese": "好的，你知道有很多不同的旅行方式，但这次他正在执行的是商务旅行。"
+    },
+    {
+        "start": 203.16,
+        "end": 207.16,
+        "english": "So normally we could just say I'm going on a trip next year.",
+        "chinese": "所以通常我们可以说我明年要出差。"
+    },
+    {
+        "start": 207.16,
+        "end": 212.16,
+        "english": "But here we specify we say it's a business trip so what are we doing on this trip Marco?",
+        "chinese": "但是，这里我们指定说这是出差，所以我们正在做什么Marco？"
+    },
+    {
+        "start": 212.16,
+        "end": 214.16,
+        "english": "That's right so we're basically working.",
+        "chinese": "是的，我们基本上都在工作。"
+    },
+    {
+        "start": 214.16,
+        "end": 220.16,
+        "english": "We're going because our company needs us to go to a meeting or to do some work abroad.",
+        "chinese": "我们去是因为我们的公司需要我们出差或者做一些国外的工作。"
+    },
+    {
+        "start": 220.16,
+        "end": 224.16,
+        "english": "Alright so you know on a business trip that you'll be doing work things you'll be having meetings.",
+        "chinese": "好的，您知道在出差期间，您将要处理的工作事项和需要召开的会议。"
+    },
+    {
+        "start": 224.16,
+        "end": 230.16,
+        "english": "You will not be going to Disney World. You will not be meeting with friends and going to movies probably.",
+        "chinese": "你不会去迪士尼世界。你可能要和朋友去看电影。"
+    },
+    {
+        "start": 230.16,
+        "end": 233.16,
+        "english": "Right exactly so it's very different from a vacation.",
+        "chinese": "正确翻译：非常准确地，它与度假完全不同。"
+    },
+    {
+        "start": 233.16,
+        "end": 237.16,
+        "english": "Of a vacation you go with the objective of going to these fun places.",
+        "chinese": "英语：你去度假的目的地是这些有趣的地点。"
+    },
+    {
+        "start": 237.16,
+        "end": 240.16,
+        "english": "So can I say I'm going on a business vacation?",
+        "chinese": "所以，我可以这么说，我正在度假。"
+    },
+    {
+        "start": 240.16,
+        "end": 243.16,
+        "english": "No you either going on vacation or you're taking a business trip.",
+        "chinese": "英语：你要么度假，要么出差。"
+    },
+    {
+        "start": 243.16,
+        "end": 245.16,
+        "english": "Alright business trip.",
+        "chinese": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 245.16,
+        "end": 248.16,
+        "english": "So now let's take a break and let's review our dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 258.15999999999997,
+        "end": 262.15999999999997,
+        "english": "Hi ladies thanks for picking me up. It's awful weather out there.",
+        "chinese": "你好，女士们感谢你们选我来接您。天气真糟糕。"
+    },
+    {
+        "start": 262.15999999999997,
+        "end": 265.15999999999997,
+        "english": "Absolutely it's been raining for hours.",
+        "chinese": "绝对，它已经下了好几场雨。"
+    },
+    {
+        "start": 265.15999999999997,
+        "end": 267.15999999999997,
+        "english": "How are you Melissa? Are you okay?",
+        "chinese": "你好，梅丽莎？你没事吧？"
+    },
+    {
+        "start": 267.15999999999997,
+        "end": 269.15999999999997,
+        "english": "I'm great thanks Mr. Campbell.",
+        "chinese": "我非常感谢先生。"
+    },
+    {
+        "start": 269.15999999999997,
+        "end": 272.15999999999997,
+        "english": "Do you have any business trips plans in Mr. Campbell?",
+        "chinese": "英语：你有在麦克菲尔先生那里出差的业务计划吗？"
+    },
+    {
+        "start": 272.16,
+        "end": 277.16,
+        "english": "Of course I'm always traveling. I'll leave for London next Monday and then I'll fly to Boston from there.",
+        "chinese": "当然，我总是去旅行。我将在下周一离开伦敦，然后飞往波士顿。"
+    },
+    {
+        "start": 277.16,
+        "end": 280.16,
+        "english": "It's going to be a busy month. How about you Michelle?",
+        "chinese": "英语：它会是一个忙碌的月。你呢，梅丽莎？"
+    },
+    {
+        "start": 280.16,
+        "end": 282.16,
+        "english": "Do you have any vacation plans?",
+        "chinese": "英语：你有假期计划吗？"
+    },
+    {
+        "start": 282.16,
+        "end": 289.16,
+        "english": "Yes, Mike and I will travel to Beijing to see my experience for the spring festival and hopefully next year we will visit London.",
+        "chinese": "是的，迈克和我将前往北京参观我的春节体验，并希望明年我们能去伦敦。"
+    },
+    {
+        "start": 289.16,
+        "end": 291.16,
+        "english": "I hear it's a wonderful city.",
+        "chinese": "我听说这是一个美丽的城市。"
+    },
+    {
+        "start": 291.16,
+        "end": 297.16,
+        "english": "I couldn't agree more. London is really fantastic. It's my favorite city. I'm sure you'll have a great time.",
+        "chinese": "我完全同意。伦敦真是非常棒。它是我最喜欢的城池。我相信你会度过一个愉快的时光。"
+    },
+    {
+        "start": 298.16,
+        "end": 304.16,
+        "english": "Alright so now let's take a look at four key phrases on fluency builder.",
+        "chinese": "好的，现在让我们看看四个关键短语在流畅构建器中的作用。"
+    },
+    {
+        "start": 304.16,
+        "end": 307.16,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 307.16,
+        "end": 312.16,
+        "english": "Alright now we have a great phrase for everybody here in fluency builder.",
+        "chinese": "好的，我已经准确地翻译了您提供的内容。如果您有任何其他需要帮助的，请随时告诉我！"
+    },
+    {
+        "start": 312.16,
+        "end": 317.16,
+        "english": "Melissa is talking to Mr. Campbell and he asks her how she is. Are you okay?",
+        "chinese": "英语：梅丽莎正在和迈克尔交谈，她问她是否一切安好。"
+    },
+    {
+        "start": 317.16,
+        "end": 319.16,
+        "english": "She says I'm great thanks.",
+        "chinese": "她说我很棒，谢谢。"
+    },
+    {
+        "start": 319.16,
+        "end": 323.16,
+        "english": "Now Marco why would we use this phrase instead of I'm fine thank you.",
+        "chinese": "现在莫卡，我们为什么不使用这个短语而不是我没事了，请问呢？"
+    },
+    {
+        "start": 323.16,
+        "end": 330.16,
+        "english": "Well it's basically the same thing. It's just another way of answering this common question. How are you?",
+        "chinese": "英语：它基本上就是这个了。只是另一种回答这个问题的方式而已。你怎么样？"
+    },
+    {
+        "start": 330.16,
+        "end": 337.16,
+        "english": "You can say I'm fine thank you. I'm well but this is just another way of saying I'm okay.",
+        "chinese": "英语：你可以这么说，我很好，但这是另一种方式，表示我很好。"
+    },
+    {
+        "start": 337.16,
+        "end": 346.16,
+        "english": "Alright but I think it's important to remember that this is also very casual like the rest of the conversation and pretty enthusiastic. She's great.",
+        "chinese": "好的，但我认为这也很随意，和整个对话一样热情洋溢。她很好。"
+    },
+    {
+        "start": 346.16,
+        "end": 351.16,
+        "english": "So it's important to remember that I'm fine thanks is standard. It's very normal but I'm great.",
+        "chinese": "所以，我非常感谢标准。这是正常的，但我很好。"
+    },
+    {
+        "start": 351.16,
+        "end": 354.16,
+        "english": "It's a nice way to change it and do something different.",
+        "chinese": "英语：它是一种改变方式，做点不同。"
+    },
+    {
+        "start": 354.16,
+        "end": 362.16,
+        "english": "That's right okay and now we wanted to ask if we have any plans but we wanted to know if we have any vacation plans.",
+        "chinese": "是的，你想要询问我们是否有任何假期计划。"
+    },
+    {
+        "start": 362.16,
+        "end": 367.16,
+        "english": "And the interesting thing about this question was that Mr. Campbell said any vacation plans.",
+        "chinese": "这个问题的有趣之处在于，麦克劳德先生说任何假期计划。"
+    },
+    {
+        "start": 367.16,
+        "end": 369.16,
+        "english": "So that's how he's that's the whole sentence.",
+        "chinese": "所以这就是他怎么了。"
+    },
+    {
+        "start": 369.16,
+        "end": 373.16,
+        "english": "Well first he says how about you Michelle any vacation plans.",
+        "chinese": "英语：他首先说，你Michelle有度假计划吗？"
+    },
+    {
+        "start": 373.16,
+        "end": 377.16,
+        "english": "So what we think here is that maybe it's wrong. Do you have any vacation plans?",
+        "chinese": "英语：所以，我们在这里认为可能有点问题。你有假期计划吗？"
+    },
+    {
+        "start": 377.16,
+        "end": 380.16,
+        "english": "Is something that we we'd want to hear right?",
+        "chinese": "是我们在想听什么？"
+    },
+    {
+        "start": 380.16,
+        "end": 384.16,
+        "english": "Right. But here we don't actually need to say do you have any vacation plans?",
+        "chinese": "是的，您有空吗？不过这里我们并不需要说您是否有任何假期计划。"
+    },
+    {
+        "start": 384.16,
+        "end": 388.16,
+        "english": "Because it's pretty clear who we're talking to. We're talking to Michelle right?",
+        "chinese": "因为很清楚我们是谁。我们正在和米歇尔交谈。"
+    },
+    {
+        "start": 388.16,
+        "end": 392.16,
+        "english": "Right and we're talking about traveling and we're talking about plans.",
+        "chinese": "英语：正确，但请纠正错误。正确的句子应该是：“Right and we're talking about traveling and we're talking about plans.”"
+    },
+    {
+        "start": 392.16,
+        "end": 398.16,
+        "english": "So it's overstated that we don't really need to say do you have any vacation plans.",
+        "chinese": "所以，我们不能这么认为，因为我们确实需要说有度假计划。"
+    },
+    {
+        "start": 398.16,
+        "end": 400.16,
+        "english": "We're already talking about the subject.",
+        "chinese": "我们已经谈到了这个主题。"
+    },
+    {
+        "start": 400.16,
+        "end": 402.16,
+        "english": "Now this is a great way to transition.",
+        "chinese": "现在这是很好的过渡方式。"
+    },
+    {
+        "start": 402.16,
+        "end": 407.16,
+        "english": "One person is talking about himself or herself and then you want to talk about the other person.",
+        "chinese": "英语：他/她正在谈论自己或自己，然后你想讨论另一个人。"
+    },
+    {
+        "start": 407.16,
+        "end": 409.16,
+        "english": "So you say what about you?",
+        "chinese": "英语：所以你说说你。"
+    },
+    {
+        "start": 409.16,
+        "end": 410.16,
+        "english": "Mm hmm.",
+        "chinese": "英语：mm hmm."
+    },
+    {
+        "start": 410.16,
+        "end": 414.16,
+        "english": "Any vacation plans or any dinner plans or any ideas?",
+        "chinese": "任何度假计划或晚餐计划或想法？"
+    },
+    {
+        "start": 414.16,
+        "end": 421.16,
+        "english": "Exactly. So it's a great way to say transition from one idea or from one person to another.",
+        "chinese": "正确翻译：正好。所以这是一个很好的方式从一个想法或一个人过渡到另一个想法或人。"
+    },
+    {
+        "start": 421.16,
+        "end": 425.16,
+        "english": "Now to the next phrase a very common one.",
+        "chinese": "英语：现在到下一个话题一个常见的。"
+    },
+    {
+        "start": 425.16,
+        "end": 431.16,
+        "english": "Specifically when you are not really sure about something but somebody told you specifically in this case,",
+        "chinese": "英语：当你不确定某事，但有人告诉你这种情况时。"
+    },
+    {
+        "start": 431.16,
+        "end": 435.16,
+        "english": "Michelle says I hear it's a wonderful city when talking about London.",
+        "chinese": "英语：米歇尔说，当我谈论伦敦时，我觉得这是一个非常美好的城市。"
+    },
+    {
+        "start": 435.16,
+        "end": 438.16,
+        "english": "So what does she mean by I hear it's a wonderful city?",
+        "chinese": "英语：所以她为什么说这是一座美丽的城市？"
+    },
+    {
+        "start": 438.16,
+        "end": 448.16,
+        "english": "Well basically Michelle is saying she's never been to London but she's read or she's heard from friends or from a TV show that",
+        "chinese": "英语：她基本说她没去过伦敦，但她读过或者听说了朋友或电视节目里的话。"
+    },
+    {
+        "start": 448.16,
+        "end": 449.16,
+        "english": "London to wonderful city.",
+        "chinese": "伦敦到美好的城市。"
+    },
+    {
+        "start": 449.16,
+        "end": 453.16,
+        "english": "So she can't say it is a wonderful city because she's never been there.",
+        "chinese": "所以她不能说这座城市很好，因为她从未去过。"
+    },
+    {
+        "start": 453.16,
+        "end": 459.16,
+        "english": "But she can say listen, you know I have heard this from other people or from magazines.",
+        "chinese": "但是她可以说听，你知道我从别人或杂志那里听过这句话。"
+    },
+    {
+        "start": 459.16,
+        "end": 462.16,
+        "english": "So it's not even clear where she heard it but that's not really important.",
+        "chinese": "所以她没听清楚，但那并不重要。"
+    },
+    {
+        "start": 462.16,
+        "end": 471.16,
+        "english": "So basically the idea is that we don't know personally but we have friends that told us or we have read in a magazine or a TV show.",
+        "chinese": "所以基本上，我们并不知道自己是谁，但我们有朋友告诉我们或者在杂志或电视节目中看过。"
+    },
+    {
+        "start": 471.16,
+        "end": 473.16,
+        "english": "We've seen it that it's great.",
+        "chinese": "我们已经看到它了，真是太好了。"
+    },
+    {
+        "start": 473.16,
+        "end": 475.16,
+        "english": "So you can use it with many things like a restaurant.",
+        "chinese": "所以你可以用它来处理像餐厅这样的东西。"
+    },
+    {
+        "start": 476.16,
+        "end": 482.16,
+        "english": "That's right I hear the food is delicious or I could say hey Marco I'm going to Hong Kong Disneyland next year.",
+        "chinese": "That's right, I hear that the food is delicious, or I could say \"嘿，马科，我明年打算去香港迪士尼乐园。\""
+    },
+    {
+        "start": 482.16,
+        "end": 485.16,
+        "english": "Right and I can say oh I hear that it's a very fun place.",
+        "chinese": "英语：正确，直接翻译即可。"
+    },
+    {
+        "start": 485.16,
+        "end": 487.16,
+        "english": "So Marco you've never been there right?",
+        "chinese": "英语：所以马科，你从来没有去过那里。"
+    },
+    {
+        "start": 487.16,
+        "end": 488.16,
+        "english": "No I've never been there.",
+        "chinese": "我从没去过那里。"
+    },
+    {
+        "start": 488.16,
+        "end": 498.16,
+        "english": "Alright and to finish off Mr. Campbell agrees completely about London being such a wonderful city and he says I couldn't agree more.",
+        "chinese": "好的，我已准备好。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 498.16,
+        "end": 500.16,
+        "english": "I couldn't agree more.",
+        "chinese": "我完全同意。"
+    },
+    {
+        "start": 500.16,
+        "end": 503.16,
+        "english": "So he agrees we understand that.",
+        "chinese": "所以他同意我们理解这一点。"
+    },
+    {
+        "start": 503.16,
+        "end": 508.16,
+        "english": "But I couldn't agree more is like saying I really really agree.",
+        "chinese": "但是我觉得你比我更同意。"
+    },
+    {
+        "start": 508.16,
+        "end": 511.16,
+        "english": "Right like you are completely right.",
+        "chinese": "正确答案：正确答案：你完全对。"
+    },
+    {
+        "start": 511.16,
+        "end": 514.1600000000001,
+        "english": "Yeah so this is a way to exaggerate.",
+        "chinese": "嗯，这是夸张的一种方式。"
+    },
+    {
+        "start": 514.1600000000001,
+        "end": 519.1600000000001,
+        "english": "You know you want to say I agree it's a little boring so you say I couldn't agree more.",
+        "chinese": "英语：你明白你想要说，我同意它有点无聊，所以你说我不太一样。"
+    },
+    {
+        "start": 519.1600000000001,
+        "end": 521.1600000000001,
+        "english": "I'm agreeing the most I can.",
+        "chinese": "我同意最多我能做。"
+    },
+    {
+        "start": 521.1600000000001,
+        "end": 527.1600000000001,
+        "english": "That's right and then we can also use the opposite which would be if you disagree with someone.",
+        "chinese": "正确翻译：那就是的，然后我们也可以用相反的方式，就是如果你不同意某人。"
+    },
+    {
+        "start": 527.16,
+        "end": 531.16,
+        "english": "I couldn't disagree more so you just changed that one word.",
+        "chinese": "我完全同意你刚才说的。"
+    },
+    {
+        "start": 531.16,
+        "end": 533.16,
+        "english": "I couldn't disagree more.",
+        "chinese": "我完全同意你的观点。"
+    },
+    {
+        "start": 533.16,
+        "end": 539.16,
+        "english": "So maybe I don't like London maybe it's too rainy or too dark for me so I say I couldn't disagree more.",
+        "chinese": "英语：所以，也许我并不喜欢伦敦，因为太潮湿或太阴暗了。所以我可以说我对它没有意见。"
+    },
+    {
+        "start": 539.16,
+        "end": 540.16,
+        "english": "I think London is terrible.",
+        "chinese": "我感觉伦敦糟糕。"
+    },
+    {
+        "start": 540.16,
+        "end": 545.16,
+        "english": "Maybe not the right thing to say in a small talk situation but we can talk about that in a minute.",
+        "chinese": "英语：也许不是在小交谈场合说的合适话，但我们可以在稍后谈谈。"
+    },
+    {
+        "start": 545.16,
+        "end": 548.16,
+        "english": "Exactly alright so let's review everything one last time.",
+        "chinese": "好的，我将根据提供的标准进行翻译："
+    },
+    {
+        "start": 558.16,
+        "end": 562.16,
+        "english": "Hi ladies thanks for picking me up it's awful weather out there.",
+        "chinese": "你好，女士们，谢谢你们选我来接您。天气真糟糕啊。"
+    },
+    {
+        "start": 562.16,
+        "end": 566.16,
+        "english": "Absolutely it's been raining for hours.",
+        "chinese": "绝对，它已经下了好几场雨。"
+    },
+    {
+        "start": 566.16,
+        "end": 568.16,
+        "english": "How are you Melissa are you okay?",
+        "chinese": "英语：你怎么样，我好还是你呢？"
+    },
+    {
+        "start": 568.16,
+        "end": 570.16,
+        "english": "I'm great thanks Mr. Campbell.",
+        "chinese": "我非常感谢先生。"
+    },
+    {
+        "start": 570.16,
+        "end": 573.16,
+        "english": "Do you have any business trips plans in Mr. Campbell?",
+        "chinese": "英语：你有在麦克菲尔先生的出差计划吗？"
+    },
+    {
+        "start": 573.16,
+        "end": 578.16,
+        "english": "Of course I'm always traveling I'll leave for London next Monday and then I'll fly to Boston from there.",
+        "chinese": "当然，我总是去旅行。我将从伦敦出发，然后飞往波士顿。"
+    },
+    {
+        "start": 578.16,
+        "end": 581.16,
+        "english": "It's going to be a busy month. How about you Michelle?",
+        "chinese": "英语：它会是一个忙碌的月。你呢，梅丽莎？"
+    },
+    {
+        "start": 581.16,
+        "end": 583.16,
+        "english": "Do you have any vacation plans?",
+        "chinese": "英语：你有假期计划吗？"
+    },
+    {
+        "start": 583.16,
+        "end": 590.16,
+        "english": "Yes Mike and I will travel to Beijing to see my experience for the spring festival and hopefully next year we will visit London.",
+        "chinese": "是的，迈克和我将前往北京参观我的春节体验，并希望明年我们能去伦敦。"
+    },
+    {
+        "start": 590.16,
+        "end": 592.16,
+        "english": "I hear it's a wonderful city.",
+        "chinese": "我听到这是一个非常美丽的城市。"
+    },
+    {
+        "start": 592.16,
+        "end": 597.16,
+        "english": "I couldn't agree more. London is really fantastic it's my favorite city. I'm sure you'll have a great time.",
+        "chinese": "我完全同意。伦敦真是个好地方，我相信你一定会玩得愉快的。"
+    },
+    {
+        "start": 600.16,
+        "end": 605.16,
+        "english": "Alright so this is our last podcast all about small talk and well I hope it's been useful.",
+        "chinese": "好的，我将根据提供的术语和规则进行翻译："
+    },
+    {
+        "start": 605.16,
+        "end": 612.16,
+        "english": "We've gotten some great feedback about the different topics and small conversations you can have with a stranger, a coworker, a friend.",
+        "chinese": "我们已经得到了一些关于不同话题和小对话，你可以在陌生人、同事或朋友面前进行的反馈。"
+    },
+    {
+        "start": 612.16,
+        "end": 615.16,
+        "english": "To kind of not have that awkward silence.",
+        "chinese": "到那种不那么尴尬的沉默。"
+    },
+    {
+        "start": 615.16,
+        "end": 619.16,
+        "english": "That's right we've gone over a lot of different situations.",
+        "chinese": "英语：那真是对的，我们已经经历了很多不同的情况。"
+    },
+    {
+        "start": 619.16,
+        "end": 623.16,
+        "english": "We've had situations with strangers, situations with work friends.",
+        "chinese": "我们有与陌生人和工作朋友打交道的经历。"
+    },
+    {
+        "start": 623.16,
+        "end": 628.16,
+        "english": "But I think what's really important is that in all these situations we're very polite.",
+        "chinese": "但是我认为最重要的是，在这些情境中，我们非常礼貌。"
+    },
+    {
+        "start": 628.16,
+        "end": 630.16,
+        "english": "We say nice things.",
+        "chinese": "我们说好话。"
+    },
+    {
+        "start": 630.16,
+        "end": 635.16,
+        "english": "There are these transitions like I hear or I couldn't agree more.",
+        "chinese": "英语：这些过渡像我听到的或者我不同意的那样。"
+    },
+    {
+        "start": 635.16,
+        "end": 639.16,
+        "english": "These are wonderful ways of really being nice to the person you're talking to.",
+        "chinese": "这些是真正地让你说话的方式。"
+    },
+    {
+        "start": 639.16,
+        "end": 642.16,
+        "english": "That's right and we're going to come out with a new series soon.",
+        "chinese": "正确的是，我们很快就会推出一个新的系列。"
+    },
+    {
+        "start": 642.16,
+        "end": 647.16,
+        "english": "So we would really like your feedback, any topics or any specific subject you want us to talk.",
+        "chinese": "英语：所以我们非常希望你的反馈，任何话题或你想要讨论的具体主题。"
+    },
+    {
+        "start": 647.16,
+        "end": 652.16,
+        "english": "You can let us know at EnglishPod.com and also your questions and comments can be left there.",
+        "chinese": "英语：你可以通过在这里的英文播客网站告诉我们，也可以在那儿留言和提出问题了。"
+    },
+    {
+        "start": 652.16,
+        "end": 656.16,
+        "english": "That's right so please get in touch with us. EnglishPod.com. We'll see you guys there.",
+        "chinese": "英语：那对了，让我们尽快联系你。请见谅，我们将在那里见到你们。"
+    },
+    {
+        "start": 656.16,
+        "end": 657.16,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

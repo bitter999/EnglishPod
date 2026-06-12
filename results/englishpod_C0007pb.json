@@ -1,0 +1,1280 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.4,
+        "english": "Hello English learners and welcome to the English pod. My name is Marco.",
+        "chinese": "你好，英语学习者和欢迎来到英语频道。我的名字是马克。"
+    },
+    {
+        "start": 6.4,
+        "end": 8.96,
+        "english": "And I'm Erica. Hey Erica, who are you today?",
+        "chinese": "我是艾瑞克。你好，艾瑞克今天？"
+    },
+    {
+        "start": 8.96,
+        "end": 13.52,
+        "english": "Marco, I am doing really well and I'm really looking forward to today's lesson.",
+        "chinese": "英语：Marco，我今天的学习非常棒，我真的很期待今天的课程。"
+    },
+    {
+        "start": 13.52,
+        "end": 17.88,
+        "english": "Well, so am I because here at English pod we're giving you real English.",
+        "chinese": "英语：嗯，我也是，因为在这里，我们正在给你们提供真正的英文。"
+    },
+    {
+        "start": 17.88,
+        "end": 23.12,
+        "english": "Every day English. Exactly English that you hear in movies or in TV shows.",
+        "chinese": "每天英语。你听到的电影或电视节目的全部英语。"
+    },
+    {
+        "start": 23.12,
+        "end": 25.400000000000002,
+        "english": "This is English people actually use.",
+        "chinese": "这个是英语人实际使用。"
+    },
+    {
+        "start": 25.400000000000002,
+        "end": 27.7,
+        "english": "So Erica, what is our topic for today?",
+        "chinese": "英语：所以埃里卡，我们今天的话题是什么？"
+    },
+    {
+        "start": 27.7,
+        "end": 31.18,
+        "english": "Well today we're talking about computer viruses.",
+        "chinese": "今天我们要讨论的是计算机病毒。"
+    },
+    {
+        "start": 31.18,
+        "end": 36.34,
+        "english": "Perfect. So I think it's time for us to take a look at our preview.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 36.34,
+        "end": 38.58,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 38.58,
+        "end": 43.94,
+        "english": "Okay, today we've got two words to preview. The first word is virus.",
+        "chinese": "好的，今天我们有两句话要预览。第一个单词是病毒。"
+    },
+    {
+        "start": 43.94,
+        "end": 44.92,
+        "english": "Virus.",
+        "chinese": "病毒。"
+    },
+    {
+        "start": 44.92,
+        "end": 45.9,
+        "english": "Virus.",
+        "chinese": "病毒。"
+    },
+    {
+        "start": 45.9,
+        "end": 46.9,
+        "english": "Virus.",
+        "chinese": "病毒。"
+    },
+    {
+        "start": 46.9,
+        "end": 53.14,
+        "english": "So if your computer has a computer virus, it means your computer is sick, right?",
+        "chinese": "英语：所以如果你的电脑感染了病毒，这意味着你的电脑生病了。"
+    },
+    {
+        "start": 53.14,
+        "end": 59.06,
+        "english": "Actually, a computer virus is a program that is designed to harm or to damage your computer.",
+        "chinese": "实际上，一个计算机病毒是设计用来破坏或损害你的电脑的程序。"
+    },
+    {
+        "start": 59.06,
+        "end": 60.78,
+        "english": "Oh, I see. Okay.",
+        "chinese": "英语：哦，我看到了。 okay."
+    },
+    {
+        "start": 60.78,
+        "end": 63.260000000000005,
+        "english": "Well, thank you for being so technical.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 63.260000000000005,
+        "end": 65.42,
+        "english": "That's the technical explanation.",
+        "chinese": "这是技术解释。"
+    },
+    {
+        "start": 65.42,
+        "end": 69.7,
+        "english": "Okay, let's take a look at our second word for our preview today.",
+        "chinese": "好的，让我们今天来谈谈我们的预览词。"
+    },
+    {
+        "start": 69.7,
+        "end": 71.42,
+        "english": "And that would be froze.",
+        "chinese": "这句话的中文翻译是：“那会冻结。”"
+    },
+    {
+        "start": 71.42,
+        "end": 72.62,
+        "english": "Froze.",
+        "chinese": "冻结。"
+    },
+    {
+        "start": 72.62,
+        "end": 73.62,
+        "english": "Froze.",
+        "chinese": "英语：冻结。"
+    },
+    {
+        "start": 73.62,
+        "end": 74.7,
+        "english": "Froze.",
+        "chinese": "英语：冻结。"
+    },
+    {
+        "start": 74.7,
+        "end": 80.34,
+        "english": "So if your computer froze, it means that your computer stopped working.",
+        "chinese": "所以如果你的电脑冻了，这意味着你的电脑坏了。"
+    },
+    {
+        "start": 80.34,
+        "end": 84.34,
+        "english": "Your applications or your program stopped working and you just can't do anything.",
+        "chinese": "你的应用程序或程序停止工作，你什么也做不了。"
+    },
+    {
+        "start": 84.34,
+        "end": 85.7,
+        "english": "Your computer is broken.",
+        "chinese": "你的电脑坏了。"
+    },
+    {
+        "start": 85.7,
+        "end": 88.22,
+        "english": "Okay, great. So let's listen to our dialogue.",
+        "chinese": "好的，那么我们来听我们的对话吧。"
+    },
+    {
+        "start": 88.22,
+        "end": 93.54,
+        "english": "It's going to be a little bit fast, but don't worry if you don't understand everything.",
+        "chinese": "英语：它会有点儿快，但别担心你不懂什么。"
+    },
+    {
+        "start": 93.54,
+        "end": 97.86,
+        "english": "At the end of this podcast, you'll understand everything.",
+        "chinese": "在这个播客的最后，你将明白一切。"
+    },
+    {
+        "start": 97.86,
+        "end": 99.18,
+        "english": "Perfect. Let's listen.",
+        "chinese": "完美。让我们听。"
+    },
+    {
+        "start": 99.18,
+        "end": 110.06,
+        "english": "Oh, great. The stupid computer froze again.",
+        "chinese": "英语：哦，好！这台笨机器又冻住了。"
+    },
+    {
+        "start": 110.06,
+        "end": 112.06,
+        "english": "That's the third time today.",
+        "chinese": "今天第三次了。"
+    },
+    {
+        "start": 112.06,
+        "end": 120.86000000000001,
+        "english": "Hey, Samuel, can you come take a look at my PC?",
+        "chinese": "你好，Samuel，请你来看看我的电脑吧。"
+    },
+    {
+        "start": 120.86000000000001,
+        "end": 121.86000000000001,
+        "english": "It's acting up again.",
+        "chinese": "英语：它又开始乱了。"
+    },
+    {
+        "start": 121.86000000000001,
+        "end": 124.10000000000001,
+        "english": "Let's have a virus or something.",
+        "chinese": "让我们来个病毒吧。"
+    },
+    {
+        "start": 124.10000000000001,
+        "end": 125.10000000000001,
+        "english": "Just give me a second.",
+        "chinese": "请稍等，我会准确地将您提供的英文翻译成简化的中文。"
+    },
+    {
+        "start": 125.10000000000001,
+        "end": 126.10000000000001,
+        "english": "I'll be right up.",
+        "chinese": "我将立即上阵。"
+    },
+    {
+        "start": 126.1,
+        "end": 141.06,
+        "english": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+        "chinese": "我用病毒扫描仪对你的电脑进行了病毒扫描，并且发现你有大量的感染文件。"
+    },
+    {
+        "start": 141.06,
+        "end": 143.7,
+        "english": "But I'm quite careful when I'm browsing the internet.",
+        "chinese": "但是当我浏览互联网时，我总是很小心的。"
+    },
+    {
+        "start": 143.7,
+        "end": 146.57999999999998,
+        "english": "I have no idea how I could have picked up a virus.",
+        "chinese": "我一点都不知道怎么才能捡到这个病毒。"
+    },
+    {
+        "start": 146.57999999999998,
+        "end": 151.38,
+        "english": "Well, you have to make sure there are anti-virus software is updated regularly.",
+        "chinese": "英语：嗯，你得确保反病毒软件经常更新。"
+    },
+    {
+        "start": 151.38,
+        "end": 152.54,
+        "english": "Yours wasn't up to date.",
+        "chinese": "你的设备还没有更新。"
+    },
+    {
+        "start": 152.54,
+        "end": 154.57999999999998,
+        "english": "That's probably what was causing your problems.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 154.66000000000003,
+        "end": 156.82000000000002,
+        "english": "Okay. Anything else?",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 156.82000000000002,
+        "end": 159.78,
+        "english": "Yeah, try not to kick or hit the computer.",
+        "chinese": "嗯，别这样子。"
+    },
+    {
+        "start": 159.78,
+        "end": 161.78,
+        "english": "Um, yeah, sorry about that.",
+        "chinese": "英语：啊，对了。"
+    },
+    {
+        "start": 169.3,
+        "end": 171.14000000000001,
+        "english": "Well, I completely understand this guy.",
+        "chinese": "英语：很好，我完全理解这个家伙。"
+    },
+    {
+        "start": 171.14000000000001,
+        "end": 175.54000000000002,
+        "english": "When my computer freezes, I kick it and punch it and do everything to it.",
+        "chinese": "当我的电脑冻了，我把它踢开并用各种方法来解决它。"
+    },
+    {
+        "start": 175.54000000000002,
+        "end": 177.86,
+        "english": "Well, I hope you don't punch it too hard, Marco.",
+        "chinese": "英语：嗯，我希望你不要打得太重，马科。"
+    },
+    {
+        "start": 177.86,
+        "end": 180.10000000000002,
+        "english": "Well, it's still working, so it's all right.",
+        "chinese": "英语：它还在工作，所以一切正常。"
+    },
+    {
+        "start": 180.10000000000002,
+        "end": 181.10000000000002,
+        "english": "Okay.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 181.1,
+        "end": 186.06,
+        "english": "Let's take a look at our language takeaway.",
+        "chinese": "让我们看看我们的语言总结。"
+    },
+    {
+        "start": 186.06,
+        "end": 188.62,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 188.62,
+        "end": 192.42,
+        "english": "In today's language takeaway, we have two words.",
+        "chinese": "今天，我们有两个词。"
+    },
+    {
+        "start": 192.42,
+        "end": 197.57999999999998,
+        "english": "The first word for today is infected file.",
+        "chinese": "今天的第一句话是感染文件。"
+    },
+    {
+        "start": 197.57999999999998,
+        "end": 199.18,
+        "english": "Infected file.",
+        "chinese": "感染文件。"
+    },
+    {
+        "start": 199.18,
+        "end": 200.98,
+        "english": "Infected file.",
+        "chinese": "感染文件。"
+    },
+    {
+        "start": 200.98,
+        "end": 201.98,
+        "english": "Infected file.",
+        "chinese": "感染文件。"
+    },
+    {
+        "start": 201.98,
+        "end": 203.74,
+        "english": "And what is an infected file?",
+        "chinese": "和感染文件有什么区别？"
+    },
+    {
+        "start": 203.74,
+        "end": 208.85999999999999,
+        "english": "An infected file is a file in your computer that has a virus in it.",
+        "chinese": "一个感染了病毒的文件，是您计算机中的一个文件。"
+    },
+    {
+        "start": 208.86,
+        "end": 211.34,
+        "english": "Ah, perfect. That's really clear.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 211.34,
+        "end": 215.10000000000002,
+        "english": "What is our second word for the language takeaway today?",
+        "chinese": "今天的语言总结是什么？"
+    },
+    {
+        "start": 215.10000000000002,
+        "end": 218.54000000000002,
+        "english": "Our second word is not up to date.",
+        "chinese": "我们的第二个词不准确。"
+    },
+    {
+        "start": 218.54000000000002,
+        "end": 219.74,
+        "english": "Not up to date.",
+        "chinese": "不适应。"
+    },
+    {
+        "start": 219.74,
+        "end": 220.94000000000003,
+        "english": "Not up to date.",
+        "chinese": "不更新。"
+    },
+    {
+        "start": 220.94000000000003,
+        "end": 223.98000000000002,
+        "english": "And what is it when something is not up to date?",
+        "chinese": "当某物不最新时，是什么？"
+    },
+    {
+        "start": 223.98000000000002,
+        "end": 228.78000000000003,
+        "english": "It means it doesn't have all the most recent information.",
+        "chinese": "英语：它意味着它没有所有的最新信息。"
+    },
+    {
+        "start": 228.78000000000003,
+        "end": 230.3,
+        "english": "Okay, perfect.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 230.3,
+        "end": 232.3,
+        "english": "Now, let's listen to some examples.",
+        "chinese": "现在，让我们听听一些例子。"
+    },
+    {
+        "start": 233.9,
+        "end": 234.86,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 239.02,
+        "end": 241.9,
+        "english": "I need to buy a new computer because mine isn't up to date.",
+        "chinese": "我需要买一台新的电脑，因为我的电脑没更新。"
+    },
+    {
+        "start": 247.02,
+        "end": 247.82000000000002,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 251.9,
+        "end": 253.34,
+        "english": "I can't find the street.",
+        "chinese": "我找不到街道。"
+    },
+    {
+        "start": 253.34,
+        "end": 255.02,
+        "english": "Are you sure this map is up to date?",
+        "chinese": "是的，你确定这个地图更新了吗？"
+    },
+    {
+        "start": 259.26,
+        "end": 260.22,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 260.70000000000005,
+        "end": 261.74,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 265.66,
+        "end": 269.34000000000003,
+        "english": "Sarah has just finished the reports and all the information is up to date.",
+        "chinese": "萨拉刚刚完成了报告，所有信息都更新了。"
+    },
+    {
+        "start": 272.78000000000003,
+        "end": 274.62,
+        "english": "Okay, that was pretty clear.",
+        "chinese": "好的，那我就按照这个标准来翻译。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 274.62,
+        "end": 278.06,
+        "english": "You know, you can also use this phrase positively.",
+        "chinese": "英语：你知道，你也可以用这个短语积极地使用。"
+    },
+    {
+        "start": 278.06,
+        "end": 280.46000000000004,
+        "english": "You can say up to date.",
+        "chinese": "你可以说最新。"
+    },
+    {
+        "start": 280.46000000000004,
+        "end": 283.34000000000003,
+        "english": "Okay, for example, we can say this is a new map.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 283.34000000000003,
+        "end": 285.74,
+        "english": "This is the most up to date map.",
+        "chinese": "这个是最新的地图。"
+    },
+    {
+        "start": 285.74,
+        "end": 286.3,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 286.3,
+        "end": 288.78000000000003,
+        "english": "Or if I bought a new computer, I could say",
+        "chinese": "英语：或者如果我买了一台新的电脑，我可以这么说。"
+    },
+    {
+        "start": 288.78,
+        "end": 290.61999999999995,
+        "english": "I just got a new computer.",
+        "chinese": "我刚刚买了一台新的电脑。"
+    },
+    {
+        "start": 290.61999999999995,
+        "end": 293.41999999999996,
+        "english": "All my software is up to date.",
+        "chinese": "所有我的软件都更新到了最新版本。"
+    },
+    {
+        "start": 293.41999999999996,
+        "end": 294.38,
+        "english": "Okay, great.",
+        "chinese": "好的，继续。"
+    },
+    {
+        "start": 294.38,
+        "end": 296.85999999999996,
+        "english": "So now let's take a look at some phrases.",
+        "chinese": "所以现在让我们看看一些短语。"
+    },
+    {
+        "start": 296.85999999999996,
+        "end": 299.5,
+        "english": "And it's time for putting it all together.",
+        "chinese": "现在该将它们放在一起了。"
+    },
+    {
+        "start": 301.58,
+        "end": 302.53999999999996,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 303.9,
+        "end": 307.34,
+        "english": "Okay, so Samuel said a really great phrase.",
+        "chinese": "好的，所以萨姆尔森说了一个非常好的话。"
+    },
+    {
+        "start": 307.34,
+        "end": 309.65999999999997,
+        "english": "He said, I'll be right up.",
+        "chinese": "英语：他说，我会马上上。"
+    },
+    {
+        "start": 309.65999999999997,
+        "end": 310.85999999999996,
+        "english": "I'll be right up.",
+        "chinese": "我将卸下重任。"
+    },
+    {
+        "start": 310.85999999999996,
+        "end": 312.05999999999995,
+        "english": "I'll be right up.",
+        "chinese": "我将卸下重任。"
+    },
+    {
+        "start": 312.05999999999995,
+        "end": 313.58,
+        "english": "I'll be right up.",
+        "chinese": "我将卸下重任。"
+    },
+    {
+        "start": 313.58,
+        "end": 317.09999999999997,
+        "english": "Now, we can use this phrase in a lot of different situations.",
+        "chinese": "现在，我们可以使用这个短语在很多不同的场合。"
+    },
+    {
+        "start": 317.1,
+        "end": 319.42,
+        "english": "So let's listen to some examples.",
+        "chinese": "所以让我们听听一些例子。"
+    },
+    {
+        "start": 320.38,
+        "end": 321.26000000000005,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 323.42,
+        "end": 325.18,
+        "english": "Can you help me with my computer?",
+        "chinese": "你能帮我修理电脑吗？"
+    },
+    {
+        "start": 325.18,
+        "end": 325.98,
+        "english": "I'll be right there.",
+        "chinese": "我将在这里。"
+    },
+    {
+        "start": 330.3,
+        "end": 331.02000000000004,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 333.58000000000004,
+        "end": 334.46000000000004,
+        "english": "Come downstairs.",
+        "chinese": "来下楼。"
+    },
+    {
+        "start": 334.46000000000004,
+        "end": 335.42,
+        "english": "Dinner is ready.",
+        "chinese": "饭已经准备好了。"
+    },
+    {
+        "start": 335.42,
+        "end": 336.62,
+        "english": "I'll be right down.",
+        "chinese": "我将卸下重任。"
+    },
+    {
+        "start": 340.14000000000004,
+        "end": 341.18,
+        "english": "Example three.",
+        "chinese": "Example three: 请卸下任务。"
+    },
+    {
+        "start": 344.38,
+        "end": 344.94,
+        "english": "Hurry up.",
+        "chinese": "请等待。"
+    },
+    {
+        "start": 344.94,
+        "end": 346.46000000000004,
+        "english": "I need to use the bathroom.",
+        "chinese": "我需要去洗手间。"
+    },
+    {
+        "start": 347.18,
+        "end": 348.38,
+        "english": "I'll be right out.",
+        "chinese": "我将卸下我的职责。"
+    },
+    {
+        "start": 352.94,
+        "end": 355.42,
+        "english": "Okay, really great and clear examples, right?",
+        "chinese": "好的，真的很棒和清晰的例子吗？"
+    },
+    {
+        "start": 355.42,
+        "end": 358.14000000000004,
+        "english": "Yeah, you know that phrase, I'll be right out.",
+        "chinese": "嗯，你懂啊，我这就走。"
+    },
+    {
+        "start": 358.14000000000004,
+        "end": 361.18,
+        "english": "I used to hear this all the time when I was young.",
+        "chinese": "我小时候经常听到这句话。"
+    },
+    {
+        "start": 361.18,
+        "end": 362.06,
+        "english": "Really, how come?",
+        "chinese": "真的，为什么？"
+    },
+    {
+        "start": 362.06,
+        "end": 365.66,
+        "english": "Well, I have two sisters and we were always fighting for the bathroom.",
+        "chinese": "英语：嗯，我有两个妹妹，我们总是为卫生间争吵。"
+    },
+    {
+        "start": 365.66,
+        "end": 368.70000000000005,
+        "english": "So someone was always saying, just a minute.",
+        "chinese": "英语：所以有人总是说，稍等一下。"
+    },
+    {
+        "start": 368.70000000000005,
+        "end": 369.82000000000005,
+        "english": "I'll be right out.",
+        "chinese": "我将卸下我的职责。"
+    },
+    {
+        "start": 369.82000000000005,
+        "end": 371.42,
+        "english": "Ah, yes, that's common.",
+        "chinese": "英语：啊，对了，那也是常见的。"
+    },
+    {
+        "start": 371.42,
+        "end": 373.18,
+        "english": "I had that too when I was young.",
+        "chinese": "英语：我也有那个相机。"
+    },
+    {
+        "start": 373.18,
+        "end": 376.78000000000003,
+        "english": "Okay, now our second phrase is, it turns out that.",
+        "chinese": "好的，现在我们的第二句话是，它似乎出问题了。"
+    },
+    {
+        "start": 377.1,
+        "end": 378.62,
+        "english": "It turns out that.",
+        "chinese": "英语：它出乎意料地。"
+    },
+    {
+        "start": 378.62,
+        "end": 379.98,
+        "english": "It turns out that.",
+        "chinese": "英语：It turns out that."
+    },
+    {
+        "start": 379.98,
+        "end": 381.5,
+        "english": "It turns out that.",
+        "chinese": "英语：It turns out that."
+    },
+    {
+        "start": 381.5,
+        "end": 382.86,
+        "english": "This is a great phrase.",
+        "chinese": "这个是很好的表达。"
+    },
+    {
+        "start": 382.86,
+        "end": 384.70000000000005,
+        "english": "You can use it in many different situations.",
+        "chinese": "你可以在许多不同的情况下使用它。"
+    },
+    {
+        "start": 384.70000000000005,
+        "end": 387.5,
+        "english": "Marco, can you give us an example?",
+        "chinese": "英语：Marco，你能给我们一个例子吗？"
+    },
+    {
+        "start": 387.5,
+        "end": 388.06,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 388.06,
+        "end": 391.90000000000003,
+        "english": "For example, I can say, Frank didn't come to work today",
+        "chinese": "例如，我可以这么说，弗兰克今天没来上班。"
+    },
+    {
+        "start": 391.90000000000003,
+        "end": 393.98,
+        "english": "and it turns out that he was sick.",
+        "chinese": "英语：和他转过身来检查。"
+    },
+    {
+        "start": 394.70000000000005,
+        "end": 399.98,
+        "english": "Yep, or I could say, oh, I've been feeling really sick recently.",
+        "chinese": "是的，或者我可以说，我已经感觉很不舒服了。"
+    },
+    {
+        "start": 400.54,
+        "end": 401.26000000000005,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 401.26000000000005,
+        "end": 403.58000000000004,
+        "english": "It turns out that I'm pregnant.",
+        "chinese": "英语：它出乎意料地怀孕了。"
+    },
+    {
+        "start": 403.58000000000004,
+        "end": 405.26000000000005,
+        "english": "Oh my god, are you really pregnant?",
+        "chinese": "英语：Oh my god, are you really pregnant?"
+    },
+    {
+        "start": 405.26000000000005,
+        "end": 405.90000000000003,
+        "english": "No, I'm not.",
+        "chinese": "英语：不，我不是。"
+    },
+    {
+        "start": 405.97999999999996,
+        "end": 406.78,
+        "english": "I'm just kidding.",
+        "chinese": "我just是开玩笑。"
+    },
+    {
+        "start": 406.78,
+        "end": 409.65999999999997,
+        "english": "All right, because, okay, so it's time for us to listen",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 409.65999999999997,
+        "end": 410.94,
+        "english": "to our dialogue again.",
+        "chinese": "再次与您对话。"
+    },
+    {
+        "start": 410.94,
+        "end": 414.14,
+        "english": "But this time it'll be a little bit slower.",
+        "chinese": "但是这次会稍微慢一点。"
+    },
+    {
+        "start": 414.14,
+        "end": 414.62,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 420.14,
+        "end": 421.34,
+        "english": "Oh great.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 422.14,
+        "end": 424.85999999999996,
+        "english": "This stupid computer froze again.",
+        "chinese": "这个笨拙的电脑又冻住了。"
+    },
+    {
+        "start": 425.65999999999997,
+        "end": 427.5,
+        "english": "That's the third time today.",
+        "chinese": "今天是第三次。"
+    },
+    {
+        "start": 428.46,
+        "end": 431.82,
+        "english": "Hey, Samuel, can you come take a look at my PC?",
+        "chinese": "你好，Samuel，请你来看看我的电脑吧。"
+    },
+    {
+        "start": 432.46,
+        "end": 433.9,
+        "english": "It's acting up again.",
+        "chinese": "英语：它又开始乱了。"
+    },
+    {
+        "start": 434.62,
+        "end": 436.78,
+        "english": "It must have a virus or something.",
+        "chinese": "它必须感染病毒或什么。"
+    },
+    {
+        "start": 437.65999999999997,
+        "end": 439.17999999999995,
+        "english": "Just give me a second.",
+        "chinese": "请稍等，我将为您翻译并提供简化中文版本。"
+    },
+    {
+        "start": 439.17999999999995,
+        "end": 440.21999999999997,
+        "english": "I'll be right up.",
+        "chinese": "我将卸下重任。"
+    },
+    {
+        "start": 443.34,
+        "end": 446.21999999999997,
+        "english": "I ran a virus scan on your computer",
+        "chinese": "我对你电脑上的病毒扫描进行了扫描。"
+    },
+    {
+        "start": 446.21999999999997,
+        "end": 450.14,
+        "english": "and it turns out that you have a lot of infected files.",
+        "chinese": "英语：和它出乎意料的是，你有大量感染的文件。"
+    },
+    {
+        "start": 451.09999999999997,
+        "end": 454.85999999999996,
+        "english": "But I'm quite careful when I'm browsing the internet.",
+        "chinese": "但是当我浏览互联网时，我总是很小心的。"
+    },
+    {
+        "start": 454.85999999999996,
+        "end": 458.46,
+        "english": "I have no idea how I could have picked up a virus.",
+        "chinese": "我一点也不知道怎么才能捡到这个病毒。"
+    },
+    {
+        "start": 459.17999999999995,
+        "end": 463.41999999999996,
+        "english": "Well, you have to make sure that your anti-virus software",
+        "chinese": "英语：嗯，你得确保你的反病毒软件。"
+    },
+    {
+        "start": 463.42,
+        "end": 465.42,
+        "english": "is updated regularly.",
+        "chinese": "是更新得比较频繁。"
+    },
+    {
+        "start": 465.42,
+        "end": 467.58000000000004,
+        "english": "Yours wasn't up to date.",
+        "chinese": "你的设备还没有更新。"
+    },
+    {
+        "start": 467.58000000000004,
+        "end": 470.54,
+        "english": "That's probably what was causing your problems.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 471.26,
+        "end": 471.98,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 472.94,
+        "end": 473.66,
+        "english": "Anything else?",
+        "chinese": "Anything else? 翻译成中文是：“还有其他什么？”"
+    },
+    {
+        "start": 474.94,
+        "end": 478.46000000000004,
+        "english": "Yeah, try not to kick or hit the computer.",
+        "chinese": "是的，尽量不要碰或砸电脑。"
+    },
+    {
+        "start": 478.94,
+        "end": 481.5,
+        "english": "Oh yeah, sorry about that.",
+        "chinese": "英语：哦，抱歉。"
+    },
+    {
+        "start": 485.26,
+        "end": 488.3,
+        "english": "Okay, that was a lot more clear this time.",
+        "chinese": "好的，那这次说得更清楚了。"
+    },
+    {
+        "start": 488.3,
+        "end": 490.38,
+        "english": "Definitely, yeah, I understood a lot more.",
+        "chinese": "当然，我理解得更多了。"
+    },
+    {
+        "start": 490.38,
+        "end": 494.7,
+        "english": "Okay, so now it's time to look at Fluency Builder.",
+        "chinese": "好的，现在是时候看看Fluency Builder了。"
+    },
+    {
+        "start": 494.7,
+        "end": 498.06,
+        "english": "Erika, why don't you explain what Fluency Builder is?",
+        "chinese": "英语：Erika，你为什么不解释一下Fluency Builder？"
+    },
+    {
+        "start": 498.06,
+        "end": 503.02,
+        "english": "In Fluency Builder, we give you some great, useful phrases",
+        "chinese": "在流利构建单元，我们给你一些非常有用、有用的短语。"
+    },
+    {
+        "start": 503.02,
+        "end": 505.98,
+        "english": "to help you express your ideas clearly.",
+        "chinese": "英语：帮助你清晰地表达你的想法。"
+    },
+    {
+        "start": 505.98,
+        "end": 506.86,
+        "english": "Okay, great.",
+        "chinese": "好的，谢谢。"
+    },
+    {
+        "start": 506.86,
+        "end": 508.94,
+        "english": "So let's look at Fluency Builder.",
+        "chinese": "英语：所以让我们看看流利构建单元。"
+    },
+    {
+        "start": 509.98,
+        "end": 511.42,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 511.42,
+        "end": 515.66,
+        "english": "Okay, so in this dialogue, we know his computer wasn't working.",
+        "chinese": "好的，现在我们来翻译这个对话。"
+    },
+    {
+        "start": 515.66,
+        "end": 516.3,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 516.3,
+        "end": 519.18,
+        "english": "So many students would probably say",
+        "chinese": "所以很多学生可能会说。"
+    },
+    {
+        "start": 519.18,
+        "end": 522.3,
+        "english": "his computer was acting strangely.",
+        "chinese": "他的电脑似乎在做怪事。"
+    },
+    {
+        "start": 522.3,
+        "end": 525.42,
+        "english": "His computer isn't working properly.",
+        "chinese": "他的电脑不正常工作。"
+    },
+    {
+        "start": 525.42,
+        "end": 526.3,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 526.3,
+        "end": 527.9799999999999,
+        "english": "And that's perfect and that's fine.",
+        "chinese": "英语：And that's perfect and that's fine."
+    },
+    {
+        "start": 527.9799999999999,
+        "end": 531.26,
+        "english": "Yeah, but there's a really great way to say it",
+        "chinese": "是的，但有一种非常棒的方法来表达它。"
+    },
+    {
+        "start": 531.26,
+        "end": 532.54,
+        "english": "that we heard in the dialogue.",
+        "chinese": "那我们在对话中听到的。"
+    },
+    {
+        "start": 533.66,
+        "end": 535.0999999999999,
+        "english": "It's acting up again.",
+        "chinese": "英语：它又开始乱了。"
+    },
+    {
+        "start": 537.0999999999999,
+        "end": 538.54,
+        "english": "It's acting up again.",
+        "chinese": "英语：它又开始乱了。"
+    },
+    {
+        "start": 540.38,
+        "end": 541.9,
+        "english": "I love this phrase.",
+        "chinese": "我爱这个短语。"
+    },
+    {
+        "start": 541.9,
+        "end": 543.42,
+        "english": "It's acting up.",
+        "chinese": "英语：它正在冒犯。"
+    },
+    {
+        "start": 543.42,
+        "end": 545.26,
+        "english": "Yeah, it just sounds really natural.",
+        "chinese": "是的，听起来真的很自然。"
+    },
+    {
+        "start": 545.26,
+        "end": 546.78,
+        "english": "It sounds really natural.",
+        "chinese": "英语：It sounds really natural."
+    },
+    {
+        "start": 546.78,
+        "end": 550.4599999999999,
+        "english": "Okay, we're ready to listen to our dialogue a third time,",
+        "chinese": "好的，我们再次准备听取我们的对话第三轮。"
+    },
+    {
+        "start": 550.4599999999999,
+        "end": 554.06,
+        "english": "but this time it'll be at the normal speed.",
+        "chinese": "但这次会正常速度进行。"
+    },
+    {
+        "start": 554.06,
+        "end": 557.1,
+        "english": "Try and see if you can hear these keywords.",
+        "chinese": "试试看，看看你能不能听懂这些关键词。"
+    },
+    {
+        "start": 565.5799999999999,
+        "end": 568.22,
+        "english": "Oh great, the stupid computer for was again.",
+        "chinese": "对不起，这个愚蠢的电脑又一次被用错了。"
+    },
+    {
+        "start": 568.22,
+        "end": 569.5799999999999,
+        "english": "That's a third time today.",
+        "chinese": "今天第三次。"
+    },
+    {
+        "start": 576.78,
+        "end": 579.18,
+        "english": "Hey, Samuel, can you come take a look at my PC?",
+        "chinese": "你好，Samuel，请你来看看我的电脑。"
+    },
+    {
+        "start": 579.18,
+        "end": 580.38,
+        "english": "It's acting up again.",
+        "chinese": "又出了状况。"
+    },
+    {
+        "start": 580.38,
+        "end": 581.66,
+        "english": "Let's have a virus or something.",
+        "chinese": "让我们来个病毒吧。"
+    },
+    {
+        "start": 582.3,
+        "end": 583.18,
+        "english": "Just give me a second.",
+        "chinese": "请稍等，我会尽快翻译。"
+    },
+    {
+        "start": 583.18,
+        "end": 587.18,
+        "english": "I'll be right up.",
+        "chinese": "我将立即上阵。"
+    },
+    {
+        "start": 594.9399999999999,
+        "end": 599.3399999999999,
+        "english": "I ran a virus scan on your computer and it turns out that you have a lot of infected files,",
+        "chinese": "我用病毒扫描仪对你的电脑进行了病毒扫描，并且发现你有大量的感染文件。"
+    },
+    {
+        "start": 599.3399999999999,
+        "end": 602.06,
+        "english": "but I'm quite careful when I'm browsing the internet.",
+        "chinese": "但是当我浏览互联网时，我总是很小心。"
+    },
+    {
+        "start": 602.06,
+        "end": 604.4599999999999,
+        "english": "I have no idea how I could have picked up a virus.",
+        "chinese": "我一点也不知道怎么才能捡到这个病毒。"
+    },
+    {
+        "start": 605.4200000000001,
+        "end": 609.58,
+        "english": "Well, you have to make sure there are anti-virus software is updated regularly.",
+        "chinese": "英语：嗯，你得确保反病毒软件经常更新。"
+    },
+    {
+        "start": 609.58,
+        "end": 610.7800000000001,
+        "english": "Yours wasn't up to date.",
+        "chinese": "你的设备还没有更新。"
+    },
+    {
+        "start": 610.7800000000001,
+        "end": 613.1800000000001,
+        "english": "That's probably what was causing your problems.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 613.1800000000001,
+        "end": 614.38,
+        "english": "Okay, anything else?",
+        "chinese": "好的，有什么其他需要我帮忙翻译的吗？"
+    },
+    {
+        "start": 615.26,
+        "end": 617.9000000000001,
+        "english": "Yeah, try not to kick or hit the computer.",
+        "chinese": "是的，尽量不要碰或砸电脑。"
+    },
+    {
+        "start": 618.7,
+        "end": 619.9000000000001,
+        "english": "Yeah, sorry about that.",
+        "chinese": "嗯，对不起。"
+    },
+    {
+        "start": 627.9000000000001,
+        "end": 632.46,
+        "english": "So Marco, I really think that my computer actually has a virus now.",
+        "chinese": "英语：所以马科，我认为我的电脑现在真的感染了病毒。"
+    },
+    {
+        "start": 632.46,
+        "end": 633.4200000000001,
+        "english": "Really? How come?",
+        "chinese": "真的吗？怎么了？"
+    },
+    {
+        "start": 633.42,
+        "end": 639.26,
+        "english": "Because I have been turning on my computer and then suddenly it turns off by itself.",
+        "chinese": "因为自从我开始在电脑上运行程序，然后突然它就自动关机了。"
+    },
+    {
+        "start": 639.26,
+        "end": 640.86,
+        "english": "It shuts down by itself.",
+        "chinese": "英语：它自己关机。"
+    },
+    {
+        "start": 640.86,
+        "end": 642.38,
+        "english": "Yeah, that sounds like a virus.",
+        "chinese": "是的，听起来像一个病毒。"
+    },
+    {
+        "start": 642.38,
+        "end": 645.8199999999999,
+        "english": "But I ran a virus scan and there was no problem.",
+        "chinese": "但是我在进行病毒扫描时没有问题。"
+    },
+    {
+        "start": 646.62,
+        "end": 650.4599999999999,
+        "english": "Well, maybe your anti-virus software isn't up to date.",
+        "chinese": "英语：嗯，也许你的反病毒软件没更新到最新版本。"
+    },
+    {
+        "start": 650.4599999999999,
+        "end": 652.4599999999999,
+        "english": "Yeah, I guess I'd better call Samuel.",
+        "chinese": "是的，我猜我应该先给萨姆uel打电话。"
+    },
+    {
+        "start": 653.18,
+        "end": 654.9399999999999,
+        "english": "Yeah, you can call Samuel to fix it.",
+        "chinese": "是的，你可以给他打电话让他来修理它。"
+    },
+    {
+        "start": 655.42,
+        "end": 659.26,
+        "english": "All right, folks, we're out of time now, but be sure to go to our website at",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 659.26,
+        "end": 663.18,
+        "english": "englischpod.com where you can leave all your questions and comments.",
+        "chinese": "英语：it's a point and shoot camera."
+    },
+    {
+        "start": 663.18,
+        "end": 668.38,
+        "english": "So stay tuned for our next great lesson and until next time, goodbye.",
+        "chinese": "英语：所以继续关注我们的下一个大课和直到下次见面，再见！"
+    }
+]

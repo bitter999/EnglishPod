@@ -1,0 +1,932 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.96,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.96,
+        "end": 10.26,
+        "english": "My name is Catherine and we have an unusual lesson for you today. It's more about writing",
+        "chinese": "我的名字是凯西，今天我们将学习一个关于写作的特别课程。"
+    },
+    {
+        "start": 10.26,
+        "end": 11.76,
+        "english": "than about speaking.",
+        "chinese": "比关于说话。"
+    },
+    {
+        "start": 11.76,
+        "end": 17.0,
+        "english": "That's right. Well, many times we have to write emails and if we're working in a sales",
+        "chinese": "英语：那对了。嗯，我们经常需要写邮件，如果我们在销售工作中。"
+    },
+    {
+        "start": 17.0,
+        "end": 20.8,
+        "english": "environment we may need to write an email to a potential client.",
+        "chinese": "环境我们可能需要写一封电子邮件给潜在客户。"
+    },
+    {
+        "start": 20.8,
+        "end": 25.6,
+        "english": "Alright, so we're going to learn what is appropriate and what is not in today's lesson. Let's",
+        "chinese": "好的，今天的学习主题是合适的和不合适的。让我们先来了解一下今天的课程内容吧。"
+    },
+    {
+        "start": 25.6,
+        "end": 27.080000000000002,
+        "english": "take a listen to our dialogue.",
+        "chinese": "听我们的对话。"
+    },
+    {
+        "start": 30.0,
+        "end": 38.8,
+        "english": "Melanie, can you help me with something? We need to finalize the account with the Mexican",
+        "chinese": "英语：Melanie，你能帮我处理一下吗？我们需要与墨西哥的客户完成账户确认。"
+    },
+    {
+        "start": 38.8,
+        "end": 43.96,
+        "english": "Embassy and I need some advice on phrasing this letter correctly in English.",
+        "chinese": "大使和我需要一些建议，如何正确用英文写这封信。"
+    },
+    {
+        "start": 43.96,
+        "end": 48.8,
+        "english": "Sure Tracy, let me just get my laptop.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 48.8,
+        "end": 57.32,
+        "english": "Right, I'll set.",
+        "chinese": "正确：英语：Right, I'll set."
+    },
+    {
+        "start": 57.32,
+        "end": 61.76,
+        "english": "Okay, so to whom it may concern. I am writing...",
+        "chinese": "好的，那么针对您。我正在写..."
+    },
+    {
+        "start": 61.76,
+        "end": 67.76,
+        "english": "Um, Tracy, I think that's a little too formal. I know you want to be polite but you've already",
+        "chinese": "英语：哦，泰拉，我觉得有点太正式了。我知道你希望礼貌，但你已经很正式了。"
+    },
+    {
+        "start": 67.76,
+        "end": 72.92,
+        "english": "made contact with them so in English you can be a bit more relaxed in the opening.",
+        "chinese": "与他们建立了联系，所以你可以稍微放松一下，在开头时用英文说。"
+    },
+    {
+        "start": 72.92,
+        "end": 75.6,
+        "english": "Okay, more relaxed. Got it.",
+        "chinese": "好的，稍微放松一下。明白了。"
+    },
+    {
+        "start": 75.6,
+        "end": 79.12,
+        "english": "Hey Sally, what's up? It's Tracy here. Just...",
+        "chinese": "你好，莎莉，有什么事吗？是 Tracy 在这里。只是..."
+    },
+    {
+        "start": 79.12,
+        "end": 85.8,
+        "english": "Okay Tracy, now it's too relaxed. You've still got to show some respect. How about starting",
+        "chinese": "好的，Tracy，现在有点放松了。你还是得表现出一定的尊重。可以尝试"
+    },
+    {
+        "start": 85.8,
+        "end": 89.39999999999999,
+        "english": "with Dear Miss Cooper? I'm writing to confirm...",
+        "chinese": "英语：请把信交给莫科女士吗？我写信是为了确认。"
+    },
+    {
+        "start": 89.39999999999999,
+        "end": 95.56,
+        "english": "Great, okay. Dear Miss Cooper, I'm writing to confirm the final",
+        "chinese": "好的，亲爱的科皮女士，我已确认了最后的决定。"
+    },
+    {
+        "start": 95.56,
+        "end": 104.88,
+        "english": "quotation for the full page Back Cover Color Adetisement you requested for the spring issue",
+        "chinese": "广告纸全页底色图案设计的报价单，请根据春季版面要求提供。"
+    },
+    {
+        "start": 104.88,
+        "end": 109.72,
+        "english": "of Viola Magazine. That's great.",
+        "chinese": "《维奥拉杂志》。那真是太好了。"
+    },
+    {
+        "start": 109.72,
+        "end": 120.56,
+        "english": "The final costing, including advert design and production, comes to 45,600 R&B.",
+        "chinese": "英文：最终的总成本，包括广告设计和生产，是45,600元。"
+    },
+    {
+        "start": 120.56,
+        "end": 129.28,
+        "english": "We want payments 10 working days before publication or we will cancel the ad. Thanks for...",
+        "chinese": "我们希望在文章发布前10个工作日支付款项，否则我们将取消广告。谢谢！"
+    },
+    {
+        "start": 129.28,
+        "end": 134.4,
+        "english": "Oh, okay, back up a second Tracy. That's too direct.",
+        "chinese": "英语：哦，对了，再给我来个第二。那个太直接了。"
+    },
+    {
+        "start": 134.4,
+        "end": 139.8,
+        "english": "Can I suggest you say please note that the final payment is due to working weeks before",
+        "chinese": "可以建议您说，最后的付款是由于工作周之前。"
+    },
+    {
+        "start": 139.8,
+        "end": 143.24,
+        "english": "publication? You don't want to offend her. Oops.",
+        "chinese": "出版？你不想冒犯她吗？哦，对不起。"
+    },
+    {
+        "start": 143.24,
+        "end": 148.44,
+        "english": "Okay, you're right. Then I can just end with all the best Tracy.",
+        "chinese": "好的，你可以直接告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 148.44,
+        "end": 155.08,
+        "english": "Hmm, maybe I'd play it safe and just finish with yours sincerely. That's more professional.",
+        "chinese": "嗯，也许我应该先完成你的任务再给你一个建议。这样更专业一些。"
+    },
+    {
+        "start": 155.08,
+        "end": 159.88,
+        "english": "Oh Melanie, you're a lifesaver. Thank you.",
+        "chinese": "英语：哦，梅林小姐，你真是救世主。谢谢！"
+    },
+    {
+        "start": 159.88,
+        "end": 167.72,
+        "english": "All right, we're back. So now let's take a look at some of that vocab we heard on Language",
+        "chinese": "好的，我们已经回来。现在让我们看看我们刚才听到的一些词汇。"
+    },
+    {
+        "start": 167.72,
+        "end": 177.32,
+        "english": "Takeaway. Language Takeaway. We have some wonderful adjectives today. The first one that I wanted",
+        "chinese": "语言小结。今天我想要分享的几个形容词：优雅、精致、独特、创新、卓越、出色。"
+    },
+    {
+        "start": 177.32,
+        "end": 182.8,
+        "english": "to discuss Marco is formal. Formal, that's right. We want to be a little bit more formal when",
+        "chinese": "英语：讨论马克是正式的。正式，那正是。我们想稍微增加一些正式性。"
+    },
+    {
+        "start": 182.8,
+        "end": 187.04,
+        "english": "we're writing someone we don't really know too much. That's right, but we have to be careful",
+        "chinese": "我们正在写一个我们并不太了解的人。没错，但我们需要小心。"
+    },
+    {
+        "start": 187.04,
+        "end": 192.04,
+        "english": "because sometimes you can be too formal. So what exactly does formal mean?",
+        "chinese": "英语：因为有时候你太正式了。所以，正式到底意味着什么？"
+    },
+    {
+        "start": 192.04,
+        "end": 197.6,
+        "english": "So if you write a formal email, it's very proper, very respectful. So proper in the way",
+        "chinese": "英语：所以如果你写一封正式的电子邮件，它是非常合适的，非常尊敬的。"
+    },
+    {
+        "start": 197.6,
+        "end": 205.32,
+        "english": "that you wouldn't use colloquial terms or phrasal verbs that you would use with your friends.",
+        "chinese": "英语：不要使用你朋友常用的俚语或短语，以免引起不必要的误解。"
+    },
+    {
+        "start": 205.32,
+        "end": 212.84,
+        "english": "No, a good example is writing to a lawyer or a judge. You want to use formal language.",
+        "chinese": "是的，一个好的例子是写信给律师或法官。你想要使用正式的语言。"
+    },
+    {
+        "start": 212.84,
+        "end": 217.24,
+        "english": "And with a teacher, you might use more formal language. But with a friend, you don't have",
+        "chinese": "而且，如果你有一个老师，你可能会用更正式的语言。但如果你有朋友，你就不会那么正式了。"
+    },
+    {
+        "start": 217.24,
+        "end": 221.56,
+        "english": "to do that. That's something else. That's right. So when you're writing something that's formal,",
+        "chinese": "英语：去做那。那是另外一回事。对的，所以当你写正式的东西时，你应该注意一些细节。"
+    },
+    {
+        "start": 221.56,
+        "end": 226.6,
+        "english": "it's important to be polite as well. Now what is polite? Right. So you want to be formal,",
+        "chinese": "英语：它也很重要。现在，你想要正式吗？所以你想显得庄重一些。"
+    },
+    {
+        "start": 226.6,
+        "end": 231.04,
+        "english": "you want to be serious and you want to be polite, you want to show respect, you want to",
+        "chinese": "你希望严肃和礼貌，希望表现出尊敬，希望展示尊重。"
+    },
+    {
+        "start": 231.04,
+        "end": 236.68,
+        "english": "be nice, basically. That's right. And so people can often be described as polite. He's",
+        "chinese": "嗯，基本的。这就是对的。人们经常被描述为礼貌的人。他/她……"
+    },
+    {
+        "start": 236.68,
+        "end": 241.48000000000002,
+        "english": "very polite or she's not polite at all. Right. And when I was a little kid, my mom used",
+        "chinese": "英语：非常礼貌或她一点也不礼貌。正确。当我还是个小孩子的时候，我的妈妈用这种方式教我。"
+    },
+    {
+        "start": 241.48,
+        "end": 245.56,
+        "english": "to say it's very important to be polite. Always say thank you and you're welcome when you're",
+        "chinese": "英语：要对别人表示礼貌。总是说谢谢和你被接受时，非常感谢。"
+    },
+    {
+        "start": 245.56,
+        "end": 251.32,
+        "english": "talking to other people. That's right. And that's one way of being polite. Now also when we are",
+        "chinese": "英语：和别人交谈。正确。而且这也是礼貌的一种方式。现在当我们与他人交流时，我们应该怎样做呢？"
+    },
+    {
+        "start": 251.32,
+        "end": 257.32,
+        "english": "describing the way that you speak to someone or the way that you write, you can be very direct.",
+        "chinese": "描述你如何与别人交流或写文章，你可以非常直接。"
+    },
+    {
+        "start": 257.32,
+        "end": 261.64,
+        "english": "Now being direct means that you say exactly what you want or exactly what you're thinking.",
+        "chinese": "现在直译就是你直接说，你说得非常清楚或者你想表达什么。"
+    },
+    {
+        "start": 261.64,
+        "end": 267.71999999999997,
+        "english": "Okay. So maybe if we're talking to this company, you say, hi, I want this, I will pay this",
+        "chinese": "好的。那么，如果我们要和这个公司讨论这个问题，你可以说：你好，我想购买这台设备，我愿意支付这笔费用。"
+    },
+    {
+        "start": 267.72,
+        "end": 274.20000000000005,
+        "english": "much thank you. Bye. Right. That's maybe two directs. So sometimes you need to be a little less",
+        "chinese": "谢谢！再见。那可能需要稍微少一些。有时候你得稍微谦虚点。"
+    },
+    {
+        "start": 274.20000000000005,
+        "end": 280.76000000000005,
+        "english": "direct and say nice things in an email. That's right. So maybe you want to say to someone that you don't",
+        "chinese": "直接在邮件中说些好话。嗯，或许你想要对某人说，你并不想和他们一起工作。"
+    },
+    {
+        "start": 280.76000000000005,
+        "end": 285.08000000000004,
+        "english": "really like the clothes they're wearing. Right. And you say, hey, do you like my new shirt?",
+        "chinese": "真的喜欢你们穿的衣服。对，你说，你是不是喜欢我新买的衬衫？"
+    },
+    {
+        "start": 285.08000000000004,
+        "end": 289.88000000000005,
+        "english": "And if you're very direct, you would say, no, I think it's very ugly. I hate it. Right. That's two",
+        "chinese": "和如果你非常直接，你就会说，不，我觉得它很丑。我讨厌它。对。这就是两个。"
+    },
+    {
+        "start": 289.88000000000005,
+        "end": 295.96000000000004,
+        "english": "directs. So maybe you would say, I don't really think it suits you very well. Or I think of",
+        "chinese": "英语：它像傻瓜相机一样。"
+    },
+    {
+        "start": 295.96,
+        "end": 300.52,
+        "english": "different color would be better on you. That's right. So that's being a little bit less direct.",
+        "chinese": "不同的颜色会更好。对吧？所以，这就是稍微间接一点的意思了。"
+    },
+    {
+        "start": 301.23999999999995,
+        "end": 306.2,
+        "english": "Now obviously if you're too direct with someone, you may offend that person.",
+        "chinese": "现在很明显，如果你太直接了，可能会冒犯到那个人。"
+    },
+    {
+        "start": 306.84,
+        "end": 312.76,
+        "english": "All right. To offend is a verb. And to offend someone means to say something that makes them unhappy",
+        "chinese": "英语：一切好。冒犯是动词，而冒犯某人意味着说使某人不高兴的话。"
+    },
+    {
+        "start": 312.76,
+        "end": 318.44,
+        "english": "or upset or even angry. So going back to the same example of the shirt, if you say, I think that",
+        "chinese": "英语：或者生气或甚至愤怒。所以回到上一个例子，如果你说：“我想我应该把那件衬衫放回原处。”"
+    },
+    {
+        "start": 318.44,
+        "end": 326.28,
+        "english": "shirt is very ugly, that person might be offended. Gosh. Or maybe if you say, I think people with",
+        "chinese": "衬衫非常丑陋，那个人可能会被冒犯。哇。或者如果你说，我觉得人们有这种人可能被冒犯。"
+    },
+    {
+        "start": 326.28,
+        "end": 331.96,
+        "english": "brown hair are so ugly. And there's someone next to me with brown hair. They say, I'm offended.",
+        "chinese": "英文：棕色头发真丑，我旁边还有棕色头发的人。他们说，我很不舒服。"
+    },
+    {
+        "start": 331.96,
+        "end": 338.12,
+        "english": "Right. I'm not ugly, but I have brown hair. That's right. Okay. So you don't want to offend anyone",
+        "chinese": "正确。我并不丑，但我的头发是棕色的。对了。所以你不想冒犯任何人。"
+    },
+    {
+        "start": 338.12,
+        "end": 345.4,
+        "english": "by being too direct or you don't want to have anyone feel offended. Now for our last phrase here",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 345.4,
+        "end": 351.32,
+        "english": "on Language Takeaway, we have towards the end of the dialogue, Tracy. Tracy, thanks Melanie",
+        "chinese": "英语：在对话的最后，我们有向你提到的地方。谢谢你，梅林。"
+    },
+    {
+        "start": 351.32,
+        "end": 358.03999999999996,
+        "english": "by saying, you are a lifesaver. Thank you. Okay. So don't be confused. There is also a candy",
+        "chinese": "英语：通过说，你就是救星。谢谢。好的。所以别再困惑了。还有，还有一个糖果。"
+    },
+    {
+        "start": 358.03999999999996,
+        "end": 362.76,
+        "english": "called lifesavers and she's not calling her a candy. Right. She's saying, wow, thank you. You",
+        "chinese": "她被叫作救生员，但她不是称她为糖果。正确。她说：“哇，谢谢你。”你"
+    },
+    {
+        "start": 362.76,
+        "end": 368.44,
+        "english": "really helped me. Okay. So when someone helps you a lot, you can call them a lifesaver. Right.",
+        "chinese": "谢谢你的帮助。很好。那么，当你帮助别人时，你可以称他们为救星。正确吗？"
+    },
+    {
+        "start": 368.44,
+        "end": 374.67999999999995,
+        "english": "Marco, what exactly is the object, the lifesaver? If you've ever been on a boat, you see this big",
+        "chinese": "Marco, 请问这个物体是什么？如果你曾经在船上，你一定见过这样的大船。"
+    },
+    {
+        "start": 374.68,
+        "end": 382.28000000000003,
+        "english": "orange circle that is used to throw into the water to help someone to prevent them from drowning.",
+        "chinese": "橙色圆圈，用于帮助有人避免溺水。"
+    },
+    {
+        "start": 382.28000000000003,
+        "end": 388.04,
+        "english": "That is called a lifesaver. Okay. So I'm drowning. I'm having a hard time writing this email. I",
+        "chinese": "这就是救生圈。嗯，我现在在水里，写这封邮件也很难了。我"
+    },
+    {
+        "start": 388.04,
+        "end": 393.96000000000004,
+        "english": "do not know what to say. Marco, you come and help me. I can say, oh, wow. Thank you so much. You're",
+        "chinese": "不知道说什么。马科，你来帮我吧。我可以这么说，哇哦。谢谢你！"
+    },
+    {
+        "start": 393.96000000000004,
+        "end": 399.88,
+        "english": "a lifesaver. That's exactly right. All right. So we've taken a look at five key words there. Why don't we",
+        "chinese": "一个救星。那正是对的。好的，我们已经看了五个关键词在这里。那么，我们现在就来谈谈五项基本技能吧。"
+    },
+    {
+        "start": 399.88,
+        "end": 403.88,
+        "english": "take a listen to our dialogue again and we'll be back with Fluency Builder.",
+        "chinese": "英语：再次听我们的对话，我们将使用Fluency Builder。"
+    },
+    {
+        "start": 411.08,
+        "end": 416.28,
+        "english": "Melanie, can you help me with something? We need to finalize the account with the Mexican embassy.",
+        "chinese": "英语：Melanie，你能帮我处理一下吗？我们需要与墨西哥大使馆的账户进行最终确认。"
+    },
+    {
+        "start": 416.28,
+        "end": 422.52,
+        "english": "And I need some advice on phrasing this letter correctly in English. Sure, Tracy. Let me just get my laptop.",
+        "chinese": "英语：和我讨论一下这个信件的表达方式。当然，汤姆。让我先看看我的笔记本电脑。"
+    },
+    {
+        "start": 430.44,
+        "end": 441.32,
+        "english": "Right. I'll set. Okay. So to whom it may concern. I am writing Tracy. I think that's a little too",
+        "chinese": "是的。我将设置。好的。所以，您能告诉我关于这个项目的具体要求吗？我需要了解一些细节，以便我可以更好地帮助您。"
+    },
+    {
+        "start": 441.32,
+        "end": 447.0,
+        "english": "formal. I know you want to be polite, but you've already made contact with them. So in English,",
+        "chinese": "英语：我了解你希望礼貌，但已经与他们接触了。所以，在英文中，你可以这样表达：“I understand that you want to be polite, but you’ve already made contact with them.”"
+    },
+    {
+        "start": 447.0,
+        "end": 453.96,
+        "english": "you can be a bit more relaxed in the opening. Okay. More relaxed. Got it. Hey, Sally. What's up? It's",
+        "chinese": "你可以说得稍微轻松一些。好的，稍微轻松一点。嘿，莎莉。你好吗？它怎么样了？"
+    },
+    {
+        "start": 453.96,
+        "end": 462.2,
+        "english": "Tracy here. Just okay, Tracy. Now it's too relaxed. You've still got to show some respect. How about",
+        "chinese": "在这里，汤姆。嗯，汤姆。现在太放松了。你还是得表现出一点尊敬。"
+    },
+    {
+        "start": 462.2,
+        "end": 470.35999999999996,
+        "english": "starting with Dear Miss Cooper? I'm writing to confirm. Great. Okay. Dear Miss Cooper, I'm writing to",
+        "chinese": "开始写信给亲爱的柯普女士？我正在确认。很好。亲爱的柯普女士，我正在确认。请查收。"
+    },
+    {
+        "start": 470.35999999999996,
+        "end": 480.44,
+        "english": "confirm the final quotation for the full page back cover color advertisement. You requested for the",
+        "chinese": "确认全页底边颜色广告的最终报价。你要求的是底边的颜色。"
+    },
+    {
+        "start": 480.44,
+        "end": 491.64,
+        "english": "spring issue of Viola magazine. That's great. The final costing including advert design and production",
+        "chinese": "春刊《维奥拉杂志》。那真是好！最终包括广告设计和制作的总成本。"
+    },
+    {
+        "start": 492.2,
+        "end": 504.12,
+        "english": "comes to 45,600 RMB. We want payments 10 working days before publication or we will cancel the ad.",
+        "chinese": "人民币为45,600元。我们希望在发表前10个工作日内支付款项，否则我们将取消广告。"
+    },
+    {
+        "start": 504.84000000000003,
+        "end": 513.8,
+        "english": "Thanks for. Okay. Back up a second Tracy. That's too direct. Can I suggest you say please note that the",
+        "chinese": "谢谢。 okay. back up a second Tracy。那太直接了。可以建议你说，\"请记住，\" 或者 \"请您注意，\" 以避免重复。"
+    },
+    {
+        "start": 513.8,
+        "end": 519.96,
+        "english": "final payment is due two working weeks before publication. You don't want to offend her. Oops.",
+        "chinese": "最后付款是两星期前出版的。你不想冒犯她。哦，对不起。"
+    },
+    {
+        "start": 519.96,
+        "end": 527.4,
+        "english": "Okay. You're right. Then I can just end with all the best Tracy. Maybe I'd play it safe and just",
+        "chinese": "好的。你对的。那么我只能结束这个故事，也许我会选择稳妥一些，只是暂时不加入你的队伍。"
+    },
+    {
+        "start": 527.4,
+        "end": 534.4399999999999,
+        "english": "finish with yours sincerely. That's more professional. Oh Melanie, you're a lifesaver. Thank you.",
+        "chinese": "祝你一切顺利。那真是个好主意。哦，梅林，你是救世主啊。谢谢！"
+    },
+    {
+        "start": 539.9599999999999,
+        "end": 544.1999999999999,
+        "english": "So today in fluency builder, we have a number of phrases you can use when you're writing an email.",
+        "chinese": "英语：因此今天在流利构建单元，我们有几种你可以在写电子邮件时使用的短语。"
+    },
+    {
+        "start": 544.1999999999999,
+        "end": 550.92,
+        "english": "Some of them are very polite and formal. Some of them are very informal or casual. Now this first",
+        "chinese": "他们中的一些人非常礼貌和正式。一些人则显得非常随意或 Casual。现在，这是第一部分。"
+    },
+    {
+        "start": 550.92,
+        "end": 556.76,
+        "english": "phrase Marco is very, very formal, right? That's right. We start our letter by stating to whom",
+        "chinese": "英语：它是个点和拍相机，没错。我们开始信件时就明确告知谁是我们的目标读者。"
+    },
+    {
+        "start": 556.76,
+        "end": 563.96,
+        "english": "and may concern. All right. To whom it may concern. Remember that M there. This is a very formal phrase",
+        "chinese": "英语：和可能有关。一切好。对这件事，要记得是M。这是非常正式的表达方式。"
+    },
+    {
+        "start": 563.96,
+        "end": 569.24,
+        "english": "and we're going to take it as a phrase. This is how you begin a formal letter. That's right. Usually",
+        "chinese": "英语：和我们开始正式信函。这是如何用一个正式的信函开头的。对吧。通常"
+    },
+    {
+        "start": 569.24,
+        "end": 576.2,
+        "english": "you start this letter if it's directed to maybe a company or someone not specific. You don't know",
+        "chinese": "如果你是公司或某人，如果不是，请你先阅读并理解这封信。"
+    },
+    {
+        "start": 576.2,
+        "end": 581.88,
+        "english": "that person's name and you're just saying, you know, whoever's reading this letter, whoever it",
+        "chinese": "这个人的名字和你说的，你懂的，谁在看这封信的人。"
+    },
+    {
+        "start": 581.96,
+        "end": 587.24,
+        "english": "concerns. That's right. Well, I could say dear Marco. But in this case, maybe I don't know who the name",
+        "chinese": "关于。没错。好吧，我可以说马科罗。不过在这种情况里，也许我不太清楚是谁的名字。"
+    },
+    {
+        "start": 587.24,
+        "end": 592.4399999999999,
+        "english": "of the person I am writing this email to. It's a big company. There are many people. So if you don't",
+        "chinese": "这个点和拍是傻瓜相机。SLR/DSLR是单反相机。机身是机身上部的部件，镜头是机身后部的部件，焦距是镜头与相机之间的距离。长焦是指镜头比相机远一些，偏振镜是用来减少光线中的色散，视窗板是显示屏幕，套机镜头是用于拍摄视频或照片时固定镜头的位置。"
+    },
+    {
+        "start": 592.4399999999999,
+        "end": 598.6,
+        "english": "know who you're writing to in a company or in an organization, you say to whom it may concern.",
+        "chinese": "英语：了解你写给谁或在组织中应该说些什么，你可以这样表达。"
+    },
+    {
+        "start": 598.6,
+        "end": 604.04,
+        "english": "That's right. Okay. Now we started very formal. Melanie said, I think it's a little bit too formal.",
+        "chinese": "英语：那对了。好了，我们现在非常正式。梅林说，我觉得有点太正式了。"
+    },
+    {
+        "start": 604.04,
+        "end": 610.28,
+        "english": "Maybe we should be more relaxed. So Tracy says, okay, got it. So how about Hey Sally? What's up?",
+        "chinese": "英语：或许我们可以放松一些。所以泰瑞说，好的，明白了。那么，怎么样？嘿莎莉，有什么事吗？"
+    },
+    {
+        "start": 610.28,
+        "end": 615.56,
+        "english": "What's up? Okay. What's up? What's up? Is the kind of thing I say with my friends? Hey,",
+        "chinese": "英语：你好吗？你怎么样？你怎么样？我跟你说的那些话，是不是和你的朋友说的一样？嗨！"
+    },
+    {
+        "start": 615.56,
+        "end": 622.92,
+        "english": "Marco, what's up? Right. But I would never say this in a formal situation with a boss or with a",
+        "chinese": "英语：Marco，你怎么样？对了。我不会在正式场合或有上级的情况下说这句话的。"
+    },
+    {
+        "start": 622.92,
+        "end": 629.48,
+        "english": "employer or with a more serious situation. Exactly. Especially if you're writing an email to a client.",
+        "chinese": "雇主或有更严重情况。特别注意，如果写邮件给客户。"
+    },
+    {
+        "start": 629.48,
+        "end": 633.72,
+        "english": "You don't really want to say what's up? No, never. So remember, this is spoken English with your",
+        "chinese": "你真的不想说一下吗？不，从不说。所以记住，这是用英语和你的中文交流的。"
+    },
+    {
+        "start": 633.72,
+        "end": 640.12,
+        "english": "friends, but not something you would write. So the key here is that you have to show some respect.",
+        "chinese": "英语：朋友，但不是你写的东西。所以关键在于你要表现出一定的尊重。"
+    },
+    {
+        "start": 640.6,
+        "end": 646.1999999999999,
+        "english": "Okay. So that's another great phrase. You show some respect. All right. So the key here is that",
+        "chinese": "好的。所以这就是一个很好的表达。你表现出一定的尊重。很好。这个关键点在于："
+    },
+    {
+        "start": 646.1999999999999,
+        "end": 652.4399999999999,
+        "english": "this is the verb is to show, right? Not to give. You want to show respect to someone. Well, how do you",
+        "chinese": "这正是“这是”这个动词的用法吗？不是。你想要尊重某人。那么，你怎么做到呢？"
+    },
+    {
+        "start": 652.4399999999999,
+        "end": 658.76,
+        "english": "show respect? Well, the way that you act, your behaviors. So if I'm polite and I say, you know,",
+        "chinese": "是吗？嗯，你行为的举止。所以如果你对我礼貌，并且我说，那么……"
+    },
+    {
+        "start": 658.76,
+        "end": 663.9599999999999,
+        "english": "Mr. and Miss and thank you and please, these are ways to show respect. That's right. That's right.",
+        "chinese": "英语：先生和女士，谢谢，请出示您的证件。这是礼貌的表达方式。正确吗？正确吗？"
+    },
+    {
+        "start": 663.9599999999999,
+        "end": 670.12,
+        "english": "So that's the way that you are being respectful. You are showing respect by being very polite.",
+        "chinese": "所以，这就是你被尊敬的方式。你以非常礼貌的方式示人。"
+    },
+    {
+        "start": 670.4399999999999,
+        "end": 676.1999999999999,
+        "english": "For example, in Japan, it is common to take your shoes off when you go to a friend's home",
+        "chinese": "例如，在日本，当你去朋友家时，通常会把鞋子脱下来。"
+    },
+    {
+        "start": 676.1999999999999,
+        "end": 682.52,
+        "english": "in their house in order to show respect to them. That's right. Very good. Now, as we continue writing",
+        "chinese": "在他们家里，为了表示尊敬。很好。现在，我们继续写。"
+    },
+    {
+        "start": 682.52,
+        "end": 688.8399999999999,
+        "english": "the letter towards the end, we wanted to play it safe and just write your sincerely to close the",
+        "chinese": "英语：它是在结尾处写你的信，我们想让你安全地结束，并且只给你写一封真诚的信。"
+    },
+    {
+        "start": 688.8399999999999,
+        "end": 694.12,
+        "english": "letter off. All right. So this phrase, play it safe. What does this mean? When we're talking about",
+        "chinese": "英语：卸下重任。"
+    },
+    {
+        "start": 694.12,
+        "end": 699.16,
+        "english": "making a decision or taking a risk, we want to play it safe. We want to use the",
+        "chinese": "选择或承担风险，我们希望保持谨慎。我们希望利用这个机会。"
+    },
+    {
+        "start": 699.88,
+        "end": 704.76,
+        "english": "less risky option. All right. So the key here is that the verb is to play.",
+        "chinese": "这个点和拍是傻瓜相机。一切好。所以关键在于动词是玩。"
+    },
+    {
+        "start": 705.56,
+        "end": 711.16,
+        "english": "Play it safe. This means that yeah, there's maybe a risky option and a safe option. And it's",
+        "chinese": "玩得小心。这意味着，嗯，可能有风险的选项和安全的选项。而且，这并不意味着你必须选择一个既安全又不值得冒险的选择。在任何情况下，保持谨慎和明智是最重要的。"
+    },
+    {
+        "start": 711.16,
+        "end": 716.52,
+        "english": "better to take the safe option. That's right. That's right. So that's the way that you would use this",
+        "chinese": "更好的选择是安全选项。对，对。这样就是你用来这个的正确方式了。"
+    },
+    {
+        "start": 716.52,
+        "end": 722.36,
+        "english": "phrase to play it safe, to make a decision that doesn't have too much risk or that you know that",
+        "chinese": "英语：小心谨慎，不要冒险或知道你可能做出的决定。"
+    },
+    {
+        "start": 722.36,
+        "end": 728.68,
+        "english": "will work very well. And to close things off another option to end the letter, we could say all",
+        "chinese": "英语：它会非常有效。而且，为了结束这个信件，我们可以说：“所有选项都已考虑。”"
+    },
+    {
+        "start": 728.68,
+        "end": 734.4399999999999,
+        "english": "the best. All the best, Tracy. All the best, comma, Tracy. All right. So this is a way to end the",
+        "chinese": "好的。所有的最好，泰拉。所有的最好，泰拉。一切顺利。所以这是结束的另一种方式。"
+    },
+    {
+        "start": 734.4399999999999,
+        "end": 741.4,
+        "english": "letter. You can say sincerely or best, but it's a very nice way to end if you just say all the best.",
+        "chinese": "英文：信。你可以这样说，但如果你只是说所有最好的话，那也是一个很好的结束方式。"
+    },
+    {
+        "start": 741.4,
+        "end": 745.56,
+        "english": "And then you say, you know, after that, you have a comma and then you sign your name. That's right.",
+        "chinese": "英语：然后你接着说，你知道，然后你有一个逗号，然后你签名。这就是正确的。"
+    },
+    {
+        "start": 745.56,
+        "end": 749.64,
+        "english": "All right. Let's listen to our dialogue one last time and we'll be back to talk a little bit more.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 749.88,
+        "end": 760.76,
+        "english": "Melanie, can you help me with something? We need to finalize the account with the",
+        "chinese": "英语：Melanie，你能帮我解决一下什么问题吗？我们需要与客户完成账户的最终确认。"
+    },
+    {
+        "start": 760.76,
+        "end": 765.72,
+        "english": "Mexican Embassy and I need some advice on phrasing this letter correctly in English.",
+        "chinese": "墨西哥大使馆和我需要对这封信的表达方式提出一些建议。"
+    },
+    {
+        "start": 766.36,
+        "end": 768.28,
+        "english": "Sure, Tracy. Let me just get my laptop.",
+        "chinese": "当然，汤姆。让我先拿好我的笔记本电脑。"
+    },
+    {
+        "start": 769.16,
+        "end": 783.88,
+        "english": "Right. I'll set. Okay. So to whom it may concern. I am writing.",
+        "chinese": "正确。我将写。好的。所以，关于……我正在写。"
+    },
+    {
+        "start": 784.92,
+        "end": 790.6,
+        "english": "Tracy, I think that's a little too formal. I know you want to be polite, but you've already made",
+        "chinese": "英语：Tracy，我觉得有点太正式了。我知道你希望礼貌，但你已经做了很多。"
+    },
+    {
+        "start": 790.6,
+        "end": 797.0,
+        "english": "contact with them. So in English, you can be a bit more relaxed in the opening. Okay, more relaxed.",
+        "chinese": "英语：与他们联系。所以，在开篇时，你可以稍微放松一些。好的，稍微放松一下。"
+    },
+    {
+        "start": 797.0,
+        "end": 805.72,
+        "english": "Got it. Hey, Sally, what's up? It's Tracy here. Just okay, Tracy. Now it's too relaxed. You've",
+        "chinese": "好的，我明白了。你好，萨拉，你最近怎么样？我很好，萨拉。现在有点放松了。你呢，萨拉？"
+    },
+    {
+        "start": 805.72,
+        "end": 811.16,
+        "english": "still got to show some respect. How about starting with Dear Miss Cooper? I'm writing to confirm.",
+        "chinese": "英语：还是得向她表示敬意。不妨从亲爱的柯普女士开始吧，我写信是想确认的。"
+    },
+    {
+        "start": 811.88,
+        "end": 818.12,
+        "english": "Great. Okay. Dear Miss Cooper, I'm writing to confirm the final",
+        "chinese": "好的，我明白了。请告诉我下一步的步骤。"
+    },
+    {
+        "start": 818.12,
+        "end": 827.4,
+        "english": "quotation for the full page back cover color advertisement you requested for the spring issue",
+        "chinese": "广告您在春号上发布的全页面底色广告。"
+    },
+    {
+        "start": 827.4,
+        "end": 838.6,
+        "english": "of YOLA magazine. That's great. The final costing including advert design and production comes to",
+        "chinese": "《YOLA杂志》。那真是太好了。最终包括广告设计和生产的成本是"
+    },
+    {
+        "start": 838.6,
+        "end": 849.96,
+        "english": "45,600 RMB. We want payments 10 working days before publication or we will cancel the ad.",
+        "chinese": "人民币45,600元。我们希望在发表前10个工作日内支付，否则我们将取消广告。"
+    },
+    {
+        "start": 850.6,
+        "end": 859.32,
+        "english": "Thanks for. Oh, okay. Back up a second, Tracy. That's too direct. Can I suggest you say please note",
+        "chinese": "谢谢。哦，好的。再给我说一遍，泰拉。那太直接了。可以建议你用请注意。"
+    },
+    {
+        "start": 859.32,
+        "end": 865.08,
+        "english": "that the final payment is due to working weeks before publication? You don't want to offend her.",
+        "chinese": "这个点和拍是傻瓜相机。SLR/DSLR是单反相机。机身是体，镜头是镜，长焦是长焦，偏振镜是偏振镜。卸下重任是卸下重担。赋予/授予是赋予/授予。一路顺风是一路顺风。疏远且微弱是远程和tenuous。上岗是上任。入职是入职。显示屏是显示屏。套机镜头是机，Fluency Builder是流利构建单元。全球视野是全视界。"
+    },
+    {
+        "start": 865.1600000000001,
+        "end": 870.2800000000001,
+        "english": "Oops. Okay. You're right. Then I can just end with all the best, Tracy.",
+        "chinese": "抱歉。好的。您说得对。那么，我只能结束一切，泰拉。"
+    },
+    {
+        "start": 871.64,
+        "end": 877.5600000000001,
+        "english": "Maybe I'd play it safe and just finish with yours sincerely. That's more professional.",
+        "chinese": "英语：也许我会选择一个更安全的选择，然后和你一起完成。这样会显得更加专业。"
+    },
+    {
+        "start": 877.5600000000001,
+        "end": 880.2800000000001,
+        "english": "Oh, Melanie, you're a lifesaver. Thank you.",
+        "chinese": "英语：哦，梅林，你真是救了我。谢谢。"
+    },
+    {
+        "start": 886.2,
+        "end": 891.96,
+        "english": "So talking about ending formal emails or emails that you're writing to clients, colleagues,",
+        "chinese": "所以，谈论结束正式邮件或你向客户、同事发送的邮件时，可以这样表达："
+    },
+    {
+        "start": 891.96,
+        "end": 899.5600000000001,
+        "english": "we can say sincerely in your name, sincerely, Marco, you can say all the best, best regards.",
+        "chinese": "我们可以说在你的名字上，你最好，最好的祝愿。"
+    },
+    {
+        "start": 899.5600000000001,
+        "end": 905.48,
+        "english": "Now, I've noticed that some people who aren't a native English speaker, sometimes they will",
+        "chinese": "现在，我注意到一些不熟悉英语的人有时会"
+    },
+    {
+        "start": 905.48,
+        "end": 913.1600000000001,
+        "english": "close a letter, maybe even a formal letter, saying yours truly. Marco, for example, is that really",
+        "chinese": "请关闭一封信，或许甚至是一封正式的信。马科，例如，这真的"
+    },
+    {
+        "start": 913.1600000000001,
+        "end": 919.1600000000001,
+        "english": "appropriate for a business setting or a client? I would not use yours truly. Maybe if you're trying to",
+        "chinese": "英文：适合商务或客户使用吗？我不会用你。也许如果你在试图，或者是在尝试改变主意。"
+    },
+    {
+        "start": 920.12,
+        "end": 926.6,
+        "english": "build a relationship with your client, and you're very honest, but it seems to me to be very personal.",
+        "chinese": "英语：建立与您的客户的关系，并且您非常诚实，但似乎感觉有点个人化。"
+    },
+    {
+        "start": 926.6,
+        "end": 933.7199999999999,
+        "english": "Very romantic. Yes, yours truly. So I would say in that case, use sincerely or kind regards,",
+        "chinese": "英文：非常浪漫。是的，我的宝贝。所以在这种情况下，用诚挚或友好地表达会更好。"
+    },
+    {
+        "start": 934.36,
+        "end": 941.0,
+        "english": "regards, which are a little bit more professional and less emotional. If you want to have a romantic",
+        "chinese": "这句话的意思是：“对于那些稍微更正式、情感更淡的。如果你想找个浪漫的伴侣。”"
+    },
+    {
+        "start": 941.0,
+        "end": 948.52,
+        "english": "letter, you can say all my love or love or yours truly or yours faithfully. This is a very",
+        "chinese": "请将这句话翻译成中文："
+    },
+    {
+        "start": 948.52,
+        "end": 955.0,
+        "english": "important topic, I think, because many times in school, we do learn how to write letters,",
+        "chinese": "重要话题，我认为，因为在学校里，我们经常学习如何写信。"
+    },
+    {
+        "start": 955.0,
+        "end": 960.6,
+        "english": "but usually they are more personal letters. And so we memorize that usually at the end of the email",
+        "chinese": "但是通常他们更倾向于个人化邮件。而且我们会在最后的电子邮件中记住这一点。"
+    },
+    {
+        "start": 960.6,
+        "end": 966.4399999999999,
+        "english": "or the end of the letter, you say yours, Marco or yours truly, Marco. And although it is correct,",
+        "chinese": "或者，信函的最后一页，你请说你的名字，Marco 或者你自己的名字，Marco。尽管它正确，但请注意，这可能不是最佳选择。"
+    },
+    {
+        "start": 966.4399999999999,
+        "end": 971.4,
+        "english": "it's not really appropriate for a professional setting. That's right. So just as a reminder,",
+        "chinese": "英语：它并不适合在专业场合使用。嗯，这是个提醒。"
+    },
+    {
+        "start": 971.4,
+        "end": 977.0799999999999,
+        "english": "if you're signing off your email or your letter and you're at an office here in your company,",
+        "chinese": "如果你在公司里签发电子邮件或信件，并且你在这里，那么你可能在担任一个职位。"
+    },
+    {
+        "start": 977.08,
+        "end": 981.0,
+        "english": "you want to say best or best regards or some of the things that we talked about here today.",
+        "chinese": "你好，我想说一些我们今天讨论的一些最好或最重的事项。"
+    },
+    {
+        "start": 981.0,
+        "end": 985.32,
+        "english": "Very good. All right. So if you have any questions or any other doubts, you can always find us at",
+        "chinese": "很好。行吗？所以如果你有任何问题或其他疑虑，你可以在这里找到我们。"
+    },
+    {
+        "start": 985.32,
+        "end": 994.36,
+        "english": "EnglishPod.com and we'll see you guys there. Bye. Bye.",
+        "chinese": "英语：它是一个点和拍相机。"
+    }
+]

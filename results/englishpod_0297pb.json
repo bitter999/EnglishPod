@@ -1,0 +1,1514 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.36,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.36,
+        "end": 10.200000000000001,
+        "english": "My name is Catherine and we have a delicious Italian food lesson for you today.",
+        "chinese": "我的名字是凯特，今天我们将为您介绍今天的意大利美食课程。"
+    },
+    {
+        "start": 10.200000000000001,
+        "end": 14.44,
+        "english": "That's right we are at an Italian restaurant and we are ordering food so this is going",
+        "chinese": "没错，我们正在意大利餐厅用餐，我们现在正准备点餐，请问这是在做什么？"
+    },
+    {
+        "start": 14.44,
+        "end": 19.0,
+        "english": "to be very helpful next time you are at an Italian restaurant with your friends and",
+        "chinese": "英语：请记住，下次你和你的朋友们在意大利餐厅时要非常小心。"
+    },
+    {
+        "start": 19.0,
+        "end": 20.76,
+        "english": "you are ordering up some dishes.",
+        "chinese": "你正在订购一些菜肴。"
+    },
+    {
+        "start": 20.76,
+        "end": 24.2,
+        "english": "Let's take a listen to our dialogue and we'll be back in a moment to talk about what's",
+        "chinese": "让我们听听我们的对话，然后在稍后再聊一聊我们正在讨论的话题。"
+    },
+    {
+        "start": 24.2,
+        "end": 24.96,
+        "english": "going on.",
+        "chinese": "going on.\" 翻译成中文是 \"正在发生。"
+    },
+    {
+        "start": 30.0,
+        "end": 40.0,
+        "english": "Good evening ladies. My name is Josh and I'll be your servant tonight. May I take your",
+        "chinese": "晚上好，女士们。我的名字是乔斯，今晚我将是你的服务员。我可以请你们坐吗？"
+    },
+    {
+        "start": 40.0,
+        "end": 41.0,
+        "english": "order?",
+        "chinese": "英语：order？"
+    },
+    {
+        "start": 41.0,
+        "end": 43.84,
+        "english": "Do you have any recommendations?",
+        "chinese": "英语：你有推荐吗？"
+    },
+    {
+        "start": 43.84,
+        "end": 50.34,
+        "english": "Well, I personally like the chicken pan with cream mushroom sauce but the prawn",
+        "chinese": "英语：嗯，我 personally 喜欢鸡肉浓汤蘑菇酱的鸡腿肉，但喜欢虾仁。"
+    },
+    {
+        "start": 50.34,
+        "end": 53.32,
+        "english": "fit the chin is also very nice.",
+        "chinese": "调整下巴也很合适。"
+    },
+    {
+        "start": 53.32,
+        "end": 60.16,
+        "english": "No, no, I'd like to have the grilled chicken but can I have spaghetti instead of pigné?",
+        "chinese": "是的，我想要鸡肉熟食但能吃意大利面吗？"
+    },
+    {
+        "start": 60.16,
+        "end": 64.4,
+        "english": "Of course man and for you.",
+        "chinese": "当然，男人和你。"
+    },
+    {
+        "start": 64.4,
+        "end": 70.16,
+        "english": "I'll have the horse strike.",
+        "chinese": "我将骑马飞奔。"
+    },
+    {
+        "start": 70.16,
+        "end": 77.68,
+        "english": "Alright we're back and now let's take a look at all those delicious Italian dishes",
+        "chinese": "好的，我们已经回来，现在让我们看看所有的美味意大利菜。"
+    },
+    {
+        "start": 77.68,
+        "end": 82.24000000000001,
+        "english": "on language takeaway.",
+        "chinese": "在语言小站。"
+    },
+    {
+        "start": 83.24,
+        "end": 90.19999999999999,
+        "english": "So first of all we have two different kinds of sauce really.",
+        "chinese": "所以首先，我们有两个不同的酱料。"
+    },
+    {
+        "start": 90.19999999999999,
+        "end": 92.24,
+        "english": "The first is cream mushroom.",
+        "chinese": "第一个是奶油蘑菇。"
+    },
+    {
+        "start": 92.24,
+        "end": 94.67999999999999,
+        "english": "So what's a cream sauce Marco?",
+        "chinese": "英语：所以，什么是马可酱？"
+    },
+    {
+        "start": 94.67999999999999,
+        "end": 95.83999999999999,
+        "english": "A cream mushroom sauce.",
+        "chinese": "英文：一个奶油蘑菇酱。"
+    },
+    {
+        "start": 95.83999999999999,
+        "end": 102.72,
+        "english": "So basically this is a cream from like milk and you have mushrooms in it and it's I",
+        "chinese": "英语：所以基本上这是从牛奶里提取的奶油，里面有蘑菇。"
+    },
+    {
+        "start": 102.72,
+        "end": 106.47999999999999,
+        "english": "don't know I think everyone has seen it's a very thick white sauce.",
+        "chinese": "英语：不知道，我觉得每个人都看过它是一碗非常厚的白酱。"
+    },
+    {
+        "start": 106.47999999999999,
+        "end": 110.39999999999999,
+        "english": "It has little slices of mushrooms in it and it's kind of sweet.",
+        "chinese": "英语：它有小块蘑菇，味道有点甜。"
+    },
+    {
+        "start": 110.4,
+        "end": 114.66000000000001,
+        "english": "That's right and so oftentimes you see there's cream sauces which are white and tomato",
+        "chinese": "是的，而且常常可以看到奶油酱，通常是白色的，含有番茄。"
+    },
+    {
+        "start": 114.66000000000001,
+        "end": 116.64,
+        "english": "sauces which are red.",
+        "chinese": "意大利面。"
+    },
+    {
+        "start": 116.64,
+        "end": 122.72,
+        "english": "And this here is a cream sauce so it's white and it's got chunks of mushroom in it.",
+        "chinese": "而且这是奶油酱，所以它应该是白色的，并且里面夹杂着蘑菇的碎屑。"
+    },
+    {
+        "start": 122.72,
+        "end": 127.32000000000001,
+        "english": "And the waiter also offered prawn with the pasta.",
+        "chinese": "和侍卫还为这道菜加了虾仁。"
+    },
+    {
+        "start": 127.32000000000001,
+        "end": 128.56,
+        "english": "So what is a prawn?",
+        "chinese": "虾是什么？"
+    },
+    {
+        "start": 128.56,
+        "end": 129.56,
+        "english": "Prawn for the chin.",
+        "chinese": "P钳子。"
+    },
+    {
+        "start": 129.56,
+        "end": 133.64000000000001,
+        "english": "So prawn is like a word for shrimp.",
+        "chinese": "所以虾就是对虾的通义。"
+    },
+    {
+        "start": 133.64000000000001,
+        "end": 138.12,
+        "english": "I always think of jumbo prawns which are these big big big shrimp.",
+        "chinese": "我总是想到大虾，这是一种巨大的、巨大的小龙虾。"
+    },
+    {
+        "start": 138.12,
+        "end": 142.16,
+        "english": "So they're basically the same thing shrimp and prawn are basically the same.",
+        "chinese": "所以他们基本上是虾和蟹差不多。"
+    },
+    {
+        "start": 142.16,
+        "end": 147.04,
+        "english": "That's right and they're a seafood that when they get cooked they curl.",
+        "chinese": "没错，它们是海鲜，当它们煮熟后会变得柔软。"
+    },
+    {
+        "start": 147.04,
+        "end": 150.08,
+        "english": "So they look like a circle but they're pinkish or red.",
+        "chinese": "所以他们看起来像一个圆圈，但它们是粉红色或红色的。"
+    },
+    {
+        "start": 150.08,
+        "end": 151.08,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 151.08,
+        "end": 152.08,
+        "english": "They're very tasty.",
+        "chinese": "他们很好吃。"
+    },
+    {
+        "start": 152.08,
+        "end": 155.48000000000002,
+        "english": "Okay so now let's take a look at the different types of pasta.",
+        "chinese": "好的，现在让我们看看不同类型的 Pasta。"
+    },
+    {
+        "start": 155.48000000000002,
+        "end": 159.88,
+        "english": "So we have three different types of pasta that the waiter suggested.",
+        "chinese": "所以我们有三种不同的面点，服务员建议了。"
+    },
+    {
+        "start": 159.88,
+        "end": 161.52,
+        "english": "So the first one is.",
+        "chinese": "所以第一个是。"
+    },
+    {
+        "start": 161.52,
+        "end": 166.84,
+        "english": "Okay we're going to say all three in the American way but I'm going to tell you that the Italian",
+        "chinese": "好的，我们将说所有三个方式的美国式。不过我将告诉你意大利的方式。"
+    },
+    {
+        "start": 166.88,
+        "end": 169.12,
+        "english": "way is quite different so I'll say that afterwards.",
+        "chinese": "英语：路径相当不同，所以我现在说一下。"
+    },
+    {
+        "start": 169.12,
+        "end": 170.36,
+        "english": "The first is penne.",
+        "chinese": "第一是意大利面。"
+    },
+    {
+        "start": 170.36,
+        "end": 173.16,
+        "english": "Okay so this is a type of pasta.",
+        "chinese": "好的，这是类面的一种。"
+    },
+    {
+        "start": 173.16,
+        "end": 174.56,
+        "english": "What does it look like?",
+        "chinese": "What does it look like? 翻译成中文是：它看起来像什么？"
+    },
+    {
+        "start": 174.56,
+        "end": 182.16,
+        "english": "It is like a small tube so maybe maybe three centimeters long and it is round and it has",
+        "chinese": "它就像一根细管，也许可能是三厘米长的，圆润且有"
+    },
+    {
+        "start": 182.16,
+        "end": 183.24,
+        "english": "a hole in the middle.",
+        "chinese": "中等水平。"
+    },
+    {
+        "start": 183.24,
+        "end": 184.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 184.24,
+        "end": 185.24,
+        "english": "And so it's a kind of pasta.",
+        "chinese": "所以它是一种面团。"
+    },
+    {
+        "start": 185.24,
+        "end": 187.2,
+        "english": "And what about the fettuccini?",
+        "chinese": "And 什么福塔尼奇？"
+    },
+    {
+        "start": 187.2,
+        "end": 191.36,
+        "english": "So fettuccini is a long noodle but it's flat.",
+        "chinese": "所以福寿螺是条长的藤，但它很扁。"
+    },
+    {
+        "start": 191.36,
+        "end": 192.36,
+        "english": "It's flat round.",
+        "chinese": "它像一个圆盘。"
+    },
+    {
+        "start": 192.36,
+        "end": 193.36,
+        "english": "It's flat.",
+        "chinese": "它很平。"
+    },
+    {
+        "start": 193.36,
+        "end": 194.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 194.36,
+        "end": 196.92000000000002,
+        "english": "It's like a shoelace.",
+        "chinese": "就像一条绳子。"
+    },
+    {
+        "start": 196.92000000000002,
+        "end": 198.24,
+        "english": "Yeah it's long and flat.",
+        "chinese": "是啊，它长且平。"
+    },
+    {
+        "start": 198.24,
+        "end": 199.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 199.24,
+        "end": 203.20000000000002,
+        "english": "And then we have spaghetti which I think many people know and this is probably the most popular",
+        "chinese": "英语：然后我们有意大利面，我认为很多人知道这是最流行的。"
+    },
+    {
+        "start": 203.20000000000002,
+        "end": 204.20000000000002,
+        "english": "one.",
+        "chinese": "一。"
+    },
+    {
+        "start": 204.20000000000002,
+        "end": 205.20000000000002,
+        "english": "That's right.",
+        "chinese": "正确。翻译成中文是：“那对。”"
+    },
+    {
+        "start": 205.20000000000002,
+        "end": 208.72000000000003,
+        "english": "Spaghetti is very long just like fettuccini but it's very thin and round.",
+        "chinese": "意大利面非常长，就像意式肉酱面一样，但它很薄且圆润。"
+    },
+    {
+        "start": 208.72000000000003,
+        "end": 212.32000000000002,
+        "english": "So it kind of looks like maybe a pencil, a very long pencil.",
+        "chinese": "英语：所以它有点像可能是一根铅笔，长度特别长的铅笔。"
+    },
+    {
+        "start": 212.32000000000002,
+        "end": 214.16000000000003,
+        "english": "But very thin, more like hair actually.",
+        "chinese": "但是非常薄，更像头发。"
+    },
+    {
+        "start": 214.16000000000003,
+        "end": 215.16000000000003,
+        "english": "Mokkeh hair, okay.",
+        "chinese": "英语：马尾辫，行吗？"
+    },
+    {
+        "start": 215.16000000000003,
+        "end": 220.84,
+        "english": "And there are thin kinds so they have a special name but this is just a normal pasta that",
+        "chinese": "而且有薄的，所以他们有一个特殊的名称，但这是普通的意大利面。"
+    },
+    {
+        "start": 220.84,
+        "end": 221.84,
+        "english": "you will see everywhere.",
+        "chinese": "你将看到一切。"
+    },
+    {
+        "start": 221.84,
+        "end": 224.48,
+        "english": "It's very long and you can twirl it.",
+        "chinese": "英语：它非常长，你可以旋转它。"
+    },
+    {
+        "start": 224.48,
+        "end": 226.16,
+        "english": "You can spin it around your fork.",
+        "chinese": "你可以在你的叉子上旋转它。"
+    },
+    {
+        "start": 226.16,
+        "end": 227.16,
+        "english": "Around your fork.",
+        "chinese": "在你的叉子附近。"
+    },
+    {
+        "start": 227.16,
+        "end": 228.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 228.16,
+        "end": 229.16,
+        "english": "So that's what we have.",
+        "chinese": "所以这就是我们拥有的。"
+    },
+    {
+        "start": 229.16,
+        "end": 231.84,
+        "english": "We have penne, fettuccini and spaghetti.",
+        "chinese": "我们有意大利面、奶油蘑菇和意大利面条。"
+    },
+    {
+        "start": 231.84,
+        "end": 235.64000000000001,
+        "english": "Now the other woman ended up ordering horse tripe.",
+        "chinese": "现在其他女人决定吃马肉了。"
+    },
+    {
+        "start": 235.64000000000001,
+        "end": 238.0,
+        "english": "Now this is also another Italian dish.",
+        "chinese": "现在这也是另一种意大利菜。"
+    },
+    {
+        "start": 238.0,
+        "end": 239.0,
+        "english": "What is this exactly?",
+        "chinese": "这是什么？"
+    },
+    {
+        "start": 239.0,
+        "end": 240.36,
+        "english": "Well horse is the animal.",
+        "chinese": "英语：好马是匹良驹。"
+    },
+    {
+        "start": 240.36,
+        "end": 244.16,
+        "english": "So this is a, this is a tripe that comes from a horse but tripe is a certain part of",
+        "chinese": "所以，这是个傻瓜相机，这个是来自马的三头六臂的一部分。"
+    },
+    {
+        "start": 244.16,
+        "end": 247.36,
+        "english": "the animal that we, it's a food name actually.",
+        "chinese": "这个动物我们，它实际上是个食物名。"
+    },
+    {
+        "start": 247.36,
+        "end": 252.56,
+        "english": "So when we eat the stomach lining, the part of the stomach that goes around the stomach,",
+        "chinese": "所以当我们吃胃壁时，胃的上半部分会绕过胃。"
+    },
+    {
+        "start": 252.56,
+        "end": 255.08,
+        "english": "it's kind of squishy, soft.",
+        "chinese": "它有点松散，柔软。"
+    },
+    {
+        "start": 255.08,
+        "end": 261.56,
+        "english": "That is called tripe and you can have tripe from many different animals like cows or pigs.",
+        "chinese": "这个叫做三明治，你可以从各种动物那里得到三明治。"
+    },
+    {
+        "start": 261.56,
+        "end": 267.0,
+        "english": "But in this case it's horse tripe so it's basically that thick piece of like spongy material",
+        "chinese": "但是在这个情况下，它就像海绵一样，根本不是什么好东西。"
+    },
+    {
+        "start": 267.0,
+        "end": 269.08000000000004,
+        "english": "around the animal's stomach.",
+        "chinese": "在动物的胃周围。"
+    },
+    {
+        "start": 269.08000000000004,
+        "end": 270.08000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 270.08000000000004,
+        "end": 271.72,
+        "english": "When you cook it it looks very funny.",
+        "chinese": "当您烹饪时，它看起来非常有趣。"
+    },
+    {
+        "start": 271.72,
+        "end": 276.68,
+        "english": "So this is a, and this is actually a famous Italian dish as well, right?",
+        "chinese": "所以，这是一台傻瓜相机，而实际上这也是一个著名的意大利菜肴。"
+    },
+    {
+        "start": 276.72,
+        "end": 277.24,
+        "english": "I think so.",
+        "chinese": "我同意。"
+    },
+    {
+        "start": 277.24,
+        "end": 281.0,
+        "english": "I think they ate it in the south more but you can definitely get tripe in a lot of different",
+        "chinese": "我感觉他们在南方吃过了，但你绝对能在很多地方吃到三明治。"
+    },
+    {
+        "start": 281.0,
+        "end": 282.0,
+        "english": "places in Italy.",
+        "chinese": "意大利的景点。"
+    },
+    {
+        "start": 282.0,
+        "end": 283.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 283.0,
+        "end": 284.0,
+        "english": "Very good.",
+        "chinese": "非常棒。"
+    },
+    {
+        "start": 284.0,
+        "end": 285.0,
+        "english": "So there you have it.",
+        "chinese": "英语：所以就是这样。"
+    },
+    {
+        "start": 285.0,
+        "end": 287.12,
+        "english": "A lot of different dishes, Italian dishes.",
+        "chinese": "A 丰富的菜谱，意大利菜谱。"
+    },
+    {
+        "start": 287.12,
+        "end": 289.84000000000003,
+        "english": "We've taken a look at a couple of pasta dishes.",
+        "chinese": "我们已经看了几道面点。"
+    },
+    {
+        "start": 289.84000000000003,
+        "end": 293.84000000000003,
+        "english": "But we take a break, listen to the dialogue again and we'll be back with Fluency Builder.",
+        "chinese": "但是我们暂停一下，再次听对话，我们会回到 Fluent Builder。"
+    },
+    {
+        "start": 302.0,
+        "end": 303.92,
+        "english": "Good evening ladies.",
+        "chinese": "晚上好，女士们。"
+    },
+    {
+        "start": 303.92,
+        "end": 307.84000000000003,
+        "english": "My name is Josh and I'll be your servant tonight.",
+        "chinese": "我的名字是乔斯，今晚我将是你的服务员。"
+    },
+    {
+        "start": 307.84000000000003,
+        "end": 309.8,
+        "english": "May I take your order?",
+        "chinese": "英语：请给我点餐。"
+    },
+    {
+        "start": 309.8,
+        "end": 312.24,
+        "english": "Do you have any recommendations?",
+        "chinese": "是的，你有什么推荐吗？"
+    },
+    {
+        "start": 312.24,
+        "end": 319.04,
+        "english": "Well, I personally like the chicken penne with cream mushroom sauce but the prawn fit",
+        "chinese": "英语：嗯，我个人喜欢鸡肉炖蘑菇的鸡丁，但虾仁则更适合。"
+    },
+    {
+        "start": 319.04,
+        "end": 322.04,
+        "english": "the chinne is also very nice.",
+        "chinese": "这个家伙也挺好的。"
+    },
+    {
+        "start": 322.04,
+        "end": 325.36,
+        "english": "Mmm, I'd like to have the grilled chicken.",
+        "chinese": "我想要吃烤鸡。"
+    },
+    {
+        "start": 325.36,
+        "end": 328.64,
+        "english": "But can I have spaghetti instead of pinne?",
+        "chinese": "但是，我能不能吃意大利面呢？"
+    },
+    {
+        "start": 328.64,
+        "end": 330.76,
+        "english": "Of course, man.",
+        "chinese": "当然，先生。"
+    },
+    {
+        "start": 330.76,
+        "end": 332.92,
+        "english": "And for you?",
+        "chinese": "和你一起？"
+    },
+    {
+        "start": 332.92,
+        "end": 339.92,
+        "english": "I'll have the horse tripe.",
+        "chinese": "我将把马蹄踢开。"
+    },
+    {
+        "start": 339.92,
+        "end": 343.36,
+        "english": "All right, we're back.",
+        "chinese": "英语：一切好，我们回来了。"
+    },
+    {
+        "start": 343.36,
+        "end": 348.68,
+        "english": "So now we're going to give you three key phrases, fun Fluency Builder.",
+        "chinese": "所以现在我们将给你三个关键短语，趣味的 Fluency Builder。"
+    },
+    {
+        "start": 348.68,
+        "end": 350.40000000000003,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 350.40000000000003,
+        "end": 355.08000000000004,
+        "english": "So the phrases we have selected for you today are phrases that you are sure to hear any",
+        "chinese": "所以今天您选择的这些短语，我相信您一定会听到任何。"
+    },
+    {
+        "start": 355.08000000000004,
+        "end": 359.36,
+        "english": "time you go to a restaurant in America or any other English-speaking country.",
+        "chinese": "时间你去美国或其他英语国家的餐厅吗？"
+    },
+    {
+        "start": 359.36,
+        "end": 363.44,
+        "english": "Basically, you have a waiter who comes to you if you sit down and this is what they'll",
+        "chinese": "基本来说，你有位服务员会来陪你吃饭的。"
+    },
+    {
+        "start": 363.44,
+        "end": 364.44,
+        "english": "say.",
+        "chinese": "英语：say."
+    },
+    {
+        "start": 364.44,
+        "end": 366.44,
+        "english": "The first thing they'll say is I'll be your server.",
+        "chinese": "英语：他们首先会说：“我会成为你的服务器。”"
+    },
+    {
+        "start": 366.44,
+        "end": 367.92,
+        "english": "I'll be your server tonight.",
+        "chinese": "我今晚将是你服务器。"
+    },
+    {
+        "start": 367.92,
+        "end": 369.12,
+        "english": "So he introduces himself.",
+        "chinese": "所以，他自我介绍。"
+    },
+    {
+        "start": 369.12,
+        "end": 370.92,
+        "english": "He says, good evening ladies.",
+        "chinese": "英语：他说道，晚上好女士们。"
+    },
+    {
+        "start": 370.92,
+        "end": 373.56,
+        "english": "My name is Josh and I'll be your server tonight.",
+        "chinese": "我的名字是乔斯，今晚我们将是你服务器。"
+    },
+    {
+        "start": 373.56,
+        "end": 378.68,
+        "english": "So when he's saying I'll be your server, it's another way of saying I'll be your waiter.",
+        "chinese": "所以，当他说我要做你的服务器时，它又是一种表达方式，即我要做你的服务员。"
+    },
+    {
+        "start": 378.68,
+        "end": 379.92,
+        "english": "Your waiter, that's right.",
+        "chinese": "你的服务员，对吧。"
+    },
+    {
+        "start": 379.92,
+        "end": 381.8,
+        "english": "But server can be a man or a woman.",
+        "chinese": "但是服务器可以是男人或者女人。"
+    },
+    {
+        "start": 381.8,
+        "end": 382.8,
+        "english": "Uh-huh.",
+        "chinese": "嗯，谢谢！"
+    },
+    {
+        "start": 382.8,
+        "end": 384.64,
+        "english": "And a waiter can only be a man.",
+        "chinese": "一个服务员只能是男人。"
+    },
+    {
+        "start": 384.64,
+        "end": 386.04,
+        "english": "If it's a woman, it's a waitress.",
+        "chinese": "如果是一只女人，那就是个服务员。"
+    },
+    {
+        "start": 386.04,
+        "end": 387.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 387.04,
+        "end": 393.36,
+        "english": "So waitress for a woman, waiter for a guy, but if you serve her, it's for man and women.",
+        "chinese": "所以，服务员为女士服务，服务员为男士服务，但如果你为她服务，那就为男人和女人。"
+    },
+    {
+        "start": 393.36,
+        "end": 394.36,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 394.36,
+        "end": 395.36,
+        "english": "I'll be your server.",
+        "chinese": "我将是你服务器。"
+    },
+    {
+        "start": 395.36,
+        "end": 399.56,
+        "english": "And I just like to remind you that this is more common in America because in America,",
+        "chinese": "我只想提醒您，这是美国更常见的做法。因为在美国，"
+    },
+    {
+        "start": 399.56,
+        "end": 404.44,
+        "english": "waiters and waitresses or servers, they have to earn tips and so they're very nice.",
+        "chinese": "英语：服务员或服务员，他们必须赚取报酬，所以他们是非常nice的。"
+    },
+    {
+        "start": 404.44,
+        "end": 405.44,
+        "english": "Uh-huh.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 405.44,
+        "end": 406.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 406.44,
+        "end": 408.72,
+        "english": "So this is why they introduced themselves.",
+        "chinese": "所以，这就是他们为什么介绍自己的原因。"
+    },
+    {
+        "start": 408.72,
+        "end": 410.08000000000004,
+        "english": "They are very nice to you.",
+        "chinese": "他们非常友好。"
+    },
+    {
+        "start": 410.08000000000004,
+        "end": 413.52000000000004,
+        "english": "And then they ask, may I take your order?",
+        "chinese": "英语：然后他们问，可以让我收下订单吗？"
+    },
+    {
+        "start": 413.52,
+        "end": 414.79999999999995,
+        "english": "May I take your order?",
+        "chinese": "英语：请让我来点餐。"
+    },
+    {
+        "start": 414.79999999999995,
+        "end": 418.84,
+        "english": "So the verb to take here doesn't mean to take it from you.",
+        "chinese": "所以这里的动词“to take”并不意味着从你那里拿走。"
+    },
+    {
+        "start": 418.84,
+        "end": 422.68,
+        "english": "It means to ask you and then they'll write it down.",
+        "chinese": "英语：它意味着你要先问你，然后他们会写下来。"
+    },
+    {
+        "start": 422.68,
+        "end": 423.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 423.68,
+        "end": 427.52,
+        "english": "So the server will ask you what you want to order and then we'll write it down.",
+        "chinese": "所以服务器会问你要什么，然后我们会记录下来。"
+    },
+    {
+        "start": 427.52,
+        "end": 430.56,
+        "english": "And the order is what you have decided to eat.",
+        "chinese": "和这个决定你所吃的食物一样。"
+    },
+    {
+        "start": 430.56,
+        "end": 432.52,
+        "english": "So that's the food that you order.",
+        "chinese": "所以，这就是你点的菜。"
+    },
+    {
+        "start": 432.52,
+        "end": 437.4,
+        "english": "Now this next phrase is very, very handy, especially if you're in a country that maybe",
+        "chinese": "现在这个下一步非常实用，尤其是如果你身处一个可能需要帮助的国家。"
+    },
+    {
+        "start": 437.4,
+        "end": 441.28,
+        "english": "you don't know the dishes well or if you're in a restaurant that you want to see what",
+        "chinese": "你不知道这些菜怎么样，或者你想看看这家餐厅的特色菜。"
+    },
+    {
+        "start": 441.28,
+        "end": 446.71999999999997,
+        "english": "they recommend it, you can just say, do you have any recommendations?",
+        "chinese": "他们建议你，你可以直接说，你有没有推荐？"
+    },
+    {
+        "start": 446.71999999999997,
+        "end": 448.88,
+        "english": "Do you have any recommendations?",
+        "chinese": "英语：你有推荐吗？"
+    },
+    {
+        "start": 448.88,
+        "end": 449.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 449.88,
+        "end": 453.32,
+        "english": "So this is a way to ask the server, what's good?",
+        "chinese": "所以，这是通过这种方式向服务器请求的。"
+    },
+    {
+        "start": 453.32,
+        "end": 456.84,
+        "english": "So what he thinks is good or what the restaurant serves very well.",
+        "chinese": "所以，他觉得餐厅做得很好，而餐馆的菜式非常出色。"
+    },
+    {
+        "start": 456.84,
+        "end": 457.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 457.84,
+        "end": 460.11999999999995,
+        "english": "So you could say, I've never been to this restaurant before.",
+        "chinese": "所以你可以说，我之前从未去过这家餐厅。"
+    },
+    {
+        "start": 460.11999999999995,
+        "end": 465.11999999999995,
+        "english": "Do you have any recommendations or maybe even, you know, Marco, we're having dinner and",
+        "chinese": "英语：你有推荐吗？或者，你知不知道，马科，我们正准备吃饭呢。"
+    },
+    {
+        "start": 465.11999999999995,
+        "end": 469.4,
+        "english": "I know that you really like Italian food and I don't know much about it time food.",
+        "chinese": "我知道你真的很喜欢意大利食物，但我并不了解它的时间食品。"
+    },
+    {
+        "start": 469.4,
+        "end": 472.12,
+        "english": "So I can ask you, do you have any recommendations?",
+        "chinese": "英语：所以，你能给我一些推荐吗？"
+    },
+    {
+        "start": 472.12,
+        "end": 473.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 473.12,
+        "end": 476.08,
+        "english": "So this is a way of asking what is good here?",
+        "chinese": "所以，这是在问这里有什么好？"
+    },
+    {
+        "start": 476.08,
+        "end": 478.91999999999996,
+        "english": "What is delicious in this restaurant?",
+        "chinese": "这个餐厅的菜式很好。"
+    },
+    {
+        "start": 478.91999999999996,
+        "end": 479.91999999999996,
+        "english": "What's good to eat?",
+        "chinese": "好的食物是什么？"
+    },
+    {
+        "start": 479.91999999999996,
+        "end": 480.91999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 480.91999999999996,
+        "end": 481.91999999999996,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 481.91999999999996,
+        "end": 482.91999999999996,
+        "english": "So three phrases there for you.",
+        "chinese": "所以三句话给你。"
+    },
+    {
+        "start": 482.91999999999996,
+        "end": 486.15999999999997,
+        "english": "Why don't we take another short break and let's listen to the dialogue for the last",
+        "chinese": "英语：为什么我们不休息一下，让我们听听对话的最后一段。"
+    },
+    {
+        "start": 486.15999999999997,
+        "end": 487.15999999999997,
+        "english": "time.",
+        "chinese": "时间。"
+    },
+    {
+        "start": 487.15999999999997,
+        "end": 496.79999999999995,
+        "english": "Good evening ladies.",
+        "chinese": "晚上好，女士们。"
+    },
+    {
+        "start": 496.8,
+        "end": 500.72,
+        "english": "My name is Josh and I'll be your server tonight.",
+        "chinese": "我的名字是乔斯，今晚我将是你服务器。"
+    },
+    {
+        "start": 500.72,
+        "end": 502.68,
+        "english": "May I take your order?",
+        "chinese": "英语：请让我来处理您的订单。"
+    },
+    {
+        "start": 502.68,
+        "end": 505.12,
+        "english": "Do you have any recommendations?",
+        "chinese": "是的，你有什么推荐吗？"
+    },
+    {
+        "start": 505.12,
+        "end": 512.0600000000001,
+        "english": "Well, I personally like the chicken pan with cream mushroom sauce but the prawn fit the",
+        "chinese": "嗯，我个人喜欢鸡肉汤底加奶油蘑菇酱的菜式，但虾仁适合。"
+    },
+    {
+        "start": 512.0600000000001,
+        "end": 514.76,
+        "english": "chino is also very nice.",
+        "chinese": "英语：它也很棒。"
+    },
+    {
+        "start": 514.76,
+        "end": 521.52,
+        "english": "No, no, I'd like to have the grilled chicken but can I have spaghetti instead of pine?",
+        "chinese": "是的，我想要鸡肉而不是意大利面。"
+    },
+    {
+        "start": 521.52,
+        "end": 523.64,
+        "english": "Of course, man.",
+        "chinese": "当然，先生。"
+    },
+    {
+        "start": 523.64,
+        "end": 525.8,
+        "english": "And for you?",
+        "chinese": "和你一起？"
+    },
+    {
+        "start": 525.8,
+        "end": 532.8,
+        "english": "I'll have the horse tripe.",
+        "chinese": "我将把马蹄踢开。"
+    },
+    {
+        "start": 532.8,
+        "end": 537.04,
+        "english": "Alright, so talking about pasta.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 537.04,
+        "end": 542.28,
+        "english": "Now one thing before you mentioned that all these different types of pasta, they're basically",
+        "chinese": "现在你提到的这些不同类型的面点，它们基本上都是用各种不同的材料制作而成。"
+    },
+    {
+        "start": 542.28,
+        "end": 545.0,
+        "english": "the same thing, they're just different shapes, right?",
+        "chinese": "是的，他们只是形状不同的东西。"
+    },
+    {
+        "start": 545.0,
+        "end": 546.3199999999999,
+        "english": "That's how you distinguish them.",
+        "chinese": "这是你如何区分它们。"
+    },
+    {
+        "start": 546.3199999999999,
+        "end": 550.9599999999999,
+        "english": "Well yeah, they're basically made from the same ingredients and so you have most of them",
+        "chinese": "英语：嗯，他们基本上是用相同的原材料制成的，所以你大部分都是拥有的。"
+    },
+    {
+        "start": 550.9599999999999,
+        "end": 555.56,
+        "english": "are kind of a yellow color but sometimes you have pastas that are a dark like a brown",
+        "chinese": "英语：它有点黄色，但有时你吃过的面条是深棕色的。"
+    },
+    {
+        "start": 555.56,
+        "end": 559.28,
+        "english": "or a green that depends on what kind of things you put into the dough.",
+        "chinese": "或者一个能根据你放入面粉的材料决定大小的东西。"
+    },
+    {
+        "start": 559.28,
+        "end": 563.4799999999999,
+        "english": "But generally they're the same ingredients but they are different shapes like they have",
+        "chinese": "但是通常它们的成分相似，但形状不同，比如它们有。"
+    },
+    {
+        "start": 563.4799999999999,
+        "end": 566.0799999999999,
+        "english": "curly ones and they have long ones and short ones.",
+        "chinese": "直角的和它们有长的，也有短的。"
+    },
+    {
+        "start": 566.0799999999999,
+        "end": 571.68,
+        "english": "Alright, so how do you pronounce, we said pine in English, in American English but in",
+        "chinese": "好的，那么你如何发音呢？我们说“pine”在英语中怎么说，在美国英语里但在中国用汉语呢。"
+    },
+    {
+        "start": 571.68,
+        "end": 574.3199999999999,
+        "english": "proper Italian it would be penne.",
+        "chinese": "正确的翻译是：正确意大利语，它会变成笔。"
+    },
+    {
+        "start": 574.3199999999999,
+        "end": 577.64,
+        "english": "So you double pronounce the consonant.",
+        "chinese": "所以你双声元音要准确地读出来。"
+    },
+    {
+        "start": 577.64,
+        "end": 579.16,
+        "english": "What about fettuccine?",
+        "chinese": "关于意大利面，你有什么想法？"
+    },
+    {
+        "start": 579.16,
+        "end": 580.16,
+        "english": "Fettuccine.",
+        "chinese": "意大利面。"
+    },
+    {
+        "start": 580.16,
+        "end": 582.2399999999999,
+        "english": "Oh, it's fettuccine.",
+        "chinese": "英语：哦，它是意大利面。"
+    },
+    {
+        "start": 582.24,
+        "end": 586.36,
+        "english": "Fettuccine, in American we say fettuccine.",
+        "chinese": "英语：意大利面，我们在美国叫意面。"
+    },
+    {
+        "start": 586.36,
+        "end": 587.36,
+        "english": "Fettuccine, yeah.",
+        "chinese": "意大利面，对了。"
+    },
+    {
+        "start": 587.36,
+        "end": 591.32,
+        "english": "Fettuccine Alfredo is a very common American Italian dish but in Italian it would be",
+        "chinese": "意大利面福塔纳是美国的一种常见意大利菜肴，但在意大利语中它应该被称为“fettuccine alfredo”。"
+    },
+    {
+        "start": 591.32,
+        "end": 593.96,
+        "english": "fettuccine so you might hear it differently.",
+        "chinese": "好的，以下是将英文“fettuccine so you might hear it differently”翻译成中文的句子："
+    },
+    {
+        "start": 593.96,
+        "end": 595.48,
+        "english": "And what about spaghetti?",
+        "chinese": "And what about spaghetti? 翻译成中文是："
+    },
+    {
+        "start": 595.48,
+        "end": 596.48,
+        "english": "Spaghetti.",
+        "chinese": "意大利面。"
+    },
+    {
+        "start": 596.48,
+        "end": 598.6,
+        "english": "Spaghetti, oh you pronounce the double tea as well.",
+        "chinese": "英语：它是一只傻瓜相机。"
+    },
+    {
+        "start": 598.6,
+        "end": 599.6,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 599.6,
+        "end": 604.32,
+        "english": "Okay, so you said that obviously there are a lot of other types of pasta.",
+        "chinese": "好的，那么现在请将以下句子翻译成中文："
+    },
+    {
+        "start": 604.32,
+        "end": 605.96,
+        "english": "What about this pasta that's...",
+        "chinese": "你呢，这个意大利面……"
+    },
+    {
+        "start": 605.96,
+        "end": 608.72,
+        "english": "I think it's made of spinach, it's green.",
+        "chinese": "我猜它是由菠菜制成的，颜色是绿色。"
+    },
+    {
+        "start": 608.72,
+        "end": 611.5600000000001,
+        "english": "Yeah, that's just a spinach pasta.",
+        "chinese": "嗯，那只是个菠菜面。"
+    },
+    {
+        "start": 611.56,
+        "end": 614.7199999999999,
+        "english": "Oh, okay, so they put the spinach in the dough.",
+        "chinese": "英语：哦，好吧，所以他们把菠菜放到了面团里。"
+    },
+    {
+        "start": 614.7199999999999,
+        "end": 619.88,
+        "english": "But you can also find very many shapes like the angel hair pasta is very popular.",
+        "chinese": "但是你也可以找到像奶油夹心饼干这样的形状。"
+    },
+    {
+        "start": 619.88,
+        "end": 620.88,
+        "english": "That's very thin.",
+        "chinese": "这句话的中文翻译是：“那太薄了。”"
+    },
+    {
+        "start": 620.88,
+        "end": 624.1199999999999,
+        "english": "It's very thin, that's the one I was saying is it's almost like hair, it's so thin,",
+        "chinese": "英语：它很薄，这就是我刚才说的几乎像头发一样细。"
+    },
+    {
+        "start": 624.1199999999999,
+        "end": 625.8,
+        "english": "it's very, it's long as well.",
+        "chinese": "英语：它很短，也很长。"
+    },
+    {
+        "start": 625.8,
+        "end": 628.64,
+        "english": "What about those little curly tubes?",
+        "chinese": "英语：那些小圆管怎么样？"
+    },
+    {
+        "start": 628.64,
+        "end": 629.64,
+        "english": "You...",
+        "chinese": "你..."
+    },
+    {
+        "start": 629.64,
+        "end": 631.92,
+        "english": "They look like penne but they're kind of curved.",
+        "chinese": "他们看起来像意大利面，但有点弯曲。"
+    },
+    {
+        "start": 631.92,
+        "end": 633.92,
+        "english": "They look like little ends or you...",
+        "chinese": "他们看起来像小点或你..."
+    },
+    {
+        "start": 633.92,
+        "end": 635.76,
+        "english": "Oh, you have macaroni.",
+        "chinese": "英语：哦，你有麻花。"
+    },
+    {
+        "start": 635.76,
+        "end": 636.76,
+        "english": "Macaroni.",
+        "chinese": "在中文中，\"macaroni\" 翻译为 \"意大利面\"。"
+    },
+    {
+        "start": 636.76,
+        "end": 640.3199999999999,
+        "english": "Elbow macaroni, we call them in America and they look like your elbow on your arms, they",
+        "chinese": "美国的懒狗相机，我们称之为“在你的手臂上”，它们看起来像你的肘部。"
+    },
+    {
+        "start": 640.32,
+        "end": 641.72,
+        "english": "call them albomacaroni.",
+        "chinese": "请称呼他们为 \"阿比奥卡里诺\"。"
+    },
+    {
+        "start": 641.72,
+        "end": 645.5200000000001,
+        "english": "What about the ones that have like a spiral, they kind of look like springs?",
+        "chinese": "英语：什么关于像螺旋状的，它们看起来有点像弹簧？"
+    },
+    {
+        "start": 645.5200000000001,
+        "end": 646.9200000000001,
+        "english": "Those are called fucilli.",
+        "chinese": "这些是叫蘑菇的。"
+    },
+    {
+        "start": 646.9200000000001,
+        "end": 647.9200000000001,
+        "english": "Fucilli.",
+        "chinese": "蘑菇。"
+    },
+    {
+        "start": 647.9200000000001,
+        "end": 649.7600000000001,
+        "english": "Yeah, and you also have one that's very special.",
+        "chinese": "是的，而且你还有一个非常特别的相机。"
+    },
+    {
+        "start": 649.7600000000001,
+        "end": 652.5200000000001,
+        "english": "This is my favorite pasta, by the way, it's called orequette.",
+        "chinese": "这个是我的最爱的意大利面，叫作奥鲁克特。"
+    },
+    {
+        "start": 652.5200000000001,
+        "end": 653.5200000000001,
+        "english": "Oh, what is this?",
+        "chinese": "英语：哦，这是什么？"
+    },
+    {
+        "start": 653.5200000000001,
+        "end": 657.2,
+        "english": "Or a quette and they look like your ear and that's what that means in Italian, it means",
+        "chinese": "英语：或者一个，他们看起来像你的耳朵，这就是在意大利语中意味着什么，它意味着。"
+    },
+    {
+        "start": 657.2,
+        "end": 658.2,
+        "english": "your little ear.",
+        "chinese": "你的小耳朵。"
+    },
+    {
+        "start": 658.2,
+        "end": 659.2,
+        "english": "Oh really?",
+        "chinese": "英语：Oh really?"
+    },
+    {
+        "start": 659.2,
+        "end": 660.2,
+        "english": "Yeah, so earpastas.",
+        "chinese": "是的，所以豆角炒鸡蛋。"
+    },
+    {
+        "start": 660.2,
+        "end": 661.88,
+        "english": "Wow, and what about ravioli?",
+        "chinese": "哇，还有呢？"
+    },
+    {
+        "start": 661.88,
+        "end": 666.6800000000001,
+        "english": "This is probably one of the most famous dishes, ravioli, what is this?",
+        "chinese": "这个很可能是这道菜中最著名的，可能是龙虾球。"
+    },
+    {
+        "start": 666.6800000000001,
+        "end": 669.5600000000001,
+        "english": "A ravioli is like a square.",
+        "chinese": "英文：一个意大利面就像一个方形。"
+    },
+    {
+        "start": 669.5999999999999,
+        "end": 673.76,
+        "english": "It's like a square pasta, but it's more like a pocket or a pillow.",
+        "chinese": "英语：它像一个方形的面点，但又更像一个碗或枕头。"
+    },
+    {
+        "start": 673.76,
+        "end": 678.4399999999999,
+        "english": "And inside you have ingredients like meat or cheese usually is very popular.",
+        "chinese": "而且你内部通常会有一些像肉或奶酪这样的原材料。"
+    },
+    {
+        "start": 678.4399999999999,
+        "end": 682.0799999999999,
+        "english": "So you have this cheese inside, this little packet.",
+        "chinese": "所以，你有这个小盒子，里面放着这个奶酪。"
+    },
+    {
+        "start": 682.0799999999999,
+        "end": 685.7199999999999,
+        "english": "This little dough, it's very soft, very warm.",
+        "chinese": "这个小面，它既柔软又温暖。"
+    },
+    {
+        "start": 685.7199999999999,
+        "end": 690.04,
+        "english": "And then on top sometimes people like to put butter or tomato sauce.",
+        "chinese": "英语：然后有时人们喜欢在顶部放一些黄油或番茄酱。"
+    },
+    {
+        "start": 690.04,
+        "end": 691.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 691.04,
+        "end": 692.04,
+        "english": "Really delicious.",
+        "chinese": "真的很好吃。"
+    },
+    {
+        "start": 692.04,
+        "end": 693.04,
+        "english": "So that's the main difference.",
+        "chinese": "所以，这就是主要的区别。"
+    },
+    {
+        "start": 693.04,
+        "end": 695.76,
+        "english": "This was obviously all the pasta that we mentioned, they're just...",
+        "chinese": "这个显然是我们提到的所有的 Pasta。"
+    },
+    {
+        "start": 695.76,
+        "end": 697.3599999999999,
+        "english": "They don't have anything inside them.",
+        "chinese": "他们没有东西在里面。"
+    },
+    {
+        "start": 697.3599999999999,
+        "end": 698.68,
+        "english": "No, they're just dough.",
+        "chinese": "是的，它们只是面团。"
+    },
+    {
+        "start": 698.68,
+        "end": 701.3599999999999,
+        "english": "But ravioli is a special kind of pasta.",
+        "chinese": "但是拉西奥是一种特别的面食。"
+    },
+    {
+        "start": 701.3599999999999,
+        "end": 703.76,
+        "english": "It's almost like a dumpling in a way.",
+        "chinese": "它就像一个饺子一样。"
+    },
+    {
+        "start": 703.76,
+        "end": 704.76,
+        "english": "It's stuffed.",
+        "chinese": "它被包裹着。"
+    },
+    {
+        "start": 704.76,
+        "end": 705.76,
+        "english": "They're has something inside.",
+        "chinese": "他们有一些东西在里面。"
+    },
+    {
+        "start": 705.76,
+        "end": 706.76,
+        "english": "They're has something inside.",
+        "chinese": "他们有东西在里面。"
+    },
+    {
+        "start": 706.76,
+        "end": 707.76,
+        "english": "All right, really interesting.",
+        "chinese": "好的，真的很有意思。"
+    },
+    {
+        "start": 707.76,
+        "end": 711.52,
+        "english": "I think Italian cuisine is among one of the most famous foods in the world.",
+        "chinese": "我总觉得意大利菜在世界上是最著名的美食之一。"
+    },
+    {
+        "start": 711.52,
+        "end": 716.9599999999999,
+        "english": "And well, you should let us know if what is your favorite Italian dish.",
+        "chinese": "而且，你应该告诉我你的最爱意大利菜。"
+    },
+    {
+        "start": 716.9599999999999,
+        "end": 717.9599999999999,
+        "english": "Please let us know.",
+        "chinese": "请让我们知道。"
+    },
+    {
+        "start": 717.9599999999999,
+        "end": 719.76,
+        "english": "Our website is englospod.com.",
+        "chinese": "我们的网站是环球普罗达网。"
+    },
+    {
+        "start": 719.76,
+        "end": 722.0,
+        "english": "And when you're there, you could find out what our favorite dishes are.",
+        "chinese": "当您在那里，您就能知道我们最喜欢的菜肴。"
+    },
+    {
+        "start": 722.0,
+        "end": 723.0,
+        "english": "All right, we'll see you guys there.",
+        "chinese": "好的，我们见你了。"
+    },
+    {
+        "start": 723.0,
+        "end": 724.0,
+        "english": "Bye.",
+        "chinese": "拜。"
+    },
+    {
+        "start": 724.0,
+        "end": 725.0,
+        "english": "Bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 728.68,
+        "end": 729.68,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

@@ -1,0 +1,1442 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.16,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 5.16,
+        "end": 6.5600000000000005,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.5600000000000005,
+        "end": 9.52,
+        "english": "And we're bringing you a very advanced lesson today.",
+        "chinese": "今天，我们将向您展示一个非常先进的课程。"
+    },
+    {
+        "start": 9.52,
+        "end": 13.52,
+        "english": "That's right. We're talking about another business topic, aren't we?",
+        "chinese": "是的，我们正在讨论另一个话题。不是吗？"
+    },
+    {
+        "start": 13.52,
+        "end": 18.36,
+        "english": "It's a topic that's kind of popular these days all about efficiency and reducing costs.",
+        "chinese": "这个话题在最近几年里比较流行，关于效率和降低成本。"
+    },
+    {
+        "start": 18.36,
+        "end": 21.68,
+        "english": "So we're going to be talking about the just-in-time philosophy.",
+        "chinese": "所以我们将谈论准时制哲学。"
+    },
+    {
+        "start": 21.68,
+        "end": 26.32,
+        "english": "Um, I don't know much about this philosophy. So good thing we've got Marco here.",
+        "chinese": "嗯，我对这个哲学知识了解不多。所以好在有马克在这里。"
+    },
+    {
+        "start": 26.32,
+        "end": 29.72,
+        "english": "Well, what we are going to be looking at is not really in depth.",
+        "chinese": "嗯，我们正在考虑的不是真的深入。"
+    },
+    {
+        "start": 29.72,
+        "end": 35.0,
+        "english": "We're just going to be looking at some basic points of what a just-in-time philosophy would be like in a company.",
+        "chinese": "我们只是将要看看什么是“准时生产”在一家公司的基本点。"
+    },
+    {
+        "start": 35.0,
+        "end": 38.76,
+        "english": "Mm-hmm. But what we're really going to be looking at is the language to do with this philosophy, right?",
+        "chinese": "嗯，嗯。但我们真正要关注的是这个哲学的语境，对吗？"
+    },
+    {
+        "start": 38.76,
+        "end": 46.68,
+        "english": "Exactly. We're going to be looking at some technical terms and some other useful phrases that you can use when you're talking in a business setting.",
+        "chinese": "是的。我们将要讨论一些技术术语和一些其他有用的表达方式，当你在商业场合交谈时可以使用这些术语。"
+    },
+    {
+        "start": 46.68,
+        "end": 49.239999999999995,
+        "english": "Okay. Well, why don't we get started with the language then?",
+        "chinese": "好的。好，为什么不先用语言开始呢？"
+    },
+    {
+        "start": 49.239999999999995,
+        "end": 51.64,
+        "english": "Okay. Let's take a look at vocabulary preview.",
+        "chinese": "好的。让我们看看词汇预览。"
+    },
+    {
+        "start": 51.64,
+        "end": 53.56,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 53.56,
+        "end": 57.4,
+        "english": "On vocabulary preview today, we have the word lead time.",
+        "chinese": "今天词汇预览中，我们有“提前时间”的词汇。"
+    },
+    {
+        "start": 57.4,
+        "end": 59.56,
+        "english": "Lead time. Lead time.",
+        "chinese": "在中文中，\"lead time\" 的翻译是 \"提前时间\"。"
+    },
+    {
+        "start": 59.56,
+        "end": 61.72,
+        "english": "L-E-A-D lead. Lead time.",
+        "chinese": "L-E-A-D 领导。 生产周期。"
+    },
+    {
+        "start": 61.72,
+        "end": 63.4,
+        "english": "Right. Like lead.",
+        "chinese": "正确。像领导。"
+    },
+    {
+        "start": 63.4,
+        "end": 65.96,
+        "english": "This is something that factories usually would use.",
+        "chinese": "这是工厂通常会使用的东西。"
+    },
+    {
+        "start": 65.96,
+        "end": 74.12,
+        "english": "Yeah. Yeah. I guess lead time is the time in between point A and point B on a production schedule, right?",
+        "chinese": "是的。是的。我猜生产计划中点A和点B之间的间隔时间就是时间差，对吗？"
+    },
+    {
+        "start": 74.12,
+        "end": 77.32,
+        "english": "Right. So you could have, for example, production lead time.",
+        "chinese": "正确。例如，您可以有生产提前时间。"
+    },
+    {
+        "start": 77.32,
+        "end": 82.84,
+        "english": "So that's the time between when you make an order and when the product is finished.",
+        "chinese": "所以，这就是您下单到产品完成之间的那个时间。"
+    },
+    {
+        "start": 82.84,
+        "end": 86.03999999999999,
+        "english": "Exactly. And you could also have delivery lead time.",
+        "chinese": "正确。您也可以有送货提前时间。"
+    },
+    {
+        "start": 86.04,
+        "end": 91.16000000000001,
+        "english": "So the time between when you place an order and when the product gets delivered to you.",
+        "chinese": "所以，从您下单到货物送达您的时间。"
+    },
+    {
+        "start": 91.16000000000001,
+        "end": 93.88000000000001,
+        "english": "So depending on the companies you have, differently time.",
+        "chinese": "所以根据你拥有的公司，时间不同。"
+    },
+    {
+        "start": 93.88000000000001,
+        "end": 97.96000000000001,
+        "english": "Some are three days, other are five days, other are 45 days.",
+        "chinese": "根据您提供的信息，这些日期可以翻译成中文："
+    },
+    {
+        "start": 97.96000000000001,
+        "end": 102.76,
+        "english": "And we at EnglishPod have a two week lead time or our podcast, right?",
+        "chinese": "And 我们在英语播客上有一周的领先时间，或者我们的播客？"
+    },
+    {
+        "start": 102.76,
+        "end": 105.64000000000001,
+        "english": "But our delivery lead time is every other day.",
+        "chinese": "但是我们的交货周期是每天的另一半。"
+    },
+    {
+        "start": 105.64000000000001,
+        "end": 106.36000000000001,
+        "english": "That's true.",
+        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+    },
+    {
+        "start": 106.36000000000001,
+        "end": 109.08000000000001,
+        "english": "Nice. Okay. That's all we're going to be previewing today.",
+        "chinese": "好的。今天我们将只预览您今天的行程。"
+    },
+    {
+        "start": 109.08000000000001,
+        "end": 115.96000000000001,
+        "english": "So why don't we just listen to the dialogue and then we'll come back and explain some of these tricky vocabulary.",
+        "chinese": "所以，我们为什么不先听对话，然后再解释一些这些复杂的词汇呢？"
+    },
+    {
+        "start": 115.96,
+        "end": 117.55999999999999,
+        "english": "Words that we'll see.",
+        "chinese": "我们将会看到的词汇。"
+    },
+    {
+        "start": 124.36,
+        "end": 128.35999999999999,
+        "english": "I called this meeting today in order to discuss our manufacturing plan.",
+        "chinese": "今天我在这里讨论我们的生产计划。"
+    },
+    {
+        "start": 128.35999999999999,
+        "end": 132.12,
+        "english": "As I'm sure you're all aware with the credit crunch and the global financial crisis.",
+        "chinese": "我非常清楚您可能都知道，信用危机和全球金融危机。"
+    },
+    {
+        "start": 132.92,
+        "end": 136.51999999999998,
+        "english": "We are obligated to look for more cost efficient ways of producing our goods.",
+        "chinese": "我们有责任寻找更经济的生产方法来制造我们的商品。"
+    },
+    {
+        "start": 137.07999999999998,
+        "end": 139.88,
+        "english": "We don't want to have to be looking at redundancies.",
+        "chinese": "我们不想总是要查看冗余。"
+    },
+    {
+        "start": 139.88,
+        "end": 144.51999999999998,
+        "english": "So we've outlined a brief plan to implement the just in time philosophy.",
+        "chinese": "所以，我们已经制定了一个简短的计划来实施准时制原则。"
+    },
+    {
+        "start": 145.32000000000002,
+        "end": 148.12,
+        "english": "We have two basic points that we want to focus on.",
+        "chinese": "我们有两个基本点，我们要重点强调。"
+    },
+    {
+        "start": 148.12,
+        "end": 150.52,
+        "english": "First of all, we want to reduce our lead time.",
+        "chinese": "首先，我们希望缩短我们的交货时间。"
+    },
+    {
+        "start": 151.16000000000003,
+        "end": 152.44,
+        "english": "Why would we want to do that?",
+        "chinese": "为什么我们要这么做？"
+    },
+    {
+        "start": 153.08,
+        "end": 156.36,
+        "english": "I think this is not an area that really needs to be walked on.",
+        "chinese": "我认为这并不需要真正地走。"
+    },
+    {
+        "start": 157.08,
+        "end": 161.56,
+        "english": "Well, we want to reduce production and delivery lead times for better overall efficiency.",
+        "chinese": "很好，我们希望缩短生产和服务交付的周期，以提高整体效率。"
+    },
+    {
+        "start": 161.56,
+        "end": 166.44,
+        "english": "Right. Production lead times can be reduced by moving work stations closer together.",
+        "chinese": "正确。生产节奏可以被缩短，通过将工作区域更靠近一起。"
+    },
+    {
+        "start": 167.08,
+        "end": 173.0,
+        "english": "Reducing Q-length like, for example, reducing the number of jobs waiting to be processed at a given machine.",
+        "chinese": "将Q长度简化，例如，减少某个机器上等待处理的作业数量。"
+    },
+    {
+        "start": 173.72,
+        "end": 178.04,
+        "english": "And improving the coordination and cooperation between successive processes.",
+        "chinese": "和前后过程的协调与合作提高。"
+    },
+    {
+        "start": 178.68,
+        "end": 182.92,
+        "english": "Delivery lead times can be reduced through close cooperation with suppliers.",
+        "chinese": "配送交货时间可以通过与供应商密切合作来减少。"
+    },
+    {
+        "start": 183.56,
+        "end": 186.84,
+        "english": "Possibly by inducing suppliers to locate closer to the factory.",
+        "chinese": "可能通过诱导供应商将工厂更近地靠近。"
+    },
+    {
+        "start": 187.08,
+        "end": 189.72,
+        "english": "Or working with a faster shipping company.",
+        "chinese": "或者使用更快的快递公司。"
+    },
+    {
+        "start": 190.6,
+        "end": 192.84,
+        "english": "I see. That makes sense.",
+        "chinese": "我看到。这说得通。"
+    },
+    {
+        "start": 193.56,
+        "end": 199.72,
+        "english": "The second point is that we want to require supplier quality assurance and implement a zero defects quality program.",
+        "chinese": "第二点是，我们希望供应商的质量保证，并实施零缺陷质量程序。"
+    },
+    {
+        "start": 199.8,
+        "end": 204.84,
+        "english": "We currently have far too many errors that lead to defective items and therefore they must be eliminated.",
+        "chinese": "我们目前有大量的错误，导致不合格品，并因此必须消除。"
+    },
+    {
+        "start": 205.64,
+        "end": 210.2,
+        "english": "A quality control at the source program must be implemented to give workers personal responsibility",
+        "chinese": "一个源程序的质量控制必须实施，以赋予工人个人责任。"
+    },
+    {
+        "start": 210.2,
+        "end": 214.44,
+        "english": "for the quality of the work they do and the authority to stop production when something goes wrong.",
+        "chinese": "对于他们完成的工作质量和停止生产时的权威。"
+    },
+    {
+        "start": 214.92,
+        "end": 218.84,
+        "english": "I'm with you on this one. It's essential that we reduce these errors.",
+        "chinese": "我与你一起。这非常重要，我们需要减少这些错误。"
+    },
+    {
+        "start": 219.4,
+        "end": 222.12,
+        "english": "We've got two false-or-supplyers to reduce their mistakes.",
+        "chinese": "我们有两个虚假或供应者来减少他们的错误。"
+    },
+    {
+        "start": 222.68,
+        "end": 226.84,
+        "english": "Exactly. Well, let's look at how we're going to put this plan into action.",
+        "chinese": "正确。那么，我们来看看如何将这个计划付诸实践。"
+    },
+    {
+        "start": 226.84,
+        "end": 227.4,
+        "english": "First.",
+        "chinese": "首先。"
+    },
+    {
+        "start": 230.2,
+        "end": 231.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 236.2,
+        "end": 239.56,
+        "english": "Okay, so they're going to implement just in time in their company.",
+        "chinese": "好的，他们将实施在公司随时可调用。"
+    },
+    {
+        "start": 239.56,
+        "end": 240.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 240.12,
+        "end": 243.16,
+        "english": "Yeah, I guess they're putting in some cost control measures.",
+        "chinese": "是的，他们大概是在实施一些成本控制措施。"
+    },
+    {
+        "start": 243.16,
+        "end": 245.4,
+        "english": "So Marco, there's some great language in here.",
+        "chinese": "所以马科，这里有一些很好的语言。"
+    },
+    {
+        "start": 245.4,
+        "end": 247.32,
+        "english": "Why don't we look at it now in language takeaway?",
+        "chinese": "为什么不现在就用中文来翻译呢？"
+    },
+    {
+        "start": 249.16,
+        "end": 250.36,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 251.32,
+        "end": 254.68,
+        "english": "Okay, the first word today, redundancies.",
+        "chinese": "好的，今天的第一句话是冗余的。"
+    },
+    {
+        "start": 254.68,
+        "end": 255.72,
+        "english": "Redundancies.",
+        "chinese": "红色冗余。"
+    },
+    {
+        "start": 256.36,
+        "end": 257.4,
+        "english": "Redundancies.",
+        "chinese": "红色冗余。"
+    },
+    {
+        "start": 257.4,
+        "end": 258.52,
+        "english": "Redundancies.",
+        "chinese": "红色冗余。"
+    },
+    {
+        "start": 258.59999999999997,
+        "end": 262.2,
+        "english": "So this is kind of a strange word because usually a redundancy is when you're speaking, right?",
+        "chinese": "所以，这有点奇怪，因为通常冗余是指你在说话时。"
+    },
+    {
+        "start": 262.91999999999996,
+        "end": 266.91999999999996,
+        "english": "Yeah, maybe when you say something that's already been said.",
+        "chinese": "是的，或许当你说已经说过的话。"
+    },
+    {
+        "start": 266.91999999999996,
+        "end": 269.64,
+        "english": "Exactly. You say something that has already been said,",
+        "chinese": "是的。你说过的话已经说过了，"
+    },
+    {
+        "start": 269.64,
+        "end": 271.96,
+        "english": "but we also use it in the business world.",
+        "chinese": "但是我们也用它在商业世界中。"
+    },
+    {
+        "start": 271.96,
+        "end": 275.47999999999996,
+        "english": "Right, and it comes from the base word redundant, right?",
+        "chinese": "是的，它来源于基础词冗余。"
+    },
+    {
+        "start": 275.47999999999996,
+        "end": 276.03999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 276.03999999999996,
+        "end": 279.56,
+        "english": "Meaning extra more than what's needed.",
+        "chinese": "意义超过需要的额外。"
+    },
+    {
+        "start": 279.56,
+        "end": 280.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 280.2,
+        "end": 283.4,
+        "english": "So when a person or position is made redundant,",
+        "chinese": "所以当一个人或职位被取消时，中国："
+    },
+    {
+        "start": 283.4,
+        "end": 285.08,
+        "english": "basically it means they get laid off, right?",
+        "chinese": "基本来说，他们失业了，对吗？"
+    },
+    {
+        "start": 285.08,
+        "end": 288.2,
+        "english": "Right, so redundancies are a synonym of layoffs.",
+        "chinese": "是的，所以冗余度就是裁员。"
+    },
+    {
+        "start": 288.52,
+        "end": 289.32,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 289.32,
+        "end": 290.03999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 290.03999999999996,
+        "end": 291.88,
+        "english": "All right, let's take a look at our next word.",
+        "chinese": "好的，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 291.88,
+        "end": 293.15999999999997,
+        "english": "Workstations.",
+        "chinese": "工作台。"
+    },
+    {
+        "start": 293.15999999999997,
+        "end": 294.35999999999996,
+        "english": "Workstations.",
+        "chinese": "工作台。"
+    },
+    {
+        "start": 294.35999999999996,
+        "end": 295.4,
+        "english": "Workstations.",
+        "chinese": "工作台。"
+    },
+    {
+        "start": 295.4,
+        "end": 296.44,
+        "english": "Workstations.",
+        "chinese": "工作站。"
+    },
+    {
+        "start": 296.44,
+        "end": 299.0,
+        "english": "So workstation can be anything from your desk.",
+        "chinese": "所以工作站可以是任何从你的桌子上的东西。"
+    },
+    {
+        "start": 299.0,
+        "end": 300.68,
+        "english": "Yeah, or maybe a workbench.",
+        "chinese": "是的，或者可能是一个工作台。"
+    },
+    {
+        "start": 300.68,
+        "end": 301.71999999999997,
+        "english": "A workbench.",
+        "chinese": "一个工作台。"
+    },
+    {
+        "start": 301.71999999999997,
+        "end": 303.96,
+        "english": "Or even a place on a production line.",
+        "chinese": "或者甚至在生产线上的某个地方。"
+    },
+    {
+        "start": 303.96,
+        "end": 307.08,
+        "english": "Right, so you're a certain machine or something like that.",
+        "chinese": "是的，您是一个特定的机器或者什么样子。"
+    },
+    {
+        "start": 307.08,
+        "end": 310.2,
+        "english": "So basically a workstation is the area where you work.",
+        "chinese": "所以，基本上一台工作站就是你在工作的区域。"
+    },
+    {
+        "start": 310.91999999999996,
+        "end": 311.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 311.56,
+        "end": 315.96,
+        "english": "Okay, so you can say, can we get a new workstation for the new team member?",
+        "chinese": "好的，你可以这么说，我们能否为新团队成员配置一个新的工作站呢？"
+    },
+    {
+        "start": 316.76,
+        "end": 321.47999999999996,
+        "english": "Or I could say, I want to move my workstation closer to my employees.",
+        "chinese": "我也可以这么说，我想将我的工作站靠近我的员工。"
+    },
+    {
+        "start": 321.47999999999996,
+        "end": 323.08,
+        "english": "All right, so workstation.",
+        "chinese": "好的，所以工作站。"
+    },
+    {
+        "start": 323.64,
+        "end": 325.47999999999996,
+        "english": "Okay, let's take a look at our next word.",
+        "chinese": "好的，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 325.47999999999996,
+        "end": 327.23999999999995,
+        "english": "At a given machine.",
+        "chinese": "在给定的机器。"
+    },
+    {
+        "start": 327.23999999999995,
+        "end": 328.91999999999996,
+        "english": "At a given machine.",
+        "chinese": "在给定的机器。"
+    },
+    {
+        "start": 328.91999999999996,
+        "end": 330.2,
+        "english": "At a given.",
+        "chinese": "在给定的情况下。"
+    },
+    {
+        "start": 330.2,
+        "end": 330.91999999999996,
+        "english": "At a given.",
+        "chinese": "在给定的情况下。"
+    },
+    {
+        "start": 331.64,
+        "end": 334.52,
+        "english": "This is an interesting way to say at any machine.",
+        "chinese": "这是一个有趣的方式来表达任何机器。"
+    },
+    {
+        "start": 334.52,
+        "end": 335.15999999999997,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 335.15999999999997,
+        "end": 335.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 335.64,
+        "end": 340.2,
+        "english": "Yeah, given here is operating exactly the same as here.",
+        "chinese": "是的，这里给出的操作与这里相同。"
+    },
+    {
+        "start": 340.2,
+        "end": 344.12,
+        "english": "The word given is operating exactly the same way as any.",
+        "chinese": "这个单词就像任何其他一样运行。"
+    },
+    {
+        "start": 344.67999999999995,
+        "end": 345.32,
+        "english": "As any.",
+        "chinese": "作为任何。"
+    },
+    {
+        "start": 345.96,
+        "end": 350.36,
+        "english": "Okay, so let's listen to some examples of how we can change it up a little bit",
+        "chinese": "好的，那么我们可以稍微改变一下这个想法。"
+    },
+    {
+        "start": 350.36,
+        "end": 352.59999999999997,
+        "english": "and we can use this given word.",
+        "chinese": "和我们使用这个给定的词。"
+    },
+    {
+        "start": 353.32,
+        "end": 354.2,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 355.48,
+        "end": 359.32,
+        "english": "In this factory, how many cars are in production at any given time?",
+        "chinese": "在这一工厂，有多少辆汽车正在生产？"
+    },
+    {
+        "start": 361.48,
+        "end": 362.2,
+        "english": "Example two.",
+        "chinese": "示例二。"
+    },
+    {
+        "start": 364.2,
+        "end": 367.88,
+        "english": "On any given day, about 40 million people use the internet.",
+        "chinese": "在任何一天，大约有40亿人使用互联网。"
+    },
+    {
+        "start": 370.44,
+        "end": 371.4,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 371.88,
+        "end": 377.47999999999996,
+        "english": "Firefighters have to be ready to attend an emergency at any given moment.",
+        "chinese": "消防员必须随时准备应对任何紧急情况。"
+    },
+    {
+        "start": 379.88,
+        "end": 383.32,
+        "english": "All right, so any given time at any given moment?",
+        "chinese": "好的，那么给定的时间和时刻？"
+    },
+    {
+        "start": 383.32,
+        "end": 383.79999999999995,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 383.79999999999995,
+        "end": 385.56,
+        "english": "Um, any given day.",
+        "chinese": "是的，任何一天。"
+    },
+    {
+        "start": 386.12,
+        "end": 388.67999999999995,
+        "english": "Okay, now let's take a look at our last word today.",
+        "chinese": "好的，现在让我们看看今天的最后一个单词。"
+    },
+    {
+        "start": 389.47999999999996,
+        "end": 390.2,
+        "english": "Defective.",
+        "chinese": "坏的。"
+    },
+    {
+        "start": 390.76,
+        "end": 391.47999999999996,
+        "english": "Defective.",
+        "chinese": "坏的。"
+    },
+    {
+        "start": 392.12,
+        "end": 393.08,
+        "english": "Defective.",
+        "chinese": "坏的。"
+    },
+    {
+        "start": 393.08,
+        "end": 393.88,
+        "english": "Defective.",
+        "chinese": "坏的。"
+    },
+    {
+        "start": 394.76,
+        "end": 397.71999999999997,
+        "english": "So if something is defective, it has a problem with it.",
+        "chinese": "所以如果某件东西有问题，它就存在问题。"
+    },
+    {
+        "start": 397.71999999999997,
+        "end": 398.67999999999995,
+        "english": "It has a problem.",
+        "chinese": "它有一个问题。"
+    },
+    {
+        "start": 398.67999999999995,
+        "end": 399.15999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 399.15999999999997,
+        "end": 401.15999999999997,
+        "english": "We can say defective is an adjective.",
+        "chinese": "我们可以说“不完善”是形容词。"
+    },
+    {
+        "start": 401.24,
+        "end": 401.72,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 401.72,
+        "end": 403.88000000000005,
+        "english": "And the noun is defect.",
+        "chinese": "这个名词是缺陷。"
+    },
+    {
+        "start": 403.88000000000005,
+        "end": 404.6,
+        "english": "Defect.",
+        "chinese": "缺陷。"
+    },
+    {
+        "start": 404.6,
+        "end": 404.92,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 404.92,
+        "end": 408.20000000000005,
+        "english": "So if something has a defect, it is defective.",
+        "chinese": "所以如果某物有缺陷，那么它就是有问题。"
+    },
+    {
+        "start": 408.20000000000005,
+        "end": 413.96000000000004,
+        "english": "Right, so for example, maybe you produce chairs and you make one and this chair is missing a wheel.",
+        "chinese": "是的，那么也许你生产椅子，并且制造了一个椅子，这个椅子缺少一个轮子。"
+    },
+    {
+        "start": 413.96000000000004,
+        "end": 415.64000000000004,
+        "english": "Okay, so it's defective.",
+        "chinese": "好的，所以它有问题。"
+    },
+    {
+        "start": 415.64000000000004,
+        "end": 417.72,
+        "english": "Yes, the defect is the missing wheel.",
+        "chinese": "是的，缺陷就是缺少轮子。"
+    },
+    {
+        "start": 417.72,
+        "end": 419.0,
+        "english": "The defect is the missing wheel.",
+        "chinese": "缺陷是缺少轮子。"
+    },
+    {
+        "start": 419.0,
+        "end": 419.32000000000005,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 419.96000000000004,
+        "end": 423.8,
+        "english": "So before we listen to our dialogue again, I want to take a look at this phrase.",
+        "chinese": "所以在我们再次倾听对话之前，我想看一下这个短语。"
+    },
+    {
+        "start": 423.8,
+        "end": 425.16,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 425.16,
+        "end": 426.44000000000005,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 426.44000000000005,
+        "end": 427.88,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 427.88,
+        "end": 429.32000000000005,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 429.32,
+        "end": 431.08,
+        "english": "So what does that mean exactly?",
+        "chinese": "那么，这到底意味着什么？"
+    },
+    {
+        "start": 431.08,
+        "end": 432.44,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 432.44,
+        "end": 433.64,
+        "english": "I agree with you.",
+        "chinese": "我同意你。"
+    },
+    {
+        "start": 433.64,
+        "end": 436.12,
+        "english": "I agree with you on this point.",
+        "chinese": "我同意这一点。"
+    },
+    {
+        "start": 436.12,
+        "end": 436.92,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 436.92,
+        "end": 437.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 437.64,
+        "end": 441.15999999999997,
+        "english": "So if you agree with somebody on a certain point, you would say,",
+        "chinese": "所以如果你同意某人的某个观点，你就会说。"
+    },
+    {
+        "start": 441.15999999999997,
+        "end": 442.2,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 442.2,
+        "end": 443.08,
+        "english": "I agree with you.",
+        "chinese": "我同意你。"
+    },
+    {
+        "start": 443.08,
+        "end": 443.71999999999997,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 443.71999999999997,
+        "end": 444.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 444.84,
+        "end": 450.2,
+        "english": "So now let's listen to our dialogue again and we'll come back and talk a little bit more about the",
+        "chinese": "所以现在让我们再次倾听我们的对话，我们再聊一点，关于……"
+    },
+    {
+        "start": 450.2,
+        "end": 451.71999999999997,
+        "english": "history of this just in time.",
+        "chinese": "历史的即时性。"
+    },
+    {
+        "start": 459.32,
+        "end": 468.92,
+        "english": "I called this meeting today in order to discuss our manufacturing plan as I'm sure you're",
+        "chinese": "我今天在这里开会，是为了讨论我们的生产计划。我知道你可能很关心这个问题。"
+    },
+    {
+        "start": 468.92,
+        "end": 471.88,
+        "english": "all aware with the credit crunch and the global financial crisis.",
+        "chinese": "所有明白信用危机和全球金融危机的影响。"
+    },
+    {
+        "start": 472.68,
+        "end": 476.2,
+        "english": "We're obligated to look for more cost-efficient ways of producing our goods.",
+        "chinese": "我们有责任寻找更经济的生产方法来制造我们的商品。"
+    },
+    {
+        "start": 476.84,
+        "end": 479.64,
+        "english": "We don't want to have to be looking at redundancies.",
+        "chinese": "我们不想总是要查看冗余。"
+    },
+    {
+        "start": 479.64,
+        "end": 484.28,
+        "english": "So we've outlined a brief plan to implement the just in time philosophy.",
+        "chinese": "所以，我们已经制定了一个简短的计划来实施准时制原则。"
+    },
+    {
+        "start": 485.08,
+        "end": 487.88,
+        "english": "We have two basic points that we want to focus on.",
+        "chinese": "我们有两个基本点，我们要重点强调。"
+    },
+    {
+        "start": 487.88,
+        "end": 490.28,
+        "english": "First of all, we want to reduce our lead time.",
+        "chinese": "首先，我们希望缩短我们的交货时间。"
+    },
+    {
+        "start": 490.84,
+        "end": 492.2,
+        "english": "Why would we want to do that?",
+        "chinese": "为什么我们要这样做？"
+    },
+    {
+        "start": 492.84,
+        "end": 496.12,
+        "english": "I think this is not an area that really needs to be walked on.",
+        "chinese": "我认为这并不需要真正地走。"
+    },
+    {
+        "start": 496.84,
+        "end": 501.32,
+        "english": "Well, we want to reduce production and delivery lead times for better overall efficiency.",
+        "chinese": "嗯，我们希望缩短生产与交付的周期，以提高整体效率。"
+    },
+    {
+        "start": 501.32,
+        "end": 502.04,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 502.04,
+        "end": 506.2,
+        "english": "Production lead times can be reduced by moving work stations closer together,",
+        "chinese": "生产间隔时间可以通过将工作台更靠近一起减少。"
+    },
+    {
+        "start": 506.84,
+        "end": 512.36,
+        "english": "reducing Q-length like, for example, reducing the number of jobs waiting to be processed at a given",
+        "chinese": "将“reducing Q-length”翻译成中文，可以得到："
+    },
+    {
+        "start": 512.36,
+        "end": 517.72,
+        "english": "machine and improving the coordination and cooperation between successive processes.",
+        "chinese": "机器和提高前后过程的协调与合作。"
+    },
+    {
+        "start": 518.44,
+        "end": 522.6800000000001,
+        "english": "Delivery lead times can be reduced through close cooperation with suppliers,",
+        "chinese": "配送时间可以通过与供应商密切合作来减少。"
+    },
+    {
+        "start": 523.32,
+        "end": 529.08,
+        "english": "possibly by inducing suppliers to locate closer to factory or working with a faster shipping",
+        "chinese": "可能通过诱导供应商将工厂靠近或与更快的海运合作来实现。"
+    },
+    {
+        "start": 529.08,
+        "end": 529.48,
+        "english": "company.",
+        "chinese": "公司 (Shangshu)"
+    },
+    {
+        "start": 530.28,
+        "end": 530.84,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 531.72,
+        "end": 532.52,
+        "english": "That makes sense.",
+        "chinese": "这句话的中文翻译是：“这就是合理的。”"
+    },
+    {
+        "start": 533.32,
+        "end": 537.64,
+        "english": "The second point is that we want to require supplier quality assurance and implement a zero",
+        "chinese": "第二点是，我们希望供应商的质量保证要求，并实施零缺陷（zero defects）的目标。"
+    },
+    {
+        "start": 537.72,
+        "end": 539.08,
+        "english": "defects quality program.",
+        "chinese": "缺陷质量计划。"
+    },
+    {
+        "start": 539.56,
+        "end": 543.72,
+        "english": "We currently have far too many errors that lead to defective items and therefore they",
+        "chinese": "我们目前有大量的错误，导致不合格的产品，并因此需要改进。"
+    },
+    {
+        "start": 543.72,
+        "end": 544.6,
+        "english": "must be eliminated.",
+        "chinese": "必须被消除。\" (Wáng yào bǎ lèi jiě.)"
+    },
+    {
+        "start": 545.4,
+        "end": 549.24,
+        "english": "A quality control at the source program must be implemented to give workers personal",
+        "chinese": "一个源程序的质量控制必须实施，以确保工人个人安全。"
+    },
+    {
+        "start": 549.24,
+        "end": 553.3199999999999,
+        "english": "responsibility for the quality of the work they do and the authority to stop production when",
+        "chinese": "责任对他们的工作质量负责，以及在生产停止时有权停止生产。"
+    },
+    {
+        "start": 553.3199999999999,
+        "end": 554.12,
+        "english": "something goes wrong.",
+        "chinese": "事情出错了。"
+    },
+    {
+        "start": 554.68,
+        "end": 556.04,
+        "english": "I'm with you on this one.",
+        "chinese": "我与你一起。"
+    },
+    {
+        "start": 556.28,
+        "end": 558.52,
+        "english": "It's essential that we reduce these errors.",
+        "chinese": "这是确保这些错误减少的重要因素。"
+    },
+    {
+        "start": 559.16,
+        "end": 561.88,
+        "english": "We've got two false or suppliers to reduce their mistakes.",
+        "chinese": "我们有两个或有缺陷的供应商，以减少他们的错误。"
+    },
+    {
+        "start": 562.4399999999999,
+        "end": 563.08,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 563.64,
+        "end": 566.36,
+        "english": "Well, let's look at how we're going to put this plan into action.",
+        "chinese": "好的，让我们看看如何将这个计划付诸实践。"
+    },
+    {
+        "start": 566.6,
+        "end": 567.16,
+        "english": "First.",
+        "chinese": "首先。"
+    },
+    {
+        "start": 574.6,
+        "end": 574.84,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 574.84,
+        "end": 579.4,
+        "english": "So, Marco, I mentioned at the beginning of the lesson that I don't know much about",
+        "chinese": "所以，马科，我之前在课上提到过，我对中文不甚了解。"
+    },
+    {
+        "start": 579.4,
+        "end": 580.28,
+        "english": "Justin time.",
+        "chinese": "Justin 时间。"
+    },
+    {
+        "start": 580.92,
+        "end": 581.96,
+        "english": "But luckily you do, right?",
+        "chinese": "但是幸运的是，你对的。"
+    },
+    {
+        "start": 582.76,
+        "end": 584.52,
+        "english": "Yeah, I know a little bit about it.",
+        "chinese": "是的，我知道一些。"
+    },
+    {
+        "start": 584.52,
+        "end": 588.12,
+        "english": "So tell me a little bit about where this philosophy came from.",
+        "chinese": "所以告诉我一下这个哲学是怎么来的。"
+    },
+    {
+        "start": 588.12,
+        "end": 589.96,
+        "english": "What are the origins of this idea?",
+        "chinese": "这个想法的起源是什么？"
+    },
+    {
+        "start": 590.52,
+        "end": 595.0,
+        "english": "It actually became really popular with Toyota and it was called the Toyota production system.",
+        "chinese": "实际上，它很快就成为了丰田的流行，并且被称为丰田生产系统。"
+    },
+    {
+        "start": 595.48,
+        "end": 601.16,
+        "english": "So many people think it's Japanese, but in reality, the Japanese got it from the United States.",
+        "chinese": "所以很多人认为日本是日本人，但实际上，日本是从美国获得的。"
+    },
+    {
+        "start": 601.16,
+        "end": 606.92,
+        "english": "It's a philosophy that was thought up by Ford Motor Company in order to improve their",
+        "chinese": "它是一种由福特汽车公司提出的哲学，旨在提高他们的产品质量和竞争力。"
+    },
+    {
+        "start": 606.92,
+        "end": 607.8,
+        "english": "production line.",
+        "chinese": "生产线。"
+    },
+    {
+        "start": 607.8,
+        "end": 613.56,
+        "english": "But when the Japanese visited Ford Motor Company, it wasn't fully implemented yet and oddly enough,",
+        "chinese": "但是当日本参观过福特汽车公司时，它还没有完全实现，而且似乎有些奇怪。"
+    },
+    {
+        "start": 613.56,
+        "end": 617.4,
+        "english": "they found this philosophy working already in a Piggly Wiggly.",
+        "chinese": "他们发现这个哲学已经在肯德基里已经成功运作了。"
+    },
+    {
+        "start": 617.4,
+        "end": 618.6,
+        "english": "What's a Piggly Wiggly?",
+        "chinese": "Piggly Wiggly 是一个中文的网络用语，通常用来表示“好吃”或“美味”。在中文中，“Piggly Wiggly”是一个品牌名，它在中国大陆地区被广泛使用。如果你需要更准确的信息，我建议你查阅相关的官方资料或者联系品牌方获取最准确的答案。"
+    },
+    {
+        "start": 618.6,
+        "end": 623.08,
+        "english": "Piggly Wiggly was a chain of grocery stores in the United States.",
+        "chinese": "猪小猪是一家在美国的连锁超市。"
+    },
+    {
+        "start": 623.88,
+        "end": 628.9200000000001,
+        "english": "I'm not sure if they're still around, but yeah, they were really big and basically Piggly Wiggly",
+        "chinese": "我不确定他们是否还在，但是的，他们真的很大，基本上就是小猪佩奇。"
+    },
+    {
+        "start": 628.9200000000001,
+        "end": 635.0,
+        "english": "was using this to improve their whole system of shipping and of stocking and everything.",
+        "chinese": "他们正在利用这个来改进他们的整个海运和库存系统。"
+    },
+    {
+        "start": 635.0,
+        "end": 636.36,
+        "english": "Okay, so how does it work?",
+        "chinese": "好的，那么它怎么工作的？"
+    },
+    {
+        "start": 636.9200000000001,
+        "end": 641.48,
+        "english": "So basically what you try to do is make your processes more efficient,",
+        "chinese": "所以基本上，你试图做的是让你的流程更高效。"
+    },
+    {
+        "start": 641.48,
+        "end": 644.76,
+        "english": "reduce the amount of space you're using, etc.",
+        "chinese": "减少你使用的空间，等等。"
+    },
+    {
+        "start": 644.76,
+        "end": 648.9200000000001,
+        "english": "And this was really important for Japanese because, of course, they don't have that much space",
+        "chinese": "而且，对于日本来说，这非常重要，因为，当然，他们没有那么多空间。"
+    },
+    {
+        "start": 648.9200000000001,
+        "end": 652.84,
+        "english": "in Japan to have this huge warehouses like in other countries.",
+        "chinese": "在日本，要像其他国家那样拥有如此庞大的仓库。"
+    },
+    {
+        "start": 652.9200000000001,
+        "end": 657.8000000000001,
+        "english": "So what you're saying is they're producing goods just for the time they need it, right?",
+        "chinese": "所以你说的正是他们只是为了需要时生产商品，对吗？"
+    },
+    {
+        "start": 657.8000000000001,
+        "end": 661.0,
+        "english": "Exactly. So trying to not be overstocked or...",
+        "chinese": "是的。所以尽量不要过度库存或..."
+    },
+    {
+        "start": 661.0,
+        "end": 662.84,
+        "english": "Or have a long lead time or something.",
+        "chinese": "或者有较长的缓冲时间或什么。"
+    },
+    {
+        "start": 662.84,
+        "end": 667.0,
+        "english": "A long lead times where you have to keep something in a warehouse.",
+        "chinese": "一个长的交货期，你需要把东西放在仓库里。"
+    },
+    {
+        "start": 667.0,
+        "end": 667.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 667.24,
+        "end": 667.8000000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 667.8000000000001,
+        "end": 669.72,
+        "english": "So that's why it's so efficient.",
+        "chinese": "所以，这就是为什么这么高效。"
+    },
+    {
+        "start": 669.72,
+        "end": 673.24,
+        "english": "And also it's about improving the efficiency between processes.",
+        "chinese": "而且，这也是提高过程之间的效率的问题。"
+    },
+    {
+        "start": 673.24,
+        "end": 678.36,
+        "english": "So what's sometimes called a bottleneck, you can have really good processes in the beginning.",
+        "chinese": "所以有时被称为瓶颈的状况，你可以在开始时有非常好的流程。"
+    },
+    {
+        "start": 678.36,
+        "end": 682.52,
+        "english": "But in the end, maybe you have only one workstation that's taking all these orders and",
+        "chinese": "但是最终，也许你只有一个工作站正在处理这些订单。"
+    },
+    {
+        "start": 682.52,
+        "end": 685.72,
+        "english": "everything gets bottled up and it causes delays.",
+        "chinese": "一切都被封存了，这导致延误。"
+    },
+    {
+        "start": 685.72,
+        "end": 686.04,
+        "english": "Oh yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 686.04,
+        "end": 691.4,
+        "english": "So in the dialogue, they want to implement the just-in-time strategy as a way of avoiding redundancies.",
+        "chinese": "所以，在对话中，他们希望实施即时策略，以避免重复。"
+    },
+    {
+        "start": 691.4,
+        "end": 695.72,
+        "english": "But it sounds to me like actually this might cause redundancies sometimes.",
+        "chinese": "但是，这听起来好像实际上有时候会引发冗余。"
+    },
+    {
+        "start": 696.52,
+        "end": 698.12,
+        "english": "Well, yeah, sometimes it does.",
+        "chinese": "是的，有时候确实如此。"
+    },
+    {
+        "start": 698.12,
+        "end": 705.0799999999999,
+        "english": "Sometimes when you make work stations more efficient or when you make all your processes work",
+        "chinese": "有时当你使工作台更高效或当所有流程都运作得更好时。"
+    },
+    {
+        "start": 705.0799999999999,
+        "end": 712.1999999999999,
+        "english": "more fluidly, sometimes inevitably you will have to lay off some people that are redundant.",
+        "chinese": "更流畅地，有时不可避免你将不得不裁减一些冗余的人。"
+    },
+    {
+        "start": 712.2800000000001,
+        "end": 713.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 713.08,
+        "end": 716.2,
+        "english": "Have you ever worked in a company where they've implemented just in time?",
+        "chinese": "是的，我曾经在一家公司中工作过，他们实施了即时生产。"
+    },
+    {
+        "start": 716.76,
+        "end": 721.6400000000001,
+        "english": "No, actually, I've never really worked at a place where this philosophy was working, but I did",
+        "chinese": "是的，实际上我没有真正工作过一个地方，这个哲学正在起作用，但我没有亲身经历。"
+    },
+    {
+        "start": 721.6400000000001,
+        "end": 726.6800000000001,
+        "english": "used to work at a place where we had Six Sigma, which is a little bit similar.",
+        "chinese": "使用在我们曾经参加六西格玛培训的地方工作，这有点像。"
+    },
+    {
+        "start": 727.4000000000001,
+        "end": 727.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 727.72,
+        "end": 730.12,
+        "english": "Well, I guess we'll need a lesson on Six Sigma, right?",
+        "chinese": "嗯，我想我们可能需要学习六西格玛吧？"
+    },
+    {
+        "start": 731.08,
+        "end": 735.88,
+        "english": "Yeah, we'll see if we come up with Six Sigma and what it means and it's kind of interesting.",
+        "chinese": "是的，我们将会看看是否能提出六西格玛，并且它意味着什么，这确实很有趣。"
+    },
+    {
+        "start": 735.88,
+        "end": 738.0400000000001,
+        "english": "But we want to hear what you think.",
+        "chinese": "但是，我们希望听听你的想法。"
+    },
+    {
+        "start": 738.5999999999999,
+        "end": 743.56,
+        "english": "Yes, have you guys worked in a place where they used just in time?",
+        "chinese": "是的，你们有没有在使用只在需要时就有的地方？"
+    },
+    {
+        "start": 743.56,
+        "end": 748.68,
+        "english": "Exactly, or if you have any quality control measures or how does your company avoid having",
+        "chinese": "是的，或者如果有任何质量控制措施或您的公司是如何避免发生的问题。"
+    },
+    {
+        "start": 748.68,
+        "end": 750.8399999999999,
+        "english": "defective items or defective services?",
+        "chinese": "劣质产品或不良服务？"
+    },
+    {
+        "start": 751.4,
+        "end": 756.92,
+        "english": "So visit our website, www.englishpod.com, and Marco and I are always around to respond to your",
+        "chinese": "所以，请访问我们的网站，www.englishpod.com，我和马克都是随时准备为您服务的。"
+    },
+    {
+        "start": 756.92,
+        "end": 759.0,
+        "english": "comments and answer your questions.",
+        "chinese": "评论和回答你的问题。"
+    },
+    {
+        "start": 759.0,
+        "end": 761.7199999999999,
+        "english": "Exactly, so until then, it's goodbye.",
+        "chinese": "是的，直到那时为止，就别想了。"
+    }
+]

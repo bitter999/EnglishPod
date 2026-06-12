@@ -1,0 +1,866 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.96,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "你好，英语学习者，欢迎再次来到英语课程。我的名字是马克。"
+    },
+    {
+        "start": 6.96,
+        "end": 10.32,
+        "english": "And my name is Catherine. So what are we talking about today Marco?",
+        "chinese": "我是凯特。今天我们谈论的是什么？莫卡？"
+    },
+    {
+        "start": 10.32,
+        "end": 13.92,
+        "english": "Well we're talking about one of my favorite topics which are computers.",
+        "chinese": "我最近在谈论我的最爱话题，那就是计算机。"
+    },
+    {
+        "start": 13.92,
+        "end": 20.400000000000002,
+        "english": "Yes you're a little bit of a nerd. A little bit. I love computers and technology and everything that's related to it.",
+        "chinese": "是的，你有点小聪明。有一点点。我对计算机和科技的事物非常感兴趣，并且对与之相关的所有事物都充满热情。"
+    },
+    {
+        "start": 20.400000000000002,
+        "end": 24.240000000000002,
+        "english": "So that's what we're going to be looking at today. Maybe we're buying a new computer.",
+        "chinese": "所以，今天我们将要关注的是什么？或许我们正在考虑购买一台新电脑。"
+    },
+    {
+        "start": 24.240000000000002,
+        "end": 29.92,
+        "english": "Well I anticipate learning something from this because there are a lot of those fancy big words that I don't know that have to do with processors.",
+        "chinese": "英语：嗯，我预期从这个课程中学习到很多东西，因为有很多高级术语和与处理器无关的词汇。"
+    },
+    {
+        "start": 29.92,
+        "end": 34.480000000000004,
+        "english": "And giga to go to go things. So that's going to be coming up in a minute here.",
+        "chinese": "和大把去逛。所以，这很快就会在这里出现。"
+    },
+    {
+        "start": 34.480000000000004,
+        "end": 37.84,
+        "english": "But first let's just jump right in and take a listen to today's dialogue.",
+        "chinese": "但是首先，我们还是先听听今天的对话吧。"
+    },
+    {
+        "start": 45.6,
+        "end": 52.8,
+        "english": "So can you fix it? I'm sorry sir. This computer is not broken or damaged. It's simply just too old.",
+        "chinese": "所以你能修理它吗？对不起，先生。这台电脑既没有损坏也没有故障。只是太旧了。"
+    },
+    {
+        "start": 52.8,
+        "end": 57.92,
+        "english": "That's why your programs and applications are running slow. There really isn't much I can do.",
+        "chinese": "英语：这是因为你的程序和应用程序运行得慢。我真的无法做些什么了。"
+    },
+    {
+        "start": 58.0,
+        "end": 61.120000000000005,
+        "english": "What do you mean? I bought this computer just three years ago.",
+        "chinese": "英语：你什么意思？我刚买这台电脑才三年。"
+    },
+    {
+        "start": 61.84,
+        "end": 67.76,
+        "english": "Yes but technology is ever changing and technology is becoming obsolete faster and faster.",
+        "chinese": "是的，但技术一直在变化，并且它变得越来越快速和迅速。"
+    },
+    {
+        "start": 68.4,
+        "end": 72.96000000000001,
+        "english": "Okay I know where this is going. How much will it cost me to get a new computer?",
+        "chinese": "好的，我明白了。请告诉我这个新电脑的价格是多少？"
+    },
+    {
+        "start": 73.6,
+        "end": 82.8,
+        "english": "Well this desktop over here is our latest model. It has a 4 gigahertz processor with 16 gigabytes in RAM and a hard disk with one terabyte.",
+        "chinese": "这个桌面电脑是我们最新的型号。它配备了一个四核处理器，有十六GB的内存和一个十亿字节的硬盘。"
+    },
+    {
+        "start": 82.8,
+        "end": 87.2,
+        "english": "Of course it includes a mouse, keyboard and desk speakers.",
+        "chinese": "当然，它包括一个鼠标、键盘和桌面扬声器。"
+    },
+    {
+        "start": 87.2,
+        "end": 92.47999999999999,
+        "english": "I have no idea what you were talking about. I just want to know if it's good and if I'll be able to play",
+        "chinese": "我也不知道你说的是什么。我只是想知道它是否好，以及我能否顺利地玩。"
+    },
+    {
+        "start": 92.47999999999999,
+        "end": 95.92,
+        "english": "solitaire without the computer crashing or freezing all the time.",
+        "chinese": "游戏单机模式，无需电脑崩溃或卡顿。"
+    },
+    {
+        "start": 95.92,
+        "end": 101.67999999999999,
+        "english": "This PC is top of the line and I guarantee it will never freeze. If it does we'll give you your money back.",
+        "chinese": "这个电脑是顶级的，我保证它不会冻结。如果它不冻结，我们将全额退款。"
+    },
+    {
+        "start": 106.4,
+        "end": 111.67999999999999,
+        "english": "All right we're back. I think it's a very typical case you go in to get something fixed and they say",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 111.76,
+        "end": 117.44000000000001,
+        "english": "we can't fix it you need a new one. Yes and not only a new one but a bigger and better and",
+        "chinese": "我们不能解决这个问题，你还需要一个新的。不只是一个新的一样，而且要更好的和更强大的。"
+    },
+    {
+        "start": 117.44000000000001,
+        "end": 121.60000000000001,
+        "english": "faster one. And more expensive obviously. Obviously. Called the upsell.",
+        "chinese": "更快的。而且价格显然更高。很明显，称为捆绑销售。"
+    },
+    {
+        "start": 121.60000000000001,
+        "end": 126.96000000000001,
+        "english": "The upsell yeah. All right so there were some very difficult words I think because they're very",
+        "chinese": "英语：它是个点和拍相机。"
+    },
+    {
+        "start": 126.96000000000001,
+        "end": 132.56,
+        "english": "specific related to technology and computers. So why don't we look at those now in language takeaway.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 134.32,
+        "end": 140.8,
+        "english": "Language takeaway. All right so the first word we have today is when something is no longer in use.",
+        "chinese": "语言总结。今天，我们学习的词汇是：当某物不再使用时。"
+    },
+    {
+        "start": 141.44,
+        "end": 144.88000000000002,
+        "english": "Okay so this word is obsolete. It's obsolete.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 144.88000000000002,
+        "end": 149.20000000000002,
+        "english": "Absolutely and we're not just talking about like oh I haven't touched that pen in like 10 years.",
+        "chinese": "绝对，我们不是只是在谈论像以前我从未用过那支钢笔的十年。"
+    },
+    {
+        "start": 149.20000000000002,
+        "end": 154.48000000000002,
+        "english": "We're talking about a piece of technology that is no longer useful because there's something else",
+        "chinese": "我们正在讨论一个不再实用的技术，因为还有其他东西。"
+    },
+    {
+        "start": 154.48000000000002,
+        "end": 160.8,
+        "english": "that can do a better job. Right and actually not only with technology we also have words that",
+        "chinese": "这个傻瓜相机可以做得更好。实际上，我们不仅有技术，还有词汇来表达我们的想法和观点。"
+    },
+    {
+        "start": 160.8,
+        "end": 169.84,
+        "english": "are obsolete right. Exactly like thy or thine. You or yours. Classical English. We don't use thy anymore.",
+        "chinese": "是的，你理解得真好。那么，请告诉我一个关于摄影或摄像的问题或者需要翻译的内容。"
+    },
+    {
+        "start": 169.84,
+        "end": 177.20000000000002,
+        "english": "No but thou art very summary today Marco. We don't use that anymore. That's obsolete English right",
+        "chinese": "英语：今天，你总是那么简洁明了。我们不再使用那个了。那是一种过时的英语。"
+    },
+    {
+        "start": 177.20000000000002,
+        "end": 183.6,
+        "english": "or obsolete words. Exactly so obsolete means it's no longer of use we have better and newer things",
+        "chinese": "英语：或者旧词。正好如此，我们有了更好的和更先进的东西。"
+    },
+    {
+        "start": 183.6,
+        "end": 190.88,
+        "english": "in in its place. All right and now moving on when the salesman was describing the characteristics",
+        "chinese": "在它那里。一切顺其自然，当推销员描述了特点时。"
+    },
+    {
+        "start": 190.88,
+        "end": 198.08,
+        "english": "of the computer. He had he used some prefixes that were a little bit strange right like for example",
+        "chinese": "计算机。他使用了一些稍微有点奇怪的前缀，比如："
+    },
+    {
+        "start": 198.08,
+        "end": 204.16000000000003,
+        "english": "giga. Guga what? Guga. All right so these are actually prefixes that have to do with numbers and",
+        "chinese": "哈哈，Guga！你这是在玩什么？Guga。好，这些实际上与数字有关的前缀。"
+    },
+    {
+        "start": 204.16000000000003,
+        "end": 209.36,
+        "english": "so this is not just a computer thing this is a math thing or science thing so okay so we've got",
+        "chinese": "所以，这不仅仅是一个计算机或数学/科学的东西，而是涉及到各种学科的综合。"
+    },
+    {
+        "start": 209.36,
+        "end": 213.44,
+        "english": "three different prefixes of prefixes and then we tack on at the beginning of a word so we've had",
+        "chinese": "三个不同的前缀，然后在单词的开头添加一个，我们已经有了。"
+    },
+    {
+        "start": 213.44,
+        "end": 220.72000000000003,
+        "english": "we have hertz or bite right these are little bits of a computer bite. Right so you have like mega bites",
+        "chinese": "我们有赫兹或者咬，这是小电脑的几个小部分。咬，所以你有像巨噬细胞那样的一些东西。"
+    },
+    {
+        "start": 220.72000000000003,
+        "end": 225.28,
+        "english": "mega bites we've all heard before that's the smallest here. We've got mega bites but bigger than",
+        "chinese": "我听说过这个，它比我们这里的小。我们有超级咬，但更大。"
+    },
+    {
+        "start": 225.28,
+        "end": 232.88,
+        "english": "mega we've got gigabytes. A gig up yeah so now for example the the hard drives are 250 gigabytes.",
+        "chinese": "大容量啊，硬盘有250G啊，现在呢，比如说，U盘的容量是250G。"
+    },
+    {
+        "start": 232.88,
+        "end": 238.8,
+        "english": "You might even hear someone say gigs. We've got a gig. 250 gig hard drives. Yeah but what's",
+        "chinese": "英语：你甚至可能会听到有人说“ gigs”。"
+    },
+    {
+        "start": 238.8,
+        "end": 246.16,
+        "english": "bigger than giga? Now it's the terabyte. Oh tera sounds like boom boom boom. I actually wondered",
+        "chinese": "比吉比特大吗？现在是太字节。哦，太字节听起来像轰隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆隆"
+    },
+    {
+        "start": 246.16,
+        "end": 251.44,
+        "english": "what would happen after a gigabyte because so much information already and now it's the terabyte",
+        "chinese": "根据提供的标准，以下是正确的翻译："
+    },
+    {
+        "start": 251.44,
+        "end": 259.04,
+        "english": "so it's like 1000 gigabytes. So that's like 200 movies. That's probably more than that it's amazing",
+        "chinese": "所以它就像1000GB。那么就相当于200部电影。那大概比这还要多，真是太神奇了。"
+    },
+    {
+        "start": 259.04,
+        "end": 266.32,
+        "english": "the amount of storage you can have and how small it actually is. So mega giga tera going from",
+        "chinese": "英文：存储容量和实际大小，所以从超级大到超级小。从Giga to Tera，从10^9到10^12。"
+    },
+    {
+        "start": 266.32,
+        "end": 275.76,
+        "english": "littleest to biggest. All right and well he described four gigahertz processor. Okay so the",
+        "chinese": "最小到最大。所有正确且好的，他描述了四个吉比特处理器。 okay, 所以最大的是四兆位处理器。"
+    },
+    {
+        "start": 275.76,
+        "end": 280.96,
+        "english": "processor is our next word and this is actually something that that determines how fast your computer",
+        "chinese": "处理器是我们下一个词，而且实际上这东西确实决定了你的电脑的运行速度。"
+    },
+    {
+        "start": 280.96,
+        "end": 286.23999999999995,
+        "english": "is going to run. So it comes from the word to process right. Right. To like calculate or to think",
+        "chinese": "英语：它将运行。所以它来自处理的单词，正确。正确。"
+    },
+    {
+        "start": 286.23999999999995,
+        "end": 292.56,
+        "english": "do even to do. So you have different examples like a word processor. Right so it's like Microsoft",
+        "chinese": "你甚至可以做更多的事情。所以，你可以像Word处理器一样，有更多例子。就像微软一样。"
+    },
+    {
+        "start": 292.56,
+        "end": 298.79999999999995,
+        "english": "word it allows you to make word documents. You can also say to process that up you're trying to",
+        "chinese": "英语：它允许你使用Word文档。你可以说，当你试图处理这个时，我需要帮助。"
+    },
+    {
+        "start": 298.79999999999995,
+        "end": 304.64,
+        "english": "calculate it. But in this case a processor is like a little brain that's the center of the computer",
+        "chinese": "计算一下。不过在这种情况里，处理器就像一个小脑，是计算机的中心。"
+    },
+    {
+        "start": 304.64,
+        "end": 309.44,
+        "english": "and that's where all the information gets processed. Yeah so it's the brain of the computer essentially",
+        "chinese": "英语：和那里的所有信息都被处理。嗯，所以它实际上就是计算机的大脑。"
+    },
+    {
+        "start": 309.44,
+        "end": 315.84,
+        "english": "and the bigger it is the faster it can go. Exactly and well if you don't have a very good processor",
+        "chinese": "和更大的相比，速度会更快。如果你没有很好的处理器，那效果就更好了。"
+    },
+    {
+        "start": 315.84,
+        "end": 323.76,
+        "english": "your computer is bound to freeze. Okay so freezing is another key word especially when talking about",
+        "chinese": "你的电脑会一直冻结。嗯，另一个关键词就是当谈到关于计算机的问题时。"
+    },
+    {
+        "start": 323.76,
+        "end": 330.88,
+        "english": "computers this one drives me nuts. To freeze it means to stop moving. Right. Right so well it has",
+        "chinese": "计算机这个东西，这可真是让我头疼。冻结它就是停止移动了。对，没错，就是这样。"
+    },
+    {
+        "start": 330.88,
+        "end": 334.15999999999997,
+        "english": "a couple different meanings you might have heard it about ice before but to freeze here we're talking",
+        "chinese": "英语：它是一种不同的含义，你可能听说过冰在冻结之前会有一些不同，现在我们在这里讨论。"
+    },
+    {
+        "start": 334.15999999999997,
+        "end": 338.88,
+        "english": "about stopping moving. So we have a game called freeze tag. If I touch you you have to stop running.",
+        "chinese": "关于停止移动。所以我们有一个叫做冻顶玩偶的游戏。如果你碰到了我，你就必须停下来跑动。"
+    },
+    {
+        "start": 338.88,
+        "end": 343.52,
+        "english": "Right. But here we're talking about a computer freezing. I'm moving my mouse and I'm typing",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 343.52,
+        "end": 350.24,
+        "english": "and all the sudden it doesn't work. My mouse doesn't move. I can't close or open or do anything",
+        "chinese": "英语：和突然，它不工作。我的鼠标不动了。我无法关闭、打开或做任何事。"
+    },
+    {
+        "start": 350.24,
+        "end": 354.96,
+        "english": "and it's really frustrating. It's very especially if you're doing something and you didn't save your work",
+        "chinese": "英语：和它真的很不爽。如果你在做某事时没有保存你的工作，那可真是特别的。"
+    },
+    {
+        "start": 354.96,
+        "end": 362.0,
+        "english": "it's gone. Right so if your computer freezes then usually you have to restart it or turn it off or",
+        "chinese": "英语：它已经死了。通常，如果你的电脑冻结了，你只能重启它、关掉电源或者拔掉电源线。"
+    },
+    {
+        "start": 362.0,
+        "end": 367.68,
+        "english": "not. So that is about it for those words but let's take another listen and slow the dialogue",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 367.68,
+        "end": 378.40000000000003,
+        "english": "down this time so you can catch some of those big words. So can you fix it? I'm sorry sir.",
+        "chinese": "这次你别着急，你可以多看看这些大词。你能解决吗？我非常抱歉，先生。"
+    },
+    {
+        "start": 378.40000000000003,
+        "end": 384.16,
+        "english": "This computer is not broken or damaged. It's simply just too old. That's why your programs and",
+        "chinese": "这个电脑并不坏了或者损坏。它只是太旧了。这就是为什么你的程序和软件都变得越来越慢。"
+    },
+    {
+        "start": 384.16,
+        "end": 389.76,
+        "english": "applications are running slow. There really isn't much I can do. What do you mean? About this computer",
+        "chinese": "应用程序运行缓慢。我真的没有多少能做。你什么意思？关于这个电脑。"
+    },
+    {
+        "start": 389.76,
+        "end": 396.48,
+        "english": "just three years ago. Yes but technology is ever changing and technology is becoming obsolete",
+        "chinese": "英语：它只是三年前。是的，但技术一直在变化，技术已经过时了。"
+    },
+    {
+        "start": 396.96000000000004,
+        "end": 402.56,
+        "english": "faster and faster. Okay I know where this is going. How much will it cost me to get a new computer?",
+        "chinese": "更快一点。我已经知道这是要发生的，我需要多少钱才能换一台新的电脑？"
+    },
+    {
+        "start": 403.20000000000005,
+        "end": 410.0,
+        "english": "Well this desktop over here is our latest model. It has a 4 gigahertz processor with 16 gigabytes in",
+        "chinese": "这个桌面电脑是我们最新的型号。它配备了一个四核处理器，有16GB的内存。"
+    },
+    {
+        "start": 410.0,
+        "end": 416.88,
+        "english": "RAM and a hard disk with one terabyte. Of course it includes a mouse, keyboard and desk speakers.",
+        "chinese": "英文：RAM 和一个硬盘，容量为一TB。当然包括鼠标、键盘和桌面扬声器。"
+    },
+    {
+        "start": 416.88,
+        "end": 422.0,
+        "english": "I have no idea what you're talking about. I just want to know if it's good and if I'll be able to",
+        "chinese": "我也不知道你说的是什么。我只是想知道它是否好，以及我能否胜任这个角色。"
+    },
+    {
+        "start": 422.0,
+        "end": 427.28,
+        "english": "play solitaire without the computer crashing or freezing all the time. This PC is top of the line",
+        "chinese": "游戏不依赖电脑崩溃或卡顿，这台电脑是顶级的。"
+    },
+    {
+        "start": 427.28,
+        "end": 431.28,
+        "english": "and I guarantee it will never freeze. If it does we'll give you your money back.",
+        "chinese": "英语：和我保证它永远都不会冻结。如果它不会，我们将全额退款。"
+    },
+    {
+        "start": 434.48,
+        "end": 439.84,
+        "english": "Fritz so we are back so now let's jump into today's fluency builder. Fluency builder.",
+        "chinese": "英语：它是一台傻瓜相机。"
+    },
+    {
+        "start": 440.48,
+        "end": 444.56,
+        "english": "All right so on fluency builder we're going to take a look at three different phrases. For example",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 444.56,
+        "end": 450.72,
+        "english": "the salesman was describing technology and said that it's ever changing. Okay so this is a",
+        "chinese": "英语：他描述了技术，说它会不断变化。嗯，这是个什么？"
+    },
+    {
+        "start": 450.72,
+        "end": 458.08000000000004,
+        "english": "little poetic line here so ever changing means always changing. Always. Always changing and so we",
+        "chinese": "英语：小诗行，所以永远变化。总是如此，总在变。"
+    },
+    {
+        "start": 458.08000000000004,
+        "end": 463.84000000000003,
+        "english": "can say that the ocean is ever changing. You know the waves are always changing. But in this case",
+        "chinese": "英语：它可以这么说，海洋永远在变化。你知道波浪总是变化的吗？"
+    },
+    {
+        "start": 463.84000000000003,
+        "end": 469.04,
+        "english": "he's saying that technology is always changing. It's always progressing into something new and so",
+        "chinese": "他正在说技术总是不断变化，它总是朝着新的和未知的方向发展。"
+    },
+    {
+        "start": 469.04,
+        "end": 475.44000000000005,
+        "english": "exactly. That is a key selling point for this guy. Right so this is actually a very interesting word",
+        "chinese": "英语：它就是傻瓜相机。"
+    },
+    {
+        "start": 475.44,
+        "end": 481.92,
+        "english": "we can use it like in your example beyond technology like the way like the sea is ever changing.",
+        "chinese": "我们可以说像你提供的例子那样使用它，就像海洋一样不断变化。"
+    },
+    {
+        "start": 481.92,
+        "end": 489.52,
+        "english": "So why don't we listen to a couple of other examples. Example one. There's always something new",
+        "chinese": "英语：所以，我们为什么不听听另外几个例子。一个例子。总是有新的东西。"
+    },
+    {
+        "start": 489.52,
+        "end": 498.0,
+        "english": "in this ever changing world. Example two. Times are ever changing and we must prepare ourselves",
+        "chinese": "在这一瞬息万变的世界。 示例二：在这个不断变化的时代，我们必须提前做好准备。"
+    },
+    {
+        "start": 498.48,
+        "end": 507.04,
+        "english": "every day. Example three. The flu is an ever changing virus that continues to claim many lives.",
+        "chinese": "每天。例三。病毒不断变化，仍在夺走许多生命。"
+    },
+    {
+        "start": 508.96,
+        "end": 511.92,
+        "english": "All right we're back so now we understand the ever changing.",
+        "chinese": "英语：一切好，我们现在理解不断变化的环境。"
+    },
+    {
+        "start": 513.12,
+        "end": 518.16,
+        "english": "So the man who's trying to buy this computer or at least get his computer fixed really",
+        "chinese": "所以这个男人正在努力购买或至少修理他的电脑。"
+    },
+    {
+        "start": 518.16,
+        "end": 524.16,
+        "english": "starts to get frustrated with the salesman and he says okay I know where this is going.",
+        "chinese": "英语：他开始对售货员感到沮丧，并说：“我知道这是往哪里去了。”"
+    },
+    {
+        "start": 524.4,
+        "end": 528.88,
+        "english": "So he hears the sales pitch. He hears this guy trying to loosen him up a little bit. He says",
+        "chinese": "英语：所以他听着销售演讲。他听着这个家伙试图放松一下。他说。"
+    },
+    {
+        "start": 528.88,
+        "end": 533.68,
+        "english": "that I know where this is going. So what does this mean? This where something is going.",
+        "chinese": "我明白这是往哪里去。那么，这到底意味着什么？这是朝着哪里走的。"
+    },
+    {
+        "start": 533.68,
+        "end": 538.88,
+        "english": "So basically what direction a conversation or a topic or a situation is taking.",
+        "chinese": "英语：所以，大致讲一下对话、话题或情境正在发生的情况。"
+    },
+    {
+        "start": 539.4399999999999,
+        "end": 544.64,
+        "english": "Okay so he's saying I know why you're telling me these things. I know you're motive.",
+        "chinese": "好的，我明白了。请告诉我你需要翻译的英文句子。"
+    },
+    {
+        "start": 544.64,
+        "end": 549.36,
+        "english": "All right know what's happening. I know what you're going to say. Okay so he's essentially saying",
+        "chinese": "好的，我已准备好。请告诉我接下来会发生什么。"
+    },
+    {
+        "start": 549.36,
+        "end": 554.24,
+        "english": "I know you're going to try and sell me a computer. Right. So you can use it in other",
+        "chinese": "我明白你打算尝试卖给我一台电脑。对吧？所以你可以用它在其他地方使用。"
+    },
+    {
+        "start": 554.24,
+        "end": 558.96,
+        "english": "circumstances. Right for example the relationship. I don't know where this is going.",
+        "chinese": "情境。例如，关系。我并不知道这是怎么来的。"
+    },
+    {
+        "start": 558.96,
+        "end": 564.16,
+        "english": "Right what is going. Classic breakup line. I just don't think I know where this is going anymore.",
+        "chinese": "英语：正确。这是个傻瓜相机。"
+    },
+    {
+        "start": 565.04,
+        "end": 569.2,
+        "english": "So in reference to the relationship right. We don't know what's happening. Are we serious or we",
+        "chinese": "英语：所以，让我们回到关系。我们不知道发生了什么。是严肃的还是我们真的在讨论这个吗？"
+    },
+    {
+        "start": 569.2,
+        "end": 574.16,
+        "english": "maybe going to get married. I don't know anymore. I can't tell where this movie is going. It's so like",
+        "chinese": "英语：也许会结婚。我不知道现在在哪儿，我无法确定这部电影将往何处发展。它就像这样。"
+    },
+    {
+        "start": 574.16,
+        "end": 579.92,
+        "english": "ooh let here and there and boring. I don't know the plot. Yeah. All right so it's a very",
+        "chinese": "英语：啊，让我们往四周走吧，这是一部无聊的电影。对了，它是一部非常有趣的电影。很好，所以它是一部非常有趣且充满活力的电影。"
+    },
+    {
+        "start": 579.92,
+        "end": 583.68,
+        "english": "common phrase and it sounds very natural when you say it right. It does. And that's why it's",
+        "chinese": "常见的短语，听起来非常自然。你说得对。因此，它就很好。"
+    },
+    {
+        "start": 583.68,
+        "end": 588.3199999999999,
+        "english": "Influency Builder really helps you sound like a more native English speaker when you use these",
+        "chinese": "英语：它是一款点和拍相机。"
+    },
+    {
+        "start": 588.3199999999999,
+        "end": 593.76,
+        "english": "kind of phrases. And the next one is also very very good when he describes the the condition of",
+        "chinese": "一些短语。而且，当他描述这个情况时，他非常出色。"
+    },
+    {
+        "start": 593.76,
+        "end": 598.9599999999999,
+        "english": "the computer. He says it's top of the line. Top of the line. Now what line we're talking about.",
+        "chinese": "计算机。他说它是最新的。最新的什么？"
+    },
+    {
+        "start": 598.96,
+        "end": 605.0400000000001,
+        "english": "I do not know but this is above average line. Right so this is the best of the best. This is the",
+        "chinese": "我并不知道，但这是一款非常出色的线。正确如此，这是最好的之一。这是一条很好的线路。"
+    },
+    {
+        "start": 605.0400000000001,
+        "end": 611.6,
+        "english": "top model or the top computer and you can definitely imagine a car salesman using this.",
+        "chinese": "顶级模特或顶级电脑，你绝对能想象出一个汽车销售员使用这个。"
+    },
+    {
+        "start": 611.6,
+        "end": 618.4000000000001,
+        "english": "Yeah. Yes this BMW's top line. The best money can buy. Yeah that's another good one.",
+        "chinese": "是的。没错，这辆宝马的最顶线就是最好的钱能买到。另外，那辆车也是个不错的选择。"
+    },
+    {
+        "start": 618.4000000000001,
+        "end": 624.32,
+        "english": "So basically top of the line is the best of the best above average right. More than above average",
+        "chinese": "英语：所以总的来说，顶级就是最好的，比平均水平还要好。比平均水平更好。"
+    },
+    {
+        "start": 624.32,
+        "end": 628.48,
+        "english": "it's really it's the best you can do. And so the guy saying listen this is our best",
+        "chinese": "英语：它真的很棒，而且那个说的那个人就是我们的最佳。"
+    },
+    {
+        "start": 628.48,
+        "end": 634.72,
+        "english": "computer. Really you should buy it. And obviously top of the line is like cost a lot of money.",
+        "chinese": "计算机。真的你应该买它。而且，像花费很多钱一样好的是顶级的。"
+    },
+    {
+        "start": 634.72,
+        "end": 639.28,
+        "english": "Yeah it's usually for for something that costs money right for things. You wouldn't really use it",
+        "chinese": "是的，它通常用于那些需要花费金钱的东西。你不会真正使用它。"
+    },
+    {
+        "start": 639.28,
+        "end": 644.0,
+        "english": "for a person right. He's top of the line. No no no no. Top of the line I think generally refers",
+        "chinese": "对于一个人来说。他是顶流。不，不，不。一般而言，顶流通常指的是"
+    },
+    {
+        "start": 644.0,
+        "end": 650.32,
+        "english": "to electronics and cars or like motorcycles. And so you often hear top of line stereo top line",
+        "chinese": "英语：电子产品和汽车，或者像摩托车这样的东西。你经常听到顶级的立体声顶级的立体声。"
+    },
+    {
+        "start": 650.32,
+        "end": 657.52,
+        "english": "TV top of the line car. But you wouldn't say this about food or people or art. Yeah you wouldn't say",
+        "chinese": "电视顶级轿车。但你 wouldn't say this about food, people, or art. Yeah, you wouldn't say."
+    },
+    {
+        "start": 657.52,
+        "end": 662.0,
+        "english": "this this painting is top of the line. No not about like very unique things. You'd say this",
+        "chinese": "这个画作是顶线的。不是说像非常独特的东西，你说呢？"
+    },
+    {
+        "start": 662.0,
+        "end": 667.52,
+        "english": "about kind of manufactured things. Very good. So we've taken a look at a lot of great phrases.",
+        "chinese": "关于各种制造出来的物品。非常棒。所以我们已经看了很多很棒的短语。"
+    },
+    {
+        "start": 667.52,
+        "end": 670.88,
+        "english": "Why don't we listen to our dialogue for the last time and then we'll come back.",
+        "chinese": "英语：我们为什么不等一下，然后再回来？"
+    },
+    {
+        "start": 679.76,
+        "end": 687.12,
+        "english": "So can you fix it? I'm sorry sir. This computer is not broken or damaged. It's simply just too old.",
+        "chinese": "所以你能修理它吗？对不起，先生。这台电脑既没有损坏也没有故障。只是太旧了。"
+    },
+    {
+        "start": 687.12,
+        "end": 692.0,
+        "english": "That's why your programs and applications are running slow. There really isn't much I can do.",
+        "chinese": "英语：这是因为你的程序和应用程序运行得慢。我真的无法做些什么了。"
+    },
+    {
+        "start": 692.0,
+        "end": 695.2,
+        "english": "What do you mean? I bought this computer just three years ago.",
+        "chinese": "英语：你什么意思？我刚买这台电脑才三年。"
+    },
+    {
+        "start": 695.92,
+        "end": 701.84,
+        "english": "Yes but technology is ever changing and technology is becoming obsolete faster and faster.",
+        "chinese": "是的，但技术一直在变化，它变得越来越不适应和更快。"
+    },
+    {
+        "start": 702.4,
+        "end": 707.04,
+        "english": "Okay I know where this is going. How much will it cost me to get a new computer?",
+        "chinese": "好的，我明白了。你想要了解的是什么？"
+    },
+    {
+        "start": 707.68,
+        "end": 714.32,
+        "english": "Well this desktop over here is our latest model. It has a 4 gigahertz processor with 16 gigabytes",
+        "chinese": "这个桌面电脑是我们最新的型号。它配备了一个四核处理器，有十六GB的内存。"
+    },
+    {
+        "start": 714.32,
+        "end": 721.36,
+        "english": "in RAM and a hard disk with one terabyte. Of course it includes a mouse, keyboard and desk speakers.",
+        "chinese": "在RAM和一个硬盘上，包含一个鼠标的键盘和桌面扬声器。"
+    },
+    {
+        "start": 721.36,
+        "end": 726.32,
+        "english": "I have no idea what you were talking about. I just want to know if it's good and if I'll be able",
+        "chinese": "我也不知道你说的是什么。我只是想知道它是否好，以及我能否胜任这个角色。"
+    },
+    {
+        "start": 726.32,
+        "end": 731.6800000000001,
+        "english": "to play solitaire without the computer crashing or freezing all the time. This PC is top of the line",
+        "chinese": "英语：玩不着电脑崩溃或冻死。这台PC是顶级的。"
+    },
+    {
+        "start": 731.6800000000001,
+        "end": 735.7600000000001,
+        "english": "and I guarantee it will never freeze. If it does we'll give you your money back.",
+        "chinese": "英语：和我保证它永远不会冻结。如果它不冻，我们将退还你的钱。"
+    },
+    {
+        "start": 736.48,
+        "end": 748.64,
+        "english": "We're back so computers Catherine I know you recently got a nice Macintosh.",
+        "chinese": "我们已经回来，所以你最近得到了一台漂亮的Macintosh电脑。"
+    },
+    {
+        "start": 749.28,
+        "end": 754.72,
+        "english": "Yeah yeah I did. It's one of those big screen ones right? Yeah it is it's a desktop right so it's",
+        "chinese": "是的，我确实做到了。它是一台大屏幕的电脑吗？没错，确实是桌面电脑，所以它是这样。"
+    },
+    {
+        "start": 754.72,
+        "end": 761.52,
+        "english": "not a laptop and it's got a very fast processor because Macs started using Intel processors a",
+        "chinese": "不是一款笔记本电脑，它有一个非常快的处理器，因为Mac开始使用Intel处理器。"
+    },
+    {
+        "start": 761.52,
+        "end": 766.48,
+        "english": "couple of years ago and that made them much faster. Wow and it has this processor actually has",
+        "chinese": "英语：几年前，他们变得更快了。哇，它实际上有这个处理器！"
+    },
+    {
+        "start": 766.48,
+        "end": 772.88,
+        "english": "two cores right so basically it can has two different brains almost within one processor.",
+        "chinese": "两个核心对齐，所以基本上可以有两颗不同的大脑，几乎在同一块处理器上。"
+    },
+    {
+        "start": 772.88,
+        "end": 779.76,
+        "english": "Which gives it really bad headaches. She complains to me often. Are you a big Mac fan or PC fan?",
+        "chinese": "英语：这是一款非常糟糕的相机。她经常抱怨我，你是不是大Mac爱好者或PC爱好者？"
+    },
+    {
+        "start": 779.76,
+        "end": 785.68,
+        "english": "I'm a Mac fan. I've been converted my roommate in college. My sophomore year had a Mac and ever since",
+        "chinese": "英语：我是个Mac迷。我在大学期间被我的室友转到了Mac。自从那以后，我一直用Mac。"
+    },
+    {
+        "start": 785.68,
+        "end": 793.5999999999999,
+        "english": "then I've really gotten into them. So I went Mac and didn't turn back. I still honestly cannot",
+        "chinese": "然后我真地投入了他们。所以我去了Mac，而且没有回头。我还是真的无法忍受它们。"
+    },
+    {
+        "start": 793.5999999999999,
+        "end": 798.8,
+        "english": "really use a Mac. I get confused. I'm looking for the for the start button and I'm looking for where",
+        "chinese": "真的用Mac。我有点困惑，我在寻找启动按钮的位置和设置位置。"
+    },
+    {
+        "start": 798.8,
+        "end": 805.12,
+        "english": "my documents are. It's really hard to change over right but once you do is you don't want to change",
+        "chinese": "我的文档是。真的很难改变，但一旦你改变了，你就再也不想变了。"
+    },
+    {
+        "start": 805.12,
+        "end": 810.3199999999999,
+        "english": "back because everything is so much easier on a Mac. But if you're really into PC gaming then you",
+        "chinese": "因为一切在Mac上都那么简单。但是如果你真的喜欢PC游戏，那就"
+    },
+    {
+        "start": 810.3199999999999,
+        "end": 814.7199999999999,
+        "english": "should probably stick with it stick with the PCs because the games just don't really compare on Macs.",
+        "chinese": "英语：应该尽量还是用它，因为电脑游戏和Mac之间的差距并不大。"
+    },
+    {
+        "start": 814.8000000000001,
+        "end": 819.6,
+        "english": "But I've heard that also Macs don't really suffer from viruses right? No they don't which is great",
+        "chinese": "但是，我听说也有的Mac电脑并不像病毒一样容易感染。这真是太好了。"
+    },
+    {
+        "start": 819.6,
+        "end": 822.8000000000001,
+        "english": "because I always used to get these viruses that was floating on my computer because you know you",
+        "chinese": "因为自从我总是被这些病毒浮现在我的电脑上，所以。"
+    },
+    {
+        "start": 822.8000000000001,
+        "end": 828.64,
+        "english": "open some email and all of a sudden there's nastiness on your desktop. Well now I don't really have",
+        "chinese": "打开一些邮件，突然桌面变得不那么整洁。现在我并不太清楚发生了什么。"
+    },
+    {
+        "start": 828.64,
+        "end": 834.88,
+        "english": "that problem and also there's really wonderful photo editing software and video editing software.",
+        "chinese": "这个问题和还有非常棒的图像编辑软件和视频编辑软件。"
+    },
+    {
+        "start": 834.88,
+        "end": 840.48,
+        "english": "Right. So everything is just really easy to find and easy to use. What about you listeners do you",
+        "chinese": "是的，一切都这么简单，很容易找到和使用。你呢，听众，你觉得如何？"
+    },
+    {
+        "start": 840.48,
+        "end": 846.96,
+        "english": "prefer the Mac? Do you prefer the PC or maybe some of our listeners don't really even like computers?",
+        "chinese": "英语：你更喜欢Mac还是PC？或者，也许我们的听众并不真正喜欢电脑呢？"
+    },
+    {
+        "start": 846.96,
+        "end": 851.52,
+        "english": "Well let us know either way we're very curious to hear what you have to say and of course writing",
+        "chinese": "英语：很好，我们可以随时询问。当然，写作也很有趣。"
+    },
+    {
+        "start": 851.52,
+        "end": 855.76,
+        "english": "on our comment section is great practice for your English. Right so we'll see you guys there and",
+        "chinese": "在我们的评论区真是个很好的练习机会，对吧？所以咱们到时候见！"
+    },
+    {
+        "start": 855.76,
+        "end": 859.2,
+        "english": "until next time bye everyone. Bye.",
+        "chinese": "直到下次再见，大家。再见。"
+    }
+]

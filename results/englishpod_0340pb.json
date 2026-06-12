@@ -1,0 +1,638 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.84,
+        "english": "Hello everyone and welcome to English. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语。我的名字是马科。"
+    },
+    {
+        "start": 3.84,
+        "end": 7.44,
+        "english": "My name is Catherine and it's the start of a very new year so we have some interesting",
+        "chinese": "我的名字是凯莉，而且这是一个非常新的开始，所以我们有一些有趣的事情要分享。"
+    },
+    {
+        "start": 7.44,
+        "end": 9.92,
+        "english": "vocabulary for you today about the new year.",
+        "chinese": "今天关于新年的词汇。"
+    },
+    {
+        "start": 9.92,
+        "end": 15.36,
+        "english": "That's right so we are starting a new year. Why don't we just jump right into this dialogue?",
+        "chinese": "英语：那真是对头，我们马上就要开始新一年的对话了。为什么不直接跳入这个对话呢？"
+    },
+    {
+        "start": 15.36,
+        "end": 17.44,
+        "english": "Let's see what's going on and we'll be back in a bit.",
+        "chinese": "让我们看看发生了什么，然后我们再聊点别的。"
+    },
+    {
+        "start": 24.240000000000002,
+        "end": 27.84,
+        "english": "It's almost midnight. We're about to start a brand new year.",
+        "chinese": "英语：它几乎到了深夜。我们即将开始一个新的年度。"
+    },
+    {
+        "start": 27.919999999999998,
+        "end": 31.36,
+        "english": "I know it's so exciting. A new year is always like a clean slate.",
+        "chinese": "英语：我知道它总是像一个全新的开始。"
+    },
+    {
+        "start": 32.0,
+        "end": 35.44,
+        "english": "A fresh start to accomplish any dreams, objectives and goals.",
+        "chinese": "一个全新的开始，来实现任何梦想、目标和目标。"
+    },
+    {
+        "start": 35.44,
+        "end": 37.76,
+        "english": "Do you have a new year's resolution?",
+        "chinese": "是的，你有新一年的计划吗？"
+    },
+    {
+        "start": 37.76,
+        "end": 41.44,
+        "english": "I was thinking about it but I'm never able to keep my new year's resolutions.",
+        "chinese": "我正想着，但总是难以坚持新年的决心。"
+    },
+    {
+        "start": 41.44,
+        "end": 44.480000000000004,
+        "english": "Last year for example I joined a gym and only went twice.",
+        "chinese": "上个月，我曾经参加过一次健身房，并只去了两次。"
+    },
+    {
+        "start": 45.04,
+        "end": 50.08,
+        "english": "Yeah I know what you mean. That's why this year I am keeping things more simple.",
+        "chinese": "是的，我知道你的话。因此，今年我更加简单地处理这些事情。"
+    },
+    {
+        "start": 50.08,
+        "end": 55.36,
+        "english": "Maybe like getting together with friends I haven't seen in a long time or doing some volunteering work.",
+        "chinese": "英语：或许像和朋友聚会或做一些志愿者工作。"
+    },
+    {
+        "start": 55.36,
+        "end": 59.2,
+        "english": "That seems reasonable. We should get together and watch the ball drop in Times Square.",
+        "chinese": "听起来合理。我们应当一起观看纽约时代广场的足球比赛。"
+    },
+    {
+        "start": 59.2,
+        "end": 62.96,
+        "english": "Sure as long as you don't try to kiss me at midnight.",
+        "chinese": "是的，只要你不试图在半夜吻我。"
+    },
+    {
+        "start": 62.96,
+        "end": 65.36,
+        "english": "Well we can't break tradition it's bad luck.",
+        "chinese": "英语：它不能打破传统，这是不幸的运气。"
+    },
+    {
+        "start": 68.72,
+        "end": 72.8,
+        "english": "All right so we've prepared a couple of different words for you on language takeaway.",
+        "chinese": "英语：所有准备好了，我们可以为您介绍一些语言小贴士。"
+    },
+    {
+        "start": 75.84,
+        "end": 76.96000000000001,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 79.12,
+        "end": 84.24,
+        "english": "All right the first the first where we have actually a phrase we have this phrase brand new.",
+        "chinese": "英语：所有准备就绪，我们已经有了这个新词。"
+    },
+    {
+        "start": 84.24,
+        "end": 90.0,
+        "english": "Something is a brand new thing. That's right we said that we are starting a brand new year",
+        "chinese": "一个事物是全新的东西。没错，我们说我们现在开始了一个全新的一年。"
+    },
+    {
+        "start": 90.0,
+        "end": 93.28,
+        "english": "and that's just another way of saying completely new.",
+        "chinese": "英语：和这就是完全新的另一种说法。"
+    },
+    {
+        "start": 93.28,
+        "end": 98.0,
+        "english": "So I want a brand new bicycle means I want a new bicycle from the store.",
+        "chinese": "所以，我想买辆新的自行车，意味着我要从商店里买一辆新自行车。"
+    },
+    {
+        "start": 98.0,
+        "end": 104.64,
+        "english": "Not one from the garage. That's right so it's something completely new never been used.",
+        "chinese": "不是从车库来的。那真是完全新奇，从未使用过。"
+    },
+    {
+        "start": 104.64,
+        "end": 108.24,
+        "english": "So we're starting a brand new year and we're saying it's exciting because it's a great",
+        "chinese": "英语：所以我们正在一个新的年度开始，我们说这真是令人兴奋的，因为它真的是一个很好的"
+    },
+    {
+        "start": 108.24,
+        "end": 113.6,
+        "english": "opportunity like having a clean slate. So a clean slate.",
+        "chinese": "机会就像有了一个全新的开始。所以，有了一个全新的开始。"
+    },
+    {
+        "start": 113.6,
+        "end": 116.88,
+        "english": "Now this is an interesting phrase because you might not know what a slate is.",
+        "chinese": "现在这个有趣的说法因为可能你不知道什么是白板。"
+    },
+    {
+        "start": 116.88,
+        "end": 120.08,
+        "english": "But basically it means that you start from the very beginning.",
+        "chinese": "但是基本上，它意味着你从头开始。"
+    },
+    {
+        "start": 120.08,
+        "end": 126.08,
+        "english": "So there's no history there's no nothing that you have to worry about you start completely new.",
+        "chinese": "所以，你没有任何历史。你不需要担心任何事情。你可以从头开始。"
+    },
+    {
+        "start": 126.08,
+        "end": 127.6,
+        "english": "That's a clean slate.",
+        "chinese": "这是个干净的起点。"
+    },
+    {
+        "start": 127.6,
+        "end": 133.12,
+        "english": "That's right so just imagine you're in class and you have the white board or the chalk board",
+        "chinese": "那正是，那么想象一下你正在上课，有白板或黑板。"
+    },
+    {
+        "start": 133.12,
+        "end": 137.92,
+        "english": "and you just erase everything and then you start again that's kind of what it means to have a",
+        "chinese": "英语：和你一气之下，然后重新开始，那大概就是有了一个傻瓜相机的感觉了。"
+    },
+    {
+        "start": 137.92,
+        "end": 143.44,
+        "english": "clean slate a new start. Exactly and so we have a clean slate we need to talk about",
+        "chinese": "英文：一个全新的开始。正好，我们有一个全新的开始，需要讨论。"
+    },
+    {
+        "start": 143.44,
+        "end": 148.16,
+        "english": "what we will do with the clean slate and so one person asks the other do you have any new years",
+        "chinese": "英语：我们将会如何处理这个干净的起点和一个其他人问你是否有新年的计划？"
+    },
+    {
+        "start": 148.16,
+        "end": 154.32,
+        "english": "resolutions. That's right so this is one of the most popular things during the new years",
+        "chinese": "分辨率。这就是新年的最受欢迎的事情之一了。"
+    },
+    {
+        "start": 154.32,
+        "end": 161.84,
+        "english": "is people make a new years resolution. So a resolution is something that you have decided you will do.",
+        "chinese": "英语：如果你决定新年的目标，那么新年目标就是你已经决定了你要做的事情。"
+    },
+    {
+        "start": 162.88,
+        "end": 169.68,
+        "english": "I have many resolutions I will learn to play the piano this year. So in the new year I will do",
+        "chinese": "我有多个分辨率，我将在今年学习弹奏钢琴。所以明年我会加倍努力。"
+    },
+    {
+        "start": 169.68,
+        "end": 175.68,
+        "english": "this thing. That's right so it's basically like a promise something that you promise yourself",
+        "chinese": "这个东西。那真是个承诺，它基本上就像你给自己许下的承诺一样。"
+    },
+    {
+        "start": 175.68,
+        "end": 180.8,
+        "english": "that you will do in the new year so as you say maybe start playing the piano.",
+        "chinese": "这个傻瓜相机在新一年会帮你练习钢琴。"
+    },
+    {
+        "start": 180.8,
+        "end": 185.76000000000002,
+        "english": "That's right so we call that a resolution or if we want to be specific we call it a new years",
+        "chinese": "英语：那对，我们称它分辨率或者如果我们要具体一点的话，我们可以称之为新年。"
+    },
+    {
+        "start": 185.76000000000002,
+        "end": 190.72,
+        "english": "resolution. Now at the very end of the dialogue we heard another phrase this is quite strange.",
+        "chinese": "英语：分辨率。现在在对话的最后，我们听到另一个术语如此奇怪。"
+    },
+    {
+        "start": 191.68,
+        "end": 196.48000000000002,
+        "english": "They want to kiss at midnight and the one person says well we can't break tradition.",
+        "chinese": "他们想在午夜时分吻，但一个人说不行，我们不能打破传统。"
+    },
+    {
+        "start": 196.48,
+        "end": 201.51999999999998,
+        "english": "That's right to break a tradition or to break tradition and that basically means to",
+        "chinese": "没错，要打破传统或要打破传统并行不悖。"
+    },
+    {
+        "start": 202.64,
+        "end": 207.76,
+        "english": "not do something that we usually do. All right so you can follow tradition that means that you do",
+        "chinese": "不按照我们通常的做法去做。一切好，你可以按照传统的方式做。"
+    },
+    {
+        "start": 207.76,
+        "end": 213.67999999999998,
+        "english": "the same thing maybe every year but if you break tradition that means you don't do what you are",
+        "chinese": "这个可能每年都有同样的问题，但如果你打破传统，你就不是按照自己的方式做事。"
+    },
+    {
+        "start": 213.67999999999998,
+        "end": 220.32,
+        "english": "expected to do. So remember that verb is to break break tradition. That's right. All right so let's",
+        "chinese": "预期要做的。所以记住这个动词是“打破”打破传统。这是对的。很好，那么让我们继续。"
+    },
+    {
+        "start": 220.32,
+        "end": 223.28,
+        "english": "review this vocab. Let's listen to the dialogue again.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 230.32,
+        "end": 236.07999999999998,
+        "english": "It's almost midnight. We're about to start a brand new year. I know it's so exciting. A new year",
+        "chinese": "英语：它几乎到了深夜。我们即将开始一个新的年度。我知道这是多么激动人心。"
+    },
+    {
+        "start": 236.07999999999998,
+        "end": 241.6,
+        "english": "is always like a clean slate. A fresh start to accomplish any dreams, objectives and goals.",
+        "chinese": "是永远像一个空白的开始。任何梦想、目标和目标的实现，都需要从零开始，才能取得成功。"
+    },
+    {
+        "start": 241.6,
+        "end": 246.16,
+        "english": "Do you have a new year's resolution? I was thinking about it but I'm never able to keep my",
+        "chinese": "是的，你有新一年的计划吗？我一直在想，但总是无法坚持。"
+    },
+    {
+        "start": 246.16,
+        "end": 252.07999999999998,
+        "english": "new years resolutions. Last year for example I joined a gym and only went twice. Yeah I know what",
+        "chinese": "新年的决心。例如，去年我参加过健身房，并只去了两次。嗯，我知道这是什么意思。"
+    },
+    {
+        "start": 252.07999999999998,
+        "end": 257.6,
+        "english": "you mean that's why this year I am keeping things more simple maybe like getting together with",
+        "chinese": "英语：你可能是因为今年我更倾向于像聚会一样，还是保持简单一些。"
+    },
+    {
+        "start": 257.6,
+        "end": 262.8,
+        "english": "friends I haven't seen in a long time or doing some volunteering work. That seems reasonable. We",
+        "chinese": "朋友们，我很久没有见过他们了。或者我们做一些志愿者工作也挺合适的。"
+    },
+    {
+        "start": 262.8,
+        "end": 267.52,
+        "english": "should get together and watch the ball drop in Times Square. Sure as long as you don't try to",
+        "chinese": "英语：应该和我们一起去看纽约时代广场的球赛。只要不要试图去打。"
+    },
+    {
+        "start": 267.59999999999997,
+        "end": 271.44,
+        "english": "kiss me at midnight. Well we can't break tradition it's bad luck.",
+        "chinese": "英语：我爱你。"
+    },
+    {
+        "start": 274.79999999999995,
+        "end": 278.47999999999996,
+        "english": "All right so let's take a look at those phrases now on fluency builder.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 280.15999999999997,
+        "end": 288.08,
+        "english": "Fluency builder. So there's a phrase in here that I use all the time. We heard about this resolution",
+        "chinese": "流畅构建。因此，这里有一句话我经常使用。我们听说过这个解决办法"
+    },
+    {
+        "start": 288.08,
+        "end": 293.84,
+        "english": "to go to the gym more often and other persons say you know I never really go to the gym and the",
+        "chinese": "英语：更经常去健身房。"
+    },
+    {
+        "start": 293.84,
+        "end": 299.52,
+        "english": "other said you know I know what you mean. Yeah that's right she says yeah I know what you mean",
+        "chinese": "英语：其他说你懂我懂，对吧？她这么说，我懂了。"
+    },
+    {
+        "start": 299.52,
+        "end": 306.08,
+        "english": "and so basically we use this when you agree with the person you understand what they are saying.",
+        "chinese": "英语：和所以基本上我们使用这个当你说得对时。"
+    },
+    {
+        "start": 306.64,
+        "end": 313.03999999999996,
+        "english": "Yeah it's almost like saying I had the same experience so maybe I also belong to a gym and I",
+        "chinese": "是的，它就像在说我也有同样的经历，或许我也属于健身房，并且我可能也和你一样。"
+    },
+    {
+        "start": 313.03999999999996,
+        "end": 319.44,
+        "english": "never go to that gym just like you. So I know what you mean I have the same problem. That's right so",
+        "chinese": "英语：你别去那健身房，就像你一样。我知道你的问题，所以你也应该知道。这就是正确的。"
+    },
+    {
+        "start": 319.52,
+        "end": 324.56,
+        "english": "you can just agree with someone completely agree with someone by saying yeah I know what you",
+        "chinese": "你可以说 \"我完全同意\"。"
+    },
+    {
+        "start": 324.56,
+        "end": 330.32,
+        "english": "mean or I know what you mean. I know what you mean. All right so well this year we want to keep",
+        "chinese": "英语：它意味着或者我懂了你的话。我知道你的话。今年我们想继续保持这种状态。"
+    },
+    {
+        "start": 330.32,
+        "end": 335.76,
+        "english": "things a little bit more simple and we said well maybe like getting together with friends I haven't",
+        "chinese": "小一点的简单，我们说也许像和朋友聚在一起，我还没有。"
+    },
+    {
+        "start": 335.76,
+        "end": 341.2,
+        "english": "seen in a long time. All right so think about this to get together with friends. Lots of words",
+        "chinese": "英语：看过了。一切准备就绪，我们可以一起聚在一起了。有很多词汇。"
+    },
+    {
+        "start": 341.2,
+        "end": 348.15999999999997,
+        "english": "there but you can see friends but to get together means to be social with to hang out with to do",
+        "chinese": "在这里，你可以看到朋友，但要在一起意味着与他人交往。这可能意味着聚会、社交活动或共同参与某项活动。"
+    },
+    {
+        "start": 348.16,
+        "end": 352.8,
+        "english": "things together but it's not very specific it's a nice way to say just to be with your friends.",
+        "chinese": "事情一起，但不是很具体。这是一种好方法，只是和朋友在一起。"
+    },
+    {
+        "start": 352.8,
+        "end": 358.72,
+        "english": "That's right so maybe you are going with your friends out maybe shopping maybe to the movies",
+        "chinese": "是的，那么你可能是和朋友出去购物或者看电影。"
+    },
+    {
+        "start": 358.72,
+        "end": 364.88,
+        "english": "so you say yeah I'm gonna get together with my friends later on this afternoon. All right so",
+        "chinese": "英语：所以你说的对，我打算和朋友们下午一起聚会。"
+    },
+    {
+        "start": 365.92,
+        "end": 370.08000000000004,
+        "english": "we can get together with friends as a resolution that's something we want to do in the near future",
+        "chinese": "我们可以在未来尽快一起聚在一起，达成一个我们想要实现的目标。"
+    },
+    {
+        "start": 370.08000000000004,
+        "end": 376.24,
+        "english": "but for now we're going to get together and watch the ball drop in Times Square that's the new",
+        "chinese": "但是现在我们还是决定一起去看纽约时代广场的球赛，那场比赛就是今天。"
+    },
+    {
+        "start": 376.24,
+        "end": 383.12,
+        "english": "years plan. That's right so it may seem strange it's not actually a phrasal verb or a colloquial phrase",
+        "chinese": "几年计划。那应该就是对的，因为这可能看起来有些奇怪，但实际上不是一个短语或俚语。"
+    },
+    {
+        "start": 383.76,
+        "end": 392.8,
+        "english": "there is actually a ball that goes down as the countdown begins to midnight and once it completely",
+        "chinese": "英语：实际上，球会随着计时器的开始缓缓落下。"
+    },
+    {
+        "start": 392.8,
+        "end": 398.88,
+        "english": "disappears then you know you celebrate the new year so you actually see this big round ball coming",
+        "chinese": "英语：消失之后，你才知道你庆祝新年的确看到了这个大圆球。"
+    },
+    {
+        "start": 398.88,
+        "end": 405.6,
+        "english": "down in Times Square. Yeah it's a way to count down to the new year so people often say 10, 9,",
+        "chinese": "下到 Times Square。嗯，这真是个好办法，人们常常说“10, 9”，表示即将过去的日子。"
+    },
+    {
+        "start": 405.6,
+        "end": 410.56,
+        "english": "8, 7 so the countdown and the ball will drop and that means it's the new year so this is",
+        "chinese": "八七，所以计时和球会落下，这意味着这是新一年，因此这个是"
+    },
+    {
+        "start": 410.56,
+        "end": 416.40000000000003,
+        "english": "something that we refer to it's not we talk about when we want to discuss the new year so we'll",
+        "chinese": "我们指的是它，不是我们在谈论新年的庆祝活动。所以我们将在讨论新年时使用它。"
+    },
+    {
+        "start": 416.40000000000003,
+        "end": 422.40000000000003,
+        "english": "watch the ball drop together it's an event. That's right okay so a lot of great stuff there when",
+        "chinese": "英语：一起看球，这是一个事件。对的，有很多很棒的东西在那里，当。"
+    },
+    {
+        "start": 422.40000000000003,
+        "end": 425.04,
+        "english": "we listen to the dialogue one last time.",
+        "chinese": "我们再听一次对话。"
+    },
+    {
+        "start": 426.0,
+        "end": 437.76000000000005,
+        "english": "It's almost midnight we're about to start a brand new year. I know it's so exciting a new year",
+        "chinese": "它几乎到了深夜，我们即将开始一个全新的年度。我知道这是一个如此激动人心的年度。"
+    },
+    {
+        "start": 437.76000000000005,
+        "end": 443.28000000000003,
+        "english": "is always like a clean slate a fresh start to accomplish any dreams objectives and goals.",
+        "chinese": "是永远像一个空白的开始，为实现任何梦想、目标和目标而奋斗。"
+    },
+    {
+        "start": 443.28000000000003,
+        "end": 447.84000000000003,
+        "english": "Do you have a new year's resolution? I was thinking about it but I'm never able to keep my",
+        "chinese": "是的，我有新的年历。我想了很久，但总是无法坚持。"
+    },
+    {
+        "start": 447.84000000000003,
+        "end": 453.76,
+        "english": "new year's resolutions last year for example I joined a gym and only went twice. Yeah I know what",
+        "chinese": "英语：新年愿望，例如我去年加入了健身房，并只去了一次。嗯，我知道这是什么意思。"
+    },
+    {
+        "start": 453.76,
+        "end": 459.28,
+        "english": "you mean that's why this year I am keeping things more simple maybe like getting together with",
+        "chinese": "英语：你可能是因为今年我更倾向于像聚会一样，还是保持简单一些。"
+    },
+    {
+        "start": 459.28,
+        "end": 464.48,
+        "english": "friends I haven't seen in a long time or doing some volunteering work. That seems reasonable we",
+        "chinese": "朋友们，我很久没见了或者在做些志愿者工作。看来这个想法是合理的。"
+    },
+    {
+        "start": 464.48,
+        "end": 469.68,
+        "english": "should get together and watch the ball drop in Times Square. Sure as long as you don't try to kiss me",
+        "chinese": "英语：应该和我们一起去看纽约时代广场的球赛。只要你不试图吻我。"
+    },
+    {
+        "start": 469.68,
+        "end": 478.32,
+        "english": "at midnight. Well we can't break tradition it's bad luck. All right so talking about new years",
+        "chinese": "晚上十一点。好吧，我们谈论一下新年。"
+    },
+    {
+        "start": 478.4,
+        "end": 484.4,
+        "english": "everyone makes new years resolutions and people get together to watch the ball drop in Times Square.",
+        "chinese": "每个人都会制定新年目标，并且大家聚集在纽约时代广场观看球赛。"
+    },
+    {
+        "start": 484.4,
+        "end": 490.48,
+        "english": "Now this is more of an American thing. Have you ever experienced anything different from new years",
+        "chinese": "现在这个有点像美国的。你有没有体验过和新年不一样的东西？"
+    },
+    {
+        "start": 490.48,
+        "end": 496.08,
+        "english": "some other type of tradition because also here they kiss at midnight. That's right well that's a",
+        "chinese": "英语：一些其他类型的传统，因为这里他们也在凌晨吻。这就是正确的。"
+    },
+    {
+        "start": 496.08,
+        "end": 501.03999999999996,
+        "english": "pretty standard American tradition people will get together and they'll have the TV on they'll",
+        "chinese": "标准的美国传统，人们会聚在一起，他们将电视打开。"
+    },
+    {
+        "start": 501.03999999999996,
+        "end": 506.8,
+        "english": "have a party or they'll be with friends and they will maybe watch some fireworks or watch the",
+        "chinese": "举办聚会或者他们可能会和朋友一起，也许会观看烟花或观看。"
+    },
+    {
+        "start": 506.8,
+        "end": 511.84000000000003,
+        "english": "TV as the ball drops. So I've done both I've gone out because sometimes you go outside it's very cold",
+        "chinese": "英语：电视就像球落下一样。所以我已经出去了，因为有时候你出去了，天气会很冷。"
+    },
+    {
+        "start": 511.84000000000003,
+        "end": 517.6,
+        "english": "but you go to a bridge or a park or somewhere public or the city government or the state will",
+        "chinese": "但是你去桥或者公园或者其他公共场所，或者市政府或者州政府。"
+    },
+    {
+        "start": 517.6,
+        "end": 522.0,
+        "english": "have some kind of special fireworks display so then everyone will watch the fireworks or watch",
+        "chinese": "请将这句话翻译成中文。"
+    },
+    {
+        "start": 522.8,
+        "end": 528.72,
+        "english": "a big TV screen and then when it's midnight when it's the new year then everyone will kiss.",
+        "chinese": "大屏幕之后，当到了新年的时候，大家都会拥抱。"
+    },
+    {
+        "start": 528.72,
+        "end": 536.0,
+        "english": "So everyone will kiss maybe I mean is it like just between couples or whoever's available you",
+        "chinese": "英语：所以，每个人都会拥抱，也许只是在情侣之间，或者谁愿意的你。"
+    },
+    {
+        "start": 536.0,
+        "end": 540.64,
+        "english": "kiss whoever's there. Sometimes it's whoever is available that's happened to me where you turn",
+        "chinese": "英语：请原谅，如果有人在那里。"
+    },
+    {
+        "start": 540.64,
+        "end": 546.32,
+        "english": "around and you say oh I don't know you so the tradition is you have to kiss someone at midnight. So",
+        "chinese": "在周围，你可以说啊，我不知道，所以传统是，你需要在半夜吻一个人。"
+    },
+    {
+        "start": 546.32,
+        "end": 550.32,
+        "english": "this is for good luck. Yes for good luck in the new year. Yes. So if you don't kiss someone then",
+        "chinese": "这是为了好运。在新年的好运对你有好处。所以，如果你不吻人的话，那么"
+    },
+    {
+        "start": 550.32,
+        "end": 556.08,
+        "english": "you're kind of breaking the tradition. I ask that. And it's unlucky. An interesting way of celebrating",
+        "chinese": "你有点打破了传统。我同意。而且很不幸。这是一个有趣的庆祝方式。"
+    },
+    {
+        "start": 556.08,
+        "end": 561.44,
+        "english": "years this is as we said in the United States watching the ball drop kissing someone at midnight.",
+        "chinese": "美国的观众在观看球从天空落下，和某人一起在凌晨时分吻别。"
+    },
+    {
+        "start": 561.44,
+        "end": 566.8800000000001,
+        "english": "So we are really curious to know how you celebrate your new years in your country because maybe",
+        "chinese": "所以我们真的非常好奇你如何庆祝你的新年，因为也许。"
+    },
+    {
+        "start": 566.8800000000001,
+        "end": 571.36,
+        "english": "you have similar traditions or very different things. That's right and I know some places like",
+        "chinese": "英语：你有相似的传统或非常不同的东西。那真是对的，我知道一些地方像……"
+    },
+    {
+        "start": 571.36,
+        "end": 576.6400000000001,
+        "english": "Italy even have special foods you are supposed to eat to bring wealth and prosperity in the new year.",
+        "chinese": "意大利甚至有让你在新年的财富和繁荣中必须吃的东西的规定。"
+    },
+    {
+        "start": 576.6400000000001,
+        "end": 580.4000000000001,
+        "english": "So let us know our website is englishpod.com. All right we'll see you guys there. Bye.",
+        "chinese": "所以让我们知道我们的网站是englishpod.com。一切好，我们将在那里见你们。再见！"
+    }
+]

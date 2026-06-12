@@ -1,0 +1,920 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.32,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家欢迎来到英语有声教材。我的名字是马可。"
+    },
+    {
+        "start": 6.32,
+        "end": 12.040000000000001,
+        "english": "And my name is Catherine and today we have a very exciting elementary lesson for you.",
+        "chinese": "我的名字是凯瑟琳，今天我们将有一个非常激动人心的初级课程。"
+    },
+    {
+        "start": 12.040000000000001,
+        "end": 17.0,
+        "english": "That's right. We are going to take our clothes to the dry cleaners.",
+        "chinese": "那是对的。我们是去干洗店拿衣服。"
+    },
+    {
+        "start": 17.0,
+        "end": 21.88,
+        "english": "Oh okay. So that means we have some dirty clothes. They need to be cleaned.",
+        "chinese": "哦，好的。这意味着我们有一些脏衣服需要清洗。"
+    },
+    {
+        "start": 21.88,
+        "end": 28.0,
+        "english": "Let's listen to this dialogue one time and when we come back we'll be talking about the words and phrases that you hear in it.",
+        "chinese": "让我们听这段对话一次，我们下次回来时会讨论你听到的词语和短语。"
+    },
+    {
+        "start": 30.0,
+        "end": 40.0,
+        "english": "Thank God you are open. I have an emergency. Hello Mr. Hanson. What can I do for you?",
+        "chinese": "感谢上帝你开放。我有紧急情况。你好，汉森先生。我能为你做些什么？"
+    },
+    {
+        "start": 40.0,
+        "end": 44.0,
+        "english": "I need this dress and this suit dry cleaned ASAP.",
+        "chinese": "我需要這件禮服和這套西裝馬上乾洗。"
+    },
+    {
+        "start": 44.0,
+        "end": 47.0,
+        "english": "Okay. I can have it ready by the end of the week.",
+        "chinese": "好的，我可以下周结束前准备好。"
+    },
+    {
+        "start": 47.0,
+        "end": 51.0,
+        "english": "No you don't understand. I need this tomorrow morning.",
+        "chinese": "你不懂的。我明天早上需要它。"
+    },
+    {
+        "start": 51.0,
+        "end": 58.0,
+        "english": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's going to kill me.",
+        "chinese": "我意外把啤酒洒在了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。"
+    },
+    {
+        "start": 58.0,
+        "end": 65.0,
+        "english": "Okay. I can have it ready tomorrow afternoon but this suit is also very stained. I can't guarantee we can remove it completely.",
+        "chinese": "好的。我可以明天下午准备好，但这件西装也染得很脏了。我不能保证我们能完全去除它。"
+    },
+    {
+        "start": 65.0,
+        "end": 69.0,
+        "english": "Fine. Can you also iron and starch this shirt?",
+        "chinese": "好的。这件衬衫你也可以熨烫和打褶吗？"
+    },
+    {
+        "start": 69.0,
+        "end": 70.0,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 70.0,
+        "end": 75.0,
+        "english": "Great. This is our secret. If you see my wife say nothing to her about this.",
+        "chinese": "好的。这就是我们的秘密。如果你看到我妻子不谈论这件事。"
+    },
+    {
+        "start": 79.0,
+        "end": 87.0,
+        "english": "Alright we're back so now there are probably a couple of words that you didn't understand so why don't we look at those now in language takeaway?",
+        "chinese": "好的，我们回来了。现在可能有几个单词你不理解，让我们现在看看这些吧，在语言速递中。"
+    },
+    {
+        "start": 88.0,
+        "end": 91.0,
+        "english": "Language takeaway.",
+        "chinese": "语言取走。"
+    },
+    {
+        "start": 91.0,
+        "end": 97.0,
+        "english": "Marco you already told our listeners about one phrase to dry clean so dry cleaned.",
+        "chinese": "马可，你们已经告诉我们有一句话可以用来干洗了。"
+    },
+    {
+        "start": 97.0,
+        "end": 106.0,
+        "english": "Alright so that's when you take your clothes to a professional who doesn't only wash them right you don't just put water and soap on it.",
+        "chinese": "好的，那就是当你把衣服送到一个只洗它们而不是只是用水和肥皂的专业的裁缝那里。"
+    },
+    {
+        "start": 106.0,
+        "end": 113.0,
+        "english": "They actually put some special chemicals and use special machines to get very hard to remove stains from it.",
+        "chinese": "他们实际上用了一些特殊的化学物质和使用了特殊的机器，能够非常有效地去除这些难以清除的污渍。"
+    },
+    {
+        "start": 114.0,
+        "end": 122.0,
+        "english": "Exactly and so this is often what we use when we clean coats or fancy shirts and dresses because you don't want to clean those yourself.",
+        "chinese": "确切地说，这就是我们在清洗外套或昂贵的衬衫、裙子时所使用的方法，因为不想自己动手去清洁。"
+    },
+    {
+        "start": 122.0,
+        "end": 124.0,
+        "english": "You can't put those in the washing machine.",
+        "chinese": "你不能把它们放进洗衣机。"
+    },
+    {
+        "start": 124.0,
+        "end": 131.0,
+        "english": "No so this is the dry cleaner that's the name of the place and the action what they do is they dry clean clothes.",
+        "chinese": "这不是这个干洗店的名字，而是他们的工作内容。他们清洗衣服。"
+    },
+    {
+        "start": 131.0,
+        "end": 137.0,
+        "english": "Okay very good. Alright well I mentioned that we take them to the dry cleaners because we want to remove stains.",
+        "chinese": "好的很好。好吧，我提到我们会把它们送到干洗店，因为我们想去除污渍。"
+    },
+    {
+        "start": 137.0,
+        "end": 144.0,
+        "english": "Okay so a stain is a mark or some color that does not come off does not go away.",
+        "chinese": "好的，污渍是一个标记或颜色，这些标记或颜色无法去除或消失。"
+    },
+    {
+        "start": 144.0,
+        "end": 149.0,
+        "english": "Alright so for example sometimes you can have a wine stain.",
+        "chinese": "好的，例如有时候你可能会有红酒渍。"
+    },
+    {
+        "start": 149.0,
+        "end": 154.0,
+        "english": "Oh wine stains are the worst they're red and they never come off or blood stain.",
+        "chinese": "哦，酒渍是最糟糕的，它们是红色的，并且永远不会掉下来或者血迹。"
+    },
+    {
+        "start": 154.0,
+        "end": 155.0,
+        "english": "Or blood stain.",
+        "chinese": "或者血迹。"
+    },
+    {
+        "start": 155.0,
+        "end": 162.0,
+        "english": "Right so you can a stain is a noun but you can also use it as an adjective my shirt is stained.",
+        "chinese": "所以，你可以用“染”这个动词做名词，也可以用它当形容词。我的衬衫是脏的。"
+    },
+    {
+        "start": 162.0,
+        "end": 167.0,
+        "english": "Okay so it's stained. My pants are stained and I can't wear them again.",
+        "chinese": "好的，所以裤子染上了。我的裤子不能再穿了。"
+    },
+    {
+        "start": 167.0,
+        "end": 171.0,
+        "english": "Again now that's also you can also use it as a verb I stained my pants.",
+        "chinese": "现在也是，你也可以用它当动词，我染了裤子。"
+    },
+    {
+        "start": 171.0,
+        "end": 175.0,
+        "english": "Alright so it's a verb it's a noun and an adjective all in one.",
+        "chinese": "好的，它既是动词又是名词和形容词。"
+    },
+    {
+        "start": 175.0,
+        "end": 180.0,
+        "english": "Easy to remember well there's another word that's so well related to this word.",
+        "chinese": "很容易记住，另一个词和这个词关系密切。"
+    },
+    {
+        "start": 180.0,
+        "end": 184.0,
+        "english": "We spilled something okay so I spilled wine and it stained my shirt.",
+        "chinese": "我们弄了一点，所以我弄了酒，它把我的衬衫染红了。"
+    },
+    {
+        "start": 184.0,
+        "end": 191.0,
+        "english": "Okay so two spilled and that means that you took some liquid and you put it onto your clothes.",
+        "chinese": "好的，这意味着你弄了一些液体到你的衣服上。"
+    },
+    {
+        "start": 191.0,
+        "end": 194.0,
+        "english": "Or you dropped it and it made a mess.",
+        "chinese": "或者你丢掉了，结果弄成一团糟。"
+    },
+    {
+        "start": 194.0,
+        "end": 197.0,
+        "english": "Okay so spilled I spilled some milk.",
+        "chinese": "好的，我洒了一些牛奶。"
+    },
+    {
+        "start": 197.0,
+        "end": 200.0,
+        "english": "Okay spilled now it's pronounced differently from spell right.",
+        "chinese": "好吧，现在它发音和拼写不同了。"
+    },
+    {
+        "start": 200.0,
+        "end": 201.0,
+        "english": "That's right it has it.",
+        "chinese": "那就是了，它有。"
+    },
+    {
+        "start": 201.0,
+        "end": 203.0,
+        "english": "It has an i spilled.",
+        "chinese": "它洒了。"
+    },
+    {
+        "start": 203.0,
+        "end": 208.0,
+        "english": "Alright now our next word is also a noun and a verb to iron.",
+        "chinese": "好的，我们的下一个单词也是名词和动词。"
+    },
+    {
+        "start": 208.0,
+        "end": 212.0,
+        "english": "To iron means to make something flat with no lines.",
+        "chinese": "熨烫的意思是使某物变得平滑，没有任何线条。"
+    },
+    {
+        "start": 212.0,
+        "end": 215.0,
+        "english": "Okay to smooth it out.",
+        "chinese": "好吧，让它平滑一下。"
+    },
+    {
+        "start": 215.0,
+        "end": 218.0,
+        "english": "So we use an iron to iron.",
+        "chinese": "所以我们用熨斗熨衣服。"
+    },
+    {
+        "start": 218.0,
+        "end": 222.0,
+        "english": "Exactly so it's a metal electronic object.",
+        "chinese": "确切地说，这是一个金属电子物体。"
+    },
+    {
+        "start": 222.0,
+        "end": 223.0,
+        "english": "It gets very hot.",
+        "chinese": "非常热。"
+    },
+    {
+        "start": 223.0,
+        "end": 228.0,
+        "english": "So you wash your shirts for example and your shirts are wrinkled because you just washed them.",
+        "chinese": "所以你洗衬衫，结果衬衫皱巴巴的，因为你刚刚洗过。"
+    },
+    {
+        "start": 228.0,
+        "end": 230.0,
+        "english": "So you need to iron them.",
+        "chinese": "所以，你需要熨烫它们。"
+    },
+    {
+        "start": 230.0,
+        "end": 234.0,
+        "english": "That's right and so you smooth them out you flatten them with this object and iron.",
+        "chinese": "那就是对它们进行平整处理，然后用这个物体压平它们并熨烫。"
+    },
+    {
+        "start": 234.0,
+        "end": 242.0,
+        "english": "Okay and well usually if you take them to the dry cleaners they will iron them and also starch them.",
+        "chinese": "好吧，通常如果你把它们送去干洗店，他们会熨烫并给它们上粉。"
+    },
+    {
+        "start": 242.0,
+        "end": 252.0,
+        "english": "Okay so to starch something means to use some powder or chemical to make something stiff or hard.",
+        "chinese": "好的，把某物弄硬就是用一些粉末或化学物质使它变得僵硬或坚硬。"
+    },
+    {
+        "start": 252.0,
+        "end": 256.0,
+        "english": "So the the noun or the chemical is also called starch.",
+        "chinese": "所以，名词或化学物质也被称作淀粉。"
+    },
+    {
+        "start": 256.0,
+        "end": 261.0,
+        "english": "Exactly so you think of a shirt with many buttons that a man wears to work.",
+        "chinese": "确切地说，你认为的是那种穿在工作上的衬衫，有很多扣子的。"
+    },
+    {
+        "start": 261.0,
+        "end": 266.0,
+        "english": "He has a collar around his neck and that needs to be high and tall.",
+        "chinese": "他脖子上系着一条领带，需要高且长。"
+    },
+    {
+        "start": 266.0,
+        "end": 268.0,
+        "english": "It can't be flat and wrinkled.",
+        "chinese": "它不能是平的且皱巴巴的。"
+    },
+    {
+        "start": 268.0,
+        "end": 273.0,
+        "english": "And so a dry cleaner will use starch to make sure that this stands up.",
+        "chinese": "所以，干洗店会用淀粉确保它立得住。"
+    },
+    {
+        "start": 273.0,
+        "end": 274.0,
+        "english": "Okay very good.",
+        "chinese": "好的非常好。"
+    },
+    {
+        "start": 274.0,
+        "end": 278.0,
+        "english": "So those are five key words for the dialogue today.",
+        "chinese": "所以，今天对话中的五个关键词汇是。"
+    },
+    {
+        "start": 278.0,
+        "end": 282.0,
+        "english": "Let's listen to the dialogue again and we'll be back with Fluency Builder.",
+        "chinese": "让我们再听一遍对话，我们下次会用流利 builder。"
+    },
+    {
+        "start": 288.0,
+        "end": 290.0,
+        "english": "Thank God you are open.",
+        "chinese": "感谢你敞开心扉。"
+    },
+    {
+        "start": 290.0,
+        "end": 291.0,
+        "english": "I have an emergency.",
+        "chinese": "我有紧急情况。"
+    },
+    {
+        "start": 291.0,
+        "end": 292.0,
+        "english": "Hello Mr. Hanson.",
+        "chinese": "你好，汉森先生。"
+    },
+    {
+        "start": 292.0,
+        "end": 294.0,
+        "english": "What can I do for you?",
+        "chinese": "我能为你做些什么？"
+    },
+    {
+        "start": 294.0,
+        "end": 298.0,
+        "english": "I need this dress and this suit dry cleaned ASAP.",
+        "chinese": "我需要這條連衣裙和這件西装立即干洗。"
+    },
+    {
+        "start": 298.0,
+        "end": 301.0,
+        "english": "Okay I can have it ready by the end of the week.",
+        "chinese": "好的，我会在本周结束前准备好。"
+    },
+    {
+        "start": 301.0,
+        "end": 303.0,
+        "english": "No you don't understand.",
+        "chinese": "你不懂。"
+    },
+    {
+        "start": 303.0,
+        "end": 305.0,
+        "english": "I need this tomorrow morning.",
+        "chinese": "我明天早上需要这个。"
+    },
+    {
+        "start": 305.0,
+        "end": 312.0,
+        "english": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's gonna kill me.",
+        "chinese": "我意外把啤酒洒在了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。"
+    },
+    {
+        "start": 312.0,
+        "end": 317.0,
+        "english": "Okay I can have it ready tomorrow afternoon but this suit is also very stained.",
+        "chinese": "好的，我可以明天下午准备好，但这件西装也染得很脏。"
+    },
+    {
+        "start": 317.0,
+        "end": 319.0,
+        "english": "I can't guarantee we can remove it completely.",
+        "chinese": "我不能保证我们能完全去除它。"
+    },
+    {
+        "start": 319.0,
+        "end": 320.0,
+        "english": "Fine.",
+        "chinese": "好。"
+    },
+    {
+        "start": 320.0,
+        "end": 323.0,
+        "english": "Can you also iron and starch this shirt?",
+        "chinese": "你也会熨烫和打褶这件衬衫吗？"
+    },
+    {
+        "start": 323.0,
+        "end": 324.0,
+        "english": "Possessionally.",
+        "chinese": "占有。"
+    },
+    {
+        "start": 324.0,
+        "end": 326.0,
+        "english": "Great. This is our secret.",
+        "chinese": "好的。这是我们的秘密。"
+    },
+    {
+        "start": 326.0,
+        "end": 329.0,
+        "english": "If you see my wife say nothing to her about this.",
+        "chinese": "如果你看到我妻子不提这件事。"
+    },
+    {
+        "start": 332.0,
+        "end": 336.0,
+        "english": "Alright we're back now so let's take a look at Fluency Builder.",
+        "chinese": "好的，我们又回来了，现在让我们来看看流利builder。"
+    },
+    {
+        "start": 336.0,
+        "end": 337.0,
+        "english": "Thank God.",
+        "chinese": "感谢上帝。"
+    },
+    {
+        "start": 337.0,
+        "end": 338.0,
+        "english": "Thank God.",
+        "chinese": "感谢上帝。"
+    },
+    {
+        "start": 338.0,
+        "end": 340.0,
+        "english": "Alright what is this phrase?",
+        "chinese": "好的，这是什么短语？"
+    },
+    {
+        "start": 340.0,
+        "end": 341.0,
+        "english": "Thank God.",
+        "chinese": "感谢上帝。"
+    },
+    {
+        "start": 341.0,
+        "end": 346.0,
+        "english": "Okay this is a phrase we use in English to say that we're happy about something or that we're relieved.",
+        "chinese": "好的，这是我们英语中用来表示对某事感到高兴或感到宽慰的短语。"
+    },
+    {
+        "start": 346.0,
+        "end": 347.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 347.0,
+        "end": 352.0,
+        "english": "So maybe I'm nervous that the male isn't going to come today.",
+        "chinese": "所以也许我今天不会见到那个男生。"
+    },
+    {
+        "start": 352.0,
+        "end": 356.0,
+        "english": "Then the male comes and I say oh thank God the male came.",
+        "chinese": "然后男的来了，我说哦，太好了，男的来了。"
+    },
+    {
+        "start": 356.0,
+        "end": 357.0,
+        "english": "I'm happy.",
+        "chinese": "我开心。"
+    },
+    {
+        "start": 357.0,
+        "end": 358.0,
+        "english": "I was hoping it would come.",
+        "chinese": "我本希望它会来。"
+    },
+    {
+        "start": 358.0,
+        "end": 360.0,
+        "english": "So you're relieved thank God.",
+        "chinese": "所以你真是松了一口气，上帝保佑。"
+    },
+    {
+        "start": 360.0,
+        "end": 367.0,
+        "english": "Now is it, we are using the word their God but it doesn't really have a religious connotation that much right?",
+        "chinese": "现在，我们用“他们的神”这个词，但其实宗教含义并不强。"
+    },
+    {
+        "start": 367.0,
+        "end": 368.0,
+        "english": "Not anymore.",
+        "chinese": "不这样了。"
+    },
+    {
+        "start": 368.0,
+        "end": 369.0,
+        "english": "No.",
+        "chinese": "不行。"
+    },
+    {
+        "start": 369.0,
+        "end": 370.0,
+        "english": "It's usually just a phrase.",
+        "chinese": "通常只是一个短语。"
+    },
+    {
+        "start": 370.0,
+        "end": 371.0,
+        "english": "Exactly.",
+        "chinese": "确实。"
+    },
+    {
+        "start": 371.0,
+        "end": 372.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 372.0,
+        "end": 375.0,
+        "english": "Now what about this acronym ASAP or ASAP?",
+        "chinese": "现在这个缩写是 ASAP 或者 ASAP？"
+    },
+    {
+        "start": 375.0,
+        "end": 376.0,
+        "english": "ASAP.",
+        "chinese": "即刻行动。"
+    },
+    {
+        "start": 376.0,
+        "end": 377.0,
+        "english": "ASAP.",
+        "chinese": "即刻。"
+    },
+    {
+        "start": 377.0,
+        "end": 383.0,
+        "english": "So as soon as possible as an acronym so the first letter comes from the word.",
+        "chinese": "所以尽快，作为一个缩写词，第一个字母来自单词。"
+    },
+    {
+        "start": 383.0,
+        "end": 387.0,
+        "english": "It means as soon as possible very quickly right away.",
+        "chinese": "立刻，非常快。"
+    },
+    {
+        "start": 387.0,
+        "end": 389.0,
+        "english": "You always hear that in an office setting as well.",
+        "chinese": "你总是听到在办公室里也是这样。"
+    },
+    {
+        "start": 389.0,
+        "end": 391.0,
+        "english": "I need those papers ASAP.",
+        "chinese": "我需要那些文件尽快。"
+    },
+    {
+        "start": 391.0,
+        "end": 392.0,
+        "english": "I need those reports ASAP.",
+        "chinese": "我需要那些报告尽快。"
+    },
+    {
+        "start": 392.0,
+        "end": 398.0,
+        "english": "Exactly so you can say it either way ASAP or ASAP and it means immediately.",
+        "chinese": "Exactly，你可以随时说，快一点或者快一点，那就意味着马上。"
+    },
+    {
+        "start": 398.0,
+        "end": 399.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 399.0,
+        "end": 405.0,
+        "english": "And he said that he needed the suit ASAP and he said I can have it ready by the end of the year.",
+        "chinese": "他说他需要这件夹克衫尽快，他说我可以年底之前准备好。"
+    },
+    {
+        "start": 405.0,
+        "end": 423.0,
+        "english": "Okay so that might not be fast enough for the clients, for the person here who has the stain but the end of the week is a very very useful phrase because it means that maybe today's Monday or Tuesday by Friday or Saturday we'll have this ready for you.",
+        "chinese": "好的，这可能还不够快给客户。对于今天有污渍的人，但本周末是一个非常有用的短语，因为它意味着也许在周五或周六之前我们可以准备好你。"
+    },
+    {
+        "start": 423.0,
+        "end": 424.0,
+        "english": "No.",
+        "chinese": "中国：不。"
+    },
+    {
+        "start": 424.0,
+        "end": 427.0,
+        "english": "Because we think of the end of the week as Friday maybe Thursday Friday.",
+        "chinese": "因为我们将周末的结束看作是星期五可能也是周四。"
+    },
+    {
+        "start": 427.0,
+        "end": 431.0,
+        "english": "So I can say the end of the week or the end of the day.",
+        "chinese": "所以，我可以说一周的结束或者一天的结束。"
+    },
+    {
+        "start": 431.0,
+        "end": 434.0,
+        "english": "Exactly the end of the month or the end of the year.",
+        "chinese": "恰好是月底或者年底。"
+    },
+    {
+        "start": 434.0,
+        "end": 440.0,
+        "english": "Exactly so the end of is usually the last time.",
+        "chinese": "正是这样，结尾通常就是最后的时间。"
+    },
+    {
+        "start": 440.0,
+        "end": 444.0,
+        "english": "So thank goodness it's the end of the week.",
+        "chinese": "所以，感谢这个星期天的结束。"
+    },
+    {
+        "start": 444.0,
+        "end": 445.0,
+        "english": "I'm ready for my weekend.",
+        "chinese": "我准备好过周末了。"
+    },
+    {
+        "start": 445.0,
+        "end": 446.0,
+        "english": "Very good.",
+        "chinese": "非常好。"
+    },
+    {
+        "start": 446.0,
+        "end": 449.0,
+        "english": "Okay so great phrases there as well.",
+        "chinese": "好的，这些好词也很棒。"
+    },
+    {
+        "start": 449.0,
+        "end": 452.0,
+        "english": "Let's listen to the dialogue for the last time.",
+        "chinese": "让我们再听一次对话。"
+    },
+    {
+        "start": 459.0,
+        "end": 461.0,
+        "english": "Thank God you are open.",
+        "chinese": "感谢你敞开心扉。"
+    },
+    {
+        "start": 461.0,
+        "end": 462.0,
+        "english": "I have an emergency.",
+        "chinese": "我有紧急情况。"
+    },
+    {
+        "start": 462.0,
+        "end": 465.0,
+        "english": "Hello Mr. Hanson. What can I do for you?",
+        "chinese": "你好， Hanson先生。我能为你做些什么？"
+    },
+    {
+        "start": 465.0,
+        "end": 469.0,
+        "english": "I need this dress and this suit dry cleaned ASAP.",
+        "chinese": "我急需这两件衣服干洗。"
+    },
+    {
+        "start": 469.0,
+        "end": 472.0,
+        "english": "Okay I can have it ready by the end of the week.",
+        "chinese": "好的，我可以下周完成。"
+    },
+    {
+        "start": 472.0,
+        "end": 474.0,
+        "english": "No you don't understand.",
+        "chinese": "你不懂。"
+    },
+    {
+        "start": 474.0,
+        "end": 476.0,
+        "english": "I need this tomorrow morning.",
+        "chinese": "我明天早上需要它。"
+    },
+    {
+        "start": 476.0,
+        "end": 483.0,
+        "english": "I accidentally spilled beer all over my wife's dress and we have a wedding to attend tomorrow. She's gonna kill me.",
+        "chinese": "我意外把啤酒洒到了妻子的裙子上，明天还有婚礼要参加。她会杀了我的。"
+    },
+    {
+        "start": 483.0,
+        "end": 487.0,
+        "english": "Okay I can have it ready tomorrow afternoon but this suit is also very stained.",
+        "chinese": "好的，我可以明天下午准备好，但这件西装也相当脏。"
+    },
+    {
+        "start": 487.0,
+        "end": 490.0,
+        "english": "I can't guarantee we can remove it completely.",
+        "chinese": "我不能保证我们能完全去除它。"
+    },
+    {
+        "start": 490.0,
+        "end": 494.0,
+        "english": "Fine. Can you also iron and starch this shirt?",
+        "chinese": "好的。这件衬衫你也可以熨烫和打褶吗？"
+    },
+    {
+        "start": 494.0,
+        "end": 495.0,
+        "english": "Possibly.",
+        "chinese": "可能。"
+    },
+    {
+        "start": 495.0,
+        "end": 497.0,
+        "english": "Great. This is our secret.",
+        "chinese": "好的。这是我们秘密。"
+    },
+    {
+        "start": 497.0,
+        "end": 500.0,
+        "english": "If you see my wife say nothing to her about this.",
+        "chinese": "如果你看到我妻子对此什么也不说。"
+    },
+    {
+        "start": 506.0,
+        "end": 508.0,
+        "english": "Alright we're back so now.",
+        "chinese": "好的，我们回来了。现在。"
+    },
+    {
+        "start": 508.0,
+        "end": 512.0,
+        "english": "Dry cleaning ironing. Are you good at this or do you get a lot of your clothes dry cleaned?",
+        "chinese": "干洗熨烫。你会吗，还是你的衣服经常被干洗？"
+    },
+    {
+        "start": 512.0,
+        "end": 515.0,
+        "english": "I'm pretty good at this actually. I don't like to wash clothes.",
+        "chinese": "我其实还挺好的。我不喜欢洗衣服。"
+    },
+    {
+        "start": 515.0,
+        "end": 519.0,
+        "english": "I get really bored with the washing machine but I actually really like ironing.",
+        "chinese": "我真的很无聊洗衣机，但我真的喜欢熨衣服。"
+    },
+    {
+        "start": 519.0,
+        "end": 520.0,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 520.0,
+        "end": 522.0,
+        "english": "Yeah I find it very relaxing.",
+        "chinese": "是的，我觉得它非常放松。"
+    },
+    {
+        "start": 522.0,
+        "end": 524.0,
+        "english": "Really? I usually find it very frustrating.",
+        "chinese": "真的吗？我通常觉得非常 frustrative。"
+    },
+    {
+        "start": 524.0,
+        "end": 525.0,
+        "english": "Really why is that?",
+        "chinese": "为什么呢？"
+    },
+    {
+        "start": 525.0,
+        "end": 529.0,
+        "english": "Because I can't really iron well.",
+        "chinese": "因为我实在不会熨衣服。"
+    },
+    {
+        "start": 529.0,
+        "end": 535.0,
+        "english": "I start on one side and I'm getting all the lines out and then the other side gets wrinkled",
+        "chinese": "我从一边开始，然后把所有的线都拉了出来，另一边就皱起来了。"
+    },
+    {
+        "start": 535.0,
+        "end": 538.0,
+        "english": "or lines appear what I don't want them to appear.",
+        "chinese": "或者，我不想要它们出现的线条。"
+    },
+    {
+        "start": 538.0,
+        "end": 539.0,
+        "english": "It's very frustrating for me.",
+        "chinese": "这对我非常 frustrate。"
+    },
+    {
+        "start": 539.0,
+        "end": 541.0,
+        "english": "It is frustrating. It takes some practice.",
+        "chinese": "这很 frustrating。需要一些练习。"
+    },
+    {
+        "start": 541.0,
+        "end": 545.0,
+        "english": "My suggestion is to use the spritzer.",
+        "chinese": "我的建议是使用喷雾。"
+    },
+    {
+        "start": 545.0,
+        "end": 549.0,
+        "english": "You know in the iron there's some water that can come out like that.",
+        "chinese": "你知道铁中有水可以像这样出来。"
+    },
+    {
+        "start": 549.0,
+        "end": 555.0,
+        "english": "Well if you spray the water it makes the lines go out for longer.",
+        "chinese": "如果你喷水，线条会更长。"
+    },
+    {
+        "start": 555.0,
+        "end": 559.0,
+        "english": "Because if you iron over that it's more permanent.",
+        "chinese": "因为如果熨烫的话，那就更持久了。"
+    },
+    {
+        "start": 559.0,
+        "end": 564.0,
+        "english": "I've also seen some sprays sometimes that you can spray your clothes with some special chemical.",
+        "chinese": "我也见过一些喷雾，你可以用特殊化学物质喷洒你的衣服。"
+    },
+    {
+        "start": 564.0,
+        "end": 567.0,
+        "english": "That's not actually starch but it helps remove the wrinkles quicker.",
+        "chinese": "那并不是真正的淀粉，但它有助于更快地去除皱纹。"
+    },
+    {
+        "start": 567.0,
+        "end": 572.0,
+        "english": "Exactly. I don't use that. I use water generally but they're all available.",
+        "chinese": "的确。我不用那个。我一般用水，但它们都很容易得到。"
+    },
+    {
+        "start": 572.0,
+        "end": 574.0,
+        "english": "That's all the time we have for today.",
+        "chinese": "今天就剩下这段时间了。"
+    },
+    {
+        "start": 574.0,
+        "end": 579.0,
+        "english": "If you have any questions or comments you can visit our comments section on EnglishPod.com.",
+        "chinese": "如果你有任何问题或评论，请访问我们的英语有声读物.com上的评论部分。"
+    },
+    {
+        "start": 579.0,
+        "end": 581.0,
+        "english": "We'll see you guys there.",
+        "chinese": "我们会见你们的。"
+    },
+    {
+        "start": 581.0,
+        "end": 582.0,
+        "english": "Bye everyone.",
+        "chinese": "再见大家。"
+    },
+    {
+        "start": 582.0,
+        "end": 583.0,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

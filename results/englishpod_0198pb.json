@@ -1,0 +1,824 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.4,
+        "english": "Hello everyone and welcome back to English Pot. My name is Marco.",
+        "chinese": "你好，大家欢迎再次回到英语锅。我叫马可波罗。"
+    },
+    {
+        "start": 6.4,
+        "end": 11.6,
+        "english": "My name is Catherine and today we are covering a very important health issue.",
+        "chinese": "我的名字是凯瑟琳，今天我们讨论的是非常重要的一件健康问题。"
+    },
+    {
+        "start": 11.6,
+        "end": 17.12,
+        "english": "That's right. We are... that's right in case of an emergency, maybe somebody stops breathing",
+        "chinese": "那对了。我们……在紧急情况下，也许有人停止呼吸了"
+    },
+    {
+        "start": 17.12,
+        "end": 23.32,
+        "english": "so we need to apply CPR. Now what is this procedure? Well, let's take a look at it in vocabulary",
+        "chinese": "所以我们需要应用CPR。这个程序是什么？让我们看看它的词汇表"
+    },
+    {
+        "start": 23.32,
+        "end": 24.84,
+        "english": "preview.",
+        "chinese": "预览。"
+    },
+    {
+        "start": 24.84,
+        "end": 26.8,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览"
+    },
+    {
+        "start": 26.8,
+        "end": 34.08,
+        "english": "CPR in English is an acronym. That means CP and R all stand for different words.",
+        "chinese": "CPR的全称是心肺复苏术，它指的是C和P以及R三个字母分别代表不同的单词。"
+    },
+    {
+        "start": 34.08,
+        "end": 39.760000000000005,
+        "english": "The big phrase here is Cardio Pulmonary Resuscitation.",
+        "chinese": "这个大词是心肺复苏。"
+    },
+    {
+        "start": 39.760000000000005,
+        "end": 43.92,
+        "english": "Alright. So you don't have to remember that. Well, it's pretty hard. What if you break it down?",
+        "chinese": "好的。所以你不用记得那个。嗯，挺难的。那如果拆开来呢？"
+    },
+    {
+        "start": 43.92,
+        "end": 49.24,
+        "english": "So what is Cardio? Cardio means it has to do with your heart. And then pulmonary?",
+        "chinese": "所以，什么是 Cardio？ Cardio 是与心脏有关的。然后肺呢？"
+    },
+    {
+        "start": 49.24,
+        "end": 53.84,
+        "english": "Pulmonary means lungs. It has to do with your lungs and what about resuscitation?",
+        "chinese": "肺脏的意思是肺。它与你的肺有关，还有复苏吗？"
+    },
+    {
+        "start": 53.84,
+        "end": 58.96,
+        "english": "That means to bring back. So to resuscitate is to bring back to life. That's right.",
+        "chinese": "那意思是复苏。所以复苏就是复活。对！"
+    },
+    {
+        "start": 58.96,
+        "end": 65.12,
+        "english": "Okay. So this is a very popular procedure. You probably see it in movies when you know somebody",
+        "chinese": "好的。所以这是一个非常流行的操作。你大概在知道某人的时候会在电影里看到它。"
+    },
+    {
+        "start": 65.12,
+        "end": 71.68,
+        "english": "almost drowned the lifeguard performed CPR. Oh no. The love of my life is just drowned and then",
+        "chinese": "几乎淹死了救生员进行了心肺复苏。哦不。我的命中注定的爱人只是淹死了然后"
+    },
+    {
+        "start": 71.68,
+        "end": 77.84,
+        "english": "someone comes and they push their chest. Right. One, two, three. They count. And then the person",
+        "chinese": "英语：某人来了，然后他们按压胸部。对了，一、二、三。他们数着。接着那个人\n\n中国话："
+    },
+    {
+        "start": 77.92,
+        "end": 81.92,
+        "english": "bids out water and everything and they're like, alright. He's loved to.",
+        "chinese": "他喜欢的是水，还有其他的一切。他说：“好吧。”"
+    },
+    {
+        "start": 82.88000000000001,
+        "end": 87.92,
+        "english": "Alright, so that's CPR. Why don't we listen to this dialogue, see what's going on and we'll be back shortly.",
+        "chinese": "好的，那这就是CPR。我们来听听这段对话，看看发生了什么，一会儿就回来。"
+    },
+    {
+        "start": 94.96000000000001,
+        "end": 99.84,
+        "english": "Hello everyone and welcome to our CPR for Beginners course. First of all, does anyone know what",
+        "chinese": "你好，大家欢迎参加我们的初级心肺复苏课程。首先，请问有谁知道什么是中文："
+    },
+    {
+        "start": 99.84,
+        "end": 106.64,
+        "english": "CPR stands for? Cardio Pulmonary Resuscitation. That's right. We apply CPR in the case of cardiac arrest",
+        "chinese": "CPR 的全称是？心肺复苏术。没错，我们在心脏骤停时应用它。"
+    },
+    {
+        "start": 106.64,
+        "end": 112.16,
+        "english": "or pulmonary arrest. What does that mean? Well, basically if your heart stops pumping blood or your",
+        "chinese": "那意味着什么？嗯，基本上如果你的心脏停止了泵血或你的肺部突然停止了呼吸的话。"
+    },
+    {
+        "start": 112.16,
+        "end": 116.4,
+        "english": "lungs stop pumping air, then we need to get them going again. That's when we have to apply this",
+        "chinese": "肺停止了输送空气，然后我们需要重新启动它们。这时候就需要应用这个了。"
+    },
+    {
+        "start": 116.4,
+        "end": 123.12,
+        "english": "procedure. Let's begin. I need a volunteer. Me, me. Alright, come here and lay flat on your back.",
+        "chinese": "步骤。让我们开始吧。我需要一个志愿者。我，我。好的，过来，趴在地上。"
+    },
+    {
+        "start": 124.08,
+        "end": 128.96,
+        "english": "Let's suppose this young woman has stopped breathing. We must lift the person's chin so that we",
+        "chinese": "让我们假设这个年轻女子停止了呼吸。我们必须抬起她的下巴，以便我们能够进行人工呼吸。"
+    },
+    {
+        "start": 128.96,
+        "end": 134.48,
+        "english": "clear a pathway for air to get into the lungs. Then we place our mouth over the other person's mouth",
+        "chinese": "让空气能够进入肺部。然后我们把嘴巴放在对方的嘴巴上"
+    },
+    {
+        "start": 134.48,
+        "end": 139.51999999999998,
+        "english": "and below air two or three times like this. Wait, what are you doing? I'm a married woman.",
+        "chinese": "你下面做两次，像这样。你在做什么？我是个已婚的女人。"
+    },
+    {
+        "start": 139.51999999999998,
+        "end": 144.0,
+        "english": "You can't just try to kiss me like that. Ma'am, I'm not trying to kiss you. I'm trying to",
+        "chinese": "你根本就不能那样亲我嘛。小姐，我不是想亲你的。我是想..."
+    },
+    {
+        "start": 144.0,
+        "end": 149.83999999999997,
+        "english": "demonstrate how to apply CPR in the case of an emergency. Well, okay, no French kissing.",
+        "chinese": "演示如何在紧急情况下应用心肺复苏术。好吧，不讲法式接吻吧。"
+    },
+    {
+        "start": 151.6,
+        "end": 156.16,
+        "english": "As I was saying, we blow air through the mouth in this manner. Once this is done, we must try",
+        "chinese": "正如我刚才所说，我们通过嘴巴吹气的方式进行。一旦这样做，我们必须尝试……"
+    },
+    {
+        "start": 156.16,
+        "end": 160.79999999999998,
+        "english": "to get the heart going again. To do this, we place our hands over the person's chest and press",
+        "chinese": "为了重新点燃心脏。为此，我们将手放在对方的胸口上并按压。"
+    },
+    {
+        "start": 160.8,
+        "end": 165.84,
+        "english": "down firmly two or three times. Wait, what are you doing? You can't just kiss me then go for second",
+        "chinese": "下两次或三次。等等，你在干什么？你不能只是亲我然后去第二次"
+    },
+    {
+        "start": 165.84,
+        "end": 172.72,
+        "english": "base. Alright, we're back. So a couple of pretty difficult words and phrases there, but don't worry,",
+        "chinese": "好啦，我们又回来了。那里有几个挺难的词汇和短语，但不要担心，"
+    },
+    {
+        "start": 172.72,
+        "end": 181.12,
+        "english": "we'll explain them now in language takeaway. Language takeaway. The first phrase we've got today is",
+        "chinese": "我们今天讲的第一句话是"
+    },
+    {
+        "start": 181.12,
+        "end": 186.72000000000003,
+        "english": "cardiac arrest. Alright, so cardiac arrest. Now cardiac, I think that has to do with the heart",
+        "chinese": "心脏骤停。好的，心脏骤停。我想这应该和心脏有关。"
+    },
+    {
+        "start": 186.8,
+        "end": 192.88,
+        "english": "again, right? Exactly. Your heart. And what about arrest? Well, arrest means two things. Maybe you've",
+        "chinese": "再次，对吗？完全正确。你的心脏。至于逮捕呢？好吧，逮捕有两个方面。也许你已经知道了一些。"
+    },
+    {
+        "start": 192.88,
+        "end": 199.28,
+        "english": "heard of this meaning to arrest somebody, the police arrested someone. Well, this means to stop.",
+        "chinese": "听说要抓某人，警察抓了某人。好吧，这意思是停止。"
+    },
+    {
+        "start": 199.28,
+        "end": 204.24,
+        "english": "To stop? Okay. So we're not talking about the police here. We're talking about the heart stopping.",
+        "chinese": "停下来？好吧。我们不是在谈论警察吧。我们在谈论心脏停跳。"
+    },
+    {
+        "start": 204.24,
+        "end": 210.07999999999998,
+        "english": "Okay. So cardiac arrest means when your heart stops. Okay. And another word that's right next to it,",
+        "chinese": "好的。心肺复苏就是心脏停止跳动。另一个紧邻它的词是..."
+    },
+    {
+        "start": 210.07999999999998,
+        "end": 215.44,
+        "english": "pulmonary arrest. So I'm guessing, again, pulmonary has to do with lungs. That's right. And arrest",
+        "chinese": "肺部停止。我想再次说的是，肺部与肺有关。对了。逮捕"
+    },
+    {
+        "start": 215.44,
+        "end": 222.32,
+        "english": "stops. So your lungs stop pumping air. Exactly. So cardiac and pulmonary arrest, these are two",
+        "chinese": "停下。所以你的肺部停止了输送空气。完全正确。因此，心肺骤停，这是两个词的准确表达。"
+    },
+    {
+        "start": 222.32,
+        "end": 228.48,
+        "english": "times when your heart or your lungs, they stop doing what they are supposed to do. Alright, and",
+        "chinese": "当你的心脏或肺部停止了它们应该做的事情时，好吧，"
+    },
+    {
+        "start": 228.48,
+        "end": 234.72,
+        "english": "interestingly enough, the heart pumps blood, the lungs pump air. And that's our next word. What is",
+        "chinese": "有趣的是，心脏泵血，肺部吸入空气。接下来是我们的下一个单词。这是什么？"
+    },
+    {
+        "start": 234.72,
+        "end": 243.44,
+        "english": "this word to pump? To pump means to fill something with. Okay. So for example, the heart pumps blood to",
+        "chinese": "这个词是什么意思？泵的意思是填充。好的，比如说心脏把血液泵出去了。"
+    },
+    {
+        "start": 243.44,
+        "end": 249.2,
+        "english": "the rest of your body. That means it's always making sure your body has blood going into it. And",
+        "chinese": "你的身体的余下部分。这意味着它总是确保你的身体有血液进入它。"
+    },
+    {
+        "start": 249.2,
+        "end": 253.76,
+        "english": "the same thing with your lungs, your lungs help oxygen and air get to the rest of your body. So they",
+        "chinese": "同你的肺部一样，你的肺可以帮助氧气和空气进入你的全身。所以它们"
+    },
+    {
+        "start": 253.76,
+        "end": 259.44,
+        "english": "pump it. They fill up with air. Okay. And we can do the same in other things. For example, you pump",
+        "chinese": "呼气。它们会充满空气。好的。我们也可以在其他东西上这样做。例如，你也可以泵气。"
+    },
+    {
+        "start": 259.44,
+        "end": 263.6,
+        "english": "air into your tire. That's right. If you have a flat tire, you're riding your bicycle and your",
+        "chinese": "把空气灌进你的轮胎。没错。如果你的自行车轮胎瘪了，你骑着车的时候是吧？"
+    },
+    {
+        "start": 263.6,
+        "end": 269.2,
+        "english": "bicycle won't move. Oh, no, you have to pump it with air. That means fill it up with air. Okay. Or",
+        "chinese": "自行车不移动。哦，不，你必须给它充气。这意味着要充满空气。好吧。或者"
+    },
+    {
+        "start": 269.2,
+        "end": 275.36,
+        "english": "maybe even pump water, right? Like in your house. Or pump your car up with gas. Okay.",
+        "chinese": "也许甚至是在你的家里抽水，对吧？或者给你的车加汽油。好了。"
+    },
+    {
+        "start": 275.92,
+        "end": 281.84,
+        "english": "Alright, very good. So now the man is going to explain how to perform this procedure CPR. And he",
+        "chinese": "好的，很好。现在这个男人要来解释如何进行心肺复苏术。他"
+    },
+    {
+        "start": 281.84,
+        "end": 289.68,
+        "english": "asks for a volunteer. Okay, a volunteer. This is a word that can be both a noun. So a thing. And it",
+        "chinese": "要求一个志愿者。好的，一个志愿者。这个词既可以是名词。所以是一个东西。并且它"
+    },
+    {
+        "start": 289.68,
+        "end": 296.96,
+        "english": "can be an action of verb. Okay. So who is or what is a volunteer? A volunteer is someone who",
+        "chinese": "可以是一个动词的语法动作。好的。那么，谁或者什么是一个志愿者？志愿者是\n\n一个自愿者。"
+    },
+    {
+        "start": 296.96,
+        "end": 302.56,
+        "english": "offers to do something for free for free without you asking them to do it. Right. So are there any",
+        "chinese": "你能免费为我做任何事情，但你没有要求他们为你去做。对了。那么有其他的想法或请求吗？"
+    },
+    {
+        "start": 302.56,
+        "end": 309.12,
+        "english": "volunteers in the room? Right. And somebody said, maybe me, me, me, me. I do. Okay. You can also",
+        "chinese": "房间里有志愿者吗？对。有人说是可能是我，我，我，我。我去试试吧。可以了。你可以"
+    },
+    {
+        "start": 309.12,
+        "end": 315.03999999999996,
+        "english": "volunteer to help people who need help. So for example, in Haiti, there's an earthquake. And there",
+        "chinese": "自愿帮助那些需要帮助的人。比如，在海地，发生了一次地震。"
+    },
+    {
+        "start": 315.03999999999996,
+        "end": 321.84,
+        "english": "are many people who offered to volunteer to help patients. So that means they said, I will work for",
+        "chinese": "有很多人愿意自愿帮助患者。这意味着他们说，我将工作于"
+    },
+    {
+        "start": 321.84,
+        "end": 328.47999999999996,
+        "english": "free to help these people. A volunteer. A volunteer or two volunteer. Very good. So now we have our",
+        "chinese": "免费帮助这些人们。一名志愿者。两名志愿者。非常好。现在我们有了我们的\n\n志愿者。"
+    },
+    {
+        "start": 328.47999999999996,
+        "end": 334.64,
+        "english": "volunteer. And the man is explaining what to do. Lift the person's chin so that we clear a pathway",
+        "chinese": "志愿者。那人正在解释怎么做。抬起那个人的下巴，以便我们开辟一条道路。"
+    },
+    {
+        "start": 334.64,
+        "end": 340.47999999999996,
+        "english": "for air to get into the lungs. Oh, this is a good one. So a path is like a road. It's where something",
+        "chinese": "空气进入肺部的过程。哦，这个很好。一个路径就像一条路。它是在哪里？"
+    },
+    {
+        "start": 340.47999999999996,
+        "end": 348.15999999999997,
+        "english": "can go can move to clear a pathway means to make some room. Okay. So that means think about it.",
+        "chinese": "可以，可以移动，开辟道路意味着腾出空间。好的。这意味着思考一下。"
+    },
+    {
+        "start": 348.16,
+        "end": 353.6,
+        "english": "If you can't breathe, someone has to find a way to make room to make a hole for you to breathe.",
+        "chinese": "如果你不能呼吸，有人必须找到一种方法来让你有空间可以呼吸。"
+    },
+    {
+        "start": 353.6,
+        "end": 361.84000000000003,
+        "english": "So that means to move whatever is blocking you to clear some kind of space. Okay. So that's a pathway,",
+        "chinese": "所以这意味着要把阻碍你的东西移开，腾出一些空间。好的。这就是一条路。"
+    },
+    {
+        "start": 361.84000000000003,
+        "end": 371.20000000000005,
+        "english": "a clear space. And now, well, he's demonstrating how to perform CPR. So what is this verb to demonstrate?",
+        "chinese": "一个清晰的空间。现在，他正在演示如何进行心肺复苏术。这个词是用来做什么的？"
+    },
+    {
+        "start": 371.20000000000005,
+        "end": 377.92,
+        "english": "To demonstrate is very important. We use this in most kinds of teaching. So to demonstrate is to",
+        "chinese": "展示非常重要。我们用它来教大多数类型的课程。所以，展示就是"
+    },
+    {
+        "start": 377.92,
+        "end": 385.04,
+        "english": "show or to give an example. Okay. So for example, here in English, but we are demonstrating how to",
+        "chinese": "展示或提供一个例子。好的。例如，在英语中，但我们正在演示如何"
+    },
+    {
+        "start": 385.04,
+        "end": 391.12,
+        "english": "use these words in sentences. Exactly. So an example is a good way to demonstrate the the word or",
+        "chinese": "使用这些词造句吧。准确地用。那么一个例子是展示这个词或短语的好方法。"
+    },
+    {
+        "start": 391.12,
+        "end": 395.84000000000003,
+        "english": "the phrase. Very good. All right. Why don't we listen to this dialogue again and we'll be back in a bit.",
+        "chinese": "这个短语。很好。好的。我们再听一遍这个对话，一会儿就回来。"
+    },
+    {
+        "start": 400.56,
+        "end": 405.44,
+        "english": "Hello, everyone and welcome to our CPR for beginners course. First of all, does anyone know what",
+        "chinese": "你好，大家欢迎来到我们的初级心肺复苏课程。首先，有谁知道什么是中文："
+    },
+    {
+        "start": 405.44,
+        "end": 411.92,
+        "english": "CPR stands for? Cardiopulmonary resuscitation. That's right. We apply CPR in the case of cardiac",
+        "chinese": "CPR的全称是？心肺复苏术。没错，我们在心脏骤停的情况下应用它。"
+    },
+    {
+        "start": 411.92,
+        "end": 417.84,
+        "english": "arrest or pulmonary arrest. What does that mean? Well, basically, if your heart stops pumping blood",
+        "chinese": "逮捕或肺部停止。那是什么意思？嗯，基本上，如果心脏停止了泵血，就会发生这种情况。"
+    },
+    {
+        "start": 417.84,
+        "end": 422.15999999999997,
+        "english": "or your lungs stop pumping air, that we need to get them going again. That's when we have to apply",
+        "chinese": "或者你的肺停止了输送空气，那我们就需要重新启动它们。这时候我们就要应用"
+    },
+    {
+        "start": 422.15999999999997,
+        "end": 428.64,
+        "english": "this procedure. Let's begin. I need a volunteer. Me, me. All right. Come here and lay flat on your back.",
+        "chinese": "这个程序。我们开始吧。我需要一个志愿者。我，我。好的。过来，趴在地上。"
+    },
+    {
+        "start": 428.64,
+        "end": 433.76,
+        "english": "Let's suppose this young woman has stopped breathing. We must lift the person's chin so that we clear",
+        "chinese": "让我们假设这个年轻女子已经停止了呼吸。我们必须把她的下巴抬起，以便我们清除呼吸道。"
+    },
+    {
+        "start": 433.76,
+        "end": 439.12,
+        "english": "a pathway for air to get into the lungs. Then we place our mouth over the other person's mouth and",
+        "chinese": "一条空气进入肺的路径。然后我们将嘴巴放在对方的嘴巴上。"
+    },
+    {
+        "start": 439.12,
+        "end": 444.64,
+        "english": "blow air two or three times like this. Wait, what are you doing? I'm a married woman. You can't just",
+        "chinese": "吹两下或者三下，就像这样。等等，你在做什么？我是个已婚的女人。你不能就这样做。"
+    },
+    {
+        "start": 444.64,
+        "end": 449.59999999999997,
+        "english": "try to kiss me like that. Ma'am, I'm not trying to kiss you. I'm trying to demonstrate how to apply",
+        "chinese": "试试像那样亲我吧。女士，我不是想亲你，我是演示如何应用"
+    },
+    {
+        "start": 449.59999999999997,
+        "end": 456.88,
+        "english": "CPR in the case of an emergency. Well, okay. No French kissing. As I was saying, we blow air through",
+        "chinese": "在紧急情况下的CPR。好吧，别亲吻了。我正在说的，我们通过吹气来操作。"
+    },
+    {
+        "start": 456.88,
+        "end": 461.59999999999997,
+        "english": "the mouth in this manner. Once this is done, we must try to get the heart going again. To do this,",
+        "chinese": "这个方式，一旦完成，我们就要尝试重新启动心脏。要做到这一点，"
+    },
+    {
+        "start": 461.6,
+        "end": 466.08000000000004,
+        "english": "we place our hands over the person's chest and press down firmly two or three times.",
+        "chinese": "我们把手放在对方的胸口，用力按压两到三次。"
+    },
+    {
+        "start": 466.08000000000004,
+        "end": 469.52000000000004,
+        "english": "Wait, what are you doing? You can't just kiss me then go for second base.",
+        "chinese": "等一下，你在干什么？你难道可以一边亲我，然后去打二棒子吗？"
+    },
+    {
+        "start": 473.20000000000005,
+        "end": 478.72,
+        "english": "All right, we're back. So now let's go with fluency builder. Fluency builder.",
+        "chinese": "好的，我们又回来了。那么现在就让我们用流利度训练器来学习吧。流利度训练器。"
+    },
+    {
+        "start": 479.6,
+        "end": 483.68,
+        "english": "While the first phrase in fluency builder we hear in the beginning of today's dialogue,",
+        "chinese": "当今天对话的开头我们听到的第一个习得能力的表达是。"
+    },
+    {
+        "start": 483.68,
+        "end": 487.6,
+        "english": "the teacher says, well, basically, if your heart stops pumping blood,",
+        "chinese": "老师说，嗯，基本上，如果你的心脏停止了泵血，"
+    },
+    {
+        "start": 487.68,
+        "end": 492.96000000000004,
+        "english": "then we need to get it going again. Okay. So that's a whole phrase there to get something going,",
+        "chinese": "然后我们需要让它再次运转起来。好的。那是一个让某事运转起来的完整短语。"
+    },
+    {
+        "start": 492.96000000000004,
+        "end": 499.92,
+        "english": "to get it going. What do you mean by this? This means to start it up again. Okay. So we could say,",
+        "chinese": "要启动它。这是什么意思？这意思是重新启动它。好的。我们可以这么说，"
+    },
+    {
+        "start": 500.96000000000004,
+        "end": 507.12,
+        "english": "I used to teach an English class for my colleagues, but we stopped having it. I'd like to get it",
+        "chinese": "我过去曾经教过同事的英语课，但后来我们停止了这个活动。我想重新开始它。"
+    },
+    {
+        "start": 507.12,
+        "end": 513.12,
+        "english": "going again. Okay. So you'd like to start it up again. Exactly. So usually you're talking about",
+        "chinese": "好的。你想要重新启动它吗？没错，通常你是在谈论"
+    },
+    {
+        "start": 513.12,
+        "end": 518.48,
+        "english": "turning something on or getting something started. For example, maybe your car won't start. So if you",
+        "chinese": "启动它或者开始工作。例如，也许你的车不会启动。所以如果你"
+    },
+    {
+        "start": 518.48,
+        "end": 524.5600000000001,
+        "english": "push it, you can get it going. Right. To get it going or to turn the keys to get it going. Okay.",
+        "chinese": "试试，可以启动它。对了。要启动它或者转动钥匙来启动它。好了。"
+    },
+    {
+        "start": 525.44,
+        "end": 532.08,
+        "english": "Right. So to get something going. Now moving on, we have two key phrases here that are a little",
+        "chinese": "好的。那么，要启动什么的话。接下来，这里有两个关键短语有点儿小问题。"
+    },
+    {
+        "start": 532.08,
+        "end": 538.24,
+        "english": "bit spicy, right? Yeah, they're very romantic. Although this is a CPR class. So it shouldn't be very",
+        "chinese": "挺辣的，对不对？是的，他们真的很浪漫。虽然这是个急救班，所以应该不会太紧张。"
+    },
+    {
+        "start": 538.24,
+        "end": 543.6,
+        "english": "romantic. All right. Well, this phrase that we have coming up is French kiss, two French kiss",
+        "chinese": "浪漫。好的，我们接下来要提到的这个短语是法式吻，两个法式吻"
+    },
+    {
+        "start": 543.6,
+        "end": 550.64,
+        "english": "someone or a French kiss. So the volunteer says, okay, I'm happy to help you, but no French kissing.",
+        "chinese": "某人或法国吻。志愿者说，好的，我很乐意帮你，但没有法国吻。"
+    },
+    {
+        "start": 550.64,
+        "end": 557.04,
+        "english": "Okay. So what is French kissing? No one wants to answer. All right. What is it? Well, it is when",
+        "chinese": "好的。那么什么是法国式接吻呢？没有人愿意回答。好吧，那是什么意思呢？嗯，就是当..."
+    },
+    {
+        "start": 557.04,
+        "end": 564.24,
+        "english": "you kiss someone, but your tongue goes into that other person's mouth. All right. So there's a",
+        "chinese": "你亲了别人，但你的舌头却进了对方的嘴里。好吧。所以有这么一个"
+    },
+    {
+        "start": 564.24,
+        "end": 568.48,
+        "english": "normal kiss. You can kiss your friends on the cheek, but a French kiss means that you use your",
+        "chinese": "正常的吻。你可以亲你的朋友脸颊，但是法国式吻意味着你用舌头去亲。"
+    },
+    {
+        "start": 568.48,
+        "end": 574.32,
+        "english": "tongue. Okay. So I wonder why they call it a French kiss. Maybe Americans just were too shy.",
+        "chinese": "舌头。好吧，我想知道为什么人们称它为法国吻。也许美国人太害羞了。"
+    },
+    {
+        "start": 575.2,
+        "end": 580.64,
+        "english": "They blamed it on the French. Maybe the French listeners out there can tell us. All right. So now",
+        "chinese": "他们把责任推给了法国人。也许那边的法国听众能告诉我们吧。好的，现在"
+    },
+    {
+        "start": 580.64,
+        "end": 586.72,
+        "english": "moving on and she says, okay, no French kissing. Now the man is going to perform CPR and obviously he",
+        "chinese": "继续前进，她说道：“好吧，没有法国式接吻。现在男人要进行心肺复苏，显然他\n\n翻译成中文如下：\n\n继续前进，她说道：“好吧，没有法国式接吻。现在男人要进行心肺复苏，显然他"
+    },
+    {
+        "start": 586.72,
+        "end": 592.48,
+        "english": "has to firmly press down on her chest to get her heart pumping blood, right? This is a part of CPR.",
+        "chinese": "她必须用力按压她的胸口，以促使心脏泵血，这是心肺复苏的一部分。"
+    },
+    {
+        "start": 592.48,
+        "end": 597.44,
+        "english": "So first of all, you try to give the person air so they can breathe and then you have to push their",
+        "chinese": "所以首先，你试着给那个人提供空气，让他们可以呼吸，然后你就得推他们。"
+    },
+    {
+        "start": 597.44,
+        "end": 604.8000000000001,
+        "english": "chest to start their heart. And this woman, the volunteer says, hey, what are you doing? You can't",
+        "chinese": "胸部开始跳动。这位志愿者说，嘿，你在干什么？你不能"
+    },
+    {
+        "start": 604.8000000000001,
+        "end": 611.9200000000001,
+        "english": "just kiss me first and then go for second base. All right. So what is second base? Okay. This is a sports",
+        "chinese": "好的。那么第二垒是什么？好吧，这是体育。"
+    },
+    {
+        "start": 612.5600000000001,
+        "end": 619.44,
+        "english": "metaphor with baseball, right? Because baseball has four bases, first, second, third base, and home plate.",
+        "chinese": "比喻呢，棒球？ 因为棒球有四个垒，第一垒、第二垒、第三垒和本垒。"
+    },
+    {
+        "start": 619.44,
+        "end": 627.2,
+        "english": "Or a whole base. Exactly. So in romance, when we're talking about dating, we have a way to say",
+        "chinese": "或者整个基础。准确地说。在浪漫中，当我们谈论约会时，我们有一种方式来表达"
+    },
+    {
+        "start": 627.2,
+        "end": 632.8000000000001,
+        "english": "first, second, third, and fourth base. First base is kissing. That's kissing, right? So second",
+        "chinese": "第一基、第二基、第三基和第四基。第一基是接吻，没错吧？所以第二基"
+    },
+    {
+        "start": 632.8000000000001,
+        "end": 639.2800000000001,
+        "english": "base would be second base. Well, in this example, it means touching. Touching certain parts of the body.",
+        "chinese": "基础就是第二条板。嗯，在这个例子中，它意味着接触。接触身体某些部位的部分。"
+    },
+    {
+        "start": 639.2800000000001,
+        "end": 645.0400000000001,
+        "english": "Romantic touching. All right. So second base. And then obviously we have third and fourth, but we're",
+        "chinese": "浪漫的触动。好的。第二垒。然后当然有第三垒和第四垒，但我们..."
+    },
+    {
+        "start": 645.04,
+        "end": 649.92,
+        "english": "not going to get into that now. You can look it up on Google, third base and fourth base. We trust",
+        "chinese": "不打算深入讨论这个问题了。你可以去查查谷歌、第三垒和第四垒。我们信任你。"
+    },
+    {
+        "start": 649.92,
+        "end": 655.4399999999999,
+        "english": "that you can find it. But first and second base are very common. It's okay to talk about. It's not",
+        "chinese": "那你可以找到的。但第一第二基地很常见，可以说得出来也没关系。不是很难理解的。"
+    },
+    {
+        "start": 655.4399999999999,
+        "end": 660.3199999999999,
+        "english": "a bad word. So you'll probably see it in movies. Young kids talking about first base or going to",
+        "chinese": "一个脏话。你可能会在电影里看到它。年轻的孩子们谈论第一垒或去上学。"
+    },
+    {
+        "start": 660.3199999999999,
+        "end": 666.7199999999999,
+        "english": "second base with someone. So it's kind of saying this in a different way as a metaphor, as you said.",
+        "chinese": "第二基地有人。所以，你用比喻的方式在说这件事，就像你说的那样。"
+    },
+    {
+        "start": 666.7199999999999,
+        "end": 673.4399999999999,
+        "english": "It's more polite than talking about. Yeah. All right. So that's all the words and phrases we have",
+        "chinese": "这比谈论要礼貌多了。嗯。好的。这就是我们所有的词汇和短语了"
+    },
+    {
+        "start": 673.44,
+        "end": 676.72,
+        "english": "on FluencyBother. Let's listen to this great dialogue one last time.",
+        "chinese": "在“FluencyBother”上，让我们再听一遍这精彩的对话。"
+    },
+    {
+        "start": 684.72,
+        "end": 690.1600000000001,
+        "english": "Hello, everyone and welcome to our CPR for Beginners course. First of all, does anyone know what CPR",
+        "chinese": "你好，大家欢迎参加我们的初级心肺复苏课程。首先，请问有没有人知道什么是CPR？"
+    },
+    {
+        "start": 690.1600000000001,
+        "end": 696.4000000000001,
+        "english": "stands for? Cardiopulmonary resuscitation. That's right. We apply CPR in the case of cardiac arrest",
+        "chinese": "代表什么？心脏复苏术。没错，我们是在心肺复苏时应用它。"
+    },
+    {
+        "start": 696.4000000000001,
+        "end": 701.84,
+        "english": "or pulmonary arrest. What does that mean? Well, basically, if your heart stops pumping blood or",
+        "chinese": "或者肺部停止呼吸。那是什么意思？嗯，基本上，如果心脏停止了泵血，"
+    },
+    {
+        "start": 701.84,
+        "end": 706.1600000000001,
+        "english": "your lungs stop pumping air, then we need to get them going again. That's when we have to apply this",
+        "chinese": "你的肺停止了输送空气，那么我们就需要重新启动它们。这时我们就要应用这个方法。"
+    },
+    {
+        "start": 706.1600000000001,
+        "end": 712.88,
+        "english": "procedure. Let's begin. I need a volunteer. Me. Me. All right. Come here and lay flat on your back.",
+        "chinese": "步骤。让我们开始吧。我需要一个志愿者。我。我。好的。过来，趴在地上。"
+    },
+    {
+        "start": 713.9200000000001,
+        "end": 719.0400000000001,
+        "english": "Let's suppose this young woman has stopped breathing. We must lift the person's chin so that we clear",
+        "chinese": "让我们假设这个年轻女子已经停止了呼吸。我们必须把她的下巴抬起，以便我们清除呼吸道。"
+    },
+    {
+        "start": 719.0400000000001,
+        "end": 724.4,
+        "english": "a pathway for air to get into the lungs. Then we place our mouth over the other person's mouth and",
+        "chinese": "一个途径，让空气进入肺部。然后我们把嘴巴放在对方的嘴巴上。"
+    },
+    {
+        "start": 724.4,
+        "end": 729.84,
+        "english": "below air two or three times like this. Wait, what are you doing? I'm a married woman. You can't just",
+        "chinese": "下面两次三下地拍手。等一下，你在干什么？我是已经结婚的女人了，你居然敢\n\n翻译成中文：下面两次三下地拍手。等一下，你在干什么？我是已经结婚的女人了，你居然敢"
+    },
+    {
+        "start": 729.84,
+        "end": 734.5600000000001,
+        "english": "try to kiss me like that. Ma'am, I'm not trying to kiss you. I'm trying to demonstrate how to",
+        "chinese": "尝试那样亲吻我吧。女士，我不是试图亲吻你。我是想展示如何"
+    },
+    {
+        "start": 734.5600000000001,
+        "end": 743.12,
+        "english": "apply CPR in the case of an emergency. Well, okay. No French kissing. As I was saying, we blow air",
+        "chinese": "应用心肺复苏术（CPR）在紧急情况下。好吧，别亲热了。我刚才说的，我们吹气"
+    },
+    {
+        "start": 743.12,
+        "end": 747.36,
+        "english": "through the mouth in this manner. Once this is done, we must try to get the heart going again.",
+        "chinese": "通过这种方式，一旦完成，我们必须尝试再次激发心志。"
+    },
+    {
+        "start": 747.36,
+        "end": 752.5600000000001,
+        "english": "To do this, we place our hands over the person's chest and press down firmly two or three times.",
+        "chinese": "为了做到这一点，我们将双手放在那个人的胸口，并用力按压两三次。"
+    },
+    {
+        "start": 752.64,
+        "end": 756.0,
+        "english": "Wait, what are you doing? You can't just kiss me then go for second base.",
+        "chinese": "等一下，你在做什么？你不能刚吻我然后就去第二垒。"
+    },
+    {
+        "start": 760.4799999999999,
+        "end": 765.76,
+        "english": "All right, we're back. So a CPR class. This is actually a very popular thing to take up. You never",
+        "chinese": "好的，我们又回来了。所以是一次心肺复苏的课程。这其实是一个非常流行的事情去做。你从没想过要参加过吗？"
+    },
+    {
+        "start": 765.76,
+        "end": 770.16,
+        "english": "know when you need to perform it, right? That's true. And I think it's a really smart",
+        "chinese": "知道什么时候需要执行它，对吗？没错。我认为这真是个非常聪明的点子。"
+    },
+    {
+        "start": 771.04,
+        "end": 776.9599999999999,
+        "english": "smart class to take. You can usually take them for free at a community center or a fire department.",
+        "chinese": "智能班级来了。你通常可以在社区中心或消防部门免费获取它们。"
+    },
+    {
+        "start": 776.9599999999999,
+        "end": 781.1999999999999,
+        "english": "The Red Cross. The Red Cross. I have a Red Cross certification. Oh really? So you know how to",
+        "chinese": "红十字会。红十字会。我有红十字会的认证证书。哦，真的吗？所以你知道怎么了？"
+    },
+    {
+        "start": 781.2,
+        "end": 786.88,
+        "english": "perform this? Wow. It's actually, as I said, I think it would be very useful. And I've never",
+        "chinese": "进行这个？哇。其实，正如我所说，我觉得它会非常有用。而且我从没试过。"
+    },
+    {
+        "start": 786.88,
+        "end": 792.4000000000001,
+        "english": "taken a course like this up, but I know how to perform the procedure. So I'm not certified though.",
+        "chinese": "已经上过这种课程了，但我知道如何执行这个程序。所以我不具备认证资格。"
+    },
+    {
+        "start": 792.4000000000001,
+        "end": 798.8000000000001,
+        "english": "So I'm not a certified CP. I'm not a certified CPR person. But it's interesting. Let us know if",
+        "chinese": "所以，我不是有执照的CP（认证人员），也不是有资格进行CPR（心肺复苏术）的人。不过挺有意思的。让我们知道一下。"
+    },
+    {
+        "start": 798.8000000000001,
+        "end": 805.36,
+        "english": "in your country, maybe you can take CPR classes or maybe you're a CPR certified technician.",
+        "chinese": "在你的国家，也许你可以参加心肺复苏（CPR）课程，或者你是一名经过认证的心肺复苏技术员。"
+    },
+    {
+        "start": 805.36,
+        "end": 810.72,
+        "english": "Or maybe you are trained in other ways. So we're curious about those as well. Let us know if you",
+        "chinese": "也许你是通过其他方式训练的。那么我们也很好奇，如果有需要的话，请告诉我们。"
+    },
+    {
+        "start": 810.72,
+        "end": 815.28,
+        "english": "have any questions about today's lesson or website is englishpod.com. All right, we'll see you guys",
+        "chinese": "有任何关于今天课程的问题吗？网站是英语Pod.com。好的，我们见你们。"
+    },
+    {
+        "start": 815.28,
+        "end": 818.32,
+        "english": "there. Bye everyone. Bye.",
+        "chinese": "那见了大家。再见。"
+    }
+]

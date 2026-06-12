@@ -1,0 +1,1934 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.2,
+        "english": "Hello English learners, welcome back to another great lesson here with English.",
+        "chinese": "大家好，欢迎再次来到这里，用英语学习。"
+    },
+    {
+        "start": 5.2,
+        "end": 6.4,
+        "english": "Pot, my name is Marco.",
+        "chinese": "我是马克。"
+    },
+    {
+        "start": 6.4,
+        "end": 7.6000000000000005,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.6000000000000005,
+        "end": 10.32,
+        "english": "And today we're being in you an upper intermediate lesson.",
+        "chinese": "今天，我们正在接受您上一个中级课程。"
+    },
+    {
+        "start": 10.32,
+        "end": 14.16,
+        "english": "A special lesson about the new president.",
+        "chinese": "一个关于新总统的特别课程。"
+    },
+    {
+        "start": 14.16,
+        "end": 16.4,
+        "english": "Right, it's been a hot topic in the US.",
+        "chinese": "正确，这是一个美国的话题。"
+    },
+    {
+        "start": 16.4,
+        "end": 19.36,
+        "english": "The new president elect president Obama.",
+        "chinese": "新的总统候选人是奥巴马。"
+    },
+    {
+        "start": 19.36,
+        "end": 20.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 20.0,
+        "end": 24.72,
+        "english": "So today we're bringing you something that you might see at his inaugural address.",
+        "chinese": "所以今天，我们为您带来他首次演讲的精彩内容。"
+    },
+    {
+        "start": 24.72,
+        "end": 25.76,
+        "english": "That's true.",
+        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+    },
+    {
+        "start": 25.76,
+        "end": 29.84,
+        "english": "So Marco, can you explain this word inaugural address?",
+        "chinese": "所以马科，你能解释一下这个单词“ inaugural address”吗？"
+    },
+    {
+        "start": 29.84,
+        "end": 36.56,
+        "english": "The inaugural address is the first speech the president gives at the ceremony when he is officially president.",
+        "chinese": "在仪式上，首次讲话是总统正式就职时的第一次演讲。"
+    },
+    {
+        "start": 36.56,
+        "end": 37.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 37.36,
+        "end": 37.84,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 37.84,
+        "end": 40.0,
+        "english": "So it's his first presidential speech.",
+        "chinese": "所以，这是他第一次的总统演讲。"
+    },
+    {
+        "start": 40.0,
+        "end": 40.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 41.44,
+        "end": 41.84,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 41.84,
+        "end": 47.6,
+        "english": "So let's take a look at some other words that we're going to find in the dialogue today in vocabulary preview.",
+        "chinese": "所以，让我们来看看今天对话中我们要找的其他词汇。"
+    },
+    {
+        "start": 48.24,
+        "end": 49.6,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 50.32,
+        "end": 52.16,
+        "english": "All right, I'm vocabulary preview today.",
+        "chinese": "今天，我将进行词汇预览。"
+    },
+    {
+        "start": 52.16,
+        "end": 53.04,
+        "english": "We have two words.",
+        "chinese": "我们有两个词。"
+    },
+    {
+        "start": 53.6,
+        "end": 56.08,
+        "english": "The first one is swear in.",
+        "chinese": "第一个是敬礼。"
+    },
+    {
+        "start": 56.08,
+        "end": 56.96,
+        "english": "Swear in.",
+        "chinese": "敬辞，即在正式场合下向他人表示尊敬和感谢。在中文中，“敬辞”通常用“敬礼”来表达。例如："
+    },
+    {
+        "start": 57.76,
+        "end": 58.88,
+        "english": "Swear in.",
+        "chinese": "敬辞。"
+    },
+    {
+        "start": 58.88,
+        "end": 60.160000000000004,
+        "english": "Swear in.",
+        "chinese": "敬辞。"
+    },
+    {
+        "start": 60.160000000000004,
+        "end": 63.44,
+        "english": "We'll see this word in its past tense in the dialogue, right?",
+        "chinese": "在对话中，这个单词会以现在时的形式出现吗？"
+    },
+    {
+        "start": 63.44,
+        "end": 64.64,
+        "english": "Sworn in.",
+        "chinese": "敬礼。"
+    },
+    {
+        "start": 64.64,
+        "end": 65.52,
+        "english": "Sworn in.",
+        "chinese": "誓词。"
+    },
+    {
+        "start": 65.52,
+        "end": 66.48,
+        "english": "So it means...",
+        "chinese": "所以，它意味着..."
+    },
+    {
+        "start": 67.28,
+        "end": 72.96000000000001,
+        "english": "So to swear someone in is to officially give that person a very important position.",
+        "chinese": "所以要授予某人一个职位，就是正式地给那个人一个非常重要的位置。"
+    },
+    {
+        "start": 72.96000000000001,
+        "end": 74.08,
+        "english": "Usually in government.",
+        "chinese": "通常在政府。"
+    },
+    {
+        "start": 74.08,
+        "end": 75.12,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 75.12,
+        "end": 77.36,
+        "english": "And our second word is oath.",
+        "chinese": "我们的第二个词是誓言。"
+    },
+    {
+        "start": 77.36,
+        "end": 78.4,
+        "english": "Oath.",
+        "chinese": "在中文中，\"oath\" 的翻译是 \"誓约\"。"
+    },
+    {
+        "start": 78.4,
+        "end": 79.04,
+        "english": "Oath.",
+        "chinese": "在中文中，\"Oath\" 的翻译是 \"誓言\"。"
+    },
+    {
+        "start": 79.04,
+        "end": 80.4,
+        "english": "O-A-T-H.",
+        "chinese": "O-A-T-H 翻译成中文是 \"O-A-T-H\"。"
+    },
+    {
+        "start": 80.4,
+        "end": 80.96000000000001,
+        "english": "Oath.",
+        "chinese": "在中文中，\"Oath\" 的翻译是 \"誓言\"。"
+    },
+    {
+        "start": 80.96000000000001,
+        "end": 83.84,
+        "english": "And oath goes hand in hand with swear in, right?",
+        "chinese": "A誓同誓，是正？"
+    },
+    {
+        "start": 83.84,
+        "end": 84.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 84.4,
+        "end": 87.60000000000001,
+        "english": "When you swear someone in, they make an oath.",
+        "chinese": "当你在他们面前说，他们会做出誓言。"
+    },
+    {
+        "start": 87.60000000000001,
+        "end": 88.64,
+        "english": "A promise, right?",
+        "chinese": "这句话的英文是 \"A promise, right?\"。"
+    },
+    {
+        "start": 88.64,
+        "end": 89.68,
+        "english": "A promise.",
+        "chinese": "一个承诺。"
+    },
+    {
+        "start": 89.68,
+        "end": 93.52000000000001,
+        "english": "An official promise to carry out the duties of that job.",
+        "chinese": "一个承诺履行该工作的职责。"
+    },
+    {
+        "start": 93.52000000000001,
+        "end": 93.84,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 93.84,
+        "end": 95.60000000000001,
+        "english": "So they promise that they will do their job.",
+        "chinese": "所以他们保证他们会尽职尽责。"
+    },
+    {
+        "start": 95.60000000000001,
+        "end": 96.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 96.0,
+        "end": 96.4,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 96.4,
+        "end": 100.24000000000001,
+        "english": "So now let's listen to our dialogue for a first time.",
+        "chinese": "所以现在让我们听听我们的对话第一次。"
+    },
+    {
+        "start": 100.24000000000001,
+        "end": 101.12,
+        "english": "Where are we?",
+        "chinese": "在何处？"
+    },
+    {
+        "start": 101.12,
+        "end": 104.24000000000001,
+        "english": "Well, we're actually watching a news reporter on TV.",
+        "chinese": "正确翻译为中文是："
+    },
+    {
+        "start": 104.24000000000001,
+        "end": 107.28,
+        "english": "She's in Washington and she's going to tell us all about what's happening.",
+        "chinese": "她在中国，将向我们介绍一切正在发生的事情。"
+    },
+    {
+        "start": 107.28,
+        "end": 107.44,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 107.44,
+        "end": 108.32000000000001,
+        "english": "So let's listen.",
+        "chinese": "所以，让我们倾听。"
+    },
+    {
+        "start": 114.72,
+        "end": 124.88000000000001,
+        "english": "This is Madeline Wright for BCC News reporting live from Washington, DC,",
+        "chinese": "这是梅丽莎·伍德（Madeline Wright）为BCC新闻直播报道从华盛顿特区到的。"
+    },
+    {
+        "start": 124.88000000000001,
+        "end": 128.56,
+        "english": "where very shortly the new president will deliver his inaugural address.",
+        "chinese": "在中国，不久的将来，新的总统将发表就职演说。"
+    },
+    {
+        "start": 128.96,
+        "end": 131.52,
+        "english": "Just moments ago, the president was sworn into office,",
+        "chinese": "刚才，总统刚刚被任命为国家主席。"
+    },
+    {
+        "start": 131.52,
+        "end": 133.68,
+        "english": "following the United States Constitution.",
+        "chinese": "按照美国宪法。"
+    },
+    {
+        "start": 133.68,
+        "end": 137.92000000000002,
+        "english": "The president swore to an oath to faithfully execute the office of the presidency.",
+        "chinese": "总统郑重地宣誓，将忠于担任国家元首的职务。"
+    },
+    {
+        "start": 137.92000000000002,
+        "end": 139.84,
+        "english": "And what exactly is going on now, Madeline?",
+        "chinese": "现在发生了什么，梅林？"
+    },
+    {
+        "start": 140.72,
+        "end": 142.56,
+        "english": "Well, Tom, true to American tradition,",
+        "chinese": "好的，Tom，按照美国的传统，"
+    },
+    {
+        "start": 142.56,
+        "end": 144.72,
+        "english": "the band has just played hail to the chief.",
+        "chinese": "乐队刚刚唱起了欢迎主。"
+    },
+    {
+        "start": 144.72,
+        "end": 147.6,
+        "english": "And the president has been honored with the 21 guns salute.",
+        "chinese": "和总统被授予了21响枪礼。"
+    },
+    {
+        "start": 148.32,
+        "end": 151.76,
+        "english": "Now we're waiting for the president to take the stage and deliver his speech.",
+        "chinese": "现在我们等待着总统上台并发表讲话。"
+    },
+    {
+        "start": 151.76,
+        "end": 155.2,
+        "english": "Tom is like the who's who of the political world here on Capitol Hill,",
+        "chinese": "汤姆是这里国会大厦里政治圈里的“顶梁柱”。"
+    },
+    {
+        "start": 155.2,
+        "end": 157.76,
+        "english": "with dignitaries representing several different countries.",
+        "chinese": "带着几位来自不同国家的代表。"
+    },
+    {
+        "start": 158.56,
+        "end": 160.64000000000001,
+        "english": "What's the mood on the ground like, Madeline?",
+        "chinese": "地面的氛围，梅丽尔怎么样？"
+    },
+    {
+        "start": 160.64000000000001,
+        "end": 162.8,
+        "english": "In a word, the moot here is electric.",
+        "chinese": "在一句话中，这里指的是电。"
+    },
+    {
+        "start": 162.8,
+        "end": 165.12,
+        "english": "The excitement in the air is palpable.",
+        "chinese": "空气中的兴奋感是可触摸的。"
+    },
+    {
+        "start": 165.12,
+        "end": 167.52,
+        "english": "I've never seen a large crowd here on Capitol Hill.",
+        "chinese": "我从未在国会大厦里见过如此庞大的人群。"
+    },
+    {
+        "start": 168.24,
+        "end": 170.8,
+        "english": "The audience is shouting, crying and embracing each other.",
+        "chinese": "观众在大喊、哭泣，拥抱。"
+    },
+    {
+        "start": 171.60000000000002,
+        "end": 176.08,
+        "english": "On this a most historic day, you can feel the hope and the excitement in the air.",
+        "chinese": "在这个一个最历史的日子，你可以感受到希望和激动的心情。"
+    },
+    {
+        "start": 176.72,
+        "end": 179.76000000000002,
+        "english": "The 20th of January will go down in history as the,",
+        "chinese": "2023年1月20日将被载入史册，成为历史。"
+    },
+    {
+        "start": 180.4,
+        "end": 183.12,
+        "english": "oh, Tom, it looks like the president is about to begin.",
+        "chinese": "哦，汤姆，总统似乎即将开始。"
+    },
+    {
+        "start": 184.96,
+        "end": 186.56,
+        "english": "My fellow Americans.",
+        "chinese": "我的同胞们。"
+    },
+    {
+        "start": 190.16000000000003,
+        "end": 191.92000000000002,
+        "english": "I stand before you today.",
+        "chinese": "我今天在这里。"
+    },
+    {
+        "start": 192.79999999999998,
+        "end": 194.79999999999998,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 197.76,
+        "end": 201.04,
+        "english": "Okay, some technical problems at the inaugural address.",
+        "chinese": "好的，开幕式上的技术问题。"
+    },
+    {
+        "start": 201.04,
+        "end": 202.72,
+        "english": "Yeah, I certainly hope this doesn't happen.",
+        "chinese": "是的，我绝对希望不会发生这种情况。"
+    },
+    {
+        "start": 203.51999999999998,
+        "end": 206.48,
+        "english": "Well, if it does, you heard it first at English pod.",
+        "chinese": "嗯，如果真这样，你听到了第一句话。"
+    },
+    {
+        "start": 206.48,
+        "end": 207.83999999999997,
+        "english": "Predectors of the future here.",
+        "chinese": "未来这里的预测者。"
+    },
+    {
+        "start": 208.48,
+        "end": 211.11999999999998,
+        "english": "Okay, let's take a look at language takeaway.",
+        "chinese": "好的，让我们看看语言的要点。"
+    },
+    {
+        "start": 212.88,
+        "end": 214.07999999999998,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 215.04,
+        "end": 217.76,
+        "english": "On language takeaway today, we're bringing you four words.",
+        "chinese": "今天语言小站，我们将为您带来四个字。"
+    },
+    {
+        "start": 217.76,
+        "end": 220.32,
+        "english": "The first word is deliver.",
+        "chinese": "第一个单词是 \"交付\"。"
+    },
+    {
+        "start": 220.4,
+        "end": 221.2,
+        "english": "Deliver.",
+        "chinese": "交付。"
+    },
+    {
+        "start": 221.2,
+        "end": 221.68,
+        "english": "Deliver.",
+        "chinese": "交付。"
+    },
+    {
+        "start": 222.56,
+        "end": 224.07999999999998,
+        "english": "Like deliver a pizza.",
+        "chinese": "像送披萨一样。"
+    },
+    {
+        "start": 224.07999999999998,
+        "end": 224.32,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 225.28,
+        "end": 226.07999999999998,
+        "english": "Let's listen.",
+        "chinese": "让我们倾听。"
+    },
+    {
+        "start": 226.07999999999998,
+        "end": 229.28,
+        "english": "We've got three examples that will show the meaning of this word.",
+        "chinese": "我们有三个例子来展示这个单词的意思。"
+    },
+    {
+        "start": 229.84,
+        "end": 230.72,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 232.88,
+        "end": 234.64,
+        "english": "Who's going to deliver the welcome speech?",
+        "chinese": "谁将为欢迎演讲作准备？"
+    },
+    {
+        "start": 237.68,
+        "end": 238.48,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 241.12,
+        "end": 244.72,
+        "english": "I've been asked to deliver a presentation on the findings of our research project.",
+        "chinese": "我被要求在研究项目成果上进行演示。"
+    },
+    {
+        "start": 248.16,
+        "end": 249.2,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 251.04,
+        "end": 254.64,
+        "english": "Dr. Rosen is delivering a lecture on macroeconomics.",
+        "chinese": "李荣教授将要进行宏观经济经济学的演讲。"
+    },
+    {
+        "start": 257.92,
+        "end": 260.56,
+        "english": "Okay, so deliver a speech.",
+        "chinese": "好的，所以准备一个演讲。"
+    },
+    {
+        "start": 260.56,
+        "end": 261.52,
+        "english": "Say a speech.",
+        "chinese": "说一句话。"
+    },
+    {
+        "start": 261.52,
+        "end": 262.64,
+        "english": "To say a speech.",
+        "chinese": "说一个演讲。"
+    },
+    {
+        "start": 262.64,
+        "end": 262.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 263.92,
+        "end": 265.28,
+        "english": "So you wouldn't say say a speech.",
+        "chinese": "所以你不会说演讲。"
+    },
+    {
+        "start": 265.28,
+        "end": 266.4,
+        "english": "You would say deliver a speech.",
+        "chinese": "您会说演讲。"
+    },
+    {
+        "start": 266.4,
+        "end": 267.28,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 267.28,
+        "end": 267.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 267.92,
+        "end": 270.4,
+        "english": "Okay, our second word for language takeaway.",
+        "chinese": "好的，我们的第二句话是“语言小贴士”。"
+    },
+    {
+        "start": 270.4,
+        "end": 271.6,
+        "english": "The who's who?",
+        "chinese": "谁是？"
+    },
+    {
+        "start": 271.6,
+        "end": 273.12,
+        "english": "The who's who?",
+        "chinese": "谁的谁？"
+    },
+    {
+        "start": 273.12,
+        "end": 274.71999999999997,
+        "english": "The who's who?",
+        "chinese": "谁是？"
+    },
+    {
+        "start": 274.71999999999997,
+        "end": 276.64,
+        "english": "This is a funny expression, hey.",
+        "chinese": "这个是逗号，哈。"
+    },
+    {
+        "start": 276.64,
+        "end": 278.08,
+        "english": "It's kind of weird.",
+        "chinese": "它有点奇怪。"
+    },
+    {
+        "start": 278.08,
+        "end": 282.47999999999996,
+        "english": "The who's who is the important people in a particular field, right?",
+        "chinese": "是的，这个说法在中文中可以翻译为：“谁是某领域中的重要人物？”"
+    },
+    {
+        "start": 282.47999999999996,
+        "end": 282.88,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 282.88,
+        "end": 289.44,
+        "english": "So for example, there was a party last night and the who's who of the film industry was there.",
+        "chinese": "所以，例如昨晚有电影行业的一流人物在那里聚会。"
+    },
+    {
+        "start": 289.44,
+        "end": 289.84,
+        "english": "Whoa.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 289.84,
+        "end": 293.28,
+        "english": "So all the important stars and directs and all that.",
+        "chinese": "所以所有的重要星和导演，以及所有这些。"
+    },
+    {
+        "start": 293.28,
+        "end": 294.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 294.08,
+        "end": 300.24,
+        "english": "You could also say the funeral was like a who's who of the political world.",
+        "chinese": "您还可以说，葬礼像政治界的顶流。"
+    },
+    {
+        "start": 300.24,
+        "end": 303.59999999999997,
+        "english": "Okay, so all the important political figures were at this funeral.",
+        "chinese": "好的，所以这个葬礼上的所有重要政治人物都在参加。"
+    },
+    {
+        "start": 303.59999999999997,
+        "end": 304.56,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 304.56,
+        "end": 306.08,
+        "english": "Let's move to our third word.",
+        "chinese": "让我们移动到我们的第三个词。"
+    },
+    {
+        "start": 306.71999999999997,
+        "end": 307.84,
+        "english": "Dignitaries.",
+        "chinese": "在中文中，\"dignitaries\" 翻译为 \"高官\"。"
+    },
+    {
+        "start": 307.84,
+        "end": 309.28,
+        "english": "Dignitaries.",
+        "chinese": "在中文中，\"dignitaries\" 翻译为 \"高官\"。"
+    },
+    {
+        "start": 309.28,
+        "end": 310.4,
+        "english": "Dignitaries.",
+        "chinese": "尊贵的人。"
+    },
+    {
+        "start": 310.4,
+        "end": 311.59999999999997,
+        "english": "Dignitaries.",
+        "chinese": "在中文中，\"dignitaries\" 翻译成中文是 \"尊贵的人士\"。"
+    },
+    {
+        "start": 311.59999999999997,
+        "end": 315.52,
+        "english": "Okay, we have some great examples so you can understand what this word means.",
+        "chinese": "好的，我们有一些很好的例子，这样你就可以理解这个单词的意思。"
+    },
+    {
+        "start": 315.52,
+        "end": 316.4,
+        "english": "So let's listen.",
+        "chinese": "所以，让我们倾听。"
+    },
+    {
+        "start": 316.96,
+        "end": 317.91999999999996,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 321.2,
+        "end": 324.08,
+        "english": "Several important dignitaries were present at the opening ceremony,",
+        "chinese": "几任重要人物出席了开幕式。"
+    },
+    {
+        "start": 324.08,
+        "end": 327.28,
+        "english": "including the president of Brazil, the king of Spain and the Pope.",
+        "chinese": "包括巴西总统，西班牙国王和罗马天主教会的教皇。"
+    },
+    {
+        "start": 330.71999999999997,
+        "end": 331.44,
+        "english": "Example two.",
+        "chinese": "示例二。"
+    },
+    {
+        "start": 331.6,
+        "end": 337.04,
+        "english": "There are going to be a lot of foreign dignitaries at the dinner.",
+        "chinese": "外国贵宾将出席晚餐。"
+    },
+    {
+        "start": 339.84,
+        "end": 343.68,
+        "english": "So basically we can understand that dignitaries are really important people, right?",
+        "chinese": "所以基本上，我们可以理解为贵宾是最重要的人。"
+    },
+    {
+        "start": 343.68,
+        "end": 344.32,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 344.32,
+        "end": 346.96,
+        "english": "Important political or religious figures.",
+        "chinese": "重要政治或宗教人物。"
+    },
+    {
+        "start": 346.96,
+        "end": 347.36,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 348.08,
+        "end": 348.64,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 348.64,
+        "end": 352.4,
+        "english": "Now our last word for language take away palpable.",
+        "chinese": "现在我们的最后一个字是语言的，它带有可触摸的感觉。"
+    },
+    {
+        "start": 352.4,
+        "end": 353.6,
+        "english": "Palpable.",
+        "chinese": "可闻的。"
+    },
+    {
+        "start": 353.6,
+        "end": 354.56,
+        "english": "Palpable.",
+        "chinese": "可闻的。"
+    },
+    {
+        "start": 354.56,
+        "end": 355.12,
+        "english": "Palpable.",
+        "chinese": "可闻的。"
+    },
+    {
+        "start": 355.92,
+        "end": 359.44,
+        "english": "When something is palpable is so strong you can feel it.",
+        "chinese": "当某物是可触的，那么你就能感受到它的力量。"
+    },
+    {
+        "start": 359.44,
+        "end": 361.92,
+        "english": "Okay, so it's a very strong feeling.",
+        "chinese": "好的，那么非常强烈的感受。"
+    },
+    {
+        "start": 361.92,
+        "end": 363.12,
+        "english": "You can almost touch it.",
+        "chinese": "你可以几乎触摸它。"
+    },
+    {
+        "start": 363.12,
+        "end": 367.52,
+        "english": "Yeah, like the excitement was palpable or the fear was palpable.",
+        "chinese": "是的，就像兴奋感或恐惧感那么明显。"
+    },
+    {
+        "start": 367.52,
+        "end": 368.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 368.16,
+        "end": 370.16,
+        "english": "Interesting word palpable.",
+        "chinese": "有趣的话可触摸。"
+    },
+    {
+        "start": 370.16,
+        "end": 374.88,
+        "english": "Let's listen to our dialogue again and now let's try and listen to all these words we just talked about.",
+        "chinese": "让我们再次听我们的对话，现在我们试着听一下刚才我们讨论的所有词语。"
+    },
+    {
+        "start": 390.08,
+        "end": 394.32,
+        "english": "This is Madeline Wright for BCC News reporting live from Washington, DC,",
+        "chinese": "这是梅里娜·伍德为BCC新闻直播从华盛顿特区报道。"
+    },
+    {
+        "start": 394.32,
+        "end": 397.76,
+        "english": "where very shortly the new president will deliver his inaugural address.",
+        "chinese": "在中国，不久的将来，新的总统将发表就职演说。"
+    },
+    {
+        "start": 398.4,
+        "end": 403.12,
+        "english": "Just moments ago the president was sworn into office following the United States Constitution,",
+        "chinese": "刚才，总统刚刚被选为美国宪法所授予的最高职位。"
+    },
+    {
+        "start": 403.12,
+        "end": 407.36,
+        "english": "the president swore to an oath to faithfully execute the office of the presidency.",
+        "chinese": "总统郑重承诺，将忠实履行作为国家最高领导人职务的职责。"
+    },
+    {
+        "start": 407.36,
+        "end": 409.28,
+        "english": "And what exactly is going on now, Madeline?",
+        "chinese": "现在发生了什么，梅林？"
+    },
+    {
+        "start": 410.15999999999997,
+        "end": 414.15999999999997,
+        "english": "Well, Tom, true to American tradition, the band has just played hail to the chief,",
+        "chinese": "嗯，汤姆，按照美国的传统，乐队刚刚向首席致敬。"
+    },
+    {
+        "start": 414.15999999999997,
+        "end": 417.04,
+        "english": "and the president has been honored with the 21 guns salute.",
+        "chinese": "和总统被授予了21响枪礼。"
+    },
+    {
+        "start": 417.76000000000005,
+        "end": 421.20000000000005,
+        "english": "Now we're waiting for the president to take the stage and deliver his speech.",
+        "chinese": "现在我们等待着总统上台并发表讲话。"
+    },
+    {
+        "start": 421.20000000000005,
+        "end": 424.72,
+        "english": "Tom is like the who's who of the political world here on Capitol Hill,",
+        "chinese": "汤姆是这里国会大厦里政治圈里的佼佼者。"
+    },
+    {
+        "start": 424.72,
+        "end": 427.20000000000005,
+        "english": "with dignitaries representing several different countries.",
+        "chinese": "由代表不同国家的高官主持。"
+    },
+    {
+        "start": 428.0,
+        "end": 430.08000000000004,
+        "english": "What's the mood on the ground like, Madeline?",
+        "chinese": "请问地面的气氛，梅里娜？"
+    },
+    {
+        "start": 430.08000000000004,
+        "end": 432.32000000000005,
+        "english": "In a word, the moot here is electric.",
+        "chinese": "在一句话中，这里讨论的是电。"
+    },
+    {
+        "start": 432.32000000000005,
+        "end": 434.56,
+        "english": "The excitement in the air is palpable.",
+        "chinese": "空气中的兴奋感是可触摸的。"
+    },
+    {
+        "start": 434.56,
+        "end": 436.96000000000004,
+        "english": "I've never seen a large crowd here on Capitol Hill.",
+        "chinese": "我从未在国会大厦附近见过如此庞大的人群。"
+    },
+    {
+        "start": 437.68,
+        "end": 440.24,
+        "english": "The audience is shouting, crying and embracing each other.",
+        "chinese": "观众在大喊、哭泣，拥抱。"
+    },
+    {
+        "start": 441.04,
+        "end": 445.52000000000004,
+        "english": "On this a most historic day, you can feel the hope and the excitement in the air.",
+        "chinese": "在这个最historic的一天，你可以感受到希望和激动的气息。"
+    },
+    {
+        "start": 446.24,
+        "end": 452.56,
+        "english": "The 20th of January will go down in history, as the, oh Tom, it looks like the president is about to begin.",
+        "chinese": "在1月20日，将会被载入史册，因为总统即将开始。"
+    },
+    {
+        "start": 456.56,
+        "end": 458.56,
+        "english": "My fellow Americans.",
+        "chinese": "我的中国同胞。"
+    },
+    {
+        "start": 459.59999999999997,
+        "end": 461.44,
+        "english": "I stand before you today.",
+        "chinese": "我今天在这里。"
+    },
+    {
+        "start": 465.2,
+        "end": 469.59999999999997,
+        "english": "Okay, so if you noticed in our dialogue, we have some really interesting phrases there.",
+        "chinese": "好的，如果你们注意到我们在对话中的某些有趣语句。"
+    },
+    {
+        "start": 469.59999999999997,
+        "end": 470.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 470.4,
+        "end": 473.2,
+        "english": "So I think it's time for us to take a look at Fluency Builder.",
+        "chinese": "所以我认为现在是时候审视 Fluent Builder。"
+    },
+    {
+        "start": 473.59999999999997,
+        "end": 475.36,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 475.36,
+        "end": 480.24,
+        "english": "On Fluency Builder, today we're going to be looking at three phrases that are very interesting",
+        "chinese": "今天，我们将关注三个非常有趣的话题。"
+    },
+    {
+        "start": 480.24,
+        "end": 484.4,
+        "english": "because we can change them a little bit and form different patterns.",
+        "chinese": "因为我们可以稍微改变它们，形成不同的模式。"
+    },
+    {
+        "start": 484.4,
+        "end": 488.71999999999997,
+        "english": "Yeah, so the first phrase we have is, in a word.",
+        "chinese": "是的，所以我们有第一句话：“在一句话中。”"
+    },
+    {
+        "start": 488.71999999999997,
+        "end": 489.52,
+        "english": "In a word.",
+        "chinese": "在一句话中。"
+    },
+    {
+        "start": 489.52,
+        "end": 490.4,
+        "english": "In a word.",
+        "chinese": "在一句话中。"
+    },
+    {
+        "start": 490.4,
+        "end": 492.24,
+        "english": "In a word.",
+        "chinese": "在一句话中。"
+    },
+    {
+        "start": 492.24,
+        "end": 496.71999999999997,
+        "english": "We use this expression when we want to describe something in one word.",
+        "chinese": "我们使用这个表达式来描述某件事情时，用一个字。"
+    },
+    {
+        "start": 496.71999999999997,
+        "end": 497.2,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 497.2,
+        "end": 498.08,
+        "english": "Pretty simple, huh?",
+        "chinese": "嗯，简单啊。"
+    },
+    {
+        "start": 498.08,
+        "end": 498.96,
+        "english": "It's really simple.",
+        "chinese": "它真的很简单。"
+    },
+    {
+        "start": 498.96,
+        "end": 499.91999999999996,
+        "english": "Let's look at the pattern.",
+        "chinese": "让我们看看模式。"
+    },
+    {
+        "start": 499.91999999999996,
+        "end": 502.15999999999997,
+        "english": "We've got examples of how you could use this phrase.",
+        "chinese": "我们有例子，如何使用这个短语。"
+    },
+    {
+        "start": 503.28,
+        "end": 504.24,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 507.44,
+        "end": 509.36,
+        "english": "In a word, the situation is serious.",
+        "chinese": "在一句话中，情况非常严重。"
+    },
+    {
+        "start": 512.8,
+        "end": 513.52,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 516.8,
+        "end": 517.84,
+        "english": "What's it like there?",
+        "chinese": "请问那里怎么样？"
+    },
+    {
+        "start": 518.48,
+        "end": 520.3199999999999,
+        "english": "In a word, it's amazing.",
+        "chinese": "一句话，真是太神奇了。"
+    },
+    {
+        "start": 523.36,
+        "end": 527.36,
+        "english": "Okay, so in a word, this podcast is awesome.",
+        "chinese": "好的，所以一句话来说，这个播客非常棒。"
+    },
+    {
+        "start": 527.36,
+        "end": 528.08,
+        "english": "Amazing.",
+        "chinese": "无尽的。"
+    },
+    {
+        "start": 528.96,
+        "end": 532.16,
+        "english": "Okay, okay, let's look at our second phrase today.",
+        "chinese": "好的，好的，让我们看看今天的第二句话。"
+    },
+    {
+        "start": 532.88,
+        "end": 534.64,
+        "english": "Go down in history.",
+        "chinese": "降下历史的阶梯。"
+    },
+    {
+        "start": 534.64,
+        "end": 535.92,
+        "english": "Go down in history.",
+        "chinese": "下在历史中。"
+    },
+    {
+        "start": 536.64,
+        "end": 538.64,
+        "english": "Go down in history.",
+        "chinese": "下在历史中。"
+    },
+    {
+        "start": 538.64,
+        "end": 540.4,
+        "english": "So this is a really common phrase.",
+        "chinese": "所以，这是一个非常常见的表达。"
+    },
+    {
+        "start": 540.4,
+        "end": 542.24,
+        "english": "I'm sure you guys have heard it.",
+        "chinese": "我保证你们已经听说过。"
+    },
+    {
+        "start": 542.24,
+        "end": 547.68,
+        "english": "Yeah, basically something that is really important that everyone will remember for a very long time.",
+        "chinese": "是的，基本上是一个非常重要的东西，每个人都将永远记住它。"
+    },
+    {
+        "start": 547.68,
+        "end": 549.68,
+        "english": "Let's look at this pattern with a few examples.",
+        "chinese": "让我们看看这个模式用几个例子。"
+    },
+    {
+        "start": 550.4,
+        "end": 551.36,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 555.1999999999999,
+        "end": 560.4,
+        "english": "This is going to go down in history as the worst disaster the world has ever seen.",
+        "chinese": "这是自古以来最糟糕的灾难，将永远载入史册。"
+    },
+    {
+        "start": 562.8,
+        "end": 565.4399999999999,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 569.68,
+        "end": 572.7199999999999,
+        "english": "You'll go down in history as the best president we've ever had.",
+        "chinese": "您将被历史铭记为我们曾经拥有的最好的总统。"
+    },
+    {
+        "start": 578.0,
+        "end": 579.04,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 582.4,
+        "end": 584.56,
+        "english": "This day will go down in history.",
+        "chinese": "今天定会载入史册。"
+    },
+    {
+        "start": 585.52,
+        "end": 592.4,
+        "english": "Okay, so as you can see, the pattern is we're using a superlative.",
+        "chinese": "好的，那么你看，我们正在使用一个超级形容词。"
+    },
+    {
+        "start": 592.4,
+        "end": 593.5999999999999,
+        "english": "That's right. The most.",
+        "chinese": "没错。这是正确的。"
+    },
+    {
+        "start": 593.5999999999999,
+        "end": 594.2399999999999,
+        "english": "The best.",
+        "chinese": "最好的。"
+    },
+    {
+        "start": 594.2399999999999,
+        "end": 595.1999999999999,
+        "english": "The biggest.",
+        "chinese": "最大的。"
+    },
+    {
+        "start": 595.1999999999999,
+        "end": 595.92,
+        "english": "The worst.",
+        "chinese": "最糟糕。"
+    },
+    {
+        "start": 595.92,
+        "end": 597.28,
+        "english": "The worst, right?",
+        "chinese": "哪句话最糟糕？"
+    },
+    {
+        "start": 597.28,
+        "end": 600.0799999999999,
+        "english": "And our final phrase in putting it together is",
+        "chinese": "我们的最终语句是："
+    },
+    {
+        "start": 600.8,
+        "end": 602.4,
+        "english": "My fellow Americans.",
+        "chinese": "我的中国同胞。"
+    },
+    {
+        "start": 602.4,
+        "end": 604.16,
+        "english": "My fellow American.",
+        "chinese": "我的美国朋友。"
+    },
+    {
+        "start": 604.16,
+        "end": 605.76,
+        "english": "My fellow Americans.",
+        "chinese": "我的中国同胞。"
+    },
+    {
+        "start": 605.76,
+        "end": 608.64,
+        "english": "So obviously you can change this one up a little bit, hey?",
+        "chinese": "所以很明显，你可以在这一点上稍微改变一下。"
+    },
+    {
+        "start": 608.64,
+        "end": 611.5999999999999,
+        "english": "Right, you can say my fellow co-workers.",
+        "chinese": "正确，你可以这么说：我同僚的同事们可以这样说。"
+    },
+    {
+        "start": 612.3199999999999,
+        "end": 613.8399999999999,
+        "english": "My fellow citizens.",
+        "chinese": "我的同胞们。"
+    },
+    {
+        "start": 614.48,
+        "end": 616.8000000000001,
+        "english": "My fellow family members.",
+        "chinese": "我的家人。"
+    },
+    {
+        "start": 616.8000000000001,
+        "end": 617.0400000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 618.64,
+        "end": 622.08,
+        "english": "So basically, fellow just means like deer.",
+        "chinese": "所以，一般地说，同义词就是像鹿。"
+    },
+    {
+        "start": 622.08,
+        "end": 622.8000000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 622.8000000000001,
+        "end": 623.6,
+        "english": "In some way.",
+        "chinese": "在某些方面。"
+    },
+    {
+        "start": 623.6,
+        "end": 624.88,
+        "english": "So similar.",
+        "chinese": "所以相似。"
+    },
+    {
+        "start": 624.88,
+        "end": 625.2800000000001,
+        "english": "Similar.",
+        "chinese": "相似。在中文中，\"相似\"可以翻译为 \"相像\" 或 \"相近\"。例如："
+    },
+    {
+        "start": 626.0,
+        "end": 628.48,
+        "english": "So we looked at some great vocabulary and phrases.",
+        "chinese": "所以我们看了些很棒的词汇和短语。"
+    },
+    {
+        "start": 628.48,
+        "end": 633.36,
+        "english": "And now let's talk a little bit about these American traditions when electing a new president.",
+        "chinese": "现在让我们谈谈一下这些美国传统，当选举新的总统。"
+    },
+    {
+        "start": 633.36,
+        "end": 633.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 634.32,
+        "end": 636.8000000000001,
+        "english": "Today in the studio, we have JP who's joining us.",
+        "chinese": "今天在工作室里，我们有JP 准备和我们一起。"
+    },
+    {
+        "start": 636.8000000000001,
+        "end": 637.6,
+        "english": "Hi, everyone.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 637.6,
+        "end": 638.32,
+        "english": "Hey JP.",
+        "chinese": "你好JP。"
+    },
+    {
+        "start": 638.32,
+        "end": 641.6800000000001,
+        "english": "And he's going to be talking to us about these traditions.",
+        "chinese": "他将和我们讨论这些传统。"
+    },
+    {
+        "start": 641.6800000000001,
+        "end": 642.48,
+        "english": "Oh, am.",
+        "chinese": "哦，你好。"
+    },
+    {
+        "start": 642.48,
+        "end": 642.8000000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 642.8000000000001,
+        "end": 643.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 643.6800000000001,
+        "end": 644.5600000000001,
+        "english": "What are we going to talk about?",
+        "chinese": "我们打算讨论什么？"
+    },
+    {
+        "start": 644.5600000000001,
+        "end": 645.6,
+        "english": "21 gun salute.",
+        "chinese": "21 队礼。"
+    },
+    {
+        "start": 645.6,
+        "end": 646.4,
+        "english": "What's that all about?",
+        "chinese": "这句话“What's that all about?”是中文的缩写，意思是“什么情况？”。"
+    },
+    {
+        "start": 646.96,
+        "end": 650.16,
+        "english": "The 21 gun salute is the military salute where they say,",
+        "chinese": "21发礼炮是军礼，他们说。"
+    },
+    {
+        "start": 650.16,
+        "end": 653.52,
+        "english": "and now we will have the 21 gun salute.",
+        "chinese": "现在我们将进行21发枪礼。"
+    },
+    {
+        "start": 653.52,
+        "end": 655.44,
+        "english": "So 21 soldiers with their rifles, they go,",
+        "chinese": "所以21名士兵，他们带着他们的步枪，"
+    },
+    {
+        "start": 657.76,
+        "end": 659.6,
+        "english": "and they all shoot them off at the same time.",
+        "chinese": "和他们同时射杀。"
+    },
+    {
+        "start": 659.6,
+        "end": 660.5600000000001,
+        "english": "And they don't know why.",
+        "chinese": "他们不知道。"
+    },
+    {
+        "start": 661.44,
+        "end": 663.44,
+        "english": "I think it's a sign of respect, hey?",
+        "chinese": "我认为这是尊重，对吗？"
+    },
+    {
+        "start": 663.44,
+        "end": 664.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 664.16,
+        "end": 665.2,
+        "english": "You'd respect those.",
+        "chinese": "您会尊重他们。"
+    },
+    {
+        "start": 665.2,
+        "end": 668.88,
+        "english": "Well, I think in Europe, they would do a cannon or something.",
+        "chinese": "嗯，我认为欧洲人会用炮弹或者别的什么。"
+    },
+    {
+        "start": 668.88,
+        "end": 669.12,
+        "english": "Oh.",
+        "chinese": "哦。"
+    },
+    {
+        "start": 669.76,
+        "end": 670.08,
+        "english": "Right?",
+        "chinese": "对？"
+    },
+    {
+        "start": 670.08,
+        "end": 670.96,
+        "english": "And cannon salute?",
+        "chinese": "和炮声？"
+    },
+    {
+        "start": 670.96,
+        "end": 671.9200000000001,
+        "english": "No, well just cannons.",
+        "chinese": "不，只用炮弹。"
+    },
+    {
+        "start": 672.56,
+        "end": 673.8399999999999,
+        "english": "Maybe just one cannon.",
+        "chinese": "也许只有一个炮台。"
+    },
+    {
+        "start": 673.8399999999999,
+        "end": 675.68,
+        "english": "Maybe our European listeners know the answer to this.",
+        "chinese": "也许我们的欧洲听众知道这个问题的答案。"
+    },
+    {
+        "start": 675.68,
+        "end": 676.0799999999999,
+        "english": "Maybe.",
+        "chinese": "可能。"
+    },
+    {
+        "start": 677.68,
+        "end": 678.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 678.24,
+        "end": 679.92,
+        "english": "And what about this song held to the chief?",
+        "chinese": "这首歌曲被放在了首席的位置。"
+    },
+    {
+        "start": 679.92,
+        "end": 681.1999999999999,
+        "english": "Do you know anything about that?",
+        "chinese": "是的，我知道一些关于这个的事情。"
+    },
+    {
+        "start": 681.1999999999999,
+        "end": 684.8,
+        "english": "I do not know anything about it except that it's a march.",
+        "chinese": "我不了解它，除了知道它是行军。"
+    },
+    {
+        "start": 684.8,
+        "end": 686.0799999999999,
+        "english": "And I think it's Sousa.",
+        "chinese": "我同意，Sousa。"
+    },
+    {
+        "start": 686.0799999999999,
+        "end": 687.5999999999999,
+        "english": "I think John Philip Sousa wrote it.",
+        "chinese": "我认为约翰·保罗·萨克斯写过这首歌。"
+    },
+    {
+        "start": 687.5999999999999,
+        "end": 689.28,
+        "english": "And whenever the president walks into a room,",
+        "chinese": "当总统走进一个房间时，"
+    },
+    {
+        "start": 689.28,
+        "end": 690.16,
+        "english": "they play that song.",
+        "chinese": "他们唱那首歌。"
+    },
+    {
+        "start": 690.16,
+        "end": 690.7199999999999,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 690.7199999999999,
+        "end": 690.9599999999999,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 690.9599999999999,
+        "end": 691.76,
+        "english": "And I played it once.",
+        "chinese": "我第一次弹奏了这首歌。"
+    },
+    {
+        "start": 691.76,
+        "end": 693.36,
+        "english": "For President Bush, the first one.",
+        "chinese": "对于美国总统布什来说，第一个。"
+    },
+    {
+        "start": 693.36,
+        "end": 694.4,
+        "english": "I was a drummer.",
+        "chinese": "我是鼓手。"
+    },
+    {
+        "start": 694.4,
+        "end": 695.1999999999999,
+        "english": "You did.",
+        "chinese": "您。"
+    },
+    {
+        "start": 695.1999999999999,
+        "end": 697.76,
+        "english": "And my marching band had to play that song for him.",
+        "chinese": "我的乐队不得不为他演奏那首歌。"
+    },
+    {
+        "start": 697.76,
+        "end": 699.4399999999999,
+        "english": "Oh my god, JP, you're like famous.",
+        "chinese": "对不起，JP，你真是出名了。"
+    },
+    {
+        "start": 699.5200000000001,
+        "end": 700.24,
+        "english": "You did.",
+        "chinese": "您。"
+    },
+    {
+        "start": 700.24,
+        "end": 702.96,
+        "english": "This was back in like 1986 or something.",
+        "chinese": "这是在上世纪八十年代。"
+    },
+    {
+        "start": 702.96,
+        "end": 704.32,
+        "english": "Was that even an election year?",
+        "chinese": "是啊，这算是一年一度的选举年吗？"
+    },
+    {
+        "start": 704.32,
+        "end": 704.8800000000001,
+        "english": "88?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，根据您提供的英文，请告诉我需要翻译的文本是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 704.8800000000001,
+        "end": 705.2,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 706.08,
+        "end": 707.6,
+        "english": "Well, you did play for the president.",
+        "chinese": "很好，你为总统效力。"
+    },
+    {
+        "start": 707.6,
+        "end": 708.5600000000001,
+        "english": "So you know.",
+        "chinese": "所以你知道。"
+    },
+    {
+        "start": 708.5600000000001,
+        "end": 709.2800000000001,
+        "english": "That's pretty cool.",
+        "chinese": "那真是太酷了。"
+    },
+    {
+        "start": 709.2800000000001,
+        "end": 709.5200000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 710.48,
+        "end": 713.12,
+        "english": "So JP, do you have any other sort of traditional things",
+        "chinese": "所以JP，你还有其他一些传统的东西？"
+    },
+    {
+        "start": 713.12,
+        "end": 715.9200000000001,
+        "english": "that happen when the president becomes the president?",
+        "chinese": "当总统成为总统时会发生什么？"
+    },
+    {
+        "start": 715.9200000000001,
+        "end": 718.8800000000001,
+        "english": "Well, I can tell you that Jimmy Carter,",
+        "chinese": "好的，我可以告诉你，卡梅隆·里根，"
+    },
+    {
+        "start": 718.8800000000001,
+        "end": 720.72,
+        "english": "you know, when he was elected president,",
+        "chinese": "您知道，当他在任总统时，"
+    },
+    {
+        "start": 720.72,
+        "end": 723.7600000000001,
+        "english": "this motorcade was going down Pennsylvania Avenue.",
+        "chinese": "这个车队正在沿着波士顿大道行驶。"
+    },
+    {
+        "start": 723.7600000000001,
+        "end": 725.7600000000001,
+        "english": "And he stopped the car and got out.",
+        "chinese": "And he stopped the car and got out. (翻译成中文)"
+    },
+    {
+        "start": 725.7600000000001,
+        "end": 726.1600000000001,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 726.1600000000001,
+        "end": 726.8000000000001,
+        "english": "To do what?",
+        "chinese": "To do what? 翻译成中文是："
+    },
+    {
+        "start": 726.8000000000001,
+        "end": 727.6800000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 727.76,
+        "end": 728.16,
+        "english": "To walk.",
+        "chinese": "行走。"
+    },
+    {
+        "start": 728.16,
+        "end": 729.76,
+        "english": "He wanted to walk down Pennsylvania Avenue.",
+        "chinese": "他想走普林斯维尔大道。"
+    },
+    {
+        "start": 729.76,
+        "end": 732.8,
+        "english": "He wanted to walk down the street.",
+        "chinese": "他想走下街。"
+    },
+    {
+        "start": 732.8,
+        "end": 734.4,
+        "english": "To like to be with the people.",
+        "chinese": "要和人在一起。"
+    },
+    {
+        "start": 734.4,
+        "end": 735.3599999999999,
+        "english": "Yeah, I think so.",
+        "chinese": "是的，我觉得这样。"
+    },
+    {
+        "start": 735.3599999999999,
+        "end": 736.7199999999999,
+        "english": "And I think it made the,",
+        "chinese": "这句话的英文是 “And I think it made the difference.” 以下是这个句子的中文翻译："
+    },
+    {
+        "start": 736.7199999999999,
+        "end": 738.56,
+        "english": "I think it made the secret service insane.",
+        "chinese": "我认为这使秘密服务疯了。"
+    },
+    {
+        "start": 738.56,
+        "end": 738.88,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 738.88,
+        "end": 740.16,
+        "english": "Maybe the car smelled better.",
+        "chinese": "也许这辆车闻起来更好。"
+    },
+    {
+        "start": 740.16,
+        "end": 741.76,
+        "english": "So maybe so.",
+        "chinese": "所以，也许如此。"
+    },
+    {
+        "start": 742.8,
+        "end": 744.16,
+        "english": "I think that is my memory of it.",
+        "chinese": "我认为这是我对它的记忆。"
+    },
+    {
+        "start": 744.16,
+        "end": 746.0799999999999,
+        "english": "I might be confusing with the West Wing, but I'm not.",
+        "chinese": "我可能有点混淆于白宫，但我不在。"
+    },
+    {
+        "start": 747.76,
+        "end": 748.9599999999999,
+        "english": "Too much TV.",
+        "chinese": "太看太多电视。"
+    },
+    {
+        "start": 748.9599999999999,
+        "end": 749.76,
+        "english": "Yeah, maybe.",
+        "chinese": "是的，也许。"
+    },
+    {
+        "start": 749.76,
+        "end": 751.3599999999999,
+        "english": "When the president walks, it's a big deal.",
+        "chinese": "当总统走时，这是一个大事件。"
+    },
+    {
+        "start": 751.3599999999999,
+        "end": 753.1999999999999,
+        "english": "So JP, do you do anything special",
+        "chinese": "所以JP，你有什么特别的事情？"
+    },
+    {
+        "start": 753.1999999999999,
+        "end": 756.0,
+        "english": "for the inauguration ceremony?",
+        "chinese": "对于开幕仪式？"
+    },
+    {
+        "start": 756.16,
+        "end": 758.0,
+        "english": "I always take the day off to watch.",
+        "chinese": "我总是请假一天来观看。"
+    },
+    {
+        "start": 758.0,
+        "end": 758.48,
+        "english": "You do.",
+        "chinese": "您。"
+    },
+    {
+        "start": 758.48,
+        "end": 759.28,
+        "english": "I love watching it.",
+        "chinese": "我喜欢看它。"
+    },
+    {
+        "start": 759.28,
+        "end": 761.04,
+        "english": "I love, you know, the, uh,",
+        "chinese": "我爱，你知道，呃。"
+    },
+    {
+        "start": 761.04,
+        "end": 763.2,
+        "english": "I love the, the swearing in ceremony.",
+        "chinese": "我喜欢这个，这个宣誓仪式。"
+    },
+    {
+        "start": 763.2,
+        "end": 766.32,
+        "english": "The ritual of it, the, the, the speech.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 766.32,
+        "end": 767.04,
+        "english": "All right, everyone.",
+        "chinese": "好的，大家。"
+    },
+    {
+        "start": 767.04,
+        "end": 767.68,
+        "english": "We're out of time.",
+        "chinese": "我们已经没有时间了。"
+    },
+    {
+        "start": 767.68,
+        "end": 770.08,
+        "english": "I hope you enjoyed this political lesson.",
+        "chinese": "我希望大家这次政治课学到了很多。"
+    },
+    {
+        "start": 770.08,
+        "end": 772.08,
+        "english": "And I hope you have a happy inauguration day.",
+        "chinese": "我希望能你的欢迎日过得非常愉快。"
+    },
+    {
+        "start": 772.08,
+        "end": 773.52,
+        "english": "Happy inauguration day, everyone.",
+        "chinese": "祝开幕典礼圆满成功，大家！"
+    },
+    {
+        "start": 773.52,
+        "end": 774.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 774.0,
+        "end": 774.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 778.0,
+        "end": 779.28,
+        "english": "All right, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 779.28,
+        "end": 782.0,
+        "english": "We're definitely going to take the day off to watch it with JP.",
+        "chinese": "我们肯定会有一天休息，和JP一起观看。"
+    },
+    {
+        "start": 782.72,
+        "end": 784.8,
+        "english": "And, um, hopefully you guys can too.",
+        "chinese": "哈哈，希望你们也能做到。"
+    },
+    {
+        "start": 785.52,
+        "end": 786.64,
+        "english": "Well, thanks for listening, everyone.",
+        "chinese": "好的，谢谢大家的倾听。"
+    },
+    {
+        "start": 786.64,
+        "end": 788.24,
+        "english": "And until next time, goodbye.",
+        "chinese": "直到下次见面，再见。"
+    },
+    {
+        "start": 788.24,
+        "end": 788.7199999999999,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

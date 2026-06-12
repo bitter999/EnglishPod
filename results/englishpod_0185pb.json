@@ -1,0 +1,764 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.6000000000000005,
+        "english": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
+        "chinese": "你好大家，欢迎再次回到英语有声。我的名字是Marco。"
+    },
+    {
+        "start": 6.6000000000000005,
+        "end": 13.44,
+        "english": "My name is Catherine and today we have a wild lesson for you at the elementary level.",
+        "chinese": "我的名字是凯瑟琳，今天我们将对你们进行一次小学级别的疯狂课程。"
+    },
+    {
+        "start": 13.44,
+        "end": 18.240000000000002,
+        "english": "That's right, we are actually going to visit a farm. So yeah, it's going to be fun.",
+        "chinese": "没错，我们其实要去一个农场。所以啊，那会很有趣的。"
+    },
+    {
+        "start": 18.240000000000002,
+        "end": 22.64,
+        "english": "We're going to see a lot of animals and not only that, but we're going to learn a lot",
+        "chinese": "我们将看到很多动物，而且不仅仅是这一点。我们还将学到很多。"
+    },
+    {
+        "start": 22.64,
+        "end": 27.8,
+        "english": "of interesting words and phrases in English today. But before we get started, let's take",
+        "chinese": "今天英语中有趣词语和短语。但在我们开始之前，让我们先来学习一些。"
+    },
+    {
+        "start": 27.8,
+        "end": 29.6,
+        "english": "a look at vocabulary preview.",
+        "chinese": "英语：词汇预览的一瞥。"
+    },
+    {
+        "start": 29.6,
+        "end": 31.6,
+        "english": "Vocabulary preview.",
+        "chinese": "傻瓜相机 -> 傻瓜相机"
+    },
+    {
+        "start": 31.6,
+        "end": 34.6,
+        "english": "World McDonald had a fun.",
+        "chinese": "世界麦当劳过得挺开心。"
+    },
+    {
+        "start": 34.6,
+        "end": 35.6,
+        "english": "Yeah, yeah, yeah.",
+        "chinese": "嗯，嗯，嗯。"
+    },
+    {
+        "start": 35.6,
+        "end": 37.6,
+        "english": "And on his farm, he had a duck.",
+        "chinese": "他家的农场里有一只鸭子。"
+    },
+    {
+        "start": 37.6,
+        "end": 38.6,
+        "english": "Yeah, yeah, yeah.",
+        "chinese": "行，行，行。"
+    },
+    {
+        "start": 38.6,
+        "end": 42.84,
+        "english": "We're not going to be teaching you this song today. Don't worry. You don't have to listen",
+        "chinese": "我们今天不会教你这首歌。别担心，你不需要听。"
+    },
+    {
+        "start": 42.84,
+        "end": 48.8,
+        "english": "to us saying, we do have a great word to start us off. It's called the word is country.",
+        "chinese": "让我们来谈谈，我们确实有一个很好的词可以开始。这个词叫做“国家”。"
+    },
+    {
+        "start": 48.8,
+        "end": 55.16,
+        "english": "A country. Okay, so you know country as like the United States, Mexico, China, etc. But",
+        "chinese": "一个国家。你知道的国家，比如美国、墨西哥、中国等。"
+    },
+    {
+        "start": 55.16,
+        "end": 60.31999999999999,
+        "english": "in this case, we are going out to the country, not out of the country. We're going out to",
+        "chinese": "在这个情况下，我们不是去国外旅行，而是去农村。"
+    },
+    {
+        "start": 60.31999999999999,
+        "end": 68.39999999999999,
+        "english": "the country to the country. Okay, the country, or you might hear the country side is a place",
+        "chinese": "国家到国家。好的，国家，或者你可能会听到的“国家”是指一个地方。"
+    },
+    {
+        "start": 68.39999999999999,
+        "end": 76.03999999999999,
+        "english": "that's not like a city. Right. So it's the opposite of city. It means there's lots of grass.",
+        "chinese": "那不是像城市。对的。所以它是城市的反面。意味着有很多草。"
+    },
+    {
+        "start": 76.03999999999999,
+        "end": 82.36,
+        "english": "It's very natural. There are very, very few houses and people. It's very quiet. So it's",
+        "chinese": "它非常自然。房子和人口很少，所以很安静。"
+    },
+    {
+        "start": 82.36,
+        "end": 87.24,
+        "english": "the opposite of a busy city in the country. Right. And you have a lot of animals. So usually",
+        "chinese": "中国的乡村中，没有城市的喧嚣。没错。而且你有很多动物。所以通常情况下，你会看到很多。"
+    },
+    {
+        "start": 87.24,
+        "end": 92.24,
+        "english": "farms are found on the countryside or at the countryside. In the countryside. So usually",
+        "chinese": "农田通常位于乡村或乡村地区。因此，通常"
+    },
+    {
+        "start": 92.24,
+        "end": 97.84,
+        "english": "farms are found in the countryside. That's right. And I personally am a big fan because",
+        "chinese": "农田出现在乡村。没错。而且我个人非常喜欢这一点。"
+    },
+    {
+        "start": 97.84,
+        "end": 102.84,
+        "english": "it's so quiet and peaceful. So we can talk about that in a minute. Let's listen to today's",
+        "chinese": "那太安静了，真美。我们可以稍后谈谈那个话题。我们来听听今天的中文吧。"
+    },
+    {
+        "start": 102.84,
+        "end": 114.16,
+        "english": "dialogue first and then we'll be back to talk about some of the words and phrases.",
+        "chinese": "英语：首先，我们再回到谈谈一些单词和短语。"
+    },
+    {
+        "start": 114.16,
+        "end": 119.36,
+        "english": "Isn't this great? I always wanted to own a farm, live out in the country, grow my own",
+        "chinese": "这不是很好吗？我一直梦想着拥有自己的农场，生活在乡下，自己种地。"
+    },
+    {
+        "start": 119.36,
+        "end": 124.36,
+        "english": "food. This is very beautiful. Though I have to confess, I don't know the first thing about",
+        "chinese": "食物。这非常美丽。尽管我必须承认，我对中文一窍不通。"
+    },
+    {
+        "start": 124.36,
+        "end": 131.4,
+        "english": "farming. That's fine. Don't worry about it. What was that? Relax. It was just a goat.",
+        "chinese": "农业。那没问题。别担心。那是啥？放松点吧，那只是只山羊。"
+    },
+    {
+        "start": 132.84,
+        "end": 140.52,
+        "english": "And that? It's just the cows that are grazing over there. We can milk them later. What was",
+        "chinese": "那？那边的牛正在吃草。我们稍后可以挤奶。那是怎么了"
+    },
+    {
+        "start": 140.52,
+        "end": 150.48000000000002,
+        "english": "that? Honey, seriously, it's just a sheep. Relax. Relax. That was just the horses and",
+        "chinese": "那？亲爱的，真的，这不过是一只绵羊。放松。放松。那是只是马而已。"
+    },
+    {
+        "start": 150.48000000000002,
+        "end": 154.8,
+        "english": "donkeys that are in the stable. You know what? I don't think I can hack it out here in",
+        "chinese": "呆头呆脑的马儿们。你知道吗？我觉得我在这里可能无法应付得了。"
+    },
+    {
+        "start": 154.8,
+        "end": 161.8,
+        "english": "the countryside. I'm going back to the city.",
+        "chinese": "乡下的我，即将回到城市。"
+    },
+    {
+        "start": 161.8,
+        "end": 168.0,
+        "english": "All right, we're back. So obviously some people cannot go to the countryside. That's right.",
+        "chinese": "好的，我们又回来了。显然，有些人无法去农村。是的。"
+    },
+    {
+        "start": 168.0,
+        "end": 172.56,
+        "english": "Some people get very, very upset. In fact, there was a whole TV show in America that was",
+        "chinese": "有些人非常生气。事实上，美国有一档电视节目整季都在讨论这个问题。"
+    },
+    {
+        "start": 172.56,
+        "end": 177.68,
+        "english": "about city people living in the countryside in the country. See if they can do it, right?",
+        "chinese": "关于城市人在乡村生活的状况，看看他们能否做到吧？"
+    },
+    {
+        "start": 177.68,
+        "end": 181.92000000000002,
+        "english": "That's right. All right. But before we talk about that, why don't we take a look at four",
+        "chinese": "没错。好的。不过在我们开始讨论之前，不如先看看这四个？"
+    },
+    {
+        "start": 181.92,
+        "end": 190.83999999999997,
+        "english": "key words in language takeaway? Language takeaway. The first word is the name of an animal.",
+        "chinese": "关键词：语言取经？语言取经。第一个字是动物的名字。"
+    },
+    {
+        "start": 190.83999999999997,
+        "end": 196.76,
+        "english": "Okay, so you've all heard of cows, but have you heard of goats? A goat. A goat. All right,",
+        "chinese": "好的，大家都听说过牛，但有没有听说过山羊？一只山羊。一只山羊。好了，接下来是你的任务。"
+    },
+    {
+        "start": 196.76,
+        "end": 202.92,
+        "english": "so a goat is a strange looking animal. It's kind of skinny and what do you get from a",
+        "chinese": "所以，一只山羊看起来很奇怪。它有点瘦弱，你从中国哪里可以得到一只？"
+    },
+    {
+        "start": 202.92,
+        "end": 207.48,
+        "english": "goat? You can actually drink goat's milk. Right. And many people like to eat goat's",
+        "chinese": "汉语：山羊？你居然可以喝山羊奶。对的，很多人喜欢吃山羊肉。"
+    },
+    {
+        "start": 207.48,
+        "end": 213.07999999999998,
+        "english": "cheese, which is cheese made from goats milk. Okay. So a goat. Can you, and we heard the",
+        "chinese": "奶酪，即用山羊奶制成的奶酪。好的。所以一只山羊。你能告诉我吗？我们听说了。"
+    },
+    {
+        "start": 213.07999999999998,
+        "end": 217.92,
+        "english": "sound that a goat makes. So I think it's pretty clear what a goat is. And they're very",
+        "chinese": "汉语：听起来像山羊发出的声音。所以我认为这很清晰地知道什么是山羊。它们非常"
+    },
+    {
+        "start": 217.92,
+        "end": 223.2,
+        "english": "common, as we say, in farms such as sheep and horses, cows, etc. That's right. And normally",
+        "chinese": "常见的，正如我们常说的，在像羊和马、牛等这样的农场中。没错。通常"
+    },
+    {
+        "start": 223.2,
+        "end": 227.79999999999998,
+        "english": "when they're in the wild, they like to live in rocky places like mountains. Right. That's",
+        "chinese": "当它们在野外时，喜欢生活在像山这样的岩石地方。对了。那是正确的。"
+    },
+    {
+        "start": 227.79999999999998,
+        "end": 233.14,
+        "english": "why they say they're very good climbers because they don't fall. True. All right. And",
+        "chinese": "为什么他们说他们是优秀的攀岩者，因为他们不会掉下来。真的。好的。"
+    },
+    {
+        "start": 233.14,
+        "end": 240.14,
+        "english": "well, if you have cows, then they're probably going to be grazing. Okay. So two graze is",
+        "chinese": "好的，如果你有奶牛，那么它们大概率是在吃草。明白了。所以两只奶牛在吃草是"
+    },
+    {
+        "start": 240.14,
+        "end": 245.14,
+        "english": "a verb. It's something we do. Well, we people don't do it. Animals do it. It's a way for",
+        "chinese": "英文：一个动词。它是我们做的事情。好吧，我们人类不这样做。动物是这样做的。这是一种方式，让它们能够"
+    },
+    {
+        "start": 245.14,
+        "end": 252.73999999999998,
+        "english": "us to describe how animals like cows eat. It means to eat grass. Okay. So if your cows",
+        "chinese": "让我们来描述一下像牛这样的动物是如何进食的。这指的是吃草。好的。所以如果你的牛"
+    },
+    {
+        "start": 252.73999999999998,
+        "end": 257.78,
+        "english": "or horses are grazing, that means they're eating grass somewhere out. That's right. They're",
+        "chinese": "或者马正在吃草，这意味着它们在某个地方吃草。是的，它们在那里吃草。"
+    },
+    {
+        "start": 257.78,
+        "end": 263.9,
+        "english": "walking. They stop. They eat some grass. They walk. They stop again. It's very slow",
+        "chinese": "行走。他们停下。他们吃些草。他们继续行走。他们再次停下。这非常缓慢。"
+    },
+    {
+        "start": 263.9,
+        "end": 270.73999999999995,
+        "english": "process. All right. So cows are usually grazing out in the countryside. And well, once they",
+        "chinese": "英语：过程。好的。所以牛通常在乡下吃草。和它们不一样，我呢，是坐在电脑前处理信息的。"
+    },
+    {
+        "start": 270.73999999999995,
+        "end": 276.41999999999996,
+        "english": "finish grazing and they get all fat, then in the mornings, you have to milk them. Okay.",
+        "chinese": "完成放牧，它们会变得肥壮，然后在早晨，你必须挤奶。好了。"
+    },
+    {
+        "start": 276.41999999999996,
+        "end": 282.78,
+        "english": "So we drink milk. Milk is a thing, but it's also a verb. So two milk, something. All right.",
+        "chinese": "所以我们要喝牛奶。牛奶是一个东西，也是一个动词。所以两个牛奶，就是什么了。好了。"
+    },
+    {
+        "start": 282.78,
+        "end": 289.21999999999997,
+        "english": "And if you milk a cow is when you extract the milk, the liquid from them, right? That's",
+        "chinese": "而且，如果你挤奶牛，就是从它们那里提取牛奶，也就是液体。"
+    },
+    {
+        "start": 289.21999999999997,
+        "end": 293.82,
+        "english": "right. So underneath a cow, there's an utter or there are, underneath a cow, there are",
+        "chinese": "好的。在牛下面，有只乌鸦，或者牛下面有很多只乌鸦。"
+    },
+    {
+        "start": 293.82,
+        "end": 298.61999999999995,
+        "english": "others, which you have to squeeze with your hands to make the milk come out. Okay. And",
+        "chinese": "其他，你必须用你的手挤出牛奶。好的。"
+    },
+    {
+        "start": 298.61999999999995,
+        "end": 302.94,
+        "english": "this is interesting word as well. Utter, right? It's like that big bag full of milk. Exactly.",
+        "chinese": "这个单词也很有趣。对吧？就像那个装满牛奶的大袋子一样。"
+    },
+    {
+        "start": 302.94,
+        "end": 308.5,
+        "english": "So two milk a cow. All right. And you have cows out in the fields grazing and probably",
+        "chinese": "所以，养一头奶牛。好的。你大概在田野里放着那些奶牛，它们可能正在吃草。"
+    },
+    {
+        "start": 308.5,
+        "end": 314.9,
+        "english": "your horses and donkeys are going to be in the stable. The stable is a place. Okay. So",
+        "chinese": "你的马和驴子会被关进马厩。马厩是一个地方。好的。所以"
+    },
+    {
+        "start": 314.9,
+        "end": 321.3,
+        "english": "this is something that's often found on farms where the horses or the cows live. It's a",
+        "chinese": "这是经常出现在农场上，用于马或牛居住的地方的东西。它是一个"
+    },
+    {
+        "start": 321.3,
+        "end": 325.78,
+        "english": "structure. It's a building for those animals. Okay. So they're probably separated in different",
+        "chinese": "结构。那是为那些动物建造的建筑。好的。所以它们很可能被分隔在不同的地方。"
+    },
+    {
+        "start": 325.78,
+        "end": 331.74,
+        "english": "little rooms or compartments. And that's called a stable. So as you say, usually find horses",
+        "chinese": "小房间或隔间。这就是所谓的稳定。正如你所说，通常会发现马匹。"
+    },
+    {
+        "start": 331.74,
+        "end": 338.22,
+        "english": "and cows and donkeys in there. That's right. So a stable is a way to protect animals",
+        "chinese": "而且里面还有牛和马。没错。所以，一个马厩是保护动物的一种方式。"
+    },
+    {
+        "start": 338.22,
+        "end": 343.66,
+        "english": "from the weather. All right. Very good. So four key words there as we just saw. Why don't",
+        "chinese": "从天气。好的。很好。所以刚才我们看到的四个关键词是：傻瓜相机、单反相机、机身、镜头、长焦、偏振镜、卸下重任、赋予、一路顺风、疏远且微弱、卸任、辞职信、入门级、显示屏、套机镜头"
+    },
+    {
+        "start": 343.66,
+        "end": 346.3,
+        "english": "we listen to this dialogue again and we'll be back soon.",
+        "chinese": "我们再次聆听这段对话，很快就会回来。"
+    },
+    {
+        "start": 351.18,
+        "end": 357.42,
+        "english": "Isn't this great? I always wanted to own a farm, live out in the country, grow my own food.",
+        "chinese": "这真是太棒了！我一直梦想着拥有自己的农场，生活在乡下，自己种粮食。"
+    },
+    {
+        "start": 357.42,
+        "end": 362.46000000000004,
+        "english": "This is very beautiful though. I have to confess. I don't know the first thing about farming.",
+        "chinese": "这确实很美，不过我得承认。我对种田一窍不通。"
+    },
+    {
+        "start": 362.53999999999996,
+        "end": 369.02,
+        "english": "That's fine. Don't worry about it. What was that? Relax. It was just a goat. And that?",
+        "chinese": "那就好，别担心。那是啥？放松点吧，那就是一只山羊。还有呢？"
+    },
+    {
+        "start": 369.65999999999997,
+        "end": 374.94,
+        "english": "It's just the cows that are grazing over there. We can milk them later. What was that?",
+        "chinese": "那是那边的牛在吃草。我们以后可以挤奶。那是什么？"
+    },
+    {
+        "start": 374.94,
+        "end": 381.82,
+        "english": "Honey, seriously, it's just a sheep. Relax. Relax. That was just the horses and donkeys that are",
+        "chinese": "亲爱的，真的，那只是只羊而已。放松。放松。那是只有马和驴子才有的。"
+    },
+    {
+        "start": 381.82,
+        "end": 386.38,
+        "english": "in the stable. You know what? I don't think I can hack it out here in the countryside. I'm going",
+        "chinese": "在稳定的环境中。你知道吗？我觉得我在这里可能无法应付得了。我要去城里了。"
+    },
+    {
+        "start": 386.54,
+        "end": 394.38,
+        "english": "back to the city. All right. We're back. So now let's take a look at Fluency Builder.",
+        "chinese": "回到城市。好的。我们回来了。现在让我们看看流利 builder。"
+    },
+    {
+        "start": 395.74,
+        "end": 401.65999999999997,
+        "english": "Fluency Builder. You know, Marco, I have to confess. I love Fluency Builder.",
+        "chinese": "英语：流利者养成。你知道，马可，我得承认，我喜欢流利者养成。"
+    },
+    {
+        "start": 402.54,
+        "end": 407.18,
+        "english": "All right. And that's our first phrase for today. I have to confess.",
+        "chinese": "好的。这是我们今天的第一句话。我必须承认。"
+    },
+    {
+        "start": 407.18,
+        "end": 413.5,
+        "english": "Okay. So to confess is to tell someone something that's a secret. Okay. So we can confess with a",
+        "chinese": "好的。所以坦白就是告诉某人一个秘密的事情。好的。我们可以坦白用一种傻瓜相机。"
+    },
+    {
+        "start": 413.5,
+        "end": 419.66,
+        "english": "priest. No. So we can confess to a priest. We can confess a secret to a friend. Okay.",
+        "chinese": "神父。不行。我们可以向神父忏悔。我们也可以把秘密告诉朋友。好啦。"
+    },
+    {
+        "start": 420.14,
+        "end": 425.9,
+        "english": "But I have to confess is a very common phrase. It's a way for us to start a sentence. I have to confess.",
+        "chinese": "但我要承认这是一个非常常见的短语。它是我们开始句子的一种方式。我必须承认。"
+    },
+    {
+        "start": 425.9,
+        "end": 429.98,
+        "english": "Right. So you're saying I have to be honest with you. I have to tell you the truth.",
+        "chinese": "好的。所以你是在说，我必须对你诚实。我必须告诉你真相。"
+    },
+    {
+        "start": 429.98,
+        "end": 437.34,
+        "english": "Exactly. So I have to confess. I'm not a huge fan of that sweater. Okay. So I have to be honest.",
+        "chinese": "Exactly. 所以我不得不承认，我对那件毛衣并不感冒。好的。所以我要说实话。"
+    },
+    {
+        "start": 437.34,
+        "end": 441.26,
+        "english": "I really don't like your sweater. This is a way for us to be more polite when we're saying something",
+        "chinese": "我真的很不喜欢你的毛衣。当我们想说一些话时，这是一种更礼貌的方式。"
+    },
+    {
+        "start": 441.26,
+        "end": 446.78,
+        "english": "that's negative. Right. And in this case, it was the girl who was confessing and what she confessed",
+        "chinese": "那是负面的。对了。在这情况下，是那个女孩在认罪，并且她承认了什么。"
+    },
+    {
+        "start": 446.78,
+        "end": 454.7,
+        "english": "is her second key phrase. I don't know the first thing about farming. Okay. So I don't know anything",
+        "chinese": "她是我的第二个关键词。我对种田一窍不通。好吧，所以我什么都不知道。"
+    },
+    {
+        "start": 454.7,
+        "end": 460.53999999999996,
+        "english": "about farming is another way we could say this or I don't know a thing about farming. But I don't",
+        "chinese": "关于种田，我们可以说这是另一种方式，或者我对此一无所知。但我并不知道。"
+    },
+    {
+        "start": 460.53999999999996,
+        "end": 465.98,
+        "english": "know the first thing about farming means I don't even understand what a farm is. Okay. The first",
+        "chinese": "知道种地的第一件事就是我连农场是什么都不知道。好吧。第一个"
+    },
+    {
+        "start": 465.98,
+        "end": 471.18,
+        "english": "thing is what is a farm? I don't even understand what a farm is for. This is a way for us to say I",
+        "chinese": "事情是，什么是农场？我甚至不明白农场是用来做什么的。这只是一个用来表示“我”的方式。"
+    },
+    {
+        "start": 471.18,
+        "end": 477.5,
+        "english": "don't know anything at all about this. And if we change the noun, right. And we can say, for",
+        "chinese": "你完全不知道这一点。而且，如果我们改变名词的话，对了。我们可以这样说："
+    },
+    {
+        "start": 477.5,
+        "end": 484.14,
+        "english": "example, I don't know the first thing about cars. So I have no idea of what models they are or",
+        "chinese": "例如，我不了解汽车。所以我也不知道他们是什么型号或什么类型。"
+    },
+    {
+        "start": 484.14,
+        "end": 487.9,
+        "english": "what type of engine they have. I don't know the first thing about cars. All I know is how to turn",
+        "chinese": "他们有什么类型的引擎？我对汽车一无所知。我只知道如何启动它。"
+    },
+    {
+        "start": 487.9,
+        "end": 493.02,
+        "english": "them on. Right. Right. Or I don't know the first thing about wines. I'd love to learn about wine.",
+        "chinese": "他们说。对。或者我不太了解葡萄酒。我希望能了解更多关于葡萄酒的知识。"
+    },
+    {
+        "start": 493.02,
+        "end": 497.98,
+        "english": "Mm-hmm. But I don't know the first thing about it. Okay. So it's a phrase that you can use with",
+        "chinese": "嗯。但我对它一无所知。好吧。所以你可以用这个短语来表达。"
+    },
+    {
+        "start": 497.98,
+        "end": 502.22,
+        "english": "many, many different nouns, right. I don't know the first thing about architecture. I don't know the",
+        "chinese": "许多，许多不同的名词，对建筑学一窍不通。我对摄影也不太了解。我只知道傻瓜相机、单反相机、机身、镜头、长焦、偏振镜、卸下重任、赋予权力、一路顺风、疏远且微弱、卸任、辞职信、入门级、显示屏、套机镜头。"
+    },
+    {
+        "start": 502.22,
+        "end": 507.98,
+        "english": "first thing about English. Right. Well, we do a little bit of that. So we're here to help you. But",
+        "chinese": "英语的第一句话。对的。我们做了一些那样的事情。所以，我们在这里是来帮助你的。但是"
+    },
+    {
+        "start": 507.98,
+        "end": 513.02,
+        "english": "this is a really great phrase to describe not understanding anything at all about something. Right.",
+        "chinese": "这真是一个非常好的短语，用来形容完全不了解某件事。对了。"
+    },
+    {
+        "start": 513.02,
+        "end": 518.62,
+        "english": "So this is a really great way to describe not knowing anything at all about something. Okay. And",
+        "chinese": "所以，这真是描述完全不了解某件事的一种很好的方式。好的。"
+    },
+    {
+        "start": 518.62,
+        "end": 523.66,
+        "english": "well, obviously since she didn't know the first thing about farming, she ended up leaving. And she",
+        "chinese": "当然，因为她根本不知道什么是农业，所以她最终还是离开了。"
+    },
+    {
+        "start": 523.74,
+        "end": 530.86,
+        "english": "said, you know what? I don't think I can hack it out here in the countryside. Okay. So I can hack it. He",
+        "chinese": "他说，你知道吗？我这里在乡下真的不行。好吧，我可以试试。他"
+    },
+    {
+        "start": 530.86,
+        "end": 538.14,
+        "english": "can't hack it. We use this with the verb to be able to. Mm-hmm. And it means I don't think I can do",
+        "chinese": "不能hack它。我们用这个动词来表示能力。嗯，是的。这意思是我觉得我做不到。"
+    },
+    {
+        "start": 538.14,
+        "end": 545.18,
+        "english": "this. I think this is too hard. Mm-hmm. Or maybe if somebody quit, right, after a week at the office",
+        "chinese": "这个。我觉得这太难了。嗯，也许如果有人在办公室工作一周后辞职，对吧？"
+    },
+    {
+        "start": 545.18,
+        "end": 550.86,
+        "english": "and you can, and you can say he couldn't hack it. He couldn't hack the pressure and he left. Exactly.",
+        "chinese": "而且你可以，而且你可以说他不行了。他不行压力，就走了。完全。"
+    },
+    {
+        "start": 550.86,
+        "end": 558.46,
+        "english": "So that means to handle or to be able to handle or to, um, to withstand. So I just don't think I",
+        "chinese": "所以这意味着处理或能够处理或能承受。所以我并不认为我能做到。"
+    },
+    {
+        "start": 558.46,
+        "end": 563.66,
+        "english": "can hack the cold. Mm-hmm. Right. I can't handle the cold. It's too cold here. I'm moving somewhere warm.",
+        "chinese": "我可以对付冷。嗯哼。对了，我不能处理冷。这里太冷了。我要去一个温暖的地方。"
+    },
+    {
+        "start": 564.22,
+        "end": 569.42,
+        "english": "All right. So I'm sure you guys will be able to hack our dialogue one last time. So let's listen to it",
+        "chinese": "好的。所以你们肯定能再次破解我们的对话。那么让我们听听它吧。"
+    },
+    {
+        "start": 569.42,
+        "end": 583.74,
+        "english": "and we'll be back. Isn't this great? I always wanted to own a farm, live out in the country,",
+        "chinese": "我们还会回来。这真是太好了！我一直都想要拥有一片自己的农场，生活在乡下。"
+    },
+    {
+        "start": 583.74,
+        "end": 589.3399999999999,
+        "english": "grow my own food. This is very beautiful though. I have to confess. I don't know the first thing about",
+        "chinese": "种我的食物。这很美，不过我得承认，我对这方面一窍不通。"
+    },
+    {
+        "start": 589.3399999999999,
+        "end": 596.2199999999999,
+        "english": "farming. That's fine. Don't worry about it. What was that? Relax. It was just a goat.",
+        "chinese": "农业。那没问题。别担心。那是啥？放松点吧，那只是只山羊。"
+    },
+    {
+        "start": 597.1,
+        "end": 602.94,
+        "english": "And that? It's just the cows that are grazing over there. We can milk them later.",
+        "chinese": "那？那边的牛在吃草，我们可以等一会儿再挤奶。"
+    },
+    {
+        "start": 604.94,
+        "end": 609.1800000000001,
+        "english": "What was that? Honey, seriously, it's just a sheep. Relax.",
+        "chinese": "那是什么？亲爱的，真的只是只羊。放松点吧。"
+    },
+    {
+        "start": 613.34,
+        "end": 618.78,
+        "english": "Relax. That was just the horses and donkeys that are in the stable. You know what? I don't think I can",
+        "chinese": "放松吧。那只是马和驴子，它们在马厩里。你知道吗？我觉得我可能无法做到。"
+    },
+    {
+        "start": 618.78,
+        "end": 621.5,
+        "english": "hack it out here in the countryside. I'm going back to the city.",
+        "chinese": "在这里乡下努力吧。我打算回城市。"
+    },
+    {
+        "start": 627.98,
+        "end": 632.22,
+        "english": "All right, we're back. So as you said, you're a fan of the countryside and about farming, right?",
+        "chinese": "好的，我们又回来了。正如你所说，你喜欢农村和农业，是吗？"
+    },
+    {
+        "start": 632.22,
+        "end": 637.5799999999999,
+        "english": "That's right. Well, I wish I knew more about farming. I don't know the first thing about milking a cow,",
+        "chinese": "正确。我想知道更多关于种田的知识。我什么都不知道，对养牛没有一点了解。"
+    },
+    {
+        "start": 637.5799999999999,
+        "end": 643.5,
+        "english": "but I do come from a part of the world in Illinois near Chicago where we have a lot of farms and",
+        "chinese": "但是，我确实来自伊利诺伊州芝加哥附近的一个地方，那里有很多农场。"
+    },
+    {
+        "start": 643.5,
+        "end": 650.38,
+        "english": "I appreciate the quiet. It's nice. I'll have animals around and being able to go on long walks",
+        "chinese": "我欣赏那份安静。它很好。我会养一些动物，这样就可以去散步了。"
+    },
+    {
+        "start": 650.38,
+        "end": 657.26,
+        "english": "without cars and horns and bicycles. It is actually a little bit refreshing to be out in the countryside",
+        "chinese": "没有汽车、喇叭和自行车。其实，置身于乡村倒也挺放松的。"
+    },
+    {
+        "start": 657.26,
+        "end": 663.74,
+        "english": "sometimes and not even have internet or cell phone coverage or anything. So it's just basically,",
+        "chinese": "有时候甚至没有网络或手机信号，所以基本上是，"
+    },
+    {
+        "start": 663.74,
+        "end": 669.66,
+        "english": "you can't do anything else but relax, read a book. Exactly. Exactly. Now, an interesting thing about",
+        "chinese": "你只能做的是放松，读书。完全正确。完全正确。现在，关于中文的一个有趣的事情是："
+    },
+    {
+        "start": 669.66,
+        "end": 675.9,
+        "english": "this is a lot of people take for granted the countryside because I've met many people who live in",
+        "chinese": "这对我来说是很多人为之忽视的乡村，因为我见过许多居住在其中的人。"
+    },
+    {
+        "start": 675.9,
+        "end": 680.78,
+        "english": "the city, who grew up in the city and have never seen, for example, a life chicken. And when they see",
+        "chinese": "这座城市，出生在城市里，从未见过，比如一只生活鸡。当他们看到"
+    },
+    {
+        "start": 680.78,
+        "end": 687.02,
+        "english": "it, they just freak out and take pictures with the chicken or a cow or something. It's amazing.",
+        "chinese": "他们只是傻瓜相机，用鸡或者牛之类的拍照片。真神奇。"
+    },
+    {
+        "start": 687.02,
+        "end": 692.78,
+        "english": "That's really funny. Well, I think it's very valuable. I think there are very valuable skills that",
+        "chinese": "那真是有趣。我觉得非常有价值。我认为有一些非常有价值的技能，"
+    },
+    {
+        "start": 692.78,
+        "end": 697.66,
+        "english": "you learn being out in the countryside like how to cook for yourself. There's no one else who can",
+        "chinese": "你学习在农村的样子，如何自己做饭。没有人能比得上你了。"
+    },
+    {
+        "start": 697.66,
+        "end": 704.38,
+        "english": "cook for you or how to get food from animals. Or maybe you can't even use a microwave. So how do you",
+        "chinese": "做饭给你，还是如何从动物那里获取食物。或者你甚至可能连微波炉都不会用。所以你是怎么做的？"
+    },
+    {
+        "start": 704.38,
+        "end": 708.54,
+        "english": "cook without a microwave or something? That's right. And I think the biggest problem for city people",
+        "chinese": "没有微波炉，做饭呢？没错。我认为城市居民最大的问题就是..."
+    },
+    {
+        "start": 708.54,
+        "end": 714.78,
+        "english": "when they come to the countryside is that it's dirtier. You know, you get mud and there are bugs and",
+        "chinese": "当他们来到农村时，那确实更脏了。你知道，你会遇到泥巴和虫子。"
+    },
+    {
+        "start": 714.78,
+        "end": 720.14,
+        "english": "I imagine some of our co-workers here having a very hard time in the countryside. Yes, indeed.",
+        "chinese": "我想象我们的同事中有些人可能在乡下工作会非常辛苦。是的，确实如此。"
+    },
+    {
+        "start": 720.14,
+        "end": 725.3399999999999,
+        "english": "So why don't you guys come to our website, EnglishPod.com. Let us know what you think about this. Maybe",
+        "chinese": "所以你们为什么不来我们的网站，英语学习网（英语学习网）呢？让我们知道你们对这个有什么看法。也许"
+    },
+    {
+        "start": 725.34,
+        "end": 730.0600000000001,
+        "english": "you're very familiar with the countryside or have a relative who's a farmer. It's great. So",
+        "chinese": "你对农村非常熟悉，或者你的亲戚是农民。那真是太好了。"
+    },
+    {
+        "start": 730.7800000000001,
+        "end": 735.74,
+        "english": "visit us, EnglishPod.com. And if you have any questions or comments, you can leave them there as well.",
+        "chinese": "访问我们，英语有声网。如果你有任何问题或评论，请在这里留言。"
+    },
+    {
+        "start": 735.74,
+        "end": 738.86,
+        "english": "Can't wait to hear from you. Happy studies, bye everybody.",
+        "chinese": "迫不及待地想听到你的消息。祝你学习顺利，再见大家。"
+    }
+]

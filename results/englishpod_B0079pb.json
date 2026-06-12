@@ -1,0 +1,1754 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.36,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 6.36,
+        "end": 7.44,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.44,
+        "end": 12.08,
+        "english": "And today we have a special lesson for our sci-fi or science fiction fans.",
+        "chinese": "今天，我们有特别的课程来欢迎我们的科幻或科学幻想爱好者。"
+    },
+    {
+        "start": 12.08,
+        "end": 17.84,
+        "english": "Yes, and actually one special user was the inspiration for this lesson.",
+        "chinese": "是的，实际上，这个课程的一个特别用户就是这个启发。"
+    },
+    {
+        "start": 17.84,
+        "end": 18.84,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 18.84,
+        "end": 21.48,
+        "english": "So Wolfgang, this one is for you.",
+        "chinese": "所以沃尔夫冈，这是给你的。"
+    },
+    {
+        "start": 21.48,
+        "end": 25.84,
+        "english": "Well, sci-fi is very popular, star trek, star wars.",
+        "chinese": "嗯，科幻很受欢迎，星际大战。"
+    },
+    {
+        "start": 25.84,
+        "end": 30.22,
+        "english": "Well, there are some really interesting words that well, maybe you wouldn't use in real",
+        "chinese": "嗯，确实有一些很有趣的词，在现实生活中可能不太会使用。"
+    },
+    {
+        "start": 30.22,
+        "end": 36.12,
+        "english": "life or in normal circumstances, but you do want to understand these movies or why they",
+        "chinese": "生活或者在正常情况下，但你确实想理解这些电影或为什么它们"
+    },
+    {
+        "start": 36.12,
+        "end": 37.44,
+        "english": "say these words, right?",
+        "chinese": "说这些话，对吗？"
+    },
+    {
+        "start": 37.44,
+        "end": 41.0,
+        "english": "So we're going to look at some sci-fi language in this lesson.",
+        "chinese": "所以我们将要学习一些科幻语言，这节课。"
+    },
+    {
+        "start": 41.0,
+        "end": 46.760000000000005,
+        "english": "But before we start, let's look at vocabulary preview.",
+        "chinese": "但在此之前，我们先来看看词汇预览。"
+    },
+    {
+        "start": 46.760000000000005,
+        "end": 48.96,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 48.96,
+        "end": 52.120000000000005,
+        "english": "And in vocabulary preview today, we have one phrase only.",
+        "chinese": "今天词汇预览中，我们只有一句话。"
+    },
+    {
+        "start": 52.120000000000005,
+        "end": 53.120000000000005,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 53.120000000000005,
+        "end": 55.8,
+        "english": "Unidentified spacecraft.",
+        "chinese": "无名航天器。"
+    },
+    {
+        "start": 55.8,
+        "end": 57.919999999999995,
+        "english": "Unidentified spacecraft.",
+        "chinese": "无人星体。"
+    },
+    {
+        "start": 57.919999999999995,
+        "end": 59.879999999999995,
+        "english": "Unidentified spacecraft.",
+        "chinese": "未知航天器。"
+    },
+    {
+        "start": 59.879999999999995,
+        "end": 62.239999999999995,
+        "english": "Okay, so unidentified.",
+        "chinese": "好的，所以未知的。"
+    },
+    {
+        "start": 62.239999999999995,
+        "end": 63.92,
+        "english": "You don't know which one it is.",
+        "chinese": "您不知道是哪一个。"
+    },
+    {
+        "start": 63.92,
+        "end": 65.24,
+        "english": "You don't know the name.",
+        "chinese": "你不知道名字。"
+    },
+    {
+        "start": 65.24,
+        "end": 66.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 66.24,
+        "end": 67.24,
+        "english": "You don't know the identity.",
+        "chinese": "你不知道身份。"
+    },
+    {
+        "start": 67.24,
+        "end": 68.24,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 68.24,
+        "end": 69.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 69.24,
+        "end": 70.24,
+        "english": "And a spacecraft.",
+        "chinese": "而且是一艘太空船。"
+    },
+    {
+        "start": 70.24,
+        "end": 72.84,
+        "english": "A spacecraft is a vehicle that travels in space.",
+        "chinese": "一个航天器是一艘在太空飞行的车辆。"
+    },
+    {
+        "start": 72.84,
+        "end": 73.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 73.84,
+        "end": 75.6,
+        "english": "Also known as a spaceship.",
+        "chinese": "也被称为宇宙飞船。"
+    },
+    {
+        "start": 75.6,
+        "end": 76.6,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 76.6,
+        "end": 79.88,
+        "english": "Actually, this is interesting because you know the word UFO.",
+        "chinese": "实际上，这很有趣因为你知道“UFO”。"
+    },
+    {
+        "start": 79.88,
+        "end": 80.88,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 80.88,
+        "end": 84.52,
+        "english": "That comes from unidentified flying objects.",
+        "chinese": "这句话的英文是 \"That comes from unidentified flying objects.\" 翻译成中文是“那来自不明飞行物。”"
+    },
+    {
+        "start": 84.52,
+        "end": 85.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 85.52,
+        "end": 89.6,
+        "english": "So unidentified spacecraft and an unknown vehicle flying in space.",
+        "chinese": "所以无人航天器和在太空飞行的未知车辆。"
+    },
+    {
+        "start": 89.6,
+        "end": 90.6,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 90.6,
+        "end": 91.6,
+        "english": "A UFO.",
+        "chinese": "一队外星人。"
+    },
+    {
+        "start": 91.6,
+        "end": 92.6,
+        "english": "Have you ever seen a UFO?",
+        "chinese": "是的，我曾经见过外星人。"
+    },
+    {
+        "start": 92.6,
+        "end": 93.6,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 93.6,
+        "end": 94.6,
+        "english": "Oh, that's too bad.",
+        "chinese": "对不起，那真是太遗憾了。"
+    },
+    {
+        "start": 94.6,
+        "end": 95.6,
+        "english": "Have you?",
+        "chinese": "是的，没有。"
+    },
+    {
+        "start": 95.6,
+        "end": 96.6,
+        "english": "Of course.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 96.6,
+        "end": 97.6,
+        "english": "Hasn't anyone.",
+        "chinese": "是的，没有人。"
+    },
+    {
+        "start": 97.6,
+        "end": 98.6,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 98.6,
+        "end": 102.44,
+        "english": "Well, I think the people in our dialogue may or may not have seen a UFO.",
+        "chinese": "嗯，我认为我们的对话中可能或可能没有看到外星人。"
+    },
+    {
+        "start": 102.44,
+        "end": 103.84,
+        "english": "So why don't we take a listen?",
+        "chinese": "所以为什么我们不听听？"
+    },
+    {
+        "start": 116.52,
+        "end": 122.52,
+        "english": "They are breaking through such a blast host of full power.",
+        "chinese": "他们正在突破如此强大的冲击力。"
+    },
+    {
+        "start": 122.52,
+        "end": 125.52,
+        "english": "Excellent job.",
+        "chinese": "好的工作。"
+    },
+    {
+        "start": 125.52,
+        "end": 133.51999999999998,
+        "english": "Search the ship.",
+        "chinese": "搜索船。"
+    },
+    {
+        "start": 133.51999999999998,
+        "end": 135.35999999999999,
+        "english": "She's got to be in here somewhere.",
+        "chinese": "她得在这里 somewhere。"
+    },
+    {
+        "start": 135.35999999999999,
+        "end": 137.07999999999998,
+        "english": "Bring her to me.",
+        "chinese": "请将她带过来。"
+    },
+    {
+        "start": 137.07999999999998,
+        "end": 144.64,
+        "english": "Oh, Lord, here we have a survivor here.",
+        "chinese": "啊，大神，这里有一名幸存者。"
+    },
+    {
+        "start": 144.64,
+        "end": 145.64,
+        "english": "There is she.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 145.64,
+        "end": 149.35999999999999,
+        "english": "Don't make me destroy you.",
+        "chinese": "不要让我破坏你。"
+    },
+    {
+        "start": 149.35999999999999,
+        "end": 151.35999999999999,
+        "english": "Tell me where she is.",
+        "chinese": "请告诉我她在哪里。"
+    },
+    {
+        "start": 151.35999999999999,
+        "end": 153.51999999999998,
+        "english": "Not so fast.",
+        "chinese": "不那么快。"
+    },
+    {
+        "start": 153.51999999999998,
+        "end": 156.2,
+        "english": "She will no longer be your prisoner.",
+        "chinese": "她将不再是你的囚犯。"
+    },
+    {
+        "start": 156.2,
+        "end": 160.23999999999998,
+        "english": "It's time you and I settled this once and for all.",
+        "chinese": "这是你和我解决这个问题的最好时机。"
+    },
+    {
+        "start": 160.23999999999998,
+        "end": 161.23999999999998,
+        "english": "You are unwise.",
+        "chinese": "您是愚蠢的。"
+    },
+    {
+        "start": 161.23999999999998,
+        "end": 163.07999999999998,
+        "english": "I think you can defeat me.",
+        "chinese": "我认为你能打败我。"
+    },
+    {
+        "start": 163.07999999999998,
+        "end": 169.07999999999998,
+        "english": "You know nothing of the power of your skier side.",
+        "chinese": "你不知道你的滑雪技能的力量。"
+    },
+    {
+        "start": 174.64,
+        "end": 181.64,
+        "english": "So we will stop you.",
+        "chinese": "所以我们将停止您。"
+    },
+    {
+        "start": 181.64,
+        "end": 189.11999999999998,
+        "english": "Lord, we have an unidentified spacecraft taking off from the rear dock.",
+        "chinese": "尊敬的陛下，我们有一艘未知的太空船从后舱起飞。"
+    },
+    {
+        "start": 189.11999999999998,
+        "end": 192.51999999999998,
+        "english": "They somehow managed to escape our treasure beam.",
+        "chinese": "他们似乎成功地逃脱了我们的宝藏束。"
+    },
+    {
+        "start": 192.51999999999998,
+        "end": 194.51999999999998,
+        "english": "After them.",
+        "chinese": "之后。"
+    },
+    {
+        "start": 194.51999999999998,
+        "end": 196.92,
+        "english": "There are exorbitating boards of speed of light.",
+        "chinese": "这里存在高速光速的无限快。"
+    },
+    {
+        "start": 196.92,
+        "end": 199.92,
+        "english": "We lost them, sir.",
+        "chinese": "我们丢失了他们，先生。"
+    },
+    {
+        "start": 199.92,
+        "end": 220.0,
+        "english": "Okay, so a really cool Lord Hater.",
+        "chinese": "好的，那么一个非常酷的恨人君。"
+    },
+    {
+        "start": 220.0,
+        "end": 222.48,
+        "english": "I have the music and everything.",
+        "chinese": "我有音乐和一切。"
+    },
+    {
+        "start": 222.48,
+        "end": 227.48,
+        "english": "Well you may have noticed that it's similar to a certain movie out there.",
+        "chinese": "您可能已经注意到，这与某部电影相似。"
+    },
+    {
+        "start": 227.48,
+        "end": 228.48,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 228.48,
+        "end": 232.44,
+        "english": "It seems quite original to me.",
+        "chinese": "我似乎觉得很有创意。"
+    },
+    {
+        "start": 232.44,
+        "end": 235.32,
+        "english": "But everything for educational purposes.",
+        "chinese": "但是教育目的的一切。"
+    },
+    {
+        "start": 235.32,
+        "end": 236.32,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 236.32,
+        "end": 240.0,
+        "english": "Okay, so we saw some words that were maybe a little bit difficult.",
+        "chinese": "好的，所以我们看到了一些可能稍微有点困难的词。"
+    },
+    {
+        "start": 240.0,
+        "end": 246.32,
+        "english": "So let's take a look at these now in language takeaway.",
+        "chinese": "所以让我们来看看这些现在在语言总结上。"
+    },
+    {
+        "start": 246.32,
+        "end": 247.95999999999998,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 247.95999999999998,
+        "end": 253.48,
+        "english": "Well, I guess in the dialogue, the bad guys were breaking through.",
+        "chinese": "嗯，大概在对话中，坏家伙们是突破的。"
+    },
+    {
+        "start": 253.48,
+        "end": 254.79999999999998,
+        "english": "Breaking through.",
+        "chinese": "破除。"
+    },
+    {
+        "start": 254.79999999999998,
+        "end": 255.79999999999998,
+        "english": "Breaking through.",
+        "chinese": "破除。"
+    },
+    {
+        "start": 255.8,
+        "end": 258.36,
+        "english": "In the simple present, it would be to break through.",
+        "chinese": "在简单现在时态中，它将要打破。"
+    },
+    {
+        "start": 258.36,
+        "end": 259.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 259.36,
+        "end": 260.36,
+        "english": "Break through.",
+        "chinese": "打破。"
+    },
+    {
+        "start": 260.36,
+        "end": 261.36,
+        "english": "And what does that mean?",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 261.36,
+        "end": 265.04,
+        "english": "Well, let's listen to some examples to help us find out.",
+        "chinese": "好的，让我们听听一些例子来帮助我们找到答案。"
+    },
+    {
+        "start": 265.04,
+        "end": 268.64,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 268.64,
+        "end": 275.16,
+        "english": "After 15 minutes, the workers broke through the wall and rescued everyone from the fire.",
+        "chinese": "在15分钟后，工人突破了围墙，救出了从火场中获救的人们。"
+    },
+    {
+        "start": 275.16,
+        "end": 279.24,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到对话框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 279.24,
+        "end": 280.6,
+        "english": "He is such a good player.",
+        "chinese": "他真是个好球员。"
+    },
+    {
+        "start": 280.6,
+        "end": 284.24,
+        "english": "He broke through the entire defense.",
+        "chinese": "他突破了整个防御。"
+    },
+    {
+        "start": 285.24,
+        "end": 289.24,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 289.24,
+        "end": 293.24,
+        "english": "They are breaking through our impenetrable wall.",
+        "chinese": "他们正在打破我们不可逾越的墙。"
+    },
+    {
+        "start": 293.24,
+        "end": 296.24,
+        "english": "Run!",
+        "chinese": "运行！"
+    },
+    {
+        "start": 296.24,
+        "end": 300.24,
+        "english": "Alright, so it's kind of like to enter by force somewhere.",
+        "chinese": "好的，所以它有点像强制进入某个地方。"
+    },
+    {
+        "start": 300.24,
+        "end": 304.84000000000003,
+        "english": "Yeah, to maybe break some glass and come into a room or something like that.",
+        "chinese": "是的，或许可以打破一些玻璃，并进入一个房间或者类似的事情。"
+    },
+    {
+        "start": 304.84000000000003,
+        "end": 305.84000000000003,
+        "english": "Break through.",
+        "chinese": "打破。"
+    },
+    {
+        "start": 305.84000000000003,
+        "end": 306.84000000000003,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 306.84000000000003,
+        "end": 312.24,
+        "english": "Alright, so Lord Hater had a fight with his enemy and he said he wants to settle this.",
+        "chinese": "好的，所以大恶人和他的敌人打了架，并且他想解决这个问题。"
+    },
+    {
+        "start": 312.24,
+        "end": 313.84000000000003,
+        "english": "You settle this.",
+        "chinese": "您解决这个问题。"
+    },
+    {
+        "start": 313.84000000000003,
+        "end": 314.84000000000003,
+        "english": "Settle.",
+        "chinese": "设置。"
+    },
+    {
+        "start": 314.84000000000003,
+        "end": 317.6,
+        "english": "So what do you do when you settle something?",
+        "chinese": "所以，当你解决一个问题时，你做了什么？"
+    },
+    {
+        "start": 317.6,
+        "end": 324.24,
+        "english": "Well, when you settle something is you end a fight or a dispute or an argument or an argument",
+        "chinese": "是的，当你解决一个问题时，你结束了争端、争论或争吵。"
+    },
+    {
+        "start": 324.24,
+        "end": 325.24,
+        "english": "or a problem.",
+        "chinese": "或者是一个问题。"
+    },
+    {
+        "start": 325.24,
+        "end": 326.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 326.24,
+        "end": 328.84000000000003,
+        "english": "When you settle an argument, does everyone always agree?",
+        "chinese": "当您解决一个争论时，每个人是否总是同意？"
+    },
+    {
+        "start": 328.84000000000003,
+        "end": 330.88,
+        "english": "No, not always, right?",
+        "chinese": "是的，不是总是这样的。"
+    },
+    {
+        "start": 330.88,
+        "end": 331.88,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 331.88,
+        "end": 333.88,
+        "english": "Sometimes you are forced to agree.",
+        "chinese": "有时你被迫同意。"
+    },
+    {
+        "start": 333.88,
+        "end": 334.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 334.88,
+        "end": 337.64,
+        "english": "Not everyone agrees, but you have no other choice.",
+        "chinese": "不是所有人都同意，但你没有其他选择。"
+    },
+    {
+        "start": 337.64,
+        "end": 342.12,
+        "english": "So it's a little bit different from reaching an agreement because there's usually a winner",
+        "chinese": "所以，与达成一致有所不同，因为通常会有赢家。"
+    },
+    {
+        "start": 342.12,
+        "end": 343.12,
+        "english": "and a loser.",
+        "chinese": "和一个失败者。"
+    },
+    {
+        "start": 343.12,
+        "end": 344.12,
+        "english": "Right, exactly.",
+        "chinese": "正确，完全。"
+    },
+    {
+        "start": 344.12,
+        "end": 350.12,
+        "english": "Well, now another very popular word and with Insyfy is this word Tractor Beam.",
+        "chinese": "很好，现在又一个非常流行的词，而且是 Insyfy 的这个单词“拖拉机横梁”。"
+    },
+    {
+        "start": 350.12,
+        "end": 351.12,
+        "english": "Tractor Beam.",
+        "chinese": "拖拉机架。"
+    },
+    {
+        "start": 351.12,
+        "end": 352.12,
+        "english": "A Tractor Beam.",
+        "chinese": "一个拖拉机横梁。"
+    },
+    {
+        "start": 352.12,
+        "end": 353.12,
+        "english": "Tractor Beam.",
+        "chinese": "农用叉车。"
+    },
+    {
+        "start": 353.12,
+        "end": 356.52,
+        "english": "Now, I'm not sure if this really exists in real life.",
+        "chinese": "现在，我不确定这在现实中是否存在。"
+    },
+    {
+        "start": 356.52,
+        "end": 358.72,
+        "english": "Well, I've never heard of it.",
+        "chinese": "很好，我从没听说过。"
+    },
+    {
+        "start": 358.72,
+        "end": 365.8,
+        "english": "But a Tractor Beam in Sci-Fi movies is like this invisible force that grabs an object and",
+        "chinese": "但是科幻电影中的拖车臂就像这样无形的力量，它抓住一个物体。"
+    },
+    {
+        "start": 365.8,
+        "end": 369.76,
+        "english": "doesn't let it escape and brings it towards another spaceship.",
+        "chinese": "它不会让飞船离开，而是将自己引向另一个太空船。"
+    },
+    {
+        "start": 369.76,
+        "end": 372.32,
+        "english": "So it's like almost like a rope that you can't see.",
+        "chinese": "所以它就像一根几乎看不见的绳子。"
+    },
+    {
+        "start": 372.32,
+        "end": 373.32,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 373.32,
+        "end": 374.32,
+        "english": "And it brings it in.",
+        "chinese": "而且它带走了。"
+    },
+    {
+        "start": 374.32,
+        "end": 377.32,
+        "english": "So the spaceship managed to escape their Tractor Beam.",
+        "chinese": "所以，飞船成功逃脱了牵引束。"
+    },
+    {
+        "start": 377.32,
+        "end": 378.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 378.32,
+        "end": 380.59999999999997,
+        "english": "I think that is definitely not true.",
+        "chinese": "我认为这绝对不正确。"
+    },
+    {
+        "start": 380.59999999999997,
+        "end": 381.59999999999997,
+        "english": "Well, maybe.",
+        "chinese": "好的，我来帮你翻译这句话。"
+    },
+    {
+        "start": 381.59999999999997,
+        "end": 382.59999999999997,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 382.59999999999997,
+        "end": 385.24,
+        "english": "But in Sci-Fi, you will always hear this Tractor Beam.",
+        "chinese": "但是，在科幻中，你总是会听到这台拖车灯。"
+    },
+    {
+        "start": 385.24,
+        "end": 386.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 386.24,
+        "end": 388.68,
+        "english": "Now, let's move on to our final word.",
+        "chinese": "现在，让我们转到我们的最终单词。"
+    },
+    {
+        "start": 388.68,
+        "end": 393.24,
+        "english": "The spaceship was accelerating towards the speed of light.",
+        "chinese": "这个宇宙飞船正在以光速前进。"
+    },
+    {
+        "start": 393.24,
+        "end": 394.24,
+        "english": "Accelerating.",
+        "chinese": "加速。"
+    },
+    {
+        "start": 394.24,
+        "end": 395.24,
+        "english": "Accelerating.",
+        "chinese": "加速。"
+    },
+    {
+        "start": 395.24,
+        "end": 396.24,
+        "english": "To accelerate.",
+        "chinese": "要加速。"
+    },
+    {
+        "start": 396.24,
+        "end": 397.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 397.68,
+        "end": 400.16,
+        "english": "So that means to increase speed, right?",
+        "chinese": "所以，这意味着要加快速度吗？"
+    },
+    {
+        "start": 400.16,
+        "end": 401.56,
+        "english": "Yeah, just to go faster.",
+        "chinese": "是的，快点。"
+    },
+    {
+        "start": 401.56,
+        "end": 402.56,
+        "english": "To go faster.",
+        "chinese": "要快点。"
+    },
+    {
+        "start": 402.56,
+        "end": 407.52,
+        "english": "So if you are in your car, you want to accelerate so you can pass another car.",
+        "chinese": "所以如果你在车里，你希望加速，以便可以超越另一辆车。"
+    },
+    {
+        "start": 407.52,
+        "end": 408.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 408.52,
+        "end": 412.24,
+        "english": "Or even when you stop at a red light and it turns green, you got to accelerate.",
+        "chinese": "即使你停下来，红灯亮着，但转为绿灯时，你也得加速。"
+    },
+    {
+        "start": 412.24,
+        "end": 413.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 413.24,
+        "end": 414.24,
+        "english": "To accelerate.",
+        "chinese": "要加速。"
+    },
+    {
+        "start": 414.24,
+        "end": 417.64,
+        "english": "Let's listen to our dialogue again and then we'll come back and take a look at some",
+        "chinese": "让我们再次听我们的对话，然后我们再来看一些中文。"
+    },
+    {
+        "start": 417.64,
+        "end": 420.64,
+        "english": "of the phrases that came up in this dialogue.",
+        "chinese": "这对话中出现的短语。"
+    },
+    {
+        "start": 421.64,
+        "end": 428.0,
+        "english": "They are breaking through.",
+        "chinese": "他们正在突破。"
+    },
+    {
+        "start": 428.0,
+        "end": 430.59999999999997,
+        "english": "Central Blaster's the full power.",
+        "chinese": "中央火力的全部威力。"
+    },
+    {
+        "start": 430.59999999999997,
+        "end": 432.44,
+        "english": "Excellent job.",
+        "chinese": "好的工作。"
+    },
+    {
+        "start": 432.44,
+        "end": 433.68,
+        "english": "Search the ship.",
+        "chinese": "搜索船。"
+    },
+    {
+        "start": 433.68,
+        "end": 435.56,
+        "english": "She's got to be in here somewhere.",
+        "chinese": "她得在这里 somewhere。"
+    },
+    {
+        "start": 435.56,
+        "end": 437.08,
+        "english": "Bring her to me.",
+        "chinese": "请将她带到我。"
+    },
+    {
+        "start": 437.08,
+        "end": 440.47999999999996,
+        "english": "Lord Hater, we have a survivor here.",
+        "chinese": "尊敬的敌人，我们这里有一个幸存者。"
+    },
+    {
+        "start": 440.47999999999996,
+        "end": 442.47999999999996,
+        "english": "Where is she?",
+        "chinese": "在哪儿？"
+    },
+    {
+        "start": 442.47999999999996,
+        "end": 444.91999999999996,
+        "english": "Don't make me destroy you.",
+        "chinese": "不要让我破坏你。"
+    },
+    {
+        "start": 444.91999999999996,
+        "end": 447.56,
+        "english": "Tell me where she is.",
+        "chinese": "请告诉我她在哪里。"
+    },
+    {
+        "start": 447.56,
+        "end": 451.64,
+        "english": "Don't so fast, she will no longer be a prisoner.",
+        "chinese": "不要急，她将不再是囚犯。"
+    },
+    {
+        "start": 451.64,
+        "end": 455.44,
+        "english": "It's time you and I settled this once and for all.",
+        "chinese": "时间，你和我，都该就此了结。"
+    },
+    {
+        "start": 455.44,
+        "end": 458.12,
+        "english": "You are unwise to think you can defeat me.",
+        "chinese": "您是愚蠢的，要打败我。"
+    },
+    {
+        "start": 458.12,
+        "end": 463.12,
+        "english": "You know nothing of the power of the obscure side.",
+        "chinese": "您不知道这个秘密的威力。"
+    },
+    {
+        "start": 463.12,
+        "end": 465.36,
+        "english": "We will stop you.",
+        "chinese": "我们将会停止你。"
+    },
+    {
+        "start": 465.36,
+        "end": 469.36,
+        "english": "Lord Hater, we have an unidentified spacecraft taking off from the rear dock.",
+        "chinese": "英语：它是一只傻瓜相机。"
+    },
+    {
+        "start": 469.36,
+        "end": 472.2,
+        "english": "They somehow managed to escape our tractor beam.",
+        "chinese": "他们最终还是逃出了我们的追踪光束。"
+    },
+    {
+        "start": 472.2,
+        "end": 475.28,
+        "english": "After them, their accelerating towards a speed of light.",
+        "chinese": "在他们之后，他们的速度接近光速。"
+    },
+    {
+        "start": 475.28,
+        "end": 482.28,
+        "english": "We lost them sir.",
+        "chinese": "我们把他们放下了。"
+    },
+    {
+        "start": 482.28,
+        "end": 492.08,
+        "english": "Well great.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 492.08,
+        "end": 494.96,
+        "english": "I think that's a little bit more clear this time.",
+        "chinese": "我认为这次说得更清楚一些。"
+    },
+    {
+        "start": 494.96,
+        "end": 499.79999999999995,
+        "english": "But like Marco said, I want to look at now some phrases that you might hear in a sci-fi",
+        "chinese": "但是，正如马库斯所说，“我想听听你可能在科幻电影中听到的一些短语。”"
+    },
+    {
+        "start": 499.79999999999995,
+        "end": 501.59999999999997,
+        "english": "context.",
+        "chinese": "在中文中，\"context\"可以翻译为 \"背景信息\" 或 \"语境\"。例如："
+    },
+    {
+        "start": 501.59999999999997,
+        "end": 503.91999999999996,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 503.92,
+        "end": 508.64000000000004,
+        "english": "The first phrase that we can take a look at, and maybe it looks a little bit strange.",
+        "chinese": "我们可以通过看看第一个可以看出来的部分，也许它看起来有点奇怪。"
+    },
+    {
+        "start": 508.64000000000004,
+        "end": 512.52,
+        "english": "He said she will no longer be your prisoner.",
+        "chinese": "他说她将不再是你的人。"
+    },
+    {
+        "start": 512.52,
+        "end": 514.64,
+        "english": "No longer be.",
+        "chinese": "不再。"
+    },
+    {
+        "start": 514.64,
+        "end": 516.16,
+        "english": "No longer be.",
+        "chinese": "不再。"
+    },
+    {
+        "start": 516.16,
+        "end": 518.88,
+        "english": "So what does he mean by no longer?",
+        "chinese": "所以，他意味着什么？"
+    },
+    {
+        "start": 518.88,
+        "end": 519.88,
+        "english": "Any more.",
+        "chinese": "任何更多的。"
+    },
+    {
+        "start": 519.88,
+        "end": 520.88,
+        "english": "Any more, right?",
+        "chinese": "任何更多的，对吗？"
+    },
+    {
+        "start": 520.88,
+        "end": 523.24,
+        "english": "So you will not be my prisoner anymore.",
+        "chinese": "所以，你将不再是我的囚犯。"
+    },
+    {
+        "start": 523.24,
+        "end": 524.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 524.24,
+        "end": 526.6,
+        "english": "So how would I use it in this form no longer be?",
+        "chinese": "所以，我如何在这样的格式下使用它呢？"
+    },
+    {
+        "start": 526.6,
+        "end": 529.5600000000001,
+        "english": "You've always got to use it in the future tense.",
+        "chinese": "您总是要使用现在时。"
+    },
+    {
+        "start": 529.5600000000001,
+        "end": 530.5600000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 530.5600000000001,
+        "end": 533.6,
+        "english": "So she'll no longer be your prisoner.",
+        "chinese": "所以她将不再是你的囚犯。"
+    },
+    {
+        "start": 533.6,
+        "end": 536.8000000000001,
+        "english": "I will no longer be your employee.",
+        "chinese": "我将不再是你的工作人。"
+    },
+    {
+        "start": 536.8000000000001,
+        "end": 537.8000000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 537.8000000000001,
+        "end": 541.32,
+        "english": "Or I can say I will no longer be your boyfriend.",
+        "chinese": "我还可以这么说，我不再是你男朋友。"
+    },
+    {
+        "start": 541.32,
+        "end": 542.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 542.32,
+        "end": 544.12,
+        "english": "So it always will no longer be.",
+        "chinese": "所以它永远不会再。"
+    },
+    {
+        "start": 544.12,
+        "end": 545.32,
+        "english": "It's always in the future.",
+        "chinese": "它是永远的未来。"
+    },
+    {
+        "start": 545.32,
+        "end": 546.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 546.32,
+        "end": 550.52,
+        "english": "One more thing Marco, is this quite commonly used or maybe a little bit formal?",
+        "chinese": "一多谢马哥，这是否很常见或可能有点正式？"
+    },
+    {
+        "start": 550.52,
+        "end": 552.48,
+        "english": "I think it's a little bit formal.",
+        "chinese": "我认为有点正式。"
+    },
+    {
+        "start": 552.48,
+        "end": 555.28,
+        "english": "And it's very, I don't know, to a certain point poetic.",
+        "chinese": "And it's very, I don't know, to a certain point poetic. (注：这句话是中文，但可能需要根据上下文进行调整。)"
+    },
+    {
+        "start": 555.28,
+        "end": 556.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 556.28,
+        "end": 559.6800000000001,
+        "english": "Which I think is why we hear it a little bit more often in sci-fi movies.",
+        "chinese": "我之所以听到它在科幻电影中听起来比其他地方更常见，是因为我认为这是为什么。"
+    },
+    {
+        "start": 559.6800000000001,
+        "end": 560.6800000000001,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 560.6800000000001,
+        "end": 562.6,
+        "english": "So no longer be.",
+        "chinese": "所以不要再。"
+    },
+    {
+        "start": 562.6,
+        "end": 564.0400000000001,
+        "english": "What about our next phrase?",
+        "chinese": "关于我们的下一个句子？"
+    },
+    {
+        "start": 564.0400000000001,
+        "end": 567.08,
+        "english": "You know nothing of the power of the obscure side.",
+        "chinese": "您不知道这个隐蔽的角落的力量。"
+    },
+    {
+        "start": 567.08,
+        "end": 568.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 568.08,
+        "end": 569.08,
+        "english": "You know nothing.",
+        "chinese": "我知道什么。"
+    },
+    {
+        "start": 569.08,
+        "end": 571.28,
+        "english": "You know nothing of.",
+        "chinese": "你不知道。"
+    },
+    {
+        "start": 571.28,
+        "end": 573.32,
+        "english": "So again, it's very poetic.",
+        "chinese": "所以，再次，它非常诗化。"
+    },
+    {
+        "start": 573.32,
+        "end": 574.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 574.32,
+        "end": 575.32,
+        "english": "I don't think.",
+        "chinese": "我不认为。"
+    },
+    {
+        "start": 575.32,
+        "end": 576.52,
+        "english": "Basically meaning you don't know about.",
+        "chinese": "基本意思是不知道。"
+    },
+    {
+        "start": 576.52,
+        "end": 577.52,
+        "english": "You don't know about.",
+        "chinese": "您不知道。"
+    },
+    {
+        "start": 577.52,
+        "end": 578.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 578.52,
+        "end": 580.12,
+        "english": "So again, let's take a look at how you would use it.",
+        "chinese": "所以，让我们再看看你如何使用它。"
+    },
+    {
+        "start": 580.12,
+        "end": 582.96,
+        "english": "You know nothing of and then...",
+        "chinese": "你知道什么，然后..."
+    },
+    {
+        "start": 582.96,
+        "end": 584.52,
+        "english": "Science fiction.",
+        "chinese": "科学幻想。"
+    },
+    {
+        "start": 584.52,
+        "end": 586.16,
+        "english": "You know nothing of science fiction.",
+        "chinese": "您不知道科幻小说。"
+    },
+    {
+        "start": 586.16,
+        "end": 587.1600000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 587.1600000000001,
+        "end": 589.44,
+        "english": "So you would use a noun afterwards.",
+        "chinese": "所以，你以后会使用名词。"
+    },
+    {
+        "start": 589.44,
+        "end": 590.44,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 590.44,
+        "end": 591.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 591.88,
+        "end": 594.12,
+        "english": "So interesting phrases.",
+        "chinese": "所以有趣的话。"
+    },
+    {
+        "start": 594.12,
+        "end": 599.52,
+        "english": "Again, formal and probably quite often used in science fiction movies.",
+        "chinese": "再次，通常在科幻电影中被正式和经常使用。"
+    },
+    {
+        "start": 599.52,
+        "end": 603.6,
+        "english": "But now you can understand when they use some of these words that maybe are a little",
+        "chinese": "但现在你能够理解他们使用这些词可能有点儿小。"
+    },
+    {
+        "start": 603.6,
+        "end": 607.28,
+        "english": "bit difficult and very common in these types of movies.",
+        "chinese": "这在这些类型的电影中是极其困难和常见的。"
+    },
+    {
+        "start": 607.28,
+        "end": 608.8,
+        "english": "Now let's go to our last phrase.",
+        "chinese": "现在让我们回到我们的最后一个句子。"
+    },
+    {
+        "start": 608.8,
+        "end": 612.76,
+        "english": "Then this one actually can be used in many different circumstances.",
+        "chinese": "然后，这个可以用于许多不同的情况。"
+    },
+    {
+        "start": 612.76,
+        "end": 615.6,
+        "english": "Let's settle this once and for all.",
+        "chinese": "让我们就此了断。"
+    },
+    {
+        "start": 615.6,
+        "end": 616.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 616.6,
+        "end": 617.6,
+        "english": "So we saw the verb...",
+        "chinese": "所以我们看到了..."
+    },
+    {
+        "start": 617.6,
+        "end": 620.28,
+        "english": "So we saw the word settle already.",
+        "chinese": "所以我们已经看到了“稳定”这个词。"
+    },
+    {
+        "start": 620.28,
+        "end": 623.28,
+        "english": "Now let's settle this once and for all.",
+        "chinese": "现在让我们就此了结。"
+    },
+    {
+        "start": 623.28,
+        "end": 624.28,
+        "english": "Mm-hmm.",
+        "chinese": "这句话的中文翻译是 \"嗯-嗯\"。"
+    },
+    {
+        "start": 624.28,
+        "end": 625.28,
+        "english": "Once and for all.",
+        "chinese": "一次和一切。"
+    },
+    {
+        "start": 625.28,
+        "end": 626.28,
+        "english": "So what does that mean?",
+        "chinese": "所以，那意味着什么？"
+    },
+    {
+        "start": 626.28,
+        "end": 627.28,
+        "english": "Finally.",
+        "chinese": "最后。"
+    },
+    {
+        "start": 627.28,
+        "end": 628.28,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 628.28,
+        "end": 629.28,
+        "english": "Forever.",
+        "chinese": "永远。"
+    },
+    {
+        "start": 629.28,
+        "end": 630.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 630.28,
+        "end": 632.28,
+        "english": "So once and for all forever.",
+        "chinese": "所以，永远不再改变。"
+    },
+    {
+        "start": 632.28,
+        "end": 637.28,
+        "english": "So why don't we listen to some other examples of how we can use this phrase once and",
+        "chinese": "所以，我们为什么不听听一些其他例子，如何我们可以使用这个短语一次和。"
+    },
+    {
+        "start": 637.28,
+        "end": 640.68,
+        "english": "for all in different contexts?",
+        "chinese": "对于所有在不同情境下？"
+    },
+    {
+        "start": 640.68,
+        "end": 642.68,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 642.68,
+        "end": 644.72,
+        "english": "I'm fed up with arguing about this.",
+        "chinese": "我厌倦了争论这个问题。"
+    },
+    {
+        "start": 644.72,
+        "end": 648.88,
+        "english": "Let's just settle the argument once and for all.",
+        "chinese": "让我们就这个问题彻底解决。"
+    },
+    {
+        "start": 648.88,
+        "end": 651.36,
+        "english": "Number two.",
+        "chinese": "第二。"
+    },
+    {
+        "start": 651.36,
+        "end": 658.52,
+        "english": "He claims his photographs prove once and for all that UFOs do exist.",
+        "chinese": "他声称他的照片证明了UFO的存在。"
+    },
+    {
+        "start": 658.52,
+        "end": 661.92,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 661.92,
+        "end": 667.16,
+        "english": "I told him once and for all that I don't want to be his girlfriend anymore.",
+        "chinese": "我曾经告诉他，我不再是他女朋友。"
+    },
+    {
+        "start": 667.16,
+        "end": 668.66,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 668.66,
+        "end": 672.68,
+        "english": "So now I think it's clear we've seen a lot of words.",
+        "chinese": "所以现在我觉得我们已经看到很多词汇。"
+    },
+    {
+        "start": 672.68,
+        "end": 674.68,
+        "english": "We've seen a lot of phrases.",
+        "chinese": "我们已经看到很多表达。"
+    },
+    {
+        "start": 674.68,
+        "end": 684.68,
+        "english": "Just listen to our dialogue one more time.",
+        "chinese": "请听我们的一次对话。"
+    },
+    {
+        "start": 684.68,
+        "end": 694.16,
+        "english": "They're breaking through.",
+        "chinese": "他们正在突破。"
+    },
+    {
+        "start": 694.16,
+        "end": 701.4,
+        "english": "Search for blasters to full power.",
+        "chinese": "搜索所有射手的最高火力。"
+    },
+    {
+        "start": 701.4,
+        "end": 705.4,
+        "english": "Excellent job.",
+        "chinese": "好的工作。"
+    },
+    {
+        "start": 705.4,
+        "end": 706.4,
+        "english": "Search the ship.",
+        "chinese": "搜索船。"
+    },
+    {
+        "start": 706.4,
+        "end": 708.4,
+        "english": "She's got to be in here somewhere.",
+        "chinese": "她得在这里 somewhere。"
+    },
+    {
+        "start": 708.4,
+        "end": 713.4,
+        "english": "Bring her to me.",
+        "chinese": "请将她带到我。"
+    },
+    {
+        "start": 713.4,
+        "end": 717.4,
+        "english": "Lord Hainer, we have a survivor here.",
+        "chinese": "尊敬的先生，我们这里有一个幸存者。"
+    },
+    {
+        "start": 717.4,
+        "end": 719.4,
+        "english": "Where is she?",
+        "chinese": "在哪儿？"
+    },
+    {
+        "start": 719.4,
+        "end": 722.4,
+        "english": "Don't make me destroy you.",
+        "chinese": "不要让我破坏你。"
+    },
+    {
+        "start": 722.4,
+        "end": 725.4,
+        "english": "Tell me where she is.",
+        "chinese": "请告诉我她在哪里。"
+    },
+    {
+        "start": 725.4,
+        "end": 726.4,
+        "english": "Not so fast.",
+        "chinese": "不那么快。"
+    },
+    {
+        "start": 726.4,
+        "end": 729.4,
+        "english": "She will no longer be your prisoner.",
+        "chinese": "她将不再是你的囚犯。"
+    },
+    {
+        "start": 729.4,
+        "end": 733.68,
+        "english": "It's time you and I settled this once and for all.",
+        "chinese": "这是你和我解决这个问题的最好时机。"
+    },
+    {
+        "start": 733.68,
+        "end": 736.52,
+        "english": "You are unwise and think you can defeat me.",
+        "chinese": "您是愚蠢的，以为自己能打败我。"
+    },
+    {
+        "start": 736.52,
+        "end": 744.72,
+        "english": "You know nothing of the power of your obscure side.",
+        "chinese": "您不知道您的隐秘侧的力量。"
+    },
+    {
+        "start": 745.72,
+        "end": 751.72,
+        "english": "So we will stop you.",
+        "chinese": "所以我们将停止您。"
+    },
+    {
+        "start": 751.72,
+        "end": 762.72,
+        "english": "Lord Hainer, we have an unidentified spacecraft taking off from the rear dock.",
+        "chinese": "尊敬的阁下，我们有一艘未知的太空船正在从后货舱起飞。"
+    },
+    {
+        "start": 762.72,
+        "end": 765.72,
+        "english": "They somehow managed to escape our treasure beam.",
+        "chinese": "他们似乎成功地逃脱了我们的宝藏束。"
+    },
+    {
+        "start": 765.72,
+        "end": 767.72,
+        "english": "After them.",
+        "chinese": "之后。"
+    },
+    {
+        "start": 767.72,
+        "end": 769.72,
+        "english": "They're accelerating towards the speed of light.",
+        "chinese": "他们正接近光速。"
+    },
+    {
+        "start": 769.72,
+        "end": 774.72,
+        "english": "We lost them sir.",
+        "chinese": "我们丢失了他们。"
+    },
+    {
+        "start": 786.72,
+        "end": 789.72,
+        "english": "Okay so are you a big sci-fi fan?",
+        "chinese": "是的，你是一个大科幻迷吗？"
+    },
+    {
+        "start": 789.72,
+        "end": 792.72,
+        "english": "I think as you can tell no.",
+        "chinese": "我猜你可以说。"
+    },
+    {
+        "start": 792.72,
+        "end": 796.72,
+        "english": "Actually I've seen some of the Star Wars movies but everyone that I've watched I've fallen asleep",
+        "chinese": "实际上，我看过一些《星球大战》电影，但每个人我都睡着了。"
+    },
+    {
+        "start": 796.72,
+        "end": 797.72,
+        "english": "in the middle of.",
+        "chinese": "在中间。"
+    },
+    {
+        "start": 797.72,
+        "end": 798.72,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 798.72,
+        "end": 802.72,
+        "english": "Even in the movie theater I fell asleep in the movie theater watching Star Wars.",
+        "chinese": "在电影院里，我甚至在看《星球大战》的时候睡着了。"
+    },
+    {
+        "start": 802.72,
+        "end": 803.72,
+        "english": "Wow, was it too boring?",
+        "chinese": "哇，太无聊了？"
+    },
+    {
+        "start": 803.72,
+        "end": 804.72,
+        "english": "It was too boring.",
+        "chinese": "太无聊了。"
+    },
+    {
+        "start": 804.72,
+        "end": 807.72,
+        "english": "You're not really into the fantasy side.",
+        "chinese": "您不是真正喜欢奇幻世界。"
+    },
+    {
+        "start": 807.72,
+        "end": 811.72,
+        "english": "No, I just am the whole time sitting there going this cannot happen.",
+        "chinese": "是的，我只是坐在那里，等待着这个不可能发生。"
+    },
+    {
+        "start": 811.72,
+        "end": 814.72,
+        "english": "Well that's why it's called science fiction right?",
+        "chinese": "那正是为什么叫科幻小说的原因吗？"
+    },
+    {
+        "start": 814.72,
+        "end": 815.72,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 815.72,
+        "end": 821.72,
+        "english": "But it is interesting to some people and well behind Star Wars there is a huge culture.",
+        "chinese": "但是，对于一些人来说，这有趣且远远超出了《星球大战》。"
+    },
+    {
+        "start": 821.72,
+        "end": 826.72,
+        "english": "Even some people know some of the languages or symbols that are used in it or the names",
+        "chinese": "即使有些人知道它或它的某些语言或符号，或者名字。"
+    },
+    {
+        "start": 826.72,
+        "end": 829.72,
+        "english": "of some of the robots and models of spacecraft.",
+        "chinese": "一些航天器和模型的机器人。"
+    },
+    {
+        "start": 829.72,
+        "end": 833.72,
+        "english": "Well maybe we'll have to come up with Star Wars Pod.",
+        "chinese": "嗯，也许我们得找一个星球大战的太空舱。"
+    },
+    {
+        "start": 833.72,
+        "end": 834.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 834.72,
+        "end": 836.72,
+        "english": "Well that's all for today guys.",
+        "chinese": "今天，我们说再见。"
+    },
+    {
+        "start": 836.72,
+        "end": 843.72,
+        "english": "I hope you enjoyed our lesson and of course if you have questions or comments you can leave them in a comment section on our website, EnglishPod.com.",
+        "chinese": "我希望大家今天的课程愉快，当然如果有问题或建议，请在我们的网站留言评论区留下。"
+    },
+    {
+        "start": 843.72,
+        "end": 846.72,
+        "english": "Well thanks for listening you guys and until next time.",
+        "chinese": "谢谢你们的聆听，你们好！直到下次。"
+    },
+    {
+        "start": 846.72,
+        "end": 847.72,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 851.72,
+        "end": 852.72,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

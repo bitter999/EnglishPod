@@ -1,0 +1,1682 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.24,
+        "english": "Hello everyone, welcome back to English.",
+        "chinese": "大家好，欢迎再次回到英语。"
+    },
+    {
+        "start": 4.24,
+        "end": 5.44,
+        "english": "Pod, my name is Marco.",
+        "chinese": "我是马科，我的名字是罗伯特。"
+    },
+    {
+        "start": 5.44,
+        "end": 6.640000000000001,
+        "english": "And I'm Harika.",
+        "chinese": "我是哈里希。"
+    },
+    {
+        "start": 6.640000000000001,
+        "end": 10.96,
+        "english": "And today we're going to be bringing you a great lesson that's talking about a bank robbery.",
+        "chinese": "今天我们将向您展示一个关于银行抢劫的精彩课程。"
+    },
+    {
+        "start": 10.96,
+        "end": 17.2,
+        "english": "Yes, and this is an important lesson for all of our, you know, future bank robbers out there.",
+        "chinese": "是的，这也是我们所有未来银行家应该学习的重要教训。"
+    },
+    {
+        "start": 17.2,
+        "end": 23.92,
+        "english": "Yeah, we are going to teach you some words that you would use for planning a bank robbery,",
+        "chinese": "是的，我们将教你一些你将在银行抢劫中使用的词汇。"
+    },
+    {
+        "start": 23.92,
+        "end": 27.76,
+        "english": "but you can apply them to other situations, hopefully not.",
+        "chinese": "但是，你可以在其他情况下应用它们，希望不会。"
+    },
+    {
+        "start": 27.76,
+        "end": 30.880000000000003,
+        "english": "Yeah, I hope you apply them to other situations.",
+        "chinese": "是的，我希望你把这些应用到其他情况。"
+    },
+    {
+        "start": 30.880000000000003,
+        "end": 32.160000000000004,
+        "english": "Hopefully you won't rob a bank.",
+        "chinese": "我非常希望你不会抢劫银行。"
+    },
+    {
+        "start": 32.160000000000004,
+        "end": 36.160000000000004,
+        "english": "We don't want to be responsible for any crimes you can commit.",
+        "chinese": "我们不想对任何犯罪行为负责。"
+    },
+    {
+        "start": 36.160000000000004,
+        "end": 37.120000000000005,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 37.120000000000005,
+        "end": 42.160000000000004,
+        "english": "All right, so why don't we start by looking at some of the vocabulary in vocabulary preview?",
+        "chinese": "好的，那么我们先看看一下词汇预览中的词汇吧。"
+    },
+    {
+        "start": 42.88,
+        "end": 44.16,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 44.72,
+        "end": 50.400000000000006,
+        "english": "We have one word for you today that you'll hear in the dialogue and it is filling in.",
+        "chinese": "今天，我们有一个人语境中的一个词，它将在对话中被填入。这个词是“你”。"
+    },
+    {
+        "start": 51.040000000000006,
+        "end": 52.08,
+        "english": "Filling in.",
+        "chinese": "填写。"
+    },
+    {
+        "start": 52.08,
+        "end": 52.64,
+        "english": "Filling in.",
+        "chinese": "填写。"
+    },
+    {
+        "start": 53.44,
+        "end": 56.24,
+        "english": "So to fill in for somebody, right?",
+        "chinese": "所以为了填补某人的空缺，对吗？"
+    },
+    {
+        "start": 56.24,
+        "end": 56.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 57.2,
+        "end": 59.2,
+        "english": "That means that you are replacing them.",
+        "chinese": "这句话的中文翻译是：“这意味着你正在替换他们。”"
+    },
+    {
+        "start": 59.2,
+        "end": 64.8,
+        "english": "Yes, so if Marco can't host the show today, maybe Danny will fill in.",
+        "chinese": "是的，如果马可今天不能主持节目，那么丹尼可能会填补空缺。"
+    },
+    {
+        "start": 64.8,
+        "end": 67.2,
+        "english": "Okay, so to take the place of someone.",
+        "chinese": "好的，那么替换了谁。"
+    },
+    {
+        "start": 67.2,
+        "end": 67.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 67.84,
+        "end": 68.72,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 68.72,
+        "end": 70.96000000000001,
+        "english": "Okay, so now let's listen to our dialogue.",
+        "chinese": "好的，现在让我们听我们的对话。"
+    },
+    {
+        "start": 70.96000000000001,
+        "end": 74.48,
+        "english": "Let's listen to this bank robbery and let's see what happens.",
+        "chinese": "让我们听听这个银行抢劫，看看会发生什么。"
+    },
+    {
+        "start": 74.64,
+        "end": 76.64,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 82.64,
+        "end": 84.64,
+        "english": "So this is what we're going to do.",
+        "chinese": "所以，我们将会这样做。"
+    },
+    {
+        "start": 84.64,
+        "end": 87.68,
+        "english": "I've carefully mapped this out so don't screw it up.",
+        "chinese": "我仔细地规划好了这个，不要出错。"
+    },
+    {
+        "start": 87.68,
+        "end": 90.88,
+        "english": "Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms.",
+        "chinese": "先生、兔子和狐狸将穿上这些制服去银行。"
+    },
+    {
+        "start": 90.88,
+        "end": 94.88000000000001,
+        "english": "We've managed to get replicas of the one the guards wear for when they pick up the money.",
+        "chinese": "我们已经成功地复制了警卫们在取钱时佩戴的那套备用装备。"
+    },
+    {
+        "start": 94.88000000000001,
+        "end": 95.68,
+        "english": "Got it.",
+        "chinese": "知道了。"
+    },
+    {
+        "start": 95.68,
+        "end": 97.68,
+        "english": "No problem, boss.",
+        "chinese": "没问题，老板。"
+    },
+    {
+        "start": 97.68,
+        "end": 101.68,
+        "english": "When you get inside, tell them that you're filling in for Carl and Tom.",
+        "chinese": "当你进入时，告诉他们你正在替卡尔和汤姆填表。"
+    },
+    {
+        "start": 101.68,
+        "end": 103.68,
+        "english": "And say that they're on another route today.",
+        "chinese": "今天，他们正在另一条路上。"
+    },
+    {
+        "start": 103.68,
+        "end": 105.68,
+        "english": "Don't lose your cool.",
+        "chinese": "不要失去冷静。"
+    },
+    {
+        "start": 105.68,
+        "end": 107.68,
+        "english": "Just act natural.",
+        "chinese": "请自然行事。"
+    },
+    {
+        "start": 107.68,
+        "end": 109.68,
+        "english": "What did they want to call and confirm?",
+        "chinese": "他们想叫什么，确认一下？"
+    },
+    {
+        "start": 109.68,
+        "end": 111.68,
+        "english": "You let him.",
+        "chinese": "您让他。"
+    },
+    {
+        "start": 111.68,
+        "end": 113.68,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 113.68,
+        "end": 115.68,
+        "english": "Don't worry. We have the phones tapped so the call will be passed through to me.",
+        "chinese": "不要担心。我们已经将电话连接好，所以通话将通过我传递给你。"
+    },
+    {
+        "start": 115.68,
+        "end": 117.68,
+        "english": "And I'll pretend to be the transport company.",
+        "chinese": "我假装是运输公司。"
+    },
+    {
+        "start": 117.68,
+        "end": 119.68,
+        "english": "Uh-huh. You're so clever, boss.",
+        "chinese": "嗯，你真聪明，老板。"
+    },
+    {
+        "start": 119.68,
+        "end": 121.68,
+        "english": "Okay, shut up.",
+        "chinese": "好的，闭嘴。"
+    },
+    {
+        "start": 121.68,
+        "end": 123.68,
+        "english": "Only take as much money as you can fit in these bags.",
+        "chinese": "仅取这些包中能装下的钱。"
+    },
+    {
+        "start": 123.68,
+        "end": 125.68,
+        "english": "Don't get greedy.",
+        "chinese": "不要贪婪。"
+    },
+    {
+        "start": 125.68,
+        "end": 127.68,
+        "english": "Are you ready?",
+        "chinese": "是吗？"
+    },
+    {
+        "start": 127.68,
+        "end": 129.68,
+        "english": "Let's go.",
+        "chinese": "让我们走。"
+    },
+    {
+        "start": 131.68,
+        "end": 137.68,
+        "english": "Well, it sounds like a pretty interesting plan.",
+        "chinese": "很好，听起来像是一个很有趣的想法。"
+    },
+    {
+        "start": 137.68,
+        "end": 139.68,
+        "english": "It does sound like a plan. Do you think it'll work?",
+        "chinese": "这句话可以翻译成中文为：“听起来像一个计划。你觉得它会成功吗？”"
+    },
+    {
+        "start": 139.68,
+        "end": 143.68,
+        "english": "Um, I don't know. I guess we'll have to maybe talk a little bit about that later.",
+        "chinese": "嗯，我不知道。我猜测我们可能需要稍后谈谈那个。"
+    },
+    {
+        "start": 143.68,
+        "end": 145.68,
+        "english": "Okay. Yeah.",
+        "chinese": "好的。嗯。"
+    },
+    {
+        "start": 145.68,
+        "end": 149.68,
+        "english": "Let's take a look at the language that we saw in Language Takeaway.",
+        "chinese": "让我们看看我们在语言总结中看到的语言。"
+    },
+    {
+        "start": 149.68,
+        "end": 151.68,
+        "english": "Language Takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 151.68,
+        "end": 159.68,
+        "english": "Okay, we heard five really great words in this dialogue that I'd like to look at now in Language Takeaway.",
+        "chinese": "好的，我们在这次对话中听到五个非常棒的词，我今天想在语言总结中看看。"
+    },
+    {
+        "start": 159.68,
+        "end": 161.68,
+        "english": "So, this is one of the first ones.",
+        "chinese": "所以，这是第一个。"
+    },
+    {
+        "start": 161.68,
+        "end": 165.68,
+        "english": "Um, now we heard the boss say that they got replicas of the uniforms.",
+        "chinese": "是的，现在我们听到了老板说他们得到了仿制的制服。"
+    },
+    {
+        "start": 165.68,
+        "end": 167.68,
+        "english": "Right. Replicas.",
+        "chinese": "正确。复制。"
+    },
+    {
+        "start": 167.68,
+        "end": 169.68,
+        "english": "Replicas. Replicas.",
+        "chinese": "复制。复制。"
+    },
+    {
+        "start": 169.68,
+        "end": 171.68,
+        "english": "Replicas.",
+        "chinese": "复制。"
+    },
+    {
+        "start": 171.68,
+        "end": 173.68,
+        "english": "So, this is really easy.",
+        "chinese": "所以，这是真的很容易。"
+    },
+    {
+        "start": 173.68,
+        "end": 175.68,
+        "english": "Something that's a replica is a copy.",
+        "chinese": "一个副本是一个复制。"
+    },
+    {
+        "start": 175.68,
+        "end": 177.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 177.68,
+        "end": 181.68,
+        "english": "Right. So, for example, in Las Vegas, there's a replica of the Eiffel Tower of Paris.",
+        "chinese": "正确。例如，在拉斯维加斯，有一座巴黎埃菲尔铁塔的复制品。"
+    },
+    {
+        "start": 181.68,
+        "end": 185.68,
+        "english": "Yes. Actually, I lived in a small city where there was also a replica of the Eiffel Tower.",
+        "chinese": "是的。实际上，我住在一个小城市里，那里还有一座仿制埃菲尔铁塔的建筑物。"
+    },
+    {
+        "start": 185.68,
+        "end": 187.68,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 187.68,
+        "end": 189.68,
+        "english": "It's kind of weird, you know.",
+        "chinese": "是有点奇怪的，你知道。"
+    },
+    {
+        "start": 189.68,
+        "end": 195.68,
+        "english": "Well, there are a lot of replicas. Even now on the street, maybe you can see replica watches.",
+        "chinese": "嗯，确实有很多副本。即使现在街头，你也许还能看到仿制手表。"
+    },
+    {
+        "start": 195.68,
+        "end": 197.68,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 197.68,
+        "end": 199.68,
+        "english": "Right. That supposedly are Rolex, but they're not.",
+        "chinese": "正确。那似乎是劳力士，但不是。"
+    },
+    {
+        "start": 199.68,
+        "end": 201.68,
+        "english": "Yep. Yep.",
+        "chinese": "是的。是的。"
+    },
+    {
+        "start": 201.68,
+        "end": 203.68,
+        "english": "And many, many other things, so copies.",
+        "chinese": "和许多其他事情，所以复制。"
+    },
+    {
+        "start": 203.68,
+        "end": 205.68,
+        "english": "Yes. Not the real thing.",
+        "chinese": "是的。不是真实的。"
+    },
+    {
+        "start": 205.68,
+        "end": 207.68,
+        "english": "Not the real thing. All right. So, let's take a look at the next word.",
+        "chinese": "不是真正的东西。行，让我们来看看下一个单词。"
+    },
+    {
+        "start": 207.68,
+        "end": 209.68,
+        "english": "Taped.",
+        "chinese": "剪辑。"
+    },
+    {
+        "start": 209.68,
+        "end": 211.68,
+        "english": "We have the phones tapped.",
+        "chinese": "我们已经把手机连接上了。"
+    },
+    {
+        "start": 211.68,
+        "end": 213.68,
+        "english": "We have the phones tapped.",
+        "chinese": "我们已经把手机连接上了。"
+    },
+    {
+        "start": 213.68,
+        "end": 215.68,
+        "english": "Taped.",
+        "chinese": "录音。"
+    },
+    {
+        "start": 215.68,
+        "end": 217.68,
+        "english": "You tap someone's phone.",
+        "chinese": "您按住某人的手机。"
+    },
+    {
+        "start": 217.68,
+        "end": 219.68,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 219.68,
+        "end": 223.68,
+        "english": "You do something to the telephone line so that you can hear their conversations, right?",
+        "chinese": "您做某事以电话线连接，以便能够听到他们的对话。"
+    },
+    {
+        "start": 223.68,
+        "end": 225.68,
+        "english": "Right. And actually, the police do this sometimes, right?",
+        "chinese": "是的，警察有时这样做。"
+    },
+    {
+        "start": 225.68,
+        "end": 227.68,
+        "english": "Right. You see in movies all the time.",
+        "chinese": "正确。你经常在电影中看到很多东西。"
+    },
+    {
+        "start": 227.68,
+        "end": 233.68,
+        "english": "Yeah. Yeah. You connect a wire to the phone so you can listen to the conversation.",
+        "chinese": "是的。是的。你把线连接到手机，这样你可以听到对话。"
+    },
+    {
+        "start": 233.68,
+        "end": 235.68,
+        "english": "Exactly. So, you tap the telephone.",
+        "chinese": "正确。所以，你按电话。"
+    },
+    {
+        "start": 235.68,
+        "end": 237.68,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 237.68,
+        "end": 239.68,
+        "english": "So, in our dialogue, they tapped the bank's phone, right?",
+        "chinese": "所以，在我们的对话中，他们敲击了银行的手机？"
+    },
+    {
+        "start": 239.68,
+        "end": 241.68,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接提供或翻译中文的“Mm-hmm”这句话。不过，我可以帮助你理解这句话的意思或者提供一些关于中文文化的知识。"
+    },
+    {
+        "start": 241.68,
+        "end": 243.68,
+        "english": "You know, he said if they make a call, he will patch the call through.",
+        "chinese": "我知道，如果他们打电话，他将通过电话进行修复。"
+    },
+    {
+        "start": 243.68,
+        "end": 245.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 245.68,
+        "end": 247.68,
+        "english": "So, patch through.",
+        "chinese": "所以，补丁通过。"
+    },
+    {
+        "start": 247.68,
+        "end": 249.68,
+        "english": "Yeah. Patch a call through.",
+        "chinese": "是的。通过呼叫修复问题。"
+    },
+    {
+        "start": 249.68,
+        "end": 251.68,
+        "english": "Patch through.",
+        "chinese": "依次通过。"
+    },
+    {
+        "start": 251.68,
+        "end": 253.68,
+        "english": "Now, we still use this today.",
+        "chinese": "现在，我们仍然使用这个。"
+    },
+    {
+        "start": 253.68,
+        "end": 255.68,
+        "english": "Like, if you call an office, right?",
+        "chinese": "像，如果你叫办公室，对吗？"
+    },
+    {
+        "start": 255.68,
+        "end": 259.68,
+        "english": "And you say, oh, can you patch me through to Carol?",
+        "chinese": "您说，哦，能帮我通过卡罗尔联系到我吗？"
+    },
+    {
+        "start": 259.68,
+        "end": 261.68,
+        "english": "Yes. Right?",
+        "chinese": "是的，对吗？"
+    },
+    {
+        "start": 261.68,
+        "end": 263.68,
+        "english": "So, can you connect me to another phone line?",
+        "chinese": "所以，你能连接我到另一个电话线吗？"
+    },
+    {
+        "start": 263.68,
+        "end": 265.68,
+        "english": "Connect me. Yeah. Right.",
+        "chinese": "连接我。嗯，对。"
+    },
+    {
+        "start": 265.68,
+        "end": 267.68,
+        "english": "All right. Now, let's take a look at our next words.",
+        "chinese": "好的。现在，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 267.68,
+        "end": 269.68,
+        "english": "Clever.",
+        "chinese": "聪明。"
+    },
+    {
+        "start": 269.68,
+        "end": 271.68,
+        "english": "Yes. The boss is very clever.",
+        "chinese": "是的。老板非常聪明。"
+    },
+    {
+        "start": 271.68,
+        "end": 273.68,
+        "english": "The boss is very clever.",
+        "chinese": "老板非常聪明。"
+    },
+    {
+        "start": 273.68,
+        "end": 275.68,
+        "english": "All right. So, if you're clever, you're...",
+        "chinese": "好的。如果你们聪明，你就是..."
+    },
+    {
+        "start": 275.68,
+        "end": 277.68,
+        "english": "You're smart. Yeah.",
+        "chinese": "您聪明。嗯。"
+    },
+    {
+        "start": 277.68,
+        "end": 279.68,
+        "english": "You're really smart. Yeah. Right.",
+        "chinese": "您真的很聪明。对，对。"
+    },
+    {
+        "start": 279.68,
+        "end": 283.68,
+        "english": "Simple. So, the boss is quite clever and this is a clever plan.",
+        "chinese": "简单。所以，老板很聪明，这是个聪明的计划。"
+    },
+    {
+        "start": 283.68,
+        "end": 285.68,
+        "english": "Clever plan, exactly.",
+        "chinese": "聪明的计划，准确。"
+    },
+    {
+        "start": 285.68,
+        "end": 287.68,
+        "english": "Now, let's take a look at our last word.",
+        "chinese": "现在，让我们看看我们的最后一个单词。"
+    },
+    {
+        "start": 287.68,
+        "end": 289.68,
+        "english": "Don't be greedy.",
+        "chinese": "不要贪婪。"
+    },
+    {
+        "start": 289.68,
+        "end": 291.68,
+        "english": "Greedy.",
+        "chinese": "贪婪。"
+    },
+    {
+        "start": 291.68,
+        "end": 293.68,
+        "english": "Greedy. Greedy. To be greedy is a bad thing.",
+        "chinese": "贪婪。贪婪。贪欲是坏事。"
+    },
+    {
+        "start": 293.68,
+        "end": 295.68,
+        "english": "Right. You want everything.",
+        "chinese": "正确。您想要所有。"
+    },
+    {
+        "start": 295.68,
+        "end": 297.68,
+        "english": "You want everything for you. Yes.",
+        "chinese": "您想要为您的一切。是的。"
+    },
+    {
+        "start": 297.68,
+        "end": 299.68,
+        "english": "You don't share. Yes.",
+        "chinese": "您不分享。是的。"
+    },
+    {
+        "start": 299.68,
+        "end": 301.68,
+        "english": "So, like, at lunch today, when you had that cake.",
+        "chinese": "所以，今天午餐时，你吃了那个蛋糕。"
+    },
+    {
+        "start": 301.68,
+        "end": 303.68,
+        "english": "And I didn't share. Yeah.",
+        "chinese": "我也没跟你说。嗯。"
+    },
+    {
+        "start": 303.68,
+        "end": 305.68,
+        "english": "I was very greedy.",
+        "chinese": "我非常贪婪。"
+    },
+    {
+        "start": 305.68,
+        "end": 307.68,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 307.68,
+        "end": 309.68,
+        "english": "Yes. With food, I am greedy.",
+        "chinese": "是的。我贪吃食物。"
+    },
+    {
+        "start": 309.68,
+        "end": 311.68,
+        "english": "All right. So, these are some great words.",
+        "chinese": "好的。所以，这些是些很好的词。"
+    },
+    {
+        "start": 311.68,
+        "end": 315.68,
+        "english": "And I think, you know, if we listen to the dialogue another time,",
+        "chinese": "而且，你说得对，如果我们再听一次对话，那么……"
+    },
+    {
+        "start": 315.68,
+        "end": 317.68,
+        "english": "a little bit more slowly,",
+        "chinese": "稍微慢一点。"
+    },
+    {
+        "start": 317.68,
+        "end": 319.68,
+        "english": "we'll be able to hear them a little bit better.",
+        "chinese": "我们能听到他们有一点点更好。"
+    },
+    {
+        "start": 319.68,
+        "end": 321.68,
+        "english": "All right. So, this is what we're going to do.",
+        "chinese": "好的。那么，我们将会做些什么呢。"
+    },
+    {
+        "start": 321.68,
+        "end": 323.68,
+        "english": "I think we're going to do this.",
+        "chinese": "我认为我们将会这样做。"
+    },
+    {
+        "start": 323.68,
+        "end": 325.68,
+        "english": "I think we're going to do this.",
+        "chinese": "我认为我们将会这样做。"
+    },
+    {
+        "start": 325.68,
+        "end": 327.68,
+        "english": "I think we're going to do this.",
+        "chinese": "我认为我们将会这样做。"
+    },
+    {
+        "start": 327.68,
+        "end": 329.68,
+        "english": "I think we're going to do this.",
+        "chinese": "我认为我们将会这样做。"
+    },
+    {
+        "start": 329.68,
+        "end": 331.68,
+        "english": "This is what we're going to do.",
+        "chinese": "这是我们要做的。"
+    },
+    {
+        "start": 331.68,
+        "end": 333.68,
+        "english": "I have carefully mapped this out.",
+        "chinese": "我仔细地规划好了这个。"
+    },
+    {
+        "start": 333.68,
+        "end": 335.68,
+        "english": "So, don't screw it up.",
+        "chinese": "所以，不要弄砸了。"
+    },
+    {
+        "start": 335.68,
+        "end": 339.68,
+        "english": "Mr. Rabbit, you and Mr. Fox will go into the bank.",
+        "chinese": "先生、兔子和狐狸将进入银行。"
+    },
+    {
+        "start": 339.68,
+        "end": 341.68,
+        "english": "Wearing these uniforms.",
+        "chinese": "穿着这些制服。"
+    },
+    {
+        "start": 341.68,
+        "end": 345.68,
+        "english": "We've managed to get replicas of the one the guards wear when they pick up the money.",
+        "chinese": "我们已经成功地复制了当警卫们拿到钱时佩戴的那套衣服。"
+    },
+    {
+        "start": 345.68,
+        "end": 347.68,
+        "english": "Got it.",
+        "chinese": "知道了。"
+    },
+    {
+        "start": 347.68,
+        "end": 349.68,
+        "english": "No problem, boss.",
+        "chinese": "没问题，老板。"
+    },
+    {
+        "start": 349.68,
+        "end": 353.68,
+        "english": "When you get inside, tell them that you're filling in for Carl and Tom.",
+        "chinese": "当你进入时，告诉他们你正在替卡尔和汤姆填表。"
+    },
+    {
+        "start": 353.68,
+        "end": 357.68,
+        "english": "And say that they're on another route today.",
+        "chinese": "今天，他们正在另一条路上。"
+    },
+    {
+        "start": 357.68,
+        "end": 359.68,
+        "english": "And you can just lose your cool.",
+        "chinese": "你可以像没事一样地处理这种情况。"
+    },
+    {
+        "start": 359.68,
+        "end": 361.68,
+        "english": "Just act natural.",
+        "chinese": "请自然行事。"
+    },
+    {
+        "start": 361.68,
+        "end": 363.68,
+        "english": "What if they want to call and confirm?",
+        "chinese": "如果他们想打电话并确认？"
+    },
+    {
+        "start": 363.68,
+        "end": 365.68,
+        "english": "You let him.",
+        "chinese": "您让他。"
+    },
+    {
+        "start": 365.68,
+        "end": 367.68,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 367.68,
+        "end": 369.68,
+        "english": "Don't worry.",
+        "chinese": "不要担心。"
+    },
+    {
+        "start": 369.68,
+        "end": 371.68,
+        "english": "We have the phones tapped.",
+        "chinese": "我们已经把手机连接上了。"
+    },
+    {
+        "start": 371.68,
+        "end": 373.68,
+        "english": "So, the call will be patched through to me.",
+        "chinese": "所以，这个呼叫将通过我来修复。"
+    },
+    {
+        "start": 373.68,
+        "end": 375.68,
+        "english": "And I'll pretend to be the transport company.",
+        "chinese": "我将假装成为运输公司。"
+    },
+    {
+        "start": 375.68,
+        "end": 377.68,
+        "english": "You're so clever, boss.",
+        "chinese": "您真是太聪明了，老板。"
+    },
+    {
+        "start": 377.68,
+        "end": 379.68,
+        "english": "Okay, shut up.",
+        "chinese": "好的，闭嘴。"
+    },
+    {
+        "start": 379.68,
+        "end": 383.68,
+        "english": "Only take as much money as you can fit into these bags.",
+        "chinese": "仅取你能够放入这些袋子中的钱。"
+    },
+    {
+        "start": 383.68,
+        "end": 385.68,
+        "english": "Don't get greedy.",
+        "chinese": "不要贪婪。"
+    },
+    {
+        "start": 385.68,
+        "end": 386.68,
+        "english": "Are you ready?",
+        "chinese": "是吗？"
+    },
+    {
+        "start": 386.68,
+        "end": 388.68,
+        "english": "Let's go.",
+        "chinese": "让我们走。"
+    },
+    {
+        "start": 388.68,
+        "end": 396.68,
+        "english": "Okay, so now we understand these words that we talked about in language takeaway.",
+        "chinese": "好的，现在我们理解了我们在语言总结中讨论的这些词汇。"
+    },
+    {
+        "start": 396.68,
+        "end": 400.68,
+        "english": "So now let's take a look at some of these great phrases in fluency builder.",
+        "chinese": "所以现在让我们看看这些流畅构建中的好词句。"
+    },
+    {
+        "start": 400.68,
+        "end": 402.68,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 402.68,
+        "end": 404.68,
+        "english": "We've got three phrases for you here.",
+        "chinese": "我们这里有三个给你。"
+    },
+    {
+        "start": 404.68,
+        "end": 408.68,
+        "english": "And these are all phrases you might use when you're planning something.",
+        "chinese": "这些都是你可能在计划某事时使用的短语。"
+    },
+    {
+        "start": 408.68,
+        "end": 412.68,
+        "english": "So the first one, mapped out.",
+        "chinese": "所以第一个，规划出来了。"
+    },
+    {
+        "start": 412.68,
+        "end": 414.68,
+        "english": "I've carefully mapped this out.",
+        "chinese": "我仔细地规划了这个。"
+    },
+    {
+        "start": 414.68,
+        "end": 416.68,
+        "english": "mapped out.",
+        "chinese": "映射出来了。"
+    },
+    {
+        "start": 416.68,
+        "end": 418.68,
+        "english": "To map out.",
+        "chinese": "将 \"to map out\" 翻译成中文是 \"规划出\"。"
+    },
+    {
+        "start": 418.68,
+        "end": 420.68,
+        "english": "So when you map something out, what do you do?",
+        "chinese": "所以当你把东西画出来，你怎么做？"
+    },
+    {
+        "start": 420.68,
+        "end": 422.68,
+        "english": "Well, you literally create a plan.",
+        "chinese": "正确，以下是该句子的中文翻译："
+    },
+    {
+        "start": 422.68,
+        "end": 426.68,
+        "english": "You draw a map of what you're going to do.",
+        "chinese": "您绘制出您将要做的事情的地图。"
+    },
+    {
+        "start": 426.68,
+        "end": 428.68,
+        "english": "So here is it only for like travel or?",
+        "chinese": "所以，这只是像旅行或？"
+    },
+    {
+        "start": 428.68,
+        "end": 432.68,
+        "english": "No, no, no. It's like, for example, if we're starting a new project in the company,",
+        "chinese": "是的，不，不。比如说，如果我们开始一个新的项目在公司里，"
+    },
+    {
+        "start": 432.68,
+        "end": 434.68,
+        "english": "you can map out the project.",
+        "chinese": "你可以规划项目。"
+    },
+    {
+        "start": 434.68,
+        "end": 436.68,
+        "english": "What you're going to do this month, next month.",
+        "chinese": "你这个月要做什么，下个月也要做。"
+    },
+    {
+        "start": 436.68,
+        "end": 438.68,
+        "english": "So it's a plan.",
+        "chinese": "所以，这是一个计划。"
+    },
+    {
+        "start": 438.68,
+        "end": 440.68,
+        "english": "So you draw every step in the plan.",
+        "chinese": "所以你每一步都在计划中。"
+    },
+    {
+        "start": 440.68,
+        "end": 442.68,
+        "english": "Every step, right?",
+        "chinese": "每一步，对吗？"
+    },
+    {
+        "start": 442.68,
+        "end": 446.68,
+        "english": "Well, I've mapped out this plan for a new project.",
+        "chinese": "很好，我已经规划好了这个新项目。"
+    },
+    {
+        "start": 446.68,
+        "end": 448.68,
+        "english": "Okay, interesting word.",
+        "chinese": "好的，有趣的词。"
+    },
+    {
+        "start": 448.68,
+        "end": 452.68,
+        "english": "I think we should hear some examples of how it's used.",
+        "chinese": "我认为我们应该听听一些例子，如何使用它。"
+    },
+    {
+        "start": 452.68,
+        "end": 454.68,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 454.68,
+        "end": 456.68,
+        "english": "So I have the future all mapped out.",
+        "chinese": "所以，我已经规划好了未来。"
+    },
+    {
+        "start": 456.68,
+        "end": 458.68,
+        "english": "Well, you'll get a job as a waiter.",
+        "chinese": "嗯，你会得到一个服务员的工作。"
+    },
+    {
+        "start": 458.68,
+        "end": 460.68,
+        "english": "Then we'll get married.",
+        "chinese": "然后我们结婚。"
+    },
+    {
+        "start": 460.68,
+        "end": 464.68,
+        "english": "And two years later, we'll start having kids.",
+        "chinese": "然后，我们将开始生育孩子。"
+    },
+    {
+        "start": 464.68,
+        "end": 466.68,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 466.68,
+        "end": 470.68,
+        "english": "We're mapping out the marketing plan at the meeting today.",
+        "chinese": "我们今天正在制定营销计划。"
+    },
+    {
+        "start": 470.68,
+        "end": 474.68,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 474.68,
+        "end": 478.68,
+        "english": "Okay, I've mapped out our trip.",
+        "chinese": "好的，我已经规划好了我们的旅行。"
+    },
+    {
+        "start": 478.68,
+        "end": 482.68,
+        "english": "And it should take about 10 hours.",
+        "chinese": "And it should take about 10小时。"
+    },
+    {
+        "start": 482.68,
+        "end": 484.68,
+        "english": "All right, so mapped out.",
+        "chinese": "好的，已经规划好了。"
+    },
+    {
+        "start": 484.68,
+        "end": 486.68,
+        "english": "Really, really clear now.",
+        "chinese": "真的，真的很清楚。"
+    },
+    {
+        "start": 486.68,
+        "end": 488.68,
+        "english": "Let's take a look at our next word.",
+        "chinese": "让我们看看我们的下一个词。"
+    },
+    {
+        "start": 488.68,
+        "end": 492.68,
+        "english": "All right, so if you've mapped out a plan, you don't want to screw it up.",
+        "chinese": "好的，如果你们已经制定了计划，那么你们就不希望出错。"
+    },
+    {
+        "start": 492.68,
+        "end": 494.68,
+        "english": "Right, screw it up.",
+        "chinese": "正确，糟蹋掉。"
+    },
+    {
+        "start": 494.68,
+        "end": 496.68,
+        "english": "Screw it up.",
+        "chinese": "滚蛋。"
+    },
+    {
+        "start": 496.68,
+        "end": 498.68,
+        "english": "Or screw up.",
+        "chinese": "或者搞砸了。"
+    },
+    {
+        "start": 498.68,
+        "end": 499.68,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 499.68,
+        "end": 502.68,
+        "english": "So just screw something up means that you made a mistake on something.",
+        "chinese": "所以，就让它出问题意味着你犯了一个错误。"
+    },
+    {
+        "start": 502.68,
+        "end": 504.68,
+        "english": "Or you did something wrong.",
+        "chinese": "或者你做错了。"
+    },
+    {
+        "start": 504.68,
+        "end": 506.68,
+        "english": "You did it wrong.",
+        "chinese": "你做错了。"
+    },
+    {
+        "start": 506.68,
+        "end": 511.68,
+        "english": "Okay, so for example, if I'm taking an exam and I make a mistake, I screwed up on the exam.",
+        "chinese": "好的，例如，如果我在考试中犯了一个错误，我错失了这次考试的机会。"
+    },
+    {
+        "start": 511.68,
+        "end": 513.6800000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 513.6800000000001,
+        "end": 517.6800000000001,
+        "english": "Or for example, here, when we're recording, Marco and I make mistakes a lot.",
+        "chinese": "例如，当我们在录音时，马克和我犯了很多错误。"
+    },
+    {
+        "start": 517.6800000000001,
+        "end": 519.6800000000001,
+        "english": "Maybe more me than Marco.",
+        "chinese": "可能更多的是Marco。"
+    },
+    {
+        "start": 519.6800000000001,
+        "end": 521.6800000000001,
+        "english": "We always screw up.",
+        "chinese": "我们总是出错。"
+    },
+    {
+        "start": 521.6800000000001,
+        "end": 522.6800000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 522.6800000000001,
+        "end": 525.6800000000001,
+        "english": "So to make a mistake, it's a really informal word, but very, very common.",
+        "chinese": "所以犯错误，这是一个非常口语化的词，但非常普遍。"
+    },
+    {
+        "start": 525.68,
+        "end": 529.68,
+        "english": "Yeah, and you know, it sounds really, really natural when people use this.",
+        "chinese": "是的，你知道，当人们使用这个时，听起来真的很自然。"
+    },
+    {
+        "start": 529.68,
+        "end": 532.68,
+        "english": "All right, so now let's take a look at our last word.",
+        "chinese": "好的，现在让我们看看我们上一次说的词。"
+    },
+    {
+        "start": 532.68,
+        "end": 534.68,
+        "english": "Lose your cool.",
+        "chinese": "失掉冷静。"
+    },
+    {
+        "start": 534.68,
+        "end": 536.68,
+        "english": "Lose your cool.",
+        "chinese": "失掉冷静。"
+    },
+    {
+        "start": 536.68,
+        "end": 537.68,
+        "english": "Don't lose your cool.",
+        "chinese": "不要失去冷静。"
+    },
+    {
+        "start": 537.68,
+        "end": 539.68,
+        "english": "So what is this to lose your cool?",
+        "chinese": "所以，这有什么值得你失去冷静吗？"
+    },
+    {
+        "start": 539.68,
+        "end": 540.68,
+        "english": "It's a weird expression.",
+        "chinese": "这是一个奇怪的表达。"
+    },
+    {
+        "start": 540.68,
+        "end": 541.68,
+        "english": "It's a weird expression.",
+        "chinese": "这是一个奇怪的表达。"
+    },
+    {
+        "start": 541.68,
+        "end": 548.68,
+        "english": "Why don't we just give you an example of a person that loses his or her cool?",
+        "chinese": "为什么我们不给你一个例子，一个人在生气时就变得无理取闹呢？"
+    },
+    {
+        "start": 548.68,
+        "end": 550.68,
+        "english": "What do you mean you're not ready to go?",
+        "chinese": "您说你还不准备去？"
+    },
+    {
+        "start": 550.68,
+        "end": 552.68,
+        "english": "It's time to go.",
+        "chinese": "时间到了。"
+    },
+    {
+        "start": 552.68,
+        "end": 553.68,
+        "english": "We have to go now.",
+        "chinese": "我们得走了。"
+    },
+    {
+        "start": 553.68,
+        "end": 554.68,
+        "english": "I thought we were supposed to leave.",
+        "chinese": "我猜想我们该走了。"
+    },
+    {
+        "start": 554.68,
+        "end": 556.68,
+        "english": "Punieta, now we're sitting here again.",
+        "chinese": "现在我们再次坐在这里。"
+    },
+    {
+        "start": 556.68,
+        "end": 557.68,
+        "english": "I'm going to wait for you.",
+        "chinese": "我将等你。"
+    },
+    {
+        "start": 557.68,
+        "end": 558.68,
+        "english": "Boninam.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 558.68,
+        "end": 562.68,
+        "english": "Okay, so basically you lose your temper.",
+        "chinese": "嗯，基本上你发脾气了。"
+    },
+    {
+        "start": 562.68,
+        "end": 564.68,
+        "english": "You become irritated.",
+        "chinese": "您变得烦躁。"
+    },
+    {
+        "start": 564.68,
+        "end": 567.68,
+        "english": "You lose control of your emotions.",
+        "chinese": "你失去了控制你的感情。"
+    },
+    {
+        "start": 567.68,
+        "end": 568.68,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 568.68,
+        "end": 571.68,
+        "english": "So Marco, when you lose your cool, is it always that you get angry?",
+        "chinese": "所以马科，当你失去冷静时，总是会变得生气吗？"
+    },
+    {
+        "start": 571.68,
+        "end": 573.68,
+        "english": "You don't always get angry.",
+        "chinese": "您不会总是生气。"
+    },
+    {
+        "start": 573.68,
+        "end": 577.68,
+        "english": "Maybe you get irritated or impatient or even nervous.",
+        "chinese": "可能你感到烦躁或不耐烦，甚至有点紧张。"
+    },
+    {
+        "start": 577.68,
+        "end": 578.68,
+        "english": "Nervous.",
+        "chinese": "神经质。"
+    },
+    {
+        "start": 578.68,
+        "end": 579.68,
+        "english": "Yeah, right.",
+        "chinese": "是的，正确。"
+    },
+    {
+        "start": 579.68,
+        "end": 581.68,
+        "english": "So basically you're not in control of your emotions.",
+        "chinese": "所以基本上你不是控制自己的情绪。"
+    },
+    {
+        "start": 581.68,
+        "end": 585.68,
+        "english": "Okay, so we've looked at a lot of great phrases, a lot of great words.",
+        "chinese": "好的，我们已经看了很多好词和好句。"
+    },
+    {
+        "start": 585.68,
+        "end": 589.68,
+        "english": "So we can listen to our dialogue now for the third time and then we'll come back and talk",
+        "chinese": "所以现在我们可以再次倾听我们的对话，然后我们再回来继续讨论。"
+    },
+    {
+        "start": 589.68,
+        "end": 600.68,
+        "english": "about this bank robbery business.",
+        "chinese": "关于这个银行抢劫业务。"
+    },
+    {
+        "start": 600.68,
+        "end": 604.68,
+        "english": "All right, so this is what we're going to do.",
+        "chinese": "好的，那么我们打算怎么做呢。"
+    },
+    {
+        "start": 604.68,
+        "end": 608.68,
+        "english": "I've carefully mapped this out so don't screw it up.",
+        "chinese": "我仔细地规划好了这个，不要出问题。"
+    },
+    {
+        "start": 608.68,
+        "end": 611.68,
+        "english": "Mr. Rabbit, you and Mr. Fox will go into the bank wearing these uniforms.",
+        "chinese": "先生、兔子和狐狸将穿上这些制服去银行。"
+    },
+    {
+        "start": 611.68,
+        "end": 615.68,
+        "english": "We've managed to get replicas of the one the guards wear for when they pick up the money.",
+        "chinese": "我们已经成功地复制了那些士兵在取钱时佩戴的备用装备。"
+    },
+    {
+        "start": 615.68,
+        "end": 616.68,
+        "english": "Got it.",
+        "chinese": "明白了。"
+    },
+    {
+        "start": 616.68,
+        "end": 618.68,
+        "english": "No problem boss.",
+        "chinese": "没问题老板。"
+    },
+    {
+        "start": 618.68,
+        "end": 623.68,
+        "english": "When you get inside, tell them that you're filling in for Carl and Tom and say that they're on another route today.",
+        "chinese": "当你进入时，告诉他们你正在替卡尔和汤姆填表，并说今天他们将换一条路。"
+    },
+    {
+        "start": 623.68,
+        "end": 625.68,
+        "english": "Don't lose your cool.",
+        "chinese": "不要失去冷静。"
+    },
+    {
+        "start": 625.68,
+        "end": 626.68,
+        "english": "Just act natural.",
+        "chinese": "请自然行事。"
+    },
+    {
+        "start": 626.68,
+        "end": 628.68,
+        "english": "What did they want to call and confirm?",
+        "chinese": "他们想叫什么，确认一下？"
+    },
+    {
+        "start": 628.68,
+        "end": 629.68,
+        "english": "You let him.",
+        "chinese": "您让他。"
+    },
+    {
+        "start": 629.68,
+        "end": 630.68,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 630.68,
+        "end": 631.68,
+        "english": "Don't worry.",
+        "chinese": "不要担心。"
+    },
+    {
+        "start": 631.68,
+        "end": 637.68,
+        "english": "We have the phones tapped so the call will be patched through to me and all pretend to be the transport company.",
+        "chinese": "我们已经把手机连接好，这样我们的通话将通过我来完成，并且假装成是运输公司。"
+    },
+    {
+        "start": 637.68,
+        "end": 639.68,
+        "english": "You're so clever boss.",
+        "chinese": "您是这么聪明的老板。"
+    },
+    {
+        "start": 639.68,
+        "end": 641.68,
+        "english": "Okay, shut up.",
+        "chinese": "好的，闭嘴。"
+    },
+    {
+        "start": 641.68,
+        "end": 643.68,
+        "english": "Only take as much money as you can fit in these bags.",
+        "chinese": "仅取这些包中可以装下的钱。"
+    },
+    {
+        "start": 643.68,
+        "end": 644.68,
+        "english": "Don't get greedy.",
+        "chinese": "不要贪婪。"
+    },
+    {
+        "start": 644.68,
+        "end": 645.68,
+        "english": "Are you ready?",
+        "chinese": "是吗？"
+    },
+    {
+        "start": 645.68,
+        "end": 646.68,
+        "english": "Let's go.",
+        "chinese": "让我们走。"
+    },
+    {
+        "start": 652.68,
+        "end": 656.68,
+        "english": "So there's a lot of movies about bank robberies, but obviously they happen in real life.",
+        "chinese": "所以有很多关于银行抢劫的电影，但很明显它们发生在现实中。"
+    },
+    {
+        "start": 656.68,
+        "end": 660.68,
+        "english": "So this dialogue is actually based on real events, right?",
+        "chinese": "所以，这个对话实际上基于实际事件吗？"
+    },
+    {
+        "start": 660.68,
+        "end": 666.68,
+        "english": "Yeah, this actually happened in real life and so it's actually a very creative and non-violent way of robbing a bank.",
+        "chinese": "是的，这在现实中确实发生过，并且这是一种非常有创意和非暴力的方式抢劫银行。"
+    },
+    {
+        "start": 666.68,
+        "end": 668.68,
+        "english": "Okay, so what happened?",
+        "chinese": "好的，那么发生了什么？"
+    },
+    {
+        "start": 668.68,
+        "end": 677.68,
+        "english": "Basically, this guy went to a bank dressed up as one of those security guards that transport the money from the bank to another safe place.",
+        "chinese": "基本来说，这个家伙穿上了那个负责从银行将钱送到另一个安全地方的保安。"
+    },
+    {
+        "start": 677.68,
+        "end": 680.68,
+        "english": "He had fake credentials or replica credentials and...",
+        "chinese": "他有假的认证或复制品认证..."
+    },
+    {
+        "start": 680.68,
+        "end": 681.68,
+        "english": "So fake ID.",
+        "chinese": "所以假身份证。"
+    },
+    {
+        "start": 681.68,
+        "end": 683.68,
+        "english": "Yeah, he had a replica of the uniform.",
+        "chinese": "是的，他有一套仿制的军装。"
+    },
+    {
+        "start": 683.68,
+        "end": 684.68,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 684.68,
+        "end": 690.68,
+        "english": "And he walked in, he took all these bags, him and his partner, and they took him to the truck and drove off.",
+        "chinese": "他走着，他拿走了这些包，他和他的伴侣一起去了卡车，然后开车走了。"
+    },
+    {
+        "start": 690.68,
+        "end": 692.68,
+        "english": "And the bank didn't realize that they had been robbed.",
+        "chinese": "和银行没有意识到他们被抢劫。"
+    },
+    {
+        "start": 692.68,
+        "end": 694.68,
+        "english": "They thought it was a routine thing.",
+        "chinese": "他们认为这是例行事情。"
+    },
+    {
+        "start": 694.68,
+        "end": 698.68,
+        "english": "Three or four hours later, the real security guard shows up.",
+        "chinese": "三四个小时后，真正的安全员出现了。"
+    },
+    {
+        "start": 698.68,
+        "end": 701.68,
+        "english": "They were long gone and they still can't find them.",
+        "chinese": "他们已经远去了，但他们仍然找不到它们。"
+    },
+    {
+        "start": 701.68,
+        "end": 703.68,
+        "english": "Really? So a very clever plan.",
+        "chinese": "真的吗？所以一个非常聪明的计划。"
+    },
+    {
+        "start": 703.68,
+        "end": 705.68,
+        "english": "Very clever and very effective, I think.",
+        "chinese": "非常聪明而且非常有效，我认为。"
+    },
+    {
+        "start": 705.68,
+        "end": 708.68,
+        "english": "They stole over half a million dollars.",
+        "chinese": "他们盗走了超过半百万美元。"
+    },
+    {
+        "start": 708.68,
+        "end": 711.68,
+        "english": "Okay, well guys, don't try this at home.",
+        "chinese": "好的，各位，请不要在家里尝试这个。"
+    },
+    {
+        "start": 711.68,
+        "end": 715.68,
+        "english": "Don't try this at home, but real life, real English, right?",
+        "chinese": "不要在家里尝试，而是要真实的生活、真实的英语。"
+    },
+    {
+        "start": 715.68,
+        "end": 716.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 716.68,
+        "end": 721.68,
+        "english": "Okay, so come to our website, leave your questions and comments, tell us what you think will happen with these guys.",
+        "chinese": "好的，那么请到我们的网站，留下您的问题和评论，告诉我您对这些家伙的看法。"
+    },
+    {
+        "start": 721.68,
+        "end": 723.68,
+        "english": "Do you think they'll be successful?",
+        "chinese": "是的，他们有可能成功。"
+    },
+    {
+        "start": 723.68,
+        "end": 724.68,
+        "english": "Do you think they'll get caught?",
+        "chinese": "是的，他们可能会被抓住。"
+    },
+    {
+        "start": 724.68,
+        "end": 726.68,
+        "english": "Yeah, they might end up in jail.",
+        "chinese": "是的，他们可能会被关押。"
+    },
+    {
+        "start": 726.68,
+        "end": 727.68,
+        "english": "Who knows?",
+        "chinese": "谁知道？"
+    },
+    {
+        "start": 727.68,
+        "end": 729.68,
+        "english": "Maybe somebody will lose their cool and get caught, right?",
+        "chinese": "是的，也许有人会失去理智并被抓住。"
+    },
+    {
+        "start": 729.68,
+        "end": 732.68,
+        "english": "Well, thanks for listening guys and until next time.",
+        "chinese": "好的，谢谢大家听我讲话了。下一次见！"
+    },
+    {
+        "start": 732.68,
+        "end": 733.68,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

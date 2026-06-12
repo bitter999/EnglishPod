@@ -1,0 +1,2474 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.2,
+        "english": "Hello everyone, welcome back to English pod, my name is Marco.",
+        "chinese": "大家好，欢迎再次回到英语频道，我的名字是马科。"
+    },
+    {
+        "start": 6.2,
+        "end": 7.6000000000000005,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.6000000000000005,
+        "end": 10.76,
+        "english": "And today we're gonna be bringing you another great sports lesson.",
+        "chinese": "今天我们将为您带来另一堂精彩的体育课。"
+    },
+    {
+        "start": 10.76,
+        "end": 13.6,
+        "english": "Yes, this one is for all our hockey fans.",
+        "chinese": "是的，这是我们的所有冰球爱好者们的。"
+    },
+    {
+        "start": 13.6,
+        "end": 19.2,
+        "english": "I know we have a lot of listeners from Russia, so this is a very popular sport in Russia, Czech Republic.",
+        "chinese": "我知道我们有很多来自俄罗斯的听众，所以这是非常受欢迎的运动，在俄罗斯、捷克共和国。"
+    },
+    {
+        "start": 19.2,
+        "end": 19.8,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 19.8,
+        "end": 20.8,
+        "english": "Canada.",
+        "chinese": "加拿大。"
+    },
+    {
+        "start": 20.8,
+        "end": 22.0,
+        "english": "And Canada, right?",
+        "chinese": "哪国？"
+    },
+    {
+        "start": 22.0,
+        "end": 23.6,
+        "english": "Very, very popular in Canada.",
+        "chinese": "非常流行在加拿大。"
+    },
+    {
+        "start": 23.6,
+        "end": 26.2,
+        "english": "It's our national game.",
+        "chinese": "它是我们的国家游戏。"
+    },
+    {
+        "start": 26.2,
+        "end": 28.400000000000002,
+        "english": "Well, I guess because you guys have so much ice.",
+        "chinese": "嗯，大概因为你们这么多冰。"
+    },
+    {
+        "start": 28.4,
+        "end": 30.4,
+        "english": "I know there's nothing else to do.",
+        "chinese": "我知道再没有其他事可做。"
+    },
+    {
+        "start": 30.4,
+        "end": 32.4,
+        "english": "Skin and hockey.",
+        "chinese": "皮肤和冰球。"
+    },
+    {
+        "start": 32.4,
+        "end": 35.4,
+        "english": "All right, so it's gonna be a really fun lesson.",
+        "chinese": "好的，那么这将是一个非常有趣的课程。"
+    },
+    {
+        "start": 35.4,
+        "end": 37.4,
+        "english": "We're gonna have a lot of great vocabularies.",
+        "chinese": "我们会有许多好词汇。"
+    },
+    {
+        "start": 37.4,
+        "end": 42.4,
+        "english": "So before we start in the dialogue, let's take a look at Vocabulary Preview.",
+        "chinese": "所以在对话之前，让我们看看词汇预览。"
+    },
+    {
+        "start": 42.4,
+        "end": 44.4,
+        "english": "Vocabulary Preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 44.4,
+        "end": 47.4,
+        "english": "Well, we have three words for you now.",
+        "chinese": "好的，现在我们有三个词给你。"
+    },
+    {
+        "start": 47.4,
+        "end": 50.4,
+        "english": "The first one, really simple.",
+        "chinese": "第一个，真的简单。"
+    },
+    {
+        "start": 50.4,
+        "end": 51.4,
+        "english": "Huck.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 51.4,
+        "end": 52.4,
+        "english": "Huck.",
+        "chinese": "在中文中，\"Huck\"可以翻译为："
+    },
+    {
+        "start": 52.4,
+        "end": 53.4,
+        "english": "Huck.",
+        "chinese": "在中文中，\"Huck\"可以翻译为 \"霍克\"。请注意，这个单词是英语中的一个常见拼写错误，正确的英文应该是 \"霍克\"。如果你需要更正或有其他问题，请告诉我！"
+    },
+    {
+        "start": 53.4,
+        "end": 54.4,
+        "english": "Huck.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 54.4,
+        "end": 55.4,
+        "english": "P-U-C-K.",
+        "chinese": "P-U-C-K は、英語で \"Power User\" と呼ばれる人です。これは、ユーザーが特定の技術やスキルを有する人々を指します。例えば、プログラマー、ゲームデザイナー、音楽家など、特定の分野に特化した人を指すことが多いです。"
+    },
+    {
+        "start": 55.4,
+        "end": 58.4,
+        "english": "So it's almost like duck, but with a P.",
+        "chinese": "所以它就像鸭子，但带有“P”。"
+    },
+    {
+        "start": 58.4,
+        "end": 59.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 59.4,
+        "end": 63.4,
+        "english": "And this is actually kind of like the ball that you use in hockey.",
+        "chinese": "这句话的意思是：“实际上，这就像你在冰上使用足球。”"
+    },
+    {
+        "start": 63.4,
+        "end": 64.4,
+        "english": "But it's not a ball.",
+        "chinese": "但是它不是球。"
+    },
+    {
+        "start": 64.4,
+        "end": 65.4,
+        "english": "But it's not a ball.",
+        "chinese": "但是，这不是一个球。"
+    },
+    {
+        "start": 65.4,
+        "end": 66.4,
+        "english": "It's flats.",
+        "chinese": "它是一套房子。"
+    },
+    {
+        "start": 66.4,
+        "end": 67.4,
+        "english": "It's flat.",
+        "chinese": "是平的。"
+    },
+    {
+        "start": 67.4,
+        "end": 68.4,
+        "english": "And round.",
+        "chinese": "而且圆。"
+    },
+    {
+        "start": 68.4,
+        "end": 69.4,
+        "english": "And round.",
+        "chinese": "而且圆。"
+    },
+    {
+        "start": 69.4,
+        "end": 72.4,
+        "english": "So it looks like a disc, kind of like a mini-freeze B.",
+        "chinese": "所以看起来像一个盘子，有点像一个小冰箱的样子。"
+    },
+    {
+        "start": 72.4,
+        "end": 73.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 73.4,
+        "end": 75.4,
+        "english": "And this is what the players do.",
+        "chinese": "而且，这是球员们所做的事情。"
+    },
+    {
+        "start": 75.4,
+        "end": 76.4,
+        "english": "This is what they...",
+        "chinese": "这正是他们..."
+    },
+    {
+        "start": 76.4,
+        "end": 77.4,
+        "english": "They chase this around.",
+        "chinese": "他们追逐着这个。"
+    },
+    {
+        "start": 77.4,
+        "end": 78.4,
+        "english": "They chase it.",
+        "chinese": "他们追赶它。"
+    },
+    {
+        "start": 78.4,
+        "end": 80.4,
+        "english": "So in basketball you have a ball and soccer you have a ball.",
+        "chinese": "所以，在篮球中，你有一个球；在足球中，你也有一只球。"
+    },
+    {
+        "start": 80.4,
+        "end": 82.4,
+        "english": "In hockey you have a puck.",
+        "chinese": "在冰球中，你有一个球。"
+    },
+    {
+        "start": 82.4,
+        "end": 83.4,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 83.4,
+        "end": 84.4,
+        "english": "So what are next words?",
+        "chinese": "所以接下来的词是什么？"
+    },
+    {
+        "start": 84.4,
+        "end": 85.4,
+        "english": "Key game.",
+        "chinese": "在中文中，\"Key game\" 翻译为 \"关键游戏\"。"
+    },
+    {
+        "start": 85.4,
+        "end": 86.4,
+        "english": "A key game.",
+        "chinese": "一个关键的游戏。"
+    },
+    {
+        "start": 86.4,
+        "end": 87.4,
+        "english": "A key game.",
+        "chinese": "一个关键的游戏。"
+    },
+    {
+        "start": 87.4,
+        "end": 89.4,
+        "english": "So this word key.",
+        "chinese": "所以这个单词键。"
+    },
+    {
+        "start": 89.4,
+        "end": 90.4,
+        "english": "Important.",
+        "chinese": "重要。 (Wángyǒuqì)"
+    },
+    {
+        "start": 90.4,
+        "end": 91.4,
+        "english": "It means important.",
+        "chinese": "这句话“它意味着重要”可以翻译成中文为：“它意味着重要。”"
+    },
+    {
+        "start": 91.4,
+        "end": 92.4,
+        "english": "Really important.",
+        "chinese": "真的很重要。"
+    },
+    {
+        "start": 92.4,
+        "end": 93.4,
+        "english": "Really important.",
+        "chinese": "真的很重要。"
+    },
+    {
+        "start": 93.4,
+        "end": 94.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 94.4,
+        "end": 97.4,
+        "english": "So I can say a key game is a really important game.",
+        "chinese": "所以，我认为关键的游戏是非常重要的游戏。"
+    },
+    {
+        "start": 97.4,
+        "end": 98.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 98.4,
+        "end": 101.4,
+        "english": "You could also maybe say a key player.",
+        "chinese": "您还可以试着说一个关键人物。"
+    },
+    {
+        "start": 101.4,
+        "end": 103.4,
+        "english": "Key player is a really important player.",
+        "chinese": "关键角色是非常重要的角色。"
+    },
+    {
+        "start": 103.4,
+        "end": 104.4,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 104.4,
+        "end": 106.4,
+        "english": "Or even a key goal.",
+        "chinese": "或者甚至一个关键目标。"
+    },
+    {
+        "start": 106.4,
+        "end": 107.4,
+        "english": "A key goal.",
+        "chinese": "一个关键的目标。"
+    },
+    {
+        "start": 107.4,
+        "end": 108.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 108.4,
+        "end": 110.4,
+        "english": "So let's take a look at our last word now.",
+        "chinese": "所以，让我们来看看我们的最后一个单词。"
+    },
+    {
+        "start": 110.4,
+        "end": 111.4,
+        "english": "Finals.",
+        "chinese": "最终。"
+    },
+    {
+        "start": 111.4,
+        "end": 112.4,
+        "english": "Finals.",
+        "chinese": "最终。"
+    },
+    {
+        "start": 113.4,
+        "end": 114.4,
+        "english": "Finals.",
+        "chinese": "最终。"
+    },
+    {
+        "start": 114.4,
+        "end": 115.4,
+        "english": "The Finals.",
+        "chinese": "比赛的最后阶段。"
+    },
+    {
+        "start": 115.4,
+        "end": 117.4,
+        "english": "So the Finals are the last games.",
+        "chinese": "所以，决赛是最后的比赛。"
+    },
+    {
+        "start": 117.4,
+        "end": 118.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 118.4,
+        "end": 123.4,
+        "english": "And the winner of the Finals wins the championship.",
+        "chinese": "和冠军赛的胜者就是冠军。"
+    },
+    {
+        "start": 123.4,
+        "end": 124.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 124.4,
+        "end": 129.4,
+        "english": "For example, in the World Cup in soccer, there's only one game played in the finals.",
+        "chinese": "例如，在足球世界杯（soccer world cup）中，只有在决赛阶段的比赛才举行。"
+    },
+    {
+        "start": 129.4,
+        "end": 133.4,
+        "english": "So after everyone gets eliminated, there's one game where the winner is the champion.",
+        "chinese": "所以，当每个人都被淘汰了之后，就剩下一个人的赛场上，冠军就是赢家。"
+    },
+    {
+        "start": 133.4,
+        "end": 134.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 134.4,
+        "end": 135.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 135.4,
+        "end": 140.4,
+        "english": "So now we're ready to listen to our dialogue and it's going to be a little bit faster than usual.",
+        "chinese": "所以现在我们已经准备好倾听对话了，它将比平时快一些。"
+    },
+    {
+        "start": 141.4,
+        "end": 143.4,
+        "english": "Because it's a sports commentator.",
+        "chinese": "因为它是体育评论员。"
+    },
+    {
+        "start": 143.4,
+        "end": 144.4,
+        "english": "And it's exciting.",
+        "chinese": "而且是激动人心的。"
+    },
+    {
+        "start": 144.4,
+        "end": 145.4,
+        "english": "And it's exciting.",
+        "chinese": "而且是激动人心的。"
+    },
+    {
+        "start": 145.4,
+        "end": 146.4,
+        "english": "And there's a lot of action.",
+        "chinese": "还有许多动作。"
+    },
+    {
+        "start": 146.4,
+        "end": 147.4,
+        "english": "So don't worry about it.",
+        "chinese": "所以不要担心。"
+    },
+    {
+        "start": 147.4,
+        "end": 150.4,
+        "english": "Listen to it and then we'll come back and talk about some of the vocabulary.",
+        "chinese": "听一听，然后我们再聊一些词汇。"
+    },
+    {
+        "start": 171.4,
+        "end": 172.4,
+        "english": "Hello everyone.",
+        "chinese": "大家好！"
+    },
+    {
+        "start": 172.4,
+        "end": 176.4,
+        "english": "I'm Rick Fields and here with me is Bob Copeland.",
+        "chinese": "我是雷奇·弗兰克，这里是我的朋友鲍勃·科潘德。"
+    },
+    {
+        "start": 176.4,
+        "end": 178.4,
+        "english": "Howdy folks and welcome to today's game.",
+        "chinese": "大家好，欢迎来到今天的游戏。"
+    },
+    {
+        "start": 178.4,
+        "end": 181.4,
+        "english": "You know Rick, today's a key game between Russia and Canada.",
+        "chinese": "您知道里克，今天是俄罗斯和加拿大之间的关键比赛。"
+    },
+    {
+        "start": 181.4,
+        "end": 184.4,
+        "english": "As you know, the winner will move on to the finals.",
+        "chinese": "你知道，胜者将进入决赛。"
+    },
+    {
+        "start": 184.4,
+        "end": 185.4,
+        "english": "That's right.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 185.4,
+        "end": 188.4,
+        "english": "And it looks like we're just about ready to start the match.",
+        "chinese": "看来我们差不多可以开始了。"
+    },
+    {
+        "start": 188.4,
+        "end": 190.4,
+        "english": "The ref is calling the players for the face off.",
+        "chinese": "这个比赛正在为对面的球员们进行换位。"
+    },
+    {
+        "start": 190.4,
+        "end": 191.4,
+        "english": "And here we go.",
+        "chinese": "这里就来了。"
+    },
+    {
+        "start": 191.4,
+        "end": 195.4,
+        "english": "The Russians win possession and immediately start up their attack.",
+        "chinese": "俄罗斯赢得控球权，立即开始进攻。"
+    },
+    {
+        "start": 195.4,
+        "end": 198.4,
+        "english": "Federal gets checked hard into the boards.",
+        "chinese": "中央被检查得非常严格，进入董事会。"
+    },
+    {
+        "start": 198.4,
+        "end": 201.4,
+        "english": "Bolis Grishaw has the puck now and he passes it to center.",
+        "chinese": "博利斯·格里什现在有了球，他把球传给中锋。"
+    },
+    {
+        "start": 201.4,
+        "end": 202.4,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 202.4,
+        "end": 204.4,
+        "english": "Wow, what a save by the goalie.",
+        "chinese": "哇，多么出色的防守！"
+    },
+    {
+        "start": 204.4,
+        "end": 205.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 205.4,
+        "end": 207.4,
+        "english": "The puck is back in play now.",
+        "chinese": "现在，冰球的皮球回来了。"
+    },
+    {
+        "start": 207.4,
+        "end": 209.4,
+        "english": "Pevel Bore is on a breakaway.",
+        "chinese": "Pevel Bore 正在休息。"
+    },
+    {
+        "start": 209.4,
+        "end": 211.4,
+        "english": "He is flying down the ice.",
+        "chinese": "他正在冰面上飞行。"
+    },
+    {
+        "start": 211.4,
+        "end": 212.4,
+        "english": "The defenders can't keep up.",
+        "chinese": "守卫者无法跟上。"
+    },
+    {
+        "start": 212.4,
+        "end": 213.4,
+        "english": "Slap shot.",
+        "chinese": "拍打。"
+    },
+    {
+        "start": 213.4,
+        "end": 214.4,
+        "english": "He scores.",
+        "chinese": "他得分。"
+    },
+    {
+        "start": 214.4,
+        "end": 216.4,
+        "english": "What an amazing goal.",
+        "chinese": "一个令人惊叹的目标。"
+    },
+    {
+        "start": 223.4,
+        "end": 224.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 224.4,
+        "end": 226.4,
+        "english": "So the Canadians versus the Russians, huh?",
+        "chinese": "所以，加拿大与俄罗斯的对决？"
+    },
+    {
+        "start": 226.4,
+        "end": 229.4,
+        "english": "It reminds me of a classic game.",
+        "chinese": "它让我想起了一个经典的游戏。"
+    },
+    {
+        "start": 229.4,
+        "end": 230.4,
+        "english": "Classic game.",
+        "chinese": "经典游戏。"
+    },
+    {
+        "start": 230.4,
+        "end": 231.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 231.4,
+        "end": 232.4,
+        "english": "The classic match.",
+        "chinese": "经典的对局。"
+    },
+    {
+        "start": 232.4,
+        "end": 233.4,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 233.4,
+        "end": 237.4,
+        "english": "So let's take a look at some of the vocabulary that we heard in the dialogue in language takeaway.",
+        "chinese": "所以，让我们看看我们在对话中听到的一些词汇。"
+    },
+    {
+        "start": 237.4,
+        "end": 240.4,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 240.4,
+        "end": 243.4,
+        "english": "We have five phrases in language takeaway today.",
+        "chinese": "今天语言小贴士有五句话。"
+    },
+    {
+        "start": 243.4,
+        "end": 246.4,
+        "english": "And the first one is face off.",
+        "chinese": "首先，是打脸。"
+    },
+    {
+        "start": 246.4,
+        "end": 247.4,
+        "english": "Face off.",
+        "chinese": "在中文中，\"face off\" 的翻译是 \"对头\"。这个短语通常用于形容某人或某事被另一方或双方所面对的情况或者局面。例如："
+    },
+    {
+        "start": 247.4,
+        "end": 248.4,
+        "english": "Face off.",
+        "chinese": "在中文中，\"face off\" 的翻译是 \"对头\"。这个短语通常用于形容某人或某事被另一方或双方所面对的情况或者进行的对抗。例如："
+    },
+    {
+        "start": 248.4,
+        "end": 249.4,
+        "english": "Face off.",
+        "chinese": "面对。"
+    },
+    {
+        "start": 249.4,
+        "end": 252.4,
+        "english": "So Marco, a face off here is a noun, right?",
+        "chinese": "所以马科，这里有一个对称的名词？"
+    },
+    {
+        "start": 252.4,
+        "end": 254.4,
+        "english": "It's a noun exactly.",
+        "chinese": "它是确切的词。"
+    },
+    {
+        "start": 254.4,
+        "end": 255.4,
+        "english": "And it's...",
+        "chinese": "啊，..."
+    },
+    {
+        "start": 255.4,
+        "end": 260.4,
+        "english": "So in the beginning of a match, the two players will stand face to face, right?",
+        "chinese": "所以，在比赛开始时，双方球员将面对面站立，对吗？"
+    },
+    {
+        "start": 260.4,
+        "end": 262.4,
+        "english": "That's why it's called kind of a face off.",
+        "chinese": "这是因为它被称为“打脸仗”。"
+    },
+    {
+        "start": 262.4,
+        "end": 264.4,
+        "english": "And the referee will drop the puck.",
+        "chinese": "和裁判员会把球扔掉。"
+    },
+    {
+        "start": 264.4,
+        "end": 265.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 265.4,
+        "end": 266.4,
+        "english": "And they'll try to get it.",
+        "chinese": "他们将试图得到它。"
+    },
+    {
+        "start": 266.4,
+        "end": 267.4,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 267.4,
+        "end": 268.4,
+        "english": "So that's the face off.",
+        "chinese": "所以，这就是比赛的面孔。"
+    },
+    {
+        "start": 268.4,
+        "end": 269.4,
+        "english": "That's the face off.",
+        "chinese": "这是脸。"
+    },
+    {
+        "start": 269.4,
+        "end": 270.4,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 270.4,
+        "end": 271.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 271.4,
+        "end": 272.4,
+        "english": "Let's take a look at our next word.",
+        "chinese": "让我们看看我们的下一个词。"
+    },
+    {
+        "start": 272.4,
+        "end": 273.4,
+        "english": "Check.",
+        "chinese": "检查。"
+    },
+    {
+        "start": 273.4,
+        "end": 274.4,
+        "english": "Check.",
+        "chinese": "检查。"
+    },
+    {
+        "start": 274.4,
+        "end": 275.4,
+        "english": "To check.",
+        "chinese": "要检查。"
+    },
+    {
+        "start": 275.4,
+        "end": 276.4,
+        "english": "To check.",
+        "chinese": "要检查。"
+    },
+    {
+        "start": 276.4,
+        "end": 278.4,
+        "english": "So an interesting verb here, right?",
+        "chinese": "在这里，有一个有趣的动词，对吗？"
+    },
+    {
+        "start": 278.4,
+        "end": 279.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 279.4,
+        "end": 283.4,
+        "english": "It's really interesting because it's different from the way that you would say check or revise, right?",
+        "chinese": "是真的很有趣，因为和你所说的“检查”或“修改”不一样吗？"
+    },
+    {
+        "start": 283.4,
+        "end": 284.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 284.4,
+        "end": 285.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 285.4,
+        "end": 288.4,
+        "english": "This is actually kind of a violent move.",
+        "chinese": "这是个相当暴力的决定。"
+    },
+    {
+        "start": 288.4,
+        "end": 289.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 289.4,
+        "end": 290.4,
+        "english": "So what do you do?",
+        "chinese": "所以你做什么？"
+    },
+    {
+        "start": 290.4,
+        "end": 291.4,
+        "english": "It's basically in hockey.",
+        "chinese": "基本来说，是冰球。"
+    },
+    {
+        "start": 291.4,
+        "end": 295.4,
+        "english": "You take your body and you hit another person with it.",
+        "chinese": "您拿自己的身体，然后用它来打另一个人。"
+    },
+    {
+        "start": 295.4,
+        "end": 296.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 296.4,
+        "end": 299.4,
+        "english": "So to check someone is to hit them with your body.",
+        "chinese": "所以，检查某人是用你的身体来敲打。"
+    },
+    {
+        "start": 299.4,
+        "end": 300.4,
+        "english": "With your body, right?",
+        "chinese": "你的身体，对吗？"
+    },
+    {
+        "start": 300.4,
+        "end": 303.4,
+        "english": "You can't use your arms or your legs or your hands.",
+        "chinese": "你不能用你的手臂或腿或手。"
+    },
+    {
+        "start": 303.4,
+        "end": 307.4,
+        "english": "You can only hit them like with your shoulder or your hip or the hip check.",
+        "chinese": "你可以只用肩膀、臀部或髋关节来击打他们。"
+    },
+    {
+        "start": 307.4,
+        "end": 308.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 308.4,
+        "end": 309.4,
+        "english": "So yeah.",
+        "chinese": "所以啊。"
+    },
+    {
+        "start": 309.4,
+        "end": 310.4,
+        "english": "It's very cool.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 310.4,
+        "end": 311.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 311.4,
+        "end": 313.4,
+        "english": "Our next word, goalie.",
+        "chinese": "我们的下一个词，守门员。"
+    },
+    {
+        "start": 313.4,
+        "end": 314.4,
+        "english": "Golly.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 314.4,
+        "end": 315.4,
+        "english": "Golly.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 315.4,
+        "end": 317.4,
+        "english": "Golly is a person.",
+        "chinese": "Golly 是一个人。"
+    },
+    {
+        "start": 317.4,
+        "end": 318.4,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 318.4,
+        "end": 322.4,
+        "english": "And probably the bravest of the hockey match.",
+        "chinese": "而且，最勇敢的冰球比赛。"
+    },
+    {
+        "start": 322.4,
+        "end": 323.4,
+        "english": "No kidding.",
+        "chinese": "不假思索。"
+    },
+    {
+        "start": 323.4,
+        "end": 326.4,
+        "english": "So why don't you tell us what the goalie does?",
+        "chinese": "所以，你为什么不告诉我们守门员做什么？"
+    },
+    {
+        "start": 326.4,
+        "end": 330.4,
+        "english": "The goalie prevents the puck from coming in the net.",
+        "chinese": "守门员阻止皮球进入网窝。"
+    },
+    {
+        "start": 330.4,
+        "end": 332.4,
+        "english": "From going into the goal, right?",
+        "chinese": "从进入目标开始？"
+    },
+    {
+        "start": 332.4,
+        "end": 333.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 333.4,
+        "end": 336.4,
+        "english": "So the goalie stops the other team from getting a goal.",
+        "chinese": "所以，守门员阻止对方队得分。"
+    },
+    {
+        "start": 336.4,
+        "end": 337.4,
+        "english": "A goal.",
+        "chinese": "一个目标。"
+    },
+    {
+        "start": 337.4,
+        "end": 338.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 338.4,
+        "end": 339.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 339.4,
+        "end": 340.4,
+        "english": "So the goalie prevents the goals.",
+        "chinese": "所以，守门员阻止进球。"
+    },
+    {
+        "start": 340.4,
+        "end": 341.4,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 341.4,
+        "end": 343.4,
+        "english": "Now, our fourth word is related to golly.",
+        "chinese": "现在，我们的第四句话与“嗨”有关。"
+    },
+    {
+        "start": 343.4,
+        "end": 344.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 344.4,
+        "end": 345.4,
+        "english": "Save.",
+        "chinese": "保存。 (Shè jǐng.)"
+    },
+    {
+        "start": 345.4,
+        "end": 346.4,
+        "english": "Save.",
+        "chinese": "保存。 (Shè jǐng.)"
+    },
+    {
+        "start": 346.4,
+        "end": 347.4,
+        "english": "Save.",
+        "chinese": "保存。 (Shè jǐng.)"
+    },
+    {
+        "start": 347.4,
+        "end": 348.4,
+        "english": "Save.",
+        "chinese": "保存。 (Shè jǐng.)"
+    },
+    {
+        "start": 348.4,
+        "end": 349.4,
+        "english": "A save.",
+        "chinese": "一个保存。"
+    },
+    {
+        "start": 349.4,
+        "end": 350.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 350.4,
+        "end": 351.4,
+        "english": "It's a noun here.",
+        "chinese": "在这里，这是一个名词。"
+    },
+    {
+        "start": 351.4,
+        "end": 352.4,
+        "english": "It's a noun here.",
+        "chinese": "在这里，这是一个名词。"
+    },
+    {
+        "start": 352.4,
+        "end": 353.4,
+        "english": "So the goalie makes saves.",
+        "chinese": "所以，守门员做拦截。"
+    },
+    {
+        "start": 353.4,
+        "end": 354.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 354.4,
+        "end": 358.4,
+        "english": "When he stops a goal, he makes a save.",
+        "chinese": "当他在射门时做出停球，他做出了一个扑救。"
+    },
+    {
+        "start": 358.4,
+        "end": 359.4,
+        "english": "It makes a save, right?",
+        "chinese": "是保存，对吗？"
+    },
+    {
+        "start": 359.4,
+        "end": 360.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 360.4,
+        "end": 361.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 361.4,
+        "end": 365.4,
+        "english": "We have some examples so we can understand this form of using save.",
+        "chinese": "我们有一些例子，以便更好地理解如何使用保存。"
+    },
+    {
+        "start": 365.4,
+        "end": 366.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 366.4,
+        "end": 368.4,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 369.4,
+        "end": 373.4,
+        "english": "That was an unbelievable save.",
+        "chinese": "那真是一个不可思议的保送。"
+    },
+    {
+        "start": 375.4,
+        "end": 377.4,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 378.4,
+        "end": 382.4,
+        "english": "The goalie didn't make the save.",
+        "chinese": "守门员没有扑救成功。"
+    },
+    {
+        "start": 383.4,
+        "end": 385.4,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 386.4,
+        "end": 388.4,
+        "english": "What a save!",
+        "chinese": "什么好？"
+    },
+    {
+        "start": 388.4,
+        "end": 391.4,
+        "english": "The Russians win!",
+        "chinese": "俄罗斯赢得！"
+    },
+    {
+        "start": 391.4,
+        "end": 392.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 392.4,
+        "end": 397.4,
+        "english": "A little bit unusual here that save is a noun instead of a verb.",
+        "chinese": "这里有一点不寻常的地方，\"save\" 是一个名词而不是动词。"
+    },
+    {
+        "start": 397.4,
+        "end": 400.4,
+        "english": "But I think those examples were helpful.",
+        "chinese": "但是我认为这些例子是有帮助的。"
+    },
+    {
+        "start": 400.4,
+        "end": 403.4,
+        "english": "Now, let's take a look at our last word.",
+        "chinese": "现在，让我们看看我们的最后一个单词。"
+    },
+    {
+        "start": 403.4,
+        "end": 404.4,
+        "english": "Breakaway.",
+        "chinese": "Breakaway\" in Chinese is \"断崖式\" (shā bá yí)."
+    },
+    {
+        "start": 404.4,
+        "end": 405.4,
+        "english": "Breakaway.",
+        "chinese": "Breakaway\" in Chinese is \"断崖式\" (shā bá yí)."
+    },
+    {
+        "start": 405.4,
+        "end": 406.4,
+        "english": "Breakaway.",
+        "chinese": "Breakaway\" in Chinese is \"断崖式\" (shā bēi shì)."
+    },
+    {
+        "start": 406.4,
+        "end": 407.4,
+        "english": "A breakaway.",
+        "chinese": "一个断开。"
+    },
+    {
+        "start": 407.4,
+        "end": 408.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 408.4,
+        "end": 410.4,
+        "english": "So you have two words there that we know already.",
+        "chinese": "所以你有两个你知道的词，我们可以使用它们。"
+    },
+    {
+        "start": 410.4,
+        "end": 411.4,
+        "english": "Break.",
+        "chinese": "在中文中，\"break\" 的意思是 \"断开\" 或 \"中断\"。例如："
+    },
+    {
+        "start": 411.4,
+        "end": 412.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 412.4,
+        "end": 413.4,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 413.4,
+        "end": 414.4,
+        "english": "And away.",
+        "chinese": "和出去。"
+    },
+    {
+        "start": 414.4,
+        "end": 415.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 415.4,
+        "end": 416.4,
+        "english": "So what are these two words together actually mean?",
+        "chinese": "所以，这两个词实际上是什么意思？"
+    },
+    {
+        "start": 416.4,
+        "end": 420.4,
+        "english": "Well, imagine a group of hockey players all fighting to get the puck, right?",
+        "chinese": "嗯，想象一下一群冰球运动员都在拼命争夺冰球，对吗？"
+    },
+    {
+        "start": 420.4,
+        "end": 424.4,
+        "english": "And then one player breaks off.",
+        "chinese": "然后一个玩家断开。"
+    },
+    {
+        "start": 424.4,
+        "end": 425.4,
+        "english": "A skate.",
+        "chinese": "一条滑板。"
+    },
+    {
+        "start": 425.4,
+        "end": 426.4,
+        "english": "A skate.",
+        "chinese": "在中文中，\"a skate\" 翻译成 Chinese 是 \"一个滑板\"。"
+    },
+    {
+        "start": 426.4,
+        "end": 427.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 427.4,
+        "end": 430.4,
+        "english": "And he's, he skates down the ice and he has the puck.",
+        "chinese": "他滑冰，手里拿着球。"
+    },
+    {
+        "start": 430.4,
+        "end": 433.4,
+        "english": "And he's far away from the other players.",
+        "chinese": "他远在其他对手之上。"
+    },
+    {
+        "start": 433.4,
+        "end": 434.4,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 434.4,
+        "end": 435.4,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 435.4,
+        "end": 437.4,
+        "english": "So he's going away from the other players by himself.",
+        "chinese": "所以他独自离开了其他对手。"
+    },
+    {
+        "start": 437.4,
+        "end": 438.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 438.4,
+        "end": 439.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 439.4,
+        "end": 440.4,
+        "english": "So breakaway.",
+        "chinese": "所以分开。"
+    },
+    {
+        "start": 440.4,
+        "end": 441.4,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 441.4,
+        "end": 443.4,
+        "english": "So we've looked at a lot of hockey language here.",
+        "chinese": "所以我们在这里看了很多冰球语言。"
+    },
+    {
+        "start": 443.4,
+        "end": 444.4,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 444.4,
+        "end": 447.4,
+        "english": "And I think it's time now to listen to our dialogue again.",
+        "chinese": "现在是时候重新聆听我们的对话了。"
+    },
+    {
+        "start": 447.4,
+        "end": 449.4,
+        "english": "This time we're going to slow it down a little bit.",
+        "chinese": "在这个时候，我们将稍微减慢一点。"
+    },
+    {
+        "start": 449.4,
+        "end": 450.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 450.4,
+        "end": 453.4,
+        "english": "I think this will help you to understand these words a little bit better.",
+        "chinese": "我认为这将有助于你更好地理解这些单词。"
+    },
+    {
+        "start": 454.4,
+        "end": 461.4,
+        "english": "Hello, everyone.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 461.4,
+        "end": 467.4,
+        "english": "I'm Rick Fields and here with me is Bob Copeland.",
+        "chinese": "我是雷奇·弗兰克，我与鲍勃·科潘德先生在此。"
+    },
+    {
+        "start": 467.4,
+        "end": 470.71999999999997,
+        "english": "Howdy folks and welcome to today's game.",
+        "chinese": "大家好，欢迎来到今天的游戏。"
+    },
+    {
+        "start": 470.71999999999997,
+        "end": 475.35999999999996,
+        "english": "You know Rick, today is a key game between Russia and Canada.",
+        "chinese": "您知道Rick，今天是俄罗斯和加拿大之间的一场关键比赛。"
+    },
+    {
+        "start": 475.35999999999996,
+        "end": 479.15999999999997,
+        "english": "As you know, the winner will move on to the finals.",
+        "chinese": "你知道，胜者将进入决赛。"
+    },
+    {
+        "start": 479.15999999999997,
+        "end": 483.52,
+        "english": "That's right and it looks like we're just about ready to start the match.",
+        "chinese": "没错，看起来我们差不多可以开始了这场比赛。"
+    },
+    {
+        "start": 483.52,
+        "end": 486.76,
+        "english": "The ref is calling the players for the face off.",
+        "chinese": "这个比赛正在向球员们展示他们的脸。"
+    },
+    {
+        "start": 486.76,
+        "end": 488.32,
+        "english": "And here we go.",
+        "chinese": "这里就到了。"
+    },
+    {
+        "start": 488.32,
+        "end": 492.64,
+        "english": "The Russians win possession and immediately set up their attack.",
+        "chinese": "俄罗斯赢得控球权，立即展开攻击。"
+    },
+    {
+        "start": 492.64,
+        "end": 496.44,
+        "english": "Federerov gets checked hard into the boards.",
+        "chinese": "傅博在比赛中被严格限制进入比赛场地。"
+    },
+    {
+        "start": 496.44,
+        "end": 500.64,
+        "english": "Moeelysli Shod has the puck now and passes it to the center.",
+        "chinese": "Moeelysli Shod 正在发球，将球传到中圈。"
+    },
+    {
+        "start": 500.64,
+        "end": 501.64,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 501.64,
+        "end": 502.64,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 502.64,
+        "end": 504.96,
+        "english": "What a save by the goalie.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 504.96,
+        "end": 506.71999999999997,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 506.71999999999997,
+        "end": 509.12,
+        "english": "The puck is back in play now.",
+        "chinese": "现在，冰球的球回到了场上。"
+    },
+    {
+        "start": 509.12,
+        "end": 511.71999999999997,
+        "english": "Pavel Buray is on a breakaway.",
+        "chinese": "在俄罗斯，佩尔瓦·巴里亚正在休息。"
+    },
+    {
+        "start": 511.72,
+        "end": 513.76,
+        "english": "He is flying down the ice.",
+        "chinese": "他正在冰面上飞行。"
+    },
+    {
+        "start": 513.76,
+        "end": 516.1600000000001,
+        "english": "The defenders can't keep up.",
+        "chinese": "守卫者无法跟上。"
+    },
+    {
+        "start": 516.1600000000001,
+        "end": 517.1600000000001,
+        "english": "Slap shot.",
+        "chinese": "拍打枪。"
+    },
+    {
+        "start": 517.1600000000001,
+        "end": 518.1600000000001,
+        "english": "He scores.",
+        "chinese": "他得分。"
+    },
+    {
+        "start": 518.1600000000001,
+        "end": 521.72,
+        "english": "What an amazing goal.",
+        "chinese": "一个令人惊叹的目标。"
+    },
+    {
+        "start": 521.72,
+        "end": 531.88,
+        "english": "Okay, this dialogue is interesting because we have commentators narrating or describing",
+        "chinese": "好的，这个对话很有趣，因为它有评论员在叙述或描述。"
+    },
+    {
+        "start": 531.88,
+        "end": 534.1600000000001,
+        "english": "what's happening in that moment, right?",
+        "chinese": "在这一刻发生了什么，对吗？"
+    },
+    {
+        "start": 534.1600000000001,
+        "end": 535.1600000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 535.1600000000001,
+        "end": 537.6800000000001,
+        "english": "And they're using some interesting grammar, aren't they?",
+        "chinese": "他们正在使用一些有趣的语法，不是吗？"
+    },
+    {
+        "start": 537.68,
+        "end": 542.28,
+        "english": "They are because some actions are happening in that moment, but we notice something a",
+        "chinese": "他们是因为在那个时刻发生了某些行动，但我们注意到一些事情。"
+    },
+    {
+        "start": 542.28,
+        "end": 543.68,
+        "english": "little bit strange.",
+        "chinese": "小部分奇怪。"
+    },
+    {
+        "start": 543.68,
+        "end": 544.68,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 544.68,
+        "end": 547.88,
+        "english": "Well, let's look at it and grammar breakdown.",
+        "chinese": "好的，让我们看看它，语法分析。"
+    },
+    {
+        "start": 547.88,
+        "end": 549.28,
+        "english": "Rama breakdown.",
+        "chinese": "对不起，我无法直接提供或翻译中文的“Rama breakdown”这句话。不过，我可以帮助你理解这个短语的意思。"
+    },
+    {
+        "start": 549.28,
+        "end": 554.28,
+        "english": "Okay, let's listen to this sentence that we previously heard in the dialogue.",
+        "chinese": "好的，我们来听一下刚才在对话中听到的这个句子。"
+    },
+    {
+        "start": 554.28,
+        "end": 558.68,
+        "english": "Moeelysli Shod has the puck now and passes it to the center.",
+        "chinese": "Moeelysli Shod 现在已经把球传到了中圈。"
+    },
+    {
+        "start": 558.68,
+        "end": 561.68,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 561.68,
+        "end": 566.12,
+        "english": "Moeelysli Shod has the puck now and passes it to the center.",
+        "chinese": "Moeelysli Shod 现在已经把球传到了中圈。"
+    },
+    {
+        "start": 566.12,
+        "end": 567.84,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 567.84,
+        "end": 571.32,
+        "english": "I noticed that he's using the present simple, right?",
+        "chinese": "我注意到他正在使用现在简单语态。"
+    },
+    {
+        "start": 571.32,
+        "end": 572.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 572.32,
+        "end": 576.16,
+        "english": "Yeah, even though the action is now, it's in present simple.",
+        "chinese": "是的，尽管动作现在，但它仍然是现在时。"
+    },
+    {
+        "start": 576.16,
+        "end": 577.16,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 577.16,
+        "end": 582.16,
+        "english": "Even though the action is happening in that moment, he's not using the present progressive.",
+        "chinese": "即使这个动作正在发生，他还是不使用现在进行时。"
+    },
+    {
+        "start": 582.16,
+        "end": 583.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 583.16,
+        "end": 584.16,
+        "english": "The present continuous.",
+        "chinese": "当前进行时。"
+    },
+    {
+        "start": 584.16,
+        "end": 585.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 585.16,
+        "end": 590.4,
+        "english": "This is because if you notice, the actions are very, very brief and fast and exciting.",
+        "chinese": "这是因为，如果你注意到，行动非常迅速且激动。"
+    },
+    {
+        "start": 590.4,
+        "end": 591.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 591.4,
+        "end": 596.4,
+        "english": "You don't really have enough time to say, for example, he is shooting.",
+        "chinese": "您不是真的有足够的时间说，比如他正在射击。"
+    },
+    {
+        "start": 596.4,
+        "end": 597.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 597.4,
+        "end": 599.88,
+        "english": "Because it's only one quick action.",
+        "chinese": "因为这是简单的一次行动。"
+    },
+    {
+        "start": 599.88,
+        "end": 602.4,
+        "english": "He shoots the puck very fast, right?",
+        "chinese": "他打的球飞快，对吗？"
+    },
+    {
+        "start": 602.4,
+        "end": 605.16,
+        "english": "Or for example, you wouldn't really say he is passing.",
+        "chinese": "例如，你不会真正说他正在通过。"
+    },
+    {
+        "start": 605.16,
+        "end": 607.16,
+        "english": "Yeah, he is passing the puck.",
+        "chinese": "是的，他正传球。"
+    },
+    {
+        "start": 607.16,
+        "end": 608.16,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 608.16,
+        "end": 609.16,
+        "english": "It's just one quick action.",
+        "chinese": "这是一个简单的动作。"
+    },
+    {
+        "start": 609.16,
+        "end": 611.1999999999999,
+        "english": "He takes it and passes it and the action is finished.",
+        "chinese": "他接过它，然后把它扔掉，动作已经结束。"
+    },
+    {
+        "start": 611.1999999999999,
+        "end": 612.1999999999999,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 612.1999999999999,
+        "end": 616.0,
+        "english": "I think we can see a few more examples of this.",
+        "chinese": "我认为我们可以看到更多的例子。"
+    },
+    {
+        "start": 616.0,
+        "end": 618.72,
+        "english": "Let's listen again.",
+        "chinese": "请再听一遍。"
+    },
+    {
+        "start": 618.72,
+        "end": 625.0,
+        "english": "The Russians win possession and immediately set up their attack.",
+        "chinese": "俄罗斯赢得控球权，立即展开攻击。"
+    },
+    {
+        "start": 625.0,
+        "end": 630.96,
+        "english": "The Russians win possession and immediately set up their attack.",
+        "chinese": "俄罗斯赢得控球权，立即展开攻击。"
+    },
+    {
+        "start": 630.96,
+        "end": 637.48,
+        "english": "Here we can hear that he is using the present simple again because these are very short",
+        "chinese": "在这里，我们可以听到他正在使用现在简单句。因为这些短语非常短。"
+    },
+    {
+        "start": 637.48,
+        "end": 639.5600000000001,
+        "english": "actions that finish quickly, right?",
+        "chinese": "动作快结束，对吗？"
+    },
+    {
+        "start": 639.5600000000001,
+        "end": 640.5600000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 640.5600000000001,
+        "end": 647.52,
+        "english": "And it's actually very, very common when you're describing something you see that's happening",
+        "chinese": "而且，当你描述你看到的正在发生的事情时，它其实是非常常见的。"
+    },
+    {
+        "start": 647.52,
+        "end": 648.52,
+        "english": "now.",
+        "chinese": "现在。 (Wǒmen zài zhè shí.)"
+    },
+    {
+        "start": 648.52,
+        "end": 650.72,
+        "english": "That's really exciting.",
+        "chinese": "那真是激动人心的。"
+    },
+    {
+        "start": 650.72,
+        "end": 652.6,
+        "english": "It's common to use present simple.",
+        "chinese": "它很常见使用现在简单句。"
+    },
+    {
+        "start": 652.6,
+        "end": 653.6,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 653.6,
+        "end": 658.16,
+        "english": "If you pay attention, most sporting events are in the same way.",
+        "chinese": "如果你注意，大多数体育赛事都是如此。"
+    },
+    {
+        "start": 658.16,
+        "end": 662.4,
+        "english": "They would describe the actions that are happening in the present simple, not present",
+        "chinese": "他们将描述现在简单时正在进行的行动，而不是现在进行时。"
+    },
+    {
+        "start": 662.4,
+        "end": 663.4,
+        "english": "progressive.",
+        "chinese": "进步。"
+    },
+    {
+        "start": 663.4,
+        "end": 668.0,
+        "english": "But Mark, who you have an example of some present progressive here, right?",
+        "chinese": "但是马克，你有我在这里展示的某种现在进行时的例子吗？"
+    },
+    {
+        "start": 668.0,
+        "end": 669.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 669.0,
+        "end": 671.68,
+        "english": "Let's listen to this sentence.",
+        "chinese": "让我们听这个句子。"
+    },
+    {
+        "start": 671.68,
+        "end": 674.76,
+        "english": "He is flying down the ice.",
+        "chinese": "他正在冰面上飞行。"
+    },
+    {
+        "start": 674.76,
+        "end": 677.56,
+        "english": "He is flying down the ice.",
+        "chinese": "他正在冰面上飞行。"
+    },
+    {
+        "start": 677.56,
+        "end": 681.56,
+        "english": "Now we heard the sentence, he is flying down the ice, right?",
+        "chinese": "现在我们听到了这句话，他正在冰面上飞，对吗？"
+    },
+    {
+        "start": 681.56,
+        "end": 682.88,
+        "english": "Now this one is in progressive.",
+        "chinese": "现在这个在进步。"
+    },
+    {
+        "start": 682.88,
+        "end": 683.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 683.88,
+        "end": 684.88,
+        "english": "Why is that?",
+        "chinese": "为什么是这个？"
+    },
+    {
+        "start": 684.88,
+        "end": 688.24,
+        "english": "Well, first of all, when we say he's flying down the ice, it's not that he's literally",
+        "chinese": "首先，当我们说他正在冰面上飞行时，并不是真的在飞行。"
+    },
+    {
+        "start": 688.24,
+        "end": 689.24,
+        "english": "flying.",
+        "chinese": "飞。"
+    },
+    {
+        "start": 689.24,
+        "end": 690.68,
+        "english": "No, he's not an airplane.",
+        "chinese": "是的，他不是飞机。"
+    },
+    {
+        "start": 690.68,
+        "end": 693.48,
+        "english": "He's just skating really fast, right?",
+        "chinese": "他正以极快的速度滑冰吗？"
+    },
+    {
+        "start": 693.48,
+        "end": 698.04,
+        "english": "So we kind of exaggerate and we say, oh, he's flying down the ice.",
+        "chinese": "所以我们有点夸大了，说他正飞过冰面。"
+    },
+    {
+        "start": 698.04,
+        "end": 699.76,
+        "english": "But he's actually skating.",
+        "chinese": "但是，他正在滑冰。"
+    },
+    {
+        "start": 699.76,
+        "end": 701.6,
+        "english": "So this is a progressive action.",
+        "chinese": "所以这是进步的行动。"
+    },
+    {
+        "start": 701.6,
+        "end": 702.8,
+        "english": "So he is doing it.",
+        "chinese": "所以，他正在做。"
+    },
+    {
+        "start": 702.8,
+        "end": 705.24,
+        "english": "It's happening for more than one second.",
+        "chinese": "它正在发生超过一秒。"
+    },
+    {
+        "start": 705.24,
+        "end": 706.24,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 706.24,
+        "end": 709.3199999999999,
+        "english": "So that's why we would say he is flying down the ice.",
+        "chinese": "所以，我们才会说他正在冰面上飞行。"
+    },
+    {
+        "start": 709.3199999999999,
+        "end": 711.7199999999999,
+        "english": "Instead of, he flies down the ice.",
+        "chinese": "相反，他飞到了冰上。"
+    },
+    {
+        "start": 711.7199999999999,
+        "end": 712.7199999999999,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 712.7199999999999,
+        "end": 713.7199999999999,
+        "english": "Right?",
+        "chinese": "对？"
+    },
+    {
+        "start": 713.7199999999999,
+        "end": 715.7199999999999,
+        "english": "And unless it was like really, really, really fast.",
+        "chinese": "A) 除非像真的那样快。"
+    },
+    {
+        "start": 715.7199999999999,
+        "end": 716.7199999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 716.7199999999999,
+        "end": 717.7199999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 717.7199999999999,
+        "end": 723.7199999999999,
+        "english": "So here we see that sometimes in English, we do use present simple to talk about what's",
+        "chinese": "所以在这里，我们看到有时在英语中，我们会使用现在简单句来谈论什么。"
+    },
+    {
+        "start": 723.7199999999999,
+        "end": 725.4399999999999,
+        "english": "happening now, right?",
+        "chinese": "现在正在发生的，对吗？"
+    },
+    {
+        "start": 725.4399999999999,
+        "end": 731.04,
+        "english": "When it happens really, really quickly or when we want to show that it's really exciting.",
+        "chinese": "当它发生得非常快，或者当我们想要展示它是真的令人兴奋的时。"
+    },
+    {
+        "start": 731.04,
+        "end": 732.04,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 732.04,
+        "end": 735.4,
+        "english": "It makes it much more exciting if we just use the present simple.",
+        "chinese": "如果我们只使用现在时态，那就更有趣了。"
+    },
+    {
+        "start": 735.4,
+        "end": 736.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 736.4,
+        "end": 740.7199999999999,
+        "english": "Okay, let's listen to this exciting dialogue one more time and we'll come back and talk",
+        "chinese": "好的，让我们再听一次这个激动人心的对话，然后我们再来谈谈。"
+    },
+    {
+        "start": 740.7199999999999,
+        "end": 741.7199999999999,
+        "english": "a little bit more.",
+        "chinese": "一个小小的改进。"
+    },
+    {
+        "start": 741.7199999999999,
+        "end": 742.7199999999999,
+        "english": "Hello, everyone.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 742.7199999999999,
+        "end": 761.48,
+        "english": "I'm Rick Fields and here with me is Bob Copeland.",
+        "chinese": "我是Rick Fields，我与鲍勃·科潘德（Bob Copeland）一起在这里。"
+    },
+    {
+        "start": 761.48,
+        "end": 763.6800000000001,
+        "english": "Howdy folks and welcome to today's game.",
+        "chinese": "大家好，欢迎来到今天的游戏。"
+    },
+    {
+        "start": 763.6800000000001,
+        "end": 766.64,
+        "english": "You know, Rick, today's a key game between Russia and Canada.",
+        "chinese": "您知道，李克强先生，今天是俄罗斯和加拿大之间的一项关键比赛。"
+    },
+    {
+        "start": 766.64,
+        "end": 769.8000000000001,
+        "english": "As you know, the winner will move on to the finals.",
+        "chinese": "你知道，胜者将进入决赛。"
+    },
+    {
+        "start": 769.8000000000001,
+        "end": 770.8000000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 770.8000000000001,
+        "end": 773.08,
+        "english": "And it looks like we're just about ready to start the match.",
+        "chinese": "看来我们差不多可以开始了。"
+    },
+    {
+        "start": 773.08,
+        "end": 775.72,
+        "english": "The ref is calling the players for the face off.",
+        "chinese": "这个比赛正在为对面的球员们进行换位。"
+    },
+    {
+        "start": 775.72,
+        "end": 776.9200000000001,
+        "english": "And here we go.",
+        "chinese": "这里就到了。"
+    },
+    {
+        "start": 776.9200000000001,
+        "end": 780.08,
+        "english": "The Russians win possession and immediately start up their attack.",
+        "chinese": "俄罗斯赢得控球权，立即开始进攻。"
+    },
+    {
+        "start": 780.08,
+        "end": 783.44,
+        "english": "Federerov gets checked hard into the boards.",
+        "chinese": "傅博在比赛中被严格限制进入比赛场地。"
+    },
+    {
+        "start": 783.44,
+        "end": 785.12,
+        "english": "Boehyskwechow has the puck now.",
+        "chinese": "Boehyskwechow 现在有球了。"
+    },
+    {
+        "start": 785.12,
+        "end": 786.12,
+        "english": "And he passes it to center.",
+        "chinese": "然后他传给中心。"
+    },
+    {
+        "start": 786.12,
+        "end": 787.12,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 787.12,
+        "end": 788.9200000000001,
+        "english": "Wow, what a save by the goalie.",
+        "chinese": "哇，多么出色的防守！"
+    },
+    {
+        "start": 789.1999999999999,
+        "end": 791.68,
+        "english": "All right, the puck is back in play now.",
+        "chinese": "好的，现在球重新开始在场上。"
+    },
+    {
+        "start": 791.68,
+        "end": 793.4,
+        "english": "Pevel Bore is on a breakaway.",
+        "chinese": "Pevel Bore 正在休息。"
+    },
+    {
+        "start": 793.4,
+        "end": 795.3199999999999,
+        "english": "He is flying down the ice.",
+        "chinese": "他正在冰面上飞行。"
+    },
+    {
+        "start": 795.3199999999999,
+        "end": 796.9599999999999,
+        "english": "The defenders can't keep up.",
+        "chinese": "守卫者无法跟上。"
+    },
+    {
+        "start": 796.9599999999999,
+        "end": 797.9599999999999,
+        "english": "Slap shot.",
+        "chinese": "拍打枪。"
+    },
+    {
+        "start": 797.9599999999999,
+        "end": 798.9599999999999,
+        "english": "He scored.",
+        "chinese": "他得分。"
+    },
+    {
+        "start": 798.9599999999999,
+        "end": 800.7199999999999,
+        "english": "What an amazing goal.",
+        "chinese": "一个令人惊叹的目标。"
+    },
+    {
+        "start": 806.9599999999999,
+        "end": 810.88,
+        "english": "All right, so hockey is the Canadian national sport.",
+        "chinese": "好的，所以冰球是加拿大的国家运动项目。"
+    },
+    {
+        "start": 810.88,
+        "end": 812.8,
+        "english": "Well, actually, it isn't the national sport.",
+        "chinese": "是的，实际上并不是国家体育项目。"
+    },
+    {
+        "start": 812.8,
+        "end": 813.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 813.8,
+        "end": 815.56,
+        "english": "La Crosse is our national sport.",
+        "chinese": "莱克斯特是我们国家的体育项目。"
+    },
+    {
+        "start": 815.56,
+        "end": 818.8399999999999,
+        "english": "But anyway, we don't have a lesson about La Crosse today.",
+        "chinese": "但是，我们今天没有关于莱克星上的一堂课。"
+    },
+    {
+        "start": 818.84,
+        "end": 819.6800000000001,
+        "english": "Not yet.",
+        "chinese": "不，还没。"
+    },
+    {
+        "start": 819.6800000000001,
+        "end": 820.44,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 820.44,
+        "end": 823.64,
+        "english": "But actually, all Canadians love hockey.",
+        "chinese": "但是实际上，加拿大人非常喜欢冰球。"
+    },
+    {
+        "start": 823.64,
+        "end": 827.44,
+        "english": "Like, we start playing hockey when we're about two years old.",
+        "chinese": "像，我们开始打冰球的时候是两岁左右。"
+    },
+    {
+        "start": 827.44,
+        "end": 828.6800000000001,
+        "english": "Yeah, I've heard that.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 828.6800000000001,
+        "end": 831.6,
+        "english": "I've heard that some Canadian children learn how to skate",
+        "chinese": "我听说一些加拿大孩子学会了滑冰。"
+    },
+    {
+        "start": 831.6,
+        "end": 832.84,
+        "english": "before they learn how to walk.",
+        "chinese": "在他们学会走路之前。"
+    },
+    {
+        "start": 832.84,
+        "end": 834.24,
+        "english": "It's totally common.",
+        "chinese": "是完全常见的。"
+    },
+    {
+        "start": 835.2800000000001,
+        "end": 836.96,
+        "english": "Well, it is a great sport.",
+        "chinese": "很好，这是个很好的运动。"
+    },
+    {
+        "start": 836.96,
+        "end": 838.36,
+        "english": "Very, very exciting.",
+        "chinese": "非常，非常激动。"
+    },
+    {
+        "start": 838.36,
+        "end": 840.2800000000001,
+        "english": "It's very fast paced.",
+        "chinese": "它是非常快节奏的。"
+    },
+    {
+        "start": 840.2800000000001,
+        "end": 841.32,
+        "english": "And it's very aggressive.",
+        "chinese": "而且非常强硬。"
+    },
+    {
+        "start": 841.32,
+        "end": 842.44,
+        "english": "That's what I like about it.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 842.44,
+        "end": 843.2800000000001,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guó wáng.)"
+    },
+    {
+        "start": 843.2800000000001,
+        "end": 845.0400000000001,
+        "english": "Not violent, but very aggressive.",
+        "chinese": "不暴力，但非常凶猛。"
+    },
+    {
+        "start": 845.0400000000001,
+        "end": 845.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 845.88,
+        "end": 846.72,
+        "english": "But you know what?",
+        "chinese": "但是你知道什么？"
+    },
+    {
+        "start": 846.72,
+        "end": 850.52,
+        "english": "I must tell you that I am not a good Canadian.",
+        "chinese": "我必须告诉你，我是不好的加拿大人。"
+    },
+    {
+        "start": 850.52,
+        "end": 851.4,
+        "english": "You're not a hockey fan?",
+        "chinese": "您不是 hockey 好友吗？"
+    },
+    {
+        "start": 851.4,
+        "end": 852.5600000000001,
+        "english": "No, I'm really.",
+        "chinese": "是的，我确实。"
+    },
+    {
+        "start": 852.5600000000001,
+        "end": 854.6800000000001,
+        "english": "Yeah, I really, I really hate hockey.",
+        "chinese": "是的，我真的很讨厌足球。"
+    },
+    {
+        "start": 854.6800000000001,
+        "end": 856.2,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 856.2,
+        "end": 857.0400000000001,
+        "english": "You know what?",
+        "chinese": "你知道吗？"
+    },
+    {
+        "start": 857.0400000000001,
+        "end": 858.24,
+        "english": "The puck is so small.",
+        "chinese": "这个冰球球子太小了。"
+    },
+    {
+        "start": 858.24,
+        "end": 860.48,
+        "english": "It's hard to see where it is on the ice.",
+        "chinese": "在冰面上很难看清楚它在哪里。"
+    },
+    {
+        "start": 860.48,
+        "end": 861.5600000000001,
+        "english": "And it's cold.",
+        "chinese": "而且很冷。"
+    },
+    {
+        "start": 861.5600000000001,
+        "end": 864.0,
+        "english": "And these guys are fighting.",
+        "chinese": "这些家伙正在战斗。"
+    },
+    {
+        "start": 864.0,
+        "end": 866.08,
+        "english": "And anyway, have you ever been to a hockey game?",
+        "chinese": "而且，你有没有去过一次足球比赛？"
+    },
+    {
+        "start": 866.08,
+        "end": 867.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 867.28,
+        "end": 868.0,
+        "english": "Many times.",
+        "chinese": "许多次。"
+    },
+    {
+        "start": 868.0,
+        "end": 871.36,
+        "english": "And I just find that the puck is really small.",
+        "chinese": "我只觉得这个球很小。"
+    },
+    {
+        "start": 871.36,
+        "end": 874.6800000000001,
+        "english": "Maybe you just need better sense, maybe.",
+        "chinese": "可能你只需要更好的感觉，或者。"
+    },
+    {
+        "start": 874.6800000000001,
+        "end": 876.12,
+        "english": "Well, what do you guys think about hockey?",
+        "chinese": "你好，你们对冰球有什么看法？"
+    },
+    {
+        "start": 876.12,
+        "end": 878.88,
+        "english": "We'll post some videos and some pictures of hockey",
+        "chinese": "我们将发布一些关于冰球的视频和图片。"
+    },
+    {
+        "start": 878.88,
+        "end": 880.52,
+        "english": "on the comments section.",
+        "chinese": "在评论区。"
+    },
+    {
+        "start": 880.52,
+        "end": 882.4,
+        "english": "So you can more or less see a little bit more",
+        "chinese": "所以你大概可以稍微看到一点。"
+    },
+    {
+        "start": 882.4,
+        "end": 884.4,
+        "english": "about this really interesting sport.",
+        "chinese": "关于这个真的很有趣的比赛。"
+    },
+    {
+        "start": 884.4,
+        "end": 885.96,
+        "english": "And tell us what you think about it.",
+        "chinese": "请告诉我您对它的看法。"
+    },
+    {
+        "start": 885.96,
+        "end": 889.36,
+        "english": "Yeah, so visit our website, EnglishPod.com.",
+        "chinese": "是的，所以访问我们的网站，英语Pod.com。"
+    },
+    {
+        "start": 889.36,
+        "end": 892.32,
+        "english": "And you'll find some interesting stuff about hockey, right?",
+        "chinese": "您会发现一些关于冰球的有趣东西吗？"
+    },
+    {
+        "start": 892.32,
+        "end": 893.16,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 893.16,
+        "end": 895.68,
+        "english": "And also lots of other great lessons.",
+        "chinese": "还有许多其他大道理。"
+    },
+    {
+        "start": 895.68,
+        "end": 896.28,
+        "english": "I exactly.",
+        "chinese": "我正好。"
+    },
+    {
+        "start": 896.28,
+        "end": 899.0,
+        "english": "And also, if you have any questions or doubts about the lesson,",
+        "chinese": "另外，如果您有任何关于课程的问题或疑虑，请随时提问。"
+    },
+    {
+        "start": 899.0,
+        "end": 901.6,
+        "english": "you can leave your questions on the site.",
+        "chinese": "您可以将您的问题留在网站上。"
+    },
+    {
+        "start": 901.6,
+        "end": 902.72,
+        "english": "All right, we're out of time.",
+        "chinese": "好的，我们已经超过了时间。"
+    },
+    {
+        "start": 902.72,
+        "end": 904.04,
+        "english": "We'll see you guys next time.",
+        "chinese": "我们下次见。"
+    },
+    {
+        "start": 904.04,
+        "end": 904.72,
+        "english": "Thanks for listening.",
+        "chinese": "谢谢你的倾听。"
+    },
+    {
+        "start": 904.72,
+        "end": 905.5600000000001,
+        "english": "And bye.",
+        "chinese": "再见。"
+    }
+]

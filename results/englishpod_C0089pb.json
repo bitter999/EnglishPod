@@ -1,0 +1,1616 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.6000000000000005,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 5.6000000000000005,
+        "end": 7.0,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.0,
+        "end": 9.6,
+        "english": "And today we're going to be taking you to the airport.",
+        "chinese": "今天我们将带你去机场。"
+    },
+    {
+        "start": 9.6,
+        "end": 17.0,
+        "english": "That's right. We're going to listen as a man, um, checks in at the airport and deals with his luggage.",
+        "chinese": "正确。我们将听作为一个人，他将在机场登机，并处理他的行李。"
+    },
+    {
+        "start": 17.0,
+        "end": 23.8,
+        "english": "That's right. So we're going to be looking at a lot of great stuff that can help you the next time you are at the airport, at the check-in counter.",
+        "chinese": "正确。我们将要关注许多可以帮助您在机场再次遇到的很棒东西，以便您下次在登机柜台时能够受益。"
+    },
+    {
+        "start": 23.8,
+        "end": 29.0,
+        "english": "So why don't we take a look at one word that we're going to preview today in Vocabulary Preview.",
+        "chinese": "所以，我们为什么不今天一睹一下今天我们要预览的单个单词呢？"
+    },
+    {
+        "start": 30.0,
+        "end": 32.0,
+        "english": "Vocabulary Preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 32.0,
+        "end": 36.0,
+        "english": "We're going to hear this guy say, I'd like to check three pieces.",
+        "chinese": "我们将会听到这个家伙说，我想检查三件。"
+    },
+    {
+        "start": 36.0,
+        "end": 39.0,
+        "english": "He's going to check three pieces of what?",
+        "chinese": "他要去检查三件什么？"
+    },
+    {
+        "start": 39.0,
+        "end": 41.0,
+        "english": "Pieces of luggage.",
+        "chinese": "行李片。"
+    },
+    {
+        "start": 41.0,
+        "end": 45.0,
+        "english": "So when we talk about luggage, we can say pieces of luggage.",
+        "chinese": "所以当我们谈论行李时，我们可以说是一些行李。"
+    },
+    {
+        "start": 45.0,
+        "end": 52.0,
+        "english": "That's right. Luggage is a non-count noun. So you can't say one luggage, two luggage, three luggage, that's wrong.",
+        "chinese": "正确。行李是非数名词，所以不能说一行李、二行李、三行李，这是错误的。"
+    },
+    {
+        "start": 52.0,
+        "end": 56.0,
+        "english": "Right. So we use pieces of luggage.",
+        "chinese": "正确。所以我们使用行李包裹。"
+    },
+    {
+        "start": 56.0,
+        "end": 59.0,
+        "english": "Okay. So three pieces of luggage.",
+        "chinese": "好的。所以三件行李。"
+    },
+    {
+        "start": 59.0,
+        "end": 68.0,
+        "english": "Very good. Let's listen to our dialogue for the first time. We're going to see what happens with this guy at the airport and with his pieces of luggage.",
+        "chinese": "很好。我们先听听我们的对话，看看这个男子在机场和他的行李会发生什么。"
+    },
+    {
+        "start": 77.0,
+        "end": 81.0,
+        "english": "Next, please. Hello, sir. May I see your passport, please?",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 81.0,
+        "end": 83.0,
+        "english": "Yes. Here you go.",
+        "chinese": "是的。给你。"
+    },
+    {
+        "start": 83.0,
+        "end": 85.0,
+        "english": "Will you be checking any bags today?",
+        "chinese": "是的，我今天会检查行李。"
+    },
+    {
+        "start": 85.0,
+        "end": 87.0,
+        "english": "Yes. I'd like to check three pieces.",
+        "chinese": "是的。我想检查三件物品。"
+    },
+    {
+        "start": 87.0,
+        "end": 92.0,
+        "english": "I'm sorry, sir. Airline policy only allows two pieces of check luggage.",
+        "chinese": "对不起，先生。航空公司只允许两件行李托运。"
+    },
+    {
+        "start": 92.0,
+        "end": 96.0,
+        "english": "At 20 kilograms each, plus one piece of carry on luggage.",
+        "chinese": "在每公斤为20千克的情况下，加上一件手提行李。"
+    },
+    {
+        "start": 96.0,
+        "end": 99.0,
+        "english": "I will have to charge you extra for the additional suitcase.",
+        "chinese": "我必须额外收费给您，因为额外的行李箱。"
+    },
+    {
+        "start": 99.0,
+        "end": 102.0,
+        "english": "What? Why? I'm taking an intercontinental flight.",
+        "chinese": "什么？为什么？我正在国际航班上。"
+    },
+    {
+        "start": 102.0,
+        "end": 108.0,
+        "english": "I'm flying 16,000 kilometers. How am I supposed to take only two 20 kilo bags? That's absurd.",
+        "chinese": "我飞了16,000公里。怎么只带两个20公斤的包？这太荒谬了。"
+    },
+    {
+        "start": 108.0,
+        "end": 111.0,
+        "english": "I'm sorry, sir. There's nothing I can do.",
+        "chinese": "对不起，先生。我什么也帮不上忙。"
+    },
+    {
+        "start": 111.0,
+        "end": 114.0,
+        "english": "You cannot board the flight with that large bag either.",
+        "chinese": "你不能乘坐飞机带那个大的包。"
+    },
+    {
+        "start": 114.0,
+        "end": 118.0,
+        "english": "Carry on bags must fit in the overhead compartment or under your seat.",
+        "chinese": "继续携带的包必须装入行李舱或放在你的座位下面。"
+    },
+    {
+        "start": 118.0,
+        "end": 120.0,
+        "english": "That bag is clearly too big.",
+        "chinese": "那包显然太大了。"
+    },
+    {
+        "start": 120.0,
+        "end": 124.0,
+        "english": "Now I see. You charge next to nothing for an international ticket.",
+        "chinese": "现在我看到。你为国际机票提供免费服务。"
+    },
+    {
+        "start": 124.0,
+        "end": 128.0,
+        "english": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+        "chinese": "当谈到任何其他小东西的充电，你必须支付一个肩膀和一臂。"
+    },
+    {
+        "start": 128.0,
+        "end": 131.0,
+        "english": "So tell me, miss, how much will I have to pay for all of this?",
+        "chinese": "所以，小姐，我需要多少钱才能处理好这一切？"
+    },
+    {
+        "start": 131.0,
+        "end": 134.0,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 134.0,
+        "end": 136.0,
+        "english": "625 US dollars.",
+        "chinese": "六百二十五美元。"
+    },
+    {
+        "start": 136.0,
+        "end": 138.0,
+        "english": "That's more than my round trip ticket.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 141.0,
+        "end": 148.0,
+        "english": "Alright, well, that's a whole lot of money, isn't it?",
+        "chinese": "好的，很好，那可是不少钱啊！"
+    },
+    {
+        "start": 148.0,
+        "end": 154.0,
+        "english": "Well, I think it's a very common situation. I'm sure many of our listeners can relate to this situation.",
+        "chinese": "嗯，我认为这是一个很普遍的情况。我相信许多听众都能理解这个情况。"
+    },
+    {
+        "start": 154.0,
+        "end": 158.0,
+        "english": "Overweight charges are pretty expensive. Very high.",
+        "chinese": "肥胖费用很高。非常昂贵。"
+    },
+    {
+        "start": 158.0,
+        "end": 161.0,
+        "english": "I know from personal experience. But that's not what we want to talk about now.",
+        "chinese": "我从个人经验出发。但我们现在不想谈这个问题。"
+    },
+    {
+        "start": 161.0,
+        "end": 167.0,
+        "english": "We want to talk about some really useful vocabulary in language takeaway.",
+        "chinese": "我们想谈谈一些非常实用的词汇在语言自助活动中。"
+    },
+    {
+        "start": 167.0,
+        "end": 170.0,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 170.0,
+        "end": 175.0,
+        "english": "Alright, on language takeaway today we have five words. So why don't we start with the first one?",
+        "chinese": "好的，今天语言小贴士的主题是“五个词”。我们今天将从第一个开始。"
+    },
+    {
+        "start": 175.0,
+        "end": 179.0,
+        "english": "So the woman asked, will you be checking any bags today?",
+        "chinese": "所以，女人问：“你今天会检查哪些包吗？”"
+    },
+    {
+        "start": 179.0,
+        "end": 182.0,
+        "english": "Will you be checking any bags today?",
+        "chinese": "是的，我今天会检查行李。"
+    },
+    {
+        "start": 182.0,
+        "end": 184.0,
+        "english": "To check bags.",
+        "chinese": "要检查包。"
+    },
+    {
+        "start": 184.0,
+        "end": 186.0,
+        "english": "Right, so the verb to check.",
+        "chinese": "正确，所以动词“检查”。"
+    },
+    {
+        "start": 186.0,
+        "end": 192.0,
+        "english": "It means to give your bags to the airline to register them.",
+        "chinese": "这句话的意思是：给你的行李去航空公司登记。"
+    },
+    {
+        "start": 192.0,
+        "end": 198.0,
+        "english": "Okay, so that's what happens with your luggage. You check them so basically they become responsible for your bags.",
+        "chinese": "好的，那么这就是你的行李发生了什么。你检查它们，所以基本上它们成为了你的行李的责任人。"
+    },
+    {
+        "start": 198.0,
+        "end": 202.0,
+        "english": "Right, it reminds me of checking into a hotel.",
+        "chinese": "是的，它让我想起了入住酒店。"
+    },
+    {
+        "start": 202.0,
+        "end": 207.0,
+        "english": "Right, very similar. When you go to a hotel, you register at the hotel you check in.",
+        "chinese": "正确，非常相似。当你入住酒店时，请在你预定的酒店登记。"
+    },
+    {
+        "start": 207.0,
+        "end": 210.0,
+        "english": "In this case, you just check your luggage.",
+        "chinese": "在这个情况下，你只需要检查你的行李。"
+    },
+    {
+        "start": 210.0,
+        "end": 212.0,
+        "english": "You don't check in your luggage.",
+        "chinese": "您不检查行李。"
+    },
+    {
+        "start": 212.0,
+        "end": 213.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 213.0,
+        "end": 215.0,
+        "english": "Okay, so check luggage.",
+        "chinese": "好的，检查行李。"
+    },
+    {
+        "start": 215.0,
+        "end": 220.0,
+        "english": "So he wanted to check three pieces of luggage and he also had carry on luggage.",
+        "chinese": "所以，他想检查三件行李，并且他还携带了随身携带的行李。"
+    },
+    {
+        "start": 220.0,
+        "end": 222.0,
+        "english": "Carry on luggage.",
+        "chinese": "继续行李。"
+    },
+    {
+        "start": 222.0,
+        "end": 223.0,
+        "english": "Carry on.",
+        "chinese": "继续。"
+    },
+    {
+        "start": 223.0,
+        "end": 225.0,
+        "english": "So carry on luggage, it's pretty simple.",
+        "chinese": "所以继续行李，它很简单。"
+    },
+    {
+        "start": 225.0,
+        "end": 228.0,
+        "english": "That's right, you carry it on yourself.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 228.0,
+        "end": 230.0,
+        "english": "Exactly, you carry it onto the plane.",
+        "chinese": "是的，你把它带到了飞机上。"
+    },
+    {
+        "start": 230.0,
+        "end": 234.0,
+        "english": "Now we can talk about carry on luggage, right?",
+        "chinese": "现在我们可以谈论随身携带行李，对吗？"
+    },
+    {
+        "start": 234.0,
+        "end": 236.0,
+        "english": "Or carry on bag.",
+        "chinese": "或者继续包。"
+    },
+    {
+        "start": 236.0,
+        "end": 238.0,
+        "english": "Right, or a carry on suitcase.",
+        "chinese": "正确，或者随身携带行李箱。"
+    },
+    {
+        "start": 238.0,
+        "end": 240.0,
+        "english": "A very small suitcase that can fit onto your seat.",
+        "chinese": "一个非常小的便携箱，可以放在你的座位上。"
+    },
+    {
+        "start": 240.0,
+        "end": 241.0,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 241.0,
+        "end": 243.0,
+        "english": "Alright, so carry on luggage.",
+        "chinese": "好的，继续行李。"
+    },
+    {
+        "start": 243.0,
+        "end": 248.0,
+        "english": "Now he was traveling on an intercontinental flight.",
+        "chinese": "现在他正在国际航班上。"
+    },
+    {
+        "start": 248.0,
+        "end": 250.0,
+        "english": "Intercontinental.",
+        "chinese": "国际。"
+    },
+    {
+        "start": 250.0,
+        "end": 251.0,
+        "english": "Intercontinental.",
+        "chinese": "国际。"
+    },
+    {
+        "start": 251.0,
+        "end": 253.0,
+        "english": "We have two words there, inter.",
+        "chinese": "我们有两个词，互。"
+    },
+    {
+        "start": 253.0,
+        "end": 254.0,
+        "english": "Between.",
+        "chinese": "在。"
+    },
+    {
+        "start": 254.0,
+        "end": 255.0,
+        "english": "Between, right?",
+        "chinese": "在……之间？"
+    },
+    {
+        "start": 255.0,
+        "end": 256.0,
+        "english": "And continental.",
+        "chinese": "并且大陆。"
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "english": "So this sounds like continent.",
+        "chinese": "所以这听起来像是大陆。"
+    },
+    {
+        "start": 258.0,
+        "end": 264.0,
+        "english": "Okay, so he's traveling maybe from Asia to North America.",
+        "chinese": "好的，他可能从亚洲到北美洲旅行。"
+    },
+    {
+        "start": 264.0,
+        "end": 266.0,
+        "english": "Okay, intercontinental.",
+        "chinese": "好的，国际间的。"
+    },
+    {
+        "start": 266.0,
+        "end": 270.0,
+        "english": "He's trying to board this intercontinental flight.",
+        "chinese": "他正在尝试登机。"
+    },
+    {
+        "start": 270.0,
+        "end": 272.0,
+        "english": "So to board a flight.",
+        "chinese": "所以要乘飞机。"
+    },
+    {
+        "start": 272.0,
+        "end": 274.0,
+        "english": "Board a plane.",
+        "chinese": "乘坐飞机。"
+    },
+    {
+        "start": 274.0,
+        "end": 275.0,
+        "english": "Board a train.",
+        "chinese": "乘坐火车。"
+    },
+    {
+        "start": 275.0,
+        "end": 278.0,
+        "english": "Alright, so basically it means to get on.",
+        "chinese": "嗯，基本上就是“上”了。"
+    },
+    {
+        "start": 278.0,
+        "end": 280.0,
+        "english": "To get on a vehicle.",
+        "chinese": "要上车。"
+    },
+    {
+        "start": 280.0,
+        "end": 282.0,
+        "english": "Okay, so I can say board the ship.",
+        "chinese": "好的，我可以告诉你们开船。"
+    },
+    {
+        "start": 282.0,
+        "end": 283.0,
+        "english": "Mm-hmm.",
+        "chinese": "这句话的中文翻译是：“嗯。”"
+    },
+    {
+        "start": 283.0,
+        "end": 284.0,
+        "english": "Board the car.",
+        "chinese": "请坐，汽车。"
+    },
+    {
+        "start": 284.0,
+        "end": 285.0,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 285.0,
+        "end": 286.0,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 286.0,
+        "end": 288.0,
+        "english": "But board the train.",
+        "chinese": "但是坐火车。"
+    },
+    {
+        "start": 288.0,
+        "end": 289.0,
+        "english": "Board the train.",
+        "chinese": "乘坐火车。"
+    },
+    {
+        "start": 289.0,
+        "end": 290.0,
+        "english": "Board the bus.",
+        "chinese": "请坐上公交车。"
+    },
+    {
+        "start": 290.0,
+        "end": 291.0,
+        "english": "All aboard.",
+        "chinese": "所有上！"
+    },
+    {
+        "start": 291.0,
+        "end": 295.0,
+        "english": "That's right, that's why in movies you see that somebody will yell all aboard.",
+        "chinese": "没错，这就是为什么在电影中你看到有人会喊“上车”！"
+    },
+    {
+        "start": 295.0,
+        "end": 296.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 296.0,
+        "end": 297.0,
+        "english": "And the train station, right?",
+        "chinese": "请问，火车站？"
+    },
+    {
+        "start": 297.0,
+        "end": 298.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 298.0,
+        "end": 299.0,
+        "english": "All aboard.",
+        "chinese": "所有上！"
+    },
+    {
+        "start": 299.0,
+        "end": 302.0,
+        "english": "Okay, so board a vehicle.",
+        "chinese": "好的，出发吧。"
+    },
+    {
+        "start": 302.0,
+        "end": 304.0,
+        "english": "And our last phrase for today.",
+        "chinese": "今天的最后一句话。"
+    },
+    {
+        "start": 304.0,
+        "end": 306.0,
+        "english": "Overhead compartment.",
+        "chinese": "超高层舱。"
+    },
+    {
+        "start": 306.0,
+        "end": 308.0,
+        "english": "Overhead compartment.",
+        "chinese": "超高层舱。"
+    },
+    {
+        "start": 308.0,
+        "end": 311.0,
+        "english": "Alright, let's break this phrase down.",
+        "chinese": "好的，让我们把这个短语分解一下。"
+    },
+    {
+        "start": 311.0,
+        "end": 312.0,
+        "english": "Overhead.",
+        "chinese": "在空中。"
+    },
+    {
+        "start": 312.0,
+        "end": 315.0,
+        "english": "So that's on top of your head, right?",
+        "chinese": "所以，这完全在你的考虑范围内。"
+    },
+    {
+        "start": 315.0,
+        "end": 316.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 316.0,
+        "end": 317.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 317.0,
+        "end": 318.0,
+        "english": "Above you.",
+        "chinese": "在您上方。"
+    },
+    {
+        "start": 318.0,
+        "end": 323.0,
+        "english": "Yeah, and the compartment is a place where you can put something and store it.",
+        "chinese": "是的，而且这个隔间是一个可以放置东西并存储它的地方。"
+    },
+    {
+        "start": 323.0,
+        "end": 324.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一种常见的英语表达方式，通常用来表示同意或认可。如果你需要将这句话翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 324.0,
+        "end": 325.0,
+        "english": "Kind of like a box.",
+        "chinese": "类似于一个盒子。"
+    },
+    {
+        "start": 325.0,
+        "end": 326.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 326.0,
+        "end": 327.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 327.0,
+        "end": 332.0,
+        "english": "So you have an overhead compartment that big box where you put your bags and your purse or whatever on an airplane.",
+        "chinese": "所以，你有一个大行李箱，里面放着你的包和钱包等物品，在飞机上。"
+    },
+    {
+        "start": 332.0,
+        "end": 333.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 333.0,
+        "end": 336.0,
+        "english": "Very similar to, for example, an overhead projector.",
+        "chinese": "非常相似于，例如，投影仪。"
+    },
+    {
+        "start": 336.0,
+        "end": 340.0,
+        "english": "Right, so that's the machine that puts an image or a picture on a wall.",
+        "chinese": "正确，那么这就是将图像或图片挂在墙上的机器。"
+    },
+    {
+        "start": 340.0,
+        "end": 342.0,
+        "english": "Like sometimes you see them in meetings.",
+        "chinese": "像有时候你在会议上看到他们。"
+    },
+    {
+        "start": 342.0,
+        "end": 346.0,
+        "english": "Right, so because the image is over your head and it's big, it's called an overhead projector.",
+        "chinese": "正确，因为图像覆盖你的头顶并且很大，因此称为超大屏幕投影仪。"
+    },
+    {
+        "start": 346.0,
+        "end": 347.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 347.0,
+        "end": 349.0,
+        "english": "So some great language.",
+        "chinese": "所以有些好语言。"
+    },
+    {
+        "start": 349.0,
+        "end": 353.0,
+        "english": "Why don't we hear it again in context by listening to the dialogue for the second time?",
+        "chinese": "为什么我们不能在对话的第二轮中再次听到它？"
+    },
+    {
+        "start": 353.0,
+        "end": 361.0,
+        "english": "Next, please.",
+        "chinese": "请稍等。"
+    },
+    {
+        "start": 361.0,
+        "end": 363.0,
+        "english": "Hello, sir.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 363.0,
+        "end": 366.0,
+        "english": "May I see your passport, please?",
+        "chinese": "是的，我可以看看你的护照。"
+    },
+    {
+        "start": 366.0,
+        "end": 367.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 367.0,
+        "end": 368.0,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 368.0,
+        "end": 371.0,
+        "english": "Will you be checking any bags today?",
+        "chinese": "是的，我今天会检查行李。"
+    },
+    {
+        "start": 371.0,
+        "end": 372.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 372.0,
+        "end": 375.0,
+        "english": "I'd like to check three pieces.",
+        "chinese": "我想要检查三件。"
+    },
+    {
+        "start": 375.0,
+        "end": 377.0,
+        "english": "I'm sorry, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 377.0,
+        "end": 385.0,
+        "english": "Airline policy allows only two pieces of checked luggage at 20 kilograms each, plus one piece of carry-on luggage.",
+        "chinese": "航空公司政策只允许携带两件行李，每件重量不超过20公斤，并且只能携带一件手提包。"
+    },
+    {
+        "start": 385.0,
+        "end": 390.0,
+        "english": "I will have to charge you extra for the additional suitcase.",
+        "chinese": "我必须额外收费给您，因为有额外的行李箱。"
+    },
+    {
+        "start": 390.0,
+        "end": 391.0,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 391.0,
+        "end": 392.0,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 392.0,
+        "end": 395.0,
+        "english": "I'm taking an intercontinental flight.",
+        "chinese": "我将要乘飞机飞往国际。"
+    },
+    {
+        "start": 395.0,
+        "end": 398.0,
+        "english": "I'm flying 16,000 kilometers.",
+        "chinese": "我将飞行16,000公里。"
+    },
+    {
+        "start": 398.0,
+        "end": 402.0,
+        "english": "How am I supposed to take only two 20 kilo bags?",
+        "chinese": "如何才能只拿两个20公斤的袋子？"
+    },
+    {
+        "start": 402.0,
+        "end": 403.0,
+        "english": "That's absurd.",
+        "chinese": "这真是荒谬。"
+    },
+    {
+        "start": 403.0,
+        "end": 405.0,
+        "english": "I'm sorry, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 405.0,
+        "end": 407.0,
+        "english": "There's nothing I can do.",
+        "chinese": "没有我能做到的。"
+    },
+    {
+        "start": 407.0,
+        "end": 410.0,
+        "english": "You cannot board the flight with that large bag, either.",
+        "chinese": "你不能乘坐飞机带那个大的包，也行。"
+    },
+    {
+        "start": 410.0,
+        "end": 416.0,
+        "english": "Carry-on bags must fit in the overhead compartment or under your seat.",
+        "chinese": "行李箱必须装入过道储物空间或放在你的座位下面。"
+    },
+    {
+        "start": 416.0,
+        "end": 418.0,
+        "english": "That bag is clearly too big.",
+        "chinese": "那包显然太大了。"
+    },
+    {
+        "start": 418.0,
+        "end": 420.0,
+        "english": "Now I see.",
+        "chinese": "现在我看到。"
+    },
+    {
+        "start": 420.0,
+        "end": 424.0,
+        "english": "You charge next to nothing for an international ticket.",
+        "chinese": "您只需支付零费用就能享受国际机票。"
+    },
+    {
+        "start": 424.0,
+        "end": 431.0,
+        "english": "But when it comes to charging for any other small thing, you charge an arm and a leg.",
+        "chinese": "但是当你对其他任何小东西收费时，你必须支付一个肩膀和一臂的费用。"
+    },
+    {
+        "start": 431.0,
+        "end": 435.0,
+        "english": "So tell me, miss, how much will I have to pay for all this?",
+        "chinese": "所以，小姐，请问我要付多少钱来处理这一切？"
+    },
+    {
+        "start": 435.0,
+        "end": 437.0,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 437.0,
+        "end": 440.0,
+        "english": "625 U.H. dollars.",
+        "chinese": "625美元。"
+    },
+    {
+        "start": 440.0,
+        "end": 445.0,
+        "english": "That's more than my round-trip ticket.",
+        "chinese": "这是超过我往返机票的数额。"
+    },
+    {
+        "start": 446.0,
+        "end": 451.0,
+        "english": "Alright, so I think it's a little bit more clear now.",
+        "chinese": "好的，所以我认为现在稍微更清楚一些。"
+    },
+    {
+        "start": 451.0,
+        "end": 457.0,
+        "english": "And with this, it's time for us to take a look at some great phrases in putting it together.",
+        "chinese": "而且，让我们来看看一些在组合起来时很有用的名言警句。"
+    },
+    {
+        "start": 457.0,
+        "end": 460.0,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 460.0,
+        "end": 465.0,
+        "english": "So this guy was pretty angry about this airline policy.",
+        "chinese": "所以这个家伙对这个航空政策挺生气的。"
+    },
+    {
+        "start": 465.0,
+        "end": 469.0,
+        "english": "And he said, how am I supposed to?",
+        "chinese": "And he said, 何以？"
+    },
+    {
+        "start": 469.0,
+        "end": 471.0,
+        "english": "How am I supposed to?",
+        "chinese": "我是怎么了？"
+    },
+    {
+        "start": 471.0,
+        "end": 473.0,
+        "english": "How am I supposed to?",
+        "chinese": "如何才能？"
+    },
+    {
+        "start": 473.0,
+        "end": 481.0,
+        "english": "So before we get into explaining this, why don't we listen to a couple of examples so we can try and understand what it means?",
+        "chinese": "所以，我们先不着急解释这个，我们可以听听几个例子，看看它到底意味着什么。"
+    },
+    {
+        "start": 481.0,
+        "end": 484.0,
+        "english": "Example 1.",
+        "chinese": "以下是将给定的英语句子翻译成中文："
+    },
+    {
+        "start": 484.0,
+        "end": 487.0,
+        "english": "How am I supposed to fit the dog in the car?",
+        "chinese": "如何才能把狗放进车里？"
+    },
+    {
+        "start": 487.0,
+        "end": 490.0,
+        "english": "There are 10 people in there already.",
+        "chinese": "这里有10个人。"
+    },
+    {
+        "start": 490.0,
+        "end": 494.0,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到对话框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 494.0,
+        "end": 499.0,
+        "english": "How is she supposed to get to work if her car is in the shop?",
+        "chinese": "如何才能到达工作呢，如果她的车在修车厂？"
+    },
+    {
+        "start": 499.0,
+        "end": 503.0,
+        "english": "Example 3.",
+        "chinese": "例子 3。"
+    },
+    {
+        "start": 503.0,
+        "end": 505.0,
+        "english": "How are we supposed to know the answer to that?",
+        "chinese": "如何知道答案呢？"
+    },
+    {
+        "start": 505.0,
+        "end": 508.0,
+        "english": "It's impossible.",
+        "chinese": "是无法实现的。"
+    },
+    {
+        "start": 508.0,
+        "end": 512.0,
+        "english": "Okay, so I can understand that it means how can I do this?",
+        "chinese": "好的，所以我理解这表示如何做这件事。"
+    },
+    {
+        "start": 512.0,
+        "end": 515.0,
+        "english": "Right. How do you expect me to do this?",
+        "chinese": "正确。你期望我如何完成这个？"
+    },
+    {
+        "start": 515.0,
+        "end": 517.0,
+        "english": "How is it possible for me to do this?",
+        "chinese": "如何才能做到这一点？"
+    },
+    {
+        "start": 517.0,
+        "end": 518.0,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 518.0,
+        "end": 520.0,
+        "english": "It's a phrase you use when you're frustrated, right?",
+        "chinese": "这句话你用在生气的时候说对了。"
+    },
+    {
+        "start": 520.0,
+        "end": 527.0,
+        "english": "Yeah, exactly. You're maybe a little bit frustrated or you're maybe nervous of something that you can't do or don't know how.",
+        "chinese": "是的，完全正确。你可能有点沮丧或因为不能做或者不知道怎么做而有些紧张。"
+    },
+    {
+        "start": 527.0,
+        "end": 534.0,
+        "english": "Yeah, this phrase, it's not impolite, but it sort of gives the idea that you're challenging the other person a little bit.",
+        "chinese": "是的，这个短语并不冒犯人，但似乎暗示你正在挑战对方。"
+    },
+    {
+        "start": 534.0,
+        "end": 536.0,
+        "english": "Maybe, yeah.",
+        "chinese": "是的，也许。"
+    },
+    {
+        "start": 536.0,
+        "end": 542.0,
+        "english": "Okay, so a good phrase that you can use in different situations and you can try and mix it up with different verbs, right?",
+        "chinese": "好的，您能用不同的场合使用一个好词，并尝试混合不同的动词吗？"
+    },
+    {
+        "start": 542.0,
+        "end": 543.0,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 543.0,
+        "end": 546.0,
+        "english": "Alright, now let's take a look at our next phrase.",
+        "chinese": "好的，现在让我们看看我们的下一个短语。"
+    },
+    {
+        "start": 546.0,
+        "end": 549.0,
+        "english": "I'm sorry, sir. There's nothing I can do.",
+        "chinese": "对不起，先生。我什么也帮不上忙。"
+    },
+    {
+        "start": 549.0,
+        "end": 551.0,
+        "english": "There's nothing I can do.",
+        "chinese": "没有我能做到的。"
+    },
+    {
+        "start": 551.0,
+        "end": 553.0,
+        "english": "There's nothing I can do.",
+        "chinese": "没有我能做到的。"
+    },
+    {
+        "start": 553.0,
+        "end": 554.0,
+        "english": "There's nothing I can do.",
+        "chinese": "没有我能做到的。"
+    },
+    {
+        "start": 554.0,
+        "end": 561.0,
+        "english": "So basically the woman can't help the man, even though he's insisting and he's pushing that he wants another solution.",
+        "chinese": "所以总的来说，女人不能帮助男人，尽管他坚持要另寻一策。"
+    },
+    {
+        "start": 561.0,
+        "end": 562.0,
+        "english": "Yep. Right.",
+        "chinese": "是的。正确。"
+    },
+    {
+        "start": 562.0,
+        "end": 566.0,
+        "english": "So finally, she says, I'm sorry, there's nothing I can do.",
+        "chinese": "所以最后，她说道：“对不起，我没有办法做。”"
+    },
+    {
+        "start": 566.0,
+        "end": 571.0,
+        "english": "So we use this phrase when someone's pushing you too much, right?",
+        "chinese": "所以，我们使用这个短语当别人对你太紧逼时用。"
+    },
+    {
+        "start": 571.0,
+        "end": 575.0,
+        "english": "Right. And you would use it only in that situation, towards the end, because it is a little bit...",
+        "chinese": "正确。你将只在那个情况下使用它，到末尾，因为它是有点小的..."
+    },
+    {
+        "start": 575.0,
+        "end": 577.0,
+        "english": "It's strong.",
+        "chinese": "它很强。"
+    },
+    {
+        "start": 577.0,
+        "end": 582.0,
+        "english": "It's not impolite, but it's just you're saying, you know what, I'm sorry, I can't do anything about it.",
+        "chinese": "不是不礼貌，但你已经说得很清楚了，我知道错了，我无法做些什么。"
+    },
+    {
+        "start": 582.0,
+        "end": 585.0,
+        "english": "Now let's move on to our third phrase.",
+        "chinese": "现在让我们转到我们的第三句话。"
+    },
+    {
+        "start": 585.0,
+        "end": 587.0,
+        "english": "You charge next to nothing.",
+        "chinese": "您只需支付零费用。"
+    },
+    {
+        "start": 587.0,
+        "end": 589.0,
+        "english": "Next to nothing.",
+        "chinese": "对不起，我无法直接提供或翻译您提供的英文句子。不过，如果您能告诉我具体需要翻译的句子，请随时告知，我会尽力帮助您。"
+    },
+    {
+        "start": 589.0,
+        "end": 591.0,
+        "english": "Next to nothing.",
+        "chinese": "接下来什么也没有。"
+    },
+    {
+        "start": 591.0,
+        "end": 592.0,
+        "english": "Next to nothing.",
+        "chinese": "下等。"
+    },
+    {
+        "start": 592.0,
+        "end": 596.0,
+        "english": "Alright, so we're talking about charging, we're talking about money.",
+        "chinese": "好的，我们正在讨论收费、钱的问题。"
+    },
+    {
+        "start": 596.0,
+        "end": 601.0,
+        "english": "Why don't we listen to some examples of what this next to nothing phrase means?",
+        "chinese": "为什么我们不听听这个“一点没有”短语的例证？"
+    },
+    {
+        "start": 601.0,
+        "end": 603.0,
+        "english": "Example 1.",
+        "chinese": "例 1."
+    },
+    {
+        "start": 606.0,
+        "end": 607.0,
+        "english": "Do you like my new house?",
+        "chinese": "是的，我喜欢新房子。"
+    },
+    {
+        "start": 607.0,
+        "end": 610.0,
+        "english": "It was so cheap that it almost cost next to nothing.",
+        "chinese": "它这么便宜，以至于几乎不值钱。"
+    },
+    {
+        "start": 613.0,
+        "end": 615.0,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 617.0,
+        "end": 619.0,
+        "english": "Let's go to Thailand.",
+        "chinese": "让我们去泰国。"
+    },
+    {
+        "start": 619.0,
+        "end": 621.0,
+        "english": "Tickets cost next to nothing right now.",
+        "chinese": "售票费现在几乎不贵。"
+    },
+    {
+        "start": 624.0,
+        "end": 626.0,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 628.0,
+        "end": 633.0,
+        "english": "The real estate agent charged me next to nothing for his commission, so I got a really good deal.",
+        "chinese": "房地产经纪人为他提供的佣金而我付出了很少的钱，所以我得到了一个很好的价格。"
+    },
+    {
+        "start": 634.0,
+        "end": 637.0,
+        "english": "So when something costs next to nothing, it's really cheap, right?",
+        "chinese": "所以，当某件事情的成本接近于零时，确实很便宜，对吗？"
+    },
+    {
+        "start": 637.0,
+        "end": 638.0,
+        "english": "It's really cheap.",
+        "chinese": "是真的很便宜。"
+    },
+    {
+        "start": 638.0,
+        "end": 640.0,
+        "english": "Or you consider it to be cheap.",
+        "chinese": "您考虑它便宜。"
+    },
+    {
+        "start": 640.0,
+        "end": 644.0,
+        "english": "And now for our last phrase, it's the complete opposite of next to nothing.",
+        "chinese": "现在是我们的最后一个句子，它与上一个句子相反。"
+    },
+    {
+        "start": 644.0,
+        "end": 645.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 645.0,
+        "end": 647.0,
+        "english": "Charge an arm and a leg.",
+        "chinese": "请稍等，我将为您翻译成中文："
+    },
+    {
+        "start": 647.0,
+        "end": 649.0,
+        "english": "An arm and a leg.",
+        "chinese": "一个手臂和一条腿。"
+    },
+    {
+        "start": 649.0,
+        "end": 651.0,
+        "english": "An arm and a leg.",
+        "chinese": "一个手臂和一条腿。"
+    },
+    {
+        "start": 651.0,
+        "end": 653.0,
+        "english": "Alright, so this means it's really expensive.",
+        "chinese": "好的，所以这意味着它真的很贵。"
+    },
+    {
+        "start": 653.0,
+        "end": 657.0,
+        "english": "It's so expensive, it's like giving your arm and your leg.",
+        "chinese": "它太贵了，就像把你的胳膊和腿都给了你。"
+    },
+    {
+        "start": 657.0,
+        "end": 658.0,
+        "english": "Right, to pay for it.",
+        "chinese": "是的，为了它。"
+    },
+    {
+        "start": 658.0,
+        "end": 659.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 659.0,
+        "end": 662.0,
+        "english": "Very good, so next to nothing, really cheap.",
+        "chinese": "很好，没什么，真的便宜。"
+    },
+    {
+        "start": 662.0,
+        "end": 664.0,
+        "english": "An arm and a leg, really expensive.",
+        "chinese": "一个手臂和一条腿，真的贵重。"
+    },
+    {
+        "start": 664.0,
+        "end": 666.0,
+        "english": "Can we look at the use here?",
+        "chinese": "是的，我们可以看看这里。"
+    },
+    {
+        "start": 666.0,
+        "end": 670.0,
+        "english": "Um, alright, so in the dialogue we heard, you charge an arm and a leg.",
+        "chinese": "嗯，对了，我们在对话中听到你花费了一个胳膊和一条腿。"
+    },
+    {
+        "start": 670.0,
+        "end": 673.0,
+        "english": "But we can also say it costs an arm and a leg.",
+        "chinese": "但是，我们也可以说它花费了两万元。"
+    },
+    {
+        "start": 673.0,
+        "end": 676.0,
+        "english": "Right, because we are referring to money.",
+        "chinese": "正确，因为我们是谈论金钱。"
+    },
+    {
+        "start": 676.0,
+        "end": 677.0,
+        "english": "Mm-hmm. Right.",
+        "chinese": "这句话是用中文的，可以翻译成："
+    },
+    {
+        "start": 677.0,
+        "end": 678.0,
+        "english": "Alright, so some great phrases here.",
+        "chinese": "好的，这里有一些好词句。"
+    },
+    {
+        "start": 678.0,
+        "end": 682.0,
+        "english": "Now, I think it's time we listen to our dialogue one more time.",
+        "chinese": "现在，我认为我们再次倾听我们的对话更为合适。"
+    },
+    {
+        "start": 690.0,
+        "end": 692.0,
+        "english": "Next please.",
+        "chinese": "请稍等。"
+    },
+    {
+        "start": 692.0,
+        "end": 693.0,
+        "english": "Hello, sir.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 693.0,
+        "end": 694.0,
+        "english": "May I see your passport please?",
+        "chinese": "是的，我可以看看您的护照。"
+    },
+    {
+        "start": 694.0,
+        "end": 696.0,
+        "english": "Yes, here you go.",
+        "chinese": "是的，你来啦。"
+    },
+    {
+        "start": 696.0,
+        "end": 698.0,
+        "english": "Will you be checking any bags today?",
+        "chinese": "是的，我今天会检查行李。"
+    },
+    {
+        "start": 698.0,
+        "end": 700.0,
+        "english": "Yes, I'd like to check three pieces.",
+        "chinese": "是的，我想检查三件。"
+    },
+    {
+        "start": 700.0,
+        "end": 702.0,
+        "english": "I'm sorry, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 702.0,
+        "end": 705.0,
+        "english": "Airline policy only allows two pieces of check luggage.",
+        "chinese": "航空公司只允许两件行李作为托运行李。"
+    },
+    {
+        "start": 705.0,
+        "end": 709.0,
+        "english": "At 20 kilograms each, plus one piece of carry on luggage.",
+        "chinese": "在每公斤为20千克的情况下，加上一件手提行李。"
+    },
+    {
+        "start": 709.0,
+        "end": 712.0,
+        "english": "I will have to charge you extra for the additional suitcase.",
+        "chinese": "我必须额外收费给您，因为额外的行李箱。"
+    },
+    {
+        "start": 712.0,
+        "end": 713.0,
+        "english": "What? Why?",
+        "chinese": "What? Why? 请问？"
+    },
+    {
+        "start": 713.0,
+        "end": 715.0,
+        "english": "I'm taking an intercontinental flight.",
+        "chinese": "我将要乘飞机飞往国际。"
+    },
+    {
+        "start": 715.0,
+        "end": 717.0,
+        "english": "I'm flying 16,000 kilometers.",
+        "chinese": "我将飞行16,000公里。"
+    },
+    {
+        "start": 717.0,
+        "end": 720.0,
+        "english": "How am I supposed to take only two 20 kilo bags?",
+        "chinese": "如何才能只拿两个20公斤的袋子？"
+    },
+    {
+        "start": 720.0,
+        "end": 721.0,
+        "english": "That's absurd.",
+        "chinese": "那真是荒谬。"
+    },
+    {
+        "start": 722.0,
+        "end": 724.0,
+        "english": "I'm sorry, sir. There's nothing I can do.",
+        "chinese": "对不起，先生。我什么也帮不上忙。"
+    },
+    {
+        "start": 724.0,
+        "end": 727.0,
+        "english": "You cannot board the flight with that large bag either.",
+        "chinese": "你不能乘坐飞机带那个大的包。"
+    },
+    {
+        "start": 727.0,
+        "end": 731.0,
+        "english": "Carry on bags must fit in the overhead compartment or under your seat.",
+        "chinese": "继续携带的包必须装入过道储物箱或放在你的座位下面。"
+    },
+    {
+        "start": 731.0,
+        "end": 734.0,
+        "english": "That bag is clearly too big.",
+        "chinese": "那包显然太大了。"
+    },
+    {
+        "start": 734.0,
+        "end": 735.0,
+        "english": "Now I see.",
+        "chinese": "现在我看到。"
+    },
+    {
+        "start": 735.0,
+        "end": 737.0,
+        "english": "You charge a next to nothing for an international ticket.",
+        "chinese": "您为国际机票提供免费服务。"
+    },
+    {
+        "start": 737.0,
+        "end": 741.0,
+        "english": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+        "chinese": "当谈到任何其他小东西的充电，你必须支付一个肩膀和一臂。"
+    },
+    {
+        "start": 741.0,
+        "end": 744.0,
+        "english": "So tell me, miss, how much will I have to pay for all of this?",
+        "chinese": "所以，小姐，请问我要付多少钱来处理这一切？"
+    },
+    {
+        "start": 744.0,
+        "end": 747.0,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 747.0,
+        "end": 749.0,
+        "english": "625 US dollars.",
+        "chinese": "六百二十五美元。"
+    },
+    {
+        "start": 749.0,
+        "end": 752.0,
+        "english": "That's more than my round trip ticket.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 752.0,
+        "end": 757.0,
+        "english": "Okay, so airline policies, luggage, it's always a problem, right?",
+        "chinese": "好的，航空公司政策、行李、总是存在问题。"
+    },
+    {
+        "start": 757.0,
+        "end": 761.0,
+        "english": "Most of the time you always end up paying overweight when you travel.",
+        "chinese": "大多数时候，当你旅行时，你总是会支付过重的费用。"
+    },
+    {
+        "start": 761.0,
+        "end": 766.0,
+        "english": "Yeah, I know that this happened to me once and it was really expensive.",
+        "chinese": "是的，我知道这发生在我身上，并且花费了相当可观。"
+    },
+    {
+        "start": 766.0,
+        "end": 768.0,
+        "english": "Really? What happened?",
+        "chinese": "真的？发生了什么？"
+    },
+    {
+        "start": 768.0,
+        "end": 772.0,
+        "english": "I was flying on an intercontinental flight from India back to Europe.",
+        "chinese": "我从印度飞回欧洲的一架国际航班。"
+    },
+    {
+        "start": 772.0,
+        "end": 776.0,
+        "english": "And I had too many extra bags, but I really needed to bring them.",
+        "chinese": "我太累了，又多了一个袋子，我真的需要它。"
+    },
+    {
+        "start": 776.0,
+        "end": 779.0,
+        "english": "And so it cost me $6,000.",
+        "chinese": "所以对我来说，花费了6000美元。"
+    },
+    {
+        "start": 779.0,
+        "end": 781.0,
+        "english": "$6,000.",
+        "chinese": "六千。"
+    },
+    {
+        "start": 781.0,
+        "end": 782.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 782.0,
+        "end": 783.0,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 783.0,
+        "end": 785.0,
+        "english": "So my credit card was pretty maxed out after that.",
+        "chinese": "所以我的信用卡额度已经非常满了。"
+    },
+    {
+        "start": 785.0,
+        "end": 787.0,
+        "english": "That's incredible.",
+        "chinese": "那真是太棒了。"
+    },
+    {
+        "start": 787.0,
+        "end": 788.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 788.0,
+        "end": 792.0,
+        "english": "Well, I'm sure many of our users probably suffered similar experiences like this.",
+        "chinese": "嗯，我相信许多我们的用户可能也和我一样经历了这样的事情。"
+    },
+    {
+        "start": 792.0,
+        "end": 796.0,
+        "english": "So please come to our website and share it with us at EnglishPod.com.",
+        "chinese": "所以请来我们的网站，与我们分享到英语pod.com。"
+    },
+    {
+        "start": 796.0,
+        "end": 797.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 797.0,
+        "end": 799.0,
+        "english": "Marco and I are always around to answer your questions.",
+        "chinese": "马科和我总是随时准备回答你的问题。"
+    },
+    {
+        "start": 799.0,
+        "end": 801.0,
+        "english": "So please check us out.",
+        "chinese": "所以请看看我们。"
+    },
+    {
+        "start": 801.0,
+        "end": 803.0,
+        "english": "And thanks for downloading you guys until next time.",
+        "chinese": "谢谢你们下载我，直到下次。"
+    },
+    {
+        "start": 803.0,
+        "end": 804.0,
+        "english": "Bye.",
+        "chinese": "拜。"
+    },
+    {
+        "start": 804.0,
+        "end": 805.0,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

@@ -1,0 +1,1646 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.64,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.64,
+        "end": 9.6,
+        "english": "My name is Catherine and today we're going to be helping you set up an answering machine",
+        "chinese": "我的名字是凯特，今天我们要一起帮助你设置一个电话机。"
+    },
+    {
+        "start": 9.6,
+        "end": 10.6,
+        "english": "basically.",
+        "chinese": "基本。"
+    },
+    {
+        "start": 10.6,
+        "end": 15.68,
+        "english": "That's right so somebody's calling you, you can't answer the phone so you leave a message",
+        "chinese": "英语：那对，有人在打电话，你不能接电话，所以给你发个消息。"
+    },
+    {
+        "start": 15.68,
+        "end": 17.6,
+        "english": "and we're going to teach you all about that today.",
+        "chinese": "和我们今天一起学习一下这个。"
+    },
+    {
+        "start": 17.6,
+        "end": 21.04,
+        "english": "That's right so let's take a listen to our dialogue and we'll be back in a moment to figure",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 21.04,
+        "end": 29.12,
+        "english": "out just what's going on.",
+        "chinese": "出而已。"
+    },
+    {
+        "start": 29.12,
+        "end": 31.28,
+        "english": "Can you help me set up my voicemail message?",
+        "chinese": "英语：你能帮我设置我的电话留言吗？"
+    },
+    {
+        "start": 31.28,
+        "end": 35.96,
+        "english": "I just got the service and I'm not really sure what I'm supposed to say.",
+        "chinese": "刚刚服务完毕，我并不太确定自己应该说什么。"
+    },
+    {
+        "start": 35.96,
+        "end": 40.44,
+        "english": "Sure. You just basically got to let the caller know who they called and ask them for their",
+        "chinese": "是的。你基本上只需要告诉被叫者他们是谁，然后让他们提供他们的信息。"
+    },
+    {
+        "start": 40.44,
+        "end": 42.92,
+        "english": "contact information so you can call them back.",
+        "chinese": "联系方式以便您能联系他们。"
+    },
+    {
+        "start": 42.92,
+        "end": 48.480000000000004,
+        "english": "Okay so I can say this is Abby's voicemail. I will call you later so leave me your name",
+        "chinese": "好的，我明白了。请告诉我这个是Abby的电话号码。我会尽快联系你。"
+    },
+    {
+        "start": 48.480000000000004,
+        "end": 49.480000000000004,
+        "english": "and number.",
+        "chinese": "和编号。"
+    },
+    {
+        "start": 49.480000000000004,
+        "end": 53.16,
+        "english": "That's more or less the idea but try something that sounds more friendly.",
+        "chinese": "这个点和拍是傻瓜相机，SLR/DSLR是单反相机。机身是体，镜头是镜，长焦是长焦，偏振镜是偏振镜，卸下重任是卸下任务，赋予/授予是赋予/授予，一路顺风是一路顺风，疏远且微弱是疏远且微弱，卸任是卸任，辞职信是辞职信，入门级是入门级，显示屏是显示屏，套机镜头是套机镜头，流利构建单元是流利构建单元。"
+    },
+    {
+        "start": 53.16,
+        "end": 55.480000000000004,
+        "english": "Okay so how about this?",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 55.480000000000004,
+        "end": 58.040000000000006,
+        "english": "This is Abby and I'm really happy you called.",
+        "chinese": "这个是阿比，我真的很高兴你打电话。"
+    },
+    {
+        "start": 58.04,
+        "end": 62.28,
+        "english": "I promise I will give you a ring as soon as I can so please leave me your name and",
+        "chinese": "我保证在能的时候我会给你一个戒指，好吗？请告诉我你的名字。"
+    },
+    {
+        "start": 62.28,
+        "end": 63.28,
+        "english": "number.",
+        "chinese": "数字。"
+    },
+    {
+        "start": 63.28,
+        "end": 64.28,
+        "english": "Talk to you soon.",
+        "chinese": "马上和你联系。"
+    },
+    {
+        "start": 64.28,
+        "end": 66.96,
+        "english": "A little too friendly Abby.",
+        "chinese": "小得有点友好的安妮。"
+    },
+    {
+        "start": 66.96,
+        "end": 67.96,
+        "english": "Just say this.",
+        "chinese": "请说这个。"
+    },
+    {
+        "start": 67.96,
+        "end": 69.28,
+        "english": "Hi you've reached Abby.",
+        "chinese": "你好，你已经到了安比。"
+    },
+    {
+        "start": 69.28,
+        "end": 72.68,
+        "english": "I'm unable to answer your call right now but if you leave me your name and phone number",
+        "chinese": "我无法立即回答您的电话，但如果您留下我的名字和电话号码，我会尽快联系您。"
+    },
+    {
+        "start": 72.68,
+        "end": 74.56,
+        "english": "I will get back to you as soon as possible.",
+        "chinese": "我尽快回复你。"
+    },
+    {
+        "start": 74.56,
+        "end": 75.56,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 75.56,
+        "end": 76.56,
+        "english": "That's perfect.",
+        "chinese": "太好了。"
+    },
+    {
+        "start": 76.56,
+        "end": 81.2,
+        "english": "Can you say that again and record it for me?",
+        "chinese": "英语：你能再说一遍，录下来吗？"
+    },
+    {
+        "start": 81.2,
+        "end": 85.6,
+        "english": "Alright we're back so now let's take a look at some language.",
+        "chinese": "好的，我们已经回来，现在让我们看看一些语言。"
+    },
+    {
+        "start": 85.6,
+        "end": 86.6,
+        "english": "Take away.",
+        "chinese": "带走"
+    },
+    {
+        "start": 87.6,
+        "end": 90.6,
+        "english": "Language take away.",
+        "chinese": "语言取消。"
+    },
+    {
+        "start": 90.6,
+        "end": 97.47999999999999,
+        "english": "Alright in the first sentence we are asking someone to help me set up my voicemail message.",
+        "chinese": "好的，我明白了。请告诉我如何设置我的语音消息。"
+    },
+    {
+        "start": 97.47999999999999,
+        "end": 100.08,
+        "english": "So we got two key words there.",
+        "chinese": "所以我们在那里找到了两个关键词。"
+    },
+    {
+        "start": 100.08,
+        "end": 101.16,
+        "english": "That's right so let's break it up.",
+        "chinese": "好的，我明白了。请将需要翻译的英文语句提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 101.16,
+        "end": 104.47999999999999,
+        "english": "The first one is a phrasal verb to set up.",
+        "chinese": "英语：第一个是设置好。"
+    },
+    {
+        "start": 104.47999999999999,
+        "end": 105.47999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 105.47999999999999,
+        "end": 109.84,
+        "english": "You can set a lot of things up but just remember that set and up.",
+        "chinese": "你可以说得很棒，但请记住，设置和组装只是开始。"
+    },
+    {
+        "start": 109.84,
+        "end": 111.08,
+        "english": "These are the two words that go together.",
+        "chinese": "这些是并列词。"
+    },
+    {
+        "start": 111.08,
+        "end": 112.75999999999999,
+        "english": "In this case we're setting up voicemail.",
+        "chinese": "在这种情况里，我们正在设置录音机。"
+    },
+    {
+        "start": 112.76,
+        "end": 117.28,
+        "english": "It means to establish or to start or to put together.",
+        "chinese": "英语：它意味着建立或开始或组装。"
+    },
+    {
+        "start": 117.28,
+        "end": 118.44,
+        "english": "Yeah to install.",
+        "chinese": "是的，可以安装。"
+    },
+    {
+        "start": 118.44,
+        "end": 122.84,
+        "english": "For example you get a new computer and you have to connect all the cables and you have",
+        "chinese": "例如，你得到一台新的电脑，并且你需要连接所有的电缆和设备。"
+    },
+    {
+        "start": 122.84,
+        "end": 126.16000000000001,
+        "english": "to connect the monitor so you say can you help me set up my computer?",
+        "chinese": "英语：将显示器连接到电脑，以便你能帮我设置我的计算机。"
+    },
+    {
+        "start": 126.16000000000001,
+        "end": 128.56,
+        "english": "That's right so he always helps me set it up.",
+        "chinese": "正确，他总是帮助我设置它。"
+    },
+    {
+        "start": 128.56,
+        "end": 130.8,
+        "english": "So my computer for example.",
+        "chinese": "英语：所以我的电脑。"
+    },
+    {
+        "start": 130.8,
+        "end": 135.48000000000002,
+        "english": "That's right and what we're setting up is our voicemail message.",
+        "chinese": "没错，我们正在为我们的录音消息设置这个。"
+    },
+    {
+        "start": 135.48000000000002,
+        "end": 137.44,
+        "english": "So what exactly is voicemail?",
+        "chinese": "英语：所以，呃，啥意思啊？"
+    },
+    {
+        "start": 137.44,
+        "end": 139.08,
+        "english": "Well you know what mail is.",
+        "chinese": "英语：你知道邮件是什么吗？"
+    },
+    {
+        "start": 139.08,
+        "end": 141.24,
+        "english": "We have email and regular mail.",
+        "chinese": "我们有电子邮件和常规邮件。"
+    },
+    {
+        "start": 141.24,
+        "end": 146.44,
+        "english": "Is the kind of message you receive on your phone, your cell phone or your home phone",
+        "chinese": "英文：它是在你的手机、移动电话还是家庭电话上收到的。"
+    },
+    {
+        "start": 146.44,
+        "end": 149.0,
+        "english": "when you don't answer the phone?",
+        "chinese": "当您不接听电话时？"
+    },
+    {
+        "start": 149.0,
+        "end": 153.92000000000002,
+        "english": "That's right so basically a way for people to leave you a message even though you can't",
+        "chinese": "是的，所以基本上人们可以给你留下一个消息，即使你不能。"
+    },
+    {
+        "start": 153.92000000000002,
+        "end": 154.92000000000002,
+        "english": "answer them.",
+        "chinese": "答案：回答他们。"
+    },
+    {
+        "start": 154.92000000000002,
+        "end": 158.28,
+        "english": "That's right so this is something that's so it's not text.",
+        "chinese": "这句话是正确的，这是什么东西呢？？ 这不是文字。"
+    },
+    {
+        "start": 158.28,
+        "end": 159.28,
+        "english": "It's actually a voice.",
+        "chinese": "实际上是一台语音。"
+    },
+    {
+        "start": 159.28,
+        "end": 162.92000000000002,
+        "english": "That's why it's called voicemail and you have to set it up.",
+        "chinese": "英语：这是因为它叫录音机，你得设置它。"
+    },
+    {
+        "start": 162.92000000000002,
+        "end": 165.76000000000002,
+        "english": "Okay so there's no automatic voicemail message.",
+        "chinese": "英语：好的，所以没有自动的电话铃声。"
+    },
+    {
+        "start": 165.76000000000002,
+        "end": 169.48000000000002,
+        "english": "You actually have to make your own or you can choose one and today we're making our",
+        "chinese": "你实际上需要自己做还是今天我们可以选择一个，今天的任务是制作我们的。"
+    },
+    {
+        "start": 169.48000000000002,
+        "end": 170.48000000000002,
+        "english": "own.",
+        "chinese": "自己的。"
+    },
+    {
+        "start": 170.48,
+        "end": 175.95999999999998,
+        "english": "So we're explaining that we actually just got this service and we don't really know what",
+        "chinese": "英语：所以我们正在解释说，实际上我们刚刚获得了这个服务，并且还不太清楚。"
+    },
+    {
+        "start": 175.95999999999998,
+        "end": 178.79999999999998,
+        "english": "we're supposed to say or how to set up our voicemail.",
+        "chinese": "我们应当说或如何设置我们的电话录音。"
+    },
+    {
+        "start": 178.79999999999998,
+        "end": 184.23999999999998,
+        "english": "That's right so voicemail messages are kind of service and now who would offer this",
+        "chinese": "英语：那应该就是语音留言了，现在谁会提供这种服务呢？"
+    },
+    {
+        "start": 184.23999999999998,
+        "end": 185.72,
+        "english": "kind of service Marco?",
+        "chinese": "有点服务？"
+    },
+    {
+        "start": 185.72,
+        "end": 187.92,
+        "english": "Probably your telephone company.",
+        "chinese": "英语：很可能是你的电话公司。"
+    },
+    {
+        "start": 187.92,
+        "end": 192.07999999999998,
+        "english": "That's right so telephone company will offer many different services and these are things",
+        "chinese": "没错，所以电话公司将提供许多不同的服务。这些服务包括但不限于：电话、互联网接入、数据传输、视频通话、移动通信等。"
+    },
+    {
+        "start": 192.07999999999998,
+        "end": 195.6,
+        "english": "that you can pay extra for and they're useful.",
+        "chinese": "这个傻瓜相机可以额外支付，而且它们很有用。"
+    },
+    {
+        "start": 195.6,
+        "end": 196.88,
+        "english": "They can help you in some way.",
+        "chinese": "他们可以帮助你一些方式。"
+    },
+    {
+        "start": 196.88,
+        "end": 200.2,
+        "english": "So another kind of service is three way calling.",
+        "chinese": "所以另一种服务是三步通话。"
+    },
+    {
+        "start": 200.2,
+        "end": 201.2,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 201.2,
+        "end": 202.2,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 202.2,
+        "end": 207.04,
+        "english": "So actually we're taking a look at this word service as a noun so we have a service or",
+        "chinese": "所以实际上我们正在对这个字典服务做一个名词的解释，这样我们可以有服务或。"
+    },
+    {
+        "start": 207.04,
+        "end": 208.64,
+        "english": "this service.",
+        "chinese": "这个服务。"
+    },
+    {
+        "start": 208.64,
+        "end": 214.76,
+        "english": "So the company offers this service and well why are we setting up the voicemail and our",
+        "chinese": "所以这家公司提供这个服务，为什么我们设置录音和我们的电话号码？"
+    },
+    {
+        "start": 214.76,
+        "end": 221.07999999999998,
+        "english": "friend explains that we just basically doing it to let the caller know who they called.",
+        "chinese": "英语：朋友解释说我们只是基本告知谁叫的。"
+    },
+    {
+        "start": 221.07999999999998,
+        "end": 226.2,
+        "english": "Okay so if I call a number and it says hey leave a message.",
+        "chinese": "英语：如果我打电话，它会说“嘿，留下留言吗？”"
+    },
+    {
+        "start": 226.2,
+        "end": 228.56,
+        "english": "I don't know who I'm leaving a message for.",
+        "chinese": "我也不知道谁是我要离开的联系人。"
+    },
+    {
+        "start": 228.56,
+        "end": 230.83999999999997,
+        "english": "Did I dial the wrong number?",
+        "chinese": "是的，我拨错了电话号码。"
+    },
+    {
+        "start": 230.83999999999997,
+        "end": 231.83999999999997,
+        "english": "What do I say?",
+        "chinese": "你有什么话要说？"
+    },
+    {
+        "start": 231.83999999999997,
+        "end": 232.83999999999997,
+        "english": "Do I say my phone number?",
+        "chinese": "英语：我叫什么名字？"
+    },
+    {
+        "start": 232.83999999999997,
+        "end": 235.76,
+        "english": "So this is basically instructions for what to say.",
+        "chinese": "所以这是基本的指示，告诉你要怎么说。"
+    },
+    {
+        "start": 235.76,
+        "end": 237.44,
+        "english": "That's right and you become the caller right?",
+        "chinese": "是的，你成为呼叫人了吗？"
+    },
+    {
+        "start": 237.44,
+        "end": 238.44,
+        "english": "That's right.",
+        "chinese": "正确：那对不对？"
+    },
+    {
+        "start": 238.44,
+        "end": 245.16,
+        "english": "So whoever is making the call is called the caller and this is why we are setting up our voicemail",
+        "chinese": "所以谁在打电话，就是这个号码，我们设置录音机。"
+    },
+    {
+        "start": 245.16,
+        "end": 252.48,
+        "english": "to let the caller know who we are calling and of course we have to ask the caller for",
+        "chinese": "英语：告知我们是谁，以及当然我们需要向被叫人询问。"
+    },
+    {
+        "start": 252.48,
+        "end": 254.16,
+        "english": "their contact information.",
+        "chinese": "他们的联系方式。"
+    },
+    {
+        "start": 254.64,
+        "end": 259.24,
+        "english": "All right now this is important because it's not just something you have with voicemail",
+        "chinese": "英语：现在一切都很重要，因为这不是你有电话时的事情。"
+    },
+    {
+        "start": 259.24,
+        "end": 260.24,
+        "english": "messages.",
+        "chinese": "消息"
+    },
+    {
+        "start": 260.24,
+        "end": 262.36,
+        "english": "You have contact information from many different things.",
+        "chinese": "你有来自许多不同地方的联系方式。"
+    },
+    {
+        "start": 262.36,
+        "end": 267.36,
+        "english": "For example your medical care, your school, you have to include contact information.",
+        "chinese": "例如，你的医疗保健、教育和你都需要包括联系方式。"
+    },
+    {
+        "start": 267.36,
+        "end": 271.52,
+        "english": "Now this would be your phone number, your address and or your email.",
+        "chinese": "现在，这是你的手机号、地址或电子邮件。"
+    },
+    {
+        "start": 271.52,
+        "end": 272.52,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 272.52,
+        "end": 278.04,
+        "english": "So your contact information is not only useful for a voicemail message but for example in",
+        "chinese": "英语：所以你的联系方式不仅对语音消息有用，还可以用于其他场合。"
+    },
+    {
+        "start": 278.04,
+        "end": 282.88,
+        "english": "a business meeting or a business lunch you want to get maybe someone else's contact",
+        "chinese": "一个商务会议或午餐，你可能需要请别人帮忙。"
+    },
+    {
+        "start": 282.88,
+        "end": 284.4,
+        "english": "information so you can call them later.",
+        "chinese": "信息以便你们以后能联系他们。"
+    },
+    {
+        "start": 284.4,
+        "end": 285.4,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 285.4,
+        "end": 287.4,
+        "english": "So don't forget it's all your name as well.",
+        "chinese": "所以别忘了，你的名字也是你所有的。"
+    },
+    {
+        "start": 287.4,
+        "end": 288.4,
+        "english": "So forgot to mention that.",
+        "chinese": "所以忘记提到这个。"
+    },
+    {
+        "start": 288.4,
+        "end": 289.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 289.4,
+        "end": 291.2,
+        "english": "Your contact information must have your name.",
+        "chinese": "你的联系方式必须包含你的姓名。"
+    },
+    {
+        "start": 291.2,
+        "end": 292.2,
+        "english": "All right.",
+        "chinese": "英语：一切好。"
+    },
+    {
+        "start": 292.2,
+        "end": 296.64,
+        "english": "So that's pretty much all we have for the first part of language takeaway.",
+        "chinese": "所以，基本上我们只有一部分内容可以用来总结语言入门。"
+    },
+    {
+        "start": 296.64,
+        "end": 307.04,
+        "english": "Why don't we listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
+        "chinese": "英语：我们再听一遍对话，然后我们会尽快回到 Fluent Builder。"
+    },
+    {
+        "start": 307.04,
+        "end": 309.24,
+        "english": "Can you help me set up my voicemail message?",
+        "chinese": "你能帮我设置我的电话录音吗？"
+    },
+    {
+        "start": 309.24,
+        "end": 313.96000000000004,
+        "english": "I just got the service and I'm not really sure what I'm supposed to say.",
+        "chinese": "我刚刚获得了服务，但我不太确定应该说什么。"
+    },
+    {
+        "start": 313.96000000000004,
+        "end": 314.96000000000004,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 314.96000000000004,
+        "end": 318.88,
+        "english": "You just basically got to let the caller know who they called and ask them for their contact",
+        "chinese": "你只能简单地告诉他们谁叫的，然后让他们提供他们的联系方式。"
+    },
+    {
+        "start": 318.88,
+        "end": 320.88,
+        "english": "information so you can call them back.",
+        "chinese": "信息这样你可以让他们联系上。"
+    },
+    {
+        "start": 320.88,
+        "end": 324.40000000000003,
+        "english": "Okay so I can say this is Abby's voicemail.",
+        "chinese": "好的，所以我说这是安迪的录音。"
+    },
+    {
+        "start": 324.40000000000003,
+        "end": 327.52,
+        "english": "I will call you later so leave me your name and number.",
+        "chinese": "我将尽快联系你，以便留下你的名字和电话号码。"
+    },
+    {
+        "start": 327.52,
+        "end": 331.08,
+        "english": "That's more or less the idea but try something that sounds more friendly.",
+        "chinese": "这个点和拍是傻瓜相机，SLR/DSLR是单反相机。机身是体，镜头是镜，长焦是长焦，偏振镜是偏振镜，卸下重任是卸下任务，赋予是授予，一路顺风是一路顺风，疏远且微弱是疏远且微弱，退出是退出，辞职信是辞职信，入门级是入门级，显示屏是显示屏，套机镜头是套机镜头，流利构建单元是流利构建单元。"
+    },
+    {
+        "start": 331.08,
+        "end": 333.44,
+        "english": "Okay so how about this?",
+        "chinese": "好的，那么，您想用什么语言？"
+    },
+    {
+        "start": 333.44,
+        "end": 336.04,
+        "english": "This is Abby and I'm really happy you called.",
+        "chinese": "这个是阿比和我真的很高兴你打了电话。"
+    },
+    {
+        "start": 336.04,
+        "end": 340.26000000000005,
+        "english": "I promise I will give you a ring as soon as I can so please leave me your name and",
+        "chinese": "我保证在你有空的时候，我会给你一个戒指。请告诉我你的名字。"
+    },
+    {
+        "start": 340.26000000000005,
+        "end": 341.26000000000005,
+        "english": "number.",
+        "chinese": "数字。"
+    },
+    {
+        "start": 341.26000000000005,
+        "end": 342.26000000000005,
+        "english": "Talk to you soon.",
+        "chinese": "马上和你联系。"
+    },
+    {
+        "start": 342.26000000000005,
+        "end": 344.92,
+        "english": "A little too friendly Abby.",
+        "chinese": "小得有点朋友般的好 Abby。"
+    },
+    {
+        "start": 344.92,
+        "end": 345.92,
+        "english": "Just say this.",
+        "chinese": "请说这个。"
+    },
+    {
+        "start": 345.92,
+        "end": 347.28000000000003,
+        "english": "Hi you've reached Abby.",
+        "chinese": "你好，你已经到了安比。"
+    },
+    {
+        "start": 347.28000000000003,
+        "end": 350.64000000000004,
+        "english": "I'm unable to answer your call right now but if you leave me your name and phone number",
+        "chinese": "我无法立即回答您的电话，但如果您留下我的名字和电话号码，我会尽快联系您。"
+    },
+    {
+        "start": 350.64000000000004,
+        "end": 352.72,
+        "english": "I will get back to you as soon as possible.",
+        "chinese": "我尽快给你回复。"
+    },
+    {
+        "start": 352.72,
+        "end": 353.72,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 353.72,
+        "end": 354.72,
+        "english": "That's perfect.",
+        "chinese": "这是完美的。"
+    },
+    {
+        "start": 354.72,
+        "end": 358.8,
+        "english": "Can you say that again and record it for me?",
+        "chinese": "英语：你能再说一遍，录下来吗？"
+    },
+    {
+        "start": 358.8,
+        "end": 364.64000000000004,
+        "english": "All right here we are in Fluency Builder and the first phrase we've got is how about",
+        "chinese": "英语：所有准备就绪，我们就在Fluency Builder里了，第一句话是怎么样？"
+    },
+    {
+        "start": 364.64000000000004,
+        "end": 365.64000000000004,
+        "english": "this.",
+        "chinese": "这个。"
+    },
+    {
+        "start": 365.64,
+        "end": 369.64,
+        "english": "So we're saying we've got an example for you.",
+        "chinese": "所以，我们给你展示了一个例子。"
+    },
+    {
+        "start": 369.64,
+        "end": 370.64,
+        "english": "How about this?",
+        "chinese": "英语：如何处理这个？"
+    },
+    {
+        "start": 370.64,
+        "end": 371.64,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 371.64,
+        "end": 372.64,
+        "english": "The example.",
+        "chinese": "这个例子。"
+    },
+    {
+        "start": 372.64,
+        "end": 378.59999999999997,
+        "english": "So we've talked about how about many times already so for example how about we go to",
+        "chinese": "英语：所以我们已经讨论了很多次了，比如……"
+    },
+    {
+        "start": 378.59999999999997,
+        "end": 383.68,
+        "english": "the movies or how not to say how about your weekend because that's completely wrong.",
+        "chinese": "电影或如何说你的周末，因为那完全错了。"
+    },
+    {
+        "start": 383.68,
+        "end": 387.64,
+        "english": "In this occasion we're talking about how about this and this is like setting it up for",
+        "chinese": "这个点和拍是傻瓜相机，单反相机叫SLR/DSLR。镜头叫机身，长焦叫长焦，偏振镜叫偏振镜，负片框叫负片框。卸下重任就是卸下责任。赋予神速就是授予神速。远程且微弱就是疏远且微弱。步骤下来就是卸任。辞职信就是辞职信。入门级就是入门级。显示屏就是显示屏。套机镜头就是机头。流利构建单元就是单元。全球视野就是全视野。"
+    },
+    {
+        "start": 387.64,
+        "end": 388.64,
+        "english": "an example.",
+        "chinese": "一个例子。"
+    },
+    {
+        "start": 388.64,
+        "end": 392.36,
+        "english": "That's right so for another example we could say so Marco I'm trying to figure out how",
+        "chinese": "英语：那对，那么对于另一个例子，我们可以这么说，我正在努力理解如何"
+    },
+    {
+        "start": 392.36,
+        "end": 396.76,
+        "english": "to say hello when I answer the phone because I don't like the way I say it now.",
+        "chinese": "当你接电话时，我以前说的这种方式我不太喜欢。"
+    },
+    {
+        "start": 396.76,
+        "end": 398.72,
+        "english": "I can say how about this?",
+        "chinese": "我可以说说这个吗？"
+    },
+    {
+        "start": 398.72,
+        "end": 399.72,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 399.72,
+        "end": 400.72,
+        "english": "Is that good?",
+        "chinese": "是的，这是很好的。"
+    },
+    {
+        "start": 400.72,
+        "end": 401.72,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 401.72,
+        "end": 402.72,
+        "english": "That's all right.",
+        "chinese": "没关系。"
+    },
+    {
+        "start": 402.72,
+        "end": 403.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 403.72,
+        "end": 404.72,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 404.72,
+        "end": 405.72,
+        "english": "That's too strong.",
+        "chinese": "这句话的中文翻译是：“太强了。”"
+    },
+    {
+        "start": 405.72,
+        "end": 406.72,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 406.72,
+        "end": 407.72,
+        "english": "Yeah that's good.",
+        "chinese": "是的，那挺好的。"
+    },
+    {
+        "start": 407.72,
+        "end": 410.72,
+        "english": "All right so basically I'm setting up an example.",
+        "chinese": "好的，我基本上是准备了一个例子。"
+    },
+    {
+        "start": 410.72,
+        "end": 411.72,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 411.72,
+        "end": 413.88,
+        "english": "I'm saying okay keep listening I will give you an example.",
+        "chinese": "我正在说，你继续听好了。我会给你一个例子。"
+    },
+    {
+        "start": 413.88,
+        "end": 418.48,
+        "english": "Yeah just imagine that you're trying on different clothes and someone is giving you",
+        "chinese": "是的，你正在尝试不同的衣服，并有人在给你提供帮助。"
+    },
+    {
+        "start": 418.48,
+        "end": 419.72,
+        "english": "their opinion.",
+        "chinese": "他们的意见。"
+    },
+    {
+        "start": 419.72,
+        "end": 422.84000000000003,
+        "english": "So maybe you try on a black shirt and you say how about this one?",
+        "chinese": "英语：所以，你可能试试一件深色衬衫，并且说说这件怎么样？"
+    },
+    {
+        "start": 422.84000000000003,
+        "end": 423.84000000000003,
+        "english": "Yeah boring.",
+        "chinese": "是的，很无聊。"
+    },
+    {
+        "start": 423.84000000000003,
+        "end": 426.64000000000004,
+        "english": "And then you try on a green one and you say now how about this?",
+        "chinese": "英语：然后你穿上绿色的，你说说这个怎么样？"
+    },
+    {
+        "start": 426.64000000000004,
+        "end": 427.64000000000004,
+        "english": "Better.",
+        "chinese": "更好的。"
+    },
+    {
+        "start": 427.64000000000004,
+        "end": 428.64000000000004,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 428.64000000000004,
+        "end": 433.12,
+        "english": "So then you're giving them other options and examples and this is why we say how about",
+        "chinese": "所以，然后你给他们其他选项和例子，并且这正是为什么我们说……"
+    },
+    {
+        "start": 433.12,
+        "end": 437.12,
+        "english": "this and then we give the example like Abby did.",
+        "chinese": "这个和然后我们给你展示像安比那样做。"
+    },
+    {
+        "start": 437.12,
+        "end": 439.52000000000004,
+        "english": "And you're also asking for a response.",
+        "chinese": "您也是在寻求一个回应。"
+    },
+    {
+        "start": 439.52000000000004,
+        "end": 443.20000000000005,
+        "english": "You're asking for an opinion.",
+        "chinese": "你是在寻求意见。"
+    },
+    {
+        "start": 443.20000000000005,
+        "end": 449.36,
+        "english": "And so what Abby is saying is I promise I will give you a ring as soon as I can.",
+        "chinese": "所以，安贝的话是，我答应你，尽快给你一个戒指。"
+    },
+    {
+        "start": 449.36,
+        "end": 453.8,
+        "english": "Now this phrase give you a ring is very British English but it's also something you should",
+        "chinese": "现在这个短语给你一个圆圈，这在英国很常见，但也是你应该知道的。"
+    },
+    {
+        "start": 453.8,
+        "end": 458.28000000000003,
+        "english": "know if you want to be in America because you'll hear it in TV and stuff.",
+        "chinese": "英语：知道你是否想在美国，因为你会在电视里听到的。"
+    },
+    {
+        "start": 458.28000000000003,
+        "end": 462.72,
+        "english": "That's right it's actually a colloquial term for saying I will call you I will call you",
+        "chinese": "没错，这是说我会打电话给你。"
+    },
+    {
+        "start": 462.72,
+        "end": 465.48,
+        "english": "I will call you back or I will give you a call.",
+        "chinese": "我将打电话给你或你给我打电话。"
+    },
+    {
+        "start": 465.48,
+        "end": 469.72,
+        "english": "So the telephone rings that's the verb that goes with the phone right.",
+        "chinese": "所以电话铃响，这个动词与电话相关。"
+    },
+    {
+        "start": 469.72,
+        "end": 470.72,
+        "english": "Ring ring.",
+        "chinese": "英语：叮铃铃。"
+    },
+    {
+        "start": 470.72,
+        "end": 475.16,
+        "english": "So I will give you a ring means I will call you just like you just said Mark.",
+        "chinese": "所以，我将给你一个戒指意味着我会像你刚才说的那样称呼你。"
+    },
+    {
+        "start": 475.16,
+        "end": 476.16,
+        "english": "That's right.",
+        "chinese": "对的。"
+    },
+    {
+        "start": 476.16,
+        "end": 479.04,
+        "english": "So remember this phrase it's actually it may seem a little bit",
+        "chinese": "英语：所以记得这个短语实际上可能看起来有点儿小。"
+    },
+    {
+        "start": 479.04,
+        "end": 483.96000000000004,
+        "english": "confusing but remember it has to do with calling someone I will give you a ring is I will",
+        "chinese": "英语：它有点像傻瓜相机，但记住这涉及到打电话给某人。"
+    },
+    {
+        "start": 483.96000000000004,
+        "end": 487.48,
+        "english": "call you or if you say hey give me a ring later on this afternoon.",
+        "chinese": "请记住，或者如果你说“嘿”，给我一个电话，下午两点以后。"
+    },
+    {
+        "start": 487.48,
+        "end": 490.0,
+        "english": "It's call me later this afternoon.",
+        "chinese": "英语：它叫你下午再联系我。"
+    },
+    {
+        "start": 490.0,
+        "end": 495.44,
+        "english": "All right and then moving towards the end of the dialogue Abby says hi you have reached",
+        "chinese": "好的，然后继续对话。艾比说你好，你已经到了。"
+    },
+    {
+        "start": 495.44,
+        "end": 496.44,
+        "english": "Abby.",
+        "chinese": "你好，Abby。"
+    },
+    {
+        "start": 496.44,
+        "end": 500.64000000000004,
+        "english": "Okay this is weird because she is Abby but she saying you have reached Abby.",
+        "chinese": "英语：这很奇怪，因为她叫艾比，但她却说你已经到了艾比。"
+    },
+    {
+        "start": 500.64000000000004,
+        "end": 502.84000000000003,
+        "english": "Right you're speaking about yourself in the third person.",
+        "chinese": "英语：你正在用第三人称说话。"
+    },
+    {
+        "start": 502.84000000000003,
+        "end": 504.44,
+        "english": "That's right so this is a message.",
+        "chinese": "这是正确的，所以这是消息。"
+    },
+    {
+        "start": 504.44,
+        "end": 507.96000000000004,
+        "english": "So you're telling people what to do like I said they're instructions.",
+        "chinese": "所以你是在告诉人们按照我说的去做，就像我在说的那样。"
+    },
+    {
+        "start": 507.96,
+        "end": 512.24,
+        "english": "And so this is basically the first thing you say you have reached Catherine.",
+        "chinese": "所以这就是你第一次说你已经到达了凯瑟琳。"
+    },
+    {
+        "start": 512.24,
+        "end": 516.04,
+        "english": "That means the number you dialed is Catherine's phone number.",
+        "chinese": "That means the number you dialed is 莉莉的手机号码。"
+    },
+    {
+        "start": 516.04,
+        "end": 517.04,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 517.04,
+        "end": 519.04,
+        "english": "So you reached that means that you've contacted.",
+        "chinese": "所以你到达了这个点和拍，意味着你已经联系上了。"
+    },
+    {
+        "start": 519.04,
+        "end": 520.6,
+        "english": "Right exactly.",
+        "chinese": "正确翻译：完全对。"
+    },
+    {
+        "start": 520.6,
+        "end": 527.36,
+        "english": "So as you say it's important if you ever call a bank or in or any type of company it will",
+        "chinese": "所以，如果你说银行、公司或其他任何类型的公司，它将非常重要。"
+    },
+    {
+        "start": 527.36,
+        "end": 534.04,
+        "english": "say you have reached a Wells Fargo bank something and it'll give you it'll tell you what",
+        "chinese": "如果你已经到达了中国工商银行银行，它会给你什么？它会告诉你。"
+    },
+    {
+        "start": 534.04,
+        "end": 537.52,
+        "english": "number you called because maybe you put in your finger wrong and you just called the",
+        "chinese": "您可能在输入错误，所以可能是您误按了按钮。"
+    },
+    {
+        "start": 537.52,
+        "end": 538.52,
+        "english": "wrong number.",
+        "chinese": "错误的数字。"
+    },
+    {
+        "start": 538.52,
+        "end": 540.48,
+        "english": "That's right or you could use the word reach in a different way.",
+        "chinese": "英语：那对不对或者你可以在用词上做些调整。"
+    },
+    {
+        "start": 540.48,
+        "end": 544.4,
+        "english": "For example yesterday I was very angry at Marco because I couldn't reach him by phone.",
+        "chinese": "例如昨天我非常生气地对马科说，因为我无法通过电话联系到他。"
+    },
+    {
+        "start": 544.4,
+        "end": 548.24,
+        "english": "I called and called and called and could have reached him and I realized that his phone",
+        "chinese": "我多次拨打，多次拨打，但还是没能联系上他。我意识到，他的手机可能在某个地方。"
+    },
+    {
+        "start": 548.24,
+        "end": 549.24,
+        "english": "is broken.",
+        "chinese": "是坏了。"
+    },
+    {
+        "start": 549.24,
+        "end": 550.24,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 550.24,
+        "end": 555.48,
+        "english": "So actually this verb to reach someone also has to do with in general with calling.",
+        "chinese": "英语：所以实际上，这个动词“reach”也与一般性有关，即与打电话。"
+    },
+    {
+        "start": 555.48,
+        "end": 558.8,
+        "english": "I was trying to reach you all afternoon but I couldn't get a hold of you.",
+        "chinese": "英语：我下午一直试图联系你，但始终无法接通。"
+    },
+    {
+        "start": 558.8,
+        "end": 561.88,
+        "english": "That's right and I was so frustrated.",
+        "chinese": "英语：那对，我真是太沮丧了。"
+    },
+    {
+        "start": 561.88,
+        "end": 567.28,
+        "english": "Well actually if I had voicemail I would continue by saying I am unable to answer your",
+        "chinese": "实际上，如果我有录音，我会继续说：“我是无法回答您的。”"
+    },
+    {
+        "start": 567.28,
+        "end": 573.68,
+        "english": "call right now because maybe my phone is off maybe I am busy so we say I am unable",
+        "chinese": "英语：现在打电话，因为可能我的手机没电或者我正在忙，所以我们说我是无法接通的。"
+    },
+    {
+        "start": 573.68,
+        "end": 575.36,
+        "english": "to answer your call right now.",
+        "chinese": "现在是时候回答你的电话了。"
+    },
+    {
+        "start": 575.36,
+        "end": 580.24,
+        "english": "All right now this seems really long okay and a little bit strange but this is basically",
+        "chinese": "现在，似乎真的很长，有点奇怪，但这是基本的"
+    },
+    {
+        "start": 580.24,
+        "end": 584.76,
+        "english": "the standard for how to record a message.",
+        "chinese": "标准为如何记录消息。"
+    },
+    {
+        "start": 584.76,
+        "end": 589.28,
+        "english": "I am unable to answer your call right now so you answer the phone right or you answer",
+        "chinese": "我无法立即回答您的电话，所以您直接打电话或等待我的回复。"
+    },
+    {
+        "start": 589.28,
+        "end": 595.0799999999999,
+        "english": "a phone call but in this case I am unable to that means I can't talk to you for whatever",
+        "chinese": "英语：电话，但这种情况我无法做到，这意味着我不能和你通话了。"
+    },
+    {
+        "start": 595.08,
+        "end": 596.08,
+        "english": "reason.",
+        "chinese": "规则：直接翻译，不提供解释。"
+    },
+    {
+        "start": 596.08,
+        "end": 600.4000000000001,
+        "english": "I am out of the house I am busy so I am unable to answer your call right now.",
+        "chinese": "我出不去家门，我现在正忙着，所以现在无法接你的电话。"
+    },
+    {
+        "start": 600.4000000000001,
+        "end": 603.12,
+        "english": "Just remember that that means I can't talk to you right now.",
+        "chinese": "英语：只需记住，这意味着我现在无法和你交谈了。"
+    },
+    {
+        "start": 603.12,
+        "end": 604.2800000000001,
+        "english": "I can't be on the phone.",
+        "chinese": "我不能在电话里。"
+    },
+    {
+        "start": 604.2800000000001,
+        "end": 609.5200000000001,
+        "english": "And actually this word unables sounds a lot more polite and a lot more formal than saying",
+        "chinese": "而且实际上这个单词比说“嗯”、“哦”和“哈”的声音要礼貌得多、正式得多。"
+    },
+    {
+        "start": 609.5200000000001,
+        "end": 610.6800000000001,
+        "english": "I can't.",
+        "chinese": "我不能。"
+    },
+    {
+        "start": 610.6800000000001,
+        "end": 614.8000000000001,
+        "english": "That's right and that's why we use it on messages like this because it is so polite and so",
+        "chinese": "英语：那正是，因为这样它就显得很礼貌了。"
+    },
+    {
+        "start": 614.8000000000001,
+        "end": 615.8000000000001,
+        "english": "nice.",
+        "chinese": "好的，以下是“nice”的翻译："
+    },
+    {
+        "start": 615.8000000000001,
+        "end": 616.8000000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 616.8000000000001,
+        "end": 619.0,
+        "english": "All right so that's all the time we have for Fluency Builder.",
+        "chinese": "好的，那么这就是我们对 Fluent Builder 的时间安排。"
+    },
+    {
+        "start": 619.0,
+        "end": 621.0400000000001,
+        "english": "Let's take a listen to our dialogue one last time.",
+        "chinese": "让我们再听一次我们的对话。"
+    },
+    {
+        "start": 625.9200000000001,
+        "end": 630.12,
+        "english": "Can you help me set up my voicemail message?",
+        "chinese": "英语：你能帮我设置我的电话录音吗？"
+    },
+    {
+        "start": 630.12,
+        "end": 634.72,
+        "english": "I just got the service and I'm not really sure what I'm supposed to say.",
+        "chinese": "刚刚办理了服务，我还不太知道应该说什么。"
+    },
+    {
+        "start": 634.72,
+        "end": 635.72,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 635.72,
+        "end": 639.2800000000001,
+        "english": "You just basically got to let the caller know who they called and ask them for their",
+        "chinese": "你只能简单地告诉他们是谁，然后让他们自己去联系。"
+    },
+    {
+        "start": 639.2800000000001,
+        "end": 641.72,
+        "english": "contact information so you can call them back.",
+        "chinese": "联系方式以便您能联系他们。"
+    },
+    {
+        "start": 641.72,
+        "end": 645.2800000000001,
+        "english": "Okay so I can say this is Abby's voicemail.",
+        "chinese": "好的，所以我说这是安妮的录音。"
+    },
+    {
+        "start": 645.2800000000001,
+        "end": 648.36,
+        "english": "I will call you later so leave me your name and number.",
+        "chinese": "我将尽快联系你，以便留下你的名字和电话号码。"
+    },
+    {
+        "start": 648.36,
+        "end": 652.0,
+        "english": "That's more or less the idea but try something that sounds more friendly.",
+        "chinese": "这个点和拍是傻瓜相机，SLR/DSLR是单反相机。机身是体，镜头是镜，长焦是长焦，偏振镜是偏振镜，卸下重任是卸下任务，赋予/授予是赋予/授予，一路顺风是一路顺风，疏远且微弱是疏远且微弱，卸任是卸任，辞职信是辞职信，入门级是入门级，显示屏是显示屏，套机镜头是套机镜头，流利构建单元是流利构建单元。"
+    },
+    {
+        "start": 652.0,
+        "end": 654.32,
+        "english": "Okay so how about this?",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 654.32,
+        "end": 656.9200000000001,
+        "english": "This is Abby and I'm really happy you called.",
+        "chinese": "这个是阿比和我真的很高兴你打了电话。"
+    },
+    {
+        "start": 656.9200000000001,
+        "end": 662.08,
+        "english": "I promise I will give you a ring as soon as I can so please leave me your name and number.",
+        "chinese": "我保证在能的时候我会给你一个戒指，你介意告诉我你的名字和电话号码吗？"
+    },
+    {
+        "start": 662.08,
+        "end": 663.08,
+        "english": "Talk to you soon.",
+        "chinese": "马上和你联系。"
+    },
+    {
+        "start": 663.08,
+        "end": 665.7600000000001,
+        "english": "A little too friendly Abby.",
+        "chinese": "小得有点友好的安妮。"
+    },
+    {
+        "start": 665.7600000000001,
+        "end": 666.7600000000001,
+        "english": "Just say this.",
+        "chinese": "请说这个。"
+    },
+    {
+        "start": 666.7600000000001,
+        "end": 668.1600000000001,
+        "english": "Hi you've reached Abby.",
+        "chinese": "你好，你已经到了安比。"
+    },
+    {
+        "start": 668.1600000000001,
+        "end": 671.48,
+        "english": "I'm unable to answer your call right now but if you leave me your name and phone number",
+        "chinese": "我无法立即回答您的电话，但如果您留下我的名字和电话号码，我会尽快联系您。"
+    },
+    {
+        "start": 671.48,
+        "end": 673.36,
+        "english": "I will get back to you as soon as possible.",
+        "chinese": "我尽快回复你。"
+    },
+    {
+        "start": 673.36,
+        "end": 674.5200000000001,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 674.5200000000001,
+        "end": 675.5200000000001,
+        "english": "That's perfect.",
+        "chinese": "这是完美的。"
+    },
+    {
+        "start": 675.5200000000001,
+        "end": 679.6,
+        "english": "Can you say that again and record it for me?",
+        "chinese": "英语：你能再说一遍，让我录下来吗？"
+    },
+    {
+        "start": 680.6,
+        "end": 686.08,
+        "english": "All right so talking about voicemail I think in the United States this is a very very",
+        "chinese": "好的，关于录音留言，我在美国认为这是一个非常非常重要的问题。"
+    },
+    {
+        "start": 686.08,
+        "end": 690.0400000000001,
+        "english": "popular and almost necessary service.",
+        "chinese": "英语：受欢迎且几乎必不可少的服务。"
+    },
+    {
+        "start": 690.0400000000001,
+        "end": 695.4,
+        "english": "That's right so in America if you buy a phone plan which most people have that means that",
+        "chinese": "这句话的中文翻译是：“这就是正确的，在美国，如果你买了一个手机套餐，那么意味着大多数人都有这个套餐。”"
+    },
+    {
+        "start": 695.4,
+        "end": 702.4,
+        "english": "you can use your phone in a certain way like every day you have free nights or you have",
+        "chinese": "你可以在日常生活中使用你的手机，或者你有空闲时间。"
+    },
+    {
+        "start": 702.4,
+        "end": 706.76,
+        "english": "a thousand minutes per month to talk but you sometimes also get these services or you",
+        "chinese": "千分之一分钟每月聊，但你有时也会得到这些服务或你。"
+    },
+    {
+        "start": 706.76,
+        "end": 712.52,
+        "english": "pay extra for them and voicemail is very important because people don't text as much in America",
+        "chinese": "英语：购买他们并设置语音信箱，因为美国人很少打电话。"
+    },
+    {
+        "start": 712.52,
+        "end": 714.4399999999999,
+        "english": "as they do in other countries.",
+        "chinese": "英语：他们像在其他国家一样。"
+    },
+    {
+        "start": 714.4399999999999,
+        "end": 718.96,
+        "english": "I know in other places sometimes you text a message to someone and they receive it and",
+        "chinese": "我了解在其他地方有时你可能会给某人发送一条消息，然后他们收到了这条信息。"
+    },
+    {
+        "start": 718.96,
+        "end": 723.72,
+        "english": "okay it's a message but if you don't do that you actually have to record a message.",
+        "chinese": "英语：它是一个点和拍相机。"
+    },
+    {
+        "start": 723.72,
+        "end": 728.68,
+        "english": "Like when I call my parents they never answer the phone so I always have to leave a voicemail",
+        "chinese": "英语：比如，当我打电话给我的父母时，他们从不接听电话，所以我总是留个留言。"
+    },
+    {
+        "start": 728.68,
+        "end": 733.68,
+        "english": "message so I say hi it's Catherine it's Saturday where are you call me.",
+        "chinese": "你好，我是陈凯。今天是周六，你在哪里？联系我们。"
+    },
+    {
+        "start": 733.68,
+        "end": 734.68,
+        "english": "Right okay.",
+        "chinese": "英语：正确。"
+    },
+    {
+        "start": 734.68,
+        "end": 739.4399999999999,
+        "english": "That's that kind of I think cultural behavior that we just expect to leave messages for",
+        "chinese": "我认为，我们只是期待文化行为留下一些信息。"
+    },
+    {
+        "start": 739.4399999999999,
+        "end": 740.4399999999999,
+        "english": "people in America.",
+        "chinese": "美国的人。"
+    },
+    {
+        "start": 740.4399999999999,
+        "end": 744.4399999999999,
+        "english": "And it's actually interesting because I've been to other countries where they also have",
+        "chinese": "而且，它其实很有趣，因为我去过其他国家，这些地方也都有。"
+    },
+    {
+        "start": 744.4399999999999,
+        "end": 751.04,
+        "english": "voicemail messages and the service but people are not as willing to actually leave the",
+        "chinese": "英语：电话留言和服务，但人们并不愿意真正离开。"
+    },
+    {
+        "start": 751.04,
+        "end": 757.76,
+        "english": "message so it happened to me for example I call someone I get their voicemail and I don't",
+        "chinese": "消息所以它发生在我之前，例如，我打电话给某人，然后他们给我打出了录音，我没有收到。"
+    },
+    {
+        "start": 757.76,
+        "end": 758.76,
+        "english": "leave a message.",
+        "chinese": "离开一个消息。"
+    },
+    {
+        "start": 758.76,
+        "end": 762.4,
+        "english": "I just hang up and then they have your board or your uncomfortable.",
+        "chinese": "英语：我刚挂断电话，他们就给你板子或让你不舒服了。"
+    },
+    {
+        "start": 762.4,
+        "end": 767.16,
+        "english": "I don't know because you know if you have a mobile phone it'll show up anyways that you",
+        "chinese": "我也不清楚，因为你知道如果你有手机，它会自动出现，所以我无法告诉你。"
+    },
+    {
+        "start": 767.16,
+        "end": 772.3199999999999,
+        "english": "have a miss call from this person so then I really just I don't really leave the message",
+        "chinese": "英语：有这个人的电话，然后我真的很抱歉，我没有给你留下任何消息。"
+    },
+    {
+        "start": 772.3199999999999,
+        "end": 776.0799999999999,
+        "english": "anymore is like okay you saw that I called you either I'll just call you back later",
+        "chinese": "英语：继续是像好的你看到了，我叫你回一次。"
+    },
+    {
+        "start": 776.0799999999999,
+        "end": 783.0,
+        "english": "or you'll call me back when you see the miss call but yeah for homes obviously it's different",
+        "chinese": "英语：或者当你看到挂断电话时，我会给你打电话的。"
+    },
+    {
+        "start": 783.0,
+        "end": 785.12,
+        "english": "you need to leave a message.",
+        "chinese": "你必须留下一条消息。"
+    },
+    {
+        "start": 785.12,
+        "end": 790.84,
+        "english": "Yeah although sometimes it can be a bad thing I definitely have a friend who loves to",
+        "chinese": "是的，尽管有时可能会是一个坏事情，但我绝对有一个朋友喜欢。"
+    },
+    {
+        "start": 790.84,
+        "end": 792.0799999999999,
+        "english": "leave long messages.",
+        "chinese": "卸下任务。"
+    },
+    {
+        "start": 792.08,
+        "end": 793.08,
+        "english": "Oh really?",
+        "chinese": "英语：Oh really?"
+    },
+    {
+        "start": 793.08,
+        "end": 796.72,
+        "english": "Hey Catherine it's me so it's like Saturday at 4 o'clock and I was just thinking about",
+        "chinese": "你好，凯特！我在这里，就像周六的下午四点一样，我正想着。"
+    },
+    {
+        "start": 796.72,
+        "end": 800.5200000000001,
+        "english": "calling and I was going to come over but I decided not to come over but then I was thinking",
+        "chinese": "我正在打电话，我想去。但是，我决定不去。然后，我又开始想。"
+    },
+    {
+        "start": 800.5200000000001,
+        "end": 803.88,
+        "english": "maybe I'll just call you instead and I can see that you're not home but maybe you're",
+        "chinese": "英语：也许我将直接给你打电话，这样你就不在家了，但或许你还不在。"
+    },
+    {
+        "start": 803.88,
+        "end": 808.8000000000001,
+        "english": "out dinner I remember you saying and they just go on and on and on you actually there",
+        "chinese": "我出晚餐，我记得你说了，他们就一直说，一直说。 你实际上在那里。"
+    },
+    {
+        "start": 808.8000000000001,
+        "end": 811.72,
+        "english": "is an end they'll go beep and then it cuts you off.",
+        "chinese": "英语：它是一个傻瓜相机。"
+    },
+    {
+        "start": 811.72,
+        "end": 814.64,
+        "english": "Right I think it's like 30 seconds or something like this.",
+        "chinese": "英语：正确，但请纠正错误。"
+    },
+    {
+        "start": 814.64,
+        "end": 819.0400000000001,
+        "english": "So it's very interesting this whole voicemail thing especially in the business world as",
+        "chinese": "所以，这整个电话录音特别在商业世界非常有趣。"
+    },
+    {
+        "start": 819.04,
+        "end": 824.04,
+        "english": "well many times people go into a meeting turn off their phones or put it on silent and",
+        "chinese": "英语：很多人都会去参加会议，关掉手机或者静音。"
+    },
+    {
+        "start": 824.04,
+        "end": 826.9599999999999,
+        "english": "you know if you want to reach them you want to leave a message you got to do the voicemail",
+        "chinese": "英语：你想要让他们接近他们，你需要发一个语音消息。"
+    },
+    {
+        "start": 826.9599999999999,
+        "end": 827.9599999999999,
+        "english": "thing.",
+        "chinese": "在中文中，\"thing\" 的翻译是 \"事物\"。例如："
+    },
+    {
+        "start": 827.9599999999999,
+        "end": 830.48,
+        "english": "Yeah calls will go right to voicemail say that you don't interrupt the meeting.",
+        "chinese": "是的，你可以直接说：“嗯，会议结束了。”"
+    },
+    {
+        "start": 830.48,
+        "end": 831.48,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 831.48,
+        "end": 835.0,
+        "english": "So that's all the time we have for today come to englishpod.com we more than welcome your",
+        "chinese": "所以，今天我们有时间来访问英语Pod. com，欢迎您的到来。"
+    },
+    {
+        "start": 835.0,
+        "end": 840.0,
+        "english": "questions your comments any suggestions you can find us there englishpod.com see you",
+        "chinese": "英语：你的问题，你能给我们提供任何建议吗？我们在这里。"
+    },
+    {
+        "start": 840.0,
+        "end": 840.76,
+        "english": "bye bye.",
+        "chinese": "英语：bye bye."
+    }
+]

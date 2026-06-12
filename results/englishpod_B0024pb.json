@@ -1,0 +1,1664 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.24,
+        "english": "Hello everyone, welcome back to another great lesson with us here at English.",
+        "chinese": "大家好，欢迎再次来到我们这里学习英语。"
+    },
+    {
+        "start": 5.24,
+        "end": 6.92,
+        "english": "Pod, my name is Marco.",
+        "chinese": "英语：你好，我是Marco。"
+    },
+    {
+        "start": 6.92,
+        "end": 8.32,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 8.32,
+        "end": 10.76,
+        "english": "And today we're going out to eat.",
+        "chinese": "今天我们要去吃东西。"
+    },
+    {
+        "start": 10.76,
+        "end": 12.92,
+        "english": "Yes, good thing too, because I'm hungry.",
+        "chinese": "是的，这也是一个好事情，因为我在吃东西。"
+    },
+    {
+        "start": 12.92,
+        "end": 14.48,
+        "english": "I know, it's almost lunchtime.",
+        "chinese": "我了解，现在已经是午饭时间了。"
+    },
+    {
+        "start": 14.48,
+        "end": 15.48,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 15.48,
+        "end": 18.82,
+        "english": "So today we're going to be talking about eating at a restaurant and giving some great",
+        "chinese": "英语：所以今天我们将谈论在餐馆吃饭和分享一些好东西。"
+    },
+    {
+        "start": 18.82,
+        "end": 20.92,
+        "english": "recommendations and suggestions.",
+        "chinese": "推荐和建议。"
+    },
+    {
+        "start": 20.92,
+        "end": 28.44,
+        "english": "Yes, we have language for describing food, for describing restaurants and for making suggestions.",
+        "chinese": "是的，我们有描述食物、餐厅和提供建议的语言。"
+    },
+    {
+        "start": 28.44,
+        "end": 29.44,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 29.44,
+        "end": 31.720000000000002,
+        "english": "With our vocabulary preview for this lesson.",
+        "chinese": "英语：它是我们课程的词汇预览。"
+    },
+    {
+        "start": 31.720000000000002,
+        "end": 34.04,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 34.04,
+        "end": 39.480000000000004,
+        "english": "We have two words today from our dialogue, which you'll need to know to understand the",
+        "chinese": "今天我们有两句话，你需要了解才能理解中文。"
+    },
+    {
+        "start": 39.480000000000004,
+        "end": 40.480000000000004,
+        "english": "dialogue.",
+        "chinese": "对话。"
+    },
+    {
+        "start": 40.480000000000004,
+        "end": 41.480000000000004,
+        "english": "Great.",
+        "chinese": "好。"
+    },
+    {
+        "start": 41.480000000000004,
+        "end": 45.0,
+        "english": "The first one that we have today is food poisoning.",
+        "chinese": "今天的第一个是食物中毒。"
+    },
+    {
+        "start": 45.0,
+        "end": 46.0,
+        "english": "Food poisoning.",
+        "chinese": "Food中毒。"
+    },
+    {
+        "start": 46.0,
+        "end": 47.0,
+        "english": "Food poisoning.",
+        "chinese": "Food中毒。"
+    },
+    {
+        "start": 47.0,
+        "end": 48.8,
+        "english": "Food poisoning.",
+        "chinese": "Food中毒。"
+    },
+    {
+        "start": 48.8,
+        "end": 52.0,
+        "english": "So food poisoning is not a good thing.",
+        "chinese": "所以食物中毒不是件好事。"
+    },
+    {
+        "start": 52.0,
+        "end": 53.84,
+        "english": "Not a good thing.",
+        "chinese": "不好的事情。"
+    },
+    {
+        "start": 53.84,
+        "end": 59.040000000000006,
+        "english": "It is when you eat some bad food and that food makes you sick.",
+        "chinese": "英语：当你吃一些不好的食物，那会让你生病。"
+    },
+    {
+        "start": 59.04,
+        "end": 60.96,
+        "english": "So you get food poisoning.",
+        "chinese": "所以你得吃药了。"
+    },
+    {
+        "start": 60.96,
+        "end": 64.12,
+        "english": "Okay, so food poisoning, yeah, not a good thing.",
+        "chinese": "好的，那么请将您需要翻译的英文内容提供给我。"
+    },
+    {
+        "start": 64.12,
+        "end": 65.36,
+        "english": "Okay, the next word.",
+        "chinese": "好的，下一个词。"
+    },
+    {
+        "start": 65.36,
+        "end": 66.36,
+        "english": "A lurgic.",
+        "chinese": "一个苛刻的。"
+    },
+    {
+        "start": 66.36,
+        "end": 67.52,
+        "english": "A lurgic.",
+        "chinese": "一个苛刻的。"
+    },
+    {
+        "start": 67.52,
+        "end": 68.88,
+        "english": "A lurgic.",
+        "chinese": "一个苛刻的。"
+    },
+    {
+        "start": 68.88,
+        "end": 70.44,
+        "english": "A lurgic.",
+        "chinese": "一个苛刻的。"
+    },
+    {
+        "start": 70.44,
+        "end": 73.8,
+        "english": "So when you're allergic to something.",
+        "chinese": "所以当你对某事过敏时。"
+    },
+    {
+        "start": 73.8,
+        "end": 74.88,
+        "english": "It makes you sick.",
+        "chinese": "它让你感到不舒服。"
+    },
+    {
+        "start": 74.88,
+        "end": 76.96000000000001,
+        "english": "That one thing makes you sick.",
+        "chinese": "这个东西让你不舒服。"
+    },
+    {
+        "start": 76.96000000000001,
+        "end": 79.52,
+        "english": "For example, I'm allergic to seafood.",
+        "chinese": "例如，我过敏海鲜。"
+    },
+    {
+        "start": 79.52,
+        "end": 80.52,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 80.52,
+        "end": 83.72,
+        "english": "If I eat seafood, I cannot breathe.",
+        "chinese": "如果我吃海鲜，我无法呼吸。"
+    },
+    {
+        "start": 83.72,
+        "end": 86.6,
+        "english": "Okay, so you definitely want to stay away from fish.",
+        "chinese": "好的，您肯定不想吃鱼。"
+    },
+    {
+        "start": 86.6,
+        "end": 87.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 87.6,
+        "end": 88.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 88.6,
+        "end": 91.52,
+        "english": "So when you're allergic to nuts, like peanuts, or milk.",
+        "chinese": "所以当你对坚果或牛奶过敏时，比如花生和牛奶，就容易犯病了。"
+    },
+    {
+        "start": 91.52,
+        "end": 92.52,
+        "english": "Milk.",
+        "chinese": "牛奶。"
+    },
+    {
+        "start": 92.52,
+        "end": 93.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 93.52,
+        "end": 94.52,
+        "english": "Cool.",
+        "chinese": "凉爽。"
+    },
+    {
+        "start": 94.52,
+        "end": 97.72,
+        "english": "So when one type of food makes you sick, you are allergic to that food.",
+        "chinese": "所以，当你对某种食物过敏时，你就是对这种食物过敏。"
+    },
+    {
+        "start": 97.72,
+        "end": 98.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 98.72,
+        "end": 99.72,
+        "english": "Great.",
+        "chinese": "好。"
+    },
+    {
+        "start": 99.72,
+        "end": 104.08,
+        "english": "So with this in mind, now we can listen to our dialogue for the first time at its normal",
+        "chinese": "所以，有了这个考虑，现在我们可以第一次听到我们的对话，它的正常状态。"
+    },
+    {
+        "start": 104.08,
+        "end": 105.08,
+        "english": "speed.",
+        "chinese": "速度。"
+    },
+    {
+        "start": 105.08,
+        "end": 107.39999999999999,
+        "english": "But don't worry if you don't get everything now because...",
+        "chinese": "但是，如果你现在没有得到所有的东西，不要担心。"
+    },
+    {
+        "start": 107.39999999999999,
+        "end": 109.72,
+        "english": "Welcome back and teach you the important language.",
+        "chinese": "欢迎回来，教您重要语言。"
+    },
+    {
+        "start": 109.72,
+        "end": 117.6,
+        "english": "Do you two have any plans for the evening?",
+        "chinese": "英语：你俩今晚有计划吗？"
+    },
+    {
+        "start": 117.6,
+        "end": 120.6,
+        "english": "We were thinking of checking out a restaurant in the neighborhood.",
+        "chinese": "我们正考虑去附近的餐厅品尝一下。"
+    },
+    {
+        "start": 120.6,
+        "end": 122.39999999999999,
+        "english": "Do you have any suggestions?",
+        "chinese": "英语：你有建议吗？"
+    },
+    {
+        "start": 122.39999999999999,
+        "end": 124.32,
+        "english": "I know this really nice Italian place.",
+        "chinese": "我了解这个非常漂亮的意大利餐厅。"
+    },
+    {
+        "start": 124.32,
+        "end": 127.16,
+        "english": "The food is fantastic and the daycourt is beautiful.",
+        "chinese": "英语：美食非常棒，日餐厅美得令人窒息。"
+    },
+    {
+        "start": 127.16,
+        "end": 129.4,
+        "english": "I'd recommend giving it a try.",
+        "chinese": "我建议你试试这个。"
+    },
+    {
+        "start": 129.4,
+        "end": 132.92,
+        "english": "Actually, I'm not all that crazy about Italian food.",
+        "chinese": "实际上，我对意大利食物并不太感兴趣。"
+    },
+    {
+        "start": 132.92,
+        "end": 135.44,
+        "english": "I'm in the mood for something a bit lighter.",
+        "chinese": "我有点儿喜欢稍微轻一点的东西。"
+    },
+    {
+        "start": 135.44,
+        "end": 137.32,
+        "english": "In that case, I know a great little bistro.",
+        "chinese": "在那情况下，我知道一家小点心店。"
+    },
+    {
+        "start": 137.32,
+        "end": 139.84,
+        "english": "And make a really tasty seafood platter.",
+        "chinese": "和制作一个非常美味的海鲜盘子。"
+    },
+    {
+        "start": 139.84,
+        "end": 142.07999999999998,
+        "english": "The fish is outstanding.",
+        "chinese": "英语：这条鱼非常出色。"
+    },
+    {
+        "start": 142.07999999999998,
+        "end": 146.07999999999998,
+        "english": "It sounds fantastic, but I'm allergic to seafood so...",
+        "chinese": "英语：听起来很棒，但我对海鲜过敏。"
+    },
+    {
+        "start": 146.16000000000003,
+        "end": 147.16000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 147.16000000000003,
+        "end": 149.16000000000003,
+        "english": "Well, let me think.",
+        "chinese": "嗯，让我想想。"
+    },
+    {
+        "start": 149.16000000000003,
+        "end": 151.92000000000002,
+        "english": "Oh, I know this great little place.",
+        "chinese": "英语：哦，我认识这个很棒的小地方。"
+    },
+    {
+        "start": 151.92000000000002,
+        "end": 155.8,
+        "english": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+        "chinese": "它只是一个洞，但他们做得真是太棒了。"
+    },
+    {
+        "start": 155.8,
+        "end": 157.4,
+        "english": "You can give them a try.",
+        "chinese": "你可以说试一试。"
+    },
+    {
+        "start": 157.4,
+        "end": 161.44,
+        "english": "Ella, you took me there last time I visited and I got food poisoning.",
+        "chinese": "英语：Ella，你上次我带你去吃的地方让我吃了食物中毒。"
+    },
+    {
+        "start": 161.44,
+        "end": 162.44,
+        "english": "Remember?",
+        "chinese": "记住？"
+    },
+    {
+        "start": 167.96,
+        "end": 172.08,
+        "english": "Well, I'm getting hungry just thinking about all of those great restaurants.",
+        "chinese": "英语：嗯，我正想着那些餐厅里的美食。"
+    },
+    {
+        "start": 172.08,
+        "end": 175.64000000000001,
+        "english": "Yeah, some really good recommendations except for food poisoning, right?",
+        "chinese": "是的，有些真的好建议，除了食物中毒，对吗？"
+    },
+    {
+        "start": 175.64,
+        "end": 177.32,
+        "english": "No, that's okay.",
+        "chinese": "是的，没关系。"
+    },
+    {
+        "start": 177.32,
+        "end": 181.32,
+        "english": "Let's start with our language takeaway for this lesson.",
+        "chinese": "让我们从这堂课的词汇总结开始吧。"
+    },
+    {
+        "start": 182.32,
+        "end": 184.32,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 185.11999999999998,
+        "end": 189.04,
+        "english": "Our first word on language takeaway is check out.",
+        "chinese": "我们的第一句话是检查一下。"
+    },
+    {
+        "start": 189.04,
+        "end": 190.32,
+        "english": "Check out.",
+        "chinese": "英语：查看。"
+    },
+    {
+        "start": 190.32,
+        "end": 191.2,
+        "english": "Check out.",
+        "chinese": "英语：查看。"
+    },
+    {
+        "start": 191.2,
+        "end": 192.6,
+        "english": "Check out.",
+        "chinese": "英语：查看。"
+    },
+    {
+        "start": 192.6,
+        "end": 196.88,
+        "english": "So we have some great examples on how we can use check out in different situations",
+        "chinese": "所以，我们有一些很好的例子，如何在不同的情况下使用检查出。"
+    },
+    {
+        "start": 196.88,
+        "end": 199.2,
+        "english": "and then you can understand the meaning.",
+        "chinese": "然后你就可以理解意思了。"
+    },
+    {
+        "start": 199.2,
+        "end": 201.2,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 202.2,
+        "end": 204.56,
+        "english": "Have you been to New Caffeinex?",
+        "chinese": "英语：你去过新咖啡馆吗？"
+    },
+    {
+        "start": 204.6,
+        "end": 205.92000000000002,
+        "english": "Yeah, I checked it out yesterday.",
+        "chinese": "是的，我昨天已经检查过了。"
+    },
+    {
+        "start": 205.92000000000002,
+        "end": 207.92000000000002,
+        "english": "The food was great.",
+        "chinese": "食物很好。"
+    },
+    {
+        "start": 210.32,
+        "end": 212.32,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 214.4,
+        "end": 217.4,
+        "english": "Hey, check out my new car.",
+        "chinese": "你好，看看我的新车怎么样。"
+    },
+    {
+        "start": 219.8,
+        "end": 221.8,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 224.32,
+        "end": 227.8,
+        "english": "I'm going to take out the new shopping mall these weekends.",
+        "chinese": "我打算在这个周末把新购物商场拿出来。"
+    },
+    {
+        "start": 229.8,
+        "end": 232.48000000000002,
+        "english": "So I can understand that it just means look at.",
+        "chinese": "所以，我可以理解它只是看。"
+    },
+    {
+        "start": 232.48,
+        "end": 233.32,
+        "english": "Yeah, look at.",
+        "chinese": "是的，看看。"
+    },
+    {
+        "start": 233.32,
+        "end": 234.56,
+        "english": "Or yeah, or go see.",
+        "chinese": "英语：或者，或者去看看。"
+    },
+    {
+        "start": 234.56,
+        "end": 236.79999999999998,
+        "english": "So let's go check out that new bar in town.",
+        "chinese": "英语：所以让我们去看看那里的新酒吧。"
+    },
+    {
+        "start": 236.79999999999998,
+        "end": 238.28,
+        "english": "Yeah, okay, cool.",
+        "chinese": "是的，好的，好极了。"
+    },
+    {
+        "start": 238.28,
+        "end": 240.88,
+        "english": "Next word is bistro.",
+        "chinese": "下一步是餐厅。"
+    },
+    {
+        "start": 240.88,
+        "end": 241.67999999999998,
+        "english": "bistro.",
+        "chinese": "餐厅。"
+    },
+    {
+        "start": 241.67999999999998,
+        "end": 242.67999999999998,
+        "english": "bistro.",
+        "chinese": "餐厅。"
+    },
+    {
+        "start": 242.67999999999998,
+        "end": 244.2,
+        "english": "bistro.",
+        "chinese": "餐厅。"
+    },
+    {
+        "start": 244.2,
+        "end": 245.64,
+        "english": "So what's a bistro?",
+        "chinese": "英语：所以什么是一顿饭？"
+    },
+    {
+        "start": 245.64,
+        "end": 251.04,
+        "english": "It's kind of complicated but it's like a small restaurant that's not really cheap though.",
+        "chinese": "英语：它有点复杂，但就像一个小餐馆，并不算便宜。"
+    },
+    {
+        "start": 251.04,
+        "end": 252.83999999999997,
+        "english": "Not so cheap but not so expensive.",
+        "chinese": "不那么贵，但也不那么便宜。"
+    },
+    {
+        "start": 253.64,
+        "end": 255.76,
+        "english": "And it's usually French.",
+        "chinese": "而且通常法国人是那么的友好。"
+    },
+    {
+        "start": 255.76,
+        "end": 256.59999999999997,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 256.59999999999997,
+        "end": 258.8,
+        "english": "So it's small informal restaurants.",
+        "chinese": "所以它是一家小规模的餐厅。"
+    },
+    {
+        "start": 258.8,
+        "end": 259.64,
+        "english": "bistro.",
+        "chinese": "餐厅。"
+    },
+    {
+        "start": 260.56,
+        "end": 266.32,
+        "english": "Okay, so our third phrase for today is not all that crazy about.",
+        "chinese": "好的，今天的第三句话不那么疯狂。"
+    },
+    {
+        "start": 266.32,
+        "end": 268.71999999999997,
+        "english": "Not all that crazy about.",
+        "chinese": "不，这并不疯狂。"
+    },
+    {
+        "start": 268.71999999999997,
+        "end": 271.84,
+        "english": "I'm not all that crazy about.",
+        "chinese": "我并不怎么在意。"
+    },
+    {
+        "start": 271.84,
+        "end": 278.32,
+        "english": "Okay, again, kind of a funny phrase but we've got some examples that will help you understand the meaning.",
+        "chinese": "好的，再次，有点幽默的说法，但我们有一些例子可以帮助你理解含义。"
+    },
+    {
+        "start": 279.52,
+        "end": 280.84,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 284.47999999999996,
+        "end": 286.56,
+        "english": "Do you want to go shopping with me tomorrow?",
+        "chinese": "英语：你明天想和我一起去购物吗？"
+    },
+    {
+        "start": 286.56,
+        "end": 288.71999999999997,
+        "english": "I'm not all that crazy about shopping.",
+        "chinese": "我并不太在意购物。"
+    },
+    {
+        "start": 288.76000000000005,
+        "end": 289.96000000000004,
+        "english": "I don't like spending money.",
+        "chinese": "我并不喜欢花钱。"
+    },
+    {
+        "start": 294.12,
+        "end": 295.16,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 298.68,
+        "end": 300.48,
+        "english": "I'm not crazy about jazz music.",
+        "chinese": "我并不喜欢爵士音乐。"
+    },
+    {
+        "start": 300.48,
+        "end": 301.76000000000005,
+        "english": "Can I change the song?",
+        "chinese": "英语：我能改变这首歌吗？"
+    },
+    {
+        "start": 305.0,
+        "end": 308.76000000000005,
+        "english": "So this is just a really polite way of saying you don't like something.",
+        "chinese": "所以，这就是你不喜欢的东西这么礼貌地表达。"
+    },
+    {
+        "start": 308.76000000000005,
+        "end": 309.48,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 309.48,
+        "end": 313.24,
+        "english": "But now the opposite of this would be tasty.",
+        "chinese": "但是现在这个相反的东西就是美味了。"
+    },
+    {
+        "start": 313.24,
+        "end": 314.08000000000004,
+        "english": "Tasty.",
+        "chinese": "英文：Tasty."
+    },
+    {
+        "start": 314.08000000000004,
+        "end": 315.16,
+        "english": "That's our fourth word.",
+        "chinese": "这个是我们的第四个单词。"
+    },
+    {
+        "start": 315.16,
+        "end": 315.96000000000004,
+        "english": "Tasty.",
+        "chinese": "甜的。"
+    },
+    {
+        "start": 315.96000000000004,
+        "end": 317.40000000000003,
+        "english": "Tasty.",
+        "chinese": "美味的"
+    },
+    {
+        "start": 317.44,
+        "end": 319.08,
+        "english": "So when something is tasty.",
+        "chinese": "所以当某样东西好吃时。"
+    },
+    {
+        "start": 319.08,
+        "end": 319.88,
+        "english": "It's good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 319.88,
+        "end": 320.71999999999997,
+        "english": "It's good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 320.71999999999997,
+        "end": 321.52,
+        "english": "Like delicious.",
+        "chinese": "像美味。"
+    },
+    {
+        "start": 321.52,
+        "end": 322.52,
+        "english": "Delicious.",
+        "chinese": "美味的。"
+    },
+    {
+        "start": 322.52,
+        "end": 323.52,
+        "english": "Yeah, you know what?",
+        "chinese": "是的，你知道吗？"
+    },
+    {
+        "start": 323.52,
+        "end": 328.12,
+        "english": "In English we almost never say the food is delicious but we always say.",
+        "chinese": "在英语中，我们几乎很少说食物好吃，但在日常交流中却经常这么说。"
+    },
+    {
+        "start": 328.12,
+        "end": 329.12,
+        "english": "It's really tasty.",
+        "chinese": "英语：它真的很好吃。"
+    },
+    {
+        "start": 329.12,
+        "end": 330.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 330.12,
+        "end": 331.12,
+        "english": "This is really tasty.",
+        "chinese": "这个很好吃。"
+    },
+    {
+        "start": 331.12,
+        "end": 332.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 332.12,
+        "end": 333.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 333.12,
+        "end": 334.12,
+        "english": "Tasty.",
+        "chinese": "英语：美味。"
+    },
+    {
+        "start": 334.12,
+        "end": 337.96,
+        "english": "And our last phrase for language takeaway in the mood for.",
+        "chinese": "我们的最后一句话，充满着语言取走的氛围。"
+    },
+    {
+        "start": 337.96,
+        "end": 339.79999999999995,
+        "english": "In the mood for.",
+        "chinese": "在情调下。"
+    },
+    {
+        "start": 339.79999999999995,
+        "end": 341.59999999999997,
+        "english": "In the mood for.",
+        "chinese": "在情调上。"
+    },
+    {
+        "start": 341.59999999999997,
+        "end": 347.15999999999997,
+        "english": "Let's listen to some examples of this phrase and we'll understand the meaning a little bit better.",
+        "chinese": "让我们听听这个短语的示例，我们将会对它的含义有一个更进一步的理解。"
+    },
+    {
+        "start": 347.16,
+        "end": 350.64000000000004,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 350.64000000000004,
+        "end": 352.68,
+        "english": "We always eat hamburgers for dinner.",
+        "chinese": "我们总是吃汉堡包。"
+    },
+    {
+        "start": 352.68,
+        "end": 357.52000000000004,
+        "english": "I'm in the mood for something different.",
+        "chinese": "我有点儿喜欢另类的事情。"
+    },
+    {
+        "start": 357.52000000000004,
+        "end": 361.28000000000003,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 361.28000000000003,
+        "end": 362.28000000000003,
+        "english": "Let's watch movie.",
+        "chinese": "让我们观看电影。"
+    },
+    {
+        "start": 362.28000000000003,
+        "end": 364.68,
+        "english": "How about Texas Chinsville, Massica?",
+        "chinese": "英语：如何评价塔什库尔干县的气候？"
+    },
+    {
+        "start": 364.68,
+        "end": 370.0,
+        "english": "I am not in the mood for a horror movie.",
+        "chinese": "我并不喜欢恐怖电影。"
+    },
+    {
+        "start": 370.0,
+        "end": 376.0,
+        "english": "So if I'm in the mood for something I feel like doing or eating or watching.",
+        "chinese": "所以，如果我心情好，我会选择做点什么、吃点什么或者看看什么。"
+    },
+    {
+        "start": 376.0,
+        "end": 377.0,
+        "english": "Watching.",
+        "chinese": "观看。"
+    },
+    {
+        "start": 377.0,
+        "end": 378.92,
+        "english": "It means you want to do that now.",
+        "chinese": "英语：它意味着你现在想要做这件事。"
+    },
+    {
+        "start": 378.92,
+        "end": 379.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 379.92,
+        "end": 380.92,
+        "english": "I'm in the mood for.",
+        "chinese": "我正需要。"
+    },
+    {
+        "start": 380.92,
+        "end": 382.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 382.44,
+        "end": 387.36,
+        "english": "Some great language we just looked at and I think it's time for us to listen to the dialogue",
+        "chinese": "英语：一些很棒的语言，我们刚刚看了，并且我认为时间到了让我们听听对话。"
+    },
+    {
+        "start": 387.36,
+        "end": 394.36,
+        "english": "a second time.",
+        "chinese": "第二个。"
+    },
+    {
+        "start": 394.36,
+        "end": 398.0,
+        "english": "Do you two have any plans for the evening?",
+        "chinese": "英语：你俩今晚有计划吗？"
+    },
+    {
+        "start": 398.0,
+        "end": 401.88,
+        "english": "We were thinking of checking out a restaurant in the neighborhood.",
+        "chinese": "我们正考虑去附近的餐厅品尝一下。"
+    },
+    {
+        "start": 401.88,
+        "end": 404.56,
+        "english": "Do you have any suggestions?",
+        "chinese": "是的，你有什么好的建议吗？"
+    },
+    {
+        "start": 404.56,
+        "end": 407.84,
+        "english": "I know this really nice Italian place.",
+        "chinese": "我了解这个非常漂亮的意大利餐厅。"
+    },
+    {
+        "start": 407.84,
+        "end": 412.52,
+        "english": "The food is fantastic and the decor is beautiful.",
+        "chinese": "英语：食物非常美味，装饰非常漂亮。"
+    },
+    {
+        "start": 412.52,
+        "end": 415.12,
+        "english": "I'd recommend giving it a try.",
+        "chinese": "我建议你试试这个。"
+    },
+    {
+        "start": 415.12,
+        "end": 420.2,
+        "english": "Actually, I'm not all that crazy about Italian food.",
+        "chinese": "实际上，我对意大利食物并不太感兴趣。"
+    },
+    {
+        "start": 420.2,
+        "end": 424.16,
+        "english": "I'm in the mood for something a bit lighter.",
+        "chinese": "我有点儿喜欢稍微轻一点的东西。"
+    },
+    {
+        "start": 424.16,
+        "end": 427.4,
+        "english": "In that case I know a great little bistro.",
+        "chinese": "在那情况下，我知道一家小餐馆。"
+    },
+    {
+        "start": 427.4,
+        "end": 430.4,
+        "english": "They make a really tasty seafood platter.",
+        "chinese": "他们制作了一道非常美味的海鲜盘子。"
+    },
+    {
+        "start": 430.4,
+        "end": 433.48,
+        "english": "The fish is outstanding.",
+        "chinese": "英语：鱼是出色的。"
+    },
+    {
+        "start": 433.48,
+        "end": 439.44,
+        "english": "It sounds fantastic, but I'm allergic to seafood so...",
+        "chinese": "英语：听起来很棒，但我对海鲜过敏。"
+    },
+    {
+        "start": 439.44,
+        "end": 442.32,
+        "english": "Okay, well let me think.",
+        "chinese": "好的，我先想一想。"
+    },
+    {
+        "start": 442.32,
+        "end": 445.64000000000004,
+        "english": "Oh, I know this great little place.",
+        "chinese": "英语：哦，我认识这个很棒的小地方。"
+    },
+    {
+        "start": 445.64000000000004,
+        "end": 451.56,
+        "english": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+        "chinese": "它只是一个洞，但他们做得真是太棒了。"
+    },
+    {
+        "start": 451.56,
+        "end": 454.32,
+        "english": "You've got to give them a try.",
+        "chinese": "你得让他们试试。"
+    },
+    {
+        "start": 454.32,
+        "end": 460.24,
+        "english": "Ella, you took me there last time I visited and I got food poisoning.",
+        "chinese": "英语：Ella，你上次我到这儿时吃了什么？"
+    },
+    {
+        "start": 460.24,
+        "end": 461.24,
+        "english": "Remember?",
+        "chinese": "英语：记住？"
+    },
+    {
+        "start": 464.48,
+        "end": 467.40000000000003,
+        "english": "Okay, some really great and useful phrases there.",
+        "chinese": "好的，这里有一些非常有用和有用的短语。"
+    },
+    {
+        "start": 467.40000000000003,
+        "end": 470.32,
+        "english": "And I know you want to talk about specifically some of these phrases.",
+        "chinese": "英语：它是一款点和拍相机。"
+    },
+    {
+        "start": 470.32,
+        "end": 475.08000000000004,
+        "english": "Yes, today's lesson is all about making recommendations, right?",
+        "chinese": "是的，今天的课程主要讨论如何提供建议，对吗？"
+    },
+    {
+        "start": 475.08000000000004,
+        "end": 476.08000000000004,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 476.08000000000004,
+        "end": 480.40000000000003,
+        "english": "So let's look at some useful phrases in Fluency Builder.",
+        "chinese": "所以，让我们看看一些有用的短语在 FluentBuilder 中。"
+    },
+    {
+        "start": 480.40000000000003,
+        "end": 481.96000000000004,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 481.96000000000004,
+        "end": 485.64000000000004,
+        "english": "So in the dialogue we heard a great way of asking for a suggestion.",
+        "chinese": "英语：所以我们在对话中听到一个很好的方式提出建议。"
+    },
+    {
+        "start": 485.64000000000004,
+        "end": 486.64000000000004,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 486.64000000000004,
+        "end": 487.64000000000004,
+        "english": "Let's listen.",
+        "chinese": "让我们听。"
+    },
+    {
+        "start": 487.64000000000004,
+        "end": 491.16,
+        "english": "Do you have any suggestions?",
+        "chinese": "英语：你有建议吗？"
+    },
+    {
+        "start": 491.16,
+        "end": 493.8,
+        "english": "Do you have any suggestions?",
+        "chinese": "英语：你有建议吗？"
+    },
+    {
+        "start": 493.8,
+        "end": 496.0,
+        "english": "So that's how you would ask for a suggestion.",
+        "chinese": "所以，你如何提出建议呢？"
+    },
+    {
+        "start": 496.0,
+        "end": 499.12,
+        "english": "Or you can say something else like, do you have any ideas?",
+        "chinese": "英语：或者你可以说，比如，你有没有什么想法？"
+    },
+    {
+        "start": 499.12,
+        "end": 502.16,
+        "english": "Yeah, or you might say, do you have any thoughts?",
+        "chinese": "是的，或者你可以说，你有没有什么想法？"
+    },
+    {
+        "start": 502.16,
+        "end": 503.16,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 503.16,
+        "end": 504.16,
+        "english": "Okay, so that's...",
+        "chinese": "好的，那么这样就OK了..."
+    },
+    {
+        "start": 504.16,
+        "end": 505.16,
+        "english": "Great way.",
+        "chinese": "很好用。"
+    },
+    {
+        "start": 505.16,
+        "end": 506.16,
+        "english": "...asking for a suggestion.",
+        "chinese": "...询问一个建议。"
+    },
+    {
+        "start": 506.16,
+        "end": 507.16,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 507.16,
+        "end": 511.16,
+        "english": "In response to this, you can say something like this.",
+        "chinese": "英语：在回应这个点和拍的时候，你可以这么说。"
+    },
+    {
+        "start": 511.16,
+        "end": 514.24,
+        "english": "I'd recommend giving it a try.",
+        "chinese": "我建议你试试这个。"
+    },
+    {
+        "start": 514.24,
+        "end": 517.64,
+        "english": "I'd recommend giving it a try.",
+        "chinese": "我建议你试试看。"
+    },
+    {
+        "start": 517.64,
+        "end": 522.28,
+        "english": "We also heard another phrase that we use for giving suggestions.",
+        "chinese": "我们还听到另一个用来提供建议的表达。"
+    },
+    {
+        "start": 522.28,
+        "end": 525.64,
+        "english": "You can give them a try.",
+        "chinese": "你可以说试一试。"
+    },
+    {
+        "start": 525.64,
+        "end": 528.68,
+        "english": "You've got to give them a try.",
+        "chinese": "你得让他们试试。"
+    },
+    {
+        "start": 528.68,
+        "end": 530.1999999999999,
+        "english": "So these two phrases are great.",
+        "chinese": "所以这两句话很好。"
+    },
+    {
+        "start": 530.1999999999999,
+        "end": 533.48,
+        "english": "I'd recommend or you got to give them a try.",
+        "chinese": "我建议或者你得给他们一个机会。"
+    },
+    {
+        "start": 533.48,
+        "end": 534.48,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 534.48,
+        "end": 535.72,
+        "english": "Great ways of suggesting.",
+        "chinese": "伟大的提出建议的方法。"
+    },
+    {
+        "start": 535.72,
+        "end": 536.72,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 536.72,
+        "end": 540.1999999999999,
+        "english": "Now, what's really important here is the pronunciation of these words, right?",
+        "chinese": "是的，这是正确的。"
+    },
+    {
+        "start": 540.1999999999999,
+        "end": 545.4399999999999,
+        "english": "Yeah, you'll notice that we don't say I would recommend.",
+        "chinese": "是的，你将会注意到我们没有说我会推荐。"
+    },
+    {
+        "start": 545.4399999999999,
+        "end": 546.4399999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 546.44,
+        "end": 548.12,
+        "english": "Here's the contraction, I'd.",
+        "chinese": "这是点和拍，我来。"
+    },
+    {
+        "start": 548.12,
+        "end": 549.12,
+        "english": "I'd.",
+        "chinese": "我。"
+    },
+    {
+        "start": 549.12,
+        "end": 550.12,
+        "english": "I'd.",
+        "chinese": "我。"
+    },
+    {
+        "start": 550.12,
+        "end": 551.12,
+        "english": "I'd recommend.",
+        "chinese": "我建议。"
+    },
+    {
+        "start": 551.12,
+        "end": 552.12,
+        "english": "I'd recommend.",
+        "chinese": "我建议。"
+    },
+    {
+        "start": 552.12,
+        "end": 557.44,
+        "english": "Similarly, in the phrase, you have got to...",
+        "chinese": "同样，你在说..."
+    },
+    {
+        "start": 557.44,
+        "end": 560.1600000000001,
+        "english": "We shorten that to say, you got to.",
+        "chinese": "我们简化一下，你得接受这个。"
+    },
+    {
+        "start": 560.1600000000001,
+        "end": 561.1600000000001,
+        "english": "You got to.",
+        "chinese": "你得。"
+    },
+    {
+        "start": 561.1600000000001,
+        "end": 562.1600000000001,
+        "english": "You got to give them a try.",
+        "chinese": "你得让他们试试。"
+    },
+    {
+        "start": 562.1600000000001,
+        "end": 563.1600000000001,
+        "english": "You got to.",
+        "chinese": "你得。"
+    },
+    {
+        "start": 563.1600000000001,
+        "end": 564.1600000000001,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 564.1600000000001,
+        "end": 568.32,
+        "english": "You know what, guys, if you can shorten your phrases like this, if you can push the",
+        "chinese": "英语：你明白，伙计，如果你能像这样简化你的表达方式，如果你能把话讲得更清楚一些，那真是太好了。"
+    },
+    {
+        "start": 568.32,
+        "end": 572.1600000000001,
+        "english": "sounds together, you'll sound a lot more natural, right?",
+        "chinese": "英语：听起来好，你会说得很流利，对吗？"
+    },
+    {
+        "start": 572.1600000000001,
+        "end": 576.36,
+        "english": "And also, you'll be able to understand because in movies or in shows, they will",
+        "chinese": "此外，你也会理解，因为在电影或电视剧中，他们将能够通过各种方式展示出角色的内心世界和情感变化。"
+    },
+    {
+        "start": 576.36,
+        "end": 578.84,
+        "english": "never say you have got to give them a try.",
+        "chinese": "永远不要说你必须给他们一个机会。"
+    },
+    {
+        "start": 578.84,
+        "end": 579.84,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 579.84,
+        "end": 583.84,
+        "english": "So if you know how to use this form, you'll understand what they mean.",
+        "chinese": "所以如果你知道如何使用这个表，你就会明白他们什么意思。"
+    },
+    {
+        "start": 583.84,
+        "end": 584.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 584.84,
+        "end": 585.84,
+        "english": "Okay, great.",
+        "chinese": "好的，继续。"
+    },
+    {
+        "start": 585.84,
+        "end": 589.6800000000001,
+        "english": "Well, why don't we listen to the dialogue a third time and you'll hear some of these",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 589.6800000000001,
+        "end": 596.6800000000001,
+        "english": "contractions in the dialogue.",
+        "chinese": "在对话中出现的缩写。"
+    },
+    {
+        "start": 596.6800000000001,
+        "end": 598.84,
+        "english": "Do you two have any plans for the evening?",
+        "chinese": "英语：你俩今晚有计划吗？"
+    },
+    {
+        "start": 598.84,
+        "end": 601.84,
+        "english": "We were thinking of checking out a restaurant in the neighborhood.",
+        "chinese": "我们正考虑去附近的餐厅品尝美食。"
+    },
+    {
+        "start": 601.84,
+        "end": 602.84,
+        "english": "Do you have any suggestions?",
+        "chinese": "英语：你有建议吗？"
+    },
+    {
+        "start": 602.84,
+        "end": 605.5600000000001,
+        "english": "I know this really nice Italian place.",
+        "chinese": "我了解这个非常漂亮的意大利餐厅。"
+    },
+    {
+        "start": 605.56,
+        "end": 608.3599999999999,
+        "english": "The food is fantastic and the daycourt is beautiful.",
+        "chinese": "英语：美食非常棒，日餐厅美得令人陶醉。"
+    },
+    {
+        "start": 608.3599999999999,
+        "end": 610.64,
+        "english": "I'd recommend giving it a try.",
+        "chinese": "我建议你试试这个。"
+    },
+    {
+        "start": 610.64,
+        "end": 614.16,
+        "english": "Actually, I'm not all that crazy about Italian food.",
+        "chinese": "实际上，我对意大利食物并不太感兴趣。"
+    },
+    {
+        "start": 614.16,
+        "end": 616.64,
+        "english": "I'm in the mood for something a bit lighter.",
+        "chinese": "我有点儿喜欢稍微轻一点的东西。"
+    },
+    {
+        "start": 616.64,
+        "end": 618.52,
+        "english": "In that case, I know a great little bistro.",
+        "chinese": "在那情况下，我知道一家小点心店。"
+    },
+    {
+        "start": 618.52,
+        "end": 621.3199999999999,
+        "english": "They make a really tasty seafood platter.",
+        "chinese": "他们制作了一道非常美味的海鲜盘子。"
+    },
+    {
+        "start": 621.3199999999999,
+        "end": 623.3199999999999,
+        "english": "The fish is outstanding.",
+        "chinese": "鱼是出色的。"
+    },
+    {
+        "start": 623.3199999999999,
+        "end": 627.3599999999999,
+        "english": "It sounds fantastic, but I'm allergic to seafood so...",
+        "chinese": "英语：听起来很棒，但我对海鲜过敏。"
+    },
+    {
+        "start": 627.3599999999999,
+        "end": 630.56,
+        "english": "Okay, well, let me think.",
+        "chinese": "好的，明白了。"
+    },
+    {
+        "start": 630.56,
+        "end": 633.1199999999999,
+        "english": "Oh, I know this great little place.",
+        "chinese": "英语：哦，我认识这个好地方。"
+    },
+    {
+        "start": 633.12,
+        "end": 637.0,
+        "english": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+        "chinese": "它只是一个洞，但他们做得真是太棒了。"
+    },
+    {
+        "start": 637.0,
+        "end": 638.8,
+        "english": "You could give them a try.",
+        "chinese": "你可以说试一试。"
+    },
+    {
+        "start": 638.8,
+        "end": 642.72,
+        "english": "Ella, you took me there last time I visited and I got food poisoning.",
+        "chinese": "英语：Ella，你上次去我这里时吃了什么？"
+    },
+    {
+        "start": 642.72,
+        "end": 643.72,
+        "english": "Remember?",
+        "chinese": "英语：记住？"
+    },
+    {
+        "start": 648.4,
+        "end": 654.2,
+        "english": "Okay, great dialogue and Erica, I know that you have some food poisoning stories for us.",
+        "chinese": "好的，很好对话，艾瑞卡，我知道你有我们餐厅的一些食物中毒故事。"
+    },
+    {
+        "start": 654.2,
+        "end": 659.6,
+        "english": "I don't know about stories, but I've definitely had food poisoning before.",
+        "chinese": "我并不知道关于故事的事情，但我之前确实吃过食物中毒。"
+    },
+    {
+        "start": 659.6,
+        "end": 664.08,
+        "english": "One of the worst times that I ever had food poisoning was when I was traveling in Morocco.",
+        "chinese": "英语：有一次我最糟糕的旅行经历是在摩洛哥旅行时食物中毒。"
+    },
+    {
+        "start": 664.08,
+        "end": 665.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 665.08,
+        "end": 672.52,
+        "english": "I had some really amazing orange juice, really fresh squeeze that day in the morning.",
+        "chinese": "我今天早上喝了一杯真的新鲜橙汁，味道超级好。"
+    },
+    {
+        "start": 672.52,
+        "end": 674.28,
+        "english": "Then I got on a bus.",
+        "chinese": "然后我上了公交车。"
+    },
+    {
+        "start": 674.28,
+        "end": 675.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 675.28,
+        "end": 678.08,
+        "english": "I think you can see where this is going.",
+        "chinese": "我猜你能看清楚这个方向。"
+    },
+    {
+        "start": 678.08,
+        "end": 684.6800000000001,
+        "english": "Yeah, so I was on the bus and then I started to feel really sick and I was just hoping",
+        "chinese": "是的，所以我坐在公共汽车上，然后感觉非常不舒服，我正希望能尽快好起来。"
+    },
+    {
+        "start": 684.6800000000001,
+        "end": 688.5600000000001,
+        "english": "and hoping and hoping that the bus ride would be over soon.",
+        "chinese": "和希望这辆公共汽车很快就会结束了。"
+    },
+    {
+        "start": 688.56,
+        "end": 689.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 689.56,
+        "end": 690.56,
+        "english": "Unfortunately, it wasn't...",
+        "chinese": "不幸的是，它不是..."
+    },
+    {
+        "start": 690.56,
+        "end": 691.56,
+        "english": "Oh, no.",
+        "chinese": "英语：啊，不。"
+    },
+    {
+        "start": 691.56,
+        "end": 699.88,
+        "english": "All I can say is that I was sick and all I can say is that I was pretty sick and really,",
+        "chinese": "我只能说，我现在很不舒服，而且真的很不舒服。"
+    },
+    {
+        "start": 699.88,
+        "end": 700.88,
+        "english": "really unhappy.",
+        "chinese": "英语：真的非常不开心。"
+    },
+    {
+        "start": 700.88,
+        "end": 701.88,
+        "english": "Yeah, I bet.",
+        "chinese": "是的，我猜。"
+    },
+    {
+        "start": 701.88,
+        "end": 705.8399999999999,
+        "english": "Well, that's very strange that you got sick from orange juice, huh?",
+        "chinese": "英语：嗯，那可真是奇怪啊，你为什么从橙汁里得病了呢？"
+    },
+    {
+        "start": 705.8399999999999,
+        "end": 708.88,
+        "english": "Well, yeah, maybe it was with some dirty water or something like that.",
+        "chinese": "英语：嗯，对，或许它可能有某种脏水或者什么的。"
+    },
+    {
+        "start": 708.88,
+        "end": 709.88,
+        "english": "I don't know.",
+        "chinese": "我不会。"
+    },
+    {
+        "start": 709.88,
+        "end": 710.88,
+        "english": "It was just...",
+        "chinese": "刚刚..."
+    },
+    {
+        "start": 710.88,
+        "end": 711.88,
+        "english": "It was a terrible situation.",
+        "chinese": "这是一个非常糟糕的情况。"
+    },
+    {
+        "start": 711.88,
+        "end": 714.68,
+        "english": "Yeah, it's always complicated when you're traveling to other countries.",
+        "chinese": "是的，当你在国外旅行时总是会遇到很多复杂的情况。"
+    },
+    {
+        "start": 714.68,
+        "end": 719.0,
+        "english": "It could be the water, it could be the way they prepare things.",
+        "chinese": "英语：它可能是水，也可能是他们准备东西的方式。"
+    },
+    {
+        "start": 719.0,
+        "end": 720.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 720.0,
+        "end": 721.0,
+        "english": "Food poisoning.",
+        "chinese": "Food中毒。"
+    },
+    {
+        "start": 721.0,
+        "end": 724.3199999999999,
+        "english": "Guys, I hope that you don't get food poisoning.",
+        "chinese": "英文：朋友们，我希望大家不会得食物中毒。"
+    },
+    {
+        "start": 724.3199999999999,
+        "end": 727.4799999999999,
+        "english": "And if you have any food poisoning stories, it would be great for you to share them.",
+        "chinese": "如果你有食物中毒的故事，那一定很有趣。"
+    },
+    {
+        "start": 727.4799999999999,
+        "end": 731.04,
+        "english": "Yes, at our website, www.englishpod.com.",
+        "chinese": "是的，我们在我们的网站www.englishpod.com上。"
+    },
+    {
+        "start": 731.04,
+        "end": 734.76,
+        "english": "And we'll see you there to answer all your questions and comments, but now we have to go.",
+        "chinese": "和我们一起回答你所有的疑问和评论，但现在我们必须走了。"
+    },
+    {
+        "start": 734.76,
+        "end": 736.52,
+        "english": "Okay, guys, thanks for listening.",
+        "chinese": "好的，谢谢。"
+    },
+    {
+        "start": 736.52,
+        "end": 737.52,
+        "english": "We'll see you there.",
+        "chinese": "我们将在那里见你。"
+    },
+    {
+        "start": 737.52,
+        "end": 738.52,
+        "english": "Bye-bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 744.68,
+        "end": 745.68,
+        "english": "Bye-bye.",
+        "chinese": "再见。"
+    }
+]

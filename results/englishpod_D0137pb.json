@@ -1,0 +1,2408 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.24,
+        "english": "Hello English learners, welcome to English.",
+        "chinese": "大家好，欢迎来到英语。"
+    },
+    {
+        "start": 4.24,
+        "end": 5.8,
+        "english": "My name is Marto.",
+        "chinese": "我的名字是马托。"
+    },
+    {
+        "start": 5.8,
+        "end": 9.84,
+        "english": "And my name is Catherine and today we're talking about something very, very important",
+        "chinese": "我的名字是凯特，今天我们要谈论的是一个非常重要的话题。"
+    },
+    {
+        "start": 9.84,
+        "end": 11.52,
+        "english": "in the computer age.",
+        "chinese": "在计算机时代。"
+    },
+    {
+        "start": 11.52,
+        "end": 12.52,
+        "english": "Internet.",
+        "chinese": "互联网 (Internet) in Chinese is \"网络\" (Wángyì)."
+    },
+    {
+        "start": 12.52,
+        "end": 13.76,
+        "english": "Internet and internet connections.",
+        "chinese": "互联网和互联网连接。"
+    },
+    {
+        "start": 13.76,
+        "end": 19.12,
+        "english": "Right, I think so many people use the internet now and have it, but it's sometimes a little",
+        "chinese": "是的，我认为很多人现在都在使用互联网，并且经常使用它。但是有时候，这并不总是如此。"
+    },
+    {
+        "start": 19.12,
+        "end": 24.240000000000002,
+        "english": "bit complicated to maybe get a plan or maybe if you're not too familiar with the terms,",
+        "chinese": "这个句子在中文中可以翻译为："
+    },
+    {
+        "start": 24.240000000000002,
+        "end": 25.72,
+        "english": "that's where we're going to be looking at today.",
+        "chinese": "今天，我们将在这里关注什么。"
+    },
+    {
+        "start": 25.72,
+        "end": 27.6,
+        "english": "So listen out for some of these words today.",
+        "chinese": "所以听听这些词今天。"
+    },
+    {
+        "start": 27.6,
+        "end": 30.92,
+        "english": "We're talking on the phone with someone who's going to help us get a plan.",
+        "chinese": "我们正在电话中与一个即将帮助我们制定计划的人交谈。"
+    },
+    {
+        "start": 30.92,
+        "end": 34.52,
+        "english": "When we come back, we'll be talking all about what some of these words and phrases mean.",
+        "chinese": "当我们回来时，我们将谈论一些这些单词和短语的意义。"
+    },
+    {
+        "start": 34.52,
+        "end": 42.24,
+        "english": "So if you're confused, just wait a couple seconds and we'll be back.",
+        "chinese": "所以如果你困惑，就等一会儿，我们马上就回来了。"
+    },
+    {
+        "start": 42.24,
+        "end": 43.56,
+        "english": "Welcome to Galanet.",
+        "chinese": "欢迎来到Galanet。"
+    },
+    {
+        "start": 43.56,
+        "end": 44.760000000000005,
+        "english": "How can I help you?",
+        "chinese": "如何能帮助您？"
+    },
+    {
+        "start": 44.760000000000005,
+        "end": 48.120000000000005,
+        "english": "Hi, I would like to get an internet plan for my house.",
+        "chinese": "你好，我想为我的房子选择一个互联网套餐。"
+    },
+    {
+        "start": 48.120000000000005,
+        "end": 50.16,
+        "english": "Of course.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 50.16,
+        "end": 53.88,
+        "english": "We have three different plans with different prices you can choose from.",
+        "chinese": "我们有三种不同的计划，每种计划都有不同的价格。您可以根据自己的需求选择。"
+    },
+    {
+        "start": 53.88,
+        "end": 58.88,
+        "english": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+        "chinese": "第一个选项是最低的，但最基本的计划，每月只需30元。"
+    },
+    {
+        "start": 58.88,
+        "end": 64.68,
+        "english": "This is for broadband internet, with a download speed of 512 KBPS.",
+        "chinese": "这是高速宽带互联网，下载速度为512KBps。"
+    },
+    {
+        "start": 64.68,
+        "end": 67.8,
+        "english": "I have no idea what KBPS means.",
+        "chinese": "我也不太明白KBPS的意思。"
+    },
+    {
+        "start": 67.8,
+        "end": 71.76,
+        "english": "I just want to be able to get online, play games and chat with my friends.",
+        "chinese": "我只想能上网玩游戏和聊天与朋友。"
+    },
+    {
+        "start": 71.76,
+        "end": 74.16,
+        "english": "Oh, and watch movies online as well.",
+        "chinese": "哦，而且也要在网上看电影。"
+    },
+    {
+        "start": 74.16,
+        "end": 77.6,
+        "english": "Well, this connection might be a bit too slow for your needs.",
+        "chinese": "嗯，这个连接可能有点慢，不适合您的需求。"
+    },
+    {
+        "start": 77.6,
+        "end": 82.44,
+        "english": "I suggest you get the premium package for $50 a month, which includes a connection speed",
+        "chinese": "我建议您每月支付 50 元，包含连接速度。"
+    },
+    {
+        "start": 82.44,
+        "end": 84.03999999999999,
+        "english": "of 2 megabytes.",
+        "chinese": "2兆字节。"
+    },
+    {
+        "start": 84.03999999999999,
+        "end": 87.16,
+        "english": "That way, you can play games online without any lag.",
+        "chinese": "这样，你就可以在互联网上玩游戏，而不会出现延迟。"
+    },
+    {
+        "start": 87.16,
+        "end": 91.8,
+        "english": "This package also includes a wireless router and a personal firewall, absolutely free.",
+        "chinese": "这个包还包含一个无线路由器和个人防火墙，绝对免费。"
+    },
+    {
+        "start": 91.8,
+        "end": 94.8,
+        "english": "Do I have to pay an installation fee?",
+        "chinese": "是的，我必须支付安装费。"
+    },
+    {
+        "start": 94.8,
+        "end": 98.72,
+        "english": "Lucky for you, this month we aren't charging our normal installation fee.",
+        "chinese": "幸运的是，这个月我们不收取正常的安装费。"
+    },
+    {
+        "start": 98.72,
+        "end": 103.47999999999999,
+        "english": "You're receiving yourself a hundred bucks right there, and we'll throw in this pen drive.",
+        "chinese": "您正在收到自己一百元，我们还会把这个U盘扔进去。"
+    },
+    {
+        "start": 103.47999999999999,
+        "end": 104.47999999999999,
+        "english": "Awesome!",
+        "chinese": "很棒！"
+    },
+    {
+        "start": 104.47999999999999,
+        "end": 108.2,
+        "english": "Alright, so interesting.",
+        "chinese": "好的，那么有趣。"
+    },
+    {
+        "start": 108.2,
+        "end": 113.84,
+        "english": "A lot of these technical terms, specifically for internet and computers and connection and",
+        "chinese": "这些技术术语，特别是针对互联网和计算机以及连接和"
+    },
+    {
+        "start": 113.84,
+        "end": 114.84,
+        "english": "all that stuff.",
+        "chinese": "所有的这些东西。"
+    },
+    {
+        "start": 114.84,
+        "end": 119.48,
+        "english": "Yeah, and the nice thing about some of these words is that they can be used in other ways",
+        "chinese": "是的，这些词的一个好处在于它们可以以其他方式使用。"
+    },
+    {
+        "start": 119.48,
+        "end": 120.48,
+        "english": "as well.",
+        "chinese": "也。"
+    },
+    {
+        "start": 120.48,
+        "end": 125.92,
+        "english": "We're learning about these and expanding our vocabulary, but they're useful in many other",
+        "chinese": "我们正在学习这些，并扩大词汇量，但它们在许多其他方面也非常有用。"
+    },
+    {
+        "start": 125.92,
+        "end": 127.24000000000001,
+        "english": "contexts as well.",
+        "chinese": "语境也。"
+    },
+    {
+        "start": 127.24000000000001,
+        "end": 133.92000000000002,
+        "english": "Okay, so let's get started with these words now in language takeaway.",
+        "chinese": "好的，现在让我们开始用语言总结这些单词。"
+    },
+    {
+        "start": 133.92000000000002,
+        "end": 136.24,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 136.24,
+        "end": 140.48000000000002,
+        "english": "So this first phrase, for example, is something that you see advertised all the time, and",
+        "chinese": "所以，例如，这个开头的这句话，比如你看到广告中的所有时刻。"
+    },
+    {
+        "start": 140.48000000000002,
+        "end": 144.08,
+        "english": "it's a kind of internet connection.",
+        "chinese": "它是互联网连接的一种。"
+    },
+    {
+        "start": 144.08,
+        "end": 145.08,
+        "english": "Broadband internet.",
+        "chinese": "宽带互联网。"
+    },
+    {
+        "start": 145.08,
+        "end": 149.68,
+        "english": "Okay, so internet is pretty clear, but broadband, you might be asking what the heck can this",
+        "chinese": "好的，所以互联网挺清晰的，但宽带，你可能正在问这事儿什么也说不清楚。"
+    },
+    {
+        "start": 149.68,
+        "end": 150.68,
+        "english": "mean?",
+        "chinese": "在中文中，\"mean?\" 通常翻译为 \"会意吗？\" 或者更直接地说 \"能理解吗？\"。这个短语常用于询问对方是否能够理解某个问题或表达的意思。例如："
+    },
+    {
+        "start": 150.68,
+        "end": 152.08,
+        "english": "Okay, so you have broad.",
+        "chinese": "好的，您有宽广的。"
+    },
+    {
+        "start": 152.08,
+        "end": 153.48000000000002,
+        "english": "So broad means wide.",
+        "chinese": "所以宽泛意味着广阔。"
+    },
+    {
+        "start": 153.48000000000002,
+        "end": 154.48000000000002,
+        "english": "Wide, huh?",
+        "chinese": "是的，宽！"
+    },
+    {
+        "start": 154.48000000000002,
+        "end": 159.12,
+        "english": "And a band is basically a frequency at which something works.",
+        "chinese": "而且一个乐队基本上是某种频率下运作的东西。"
+    },
+    {
+        "start": 159.12,
+        "end": 160.12,
+        "english": "Band width.",
+        "chinese": "宽带。"
+    },
+    {
+        "start": 160.12,
+        "end": 161.12,
+        "english": "Band width, huh?",
+        "chinese": "宽带，嗯？"
+    },
+    {
+        "start": 161.12,
+        "end": 164.32000000000002,
+        "english": "So you have broadband, you have fast or high speed internet.",
+        "chinese": "所以，你有宽带，或者快或高速的互联网。"
+    },
+    {
+        "start": 164.32,
+        "end": 168.45999999999998,
+        "english": "That means the bigger the spaces, the more information can be transferred.",
+        "chinese": "这句话的意思是：“这意味着更大的空间可以传递的信息更多。”"
+    },
+    {
+        "start": 168.45999999999998,
+        "end": 170.68,
+        "english": "So it's a fast connection, essentially.",
+        "chinese": "所以它是一个快连接，实际上。"
+    },
+    {
+        "start": 170.68,
+        "end": 171.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 171.68,
+        "end": 174.07999999999998,
+        "english": "Before broadband we had dial up internet.",
+        "chinese": "在宽带之前，我们有拨号上网。"
+    },
+    {
+        "start": 174.07999999999998,
+        "end": 176.07999999999998,
+        "english": "D-D-D-D-D-D.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 176.07999999999998,
+        "end": 177.07999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 177.07999999999998,
+        "end": 177.79999999999998,
+        "english": "Remember AOL?",
+        "chinese": "记得AOL吗？"
+    },
+    {
+        "start": 177.79999999999998,
+        "end": 178.79999999999998,
+        "english": "Yeah, I remember.",
+        "chinese": "是的，我记得。"
+    },
+    {
+        "start": 178.79999999999998,
+        "end": 180.16,
+        "english": "It was so slow.",
+        "chinese": "是这样慢。"
+    },
+    {
+        "start": 180.16,
+        "end": 186.24,
+        "english": "You had to use your modem and call a number and then get connected by telephone to it",
+        "chinese": "您必须使用您的调制解调器并拨打一个号码，然后通过电话与它连接。"
+    },
+    {
+        "start": 186.24,
+        "end": 188.42,
+        "english": "was a dial up connection, but it was so slow.",
+        "chinese": "这是一个以拨号连接的方式，但速度太慢。"
+    },
+    {
+        "start": 188.42,
+        "end": 191.95999999999998,
+        "english": "And every time it broke, the connection would break.",
+        "chinese": "每次它断开连接，连接就会断开。"
+    },
+    {
+        "start": 191.96,
+        "end": 194.20000000000002,
+        "english": "had to dial up again and give the whole process.",
+        "chinese": "我必须重新拨号并详细描述整个过程。"
+    },
+    {
+        "start": 194.20000000000002,
+        "end": 195.12,
+        "english": "It was so annoying.",
+        "chinese": "是太烦了。"
+    },
+    {
+        "start": 195.12,
+        "end": 195.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 195.8,
+        "end": 198.64000000000001,
+        "english": "So fortunately, now not many people",
+        "chinese": "所以幸运的是，现在很少有人"
+    },
+    {
+        "start": 198.64000000000001,
+        "end": 201.96,
+        "english": "use dial up anymore, and we have broadband internet.",
+        "chinese": "使用拨号上网，我们有了宽带互联网。"
+    },
+    {
+        "start": 201.96,
+        "end": 203.84,
+        "english": "Now that if you have broadband internet,",
+        "chinese": "现在，如果你有宽带互联网，"
+    },
+    {
+        "start": 203.84,
+        "end": 206.84,
+        "english": "it's really convenient because you can download",
+        "chinese": "它真的很方便，因为你可以下载。"
+    },
+    {
+        "start": 206.84,
+        "end": 210.20000000000002,
+        "english": "any type of application or music, videos, et cetera.",
+        "chinese": "任何类型的应用程序或音乐、视频等。"
+    },
+    {
+        "start": 210.20000000000002,
+        "end": 210.48000000000002,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 210.48000000000002,
+        "end": 213.20000000000002,
+        "english": "So this is another key computer word that actually",
+        "chinese": "所以，这是一个另一个关键的计算机词汇，实际上。"
+    },
+    {
+        "start": 213.20000000000002,
+        "end": 214.64000000000001,
+        "english": "has a couple of different uses.",
+        "chinese": "有几种不同的用途。"
+    },
+    {
+        "start": 214.64000000000001,
+        "end": 218.64000000000001,
+        "english": "For example, as you said, you can download music or download",
+        "chinese": "例如，您说的，您可以下载音乐或下载。"
+    },
+    {
+        "start": 218.64000000000001,
+        "end": 219.04000000000002,
+        "english": "photos.",
+        "chinese": "照片。 (Wǒmen bǎ shíjiā.)"
+    },
+    {
+        "start": 219.04000000000002,
+        "end": 221.04000000000002,
+        "english": "That means you find a photo on the internet",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 221.04,
+        "end": 224.28,
+        "english": "that you like and you could save it on your computer.",
+        "chinese": "如果你喜欢，你可以把它保存在你的电脑上。"
+    },
+    {
+        "start": 224.28,
+        "end": 226.64,
+        "english": "But you can also have a download.",
+        "chinese": "但是你也可以下载。"
+    },
+    {
+        "start": 226.64,
+        "end": 228.12,
+        "english": "So it can be a thing too.",
+        "chinese": "所以它也可以是东西。"
+    },
+    {
+        "start": 228.12,
+        "end": 228.6,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gěng zé)."
+    },
+    {
+        "start": 228.6,
+        "end": 232.07999999999998,
+        "english": "So if maybe you're downloading three different files,",
+        "chinese": "所以，如果你下载了三个不同的文件，"
+    },
+    {
+        "start": 232.07999999999998,
+        "end": 233.76,
+        "english": "you have three downloads.",
+        "chinese": "您有三个下载。"
+    },
+    {
+        "start": 233.76,
+        "end": 234.16,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gěng hǎo)."
+    },
+    {
+        "start": 234.16,
+        "end": 237.12,
+        "english": "So to download and download.",
+        "chinese": "所以要下载和下载。"
+    },
+    {
+        "start": 237.12,
+        "end": 237.95999999999998,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 237.95999999999998,
+        "end": 240.04,
+        "english": "So now in internet, you have different speeds",
+        "chinese": "所以现在在互联网上，你有不同的速度。"
+    },
+    {
+        "start": 240.04,
+        "end": 241.12,
+        "english": "as we talked about, right?",
+        "chinese": "在我们讨论过，对吗？"
+    },
+    {
+        "start": 241.12,
+        "end": 242.64,
+        "english": "How fast you're downloading something.",
+        "chinese": "如何你正在下载什么。"
+    },
+    {
+        "start": 242.64,
+        "end": 247.2,
+        "english": "And the guy mentioned 512 KBPS.",
+        "chinese": "和这个提到512 kbps。"
+    },
+    {
+        "start": 247.2,
+        "end": 248.07999999999998,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 248.07999999999998,
+        "end": 250.51999999999998,
+        "english": "Not another one of these KBPS.",
+        "chinese": "不另有一个这样的KBPS。"
+    },
+    {
+        "start": 250.52,
+        "end": 252.72,
+        "english": "So this one actually is pretty simple.",
+        "chinese": "所以，这个确实很简单。"
+    },
+    {
+        "start": 252.72,
+        "end": 254.16,
+        "english": "You can think about kilobytes.",
+        "chinese": "你可以考虑千字。"
+    },
+    {
+        "start": 254.16,
+        "end": 256.16,
+        "english": "You've heard about megabytes, kilobytes.",
+        "chinese": "您听说过“兆字节”和“千字节”。"
+    },
+    {
+        "start": 256.16,
+        "end": 258.2,
+        "english": "This is a size.",
+        "chinese": "这是一个尺寸。"
+    },
+    {
+        "start": 258.2,
+        "end": 262.16,
+        "english": "That how fast you can receive these packets of information.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 262.16,
+        "end": 265.96000000000004,
+        "english": "So 512 kilobytes per second.",
+        "chinese": "所以，512千字每秒。"
+    },
+    {
+        "start": 265.96000000000004,
+        "end": 269.96000000000004,
+        "english": "Per second, that's, I have no idea how much that is.",
+        "chinese": "每秒，这就是说，我没有多少概念，那到底有多长。"
+    },
+    {
+        "start": 269.96000000000004,
+        "end": 270.76,
+        "english": "It's maybe a lot.",
+        "chinese": "是可能的。"
+    },
+    {
+        "start": 270.76,
+        "end": 271.76,
+        "english": "It sounds like a lot.",
+        "chinese": "听起来像很多。"
+    },
+    {
+        "start": 271.76,
+        "end": 272.28000000000003,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 272.28000000000003,
+        "end": 274.44,
+        "english": "Well, basically, it is a lot.",
+        "chinese": "基本来说，它是一个很大的。"
+    },
+    {
+        "start": 274.44,
+        "end": 277.28000000000003,
+        "english": "But we saw later that he was asking",
+        "chinese": "但是后来我们发现他正在问。"
+    },
+    {
+        "start": 277.28000000000003,
+        "end": 279.64,
+        "english": "for a connection speed of two megabytes.",
+        "chinese": "对于一个2兆字节的连接速度。"
+    },
+    {
+        "start": 279.96,
+        "end": 283.0,
+        "english": "So mega is bigger than KBPS, right?",
+        "chinese": "所以，Mega 是比 KBPS 大的吗？"
+    },
+    {
+        "start": 283.0,
+        "end": 283.68,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 283.68,
+        "end": 284.15999999999997,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 284.15999999999997,
+        "end": 288.08,
+        "english": "So these are different speeds of transferring information.",
+        "chinese": "所以这些是信息传输速度的不同。"
+    },
+    {
+        "start": 288.08,
+        "end": 291.28,
+        "english": "So this is a way for you to see what kind of internet plan",
+        "chinese": "所以，这是让你看到哪种互联网套餐的方式。"
+    },
+    {
+        "start": 291.28,
+        "end": 292.0,
+        "english": "you want.",
+        "chinese": "您想。"
+    },
+    {
+        "start": 292.0,
+        "end": 293.03999999999996,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 293.03999999999996,
+        "end": 295.64,
+        "english": "And so you have kilobytes, we have megabytes.",
+        "chinese": "所以您有千字，我们有兆字。"
+    },
+    {
+        "start": 295.64,
+        "end": 298.47999999999996,
+        "english": "And basically, you want a faster connection speed",
+        "chinese": "基本来说，你希望更快的连接速度。"
+    },
+    {
+        "start": 298.47999999999996,
+        "end": 301.0,
+        "english": "because you want to avoid lag.",
+        "chinese": "因为您希望避免延迟。"
+    },
+    {
+        "start": 301.0,
+        "end": 302.59999999999997,
+        "english": "Ooh, lag.",
+        "chinese": "啊呀，哎。"
+    },
+    {
+        "start": 302.59999999999997,
+        "end": 303.8,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 303.8,
+        "end": 306.12,
+        "english": "This is a word that you can use in a lot of different ways.",
+        "chinese": "这个词在很多不同的方式上都可以使用。"
+    },
+    {
+        "start": 306.12,
+        "end": 309.24,
+        "english": "For example, my brother always lags behind.",
+        "chinese": "例如，我的哥哥总是落后。"
+    },
+    {
+        "start": 309.24,
+        "end": 309.56,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 310.36,
+        "end": 311.4,
+        "english": "It's a verb.",
+        "chinese": "是动词。"
+    },
+    {
+        "start": 311.4,
+        "end": 312.68,
+        "english": "But in this case, we're talking about the noun.",
+        "chinese": "但是在这个情况下，我们是在谈论名词。"
+    },
+    {
+        "start": 312.68,
+        "end": 315.2,
+        "english": "So lag is slowness.",
+        "chinese": "所以慢是迟缓。"
+    },
+    {
+        "start": 315.2,
+        "end": 316.56,
+        "english": "Yeah, it's like a delay.",
+        "chinese": "是的，就像一个延迟。"
+    },
+    {
+        "start": 316.56,
+        "end": 318.36,
+        "english": "Yeah, it's delay in something.",
+        "chinese": "是的，这是某个事物的延迟。"
+    },
+    {
+        "start": 318.36,
+        "end": 322.36,
+        "english": "So in this case, I can't even play my video games",
+        "chinese": "在这种情况下，我几乎无法玩我的视频游戏。"
+    },
+    {
+        "start": 322.36,
+        "end": 324.12,
+        "english": "because there's too much lag.",
+        "chinese": "因为太慢了。"
+    },
+    {
+        "start": 324.12,
+        "end": 325.48,
+        "english": "So I mean, the internet's too slow.",
+        "chinese": "所以，互联网太慢了。"
+    },
+    {
+        "start": 325.48,
+        "end": 327.0,
+        "english": "It's too slow, exactly.",
+        "chinese": "太慢了，正好。"
+    },
+    {
+        "start": 327.0,
+        "end": 329.6,
+        "english": "So that's what happens when you have a slow connection speed.",
+        "chinese": "所以，当你有慢速连接速度时会发生什么。"
+    },
+    {
+        "start": 329.6,
+        "end": 330.76,
+        "english": "You have lag.",
+        "chinese": "您有滞后。"
+    },
+    {
+        "start": 330.76,
+        "end": 332.8,
+        "english": "And as you can say, it refers to something",
+        "chinese": "而且，你可以说，它指的是什么。"
+    },
+    {
+        "start": 332.8,
+        "end": 334.4,
+        "english": "that's slow or delayed.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 334.4,
+        "end": 336.08,
+        "english": "So you can use it in other contexts",
+        "chinese": "所以你可以在其他地方使用它。"
+    },
+    {
+        "start": 336.08,
+        "end": 338.4,
+        "english": "when you want to say something is a little bit slow.",
+        "chinese": "当你想说某事有点慢时。"
+    },
+    {
+        "start": 339.4,
+        "end": 341.52,
+        "english": "Well, and another key thing here,",
+        "chinese": "好的，这里还有一个关键点："
+    },
+    {
+        "start": 341.52,
+        "end": 343.88,
+        "english": "as we're talking about internet connections,",
+        "chinese": "我们正在谈论互联网连接，翻译成中文是：我们正在讨论互联网连接。"
+    },
+    {
+        "start": 343.88,
+        "end": 345.08,
+        "english": "is the router.",
+        "chinese": "路由器是网络中的一个设备。在中文中，\"router\"通常指的是连接两个或多个网络的设备，用于将数据从一个网络传输到另一个网络。例如，在互联网上，路由器可以连接不同的局域网（LAN）和广域网（WAN），以实现数据交换和通信。"
+    },
+    {
+        "start": 345.08,
+        "end": 350.23999999999995,
+        "english": "So router is something that helps us to route an internet",
+        "chinese": "所以路由器是用来帮助我们路由互联网的。"
+    },
+    {
+        "start": 350.23999999999995,
+        "end": 350.79999999999995,
+        "english": "connection.",
+        "chinese": "连接。 (Wéijiān.)"
+    },
+    {
+        "start": 350.79999999999995,
+        "end": 355.03999999999996,
+        "english": "So for example, it basically distributes the internet",
+        "chinese": "所以，例如，它基本上是将互联网分发出去。"
+    },
+    {
+        "start": 355.03999999999996,
+        "end": 358.44,
+        "english": "connection to different computers or to different users.",
+        "chinese": "连接到不同的计算机或用户。"
+    },
+    {
+        "start": 358.44,
+        "end": 360.28,
+        "english": "And some of these you plug in, and some of them",
+        "chinese": "并且你选择了一些，还有些你没有选择。"
+    },
+    {
+        "start": 360.28,
+        "end": 361.23999999999995,
+        "english": "are wireless.",
+        "chinese": "无线是中文的缩写，通常表示为 \"wireless\"。在中文中，这个短语常用于描述设备或技术的特性，例如："
+    },
+    {
+        "start": 361.23999999999995,
+        "end": 362.67999999999995,
+        "english": "That means without a wire.",
+        "chinese": "这句话的中文翻译是：“这意味着没有线。”"
+    },
+    {
+        "start": 362.67999999999995,
+        "end": 364.71999999999997,
+        "english": "So a wireless router is something",
+        "chinese": "所以，一个无线路由器是一个"
+    },
+    {
+        "start": 364.71999999999997,
+        "end": 367.35999999999996,
+        "english": "a little box in your house that allows you to maybe",
+        "chinese": "一个在你家里的小盒子，也许能"
+    },
+    {
+        "start": 367.36,
+        "end": 371.8,
+        "english": "have three or four computers on one broadband connection.",
+        "chinese": "有三个或四个在宽带连接下的计算机。"
+    },
+    {
+        "start": 371.8,
+        "end": 372.56,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 372.56,
+        "end": 373.76,
+        "english": "So it's very popular now.",
+        "chinese": "所以现在它非常流行。"
+    },
+    {
+        "start": 373.76,
+        "end": 376.28000000000003,
+        "english": "You go to Starbucks and you have Wi-Fi.",
+        "chinese": "您去星巴克，而且有Wi-Fi。"
+    },
+    {
+        "start": 376.28000000000003,
+        "end": 379.0,
+        "english": "In order to have Wi-Fi or wireless internet,",
+        "chinese": "为了有无线网络或Wi-Fi，以下是一些方法："
+    },
+    {
+        "start": 379.0,
+        "end": 380.96000000000004,
+        "english": "you need a router, a wireless router.",
+        "chinese": "你需要一个路由器，或者无线路由器。"
+    },
+    {
+        "start": 380.96000000000004,
+        "end": 383.12,
+        "english": "OK, so wireless router.",
+        "chinese": "好的，无线路由器。"
+    },
+    {
+        "start": 383.12,
+        "end": 385.0,
+        "english": "And finally, what is something that",
+        "chinese": "最后，什么是我们所知道的。"
+    },
+    {
+        "start": 385.0,
+        "end": 387.28000000000003,
+        "english": "might get in the way of a connection?",
+        "chinese": "可能影响连接吗？"
+    },
+    {
+        "start": 387.28000000000003,
+        "end": 390.48,
+        "english": "You have a firewall, very important security measure",
+        "chinese": "您有防火墙，非常重要的安全措施"
+    },
+    {
+        "start": 390.48,
+        "end": 392.40000000000003,
+        "english": "when navigating the internet.",
+        "chinese": "当使用互联网导航。"
+    },
+    {
+        "start": 392.40000000000003,
+        "end": 394.44,
+        "english": "All right, so a personal firewall is a firewall",
+        "chinese": "好的，所以个人防火墙是防火墙。"
+    },
+    {
+        "start": 394.44,
+        "end": 396.44,
+        "english": "that you have on your computer to keep people",
+        "chinese": "你可以在你的电脑上设置什么来防止别人看到？"
+    },
+    {
+        "start": 396.44,
+        "end": 397.6,
+        "english": "from spying on you.",
+        "chinese": "从监视你。"
+    },
+    {
+        "start": 397.6,
+        "end": 400.36,
+        "english": "This keeps other people out.",
+        "chinese": "这个阻止了其他人。"
+    },
+    {
+        "start": 400.36,
+        "end": 401.36,
+        "english": "So it's exactly that.",
+        "chinese": "所以，正是这样。"
+    },
+    {
+        "start": 401.36,
+        "end": 406.44,
+        "english": "It's a wall between your computer and the outside world.",
+        "chinese": "这是一个墙，将你的电脑和外面的世界隔开。"
+    },
+    {
+        "start": 406.44,
+        "end": 411.24,
+        "english": "So it protects you from any type of maybe malicious intruders.",
+        "chinese": "所以它保护你免受任何可能的恶意入侵者。"
+    },
+    {
+        "start": 411.24,
+        "end": 411.56,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 411.56,
+        "end": 415.32,
+        "english": "And oftentimes governments and public offices,",
+        "chinese": "而且常常是政府和公共机构，"
+    },
+    {
+        "start": 415.32,
+        "end": 419.2,
+        "english": "things like that law offices, they have firewalls",
+        "chinese": "例如这样的法律办公室，它们有防火墙。"
+    },
+    {
+        "start": 419.2,
+        "end": 421.0,
+        "english": "to protect the information that they store",
+        "chinese": "为了保护他们存储的信息"
+    },
+    {
+        "start": 421.0,
+        "end": 423.52,
+        "english": "because it's so important that it's secretive.",
+        "chinese": "因为它是如此重要，以至于它保密。"
+    },
+    {
+        "start": 423.52,
+        "end": 424.2,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 424.2,
+        "end": 426.15999999999997,
+        "english": "So firewalls, there are many different types",
+        "chinese": "所以防火墙，有很多不同的类型。"
+    },
+    {
+        "start": 426.16,
+        "end": 430.24,
+        "english": "of firewalls, but a personal firewall is just a basic one.",
+        "chinese": "防火墙是基本的，但个人防火墙只是一个基础。"
+    },
+    {
+        "start": 430.24,
+        "end": 430.52000000000004,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 430.52000000000004,
+        "end": 433.12,
+        "english": "So that is our language takeaway for today.",
+        "chinese": "所以，这就是今天我们的语言取向。"
+    },
+    {
+        "start": 433.12,
+        "end": 435.24,
+        "english": "Let's check out this dialogue again",
+        "chinese": "请再次检查这个对话"
+    },
+    {
+        "start": 435.24,
+        "end": 436.8,
+        "english": "and slow it down a bit this time.",
+        "chinese": "这次要慢一点了。"
+    },
+    {
+        "start": 436.8,
+        "end": 443.44000000000005,
+        "english": "MUSIC",
+        "chinese": "音乐"
+    },
+    {
+        "start": 443.44000000000005,
+        "end": 444.84000000000003,
+        "english": "Welcome to Galanet.",
+        "chinese": "欢迎来到Galanet。"
+    },
+    {
+        "start": 444.84000000000003,
+        "end": 446.24,
+        "english": "How can I help you?",
+        "chinese": "如何能帮助您？"
+    },
+    {
+        "start": 446.24,
+        "end": 447.12,
+        "english": "Hi.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 447.12,
+        "end": 449.40000000000003,
+        "english": "I would like to get an internet plan for my house.",
+        "chinese": "我想要为我的房子选择一个互联网套餐。"
+    },
+    {
+        "start": 449.40000000000003,
+        "end": 450.52000000000004,
+        "english": "Of course.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 450.52000000000004,
+        "end": 453.0,
+        "english": "We have three different plans with different prices",
+        "chinese": "我们有三种不同的计划，价格各不相同。"
+    },
+    {
+        "start": 453.0,
+        "end": 454.28000000000003,
+        "english": "you can choose from.",
+        "chinese": "你可以选择。"
+    },
+    {
+        "start": 454.28000000000003,
+        "end": 455.72,
+        "english": "The first one is the cheapest.",
+        "chinese": "第一个是最便宜的。"
+    },
+    {
+        "start": 455.72,
+        "end": 459.20000000000005,
+        "english": "But most basic plan, which is $30 a month.",
+        "chinese": "但是最基础的计划，即每月30元。"
+    },
+    {
+        "start": 459.20000000000005,
+        "end": 465.12,
+        "english": "This is for broadband internet, with a download speed of 512 KBPS.",
+        "chinese": "这是宽带互联网，下载速度为512KBps。"
+    },
+    {
+        "start": 465.12,
+        "end": 468.28000000000003,
+        "english": "I have no idea what KBPS means.",
+        "chinese": "我并不知道KBPS是什么意思。"
+    },
+    {
+        "start": 468.28000000000003,
+        "end": 470.56,
+        "english": "I just want to be able to get online, play games,",
+        "chinese": "我只想能上网玩游戏。"
+    },
+    {
+        "start": 470.56,
+        "end": 472.20000000000005,
+        "english": "and chat with my friends.",
+        "chinese": "和我朋友们聊天。"
+    },
+    {
+        "start": 472.20000000000005,
+        "end": 474.44000000000005,
+        "english": "Oh, and watch movies online as well.",
+        "chinese": "哦，而且也要在网上看电影。"
+    },
+    {
+        "start": 474.44000000000005,
+        "end": 478.08000000000004,
+        "english": "Well, this connection might be a bit too slow for your needs.",
+        "chinese": "嗯，这个连接可能有点慢，不适合你的需求。"
+    },
+    {
+        "start": 478.08000000000004,
+        "end": 481.52000000000004,
+        "english": "I suggest you get the premium package for $50 a month,",
+        "chinese": "我建议您每月支付50元，享受高级会员服务。"
+    },
+    {
+        "start": 481.52000000000004,
+        "end": 484.36,
+        "english": "which includes a connection speed of two megabytes.",
+        "chinese": "这包括两兆字节的连接速度。"
+    },
+    {
+        "start": 484.36,
+        "end": 487.52000000000004,
+        "english": "That way, you can play games online without any lag.",
+        "chinese": "这样，你就可以在互联网上玩游戏，而不会出现延迟。"
+    },
+    {
+        "start": 487.52000000000004,
+        "end": 489.56,
+        "english": "This package also includes a wireless router",
+        "chinese": "这个包还包含无线路由器。"
+    },
+    {
+        "start": 489.56,
+        "end": 492.16,
+        "english": "and a personal firewall, absolutely free.",
+        "chinese": "和一个个人防火墙，绝对免费。"
+    },
+    {
+        "start": 492.16,
+        "end": 494.52000000000004,
+        "english": "Do I have to pay an installation fee?",
+        "chinese": "是的，您需要支付安装费吗？"
+    },
+    {
+        "start": 494.52000000000004,
+        "end": 496.36,
+        "english": "Lucky for you, this month we aren't",
+        "chinese": "幸运的是，今年这个月我们不是"
+    },
+    {
+        "start": 496.36,
+        "end": 498.44,
+        "english": "charging our normal installation fee.",
+        "chinese": "安装正常费充值。"
+    },
+    {
+        "start": 498.44,
+        "end": 501.16,
+        "english": "You're saving yourself $100 right there",
+        "chinese": "您正在为自己节省 $100 ！"
+    },
+    {
+        "start": 501.16,
+        "end": 503.0,
+        "english": "and we'll throw in this pen drive.",
+        "chinese": "和我们一起扔这个U盘。"
+    },
+    {
+        "start": 503.0,
+        "end": 503.8,
+        "english": "Awesome.",
+        "chinese": "很棒。"
+    },
+    {
+        "start": 503.8,
+        "end": 506.16,
+        "english": "MUSIC",
+        "chinese": "音乐"
+    },
+    {
+        "start": 506.16,
+        "end": 507.0,
+        "english": "All right, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 507.0,
+        "end": 510.48,
+        "english": "So we just heard all these words that we looked at before.",
+        "chinese": "所以我们只是听到这些词，我们在之前就看过了。"
+    },
+    {
+        "start": 510.48,
+        "end": 513.28,
+        "english": "But now why don't we take a look at some of these phrases",
+        "chinese": "但是现在我们为什么不看看这些短语呢？"
+    },
+    {
+        "start": 513.28,
+        "end": 515.36,
+        "english": "in Fluency Builder?",
+        "chinese": "在流畅 builder 中？"
+    },
+    {
+        "start": 515.36,
+        "end": 517.12,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 517.12,
+        "end": 518.0,
+        "english": "What's this first one?",
+        "chinese": "这是第二句话。"
+    },
+    {
+        "start": 518.0,
+        "end": 519.1999999999999,
+        "english": "I can't read it.",
+        "chinese": "我读不懂它。"
+    },
+    {
+        "start": 519.1999999999999,
+        "end": 520.8399999999999,
+        "english": "I have no idea.",
+        "chinese": "我什么都不知道。"
+    },
+    {
+        "start": 520.8399999999999,
+        "end": 521.52,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 521.52,
+        "end": 523.3199999999999,
+        "english": "Didn't you write it down?",
+        "chinese": "你没写下来？"
+    },
+    {
+        "start": 523.3199999999999,
+        "end": 525.56,
+        "english": "I have no idea what you're talking about.",
+        "chinese": "我也不太明白你说的是什么。"
+    },
+    {
+        "start": 525.56,
+        "end": 526.48,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 526.48,
+        "end": 527.4399999999999,
+        "english": "I love games, no.",
+        "chinese": "我喜欢游戏，不。"
+    },
+    {
+        "start": 527.4399999999999,
+        "end": 529.24,
+        "english": "I have no idea.",
+        "chinese": "我什么都不知道。"
+    },
+    {
+        "start": 529.24,
+        "end": 533.04,
+        "english": "This is what's going to treat this as a phrase that gets said",
+        "chinese": "这是要处理这句话，这个话会被当作一个表达方式。"
+    },
+    {
+        "start": 533.04,
+        "end": 533.68,
+        "english": "as is.",
+        "chinese": "作为。"
+    },
+    {
+        "start": 533.68,
+        "end": 535.9599999999999,
+        "english": "We're not going to take bits and pieces of it.",
+        "chinese": "我们不会拿碎片来取它。"
+    },
+    {
+        "start": 535.9599999999999,
+        "end": 539.12,
+        "english": "So I have no idea or he has no idea.",
+        "chinese": "所以我不知道，他也不知道。"
+    },
+    {
+        "start": 539.12,
+        "end": 540.64,
+        "english": "Is the way to say, listen.",
+        "chinese": "是说，听。"
+    },
+    {
+        "start": 540.64,
+        "end": 541.36,
+        "english": "I don't know.",
+        "chinese": "我不知道。"
+    },
+    {
+        "start": 541.36,
+        "end": 542.12,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 542.12,
+        "end": 543.16,
+        "english": "I really don't know.",
+        "chinese": "我真的很不知道。"
+    },
+    {
+        "start": 543.1999999999999,
+        "end": 543.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 543.8,
+        "end": 546.3199999999999,
+        "english": "The guy was talking about KBPS and all these things",
+        "chinese": "这位先生正在谈论KBPS和所有这些事情。"
+    },
+    {
+        "start": 546.3199999999999,
+        "end": 549.8399999999999,
+        "english": "and the other guy was like, I have no idea what you're talking about.",
+        "chinese": "and the other guy was like, 我不知道你是在说什么。"
+    },
+    {
+        "start": 549.8399999999999,
+        "end": 551.0,
+        "english": "I don't understand.",
+        "chinese": "我不会理解。"
+    },
+    {
+        "start": 551.0,
+        "end": 553.0,
+        "english": "And I can definitely empathize.",
+        "chinese": "我完全能理解。"
+    },
+    {
+        "start": 553.0,
+        "end": 554.28,
+        "english": "You can relate.",
+        "chinese": "您可以联系。"
+    },
+    {
+        "start": 554.28,
+        "end": 554.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 554.8,
+        "end": 556.8399999999999,
+        "english": "Well, we'll leave that for another one.",
+        "chinese": "好的，我们以后再说。"
+    },
+    {
+        "start": 556.8399999999999,
+        "end": 559.0,
+        "english": "But after this, it got bucks.",
+        "chinese": "但是，这之后就涨了。"
+    },
+    {
+        "start": 559.0,
+        "end": 559.52,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 559.52,
+        "end": 560.8399999999999,
+        "english": "So bucks.",
+        "chinese": "所以，钱。"
+    },
+    {
+        "start": 560.8399999999999,
+        "end": 562.4,
+        "english": "What is this slang?",
+        "chinese": "This slang is \"这个\" (wángzhe)."
+    },
+    {
+        "start": 562.4,
+        "end": 562.88,
+        "english": "Bucks.",
+        "chinese": "Bucks in Chinese is \"百元钞\" (bǎ bìng xiān yú)."
+    },
+    {
+        "start": 562.88,
+        "end": 563.9599999999999,
+        "english": "100 bucks.",
+        "chinese": "100 元。"
+    },
+    {
+        "start": 563.9599999999999,
+        "end": 564.92,
+        "english": "200 bucks.",
+        "chinese": "200 元。"
+    },
+    {
+        "start": 564.92,
+        "end": 565.68,
+        "english": "A lot of money.",
+        "chinese": "大量金钱。"
+    },
+    {
+        "start": 565.68,
+        "end": 566.1999999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 566.1999999999999,
+        "end": 568.88,
+        "english": "So bucks is basically another way of saying dollars.",
+        "chinese": "所以 bucks 是另一种方式表达美元。"
+    },
+    {
+        "start": 568.88,
+        "end": 569.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 569.4,
+        "end": 571.92,
+        "english": "So this is a way for, well, this is a way that most Americans",
+        "chinese": "所以这是通过... 这是大多数美国人的方式。"
+    },
+    {
+        "start": 571.92,
+        "end": 573.0,
+        "english": "talk about money.",
+        "chinese": "谈论金钱。"
+    },
+    {
+        "start": 573.0,
+        "end": 576.16,
+        "english": "It's a one buck is one US dollar.",
+        "chinese": "这是一个1元是1美元。"
+    },
+    {
+        "start": 576.16,
+        "end": 577.16,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 577.16,
+        "end": 578.72,
+        "english": "So can I borrow 10 bucks, Marco?",
+        "chinese": "所以，我可以借给你十元钱，马科？"
+    },
+    {
+        "start": 578.72,
+        "end": 579.24,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 579.24,
+        "end": 580.0,
+        "english": "So yeah, sure.",
+        "chinese": "所以啊，当然。"
+    },
+    {
+        "start": 580.0,
+        "end": 580.76,
+        "english": "There you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 580.76,
+        "end": 583.48,
+        "english": "Now, bucks, you can only use it for American currency.",
+        "chinese": "现在，兄弟，只能用于美国货币。"
+    },
+    {
+        "start": 583.48,
+        "end": 586.68,
+        "english": "You can't use it for like euros or you can't say like 10",
+        "chinese": "你不能用它像欧元一样，或者你不能说“10”。"
+    },
+    {
+        "start": 586.68,
+        "end": 587.72,
+        "english": "euros would be 10 bucks.",
+        "chinese": "欧元将等同于人民币的10元。"
+    },
+    {
+        "start": 587.72,
+        "end": 588.76,
+        "english": "No, no, no, no.",
+        "chinese": "不，不，不，不。"
+    },
+    {
+        "start": 588.76,
+        "end": 590.52,
+        "english": "Usually you say this about American dollars",
+        "chinese": "通常你总是说美元是中国的货币。"
+    },
+    {
+        "start": 590.52,
+        "end": 592.68,
+        "english": "and you say this just when you're hanging out",
+        "chinese": "你这么一说，我正和你在一起。"
+    },
+    {
+        "start": 592.68,
+        "end": 593.84,
+        "english": "or how much is this cost?",
+        "chinese": "或者这个费用是多少？"
+    },
+    {
+        "start": 593.84,
+        "end": 595.16,
+        "english": "Oh, five bucks.",
+        "chinese": "哈哈，五块钱。"
+    },
+    {
+        "start": 595.16,
+        "end": 595.68,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 595.68,
+        "end": 596.52,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 596.52,
+        "end": 599.12,
+        "english": "So the guy was telling him about the price of the internet",
+        "chinese": "所以那个家伙正在告诉他互联网的价格。"
+    },
+    {
+        "start": 599.12,
+        "end": 599.64,
+        "english": "and everything.",
+        "chinese": "一切。"
+    },
+    {
+        "start": 599.64,
+        "end": 602.56,
+        "english": "And he said that he's going to throw in a pen drive.",
+        "chinese": "And he said that he's going to throw in a pen drive. (翻译成中文)"
+    },
+    {
+        "start": 602.56,
+        "end": 603.4,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 603.4,
+        "end": 604.2399999999999,
+        "english": "He's going to throw it.",
+        "chinese": "他要扔。"
+    },
+    {
+        "start": 604.2399999999999,
+        "end": 605.0799999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 605.0799999999999,
+        "end": 605.92,
+        "english": "He's going to throw it.",
+        "chinese": "他要扔。"
+    },
+    {
+        "start": 605.92,
+        "end": 608.4399999999999,
+        "english": "No, he's going to throw in a pen drive for free.",
+        "chinese": "是的，他将免费赠送一个U盘。"
+    },
+    {
+        "start": 608.4399999999999,
+        "end": 609.56,
+        "english": "Oh, sweet.",
+        "chinese": "你好，宝贝。"
+    },
+    {
+        "start": 609.56,
+        "end": 614.28,
+        "english": "So throw in means to add or include include.",
+        "chinese": "所以加入，即添加或包含。"
+    },
+    {
+        "start": 614.28,
+        "end": 619.68,
+        "english": "So listen, sir, here's your large popcorn.",
+        "chinese": "所以，先生，这是您的大 popcorn。"
+    },
+    {
+        "start": 619.68,
+        "end": 622.3199999999999,
+        "english": "And I'm going to throw in a small deck coke for free.",
+        "chinese": "我准备把一个小瓶可乐免费给你。"
+    },
+    {
+        "start": 622.3199999999999,
+        "end": 623.3199999999999,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 623.3199999999999,
+        "end": 624.16,
+        "english": "So generous.",
+        "chinese": "所以慷慨。"
+    },
+    {
+        "start": 624.16,
+        "end": 626.76,
+        "english": "So you throw in something.",
+        "chinese": "所以你扔出一些。"
+    },
+    {
+        "start": 626.76,
+        "end": 629.16,
+        "english": "It's you include it for free, right?",
+        "chinese": "是的，您免费包括了它。"
+    },
+    {
+        "start": 629.16,
+        "end": 629.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 629.68,
+        "end": 633.16,
+        "english": "So this is usually a complimentary item.",
+        "chinese": "所以通常是一个免费的项目。"
+    },
+    {
+        "start": 633.16,
+        "end": 633.4399999999999,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 633.4399999999999,
+        "end": 636.56,
+        "english": "I think this word is really interesting or this phrase.",
+        "chinese": "我认为这个单词或短语很有趣。"
+    },
+    {
+        "start": 636.56,
+        "end": 639.16,
+        "english": "So why don't we listen to a couple of other examples",
+        "chinese": "所以为什么我们不听听另外几个例子"
+    },
+    {
+        "start": 639.16,
+        "end": 643.92,
+        "english": "using throw in example one.",
+        "chinese": "在例子一中使用throw。"
+    },
+    {
+        "start": 643.92,
+        "end": 649.12,
+        "english": "If you buy two pizzas, we will throw in another one for free.",
+        "chinese": "如果您购买两份披萨，我们将免费赠送一份。"
+    },
+    {
+        "start": 649.12,
+        "end": 650.0,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 653.76,
+        "end": 656.56,
+        "english": "Tell you what, I'll buy this computer if you throw in",
+        "chinese": "告诉你们，我愿意买这个电脑，只要你给我一些钱。"
+    },
+    {
+        "start": 656.56,
+        "end": 657.76,
+        "english": "a pair of headphones.",
+        "chinese": "一个耳机套。"
+    },
+    {
+        "start": 657.76,
+        "end": 658.0799999999999,
+        "english": "Deal?",
+        "chinese": "在中文中，\"Deal?\" 翻译成中文是 \"商谈吗？\" 或者更直接地说 \"讨论吗？\"。这个短语通常用于询问对方是否愿意进行某种交易或达成协议。"
+    },
+    {
+        "start": 660.1999999999999,
+        "end": 661.92,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 664.1999999999999,
+        "end": 666.3599999999999,
+        "english": "The salesman threw in a subscription",
+        "chinese": "这个销售人员提到了订阅。"
+    },
+    {
+        "start": 666.3599999999999,
+        "end": 668.8,
+        "english": "to the local newspaper for buying his product.",
+        "chinese": "将他的产品卖给当地的报纸。"
+    },
+    {
+        "start": 668.8,
+        "end": 669.52,
+        "english": "Isn't that great?",
+        "chinese": "是的，这是极好的。"
+    },
+    {
+        "start": 671.8399999999999,
+        "end": 672.88,
+        "english": "All right, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 672.88,
+        "end": 674.0799999999999,
+        "english": "So good examples.",
+        "chinese": "所以好的例子。"
+    },
+    {
+        "start": 674.0799999999999,
+        "end": 675.88,
+        "english": "I think it's clear now the phrases",
+        "chinese": "我认为现在这些短语是清楚的。"
+    },
+    {
+        "start": 675.88,
+        "end": 677.4399999999999,
+        "english": "all these words related to the internet.",
+        "chinese": "这些与互联网有关的单词。"
+    },
+    {
+        "start": 677.4399999999999,
+        "end": 678.28,
+        "english": "Absolutely.",
+        "chinese": "绝对。"
+    },
+    {
+        "start": 678.28,
+        "end": 679.28,
+        "english": "And so useful.",
+        "chinese": "而且有用。"
+    },
+    {
+        "start": 679.28,
+        "end": 679.88,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 679.88,
+        "end": 682.68,
+        "english": "So why don't we listen to this dialogue for the last time",
+        "chinese": "所以为什么我们不继续听这个对话呢？"
+    },
+    {
+        "start": 682.68,
+        "end": 684.7199999999999,
+        "english": "and then we'll come back and talk a little bit more?",
+        "chinese": "然后我们再聊点什么？"
+    },
+    {
+        "start": 689.88,
+        "end": 691.28,
+        "english": "Welcome to Gallonet.",
+        "chinese": "欢迎来到格兰特。"
+    },
+    {
+        "start": 691.28,
+        "end": 692.68,
+        "english": "How can I help you?",
+        "chinese": "如何能帮助您？"
+    },
+    {
+        "start": 692.68,
+        "end": 693.56,
+        "english": "Hi.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 693.56,
+        "end": 695.88,
+        "english": "I would like to get an internet plan for my house.",
+        "chinese": "我想要为我的房子选择一个互联网套餐。"
+    },
+    {
+        "start": 695.88,
+        "end": 697.88,
+        "english": "Of course.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 697.88,
+        "end": 700.3599999999999,
+        "english": "We have three different plans with different prices",
+        "chinese": "我们有三种不同的计划，价格各不相同。"
+    },
+    {
+        "start": 700.3599999999999,
+        "end": 701.64,
+        "english": "you can choose from.",
+        "chinese": "你可以选择。"
+    },
+    {
+        "start": 701.64,
+        "end": 704.76,
+        "english": "The first one is the cheapest, but most basic plan,",
+        "chinese": "第一个是最便宜的，但最基础的计划。"
+    },
+    {
+        "start": 704.76,
+        "end": 706.5999999999999,
+        "english": "which is $30 a month.",
+        "chinese": "每个月是 30 元。"
+    },
+    {
+        "start": 706.5999999999999,
+        "end": 708.3599999999999,
+        "english": "This is for broadband internet,",
+        "chinese": "这是高速互联网，中文："
+    },
+    {
+        "start": 708.3599999999999,
+        "end": 712.4799999999999,
+        "english": "with a download speed of 512 KBPS.",
+        "chinese": "下载速度为512KB/s。"
+    },
+    {
+        "start": 712.4799999999999,
+        "end": 715.64,
+        "english": "I have no idea what KBPS means.",
+        "chinese": "我对此词一无所知。"
+    },
+    {
+        "start": 715.64,
+        "end": 717.9599999999999,
+        "english": "I just want to be able to get online, play games,",
+        "chinese": "我只想能上网玩游戏。"
+    },
+    {
+        "start": 717.96,
+        "end": 719.64,
+        "english": "and chat with my friends.",
+        "chinese": "和我朋友们聊天。"
+    },
+    {
+        "start": 719.64,
+        "end": 721.84,
+        "english": "Oh, and watch movies online as well.",
+        "chinese": "哦，而且也要在网上看电影。"
+    },
+    {
+        "start": 721.84,
+        "end": 725.48,
+        "english": "Well, this connection might be a bit too slow for your needs.",
+        "chinese": "嗯，这个连接可能有点慢，不适合你的需求。"
+    },
+    {
+        "start": 725.48,
+        "end": 728.9200000000001,
+        "english": "I suggest you get the premium package for $50 a month,",
+        "chinese": "我建议您每月购买高级包，费用为人民币50元。"
+    },
+    {
+        "start": 728.9200000000001,
+        "end": 731.76,
+        "english": "which includes a connection speed of two megabytes.",
+        "chinese": "这包括两兆字节的连接速度。"
+    },
+    {
+        "start": 731.76,
+        "end": 734.88,
+        "english": "That way, you can play games online without any lag.",
+        "chinese": "这样，你就可以在互联网上玩游戏，而不会出现延迟。"
+    },
+    {
+        "start": 734.88,
+        "end": 736.9200000000001,
+        "english": "This package also includes a wireless router",
+        "chinese": "这个包还包含无线路由器。"
+    },
+    {
+        "start": 736.9200000000001,
+        "end": 739.6,
+        "english": "and a personal firewall, absolutely free.",
+        "chinese": "和一个个人防火墙，绝对免费。"
+    },
+    {
+        "start": 739.6,
+        "end": 741.6,
+        "english": "Do I have to pay an installation fee?",
+        "chinese": "是的，您需要支付安装费吗？"
+    },
+    {
+        "start": 742.5600000000001,
+        "end": 744.8000000000001,
+        "english": "Lucky for you, this month we aren't charging",
+        "chinese": "幸运的是，这个月我们不收费。"
+    },
+    {
+        "start": 744.8000000000001,
+        "end": 746.48,
+        "english": "our normal installation fee.",
+        "chinese": "我们的正常安装费。"
+    },
+    {
+        "start": 746.48,
+        "end": 749.24,
+        "english": "You're receiving yourself a hundred bucks right there",
+        "chinese": "您正在收到一百元人民币。"
+    },
+    {
+        "start": 749.24,
+        "end": 751.04,
+        "english": "and we'll throw in this pen drive.",
+        "chinese": "和我们把这个U盘一起扔进去。"
+    },
+    {
+        "start": 751.04,
+        "end": 751.88,
+        "english": "Awesome.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 753.88,
+        "end": 758.52,
+        "english": "So the internet, it's a big deal nowadays,",
+        "chinese": "所以互联网，现在真是大得很，"
+    },
+    {
+        "start": 758.52,
+        "end": 760.4,
+        "english": "and now you can do so much on it,",
+        "chinese": "现在你可以这么做，很好。"
+    },
+    {
+        "start": 760.4,
+        "end": 762.44,
+        "english": "not only navigate websites anymore,",
+        "chinese": "“不光导航网站，”"
+    },
+    {
+        "start": 762.44,
+        "end": 767.04,
+        "english": "but watch movies, download applications, photos,",
+        "chinese": "但是看电影，下载应用程序，拍照。"
+    },
+    {
+        "start": 767.04,
+        "end": 769.04,
+        "english": "Facebook, all this type of things now",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以提供一些关于您问题的建议："
+    },
+    {
+        "start": 769.04,
+        "end": 770.24,
+        "english": "that you can do on the internet.",
+        "chinese": "你可以在网上做。"
+    },
+    {
+        "start": 770.24,
+        "end": 772.0,
+        "english": "You can even do it from your phone.",
+        "chinese": "你也可以从你的手机上进行。"
+    },
+    {
+        "start": 772.0,
+        "end": 774.32,
+        "english": "Like when you're in the bathroom or on the train,",
+        "chinese": "像当你在浴室或火车上一样。"
+    },
+    {
+        "start": 774.32,
+        "end": 775.32,
+        "english": "I mean, it's scary.",
+        "chinese": "我指的是，这太可怕了。"
+    },
+    {
+        "start": 775.32,
+        "end": 777.72,
+        "english": "There's, we're always connected.",
+        "chinese": "是的，我们总是相连。"
+    },
+    {
+        "start": 777.72,
+        "end": 779.5200000000001,
+        "english": "Right, so it's interesting.",
+        "chinese": "正确，那么很好。"
+    },
+    {
+        "start": 779.5200000000001,
+        "end": 780.6800000000001,
+        "english": "You're always connected.",
+        "chinese": "您总是连接。"
+    },
+    {
+        "start": 780.6800000000001,
+        "end": 783.0400000000001,
+        "english": "You're always online with people",
+        "chinese": "您总是与人在线。"
+    },
+    {
+        "start": 783.0400000000001,
+        "end": 785.36,
+        "english": "and it's actually very noticeable",
+        "chinese": "而且实际上是非常明显的。"
+    },
+    {
+        "start": 785.36,
+        "end": 787.5200000000001,
+        "english": "when you maybe live somewhere else",
+        "chinese": "当您可能生活在一个地方时。"
+    },
+    {
+        "start": 787.5200000000001,
+        "end": 789.6800000000001,
+        "english": "before you used to have to write letters.",
+        "chinese": "在你过去常常需要写信。"
+    },
+    {
+        "start": 789.6800000000001,
+        "end": 791.9200000000001,
+        "english": "I don't think many people will receive",
+        "chinese": "我并不认为很多人会收到。"
+    },
+    {
+        "start": 791.9200000000001,
+        "end": 793.48,
+        "english": "handwritten letters anymore.",
+        "chinese": "手写信件不再。"
+    },
+    {
+        "start": 793.48,
+        "end": 794.5600000000001,
+        "english": "Never.",
+        "chinese": "永远。"
+    },
+    {
+        "start": 794.5600000000001,
+        "end": 795.5600000000001,
+        "english": "I'm speaking for myself.",
+        "chinese": "我代表自己。"
+    },
+    {
+        "start": 795.5600000000001,
+        "end": 798.2,
+        "english": "I never receive, and I don't write them either.",
+        "chinese": "我从不收到，也不写它们。"
+    },
+    {
+        "start": 798.2,
+        "end": 800.0400000000001,
+        "english": "So I guess I'm guilty of it.",
+        "chinese": "所以，我大概也是犯了这个错误。"
+    },
+    {
+        "start": 800.0400000000001,
+        "end": 801.6400000000001,
+        "english": "So now people just send emails.",
+        "chinese": "所以现在人们只是发送电子邮件。"
+    },
+    {
+        "start": 801.6400000000001,
+        "end": 803.2800000000001,
+        "english": "Obviously it's more convenient,",
+        "chinese": "当然，它更方便。"
+    },
+    {
+        "start": 803.28,
+        "end": 807.0,
+        "english": "but maybe it's a little bit less significant, maybe,",
+        "chinese": "但是，也许它并不那么重要。"
+    },
+    {
+        "start": 807.0,
+        "end": 808.56,
+        "english": "than actually going to the post office",
+        "chinese": "than actually going to the post office 翻译成中文是：比实际去邮局还要麻烦。"
+    },
+    {
+        "start": 808.56,
+        "end": 810.4399999999999,
+        "english": "or taking the time to write a letter,",
+        "chinese": "或者花时间写信，或者。"
+    },
+    {
+        "start": 810.4399999999999,
+        "end": 811.9599999999999,
+        "english": "going to the post office and stuff.",
+        "chinese": "将要到邮局和事情。"
+    },
+    {
+        "start": 811.9599999999999,
+        "end": 812.9599999999999,
+        "english": "Well, I don't know.",
+        "chinese": "我也不清楚。"
+    },
+    {
+        "start": 812.9599999999999,
+        "end": 814.3199999999999,
+        "english": "There's something nice about having",
+        "chinese": "有啥好东西呢？"
+    },
+    {
+        "start": 814.3199999999999,
+        "end": 815.8399999999999,
+        "english": "a physical thing you can hold onto,",
+        "chinese": "一个你可以握住的物理事物。"
+    },
+    {
+        "start": 815.8399999999999,
+        "end": 818.6,
+        "english": "but I wonder if one day we're gonna forget how to write.",
+        "chinese": "但是，我想有一天我们可能会忘记如何写。"
+    },
+    {
+        "start": 818.6,
+        "end": 819.4399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 819.4399999999999,
+        "end": 820.6,
+        "english": "You know, like write with a pen.",
+        "chinese": "我知道，像用笔写字。"
+    },
+    {
+        "start": 820.6,
+        "end": 822.04,
+        "english": "With a pen and pencil, exactly.",
+        "chinese": "用笔和铅笔，正好。"
+    },
+    {
+        "start": 822.04,
+        "end": 824.72,
+        "english": "We're gonna have these little PDAs and these little iPhones,",
+        "chinese": "我们将会拥有这些小便携式平板电脑和这些小智能手机。"
+    },
+    {
+        "start": 824.72,
+        "end": 826.36,
+        "english": "and they're gonna just, you're gonna talk,",
+        "chinese": "他们将只是，你将谈论。"
+    },
+    {
+        "start": 826.36,
+        "end": 827.56,
+        "english": "and they're gonna take everything down",
+        "chinese": "他们将把一切都铲除。"
+    },
+    {
+        "start": 827.56,
+        "end": 828.56,
+        "english": "and note form for you.",
+        "chinese": "和您注意一下。"
+    },
+    {
+        "start": 828.56,
+        "end": 831.48,
+        "english": "Well, now it's kind of happening with the Kindle, right?",
+        "chinese": "是的，现在似乎正在发生与Kindle相关的事情。"
+    },
+    {
+        "start": 831.48,
+        "end": 835.08,
+        "english": "Now you can have books on this electronic device",
+        "chinese": "现在你可以在这里阅读这些电子设备上的书籍。"
+    },
+    {
+        "start": 835.08,
+        "end": 836.28,
+        "english": "that lets you read through them.",
+        "chinese": "这让你可以翻阅它们。"
+    },
+    {
+        "start": 836.28,
+        "end": 837.12,
+        "english": "And, huh?",
+        "chinese": "And, huh? 翻译成中文是："
+    },
+    {
+        "start": 837.12,
+        "end": 838.44,
+        "english": "You can carry a hundred books with you.",
+        "chinese": "你可以携带一百本书。"
+    },
+    {
+        "start": 838.44,
+        "end": 839.28,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 839.28,
+        "end": 842.6800000000001,
+        "english": "So now you don't even really need physical books.",
+        "chinese": "所以现在你甚至不需要真的有实体书。"
+    },
+    {
+        "start": 842.6800000000001,
+        "end": 845.12,
+        "english": "And which is good on some level,",
+        "chinese": "而且在某种程度上是好的。"
+    },
+    {
+        "start": 845.12,
+        "end": 848.64,
+        "english": "because you're saving trees and space and all that stuff,",
+        "chinese": "因为您在保护树木和空间，以及所有这些东西，"
+    },
+    {
+        "start": 848.64,
+        "end": 851.16,
+        "english": "but there's something, I don't know, physical,",
+        "chinese": "但是，我并不知道，物理。"
+    },
+    {
+        "start": 851.16,
+        "end": 852.4,
+        "english": "about reading a book.",
+        "chinese": "关于阅读一本书。"
+    },
+    {
+        "start": 852.4,
+        "end": 854.16,
+        "english": "You hold it, you flip the pages.",
+        "chinese": "您握住它，翻页。"
+    },
+    {
+        "start": 854.16,
+        "end": 856.44,
+        "english": "You know how many pages you have left.",
+        "chinese": "您知道自己还有多少页未读吗？"
+    },
+    {
+        "start": 856.44,
+        "end": 857.28,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 857.28,
+        "end": 858.12,
+        "english": "We'll see.",
+        "chinese": "我们将会看到。"
+    },
+    {
+        "start": 858.12,
+        "end": 858.96,
+        "english": "Maybe I'll be a convert one day,",
+        "chinese": "也许有一天我会成为转换者，中文："
+    },
+    {
+        "start": 858.96,
+        "end": 860.64,
+        "english": "but for now I'm gonna go with paper books.",
+        "chinese": "但是现在我打算用纸书。"
+    },
+    {
+        "start": 860.64,
+        "end": 863.52,
+        "english": "All right, so what do you guys think about the internet,",
+        "chinese": "好的，那么你们对互联网有什么看法？"
+    },
+    {
+        "start": 863.52,
+        "end": 865.28,
+        "english": "about electronic books?",
+        "chinese": "关于电子书？"
+    },
+    {
+        "start": 865.28,
+        "end": 867.96,
+        "english": "You can also tell us any problems or confusion you have",
+        "chinese": "你还可以向我描述任何问题或困惑。"
+    },
+    {
+        "start": 867.96,
+        "end": 869.68,
+        "english": "with the things that we talked about today.",
+        "chinese": "今天，我们讨论了哪些事情。"
+    },
+    {
+        "start": 869.68,
+        "end": 870.92,
+        "english": "Hopefully everything is clear,",
+        "chinese": "希望一切都很清楚。"
+    },
+    {
+        "start": 870.92,
+        "end": 872.88,
+        "english": "but if not, we are here to answer your questions.",
+        "chinese": "但是，如果不是这样，我们就在这里回答你的问题。"
+    },
+    {
+        "start": 872.88,
+        "end": 873.72,
+        "english": "We'd like to do so.",
+        "chinese": "我们想这样做。"
+    },
+    {
+        "start": 873.72,
+        "end": 875.92,
+        "english": "So check out our website, EnglishPod.com.",
+        "chinese": "所以，请访问我们的网站，英语pod.com。"
+    },
+    {
+        "start": 875.92,
+        "end": 877.16,
+        "english": "All right, we'll see you guys there,",
+        "chinese": "好的，我们见了。"
+    },
+    {
+        "start": 877.16,
+        "end": 878.16,
+        "english": "and until next time.",
+        "chinese": "and until next time. (注：在中文里，\"直到\"可以翻译为 \"到...为止\" 或 \"直到...为止\"。在这里，“直到”更常用的是“直到”，因为中文的表达习惯是这样的。)"
+    },
+    {
+        "start": 878.16,
+        "end": 879.16,
+        "english": "Good bye, everyone.",
+        "chinese": "再见，大家。"
+    },
+    {
+        "start": 879.16,
+        "end": 880.0,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

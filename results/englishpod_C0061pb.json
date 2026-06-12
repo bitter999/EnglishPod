@@ -1,0 +1,2318 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.5,
+        "english": "Hello English learners, welcome back to English.",
+        "chinese": "大家好，欢迎再次来到英语学习。"
+    },
+    {
+        "start": 5.5,
+        "end": 6.84,
+        "english": "Pod, my name is Marco.",
+        "chinese": "我是马科，我的名字是罗伯特。"
+    },
+    {
+        "start": 6.84,
+        "end": 7.84,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.84,
+        "end": 9.32,
+        "english": "And today we're swimming.",
+        "chinese": "今天，我们正在游泳。"
+    },
+    {
+        "start": 9.32,
+        "end": 10.64,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 10.64,
+        "end": 12.200000000000001,
+        "english": "And they're summertime lessons for everyone.",
+        "chinese": "他们就是大家的暑期课程。"
+    },
+    {
+        "start": 12.200000000000001,
+        "end": 13.200000000000001,
+        "english": "The summertime lessons.",
+        "chinese": "夏天的课程。"
+    },
+    {
+        "start": 13.200000000000001,
+        "end": 14.200000000000001,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 14.200000000000001,
+        "end": 18.400000000000002,
+        "english": "So we're going to be talking about swimming and, well, it's a very popular sport, right?",
+        "chinese": "所以我们将谈论游泳，嗯，这是一个非常流行的运动吗？"
+    },
+    {
+        "start": 18.400000000000002,
+        "end": 22.400000000000002,
+        "english": "Yeah, so this is another lesson in our sports series.",
+        "chinese": "是的，这也是我们在体育系列课程中的另一课。"
+    },
+    {
+        "start": 22.400000000000002,
+        "end": 24.52,
+        "english": "A NushSport series, okay.",
+        "chinese": "一个NushSport系列，ok。"
+    },
+    {
+        "start": 24.52,
+        "end": 28.88,
+        "english": "So why don't we preview some of the language we'll find in the dialogue?",
+        "chinese": "所以为什么我们不先预览一下我们在对话中会遇到的语言呢？"
+    },
+    {
+        "start": 28.88,
+        "end": 30.36,
+        "english": "Our vocabulary preview.",
+        "chinese": "我们的词汇预览。"
+    },
+    {
+        "start": 30.36,
+        "end": 34.6,
+        "english": "All right, we have two words to look at here.",
+        "chinese": "好的，我们这里有两个词要看看。"
+    },
+    {
+        "start": 34.6,
+        "end": 37.76,
+        "english": "The first word is sailing.",
+        "chinese": "第一句话是航行。"
+    },
+    {
+        "start": 37.76,
+        "end": 38.76,
+        "english": "Sailing.",
+        "chinese": "航行。"
+    },
+    {
+        "start": 38.76,
+        "end": 39.76,
+        "english": "Sailing.",
+        "chinese": "航行。"
+    },
+    {
+        "start": 39.76,
+        "end": 40.76,
+        "english": "Sailing.",
+        "chinese": "航行。"
+    },
+    {
+        "start": 40.76,
+        "end": 43.2,
+        "english": "Well, this is the verb to sail, right?",
+        "chinese": "是的，这是划船的动词吗？"
+    },
+    {
+        "start": 43.2,
+        "end": 44.2,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用于表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 44.2,
+        "end": 47.120000000000005,
+        "english": "So sailing is traveling in a boat.",
+        "chinese": "所以航行是乘船而行。"
+    },
+    {
+        "start": 47.120000000000005,
+        "end": 49.36,
+        "english": "In a boat with no engine.",
+        "chinese": "在没有发动机的船上。"
+    },
+    {
+        "start": 49.36,
+        "end": 50.36,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的中文翻译："
+    },
+    {
+        "start": 50.36,
+        "end": 52.68,
+        "english": "So you must use the wind to push you forward.",
+        "chinese": "所以，你必须用风推动自己向前。"
+    },
+    {
+        "start": 52.68,
+        "end": 53.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 53.68,
+        "end": 54.68,
+        "english": "That's a sailboat.",
+        "chinese": "这句话的英文是 \"That's a sailboat.\" 你可以将它翻译成中文为“那是一艘帆船。”"
+    },
+    {
+        "start": 54.68,
+        "end": 55.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 55.68,
+        "end": 56.68,
+        "english": "Okay, so sailing.",
+        "chinese": "好的，所以航行。"
+    },
+    {
+        "start": 56.68,
+        "end": 57.68,
+        "english": "Mm-hmm.",
+        "chinese": "这句话的中文翻译是 \"嗯-嗯\"。"
+    },
+    {
+        "start": 57.68,
+        "end": 58.68,
+        "english": "Another word.",
+        "chinese": "另一个字。"
+    },
+    {
+        "start": 58.68,
+        "end": 59.68,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是锚。在这里，“anchor” 是一个名词，在这个句子中的意思是“锚”。如果您有其他需要翻译或解释的内容，请随时告诉我！"
+    },
+    {
+        "start": 59.68,
+        "end": 61.08,
+        "english": "Another boat word here.",
+        "chinese": "在这里还有一个船语。"
+    },
+    {
+        "start": 61.08,
+        "end": 62.08,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是 \"锚\"。在这里，锚是一种固定或连接物体的装置，通常用于船舶、飞机或其他交通工具上。例如，在海洋运输中，锚可以用来固定船只的位置，确保它们能够安全地到达目的地。锚也可以用作导航工具，帮助船员确定正确的航线和位置。"
+    },
+    {
+        "start": 62.08,
+        "end": 63.08,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是 \"锚\"。在这里，锚是一种固定或连接物体的装置，通常用于船舶、飞机或其他交通工具上的定位和导航系统。锚可以是金属链、绳索或者任何其他材料制成的结构物。锚的作用是确保船只或飞机等设备能够稳定地停留在指定的位置上，并且在需要时能快速移动到新的位置。"
+    },
+    {
+        "start": 63.08,
+        "end": 64.08,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是 \"锚\"。在这里，“锚”通常指的是固定或连接物体的点，或者表示某种状态或位置。例如，在建筑施工中，锚杆是用于固定建筑物的基础结构的一种工具；在航海和航空领域，锚则是用来固定船只的位置和方向的装置。"
+    },
+    {
+        "start": 64.08,
+        "end": 68.08,
+        "english": "Now, it's spelled A-N-C-H-O-R.",
+        "chinese": "现在，它被拼写成 A-N-C-H-O-R。"
+    },
+    {
+        "start": 68.08,
+        "end": 69.08,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 69.08,
+        "end": 72.2,
+        "english": "But you don't pronounce the C-H as you normally would, right?",
+        "chinese": "但是，你不是按照正常的方式发音C-H吗？"
+    },
+    {
+        "start": 72.2,
+        "end": 75.92,
+        "english": "Another one of these really difficult to spell English words.",
+        "chinese": "另一个这样的很难拼写的英语单词。"
+    },
+    {
+        "start": 75.92,
+        "end": 76.92,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 76.92,
+        "end": 77.92,
+        "english": "So you don't say anchor.",
+        "chinese": "所以你不要说锚。"
+    },
+    {
+        "start": 77.92,
+        "end": 78.92,
+        "english": "You would say anchor.",
+        "chinese": "在中文中，\"anchor\" 的翻译是 \"锚\"。"
+    },
+    {
+        "start": 78.92,
+        "end": 79.92,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是锚。在这里，“anchor” 是一个名词，在这个句子中，它指的是固定的位置或目标。例如："
+    },
+    {
+        "start": 79.92,
+        "end": 80.92,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是 \"锚\"。在这里，“锚”通常指的是固定或连接物体的点，如船上的锚、飞机上的降落伞等。例如，在航海中，锚是连接船只和水体的重要工具；在航空领域，飞机上的降落伞也是用来保持飞机稳定飞行的关键装置。"
+    },
+    {
+        "start": 80.92,
+        "end": 81.92,
+        "english": "Anchor.",
+        "chinese": "在中文中，\"anchor\" 的意思是 \"锚\"。在这里，“锚”通常指的是固定或连接物体的点，例如船上的锚、飞机上的降落伞等。如果你需要翻译成其他语言，请告诉我！"
+    },
+    {
+        "start": 81.92,
+        "end": 83.88,
+        "english": "So the anchor is a verb and a noun.",
+        "chinese": "所以锚是动词，也是名词。"
+    },
+    {
+        "start": 83.88,
+        "end": 84.88,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 84.88,
+        "end": 90.92,
+        "english": "When anchors use a noun, it means the hook that you throw over the boat into the water",
+        "chinese": "当锚使用名词时，这意味着你从船上抛向水中的钩。"
+    },
+    {
+        "start": 90.92,
+        "end": 93.88,
+        "english": "and it keeps you staying in the same place.",
+        "chinese": "这句话的中文翻译是：“它让你一直停留在同一个地方。”"
+    },
+    {
+        "start": 93.88,
+        "end": 94.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 94.88,
+        "end": 96.52,
+        "english": "But the verb to anchor.",
+        "chinese": "但是动词“锚定”。"
+    },
+    {
+        "start": 96.52,
+        "end": 97.52,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 97.52,
+        "end": 98.52,
+        "english": "What does it mean?",
+        "chinese": "这句话的中文翻译是：“什么是……？”"
+    },
+    {
+        "start": 98.52,
+        "end": 99.52,
+        "english": "To do that.",
+        "chinese": "那么做。"
+    },
+    {
+        "start": 99.52,
+        "end": 100.52,
+        "english": "To do that, right?",
+        "chinese": "要怎么做？"
+    },
+    {
+        "start": 100.52,
+        "end": 105.36,
+        "english": "So you would, so to throw the anchor into the water, you would just say to anchor the boat.",
+        "chinese": "所以，你就会，那么你就只是说把锚放回水中。"
+    },
+    {
+        "start": 105.36,
+        "end": 106.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 106.36,
+        "end": 107.96,
+        "english": "To keep it in the same place.",
+        "chinese": "保持在同一个地方。"
+    },
+    {
+        "start": 107.96,
+        "end": 108.96,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 108.96,
+        "end": 110.96,
+        "english": "Great words related to sailing.",
+        "chinese": "好的，以下是翻译成中文的“伟大的航海词汇”："
+    },
+    {
+        "start": 110.96,
+        "end": 113.56,
+        "english": "But now let's listen to a dialogue for the first time.",
+        "chinese": "但是现在让我们听听第一次的对话。"
+    },
+    {
+        "start": 113.56,
+        "end": 114.56,
+        "english": "What's happening here, Erica?",
+        "chinese": "在这里发生了什么，艾瑞克？"
+    },
+    {
+        "start": 114.56,
+        "end": 119.24000000000001,
+        "english": "Well, we've got two friends here who are sailing in their boat and they decide to take",
+        "chinese": "嗯，我们有两位朋友在这里，他们正在划着他们的船，决定一起"
+    },
+    {
+        "start": 119.24000000000001,
+        "end": 120.24000000000001,
+        "english": "a swim.",
+        "chinese": "在中文中，\"a swim\" 翻译成 Chinese 是 \"一个游泳。"
+    },
+    {
+        "start": 120.24000000000001,
+        "end": 121.24000000000001,
+        "english": "Hmm.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 121.24000000000001,
+        "end": 124.76,
+        "english": "Let's see what happens.",
+        "chinese": "让我们看看会发生什么。"
+    },
+    {
+        "start": 124.76,
+        "end": 133.44,
+        "english": "This is such a beautiful day.",
+        "chinese": "这是这么一个美好的一天。"
+    },
+    {
+        "start": 133.44,
+        "end": 134.92000000000002,
+        "english": "Great day for sailing.",
+        "chinese": "美好的一天适合航海。"
+    },
+    {
+        "start": 134.92000000000002,
+        "end": 135.92000000000002,
+        "english": "It sure is.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 135.92000000000002,
+        "end": 138.2,
+        "english": "The water looks so nice.",
+        "chinese": "水看起来很好。"
+    },
+    {
+        "start": 138.2,
+        "end": 139.72,
+        "english": "Anchor, the boat for a little while.",
+        "chinese": "锚，暂时的船。"
+    },
+    {
+        "start": 139.72,
+        "end": 142.52,
+        "english": "I'm going to take a dip.",
+        "chinese": "我打算下水。"
+    },
+    {
+        "start": 142.52,
+        "end": 147.08,
+        "english": "Why are you doggy paddling?",
+        "chinese": "为什么你狗屁都动？"
+    },
+    {
+        "start": 147.08,
+        "end": 148.60000000000002,
+        "english": "I thought you had a swim.",
+        "chinese": "我猜想你游泳。"
+    },
+    {
+        "start": 148.60000000000002,
+        "end": 150.36,
+        "english": "Do your breath stroke.",
+        "chinese": "你的吸气式。"
+    },
+    {
+        "start": 150.36,
+        "end": 152.12,
+        "english": "I get too tired.",
+        "chinese": "我太累了。"
+    },
+    {
+        "start": 152.12,
+        "end": 154.16000000000003,
+        "english": "I'll just backstroke.",
+        "chinese": "我会只划水。"
+    },
+    {
+        "start": 154.16000000000003,
+        "end": 156.60000000000002,
+        "english": "It's easier.",
+        "chinese": "它更简单。"
+    },
+    {
+        "start": 156.60000000000002,
+        "end": 158.96,
+        "english": "Try kicking your legs more.",
+        "chinese": "尝试踢你的腿更多。"
+    },
+    {
+        "start": 158.96,
+        "end": 159.96,
+        "english": "That's good.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 159.96,
+        "end": 161.16000000000003,
+        "english": "Don't go out too far.",
+        "chinese": "不要出去太远。"
+    },
+    {
+        "start": 161.16000000000003,
+        "end": 162.96,
+        "english": "It's fine.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 162.96,
+        "end": 163.96,
+        "english": "Jump in.",
+        "chinese": "跳起来。"
+    },
+    {
+        "start": 163.96,
+        "end": 167.44,
+        "english": "Cathy, get back here.",
+        "chinese": "请回来。"
+    },
+    {
+        "start": 167.44,
+        "end": 168.44,
+        "english": "I see a shark.",
+        "chinese": "我看到鲨鱼。"
+    },
+    {
+        "start": 168.44,
+        "end": 169.44,
+        "english": "Help me.",
+        "chinese": "请帮我。"
+    },
+    {
+        "start": 169.44,
+        "end": 170.44,
+        "english": "Help.",
+        "chinese": "帮助。"
+    },
+    {
+        "start": 171.44,
+        "end": 174.07999999999998,
+        "english": "Bring the boat closer.",
+        "chinese": "将船靠近。"
+    },
+    {
+        "start": 174.07999999999998,
+        "end": 177.28,
+        "english": "The shark is coming straight towards me.",
+        "chinese": "我正面对着鲨鱼。"
+    },
+    {
+        "start": 177.28,
+        "end": 178.76,
+        "english": "It's right under you.",
+        "chinese": "是紧挨着你的。"
+    },
+    {
+        "start": 178.76,
+        "end": 179.76,
+        "english": "Cathy.",
+        "chinese": "你好，Cathy。"
+    },
+    {
+        "start": 179.76,
+        "end": 182.76,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 182.76,
+        "end": 186.07999999999998,
+        "english": "So a shark attack.",
+        "chinese": "所以鲨鱼袭击。"
+    },
+    {
+        "start": 186.07999999999998,
+        "end": 187.07999999999998,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì dà wáng liǎng bǐ yī xiāo.)"
+    },
+    {
+        "start": 187.07999999999998,
+        "end": 189.8,
+        "english": "This is my worst fear when swimming.",
+        "chinese": "这是我游泳时最恐惧的事情。"
+    },
+    {
+        "start": 189.8,
+        "end": 191.28,
+        "english": "Really in the ocean, right?",
+        "chinese": "真的在海洋里吗？"
+    },
+    {
+        "start": 191.28,
+        "end": 192.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 192.28,
+        "end": 195.32,
+        "english": "Well, also in the lake, but no sharks in lakes.",
+        "chinese": "好的，我也在湖里。但没有鲨鱼在湖泊中。"
+    },
+    {
+        "start": 195.32,
+        "end": 197.28,
+        "english": "I know what I'm still afraid of them.",
+        "chinese": "我知道我仍然害怕他们。"
+    },
+    {
+        "start": 197.28,
+        "end": 198.28,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 198.28,
+        "end": 199.44,
+        "english": "So don't worry about it.",
+        "chinese": "所以不要担心。"
+    },
+    {
+        "start": 199.44,
+        "end": 201.48,
+        "english": "I'm sure the girl is OK.",
+        "chinese": "我保证那个女孩没事。"
+    },
+    {
+        "start": 201.48,
+        "end": 202.48,
+        "english": "It's probably not a shark.",
+        "chinese": "是的，不太可能是鲨鱼。"
+    },
+    {
+        "start": 202.48,
+        "end": 203.6,
+        "english": "Maybe it's a dolphin.",
+        "chinese": "可能是一只海豚。"
+    },
+    {
+        "start": 203.6,
+        "end": 203.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 203.8,
+        "end": 206.8,
+        "english": "Or maybe she's going to punch the shark in the face.",
+        "chinese": "或者她可能会用鲨鱼的牙齿打我。"
+    },
+    {
+        "start": 206.8,
+        "end": 208.24,
+        "english": "And she'll escape.",
+        "chinese": "她会逃走。"
+    },
+    {
+        "start": 208.24,
+        "end": 208.76,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (kě de)."
+    },
+    {
+        "start": 208.76,
+        "end": 211.88,
+        "english": "Let's take a look at some of the words that we saw in language",
+        "chinese": "让我们看看我们看到的一些词汇。"
+    },
+    {
+        "start": 211.88,
+        "end": 213.76,
+        "english": "takeaway.",
+        "chinese": "“ takeaway” 翻译成中文是 “ 自取餐”。"
+    },
+    {
+        "start": 213.76,
+        "end": 216.12,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 216.12,
+        "end": 219.28,
+        "english": "We have three excellent swimming words for you.",
+        "chinese": "我们有三个游泳词汇给您。"
+    },
+    {
+        "start": 219.28,
+        "end": 221.96,
+        "english": "The first one is doggy paddling.",
+        "chinese": "第一个是狗屁游泳。"
+    },
+    {
+        "start": 221.96,
+        "end": 223.07999999999998,
+        "english": "Doggy paddling.",
+        "chinese": "狗屁划水。"
+    },
+    {
+        "start": 223.07999999999998,
+        "end": 224.32,
+        "english": "Doggy paddling.",
+        "chinese": "狗屁划水。"
+    },
+    {
+        "start": 224.32,
+        "end": 226.12,
+        "english": "So doggy paddling.",
+        "chinese": "所以狗屁打水。"
+    },
+    {
+        "start": 226.12,
+        "end": 228.36,
+        "english": "It's not really a proper way of swimming, right?",
+        "chinese": "是的，游泳并不是一个合适的运动方式。"
+    },
+    {
+        "start": 228.36,
+        "end": 230.96,
+        "english": "No, you don't see this in the Olympics.",
+        "chinese": "对不起，我无法直接翻译中文为英文。不过，我可以尝试用另一种方式来表达你的意思。"
+    },
+    {
+        "start": 230.96,
+        "end": 233.48000000000002,
+        "english": "So if you've ever seen a dog swim,",
+        "chinese": "所以如果你曾经见过一只狗游泳，"
+    },
+    {
+        "start": 233.48000000000002,
+        "end": 235.16000000000003,
+        "english": "that's why they call it doggy paddling.",
+        "chinese": "这是因为它们叫它狗屁球。"
+    },
+    {
+        "start": 235.16000000000003,
+        "end": 236.16000000000003,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 236.16000000000003,
+        "end": 238.8,
+        "english": "You're sort of moving your hands quickly in front of you.",
+        "chinese": "您好像在快速将您的双手放在前面。"
+    },
+    {
+        "start": 238.8,
+        "end": 240.72000000000003,
+        "english": "And your legs are all over the place.",
+        "chinese": "你的腿到处都是。"
+    },
+    {
+        "start": 240.72000000000003,
+        "end": 242.4,
+        "english": "And you're basically not really swimming.",
+        "chinese": "您基本上不是真的在游泳。"
+    },
+    {
+        "start": 242.4,
+        "end": 245.08,
+        "english": "You're just trying to stay afloat.",
+        "chinese": "您只是在试图保持平衡。"
+    },
+    {
+        "start": 245.08,
+        "end": 246.36,
+        "english": "You're trying not to drown.",
+        "chinese": "您正在尽力避免溺水。"
+    },
+    {
+        "start": 246.36,
+        "end": 247.32000000000002,
+        "english": "Trying not to sink.",
+        "chinese": "尝试不要沉。"
+    },
+    {
+        "start": 247.32000000000002,
+        "end": 248.16000000000003,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 248.16000000000003,
+        "end": 248.64000000000001,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gěng shì)."
+    },
+    {
+        "start": 248.64000000000001,
+        "end": 249.68,
+        "english": "So doggy paddling.",
+        "chinese": "所以狗屁打水。"
+    },
+    {
+        "start": 249.68,
+        "end": 252.08,
+        "english": "Again, this can be a noun or a verb.",
+        "chinese": "当然，这可以是名词或动词。"
+    },
+    {
+        "start": 252.08,
+        "end": 254.20000000000002,
+        "english": "The doggy paddle.",
+        "chinese": "狗屁桨。"
+    },
+    {
+        "start": 254.20000000000002,
+        "end": 256.96000000000004,
+        "english": "This swimming style or doggy paddling.",
+        "chinese": "这个游泳姿势或狗刨式。"
+    },
+    {
+        "start": 256.96,
+        "end": 257.71999999999997,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 257.71999999999997,
+        "end": 259.03999999999996,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 259.03999999999996,
+        "end": 259.35999999999996,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 259.35999999999996,
+        "end": 262.52,
+        "english": "Let's take a look at our second swimming style.",
+        "chinese": "让我们看看我们的第二泳姿。"
+    },
+    {
+        "start": 262.52,
+        "end": 263.52,
+        "english": "Breaststroke.",
+        "chinese": "蛙泳。"
+    },
+    {
+        "start": 263.52,
+        "end": 264.76,
+        "english": "Breaststroke.",
+        "chinese": "蛙泳。"
+    },
+    {
+        "start": 264.76,
+        "end": 265.79999999999995,
+        "english": "Breaststroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 265.79999999999995,
+        "end": 267.23999999999995,
+        "english": "The breaststroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 267.23999999999995,
+        "end": 268.15999999999997,
+        "english": "How is this one?",
+        "chinese": "这个是什么？"
+    },
+    {
+        "start": 268.15999999999997,
+        "end": 271.15999999999997,
+        "english": "Well, it's sort of like swimming like a frog.",
+        "chinese": "嗯，有点像青蛙游泳的样子。"
+    },
+    {
+        "start": 271.15999999999997,
+        "end": 274.71999999999997,
+        "english": "So you have your legs that are similar to like a frog, right?",
+        "chinese": "所以你的腿就像一条蛇，对吗？"
+    },
+    {
+        "start": 274.71999999999997,
+        "end": 276.64,
+        "english": "And what are your hands doing?",
+        "chinese": "你的双手在做什么？"
+    },
+    {
+        "start": 276.64,
+        "end": 280.84,
+        "english": "Your hands are moving in front of you together,",
+        "chinese": "你的双手并拢向前移动，或者"
+    },
+    {
+        "start": 280.84,
+        "end": 283.4,
+        "english": "then out towards the side.",
+        "chinese": "然后向着一边。"
+    },
+    {
+        "start": 283.4,
+        "end": 284.08,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 284.08,
+        "end": 285.79999999999995,
+        "english": "So you're kind of doing like circles.",
+        "chinese": "所以你好像在做圆圈。"
+    },
+    {
+        "start": 285.79999999999995,
+        "end": 286.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 286.32,
+        "end": 286.79999999999995,
+        "english": "Half circles.",
+        "chinese": "半圆。"
+    },
+    {
+        "start": 286.8,
+        "end": 288.24,
+        "english": "Half circles.",
+        "chinese": "半圆。"
+    },
+    {
+        "start": 288.24,
+        "end": 288.84000000000003,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 288.84000000000003,
+        "end": 289.72,
+        "english": "Breaststroke.",
+        "chinese": "蛙泳。"
+    },
+    {
+        "start": 289.72,
+        "end": 290.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 290.24,
+        "end": 292.76,
+        "english": "But you get kind of tired when you swim like this, right?",
+        "chinese": "但是当你像这样游泳时，你会感到有点疲惫吗？"
+    },
+    {
+        "start": 292.76,
+        "end": 293.72,
+        "english": "Yeah, maybe.",
+        "chinese": "是的，也许。"
+    },
+    {
+        "start": 293.72,
+        "end": 294.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 294.12,
+        "end": 294.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 294.8,
+        "end": 298.08,
+        "english": "Now let's take a look at our third word.",
+        "chinese": "现在让我们看看我们的第三个单词。"
+    },
+    {
+        "start": 298.08,
+        "end": 299.08000000000004,
+        "english": "Backstroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 299.08000000000004,
+        "end": 300.16,
+        "english": "Backstroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 300.16,
+        "end": 301.16,
+        "english": "Backstroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 301.16,
+        "end": 302.04,
+        "english": "Backstroke.",
+        "chinese": "在水中划水。"
+    },
+    {
+        "start": 302.04,
+        "end": 303.40000000000003,
+        "english": "So this one's pretty easy.",
+        "chinese": "所以，这很简单。"
+    },
+    {
+        "start": 303.40000000000003,
+        "end": 305.88,
+        "english": "Backstroke, you are lying on your back.",
+        "chinese": "在蛙泳，你正躺在你的背上。"
+    },
+    {
+        "start": 305.88,
+        "end": 307.96000000000004,
+        "english": "You're lying on your back in the water.",
+        "chinese": "您躺在水边的泳池里。"
+    },
+    {
+        "start": 307.96000000000004,
+        "end": 309.84000000000003,
+        "english": "And you're getting your feet as well.",
+        "chinese": "你也在走自己的路。"
+    },
+    {
+        "start": 309.84000000000003,
+        "end": 310.6,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 310.6,
+        "end": 311.8,
+        "english": "But what are your hands doing?",
+        "chinese": "但是你的双手在做什么？"
+    },
+    {
+        "start": 311.8,
+        "end": 313.6,
+        "english": "They're going back behind you.",
+        "chinese": "他们要跟在你后面。"
+    },
+    {
+        "start": 313.6,
+        "end": 314.8,
+        "english": "See, I'm doing it now.",
+        "chinese": "是的，我现在正在做。"
+    },
+    {
+        "start": 314.8,
+        "end": 316.28000000000003,
+        "english": "You see?",
+        "chinese": "你看到了吗？"
+    },
+    {
+        "start": 316.28,
+        "end": 316.76,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 316.76,
+        "end": 318.55999999999995,
+        "english": "If you guys could be here in the studio,",
+        "chinese": "如果你们能在这里录制，那太好了。"
+    },
+    {
+        "start": 318.55999999999995,
+        "end": 320.96,
+        "english": "you would see Erica doing her backstroke.",
+        "chinese": "您会看到艾瑞亚在划船。"
+    },
+    {
+        "start": 320.96,
+        "end": 322.11999999999995,
+        "english": "Yeah, I'm pretty good at it.",
+        "chinese": "是的，我挺好的。"
+    },
+    {
+        "start": 322.11999999999995,
+        "end": 323.35999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 323.35999999999996,
+        "end": 323.59999999999997,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 323.59999999999997,
+        "end": 326.23999999999995,
+        "english": "So let's listen to this dialogue again.",
+        "chinese": "所以让我们再次听这个对话。"
+    },
+    {
+        "start": 326.23999999999995,
+        "end": 328.76,
+        "english": "And then we'll come back and look at some great phrases.",
+        "chinese": "然后我们将回来看看一些好词句。"
+    },
+    {
+        "start": 334.03999999999996,
+        "end": 337.47999999999996,
+        "english": "This is such a beautiful day.",
+        "chinese": "这是这么一个美好的一天。"
+    },
+    {
+        "start": 337.47999999999996,
+        "end": 339.59999999999997,
+        "english": "Great day for sailing.",
+        "chinese": "美好的一天适合航海。"
+    },
+    {
+        "start": 339.59999999999997,
+        "end": 341.28,
+        "english": "It sure is.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 341.28,
+        "end": 343.64,
+        "english": "The water looks so nice.",
+        "chinese": "水看起来真好。"
+    },
+    {
+        "start": 343.64,
+        "end": 345.67999999999995,
+        "english": "Enquer the boat for a little while.",
+        "chinese": "请稍等，我将为您翻译这段话。\"Enquer the boat for a little while.\" 翻译成中文是 \"慢走一会儿，让船慢慢移动一下。"
+    },
+    {
+        "start": 345.68,
+        "end": 349.04,
+        "english": "I'm going to take a dip.",
+        "chinese": "我打算下水。"
+    },
+    {
+        "start": 349.04,
+        "end": 350.88,
+        "english": "Why are you doggy paddling?",
+        "chinese": "为什么你狗屁一样地打水漂？"
+    },
+    {
+        "start": 350.88,
+        "end": 352.68,
+        "english": "I taught you how to swim.",
+        "chinese": "我教你游泳。"
+    },
+    {
+        "start": 352.68,
+        "end": 354.68,
+        "english": "Do your breaststroke.",
+        "chinese": "你的蛙泳。"
+    },
+    {
+        "start": 354.68,
+        "end": 356.88,
+        "english": "I get too tired.",
+        "chinese": "我太累了。"
+    },
+    {
+        "start": 356.88,
+        "end": 358.44,
+        "english": "I'll just backstroke.",
+        "chinese": "我会只划水。"
+    },
+    {
+        "start": 358.44,
+        "end": 359.96000000000004,
+        "english": "It's easier.",
+        "chinese": "它更简单。"
+    },
+    {
+        "start": 359.96000000000004,
+        "end": 362.4,
+        "english": "Try kicking your legs more.",
+        "chinese": "尝试踢你的腿更多。"
+    },
+    {
+        "start": 362.4,
+        "end": 363.44,
+        "english": "That's good.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 363.44,
+        "end": 365.28000000000003,
+        "english": "Don't go out too far.",
+        "chinese": "不要出去太远。"
+    },
+    {
+        "start": 365.28000000000003,
+        "end": 367.4,
+        "english": "It's fine.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 367.4,
+        "end": 369.88,
+        "english": "Jump in.",
+        "chinese": "跳起来。"
+    },
+    {
+        "start": 369.88,
+        "end": 372.2,
+        "english": "Kathy, get back here.",
+        "chinese": "凯西，快过来。"
+    },
+    {
+        "start": 372.2,
+        "end": 373.76,
+        "english": "I see a shark.",
+        "chinese": "我看到鲨鱼。"
+    },
+    {
+        "start": 373.76,
+        "end": 376.76,
+        "english": "Help me!",
+        "chinese": "请帮我！"
+    },
+    {
+        "start": 376.76,
+        "end": 377.96,
+        "english": "Help!",
+        "chinese": "请帮助！"
+    },
+    {
+        "start": 377.96,
+        "end": 379.88,
+        "english": "Bring the boat closer.",
+        "chinese": "将船靠近。"
+    },
+    {
+        "start": 379.88,
+        "end": 383.08,
+        "english": "The shark is coming straight towards me.",
+        "chinese": "我正面对着鲨鱼。"
+    },
+    {
+        "start": 383.08,
+        "end": 385.15999999999997,
+        "english": "It's right under you.",
+        "chinese": "是紧挨着你的。"
+    },
+    {
+        "start": 385.15999999999997,
+        "end": 386.15999999999997,
+        "english": "Kathy!",
+        "chinese": "你好！"
+    },
+    {
+        "start": 390.96,
+        "end": 391.56,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 391.56,
+        "end": 395.68,
+        "english": "So we have some really good phrases related to swimming and water.",
+        "chinese": "所以我们有一些非常好的游泳和水的相关短语。"
+    },
+    {
+        "start": 395.68,
+        "end": 396.2,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 396.2,
+        "end": 396.4,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 396.4,
+        "end": 399.15999999999997,
+        "english": "Let's take a look at these in Fluency Builder.",
+        "chinese": "请看看这些在 Fluent Builder 中。"
+    },
+    {
+        "start": 399.15999999999997,
+        "end": 400.76,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 400.76,
+        "end": 401.03999999999996,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 401.03999999999996,
+        "end": 401.64,
+        "english": "The first one.",
+        "chinese": "第一个。"
+    },
+    {
+        "start": 401.64,
+        "end": 402.88,
+        "english": "I love this phrase.",
+        "chinese": "我喜欢这句话。"
+    },
+    {
+        "start": 403.88,
+        "end": 405.44,
+        "english": "Take a dip.",
+        "chinese": "取个水澡。"
+    },
+    {
+        "start": 405.44,
+        "end": 406.4,
+        "english": "Take a dip.",
+        "chinese": "取个水澡。"
+    },
+    {
+        "start": 406.4,
+        "end": 407.68,
+        "english": "Take a dip.",
+        "chinese": "取个水澡。"
+    },
+    {
+        "start": 407.68,
+        "end": 410.96,
+        "english": "So if I say I'm going to take a dip.",
+        "chinese": "所以，如果我说我要去游泳。"
+    },
+    {
+        "start": 410.96,
+        "end": 412.96,
+        "english": "You're going to have a quick swim.",
+        "chinese": "您将要进行快速游泳。"
+    },
+    {
+        "start": 412.96,
+        "end": 413.8,
+        "english": "A quick swim.",
+        "chinese": "一个快速的游泳。"
+    },
+    {
+        "start": 413.8,
+        "end": 416.08,
+        "english": "So you can take a dip in the pool.",
+        "chinese": "所以，你可以去游泳池里泡澡。"
+    },
+    {
+        "start": 416.08,
+        "end": 416.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 416.44,
+        "end": 417.4,
+        "english": "In the lake.",
+        "chinese": "在湖中。"
+    },
+    {
+        "start": 417.4,
+        "end": 418.2,
+        "english": "In the ocean.",
+        "chinese": "在海洋。"
+    },
+    {
+        "start": 418.2,
+        "end": 419.0,
+        "english": "In the ocean.",
+        "chinese": "在海洋。"
+    },
+    {
+        "start": 419.0,
+        "end": 420.64,
+        "english": "Even in your bathtub, right?",
+        "chinese": "在你浴缸里，对吗？"
+    },
+    {
+        "start": 420.64,
+        "end": 421.48,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 421.48,
+        "end": 423.24,
+        "english": "No, it's just for swimming.",
+        "chinese": "是的，这只是游泳。"
+    },
+    {
+        "start": 423.24,
+        "end": 426.44,
+        "english": "Unless your bathtub is really, really, really big.",
+        "chinese": "除非你的浴缸真的非常大。"
+    },
+    {
+        "start": 426.44,
+        "end": 426.92,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 426.92,
+        "end": 429.68,
+        "english": "So not for the bathtub, but for swimming.",
+        "chinese": "所以，不是为了浴缸，而是为了游泳。"
+    },
+    {
+        "start": 429.68,
+        "end": 430.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 430.32,
+        "end": 431.52,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 431.52,
+        "end": 434.0,
+        "english": "Now let's take a look at our second phrase.",
+        "chinese": "现在让我们看看我们的第二句话。"
+    },
+    {
+        "start": 434.0,
+        "end": 435.28,
+        "english": "For a little while.",
+        "chinese": "对于短暂的时光。"
+    },
+    {
+        "start": 435.28,
+        "end": 436.59999999999997,
+        "english": "For a little while.",
+        "chinese": "对于短暂的时光。"
+    },
+    {
+        "start": 436.59999999999997,
+        "end": 437.64,
+        "english": "For a little while.",
+        "chinese": "对于短暂的时间。"
+    },
+    {
+        "start": 437.64,
+        "end": 439.03999999999996,
+        "english": "For a little while.",
+        "chinese": "对于短暂的时间。"
+    },
+    {
+        "start": 439.03999999999996,
+        "end": 440.03999999999996,
+        "english": "This is really common.",
+        "chinese": "这是真的。"
+    },
+    {
+        "start": 440.03999999999996,
+        "end": 440.76,
+        "english": "I use this a lot.",
+        "chinese": "我经常使用这个。"
+    },
+    {
+        "start": 440.76,
+        "end": 441.35999999999996,
+        "english": "Yeah, me too.",
+        "chinese": "是的，我也一样。"
+    },
+    {
+        "start": 441.35999999999996,
+        "end": 444.15999999999997,
+        "english": "I probably use it 500 times a day.",
+        "chinese": "我大概每天使用它500次。"
+    },
+    {
+        "start": 444.15999999999997,
+        "end": 444.59999999999997,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gěng shàng)."
+    },
+    {
+        "start": 444.59999999999997,
+        "end": 448.47999999999996,
+        "english": "So let's listen to some examples with for a little while.",
+        "chinese": "所以让我们听听一些例子，一会儿再听。"
+    },
+    {
+        "start": 448.47999999999996,
+        "end": 450.56,
+        "english": "And then we'll come back and explain it.",
+        "chinese": "然后我们再来解释一下。"
+    },
+    {
+        "start": 450.56,
+        "end": 452.88,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 452.88,
+        "end": 453.44,
+        "english": "I'm tired.",
+        "chinese": "我累了。"
+    },
+    {
+        "start": 453.44,
+        "end": 456.64,
+        "english": "I'm just going to sit down for a little while.",
+        "chinese": "我打算坐一会儿。"
+    },
+    {
+        "start": 456.64,
+        "end": 459.0,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 459.0,
+        "end": 462.8,
+        "english": "It will only hurt for a little while.",
+        "chinese": "它只会短暂地受苦。"
+    },
+    {
+        "start": 462.8,
+        "end": 465.68,
+        "english": "Example three.",
+        "chinese": "翻译结果如下："
+    },
+    {
+        "start": 465.68,
+        "end": 468.76,
+        "english": "Do you want to play tennis for a little while?",
+        "chinese": "是的，你想要在稍作休息后打一会儿网球吗？"
+    },
+    {
+        "start": 468.76,
+        "end": 470.68,
+        "english": "So it means for a short time.",
+        "chinese": "所以，它意味着短暂。"
+    },
+    {
+        "start": 470.68,
+        "end": 471.6,
+        "english": "For a short time.",
+        "chinese": "对于一个短暂的时间。"
+    },
+    {
+        "start": 471.6,
+        "end": 472.56,
+        "english": "And you can change it, right?",
+        "chinese": "您也可以更改它，对吗？"
+    },
+    {
+        "start": 472.56,
+        "end": 475.52,
+        "english": "You can say, oh, I'm going to play for a little while.",
+        "chinese": "你可以这么说，我一会儿要休息一下。"
+    },
+    {
+        "start": 475.52,
+        "end": 476.04,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 476.04,
+        "end": 478.72,
+        "english": "Or I'm going to sleep for a little while.",
+        "chinese": "我打算睡一会儿。"
+    },
+    {
+        "start": 478.72,
+        "end": 479.56,
+        "english": "For a short time.",
+        "chinese": "对于短暂的时间。"
+    },
+    {
+        "start": 479.56,
+        "end": 480.04,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 480.04,
+        "end": 480.32,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 480.32,
+        "end": 483.52,
+        "english": "So if learners use this phrase, I find it",
+        "chinese": "所以如果学习者使用了这个短语，我觉得"
+    },
+    {
+        "start": 483.52,
+        "end": 486.2,
+        "english": "sounds really, really great, because it's not something",
+        "chinese": "声音听起来真的很棒，因为不是什么。"
+    },
+    {
+        "start": 486.2,
+        "end": 488.68,
+        "english": "that students normally use.",
+        "chinese": "学生通常使用。"
+    },
+    {
+        "start": 488.68,
+        "end": 490.2,
+        "english": "Yeah, I guess the student wouldn't really",
+        "chinese": "是的，我猜学生不会真的"
+    },
+    {
+        "start": 490.2,
+        "end": 491.48,
+        "english": "use this phrase normally.",
+        "chinese": "使用这个短语正常。"
+    },
+    {
+        "start": 491.48,
+        "end": 491.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 491.72,
+        "end": 494.12,
+        "english": "So guys, use it, because you'll sound awesome.",
+        "chinese": "所以，朋友们，请使用它，因为你会很酷。"
+    },
+    {
+        "start": 494.12,
+        "end": 494.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 494.52,
+        "end": 496.52,
+        "english": "You'll sound really, really fluent.",
+        "chinese": "您将非常流利地说。"
+    },
+    {
+        "start": 496.52,
+        "end": 497.12,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 497.12,
+        "end": 499.48,
+        "english": "And let's take a look at our last phrase.",
+        "chinese": "让我们看看我们的最后一个句子。"
+    },
+    {
+        "start": 499.48,
+        "end": 500.96000000000004,
+        "english": "Straight towards.",
+        "chinese": "直奔。"
+    },
+    {
+        "start": 500.96000000000004,
+        "end": 502.44,
+        "english": "Straight towards.",
+        "chinese": "直奔。"
+    },
+    {
+        "start": 502.44,
+        "end": 503.6,
+        "english": "Straight towards me.",
+        "chinese": "直面我。"
+    },
+    {
+        "start": 503.6,
+        "end": 505.56,
+        "english": "Straight towards.",
+        "chinese": "直奔。"
+    },
+    {
+        "start": 505.56,
+        "end": 505.92,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 505.92,
+        "end": 509.04,
+        "english": "So straight means directly.",
+        "chinese": "所以直就是直接。"
+    },
+    {
+        "start": 509.04,
+        "end": 509.32,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 509.32,
+        "end": 509.96000000000004,
+        "english": "In a line.",
+        "chinese": "在一条线上。"
+    },
+    {
+        "start": 509.96000000000004,
+        "end": 510.44,
+        "english": "In a line.",
+        "chinese": "在一条线上。"
+    },
+    {
+        "start": 510.44,
+        "end": 512.04,
+        "english": "Not going anywhere else, but directly.",
+        "chinese": "直接不走其他地方。"
+    },
+    {
+        "start": 512.04,
+        "end": 514.0,
+        "english": "Not moving side to side.",
+        "chinese": "不来回摆动。"
+    },
+    {
+        "start": 514.0,
+        "end": 517.2,
+        "english": "And towards is in that direction.",
+        "chinese": "并且向着是朝着那个方向。"
+    },
+    {
+        "start": 517.2,
+        "end": 519.72,
+        "english": "So the shark was coming straight towards me.",
+        "chinese": "所以鲨鱼正朝着我而来。"
+    },
+    {
+        "start": 519.72,
+        "end": 521.76,
+        "english": "It's coming directly at me.",
+        "chinese": "它正直接朝我砸过来。"
+    },
+    {
+        "start": 521.76,
+        "end": 523.08,
+        "english": "Moving in a line.",
+        "chinese": "移动一行。"
+    },
+    {
+        "start": 523.08,
+        "end": 524.8000000000001,
+        "english": "And not moving side to side.",
+        "chinese": "而且不能前后左右移动。"
+    },
+    {
+        "start": 524.8000000000001,
+        "end": 525.76,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 525.76,
+        "end": 527.8000000000001,
+        "english": "So can you give me another example of how",
+        "chinese": "所以你能给我再举一个例子，如何"
+    },
+    {
+        "start": 527.8000000000001,
+        "end": 529.84,
+        "english": "you would use straight towards?",
+        "chinese": "您会一直朝着？"
+    },
+    {
+        "start": 529.84,
+        "end": 530.5200000000001,
+        "english": "Watch out.",
+        "chinese": "请注意。"
+    },
+    {
+        "start": 530.5200000000001,
+        "end": 532.32,
+        "english": "There's a car coming straight towards you.",
+        "chinese": "这里有一辆汽车正朝着你飞过来。"
+    },
+    {
+        "start": 532.32,
+        "end": 533.08,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 533.08,
+        "end": 534.1600000000001,
+        "english": "Directly towards you.",
+        "chinese": "直接面对您。"
+    },
+    {
+        "start": 534.1600000000001,
+        "end": 534.6400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 534.6400000000001,
+        "end": 537.1600000000001,
+        "english": "Or maybe when I get home from work,",
+        "chinese": "或者，或许当我下班回家时，"
+    },
+    {
+        "start": 537.1600000000001,
+        "end": 539.08,
+        "english": "I go straight towards the fridge.",
+        "chinese": "我走向冰箱。"
+    },
+    {
+        "start": 539.08,
+        "end": 539.6,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 539.6,
+        "end": 540.2,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 540.2,
+        "end": 541.6800000000001,
+        "english": "I believe this.",
+        "chinese": "我坚信。"
+    },
+    {
+        "start": 541.6800000000001,
+        "end": 542.2,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 542.2,
+        "end": 544.24,
+        "english": "So straight towards directly.",
+        "chinese": "所以直奔直接。"
+    },
+    {
+        "start": 544.24,
+        "end": 544.6800000000001,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 544.6800000000001,
+        "end": 546.72,
+        "english": "So we've looked at a lot of great words.",
+        "chinese": "所以我们已经看了许多好词。"
+    },
+    {
+        "start": 546.72,
+        "end": 548.0400000000001,
+        "english": "Really good phrases.",
+        "chinese": "真的好词句。"
+    },
+    {
+        "start": 548.0400000000001,
+        "end": 550.44,
+        "english": "Let's listen to this dialogue one last time.",
+        "chinese": "请听这对话再试一次。"
+    },
+    {
+        "start": 550.44,
+        "end": 551.4,
+        "english": "And then we'll come back.",
+        "chinese": "然后我们就会回来。"
+    },
+    {
+        "start": 551.4,
+        "end": 554.12,
+        "english": "And Eric is going to tell us a really great story about oak.",
+        "chinese": "和埃里克将要告诉我们一个非常棒的故事。"
+    },
+    {
+        "start": 562.12,
+        "end": 564.64,
+        "english": "This is such a beautiful day.",
+        "chinese": "这是这么一个美好的一天。"
+    },
+    {
+        "start": 564.64,
+        "end": 566.0,
+        "english": "Great day for sailing.",
+        "chinese": "美好的一天适合航海。"
+    },
+    {
+        "start": 566.0,
+        "end": 567.24,
+        "english": "It sure is.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 567.24,
+        "end": 569.28,
+        "english": "The water looks so nice.",
+        "chinese": "水看起来真好。"
+    },
+    {
+        "start": 569.28,
+        "end": 570.96,
+        "english": "Anchor the boat for a little while.",
+        "chinese": "将船固定一会儿。"
+    },
+    {
+        "start": 570.96,
+        "end": 571.8000000000001,
+        "english": "I'm going to take a dip.",
+        "chinese": "我打算下水。"
+    },
+    {
+        "start": 571.8,
+        "end": 578.28,
+        "english": "Why are you doggy paddling?",
+        "chinese": "为什么你狗屁都动？"
+    },
+    {
+        "start": 578.28,
+        "end": 579.7199999999999,
+        "english": "I thought you had a swim.",
+        "chinese": "我猜想你游泳。"
+    },
+    {
+        "start": 579.7199999999999,
+        "end": 581.5999999999999,
+        "english": "Do your breaststroke.",
+        "chinese": "你的蛙泳。"
+    },
+    {
+        "start": 581.5999999999999,
+        "end": 584.04,
+        "english": "I get too tired.",
+        "chinese": "我太累了。"
+    },
+    {
+        "start": 584.04,
+        "end": 585.1999999999999,
+        "english": "I'll just backstroke.",
+        "chinese": "我会只划水。"
+    },
+    {
+        "start": 585.1999999999999,
+        "end": 587.68,
+        "english": "It's easier.",
+        "chinese": "它更简单。"
+    },
+    {
+        "start": 587.68,
+        "end": 589.9599999999999,
+        "english": "Try kicking your legs more.",
+        "chinese": "尝试踢你的腿更多。"
+    },
+    {
+        "start": 589.9599999999999,
+        "end": 591.04,
+        "english": "That's good.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 591.04,
+        "end": 592.64,
+        "english": "Don't go out too far.",
+        "chinese": "不要出去太远。"
+    },
+    {
+        "start": 592.64,
+        "end": 594.3199999999999,
+        "english": "It's fine.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 594.3199999999999,
+        "end": 596.88,
+        "english": "Jump in.",
+        "chinese": "跳上。"
+    },
+    {
+        "start": 596.88,
+        "end": 598.64,
+        "english": "Kathy, get back here.",
+        "chinese": "凯莉，这里等你。"
+    },
+    {
+        "start": 598.64,
+        "end": 599.9599999999999,
+        "english": "I see a shark.",
+        "chinese": "我看到鲨鱼。"
+    },
+    {
+        "start": 599.96,
+        "end": 602.0400000000001,
+        "english": "Help me.",
+        "chinese": "请帮我。"
+    },
+    {
+        "start": 602.0400000000001,
+        "end": 603.32,
+        "english": "Help.",
+        "chinese": "帮助。"
+    },
+    {
+        "start": 603.32,
+        "end": 605.2,
+        "english": "Bring the boat closer.",
+        "chinese": "将船靠近。"
+    },
+    {
+        "start": 605.2,
+        "end": 608.2800000000001,
+        "english": "The shark is coming straight towards me.",
+        "chinese": "我正面对着鲨鱼。"
+    },
+    {
+        "start": 608.2800000000001,
+        "end": 609.6800000000001,
+        "english": "It's right under you.",
+        "chinese": "是紧挨着你的。"
+    },
+    {
+        "start": 609.6800000000001,
+        "end": 610.6800000000001,
+        "english": "Kathy.",
+        "chinese": "你好，凯里。"
+    },
+    {
+        "start": 614.0400000000001,
+        "end": 614.2800000000001,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 614.2800000000001,
+        "end": 618.6800000000001,
+        "english": "Well, Marco, I was telling you that I used to spend every summer",
+        "chinese": "嗯，马科，我曾经说过，我在夏天都花了很多时间。"
+    },
+    {
+        "start": 618.6800000000001,
+        "end": 620.5600000000001,
+        "english": "on the lake.",
+        "chinese": "在湖上。"
+    },
+    {
+        "start": 620.5600000000001,
+        "end": 625.64,
+        "english": "And my family had a really small house on a small island.",
+        "chinese": "我的家人有一个非常小的房子在一座小岛上。"
+    },
+    {
+        "start": 625.64,
+        "end": 631.64,
+        "english": "And my cousins had another small house on another small island.",
+        "chinese": "我的堂兄弟姐妹又在另一个小岛上建了一个较小的房屋。"
+    },
+    {
+        "start": 631.64,
+        "end": 634.1999999999999,
+        "english": "So our families are really close.",
+        "chinese": "所以我们的家庭关系非常紧密。"
+    },
+    {
+        "start": 634.1999999999999,
+        "end": 637.16,
+        "english": "And we used to go to one house for dinner one night.",
+        "chinese": "我们过去常常在一家小屋度过了夜晚。"
+    },
+    {
+        "start": 637.16,
+        "end": 640.12,
+        "english": "And the other house did dinner the next night.",
+        "chinese": "另外的房第二天晚上吃晚饭。"
+    },
+    {
+        "start": 640.12,
+        "end": 645.4,
+        "english": "So everyone was over at my cousins house, except for my grandfather.",
+        "chinese": "所以，大家都在我表叔家。除了我的爷爷。"
+    },
+    {
+        "start": 645.4,
+        "end": 648.6,
+        "english": "And so he was thinking, OK, it's late.",
+        "chinese": "And so he was thinking, OK, it's late. (注：这句话是中文，但根据您的要求翻译成英文。)"
+    },
+    {
+        "start": 648.6,
+        "end": 652.96,
+        "english": "Maybe I better go pick up my wife and see what's going on.",
+        "chinese": "可能我更早些时候应该去接妻子看看发生了什么。"
+    },
+    {
+        "start": 652.96,
+        "end": 655.08,
+        "english": "So he goes into the boat.",
+        "chinese": "所以，他坐进船里。"
+    },
+    {
+        "start": 655.08,
+        "end": 655.9200000000001,
+        "english": "It's dark.",
+        "chinese": "是黑。"
+    },
+    {
+        "start": 655.9200000000001,
+        "end": 656.6,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gěng hǎo)."
+    },
+    {
+        "start": 656.6,
+        "end": 658.48,
+        "english": "There's no light on the boat.",
+        "chinese": "没有光在小船上。"
+    },
+    {
+        "start": 658.48,
+        "end": 662.12,
+        "english": "He's driving straight towards the island.",
+        "chinese": "他正朝着岛屿疾驶。"
+    },
+    {
+        "start": 662.12,
+        "end": 668.08,
+        "english": "When suddenly my cousin in his boat drives directly into a grandfather.",
+        "chinese": "当突然我的表弟在船里直接撞上爷爷。"
+    },
+    {
+        "start": 668.08,
+        "end": 669.08,
+        "english": "So they crashed.",
+        "chinese": "所以他们崩溃了。"
+    },
+    {
+        "start": 669.08,
+        "end": 669.88,
+        "english": "They crashed.",
+        "chinese": "他们撞毁了。"
+    },
+    {
+        "start": 669.88,
+        "end": 671.5200000000001,
+        "english": "Two boats crashed in the lake.",
+        "chinese": "两艘船在湖里翻车。"
+    },
+    {
+        "start": 671.5200000000001,
+        "end": 674.96,
+        "english": "And then my grandfather's boat flipped over.",
+        "chinese": "然后我的祖父的船翻了。"
+    },
+    {
+        "start": 674.96,
+        "end": 676.2800000000001,
+        "english": "It turned upside down.",
+        "chinese": "它翻转了。"
+    },
+    {
+        "start": 676.2800000000001,
+        "end": 677.24,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 677.24,
+        "end": 679.24,
+        "english": "And he fell in the water.",
+        "chinese": "A. 他掉进了水里。"
+    },
+    {
+        "start": 679.24,
+        "end": 680.12,
+        "english": "He was OK, right?",
+        "chinese": "他很好，对吧？"
+    },
+    {
+        "start": 680.12,
+        "end": 680.84,
+        "english": "Yeah, he was OK.",
+        "chinese": "是的，他很好。"
+    },
+    {
+        "start": 680.84,
+        "end": 682.2800000000001,
+        "english": "But you know what?",
+        "chinese": "但是你知道什么？"
+    },
+    {
+        "start": 682.2800000000001,
+        "end": 684.84,
+        "english": "He was really angry about this.",
+        "chinese": "他非常生气。"
+    },
+    {
+        "start": 684.84,
+        "end": 687.6800000000001,
+        "english": "And the boat stayed in the water.",
+        "chinese": "船在水中漂浮。"
+    },
+    {
+        "start": 687.6800000000001,
+        "end": 691.5600000000001,
+        "english": "And the engine fell down to the bottom.",
+        "chinese": "和发动机摔到了地面。"
+    },
+    {
+        "start": 691.5600000000001,
+        "end": 694.32,
+        "english": "So we had to go the next morning to get the boat.",
+        "chinese": "所以我们不得不第二天早上去取船。"
+    },
+    {
+        "start": 694.32,
+        "end": 699.2800000000001,
+        "english": "And we actually had to hire some scuba divers to go to the bottom of the lake",
+        "chinese": "我们不得不雇佣潜水员去湖底探查。"
+    },
+    {
+        "start": 699.2800000000001,
+        "end": 700.5600000000001,
+        "english": "to get the engine.",
+        "chinese": "将发动机获取到。"
+    },
+    {
+        "start": 700.5600000000001,
+        "end": 701.2800000000001,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 701.2800000000001,
+        "end": 702.2800000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 702.2800000000001,
+        "end": 704.76,
+        "english": "I imagine your grandpa was pretty angry.",
+        "chinese": "我想象您的爷爷非常生气。"
+    },
+    {
+        "start": 704.76,
+        "end": 707.88,
+        "english": "Yeah, he tells the story every year.",
+        "chinese": "是的，他每年都会讲述故事。"
+    },
+    {
+        "start": 707.88,
+        "end": 709.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 709.72,
+        "end": 713.88,
+        "english": "But I've got a million of these crazy lake stories,",
+        "chinese": "但是，我有成千上万的这些疯狂的湖故事。"
+    },
+    {
+        "start": 713.88,
+        "end": 716.32,
+        "english": "because my family just always have this.",
+        "chinese": "因为我的家庭总是这样。"
+    },
+    {
+        "start": 716.32,
+        "end": 717.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 717.12,
+        "end": 718.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 718.12,
+        "end": 723.08,
+        "english": "All right, guys, well, do you have any crazy stories or any stories related to boats or to swimming",
+        "chinese": "好的，朋友们，你们有没有一些疯狂的故事或者与船或游泳有关的回忆？"
+    },
+    {
+        "start": 723.08,
+        "end": 724.92,
+        "english": "or the shark attack or shark attacks?",
+        "chinese": "或者鲨鱼袭击或鲨鱼袭击？"
+    },
+    {
+        "start": 724.92,
+        "end": 725.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 725.92,
+        "end": 728.0,
+        "english": "So come to our website, EnglishPod.com.",
+        "chinese": "所以，请访问我们的网站，英语Pod. com。"
+    },
+    {
+        "start": 728.0,
+        "end": 730.24,
+        "english": "Leave your stories, share with us.",
+        "chinese": "离开你的故事，与我们分享。"
+    },
+    {
+        "start": 730.24,
+        "end": 734.2,
+        "english": "And also, if you have any doubts or questions, Erica and I are always there to answer.",
+        "chinese": "而且，如果你有任何疑问或问题，请艾瑞卡和我随时为你解答。"
+    },
+    {
+        "start": 734.2,
+        "end": 736.28,
+        "english": "Well, we're out of time for this lesson.",
+        "chinese": "很好，我们已经超过了这个课程。"
+    },
+    {
+        "start": 736.28,
+        "end": 738.36,
+        "english": "But until next time, bye.",
+        "chinese": "但是下次见，再见。"
+    },
+    {
+        "start": 738.36,
+        "end": 739.36,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

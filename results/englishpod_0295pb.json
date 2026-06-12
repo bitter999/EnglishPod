@@ -1,0 +1,836 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.64,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.64,
+        "end": 9.88,
+        "english": "My name is Catherine and here today we have almost almost to the end of our series on",
+        "chinese": "我的名字是凯西，今天我们有将近到最后一集了。"
+    },
+    {
+        "start": 9.88,
+        "end": 16.0,
+        "english": "giving a presentation in English. This is part 9 of 10 so this is near the end but we've",
+        "chinese": "给在英语中做演示。这是第9部分，接近尾声，但我们已经到了最后了。"
+    },
+    {
+        "start": 16.0,
+        "end": 20.96,
+        "english": "got a lot of really great words and phrases for discussing what you've talked about",
+        "chinese": "获得了许多非常优秀的词汇和短语，用于讨论您刚才谈到的内容。"
+    },
+    {
+        "start": 20.96,
+        "end": 25.52,
+        "english": "in the last I don't know 10 minutes or so. It's the summary of your speech and so that's",
+        "chinese": "在最后，我可能不知道10分钟左右。这是你的演讲总结，所以这也是必要的。"
+    },
+    {
+        "start": 25.52,
+        "end": 26.92,
+        "english": "what we're going to talk about today.",
+        "chinese": "今天我们要讨论的话题。"
+    },
+    {
+        "start": 26.92,
+        "end": 31.240000000000002,
+        "english": "That's right so let's take a look at what Mr. Ford is saying in his summary and we'll",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 31.240000000000002,
+        "end": 32.24,
+        "english": "be back in a bit.",
+        "chinese": "英语：尽快回来。"
+    },
+    {
+        "start": 37.6,
+        "end": 42.0,
+        "english": "Right everyone I apologize that I can't show you the marketing campaign today but next",
+        "chinese": "英语：今天我不能给你展示今天的营销活动，但我明天会。"
+    },
+    {
+        "start": 42.0,
+        "end": 46.120000000000005,
+        "english": "week you will all have the opportunity to see it for yourselves and I have no doubt",
+        "chinese": "星期你都会有机会亲眼目睹它，我完全有信心。"
+    },
+    {
+        "start": 46.120000000000005,
+        "end": 51.68000000000001,
+        "english": "that you will be impressed. Let me wrap up the presentation by summarizing my key points.",
+        "chinese": "这个傻瓜相机将为您展示关键点。让我们总结一下我的主要观点。"
+    },
+    {
+        "start": 51.68,
+        "end": 57.12,
+        "english": "As I mentioned at the outset 2010 represents a key year for alpha computers. The recession",
+        "chinese": "作为开头提到的2010年，这是一个关键年的Alpha计算机。经济衰退"
+    },
+    {
+        "start": 57.12,
+        "end": 62.04,
+        "english": "is hopefully behind us. It is clear to everyone in the computer industry that demand is booming",
+        "chinese": "英语：它应该很快就会到来。在计算机行业，需求正在增长。"
+    },
+    {
+        "start": 62.04,
+        "end": 66.64,
+        "english": "especially in the developing markets. If we're to succeed in this ultra competitive field",
+        "chinese": "特别在发展中国家。如果我们要在这个超竞争的领域取得成功，我们必须付出更多的努力和责任。"
+    },
+    {
+        "start": 66.64,
+        "end": 70.6,
+        "english": "then we really need to push forward and offer our customers products that meet their needs",
+        "chinese": "然后，我们真的需要继续前进，并向客户提供那些符合他们需求的产品。"
+    },
+    {
+        "start": 70.6,
+        "end": 76.16,
+        "english": "on all levels. As I hope I've illustrated the X420 represents the kind of computer that",
+        "chinese": "在各个层面。我希望能展示X420代表的计算机的类型。"
+    },
+    {
+        "start": 76.16,
+        "end": 81.24000000000001,
+        "english": "can really satisfy those needs. I gave you an idea of the kind of revenue we expect",
+        "chinese": "英语：它可以很好地满足这些需求。我给你了我们期望的收入模式。"
+    },
+    {
+        "start": 81.24,
+        "end": 87.28,
+        "english": "to hit in 2010 with the new X420 range and believe me this is really just the beginning.",
+        "chinese": "英语：在2010年，我将X420系列的镜头和新X420系列的相机带到现场，并相信这是真正的开始。"
+    },
+    {
+        "start": 87.28,
+        "end": 91.83999999999999,
+        "english": "Once we establish the X420 in the market we have plans to continue to expand our range",
+        "chinese": "我们已经建立X420市场，计划继续扩大我们的范围。"
+    },
+    {
+        "start": 91.83999999999999,
+        "end": 97.8,
+        "english": "with ever more revolutionary and impressive products. Alpha computers is dedicated to innovation",
+        "chinese": "英语：它越来越革命化和令人印象深刻的电子产品。Alpha电脑致力于创新。"
+    },
+    {
+        "start": 97.8,
+        "end": 102.8,
+        "english": "and improvement. I really see no limit in our potential as long as we stick to the principles",
+        "chinese": "和提升。我真觉得我们的潜力没有极限，只要我们坚持原则。"
+    },
+    {
+        "start": 102.8,
+        "end": 108.03999999999999,
+        "english": "I stressed earlier. Quality, excellence and service. Before we move on to the Q&A section",
+        "chinese": "英语：我强调过。质量、卓越和服务。在Q&A部分开始前，我们先讨论一下。"
+    },
+    {
+        "start": 108.04,
+        "end": 111.88000000000001,
+        "english": "I'd really like to leave you with a quote that really sums up everything that we've discussed",
+        "chinese": "我非常感谢您分享了这个观点。"
+    },
+    {
+        "start": 111.88000000000001,
+        "end": 116.56,
+        "english": "today and hopefully it will provide you with the same inspiration that it gives me.",
+        "chinese": "今天和希望它能给我同样的灵感。"
+    },
+    {
+        "start": 116.56,
+        "end": 121.88000000000001,
+        "english": "As the great Henry Ford once said quality means doing it right when no one is looking.",
+        "chinese": "作为伟大的亨利·福特曾经说过，质量意味着做对了。当没有人看的时候。"
+    },
+    {
+        "start": 121.88000000000001,
+        "end": 125.80000000000001,
+        "english": "Well in fact our customers are looking. They're looking for us to lead the way and to give",
+        "chinese": "英语：事实上，我们的客户正在寻找我们来引领方向并提供帮助。"
+    },
+    {
+        "start": 125.80000000000001,
+        "end": 130.56,
+        "english": "them the quality that our competitors cannot. We cannot let them down.",
+        "chinese": "他们认为我们的竞争对手的质量无法达到。我们不能让他们失望。"
+    },
+    {
+        "start": 130.56,
+        "end": 140.56,
+        "english": "Alright we're back so now let's take a look at some language on language takeaway.",
+        "chinese": "好的，我们已经回来，现在让我们看看一些语言小贴士。"
+    },
+    {
+        "start": 140.56,
+        "end": 144.16,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 144.16,
+        "end": 149.84,
+        "english": "So Mark what the very beginning of today's monologue we have a phrase that basically means",
+        "chinese": "英语：所以马克，今天上午的演讲我们有一个非常简短的开始，意思是……。"
+    },
+    {
+        "start": 149.84,
+        "end": 154.44,
+        "english": "the same thing as summarize. What was that phrase? That's right at the last sentence of the",
+        "chinese": "这个短语与总结相同。这句话的最后一个句子是什么意思？那个短语是这样表达的：“That’s right at the last sentence of the”。"
+    },
+    {
+        "start": 154.44,
+        "end": 160.24,
+        "english": "first paragraph we see Mr. Ford say let me wrap up the presentation by summarizing my",
+        "chinese": "第一段，我们看到福特先生说让我总结一下我的演讲。"
+    },
+    {
+        "start": 160.24,
+        "end": 166.88,
+        "english": "key points. So the phrase there is wrap up. That means to conclude to finish to end. This",
+        "chinese": "英语：关键点。所以这里的意思是收尾，结束，结尾。这就是……"
+    },
+    {
+        "start": 166.88,
+        "end": 172.32000000000002,
+        "english": "is the very end of his speech and so to wrap something up means to finish it. That's right.",
+        "chinese": "英语：是他的演讲的最后阶段，所以要结束它意味着要完成。正确。"
+    },
+    {
+        "start": 172.32000000000002,
+        "end": 176.16,
+        "english": "So maybe if you're giving a speech and someone is telling you to wrap it up quickly.",
+        "chinese": "英语：所以，或许如果你正在给演讲做准备，并且有人在告诉你快结束吧。"
+    },
+    {
+        "start": 176.16,
+        "end": 182.4,
+        "english": "I mean stop. That's right. He's fine and ending point. So wrap it up. Let's go. Come on.",
+        "chinese": "我意思是停止。那不错。他很好，结束点了。所以收起来。让我们走吧。加油！"
+    },
+    {
+        "start": 182.4,
+        "end": 188.72,
+        "english": "That's right. So he's wrapping it up by summarizing what he has talked about and so he goes back",
+        "chinese": "是的，正确。所以他把事情总结了一下，并且回去继续工作。"
+    },
+    {
+        "start": 188.72,
+        "end": 196.32,
+        "english": "to the very beginning and he says as I mentioned at the outset. Okay the outset is a noun to time",
+        "chinese": "英语：到目前为止，他说到我提到的开始。嗯，开始是名词，用来表示时间。"
+    },
+    {
+        "start": 196.32,
+        "end": 202.07999999999998,
+        "english": "and it means the beginning. So you might remember in parts one or two of this speech that he was",
+        "chinese": "英语：和它意味着开始。所以你可能记得在第一或第二部分里，他提到的可能是……"
+    },
+    {
+        "start": 202.07999999999998,
+        "end": 207.28,
+        "english": "talking about why 2010 is an important year for their company and so this is the outset. This is",
+        "chinese": "英语：谈论为什么2010年对他们公司来说非常重要，所以这是开端。"
+    },
+    {
+        "start": 207.28,
+        "end": 212.8,
+        "english": "the beginning. You can also say you know at the outset things looked bad but it turns out that",
+        "chinese": "开始。你也可以说，从一开始就感觉事情不好，但最终发现事情并没有那么糟糕。"
+    },
+    {
+        "start": 212.8,
+        "end": 220.4,
+        "english": "they went well. Okay so outset means beginning the the start of something. Okay and he also talked",
+        "chinese": "他们做得很好。开始意味着事情的开始，他也在说。"
+    },
+    {
+        "start": 220.4,
+        "end": 227.20000000000002,
+        "english": "about how the computer industry demand is booming. All right so booming is an interesting word because",
+        "chinese": "关于计算机行业需求的繁荣。这是一个有趣的想法，因为"
+    },
+    {
+        "start": 227.20000000000002,
+        "end": 234.88000000000002,
+        "english": "boom the noun means boom a sound. It's a sound that you hear when there's a storm but booming",
+        "chinese": "“boom” 是一个形容词，意思是“boom”是一个声音。当你听到有风暴时，你会听到这个声音。"
+    },
+    {
+        "start": 234.88000000000002,
+        "end": 241.44,
+        "english": "means doing very well. That means that in this case demand is booming. There is a lot of demand.",
+        "chinese": "英语：它意味着做得很好。这意味着在这种情况下需求非常旺盛。市场上供应量很大。"
+    },
+    {
+        "start": 241.44,
+        "end": 247.44,
+        "english": "That's right. So when you hear people say business is booming. I mean business is going very well.",
+        "chinese": "正确。当你听到人们说商业正在繁荣时，我指的是商业正处在非常好的状态。"
+    },
+    {
+        "start": 247.44,
+        "end": 253.92,
+        "english": "It's very successful. Okay so it basically means that it's doing very well that it's growing quickly",
+        "chinese": "英语：它非常成功。嗯，所以基本上意味着它在做得很好，以至于它正在迅速增长。"
+    },
+    {
+        "start": 253.92,
+        "end": 262.24,
+        "english": "and rapidly. So he went on to talk about the X420 and how the company has plans to keep expanding",
+        "chinese": "英语：和快速地。所以他去了X420，以及公司如何计划继续扩大。"
+    },
+    {
+        "start": 262.24,
+        "end": 268.72,
+        "english": "and keep coming out with ever more revolutionary and impressive products. Okay so something is a",
+        "chinese": "并且不断推出更革命、更 impressively的产品。很好，这是"
+    },
+    {
+        "start": 268.72,
+        "end": 276.08000000000004,
+        "english": "revolutionary if it changes a situation. Okay because revolution basically means change but not a",
+        "chinese": "革命如果改变了情况，那么它就一定不是改变。因为革命通常指的是改变，但并不等同于改变。"
+    },
+    {
+        "start": 276.08000000000004,
+        "end": 282.48,
+        "english": "small change a really big change. And so a product is revolutionary if it introduces something really",
+        "chinese": "小变化，真是大变化。而且，如果引入的东西真的非常有价值，那么产品就会变得非常革命性了。"
+    },
+    {
+        "start": 282.48,
+        "end": 289.6,
+        "english": "new really exciting. Okay so an example of a revolutionary product was the home computer. Exactly",
+        "chinese": "新的非常有趣。好吧，一个例子是个人电脑——它改变了我们的生活方式。"
+    },
+    {
+        "start": 289.6,
+        "end": 296.40000000000003,
+        "english": "because the home computer changed the way people typed and communicated and did all these",
+        "chinese": "因为家庭计算机改变了人们如何输入和交流的方式，所以现在我们使用点和拍来代替。"
+    },
+    {
+        "start": 296.4,
+        "end": 302.08,
+        "english": "different things. And so it's revolutionary because it introduced a big change. That's right. Okay so",
+        "chinese": "不同的东西。而且这真是革命性的，因为它引入了一个巨大的变化。对吧？很好，所以"
+    },
+    {
+        "start": 302.08,
+        "end": 307.44,
+        "english": "revolutionary. Towards the end of Mr. Ford's dialogue he said that they're going to have a Q&A",
+        "chinese": "革命性的。在福特先生的对话末尾，他说道：“我们将有一个Q&A。”"
+    },
+    {
+        "start": 307.44,
+        "end": 314.4,
+        "english": "section and he left us with a quote that according to him sums up everything we've discussed today.",
+        "chinese": "章节，他让我们保留了一句话，他说根据他的说法，今天的所有讨论都概括了我们今天的观点。"
+    },
+    {
+        "start": 314.4,
+        "end": 323.12,
+        "english": "Okay to sum up this is very related to the word to summarize it means to to say in fewer words.",
+        "chinese": "好的，总结起来，这与概括的意思是：它意味着用更少的字来表达。"
+    },
+    {
+        "start": 324.0,
+        "end": 329.6,
+        "english": "Okay so this quote says what he wants to say but it says it in a very short space. So if we read a",
+        "chinese": "好的，这句话说的是他想要表达的内容，但短语却在很短的时间内传达了信息。因此，如果我们阅读中文，我们会发现这句话的意思是什么？"
+    },
+    {
+        "start": 329.6,
+        "end": 336.16,
+        "english": "book and I ask you to sum up the story this is basically I'm asking for a summary. That's right. So I",
+        "chinese": "这本书和我一起问你，这个故事基本上就是我要给你一个总结。对了，所以我说："
+    },
+    {
+        "start": 336.16,
+        "end": 340.8,
+        "english": "could say you know the Harry Potter story is a story about a young boy who's a wizard who loses",
+        "chinese": "英语：你可以说你知道哈利波特的故事是关于一个年轻男孩成为巫师，然后失去他的一生。"
+    },
+    {
+        "start": 340.8,
+        "end": 345.92,
+        "english": "his parents who goes to school with his friends and learns about his powers. That's a perfect way",
+        "chinese": "他的父母带着他去上学，和朋友们一起学习他的能力。这就是一个完美的方式。"
+    },
+    {
+        "start": 345.92,
+        "end": 351.44,
+        "english": "to sum up the Harry Potter story. All right very good. So that's about it for language takeaway today",
+        "chinese": "英语：它是一点和拍相机。一切好，今天关于语言小结就到这里了。"
+    },
+    {
+        "start": 351.44,
+        "end": 355.68,
+        "english": "but we have some great phrases coming up for you in fluency builder. Let's listen to the dialogue",
+        "chinese": "但是，我们有一些流畅器即将为您服务。让我们听听对话。"
+    },
+    {
+        "start": 355.68,
+        "end": 365.68,
+        "english": "again first and we'll be back in a moment. Right everyone I apologize that I can't show you the",
+        "chinese": "英语：再次，首先我们会在一会儿再见面。请大家原谅我不能展示给你们的。"
+    },
+    {
+        "start": 365.68,
+        "end": 370.72,
+        "english": "marketing campaign today but next week you will all have the opportunity to see it for yourselves",
+        "chinese": "今天进行市场推广，但下周我们将有机会亲自体验。"
+    },
+    {
+        "start": 370.72,
+        "end": 376.24,
+        "english": "and I have no doubt that you will be impressed. Let me wrap up the presentation by summarizing my",
+        "chinese": "英语：和我有保证，你一定会被深深吸引。让我总结一下我的演讲，以确保我们达成一致意见。"
+    },
+    {
+        "start": 377.12,
+        "end": 382.88,
+        "english": "as I mentioned at the outset 2010 represents a key year for alpha computers. The recession is",
+        "chinese": "英语：它代表了Alpha计算机2010年的一个关键时期。经济衰退是。"
+    },
+    {
+        "start": 382.88,
+        "end": 387.6,
+        "english": "hopefully behind us. It is clear to everyone in the computer industry that demand is booming",
+        "chinese": "英语：它应该在我们后面。计算机行业的需求正在快速增长。"
+    },
+    {
+        "start": 387.6,
+        "end": 392.48,
+        "english": "especially in the developing markets. If we're to succeed in this ultra competitive field then we",
+        "chinese": "特别在发展中国家。如果我们要在这个超竞争的领域取得成功，那么我们必须"
+    },
+    {
+        "start": 392.48,
+        "end": 397.12,
+        "english": "really need to push forward and offer our customers products that meet their needs on all levels.",
+        "chinese": "真的需要继续前进，提供给我们的客户的产品能够满足他们的所有需求。"
+    },
+    {
+        "start": 397.76,
+        "end": 403.12,
+        "english": "As I hope I've illustrated the x420 represents the kind of computer that can really satisfy those",
+        "chinese": "我希望能展示x420代表能够真正满足那些的计算机。"
+    },
+    {
+        "start": 403.12,
+        "end": 409.52,
+        "english": "needs. I gave you an idea of the kind of revenue we expect to hit in 2010 with the new x420 range",
+        "chinese": "需要。我给你了2010年新x420系列范围的预期收入。"
+    },
+    {
+        "start": 409.52,
+        "end": 415.36,
+        "english": "and believe me this is really just the beginning. Once we establish the x420 in the market we have",
+        "chinese": "和我一起加油！让我们一步步地前进。"
+    },
+    {
+        "start": 415.36,
+        "end": 421.04,
+        "english": "plans to continue to expand our range with ever more revolutionary and impressive products. Alpha",
+        "chinese": "计划继续扩大我们的产品线，推出更多革命性和令人印象深刻的创新产品。 Alpha"
+    },
+    {
+        "start": 421.04,
+        "end": 427.2,
+        "english": "computers is dedicated to innovation and improvement. I really see no limit in our potential as long",
+        "chinese": "计算机是致力于创新和改进的。我真地相信，我们的潜力永远不会达到极限。"
+    },
+    {
+        "start": 427.2,
+        "end": 432.64,
+        "english": "as we stick to the principles I stressed earlier quality excellence and service. Before we move on to",
+        "chinese": "英语：它像我们之前强调的质量和服务一样。在接下来的步骤中，我们将如何继续？"
+    },
+    {
+        "start": 432.64,
+        "end": 436.96,
+        "english": "the Q&A section I'd really like to leave you with a quote that really sums up everything that we've",
+        "chinese": "英文：它是一点和一拍的傻瓜相机。"
+    },
+    {
+        "start": 436.96,
+        "end": 441.91999999999996,
+        "english": "discussed today and hopefully it will provide you with the same inspiration that it gives me.",
+        "chinese": "今天讨论了，我相信它会给我同样的灵感。"
+    },
+    {
+        "start": 441.91999999999996,
+        "end": 448.08,
+        "english": "As the great Henry Ford once said quality means doing it right when no one is looking. Well in fact",
+        "chinese": "作为伟大的亨利·福特曾经说过，质量意味着做对了。事实上"
+    },
+    {
+        "start": 448.08,
+        "end": 452.32,
+        "english": "our customers are looking they're looking for us to lead the way and to give them the quality that",
+        "chinese": "我们的客户们正在寻找我们来引领他们，给他们提供高质量的产品。"
+    },
+    {
+        "start": 452.32,
+        "end": 455.84,
+        "english": "our competitors cannot. We cannot let them down.",
+        "chinese": "我们的竞争对手不能。我们不能让他们失望。"
+    },
+    {
+        "start": 462.4,
+        "end": 466.48,
+        "english": "All right we're back so now let's take a look at four key phrases on Fluency Builder.",
+        "chinese": "好的，我们已经回来。现在让我们看看四个关键短语在 FluentBuilder 中。"
+    },
+    {
+        "start": 467.68,
+        "end": 473.6,
+        "english": "Fluency Builder. So the first phrase we've got here in Fluency Builder is an interesting one and",
+        "chinese": "流畅 builder。因此，我们这里在流畅 builder 中得到的第一个有趣的一句话是："
+    },
+    {
+        "start": 473.6,
+        "end": 479.6,
+        "english": "I think it's important to point out because we've got a verb and a noun that often go together. Mr.",
+        "chinese": "我建议你把这个点和拍在一起，因为我们经常用到一个动词和一个名词。先生。"
+    },
+    {
+        "start": 479.68,
+        "end": 486.8,
+        "english": "Ford said this kind of computer can really satisfy those needs that users that customers have.",
+        "chinese": "英文：福特说这种电脑真的能很好地满足那些用户们的需求。"
+    },
+    {
+        "start": 486.8,
+        "end": 492.64000000000004,
+        "english": "That's right so the phrase there is to satisfy a need and as you said this verb and this noun",
+        "chinese": "英语：那对，所以这个短语是用来满足一个需求和你说的这个动词和这个名词。"
+    },
+    {
+        "start": 492.64000000000004,
+        "end": 498.0,
+        "english": "usually go together you want to satisfy your customers needs. All right so what do I need?",
+        "chinese": "通常一起，你希望满足你的客户的需求。好，我需要什么？"
+    },
+    {
+        "start": 498.0,
+        "end": 505.68,
+        "english": "I need a good computer that is fast that I can do my business on. And this computer the X420",
+        "chinese": "我需要一个性能好的电脑，这个电脑是最快的，并且我可以用它来处理我的业务。这台电脑X420。"
+    },
+    {
+        "start": 505.76,
+        "end": 512.96,
+        "english": "satisfies that need. It does what I need it to do. Okay so we understand the verb to satisfy and",
+        "chinese": "满足那个需求。它能做我想做的那件事。明白了，那么现在我们来翻译一下这个句子：It's a point and shoot camera. 这是一个傻瓜相机。"
+    },
+    {
+        "start": 512.96,
+        "end": 517.92,
+        "english": "but the phrase is a very powerful phrase especially if you use it in business where you're saying",
+        "chinese": "但是这个短语非常强大，特别是在商务场合，如果你在说的时候恰到好处。"
+    },
+    {
+        "start": 517.92,
+        "end": 523.6800000000001,
+        "english": "we are giving we are giving our customers what they need and we are making them happy. Exactly.",
+        "chinese": "我们正提供给我们的客户他们需要的一切，并且让他们感到满意。完美。"
+    },
+    {
+        "start": 523.6800000000001,
+        "end": 529.12,
+        "english": "Okay as he continued talking about the X420 he said if this is just the beginning.",
+        "chinese": "好的，他继续谈论X420时说道：“如果这只是开始。”"
+    },
+    {
+        "start": 529.76,
+        "end": 535.36,
+        "english": "All right so this is something we often say when we have a long project or plan you can say you",
+        "chinese": "英语：所有，请您说，这是一些我们经常在项目或计划中提到的事项。"
+    },
+    {
+        "start": 535.76,
+        "end": 541.44,
+        "english": "yes things are good now but this is just the beginning. All right there are many good things to come",
+        "chinese": "英语：一切都很棒，但这只是开始。还有很多值得期待的好事等着我们。"
+    },
+    {
+        "start": 542.0,
+        "end": 547.44,
+        "english": "and this is something we often say in a positive way. Yes this is good but expect better things",
+        "chinese": "英语：和这一点，这个东西我们经常用一种积极的方式说。是好的，但期待更好的事物。"
+    },
+    {
+        "start": 547.44,
+        "end": 554.0,
+        "english": "in the future. Very good. Okay so this is just the beginning. And well as he continued talking about",
+        "chinese": "在未来的某一天。非常棒。很好，这个就是开始了。而且他继续谈论了。"
+    },
+    {
+        "start": 554.0,
+        "end": 561.04,
+        "english": "the company he said that the customers are looking for us to lead the way. Okay so this is an",
+        "chinese": "这个公司他声称我们正在引领客户。嗯，这是个开始。"
+    },
+    {
+        "start": 561.04,
+        "end": 566.7199999999999,
+        "english": "interesting phrase because he's making a comparison with other companies and he's saying listen",
+        "chinese": "英语：有趣的一句话，因为他正在和其他公司进行比较，并且在说，请听。"
+    },
+    {
+        "start": 566.7199999999999,
+        "end": 577.04,
+        "english": "our customers have many needs but they want us to really be ahead of them and to to innovate and",
+        "chinese": "我们的客户有很多需求，但他们希望我们能够领先他们，并且要不断创新。"
+    },
+    {
+        "start": 577.04,
+        "end": 583.68,
+        "english": "to make new things and new computers that will be ahead of the competition. So take the lead be in",
+        "chinese": "英语：为了使新的事物和新的计算机走在竞争对手的前面。所以，要领先一步。"
+    },
+    {
+        "start": 583.68,
+        "end": 590.64,
+        "english": "the front. So basically the phrase to lead the way is for you to be in the front and and give people",
+        "chinese": "前部。所以基本上是让你在前面，然后和大家一起展示自己。"
+    },
+    {
+        "start": 590.8,
+        "end": 596.64,
+        "english": "a clear path. Think of your saying bolts that runner in the Olympics everyone's running quickly",
+        "chinese": "英文：一条清晰的路。想想你的言辞，让所有的人都在为奥运会而跑得飞快。"
+    },
+    {
+        "start": 596.64,
+        "end": 602.24,
+        "english": "but all of a sudden he takes the lead. He leads the way he is ahead of everyone else. All the other",
+        "chinese": "但是突然他站了出来。他走在了前面，领先于所有人。所有其他人都落后了。"
+    },
+    {
+        "start": 602.24,
+        "end": 608.24,
+        "english": "runners are far far behind him. That's right. Okay so he's leading the way and he finishes his monologue",
+        "chinese": "英语：跑得远，比他快得多。对吧？所以他在领头，他结束了他的演讲。"
+    },
+    {
+        "start": 608.24,
+        "end": 614.4,
+        "english": "by saying we cannot let them down. We cannot let our customers down basically. So the phrase here is",
+        "chinese": "英语：通过说我们不能让他们失望。我们也不能让我们的客户失望，所以这句话在这里是"
+    },
+    {
+        "start": 614.4,
+        "end": 620.9599999999999,
+        "english": "to let someone down. He let me down. We let them down. This is a great phrase and you can use it",
+        "chinese": "英语：让他失望。他让我失望。我们让他们失望。这是个好词，你可以用它。"
+    },
+    {
+        "start": 620.9599999999999,
+        "end": 625.92,
+        "english": "about anybody. And it's a really important phrase because it means to disappoint someone.",
+        "chinese": "关于任何人。而且，这句谚语意味着要让某人失望。"
+    },
+    {
+        "start": 626.8,
+        "end": 632.88,
+        "english": "So for example Marco when you forgot my birthday you really let me down. Okay so that means",
+        "chinese": "英语：所以，比如当你说你忘了我的生日时，你真的很让我失望。那么这意味着"
+    },
+    {
+        "start": 632.88,
+        "end": 641.52,
+        "english": "I disappointed you because I forgot everything. So to let someone down is to disappoint them to not",
+        "chinese": "我非常失望，因为我忘记了很多。所以，对不起，让你失望，是因为你让我感到不开心。"
+    },
+    {
+        "start": 642.4,
+        "end": 647.52,
+        "english": "to not do what you were expected to do. Exactly and so a company can do this. For example when a",
+        "chinese": "英语：不按照你所期望的方式做。这是公司可以做到的。例如，当一个公司要求员工按计划完成任务时。"
+    },
+    {
+        "start": 647.52,
+        "end": 653.92,
+        "english": "company like Toyota makes a car that has many problems that company lets down its customers.",
+        "chinese": "公司像丰田这样的汽车制造商制造了一个有很多问题的车，它让客户失望。"
+    },
+    {
+        "start": 653.92,
+        "end": 659.6,
+        "english": "So you can let someone down. Basically you have to have the subject. You let someone down or",
+        "chinese": "所以你可以让别人下不了手。基本上你得有主角，才能让别人下不了手。"
+    },
+    {
+        "start": 659.6,
+        "end": 667.04,
+        "english": "the company let down its customers. Exactly. Okay a lot of great stuff here when we take one last",
+        "chinese": "英语：这家公司放下了它的客户。没错，这里有很多很棒的东西，当我们最后一个离开的时候。"
+    },
+    {
+        "start": 667.04,
+        "end": 676.9599999999999,
+        "english": "listen and boy back in a bit. Right everyone I apologize that I can't show you the marketing",
+        "chinese": "英语：请稍等，我马上给你展示一下营销。"
+    },
+    {
+        "start": 676.9599999999999,
+        "end": 681.5999999999999,
+        "english": "campaign today but next week you will all have the opportunity to see it for yourselves.",
+        "chinese": "今天的大规模宣传活动，但下周我们将有机会亲自体验它。"
+    },
+    {
+        "start": 681.5999999999999,
+        "end": 687.12,
+        "english": "And I have no doubt that you will be impressed. Let me wrap up the presentation by summarizing my",
+        "chinese": "和我没有任何怀疑。让我总结一下我的演讲，以表达对你的赞赏。"
+    },
+    {
+        "start": 687.12,
+        "end": 692.9599999999999,
+        "english": "key points. As I mentioned at the outset 2010 represents a key year for alpha computers.",
+        "chinese": "关键点。正如我之前在2010年所提到，这是一个重要的年份。"
+    },
+    {
+        "start": 692.96,
+        "end": 697.2,
+        "english": "The recession is hopefully behind us. It is clear to everyone in the computer industry that",
+        "chinese": "英语：经济衰退是有可能的。在计算机行业，所有人都清楚这一点。"
+    },
+    {
+        "start": 697.2,
+        "end": 702.8000000000001,
+        "english": "demand is booming especially in the developing markets. If we are to succeed in this ultra competitive",
+        "chinese": "英语：需求正在膨胀，尤其在发展中国家。如果我们想在这个超竞争激烈的市场中成功，我们必须卸下重任。"
+    },
+    {
+        "start": 702.8000000000001,
+        "end": 706.8000000000001,
+        "english": "field then we really need to push forward and offer our customers products that meet their",
+        "chinese": "然后，我们真的需要继续前进并提供满足您需求的产品。"
+    },
+    {
+        "start": 706.8000000000001,
+        "end": 712.8000000000001,
+        "english": "needs on all levels. As I hope I've illustrated the X420 represents the kind of computer that can",
+        "chinese": "需要在各个层面。我希望能展示X420代表的计算机的类型。"
+    },
+    {
+        "start": 712.8000000000001,
+        "end": 718.88,
+        "english": "really satisfy those needs. I gave you an idea of the kind of revenue we expect to hit in 2010 with",
+        "chinese": "真的能满足那些需求。我给你了我们预计在2010年能盈利的那部分收入的想法。"
+    },
+    {
+        "start": 718.88,
+        "end": 725.2,
+        "english": "a new X420 range and believe me this is really just the beginning. Once we establish the X420",
+        "chinese": "新的X420系列和我深信不疑的是，一旦我们建立X420系列，一切都将变得异常顺利。"
+    },
+    {
+        "start": 725.2,
+        "end": 730.16,
+        "english": "in the market we have plans to continue to expand our range with ever more revolutionary and",
+        "chinese": "在市场中，我们有计划继续扩大我们的范围，推出更革命的和更加先进的产品。"
+    },
+    {
+        "start": 730.16,
+        "end": 736.88,
+        "english": "impressive products. Alpha computers is dedicated to innovation and improvement. I really see no limit",
+        "chinese": "英文：令人惊叹的产品。Alpha计算机致力于创新和改进，我完全理解这一点。"
+    },
+    {
+        "start": 736.88,
+        "end": 741.4399999999999,
+        "english": "in our potential as long as we stick to the principles I stressed earlier. Quality, excellence",
+        "chinese": "在我们的潜力里，只要我们坚持我之前强调的品质和卓越。质量、卓越"
+    },
+    {
+        "start": 741.4399999999999,
+        "end": 746.24,
+        "english": "and service. Before we move on to the Q&A section I'd really like to leave you with a quote that",
+        "chinese": "和服务。在我们进入问答部分之前，我想给你留下一句话，愿你一路顺风！"
+    },
+    {
+        "start": 746.24,
+        "end": 750.8,
+        "english": "really sums up everything that we've discussed today and hopefully it will provide you with the",
+        "chinese": "真的概括了我们今天讨论的所有内容，并且我相信这将为您提供一个"
+    },
+    {
+        "start": 750.8,
+        "end": 756.88,
+        "english": "same inspiration that it gives me as the great Henry Ford once said quality means doing it right",
+        "chinese": "英文：同它给我带来的灵感，就是亨利·福特曾经说过质量意味着做对了。"
+    },
+    {
+        "start": 756.88,
+        "end": 761.52,
+        "english": "when no one is looking. Well in fact our customers are looking they're looking for us to lead the",
+        "chinese": "当没有人看的时候。事实上，我们的客户们正在寻找我们来领导他们。"
+    },
+    {
+        "start": 761.52,
+        "end": 766.72,
+        "english": "way and to give them the quality that our competitors cannot. We cannot let them down.",
+        "chinese": "英文：让我们的竞争对手无法达到的品质。我们不能让他们失望。"
+    },
+    {
+        "start": 766.88,
+        "end": 778.48,
+        "english": "Alright guys so this is the penultimate lesson about presentation skills as you saw we are",
+        "chinese": "好的，这是你看到的最后一个关于演示技能的课程。"
+    },
+    {
+        "start": 778.48,
+        "end": 784.88,
+        "english": "summarizing and concluding the presentation and there are actually a lot of great things here",
+        "chinese": "英语：总结和结论，这里确实有很多好东西。"
+    },
+    {
+        "start": 785.44,
+        "end": 790.72,
+        "english": "to learn from especially the vocab where you're saying okay let's some things up to wrap it up",
+        "chinese": "英语：学习特别从你正在说的，让我们先放一下。"
+    },
+    {
+        "start": 790.8000000000001,
+        "end": 797.0400000000001,
+        "english": "to conclude to summarize the key points. Yeah but there are also some important things coming up",
+        "chinese": "英语：总结和概述关键点。嗯，但还有些重要的事情要处理。"
+    },
+    {
+        "start": 797.0400000000001,
+        "end": 802.5600000000001,
+        "english": "next week that's the very very last part of this series because usually after presentation there",
+        "chinese": "下个星期就是这个系列的最后一个部分，因为通常在演示后会有最后的部分。"
+    },
+    {
+        "start": 802.5600000000001,
+        "end": 808.24,
+        "english": "is a section four questions and answers that's called Q&A and that's the topic of our next show so",
+        "chinese": "这是四章问题与答案，叫做问答，我们的下一个节目主题是……"
+    },
+    {
+        "start": 808.24,
+        "end": 812.32,
+        "english": "you guys should stay tuned for that. Alright so we'll see you guys next time and of course if you have",
+        "chinese": "你 guys 应该 等待 一下 这么 一 次。当然， 如果 你们 有 时间 我们 可以 一起 去。"
+    },
+    {
+        "start": 812.32,
+        "end": 816.72,
+        "english": "any questions or comments you will always find us at EnglishPaw.com. See you guys there. Bye.",
+        "chinese": "任何问题或评论，您将永远在这里找到我们。见你们！再见。"
+    }
+]

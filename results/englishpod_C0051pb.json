@@ -1,0 +1,1520 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.8,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 4.8,
+        "end": 6.0,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.0,
+        "end": 10.0,
+        "english": "And today we're bringing you another great lesson and this time we're going to be shopping.",
+        "chinese": "今天，我们在这里向您展示另一个重要的教训。这一次，我们将进行购物活动。"
+    },
+    {
+        "start": 10.0,
+        "end": 15.120000000000001,
+        "english": "That's right. Actually a lot of our users asked for some lessons about shopping, right?",
+        "chinese": "是的。实际上，我们的用户们对购物课感兴趣吗？"
+    },
+    {
+        "start": 15.120000000000001,
+        "end": 20.0,
+        "english": "Exactly. And I think one of the most important things when you go shopping is to get a good price.",
+        "chinese": "正确。当你去购物时，最重要的是要找到一个好价格。"
+    },
+    {
+        "start": 20.0,
+        "end": 23.28,
+        "english": "That's right. So we're going to be teaching you how to bargain.",
+        "chinese": "正确的是。所以我们将教你如何讨价还价。"
+    },
+    {
+        "start": 23.28,
+        "end": 28.48,
+        "english": "So Marco, you just mentioned a really great word. Let's look at it in vocabulary preview.",
+        "chinese": "所以马科，你刚刚提到一个非常棒的词。让我们看看这个词在词汇预览中的样子。"
+    },
+    {
+        "start": 28.48,
+        "end": 30.560000000000002,
+        "english": "Verkablery preview.",
+        "chinese": "翻译结果如下："
+    },
+    {
+        "start": 30.560000000000002,
+        "end": 34.96,
+        "english": "All right. So we're going to preview the word bargain today.",
+        "chinese": "好的。今天我们将预览今天的字结。"
+    },
+    {
+        "start": 34.96,
+        "end": 35.84,
+        "english": "Bargain.",
+        "chinese": "低价。"
+    },
+    {
+        "start": 35.84,
+        "end": 36.64,
+        "english": "Bargain.",
+        "chinese": "低价。"
+    },
+    {
+        "start": 36.64,
+        "end": 37.52,
+        "english": "Bargain.",
+        "chinese": "低价。"
+    },
+    {
+        "start": 37.52,
+        "end": 40.56,
+        "english": "Now this is an interesting word because it's a verb and noun.",
+        "chinese": "现在这个词很有趣，因为它既是动词又是名词。"
+    },
+    {
+        "start": 40.56,
+        "end": 46.08,
+        "english": "That's right. So a bargain is a good price, right?",
+        "chinese": "是的，所以“好价钱”就是一种好的价格吗？"
+    },
+    {
+        "start": 46.08,
+        "end": 48.08,
+        "english": "Okay. So a bargain is a good price.",
+        "chinese": "好的。所以，一个交易是好价格。"
+    },
+    {
+        "start": 48.08,
+        "end": 50.56,
+        "english": "Yeah. This t-shirt was a bargain.",
+        "chinese": "是的。这件T恤是打折的。"
+    },
+    {
+        "start": 51.44,
+        "end": 53.36,
+        "english": "I only paid a dollar for it.",
+        "chinese": "我只花了1元钱。"
+    },
+    {
+        "start": 53.36,
+        "end": 54.8,
+        "english": "Okay. So that is a bargain.",
+        "chinese": "好的。这是个优惠。"
+    },
+    {
+        "start": 54.8,
+        "end": 55.519999999999996,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 55.6,
+        "end": 57.440000000000005,
+        "english": "But two bargain as a verb.",
+        "chinese": "但是，一个“买”字。"
+    },
+    {
+        "start": 58.24,
+        "end": 59.84,
+        "english": "To try and get a good price.",
+        "chinese": "尝试找到一个合适的价钱。"
+    },
+    {
+        "start": 59.84,
+        "end": 61.52,
+        "english": "So it's very similar to negotiate.",
+        "chinese": "所以它与谈判非常相似。"
+    },
+    {
+        "start": 61.52,
+        "end": 64.8,
+        "english": "Yeah. So I would say it costs a hundred dollars.",
+        "chinese": "是的。所以我可以说，这需要一百元。"
+    },
+    {
+        "start": 64.8,
+        "end": 67.44,
+        "english": "And then I would say maybe it no, I'll give you 50.",
+        "chinese": "然后我可能会说，或许吧，我会给你50。"
+    },
+    {
+        "start": 67.44,
+        "end": 68.80000000000001,
+        "english": "Oh, 75.",
+        "chinese": "对不起，我无法直接翻译中文的“Oh, 75”到中文。不过，我可以提供一些可能的翻译方式："
+    },
+    {
+        "start": 68.80000000000001,
+        "end": 70.0,
+        "english": "And then I'll say 60.",
+        "chinese": "然后我会说六十。"
+    },
+    {
+        "start": 70.0,
+        "end": 70.32000000000001,
+        "english": "Etc.",
+        "chinese": "等同于 \"etc.\" 在中文中的翻译是 \"等等\"。例如，如果我想表达“等等”，可以这样说：“等等等。”"
+    },
+    {
+        "start": 70.32000000000001,
+        "end": 70.48,
+        "english": "Etc.",
+        "chinese": "等同于 \"etc.\" 的意思是 \"等等\" 或 \"继续\"。在中文中，这个短语通常用于表达对某事的期待或建议，类似于 \"等等你\" 或 \"继续吧\"。例如："
+    },
+    {
+        "start": 70.48,
+        "end": 70.80000000000001,
+        "english": "Etc.",
+        "chinese": "等同于 \"etc.\" 在中文中的翻译是 \"等等\" 或 \"等等等\"。例如，如果有人问你 \"等一下，我需要一些时间来回答你的问题。\" 你可以用 \"等等等\" 来回应。"
+    },
+    {
+        "start": 71.76,
+        "end": 72.80000000000001,
+        "english": "And that's two bargain, right?",
+        "chinese": "这句话的中文翻译是：“这就是两份便宜货，对吧？”"
+    },
+    {
+        "start": 73.60000000000001,
+        "end": 75.28,
+        "english": "Okay. So we're going to be bargaining.",
+        "chinese": "好的。我们准备谈判。"
+    },
+    {
+        "start": 75.28,
+        "end": 80.08000000000001,
+        "english": "Let's listen to the dialogue for the first time as we have a woman bargaining in a store, right?",
+        "chinese": "让我们从头开始，因为今天是我们第一次听到对话，我们有位女士在商店里卖衣服，对吗？"
+    },
+    {
+        "start": 80.08000000000001,
+        "end": 80.32000000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 85.83999999999999,
+        "end": 86.64,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 88.64,
+        "end": 89.44,
+        "english": "Hello. May I help you?",
+        "chinese": "你好。请问有什么可以帮助的吗？"
+    },
+    {
+        "start": 90.08,
+        "end": 92.32,
+        "english": "Yeah. This dress is really nice.",
+        "chinese": "是的。这件裙子真的很好看。"
+    },
+    {
+        "start": 92.32,
+        "end": 92.96,
+        "english": "How much is it?",
+        "chinese": "如何计算？"
+    },
+    {
+        "start": 93.52,
+        "end": 95.03999999999999,
+        "english": "That one is a hundred fifty dollars.",
+        "chinese": "那一个是一百五十元。"
+    },
+    {
+        "start": 95.52,
+        "end": 96.64,
+        "english": "A hundred fifty dollars.",
+        "chinese": "一百五十元。"
+    },
+    {
+        "start": 97.52,
+        "end": 99.36,
+        "english": "What about this other one over here?",
+        "chinese": "这个其他的一样吗？"
+    },
+    {
+        "start": 99.92,
+        "end": 100.96,
+        "english": "That's a hundred and forty.",
+        "chinese": "一百四十。"
+    },
+    {
+        "start": 102.39999999999999,
+        "end": 104.16,
+        "english": "That's a piece of house in my price range.",
+        "chinese": "那是一套我消费能力范围内的房子。"
+    },
+    {
+        "start": 104.8,
+        "end": 106.16,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 107.03999999999999,
+        "end": 110.0,
+        "english": "This is an exclusive design by Damarco.",
+        "chinese": "这个设计由迪马科独家设计。"
+    },
+    {
+        "start": 110.0,
+        "end": 111.75999999999999,
+        "english": "It's a bargain at that price.",
+        "chinese": "这是以这个价格划算。"
+    },
+    {
+        "start": 112.32,
+        "end": 113.44,
+        "english": "Well, I don't know.",
+        "chinese": "嗯，我不太知道。"
+    },
+    {
+        "start": 114.08,
+        "end": 115.03999999999999,
+        "english": "I think I'll shop around.",
+        "chinese": "我认为我将四处逛逛。"
+    },
+    {
+        "start": 115.67999999999999,
+        "end": 116.32,
+        "english": "Okay, okay.",
+        "chinese": "好的，好的。"
+    },
+    {
+        "start": 116.32,
+        "end": 117.44,
+        "english": "How about a hundred dollars?",
+        "chinese": "如何说一百元？"
+    },
+    {
+        "start": 118.56,
+        "end": 120.39999999999999,
+        "english": "That's still more than I wanted to spend.",
+        "chinese": "这只是我想要花的钱的几倍。"
+    },
+    {
+        "start": 121.28,
+        "end": 122.88,
+        "english": "What if I take both dresses?",
+        "chinese": "如果我同时穿上了这两件衣服？"
+    },
+    {
+        "start": 124.08,
+        "end": 127.6,
+        "english": "Okay. I can give you a special discount just because you seem like a nice person.",
+        "chinese": "好的。我给你一个特别的折扣，因为看起来你是个好意的人。"
+    },
+    {
+        "start": 128.16,
+        "end": 129.68,
+        "english": "A hundred and ninety for both.",
+        "chinese": "一百九十对。"
+    },
+    {
+        "start": 130.96,
+        "end": 131.68,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 132.56,
+        "end": 133.68,
+        "english": "Still a bit pricey.",
+        "chinese": "还很贵。"
+    },
+    {
+        "start": 134.32,
+        "end": 135.12,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 135.12,
+        "end": 136.64,
+        "english": "Okay. My final price.",
+        "chinese": "好的。我的最终价格。"
+    },
+    {
+        "start": 136.64,
+        "end": 137.84,
+        "english": "One hundred dollars for both.",
+        "chinese": "一百元买两件。"
+    },
+    {
+        "start": 137.84,
+        "end": 140.24,
+        "english": "That's two for the price of one and that's my last offer.",
+        "chinese": "这句话的意思是：“那两样就比一个便宜，这是我最后的优惠。”"
+    },
+    {
+        "start": 140.24,
+        "end": 141.6,
+        "english": "Right! You cause a deal.",
+        "chinese": "正确！您导致了一个协议。"
+    },
+    {
+        "start": 146.08,
+        "end": 148.72,
+        "english": "All right. That was some good bargaining skills right there.",
+        "chinese": "好的。那真是谈判技巧做得很好。"
+    },
+    {
+        "start": 148.72,
+        "end": 153.20000000000002,
+        "english": "Yeah. And you know what? She used a lot of good language to get a cheaper price, didn't she?",
+        "chinese": "是的。你知道吗？她用了很多好语言来得到一个更便宜的价格，对吧？"
+    },
+    {
+        "start": 153.20000000000002,
+        "end": 154.64000000000001,
+        "english": "Yeah. Yeah. That was good.",
+        "chinese": "是的。是的。那还不错。"
+    },
+    {
+        "start": 154.64000000000001,
+        "end": 157.68,
+        "english": "So let's take a look at this language in language takeaway.",
+        "chinese": "所以，让我们来看看这个语言在语言总结中。"
+    },
+    {
+        "start": 159.76000000000002,
+        "end": 160.96,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 162.64000000000001,
+        "end": 165.12,
+        "english": "Okay. The first word we have in language takeaway today.",
+        "chinese": "好的。今天的语言取走法的第一句话是："
+    },
+    {
+        "start": 165.76000000000002,
+        "end": 166.72,
+        "english": "Price range.",
+        "chinese": "价格区间。"
+    },
+    {
+        "start": 166.72,
+        "end": 167.44,
+        "english": "Price range.",
+        "chinese": "价格区间。"
+    },
+    {
+        "start": 168.0,
+        "end": 169.28,
+        "english": "Price range.",
+        "chinese": "价格区间。"
+    },
+    {
+        "start": 169.28,
+        "end": 170.4,
+        "english": "Price range.",
+        "chinese": "价格区间。"
+    },
+    {
+        "start": 170.4,
+        "end": 172.32000000000002,
+        "english": "Price range. What does that mean exactly?",
+        "chinese": "价格区间。那到底意味着什么？"
+    },
+    {
+        "start": 172.32,
+        "end": 179.04,
+        "english": "So price range is the minimum and the maximum that you're willing to spend or a thing that you want to buy.",
+        "chinese": "所以价格区间是您愿意花费的最小值和最大值，或者您想要购买的东西。"
+    },
+    {
+        "start": 179.04,
+        "end": 183.44,
+        "english": "Exactly. So in the dialogue we heard, it's out of my price range.",
+        "chinese": "正确。我们在对话中听到的，是我的价格范围之外的。"
+    },
+    {
+        "start": 183.44,
+        "end": 184.88,
+        "english": "It's more than I can spend.",
+        "chinese": "它比我能承受的还要多。"
+    },
+    {
+        "start": 184.88,
+        "end": 185.92,
+        "english": "More than I can spend.",
+        "chinese": "更多，我无法承受。"
+    },
+    {
+        "start": 185.92,
+        "end": 186.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 186.32,
+        "end": 188.72,
+        "english": "Okay. Okay. Let's look at her next word.",
+        "chinese": "好的。好的。让我们看看她接下来的单词。"
+    },
+    {
+        "start": 188.72,
+        "end": 189.84,
+        "english": "Shop around.",
+        "chinese": "购物吧。"
+    },
+    {
+        "start": 189.84,
+        "end": 190.79999999999998,
+        "english": "Shop around.",
+        "chinese": "购物吧。"
+    },
+    {
+        "start": 190.79999999999998,
+        "end": 191.6,
+        "english": "Shop around.",
+        "chinese": "购物吧。"
+    },
+    {
+        "start": 191.6,
+        "end": 192.88,
+        "english": "Shop around.",
+        "chinese": "购物吧。"
+    },
+    {
+        "start": 192.88,
+        "end": 195.51999999999998,
+        "english": "So she said, I think I think I'll shop around.",
+        "chinese": "所以她说，我想我可能会去逛逛。"
+    },
+    {
+        "start": 195.51999999999998,
+        "end": 200.64,
+        "english": "Right. So she wants to check in a few other stores to see if there's a better price.",
+        "chinese": "正确。她想看看是否有其他商店能给她一个更好的价格。"
+    },
+    {
+        "start": 200.64,
+        "end": 204.48,
+        "english": "If I shop around, I'm going and trying to compare prices maybe.",
+        "chinese": "如果我购物，我可能要找找价格，看看是否可以比较。"
+    },
+    {
+        "start": 204.48,
+        "end": 207.76,
+        "english": "Exactly. This is a really good shopping technique.",
+        "chinese": "正确。这是非常好的购物技巧。"
+    },
+    {
+        "start": 207.76,
+        "end": 208.48,
+        "english": "Yeah, it is.",
+        "chinese": "是的，它。"
+    },
+    {
+        "start": 208.48,
+        "end": 208.95999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 208.95999999999998,
+        "end": 210.72,
+        "english": "Okay. And let's look at her last word.",
+        "chinese": "好的。让我们看看她最后一个字。"
+    },
+    {
+        "start": 211.35999999999999,
+        "end": 212.16,
+        "english": "Pricey.",
+        "chinese": "价格贵。"
+    },
+    {
+        "start": 212.16,
+        "end": 213.27999999999997,
+        "english": "Pricey.",
+        "chinese": "价格贵。"
+    },
+    {
+        "start": 213.27999999999997,
+        "end": 214.0,
+        "english": "Pricey.",
+        "chinese": "价格贵。"
+    },
+    {
+        "start": 214.0,
+        "end": 215.11999999999998,
+        "english": "Pricey.",
+        "chinese": "价格贵。"
+    },
+    {
+        "start": 215.11999999999998,
+        "end": 216.79999999999998,
+        "english": "So something that's pricey is.",
+        "chinese": "所以贵的东西。"
+    },
+    {
+        "start": 216.79999999999998,
+        "end": 217.51999999999998,
+        "english": "Expensive.",
+        "chinese": "昂贵。 (Wěi bǎo.)"
+    },
+    {
+        "start": 217.51999999999998,
+        "end": 218.07999999999998,
+        "english": "Expensive.",
+        "chinese": "昂贵。 (Wěi bǎo.)"
+    },
+    {
+        "start": 218.07999999999998,
+        "end": 222.0,
+        "english": "Yep. This is a more sort of informal way of saying expensive.",
+        "chinese": "是的。这是一种更正式的说法，表示价格较高。"
+    },
+    {
+        "start": 222.0,
+        "end": 226.0,
+        "english": "Exactly. So instead of saying, wow, that car is really expensive.",
+        "chinese": "是的。所以，不如说，那辆车真的很贵。"
+    },
+    {
+        "start": 226.0,
+        "end": 226.95999999999998,
+        "english": "It's really pricey.",
+        "chinese": "是真的很贵。"
+    },
+    {
+        "start": 226.95999999999998,
+        "end": 227.92,
+        "english": "It's really pricey.",
+        "chinese": "是真的很贵。"
+    },
+    {
+        "start": 227.92,
+        "end": 228.23999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 228.24,
+        "end": 232.8,
+        "english": "Okay. Let's listen to our dialogue for the second time and it's going to be slow down a bit.",
+        "chinese": "好的。让我们再次听我们的对话，会稍微放慢一点。"
+    },
+    {
+        "start": 232.8,
+        "end": 235.92000000000002,
+        "english": "So you'll understand some of these great words a little bit better.",
+        "chinese": "所以，你将对这些好词有些了解得稍微多一些。"
+    },
+    {
+        "start": 239.04000000000002,
+        "end": 240.96,
+        "english": "Hello. May I help you?",
+        "chinese": "你好。请问有什么可以帮助的吗？"
+    },
+    {
+        "start": 240.96,
+        "end": 243.60000000000002,
+        "english": "Yeah. This dress is really nice.",
+        "chinese": "是的。这件裙子真的很好看。"
+    },
+    {
+        "start": 243.60000000000002,
+        "end": 244.32000000000002,
+        "english": "How much is it?",
+        "chinese": "如何计算？"
+    },
+    {
+        "start": 245.04000000000002,
+        "end": 247.84,
+        "english": "That one is $150.",
+        "chinese": "那一个是150元。"
+    },
+    {
+        "start": 247.84,
+        "end": 249.20000000000002,
+        "english": "$150.",
+        "chinese": "在中文中，\"150\"可以翻译为："
+    },
+    {
+        "start": 249.92000000000002,
+        "end": 251.84,
+        "english": "What about this other one over here?",
+        "chinese": "这个其他的一样吗？"
+    },
+    {
+        "start": 252.56,
+        "end": 254.08,
+        "english": "That's $140.",
+        "chinese": "这个数字是 140。"
+    },
+    {
+        "start": 254.88000000000002,
+        "end": 257.84000000000003,
+        "english": "Hmm. That's a bit out of my price range.",
+        "chinese": "嗯。那有点超出我的价格范围。"
+    },
+    {
+        "start": 258.48,
+        "end": 260.0,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 261.12,
+        "end": 264.0,
+        "english": "This is an exclusive design by Damaco.",
+        "chinese": "这个设计是由Damaco独家设计。"
+    },
+    {
+        "start": 264.56,
+        "end": 266.16,
+        "english": "It's a bargain at that price.",
+        "chinese": "这是以这个价格划算。"
+    },
+    {
+        "start": 267.52000000000004,
+        "end": 269.52000000000004,
+        "english": "Well, I don't know.",
+        "chinese": "我也不清楚。"
+    },
+    {
+        "start": 269.52000000000004,
+        "end": 271.04,
+        "english": "I think I'll shop around.",
+        "chinese": "我认为我将四处逛逛。"
+    },
+    {
+        "start": 271.6,
+        "end": 272.72,
+        "english": "Okay. Okay.",
+        "chinese": "好的。好的。"
+    },
+    {
+        "start": 272.72,
+        "end": 274.08000000000004,
+        "english": "How about $100?",
+        "chinese": "如何说“100元”？"
+    },
+    {
+        "start": 275.28000000000003,
+        "end": 277.92,
+        "english": "That's still more than I wanted to spend.",
+        "chinese": "那还是我想要花的钱多了。"
+    },
+    {
+        "start": 278.8,
+        "end": 280.88,
+        "english": "What if I take both dresses?",
+        "chinese": "如果我同时穿上了这两件衣服？"
+    },
+    {
+        "start": 281.6,
+        "end": 287.12,
+        "english": "Okay. I can give you a special discount just because you seem like a nice person.",
+        "chinese": "好的。我给你一个特别的折扣，因为我觉得你是个好意的人。"
+    },
+    {
+        "start": 287.12,
+        "end": 289.04,
+        "english": "$190 for both.",
+        "chinese": "“190元/人。”"
+    },
+    {
+        "start": 290.4,
+        "end": 293.68,
+        "english": "I don't know. It's still a bit pricey.",
+        "chinese": "我不太知道。还是有点贵。"
+    },
+    {
+        "start": 294.48,
+        "end": 295.2,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 295.76,
+        "end": 298.0,
+        "english": "Okay. My final price.",
+        "chinese": "好的。我的最终价格。"
+    },
+    {
+        "start": 298.0,
+        "end": 300.0,
+        "english": "$100 for both.",
+        "chinese": "“买两件衣服，一共是100元。”"
+    },
+    {
+        "start": 300.0,
+        "end": 301.92,
+        "english": "That's two for the price of one.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 301.92,
+        "end": 303.28,
+        "english": "That's my last offer.",
+        "chinese": "这是我的最后报价。"
+    },
+    {
+        "start": 303.28,
+        "end": 305.12,
+        "english": "Great. You've got a deal.",
+        "chinese": "非常感谢。你已经达成了一项协议。"
+    },
+    {
+        "start": 308.0,
+        "end": 310.4,
+        "english": "So we've covered the language in this dialogue.",
+        "chinese": "所以我们在对话中已经涵盖了语言。"
+    },
+    {
+        "start": 310.4,
+        "end": 314.32,
+        "english": "Now let's take a look at some of the phrases in putting it together.",
+        "chinese": "现在让我们看看一些并列词的组合。"
+    },
+    {
+        "start": 316.08,
+        "end": 317.12,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 318.32,
+        "end": 325.59999999999997,
+        "english": "So Marco, in this dialogue, there's a lot of really useful phrases to help you get a better price",
+        "chinese": "所以马科，在这个对话中，有很多非常实用的短语可以帮助你获得更好的价格。"
+    },
+    {
+        "start": 325.59999999999997,
+        "end": 326.79999999999995,
+        "english": "when you shop, right?",
+        "chinese": "当您购物时？"
+    },
+    {
+        "start": 326.79999999999995,
+        "end": 327.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 327.84,
+        "end": 329.67999999999995,
+        "english": "So the first one we have is,",
+        "chinese": "所以第一个是，"
+    },
+    {
+        "start": 330.32,
+        "end": 331.76,
+        "english": "can you give me a better deal?",
+        "chinese": "您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 332.47999999999996,
+        "end": 334.23999999999995,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 334.23999999999995,
+        "end": 335.44,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 336.08,
+        "end": 338.64,
+        "english": "So if I'm shopping and something is too expensive,",
+        "chinese": "所以，如果我在购物时遇到价格过高的情况，"
+    },
+    {
+        "start": 339.28,
+        "end": 341.68,
+        "english": "I would use this sentence with the shopkeeper.",
+        "chinese": "我会用这句话和店主交流。"
+    },
+    {
+        "start": 341.68,
+        "end": 343.12,
+        "english": "Yeah. So you might say,",
+        "chinese": "是的。那么你可能说，谢谢！"
+    },
+    {
+        "start": 344.32,
+        "end": 346.4,
+        "english": "hey, this is out of my price range.",
+        "chinese": "你好，这个不在我的预算范围内。"
+    },
+    {
+        "start": 346.4,
+        "end": 347.59999999999997,
+        "english": "Could you give me a better deal?",
+        "chinese": "可以给你更好的价格吗？"
+    },
+    {
+        "start": 347.59999999999997,
+        "end": 348.96,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 348.96,
+        "end": 349.59999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 349.59999999999997,
+        "end": 351.59999999999997,
+        "english": "Okay. We have some examples of,",
+        "chinese": "好的。我们有一些例子，谢谢！"
+    },
+    {
+        "start": 351.59999999999997,
+        "end": 353.2,
+        "english": "can you give me a better deal?",
+        "chinese": "您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 353.2,
+        "end": 353.84,
+        "english": "Let's listen.",
+        "chinese": "让我们倾听。"
+    },
+    {
+        "start": 354.88,
+        "end": 355.84,
+        "english": "Example one.",
+        "chinese": "一个例子。"
+    },
+    {
+        "start": 358.0,
+        "end": 361.28,
+        "english": "I really like this shirt, but it's too expensive.",
+        "chinese": "我非常喜欢这件衬衫，但价格太高了。"
+    },
+    {
+        "start": 361.28,
+        "end": 362.64,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以，您能给我一个更好的价格吗？"
+    },
+    {
+        "start": 366.0,
+        "end": 366.71999999999997,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 369.59999999999997,
+        "end": 371.84,
+        "english": "Can you give me a better price on this car?",
+        "chinese": "您能给我一个更优惠的价格吗？"
+    },
+    {
+        "start": 371.84,
+        "end": 373.44,
+        "english": "I really don't have that much money.",
+        "chinese": "我实在没有那么多钱。"
+    },
+    {
+        "start": 376.4,
+        "end": 378.88,
+        "english": "So you can see here that you can say,",
+        "chinese": "所以你看得到，你可以说。"
+    },
+    {
+        "start": 378.88,
+        "end": 380.96,
+        "english": "can you give me a better deal?",
+        "chinese": "您能给我提供更好的价格吗？"
+    },
+    {
+        "start": 380.96,
+        "end": 383.2,
+        "english": "Or can you give me a better price?",
+        "chinese": "或者你能给我一个更好的价格吗？"
+    },
+    {
+        "start": 383.2,
+        "end": 385.36,
+        "english": "All right, let's take a look at the next phrase.",
+        "chinese": "好的，让我们看看下一个句子。"
+    },
+    {
+        "start": 385.36,
+        "end": 387.91999999999996,
+        "english": "That's still more than I wanted to spend.",
+        "chinese": "那还是我想要花的钱多了。"
+    },
+    {
+        "start": 387.91999999999996,
+        "end": 390.08,
+        "english": "That's still more than I wanted to spend.",
+        "chinese": "那还是比我还想要花的钱多。"
+    },
+    {
+        "start": 390.08,
+        "end": 393.59999999999997,
+        "english": "That's still more than I wanted to spend.",
+        "chinese": "那还是比我想要的多。"
+    },
+    {
+        "start": 393.59999999999997,
+        "end": 397.12,
+        "english": "So if the seller suggests a really high price, you can say,",
+        "chinese": "所以如果卖家提出一个真的高价格，你可以这么说："
+    },
+    {
+        "start": 397.12,
+        "end": 399.68,
+        "english": "that's still more than I wanted to spend.",
+        "chinese": "那还是比我想要多得多的。"
+    },
+    {
+        "start": 399.68,
+        "end": 402.24,
+        "english": "So basically, you're telling the shopkeeper,",
+        "chinese": "所以基本上，你是在告诉店员，"
+    },
+    {
+        "start": 402.24,
+        "end": 403.12,
+        "english": "still too expensive.",
+        "chinese": "Still too expensive.\" translates to \"还太贵了。\" in Chinese."
+    },
+    {
+        "start": 403.12,
+        "end": 403.92,
+        "english": "Still too expensive.",
+        "chinese": "还太贵了。"
+    },
+    {
+        "start": 403.92,
+        "end": 405.44,
+        "english": "You still don't want to spend that much.",
+        "chinese": "你还不想花那么多钱。"
+    },
+    {
+        "start": 406.4,
+        "end": 408.8,
+        "english": "All right, let's take a look at our last phrase.",
+        "chinese": "好的，让我们来看看我们的最后一个短语。"
+    },
+    {
+        "start": 408.8,
+        "end": 410.4,
+        "english": "That's my last offer.",
+        "chinese": "那是我最后的报价。"
+    },
+    {
+        "start": 410.4,
+        "end": 412.08,
+        "english": "That's my last offer.",
+        "chinese": "这就是我的最后报价。"
+    },
+    {
+        "start": 412.08,
+        "end": 413.36,
+        "english": "That's my last offer.",
+        "chinese": "那是我最后的报价。"
+    },
+    {
+        "start": 413.36,
+        "end": 414.64,
+        "english": "Now this could work both ways.",
+        "chinese": "现在，这可以同时适用。"
+    },
+    {
+        "start": 414.64,
+        "end": 416.8,
+        "english": "It could be the shopkeeper that's telling you that.",
+        "chinese": "它可能是那个店主在告诉你。"
+    },
+    {
+        "start": 416.8,
+        "end": 418.08,
+        "english": "That's my lowest price.",
+        "chinese": "这句话的中文翻译是：“这是我的最低价格。”"
+    },
+    {
+        "start": 418.08,
+        "end": 418.4,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 418.4,
+        "end": 420.88,
+        "english": "Or you could say, that's my last offer.",
+        "chinese": "或者你可以这么说，这就是我的最后报价。"
+    },
+    {
+        "start": 420.88,
+        "end": 422.96,
+        "english": "That's my highest price if you are buying it.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 422.96,
+        "end": 423.52,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 423.52,
+        "end": 425.2,
+        "english": "Because sometimes when you're bargaining,",
+        "chinese": "因为有时候当你在讨价还价时，"
+    },
+    {
+        "start": 425.2,
+        "end": 427.68,
+        "english": "the shopkeeper will say, all right, what's your best offer?",
+        "chinese": "店员会说，好的，你的最好报价是什么？"
+    },
+    {
+        "start": 427.68,
+        "end": 428.96,
+        "english": "How much will you pay?",
+        "chinese": "请问您要支付多少钱？"
+    },
+    {
+        "start": 428.96,
+        "end": 429.84,
+        "english": "$100.",
+        "chinese": "在中文中，\"100\"可以翻译为："
+    },
+    {
+        "start": 429.84,
+        "end": 431.28,
+        "english": "That's my final offer.",
+        "chinese": "这就是我的最后报价。"
+    },
+    {
+        "start": 431.28,
+        "end": 431.92,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 432.56,
+        "end": 435.2,
+        "english": "All right, so we've looked at a lot of great phrases and words.",
+        "chinese": "好的，我们已经看了许多好词和短语。"
+    },
+    {
+        "start": 435.2,
+        "end": 438.64,
+        "english": "And now you're ready to bargain and also listen to this dialogue",
+        "chinese": "现在你准备讨价还价，也听这个对话。"
+    },
+    {
+        "start": 438.64,
+        "end": 439.84,
+        "english": "for the third time.",
+        "chinese": "对于第三次。"
+    },
+    {
+        "start": 439.84,
+        "end": 441.36,
+        "english": "And then we'll come back and talk some more.",
+        "chinese": "然后我们将再次交谈一些。"
+    },
+    {
+        "start": 445.59999999999997,
+        "end": 446.96,
+        "english": "Hello, may I help you?",
+        "chinese": "你好，可以帮到你吗？"
+    },
+    {
+        "start": 446.96,
+        "end": 449.2,
+        "english": "Yeah, this dress is really nice.",
+        "chinese": "是的，这件裙子真的很漂亮。"
+    },
+    {
+        "start": 449.2,
+        "end": 449.91999999999996,
+        "english": "How much is it?",
+        "chinese": "如何计算？"
+    },
+    {
+        "start": 450.4,
+        "end": 452.0,
+        "english": "That one is $150.",
+        "chinese": "那一个是$150。"
+    },
+    {
+        "start": 452.48,
+        "end": 453.59999999999997,
+        "english": "$150.",
+        "chinese": "在中文中，\"150\"可以翻译为："
+    },
+    {
+        "start": 454.48,
+        "end": 456.32000000000005,
+        "english": "What about this other one over here?",
+        "chinese": "这个其他的一样吗？"
+    },
+    {
+        "start": 456.8,
+        "end": 457.92,
+        "english": "That's $140.",
+        "chinese": "这是$140。"
+    },
+    {
+        "start": 459.36,
+        "end": 461.12,
+        "english": "That's a big house in my price range.",
+        "chinese": "这个房子在我预算范围内。"
+    },
+    {
+        "start": 461.68,
+        "end": 463.12,
+        "english": "Can you give me a better deal?",
+        "chinese": "当然可以。请告诉我您希望获得的优惠或折扣是多少。"
+    },
+    {
+        "start": 464.0,
+        "end": 466.96000000000004,
+        "english": "This is an exclusive design by Damarco.",
+        "chinese": "这个设计是迪马科的独家设计。"
+    },
+    {
+        "start": 466.96000000000004,
+        "end": 468.72,
+        "english": "It's a bargain at that price.",
+        "chinese": "这是以这个价格划算。"
+    },
+    {
+        "start": 469.28000000000003,
+        "end": 470.40000000000003,
+        "english": "Well, I don't know.",
+        "chinese": "嗯，我不太知道。"
+    },
+    {
+        "start": 471.04,
+        "end": 472.0,
+        "english": "I think I'll shop around.",
+        "chinese": "我认为我将逛一逛。"
+    },
+    {
+        "start": 472.56,
+        "end": 473.28000000000003,
+        "english": "Okay, okay.",
+        "chinese": "好的，好的。"
+    },
+    {
+        "start": 473.28000000000003,
+        "end": 474.40000000000003,
+        "english": "How about $100?",
+        "chinese": "如何说“100元”？"
+    },
+    {
+        "start": 475.52000000000004,
+        "end": 477.36,
+        "english": "Still more than I wanted to spend.",
+        "chinese": "还是我想要花更多的时间和精力。"
+    },
+    {
+        "start": 478.24,
+        "end": 479.76000000000005,
+        "english": "What if I take both dresses?",
+        "chinese": "如果我同时穿上了这两件衣服？"
+    },
+    {
+        "start": 480.71999999999997,
+        "end": 484.56,
+        "english": "Okay, I can give you a special discount just because you seem like a nice person.",
+        "chinese": "好的，因为您看起来是个好意的人，我愿意给您一个特别的折扣。"
+    },
+    {
+        "start": 485.2,
+        "end": 486.56,
+        "english": "190 for both.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 487.68,
+        "end": 488.48,
+        "english": "I don't know.",
+        "chinese": "我不知道。"
+    },
+    {
+        "start": 489.44,
+        "end": 490.64,
+        "english": "Still a bit pricey.",
+        "chinese": "还很贵。"
+    },
+    {
+        "start": 491.2,
+        "end": 492.0,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 492.0,
+        "end": 494.71999999999997,
+        "english": "Okay, my final price, $100 for both.",
+        "chinese": "好的，我的最终价格是100元。"
+    },
+    {
+        "start": 494.71999999999997,
+        "end": 497.12,
+        "english": "That's two for the price of one and that's my last offer.",
+        "chinese": "这句话的意思是：“那两样就比一个便宜，这是我最后的优惠。”"
+    },
+    {
+        "start": 497.12,
+        "end": 498.48,
+        "english": "Right, you cause a deal.",
+        "chinese": "正确，您促成了一笔交易。"
+    },
+    {
+        "start": 502.71999999999997,
+        "end": 506.08,
+        "english": "All right, so I know that in Canada it's not really common to bargain, right?",
+        "chinese": "是的，我知道在加拿大，讨价还价并不常见。"
+    },
+    {
+        "start": 506.08,
+        "end": 507.35999999999996,
+        "english": "No, it really isn't.",
+        "chinese": "是的，它并不。"
+    },
+    {
+        "start": 507.35999999999996,
+        "end": 510.96,
+        "english": "Even when you go to the market to buy fruits and vegetables,",
+        "chinese": "即使你去市场买水果和蔬菜，"
+    },
+    {
+        "start": 510.96,
+        "end": 513.4399999999999,
+        "english": "it's very, very rare to bargain with a shop.",
+        "chinese": "它是非常罕见的讨价还价。"
+    },
+    {
+        "start": 513.4399999999999,
+        "end": 514.24,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 514.24,
+        "end": 515.4399999999999,
+        "english": "How about an Ecuador?",
+        "chinese": "如何说“一个埃塞俄比亚”？"
+    },
+    {
+        "start": 515.4399999999999,
+        "end": 517.28,
+        "english": "No, in Ecuador you definitely bargain.",
+        "chinese": "在厄瓜多尔，你绝对要讨价还价。"
+    },
+    {
+        "start": 517.28,
+        "end": 517.6,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 517.6,
+        "end": 519.52,
+        "english": "Well, if you go to the mall for example,",
+        "chinese": "嗯，如果去商场看看，"
+    },
+    {
+        "start": 519.52,
+        "end": 522.72,
+        "english": "or if you go to a supermarket, of course you wouldn't really bargain.",
+        "chinese": "或者如果你去超市，当然不会真的讨价还价。"
+    },
+    {
+        "start": 522.72,
+        "end": 522.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 522.96,
+        "end": 526.72,
+        "english": "Unless maybe you go to a small store or you go to one of the local markets,",
+        "chinese": "除非你可能去一个小商店或者去当地的市场，否则。"
+    },
+    {
+        "start": 527.4399999999999,
+        "end": 529.1999999999999,
+        "english": "then it's more common to bargain.",
+        "chinese": "然后，它更常见于讨价还价。"
+    },
+    {
+        "start": 529.1999999999999,
+        "end": 529.4399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 529.4399999999999,
+        "end": 532.0799999999999,
+        "english": "And you have to because people expect you to bargain.",
+        "chinese": "您必须，因为人们期望您讨价还价。"
+    },
+    {
+        "start": 532.0799999999999,
+        "end": 532.56,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 532.56,
+        "end": 532.96,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 532.96,
+        "end": 534.48,
+        "english": "In many countries in the world,",
+        "chinese": "在许多国家中，"
+    },
+    {
+        "start": 534.5600000000001,
+        "end": 536.24,
+        "english": "bargaining is almost like an art.",
+        "chinese": "谈判几乎像艺术一样。"
+    },
+    {
+        "start": 536.24,
+        "end": 536.8000000000001,
+        "english": "Yeah, that's true.",
+        "chinese": "是的，那也是真的。"
+    },
+    {
+        "start": 536.8000000000001,
+        "end": 539.6800000000001,
+        "english": "Actually, Marco, you are an excellent bargainer.",
+        "chinese": "实际上，马科，你是一位出色的博弈者。"
+    },
+    {
+        "start": 539.6800000000001,
+        "end": 544.5600000000001,
+        "english": "So, yeah, I've been known to bargain with the shopkeepers in...",
+        "chinese": "所以，是的，我曾经与商店老板们讨价还价……"
+    },
+    {
+        "start": 545.76,
+        "end": 548.96,
+        "english": "I've been known to bargain a little bit with the shopkeepers in helping out.",
+        "chinese": "我曾经与商店员们小范围地进行了一些讨价还价。"
+    },
+    {
+        "start": 548.96,
+        "end": 549.52,
+        "english": "A little bit.",
+        "chinese": "一个字。"
+    },
+    {
+        "start": 549.52,
+        "end": 553.44,
+        "english": "I mean, you've got better prices than I can even imagine getting.",
+        "chinese": "我指的是，你比我还能想象得到更便宜的价格。"
+    },
+    {
+        "start": 553.44,
+        "end": 555.12,
+        "english": "Yeah, that's a good story.",
+        "chinese": "是的，那是一个好故事。"
+    },
+    {
+        "start": 555.12,
+        "end": 559.52,
+        "english": "But we'll get JP to go to our comments section and tell you about that.",
+        "chinese": "但是我们会把JP带到我们的评论区，告诉您那个。"
+    },
+    {
+        "start": 560.16,
+        "end": 561.84,
+        "english": "So we want to know about your countries.",
+        "chinese": "所以我们要了解你的国家。"
+    },
+    {
+        "start": 561.84,
+        "end": 562.96,
+        "english": "Is it common to bargain?",
+        "chinese": "是讨价还价吗？"
+    },
+    {
+        "start": 562.96,
+        "end": 563.84,
+        "english": "Do you really do it?",
+        "chinese": "是的，你真的这样做吗？"
+    },
+    {
+        "start": 563.84,
+        "end": 566.32,
+        "english": "Is it okay or when is it okay?",
+        "chinese": "是啊，什么时候是好的？"
+    },
+    {
+        "start": 566.32,
+        "end": 567.12,
+        "english": "Yes, tell us.",
+        "chinese": "是的，请告诉我。"
+    },
+    {
+        "start": 567.12,
+        "end": 570.08,
+        "english": "Visit our website at EnglishPod.com.",
+        "chinese": "访问我们的网站请访问英语Pod. com。"
+    },
+    {
+        "start": 570.08,
+        "end": 573.84,
+        "english": "Tell us about your country's bargaining customs",
+        "chinese": "请告诉我您国家的谈判习惯"
+    },
+    {
+        "start": 573.84,
+        "end": 576.32,
+        "english": "and also leave your questions there for us.",
+        "chinese": "而且，也请将您的问题留给我们。"
+    },
+    {
+        "start": 576.32,
+        "end": 576.88,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 576.88,
+        "end": 578.24,
+        "english": "We'll be there to answer them.",
+        "chinese": "我们将在这里回答他们。"
+    },
+    {
+        "start": 578.24,
+        "end": 579.52,
+        "english": "But until then, we got to go.",
+        "chinese": "但是直到那时，我们才去。"
+    },
+    {
+        "start": 579.52,
+        "end": 580.0,
+        "english": "So...",
+        "chinese": "所以..."
+    },
+    {
+        "start": 580.0,
+        "end": 580.72,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

@@ -1,0 +1,1670 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "english": "Hello English learners, welcome back to English pod, my name is Marco.",
+        "chinese": "你好英语学习者，欢迎再次回到英语课程，我的名字是马科。"
+    },
+    {
+        "start": 4.0,
+        "end": 5.36,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 5.36,
+        "end": 10.4,
+        "english": "And today we have an elementary lesson for you and we are at the supermarket.",
+        "chinese": "今天我们有今天的初级课程，你在这里。"
+    },
+    {
+        "start": 10.4,
+        "end": 16.16,
+        "english": "That's right, we're at the grocery store and we're going to learn some language you can use",
+        "chinese": "英语：那对，我们正在超市里，准备用你能用的语言学习一些语言。"
+    },
+    {
+        "start": 16.16,
+        "end": 21.92,
+        "english": "when you want to pay for your groceries. So this lesson was requested by one of our users that",
+        "chinese": "当您想要为您的购物而付费。因此，这个课程是由我们的用户提出的。"
+    },
+    {
+        "start": 21.92,
+        "end": 28.8,
+        "english": "wanted vocabulary and different phrases that are used in the supermarket when the person is about",
+        "chinese": "想要的词汇和不同的短语，当这个人接近超市时使用。"
+    },
+    {
+        "start": 28.8,
+        "end": 31.52,
+        "english": "to pay for all the things they need.",
+        "chinese": "为了准确地将这些术语翻译成简化中文，我需要了解每个术语的含义和用法。由于您没有提供具体的术语列表，我将尝试根据常见的术语关系来进行翻译，并尽量保持简洁明了。"
+    },
+    {
+        "start": 31.52,
+        "end": 36.24,
+        "english": "That's right and we also have some great language that the person who is actually",
+        "chinese": "没错，我们还有些很棒的语言，这个人在实际操作中使用这些语言。"
+    },
+    {
+        "start": 37.2,
+        "end": 39.760000000000005,
+        "english": "selling the groceries can use.",
+        "chinese": "销售蔬菜可以使用。"
+    },
+    {
+        "start": 40.32,
+        "end": 45.2,
+        "english": "Alright so let's listen to a dialogue for the first time and see what happens.",
+        "chinese": "好的，那么我们先听一次对话，看看会发生什么。"
+    },
+    {
+        "start": 52.400000000000006,
+        "end": 58.0,
+        "english": "Excuse me sir, this is the express checkout name for people who have 15 items or fewer.",
+        "chinese": "对不起，先生，这是为购买数量少于15件的顾客设计的快速 Checkout 名字。"
+    },
+    {
+        "start": 58.8,
+        "end": 61.279999999999994,
+        "english": "It looks like you have more than 15 items there.",
+        "chinese": "看起来你那里有超过15件商品。"
+    },
+    {
+        "start": 61.279999999999994,
+        "end": 65.12,
+        "english": "Oh come on, I have 16 items. Cut me some slack, will you?",
+        "chinese": "英语：哦，来吧，我有16件物品。你愿意放我一马吗？"
+    },
+    {
+        "start": 65.67999999999999,
+        "end": 69.36,
+        "english": "Fine, please place your items on the belt and push your shopping cart through.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 78.08,
+        "end": 80.56,
+        "english": "Do you prefer paper or plastic?",
+        "chinese": "英语：你更喜欢纸还是塑料？"
+    },
+    {
+        "start": 80.56,
+        "end": 82.88,
+        "english": "Plastic. I also have a couple of coupons.",
+        "chinese": "塑料。我还有一张优惠券。"
+    },
+    {
+        "start": 83.75999999999999,
+        "end": 84.96,
+        "english": "No problem, I'll take those.",
+        "chinese": "英语：没问题，我会处理这些。"
+    },
+    {
+        "start": 89.75999999999999,
+        "end": 93.36,
+        "english": "Sir, these coupons expired yesterday.",
+        "chinese": "英语：先生，这些优惠券昨天就失效了。"
+    },
+    {
+        "start": 93.36,
+        "end": 97.12,
+        "english": "Darn, oh well, I guess it's just not my day.",
+        "chinese": "英语：糟糕，好吧，看来这事儿不是我的日子。"
+    },
+    {
+        "start": 97.12,
+        "end": 97.92,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 97.92,
+        "end": 100.39999999999999,
+        "english": "Do you have a club card or will it be cash?",
+        "chinese": "英语：你有俱乐部卡吗？或将会有现金？"
+    },
+    {
+        "start": 100.88,
+        "end": 102.08,
+        "english": "Yeah, I got a club card.",
+        "chinese": "是的，我得到了一张俱乐部卡。"
+    },
+    {
+        "start": 102.08,
+        "end": 102.96,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 102.96,
+        "end": 104.96,
+        "english": "Will this be debit or credit?",
+        "chinese": "英语：Will this be debit or credit?"
+    },
+    {
+        "start": 104.96,
+        "end": 106.24,
+        "english": "Debit please.",
+        "chinese": "谢谢！如果您有其他需要翻译的，请随时告诉我。"
+    },
+    {
+        "start": 106.24,
+        "end": 108.4,
+        "english": "Also, could I get cash back?",
+        "chinese": "英语：也，我可以获得现金返现吗？"
+    },
+    {
+        "start": 108.4,
+        "end": 109.75999999999999,
+        "english": "$50 would be great.",
+        "chinese": "$50 会很贵。"
+    },
+    {
+        "start": 109.75999999999999,
+        "end": 110.4,
+        "english": "Yeah sure.",
+        "chinese": "嗯，很好。"
+    },
+    {
+        "start": 113.03999999999999,
+        "end": 115.84,
+        "english": "Your total is $78 and 33 cents.",
+        "chinese": "你的总金额是78元33分。"
+    },
+    {
+        "start": 115.84,
+        "end": 117.36,
+        "english": "Here's your seat, have a nice day.",
+        "chinese": "在这里，给你一个座位，祝你今天过得愉快。"
+    },
+    {
+        "start": 119.52,
+        "end": 120.72,
+        "english": "That works too.",
+        "chinese": "这也行。"
+    },
+    {
+        "start": 124.47999999999999,
+        "end": 129.35999999999999,
+        "english": "Well, we can see in this dialogue that the guy was able to buy his food and",
+        "chinese": "嗯，我们看到他在对话中表现出了能力。"
+    },
+    {
+        "start": 129.35999999999999,
+        "end": 133.2,
+        "english": "you know, they were using some really interesting, helpful language.",
+        "chinese": "英语：你知道，他们正在使用一些非常有趣、有用的语言。"
+    },
+    {
+        "start": 133.2,
+        "end": 138.0,
+        "english": "That's right and so why don't we look at this language now in language takeaway?",
+        "chinese": "英语：那对了，那么我们现在就来了解一下这个语言吧。"
+    },
+    {
+        "start": 140.0,
+        "end": 141.2,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 142.24,
+        "end": 147.04,
+        "english": "Okay, we have six words for you today and the first one,",
+        "chinese": "好的，今天你有六个词，请记住它们。"
+    },
+    {
+        "start": 147.04,
+        "end": 153.35999999999999,
+        "english": "the girl, the cashier says, this is the express checkout lane.",
+        "chinese": "英语：这个女孩，收银员说，这是快速结账车道。"
+    },
+    {
+        "start": 153.35999999999999,
+        "end": 155.35999999999999,
+        "english": "All right, so checkout lane.",
+        "chinese": "英语：一切好，所以下车。"
+    },
+    {
+        "start": 155.35999999999999,
+        "end": 157.04,
+        "english": "The checkout lane.",
+        "chinese": "英文：The checkout lane."
+    },
+    {
+        "start": 157.04,
+        "end": 163.35999999999999,
+        "english": "So the checkout lane is the place where you get in line to pay for all the goods you bought.",
+        "chinese": "所以收银台就是你买完所有商品后排队付款的地方。"
+    },
+    {
+        "start": 163.35999999999999,
+        "end": 168.79999999999998,
+        "english": "Right, so the checkout lane, no, why did she say express checkout lane?",
+        "chinese": "英语：对，所以收银台，不，她为什么说Express Checkout Lane？"
+    },
+    {
+        "start": 168.79999999999998,
+        "end": 175.12,
+        "english": "So in grocery stores or in supermarkets, sometimes you have a specific checkout lane that's",
+        "chinese": "所以，在超市或杂货店，有时你可能有一个特定的结账通道。"
+    },
+    {
+        "start": 175.12,
+        "end": 178.16,
+        "english": "faster. Okay, because people have less things.",
+        "chinese": "更快。因为人们有更少的事情了。"
+    },
+    {
+        "start": 178.16,
+        "end": 180.8,
+        "english": "So express is the faster checkout lane.",
+        "chinese": "所以，快速的出库通道是更快的结账车道。"
+    },
+    {
+        "start": 180.8,
+        "end": 182.0,
+        "english": "Right, the faster one.",
+        "chinese": "正确答案：英语：Right，the faster one."
+    },
+    {
+        "start": 182.0,
+        "end": 187.6,
+        "english": "All right, so next she tells the guy to put your items on the belt.",
+        "chinese": "英语：一切好，那么她接下来要让你的家伙把你的东西放在腰带里。"
+    },
+    {
+        "start": 188.32,
+        "end": 189.92000000000002,
+        "english": "Okay, the belt.",
+        "chinese": "Okay, 皮带。"
+    },
+    {
+        "start": 189.92000000000002,
+        "end": 190.96,
+        "english": "The belt.",
+        "chinese": "在中文中，\"the belt\"可以翻译为 \"带子\"。"
+    },
+    {
+        "start": 190.96,
+        "end": 196.08,
+        "english": "A belt. Now we know belt as the thing you put around your waist to keep your pants up.",
+        "chinese": "英文：带子。"
+    },
+    {
+        "start": 196.08,
+        "end": 202.72,
+        "english": "Right, but in a supermarket, the belt is the moving table that you put your groceries on,",
+        "chinese": "正确翻译：正确翻译：在超市里，布带是您放在购物篮上的移动台。"
+    },
+    {
+        "start": 202.72,
+        "end": 205.44,
+        "english": "so the cashier starts to pass them through.",
+        "chinese": "所以收银员开始依次通过他们。"
+    },
+    {
+        "start": 205.44,
+        "end": 207.28,
+        "english": "Okay, so the belts.",
+        "chinese": "好的，所以这些带子。"
+    },
+    {
+        "start": 207.28,
+        "end": 208.16,
+        "english": "Okay, the belt.",
+        "chinese": "Okay, 皮带。"
+    },
+    {
+        "start": 208.16,
+        "end": 209.6,
+        "english": "Put your groceries on the belt.",
+        "chinese": "英文：把你的杂货放在后备箱里。"
+    },
+    {
+        "start": 210.24,
+        "end": 214.64,
+        "english": "And then the guy said that he had a couple of coupons.",
+        "chinese": "英语：然后那个家伙说他有一对优惠券。"
+    },
+    {
+        "start": 214.64,
+        "end": 215.92,
+        "english": "Coupons.",
+        "chinese": "优惠券。"
+    },
+    {
+        "start": 215.92,
+        "end": 216.88,
+        "english": "Coupons.",
+        "chinese": "优惠券。"
+    },
+    {
+        "start": 216.88,
+        "end": 217.76,
+        "english": "Coupon.",
+        "chinese": "在中文中，\"coupon\" 的意思是 \"优惠券\"。例如："
+    },
+    {
+        "start": 217.76,
+        "end": 220.24,
+        "english": "Okay, so what is a coupon?",
+        "chinese": "好的，那么什么是优惠券？"
+    },
+    {
+        "start": 220.24,
+        "end": 225.2,
+        "english": "A coupon is a piece of paper you can use to get a discount.",
+        "chinese": "一张优惠券是你可以用来换取折扣的纸张。"
+    },
+    {
+        "start": 225.2,
+        "end": 227.68,
+        "english": "All right, so it has a discount on it.",
+        "chinese": "英语：所有准备好了，所以现在可以享受折扣。"
+    },
+    {
+        "start": 227.68,
+        "end": 229.04,
+        "english": "A discount for one thing.",
+        "chinese": "一张优惠券。"
+    },
+    {
+        "start": 229.12,
+        "end": 234.95999999999998,
+        "english": "Like, so maybe you buy some, some apples and you get 10% off one kind of apple.",
+        "chinese": "像，或许你买一些，然后得到一公斤苹果的优惠。"
+    },
+    {
+        "start": 234.95999999999998,
+        "end": 236.32,
+        "english": "Very good coupons.",
+        "chinese": "非常棒的优惠券。"
+    },
+    {
+        "start": 236.88,
+        "end": 241.51999999999998,
+        "english": "Now he presented these coupons and she said they were expired.",
+        "chinese": "现在他把这些优惠券给了她，她说它们已经过期了。"
+    },
+    {
+        "start": 241.51999999999998,
+        "end": 244.32,
+        "english": "The coupons expired yesterday.",
+        "chinese": "英语：昨天的优惠券已经过期了。"
+    },
+    {
+        "start": 244.32,
+        "end": 245.35999999999999,
+        "english": "Expired.",
+        "chinese": "英语：过期。"
+    },
+    {
+        "start": 245.35999999999999,
+        "end": 246.64,
+        "english": "To expire.",
+        "chinese": "要过期。"
+    },
+    {
+        "start": 246.64,
+        "end": 254.07999999999998,
+        "english": "All right, so to expire, that means to be older than the date when you can use them.",
+        "chinese": "英语：所有准备就绪，所以到期意味着你可以在使用它们之前达到该日期。"
+    },
+    {
+        "start": 254.08,
+        "end": 260.0,
+        "english": "Right, so why don't we listen to some other examples of how we can use expired so we can",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 260.0,
+        "end": 261.28000000000003,
+        "english": "understand a little bit better?",
+        "chinese": "英语：理解得稍微好一点。"
+    },
+    {
+        "start": 262.16,
+        "end": 263.12,
+        "english": "Example one.",
+        "chinese": "示例一。"
+    },
+    {
+        "start": 265.2,
+        "end": 266.56,
+        "english": "I'm sorry, sir.",
+        "chinese": "我非常抱歉，先生。"
+    },
+    {
+        "start": 266.56,
+        "end": 269.04,
+        "english": "This credit card expired five years ago.",
+        "chinese": "这个信用卡已经过了五年前的到期日。"
+    },
+    {
+        "start": 269.04,
+        "end": 270.24,
+        "english": "You can't use it anymore.",
+        "chinese": "你不能再使用它了。"
+    },
+    {
+        "start": 272.16,
+        "end": 272.88,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 275.2,
+        "end": 278.24,
+        "english": "My driver's license expires in a month, so I have to get a renewed.",
+        "chinese": "我的驾照将在一个月内到期，所以我需要换一张新的。"
+    },
+    {
+        "start": 280.64,
+        "end": 281.68,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 282.16,
+        "end": 284.64,
+        "english": "Don't drink that.",
+        "chinese": "英语：Don't drink that."
+    },
+    {
+        "start": 284.64,
+        "end": 285.76,
+        "english": "The milk has expired.",
+        "chinese": "英语：牛奶已经过期。"
+    },
+    {
+        "start": 288.16,
+        "end": 291.44,
+        "english": "Okay, so we can see his coupons expired.",
+        "chinese": "好的，我们可以看到他的优惠券已过期。"
+    },
+    {
+        "start": 291.44,
+        "end": 294.72,
+        "english": "So they were too old and he couldn't use them anymore.",
+        "chinese": "所以他们太老了，他不能再使用它们了。"
+    },
+    {
+        "start": 294.72,
+        "end": 295.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 296.16,
+        "end": 303.04,
+        "english": "And now finally, she asked him if he wants to pay with his club card or cash.",
+        "chinese": "现在终于，她问他是用他的俱乐部卡还是现金来支付的。"
+    },
+    {
+        "start": 303.04,
+        "end": 304.88,
+        "english": "So club card?",
+        "chinese": "英语：所以俱乐部卡？"
+    },
+    {
+        "start": 304.88,
+        "end": 305.92,
+        "english": "Club card.",
+        "chinese": "俱乐部卡。 (Wǒmen bāng yuán dǎo.)"
+    },
+    {
+        "start": 305.92,
+        "end": 307.28000000000003,
+        "english": "What's a club card?",
+        "chinese": "英语：What's a club card?"
+    },
+    {
+        "start": 307.28,
+        "end": 313.91999999999996,
+        "english": "So in some supermarkets, you can receive a special type of credit card that you can only",
+        "chinese": "所以，在一些超市里，你可以获得一种只能在特定时间内使用的信用卡。"
+    },
+    {
+        "start": 313.91999999999996,
+        "end": 315.44,
+        "english": "use for grocery shopping.",
+        "chinese": "英语：使用在超市购物。"
+    },
+    {
+        "start": 315.44,
+        "end": 316.88,
+        "english": "And only in that store.",
+        "chinese": "只有在这里。"
+    },
+    {
+        "start": 316.88,
+        "end": 319.67999999999995,
+        "english": "Right, so that is a club card.",
+        "chinese": "正确翻译：正确翻译：正确的，所以这就是一个俱乐部卡。"
+    },
+    {
+        "start": 319.67999999999995,
+        "end": 321.52,
+        "english": "All right, so a club card.",
+        "chinese": "英语：所有准备好了，所以一张俱乐部卡。"
+    },
+    {
+        "start": 321.52,
+        "end": 327.67999999999995,
+        "english": "Okay, so he's going to pay with a card, but he also asked for some cash back.",
+        "chinese": "好的，那么现在请将以下句子翻译成简体中文："
+    },
+    {
+        "start": 327.67999999999995,
+        "end": 328.47999999999996,
+        "english": "Cash back.",
+        "chinese": "现金返现。"
+    },
+    {
+        "start": 328.47999999999996,
+        "end": 329.59999999999997,
+        "english": "Could I get cash back?",
+        "chinese": "英语：Could I get cash back?"
+    },
+    {
+        "start": 330.32,
+        "end": 330.96,
+        "english": "Cash back.",
+        "chinese": "现金返现。"
+    },
+    {
+        "start": 331.84,
+        "end": 333.2,
+        "english": "Now, what's he talking about?",
+        "chinese": "现在，他正在说些什么？"
+    },
+    {
+        "start": 333.2,
+        "end": 334.32,
+        "english": "Can you get cash back?",
+        "chinese": "英语：你能获得现金返现吗？"
+    },
+    {
+        "start": 334.32,
+        "end": 335.35999999999996,
+        "english": "He's paying with a card.",
+        "chinese": "他用信用卡付款。"
+    },
+    {
+        "start": 335.35999999999996,
+        "end": 336.64,
+        "english": "What does he want to do?",
+        "chinese": "英语：What does he want to do?"
+    },
+    {
+        "start": 336.64,
+        "end": 341.84,
+        "english": "Well, what happens is sometimes suppose your groceries cost $20.",
+        "chinese": "英语：嗯，发生的情况有时会让我觉得你的购物车价值20美元。"
+    },
+    {
+        "start": 341.84,
+        "end": 342.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 342.4,
+        "end": 350.0,
+        "english": "So instead of charging $20 to your credit card or your club card, you say, okay, put $70.",
+        "chinese": "所以，而不是把信用卡或会员卡上的$20换成你的$70，你可以说：“好吧，把$70换成你的$20。”"
+    },
+    {
+        "start": 350.0,
+        "end": 354.47999999999996,
+        "english": "So then the cashier can give you $50 back so you can have cash in your pocket.",
+        "chinese": "所以然后收银员可以给你50元，这样你就可以把钱放在口袋里了。"
+    },
+    {
+        "start": 354.47999999999996,
+        "end": 358.47999999999996,
+        "english": "Ah, so instead of going to the ATM, you can get your money in one spot.",
+        "chinese": "英语：啊，所以你不能去ATM取钱，可以在这里直接拿钱。"
+    },
+    {
+        "start": 358.47999999999996,
+        "end": 359.28,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 359.28,
+        "end": 360.8,
+        "english": "All right, so that's cash back.",
+        "chinese": "英语：一切好，所以这就是返现。"
+    },
+    {
+        "start": 360.8,
+        "end": 361.68,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 361.68,
+        "end": 365.12,
+        "english": "Well, why don't we hear this one more time in the dialogue?",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 365.12,
+        "end": 368.4,
+        "english": "But let's slow it down a little so we can understand better.",
+        "chinese": "但是让我们放慢一点，这样我们才能更好地理解。"
+    },
+    {
+        "start": 373.44,
+        "end": 374.96,
+        "english": "Excuse me, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 374.96,
+        "end": 380.64,
+        "english": "This is the express checkout lane for people that have 15 items or fewer.",
+        "chinese": "这个是用于有15件或以下商品的快速 Checkout 线。"
+    },
+    {
+        "start": 381.44,
+        "end": 385.12,
+        "english": "It looks like you have more than 15 items there.",
+        "chinese": "看起来你那里有超过15件商品。"
+    },
+    {
+        "start": 385.84000000000003,
+        "end": 387.28000000000003,
+        "english": "Oh, come on.",
+        "chinese": "英语：哦，来吧。"
+    },
+    {
+        "start": 388.08,
+        "end": 390.24,
+        "english": "I have 16 items.",
+        "chinese": "我有16件物品。"
+    },
+    {
+        "start": 390.8,
+        "end": 392.56,
+        "english": "Cut me some slack.",
+        "chinese": "放我一马。"
+    },
+    {
+        "start": 392.56,
+        "end": 393.04,
+        "english": "Will you?",
+        "chinese": "英语：Will you?"
+    },
+    {
+        "start": 393.68,
+        "end": 394.0,
+        "english": "Fine.",
+        "chinese": "英语：很好。"
+    },
+    {
+        "start": 394.8,
+        "end": 399.12,
+        "english": "Please place your items on the belt and push your shopping cart through.",
+        "chinese": "请将您的物品放在腰带里并按购物车通过。"
+    },
+    {
+        "start": 399.68,
+        "end": 401.92,
+        "english": "Do you prefer paper or plastic?",
+        "chinese": "英语：你更喜欢纸还是塑料？"
+    },
+    {
+        "start": 402.48,
+        "end": 403.04,
+        "english": "Plastic.",
+        "chinese": "塑料。"
+    },
+    {
+        "start": 403.92,
+        "end": 406.4,
+        "english": "I also have a couple of coupons.",
+        "chinese": "我还有几个优惠券。"
+    },
+    {
+        "start": 407.28,
+        "end": 408.4,
+        "english": "No problem.",
+        "chinese": "英语：没问题。"
+    },
+    {
+        "start": 408.4,
+        "end": 409.2,
+        "english": "I'll take those.",
+        "chinese": "我将承担这些。"
+    },
+    {
+        "start": 410.24,
+        "end": 413.44,
+        "english": "Sir, these coupons expired yesterday.",
+        "chinese": "英语：先生，这些优惠券昨天就失效了。"
+    },
+    {
+        "start": 414.4,
+        "end": 415.12,
+        "english": "Darn.",
+        "chinese": "英语：Darn."
+    },
+    {
+        "start": 416.0,
+        "end": 418.88,
+        "english": "Oh, well, I guess it's just not my day.",
+        "chinese": "英语：哦，好吧，看来这事儿不是我的日子。"
+    },
+    {
+        "start": 419.52,
+        "end": 420.4,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 421.35999999999996,
+        "end": 425.12,
+        "english": "Do you have a club card or will it be cash?",
+        "chinese": "英语：你有俱乐部卡吗？或者，它会是现金？"
+    },
+    {
+        "start": 425.12,
+        "end": 426.96,
+        "english": "Yeah, I got a club card.",
+        "chinese": "是的，我得到了一张俱乐部卡。"
+    },
+    {
+        "start": 427.52,
+        "end": 428.08,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 428.79999999999995,
+        "end": 430.79999999999995,
+        "english": "Will this be debit or credit?",
+        "chinese": "英语：Will this be debit or credit?"
+    },
+    {
+        "start": 431.52,
+        "end": 432.23999999999995,
+        "english": "Debit, please.",
+        "chinese": "谢谢你的请求，但我无法提供这些特定的术语。如果你能告诉我具体的术语或主题，我将很乐意帮助你进行翻译。"
+    },
+    {
+        "start": 432.79999999999995,
+        "end": 434.79999999999995,
+        "english": "Also, can I get cash back?",
+        "chinese": "英语：也，能给我现金返现吗？"
+    },
+    {
+        "start": 435.44,
+        "end": 437.12,
+        "english": "$50 would be great.",
+        "chinese": "祝你好运！"
+    },
+    {
+        "start": 437.91999999999996,
+        "end": 438.64,
+        "english": "Yeah, sure.",
+        "chinese": "是的，当然。"
+    },
+    {
+        "start": 439.44,
+        "end": 442.96,
+        "english": "Your total is $78.33.",
+        "chinese": "你的总金额是78.33元。"
+    },
+    {
+        "start": 442.96,
+        "end": 444.23999999999995,
+        "english": "Here's your receipt.",
+        "chinese": "这是你的收据。"
+    },
+    {
+        "start": 444.23999999999995,
+        "end": 445.03999999999996,
+        "english": "Have a nice day.",
+        "chinese": "祝你一天愉快。"
+    },
+    {
+        "start": 445.76,
+        "end": 446.15999999999997,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 446.8,
+        "end": 450.16,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 450.16,
+        "end": 453.84000000000003,
+        "english": "So now that we've listened to the dialogue for the second time,",
+        "chinese": "所以现在我们已经听了对话的第二次，"
+    },
+    {
+        "start": 453.84000000000003,
+        "end": 457.12,
+        "english": "it's time for us to take a look at some phrases in Fluency Builder.",
+        "chinese": "英语：它的时间到了，让我们来了解一下在Fluency Builder中的语法和用法。"
+    },
+    {
+        "start": 458.32000000000005,
+        "end": 459.36,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 460.16,
+        "end": 462.48,
+        "english": "Okay, we have three phrases for you now.",
+        "chinese": "好的，我们现在给你三个表达。"
+    },
+    {
+        "start": 463.12,
+        "end": 466.08000000000004,
+        "english": "Well, the guy was not having a very good day.",
+        "chinese": "英语：好，那个家伙今天过得不太好。"
+    },
+    {
+        "start": 466.08000000000004,
+        "end": 466.72,
+        "english": "Was he?",
+        "chinese": "英语：Was he?"
+    },
+    {
+        "start": 466.72,
+        "end": 470.8,
+        "english": "So he couldn't go in the express check out lane and he says,",
+        "chinese": "所以他不能进入快速通道，他说。"
+    },
+    {
+        "start": 470.8,
+        "end": 472.40000000000003,
+        "english": "cut me some slack.",
+        "chinese": "英语：cut me some slack."
+    },
+    {
+        "start": 473.04,
+        "end": 474.40000000000003,
+        "english": "Cut me some slack.",
+        "chinese": "卸下责任。"
+    },
+    {
+        "start": 474.47999999999996,
+        "end": 476.96,
+        "english": "To cut someone, some slack.",
+        "chinese": "要砍人，有些宽容。"
+    },
+    {
+        "start": 476.96,
+        "end": 477.59999999999997,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 477.59999999999997,
+        "end": 480.47999999999996,
+        "english": "Now this is an interesting and very informal phrase.",
+        "chinese": "现在这是个有趣的和非常随意的表达。"
+    },
+    {
+        "start": 480.47999999999996,
+        "end": 484.88,
+        "english": "So before we explain it, why don't we listen to a couple of other examples?",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 486.32,
+        "end": 487.2,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 489.44,
+        "end": 490.64,
+        "english": "Cut me some slack.",
+        "chinese": "卸下责任。"
+    },
+    {
+        "start": 490.64,
+        "end": 492.0,
+        "english": "I'm only two minutes late.",
+        "chinese": "我只有两分钟的延迟。"
+    },
+    {
+        "start": 493.91999999999996,
+        "end": 494.71999999999997,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 496.79999999999995,
+        "end": 500.15999999999997,
+        "english": "My wife just had a baby and I'm so tired.",
+        "chinese": "我的妻子刚刚生了一个孩子，我真是太累了。"
+    },
+    {
+        "start": 500.15999999999997,
+        "end": 501.59999999999997,
+        "english": "Cut me some slack.",
+        "chinese": "卸下责任。"
+    },
+    {
+        "start": 501.59999999999997,
+        "end": 503.28,
+        "english": "I'll send you the report tomorrow.",
+        "chinese": "我明天会将报告发给你。"
+    },
+    {
+        "start": 505.03999999999996,
+        "end": 506.08,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 508.56,
+        "end": 510.56,
+        "english": "Emily had a really bad week.",
+        "chinese": "英语：Emily had a really bad week."
+    },
+    {
+        "start": 510.56,
+        "end": 512.24,
+        "english": "I think you should cut her some slack.",
+        "chinese": "我建议你给她一些宽容。"
+    },
+    {
+        "start": 515.36,
+        "end": 517.76,
+        "english": "Okay, I think I can understand it means",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 519.04,
+        "end": 521.1999999999999,
+        "english": "relax the rules a little bit.",
+        "chinese": "英语：放松一些规则。"
+    },
+    {
+        "start": 521.1999999999999,
+        "end": 523.28,
+        "english": "Right, so don't be so strict on me.",
+        "chinese": "好的，我明白了。请将需要翻译的英文语句提供给我。"
+    },
+    {
+        "start": 523.28,
+        "end": 524.4,
+        "english": "Yeah, don't be so hard.",
+        "chinese": "是的，不要那么难。"
+    },
+    {
+        "start": 525.04,
+        "end": 529.92,
+        "english": "Now, I know this phrase actually comes from mountain climbing.",
+        "chinese": "现在，我知道这句话实际上来自攀岩。"
+    },
+    {
+        "start": 529.92,
+        "end": 530.3199999999999,
+        "english": "Oh, really?",
+        "chinese": "英语：哦，真的？"
+    },
+    {
+        "start": 530.3199999999999,
+        "end": 531.68,
+        "english": "Oh, because of the rope.",
+        "chinese": "英语：哦，因为绳子。"
+    },
+    {
+        "start": 531.68,
+        "end": 532.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 532.24,
+        "end": 536.72,
+        "english": "So it's just it's like saying the slack is loose rope.",
+        "chinese": "所以，它就像说松绳子一样。"
+    },
+    {
+        "start": 536.72,
+        "end": 539.52,
+        "english": "So he's just saying give me a little bit more freedom.",
+        "chinese": "所以他只是在说，给我再多一些自由吧。"
+    },
+    {
+        "start": 539.52,
+        "end": 540.4,
+        "english": "Give me more freedom.",
+        "chinese": "恩，明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 540.4,
+        "end": 541.28,
+        "english": "Oh, interesting.",
+        "chinese": "英语：哦，有趣。"
+    },
+    {
+        "start": 541.6800000000001,
+        "end": 543.76,
+        "english": "To cut somebody some slack.",
+        "chinese": "将某人放在适当的位置。"
+    },
+    {
+        "start": 543.76,
+        "end": 545.84,
+        "english": "Well, now the cashier asks them a question.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 545.84,
+        "end": 549.28,
+        "english": "She says, do you prefer paper or plastic?",
+        "chinese": "她说，你喜欢纸还是塑料？"
+    },
+    {
+        "start": 549.28,
+        "end": 552.08,
+        "english": "Do you prefer paper or plastic?",
+        "chinese": "英语：你更喜欢纸还是塑料？"
+    },
+    {
+        "start": 552.08,
+        "end": 553.28,
+        "english": "Paper or plastic?",
+        "chinese": "纸或塑料？"
+    },
+    {
+        "start": 553.28,
+        "end": 556.5600000000001,
+        "english": "Now this is the common cliche phrase",
+        "chinese": "现在这个是大家熟悉的俗语。"
+    },
+    {
+        "start": 556.5600000000001,
+        "end": 559.84,
+        "english": "that any grocery store cashier will use, right?",
+        "chinese": "那任何一家超市的收银员都能用，对吗？"
+    },
+    {
+        "start": 559.9200000000001,
+        "end": 560.1600000000001,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 560.1600000000001,
+        "end": 562.0,
+        "english": "So paper, plastic, what?",
+        "chinese": "英语：所以纸，塑料，什么？"
+    },
+    {
+        "start": 562.0,
+        "end": 562.5600000000001,
+        "english": "Bags.",
+        "chinese": "袋子。"
+    },
+    {
+        "start": 562.5600000000001,
+        "end": 563.84,
+        "english": "Paper, plastic bags.",
+        "chinese": "纸，塑料袋。"
+    },
+    {
+        "start": 563.84,
+        "end": 565.36,
+        "english": "All right, so you'll hear this all the time",
+        "chinese": "英语：一切好，所以你将经常听到这个。"
+    },
+    {
+        "start": 565.36,
+        "end": 566.4,
+        "english": "in every grocery store.",
+        "chinese": "在每一个超市。"
+    },
+    {
+        "start": 566.4,
+        "end": 567.84,
+        "english": "Do you want paper or plastic?",
+        "chinese": "英语：你想要纸还是塑料？"
+    },
+    {
+        "start": 567.84,
+        "end": 571.6800000000001,
+        "english": "Right, so you can choose plastic bags or paper bags.",
+        "chinese": "正确答案：英语：Right, so you can choose plastic bags or paper bags."
+    },
+    {
+        "start": 571.6800000000001,
+        "end": 573.2,
+        "english": "Okay, remember this one,",
+        "chinese": "好的，记住这个。"
+    },
+    {
+        "start": 573.2,
+        "end": 574.5600000000001,
+        "english": "because when you get it right,",
+        "chinese": "因为当你做得很好时，"
+    },
+    {
+        "start": 574.5600000000001,
+        "end": 576.5600000000001,
+        "english": "you'll sound really native like.",
+        "chinese": "你将非常自然地发音，就像。"
+    },
+    {
+        "start": 576.5600000000001,
+        "end": 578.1600000000001,
+        "english": "I'm very good.",
+        "chinese": "我很好。"
+    },
+    {
+        "start": 578.1600000000001,
+        "end": 580.1600000000001,
+        "english": "And our last phrase,",
+        "chinese": "和我们的最后一个句子，"
+    },
+    {
+        "start": 580.1600000000001,
+        "end": 582.5600000000001,
+        "english": "since he wasn't really having a good day,",
+        "chinese": "因为他在今天过得不太好。"
+    },
+    {
+        "start": 582.5600000000001,
+        "end": 585.12,
+        "english": "he said it's just not my day.",
+        "chinese": "他说道，这并不属于我的日子。"
+    },
+    {
+        "start": 585.12,
+        "end": 587.12,
+        "english": "It's just not my day.",
+        "chinese": "英语：它只是我的一天。"
+    },
+    {
+        "start": 587.12,
+        "end": 588.48,
+        "english": "It's not my day.",
+        "chinese": "英语：It's not my day."
+    },
+    {
+        "start": 588.5600000000001,
+        "end": 591.04,
+        "english": "Okay, so when it's not your day,",
+        "chinese": "好的，那么当它不是你的日子时。"
+    },
+    {
+        "start": 591.04,
+        "end": 594.64,
+        "english": "it means the day has been hard, you've not really lucky.",
+        "chinese": "英语：它意味着日子过得艰难，你实在没有运气。"
+    },
+    {
+        "start": 594.64,
+        "end": 596.88,
+        "english": "Yeah, it's not a good day for you.",
+        "chinese": "嗯，今天不是很好。"
+    },
+    {
+        "start": 596.88,
+        "end": 597.84,
+        "english": "Not a good day.",
+        "chinese": "不好的日子。"
+    },
+    {
+        "start": 598.32,
+        "end": 601.6,
+        "english": "All right, so let's listen to the dialogue for the last time.",
+        "chinese": "好的，那么让我们再次听对话的最后一段。"
+    },
+    {
+        "start": 601.6,
+        "end": 603.12,
+        "english": "And then we'll come back and talk a little bit",
+        "chinese": "英语：然后我们将再次讨论一些。"
+    },
+    {
+        "start": 603.12,
+        "end": 605.12,
+        "english": "about grocery stores in America.",
+        "chinese": "美国的杂货店。"
+    },
+    {
+        "start": 613.9200000000001,
+        "end": 615.6,
+        "english": "Excuse me, sir.",
+        "chinese": "英语：对不起，先生。"
+    },
+    {
+        "start": 615.6,
+        "end": 617.04,
+        "english": "This is the Express Checkout Lane",
+        "chinese": "这个是快速支付通道。"
+    },
+    {
+        "start": 617.04,
+        "end": 619.52,
+        "english": "for people who have 15 items or fewer.",
+        "chinese": "对于有15件或以下物品的人。"
+    },
+    {
+        "start": 620.24,
+        "end": 622.7199999999999,
+        "english": "It looks like you have more than 15 items there.",
+        "chinese": "看起来你那里有超过15件商品。"
+    },
+    {
+        "start": 622.7199999999999,
+        "end": 623.8399999999999,
+        "english": "Oh, come on.",
+        "chinese": "英语：哦，来吧。"
+    },
+    {
+        "start": 623.8399999999999,
+        "end": 625.12,
+        "english": "I have 16 items.",
+        "chinese": "我有16件物品。"
+    },
+    {
+        "start": 625.12,
+        "end": 627.12,
+        "english": "Cut me some slack, will you?",
+        "chinese": "切我一刀，好吗？"
+    },
+    {
+        "start": 627.12,
+        "end": 627.92,
+        "english": "Fine.",
+        "chinese": "英语：很好。"
+    },
+    {
+        "start": 627.92,
+        "end": 629.4399999999999,
+        "english": "Please place your items on the belt",
+        "chinese": "请将您的物品放在腰带里。"
+    },
+    {
+        "start": 629.4399999999999,
+        "end": 630.8,
+        "english": "and push your shopping cart through.",
+        "chinese": "和推你的购物车一样。"
+    },
+    {
+        "start": 639.5999999999999,
+        "end": 642.0,
+        "english": "Do you prefer paper or plastic?",
+        "chinese": "英语：你更喜欢纸张还是塑料？"
+    },
+    {
+        "start": 642.0,
+        "end": 642.8,
+        "english": "Plastic.",
+        "chinese": "塑料。"
+    },
+    {
+        "start": 642.8,
+        "end": 644.4,
+        "english": "I also have a couple of coupons.",
+        "chinese": "我还有几个优惠券。"
+    },
+    {
+        "start": 645.1999999999999,
+        "end": 646.48,
+        "english": "No problem, I'll take those.",
+        "chinese": "英语：没问题，我会处理这些。"
+    },
+    {
+        "start": 647.36,
+        "end": 652.16,
+        "english": "So, these coupons expired yesterday.",
+        "chinese": "所以，这些优惠券昨天就过期了。"
+    },
+    {
+        "start": 652.16,
+        "end": 653.36,
+        "english": "Turn.",
+        "chinese": "转。"
+    },
+    {
+        "start": 653.36,
+        "end": 655.36,
+        "english": "Oh, well, I guess it's just not my day.",
+        "chinese": "英语：哦，好吧，我猜这不就是我的日子。"
+    },
+    {
+        "start": 655.36,
+        "end": 656.16,
+        "english": "Thanks anyway.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 656.16,
+        "end": 658.9599999999999,
+        "english": "Do you have a club card or will it be cash?",
+        "chinese": "英语：你有俱乐部卡吗？或者，它会是现金？"
+    },
+    {
+        "start": 658.9599999999999,
+        "end": 660.3199999999999,
+        "english": "Yeah, I got a club card.",
+        "chinese": "是的，我得到了一张俱乐部卡。"
+    },
+    {
+        "start": 660.3199999999999,
+        "end": 661.1999999999999,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 661.1999999999999,
+        "end": 663.1999999999999,
+        "english": "Will this be debit or credit?",
+        "chinese": "英语：Will this be debit or credit?"
+    },
+    {
+        "start": 663.1999999999999,
+        "end": 664.7199999999999,
+        "english": "Debit, please.",
+        "chinese": "谢谢！如果您有其他需要，请随时告诉我。"
+    },
+    {
+        "start": 664.7199999999999,
+        "end": 666.24,
+        "english": "Also, can I get cash back?",
+        "chinese": "英语：Also, can I get cash back?"
+    },
+    {
+        "start": 666.24,
+        "end": 667.8399999999999,
+        "english": "$50 would be great.",
+        "chinese": "祝你好运！"
+    },
+    {
+        "start": 667.8399999999999,
+        "end": 668.8,
+        "english": "Yeah, sure.",
+        "chinese": "是的，当然。"
+    },
+    {
+        "start": 671.5999999999999,
+        "end": 674.48,
+        "english": "Your total is $78 and 33.",
+        "chinese": "你的总金额是78元，33分。"
+    },
+    {
+        "start": 674.64,
+        "end": 677.44,
+        "english": "Your total is $78 and 33 cents.",
+        "chinese": "你的总金额是78元33分。"
+    },
+    {
+        "start": 677.44,
+        "end": 678.16,
+        "english": "Here's your seat.",
+        "chinese": "这是你的座位。"
+    },
+    {
+        "start": 678.16,
+        "end": 678.88,
+        "english": "Have a nice day.",
+        "chinese": "祝你一天愉快。"
+    },
+    {
+        "start": 687.04,
+        "end": 691.04,
+        "english": "Well, one interesting thing I know about grocery stores in America",
+        "chinese": "英语：嗯，我了解一些关于美国超市的有趣事情。"
+    },
+    {
+        "start": 691.04,
+        "end": 694.96,
+        "english": "is that the people who are the cashiers are very often students.",
+        "chinese": "是那个经常是学生的人是那些收银员。"
+    },
+    {
+        "start": 694.96,
+        "end": 695.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 695.44,
+        "end": 698.8000000000001,
+        "english": "It's a very popular summer job or part-time job",
+        "chinese": "英语：它是一个非常受欢迎的夏季或兼职工作。"
+    },
+    {
+        "start": 698.8000000000001,
+        "end": 700.16,
+        "english": "like college students.",
+        "chinese": "英语：像大学学生。"
+    },
+    {
+        "start": 700.16,
+        "end": 702.48,
+        "english": "Yeah, or even in my hometown,",
+        "chinese": "是的，或者甚至在我家乡。"
+    },
+    {
+        "start": 702.48,
+        "end": 705.76,
+        "english": "it was the most common job for high school students.",
+        "chinese": "英语：它是最常见的高年级学生的工作。"
+    },
+    {
+        "start": 705.76,
+        "end": 707.84,
+        "english": "After school, if you went to the grocery store",
+        "chinese": "英语：放学后，如果你去超市，"
+    },
+    {
+        "start": 707.84,
+        "end": 711.2,
+        "english": "between four o'clock and nine o'clock at night,",
+        "chinese": "晚上四点到九点之间。"
+    },
+    {
+        "start": 711.2,
+        "end": 713.76,
+        "english": "every single cashier would be a high school student.",
+        "chinese": "每个单点收银员都是高中生。"
+    },
+    {
+        "start": 713.76,
+        "end": 717.44,
+        "english": "And the interesting thing is that the cashiers are usually women, right?",
+        "chinese": "和有趣的是，收银员通常是女性的。"
+    },
+    {
+        "start": 717.44,
+        "end": 720.5600000000001,
+        "english": "Yeah, always the high school girls who are the cashiers.",
+        "chinese": "是的，总是那个高年级女生，总是在收银台。"
+    },
+    {
+        "start": 720.5600000000001,
+        "end": 724.16,
+        "english": "And so the high school boys would be working in the back,",
+        "chinese": "所以高中的男生会坐在后边。"
+    },
+    {
+        "start": 724.16,
+        "end": 728.08,
+        "english": "maybe in the warehouse, carrying boxes or stocking the shelves.",
+        "chinese": "或许在仓库里，搬运箱子或摆放在货架上。"
+    },
+    {
+        "start": 728.08,
+        "end": 729.9200000000001,
+        "english": "So putting the cans on the shelves, right?",
+        "chinese": "所以把罐子放好，对吗？"
+    },
+    {
+        "start": 729.9200000000001,
+        "end": 730.72,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 730.88,
+        "end": 734.1600000000001,
+        "english": "It's a very popular part-time job for students",
+        "chinese": "英语：它是一份非常受欢迎的兼职工作，适合学生。"
+    },
+    {
+        "start": 734.1600000000001,
+        "end": 739.2,
+        "english": "in the United States, but also coupons are very popular in America.",
+        "chinese": "在美国内华达州，但美国的优惠也是非常流行的。"
+    },
+    {
+        "start": 739.2,
+        "end": 741.52,
+        "english": "Yeah, what is it about coupons?",
+        "chinese": "是啊，关于优惠券的事情。"
+    },
+    {
+        "start": 742.1600000000001,
+        "end": 745.2,
+        "english": "Well, usually, for example, in the Sunday newspaper,",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 745.2,
+        "end": 747.6,
+        "english": "you will receive a lot of coupons.",
+        "chinese": "你将收到许多优惠。"
+    },
+    {
+        "start": 747.6,
+        "end": 748.48,
+        "english": "Okay.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 748.48,
+        "end": 752.24,
+        "english": "You go to the grocery store and you have all these coupons for like cookies",
+        "chinese": "英语：你去超市，手里拿着这些优惠券。"
+    },
+    {
+        "start": 752.24,
+        "end": 756.1600000000001,
+        "english": "or a promotion on some type of soda or drink.",
+        "chinese": "或者在某种类型的饮料或汽水上获得晋升。"
+    },
+    {
+        "start": 756.1600000000001,
+        "end": 757.76,
+        "english": "So it's very popular.",
+        "chinese": "英语：所以它非常流行。"
+    },
+    {
+        "start": 757.76,
+        "end": 760.8,
+        "english": "People go grocery shopping and then present all these coupons.",
+        "chinese": "英语：人们去超市购物，然后把这些优惠券都展示出来。"
+    },
+    {
+        "start": 760.8,
+        "end": 764.48,
+        "english": "And actually, you can end up saving a good amount of money.",
+        "chinese": "实际上，你可能会节省大量的钱。"
+    },
+    {
+        "start": 764.48,
+        "end": 769.2,
+        "english": "I know the coupons are usually like saved two cents or save 25 cents,",
+        "chinese": "我了解优惠券通常如节省两分或节省二十五分。"
+    },
+    {
+        "start": 769.2,
+        "end": 772.64,
+        "english": "but I guess if you put all of those together, you can save money.",
+        "chinese": "但是，我猜如果把这些都放在一起，你就能省下钱了。"
+    },
+    {
+        "start": 772.64,
+        "end": 775.6,
+        "english": "It's interesting because people actually will buy that product",
+        "chinese": "英语：它很有趣，因为人们实际上会购买这个产品。"
+    },
+    {
+        "start": 775.6,
+        "end": 777.68,
+        "english": "just because they have a coupon for you.",
+        "chinese": "因为他们有优惠券。"
+    },
+    {
+        "start": 777.68,
+        "end": 780.88,
+        "english": "Coupons and high school checkout girls.",
+        "chinese": "coupons 和高中的放学女孩。"
+    },
+    {
+        "start": 781.92,
+        "end": 784.88,
+        "english": "Well, guys, thanks for listening to this show.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 784.88,
+        "end": 789.84,
+        "english": "Now, remember, if you have any questions about the language we were talking about in the show,",
+        "chinese": "现在，记住，如果你们在我们刚才讨论的语言节目里有任何问题，请随时提问。"
+    },
+    {
+        "start": 789.84,
+        "end": 793.52,
+        "english": "please visit our website at EnglishPod.com.",
+        "chinese": "请访问我们的网站：https://englishpod.com。"
+    },
+    {
+        "start": 793.52,
+        "end": 795.68,
+        "english": "Right. Leave all your questions and comments there.",
+        "chinese": "正确：英语：请将所有问题和评论在这里留下。"
+    },
+    {
+        "start": 795.68,
+        "end": 799.6,
+        "english": "And also, if you have any other suggestions or any doubts,",
+        "chinese": "英语：而且，如果你还有其他建议或有任何疑问，请告诉我。"
+    },
+    {
+        "start": 799.6,
+        "end": 800.72,
+        "english": "please let us know.",
+        "chinese": "请告知我们。"
+    },
+    {
+        "start": 800.72,
+        "end": 802.4,
+        "english": "And well, we'll see you guys there.",
+        "chinese": "英语：And well, we'll see you guys there."
+    },
+    {
+        "start": 802.4,
+        "end": 803.52,
+        "english": "So thanks for listening.",
+        "chinese": "英语：所以谢谢你的倾听。"
+    },
+    {
+        "start": 803.52,
+        "end": 805.4399999999999,
+        "english": "And until next time, goodbye.",
+        "chinese": "英语：And until next time, goodbye."
+    }
+]

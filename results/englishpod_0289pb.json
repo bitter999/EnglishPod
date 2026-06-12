@@ -1,0 +1,830 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.5200000000000005,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.5200000000000005,
+        "end": 9.68,
+        "english": "My name is Catherine and today we have part seven of our series all about giving a presentation",
+        "chinese": "我的名字是凯西，今天我们有第七集关于我们如何给演讲做准备的。"
+    },
+    {
+        "start": 9.68,
+        "end": 10.68,
+        "english": "in English.",
+        "chinese": "在英语中。"
+    },
+    {
+        "start": 10.68,
+        "end": 15.72,
+        "english": "That's right. So obviously not every presentation is going to go perfectly. Sometimes we do",
+        "chinese": "是的，所以不一定每个演示都会完美无缺。有时候我们也会犯错误。"
+    },
+    {
+        "start": 15.72,
+        "end": 21.16,
+        "english": "have some problems. And on this occasion we're going to take a look at tech problems and",
+        "chinese": "英语：有问题。而且今天我们要看看技术问题。"
+    },
+    {
+        "start": 21.16,
+        "end": 26.080000000000002,
+        "english": "how to handle them. That's right. So you're going to learn some great ways to discuss and",
+        "chinese": "如何处理它们。没错，所以你将学习一些很棒的讨论和交流技巧。"
+    },
+    {
+        "start": 26.08,
+        "end": 29.479999999999997,
+        "english": "to explain technical problems. Let's take a listen to our dialogue.",
+        "chinese": "英语：请听我对话。"
+    },
+    {
+        "start": 29.479999999999997,
+        "end": 39.879999999999995,
+        "english": "Okay so if we could dim the lights Jonathan we can kick off with the first TV advert. Please",
+        "chinese": "好的，如果我们可以降低灯光亮度，那么我们就可以开始电视广告了。请"
+    },
+    {
+        "start": 39.879999999999995,
+        "end": 43.8,
+        "english": "note that we're still in the early days with this advert so it might seem a bit rough around",
+        "chinese": "请注意，我们还在广告初期，因此可能会感觉有点粗糙。"
+    },
+    {
+        "start": 43.8,
+        "end": 50.76,
+        "english": "the edges. Okay so I just need to click this and the advert should pop up on the screen.",
+        "chinese": "边角。嗯，我只需要点击一下这个按钮，广告应该会在屏幕上弹出。"
+    },
+    {
+        "start": 50.76,
+        "end": 57.04,
+        "english": "Hmm sorry about this. Bear with me a second. It seems to be a problem with the projector.",
+        "chinese": "嗯，不好意思。再等等吧。看来是投影仪的问题。"
+    },
+    {
+        "start": 57.04,
+        "end": 66.28,
+        "english": "Let me see. Jonathan, could you lend a hand a second?",
+        "chinese": "请让我看看。杰克森，你能再帮我做点什么吗？"
+    },
+    {
+        "start": 66.28,
+        "end": 70.6,
+        "english": "It looks like the projector is not recognizing the computer. Let me check the connection",
+        "chinese": "英语：它看起来像是投影仪没有识别电脑。让我检查连接。"
+    },
+    {
+        "start": 70.6,
+        "end": 77.16,
+        "english": "a second. Well the connection seems okay and the computer is running normally. Hmm.",
+        "chinese": "第二台。嗯，连接似乎正常，电脑运行良好。嗯。"
+    },
+    {
+        "start": 77.8,
+        "end": 83.2,
+        "english": "Okay sorry guys obviously a problem with the system. Let's just reboot and start over.",
+        "chinese": "好的，抱歉各位。系统出了问题。我们先重启一下，然后再开始。"
+    },
+    {
+        "start": 83.2,
+        "end": 92.12,
+        "english": "Let's see if this resolves the issue. Right let's try again. No still nothing Michael.",
+        "chinese": "让我们看看这个是否能解决这个问题。好了，我们再试一次。没什么好说的，迈克尔。"
+    },
+    {
+        "start": 92.12,
+        "end": 97.03999999999999,
+        "english": "There might be a technical issue with the projector. I think maybe the projector has overheated.",
+        "chinese": "英语：可能有一个投影仪有问题。我认为可能是投影仪过热了。"
+    },
+    {
+        "start": 97.03999999999999,
+        "end": 101.4,
+        "english": "We might need to cool it down for 10 minutes and start again. I'll call IT support to come",
+        "chinese": "我们可能需要等待10分钟来冷却一下，然后重新开始。我将联系IT支持来寻求帮助。"
+    },
+    {
+        "start": 101.4,
+        "end": 107.12,
+        "english": "over right now. Okay guys. Unfortunately technical problems do crop up from time to time.",
+        "chinese": "现在过来。大家注意，技术问题时有发生。"
+    },
+    {
+        "start": 107.12,
+        "end": 112.48,
+        "english": "Don't they? But it's not a huge problem. In the meantime while the IT guys get to work on that",
+        "chinese": "他们呢？但不算什么大事。在IT大家庭里，他们能干吗？"
+    },
+    {
+        "start": 112.48,
+        "end": 116.42,
+        "english": "I can talk a little bit more about the advertising concept and what we are looking to achieve",
+        "chinese": "英语：我可以说得比你多一点关于广告概念和我们想要达到的目标。"
+    },
+    {
+        "start": 116.42,
+        "end": 126.48,
+        "english": "overall with this campaign. Alright so we're back and now let's take a look at five key words",
+        "chinese": "整体来看，这个项目进展顺利。现在让我们来看看五个关键词汇。"
+    },
+    {
+        "start": 126.48,
+        "end": 135.84,
+        "english": "that we've picked out for you on language takeaway. Language takeaway. Okay so we have some",
+        "chinese": "我们为你挑选的语言小站。语言小站。好的，所以我们有一些中文。"
+    },
+    {
+        "start": 135.84,
+        "end": 142.16,
+        "english": "phrasal verbs today. The first one is to kick off. That's right Mr. Ford started out by saying",
+        "chinese": "英语：今天，我们开始了一天。第一个词是“开始”。先生，你今天早上说的第一句话是什么？"
+    },
+    {
+        "start": 142.16,
+        "end": 148.32,
+        "english": "that we can kick off the first TV advert. So this phrasal verb to kick off what does it mean? It",
+        "chinese": "这个点和拍是傻瓜相机。所以，这个短语“点和拍”意味着什么？它具体是什么意思呢？"
+    },
+    {
+        "start": 148.32,
+        "end": 155.68,
+        "english": "means to start something okay. So to kick it off means to start. So I can say tonight we're kicking",
+        "chinese": "今天晚上我们开始。"
+    },
+    {
+        "start": 155.68,
+        "end": 162.4,
+        "english": "off the party at eight o'clock. That's right or let's kick off this new product with a big party.",
+        "chinese": "八点整，我们该开始新产品的发布会了。"
+    },
+    {
+        "start": 162.4,
+        "end": 168.96,
+        "english": "That's right. Okay so the phrasal verb to kick off you've probably also seen it in sports I think",
+        "chinese": "英语：那对，你可能也在这儿看过。"
+    },
+    {
+        "start": 168.96,
+        "end": 173.6,
+        "english": "in soccer you have the kickoff which is the same thing. That's right except it's in noun so be",
+        "chinese": "在足球比赛中，你有控球权，这也是同样的事情。没错，只是用名词时要小心。"
+    },
+    {
+        "start": 173.6,
+        "end": 179.36,
+        "english": "careful with that one. The kickoff is the very beginning of the game. Okay very good. In that same",
+        "chinese": "仔细对待那个。开球是游戏的开始。很好。在同样的地方。"
+    },
+    {
+        "start": 179.36,
+        "end": 186.08,
+        "english": "paragraph towards the end we see Mr. Ford saying okay so I just need to click this and the advert",
+        "chinese": "段落的最后，我们看到福特先生说好了，所以我只需要点击这个链接并广告。"
+    },
+    {
+        "start": 186.08,
+        "end": 191.6,
+        "english": "should pop up on the screen. Pop. Right. I like this verb actually because it makes me think of that",
+        "chinese": "应该在屏幕上显示。弹。我非常喜欢这个动词，因为它让我想起了那个。"
+    },
+    {
+        "start": 191.6,
+        "end": 196.79999999999998,
+        "english": "but when you're using a computer and you have these little windows or these little icons those",
+        "chinese": "但是当你在电脑上使用这些小窗口或小图标时。"
+    },
+    {
+        "start": 196.79999999999998,
+        "end": 203.84,
+        "english": "little pictures when when something changes they they appear quickly and that means in computer",
+        "chinese": "英语：当某事发生时，小图片会快速出现。"
+    },
+    {
+        "start": 203.84,
+        "end": 208.72,
+        "english": "talk it means to pop up. That's right you obviously maybe heard of this already you have annoying",
+        "chinese": "说话的意思是弹出。没错，你可能已经听说过这个了，你肯定也听腻了。"
+    },
+    {
+        "start": 208.72,
+        "end": 213.76,
+        "english": "pop-ups maybe visit a website and all of a sudden these new windows start to open. They're all",
+        "chinese": "英语：弹出窗口，可能访问一个网站，然后突然所有的新窗口都打开了。他们都是所有打开的。"
+    },
+    {
+        "start": 213.76,
+        "end": 218.16,
+        "english": "advertisements. That's right. You buy this by this by this by this by this. Those are pop-ups but",
+        "chinese": "广告。正确。你买这个，通过这种方式，这种方式，这种方式，这种方式。这些是弹窗，但这些都是弹窗。"
+    },
+    {
+        "start": 218.16,
+        "end": 224.64,
+        "english": "also you can have a pop-up in a chat window for example. And in this case we also use it as a verb",
+        "chinese": "英语：它还可以在聊天窗口中弹出一个弹窗，比如在这种情况下我们也把它用作动词。"
+    },
+    {
+        "start": 224.64,
+        "end": 231.92,
+        "english": "it should pop up so to pop up to appear to appear. All right very good now obviously it didn't work",
+        "chinese": "英语：它应该弹出，所以要弹出来，看起来好像在弹出来。现在很明显不行了，它没有工作。"
+    },
+    {
+        "start": 231.92,
+        "end": 237.44,
+        "english": "something was happening with the projector and Mr. Ford was going through maybe some of the",
+        "chinese": "有件事正在发生于投影仪上，福特先生正考虑可能的一些。"
+    },
+    {
+        "start": 237.44,
+        "end": 243.12,
+        "english": "problems and he said let me check the connection a second. Well the connection seems okay.",
+        "chinese": "问题和他说让我再检查一下连接。看来连接似乎正常。"
+    },
+    {
+        "start": 243.12,
+        "end": 247.28,
+        "english": "Okay connection is a very important noun especially when we're talking about technical things like",
+        "chinese": "好的连接是特别重要的名词，尤其是在谈论技术问题时。"
+    },
+    {
+        "start": 247.28,
+        "end": 253.36,
+        "english": "computers you can have an internet connection this means how you how you are able to use the",
+        "chinese": "计算机，你可以有互联网连接。这表示你如何使用这些设备。"
+    },
+    {
+        "start": 253.36,
+        "end": 259.2,
+        "english": "internet but in this case we're talking about a projector which makes things bigger and a computer",
+        "chinese": "互联网，但在这个情况下我们谈论的是投影机，它可以放大东西，并且是计算机。"
+    },
+    {
+        "start": 259.2,
+        "end": 264.64,
+        "english": "and so those things need to need to have a connection they need to have a cord or something that",
+        "chinese": "和因此，这些东西需要有一个连接，它们需要有一个线或什么的东西。"
+    },
+    {
+        "start": 264.64,
+        "end": 270.08,
+        "english": "you plug into one and to the other so that they can talk to each other. That's right so as you notice",
+        "chinese": "你把插头插入到另一端，这样它们就可以互相沟通了。那真是太好了，因为你能注意到这一点。"
+    },
+    {
+        "start": 270.08,
+        "end": 276.72,
+        "english": "we are using it as a noun they need to have the computer and the projector needs to have a connection.",
+        "chinese": "我们正在用它作为名词，他们需要有电脑和投影仪。"
+    },
+    {
+        "start": 276.72,
+        "end": 284.08000000000004,
+        "english": "So you have the verb to connect but then you have the noun a connection. All right and let's move on",
+        "chinese": "所以，你已经有了连接的语法，但随后又有了一个名词“连接”。很好，让我们继续前进。"
+    },
+    {
+        "start": 284.08000000000004,
+        "end": 291.52000000000004,
+        "english": "to another possible solution Mr. Ford suggests rebooting the system. Okay so the verb here to reboot",
+        "chinese": "英语：它是一个傻瓜相机。"
+    },
+    {
+        "start": 291.52000000000004,
+        "end": 299.44000000000005,
+        "english": "is another special computer word that means to turn off and turn on again to restart. So if I say",
+        "chinese": "英语：它又是一个专门的计算机词，表示再次关机并重新启动。所以如果我说："
+    },
+    {
+        "start": 299.44000000000005,
+        "end": 305.12,
+        "english": "reboot that I'm using the prefix there re which means a repetition or to do it again.",
+        "chinese": "英语：重启，即复位。"
+    },
+    {
+        "start": 305.76,
+        "end": 311.44,
+        "english": "If I just say boot can I say just I need to boot the computer? I need to boot up the computer.",
+        "chinese": "如果我只是说，我只需要启动电脑就能了吗？我需要启动计算机。"
+    },
+    {
+        "start": 311.44,
+        "end": 316.8,
+        "english": "Okay boot up. That's right so in this case you would be talking about a computer that is off",
+        "chinese": "好的，开机。这是正确的，在这种情况下你将谈论一台离线的计算机。"
+    },
+    {
+        "start": 316.8,
+        "end": 321.04,
+        "english": "and you want to turn it on so I would say hey Marco can you boot up the computer for me?",
+        "chinese": "英语：和你希望这样，我可以说，嘿，马科，你可以让我启动电脑吗？"
+    },
+    {
+        "start": 321.04,
+        "end": 327.12,
+        "english": "Now about using the word reboot or to boot up it's usually for electronic things electric things",
+        "chinese": "现在关于使用重启或启动起来通常用于电子设备和电器设备。"
+    },
+    {
+        "start": 327.12,
+        "end": 333.36,
+        "english": "you wouldn't say to reboot your car or to boot up your car. No this is for for computers specifically",
+        "chinese": "英语：你不会说要重启你的汽车或启动你的汽车。这是针对电脑的。"
+    },
+    {
+        "start": 333.36,
+        "end": 342.48,
+        "english": "electronics for example oh man my iPhone just froze I need to reboot it. Okay very good. All right and",
+        "chinese": "电子设备，例如啊，我的iPhone刚刚冻住了。我需要重启它。很好，一切顺利。谢谢！"
+    },
+    {
+        "start": 342.48,
+        "end": 349.36,
+        "english": "for our last phrasal verb for today on language take away we have the towards the end of the dialogue",
+        "chinese": "英语：对于今天语言对话中的最后一个短语，我们将在对话的最后部分提到。"
+    },
+    {
+        "start": 349.36,
+        "end": 355.28000000000003,
+        "english": "towards the end towards the end of the dialogue Mr. Ford apologizes and says you know what I'm sorry",
+        "chinese": "英语：在对话的最后，福特先生向你道歉，并说你知道我有多抱歉。"
+    },
+    {
+        "start": 355.35999999999996,
+        "end": 364.0,
+        "english": "but technical problems do crop up sometimes. Okay so this verb to crop up means to appear or to",
+        "chinese": "但是技术问题时有发生。嗯，这个动词“出现”在这里的意思是“出现或显现”。"
+    },
+    {
+        "start": 364.0,
+        "end": 371.84,
+        "english": "happen but not all the time. So unexpectedly or occasionally. That's right so these things do",
+        "chinese": "发生，但不是每天都发生。所以突然或偶尔。这就是正确的。"
+    },
+    {
+        "start": 371.84,
+        "end": 378.71999999999997,
+        "english": "crop up sometimes it means every once in a while this problem will happen. So can I use this for a",
+        "chinese": "英语：它有时会出现，意味着偶尔会发生这个问题。所以，我可以用这个来解决这个问题。"
+    },
+    {
+        "start": 378.71999999999997,
+        "end": 384.32,
+        "english": "person if you if you say oh you scared me you cropped up on me. No I didn't creeped up on me.",
+        "chinese": "英语：如果你说，哦，你吓到了我，然后你把镜头放大了。我没有把你逼到极限。"
+    },
+    {
+        "start": 384.32,
+        "end": 388.56,
+        "english": "Creeped up very good so we can't confuse those two but they sound very similar. They do sound",
+        "chinese": "英语：爬得很高，所以我们不能混淆这两个。他们听起来很相似。"
+    },
+    {
+        "start": 388.56,
+        "end": 396.48,
+        "english": "similar but to crop up is usually a problem or an event or a thing that happens and it happens",
+        "chinese": "英语：类似但与裁剪有关的问题或事件或发生的事情，它通常会发生。"
+    },
+    {
+        "start": 396.48,
+        "end": 402.96,
+        "english": "not very often. Okay very good so I think we've taken a look at a lot of words here specifically",
+        "chinese": "英语：很少。嗯，很好，所以我们已经看了很多单词了。"
+    },
+    {
+        "start": 402.96,
+        "end": 406.88,
+        "english": "phrasal verbs so let's review those let's listen to our dialogue again.",
+        "chinese": "英语：点和拍 = 傻瓜相机"
+    },
+    {
+        "start": 407.52,
+        "end": 417.52,
+        "english": "Okay so if we could dim the lights Jonathan we can kick off with the first TV advert. Please",
+        "chinese": "好的，如果我们可以降低灯光亮度，那么我们就可以开始使用第一集电视广告了。请"
+    },
+    {
+        "start": 417.52,
+        "end": 421.52,
+        "english": "note that we're still in the early days with this advert so it might seem a bit rough around the",
+        "chinese": "请注意，我们还处于这个广告的早期阶段，因此可能会感觉有点粗糙。"
+    },
+    {
+        "start": 421.52,
+        "end": 426.88,
+        "english": "edges. Okay so I just need to click this and the advert should pop up on the screen.",
+        "chinese": "边。嗯，我只需要点击这个按钮，广告应该会在屏幕上弹出。"
+    },
+    {
+        "start": 428.24,
+        "end": 433.52,
+        "english": "Hmm sorry about this spare with me a second. It seems to be a problem with the projector.",
+        "chinese": "嗯，不好意思，我有点问题。似乎与投影机有关的问题。"
+    },
+    {
+        "start": 434.47999999999996,
+        "end": 437.28,
+        "english": "Let me see Jonathan could you lend a hand a second?",
+        "chinese": "英语：让我看看，杰克森，你能帮我做点什么吗？"
+    },
+    {
+        "start": 443.68,
+        "end": 448.64,
+        "english": "It looks like the projector is not recognizing the computer. Let me check the connection a second.",
+        "chinese": "英语：它看起来像是投影仪没有识别电脑。让我再检查一下连接。"
+    },
+    {
+        "start": 449.91999999999996,
+        "end": 456.71999999999997,
+        "english": "Well the connection seems okay and the computer is running normally. Hmm okay sorry guys",
+        "chinese": "英语：嗯，连接似乎正常，电脑运行良好。嗯，抱歉，各位。"
+    },
+    {
+        "start": 456.71999999999997,
+        "end": 461.35999999999996,
+        "english": "obviously a problem with the system. Let's just reboot and start over. Let's see if this",
+        "chinese": "当然，系统有问题。我们先重启一下，重新开始。看看这个是否解决了问题。"
+    },
+    {
+        "start": 461.36,
+        "end": 470.8,
+        "english": "resolves the issue. Right let's try again. No still nothing Michael there might be a technical",
+        "chinese": "英语：解决这个问题。让我们再试一次。Michael，你可能遇到了技术问题。"
+    },
+    {
+        "start": 470.8,
+        "end": 475.36,
+        "english": "issue with the projector. I think maybe the projector has overheated. We might need to cool it",
+        "chinese": "问题与投影机有关。我认为可能投影机过热了。我们或许需要冷却它。"
+    },
+    {
+        "start": 475.36,
+        "end": 481.6,
+        "english": "down for 10 minutes and start again. I'll call IT support to come over right now. Okay guys",
+        "chinese": "请稍等，我将为您翻译这段话。以下是中文翻译："
+    },
+    {
+        "start": 481.6,
+        "end": 486.8,
+        "english": "unfortunately technical problems do crop up from time to time don't they? But it's not a huge",
+        "chinese": "不幸的是，技术问题时有发生，并不是吗？但这不是一个大问题。"
+    },
+    {
+        "start": 487.28000000000003,
+        "end": 491.44,
+        "english": "problem. In the meantime while the IT guys get to work on that I can talk a little bit more about",
+        "chinese": "问题。在IT部门的同事们忙于那个项目的同时，我可以在稍后谈谈一些细节。"
+    },
+    {
+        "start": 491.44,
+        "end": 495.52000000000004,
+        "english": "the advertising concept and what we are looking to achieve overall with this campaign.",
+        "chinese": "广告理念和我们整体想要达到的总体目标。"
+    },
+    {
+        "start": 500.48,
+        "end": 504.48,
+        "english": "All right we're back so now let's take a look at some phrases on fluency builder.",
+        "chinese": "好的，我们已经回来。现在让我们看看一些在流利.builder中的短语。"
+    },
+    {
+        "start": 506.08000000000004,
+        "end": 512.64,
+        "english": "Fluency builder. So this first phrase we have is very important especially when we're using video",
+        "chinese": "流畅构建。因此，这个第一个句子对我们来说非常重要，尤其是在使用视频时。"
+    },
+    {
+        "start": 512.72,
+        "end": 518.72,
+        "english": "or a projector in a presentation we say let's dim the lights. That's right so we have the verb",
+        "chinese": "或者在演示中，我们说让我们降低亮度。这样我们就有了动词。"
+    },
+    {
+        "start": 518.72,
+        "end": 528.3199999999999,
+        "english": "to dim. So to dim something is to make it darker. But not turn it off completely. No it means it",
+        "chinese": "英语：降低亮度。所以降低某个东西的亮度是让它更暗，但不完全关闭它。不是说完全关闭，而是指稍微降低。"
+    },
+    {
+        "start": 528.3199999999999,
+        "end": 534.56,
+        "english": "means maybe to lower the lights. We could actually see this on a computer also when the screen is",
+        "chinese": "英语：它可能意味着降低灯光。我们也可以在电脑上看到这一点，当屏幕亮起来时。"
+    },
+    {
+        "start": 534.56,
+        "end": 541.04,
+        "english": "very very bright. It's too bright. I need you to dim it a little. Make it a little bit darker.",
+        "chinese": "非常明亮。太亮了，我需要你稍微调暗一下。让它变暗一些。"
+    },
+    {
+        "start": 541.04,
+        "end": 547.12,
+        "english": "Okay so you can use this verb to dim to make it a little bit darker or to make it lower in",
+        "chinese": "好的，你可以使用这个动词来使它稍微暗一些或者降低一点。"
+    },
+    {
+        "start": 547.12,
+        "end": 552.9599999999999,
+        "english": "intensity. That's right dim the color dim the lights. All right very good. Now Mr. Ford when he",
+        "chinese": "英语：亮度。那很好，亮光很足。现在福特先生，当你需要的时候，你可以随时调暗灯光。"
+    },
+    {
+        "start": 552.9599999999999,
+        "end": 559.1999999999999,
+        "english": "was talking about the advert he said well it's new and it's not ready yet completely so it might",
+        "chinese": "英语：他正在谈论他说的广告，嗯，它新啊，还没完全准备好呢，所以可能"
+    },
+    {
+        "start": 559.1999999999999,
+        "end": 566.24,
+        "english": "seem a bit rough around the edges. Okay this is a very very popular phrase that means that something",
+        "chinese": "英语：看起来有点粗糙。"
+    },
+    {
+        "start": 566.24,
+        "end": 573.12,
+        "english": "is incomplete. Maybe it's not perfect yet it needs some work. Okay so if maybe you're designing",
+        "chinese": "英语：它有点不完整。也许它还没有完全完成，需要做一些工作。好吧，如果你正在设计，那么可能还需要一些调整和优化。"
+    },
+    {
+        "start": 573.12,
+        "end": 580.24,
+        "english": "a new website and it's maybe 50% done. So you say the website is almost finished but it's still",
+        "chinese": "一个新网站，可能只有五成完成。所以你说这个网站差不多完成了，但还没到一半。"
+    },
+    {
+        "start": 580.24,
+        "end": 585.6,
+        "english": "rough around the edges. We need to make some changes to fix it. That's right so rough around the edges",
+        "chinese": "边缘不平整。我们需要做一些调整来修复它，这是正确的边缘不平整。"
+    },
+    {
+        "start": 585.6,
+        "end": 591.92,
+        "english": "is a phrase that is the opposite of the word polished. Something is polished if it's perfect and",
+        "chinese": "英语：它是一个点和拍的相机。"
+    },
+    {
+        "start": 591.92,
+        "end": 600.0799999999999,
+        "english": "ready to go. Okay and well when the technical problem started Mr. Ford was apologizing and said",
+        "chinese": "英语：准备好。当技术问题开始时，福特先生道歉并说。"
+    },
+    {
+        "start": 600.0799999999999,
+        "end": 606.64,
+        "english": "hey look I'm sorry and he also used this interesting phrase bear with me bear with me a second.",
+        "chinese": "嘿，你看我不好意思，他也是用这个有趣的话。"
+    },
+    {
+        "start": 606.64,
+        "end": 611.04,
+        "english": "Okay so this is interesting because it's not the animal the bear. Right right. This is different. This",
+        "chinese": "好的，那么现在请将以下句子翻译成简体中文："
+    },
+    {
+        "start": 611.04,
+        "end": 618.64,
+        "english": "means you know excuse me please be patient. I have to do something and you have to wait. So this is",
+        "chinese": "英语：它意味着你理解我，让我先做点事，然后你才能等待。所以这是"
+    },
+    {
+        "start": 618.64,
+        "end": 624.64,
+        "english": "a very very polite way of asking some people or some person to wait for you. To tolerate. Yes.",
+        "chinese": "英语：非常礼貌地请求某人或某人等待你。接受。是的。"
+    },
+    {
+        "start": 624.64,
+        "end": 630.64,
+        "english": "So both the animal bear and to bear with me are spelled the same way it looks exactly like the",
+        "chinese": "英语：所以，这只熊和它，与我一起，看起来就像它们的形状一样完美。"
+    },
+    {
+        "start": 630.64,
+        "end": 635.76,
+        "english": "animal but we're not talking about the animal. No we're asking someone to to tolerate something",
+        "chinese": "英语：动物，但我们不是在谈论动物。请允许某人容忍一些东西。"
+    },
+    {
+        "start": 635.76,
+        "end": 642.24,
+        "english": "that's annoying or frustrating. Okay. So for example I'm trying to show you a file on my computer",
+        "chinese": "这真是烦人或令人沮丧。嗯，所以比如说我正在展示我的文件到你的电脑上。"
+    },
+    {
+        "start": 642.24,
+        "end": 646.96,
+        "english": "Marco. My my computer's not working. I say please bear with me a second. Right. I have to reboot",
+        "chinese": "你好，马克。我的电脑不工作了。我可以说，等一会儿再原谅你。对了，我需要重启一下。"
+    },
+    {
+        "start": 646.96,
+        "end": 652.08,
+        "english": "my computer. That's right. We have to wait here. Okay very good. Now towards the end of the dialogue",
+        "chinese": "我的电脑。对，我们得在这里等了。好的，现在到了对话的最后阶段。"
+    },
+    {
+        "start": 652.08,
+        "end": 658.96,
+        "english": "when we talked about to crop up the second part of that Mr. Ford said unfortunately technical",
+        "chinese": "英语：当我们谈论到那片片的第二部分时，他说不客气。"
+    },
+    {
+        "start": 658.96,
+        "end": 666.32,
+        "english": "problems do crop up from time to time. So we already discussed crop up what is time to time",
+        "chinese": "问题总是会有的。所以我们已经讨论过，时间会过去。"
+    },
+    {
+        "start": 666.32,
+        "end": 671.52,
+        "english": "from time to time. Okay think of this as a set phrase because we said already that you could also",
+        "chinese": "英语：从时间到时间。可以作为一个集合词，因为你说过你也可以用这个。"
+    },
+    {
+        "start": 671.52,
+        "end": 679.36,
+        "english": "say sometimes. So from time to time means every once in a while occasionally occasionally. So it's",
+        "chinese": "英语：它有时会说。所以从时间到时间，偶尔，偶尔，偶尔。因此，这句话可以翻译为中文：有时候会说。"
+    },
+    {
+        "start": 679.36,
+        "end": 684.56,
+        "english": "an adverbial phrase it's a it's a way of telling people how often something happens but in this case",
+        "chinese": "这个是副词，意思是\"它是一个……\"。"
+    },
+    {
+        "start": 684.56,
+        "end": 690.0799999999999,
+        "english": "it's not very common. So for example you can say I like to go to the movies from time to time. That's",
+        "chinese": "英语：它并不常见。例如，你可以这么说：“我喜欢在电影之间偶尔去散步。”"
+    },
+    {
+        "start": 690.0799999999999,
+        "end": 696.4,
+        "english": "right. So maybe once or twice a month you like to go to the movies. But what if I come to work every",
+        "chinese": "正确。也许每月或者每两周你都会去看电影，但如果你来上班的话，我可能需要更频繁地来看你的电影了。"
+    },
+    {
+        "start": 696.4,
+        "end": 702.24,
+        "english": "day do I come to work from time to time? No. Right. That's okay. So from time to time is rarely",
+        "chinese": "一天我经常来上班吗？不是。对，这是正常的。从时间到时间偶尔也是常有的事。"
+    },
+    {
+        "start": 702.24,
+        "end": 708.48,
+        "english": "or occasionally not very often. Exactly. All right very good. So now let's listen to our dialogue one",
+        "chinese": "英语：或者偶尔不会。正好。现在让我们听我们的对话，一。"
+    },
+    {
+        "start": 708.48,
+        "end": 718.72,
+        "english": "last time and review everything we've just learned. Okay so if we could dim the lights Jonathan we can",
+        "chinese": "上一次和你一起回顾我们刚刚学习的内容。好了，如果我们可以降低灯光，那么杰森可以吗？"
+    },
+    {
+        "start": 718.72,
+        "end": 723.36,
+        "english": "kick off with the first TV advert. Please note that we're still in the early days with this advert.",
+        "chinese": "英语：启动广告的第一集。"
+    },
+    {
+        "start": 723.36,
+        "end": 728.72,
+        "english": "So it might seem a bit rough around the edges. Okay so I just need to click this and the advert",
+        "chinese": "所以，它可能看起来有点边缘化。嗯，我只是需要点击一下这个按钮，然后广告就会显示出来。"
+    },
+    {
+        "start": 728.72,
+        "end": 736.4,
+        "english": "should pop up on the screen. Hmm sorry about this. Bear with me a second. There seems to be a problem",
+        "chinese": "应该在屏幕上弹出。嗯，对不起，稍等一下。似乎遇到了问题。请耐心等待。"
+    },
+    {
+        "start": 736.4,
+        "end": 740.96,
+        "english": "with the projector. Let me see. Jonathan could you lend a hand second?",
+        "chinese": "英语：用点和影。让我看看。杰森，你能再帮我一次吗？"
+    },
+    {
+        "start": 747.36,
+        "end": 752.32,
+        "english": "It looks like the projector is not recognizing the computer. Let me check the connection a second.",
+        "chinese": "英语：看起来投影仪似乎没有识别电脑。让我再检查一下连接。"
+    },
+    {
+        "start": 753.2800000000001,
+        "end": 760.96,
+        "english": "Well the connection seems okay and the computer is running normally. Hmm. Okay sorry guys obviously a",
+        "chinese": "英语：它似乎连接正常，电脑运行良好。嗯...抱歉，显然一个..."
+    },
+    {
+        "start": 760.96,
+        "end": 766.08,
+        "english": "problem with the system. Let's just reboot and start over. Let's see if this resolves the issue.",
+        "chinese": "问题出在系统上。我们先重启一下，看看能不能解决这个问题。"
+    },
+    {
+        "start": 769.5200000000001,
+        "end": 775.9200000000001,
+        "english": "Right let's try again. No still nothing Michael. There might be a technical issue with the projector.",
+        "chinese": "正确，我将翻译成中文："
+    },
+    {
+        "start": 775.9200000000001,
+        "end": 780.48,
+        "english": "I think maybe the projector has overheated. We might need to cool it down for 10 minutes and",
+        "chinese": "我可能认为可能是投影机过热了。我们或许需要在10分钟内对它进行冷却，以防止进一步损坏。"
+    },
+    {
+        "start": 780.48,
+        "end": 786.4,
+        "english": "start again. I'll call IT support to come over right now. Okay guys unfortunately technical",
+        "chinese": "开始重新来过。我现在需要请IT支持过来，好吗？抱歉，技术问题。"
+    },
+    {
+        "start": 786.4,
+        "end": 791.9200000000001,
+        "english": "problems do crop up from time to time don't they? But it's not a huge problem. In the meantime while",
+        "chinese": "问题总是有的，不是吗？不过这并不算什么大问题。在接下来的时间里，我会继续努力。"
+    },
+    {
+        "start": 791.9200000000001,
+        "end": 796.72,
+        "english": "the IT guys get to work on that I can talk a little bit more about the advertising concept and what",
+        "chinese": "这个IT团队可以稍微谈谈广告概念和我们正在讨论的营销策略。"
+    },
+    {
+        "start": 796.72,
+        "end": 807.84,
+        "english": "we're looking to achieve overall with this campaign. All right so this was part seven of our presentation",
+        "chinese": "我们正在寻找整体的解决方案。现在，这是我们的第七个演示。"
+    },
+    {
+        "start": 807.84,
+        "end": 814.32,
+        "english": "series and actually these type of problems occur very very often specifically with with the laptop",
+        "chinese": "英语：系列和实际上，这些问题在笔记本电脑中特别常见。"
+    },
+    {
+        "start": 814.32,
+        "end": 819.76,
+        "english": "and the projector and sometimes it doesn't work it doesn't recognize it and so this is a nice way",
+        "chinese": "和投影机一起使用，有时它不工作，也不认识，所以这是个不错的解决方案。"
+    },
+    {
+        "start": 819.76,
+        "end": 824.64,
+        "english": "of handling it. This is and we hope that these are phrases that you can use in your daily life as well.",
+        "chinese": "英语：它需要处理。这正是我们希望你也能在日常生活中使用的这些短语。"
+    },
+    {
+        "start": 824.64,
+        "end": 828.48,
+        "english": "Maybe you're working with your colleagues and you're having some technical problems or if you're",
+        "chinese": "可能你正在和你的同事一起工作，遇到了一些技术问题或者如果你需要帮助。"
+    },
+    {
+        "start": 828.48,
+        "end": 833.76,
+        "english": "having a problem and someone gives you instructions for how to solve that problem like I often get",
+        "chinese": "我经常遇到问题，有人会给你提供解决这个问题的指示，就像我在遇到问题时常常得到。"
+    },
+    {
+        "start": 833.76,
+        "end": 839.2,
+        "english": "this from my technical team I say listen I have a problem and they say hey just reboot your computer",
+        "chinese": "这个从我的技术团队里，我告诉你，重启你的电脑。"
+    },
+    {
+        "start": 839.2,
+        "end": 845.6,
+        "english": "and it'll be okay so these are very very common issues that I think that you can learn how to",
+        "chinese": "英语：和它会很好用，所以这些是你们应该能学到的非常普遍的问题。"
+    },
+    {
+        "start": 845.6,
+        "end": 849.84,
+        "english": "describe in English with today's lesson. All right very good and of course if you guys have any",
+        "chinese": "请在今天的课上描述一下。很好，当然如果有你们有什么问题。"
+    },
+    {
+        "start": 849.84,
+        "end": 855.76,
+        "english": "questions or any doubts about this or any of our lessons please come to our website englishpod.com",
+        "chinese": "请告诉我关于这个或任何课程的问题或疑虑，请访问我们的网站：englishpod.com。"
+    },
+    {
+        "start": 855.76,
+        "end": 860.8,
+        "english": "on the lessons page you can leave your comments and questions and we'll see you guys next time. Bye.",
+        "chinese": "英文：在课程页面，你可以留下评论和问题，并且下次见。再见！"
+    }
+]

@@ -1,0 +1,2066 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.16,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 6.16,
+        "end": 10.4,
+        "english": "And my name is Catherine and today we're talking about being on the road.",
+        "chinese": "我的名字是凯特，今天我们要谈论在路上。"
+    },
+    {
+        "start": 10.4,
+        "end": 15.52,
+        "english": "Yeah, we're gonna be on the road but we're gonna encounter a little bit of a car problems.",
+        "chinese": "是的，我们将会在路上，但我们将遇到一些小车问题。"
+    },
+    {
+        "start": 15.52,
+        "end": 17.28,
+        "english": "My favorite kind.",
+        "chinese": "我的最爱。"
+    },
+    {
+        "start": 17.28,
+        "end": 21.44,
+        "english": "Yeah, I think it's happened to everyone you're on the road or maybe you're coming back from work.",
+        "chinese": "是的，我认为这发生在你或你的路上。或者，你可能刚刚从工作回来。"
+    },
+    {
+        "start": 21.44,
+        "end": 24.0,
+        "english": "You get a flat tie or something happens to your car, right?",
+        "chinese": "您选择了一条平头领或发生了您的汽车的事情，对吗？"
+    },
+    {
+        "start": 24.0,
+        "end": 26.080000000000002,
+        "english": "And it's always when you're in a rush.",
+        "chinese": "而且总是当你在赶时间。"
+    },
+    {
+        "start": 26.080000000000002,
+        "end": 27.92,
+        "english": "And most of the time it's rainy.",
+        "chinese": "大多数时候都是下雨。"
+    },
+    {
+        "start": 27.92,
+        "end": 28.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 28.96,
+        "end": 33.52,
+        "english": "Or snowing. So all of the circumstances definitely, well, they don't help.",
+        "chinese": "或者下雪。所以，所有的情况都肯定的，他们并不帮助。"
+    },
+    {
+        "start": 33.52,
+        "end": 34.32,
+        "english": "Let's just say.",
+        "chinese": "让我们简单地说。"
+    },
+    {
+        "start": 34.32,
+        "end": 38.32,
+        "english": "All right, so before we listen to this dialogue, let's take a look at some of the the words in",
+        "chinese": "好的，那么在我们开始听对话之前，让我们看看一些中文中的单词。"
+    },
+    {
+        "start": 38.32,
+        "end": 39.92,
+        "english": "today's vocabulary preview.",
+        "chinese": "今天的词汇预览。"
+    },
+    {
+        "start": 43.04,
+        "end": 45.120000000000005,
+        "english": "All right, so we're gonna take a look at two words.",
+        "chinese": "好的，我们将对两个单词进行一番考察。"
+    },
+    {
+        "start": 45.760000000000005,
+        "end": 50.32,
+        "english": "They're kind of strange, I don't know, kind of difficult to understand, so that's what we're",
+        "chinese": "他们有点奇怪，我不太明白，所以这就是我们。"
+    },
+    {
+        "start": 50.32,
+        "end": 54.56,
+        "english": "gonna explain them. The first one is spew to spew.",
+        "chinese": "gonna explain them. The first one is spew to spew. 中国: 么，他们要解释什么。第一个是吐出来，第二个是吐出来。"
+    },
+    {
+        "start": 54.56,
+        "end": 56.480000000000004,
+        "english": "It's a verb, okay? To spew.",
+        "chinese": "是动词，对吗？喷。"
+    },
+    {
+        "start": 57.36,
+        "end": 60.0,
+        "english": "Well, what can spew? Volcano can spew.",
+        "chinese": "嗯，什么能喷？火山能喷。"
+    },
+    {
+        "start": 60.0,
+        "end": 60.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 60.64,
+        "end": 62.080000000000005,
+        "english": "An engine can spew.",
+        "chinese": "一个发动机可以喷射。"
+    },
+    {
+        "start": 62.080000000000005,
+        "end": 63.440000000000005,
+        "english": "A person can spew.",
+        "chinese": "一个人可以吐痰。"
+    },
+    {
+        "start": 63.440000000000005,
+        "end": 64.8,
+        "english": "Yeah, that's not very nice.",
+        "chinese": "是的，那不是很好。"
+    },
+    {
+        "start": 64.8,
+        "end": 65.04,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 65.76,
+        "end": 69.60000000000001,
+        "english": "So basically it's to like expel or to shoot out.",
+        "chinese": "所以基本上就是“驱除”或“射出”。"
+    },
+    {
+        "start": 69.60000000000001,
+        "end": 72.64,
+        "english": "Shoot out from your mouth or something.",
+        "chinese": "拔出你的舌头或什么。"
+    },
+    {
+        "start": 72.64,
+        "end": 74.80000000000001,
+        "english": "Liquid. So in the case of a person, right?",
+        "chinese": "液体。所以，在一个人的情况下呢？"
+    },
+    {
+        "start": 74.80000000000001,
+        "end": 79.12,
+        "english": "So if a person spews, it means a person throws up, but it's usually very forceful.",
+        "chinese": "所以如果一个人吐出，这表示一个人呕吐，但通常非常有力。"
+    },
+    {
+        "start": 79.12,
+        "end": 80.4,
+        "english": "All right, it's very messy.",
+        "chinese": "很好，这很乱。"
+    },
+    {
+        "start": 80.96000000000001,
+        "end": 83.04,
+        "english": "Volcano can spew lava.",
+        "chinese": "火山可以喷发熔岩。"
+    },
+    {
+        "start": 83.04,
+        "end": 84.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 84.0,
+        "end": 86.0,
+        "english": "So a volcano is spewing lava.",
+        "chinese": "所以，一座火山正在喷发熔岩。"
+    },
+    {
+        "start": 86.64,
+        "end": 92.8,
+        "english": "Now for the next word that we have, it's a informal way of saying that something is broken.",
+        "chinese": "现在，我们接下来要翻译的下一个词是“破损”。在中文中，“破损”可以表示为“破损”，例如：“The car was damaged.”。"
+    },
+    {
+        "start": 92.8,
+        "end": 94.16,
+        "english": "Because it's busted.",
+        "chinese": "因为它坏了。"
+    },
+    {
+        "start": 94.16,
+        "end": 96.64,
+        "english": "It's busted. My DVD player is busted.",
+        "chinese": "它坏了。我的DVD播放器坏了。"
+    },
+    {
+        "start": 96.64,
+        "end": 98.32,
+        "english": "Man, my phone is busted.",
+        "chinese": "哈哈，你这个“手机”可能就是你的“手机”，我来帮你翻译一下：人，我的手机坏了。"
+    },
+    {
+        "start": 99.04,
+        "end": 102.08,
+        "english": "So it's an informal way, very popular, very common, I would say,",
+        "chinese": "所以，这是一种非正式的方式，非常流行，非常普遍，我可以说。"
+    },
+    {
+        "start": 102.96000000000001,
+        "end": 104.96000000000001,
+        "english": "to describe that something is not working.",
+        "chinese": "描述某事不正常。"
+    },
+    {
+        "start": 104.96000000000001,
+        "end": 108.8,
+        "english": "I don't think many people actually say it's broken or it's damaged.",
+        "chinese": "我不认为很多人实际上说它坏了或损坏了。"
+    },
+    {
+        "start": 108.8,
+        "end": 113.76,
+        "english": "Yeah, they're pretty much mixed, I think, but you will definitely hear busted if you're talking",
+        "chinese": "是的，他们差不多都是混合的，我觉得你一定会听到被摔的。"
+    },
+    {
+        "start": 113.76,
+        "end": 114.72,
+        "english": "to native English speakers.",
+        "chinese": "将这句话翻译成中文是：“给native英语使用者。”"
+    },
+    {
+        "start": 114.72,
+        "end": 118.56,
+        "english": "Or even like, for example, your arm, oh, he's got a busted arm.",
+        "chinese": "或者，比如你的胳膊，哦，他有破了的胳膊。"
+    },
+    {
+        "start": 118.56,
+        "end": 120.16000000000001,
+        "english": "Exactly. So busted.",
+        "chinese": "正确。所以破了。"
+    },
+    {
+        "start": 120.96000000000001,
+        "end": 123.52000000000001,
+        "english": "All right, so let's listen to our dialogue for the first time.",
+        "chinese": "好的，那么我们先听听我们的对话。"
+    },
+    {
+        "start": 123.52000000000001,
+        "end": 128.16,
+        "english": "Let's see what's going on with this car trouble and then we'll come back and explain some things.",
+        "chinese": "让我们看看这个问题的进展，然后我们再回来解释一些事情。"
+    },
+    {
+        "start": 128.88,
+        "end": 131.68,
+        "english": "Howdy.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 131.68,
+        "end": 132.64,
+        "english": "Nice car.",
+        "chinese": "好车。"
+    },
+    {
+        "start": 132.64,
+        "end": 134.72,
+        "english": "What seems to be the problem?",
+        "chinese": "What seems to be the problem? (翻译成中文)"
+    },
+    {
+        "start": 134.72,
+        "end": 135.92,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 135.92,
+        "end": 139.6,
+        "english": "The stupid old car started being white smoke and it just died on me.",
+        "chinese": "这个愚蠢的老车开始冒白烟，它就在我身上死了。"
+    },
+    {
+        "start": 139.6,
+        "end": 142.16,
+        "english": "Luckily, I managed to start it up and drive it here.",
+        "chinese": "幸运的是，我成功启动了它，并且驾驶着它来到这里。"
+    },
+    {
+        "start": 142.16,
+        "end": 143.76,
+        "english": "What do you think it is?",
+        "chinese": "你觉得呢？"
+    },
+    {
+        "start": 143.76,
+        "end": 144.88,
+        "english": "Not sure yet.",
+        "chinese": "不知道。"
+    },
+    {
+        "start": 144.88,
+        "end": 147.76,
+        "english": "How about you pop the hood and we can take a look?",
+        "chinese": "你好，你愿意把车的引擎盖打开看看吗？"
+    },
+    {
+        "start": 147.76,
+        "end": 148.56,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 148.56,
+        "end": 149.76,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 149.76,
+        "end": 150.56,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 150.56,
+        "end": 153.76,
+        "english": "The stupid old car started being white smoke and it just died on me.",
+        "chinese": "这个愚蠢的老车开始冒白烟，它就在我身上死了。"
+    },
+    {
+        "start": 153.76,
+        "end": 156.16,
+        "english": "Luckily, I managed to start it up and drive it here.",
+        "chinese": "幸运的是，我成功启动了它，并且已经在这里驾驶它。"
+    },
+    {
+        "start": 156.16,
+        "end": 157.35999999999999,
+        "english": "What do you think it is?",
+        "chinese": "您认为这是什么？"
+    },
+    {
+        "start": 158.16000000000003,
+        "end": 158.96,
+        "english": "Hmm.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 162.16000000000003,
+        "end": 163.36,
+        "english": "Doesn't look good.",
+        "chinese": "不好。"
+    },
+    {
+        "start": 163.36,
+        "end": 164.56,
+        "english": "What do you mean?",
+        "chinese": "你好！"
+    },
+    {
+        "start": 164.56,
+        "end": 166.56,
+        "english": "My daddy gave me this car for my birthday last month.",
+        "chinese": "我的爸爸送给我这辆汽车作为我生日的礼物。"
+    },
+    {
+        "start": 166.56,
+        "end": 168.56,
+        "english": "It's brand new.",
+        "chinese": "它是全新的。"
+    },
+    {
+        "start": 168.56,
+        "end": 172.72000000000003,
+        "english": "Well, Missy, the white smoke that you saw is steamed from the radiator.",
+        "chinese": "好的，Missy，你看到的那缕白色的烟雾是来自散热器。"
+    },
+    {
+        "start": 172.72000000000003,
+        "end": 177.36,
+        "english": "You overheated your engines so now the pistons are busted and so is your transmission.",
+        "chinese": "您发动机过热了，现在活塞已经损坏，所以变速箱也坏了。"
+    },
+    {
+        "start": 177.36,
+        "end": 180.56,
+        "english": "You should have called us and we could have told you over here when your car died.",
+        "chinese": "你应该先联系我们，我们可以在你这里告诉你们你的汽车坏了。"
+    },
+    {
+        "start": 180.56,
+        "end": 185.36,
+        "english": "Oh, so how long is this going to take an hour?",
+        "chinese": "你好，这么长时间能完成一个小时吗？"
+    },
+    {
+        "start": 186.08,
+        "end": 187.92000000000002,
+        "english": "I'm afraid a bit more than that.",
+        "chinese": "我恐怕比这多一些。"
+    },
+    {
+        "start": 187.92000000000002,
+        "end": 193.28,
+        "english": "We need to order the spare parts, take apart your electrical system, fuel pump and engine",
+        "chinese": "我们需要购买零配件，拆解你的电气系统、燃油泵和发动机。"
+    },
+    {
+        "start": 193.28,
+        "end": 195.28,
+        "english": "and then put it back together again.",
+        "chinese": "然后把它重新组装起来。"
+    },
+    {
+        "start": 195.28,
+        "end": 198.0,
+        "english": "You were going to have to leave it here for at least two weeks.",
+        "chinese": "您必须在这里留着至少两周。"
+    },
+    {
+        "start": 198.72000000000003,
+        "end": 199.04000000000002,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 199.84,
+        "end": 202.88000000000002,
+        "english": "How am I supposed to go to school or go shopping?",
+        "chinese": "如何才能去上学或购物？"
+    },
+    {
+        "start": 202.88000000000002,
+        "end": 204.72000000000003,
+        "english": "This is not happening.",
+        "chinese": "这是不发生的。"
+    },
+    {
+        "start": 209.84,
+        "end": 214.96,
+        "english": "So if I were the mechanic, I would not be very happy to be dealing with someone",
+        "chinese": "所以如果我是修理工，我不会对这个人感到很满意。"
+    },
+    {
+        "start": 215.04000000000002,
+        "end": 215.68,
+        "english": "like this girl.",
+        "chinese": "这个女孩像这样。"
+    },
+    {
+        "start": 216.72,
+        "end": 221.92000000000002,
+        "english": "I think it's a, well, maybe it's a little bit stereotypical that we put it as a girl because",
+        "chinese": "我认为这有点，也许有点过于传统，我们把它当作一个女孩。"
+    },
+    {
+        "start": 221.92000000000002,
+        "end": 225.84,
+        "english": "guys and girls, so many people don't know anything about cars or mechanics.",
+        "chinese": "各位朋友，这么多人都不知道关于汽车或维修的事情。"
+    },
+    {
+        "start": 225.84,
+        "end": 228.16,
+        "english": "And in the States, there's a lot of fume on mechanics too.",
+        "chinese": "在中国，机械师也会产生大量的烟雾。"
+    },
+    {
+        "start": 228.16,
+        "end": 229.36,
+        "english": "So it's, you know, it's mixed.",
+        "chinese": "所以呢，你知道吗？它混合着。"
+    },
+    {
+        "start": 230.24,
+        "end": 234.48000000000002,
+        "english": "But definitely it's something that happens all the time and probably the mechanic will",
+        "chinese": "但是，绝对肯定它总是会发生，并且维修工很可能会"
+    },
+    {
+        "start": 234.48000000000002,
+        "end": 237.44,
+        "english": "overcharge her as well because apparently she doesn't know what she's doing.",
+        "chinese": "过量加价，因为她似乎不知道她正在做什么。"
+    },
+    {
+        "start": 237.44,
+        "end": 241.20000000000002,
+        "english": "And that's one of the reasons we want to give you the vocabulary to deal with these situations.",
+        "chinese": "而且这也是我们希望你能够掌握这些情况下的词汇的原因。"
+    },
+    {
+        "start": 241.20000000000002,
+        "end": 244.8,
+        "english": "So let's look at some of those car words in today's language takeaway.",
+        "chinese": "所以让我们看看今天语言小贴士中的这些车词。"
+    },
+    {
+        "start": 245.52,
+        "end": 247.68,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 248.96,
+        "end": 254.16,
+        "english": "All right, so we're going to take a look at very specific words related to cars and the",
+        "chinese": "好的，我们将对有关汽车和车辆的特定词汇进行仔细查看。"
+    },
+    {
+        "start": 254.16,
+        "end": 255.12,
+        "english": "engines and everything.",
+        "chinese": "引擎和一切。"
+    },
+    {
+        "start": 255.12,
+        "end": 257.12,
+        "english": "So let's start with the first one.",
+        "chinese": "所以，让我们从第一个开始。"
+    },
+    {
+        "start": 257.6,
+        "end": 258.56,
+        "english": "Radiator.",
+        "chinese": "radiator (拼音) 翻译成中文是 \"暖风\"。"
+    },
+    {
+        "start": 258.56,
+        "end": 259.2,
+        "english": "Radiator.",
+        "chinese": "radiator (拼音：fān fēi)"
+    },
+    {
+        "start": 260.0,
+        "end": 262.16,
+        "english": "All right, so the radiator of the car.",
+        "chinese": "好的，所以汽车的散热器。"
+    },
+    {
+        "start": 262.88,
+        "end": 266.96000000000004,
+        "english": "So radiator is something that you normally find in the front of the car near the engine.",
+        "chinese": "所以散热器通常是在汽车的前部，靠近发动机的地方。"
+    },
+    {
+        "start": 266.96000000000004,
+        "end": 269.12,
+        "english": "It usually gets very, very hot, right?",
+        "chinese": "通常非常热，对吗？"
+    },
+    {
+        "start": 269.12,
+        "end": 269.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 269.6,
+        "end": 274.48,
+        "english": "So one of the big issues is radiators getting too hot because there's no way to cool them down.",
+        "chinese": "所以，其中一个大问题就是散热器过热，因为没有办法冷却它们。"
+    },
+    {
+        "start": 275.44,
+        "end": 280.47999999999996,
+        "english": "So if you live in a place that's very hot, the radiator keeps your engine cool because it has",
+        "chinese": "所以如果你住在一个非常炎热的地方，发动机的散热器保持你的引擎凉爽是因为它有。"
+    },
+    {
+        "start": 280.47999999999996,
+        "end": 281.12,
+        "english": "water in it.",
+        "chinese": "水在里面。"
+    },
+    {
+        "start": 281.12,
+        "end": 284.56,
+        "english": "So if it overheats or maybe you didn't put enough water in there,",
+        "chinese": "所以如果它过热或者可能是你没有在其中放足够的水，"
+    },
+    {
+        "start": 284.56,
+        "end": 287.84,
+        "english": "then it'll start spewing steam like in this dialogue.",
+        "chinese": "那么，它就会像这段对话中的样子喷出蒸汽。"
+    },
+    {
+        "start": 287.84,
+        "end": 292.0,
+        "english": "And if you have a problem with your radiator, you could actually do a lot of damage to your engine,",
+        "chinese": "如果你有暖气管的问题，你实际上可以对你的发动机造成很大的损害。"
+    },
+    {
+        "start": 292.0,
+        "end": 293.28,
+        "english": "which is why this is important.",
+        "chinese": "这很重要。"
+    },
+    {
+        "start": 293.28,
+        "end": 293.76,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 293.76,
+        "end": 295.52,
+        "english": "And that's what happened in this dialogue.",
+        "chinese": "这段对话的结果就是这样。"
+    },
+    {
+        "start": 295.52,
+        "end": 296.96,
+        "english": "So a radiator.",
+        "chinese": "所以一个散热器。"
+    },
+    {
+        "start": 296.96,
+        "end": 302.08,
+        "english": "Now because the radiator wasn't working well, it overheated the engine and he said they had",
+        "chinese": "现在因为散热器不好，发动机过热了，他说道：“他们说。”"
+    },
+    {
+        "start": 302.08,
+        "end": 303.44,
+        "english": "some busted pistons.",
+        "chinese": "一些瘪气缸。"
+    },
+    {
+        "start": 304.0,
+        "end": 305.36,
+        "english": "So broken pistons.",
+        "chinese": "所以断气的活塞。"
+    },
+    {
+        "start": 305.36,
+        "end": 309.04,
+        "english": "Pistons are important because they're kind of like valves that go up and down.",
+        "chinese": "篮板球很重要，因为它们就像阀门一样，可以上下移动。"
+    },
+    {
+        "start": 309.04,
+        "end": 309.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 309.44,
+        "end": 314.71999999999997,
+        "english": "So inside your engine, you have many explosions and the pistons move up and down and that's what actually",
+        "chinese": "所以，在你的发动机内部，你有许多爆炸和活塞上下移动，这就是实际发生的。"
+    },
+    {
+        "start": 314.71999999999997,
+        "end": 315.92,
+        "english": "moves your car.",
+        "chinese": "移动你的车。"
+    },
+    {
+        "start": 315.92,
+        "end": 316.24,
+        "english": "Right.",
+        "chinese": "右。 (Rì shàng.)"
+    },
+    {
+        "start": 316.24,
+        "end": 319.6,
+        "english": "And so pistons in general are things in mechanics.",
+        "chinese": "所以，气缸在机械力学中是普遍存在的。"
+    },
+    {
+        "start": 319.6,
+        "end": 325.2,
+        "english": "So like a trumpet has pistons, things that go up and down and that allow for the flow of",
+        "chinese": "所以，就像喇叭有气缸一样，那些能推动流动的东西。"
+    },
+    {
+        "start": 325.92,
+        "end": 327.44,
+        "english": "air or something like that.",
+        "chinese": "空气或者像这样。"
+    },
+    {
+        "start": 327.44,
+        "end": 328.15999999999997,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 328.15999999999997,
+        "end": 329.76,
+        "english": "So that's a piston.",
+        "chinese": "所以，这就是活塞。"
+    },
+    {
+        "start": 329.76,
+        "end": 333.84,
+        "english": "And well, another very common mechanic term is the transmission.",
+        "chinese": "而且，另一个非常常见的机械术语是变速箱。"
+    },
+    {
+        "start": 334.64,
+        "end": 335.03999999999996,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 335.03999999999996,
+        "end": 337.92,
+        "english": "So the transmission, what happens if your transmission dies?",
+        "chinese": "所以，传输，如果您的传输失效了？"
+    },
+    {
+        "start": 337.92,
+        "end": 338.96,
+        "english": "Can you still drive?",
+        "chinese": "是的，我还能开车。"
+    },
+    {
+        "start": 338.96,
+        "end": 343.12,
+        "english": "You basically can't move or maybe you only have one gear or two gears.",
+        "chinese": "你基本上无法移动，或者可能只有单个齿轮或两个齿轮。"
+    },
+    {
+        "start": 343.12,
+        "end": 343.28,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.28,
+        "end": 346.24,
+        "english": "So think about transmission as coming from the word to transmit.",
+        "chinese": "所以要从传递的词源来考虑传输。"
+    },
+    {
+        "start": 346.24,
+        "end": 347.44,
+        "english": "That means to transfer.",
+        "chinese": "这句话的中文翻译是：“这意味着转移。”"
+    },
+    {
+        "start": 348.24,
+        "end": 354.4,
+        "english": "So this is the part of the car that transfers energy or the power to actually move the car.",
+        "chinese": "所以，这是汽车的一部分，它将能量或动力转移到实际上可以移动的汽车上。"
+    },
+    {
+        "start": 354.96,
+        "end": 356.32,
+        "english": "So the transmission.",
+        "chinese": "所以传输。"
+    },
+    {
+        "start": 357.04,
+        "end": 361.92,
+        "english": "And we've got the mechanic who says, well, we've got to order you some spare parts.",
+        "chinese": "我们有机械师，他说，我们必须给你一些备用零件。"
+    },
+    {
+        "start": 361.92,
+        "end": 364.08,
+        "english": "So first let's look at the word spare.",
+        "chinese": "所以，首先让我们看看“空闲”的含义。"
+    },
+    {
+        "start": 364.08,
+        "end": 365.52,
+        "english": "What's another word for spare?",
+        "chinese": "在中文中，\"what's another word for spare?\" 可以翻译为："
+    },
+    {
+        "start": 365.52,
+        "end": 367.76,
+        "english": "Additional, maybe extra.",
+        "chinese": "额外，或许还有更多的。"
+    },
+    {
+        "start": 367.76,
+        "end": 368.71999999999997,
+        "english": "Extra.",
+        "chinese": "Extra 是 \"额外的\" 的意思，用中文可以翻译为“额外的”。"
+    },
+    {
+        "start": 368.71999999999997,
+        "end": 368.88,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 368.88,
+        "end": 372.4,
+        "english": "So spare means extra parts are, well, pieces.",
+        "chinese": "所以，多余的东西就是多余的零件，嗯，就是配件。"
+    },
+    {
+        "start": 372.4,
+        "end": 378.4,
+        "english": "So he's talking about ordering a new transmission, new pistons, things to replace the broken things.",
+        "chinese": "所以，他正在讨论更换损坏的部件。"
+    },
+    {
+        "start": 378.4,
+        "end": 378.88,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一种常见的英语表达方式，通常用来表示同意或认可。"
+    },
+    {
+        "start": 378.88,
+        "end": 379.92,
+        "english": "Spare parts.",
+        "chinese": "零件。"
+    },
+    {
+        "start": 379.92,
+        "end": 384.4,
+        "english": "So this is where you go to the mechanic to get some spare parts and get them installed.",
+        "chinese": "所以，这是你去修车店修理零件并安装它们的地方。"
+    },
+    {
+        "start": 384.4,
+        "end": 386.64,
+        "english": "You probably don't have many spare parts at home, right?",
+        "chinese": "您可能在家里没有很多零配件，对吗？"
+    },
+    {
+        "start": 386.64,
+        "end": 388.56,
+        "english": "You got a transmission lying around.",
+        "chinese": "您找到了一个传输。"
+    },
+    {
+        "start": 388.56,
+        "end": 390.08,
+        "english": "Oh, yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 390.08,
+        "end": 392.32,
+        "english": "So spare parts.",
+        "chinese": "所以，零件。"
+    },
+    {
+        "start": 392.32,
+        "end": 395.76,
+        "english": "And the last word that we're going to take a look at is a fuel pump.",
+        "chinese": "最后我们要看的是一只油泵。"
+    },
+    {
+        "start": 396.47999999999996,
+        "end": 396.79999999999995,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 396.79999999999995,
+        "end": 399.91999999999996,
+        "english": "So a pump is, you could have a bike pump.",
+        "chinese": "所以，一个泵就是可以装自行车的泵。"
+    },
+    {
+        "start": 399.91999999999996,
+        "end": 400.88,
+        "english": "A water pump?",
+        "chinese": "水泵？"
+    },
+    {
+        "start": 400.88,
+        "end": 401.44,
+        "english": "Water pump.",
+        "chinese": "水泵。"
+    },
+    {
+        "start": 401.44,
+        "end": 404.47999999999996,
+        "english": "So these are something, these are something that we use very, very often.",
+        "chinese": "所以这些是，这些都是我们非常经常使用的。"
+    },
+    {
+        "start": 404.47999999999996,
+        "end": 409.28,
+        "english": "But a fuel pump is something that allows gas, gasoline, to get into your engine.",
+        "chinese": "但是，一个燃料泵允许汽油、柴油等燃料进入您的发动机。"
+    },
+    {
+        "start": 409.28,
+        "end": 413.59999999999997,
+        "english": "So it's basically a device that pushes gasoline into the engine.",
+        "chinese": "所以，基本上是一个将汽油送入发动机的装置。"
+    },
+    {
+        "start": 413.6,
+        "end": 415.04,
+        "english": "So you can start.",
+        "chinese": "所以你可以开始。"
+    },
+    {
+        "start": 415.04,
+        "end": 416.96000000000004,
+        "english": "And that's the same thing with a water pump.",
+        "chinese": "这句话的中文翻译是：“这是与水泵相同。”"
+    },
+    {
+        "start": 416.96000000000004,
+        "end": 418.96000000000004,
+        "english": "It's a device that pushes water.",
+        "chinese": "这是一个可以向水中输送水的设备。"
+    },
+    {
+        "start": 418.96000000000004,
+        "end": 422.48,
+        "english": "Or an air pump is something that pushes air into your tires and your bicycle.",
+        "chinese": "或者一个气泵就是把空气送进你的轮胎和自行车。"
+    },
+    {
+        "start": 422.48,
+        "end": 422.96000000000004,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 422.96000000000004,
+        "end": 426.16,
+        "english": "So a fuel pump, water pump, etc.",
+        "chinese": "所以是燃料泵、水泵等。"
+    },
+    {
+        "start": 426.16,
+        "end": 427.76000000000005,
+        "english": "Wow, I feel like we know a lot about cars.",
+        "chinese": "哇，我们对汽车了解得很多。"
+    },
+    {
+        "start": 427.76000000000005,
+        "end": 429.44,
+        "english": "And apparently we do, see?",
+        "chinese": "而且似乎如此，见？"
+    },
+    {
+        "start": 429.44,
+        "end": 429.92,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 429.92,
+        "end": 433.6,
+        "english": "So now that we've taken a look at all of these great words,",
+        "chinese": "所以现在，我们已经看了这些伟大的词汇，"
+    },
+    {
+        "start": 434.32000000000005,
+        "end": 438.08000000000004,
+        "english": "let's move on to a couple of phrases in Fluency Builder.",
+        "chinese": "让我们转到 Fluent Builder 中的几个短语。"
+    },
+    {
+        "start": 439.36,
+        "end": 440.40000000000003,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 441.03999999999996,
+        "end": 441.35999999999996,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 441.35999999999996,
+        "end": 444.56,
+        "english": "These are phrases that you hear sometimes when you're talking about electronics.",
+        "chinese": "这些是当你谈论电子学时经常听到的短语。"
+    },
+    {
+        "start": 444.56,
+        "end": 447.84,
+        "english": "But in today's lesson, we're also talking about specific car phrases.",
+        "chinese": "但是今天的学习，我们也在谈论特定的汽车表达。"
+    },
+    {
+        "start": 447.84,
+        "end": 450.32,
+        "english": "You're going to hear these all the time with mechanics.",
+        "chinese": "您会经常听到这些，机械师。"
+    },
+    {
+        "start": 451.03999999999996,
+        "end": 451.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 451.44,
+        "end": 455.84,
+        "english": "And the first one is the car suddenly died on me.",
+        "chinese": "这句话的英文是：“第一辆车突然熄火在我身上。”"
+    },
+    {
+        "start": 456.15999999999997,
+        "end": 456.47999999999996,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 456.47999999999996,
+        "end": 457.35999999999996,
+        "english": "To die on.",
+        "chinese": "要死。"
+    },
+    {
+        "start": 457.35999999999996,
+        "end": 458.88,
+        "english": "So we keep these two words together.",
+        "chinese": "所以我们把这两个词放在一起。"
+    },
+    {
+        "start": 458.88,
+        "end": 459.84,
+        "english": "Die on.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 460.4,
+        "end": 460.88,
+        "english": "Oh man.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 460.88,
+        "end": 463.91999999999996,
+        "english": "So while you were driving, your car died.",
+        "chinese": "所以，你还在开车的时候你的车就坏了。"
+    },
+    {
+        "start": 463.91999999999996,
+        "end": 464.79999999999995,
+        "english": "It stopped moving.",
+        "chinese": "它停止移动。"
+    },
+    {
+        "start": 465.59999999999997,
+        "end": 469.28,
+        "english": "So that means that it doesn't work anymore.",
+        "chinese": "所以，这意味着它不再工作。"
+    },
+    {
+        "start": 469.35999999999996,
+        "end": 470.71999999999997,
+        "english": "And it's not only for cars, right?",
+        "chinese": "而且不只是用于汽车。"
+    },
+    {
+        "start": 470.71999999999997,
+        "end": 473.76,
+        "english": "You can save my MP3 player died on me today.",
+        "chinese": "你可以将我的MP3播放器损坏了，今天就在这里。"
+    },
+    {
+        "start": 473.76,
+        "end": 474.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 474.4,
+        "end": 477.84,
+        "english": "And what it means is it's not like you left it and you forgot about it",
+        "chinese": "这句话的意思是，它并不像你离开了它就忘记了。"
+    },
+    {
+        "start": 477.84,
+        "end": 479.35999999999996,
+        "english": "and you tried it again that didn't work.",
+        "chinese": "而且你又试了一次，结果没有好。"
+    },
+    {
+        "start": 479.35999999999996,
+        "end": 481.67999999999995,
+        "english": "It means while you're using it, it dies.",
+        "chinese": "这句话的意思是：当你使用它时，它就会消失。"
+    },
+    {
+        "start": 481.67999999999995,
+        "end": 482.47999999999996,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 483.2,
+        "end": 487.28,
+        "english": "So I think this phrase is a good one to give some other examples.",
+        "chinese": "所以我认为这个短语是一个很好的例子。"
+    },
+    {
+        "start": 487.28,
+        "end": 488.15999999999997,
+        "english": "So let's listen.",
+        "chinese": "所以，让我们倾听。"
+    },
+    {
+        "start": 489.11999999999995,
+        "end": 490.08,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 492.32,
+        "end": 495.91999999999996,
+        "english": "My CD player died on me and I had to listen to the radio.",
+        "chinese": "我的CD播放器坏了，我只好听收音机。"
+    },
+    {
+        "start": 497.84,
+        "end": 498.64,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 499.67999999999995,
+        "end": 504.08,
+        "english": "Get that medicine over here fast or this guy is going to die on me.",
+        "chinese": "请把那药拿过来快点，否则这个人可能会死在我这里。"
+    },
+    {
+        "start": 506.08,
+        "end": 507.11999999999995,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 508.64,
+        "end": 510.96,
+        "english": "I forgot to charge my mobile phone.",
+        "chinese": "我忘记了为我的手机充电。"
+    },
+    {
+        "start": 510.96,
+        "end": 512.4,
+        "english": "It's going to die on me soon.",
+        "chinese": "它很快就要死了。"
+    },
+    {
+        "start": 514.0,
+        "end": 515.6,
+        "english": "So this next one is a phrase you hear.",
+        "chinese": "所以这个下一个词是你听到的。"
+    },
+    {
+        "start": 515.6,
+        "end": 519.4399999999999,
+        "english": "The first thing you hear maybe when you tell someone you have a car problem.",
+        "chinese": "当您告诉别人你们有车问题时，你可能会听到的第一个声音。"
+    },
+    {
+        "start": 519.4399999999999,
+        "end": 519.68,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 519.68,
+        "end": 521.36,
+        "english": "You tell them to pop the hood.",
+        "chinese": "您让他们打开车门。"
+    },
+    {
+        "start": 521.36,
+        "end": 522.9599999999999,
+        "english": "Or let's pop the hood.",
+        "chinese": "或者让我们打开车门。"
+    },
+    {
+        "start": 522.9599999999999,
+        "end": 523.1999999999999,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 523.1999999999999,
+        "end": 526.0,
+        "english": "So this means let's open the front part of the car,",
+        "chinese": "所以，这意味着让我们打开汽车的前部部分。"
+    },
+    {
+        "start": 526.0,
+        "end": 530.08,
+        "english": "the hood, to look at the engine, transmission, all those parts.",
+        "chinese": "这顶帽，要看看发动机、变速器等部件。"
+    },
+    {
+        "start": 530.08,
+        "end": 530.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 530.8,
+        "end": 535.68,
+        "english": "So you can say open the hood but the most common one is pop the hood.",
+        "chinese": "所以你可以打开车头盖，但最常见的是掀开车头盖。"
+    },
+    {
+        "start": 535.68,
+        "end": 538.4,
+        "english": "So the reason is because there's a little spring",
+        "chinese": "所以，原因是因为有小溪。"
+    },
+    {
+        "start": 538.4,
+        "end": 541.52,
+        "english": "and you have to pull inside the car and it goes pop.",
+        "chinese": "你必须把车开进车内，然后车子就“啪”地响了。"
+    },
+    {
+        "start": 541.52,
+        "end": 543.68,
+        "english": "And there's a little jump.",
+        "chinese": "还有个小跳。"
+    },
+    {
+        "start": 543.68,
+        "end": 544.48,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 544.48,
+        "end": 546.64,
+        "english": "So it's literally popping.",
+        "chinese": "所以，它就像在爆炸。"
+    },
+    {
+        "start": 546.64,
+        "end": 547.04,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 547.04,
+        "end": 548.64,
+        "english": "Or you can also say the trunk, right?",
+        "chinese": "你可以也可以说“车尾”，对吗？"
+    },
+    {
+        "start": 548.64,
+        "end": 549.76,
+        "english": "The back part of the car.",
+        "chinese": "车的后部。"
+    },
+    {
+        "start": 549.76,
+        "end": 551.2,
+        "english": "Hey, can you pop the trunk for me?",
+        "chinese": "你好，你能帮我打开车门吗？"
+    },
+    {
+        "start": 551.2,
+        "end": 552.8,
+        "english": "I've got to put some stuff inside.",
+        "chinese": "我必须把一些东西放进。"
+    },
+    {
+        "start": 552.8,
+        "end": 553.28,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 553.28,
+        "end": 555.6,
+        "english": "So pop the hood, pop the trunk.",
+        "chinese": "所以掀开车顶，掀开后备箱。"
+    },
+    {
+        "start": 555.6,
+        "end": 558.72,
+        "english": "And next we've got this girl actually who's talking about her car",
+        "chinese": "接下来，我们有这个女孩正在谈论她的汽车。"
+    },
+    {
+        "start": 558.72,
+        "end": 560.64,
+        "english": "because she just got this car.",
+        "chinese": "因为她刚刚买了一辆车。"
+    },
+    {
+        "start": 560.64,
+        "end": 563.6,
+        "english": "So what's another way to say it's a new car?",
+        "chinese": "所以再说说，这辆新车又是什么样子？"
+    },
+    {
+        "start": 563.6,
+        "end": 565.0400000000001,
+        "english": "It's brand new.",
+        "chinese": "它是全新的。"
+    },
+    {
+        "start": 565.0400000000001,
+        "end": 566.64,
+        "english": "Is that more new than new?",
+        "chinese": "是这个比新多了吗？"
+    },
+    {
+        "start": 566.64,
+        "end": 568.64,
+        "english": "It's like newer newer than you.",
+        "chinese": "就像你越变越大。"
+    },
+    {
+        "start": 568.64,
+        "end": 573.12,
+        "english": "All right, so brand you think about brands like Ford or Gootchete.",
+        "chinese": "好的，所以您认为像福特或格鲁特那样的品牌。"
+    },
+    {
+        "start": 573.12,
+        "end": 577.44,
+        "english": "These are brands but brand new means she maybe got it like today.",
+        "chinese": "这些是品牌，但新品牌意味着她可能今天就得到了它。"
+    },
+    {
+        "start": 577.44,
+        "end": 578.16,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用于表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者你希望表达的含义，我会尽力帮助你。"
+    },
+    {
+        "start": 578.16,
+        "end": 579.36,
+        "english": "So it's brand new.",
+        "chinese": "所以它还是新。"
+    },
+    {
+        "start": 579.36,
+        "end": 580.96,
+        "english": "It's very, very new.",
+        "chinese": "它是非常新的。"
+    },
+    {
+        "start": 580.96,
+        "end": 582.5600000000001,
+        "english": "Did you see my brand new watch?",
+        "chinese": "是的，我看到了我的新手表。"
+    },
+    {
+        "start": 582.5600000000001,
+        "end": 583.2,
+        "english": "Wrong.",
+        "chinese": "错误。"
+    },
+    {
+        "start": 583.2,
+        "end": 583.9200000000001,
+        "english": "It is nice.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 583.9200000000001,
+        "end": 584.5600000000001,
+        "english": "Pretty good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 584.88,
+        "end": 586.9599999999999,
+        "english": "All right, so brand new.",
+        "chinese": "好的，所以新。"
+    },
+    {
+        "start": 586.9599999999999,
+        "end": 590.4,
+        "english": "And well, the last phrase that we have for you today is",
+        "chinese": "好的，今天的最后一个句子是："
+    },
+    {
+        "start": 590.4,
+        "end": 592.0,
+        "english": "to take apart something.",
+        "chinese": "将某物拆开。"
+    },
+    {
+        "start": 592.0,
+        "end": 594.0,
+        "english": "All right, so this is very popular with young children.",
+        "chinese": "好的，这是非常受欢迎的，特别是对于年轻的孩子们。"
+    },
+    {
+        "start": 594.0,
+        "end": 596.8,
+        "english": "Like they like to take things apart so they can find out how they work.",
+        "chinese": "像他们喜欢拆开东西以便了解它们的工作原理。"
+    },
+    {
+        "start": 596.8,
+        "end": 600.3199999999999,
+        "english": "But to take apart means to take all the pieces and to pull them out.",
+        "chinese": "但是，拆解意味着要把所有的零件都拿掉并拉出来。"
+    },
+    {
+        "start": 600.3199999999999,
+        "end": 601.1199999999999,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用于表示同意或确认。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 601.1199999999999,
+        "end": 602.8,
+        "english": "Yeah, I used to do that a lot when I was a kid.",
+        "chinese": "是的，我小时候经常这样做。"
+    },
+    {
+        "start": 602.8,
+        "end": 607.52,
+        "english": "I used to take apart any electronic device to kind of see how it works.",
+        "chinese": "我过去常常拆解任何电子设备，以了解它的运作方式。"
+    },
+    {
+        "start": 607.52,
+        "end": 610.0799999999999,
+        "english": "And then I would try to put it back together again.",
+        "chinese": "然后，我将尝试重新组装它。"
+    },
+    {
+        "start": 610.0799999999999,
+        "end": 611.4399999999999,
+        "english": "And that's why you're so smart.",
+        "chinese": "而且你这么聪明。"
+    },
+    {
+        "start": 611.4399999999999,
+        "end": 612.9599999999999,
+        "english": "Well, it never really worked.",
+        "chinese": "很好，它从来就不存在。"
+    },
+    {
+        "start": 612.96,
+        "end": 614.5600000000001,
+        "english": "It worked half the time.",
+        "chinese": "它只用了半的时间。"
+    },
+    {
+        "start": 614.5600000000001,
+        "end": 617.0400000000001,
+        "english": "So the problem is always putting them back together again, right?",
+        "chinese": "所以问题总是要重新组合，对吗？"
+    },
+    {
+        "start": 617.0400000000001,
+        "end": 617.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 617.52,
+        "end": 620.48,
+        "english": "So you can take it apart but then you put it back together",
+        "chinese": "所以你可以拆开它，但然后你把它组装起来。"
+    },
+    {
+        "start": 620.48,
+        "end": 625.0400000000001,
+        "english": "and there's always a screw missing or a screw that's extra or two or three parts.",
+        "chinese": "和总是少一个或多一个或两个或三个零件。"
+    },
+    {
+        "start": 625.0400000000001,
+        "end": 626.8000000000001,
+        "english": "Not a good sign.",
+        "chinese": "不好的迹象。"
+    },
+    {
+        "start": 626.8000000000001,
+        "end": 631.0400000000001,
+        "english": "All right, so we've taken a look at a lot of great words and phrases.",
+        "chinese": "好的，我们已经看了许多好词和短语。"
+    },
+    {
+        "start": 631.0400000000001,
+        "end": 633.44,
+        "english": "So let's listen to this dialogue for the last time.",
+        "chinese": "所以让我们再次听这次对话。"
+    },
+    {
+        "start": 643.6,
+        "end": 644.96,
+        "english": "Howdy.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 644.96,
+        "end": 646.0,
+        "english": "Nice car.",
+        "chinese": "好车。"
+    },
+    {
+        "start": 646.0,
+        "end": 648.0,
+        "english": "What seems to be the problem?",
+        "chinese": "What seems to be the problem? 翻译成中文是： 似乎是什么问题？"
+    },
+    {
+        "start": 648.0,
+        "end": 649.0400000000001,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 649.0400000000001,
+        "end": 653.0400000000001,
+        "english": "The stupid old car started being white smoke and it just died on me.",
+        "chinese": "这个愚蠢的老车开始冒白烟，它就在我身上死了。"
+    },
+    {
+        "start": 653.0400000000001,
+        "end": 655.84,
+        "english": "Luckily, I managed to start it up and drive it here.",
+        "chinese": "幸运的是，我成功启动了它，并且已经在这里驾驶它。"
+    },
+    {
+        "start": 655.84,
+        "end": 657.2800000000001,
+        "english": "What do you think it is?",
+        "chinese": "你觉得呢？"
+    },
+    {
+        "start": 657.2800000000001,
+        "end": 658.48,
+        "english": "Not sure yet.",
+        "chinese": "不知道。"
+    },
+    {
+        "start": 658.48,
+        "end": 661.0400000000001,
+        "english": "How about you pop the hood and we can take a look?",
+        "chinese": "你好，你愿意把车的引擎盖打开看看吗？"
+    },
+    {
+        "start": 665.0400000000001,
+        "end": 666.08,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一种常见的英文缩写，通常用于表示同意或认可。如果你需要将这句话翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 666.08,
+        "end": 667.0400000000001,
+        "english": "Doesn't look good.",
+        "chinese": "不好。"
+    },
+    {
+        "start": 667.0400000000001,
+        "end": 668.08,
+        "english": "What do you mean?",
+        "chinese": "你什么意思？"
+    },
+    {
+        "start": 668.08,
+        "end": 670.88,
+        "english": "My daddy gave me this car for my birthday last month.",
+        "chinese": "我的爸爸送给我这辆新车作为我生日的礼物。"
+    },
+    {
+        "start": 670.88,
+        "end": 672.88,
+        "english": "It's brand new.",
+        "chinese": "它是全新的。"
+    },
+    {
+        "start": 673.04,
+        "end": 677.2,
+        "english": "Well, Missy, the white smoke that you saw is steamed from the radiator.",
+        "chinese": "好的，Missy，你看到的白色烟雾是来自散热器。"
+    },
+    {
+        "start": 677.2,
+        "end": 681.36,
+        "english": "You overheated your engines so now the pistons are busted and so is your transmission.",
+        "chinese": "您发动机过热了，现在气缸被烧毁了，所以变速箱也坏了。"
+    },
+    {
+        "start": 681.84,
+        "end": 684.88,
+        "english": "You should have called us and we could have told you over here when your car died.",
+        "chinese": "你应该先联系我们，我们可以在这里告诉你们你的汽车坏了。"
+    },
+    {
+        "start": 686.48,
+        "end": 689.6,
+        "english": "So how long is it going to take an hour?",
+        "chinese": "所以一个小时要多久？"
+    },
+    {
+        "start": 690.48,
+        "end": 692.32,
+        "english": "I'm afraid a bit more than that.",
+        "chinese": "我恐怕比这多一些。"
+    },
+    {
+        "start": 692.32,
+        "end": 697.68,
+        "english": "We need to order the spare parts, take apart your electrical system, fuel pump and engine",
+        "chinese": "我们需要购买零配件，拆解您的电气系统、燃油泵和发动机。"
+    },
+    {
+        "start": 697.68,
+        "end": 699.68,
+        "english": "and then put it back together again.",
+        "chinese": "然后把它重新组装起来。"
+    },
+    {
+        "start": 699.76,
+        "end": 702.4799999999999,
+        "english": "You're going to have to leave it here for at least two weeks.",
+        "chinese": "您必须在这里留着至少两周。"
+    },
+    {
+        "start": 703.1999999999999,
+        "end": 703.52,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 704.3199999999999,
+        "end": 707.3599999999999,
+        "english": "How am I supposed to go to school or go shopping?",
+        "chinese": "如何才能去上学或购物？"
+    },
+    {
+        "start": 707.3599999999999,
+        "end": 709.1999999999999,
+        "english": "This is not happening.",
+        "chinese": "这是不发生的。"
+    },
+    {
+        "start": 716.4,
+        "end": 717.76,
+        "english": "All right, so car travel.",
+        "chinese": "好的，所以汽车旅行。"
+    },
+    {
+        "start": 717.76,
+        "end": 723.3599999999999,
+        "english": "Have you ever had any very serious car travel or something weird happened to your car?",
+        "chinese": "是的，我曾经有过非常严重的汽车旅行或者发生过一些奇怪的事情影响到我的车。"
+    },
+    {
+        "start": 723.3599999999999,
+        "end": 728.24,
+        "english": "Actually, the week before I decided to leave Chicago,",
+        "chinese": "实际上，我决定离开芝加哥的那周，"
+    },
+    {
+        "start": 728.24,
+        "end": 731.76,
+        "english": "I had this 1991 Honda Civic hatchback.",
+        "chinese": "我有一辆1991年的本田雅阁轿车。"
+    },
+    {
+        "start": 731.76,
+        "end": 732.96,
+        "english": "So only two doors.",
+        "chinese": "所以只有两个门。"
+    },
+    {
+        "start": 732.96,
+        "end": 733.36,
+        "english": "Nice.",
+        "chinese": "好。"
+    },
+    {
+        "start": 733.36,
+        "end": 734.88,
+        "english": "And I was driving home from work.",
+        "chinese": "我正驾车回家。"
+    },
+    {
+        "start": 734.88,
+        "end": 735.92,
+        "english": "I was on the highway.",
+        "chinese": "我在这条高速公路上。"
+    },
+    {
+        "start": 735.92,
+        "end": 737.12,
+        "english": "I had the radio on.",
+        "chinese": "我有收音机。"
+    },
+    {
+        "start": 737.12,
+        "end": 738.48,
+        "english": "The windows open.",
+        "chinese": "窗户开着。"
+    },
+    {
+        "start": 738.48,
+        "end": 741.6,
+        "english": "And then it died.",
+        "chinese": "然后它就死了。"
+    },
+    {
+        "start": 741.6,
+        "end": 744.16,
+        "english": "It died in the middle of the highway during rush hour.",
+        "chinese": "它在高速公路上的高峰期中因事故而死亡。"
+    },
+    {
+        "start": 744.16,
+        "end": 744.4,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 744.4,
+        "end": 746.08,
+        "english": "So that's when there's tons of cars.",
+        "chinese": "所以，那时就有大量的汽车。"
+    },
+    {
+        "start": 746.8,
+        "end": 747.6,
+        "english": "I didn't know what to do.",
+        "chinese": "我不知道该怎么办。"
+    },
+    {
+        "start": 747.6,
+        "end": 751.44,
+        "english": "Some calling people and then all of a sudden I see someone tapping on my window.",
+        "chinese": "有些打电话，然后突然我看到有人敲我的窗户。"
+    },
+    {
+        "start": 751.44,
+        "end": 752.96,
+        "english": "And there's cars everywhere.",
+        "chinese": "到处都是汽车。"
+    },
+    {
+        "start": 752.96,
+        "end": 753.76,
+        "english": "And it's this guy.",
+        "chinese": "而且是这个家伙。"
+    },
+    {
+        "start": 754.32,
+        "end": 756.88,
+        "english": "And he's like, listen, do you need a hand?",
+        "chinese": "And he's like, 你呢，需要帮忙吗？"
+    },
+    {
+        "start": 756.96,
+        "end": 757.4399999999999,
+        "english": "I said, yes.",
+        "chinese": "我回答说，是。"
+    },
+    {
+        "start": 757.4399999999999,
+        "end": 760.88,
+        "english": "So I put the car in neutral so that there's no break.",
+        "chinese": "所以，我将汽车置于中立状态，以避免发生碰撞。"
+    },
+    {
+        "start": 761.4399999999999,
+        "end": 765.36,
+        "english": "And he pushed it to a side road and gave me a ride home.",
+        "chinese": "他将它放在路边，然后让我骑车回家。"
+    },
+    {
+        "start": 765.36,
+        "end": 765.76,
+        "english": "No way.",
+        "chinese": "不能。"
+    },
+    {
+        "start": 765.76,
+        "end": 767.12,
+        "english": "It was the coolest guy.",
+        "chinese": "它是最酷的人。"
+    },
+    {
+        "start": 767.12,
+        "end": 767.84,
+        "english": "So nice.",
+        "chinese": "所以好。"
+    },
+    {
+        "start": 769.36,
+        "end": 770.96,
+        "english": "And he was just there with his truck.",
+        "chinese": "他只是坐在他的卡车旁边。"
+    },
+    {
+        "start": 770.96,
+        "end": 773.04,
+        "english": "He's a gardener and just gave me right home.",
+        "chinese": "他是园丁，只是给了我一个家。"
+    },
+    {
+        "start": 773.04,
+        "end": 774.64,
+        "english": "It was super, super cool.",
+        "chinese": "它是超的，超的，超级的。"
+    },
+    {
+        "start": 774.64,
+        "end": 774.96,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 774.96,
+        "end": 777.52,
+        "english": "And so it turns out my engine,",
+        "chinese": "And so it turns out my engine, 中国:"
+    },
+    {
+        "start": 777.52,
+        "end": 779.2,
+        "english": "no, the engine was new.",
+        "chinese": "是的，发动机是新的。"
+    },
+    {
+        "start": 779.2,
+        "end": 779.92,
+        "english": "It was a transmission.",
+        "chinese": "是传输。"
+    },
+    {
+        "start": 779.92,
+        "end": 780.8,
+        "english": "It was shot.",
+        "chinese": "它是拍的。"
+    },
+    {
+        "start": 780.8,
+        "end": 781.92,
+        "english": "It was totally broken.",
+        "chinese": "完全损坏。"
+    },
+    {
+        "start": 781.92,
+        "end": 782.4,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 782.4,
+        "end": 785.04,
+        "english": "But I was very lucky to have such a kind person.",
+        "chinese": "但是我很幸运遇到了这样一位善良的人。"
+    },
+    {
+        "start": 785.04,
+        "end": 786.24,
+        "english": "Yeah, that's a good story.",
+        "chinese": "是的，那是一个好故事。"
+    },
+    {
+        "start": 787.12,
+        "end": 793.44,
+        "english": "Usually people are too afraid or maybe a little bit reluctant to stop and see if you're okay",
+        "chinese": "通常人们害怕或可能有点犹豫，不敢停止看看你是否安全。"
+    },
+    {
+        "start": 793.44,
+        "end": 797.6800000000001,
+        "english": "or if you need a ride or something because you can't really trust people these days.",
+        "chinese": "或者如果你需要一个接送或有什么事情，因为你现在很难真正信任人。"
+    },
+    {
+        "start": 798.72,
+        "end": 799.2,
+        "english": "But it's good.",
+        "chinese": "但它是好的。"
+    },
+    {
+        "start": 799.2,
+        "end": 802.4,
+        "english": "I once I saw somebody on the side of the road and had a flat tire.",
+        "chinese": "我曾经看到路边有人，轮胎爆裂了。"
+    },
+    {
+        "start": 802.4,
+        "end": 804.24,
+        "english": "It was two girls and they didn't know what to do.",
+        "chinese": "是两个女孩，她们不知道该怎么办。"
+    },
+    {
+        "start": 804.24,
+        "end": 805.76,
+        "english": "So I was passing by.",
+        "chinese": "所以，我正路过。"
+    },
+    {
+        "start": 805.76,
+        "end": 807.28,
+        "english": "It was actually raining.",
+        "chinese": "是真是假，下雨了。"
+    },
+    {
+        "start": 807.28,
+        "end": 808.88,
+        "english": "And I was like, hey, do you guys need a hand?",
+        "chinese": "And I was like, \"啊，你们需要帮忙吗？"
+    },
+    {
+        "start": 808.88,
+        "end": 810.0,
+        "english": "And they're like, yeah, please.",
+        "chinese": "他们好像，嗯，可以。"
+    },
+    {
+        "start": 810.0,
+        "end": 813.04,
+        "english": "And we can't locate like that or whatever.",
+        "chinese": "我们无法像那样或什么。"
+    },
+    {
+        "start": 813.04,
+        "end": 814.64,
+        "english": "So I was like, changing the tires.",
+        "chinese": "所以，我好像在换轮胎。"
+    },
+    {
+        "start": 814.64,
+        "end": 815.6,
+        "english": "It's not a big deal, right?",
+        "chinese": "是的，没什么大不了的。"
+    },
+    {
+        "start": 816.5600000000001,
+        "end": 817.6800000000001,
+        "english": "And they wanted to tip me.",
+        "chinese": "他们想给我一个台阶。"
+    },
+    {
+        "start": 817.6800000000001,
+        "end": 818.88,
+        "english": "They wanted to give me so many.",
+        "chinese": "他们想给我这么多。"
+    },
+    {
+        "start": 818.88,
+        "end": 820.72,
+        "english": "They're like, oh, please say this is just so kind.",
+        "chinese": "他们好像，哦，请说这是只是一味的善良。"
+    },
+    {
+        "start": 820.72,
+        "end": 821.9200000000001,
+        "english": "You're time and you're all wet.",
+        "chinese": "您是时间，您和您都是湿的。"
+    },
+    {
+        "start": 821.9200000000001,
+        "end": 823.44,
+        "english": "And I'm like, no, no, don't worry about it.",
+        "chinese": "我也不，不，别担心。"
+    },
+    {
+        "start": 823.44,
+        "end": 824.72,
+        "english": "No, it's just a nice thing to do.",
+        "chinese": "是的，这只是个好习惯。"
+    },
+    {
+        "start": 824.72,
+        "end": 827.28,
+        "english": "If you know anything about cars, I mean,",
+        "chinese": "如果你有关于汽车的知识，我指的是。"
+    },
+    {
+        "start": 827.28,
+        "end": 828.48,
+        "english": "or if you can offer someone a lift,",
+        "chinese": "或者如果你能提供帮助，那就更好了。"
+    },
+    {
+        "start": 828.48,
+        "end": 831.28,
+        "english": "I know it's not terribly safe to ride with strangers.",
+        "chinese": "我知道与陌生人同行是不安全的。"
+    },
+    {
+        "start": 831.28,
+        "end": 833.44,
+        "english": "But this guy totally helped me out.",
+        "chinese": "但是这个家伙完全帮助了我。"
+    },
+    {
+        "start": 833.44,
+        "end": 834.5600000000001,
+        "english": "So nice.",
+        "chinese": "所以好。"
+    },
+    {
+        "start": 834.5600000000001,
+        "end": 834.88,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 834.88,
+        "end": 839.36,
+        "english": "Well, maybe you guys have some cool or maybe some interesting stories of what's happened",
+        "chinese": "嗯，或许你们有有趣的故事或一些有趣的经历发生了。"
+    },
+    {
+        "start": 839.36,
+        "end": 841.44,
+        "english": "with cars or maybe you've helped somebody out.",
+        "chinese": "这句话的英文是 \"With cars or maybe you've helped somebody out.\" 这句话的意思是：“或者，你可能帮助了别人。”"
+    },
+    {
+        "start": 841.44,
+        "end": 844.5600000000001,
+        "english": "So come to our website at englishpod.com and let us know.",
+        "chinese": "所以，请访问我们的网站 www.englishpod.com，告诉我们。"
+    },
+    {
+        "start": 844.64,
+        "end": 848.4799999999999,
+        "english": "And of course, if you have any questions about the vocabulary or phrases that you heard today,",
+        "chinese": "当然，如果你对今天听到的词汇或短语有任何疑问，请随时提问。"
+    },
+    {
+        "start": 848.4799999999999,
+        "end": 853.4399999999999,
+        "english": "please ask away, don't hesitate, and well, again, we hope to see you on the website.",
+        "chinese": "请别客气，不要犹豫，好的，再次，我们希望您在网站上见到您。"
+    },
+    {
+        "start": 853.4399999999999,
+        "end": 853.68,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 853.68,
+        "end": 854.64,
+        "english": "We'll see you guys there.",
+        "chinese": "我们将见您们。"
+    },
+    {
+        "start": 854.64,
+        "end": 855.1199999999999,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

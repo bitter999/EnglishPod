@@ -1,0 +1,878 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.8,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "大家好，欢迎来到英语播客。我的名字是马科。"
+    },
+    {
+        "start": 4.8,
+        "end": 10.0,
+        "english": "My name is Catherine and today we have a lesson for you all about school.",
+        "chinese": "我的名字是凯特，今天我们将为您讲述学校里的课程。"
+    },
+    {
+        "start": 10.0,
+        "end": 14.48,
+        "english": "That's right. Today we're going to take a look at a child's report card. So we're going",
+        "chinese": "是的。今天我们将来看孩子的成绩单。所以我们打算"
+    },
+    {
+        "start": 14.48,
+        "end": 19.64,
+        "english": "to talk a little bit about what this means, what is a report card and also everything",
+        "chinese": "要谈谈一下这个意味着什么，什么是报告卡，还有所有这些。"
+    },
+    {
+        "start": 19.64,
+        "end": 24.72,
+        "english": "that's inside this report. That's right. So we're going to learn how to describe a child's",
+        "chinese": "这是这个报告的内容。没错。所以我们要学习如何描述儿童的。"
+    },
+    {
+        "start": 24.72,
+        "end": 29.2,
+        "english": "schoolwork. Is it good? Is it bad? Let's take a listen to our dialogue and we'll be back",
+        "chinese": "学习。是好的吗？是不好的吗？让我们听听我们的对话，然后我们再回来。"
+    },
+    {
+        "start": 29.2,
+        "end": 32.16,
+        "english": "in a minute to discuss the meaning of some of these words and phrases.",
+        "chinese": "在一瞬间讨论一下这些词语和短语的含义。"
+    },
+    {
+        "start": 39.04,
+        "end": 45.599999999999994,
+        "english": "Look Jimmy's report card came today. Let's have a look. What is this? We're all the grades.",
+        "chinese": "请看乔伊的成绩单今天发来了。让我们看看。这是什么？我们都是成绩。"
+    },
+    {
+        "start": 45.599999999999994,
+        "end": 50.56,
+        "english": "He's in the third grade, Sam. You see, under each subject that he's being taught in school,",
+        "chinese": "他三年级，萨姆。你看，他在学校每门课程上所受到的教育，"
+    },
+    {
+        "start": 50.56,
+        "end": 56.0,
+        "english": "he receives a mark from one to three. A one means his achievement or work is excellent.",
+        "chinese": "他从一到三获得一个分数。一个一表示他的成就或工作非常好。"
+    },
+    {
+        "start": 56.64,
+        "end": 61.92,
+        "english": "Here in science, for example, he got it to which means its satisfactory. What about",
+        "chinese": "在科学领域，例如，他做到了这一点，这意味着它达到了满意的状态。"
+    },
+    {
+        "start": 61.92,
+        "end": 68.16,
+        "english": "here in physical education? He got a three here, which means it's unsatisfactory. We should work",
+        "chinese": "在这里物理教育？他得了3分，这意味着不理想。我们应该努力"
+    },
+    {
+        "start": 68.16,
+        "end": 73.6,
+        "english": "on that with him. So confusing. In my day, we got an A or a B. If we were doing well and if we",
+        "chinese": "在这一点上，他和我一样。太复杂了。在我那个时代，我们得了A或B。如果我们做得好，如果我们在做事情时"
+    },
+    {
+        "start": 73.6,
+        "end": 82.0,
+        "english": "failed an exam, we would get an F. All right, we're back. So now let's start with some language.",
+        "chinese": "失败了考试，我们就得F。好的，我们回来吧。现在让我们从语言开始。"
+    },
+    {
+        "start": 82.0,
+        "end": 92.88,
+        "english": "Takeaway. Language takeaway. All right, the first phrase here we have in language takeaways",
+        "chinese": "在语言取舍中。"
+    },
+    {
+        "start": 92.88,
+        "end": 98.32,
+        "english": "actually, it's the report card and this is the topic of today's dialogue. That's right. Now you",
+        "chinese": "实际上，这是一份报告卡，今天的话题就是今天的对话。没错。现在你"
+    },
+    {
+        "start": 98.32,
+        "end": 104.16,
+        "english": "may remember, I'm sure pretty much it's standard everywhere in the world. You get a report,",
+        "chinese": "记得，我完全相信这是全世界普遍适用的。你收到报告时，会看到很多相似的内容。"
+    },
+    {
+        "start": 104.16,
+        "end": 110.48,
+        "english": "a small little report that tells your parents how well or how poorly you are doing in school.",
+        "chinese": "一个很小的小报告，告诉你父母你在学校的表现怎么样好还是不好。"
+    },
+    {
+        "start": 110.48,
+        "end": 117.60000000000001,
+        "english": "That's right. So after maybe two or three months, your teacher will write down how she or he",
+        "chinese": "正确。大概在两个月或三个月后，你的老师会写下她/他如何"
+    },
+    {
+        "start": 117.60000000000001,
+        "end": 123.12,
+        "english": "thinks that you're performing at school. That's right. And usually parents have to sign this. They have",
+        "chinese": "你认为你在学校表现如何。没错。通常父母需要签名。他们有这个吗？"
+    },
+    {
+        "start": 123.12,
+        "end": 128.8,
+        "english": "to say, okay, I see that my child is doing well or that he's doing poorly and then the teacher will",
+        "chinese": "说，好的，我看到我的孩子做得好或做得不好了，然后老师会"
+    },
+    {
+        "start": 128.8,
+        "end": 133.44,
+        "english": "know as well. And I think, well, you get report cards in elementary school and high school and",
+        "chinese": "知道也一样。而且，你小学和中学时的报告卡也是这样。"
+    },
+    {
+        "start": 133.44,
+        "end": 138.56,
+        "english": "also in university, right? You do get a report card of some sort. That's right. Well, in university",
+        "chinese": "在大学里，对吗？你也收到成绩单了吗。没错。在大学里"
+    },
+    {
+        "start": 138.56,
+        "end": 142.88,
+        "english": "in America, we call them grades. We don't really call them a report card in high school,",
+        "chinese": "在中国，我们称他们为等级。我们并不真正叫高中的成绩单"
+    },
+    {
+        "start": 142.88,
+        "end": 148.16,
+        "english": "middle school and elementary school. So before college, we actually have a piece of paper.",
+        "chinese": "中等学校和小学。因此，在大学之前，我们实际上有一张纸。"
+    },
+    {
+        "start": 148.16,
+        "end": 152.56,
+        "english": "Right. And that's why it's called a card. Yeah, that's right. I think now for universities,",
+        "chinese": "正确。这就是为什么它叫卡。对，这是正确的。我认为现在对于大学来说，"
+    },
+    {
+        "start": 152.56,
+        "end": 157.76,
+        "english": "especially you just go online and you see your grades. That's right. It's on the internet.",
+        "chinese": "特别，你直接在网上看到你的成绩。没错。在互联网上。"
+    },
+    {
+        "start": 157.76,
+        "end": 163.28,
+        "english": "But the important thing about the report card is that it tells a parent and a student what his or",
+        "chinese": "但报告卡上的重要点在于，它告诉家长和学生他或她对孩子的看法。"
+    },
+    {
+        "start": 163.28,
+        "end": 170.96,
+        "english": "grades are. That's right. So the grades, this is a noun, is basically your score. That's right. So",
+        "chinese": "分数是。没错。所以分数，这是名词，基本上是你的成绩。没错。"
+    },
+    {
+        "start": 171.76,
+        "end": 176.24,
+        "english": "maybe you took a test and you did a very well on your test and you had some homework and you",
+        "chinese": "您可能做了一次测试，成绩非常优秀，并且还有作业要做，您是否需要我帮助整理一下您的作业？"
+    },
+    {
+        "start": 176.24,
+        "end": 180.56,
+        "english": "did very well on your homework. So you have a good grade. That's right. But if you don't do your",
+        "chinese": "做得很好，你的作业。所以你有好成绩。没错。但如果你不认真完成作业，那……"
+    },
+    {
+        "start": 180.56,
+        "end": 184.88,
+        "english": "homework and you don't do well on your test, you have a bad grade. That's right. So for example,",
+        "chinese": "作业，你考试没考好，你就得了个不好。对了，比如……"
+    },
+    {
+        "start": 184.88,
+        "end": 191.68,
+        "english": "like in the United States, it's over 100 points. So maybe a good grade would be 95 points out of 100.",
+        "chinese": "在美国，超过100分。所以可能一个好成绩是95分以上。"
+    },
+    {
+        "start": 191.68,
+        "end": 197.04000000000002,
+        "english": "So we call that an A. That's it called an A. That's right. Or if you have a bad grade, maybe that's",
+        "chinese": "所以，我们称它为A。这就是A。这是正确的。或者如果你有不好的成绩，也许这就是"
+    },
+    {
+        "start": 197.04000000000002,
+        "end": 206.56,
+        "english": "an F, which is 20% or 30%. Right. Mm-hmm. Okay. So now this is where we need to make a difference between",
+        "chinese": "好的，我明白了。现在我们需要区分一下这个分数与其他选项之间的区别。"
+    },
+    {
+        "start": 207.68,
+        "end": 215.20000000000002,
+        "english": "the grades that his father was looking for. And then the mom says he's in the third grade. So",
+        "chinese": "根据父亲的期望，他被分到了三年级。然后妈妈说他在三年级。所以"
+    },
+    {
+        "start": 215.20000000000002,
+        "end": 221.20000000000002,
+        "english": "it's very different between having good grades or bad grades and fifth grade or third grade.",
+        "chinese": "它是与获得好成绩或差的成绩之间的区别，以及五年级和三年级。"
+    },
+    {
+        "start": 221.2,
+        "end": 225.6,
+        "english": "All right. Two different grades. And we know this is confusing. So we want to explain a little bit.",
+        "chinese": "好的。两个不同的年级。我们都知道这很复杂。所以我们想稍微解释一下。"
+    },
+    {
+        "start": 226.48,
+        "end": 231.92,
+        "english": "Third grade is actually the third year of elementary school. That's right. So in the American",
+        "chinese": "第三年级实际上是在小学的第三个学年。没错。所以在中国，通常指的是初中一年级。"
+    },
+    {
+        "start": 231.92,
+        "end": 237.35999999999999,
+        "english": "education system, we start in kindergarten and we have first grade, second grade, third grade,",
+        "chinese": "教育系统，我们从小学开始，我们有一年级、二年级和三年级。"
+    },
+    {
+        "start": 237.35999999999999,
+        "end": 242.56,
+        "english": "all the way up until the end, which is 12th grade. That's right. So it's everything between when",
+        "chinese": "从上到下，直到最后一级。这就是从开始到结束的全部内容。是正确的。所以就是从开始到结束的所有内容。"
+    },
+    {
+        "start": 242.56,
+        "end": 248.39999999999998,
+        "english": "you're five years old and when you're 18 years old. And each year at school is a grade, a level.",
+        "chinese": "您是五岁，当您十八岁时。每一年在学校都是一个年级，一个级别。"
+    },
+    {
+        "start": 248.96,
+        "end": 254.96,
+        "english": "That's right. So as you said, it's a grade in different parts of the country. I'm not really",
+        "chinese": "没错。你说的对，它是在不同省份的不同部分获得的分数。我没有真正理解这一点。"
+    },
+    {
+        "start": 254.96,
+        "end": 260.48,
+        "english": "sure if they call them a grade or they have these the same system, but basically that's what it",
+        "chinese": "是的，如果他们称它们为等级或有相同的系统，但基本上就是什么。"
+    },
+    {
+        "start": 260.48,
+        "end": 266.0,
+        "english": "means in English. You have first grade, third grade, 12th grade, finally when you graduate.",
+        "chinese": "这句话的意思是：意味着英语。你有初一、初二、初三，最后当你毕业时。"
+    },
+    {
+        "start": 266.0,
+        "end": 270.64,
+        "english": "That's right. So you can say my son is in eighth grade. That's right. He's in his eighth year of",
+        "chinese": "是的。所以你可以这么说，我的儿子今年八年级。"
+    },
+    {
+        "start": 270.64,
+        "end": 276.64,
+        "english": "school. Right. Very good. So that is the difference. And now we're going to take a look at something",
+        "chinese": "学校。正确。很好。所以这就是区别。现在我们来看看什么"
+    },
+    {
+        "start": 276.64,
+        "end": 283.59999999999997,
+        "english": "that has to do with grades as well is the marks that you get in your test or in your report card.",
+        "chinese": "这与分数有关的是你在测试或报告卡上的成绩。"
+    },
+    {
+        "start": 283.59999999999997,
+        "end": 287.44,
+        "english": "That's right. So this might actually help. Remember when we said on your report card, your teacher",
+        "chinese": "正确。这可能确实有所帮助。记得我们在你的报告卡上提到，老师"
+    },
+    {
+        "start": 287.44,
+        "end": 293.28,
+        "english": "might write down your grade. That means do you have an A or a B or a C? Well, another way to call",
+        "chinese": "你可能写下你的分数。这表示你有A、B还是C？另外，另一种叫法是："
+    },
+    {
+        "start": 293.28,
+        "end": 299.28,
+        "english": "this is a mark. So he has good marks. He has good grades. So they're basically the same thing,",
+        "chinese": "这个是标志。所以他有好成绩。他有好分数。所以基本上就是一样的东西。"
+    },
+    {
+        "start": 299.28,
+        "end": 304.96,
+        "english": "grades and marks. That's right. They are. And I know that in in Britain, I think people are more",
+        "chinese": "分数和分值。没错。他们都是。我知道在英国，我认为人们更喜欢中文。"
+    },
+    {
+        "start": 305.12,
+        "end": 311.28,
+        "english": "commonly say marks. She got terrible marks at school and her father was angry with her.",
+        "chinese": "通常说的“标记”。她上中学时成绩很差，她的父亲对她很生气。"
+    },
+    {
+        "start": 312.32,
+        "end": 318.15999999999997,
+        "english": "But in America, we often say, you know, if you get good grades, I'll buy you sweets.",
+        "chinese": "但是在美国，我们经常说，“如果你成绩好，我会给你糖果。”"
+    },
+    {
+        "start": 318.15999999999997,
+        "end": 322.56,
+        "english": "That's right. Okay. So you get a prize if you get good grades usually. Well, it depends on your",
+        "chinese": "对的。好的，所以你如果经常获得好成绩，你会得到奖品。好吧，取决于你的学习成绩。"
+    },
+    {
+        "start": 322.56,
+        "end": 329.03999999999996,
+        "english": "parents. That's right. Now, as we said, you can have a grade that's usually a number or a letter",
+        "chinese": "父母。没错。现在，我们说你可以在通常的数字或字母中选择一个年级。"
+    },
+    {
+        "start": 329.04,
+        "end": 337.04,
+        "english": "like ABCD F, but you can also get marks that are just very much black or white. It's satisfactory",
+        "chinese": "例如ABCDF，但你也可以得到只有一点点黑色或白色的标记。这很好。"
+    },
+    {
+        "start": 337.04,
+        "end": 342.88,
+        "english": "or unsatisfactory like in this case. That's right. So satisfactory. This is an adjective. It describes",
+        "chinese": "或者不如在这一情形下。没错。那么是形容词。它描述的是"
+    },
+    {
+        "start": 342.88,
+        "end": 351.92,
+        "english": "something is a good thing. Okay. So how did he do? Well, his performance was satisfactory. It's okay.",
+        "chinese": "好的。他做得怎么样？他的表现还不错。很好。"
+    },
+    {
+        "start": 352.56,
+        "end": 359.52000000000004,
+        "english": "But if it's bad or if it's not good, we call it unsatisfactory. That's right. So this doesn't",
+        "chinese": "但是，如果不好或者不好，我们就称它不满意的。这是正确的。所以，这并不"
+    },
+    {
+        "start": 359.52000000000004,
+        "end": 365.52000000000004,
+        "english": "really have a number as you can tell. It's just basically pass or fail. That's about it. Good or bad.",
+        "chinese": "真的有数字，你可以看出。这只是基本的通过或失败。这就是全部了。好还是不好？"
+    },
+    {
+        "start": 365.52000000000004,
+        "end": 370.72,
+        "english": "Good or bad. That's it. No, no grade. And we'll explain this in a minute. There are some classes where",
+        "chinese": "好的或者不好。这就是了。不，没有分数。我们将在稍后详细解释这个。有一些课程，其中有些是"
+    },
+    {
+        "start": 370.72,
+        "end": 376.88,
+        "english": "you can't have a grade like an A or a B. And that's why we have this satisfactory unsatisfactory.",
+        "chinese": "你不能有像A或B这样的等级。这就是为什么我们有满意的，不满意的。"
+    },
+    {
+        "start": 376.88,
+        "end": 380.88,
+        "english": "That's right. All right. So we've taken a look at a lot of language there. Why don't we listen to",
+        "chinese": "正确。好的。所以我们已经看了很多语言。那么我们听听中文吧。"
+    },
+    {
+        "start": 380.88,
+        "end": 393.04,
+        "english": "the dialogue again? Look, Jimmy's report card came today. Let's have a look. What is this?",
+        "chinese": "对话再进行一次？看，吉米的报告单今天发来了。让我们看看。这是什么？"
+    },
+    {
+        "start": 393.6,
+        "end": 399.68,
+        "english": "We're all the grades. He's in the third grade, Sam. You see, under each subject that he's being taught",
+        "chinese": "我们都是分数。他三年级，萨姆。你看，每个科目他都在学习"
+    },
+    {
+        "start": 399.68,
+        "end": 405.52,
+        "english": "in school, he receives a mark from one to three. A one means his achievement or work is excellent.",
+        "chinese": "在学校，他从一到三分。一个一表示他的成就或工作是优秀的。"
+    },
+    {
+        "start": 406.15999999999997,
+        "end": 411.84,
+        "english": "Here in science, for example, he got it to which means it's satisfactory. What about here in",
+        "chinese": "在科学领域，例如，他做到了这一点，这意味着它足够好。在这里，在中国"
+    },
+    {
+        "start": 411.84,
+        "end": 418.0,
+        "english": "physical education? He got a three here, which means it's unsatisfactory. We should work on that",
+        "chinese": "物理教育？他得了3分，这意味着不理想。我们应该努力提高这个"
+    },
+    {
+        "start": 418.0,
+        "end": 423.59999999999997,
+        "english": "with him. So confusing. In my day, we got an A or a B. If we were doing well and if we failed an",
+        "chinese": "他。这样混乱。在我那个年代，我们得了A或B。如果我们都做得好，如果我们都失败了。"
+    },
+    {
+        "start": 423.59999999999997,
+        "end": 432.56,
+        "english": "exam, we would get an F. All right. We're back. So now let's take a look at some phrases on fluency",
+        "chinese": "考试，我们会得F。好的。我们现在来看一些语调上的问题。"
+    },
+    {
+        "start": 432.56,
+        "end": 440.16,
+        "english": "builder. Fluency builder. You could have said, let's have a look, Marco. That's one of the key phrases",
+        "chinese": "Builder. Fluency builder. 你可以说，让我们看看，马科。这就是其中的一个关键点。"
+    },
+    {
+        "start": 440.16,
+        "end": 445.28000000000003,
+        "english": "in today's dialogue. That's right. He, the dad got the report cardings here. All right. Let's have a",
+        "chinese": "在今天的对话中。没错。他，爸爸收到了成绩单。好。让我们有"
+    },
+    {
+        "start": 445.28000000000003,
+        "end": 453.28,
+        "english": "look. All right. This is a very common way to say, let's see or let me look at that. So let's have a",
+        "chinese": "请看。好的。这是非常常见的表达方式，让我们看看或者让我看一下。所以，我们可以："
+    },
+    {
+        "start": 453.28,
+        "end": 460.16,
+        "english": "look. Maybe it's just one person me, but we still say this, let, let us. So it's plural. It's very",
+        "chinese": "看。也许只是一个人，但还是这么说，让我们，我们。所以是复数。它很普通。"
+    },
+    {
+        "start": 460.16,
+        "end": 466.32000000000005,
+        "english": "weird, but it just means let me look. Right. And exactly as you said, even though it's in plural",
+        "chinese": "奇怪，但只要让我看看。对的。即使它在用复数形式"
+    },
+    {
+        "start": 466.32000000000005,
+        "end": 472.32000000000005,
+        "english": "and you may be by yourself or only you are going to look at something, people still say, let's have a",
+        "chinese": "而且你可能独自一人，或者只有你自己才会去关注某个事物，人们仍然说：“让我们来。”"
+    },
+    {
+        "start": 472.32000000000005,
+        "end": 477.6,
+        "english": "look. Let's have a look here. Okay. It means I want to look at this. So if I say, hey, I just bought",
+        "chinese": "请看。让我们来看看这里。好的。它意味着我要看看这个。所以，如果我说：“嘿，我刚刚买了一件衣服。”"
+    },
+    {
+        "start": 477.6,
+        "end": 483.20000000000005,
+        "english": "this new CD. Okay. I can say, hey, let's have a look. All right. And I could give it to Marco and he",
+        "chinese": "这个新的CD。好的，我可以看看。行。而且我也可以把它送给马科，他可以听。"
+    },
+    {
+        "start": 483.20000000000005,
+        "end": 487.84000000000003,
+        "english": "can look at the case and see who the musician is. That's right. All right. Now talking about one of",
+        "chinese": "英语：可以看看这个案例，看谁是音乐家。对的。好的。现在谈一谈一个关于..."
+    },
+    {
+        "start": 488.15999999999997,
+        "end": 493.11999999999995,
+        "english": "the subjects in school, that means some of the classes that you have, we had science, we have",
+        "chinese": "英语：在学校的 Subjects，这意味着你的一些课程，我们有科学课。"
+    },
+    {
+        "start": 493.11999999999995,
+        "end": 498.47999999999996,
+        "english": "history. And there's another one called physical education. All right. So this is a class that has",
+        "chinese": "英语：历史。还有另一个叫物理教育的课程。好的，这就是一个包含物理教育内容的班级。"
+    },
+    {
+        "start": 498.47999999999996,
+        "end": 504.47999999999996,
+        "english": "many different names. It's physical. So you know that it has to do with your body. So basically,",
+        "chinese": "许多不同的名字。它就是物理的。所以你知道，这与你的身体有关。因此，"
+    },
+    {
+        "start": 504.47999999999996,
+        "end": 510.64,
+        "english": "it's sports class and you play sports like football, basketball, things like that. It's also called",
+        "chinese": "它是一个体育课，你像足球、篮球这样的运动一样玩。它也被称为"
+    },
+    {
+        "start": 511.59999999999997,
+        "end": 516.96,
+        "english": "PE for short. Yeah. Because remember, physical in English starts with a PPH physical.",
+        "chinese": "PE for short. Yeah. 因为记得，物理在英语中起始于 PH 物理。"
+    },
+    {
+        "start": 518.08,
+        "end": 523.28,
+        "english": "But this is what I was saying earlier, Marco, you can't give a person an A or a B in physical",
+        "chinese": "但是，这是我在之前说的，马科斯，你不能给一个人一个A或B。"
+    },
+    {
+        "start": 523.28,
+        "end": 530.4,
+        "english": "education. Well, you don't really. So normally students get satisfactory or unsatisfactory. Right.",
+        "chinese": "教育。嗯，你不是说的对吧？所以通常学生会得到满意的或者不满意的。"
+    },
+    {
+        "start": 530.4,
+        "end": 535.36,
+        "english": "Because usually it doesn't mean that you have to be very good at sports. Sometimes it's just",
+        "chinese": "通常，这并不意味着你需要非常擅长体育。有时，它只是"
+    },
+    {
+        "start": 536.0,
+        "end": 541.6800000000001,
+        "english": "the effort counts. You may not be very good at soccer or football or basketball. But if you try",
+        "chinese": "努力值得。你可能在足球或篮球方面不擅长，但如果你尝试，你会学到很多。"
+    },
+    {
+        "start": 541.6800000000001,
+        "end": 546.16,
+        "english": "really hard, you're running around and you're actually doing what you're supposed to be doing,",
+        "chinese": "真的很难，你跑来跑去，实际上你在按照你的职责行事。"
+    },
+    {
+        "start": 546.16,
+        "end": 550.24,
+        "english": "then you get a satisfactory note. It means, yeah, I mean, you're not the best player in the world,",
+        "chinese": "然后你得到一份满意的账单。这意味着，嗯，你不是世界顶尖的球员，"
+    },
+    {
+        "start": 550.24,
+        "end": 556.08,
+        "english": "but you're doing what you're supposed to. Exactly. All right. So now when the father was talking",
+        "chinese": "但是你正在按照你的计划行事。很好。现在当父亲在说的时候"
+    },
+    {
+        "start": 556.08,
+        "end": 562.24,
+        "english": "is like, oh, you know, I don't understand this report card. In my day, we got an A or a B.",
+        "chinese": "是啊，你猜对了。我小时候，我们拿到成绩单时，都是A或B。"
+    },
+    {
+        "start": 562.32,
+        "end": 565.6800000000001,
+        "english": "All right. So this is a common phrase that people say when they want to talk about",
+        "chinese": "好的。所以这是人们经常说的一句话，当他们想谈论中国时。"
+    },
+    {
+        "start": 566.4,
+        "end": 570.8,
+        "english": "when they were children or when they were growing up. So older people often say,",
+        "chinese": "当他们还是孩子或还在成长过程中。所以老年人常常说。"
+    },
+    {
+        "start": 570.8,
+        "end": 579.12,
+        "english": "oh, in my day, things were different. So this is a way to make a comparison between now and the past.",
+        "chinese": "哦，在我那个时代，事情是不同的。所以这是将现在和过去进行比较的一种方式。"
+    },
+    {
+        "start": 579.12,
+        "end": 586.72,
+        "english": "Yeah. Right. You're basically saying when I was a child or many years ago, this was what happened",
+        "chinese": "是的。没错，你是在说，当我还是个孩子或者很多年前的时候，这是发生了什么。"
+    },
+    {
+        "start": 586.88,
+        "end": 594.64,
+        "english": "or this is how it used to be. In my day school was much more difficult today. It's very, very easy.",
+        "chinese": "或者，这就是以前的样子。在我的学校，今天比过去好多了。它真是太简单了。"
+    },
+    {
+        "start": 594.64,
+        "end": 600.72,
+        "english": "That's right. So this is how you start this comparison between the time when you were a child to",
+        "chinese": "是的。因此，这就是你和我开始比较你童年时期的时间了。"
+    },
+    {
+        "start": 600.72,
+        "end": 606.24,
+        "english": "now. Yes. In my day. All right. And to finish off, we're going to talk about failing an exam. Because",
+        "chinese": "现在。是的。在我那个时候。好的。然后，我们将谈论考试不及格的问题。因为"
+    },
+    {
+        "start": 606.24,
+        "end": 612.8000000000001,
+        "english": "obviously, sometimes you do fail. Yeah. And if you fail a fail an exam, you get a very bad grade",
+        "chinese": "当然，有时候你会失败。嗯。如果你在考试中失败了，你就会得到一个非常差的成绩。"
+    },
+    {
+        "start": 612.8,
+        "end": 620.24,
+        "english": "and F. And F. So F for fail, it's easy to remember. That's right. So you say, you can say I didn't pass",
+        "chinese": "和F. 和F. 一起，所以失败就容易记住了。没错。你这么说，你可以这样说：“我没能通过。”"
+    },
+    {
+        "start": 620.24,
+        "end": 627.52,
+        "english": "the exam, but you can also say I failed the exam. Yes. And normally fail means you received less than",
+        "chinese": "考试，但你也可以说我考试没通过。是的。通常来说，通过意味着你获得了少于"
+    },
+    {
+        "start": 628.56,
+        "end": 636.8,
+        "english": "60%. That's right. Or 50%. So it's, yeah, 50%. So basically, you missed, if there are 10",
+        "chinese": "六成。正确。或者五成。所以，嗯，基本上，你错了，如果有十个。"
+    },
+    {
+        "start": 636.8,
+        "end": 642.4,
+        "english": "questions on the exam, you missed five or six or seven or all the other to 10 of them. So you",
+        "chinese": "题目中的问题，你只记得了五、六、七或全部其他题目的答案。所以，你"
+    },
+    {
+        "start": 642.4,
+        "end": 646.8,
+        "english": "missed more than half of the questions. That's right. And it's not only for school, for example,",
+        "chinese": "错失了超过一半的问题。没错，这不仅限于学校，例如……"
+    },
+    {
+        "start": 646.8,
+        "end": 652.0799999999999,
+        "english": "your driver's exam, when you're going to get your driver's license, you can also pass or fail that",
+        "chinese": "你的驾照考试，当你准备申请驾驶证时，你也可以通过或失败。"
+    },
+    {
+        "start": 652.0799999999999,
+        "end": 659.12,
+        "english": "exam. And if you fail the exam, you have to take it again. That's right. So that's all the fluency",
+        "chinese": "考试。如果你不及格，你需要再考一次。这是正确的。所以这就是所有流利的全部。"
+    },
+    {
+        "start": 659.12,
+        "end": 663.12,
+        "english": "builder words we have for you today. Let's take a look at them again and we'll be right back.",
+        "chinese": "我们今天为你提供了一些建设用的词汇。让我们再来看一下，然后马上回来。"
+    },
+    {
+        "start": 670.16,
+        "end": 676.72,
+        "english": "Look, Jimmy's report card came today. Let's have a look. What is this? We're all the grades.",
+        "chinese": "请看，乔伊的报告单今天来了。让我们看看。这是什么？我们都是分数。"
+    },
+    {
+        "start": 676.72,
+        "end": 681.68,
+        "english": "He's in the third grade, Sam. You see, under each subject that he's being taught in school,",
+        "chinese": "他三年级，萨姆。你看，他在学校每门课程上所受到的教育，"
+    },
+    {
+        "start": 681.68,
+        "end": 688.16,
+        "english": "he receives a mark from one to three. A one means his achievement or work is excellence. Here in",
+        "chinese": "他从一个到三个获得一个。一个表示他的成就或工作是卓越的。在这里，我将这句话翻译成中文："
+    },
+    {
+        "start": 688.16,
+        "end": 693.76,
+        "english": "science, for example, he got a two, which means it's satisfactory. What about here in physical",
+        "chinese": "科学，例如，他得到了两个，这意味着它很好。在这里在物理上怎么样？"
+    },
+    {
+        "start": 693.76,
+        "end": 700.4,
+        "english": "education? He got a three here, which means it's unsatisfactory. We should work on that with him.",
+        "chinese": "教育？他得了三分，这意味着不怎么样。我们应该和他一起努力。"
+    },
+    {
+        "start": 700.4,
+        "end": 705.8399999999999,
+        "english": "So confusing. In my day, we got an A or a B. If we were doing well, and if we failed an exam, we would",
+        "chinese": "所以复杂。在我那个时代，我们得了A或B。如果我们在考试中表现好，在期末考试时会得到A；如果在期末考试中不及格，我们会得到B。"
+    },
+    {
+        "start": 705.8399999999999,
+        "end": 714.88,
+        "english": "get an F. All right. So big question, Marco. When you were a student, did you get good grades?",
+        "chinese": "请给我一个F。好的，那么大问题，马科。当你还是学生的时候，你有没有得到好成绩？"
+    },
+    {
+        "start": 715.52,
+        "end": 722.96,
+        "english": "I got good grades, but not great grades. I was always a type of student that paid attention in class.",
+        "chinese": "我学得好，但不是特别好。我一直是一个注重课堂学习的学生。"
+    },
+    {
+        "start": 724.16,
+        "end": 730.64,
+        "english": "Did my homework, but never studied. So you did not study for the tests? No, but that's why I never",
+        "chinese": "我的作业完成了，但从未学习。所以你没有参加考试吗？不，但我是因为我从来没有学习过。"
+    },
+    {
+        "start": 730.64,
+        "end": 737.84,
+        "english": "got an A, for example, an A plus, but I always got a B. So I was that type of just more chilled type",
+        "chinese": "我获得了A，例如，A+，但总是B。所以我就是那种更冷淡的类型。"
+    },
+    {
+        "start": 737.84,
+        "end": 744.4,
+        "english": "of student. You like to be in the middle? Yeah. Well, this was the thing. I like to pay attention",
+        "chinese": "学生。你喜欢在中间吗？是的。嗯，这是个问题。我喜欢关注"
+    },
+    {
+        "start": 744.4,
+        "end": 750.0,
+        "english": "in class. So that was different because I would pay attention. I would take some notes, but then I",
+        "chinese": "在课堂上。因此，因为我要认真听。我记笔记，但随后我"
+    },
+    {
+        "start": 750.0,
+        "end": 755.04,
+        "english": "would just remember everything. So I did all right for the exam. Didn't really have to study. So",
+        "chinese": "我只记得一切。因此，我考试做得很好。不需要再学习。"
+    },
+    {
+        "start": 755.92,
+        "end": 760.4,
+        "english": "but sometimes in other subjects, I did. I really liked them. So it wasn't studying. It was more fun",
+        "chinese": "但是，在其他科目中，我有时也喜欢。我喜欢它们。因此，我不在学习。这比上课更有趣。"
+    },
+    {
+        "start": 760.4,
+        "end": 766.3199999999999,
+        "english": "for me. So then I would get great grades. All right. What about you? Well, I always studied for",
+        "chinese": "对于我来说。那么我会得到好成绩。好的。你呢？嗯，我一直都在为"
+    },
+    {
+        "start": 766.3199999999999,
+        "end": 771.04,
+        "english": "tests. Generally, my grades were pretty good. Now, something that we didn't talk about here is a",
+        "chinese": "测试。一般地说，我的成绩还不错。现在，我们这里没有提到的是一些什么？"
+    },
+    {
+        "start": 771.04,
+        "end": 777.36,
+        "english": "GPA. This is something that is very popular in the United States. Basically, even if you want to",
+        "chinese": "GPA. 这是美国非常流行的一种分数。基本上，即使你想选择一个更好的学校，你仍然需要达到这个标准。"
+    },
+    {
+        "start": 777.36,
+        "end": 783.28,
+        "english": "apply for schools, your GPA is what counts. What is a GPA? That's right. Well, we don't really have a",
+        "chinese": "请申请学校，你的GPA才是最重要的。什么是GPA？没错。我们并不真正有这个概念。"
+    },
+    {
+        "start": 783.28,
+        "end": 792.4,
+        "english": "GPA until high school. And then it's in high school and college. And GPA stands for G grade P point A",
+        "chinese": "学分到高中。然后是高中和大学。GPA代表G级P点A的学分。"
+    },
+    {
+        "start": 792.4,
+        "end": 798.0799999999999,
+        "english": "average. So grade point average. That means we take all of our marks or all of our grades together.",
+        "chinese": "平均。所以绩点平均分。这意味着我们把所有的成绩或所有的成绩加起来。"
+    },
+    {
+        "start": 798.08,
+        "end": 804.1600000000001,
+        "english": "So science grade, English grade, history grade, and we make an average. So if",
+        "chinese": "所以科学成绩、英语成绩、历史成绩和我们共同的平均分。如果"
+    },
+    {
+        "start": 805.76,
+        "end": 815.2,
+        "english": "if I get most mostly A's, my GPA is 4.0. If I get mostly B's, my GPA is 3.0. And then it goes",
+        "chinese": "如果我获得大多数A的成绩，我的GPA是4.0。如果我获得大部分B的成绩，我的GPA是3.0。然后它会继续上升。"
+    },
+    {
+        "start": 815.2,
+        "end": 822.4000000000001,
+        "english": "lower and lower. And if you have a really bad GPA like a one, you probably won't finish high school.",
+        "chinese": "低和低。如果你有非常差的GPA，你很可能会不上高中。"
+    },
+    {
+        "start": 822.4,
+        "end": 829.92,
+        "english": "Now, this is the GPA is very important for many reasons. First of all, because it's also kind of",
+        "chinese": "现在，这个GPA对于许多原因非常重要。首先，因为它也是相当重要的。"
+    },
+    {
+        "start": 830.56,
+        "end": 836.24,
+        "english": "summary of your application to universities, right? They take a look at your GPA. Absolutely. So",
+        "chinese": "总结您的申请到大学的摘要吗？他们会看你的GPA。当然，所以"
+    },
+    {
+        "start": 836.24,
+        "end": 845.12,
+        "english": "this is a way to say, okay, how is this student overall? How is the student in all of her classes?",
+        "chinese": "这是说，嗯，这个学生整体怎么样？她的一年级到六年级的课程都怎么样？"
+    },
+    {
+        "start": 845.12,
+        "end": 851.04,
+        "english": "Not just one class. Right. And then they see if you have a 3.5 detail, well, it's pretty good.",
+        "chinese": "不是只一个类。对，然后他们看看你有没有3.5级的技能，嗯，还不错。"
+    },
+    {
+        "start": 851.12,
+        "end": 858.8,
+        "english": "Yeah, 3.5 is good. 4 is the best. And again, 3 is good. It's okay. But a 2 or 1 is not very good.",
+        "chinese": "是的，3. 5 是好的。4 是最好的。而且，再次强调 3 是好的。不过，一个 2 或者 1 不算很好。"
+    },
+    {
+        "start": 858.8,
+        "end": 863.8399999999999,
+        "english": "That's right. So it's very interesting because all around the world, they have different grading",
+        "chinese": "正确。因此，它非常有趣，因为世界各地都有不同的评分系统。"
+    },
+    {
+        "start": 863.8399999999999,
+        "end": 869.28,
+        "english": "systems. I think I would say that the United States is the only place where I've seen that they use",
+        "chinese": "系统。我认为我可以说，美国是我见过的唯一一个地方，他们使用中文。"
+    },
+    {
+        "start": 869.28,
+        "end": 876.3199999999999,
+        "english": "the ABCD F system. Latin American countries, for example, they don't do it over 100. They do it",
+        "chinese": "ABC D系统。拉丁美洲国家，例如，他们不这样做超过一百。"
+    },
+    {
+        "start": 876.32,
+        "end": 882.5600000000001,
+        "english": "over 10. So you would get a grade over 10 or in some countries over 20. I've seen that as well",
+        "chinese": "超过10。那么你就会得到分数超过10或者在某些国家超过20。我也见过这种情况。"
+    },
+    {
+        "start": 882.5600000000001,
+        "end": 887.6,
+        "english": "in Italy. Yeah, it's over 20. So you would get a 14, I think, would be a passing grade over 20.",
+        "chinese": "在意大利。是的，它超过20分。所以你可能会得到14分，我认为，这将是一个不及格的分数，超过20分。"
+    },
+    {
+        "start": 888.24,
+        "end": 892.4000000000001,
+        "english": "Well, let us know. Listeners, if you have a different grading system in your country,",
+        "chinese": "嗯，让我们知道。听众们，请问您所在国家的评分系统是否不同？"
+    },
+    {
+        "start": 892.4000000000001,
+        "end": 896.72,
+        "english": "also you can let us know how were your grades when you're studying in school. You don't have to",
+        "chinese": "你也可以告诉我你在学校学习时的成绩，不需要。"
+    },
+    {
+        "start": 896.72,
+        "end": 901.44,
+        "english": "tell us. But we'd like to talk to you about grades. Our website is engluchpad.com. All right,",
+        "chinese": "告诉您。但我们想和您谈谈成绩。我们的网站是engluchpad.com。一切好。"
+    },
+    {
+        "start": 901.44,
+        "end": 902.8800000000001,
+        "english": "we'll see you guys there. Bye.",
+        "chinese": "我们见！再见。"
+    }
+]

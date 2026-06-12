@@ -1,0 +1,1460 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.64,
+        "english": "Hello English learners, welcome to EnglishPod. I'm joined here today with...",
+        "chinese": "您好英语学习者，欢迎来到英语pod。我今天在这里与您交谈……"
+    },
+    {
+        "start": 4.64,
+        "end": 5.64,
+        "english": "Erica!",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以提供一些关于如何将中文翻译成其他语言的建议："
+    },
+    {
+        "start": 5.64,
+        "end": 7.2,
+        "english": "And my name is Marco.",
+        "chinese": "我的名字是马科。"
+    },
+    {
+        "start": 7.2,
+        "end": 9.4,
+        "english": "And we're going to be looking at an office lesson today.",
+        "chinese": "今天，我们将要学习一个办公室课程。"
+    },
+    {
+        "start": 9.4,
+        "end": 15.040000000000001,
+        "english": "That's right. We've got a lesson about describing somebody who's not such a good employee.",
+        "chinese": "正确。我们有关于描述一个不称职员工的课程。"
+    },
+    {
+        "start": 15.040000000000001,
+        "end": 19.64,
+        "english": "Right. So we're going to be talking about how to describe this type of situation...",
+        "chinese": "正确。我们将讨论如何描述这种类型的情况..."
+    },
+    {
+        "start": 19.64,
+        "end": 19.84,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 19.84,
+        "end": 22.400000000000002,
+        "english": "...and a language for making your point.",
+        "chinese": "... 一个语言，用于表达你的观点。"
+    },
+    {
+        "start": 22.400000000000002,
+        "end": 23.240000000000002,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 23.240000000000002,
+        "end": 27.8,
+        "english": "So let's look at some vocabulary from the dialogue in vocabulary preview.",
+        "chinese": "所以，让我们看看对话中的词汇。"
+    },
+    {
+        "start": 27.8,
+        "end": 29.8,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 29.96,
+        "end": 32.84,
+        "english": "So two words today. The first one is...",
+        "chinese": "所以今天有两个字。第一个是..."
+    },
+    {
+        "start": 32.84,
+        "end": 34.36,
+        "english": "A good fit.",
+        "chinese": "一个合适的匹配。"
+    },
+    {
+        "start": 34.36,
+        "end": 35.480000000000004,
+        "english": "A good fit.",
+        "chinese": "一个合适的匹配。"
+    },
+    {
+        "start": 35.480000000000004,
+        "end": 36.96,
+        "english": "A good fit.",
+        "chinese": "一个合适的匹配。"
+    },
+    {
+        "start": 36.96,
+        "end": 38.760000000000005,
+        "english": "A good fit.",
+        "chinese": "一个合适的搭配。"
+    },
+    {
+        "start": 38.760000000000005,
+        "end": 43.44,
+        "english": "So when we're talking about an employee and he's a good fit, it means he's suitable for the job.",
+        "chinese": "所以当我们谈论一个员工和他适合的工作时，这意味着他适合这个工作。"
+    },
+    {
+        "start": 43.44,
+        "end": 46.36,
+        "english": "Yes. He's suitable for the job or for the company.",
+        "chinese": "是的。他适合这个工作，或者适合这家公司。"
+    },
+    {
+        "start": 46.36,
+        "end": 47.96,
+        "english": "Or for the company, right?",
+        "chinese": "或者对这个公司来说，是的。"
+    },
+    {
+        "start": 47.96,
+        "end": 50.56,
+        "english": "So the opposite would be not a good fit.",
+        "chinese": "所以，反而是不合适。"
+    },
+    {
+        "start": 50.56,
+        "end": 52.8,
+        "english": "Exactly. The title of today's lesson.",
+        "chinese": "是的。今天这堂课的主题。"
+    },
+    {
+        "start": 52.8,
+        "end": 53.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 53.8,
+        "end": 57.040000000000006,
+        "english": "And our last word for vocabulary preview...",
+        "chinese": "我们的最后一句话是："
+    },
+    {
+        "start": 57.040000000000006,
+        "end": 58.2,
+        "english": "Performance.",
+        "chinese": "性能。"
+    },
+    {
+        "start": 58.2,
+        "end": 59.36,
+        "english": "Performance.",
+        "chinese": "性能。"
+    },
+    {
+        "start": 59.36,
+        "end": 60.36,
+        "english": "Performance.",
+        "chinese": "性能。"
+    },
+    {
+        "start": 60.36,
+        "end": 61.68,
+        "english": "Performance.",
+        "chinese": "性能。"
+    },
+    {
+        "start": 61.68,
+        "end": 63.08,
+        "english": "Your performance is...",
+        "chinese": "您的表现是..."
+    },
+    {
+        "start": 63.08,
+        "end": 65.8,
+        "english": "How good or bad do you do your job?",
+        "chinese": "如何好或不好做你的工作？"
+    },
+    {
+        "start": 65.8,
+        "end": 68.76,
+        "english": "Right. So you can have good performance or bad performance.",
+        "chinese": "正确。你可以有好的表现，也可以有不好的表现。"
+    },
+    {
+        "start": 68.76,
+        "end": 70.84,
+        "english": "Mm-hmm. Just how well you do your job.",
+        "chinese": "嗯，嗯。你做得怎么样？"
+    },
+    {
+        "start": 70.84,
+        "end": 71.68,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 71.68,
+        "end": 74.76,
+        "english": "So now we're ready to listen to our dialogue for the first time.",
+        "chinese": "所以现在我们已经准备好听取我们的对话第一次。"
+    },
+    {
+        "start": 74.76,
+        "end": 79.32,
+        "english": "And as always, it's going to be at a normal speed, but you don't have to worry about it.",
+        "chinese": "而且总是如此，它将按正常速度运行，但你不必担心。"
+    },
+    {
+        "start": 79.32,
+        "end": 82.32,
+        "english": "Because we'll come back and explain all the key language.",
+        "chinese": "因为我们将回来并详细解释所有关键语言。"
+    },
+    {
+        "start": 82.32,
+        "end": 88.12,
+        "english": "Now we're going to listen as two managers discuss the performance of one employee.",
+        "chinese": "现在我们将听取两位经理就一位员工的绩效进行讨论。"
+    },
+    {
+        "start": 89.36,
+        "end": 100.28,
+        "english": "So, Lauren, I just wanted to talk to you quickly about our new customer support representative,",
+        "chinese": "所以，露西，我今天想跟你说一下我们新客户支持代表的事情。"
+    },
+    {
+        "start": 100.28,
+        "end": 101.28,
+        "english": "Jason Hundley.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 101.28,
+        "end": 103.08,
+        "english": "Sure. What's up?",
+        "chinese": "是的。有什么事吗？"
+    },
+    {
+        "start": 103.08,
+        "end": 106.03999999999999,
+        "english": "Basically, I've got a few concerns about him.",
+        "chinese": "基本来说，我对这个人有一些疑虑。"
+    },
+    {
+        "start": 106.03999999999999,
+        "end": 109.44,
+        "english": "And the bottom line is, I don't think he's a good fit for our company.",
+        "chinese": "和这个结论相吻合的是，我认为他不适合我们的公司。"
+    },
+    {
+        "start": 109.44,
+        "end": 111.96000000000001,
+        "english": "Okay. What makes you say that?",
+        "chinese": "好的。你说什么？"
+    },
+    {
+        "start": 111.96000000000001,
+        "end": 115.03999999999999,
+        "english": "I thought you were pleased with his overall performance.",
+        "chinese": "我猜想你对他整体表现满意。"
+    },
+    {
+        "start": 115.03999999999999,
+        "end": 118.8,
+        "english": "Didn't you just tell me last week how impressed you were with his attitude?",
+        "chinese": "上星期你刚刚告诉我，你怎么这么欣赏他的态度？"
+    },
+    {
+        "start": 118.8,
+        "end": 123.24,
+        "english": "Yeah, his attitude is great, but he's really unreliable.",
+        "chinese": "是的，他的态度很好，但他真的很不靠谱。"
+    },
+    {
+        "start": 123.24,
+        "end": 127.72,
+        "english": "Sometimes he's really productive, but then other times, take last Tuesday, for instance,",
+        "chinese": "有时他真的很高效，但有时候，就在这次例假的最后一天了，比如。"
+    },
+    {
+        "start": 127.72,
+        "end": 130.8,
+        "english": "he was 45 minutes late for our morning meeting.",
+        "chinese": "他是我们上午会议的45分钟迟到。"
+    },
+    {
+        "start": 130.8,
+        "end": 133.35999999999999,
+        "english": "Well, I'm sure he had a perfectly good reason.",
+        "chinese": "嗯，我相信他有完全正当的理由。"
+    },
+    {
+        "start": 133.35999999999999,
+        "end": 134.84,
+        "english": "But that's not the only thing.",
+        "chinese": "但是这只是其中的一个方面。"
+    },
+    {
+        "start": 134.84,
+        "end": 138.35999999999999,
+        "english": "You know, he really doesn't have the best work ethic.",
+        "chinese": "您知道，他真的没有最好的工作态度。"
+    },
+    {
+        "start": 138.35999999999999,
+        "end": 143.36,
+        "english": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+        "chinese": "我不断地在MSN和Facebook上抓着他，当他在与客户交谈的时候。"
+    },
+    {
+        "start": 143.36,
+        "end": 145.48,
+        "english": "Yeah, but come on, Jeff.",
+        "chinese": "是的，但请允许我。杰夫。"
+    },
+    {
+        "start": 145.48,
+        "end": 148.12,
+        "english": "As if you don't check Facebook at work, look.",
+        "chinese": "如果你在工作中不检查Facebook，那就看看。"
+    },
+    {
+        "start": 148.12,
+        "end": 149.12,
+        "english": "You hired this guy.",
+        "chinese": "您雇佣了这个家伙。"
+    },
+    {
+        "start": 149.12,
+        "end": 152.36,
+        "english": "We've invested a lot of time and money in his training.",
+        "chinese": "我们投入了很多时间和金钱来训练他。"
+    },
+    {
+        "start": 152.36,
+        "end": 154.24,
+        "english": "So now it's up to you to coach him.",
+        "chinese": "所以现在就由你来教他。"
+    },
+    {
+        "start": 154.24,
+        "end": 155.4,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 155.4,
+        "end": 160.76,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 160.76,
+        "end": 161.76,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 161.76,
+        "end": 163.28,
+        "english": "You would say that, wouldn't you?",
+        "chinese": "您说，不会吧？"
+    },
+    {
+        "start": 163.28,
+        "end": 165.28,
+        "english": "He is your cousin, my jerk.",
+        "chinese": "他是你的堂兄弟，我的小气鬼。"
+    },
+    {
+        "start": 165.28,
+        "end": 169.88,
+        "english": "Make me hire you stupid useless cousin.",
+        "chinese": "请让我雇佣你这个愚蠢的无用兄弟。"
+    },
+    {
+        "start": 169.88,
+        "end": 173.24,
+        "english": "So apparently Lauren hired her cousin.",
+        "chinese": "所以看来露西雇佣了她的表妹。"
+    },
+    {
+        "start": 173.24,
+        "end": 174.24,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 174.24,
+        "end": 176.96,
+        "english": "That's always a complicated situation working with family members.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 176.96,
+        "end": 179.68,
+        "english": "Yeah, it makes it really difficult for Jeff, doesn't it?",
+        "chinese": "是的，这确实很难让杰夫做。"
+    },
+    {
+        "start": 179.68,
+        "end": 182.84,
+        "english": "Yeah, and apparently Jeff isn't very happy.",
+        "chinese": "是的，实际上杰夫并不太开心。"
+    },
+    {
+        "start": 182.84,
+        "end": 190.24,
+        "english": "Well, let's look at the language he used to tell us that he's unhappy about this.",
+        "chinese": "嗯，让我们看看他用的语言告诉我们他对此感到不满。"
+    },
+    {
+        "start": 190.24,
+        "end": 191.44,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 191.44,
+        "end": 196.44,
+        "english": "Okay, the first word on language takeaway today, unreliable.",
+        "chinese": "好的，今天语言取向的开头单词是不可靠的。"
+    },
+    {
+        "start": 196.44,
+        "end": 197.88,
+        "english": "Unreliable.",
+        "chinese": "不可靠。"
+    },
+    {
+        "start": 197.88,
+        "end": 198.88,
+        "english": "Unreliable.",
+        "chinese": "不可靠。"
+    },
+    {
+        "start": 198.88,
+        "end": 200.72,
+        "english": "Unreliable.",
+        "chinese": "不可靠。"
+    },
+    {
+        "start": 200.72,
+        "end": 206.88,
+        "english": "So let's listen to some examples of unreliable so then you can understand what it means.",
+        "chinese": "所以，让我们听听一些不靠谱的例子。那么你就能明白它意味着什么了。"
+    },
+    {
+        "start": 206.88,
+        "end": 210.4,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 210.4,
+        "end": 212.84,
+        "english": "The trains here are so unreliable.",
+        "chinese": "这里的列车非常不靠谱。"
+    },
+    {
+        "start": 212.84,
+        "end": 217.32,
+        "english": "They never arrive on time.",
+        "chinese": "他们从不按时到达。"
+    },
+    {
+        "start": 217.32,
+        "end": 221.12,
+        "english": "Example two.",
+        "chinese": "翻译成中文是：示例二。"
+    },
+    {
+        "start": 221.12,
+        "end": 223.28,
+        "english": "Thomas is pretty unreliable.",
+        "chinese": "汤姆很不靠谱。"
+    },
+    {
+        "start": 223.28,
+        "end": 230.0,
+        "english": "He never finishes his project on time.",
+        "chinese": "他从不按时完成他的项目。"
+    },
+    {
+        "start": 230.0,
+        "end": 233.8,
+        "english": "Example three.",
+        "chinese": "翻译结果如下："
+    },
+    {
+        "start": 233.8,
+        "end": 236.28,
+        "english": "You promised you would pick me up from work today.",
+        "chinese": "您昨天承诺会接我下班。"
+    },
+    {
+        "start": 236.28,
+        "end": 240.2,
+        "english": "So unreliable.",
+        "chinese": "所以不靠谱。"
+    },
+    {
+        "start": 240.2,
+        "end": 245.8,
+        "english": "We can understand that if someone is unreliable, we can't trust them to do their job, right?",
+        "chinese": "我们可以说，如果一个人不可靠，我们就不能信任他们去做工作。"
+    },
+    {
+        "start": 245.8,
+        "end": 246.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 246.8,
+        "end": 248.8,
+        "english": "So you don't want to be unreliable.",
+        "chinese": "所以你不想不守信。"
+    },
+    {
+        "start": 248.8,
+        "end": 251.2,
+        "english": "The opposite would be reliable.",
+        "chinese": "反而是可靠的。"
+    },
+    {
+        "start": 251.2,
+        "end": 252.4,
+        "english": "You can trust them.",
+        "chinese": "你可以信任他们。"
+    },
+    {
+        "start": 252.4,
+        "end": 253.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 253.4,
+        "end": 255.64,
+        "english": "Our second word today, productive.",
+        "chinese": "今天我们的第二个字是“有产的”。"
+    },
+    {
+        "start": 255.64,
+        "end": 256.64,
+        "english": "Productive.",
+        "chinese": "产品力。"
+    },
+    {
+        "start": 256.64,
+        "end": 257.64,
+        "english": "Productive.",
+        "chinese": "有生产力的"
+    },
+    {
+        "start": 257.64,
+        "end": 258.64,
+        "english": "Productive.",
+        "chinese": "产品力。"
+    },
+    {
+        "start": 258.64,
+        "end": 262.12,
+        "english": "When you're productive, it means that you accomplish your job, right?",
+        "chinese": "当你高效时，这意味着你完成了你的工作。"
+    },
+    {
+        "start": 262.12,
+        "end": 265.36,
+        "english": "You do a lot of work in a short amount of time.",
+        "chinese": "您在短时间内做了一定的工作。"
+    },
+    {
+        "start": 266.36,
+        "end": 268.76,
+        "english": "You want to be a productive employee.",
+        "chinese": "您希望成为一个高效的员工。"
+    },
+    {
+        "start": 268.76,
+        "end": 269.76,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 269.76,
+        "end": 271.72,
+        "english": "Our third word, work ethic.",
+        "chinese": "我们的第三句话，工作态度。"
+    },
+    {
+        "start": 271.72,
+        "end": 273.2,
+        "english": "Work ethic.",
+        "chinese": "工作态度。"
+    },
+    {
+        "start": 273.2,
+        "end": 274.36,
+        "english": "Work ethic.",
+        "chinese": "工作态度。"
+    },
+    {
+        "start": 274.36,
+        "end": 275.36,
+        "english": "Work ethic.",
+        "chinese": "职业道德"
+    },
+    {
+        "start": 275.36,
+        "end": 279.6,
+        "english": "So a person's work ethic is that person's attitude towards work.",
+        "chinese": "所以一个人的工作态度就是这个人对待工作的态度。"
+    },
+    {
+        "start": 279.6,
+        "end": 280.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 280.6,
+        "end": 285.04,
+        "english": "If someone has a good work ethic, then they are always hardworking and they come to work early",
+        "chinese": "如果某人有良好的工作态度，那么他们总是勤奋的，并且经常早到上班。"
+    },
+    {
+        "start": 285.04,
+        "end": 288.92,
+        "english": "and they finish their jobs on time and they stay and do lots of overtime.",
+        "chinese": "他们按时完成任务，而且在空闲时间里也做很多额外的工作。"
+    },
+    {
+        "start": 288.92,
+        "end": 290.84000000000003,
+        "english": "So that's a good work ethic.",
+        "chinese": "所以这就是良好的工作态度。"
+    },
+    {
+        "start": 291.84,
+        "end": 292.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 292.84,
+        "end": 293.84,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 293.84,
+        "end": 295.32,
+        "english": "And our last word.",
+        "chinese": "我们的最后一句话。"
+    },
+    {
+        "start": 295.32,
+        "end": 296.32,
+        "english": "Coach.",
+        "chinese": "教练"
+    },
+    {
+        "start": 296.32,
+        "end": 297.32,
+        "english": "Coach.",
+        "chinese": "教练"
+    },
+    {
+        "start": 297.32,
+        "end": 298.32,
+        "english": "Coach.",
+        "chinese": "教练"
+    },
+    {
+        "start": 298.32,
+        "end": 299.32,
+        "english": "Coach.",
+        "chinese": "教练"
+    },
+    {
+        "start": 299.32,
+        "end": 301.91999999999996,
+        "english": "When you coach an employee, you train them, right?",
+        "chinese": "当您培训员工时，您在教他们。"
+    },
+    {
+        "start": 301.91999999999996,
+        "end": 302.91999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 302.91999999999996,
+        "end": 307.84,
+        "english": "You help that employee out by showing him or her how to do certain tasks.",
+        "chinese": "您帮助这个员工展示他或她如何完成某些任务。"
+    },
+    {
+        "start": 307.84,
+        "end": 309.35999999999996,
+        "english": "Or how to do their job better.",
+        "chinese": "或者如何做得更好。"
+    },
+    {
+        "start": 309.35999999999996,
+        "end": 310.35999999999996,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 310.35999999999996,
+        "end": 314.64,
+        "english": "So we've got some great language to describe work performance.",
+        "chinese": "所以我们有描述工作表现的优秀语言。"
+    },
+    {
+        "start": 314.64,
+        "end": 317.67999999999995,
+        "english": "Let's listen to our dialogue a second time.",
+        "chinese": "让我们再次听我们的对话。"
+    },
+    {
+        "start": 317.68,
+        "end": 321.08,
+        "english": "This time it'll be a little bit slower so you can understand these words and phrases",
+        "chinese": "在这个时候，可能会稍微慢一些，这样你可以理解这些词汇和短语。"
+    },
+    {
+        "start": 321.08,
+        "end": 322.76,
+        "english": "a little bit more clearly.",
+        "chinese": "稍微更清楚一点。"
+    },
+    {
+        "start": 322.76,
+        "end": 335.72,
+        "english": "So Lauren, I just wanted to talk to you quickly about our new customer support representative,",
+        "chinese": "所以露恩，我刚刚想和你简单谈谈我们新客户支持代表的事情。"
+    },
+    {
+        "start": 335.72,
+        "end": 336.72,
+        "english": "Jason Huntley.",
+        "chinese": "Jason Huntley (音译) 是来自美国的演员，以其在《权力的游戏》系列电影中的表演而闻名。如果您需要关于他的更多信息，请告诉我！"
+    },
+    {
+        "start": 336.72,
+        "end": 337.72,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 337.72,
+        "end": 339.72,
+        "english": "What's up?",
+        "chinese": "What's up? 翻译成中文是：“你好吗？”"
+    },
+    {
+        "start": 339.72,
+        "end": 343.92,
+        "english": "Basically, I've got a few concerns about him.",
+        "chinese": "基本来说，我对这个人有一些疑虑。"
+    },
+    {
+        "start": 343.92,
+        "end": 349.16,
+        "english": "The bottom line is I don't think he's a good fit for our company.",
+        "chinese": "底部的话，我认为他不适合我们的公司。"
+    },
+    {
+        "start": 349.16,
+        "end": 350.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 350.56,
+        "end": 352.24,
+        "english": "What makes you say that?",
+        "chinese": "这句话的中文翻译是:"
+    },
+    {
+        "start": 352.24,
+        "end": 356.44,
+        "english": "I thought you were pleased with his overall performance.",
+        "chinese": "我猜想你对他整体表现满意。"
+    },
+    {
+        "start": 356.44,
+        "end": 360.96000000000004,
+        "english": "Didn't you just tell me last week how impressed you were with his attitude?",
+        "chinese": "上星期你刚刚告诉我，你怎么这么欣赏他的态度？"
+    },
+    {
+        "start": 360.96000000000004,
+        "end": 361.96000000000004,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 361.96000000000004,
+        "end": 364.36,
+        "english": "His attitude is great.",
+        "chinese": "他的态度很好。"
+    },
+    {
+        "start": 364.36,
+        "end": 367.0,
+        "english": "But he's really unreliable.",
+        "chinese": "但是，他真的很不靠谱。"
+    },
+    {
+        "start": 367.0,
+        "end": 369.84000000000003,
+        "english": "Sometimes he's really productive.",
+        "chinese": "有时他真的很高效。"
+    },
+    {
+        "start": 369.84,
+        "end": 376.64,
+        "english": "But then other times, take last Tuesday, for instance, he was 45 minutes late for our",
+        "chinese": "但是，然后在例假的另一段时间，比如上个月的2号，他比我们早了45分钟。"
+    },
+    {
+        "start": 376.64,
+        "end": 378.11999999999995,
+        "english": "morning meeting.",
+        "chinese": "早上会议。"
+    },
+    {
+        "start": 378.11999999999995,
+        "end": 382.15999999999997,
+        "english": "Well, I'm sure he had a perfectly good reason.",
+        "chinese": "嗯，我相信他有完全正当的理由。"
+    },
+    {
+        "start": 382.15999999999997,
+        "end": 384.32,
+        "english": "But that's not the only thing.",
+        "chinese": "但是这只是其中的一个方面。"
+    },
+    {
+        "start": 384.32,
+        "end": 387.96,
+        "english": "You know, he really doesn't have the best work ethic.",
+        "chinese": "我知道，他真的没有最好的工作态度。"
+    },
+    {
+        "start": 387.96,
+        "end": 394.64,
+        "english": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+        "chinese": "我不断地在MSN和Facebook上抓取他，当他在与客户交谈时。"
+    },
+    {
+        "start": 394.64,
+        "end": 395.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 395.64,
+        "end": 400.76,
+        "english": "But come on, Jeff, as if you don't check Facebook at work.",
+        "chinese": "但是杰夫，如果你不检查工作上的Facebook，请相信我。"
+    },
+    {
+        "start": 400.76,
+        "end": 403.44,
+        "english": "Look, you hired this guy.",
+        "chinese": "请看，你雇用了这个家伙。"
+    },
+    {
+        "start": 403.44,
+        "end": 407.44,
+        "english": "We've invested a lot of time and money in his training.",
+        "chinese": "我们投入了很多时间和金钱来训练他。"
+    },
+    {
+        "start": 407.44,
+        "end": 411.24,
+        "english": "So now it's up to you to coach him.",
+        "chinese": "所以现在就由你来教他。"
+    },
+    {
+        "start": 411.24,
+        "end": 413.36,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 413.36,
+        "end": 415.15999999999997,
+        "english": "You would say that, wouldn't you?",
+        "chinese": "您说，不会吧？"
+    },
+    {
+        "start": 415.15999999999997,
+        "end": 416.64,
+        "english": "He is your cousin.",
+        "chinese": "他是你的堂兄弟。"
+    },
+    {
+        "start": 416.64,
+        "end": 418.0,
+        "english": "What a jerk.",
+        "chinese": "这句话的中文翻译是：“一个废物。”"
+    },
+    {
+        "start": 418.0,
+        "end": 421.12,
+        "english": "Make me hire your stupid useless cousin.",
+        "chinese": "请让我雇佣你的愚蠢无用的侄子。"
+    },
+    {
+        "start": 422.12,
+        "end": 423.52,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 423.52,
+        "end": 426.96,
+        "english": "So if you noticed a lot of useful phrases have come up.",
+        "chinese": "所以如果你注意到很多有用短语。"
+    },
+    {
+        "start": 426.96,
+        "end": 430.24,
+        "english": "So let's take a look at Fluency Builder.",
+        "chinese": "所以，让我们来看看流畅 builder。"
+    },
+    {
+        "start": 430.24,
+        "end": 431.24,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 431.24,
+        "end": 433.68,
+        "english": "Fluency Builder today we have three phrases.",
+        "chinese": "今天，我们有三个短语。"
+    },
+    {
+        "start": 433.68,
+        "end": 434.68,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 434.68,
+        "end": 437.44,
+        "english": "Three phrases that will help us make our point better.",
+        "chinese": "三句话将有助于我们更好地表达我们的观点。"
+    },
+    {
+        "start": 437.44,
+        "end": 439.8,
+        "english": "The first one is bottom line.",
+        "chinese": "第一是底线。"
+    },
+    {
+        "start": 439.8,
+        "end": 441.0,
+        "english": "The bottom line.",
+        "chinese": "底部。"
+    },
+    {
+        "start": 441.0,
+        "end": 442.68,
+        "english": "The bottom line.",
+        "chinese": "底部。"
+    },
+    {
+        "start": 442.68,
+        "end": 445.68,
+        "english": "Let's listen to how this was used in the dialogue.",
+        "chinese": "让我们听听这个是如何在对话中使用的。"
+    },
+    {
+        "start": 445.68,
+        "end": 453.24,
+        "english": "The bottom line is I don't think he's a good fit for our company.",
+        "chinese": "底部的话，我认为他不适合我们的公司。"
+    },
+    {
+        "start": 453.24,
+        "end": 458.96000000000004,
+        "english": "And the bottom line is I don't think he's a good fit for our company.",
+        "chinese": "和这个结论相吻合的是，我认为他不适合我们的公司。"
+    },
+    {
+        "start": 458.96000000000004,
+        "end": 461.8,
+        "english": "So basically it means like the most important points.",
+        "chinese": "所以基本上就是说，像最重要的点。"
+    },
+    {
+        "start": 461.8,
+        "end": 462.8,
+        "english": "The most important point.",
+        "chinese": "这个最重要的点。"
+    },
+    {
+        "start": 462.8,
+        "end": 463.8,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 463.8,
+        "end": 465.44,
+        "english": "The bottom line.",
+        "chinese": "底部。"
+    },
+    {
+        "start": 465.44,
+        "end": 466.68,
+        "english": "Our second word.",
+        "chinese": "我们的第二个字。"
+    },
+    {
+        "start": 466.68,
+        "end": 467.68,
+        "english": "Overall.",
+        "chinese": "整体。"
+    },
+    {
+        "start": 467.68,
+        "end": 468.68,
+        "english": "Overall.",
+        "chinese": "整体。"
+    },
+    {
+        "start": 468.68,
+        "end": 469.68,
+        "english": "Overall.",
+        "chinese": "整体。"
+    },
+    {
+        "start": 469.68,
+        "end": 470.68,
+        "english": "Overall.",
+        "chinese": "整体。"
+    },
+    {
+        "start": 470.68,
+        "end": 473.48,
+        "english": "So this is the same as saying on the whole.",
+        "chinese": "所以，这与整体一样。"
+    },
+    {
+        "start": 473.48,
+        "end": 474.48,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 474.48,
+        "end": 476.04,
+        "english": "The big picture how you would say.",
+        "chinese": "大格局，你如何说。"
+    },
+    {
+        "start": 476.04,
+        "end": 477.04,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 477.04,
+        "end": 478.04,
+        "english": "In general.",
+        "chinese": "在一般情况下。"
+    },
+    {
+        "start": 478.04,
+        "end": 479.04,
+        "english": "In general.",
+        "chinese": "在一般情况下。"
+    },
+    {
+        "start": 479.04,
+        "end": 480.04,
+        "english": "So his overall performance is good.",
+        "chinese": "所以他的整体表现很好。"
+    },
+    {
+        "start": 480.04,
+        "end": 481.84000000000003,
+        "english": "It means in general.",
+        "chinese": "在一般意义上来说。"
+    },
+    {
+        "start": 481.84000000000003,
+        "end": 483.28000000000003,
+        "english": "His performance is good.",
+        "chinese": "他的表现很好。"
+    },
+    {
+        "start": 483.28000000000003,
+        "end": 484.28000000000003,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 484.28000000000003,
+        "end": 487.88,
+        "english": "And our last phrase is very interesting because we can mix it up a little bit.",
+        "chinese": "我们的最后一个句子很有趣，因为我们能稍微混合一下。"
+    },
+    {
+        "start": 487.88,
+        "end": 488.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 488.88,
+        "end": 489.88,
+        "english": "Perfectly good.",
+        "chinese": "完美无缺。"
+    },
+    {
+        "start": 489.88,
+        "end": 491.28000000000003,
+        "english": "Perfectly good.",
+        "chinese": "完美无缺。"
+    },
+    {
+        "start": 491.28000000000003,
+        "end": 492.28000000000003,
+        "english": "Perfectly good.",
+        "chinese": "完美无缺。"
+    },
+    {
+        "start": 492.28000000000003,
+        "end": 494.08000000000004,
+        "english": "Perfectly good.",
+        "chinese": "完美无缺。"
+    },
+    {
+        "start": 494.08000000000004,
+        "end": 498.6,
+        "english": "So this is an interesting phrase because you can describe different objects in this way.",
+        "chinese": "所以这个短语很有趣，因为你可以用这种方式描述不同的对象。"
+    },
+    {
+        "start": 498.6,
+        "end": 499.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 499.6,
+        "end": 501.20000000000005,
+        "english": "A perfectly good reason.",
+        "chinese": "一个完美的理由。"
+    },
+    {
+        "start": 501.20000000000005,
+        "end": 503.08000000000004,
+        "english": "A perfectly good car.",
+        "chinese": "一个完全好的汽车。"
+    },
+    {
+        "start": 503.08,
+        "end": 504.71999999999997,
+        "english": "A perfectly good computer.",
+        "chinese": "一个完全合格的电脑。"
+    },
+    {
+        "start": 504.71999999999997,
+        "end": 507.2,
+        "english": "So by the sounds of it, it's kind of like justifying.",
+        "chinese": "所以从听上去，它就有点像在为自己的行为辩护。"
+    },
+    {
+        "start": 507.2,
+        "end": 508.2,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 508.2,
+        "end": 509.68,
+        "english": "It's saying there's no problem with it.",
+        "chinese": "这句话是说没有问题。"
+    },
+    {
+        "start": 509.68,
+        "end": 510.68,
+        "english": "There's no problem with it.",
+        "chinese": "没有问题。"
+    },
+    {
+        "start": 510.68,
+        "end": 514.04,
+        "english": "Why would you throw it away if it's a perfectly good computer?",
+        "chinese": "为什么你把坏的电脑扔掉，如果它是一个完美的计算机？"
+    },
+    {
+        "start": 514.04,
+        "end": 515.04,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 515.04,
+        "end": 516.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 516.04,
+        "end": 517.04,
+        "english": "Perfectly good.",
+        "chinese": "完美无缺。"
+    },
+    {
+        "start": 517.04,
+        "end": 518.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 518.04,
+        "end": 521.6,
+        "english": "So now we can listen to our dialogue a third time at a normal speed.",
+        "chinese": "所以现在我们可以在正常速度下再次聆听我们的对话。"
+    },
+    {
+        "start": 521.6,
+        "end": 523.4399999999999,
+        "english": "And now we're ready to understand everything.",
+        "chinese": "现在我们已经准备好理解一切。"
+    },
+    {
+        "start": 533.08,
+        "end": 538.1600000000001,
+        "english": "So Lauren, I just wanted to talk to you quickly about our new customer support representative",
+        "chinese": "所以露恩，我刚刚想和你谈谈我们新客户支持代表。"
+    },
+    {
+        "start": 538.1600000000001,
+        "end": 539.1600000000001,
+        "english": "Jason Huddly.",
+        "chinese": "杰森·哈德利。"
+    },
+    {
+        "start": 539.1600000000001,
+        "end": 540.1600000000001,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 540.1600000000001,
+        "end": 541.1600000000001,
+        "english": "What's up?",
+        "chinese": "What's up? 翻译成中文是：“你好吗？”"
+    },
+    {
+        "start": 541.1600000000001,
+        "end": 544.32,
+        "english": "Basically, I've got a few concerns about him.",
+        "chinese": "基本来说，我对这个人有一些疑虑。"
+    },
+    {
+        "start": 544.32,
+        "end": 547.48,
+        "english": "And the bottom line is, I don't think he's a good fit for our company.",
+        "chinese": "和这个结论相吻合的是，我认为他不适合我们的公司。"
+    },
+    {
+        "start": 547.48,
+        "end": 548.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 548.48,
+        "end": 550.0,
+        "english": "What makes you say that?",
+        "chinese": "这句话的中文翻译是：“你为什么这么说？”"
+    },
+    {
+        "start": 550.0,
+        "end": 552.9200000000001,
+        "english": "I thought you were pleased with his overall performance.",
+        "chinese": "我猜想你对他整体表现满意。"
+    },
+    {
+        "start": 552.9200000000001,
+        "end": 556.64,
+        "english": "Didn't you just tell me last week how impressed you were with his attitude?",
+        "chinese": "上星期你刚刚告诉我，他态度如何？"
+    },
+    {
+        "start": 556.64,
+        "end": 557.6400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 557.6400000000001,
+        "end": 561.5200000000001,
+        "english": "His attitude is great, but he's really unreliable.",
+        "chinese": "他的态度很好，但他真的很不靠谱。"
+    },
+    {
+        "start": 561.52,
+        "end": 565.96,
+        "english": "This he's really productive, but then other times take last Tuesday, for instance, he was",
+        "chinese": "这个他真的很高效，但有时是在上周二的其他时候，比如，他昨天是。"
+    },
+    {
+        "start": 565.96,
+        "end": 568.8,
+        "english": "45 minutes late for our morning meeting.",
+        "chinese": "四十五分钟迟到。"
+    },
+    {
+        "start": 568.8,
+        "end": 571.36,
+        "english": "Well, I'm sure he had a perfectly good reason.",
+        "chinese": "嗯，我相信他有完全正当的理由。"
+    },
+    {
+        "start": 571.36,
+        "end": 572.88,
+        "english": "But that's not the only thing.",
+        "chinese": "但是这只是其中的一个方面。"
+    },
+    {
+        "start": 572.88,
+        "end": 576.36,
+        "english": "You know, he really doesn't have the best work ethic.",
+        "chinese": "您知道，他真的没有最好的工作态度。"
+    },
+    {
+        "start": 576.36,
+        "end": 581.04,
+        "english": "I'm constantly catching him on MSN and Facebook when he should be talking to clients.",
+        "chinese": "我不断地在MSN和Facebook上抓着他，当他在与客户交谈的时候。"
+    },
+    {
+        "start": 581.04,
+        "end": 583.52,
+        "english": "Yeah, but come on, Jeff.",
+        "chinese": "是的，但请允许我。杰夫。"
+    },
+    {
+        "start": 583.52,
+        "end": 587.52,
+        "english": "As if you don't check Facebook at work, look, you hired this guy.",
+        "chinese": "如果你在工作中不检查Facebook，那么你雇用了这个家伙。"
+    },
+    {
+        "start": 587.52,
+        "end": 590.36,
+        "english": "We've invested a lot of time and money in his training.",
+        "chinese": "我们投入了很多时间和金钱来训练他。"
+    },
+    {
+        "start": 590.36,
+        "end": 592.24,
+        "english": "So now it's up to you to coach him.",
+        "chinese": "所以现在就由你来教他。"
+    },
+    {
+        "start": 592.24,
+        "end": 593.64,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 593.64,
+        "end": 598.76,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 598.76,
+        "end": 599.84,
+        "english": "Make it work, Jeff.",
+        "chinese": "请把这句话翻译成中文："
+    },
+    {
+        "start": 599.84,
+        "end": 601.36,
+        "english": "You would say that, wouldn't you?",
+        "chinese": "您说，不会吧？"
+    },
+    {
+        "start": 601.36,
+        "end": 603.16,
+        "english": "He is your cousin, your jerk.",
+        "chinese": "他就是你的堂兄弟，你的混蛋。"
+    },
+    {
+        "start": 603.16,
+        "end": 606.36,
+        "english": "Make me highly stupid useless cousin.",
+        "chinese": "请让我变得非常愚蠢的堂弟。"
+    },
+    {
+        "start": 606.36,
+        "end": 612.16,
+        "english": "Okay, I hope everyone enjoyed our lesson today.",
+        "chinese": "好的，我希望今天我们的课程大家都能享受到了。"
+    },
+    {
+        "start": 612.16,
+        "end": 615.48,
+        "english": "We've found some really useful vocabulary for a business situation.",
+        "chinese": "我们找到了一些非常有用的企业用语。"
+    },
+    {
+        "start": 615.48,
+        "end": 616.48,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 616.48,
+        "end": 620.6800000000001,
+        "english": "On our website at EnglishPod.com where you can leave all your questions and comments and",
+        "chinese": "在我们的网站英语pod.com 上，您可以在这里留下所有的问题和评论。"
+    },
+    {
+        "start": 620.6800000000001,
+        "end": 623.08,
+        "english": "also find a lot of other resources.",
+        "chinese": "也找到许多其他资源。"
+    },
+    {
+        "start": 623.08,
+        "end": 624.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 624.08,
+        "end": 627.5600000000001,
+        "english": "Marco and I are always on the site and we're happy to answer your questions.",
+        "chinese": "马科和我总是在线，我们很高兴回答您的问题。"
+    },
+    {
+        "start": 627.5600000000001,
+        "end": 628.5600000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 628.5600000000001,
+        "end": 629.5600000000001,
+        "english": "So until then, it's goodbye.",
+        "chinese": "所以直到那时，就别说了。"
+    }
+]

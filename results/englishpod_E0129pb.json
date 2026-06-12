@@ -1,0 +1,2018 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.28,
+        "english": "Hello English learners, welcome back to EnglishPod.",
+        "chinese": "您好英语学习者，欢迎再次回到英语课程。"
+    },
+    {
+        "start": 6.28,
+        "end": 7.28,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是马科。"
+    },
+    {
+        "start": 7.28,
+        "end": 8.44,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 8.44,
+        "end": 12.68,
+        "english": "And today we're bringing you part two of the Presidential farewell speech of President",
+        "chinese": "今天，我们为您带来第二部分总统就职演讲的全文。"
+    },
+    {
+        "start": 12.68,
+        "end": 13.68,
+        "english": "Eisenhower.",
+        "chinese": "艾森豪威尔。"
+    },
+    {
+        "start": 13.68,
+        "end": 14.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 14.68,
+        "end": 17.36,
+        "english": "So we saw in a previous lesson the beginning of this speech.",
+        "chinese": "所以，在上一节课中，我们看到了这个演讲的开始。"
+    },
+    {
+        "start": 17.36,
+        "end": 19.92,
+        "english": "Now we're going to look towards the end of this speech.",
+        "chinese": "现在我们将转向这个演讲的结尾。"
+    },
+    {
+        "start": 19.92,
+        "end": 23.64,
+        "english": "Now we must tell you as well that we did change the speech a little bit, right?",
+        "chinese": "现在我们也必须告诉你，我们确实改变了语音。"
+    },
+    {
+        "start": 23.64,
+        "end": 26.96,
+        "english": "We changed it a little bit to make it a little bit more comprehensible.",
+        "chinese": "我们稍微调整了一下，让它看起来更易懂。"
+    },
+    {
+        "start": 26.96,
+        "end": 28.64,
+        "english": "And also we did shorten it.",
+        "chinese": "而且我们还缩短了它。"
+    },
+    {
+        "start": 28.64,
+        "end": 30.48,
+        "english": "The speech isn't this short.",
+        "chinese": "这个演讲不是这么短。"
+    },
+    {
+        "start": 30.48,
+        "end": 31.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 31.48,
+        "end": 32.480000000000004,
+        "english": "Take out a lot of stuff.",
+        "chinese": "取出来很多东西。"
+    },
+    {
+        "start": 32.480000000000004,
+        "end": 33.480000000000004,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 33.480000000000004,
+        "end": 36.160000000000004,
+        "english": "So again, Marco, why are we looking at this speech?",
+        "chinese": "所以，马科，我们为什么在看这个演讲？"
+    },
+    {
+        "start": 36.160000000000004,
+        "end": 37.24,
+        "english": "What are we learning from it?",
+        "chinese": "我们从它学到了什么？"
+    },
+    {
+        "start": 37.24,
+        "end": 42.120000000000005,
+        "english": "Well in this last part of the Presidential farewell speech, there are a lot of great words",
+        "chinese": "在这一部分的总统告别演讲中，有很多好词。"
+    },
+    {
+        "start": 42.120000000000005,
+        "end": 44.760000000000005,
+        "english": "that are more difficult and very poetic.",
+        "chinese": "这更难，也更加诗情画意。"
+    },
+    {
+        "start": 44.760000000000005,
+        "end": 49.88,
+        "english": "So you can use them in different formal circumstances or just to sound a little bit more well-spoken.",
+        "chinese": "所以你可以用它们在不同的正式场合使用，或者只是为了稍微显得更流利一些。"
+    },
+    {
+        "start": 49.88,
+        "end": 50.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 50.88,
+        "end": 54.36,
+        "english": "And we also again are going to look at some really quite difficult and challenging structures",
+        "chinese": "而且我们还将再次仔细研究一些相当困难和挑战性的结构。"
+    },
+    {
+        "start": 54.36,
+        "end": 62.12,
+        "english": "that we hope you can use maybe when you're giving a formal talk or even in your writing",
+        "chinese": "我们希望你能在正式演讲或写作时使用。"
+    },
+    {
+        "start": 62.12,
+        "end": 64.16,
+        "english": "if you want to sound quite professional.",
+        "chinese": "如果你想听起来相当专业。"
+    },
+    {
+        "start": 64.16,
+        "end": 65.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 65.16,
+        "end": 66.16,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 66.16,
+        "end": 69.12,
+        "english": "So why don't we listen to the dialogue for the first time?",
+        "chinese": "所以为什么不先听对话呢？"
+    },
+    {
+        "start": 69.12,
+        "end": 72.36,
+        "english": "Let's listen how President Eisenhower says goodbye.",
+        "chinese": "让我们倾听美国总统富兰克林·罗斯福的告别。"
+    },
+    {
+        "start": 72.36,
+        "end": 79.92,
+        "english": "And then we'll come back and look at the words.",
+        "chinese": "然后我们将回来看看这些字。"
+    },
+    {
+        "start": 79.92,
+        "end": 84.24000000000001,
+        "english": "We now stand ten years past the midpoint of a century that has witnessed four major",
+        "chinese": "我们站在一个世纪的中点，已经过去了10年。"
+    },
+    {
+        "start": 84.24000000000001,
+        "end": 86.88,
+        "english": "wars among great nations.",
+        "chinese": "战争中的大国。"
+    },
+    {
+        "start": 86.88,
+        "end": 89.88,
+        "english": "Three of these involved our own country.",
+        "chinese": "这三个人涉及我们的国家。"
+    },
+    {
+        "start": 89.88,
+        "end": 95.36,
+        "english": "Despite the carnage of these conflicts, America is today the strongest, the most influential,",
+        "chinese": "尽管这些冲突的破坏之大，美国今天仍然是最强盛、最有影响力的国家。"
+    },
+    {
+        "start": 95.36,
+        "end": 98.4,
+        "english": "and the most productive nation in the world.",
+        "chinese": "和世界上生产力最高的国家。"
+    },
+    {
+        "start": 98.4,
+        "end": 101.24000000000001,
+        "english": "We are understandably proud of this preeminence.",
+        "chinese": "我们当然感到自豪的是这个领先地位。"
+    },
+    {
+        "start": 101.24000000000001,
+        "end": 106.68,
+        "english": "Yet we realize that America's leadership and prestige depend not merely upon our unmatched",
+        "chinese": "然而，我们意识到美国的领导和声望不仅依赖于我们的无与伦比。"
+    },
+    {
+        "start": 106.68,
+        "end": 112.28,
+        "english": "material progress, riches, and military strength, but on how we use our power in the interests",
+        "chinese": "材料进步、财富和军事力量，但我们在利益上如何使用我们的权力"
+    },
+    {
+        "start": 112.28,
+        "end": 115.12,
+        "english": "of world peace and human betterment.",
+        "chinese": "世界和平与人类福祉。"
+    },
+    {
+        "start": 115.12,
+        "end": 119.44000000000001,
+        "english": "Throughout America's adventure in free government, such basic purposes have been to keep the",
+        "chinese": "美国在自由政府的冒险中，如基础目的一直被保持下来。"
+    },
+    {
+        "start": 119.44000000000001,
+        "end": 126.12,
+        "english": "peace, to foster progress in human achievement, and to enhance liberty, dignity, and integrity",
+        "chinese": "和平，以促进人类成就的进程为宗旨，以增强自由、尊严和独立为目标。"
+    },
+    {
+        "start": 126.12,
+        "end": 129.20000000000002,
+        "english": "among peoples and among nations.",
+        "chinese": "在人和国家之间。"
+    },
+    {
+        "start": 129.20000000000002,
+        "end": 134.64000000000001,
+        "english": "We pray that peoples of all faiths, all races, all nations may have their great human needs",
+        "chinese": "我们祈祷所有信仰、种族、民族的人们都有他们的伟大的人类需要。"
+    },
+    {
+        "start": 134.64,
+        "end": 136.07999999999998,
+        "english": "satisfied.",
+        "chinese": "满意的。"
+    },
+    {
+        "start": 136.07999999999998,
+        "end": 140.64,
+        "english": "That those now denied opportunity shall come to enjoy it to the full.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 140.64,
+        "end": 145.16,
+        "english": "That all who yearn for freedom may experience its spiritual blessings.",
+        "chinese": "这句话可以翻译成中文为：“所有渴望自由的人，都会感受到它的精神福泽。”"
+    },
+    {
+        "start": 145.16,
+        "end": 150.27999999999997,
+        "english": "That those who have freedom will understand also its heavy responsibilities.",
+        "chinese": "这句话可以翻译成中文为：“那些有自由的人也会理解，它也有沉重的责任。”"
+    },
+    {
+        "start": 150.27999999999997,
+        "end": 154.32,
+        "english": "That all who are insensitive to the needs of others will learn charity.",
+        "chinese": "这所有不关心他人需求的人都会学习慈善。"
+    },
+    {
+        "start": 154.32,
+        "end": 158.48,
+        "english": "That the scourges of poverty, disease, and ignorance will be made to disappear from the",
+        "chinese": "那贫困、疾病和愚昧的恶果将要被消除。"
+    },
+    {
+        "start": 158.48,
+        "end": 159.64,
+        "english": "earth.",
+        "chinese": "地球。 (Wáng tè.)"
+    },
+    {
+        "start": 159.64,
+        "end": 164.61999999999998,
+        "english": "And that in the goodness of time, all peoples will come to live together in a peace-guaranteed",
+        "chinese": "而且在时间的善行中，所有的人类都会和平共处，在一个保证了安宁的未来。"
+    },
+    {
+        "start": 164.62,
+        "end": 168.58,
+        "english": "way by the binding force of mutual respect and love.",
+        "chinese": "方法由相互尊重和爱的力量所维系。"
+    },
+    {
+        "start": 168.58,
+        "end": 172.22,
+        "english": "Now on Friday, noon, I am to become a private citizen.",
+        "chinese": "现在，星期五上午，我要成为公民。"
+    },
+    {
+        "start": 172.22,
+        "end": 173.70000000000002,
+        "english": "I am proud to do so.",
+        "chinese": "我非常自豪。"
+    },
+    {
+        "start": 173.70000000000002,
+        "end": 175.42000000000002,
+        "english": "I look forward to it.",
+        "chinese": "我期待它。"
+    },
+    {
+        "start": 175.42000000000002,
+        "end": 177.1,
+        "english": "Thank you and good night.",
+        "chinese": "谢谢，晚安。"
+    },
+    {
+        "start": 177.1,
+        "end": 181.78,
+        "english": "Well, that certainly was a very moving speech.",
+        "chinese": "很好，那确实是非常动人的演讲。"
+    },
+    {
+        "start": 181.78,
+        "end": 186.1,
+        "english": "Very moving and to a certain point a little bit religious, huh?",
+        "chinese": "非常动人的，有一点点宗教的意味。"
+    },
+    {
+        "start": 186.1,
+        "end": 190.54000000000002,
+        "english": "Yeah, I think we'll talk a little bit about that a little bit later, but let's concentrate",
+        "chinese": "是的，我认为我们稍后会谈谈那一点，但让我们集中注意力。"
+    },
+    {
+        "start": 190.54000000000002,
+        "end": 193.62,
+        "english": "on the language now, so we'll go to language takeaway.",
+        "chinese": "现在的语言，所以我们去语言小站。"
+    },
+    {
+        "start": 195.18,
+        "end": 196.62,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 196.62,
+        "end": 204.1,
+        "english": "All right, on language takeaway today, we'll start with our first word and it's pre-eminence.",
+        "chinese": "好的，今天语言小测验的第一句话是“我们今天的第一个单词是‘pre-eminent’。”"
+    },
+    {
+        "start": 204.1,
+        "end": 207.62,
+        "english": "All right, we are understandably proud of this pre-eminence.",
+        "chinese": "正确翻译为中文是："
+    },
+    {
+        "start": 207.62,
+        "end": 209.62,
+        "english": "A pre-eminence.",
+        "chinese": "一个领先地位。"
+    },
+    {
+        "start": 209.62,
+        "end": 212.18,
+        "english": "So pre-eminence, what is this?",
+        "chinese": "所以领先地位，这是什么？"
+    },
+    {
+        "start": 212.18,
+        "end": 215.38,
+        "english": "Basically, it's the state of being the leader of something.",
+        "chinese": "基本来说，就是处于某种状态，即被领导的状态。"
+    },
+    {
+        "start": 215.38,
+        "end": 220.66,
+        "english": "Okay, so in this case, America was the pre-eminant nation.",
+        "chinese": "好的，那么在这种情况下，美国是最大的国家。"
+    },
+    {
+        "start": 220.66,
+        "end": 222.66,
+        "english": "Right, so they were coming up.",
+        "chinese": "正确，他们来了。"
+    },
+    {
+        "start": 222.66,
+        "end": 226.18,
+        "english": "They were very prosperous, so they had a pre-eminence in the world.",
+        "chinese": "他们非常富裕，因此在世界上享有盛誉。"
+    },
+    {
+        "start": 226.18,
+        "end": 231.62,
+        "english": "All right, so I think we can see here you can use this as an adjective, a pre-eminant",
+        "chinese": "好的，那么我认为我们可以看到这里你可以用这个作为形容词、一个显著的"
+    },
+    {
+        "start": 231.62,
+        "end": 237.01999999999998,
+        "english": "nation, or as a noun, an uncountable noun, the pre-eminence of our state.",
+        "chinese": "国家，或者作为名词使用，一个不可数名词，我们国家的优先地位。"
+    },
+    {
+        "start": 237.01999999999998,
+        "end": 238.18,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 238.18,
+        "end": 242.62,
+        "english": "Since we can use this word as a noun and an adjective, why don't we listen to some more",
+        "chinese": "根据我们能用这个词作为名词和形容词，为什么不多听一些呢？"
+    },
+    {
+        "start": 242.62,
+        "end": 246.9,
+        "english": "example so we can get a better understanding of it?",
+        "chinese": "例子，所以我们能更好地理解它？"
+    },
+    {
+        "start": 246.9,
+        "end": 249.9,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 249.9,
+        "end": 256.74,
+        "english": "Now please welcome Dr. Frank Hicks, the world's most pre-eminant expert on nuclear biology.",
+        "chinese": "请允许我欢迎弗兰克·霍克斯，世界核生物学领域的最杰出专家。"
+    },
+    {
+        "start": 256.74,
+        "end": 259.46,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 259.46,
+        "end": 266.54,
+        "english": "He's been a leader in his field for 25 years and his pre-eminence has never been questioned.",
+        "chinese": "他是他在领域内一直保持领导地位的领导者，他的领先地位从未被质疑。"
+    },
+    {
+        "start": 266.54,
+        "end": 269.06,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 269.06,
+        "end": 273.94,
+        "english": "Carol Dixon is one of the most pre-eminant experts in green technology.",
+        "chinese": "卡罗琳·德里克是绿色技术领域的最杰出专家之一。"
+    },
+    {
+        "start": 273.94,
+        "end": 278.98,
+        "english": "All right, well, Eisenhower is talking about all of the things that the American people",
+        "chinese": "好的，嗯，伊登森正在谈论美国人民关心的各个方面。"
+    },
+    {
+        "start": 278.98,
+        "end": 284.22,
+        "english": "had done since they became a free nation and one of these things was to foster progress",
+        "chinese": "自从他们成为自由国家以来，有一件事是：要促进进步。"
+    },
+    {
+        "start": 284.22,
+        "end": 286.62,
+        "english": "in human achievement.",
+        "chinese": "在人类的成就。"
+    },
+    {
+        "start": 286.62,
+        "end": 288.70000000000005,
+        "english": "Foster progress in human achievement.",
+        "chinese": "培养人类的成就。"
+    },
+    {
+        "start": 288.70000000000005,
+        "end": 291.90000000000003,
+        "english": "Well, I like this verb a lot to foster something.",
+        "chinese": "很好，我喜欢这个动词来培养一些东西。"
+    },
+    {
+        "start": 291.90000000000003,
+        "end": 296.98,
+        "english": "So if I say to foster progress or to foster something, what am I saying?",
+        "chinese": "所以，如果我说要促进进步或要促进什么，我是说什么？"
+    },
+    {
+        "start": 296.98,
+        "end": 299.1,
+        "english": "To help something grow and develop.",
+        "chinese": "帮助某物成长和发展。"
+    },
+    {
+        "start": 299.1,
+        "end": 301.18,
+        "english": "To take care of it, to nurse it.",
+        "chinese": "要照顾它，要呵护它。"
+    },
+    {
+        "start": 301.18,
+        "end": 305.54,
+        "english": "Yeah, we very commonly hear this word associated with children, right?",
+        "chinese": "是的，我们经常听到这个词与儿童有关。"
+    },
+    {
+        "start": 305.54,
+        "end": 306.78000000000003,
+        "english": "Oh, a foster child.",
+        "chinese": "哦，一个寄养孩子。"
+    },
+    {
+        "start": 306.78000000000003,
+        "end": 308.14000000000004,
+        "english": "Yeah, so what's that?",
+        "chinese": "是的，那是什么？"
+    },
+    {
+        "start": 308.14,
+        "end": 314.21999999999997,
+        "english": "If you have a foster child, you are basically taking care of a child because the parents",
+        "chinese": "如果你有养子，你基本上是在照顾一个孩子，因为父母。"
+    },
+    {
+        "start": 314.21999999999997,
+        "end": 315.41999999999996,
+        "english": "can look after them.",
+        "chinese": "可以照顾他们。"
+    },
+    {
+        "start": 315.41999999999996,
+        "end": 319.02,
+        "english": "It's not like a dobney because you don't actually, it's not actually legal.",
+        "chinese": "不是像一辆自行车，因为你并不实际，它并不是法律。"
+    },
+    {
+        "start": 319.02,
+        "end": 321.62,
+        "english": "It's just that you're helping somebody out by raising this child.",
+        "chinese": "是啊，你正帮助别人把这个孩子养大。"
+    },
+    {
+        "start": 321.62,
+        "end": 322.62,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 322.62,
+        "end": 325.97999999999996,
+        "english": "So we can see the connection there, a foster child, to foster something.",
+        "chinese": "所以我们可以看到这个连接，一个养父母，到养什么。"
+    },
+    {
+        "start": 325.97999999999996,
+        "end": 327.38,
+        "english": "But you know, this is really a great word.",
+        "chinese": "但是，您知道，这是真的一个好词。"
+    },
+    {
+        "start": 327.38,
+        "end": 330.86,
+        "english": "I think it would help to give a couple of examples of how we could use it.",
+        "chinese": "我认为我们可以使用它来举几个例子。"
+    },
+    {
+        "start": 330.86,
+        "end": 337.65999999999997,
+        "english": "So for example, I can say our company is looking to foster better creativity in the workplace.",
+        "chinese": "所以，例如，我可以这么说我们的公司正在努力培养更好的创造力。"
+    },
+    {
+        "start": 337.66,
+        "end": 343.94,
+        "english": "Or we could say, here at Praxis Language, we foster the development of your English.",
+        "chinese": "在这里，我们可以说，我们在这里的普艾斯语言中心致力于您的英语。"
+    },
+    {
+        "start": 343.94,
+        "end": 344.94,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 344.94,
+        "end": 347.58000000000004,
+        "english": "So the word foster.",
+        "chinese": "所以，这个字是“培育”。"
+    },
+    {
+        "start": 347.58000000000004,
+        "end": 353.78000000000003,
+        "english": "Now moving on in his speech, he was talking about nations and faiths and different types",
+        "chinese": "现在转过身来继续他的演讲，他正在谈论国家和信仰，以及不同的类型。"
+    },
+    {
+        "start": 353.78000000000003,
+        "end": 354.78000000000003,
+        "english": "of groups.",
+        "chinese": "组的成员。"
+    },
+    {
+        "start": 354.78000000000003,
+        "end": 357.82000000000005,
+        "english": "And he said, all who yearn for freedom.",
+        "chinese": "他说，所有渴望自由的人。"
+    },
+    {
+        "start": 357.82000000000005,
+        "end": 358.82000000000005,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 358.82000000000005,
+        "end": 360.06,
+        "english": "This is a great phrase.",
+        "chinese": "这是一个很好的表达。"
+    },
+    {
+        "start": 360.06,
+        "end": 363.1,
+        "english": "All who yearn for freedom.",
+        "chinese": "所有渴望自由的人。"
+    },
+    {
+        "start": 363.1,
+        "end": 364.1,
+        "english": "To yearn.",
+        "chinese": "要追求。"
+    },
+    {
+        "start": 364.1,
+        "end": 365.82000000000005,
+        "english": "So to yearn for something.",
+        "chinese": "所以要追求什么。"
+    },
+    {
+        "start": 365.82,
+        "end": 371.38,
+        "english": "Now if I yearn for freedom or I yearn for something, it's basically that I really want",
+        "chinese": "现在，如果我渴望自由或我渴望什么，基本上就是真的想要。"
+    },
+    {
+        "start": 371.38,
+        "end": 372.38,
+        "english": "it in my heart.",
+        "chinese": "在心里。"
+    },
+    {
+        "start": 372.38,
+        "end": 377.14,
+        "english": "Yeah, you really wish for it in a way that's almost painful.",
+        "chinese": "是的，你真的很希望它在一种几乎痛苦的方式。"
+    },
+    {
+        "start": 377.14,
+        "end": 379.65999999999997,
+        "english": "You know, you want it so badly.",
+        "chinese": "我知道，你这么想。"
+    },
+    {
+        "start": 379.65999999999997,
+        "end": 383.26,
+        "english": "Now you wouldn't say like, I'm yearning for ice cream, would you?",
+        "chinese": "现在你不会说，我渴望冰淇淋，对吗？"
+    },
+    {
+        "start": 383.26,
+        "end": 384.26,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 384.26,
+        "end": 388.3,
+        "english": "Unless you were locked up in prison and hadn't had ice cream for 55 years.",
+        "chinese": "除非你被关押在监狱并且没有吃过冰淇淋55年。"
+    },
+    {
+        "start": 388.3,
+        "end": 389.3,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 389.3,
+        "end": 393.53999999999996,
+        "english": "So it's usually related to something that's very difficult to get or something like freedom",
+        "chinese": "所以通常与很难得到的事情或像自由这类概念有关。"
+    },
+    {
+        "start": 393.53999999999996,
+        "end": 395.02,
+        "english": "or yearning for.",
+        "chinese": "或者渴望。"
+    },
+    {
+        "start": 395.02,
+        "end": 396.02,
+        "english": "It's really important.",
+        "chinese": "是真的很重要。"
+    },
+    {
+        "start": 396.02,
+        "end": 397.02,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 397.02,
+        "end": 398.02,
+        "english": "Something very important.",
+        "chinese": "非常重要的事情。"
+    },
+    {
+        "start": 398.02,
+        "end": 403.21999999999997,
+        "english": "And now for our last word, President Eisenhower was talking about charity.",
+        "chinese": "现在，让我们谈谈美国总统艾森豪威尔关于慈善的讲话。"
+    },
+    {
+        "start": 403.21999999999997,
+        "end": 404.7,
+        "english": "He was talking about freedom.",
+        "chinese": "他正在谈论自由。"
+    },
+    {
+        "start": 404.7,
+        "end": 408.06,
+        "english": "And he mentioned the scourges of poverty.",
+        "chinese": "他提到了贫困的诅咒。"
+    },
+    {
+        "start": 408.06,
+        "end": 409.06,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 409.06,
+        "end": 410.58,
+        "english": "So scourges.",
+        "chinese": "所以狂风。"
+    },
+    {
+        "start": 410.58,
+        "end": 413.18,
+        "english": "The scourges of poverty.",
+        "chinese": "中国的贫困之害。"
+    },
+    {
+        "start": 413.18,
+        "end": 416.7,
+        "english": "Scourges is a really difficult but interesting word.",
+        "chinese": "沙尘暴是真的很困难，但也很有趣。"
+    },
+    {
+        "start": 416.7,
+        "end": 420.9,
+        "english": "So why don't we hear a few more examples to help us understand it?",
+        "chinese": "所以为什么我们不听几个例子来帮助我们理解它？"
+    },
+    {
+        "start": 420.9,
+        "end": 422.14,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 422.86,
+        "end": 427.58,
+        "english": "Malaria is a disease that continues to be a scourge to the developing world.",
+        "chinese": "疟疾是发展中国家持续存在的疾病。"
+    },
+    {
+        "start": 427.58,
+        "end": 429.78,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 429.78,
+        "end": 434.21999999999997,
+        "english": "One day we hope to eliminate the scorch of cancer.",
+        "chinese": "有一天，我们希望彻底消除癌症的灼伤。"
+    },
+    {
+        "start": 434.21999999999997,
+        "end": 436.62,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 436.62,
+        "end": 441.38,
+        "english": "NATO promises to wipe out the scorch of terrorism.",
+        "chinese": "美国承诺要彻底清除恐怖主义的痕迹。"
+    },
+    {
+        "start": 441.38,
+        "end": 448.38,
+        "english": "So as we can see, the scorches of something basically is the cause of pain or suffering.",
+        "chinese": "所以，当我们看到这一点时，我们可以清楚地看到，某种东西的基本作用就是引起疼痛或痛苦。"
+    },
+    {
+        "start": 448.38,
+        "end": 452.46,
+        "english": "So now relating it back to the text, we see scorches of poverty.",
+        "chinese": "所以现在回到文本中，我们看到贫困的烙印。"
+    },
+    {
+        "start": 452.46,
+        "end": 456.34,
+        "english": "Yeah, scorches of poverty, scorches of disease and scorches of ignorance.",
+        "chinese": "是的，贫困的烧伤、疾病和愚昧的烧伤。"
+    },
+    {
+        "start": 456.34,
+        "end": 462.3,
+        "english": "All right, so we can see that poverty, ignorance and disease cause a lot of really terrible",
+        "chinese": "好的，那么我们可以看到贫困、无知和疾病导致许多非常糟糕的事情。"
+    },
+    {
+        "start": 462.3,
+        "end": 463.3,
+        "english": "things, right?",
+        "chinese": "好的，我会将这句话翻译成中文："
+    },
+    {
+        "start": 463.3,
+        "end": 464.3,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 464.3,
+        "end": 466.06,
+        "english": "So that's why we say they are scorches.",
+        "chinese": "所以，他们就是烧焦的。"
+    },
+    {
+        "start": 466.06,
+        "end": 467.06,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 467.06,
+        "end": 468.06,
+        "english": "So scorches.",
+        "chinese": "所以烧。"
+    },
+    {
+        "start": 468.06,
+        "end": 471.82,
+        "english": "Now, that brings us to the end of our words for takeaway today.",
+        "chinese": "现在，我们今天的对话就到这里了。"
+    },
+    {
+        "start": 471.82,
+        "end": 475.46,
+        "english": "But you know, as we talked to earlier, we've got some really difficult and interesting",
+        "chinese": "但你知道，正如我们之前讨论过的一样，我们确实面临一些非常困难和有趣的"
+    },
+    {
+        "start": 475.46,
+        "end": 479.29999999999995,
+        "english": "structures to look at now, Influency Builder.",
+        "chinese": "现在可以看看的结构，Influence Builder。"
+    },
+    {
+        "start": 479.29999999999995,
+        "end": 480.29999999999995,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 480.29999999999995,
+        "end": 486.9,
+        "english": "Okay, so Influency Builder will start off with the very first sentence of the paragraph.",
+        "chinese": "好的，所以 Influencer Builder 将以段落开头的第一句话开始。"
+    },
+    {
+        "start": 486.9,
+        "end": 491.74,
+        "english": "When he said, we now stand 10 years past the midpoint of a century.",
+        "chinese": "当他说，我们现在站在一个世纪的中点上已经过去了10年。"
+    },
+    {
+        "start": 491.74,
+        "end": 493.7,
+        "english": "Okay, so I love this phrase.",
+        "chinese": "好的，所以我爱这个短语。"
+    },
+    {
+        "start": 493.7,
+        "end": 497.09999999999997,
+        "english": "We now stand 10 years past the midpoint of the century.",
+        "chinese": "现在我们站在10年前的中世纪。"
+    },
+    {
+        "start": 497.09999999999997,
+        "end": 503.29999999999995,
+        "english": "Now it's interesting because he is making reference to the future in the present.",
+        "chinese": "现在很有趣，因为他正在用现在来参考未来。"
+    },
+    {
+        "start": 503.29999999999995,
+        "end": 505.09999999999997,
+        "english": "And he's using a great phrase to do that.",
+        "chinese": "他正在用一个好词来完成这个。"
+    },
+    {
+        "start": 505.1,
+        "end": 507.86,
+        "english": "We now stand.",
+        "chinese": "现在我们站在这里。"
+    },
+    {
+        "start": 507.86,
+        "end": 512.58,
+        "english": "Now we can change it a little bit and use the first part.",
+        "chinese": "现在我们可以稍微调整一下，使用第一部分。"
+    },
+    {
+        "start": 512.58,
+        "end": 514.9,
+        "english": "We now stand in different circumstances.",
+        "chinese": "现在我们处在不同的境地。"
+    },
+    {
+        "start": 514.9,
+        "end": 518.5400000000001,
+        "english": "So why don't we listen to a couple of examples?",
+        "chinese": "所以为什么我们不听听几个例子？"
+    },
+    {
+        "start": 518.5400000000001,
+        "end": 521.02,
+        "english": "Example 1.",
+        "chinese": "以下是一段中文文本："
+    },
+    {
+        "start": 521.02,
+        "end": 526.66,
+        "english": "We now stand before you to declare our love and be united in marriage.",
+        "chinese": "我们现在站在您面前，宣布我们的爱和在一起。"
+    },
+    {
+        "start": 526.66,
+        "end": 528.74,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 528.74,
+        "end": 533.38,
+        "english": "I stand before this court and declare my innocence.",
+        "chinese": "我站在这个法庭面前，宣布我的清白。"
+    },
+    {
+        "start": 533.38,
+        "end": 535.98,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 535.98,
+        "end": 541.46,
+        "english": "Together we now stand before this great challenge and we will fight arm and arm to defeat poverty.",
+        "chinese": "我们现在站在这个巨大的挑战面前，我们将手拉手并肩作战，共同击败贫困。"
+    },
+    {
+        "start": 541.46,
+        "end": 547.86,
+        "english": "Alright, so you can see that this is a wonderful phrase to use maybe in a formal speech, right?",
+        "chinese": "好的，您可以看到，这句表达可能在正式演讲中使用得当。"
+    },
+    {
+        "start": 547.86,
+        "end": 550.42,
+        "english": "Right, or a wedding again or a formal ceremony.",
+        "chinese": "是的，或者再次举行婚礼或正式仪式。"
+    },
+    {
+        "start": 550.42,
+        "end": 555.9,
+        "english": "Yeah, so and it gives you this idea, this sort of very poetic image of people sort of almost",
+        "chinese": "是的，所以它给你这个想法，这种非常诗意的形象，人们似乎几乎可以想象到。"
+    },
+    {
+        "start": 555.9,
+        "end": 560.54,
+        "english": "standing at the cliff, standing before the, you know, some big change that's about to",
+        "chinese": "站在悬崖边，站在面前，你知道，即将发生的一些大变化。"
+    },
+    {
+        "start": 560.54,
+        "end": 561.54,
+        "english": "take place.",
+        "chinese": "发生"
+    },
+    {
+        "start": 561.54,
+        "end": 562.54,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 562.54,
+        "end": 567.26,
+        "english": "Well, 10 years past the midpoint of a century, the United States has witnessed four major",
+        "chinese": "嗯，过去十年的中世纪中期，美国已经见证了四个重要的中国。"
+    },
+    {
+        "start": 567.26,
+        "end": 568.26,
+        "english": "wars, right?",
+        "chinese": "战争，对吗？"
+    },
+    {
+        "start": 568.26,
+        "end": 569.26,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 569.26,
+        "end": 575.18,
+        "english": "And well, he said, despite the carnage of these conflicts, America is today the strongest,",
+        "chinese": "而且，他说，尽管这些冲突带来了巨大的破坏，今天美国仍然是最强的。"
+    },
+    {
+        "start": 575.18,
+        "end": 578.54,
+        "english": "the most influential and most productive nation in the world.",
+        "chinese": "世界上最有影响力的和最高效的国家。"
+    },
+    {
+        "start": 578.54,
+        "end": 581.5,
+        "english": "Okay, so a great, great, great structure here.",
+        "chinese": "好的，这里有一个非常棒的结构。"
+    },
+    {
+        "start": 581.5,
+        "end": 585.8199999999999,
+        "english": "Despite the carnage of these conflicts, America today is the strongest blah, blah, blah, blah.",
+        "chinese": "尽管这些冲突的破坏，美国今天仍然是最强的……等等。"
+    },
+    {
+        "start": 585.8199999999999,
+        "end": 586.8199999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 586.8199999999999,
+        "end": 590.3399999999999,
+        "english": "Now, let's look at that first word, despite the carnage of these conflicts.",
+        "chinese": "现在，让我们看看那个第一个单词，尽管这些冲突带来了无尽的痛苦。"
+    },
+    {
+        "start": 590.5,
+        "end": 593.02,
+        "english": "Okay, so carnage, what's that?",
+        "chinese": "好的，那么“ carnage ”是什么意思？"
+    },
+    {
+        "start": 593.02,
+        "end": 594.74,
+        "english": "Carnage is like a massacre, right?",
+        "chinese": "是的，屠杀就像一场浩劫。"
+    },
+    {
+        "start": 594.74,
+        "end": 596.5400000000001,
+        "english": "Where many people got hurt or killed.",
+        "chinese": "在中国，许多人受伤或死亡。"
+    },
+    {
+        "start": 596.5400000000001,
+        "end": 600.1800000000001,
+        "english": "Okay, so a pretty violent situation when a lot of people died.",
+        "chinese": "好的，所以一个非常暴力的情况，当很多人死了。"
+    },
+    {
+        "start": 600.1800000000001,
+        "end": 601.1800000000001,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一种常见的英文缩写，通常用于表示同意或认可。如果你需要将这句话翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 601.1800000000001,
+        "end": 603.26,
+        "english": "And now, why does he use this word despite?",
+        "chinese": "现在，为什么他用这个词尽管？"
+    },
+    {
+        "start": 603.26,
+        "end": 610.86,
+        "english": "Okay, so he's basically saying even though we had all of this death and violence in this",
+        "chinese": "好的，他基本上是在说尽管我们经历了这么多的死亡和暴力。"
+    },
+    {
+        "start": 610.86,
+        "end": 614.3000000000001,
+        "english": "century were still the greatest nation, blah, blah, blah, blah.",
+        "chinese": "世纪仍然是最强的国家，哎呀，哎呀，哎呀，哎呀。"
+    },
+    {
+        "start": 614.3000000000001,
+        "end": 615.6600000000001,
+        "english": "Exactly, that's exactly it.",
+        "chinese": "是的，这就是它。"
+    },
+    {
+        "start": 615.6600000000001,
+        "end": 620.26,
+        "english": "I can say, for example, despite the economic crisis the world is going through,",
+        "chinese": "我可以说，例如，在经济危机的全球背景下，中国正经历着巨大的变化。"
+    },
+    {
+        "start": 620.26,
+        "end": 624.5,
+        "english": "our company has an enormous opportunity to grow and be more profitable.",
+        "chinese": "我们的公司有巨大的机会增长并更盈利。"
+    },
+    {
+        "start": 624.5,
+        "end": 628.62,
+        "english": "Okay, or if we want to take it and imagine we're at a wedding, we might say something like",
+        "chinese": "好的，或者如果我们想把它想象成一场婚礼，我们可以这么说："
+    },
+    {
+        "start": 628.62,
+        "end": 629.62,
+        "english": "this.",
+        "chinese": "这个。"
+    },
+    {
+        "start": 629.62,
+        "end": 634.18,
+        "english": "We could say, despite the many difficulties this couple has faced, they have a very bright",
+        "chinese": "我们可以说，尽管这对夫妇经历了许多困难，但他们非常有才华。"
+    },
+    {
+        "start": 634.18,
+        "end": 635.74,
+        "english": "and happy future together.",
+        "chinese": "和未来的美好未来一起。"
+    },
+    {
+        "start": 635.74,
+        "end": 636.74,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 636.74,
+        "end": 643.22,
+        "english": "And now, if we take a look at the last paragraph, it's very interesting because it's one sentence.",
+        "chinese": "现在，让我们看看最后一段。它非常有趣，因为它只是一句话。"
+    },
+    {
+        "start": 643.22,
+        "end": 644.54,
+        "english": "It's a really long sentence.",
+        "chinese": "这是一个非常长的句子。"
+    },
+    {
+        "start": 644.54,
+        "end": 646.06,
+        "english": "It's a very long sentence.",
+        "chinese": "这是一个很长的句子。"
+    },
+    {
+        "start": 646.06,
+        "end": 651.26,
+        "english": "So even though it's not a phrase, let's take a look at the punctuation of this paragraph.",
+        "chinese": "所以尽管它不是一句，让我们看看这个段落的标点符号。"
+    },
+    {
+        "start": 651.26,
+        "end": 657.18,
+        "english": "Okay, so Eisenhower starts out by saying, we pray that people of all face, all races,",
+        "chinese": "好的，所以伊登森首先说，我们祈祷所有人，所有种族。"
+    },
+    {
+        "start": 657.18,
+        "end": 661.78,
+        "english": "all nations may have their great human needs satisfied.",
+        "chinese": "所有国家都可以满足其伟大的人类需求。"
+    },
+    {
+        "start": 661.78,
+        "end": 664.0999999999999,
+        "english": "And then we have a semi-colon there, right?",
+        "chinese": "然后我们有一个半引号，对吗？"
+    },
+    {
+        "start": 664.0999999999999,
+        "end": 665.0999999999999,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 665.0999999999999,
+        "end": 666.42,
+        "english": "So why do we have a semi-colon?",
+        "chinese": "所以为什么我们有半引号？"
+    },
+    {
+        "start": 666.42,
+        "end": 668.42,
+        "english": "Well, here's what he's doing.",
+        "chinese": "好的，这是他在做的事情。"
+    },
+    {
+        "start": 668.42,
+        "end": 671.42,
+        "english": "He's saying we pray for something.",
+        "chinese": "他说我们祈祷什么。"
+    },
+    {
+        "start": 671.42,
+        "end": 675.4599999999999,
+        "english": "And then he's listing the many different things that he's praying for.",
+        "chinese": "然后他正在列举他所祈求的许多不同的东西。"
+    },
+    {
+        "start": 675.46,
+        "end": 677.86,
+        "english": "Okay, so it's basically a list.",
+        "chinese": "好的，所以基本上就是一个列表。"
+    },
+    {
+        "start": 677.86,
+        "end": 678.86,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 678.86,
+        "end": 683.0600000000001,
+        "english": "Okay, so we know that when you're writing a list, we commonly use commas between all the",
+        "chinese": "好的，我们知道当你写列表时，我们通常使用逗号将所有项目之间分隔开。"
+    },
+    {
+        "start": 683.0600000000001,
+        "end": 685.4200000000001,
+        "english": "things that are in this list.",
+        "chinese": "这些在列表中。"
+    },
+    {
+        "start": 685.4200000000001,
+        "end": 691.22,
+        "english": "But here, because they are long and complex ideas, a comma is not enough.",
+        "chinese": "但是，因为它们是长且复杂的概念，一个逗号不足以表达。"
+    },
+    {
+        "start": 691.22,
+        "end": 692.5400000000001,
+        "english": "You need a semi-colon.",
+        "chinese": "你需要一个分号。"
+    },
+    {
+        "start": 692.5400000000001,
+        "end": 698.46,
+        "english": "Okay, so we can see here from the text that the semi-colon is a great way to separate",
+        "chinese": "好的，从这段文本中可以看到，半角冒号是一种很好的方式来分隔。"
+    },
+    {
+        "start": 698.46,
+        "end": 702.22,
+        "english": "ideas, big ideas, complex ideas in a list.",
+        "chinese": "在列表中，提出的想法、大想法和复杂想法。"
+    },
+    {
+        "start": 702.22,
+        "end": 703.22,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 703.22,
+        "end": 708.0600000000001,
+        "english": "You can use it and not necessarily have to end your sentence or that each idea become",
+        "chinese": "你可以使用它，而且不一定需要结束你的句子或者每个想法都成为独立的思考。"
+    },
+    {
+        "start": 708.0600000000001,
+        "end": 709.0600000000001,
+        "english": "one sentence.",
+        "chinese": "一言。"
+    },
+    {
+        "start": 709.0600000000001,
+        "end": 711.34,
+        "english": "You can all just make it in one big sentence.",
+        "chinese": "您可以将它们都整合成一句话。"
+    },
+    {
+        "start": 711.34,
+        "end": 712.34,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 712.34,
+        "end": 717.5400000000001,
+        "english": "And actually, I remember back to high school, Marco, my teacher told me, hey, if you throw",
+        "chinese": "实际上，我还记得在高中时，马克老师告诉我，如果你扔，你就会失去。"
+    },
+    {
+        "start": 717.5400000000001,
+        "end": 721.82,
+        "english": "in a few semi-colons into your writing and do it properly, you'll really impress people.",
+        "chinese": "在用半引号替换你的写作，然后做到正确，你将非常出色地展示给人们。"
+    },
+    {
+        "start": 721.82,
+        "end": 725.26,
+        "english": "All right, so this is good advice that you can take.",
+        "chinese": "好的，这是你可以参考的好的建议。"
+    },
+    {
+        "start": 725.26,
+        "end": 729.58,
+        "english": "And throwing a couple of semi-colons, a little bit of commas here and there, and it'll",
+        "chinese": "而且，用逗号和一些逗号之间的空格来表示。这样，句子会更加清晰易懂。"
+    },
+    {
+        "start": 729.58,
+        "end": 731.26,
+        "english": "look like you really know how to write.",
+        "chinese": "看起来你真的写得非常熟练。"
+    },
+    {
+        "start": 731.26,
+        "end": 732.26,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 732.42,
+        "end": 744.02,
+        "english": "With that in mind, why don't we listen to what Eisenhower wrote one last time?",
+        "chinese": "根据这个想法，为什么不再次听一听伊里奇森先生的讲话呢？"
+    },
+    {
+        "start": 744.02,
+        "end": 748.38,
+        "english": "We now stand ten years past the midpoint of a century that has witnessed four major",
+        "chinese": "我们站在一个世纪的中点，已经过去了10年。"
+    },
+    {
+        "start": 748.38,
+        "end": 751.02,
+        "english": "wars among great nations.",
+        "chinese": "战争中的大国。"
+    },
+    {
+        "start": 751.02,
+        "end": 754.1,
+        "english": "Three of these involved our own country.",
+        "chinese": "这三个人涉及我们的国家。"
+    },
+    {
+        "start": 754.1,
+        "end": 759.5,
+        "english": "Despite the carnage of these conflicts, America is today the strongest, the most influential,",
+        "chinese": "尽管这些冲突的破坏，美国今天仍然是最强盛、最有影响力的国家。"
+    },
+    {
+        "start": 759.5,
+        "end": 762.5,
+        "english": "the most productive nation in the world.",
+        "chinese": "世界上最有生产力的国家。"
+    },
+    {
+        "start": 762.5,
+        "end": 765.34,
+        "english": "We are understandably proud of this preeminence.",
+        "chinese": "我们当然感到自豪的是这个领先地位。"
+    },
+    {
+        "start": 765.34,
+        "end": 770.78,
+        "english": "Yet we realize that America's leadership and prestige depend not merely upon our unmatched",
+        "chinese": "然而，我们意识到美国的领导和声望不仅依赖于我们的无与伦比。"
+    },
+    {
+        "start": 770.78,
+        "end": 774.18,
+        "english": "material progress, riches, and military strength.",
+        "chinese": "材料进步、财富和军事力量。"
+    },
+    {
+        "start": 774.18,
+        "end": 779.22,
+        "english": "But on how we use our power in the interests of world peace and human betterment.",
+        "chinese": "但我们在利益世界和平和人类福祉中如何使用我们的力量。"
+    },
+    {
+        "start": 779.22,
+        "end": 783.58,
+        "english": "Throughout America's adventure in free government, such basic purposes have been to keep the",
+        "chinese": "美国在自由政府的冒险中，如基本目的，一直致力于保持："
+    },
+    {
+        "start": 783.58,
+        "end": 790.22,
+        "english": "peace, to foster progress in human achievement, and to enhance liberty, dignity, and integrity",
+        "chinese": "和平，以促进人类成就的进程为宗旨，以增强自由、尊严和独立为目标。"
+    },
+    {
+        "start": 790.22,
+        "end": 793.3000000000001,
+        "english": "among peoples and among nations.",
+        "chinese": "在人类和国家之间。"
+    },
+    {
+        "start": 793.3000000000001,
+        "end": 798.4200000000001,
+        "english": "We pray that peoples of all faiths, all races, all nations, may have their great human",
+        "chinese": "我们祈愿所有信仰、种族、民族和国家的人们，都有他们的伟大人类。"
+    },
+    {
+        "start": 798.4200000000001,
+        "end": 804.74,
+        "english": "needs satisfied, that those now denied opportunity shall come to enjoy it to the full.",
+        "chinese": "需要得到满足，现在被剥夺了机会的人们将能够享受到全部的幸福。"
+    },
+    {
+        "start": 804.74,
+        "end": 810.26,
+        "english": "That all who yearn for freedom may experience its spiritual blessings, that those who have",
+        "chinese": "所有渴望自由的人，都能感受到它的精神馈赠。"
+    },
+    {
+        "start": 810.26,
+        "end": 816.14,
+        "english": "freedom will understand also its heavy responsibilities, that all who are insensitive to the needs of",
+        "chinese": "自由也会理解它也有沉重的责任，所有不关心需求的人。"
+    },
+    {
+        "start": 816.14,
+        "end": 818.42,
+        "english": "others will learn charity.",
+        "chinese": "其他的人会学习慈善。"
+    },
+    {
+        "start": 818.42,
+        "end": 822.54,
+        "english": "That the scourges of poverty, disease, and ignorance will be made to disappear from the",
+        "chinese": "这些贫困、疾病和愚昧的恶行将会被彻底消除。"
+    },
+    {
+        "start": 822.54,
+        "end": 823.78,
+        "english": "earth.",
+        "chinese": "地球。 (Wáng tè.)"
+    },
+    {
+        "start": 823.78,
+        "end": 829.06,
+        "english": "And that in the goodness of time, all peoples will come to live together in a peace guaranteed",
+        "chinese": "而且在时间的善行中，所有的人类都将共同生活在一个被保证的和平之中。"
+    },
+    {
+        "start": 829.06,
+        "end": 832.5,
+        "english": "by the binding force of mutual respect and love.",
+        "chinese": "通过相互尊重和爱的力量。"
+    },
+    {
+        "start": 832.5,
+        "end": 836.34,
+        "english": "Now, on Friday noon, I am to become a private citizen.",
+        "chinese": "现在，星期五中午，我将成为私有者。"
+    },
+    {
+        "start": 836.34,
+        "end": 837.78,
+        "english": "I am proud to do so.",
+        "chinese": "我非常自豪。"
+    },
+    {
+        "start": 837.78,
+        "end": 839.54,
+        "english": "I look forward to it.",
+        "chinese": "我期待它。"
+    },
+    {
+        "start": 839.54,
+        "end": 841.54,
+        "english": "Thank you and good night.",
+        "chinese": "谢谢，晚安。"
+    },
+    {
+        "start": 841.54,
+        "end": 850.8199999999999,
+        "english": "Alright, we're back and we're here again with Pete, our voice actor for the second part",
+        "chinese": "好的，我们已经回来，再次和佩特一起配音，我们的第二部分。"
+    },
+    {
+        "start": 850.8199999999999,
+        "end": 852.5,
+        "english": "of the dialogue.",
+        "chinese": "对话中的内容。"
+    },
+    {
+        "start": 852.5,
+        "end": 854.9399999999999,
+        "english": "And Pete, we have a couple more questions for you today.",
+        "chinese": "今天，我们有更多问题要对您提问。"
+    },
+    {
+        "start": 854.9399999999999,
+        "end": 855.9399999999999,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 855.9399999999999,
+        "end": 860.3399999999999,
+        "english": "So, I hear in Eisenhower's speech that he keeps referencing God.",
+        "chinese": "所以，我听到伊里奇森在演讲中引用上帝。"
+    },
+    {
+        "start": 860.3399999999999,
+        "end": 864.8199999999999,
+        "english": "Like he keeps saying, I pray, blah, blah, blah, blah, blah, he said God's speed, blah,",
+        "chinese": "我祈祷，嗯，嗯，嗯，嗯，嗯，他一直在说上帝的速度，嗯。"
+    },
+    {
+        "start": 864.8199999999999,
+        "end": 865.8199999999999,
+        "english": "blah, blah, blah.",
+        "chinese": "哈哈，哈哈，哈哈。"
+    },
+    {
+        "start": 865.8199999999999,
+        "end": 866.8199999999999,
+        "english": "So, what's up with that?",
+        "chinese": "所以，有什么问题吗？"
+    },
+    {
+        "start": 866.8199999999999,
+        "end": 868.06,
+        "english": "Why is he talking about God?",
+        "chinese": "为什么他谈论上帝？"
+    },
+    {
+        "start": 868.2199999999999,
+        "end": 870.2199999999999,
+        "english": "Well, this is a very interesting question.",
+        "chinese": "很好，这是一个非常有趣的问题。"
+    },
+    {
+        "start": 870.2199999999999,
+        "end": 874.9,
+        "english": "Traditionally, America has had a really clear boundary between church and state.",
+        "chinese": "传统的美国一直有一条清晰的界限，将教会和政府分开。"
+    },
+    {
+        "start": 874.9,
+        "end": 878.9,
+        "english": "And you'll hear a lot of rhetoric these days that says, you know, we're a Christian nation",
+        "chinese": "今天，你将听到许多今天的说法，说我们是一个基督教国家。"
+    },
+    {
+        "start": 878.9,
+        "end": 880.42,
+        "english": "and we were founded as a Christian nation.",
+        "chinese": "我们是基督教国家。"
+    },
+    {
+        "start": 880.42,
+        "end": 881.42,
+        "english": "Well, that's Bologna.",
+        "chinese": "好的，这是博洛尼亚。"
+    },
+    {
+        "start": 881.42,
+        "end": 883.9,
+        "english": "Bologna is not true.",
+        "chinese": "博洛尼亚不是真的。"
+    },
+    {
+        "start": 883.9,
+        "end": 888.5799999999999,
+        "english": "At the time when the country was founded 200 years ago, it was overwhelmingly Christian.",
+        "chinese": "在国家创建200年前，它几乎是全基督教的。"
+    },
+    {
+        "start": 888.5799999999999,
+        "end": 893.02,
+        "english": "If the founding fathers, as we call them, the like George Washington, if they had wanted",
+        "chinese": "如果这些先驱者，我们称之为“他们”，如果他们想要"
+    },
+    {
+        "start": 893.02,
+        "end": 894.9,
+        "english": "a Christian nation, they could have had it.",
+        "chinese": "一个基督教国家，他们可能有它。"
+    },
+    {
+        "start": 894.9,
+        "end": 897.3,
+        "english": "They explicitly did not.",
+        "chinese": "他们明确地没有。"
+    },
+    {
+        "start": 897.3,
+        "end": 899.86,
+        "english": "And a lot of people since then have gotten that confused.",
+        "chinese": "和以前的很多人一样，现在很多人都被分心了。"
+    },
+    {
+        "start": 899.86,
+        "end": 904.22,
+        "english": "And now when we have a very large Muslim population, we have Buddhists.",
+        "chinese": "现在，当我们有非常大的穆斯林人口时，我们就有佛教。"
+    },
+    {
+        "start": 904.22,
+        "end": 909.54,
+        "english": "We have people in all various different kinds of Mormonism and everything.",
+        "chinese": "我们有各种各样的摩门教徒，包括所有不同的种类。"
+    },
+    {
+        "start": 909.54,
+        "end": 910.78,
+        "english": "It's even less possible now.",
+        "chinese": "现在它甚至更不可能了。"
+    },
+    {
+        "start": 910.78,
+        "end": 914.98,
+        "english": "So I'm kind of baffled when I hear people say that America is a Christian nation.",
+        "chinese": "所以我有点困惑，当听到有人说美国是一个基督教国家时。"
+    },
+    {
+        "start": 914.98,
+        "end": 918.74,
+        "english": "But you even have it now in the coins like on the money, right?",
+        "chinese": "但是你甚至现在就在硬币上，就像在钞票一样。"
+    },
+    {
+        "start": 918.74,
+        "end": 920.62,
+        "english": "It says in God, we trust.",
+        "chinese": "它说：“我们相信上帝。”"
+    },
+    {
+        "start": 920.62,
+        "end": 921.62,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 921.62,
+        "end": 923.46,
+        "english": "That started in the early 20th century.",
+        "chinese": "这句话的英文是 \"That started in the early 20th century.\" 翻译成中文是：“这在20世纪初就开始了。”"
+    },
+    {
+        "start": 923.46,
+        "end": 925.02,
+        "english": "I think that was Teddy Roosevelt era.",
+        "chinese": "我认为这是罗斯福时代。"
+    },
+    {
+        "start": 925.02,
+        "end": 926.02,
+        "english": "He opposed that.",
+        "chinese": "他反对那个。"
+    },
+    {
+        "start": 926.02,
+        "end": 927.0600000000001,
+        "english": "Roosevelt was really opposed to that.",
+        "chinese": "李夫斯非常反对那个。"
+    },
+    {
+        "start": 927.0600000000001,
+        "end": 929.4200000000001,
+        "english": "And then what happened, they they approved it.",
+        "chinese": "然后，他们批准了它。"
+    },
+    {
+        "start": 929.4200000000001,
+        "end": 930.4200000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 930.4200000000001,
+        "end": 934.1,
+        "english": "And you know, people said later like Eisenhower talking about this stuff, you know, in America,",
+        "chinese": "您知道，人们后来说，像艾森豪威尔谈论这些事情，你知道，在美国。"
+    },
+    {
+        "start": 934.1,
+        "end": 938.3000000000001,
+        "english": "we have something called the Pledge of Allegiance, which I don't think you guys probably have.",
+        "chinese": "我们有一个叫做《誓言》的叫什么的，我认为你们可能没有。"
+    },
+    {
+        "start": 938.3000000000001,
+        "end": 939.3000000000001,
+        "english": "Not in Canadian.",
+        "chinese": "在加拿大。"
+    },
+    {
+        "start": 939.3000000000001,
+        "end": 940.3000000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 940.3000000000001,
+        "end": 942.9000000000001,
+        "english": "Obviously you wouldn't do it to America, but to your own.",
+        "chinese": "当然，你不会这样做给美国，而是给你自己。"
+    },
+    {
+        "start": 942.9000000000001,
+        "end": 945.22,
+        "english": "It's kind of like a salute to the flag, right?",
+        "chinese": "是像向国旗致敬一样吗？"
+    },
+    {
+        "start": 945.22,
+        "end": 946.38,
+        "english": "Yeah, it's a little bit nationalist.",
+        "chinese": "是的，有点民族主义。"
+    },
+    {
+        "start": 946.38,
+        "end": 947.62,
+        "english": "I did it growing up.",
+        "chinese": "我长大后做了这件事。"
+    },
+    {
+        "start": 947.62,
+        "end": 951.5,
+        "english": "You put your hand over your heart and you face the flag and you say, I pledge allegiance",
+        "chinese": "您将手放在心脏上，面对国旗，并说：“我宣誓效忠”"
+    },
+    {
+        "start": 951.5,
+        "end": 955.86,
+        "english": "to the flag of the United States of America and to the Republic for which it stands, one",
+        "chinese": "为了美国国旗和它所代表的共和国，一个"
+    },
+    {
+        "start": 955.86,
+        "end": 960.26,
+        "english": "nation under God, indivisible with liberty and justice for all.",
+        "chinese": "国家统一，不可分割，有自由和公正。"
+    },
+    {
+        "start": 960.26,
+        "end": 964.82,
+        "english": "That part about one nation under God, that was added in the 50s as a kind of way of showing",
+        "chinese": "这个部分提到一个国家受神的统治，是在五十年代作为一种方式来展示。"
+    },
+    {
+        "start": 964.82,
+        "end": 969.02,
+        "english": "that America is not quote unquote a godless communist country.",
+        "chinese": "美国不是一个“不问是非、不问荣辱”的无神论共产主义国家。"
+    },
+    {
+        "start": 969.02,
+        "end": 970.02,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 970.02,
+        "end": 971.98,
+        "english": "Yeah, because communism teaches, you know, no religion.",
+        "chinese": "是的，因为共产主义教，你知道，没有宗教。"
+    },
+    {
+        "start": 971.98,
+        "end": 975.18,
+        "english": "And so they were to make sure we're not communist, you know.",
+        "chinese": "所以他们要确保我们不是共产党的。"
+    },
+    {
+        "start": 975.18,
+        "end": 977.22,
+        "english": "Okay, but we don't think that, right?",
+        "chinese": "好的，但我们并不认为……？"
+    },
+    {
+        "start": 977.22,
+        "end": 978.22,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 978.22,
+        "end": 979.94,
+        "english": "I mean, I'm all about tolerance.",
+        "chinese": "我指的是，我全心全意地包容。"
+    },
+    {
+        "start": 979.94,
+        "end": 981.94,
+        "english": "So I think that's kind of absurd.",
+        "chinese": "所以我认为这有点荒谬。"
+    },
+    {
+        "start": 981.94,
+        "end": 986.1400000000001,
+        "english": "Okay, so what I think is really interesting though is that every political speech, every",
+        "chinese": "好的，我理解的。您认为最有趣的是，无论是在政治演讲中还是在中文语境中，每一个人都能表达出自己独特的观点和见解。这让我感到非常兴奋，因为每个人都有自己的故事和经验，能够从不同的角度看待问题。"
+    },
+    {
+        "start": 986.1400000000001,
+        "end": 991.5400000000001,
+        "english": "time a political leader has to say something publicly, he'll always quote God, right?",
+        "chinese": "时间一个政治领袖公开说点什么，他总是引用上帝。"
+    },
+    {
+        "start": 991.5400000000001,
+        "end": 992.5400000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 992.5400000000001,
+        "end": 996.1800000000001,
+        "english": "And they'll often end a speech with, you know, thank you and God bless America or something.",
+        "chinese": "他们经常会在演讲中结束，比如“谢谢美国和上帝保佑”，或者类似的表达。"
+    },
+    {
+        "start": 996.1800000000001,
+        "end": 997.1800000000001,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 997.1800000000001,
+        "end": 1000.5,
+        "english": "Which, you know what, for me as a Canadian is really strange.",
+        "chinese": "我知道，对于一个加拿大人来说，这确实很奇怪。"
+    },
+    {
+        "start": 1000.5,
+        "end": 1007.98,
+        "english": "Like if a Canadian president said God bless Canada, everyone would know what to do.",
+        "chinese": "像如果加拿大总统说“上帝保佑加拿大”，那么每个人都知道应该怎么做。"
+    },
+    {
+        "start": 1007.98,
+        "end": 1008.98,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 1008.98,
+        "end": 1009.98,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 1009.98,
+        "end": 1013.74,
+        "english": "Anyway, I had an ex girlfriend who was British and she like Tony Blair started with that a couple",
+        "chinese": "当然，我有一个前女友，她是英国人，她喜欢托尼·布莱尔开始和我在一起。"
+    },
+    {
+        "start": 1013.74,
+        "end": 1014.74,
+        "english": "times.",
+        "chinese": "时间。"
+    },
+    {
+        "start": 1014.74,
+        "end": 1017.34,
+        "english": "He said, you know, and God bless us all or something and she was just put off by it and",
+        "chinese": "他说，你知道，上帝保佑我们所有人或者……她被这件事给耽搁了。"
+    },
+    {
+        "start": 1017.34,
+        "end": 1019.74,
+        "english": "she was like, the Brits will never take this and they didn't.",
+        "chinese": "她好像，英国有这种东西，他们也没能。"
+    },
+    {
+        "start": 1019.74,
+        "end": 1021.22,
+        "english": "No one was impressed.",
+        "chinese": "没有人被吸引。"
+    },
+    {
+        "start": 1021.22,
+        "end": 1022.22,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 1022.22,
+        "end": 1027.22,
+        "english": "Well, an interesting feature of American history, politics and society.",
+        "chinese": "好的，一个有趣的美国历史、政治和社会的特点。"
+    },
+    {
+        "start": 1027.22,
+        "end": 1029.22,
+        "english": "So thanks for that insight, Pete.",
+        "chinese": "所以谢谢你的见解，佩特。"
+    },
+    {
+        "start": 1029.22,
+        "end": 1030.22,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 1030.22,
+        "end": 1031.22,
+        "english": "My pleasure.",
+        "chinese": "我的荣幸。"
+    },
+    {
+        "start": 1031.22,
+        "end": 1032.22,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 1032.22,
+        "end": 1035.14,
+        "english": "And if you guys have any comments or any suggestions about this lesson or any upcoming",
+        "chinese": "如果你们有任何评论或建议关于这个课程或者即将到来的活动，我很高兴能帮助你。"
+    },
+    {
+        "start": 1035.14,
+        "end": 1037.66,
+        "english": "lessons, just let us know or American politics in general.",
+        "chinese": "课程，可以让我们知道或者美国政治的普遍情况。"
+    },
+    {
+        "start": 1037.66,
+        "end": 1038.66,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 1038.66,
+        "end": 1040.94,
+        "english": "And then on the forum and see if I can answer a question or two.",
+        "chinese": "然后在论坛上看看，看能否回答一个问题。"
+    },
+    {
+        "start": 1040.94,
+        "end": 1041.94,
+        "english": "That would be awesome.",
+        "chinese": "那太好了。"
+    },
+    {
+        "start": 1041.94,
+        "end": 1047.98,
+        "english": "So visit us at EnglishPod.com and Marco and myself and Pete are around to answer your questions.",
+        "chinese": "所以，请访问我们的英语频道，Marco 和我以及Pete都会在这里回答您的问题。"
+    },
+    {
+        "start": 1047.98,
+        "end": 1048.98,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 1048.98,
+        "end": 1049.98,
+        "english": "We'll see you guys there.",
+        "chinese": "我们将见你各位。"
+    },
+    {
+        "start": 1049.98,
+        "end": 1050.98,
+        "english": "Thanks for downloading and goodbye.",
+        "chinese": "谢谢下载并再见。"
+    }
+]

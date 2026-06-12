@@ -1,0 +1,1598 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.36,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好，英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 6.36,
+        "end": 7.68,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.68,
+        "end": 11.0,
+        "english": "And today we're going to have a fun, funny lesson.",
+        "chinese": "今天我们将要玩一个有趣的课程。"
+    },
+    {
+        "start": 11.0,
+        "end": 15.4,
+        "english": "That's right. So I think this lesson's going to be a little bit different than most of our lessons, right?",
+        "chinese": "正确。我认为这节课会比我们大多数课要稍微不同一些，对吗？"
+    },
+    {
+        "start": 15.4,
+        "end": 21.400000000000002,
+        "english": "Right. Today we're going to be looking at jokes, which is a very important part of English-speaking culture.",
+        "chinese": "是的，今天我们将讨论笑话，这是英语文化中非常重要的一部分。"
+    },
+    {
+        "start": 21.400000000000002,
+        "end": 26.2,
+        "english": "Yeah. So we're actually, we're going to teach you a few, um, pretty hilarious jokes.",
+        "chinese": "是的。所以我们实际上要教你几个很逗的笑话。"
+    },
+    {
+        "start": 26.4,
+        "end": 33.4,
+        "english": "But we're also going to teach you some language related to jokes, funny things, and, um, that sort of stuff.",
+        "chinese": "但是我们也将教你一些与笑话、有趣的事情以及，呃，那类东西有关的语言。"
+    },
+    {
+        "start": 33.4,
+        "end": 39.0,
+        "english": "Alright, so in order for us to understand a little bit better the jokes that we're going to be looking at,",
+        "chinese": "好的，所以为了更好地理解我们将要观看的笑话，"
+    },
+    {
+        "start": 39.0,
+        "end": 42.4,
+        "english": "why don't we take a look at vocabulary preview?",
+        "chinese": "为什么我们不看看词汇预览？"
+    },
+    {
+        "start": 42.4,
+        "end": 44.6,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 44.6,
+        "end": 50.6,
+        "english": "Two of these words you'll hear in the dialogue, but one you won't, but you still need to know this word so you can understand the jokes.",
+        "chinese": "这两句话中，你将听到的这些词，但其中一个你不会听，但是你还需要知道这个单词以便理解滑稽笑话。"
+    },
+    {
+        "start": 50.6,
+        "end": 54.6,
+        "english": "Alright, so the word that we're talking about is not really a word, it's a sound.",
+        "chinese": "好的，我们讨论的话题是这个单词不是真正的词，而是声音。"
+    },
+    {
+        "start": 54.6,
+        "end": 57.2,
+        "english": "Yeah. Moo. Moo.",
+        "chinese": "是的。啊。啊。"
+    },
+    {
+        "start": 57.2,
+        "end": 60.4,
+        "english": "So Moo is the sound that cows make.",
+        "chinese": "所以“马”是牛发出的声音。"
+    },
+    {
+        "start": 60.4,
+        "end": 61.6,
+        "english": "That's right, M-O-O.",
+        "chinese": "没错，M-O-O。"
+    },
+    {
+        "start": 61.6,
+        "end": 63.400000000000006,
+        "english": "Right, they go Moo.",
+        "chinese": "正确，他们去马场。"
+    },
+    {
+        "start": 63.400000000000006,
+        "end": 64.4,
+        "english": "Very nice, Marco.",
+        "chinese": "非常漂亮，马科。"
+    },
+    {
+        "start": 64.4,
+        "end": 65.6,
+        "english": "I could do a good cow.",
+        "chinese": "我能够做好一头牛。"
+    },
+    {
+        "start": 65.6,
+        "end": 69.4,
+        "english": "Yep. Alright, so we all know now that that's what cows say.",
+        "chinese": "是的。现在我们知道，那都是牛说的话。"
+    },
+    {
+        "start": 69.4,
+        "end": 73.0,
+        "english": "Exactly. So it's going to be important for the joke you'll see why.",
+        "chinese": "正确。所以，这个笑话将会对你的笑料非常重要。"
+    },
+    {
+        "start": 73.0,
+        "end": 77.6,
+        "english": "Okay. Now another word that you need to understand is a damn.",
+        "chinese": "好的。现在你需要理解的一个词是“一个烂摊子”。"
+    },
+    {
+        "start": 77.6,
+        "end": 79.0,
+        "english": "So a damn.",
+        "chinese": "所以一个……。"
+    },
+    {
+        "start": 79.0,
+        "end": 80.2,
+        "english": "A damn.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 80.2,
+        "end": 83.8,
+        "english": "A damn is, uh, is, is like a big wall, right?",
+        "chinese": "对不起，我无法直接翻译中文到中文。不过，我可以尝试用英文来回答这个问题："
+    },
+    {
+        "start": 83.8,
+        "end": 87.6,
+        "english": "Well, it's a wall in water that stops the river from flowing.",
+        "chinese": "很好，这是在水中的墙，阻止河流流向。"
+    },
+    {
+        "start": 87.6,
+        "end": 93.6,
+        "english": "Okay, so usually you built dams in rivers and then the water can pass or not.",
+        "chinese": "好的，通常你会在河流中建坝，并且水可以流向或不流向。"
+    },
+    {
+        "start": 93.6,
+        "end": 96.2,
+        "english": "Yeah, it's something that you used to generate electricity, right?",
+        "chinese": "是的，你曾经用这种方法来产生电能吗？"
+    },
+    {
+        "start": 96.2,
+        "end": 97.0,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 97.0,
+        "end": 101.4,
+        "english": "But there's another word that sounds exactly the same way, but it's just built a little differently.",
+        "chinese": "但是还有一个词，听起来完全一样，但只是稍微不同。"
+    },
+    {
+        "start": 101.4,
+        "end": 105.2,
+        "english": "That's right. And we might hear someone say, oh damn.",
+        "chinese": "正确。我们或许会听到有人说，哎呀！"
+    },
+    {
+        "start": 105.2,
+        "end": 109.2,
+        "english": "And that's an interjection, which basically means, oh no, right.",
+        "chinese": "And that's an interjection, which basically means, oh no, right. (注：这句话是用中文翻译的，原句为英文。)"
+    },
+    {
+        "start": 109.2,
+        "end": 110.2,
+        "english": "That's terrible.",
+        "chinese": "这句话的中文翻译是：“那太糟糕了。”"
+    },
+    {
+        "start": 110.2,
+        "end": 111.2,
+        "english": "Uh huh. Yeah.",
+        "chinese": "嗯，对。是的。"
+    },
+    {
+        "start": 111.2,
+        "end": 113.2,
+        "english": "Damn. I can say damn, I forgot my keys.",
+        "chinese": "抱歉。我可以这么说，但我忘记了我的钥匙。"
+    },
+    {
+        "start": 113.2,
+        "end": 115.2,
+        "english": "Mm hmm. Damn. We're late for the movie.",
+        "chinese": "嗯，嗯。太晚了。我们迟到了。"
+    },
+    {
+        "start": 115.2,
+        "end": 120.60000000000001,
+        "english": "Okay. So it's an interesting interjection and we'll also see it in one of our jokes.",
+        "chinese": "好的。所以这是一个有趣的插句，我们也会在我们的笑话中看到它。"
+    },
+    {
+        "start": 120.60000000000001,
+        "end": 123.0,
+        "english": "And now let's move on to our last word.",
+        "chinese": "现在让我们转到我们的最后一个单词。"
+    },
+    {
+        "start": 123.0,
+        "end": 124.0,
+        "english": "Nostrils.",
+        "chinese": "鼻子。"
+    },
+    {
+        "start": 124.0,
+        "end": 126.0,
+        "english": "Okay. Nostrils.",
+        "chinese": "好的。鼻子。"
+    },
+    {
+        "start": 126.0,
+        "end": 127.0,
+        "english": "Nostrils.",
+        "chinese": "鼻子。"
+    },
+    {
+        "start": 127.0,
+        "end": 129.0,
+        "english": "So a nostril or your nostrils?",
+        "chinese": "所以你的鼻子？"
+    },
+    {
+        "start": 129.0,
+        "end": 131.0,
+        "english": "And the two holes in your nose.",
+        "chinese": "和你两个鼻孔里的洞。"
+    },
+    {
+        "start": 131.0,
+        "end": 133.0,
+        "english": "Right. You breathe through your nostrils.",
+        "chinese": "正确。您通过鼻子呼吸。"
+    },
+    {
+        "start": 133.0,
+        "end": 134.0,
+        "english": "Mm hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文短语“Mm hmm”，它可能是指“嗯”或“是的”。如果您能提供更多的上下文信息或者具体的句子，我会很乐意帮助您进行更准确的翻译。"
+    },
+    {
+        "start": 134.0,
+        "end": 138.2,
+        "english": "Alright, so now that we've taken a look at these three words, why don't we listen to our",
+        "chinese": "好的，现在我们已经看了这三句话，为什么不听听我们的中文呢？"
+    },
+    {
+        "start": 138.2,
+        "end": 145.2,
+        "english": "comedian for the first time and then we'll come back and talk a little bit more.",
+        "chinese": "喜剧演员第一次，然后我们将再次交谈，聊点更多。"
+    },
+    {
+        "start": 145.2,
+        "end": 152.32,
+        "english": "Hello, everyone and welcome to Open Mike Knight.",
+        "chinese": "你好，大家和欢迎来到开米·克林特。"
+    },
+    {
+        "start": 152.32,
+        "end": 157.51999999999998,
+        "english": "You're in for a real treat as we've got a lot of great comics here with us tonight.",
+        "chinese": "您将要体验到一场真正的盛宴，因为我们今晚有大量精彩的漫画与我们一同欣赏。"
+    },
+    {
+        "start": 157.51999999999998,
+        "end": 162.35999999999999,
+        "english": "First up, we have a very funny man coming straight from the state of Montana.",
+        "chinese": "首先，我们有一个非常有趣的男子从美国加利福尼亚州而来。"
+    },
+    {
+        "start": 162.35999999999999,
+        "end": 165.83999999999997,
+        "english": "Robert Hicks.",
+        "chinese": "李勇辉。"
+    },
+    {
+        "start": 165.84,
+        "end": 169.04,
+        "english": "Thank you, everyone. Well, what a lovely crowd.",
+        "chinese": "谢谢大家，大家好。嗯，一个非常可爱的群体。"
+    },
+    {
+        "start": 169.04,
+        "end": 173.16,
+        "english": "You know, there's nothing I love better than stand-up comedy.",
+        "chinese": "我知道，没有什么比站立喜剧更让我喜欢了。"
+    },
+    {
+        "start": 173.16,
+        "end": 177.84,
+        "english": "You know, I've been working on my routine for months now and I've got some real singers",
+        "chinese": "我知道我已经一直在我的例行程序上工作了几个月，我有一些真正的歌手。"
+    },
+    {
+        "start": 177.84,
+        "end": 181.56,
+        "english": "for you tonight. Let's start out with some short jokes.",
+        "chinese": "对于今晚，让我们开始玩些小笑话。"
+    },
+    {
+        "start": 181.56,
+        "end": 182.56,
+        "english": "How about that?",
+        "chinese": "如何呢？"
+    },
+    {
+        "start": 182.56,
+        "end": 187.92000000000002,
+        "english": "Where do you find a one-legged dog?",
+        "chinese": "在哪儿能找到一只瘸腿狗？"
+    },
+    {
+        "start": 187.92000000000002,
+        "end": 190.4,
+        "english": "Where you left it?",
+        "chinese": "在你那里？"
+    },
+    {
+        "start": 191.4,
+        "end": 194.4,
+        "english": "Get it?",
+        "chinese": "Get it? (This is an English phrase that translates to \"请给我听\" in Chinese.)"
+    },
+    {
+        "start": 194.4,
+        "end": 199.4,
+        "english": "Mm, anyways. What do you call a sheep with no legs?",
+        "chinese": "嗯，算了。你叫什么来着？"
+    },
+    {
+        "start": 199.4,
+        "end": 202.4,
+        "english": "A cloud.",
+        "chinese": "云。"
+    },
+    {
+        "start": 202.4,
+        "end": 206.4,
+        "english": "Oh, it's a tough crowd. Alright, now you're going to love this joke.",
+        "chinese": "嗯，这是一个困难的观众。好了，现在你将会喜欢这个笑话。"
+    },
+    {
+        "start": 206.4,
+        "end": 210.4,
+        "english": "It's hilarious. What do cows do for entertainment?",
+        "chinese": "哈哈。牛做什么娱乐？"
+    },
+    {
+        "start": 210.4,
+        "end": 213.4,
+        "english": "They read movies.",
+        "chinese": "他们看电影。"
+    },
+    {
+        "start": 213.4,
+        "end": 215.4,
+        "english": "Movies.",
+        "chinese": "电影。"
+    },
+    {
+        "start": 215.4,
+        "end": 225.68,
+        "english": "Okay, okay, okay, we've got a few hecklers in the audience, but this one is good.",
+        "chinese": "好的，好的，好的。我们有几位观众在台下发泄情绪，但这个听众很好。"
+    },
+    {
+        "start": 225.68,
+        "end": 229.4,
+        "english": "What does a fish say when it runs into a wall?",
+        "chinese": "鱼在碰到墙壁时会说什么？"
+    },
+    {
+        "start": 229.4,
+        "end": 232.4,
+        "english": "Damn!",
+        "chinese": "对不起！（Sorry）"
+    },
+    {
+        "start": 232.4,
+        "end": 240.56,
+        "english": "Okay, okay, okay, last one.",
+        "chinese": "好的，好的，好的，最后一个。"
+    },
+    {
+        "start": 240.56,
+        "end": 244.4,
+        "english": "Why do gorillas have big nostrils?",
+        "chinese": "为什么猩猩有大鼻孔？"
+    },
+    {
+        "start": 244.4,
+        "end": 251.4,
+        "english": "Because they got big fingers.",
+        "chinese": "因为他们的手指大。"
+    },
+    {
+        "start": 251.4,
+        "end": 260.4,
+        "english": "Thanks, everyone. That was my time.",
+        "chinese": "谢谢，大家。这是我这段时间。"
+    },
+    {
+        "start": 260.4,
+        "end": 262.8,
+        "english": "Okay, so some pretty hilarious jokes, huh?",
+        "chinese": "是的，所以有一些很逗趣的笑话，对吧？"
+    },
+    {
+        "start": 262.8,
+        "end": 265.4,
+        "english": "I don't think the crowd really enjoyed them all that much.",
+        "chinese": "我不认为整个人群对这些都感到非常满意。"
+    },
+    {
+        "start": 265.4,
+        "end": 269.0,
+        "english": "Okay, well maybe I'm just a fan of really terrible jokes.",
+        "chinese": "好的，也许我只是对真的很糟糕的笑话感兴趣。"
+    },
+    {
+        "start": 269.0,
+        "end": 273.16,
+        "english": "Well, they were pretty funny, but I guess the crowd just didn't appreciate his sense",
+        "chinese": "嗯，他们挺有趣的，不过我猜观众们并不欣赏他的幽默。"
+    },
+    {
+        "start": 273.16,
+        "end": 274.16,
+        "english": "of humor.",
+        "chinese": "幽默。"
+    },
+    {
+        "start": 274.16,
+        "end": 277.88000000000005,
+        "english": "So what, they did use quite a lot of really interesting language, so why don't we look at",
+        "chinese": "所以，他们使用了相当多的非常有趣的语言，因此为什么不看看中文呢？"
+    },
+    {
+        "start": 277.88000000000005,
+        "end": 281.16,
+        "english": "that now in language takeaway?",
+        "chinese": "现在在语言小站？"
+    },
+    {
+        "start": 281.16,
+        "end": 283.16,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 283.16,
+        "end": 288.24,
+        "english": "On language takeaway, we're going to be looking at six words today, so let's get started.",
+        "chinese": "今天，我们将关注六句话。让我们开始吧！"
+    },
+    {
+        "start": 288.24,
+        "end": 292.6,
+        "english": "The announcer welcomed everyone and said that it's open mic night.",
+        "chinese": "播音员欢迎所有人，并说这是一个自由表演之夜。"
+    },
+    {
+        "start": 292.6,
+        "end": 294.0,
+        "english": "Open mic night.",
+        "chinese": "开唱吧。"
+    },
+    {
+        "start": 294.0,
+        "end": 295.72,
+        "english": "So an open mic night.",
+        "chinese": "所以一场公开表演。"
+    },
+    {
+        "start": 295.72,
+        "end": 298.84000000000003,
+        "english": "Okay, well we know mic is short for microphone, right?",
+        "chinese": "是的，我们都知道“mic”就是麦克风的意思。"
+    },
+    {
+        "start": 298.84,
+        "end": 304.76,
+        "english": "Now, an open mic night is a chance where anyone can come up and talk into the microphone.",
+        "chinese": "现在，一个公开朗读的夜晚是一个让人们可以自由发言的机会。"
+    },
+    {
+        "start": 304.76,
+        "end": 309.4,
+        "english": "So you can come up and sing or you can tell jokes, you can do anything basically.",
+        "chinese": "所以你可以过来唱歌或者讲笑话，你什么都可以说。"
+    },
+    {
+        "start": 309.4,
+        "end": 310.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 310.4,
+        "end": 311.4,
+        "english": "All right, open mic night.",
+        "chinese": "好的，开唱吧。"
+    },
+    {
+        "start": 311.4,
+        "end": 314.88,
+        "english": "So it's not for professionals, but for people who maybe want to be professionals.",
+        "chinese": "所以，它不是为专业人士设计的，而是为那些可能想要成为专业人士的人设计的。"
+    },
+    {
+        "start": 314.88,
+        "end": 316.23999999999995,
+        "english": "Right, amateurs.",
+        "chinese": "正确，业余爱好者。"
+    },
+    {
+        "start": 316.23999999999995,
+        "end": 321.03999999999996,
+        "english": "So it was open mic night and he said they had a lot of great comics there.",
+        "chinese": "所以，他开麦克风夜，他说那里有很多好漫画。"
+    },
+    {
+        "start": 321.03999999999996,
+        "end": 322.55999999999995,
+        "english": "So comics.",
+        "chinese": "所以漫画。"
+    },
+    {
+        "start": 322.55999999999995,
+        "end": 323.55999999999995,
+        "english": "A comic.",
+        "chinese": "一个漫画。"
+    },
+    {
+        "start": 323.55999999999995,
+        "end": 324.55999999999995,
+        "english": "A comic.",
+        "chinese": "一个漫画。"
+    },
+    {
+        "start": 324.56,
+        "end": 329.32,
+        "english": "Typically, a comic is a person that makes a living by making people laugh.",
+        "chinese": "通常，漫画是一种通过让人们笑来赚钱的人。"
+    },
+    {
+        "start": 329.32,
+        "end": 332.32,
+        "english": "Yeah, someone who stands up on stage and tells jokes.",
+        "chinese": "是的，站在舞台上讲笑话的人。"
+    },
+    {
+        "start": 332.32,
+        "end": 335.52,
+        "english": "All right, would you say a clown is kind of like a comic?",
+        "chinese": "好的，你愿意说一个木偶像漫画吗？"
+    },
+    {
+        "start": 335.52,
+        "end": 336.52,
+        "english": "No, the difference.",
+        "chinese": "不，差别。"
+    },
+    {
+        "start": 336.52,
+        "end": 337.52,
+        "english": "The different, right?",
+        "chinese": "不同的，对吗？"
+    },
+    {
+        "start": 337.52,
+        "end": 341.32,
+        "english": "A comic doesn't wear a red nose and a crazy costume.",
+        "chinese": "一个漫画不戴红鼻子和疯狂的服装。"
+    },
+    {
+        "start": 341.32,
+        "end": 342.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 342.32,
+        "end": 343.72,
+        "english": "All right, yeah, because I hate clowns.",
+        "chinese": "好的，对的。因为我不喜欢小丑。"
+    },
+    {
+        "start": 343.72,
+        "end": 345.0,
+        "english": "We do know that about you.",
+        "chinese": "我们知道你。"
+    },
+    {
+        "start": 345.0,
+        "end": 347.04,
+        "english": "All right, so a comic.",
+        "chinese": "好的，所以一个漫画。"
+    },
+    {
+        "start": 347.04,
+        "end": 351.52,
+        "english": "And what comics do is they perform a stand-up comedy.",
+        "chinese": "和漫画一样，他们表演滑稽节目。"
+    },
+    {
+        "start": 351.52,
+        "end": 353.0,
+        "english": "Stand-up comedy.",
+        "chinese": "站立喜剧。"
+    },
+    {
+        "start": 353.0,
+        "end": 354.0,
+        "english": "Stand-up comedy.",
+        "chinese": "站立喜剧。"
+    },
+    {
+        "start": 354.0,
+        "end": 359.08,
+        "english": "Okay, so stand-up comedy is really exactly what its name suggests, right?",
+        "chinese": "是的，所以站立喜剧就是它名字所暗示的吗？"
+    },
+    {
+        "start": 359.08,
+        "end": 364.72,
+        "english": "Right, you stand up in front of an audience and you tell jokes or you make them laugh.",
+        "chinese": "是的，您站在观众面前，并且您讲述笑话或让他们笑。"
+    },
+    {
+        "start": 364.72,
+        "end": 366.12,
+        "english": "Yeah, tell funny stories.",
+        "chinese": "是的，讲些有趣的故事。"
+    },
+    {
+        "start": 366.12,
+        "end": 370.36,
+        "english": "It's a very popular form of entertainment in the United States and the UK.",
+        "chinese": "美国和英国的受欢迎形式之一是观看电影。"
+    },
+    {
+        "start": 370.36,
+        "end": 371.36,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 371.36,
+        "end": 374.64,
+        "english": "And I think we'll talk a little bit more about that at the end of the lesson.",
+        "chinese": "至于那句话，我建议我们将在课后谈谈。"
+    },
+    {
+        "start": 374.64,
+        "end": 378.88,
+        "english": "But why don't we move on to our next word, which is routine?",
+        "chinese": "但是，我们为什么不把我们的下一个词带下去，那就是常规的？"
+    },
+    {
+        "start": 378.88,
+        "end": 379.88,
+        "english": "A routine.",
+        "chinese": "一个例行程序。"
+    },
+    {
+        "start": 379.88,
+        "end": 382.84,
+        "english": "So the guy says, I've been working on my routine.",
+        "chinese": "所以那个家伙说，我一直在我的例行事务上工作。"
+    },
+    {
+        "start": 382.84,
+        "end": 385.15999999999997,
+        "english": "So what does he mean by his routine?",
+        "chinese": "所以，他为什么要按照他的常规行事？"
+    },
+    {
+        "start": 385.15999999999997,
+        "end": 392.91999999999996,
+        "english": "Well, I guess a routine is like a series or a collection of jokes or maybe movements that",
+        "chinese": "嗯，大概吧。一个常规就是像笑话、或者可能是动作或运动那样的一系列或集合的笑话或动作。"
+    },
+    {
+        "start": 392.91999999999996,
+        "end": 394.44,
+        "english": "you use in a performance.",
+        "chinese": "您使用在性能。"
+    },
+    {
+        "start": 394.44,
+        "end": 396.44,
+        "english": "All right, a routine.",
+        "chinese": "好的，例行工作。"
+    },
+    {
+        "start": 396.44,
+        "end": 399.03999999999996,
+        "english": "So you can talk about a dance routine.",
+        "chinese": "所以你可以谈论一个舞步。"
+    },
+    {
+        "start": 399.03999999999996,
+        "end": 401.79999999999995,
+        "english": "Or in this case, a comedy routine.",
+        "chinese": "在这种情况中，可以有一个喜剧表演。"
+    },
+    {
+        "start": 401.79999999999995,
+        "end": 403.76,
+        "english": "So the series of jokes he's going to tell.",
+        "chinese": "所以，他将要讲的系列笑话。"
+    },
+    {
+        "start": 403.76,
+        "end": 406.4,
+        "english": "That's right, that he practices again and again and again.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 406.4,
+        "end": 407.4,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 407.4,
+        "end": 410.55999999999995,
+        "english": "And in his routine, he said he's got a lot of zingers.",
+        "chinese": "在例行公事中，他说道他已经有很多亮点。"
+    },
+    {
+        "start": 410.56,
+        "end": 413.08,
+        "english": "A zinger.",
+        "chinese": "一个“zinger”。"
+    },
+    {
+        "start": 413.08,
+        "end": 414.6,
+        "english": "So what's a zinger?",
+        "chinese": "所以，什么是“一语道破”？"
+    },
+    {
+        "start": 414.6,
+        "end": 418.84,
+        "english": "Basically a zinger is like a strong, maybe a little bit rude joke.",
+        "chinese": "基本来说，一个“zinger”就像一个既有力气又有点粗鲁的笑话。"
+    },
+    {
+        "start": 418.84,
+        "end": 421.28000000000003,
+        "english": "Yeah, but like a kind of a one-line joke, right?",
+        "chinese": "是的，但像一种一言一笑的滑稽，对吗？"
+    },
+    {
+        "start": 421.28000000000003,
+        "end": 422.88,
+        "english": "Right, exactly.",
+        "chinese": "正确，完全。"
+    },
+    {
+        "start": 422.88,
+        "end": 428.04,
+        "english": "And the people that were in the crowd and they were booing him, they're like boo, those",
+        "chinese": "和在人群中的人们一起，他们像在说：“啊！”，那些"
+    },
+    {
+        "start": 428.04,
+        "end": 429.36,
+        "english": "we call hecklers.",
+        "chinese": "我们称排挤者。"
+    },
+    {
+        "start": 429.36,
+        "end": 430.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 430.36,
+        "end": 431.84000000000003,
+        "english": "And that's our last word, a heckler.",
+        "chinese": "最后的话，一个大呼其难听的人。"
+    },
+    {
+        "start": 431.84000000000003,
+        "end": 432.84000000000003,
+        "english": "A heckler.",
+        "chinese": "一个打断者。"
+    },
+    {
+        "start": 432.84000000000003,
+        "end": 434.2,
+        "english": "Hecklers.",
+        "chinese": "哈哈哈哈哈。"
+    },
+    {
+        "start": 434.2,
+        "end": 437.36,
+        "english": "So let's listen to some hecklers in action.",
+        "chinese": "所以，让我们听听在行动。"
+    },
+    {
+        "start": 440.56,
+        "end": 445.36,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 445.36,
+        "end": 446.72,
+        "english": "Well, I think that's pretty clear.",
+        "chinese": "嗯，我觉得这很明确。"
+    },
+    {
+        "start": 446.72,
+        "end": 448.32,
+        "english": "Those are definitely hecklers.",
+        "chinese": "这些肯定是挑衅者。"
+    },
+    {
+        "start": 448.32,
+        "end": 450.16,
+        "english": "Right, they're very annoying.",
+        "chinese": "正确，他们很烦人。"
+    },
+    {
+        "start": 450.16,
+        "end": 456.08,
+        "english": "So now that we've finished looking at all the words that are related to comedy and performances,",
+        "chinese": "所以现在，我们已经看了所有与喜剧和表演相关的词，"
+    },
+    {
+        "start": 456.08,
+        "end": 461.0,
+        "english": "let's take a look at the jokes now in Fluency Builder.",
+        "chinese": "现在，让我们看看在 Fluent Builder 中的笑话。"
+    },
+    {
+        "start": 461.0,
+        "end": 462.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 462.0,
+        "end": 466.92,
+        "english": "Okay, well, we're not really focusing on new phrases for you here, but we thought it",
+        "chinese": "好的，嗯，我们在这里不真正关注你这里的新词，但我们觉得这很好。"
+    },
+    {
+        "start": 466.92,
+        "end": 471.56,
+        "english": "would be helpful to talk a little bit about the jokes to help you understand them, right?",
+        "chinese": "是的，我可以帮助你谈谈一些笑话，以便更好地理解它们。"
+    },
+    {
+        "start": 471.56,
+        "end": 473.24,
+        "english": "Because they are, well, I think pretty funny.",
+        "chinese": "因为它们，嗯，我觉得挺有趣的。"
+    },
+    {
+        "start": 473.24,
+        "end": 478.56,
+        "english": "Yeah, they're pretty funny, but maybe sometimes they're kind of hard to understand.",
+        "chinese": "是的，他们挺有趣的，但有时候可能有点难以理解。"
+    },
+    {
+        "start": 478.56,
+        "end": 480.72,
+        "english": "So why don't we start with the first joke?",
+        "chinese": "所以为什么不先说第一个笑话呢？"
+    },
+    {
+        "start": 480.72,
+        "end": 483.36,
+        "english": "So you said where do you find a one-legged dog?",
+        "chinese": "所以你说你在哪里能找到一只瘸腿狗？"
+    },
+    {
+        "start": 483.36,
+        "end": 485.52000000000004,
+        "english": "So what's a one-legged dog?",
+        "chinese": "所以，一只脚不能站的狗是什么样的？"
+    },
+    {
+        "start": 485.52000000000004,
+        "end": 487.52000000000004,
+        "english": "Basically, it's a dog that has one leg.",
+        "chinese": "基本来说，它是一只有腿的狗。"
+    },
+    {
+        "start": 487.52000000000004,
+        "end": 488.52000000000004,
+        "english": "Ah, okay.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 488.52000000000004,
+        "end": 490.32,
+        "english": "And the pronunciation here is important, right?",
+        "chinese": "是的，这里发音很重要。"
+    },
+    {
+        "start": 490.32,
+        "end": 491.32,
+        "english": "One leg.",
+        "chinese": "一腿。"
+    },
+    {
+        "start": 491.32,
+        "end": 492.32,
+        "english": "Not one leg, duh.",
+        "chinese": "不有一条腿，duh."
+    },
+    {
+        "start": 492.32,
+        "end": 493.32,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 493.32,
+        "end": 494.32,
+        "english": "One leg, duh.",
+        "chinese": "一腿，duh."
+    },
+    {
+        "start": 494.32,
+        "end": 498.52,
+        "english": "One leg, a dog, a two-legged dog, or three-legged dogs.",
+        "chinese": "一腿，一只狗，或者三脚狗。"
+    },
+    {
+        "start": 498.52,
+        "end": 499.52,
+        "english": "Six-legged dog?",
+        "chinese": "六脚狗？"
+    },
+    {
+        "start": 499.52,
+        "end": 502.92,
+        "english": "A six-legged spider, maybe lost two legs in a war.",
+        "chinese": "一个六足的蜘蛛，可能在一场战争中失去了两条腿。"
+    },
+    {
+        "start": 502.92,
+        "end": 503.92,
+        "english": "Oh dear.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 503.92,
+        "end": 508.32,
+        "english": "Okay, so the dog obviously didn't go anywhere, and so that's why you find it, where you left",
+        "chinese": "好的，所以狗显然没有去任何地方，因此你发现它，是因为你离开了。"
+    },
+    {
+        "start": 508.32,
+        "end": 509.32,
+        "english": "it.",
+        "chinese": "它。"
+    },
+    {
+        "start": 509.32,
+        "end": 510.32,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 510.32,
+        "end": 511.52,
+        "english": "So that's why it's kind of funny.",
+        "chinese": "所以，这其实挺有趣的。"
+    },
+    {
+        "start": 511.52,
+        "end": 512.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 512.52,
+        "end": 516.92,
+        "english": "Alright, so then he said, what do you call a sheep with no legs?",
+        "chinese": "好的，那么他说，你叫一只没有腿的羊。"
+    },
+    {
+        "start": 516.92,
+        "end": 517.92,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 517.92,
+        "end": 523.24,
+        "english": "A cloud, basically, because sheep are fluffy and they're white, so if you take away",
+        "chinese": "云，基本上，因为羊是毛茸茸的和白色的，所以如果你去掉"
+    },
+    {
+        "start": 523.24,
+        "end": 525.84,
+        "english": "their legs, they look like a little cloud.",
+        "chinese": "他们的腿，看起来像一团云。"
+    },
+    {
+        "start": 525.84,
+        "end": 526.84,
+        "english": "Buh.",
+        "chinese": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 526.84,
+        "end": 529.52,
+        "english": "Alright, let's look at the next one.",
+        "chinese": "好的，让我们看看下一个。"
+    },
+    {
+        "start": 529.52,
+        "end": 533.32,
+        "english": "He asked, what do cows do for entertainment?",
+        "chinese": "他问，牛做什么娱乐？"
+    },
+    {
+        "start": 533.32,
+        "end": 536.4,
+        "english": "And then the answer was, they rent movies.",
+        "chinese": "然后答案是，他们租电影。"
+    },
+    {
+        "start": 536.4,
+        "end": 537.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 537.4,
+        "end": 544.2,
+        "english": "So it's kind of funny because he's relating this word movies with what the sound that cows",
+        "chinese": "所以，这有点有趣，因为他正在用这个词与什么声音的奶牛有关。"
+    },
+    {
+        "start": 544.2,
+        "end": 545.6,
+        "english": "make, which is moo.",
+        "chinese": "make, which is moo.\" 翻译成中文是：“做，这是马。”"
+    },
+    {
+        "start": 545.6,
+        "end": 550.8,
+        "english": "Right, and actually, there are a million jokes in English following the same pattern,",
+        "chinese": "是的，实际上，在英语中也有成千上万个模仿同一模式的笑话。"
+    },
+    {
+        "start": 550.8,
+        "end": 551.8,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 551.8,
+        "end": 555.3199999999999,
+        "english": "Yeah, so I'm sure you can find a lot more of them and you can share them with us.",
+        "chinese": "是的，所以我肯定能找到更多的它们，并且可以将它们分享给我们。"
+    },
+    {
+        "start": 555.3199999999999,
+        "end": 560.68,
+        "english": "Now my personal favorite joke is the guy says, what does a fish say when it runs into a",
+        "chinese": "我的个人最爱笑话是这个家伙说，当鱼遇到它时，会说什么？"
+    },
+    {
+        "start": 560.68,
+        "end": 561.68,
+        "english": "wall?",
+        "chinese": "墙？ (Wān? )"
+    },
+    {
+        "start": 561.68,
+        "end": 564.8399999999999,
+        "english": "So to run into a wall basically is to crash against a wall.",
+        "chinese": "所以遇到障碍，基本上就是撞向障碍。"
+    },
+    {
+        "start": 564.8399999999999,
+        "end": 565.8399999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 565.8399999999999,
+        "end": 566.8399999999999,
+        "english": "So what does a fish say?",
+        "chinese": "所以，鱼说些什么？"
+    },
+    {
+        "start": 566.8399999999999,
+        "end": 567.8399999999999,
+        "english": "Damn.",
+        "chinese": "啊。"
+    },
+    {
+        "start": 567.8399999999999,
+        "end": 568.8399999999999,
+        "english": "So why is this funny?",
+        "chinese": "所以为什么这么有趣？"
+    },
+    {
+        "start": 568.8399999999999,
+        "end": 569.8399999999999,
+        "english": "Why is this a damn?",
+        "chinese": "为什么是这么一个糟糕的？"
+    },
+    {
+        "start": 569.8399999999999,
+        "end": 575.64,
+        "english": "Well, because if you're a person and you run into a wall, damn, like, you know, just like,",
+        "chinese": "嗯，因为如果你是一个人，遇到一个障碍，哎呀，就像……"
+    },
+    {
+        "start": 575.64,
+        "end": 577.64,
+        "english": "oh no, yeah.",
+        "chinese": "对不起，是的。"
+    },
+    {
+        "start": 577.64,
+        "end": 582.52,
+        "english": "A fish is swimming under the water and like we saw a damn is actually like a wall in the",
+        "chinese": "一个鱼儿正在水下游动，就像我们看到的那样，实际上是一个墙。"
+    },
+    {
+        "start": 582.52,
+        "end": 583.52,
+        "english": "water.",
+        "chinese": "水。 (Wǎn.)"
+    },
+    {
+        "start": 583.52,
+        "end": 585.4,
+        "english": "So he's saying like, oh, a wall?",
+        "chinese": "所以他说，嗯，一个墙？"
+    },
+    {
+        "start": 585.4,
+        "end": 586.48,
+        "english": "Yeah, yeah, yeah.",
+        "chinese": "是的，是的，是的。"
+    },
+    {
+        "start": 586.48,
+        "end": 588.4,
+        "english": "So I like that one.",
+        "chinese": "所以我喜欢那个。"
+    },
+    {
+        "start": 588.4,
+        "end": 589.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 589.4,
+        "end": 591.04,
+        "english": "The last one was pretty good.",
+        "chinese": "这个最后一个还不错。"
+    },
+    {
+        "start": 591.04,
+        "end": 593.08,
+        "english": "Why do gorillas have big nostrils?",
+        "chinese": "为什么猩猩有大鼻孔？"
+    },
+    {
+        "start": 593.08,
+        "end": 595.36,
+        "english": "Okay, so the big poles and their nose.",
+        "chinese": "好的，那么大柱子和它们的鼻子。"
+    },
+    {
+        "start": 595.36,
+        "end": 596.36,
+        "english": "Right.",
+        "chinese": "右。 (Rì shàng.)"
+    },
+    {
+        "start": 596.36,
+        "end": 599.28,
+        "english": "And basically it's because they have big fingers.",
+        "chinese": "而且，它们的拇指很大。"
+    },
+    {
+        "start": 599.28,
+        "end": 600.92,
+        "english": "So they can put their fingers in the nose?",
+        "chinese": "所以他们可以把手放在鼻子上？"
+    },
+    {
+        "start": 600.92,
+        "end": 601.92,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 601.92,
+        "end": 602.92,
+        "english": "How do you?",
+        "chinese": "你好！（Wǒmen nǐ?）"
+    },
+    {
+        "start": 602.92,
+        "end": 606.08,
+        "english": "If the gorilla didn't have big nostrils, he wouldn't be able to pick his nose.",
+        "chinese": "如果大猩猩没有长大的鼻孔，他就不容易抓鼻子。"
+    },
+    {
+        "start": 606.08,
+        "end": 607.36,
+        "english": "You'd have to use a stick.",
+        "chinese": "您需要使用一根棍子。"
+    },
+    {
+        "start": 607.36,
+        "end": 609.36,
+        "english": "Yeah, but that wouldn't be convincing, see?",
+        "chinese": "是的，但那就不够说服人了，你看？"
+    },
+    {
+        "start": 609.36,
+        "end": 610.36,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 610.36,
+        "end": 612.2800000000001,
+        "english": "So that's why those jokes are funny.",
+        "chinese": "所以，这些笑话是有趣的。"
+    },
+    {
+        "start": 612.2800000000001,
+        "end": 613.5200000000001,
+        "english": "They're very short jokes.",
+        "chinese": "他们很短的笑话。"
+    },
+    {
+        "start": 613.5200000000001,
+        "end": 618.08,
+        "english": "Of course, some of them are not actually really funny, but it's just a little bit of a",
+        "chinese": "当然，有些是不实际的，但只是稍微有点逗趣。"
+    },
+    {
+        "start": 618.08,
+        "end": 620.6,
+        "english": "taste of short American jokes.",
+        "chinese": "尝美国短笑话的味。"
+    },
+    {
+        "start": 620.6,
+        "end": 621.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 621.6,
+        "end": 626.2800000000001,
+        "english": "Well, I think we need to hear them one more time in context so you can all know how funny",
+        "chinese": "嗯，我认为我们有必要再听一遍，以便大家都能明白你们的笑话是多么有趣。"
+    },
+    {
+        "start": 626.2800000000001,
+        "end": 628.2,
+        "english": "or maybe not so funny.",
+        "chinese": "或者可能不那么有趣。"
+    },
+    {
+        "start": 628.2,
+        "end": 635.2,
+        "english": "They are.",
+        "chinese": "他们。"
+    },
+    {
+        "start": 635.2,
+        "end": 638.4000000000001,
+        "english": "Hello, everyone, and welcome to Open Mike Knight.",
+        "chinese": "大家好，欢迎来到开米·克林特。"
+    },
+    {
+        "start": 638.4000000000001,
+        "end": 643.4000000000001,
+        "english": "You're in for a real treat as we've got a lot of great comics here with us tonight.",
+        "chinese": "您今天将要体验到一场真正的盛宴，因为我们今晚有好多好笑的漫画等着我们。"
+    },
+    {
+        "start": 643.4000000000001,
+        "end": 648.36,
+        "english": "First up, we have a very funny man coming straight from the state of Montana.",
+        "chinese": "首先，我们有一个从美国加利福尼亚州来的非常有趣的男子。"
+    },
+    {
+        "start": 648.36,
+        "end": 651.9200000000001,
+        "english": "Robert Hicks.",
+        "chinese": "李勇辉"
+    },
+    {
+        "start": 651.9200000000001,
+        "end": 653.1600000000001,
+        "english": "Thank you, everyone.",
+        "chinese": "谢谢，大家。"
+    },
+    {
+        "start": 653.1600000000001,
+        "end": 655.12,
+        "english": "Well, what a lovely crowd.",
+        "chinese": "好的，一个可爱的观众群。"
+    },
+    {
+        "start": 655.12,
+        "end": 659.2800000000001,
+        "english": "You know, there's nothing I love better than stand-up comedy.",
+        "chinese": "我知道，没有什么比站着说笑话更让我喜欢了。"
+    },
+    {
+        "start": 659.2800000000001,
+        "end": 663.9200000000001,
+        "english": "You know, I've been working on my routine for months now and I've got some real singers",
+        "chinese": "我知道我已经一直在我的例行程序上工作了几个月，我有一些真正的歌手。"
+    },
+    {
+        "start": 663.92,
+        "end": 665.4,
+        "english": "for you tonight.",
+        "chinese": "今晚对你来说。"
+    },
+    {
+        "start": 665.4,
+        "end": 667.68,
+        "english": "Let's start out with some short jokes.",
+        "chinese": "让我们从一些短笑话开始。"
+    },
+    {
+        "start": 667.68,
+        "end": 669.0,
+        "english": "How about that?",
+        "chinese": "如何呢？"
+    },
+    {
+        "start": 669.0,
+        "end": 674.04,
+        "english": "Where do you find a one-legged dog?",
+        "chinese": "在哪儿能找到一只瘸腿狗？"
+    },
+    {
+        "start": 674.04,
+        "end": 679.4799999999999,
+        "english": "Where you left it.",
+        "chinese": "在你那里。"
+    },
+    {
+        "start": 679.4799999999999,
+        "end": 680.4799999999999,
+        "english": "Get it?",
+        "chinese": "Get it? (This is an English phrase that translates to \"请给我听\" in Chinese.)"
+    },
+    {
+        "start": 680.4799999999999,
+        "end": 682.28,
+        "english": "Mm, anyways.",
+        "chinese": "嗯，算了。"
+    },
+    {
+        "start": 682.28,
+        "end": 685.3199999999999,
+        "english": "What do you call a sheep with no legs?",
+        "chinese": "请问，你叫什么来着？有腿的羊是什么样的？"
+    },
+    {
+        "start": 685.3199999999999,
+        "end": 686.7199999999999,
+        "english": "A cloud.",
+        "chinese": "云。"
+    },
+    {
+        "start": 686.7199999999999,
+        "end": 690.3199999999999,
+        "english": "Oh, it's a tough crowd.",
+        "chinese": "哦，这是一个难缠的群体。"
+    },
+    {
+        "start": 690.3199999999999,
+        "end": 691.3199999999999,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 691.3199999999999,
+        "end": 692.64,
+        "english": "Now you're going to love this joke.",
+        "chinese": "现在你一定会喜欢这个笑话。"
+    },
+    {
+        "start": 692.64,
+        "end": 693.64,
+        "english": "It's hilarious.",
+        "chinese": "很好笑。"
+    },
+    {
+        "start": 693.68,
+        "end": 697.24,
+        "english": "What do cows do for entertainment?",
+        "chinese": "请问，牛做什么来娱乐？"
+    },
+    {
+        "start": 697.24,
+        "end": 699.64,
+        "english": "They read movies.",
+        "chinese": "他们看电影。"
+    },
+    {
+        "start": 699.64,
+        "end": 700.64,
+        "english": "Movies.",
+        "chinese": "电影。"
+    },
+    {
+        "start": 700.64,
+        "end": 707.76,
+        "english": "Okay, okay, okay.",
+        "chinese": "好的，好的，好的。"
+    },
+    {
+        "start": 707.76,
+        "end": 711.76,
+        "english": "We've got a few hecklers in the audience, but this one is good.",
+        "chinese": "我们有几位观众在场，但这个观众很好。"
+    },
+    {
+        "start": 711.76,
+        "end": 715.76,
+        "english": "What does a fish say when it runs into a wall?",
+        "chinese": "鱼在碰到墙壁时会说什么？"
+    },
+    {
+        "start": 715.76,
+        "end": 716.76,
+        "english": "Damn.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 716.76,
+        "end": 725.6,
+        "english": "Okay, okay, okay.",
+        "chinese": "好的，好的，好的。"
+    },
+    {
+        "start": 725.6,
+        "end": 726.6,
+        "english": "Last one.",
+        "chinese": "最后。"
+    },
+    {
+        "start": 726.6,
+        "end": 730.48,
+        "english": "Why do gorillas have big nostrils?",
+        "chinese": "为什么猩猩有大鼻孔？"
+    },
+    {
+        "start": 730.48,
+        "end": 732.68,
+        "english": "Because they got big fingers.",
+        "chinese": "因为他们的手指大。"
+    },
+    {
+        "start": 732.68,
+        "end": 736.24,
+        "english": "They got big fingers.",
+        "chinese": "他们长出了大手指。"
+    },
+    {
+        "start": 736.24,
+        "end": 739.72,
+        "english": "Thanks, everyone.",
+        "chinese": "谢谢，大家。"
+    },
+    {
+        "start": 739.72,
+        "end": 743.52,
+        "english": "That was my time.",
+        "chinese": "这是我时间。"
+    },
+    {
+        "start": 747.76,
+        "end": 752.12,
+        "english": "Now, if you have any good jokes of your own, why don't you come to our website and tell",
+        "chinese": "现在，如果你有自己独特的笑话，请不要犹豫，我们可以一起分享你的笑话。"
+    },
+    {
+        "start": 752.12,
+        "end": 753.12,
+        "english": "us about them.",
+        "chinese": "美国关于他们。"
+    },
+    {
+        "start": 753.12,
+        "end": 755.2,
+        "english": "Right, come to EnglishPod.com.",
+        "chinese": "正确，来英语pod.com。"
+    },
+    {
+        "start": 755.2,
+        "end": 756.4399999999999,
+        "english": "Share with us any jokes.",
+        "chinese": "请将这些笑话分享给我。"
+    },
+    {
+        "start": 756.4399999999999,
+        "end": 758.08,
+        "english": "Of course, they have to be clean.",
+        "chinese": "当然，他们必须干净。"
+    },
+    {
+        "start": 758.08,
+        "end": 759.08,
+        "english": "Don't come when you're...",
+        "chinese": "不要等你..."
+    },
+    {
+        "start": 759.08,
+        "end": 760.08,
+        "english": "No, yeah.",
+        "chinese": "是的，对。"
+    },
+    {
+        "start": 760.08,
+        "end": 761.08,
+        "english": "No swearing.",
+        "chinese": "在中文中，\"No swearing.\" 翻译成普通话是 \"不骂人。\" 或者更简洁地表达为 \"不骂人。\" 但在正式或正式的场合，通常会使用 \"不骂人\" 这个短语来表示不要说脏话、粗话或者冒犯他人的话。"
+    },
+    {
+        "start": 761.08,
+        "end": 762.08,
+        "english": "No swearing in the jokes.",
+        "chinese": "在滑稽的笑话中，不要说 swear words."
+    },
+    {
+        "start": 762.08,
+        "end": 763.08,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 763.08,
+        "end": 765.24,
+        "english": "All right, so we'll see you guys there and until next time.",
+        "chinese": "好的，那么我们将在下次见面。"
+    },
+    {
+        "start": 765.24,
+        "end": 766.72,
+        "english": "Thanks for listening and goodbye.",
+        "chinese": "谢谢你的倾听，再见。"
+    },
+    {
+        "start": 766.72,
+        "end": 766.92,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

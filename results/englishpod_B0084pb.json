@@ -1,0 +1,1676 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.0,
+        "english": "Hello everyone, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "你好，大家，欢迎再次来到英语听力。我的名字是马克。"
+    },
+    {
+        "start": 5.0,
+        "end": 6.0,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.0,
+        "end": 8.0,
+        "english": "And where are we going today, Erica?",
+        "chinese": "今天我们去哪里，艾瑞克？"
+    },
+    {
+        "start": 8.0,
+        "end": 10.0,
+        "english": "To the pharmacy.",
+        "chinese": "给药处。"
+    },
+    {
+        "start": 10.0,
+        "end": 12.0,
+        "english": "Alright, to the pharmacy or drugstore?",
+        "chinese": "好的，去药店或药房吗？"
+    },
+    {
+        "start": 12.0,
+        "end": 13.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 13.0,
+        "end": 17.0,
+        "english": "Or also in British English, sometimes people will say the chemist.",
+        "chinese": "英语：或者也可以说化学家。"
+    },
+    {
+        "start": 17.0,
+        "end": 18.0,
+        "english": "That's right.",
+        "chinese": "正确翻译：那对吧。"
+    },
+    {
+        "start": 18.0,
+        "end": 20.0,
+        "english": "So as you know, at the pharmacy you get medicine,",
+        "chinese": "所以，你知道在药店里，你得到药剂了吗？"
+    },
+    {
+        "start": 20.0,
+        "end": 25.0,
+        "english": "but there are certain vocabulary words that are related to this place that we need to learn.",
+        "chinese": "但是这里有一些与这个地方相关的词汇，我们需要学习。"
+    },
+    {
+        "start": 25.0,
+        "end": 29.0,
+        "english": "That's right, so we're going to learn some vocabulary about medicine",
+        "chinese": "英语：那对，所以我们要学习一些关于医药的词汇。"
+    },
+    {
+        "start": 29.0,
+        "end": 31.0,
+        "english": "and also some interesting phrases.",
+        "chinese": "和还有些有趣的表达。"
+    },
+    {
+        "start": 31.0,
+        "end": 35.0,
+        "english": "So before we listen to the dialogue, let's take a look at vocabulary preview.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 35.0,
+        "end": 37.0,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 37.0,
+        "end": 41.0,
+        "english": "We're going to look at two words today that you'll hear in the dialogue.",
+        "chinese": "今天我们要听的两个词是：点和拍，你将在对话中听到。"
+    },
+    {
+        "start": 41.0,
+        "end": 44.0,
+        "english": "And the first one, milligrams.",
+        "chinese": "第一种，毫克。"
+    },
+    {
+        "start": 44.0,
+        "end": 45.0,
+        "english": "Milligrams.",
+        "chinese": "毫克。"
+    },
+    {
+        "start": 45.0,
+        "end": 46.0,
+        "english": "Milligrams.",
+        "chinese": "毫克。"
+    },
+    {
+        "start": 46.0,
+        "end": 49.0,
+        "english": "Also the abbreviation for this is mg.",
+        "chinese": "另外，这个缩写是mg。"
+    },
+    {
+        "start": 49.0,
+        "end": 50.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 50.0,
+        "end": 52.0,
+        "english": "Okay, so a milligram is...",
+        "chinese": "好的，那么一个毫克是..."
+    },
+    {
+        "start": 52.0,
+        "end": 54.0,
+        "english": "A hundredth of a gram.",
+        "chinese": "一百分之一克。"
+    },
+    {
+        "start": 54.0,
+        "end": 57.0,
+        "english": "So there are 100 milligrams in a gram.",
+        "chinese": "所以，一克等于十毫克。"
+    },
+    {
+        "start": 57.0,
+        "end": 58.0,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 58.0,
+        "end": 60.0,
+        "english": "And it's very common to be used with medicine, right?",
+        "chinese": "而且，用在药剂上也是很常见的。"
+    },
+    {
+        "start": 60.0,
+        "end": 61.0,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 61.0,
+        "end": 63.0,
+        "english": "By medicine in milligrams.",
+        "chinese": "英语：通过毫克来治疗。"
+    },
+    {
+        "start": 63.0,
+        "end": 65.0,
+        "english": "Okay, and what's our next word?",
+        "chinese": "好的，我们的下一个词是什么？"
+    },
+    {
+        "start": 65.0,
+        "end": 66.0,
+        "english": "Price check.",
+        "chinese": "价格检查。"
+    },
+    {
+        "start": 66.0,
+        "end": 67.0,
+        "english": "A price check.",
+        "chinese": "英语：一个价格检查。"
+    },
+    {
+        "start": 67.0,
+        "end": 68.0,
+        "english": "A price check.",
+        "chinese": "价格检查。"
+    },
+    {
+        "start": 68.0,
+        "end": 76.0,
+        "english": "Okay, so at the pharmacy or at the supermarket, sometimes the cashier will ask for a price check.",
+        "chinese": "英语：好的，所以有时候在药店或超市的收银员会要求价格检查。"
+    },
+    {
+        "start": 76.0,
+        "end": 81.0,
+        "english": "And that is the action of checking to find out the price.",
+        "chinese": "这句话的中文翻译是：“那就是通过检查来找到价格。”"
+    },
+    {
+        "start": 81.0,
+        "end": 83.0,
+        "english": "Okay, so a price check.",
+        "chinese": "好的，所以价格检查。"
+    },
+    {
+        "start": 83.0,
+        "end": 87.0,
+        "english": "With this, I think we're ready now to listen to our dialogue for the first time.",
+        "chinese": "现在，我认为我们已经准备好倾听我们的对话第一次。"
+    },
+    {
+        "start": 87.0,
+        "end": 90.0,
+        "english": "And let's see what our shopper is buying at the pharmacy.",
+        "chinese": "英语：和我们去药房看看我们的顾客正在买什么。"
+    },
+    {
+        "start": 90.0,
+        "end": 100.0,
+        "english": "Hello, sir.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 100.0,
+        "end": 101.0,
+        "english": "How can I help you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 101.0,
+        "end": 104.0,
+        "english": "Yes, I need this prescription, please.",
+        "chinese": "是的，我需要这个处方，请。"
+    },
+    {
+        "start": 104.0,
+        "end": 105.0,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 105.0,
+        "end": 108.0,
+        "english": "Okay, so 50 milligrams of prozac.",
+        "chinese": "好的，50毫克的丙戊酸钠。"
+    },
+    {
+        "start": 108.0,
+        "end": 111.0,
+        "english": "Would you prefer this in capsule or tablet?",
+        "chinese": "英语：你更喜欢这个放在小本本上还是平板电脑？"
+    },
+    {
+        "start": 111.0,
+        "end": 112.0,
+        "english": "Capulet, right.",
+        "chinese": "角儿，对。"
+    },
+    {
+        "start": 112.0,
+        "end": 116.0,
+        "english": "Okay, you should take one capsule three times a day.",
+        "chinese": "好的，你每天应该吃一个胶囊三次。"
+    },
+    {
+        "start": 116.0,
+        "end": 121.0,
+        "english": "Be sure not to take it on an empty stomach and also don't ever mix it with alcohol.",
+        "chinese": "请告诉我，您需要我如何帮助您？"
+    },
+    {
+        "start": 121.0,
+        "end": 122.0,
+        "english": "Yes, I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 122.0,
+        "end": 124.0,
+        "english": "It's not the first time I'm taking this.",
+        "chinese": "英语：它不是我第一次拍这个。"
+    },
+    {
+        "start": 124.0,
+        "end": 126.0,
+        "english": "Don't worry, I won't overdose.",
+        "chinese": "英语：不要担心，我不会过度。"
+    },
+    {
+        "start": 126.0,
+        "end": 127.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 127.0,
+        "end": 129.0,
+        "english": "Anything else I can get you?",
+        "chinese": "请告诉我更多关于您要翻译的文本。"
+    },
+    {
+        "start": 129.0,
+        "end": 131.0,
+        "english": "Oh, yes, I almost forgot.",
+        "chinese": "英语：哦，对了，我差点忘了。"
+    },
+    {
+        "start": 131.0,
+        "end": 135.0,
+        "english": "Can I also get some eye drops and some condoms?",
+        "chinese": "英语：我能也得到一些眼药水和避孕套吗？"
+    },
+    {
+        "start": 135.0,
+        "end": 136.0,
+        "english": "Sure.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 136.0,
+        "end": 140.0,
+        "english": "Darn condoms aren't registered in our system.",
+        "chinese": "英语：这不登记在我们系统里。"
+    },
+    {
+        "start": 140.0,
+        "end": 141.0,
+        "english": "Well, that's okay.",
+        "chinese": "好的，没关系。"
+    },
+    {
+        "start": 141.0,
+        "end": 142.0,
+        "english": "I'll get some later.",
+        "chinese": "我将尽快完成。"
+    },
+    {
+        "start": 142.0,
+        "end": 143.0,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 143.0,
+        "end": 144.0,
+        "english": "Really, it's no problem.",
+        "chinese": "真的，它没问题。"
+    },
+    {
+        "start": 144.0,
+        "end": 147.0,
+        "english": "Just hang on there a sec.",
+        "chinese": "请稍等一下。"
+    },
+    {
+        "start": 147.0,
+        "end": 149.0,
+        "english": "Can I get a price check on?",
+        "chinese": "英语：我能查一下价格吗？"
+    },
+    {
+        "start": 149.0,
+        "end": 151.0,
+        "english": "Fun times, rib condoms, please.",
+        "chinese": "快乐时光，避孕套，请。"
+    },
+    {
+        "start": 151.0,
+        "end": 160.0,
+        "english": "Oh no, how embarrassing.",
+        "chinese": "对不起，太尴尬了。"
+    },
+    {
+        "start": 160.0,
+        "end": 166.0,
+        "english": "A little bit embarrassing that she asked for a price check on these condoms, right?",
+        "chinese": "英语：她问这些避孕套的价格，是不是有点尴尬？"
+    },
+    {
+        "start": 166.0,
+        "end": 167.0,
+        "english": "Yeah, but you know what?",
+        "chinese": "是的，但你知道吗？"
+    },
+    {
+        "start": 167.0,
+        "end": 172.0,
+        "english": "It seems like every time you have to buy something embarrassing at the pharmacy, there's a million people watching you.",
+        "chinese": "似乎每次你都要在药店买个尴尬的东西，总有一千人看着你。"
+    },
+    {
+        "start": 172.0,
+        "end": 173.0,
+        "english": "Yeah, yeah, yeah.",
+        "chinese": "嗯，嗯，嗯。"
+    },
+    {
+        "start": 173.0,
+        "end": 174.0,
+        "english": "It never fails.",
+        "chinese": "英语：它从不失败。"
+    },
+    {
+        "start": 174.0,
+        "end": 175.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 175.0,
+        "end": 181.0,
+        "english": "Well, let's take a look at some of those words that we were talking about related to medicine in language takeaway.",
+        "chinese": "嗯，让我们看看我们之前讨论的一些与语言小贴士相关的词汇。"
+    },
+    {
+        "start": 181.0,
+        "end": 185.0,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 185.0,
+        "end": 188.0,
+        "english": "Alright, well, the first word, a prescription.",
+        "chinese": "好的，好的，第一个字是处方。"
+    },
+    {
+        "start": 188.0,
+        "end": 189.0,
+        "english": "Prescription.",
+        "chinese": "处方。"
+    },
+    {
+        "start": 189.0,
+        "end": 190.0,
+        "english": "Prescription.",
+        "chinese": "处方。"
+    },
+    {
+        "start": 190.0,
+        "end": 193.0,
+        "english": "Alright, so what is a prescription?",
+        "chinese": "好的，那么什么是处方？"
+    },
+    {
+        "start": 193.0,
+        "end": 198.0,
+        "english": "Prescription is a note from your doctor explaining what medicine you need.",
+        "chinese": "处方是医生给你写的一份说明你需要服用的药物。"
+    },
+    {
+        "start": 198.0,
+        "end": 202.0,
+        "english": "So this note from your doctor is necessary to buy that medicine, right?",
+        "chinese": "所以，这个医生的病历本是买那个药的必需品吗？"
+    },
+    {
+        "start": 202.0,
+        "end": 203.0,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 203.0,
+        "end": 204.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 204.0,
+        "end": 205.0,
+        "english": "Prescription.",
+        "chinese": "处方。"
+    },
+    {
+        "start": 205.0,
+        "end": 212.0,
+        "english": "Well, this shopper was getting some medicine and, well, the chemist or the pharmacist asked if he wanted it in capsules or tablets.",
+        "chinese": "英语：嗯，这个购物者正在买药，并且，那个化学师或药师询问他是否需要胶囊还是小颗粒。"
+    },
+    {
+        "start": 212.0,
+        "end": 214.0,
+        "english": "So let's look at those two words.",
+        "chinese": "所以，让我们看看这两个词。"
+    },
+    {
+        "start": 214.0,
+        "end": 215.0,
+        "english": "A capsule.",
+        "chinese": "A胶囊。"
+    },
+    {
+        "start": 215.0,
+        "end": 216.0,
+        "english": "Capsule.",
+        "chinese": "胶囊。"
+    },
+    {
+        "start": 216.0,
+        "end": 217.0,
+        "english": "Capsule.",
+        "chinese": "胶囊。"
+    },
+    {
+        "start": 217.0,
+        "end": 220.0,
+        "english": "Now, a capsule is like a small tube, right?",
+        "chinese": "现在，一个胶囊就像一个小管子一样。"
+    },
+    {
+        "start": 220.0,
+        "end": 222.0,
+        "english": "Yeah, it's a form of a pill.",
+        "chinese": "是的，它是一种药丸。"
+    },
+    {
+        "start": 223.0,
+        "end": 226.0,
+        "english": "And it's shaped like a tube with the medicine inside.",
+        "chinese": "而且它像一个管子，里面装着药剂。"
+    },
+    {
+        "start": 226.0,
+        "end": 228.0,
+        "english": "Inside, and it's covered in plastic, right?",
+        "chinese": "里面，而且它被塑料覆盖，对吗？"
+    },
+    {
+        "start": 228.0,
+        "end": 229.0,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 229.0,
+        "end": 231.0,
+        "english": "Now, you swallow the capsule.",
+        "chinese": "现在，你吞下胶囊。"
+    },
+    {
+        "start": 231.0,
+        "end": 235.0,
+        "english": "And the tablet is like a pill that is round and flat.",
+        "chinese": "而且这个平板就像一个圆而平的药丸。"
+    },
+    {
+        "start": 235.0,
+        "end": 236.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 236.0,
+        "end": 238.0,
+        "english": "So tablet and capsule.",
+        "chinese": "所以平板和胶囊。"
+    },
+    {
+        "start": 238.0,
+        "end": 242.0,
+        "english": "Both are the same thing, basically, but just different presentations.",
+        "chinese": "英语：两者都是点和拍，基本上是相同的，但只是不同的展示方式。"
+    },
+    {
+        "start": 242.0,
+        "end": 243.0,
+        "english": "Different shapes.",
+        "chinese": "不同的形状。"
+    },
+    {
+        "start": 243.0,
+        "end": 244.0,
+        "english": "Different shapes.",
+        "chinese": "不同的形状。"
+    },
+    {
+        "start": 244.0,
+        "end": 245.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 245.0,
+        "end": 247.0,
+        "english": "It's easier, maybe, for some people to swallow a capsule.",
+        "chinese": "英语：它可能更容易，也许对有些人来说是可接受的。"
+    },
+    {
+        "start": 247.0,
+        "end": 248.0,
+        "english": "You think so?",
+        "chinese": "英语：你这么认为？"
+    },
+    {
+        "start": 248.0,
+        "end": 249.0,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 249.0,
+        "end": 250.0,
+        "english": "I think so.",
+        "chinese": "我同意。"
+    },
+    {
+        "start": 250.0,
+        "end": 254.0,
+        "english": "Sometimes tablets are a little bit like big circles and it's hard to swallow.",
+        "chinese": "英语：有时平板电脑就像大圆圈，很难吞咽。"
+    },
+    {
+        "start": 254.0,
+        "end": 255.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 255.0,
+        "end": 258.0,
+        "english": "And I guess capsules are smoother.",
+        "chinese": "而且我认为胶囊是更光滑的。"
+    },
+    {
+        "start": 258.0,
+        "end": 259.0,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 259.0,
+        "end": 265.0,
+        "english": "But we're not pharmacists, so let's move on and focus on the language, which is what we do know about.",
+        "chinese": "但是我们不是药剂师，所以让我们先处理语言问题，即我们所知道的。"
+    },
+    {
+        "start": 265.0,
+        "end": 270.0,
+        "english": "So the pharmacist warned the patient not to take too much medicine, right?",
+        "chinese": "所以，药师提醒患者不要服用太多药，对吗？"
+    },
+    {
+        "start": 270.0,
+        "end": 272.0,
+        "english": "Because he might overdose.",
+        "chinese": "因为可能服药过量。"
+    },
+    {
+        "start": 272.0,
+        "end": 273.0,
+        "english": "Overdose.",
+        "chinese": "英语：过度。"
+    },
+    {
+        "start": 273.0,
+        "end": 274.0,
+        "english": "Overdose.",
+        "chinese": "过量。"
+    },
+    {
+        "start": 274.0,
+        "end": 275.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 275.0,
+        "end": 279.0,
+        "english": "So two overdose, like you said, is to take too much medicine and get really sick.",
+        "chinese": "所以，两个过量服用，就像你说的那样，是为了吃太多药而生病。"
+    },
+    {
+        "start": 279.0,
+        "end": 281.0,
+        "english": "And get really sick or even die.",
+        "chinese": "而且要病得很厉害或者甚至会死。"
+    },
+    {
+        "start": 281.0,
+        "end": 286.0,
+        "english": "So if you overdose on medicine, it could be bad for you instead of good.",
+        "chinese": "所以，如果你大量服用药物，这可能比好还是坏还要重要。"
+    },
+    {
+        "start": 286.0,
+        "end": 288.0,
+        "english": "Well, obviously, very bad.",
+        "chinese": "英语：嗯，当然，太差了。"
+    },
+    {
+        "start": 288.0,
+        "end": 291.0,
+        "english": "And what about our last word for today?",
+        "chinese": "今天我们的最后一个字是什么？"
+    },
+    {
+        "start": 291.0,
+        "end": 295.0,
+        "english": "Well, the shopper also asked for some eye drops.",
+        "chinese": "英语：嗯，这个顾客还要求一些眼药水。"
+    },
+    {
+        "start": 295.0,
+        "end": 296.0,
+        "english": "Eye drops.",
+        "chinese": "眼睛滴药。"
+    },
+    {
+        "start": 296.0,
+        "end": 297.0,
+        "english": "Eye drops.",
+        "chinese": "眼睛滴药。"
+    },
+    {
+        "start": 297.0,
+        "end": 299.0,
+        "english": "So this is medicine for your eyes.",
+        "chinese": "所以这个是眼科药膏。"
+    },
+    {
+        "start": 299.0,
+        "end": 302.0,
+        "english": "Yeah, usually liquid, like water that you put in your eyes.",
+        "chinese": "是的，通常液体，比如你用来冲洗眼睛的眼药水。"
+    },
+    {
+        "start": 302.0,
+        "end": 303.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 303.0,
+        "end": 307.0,
+        "english": "So I think now with this medicine language clear, we can listen to our dialogue again.",
+        "chinese": "所以，我认为现在这个药剂语言清楚了，我们可以再次倾听我们的对话。"
+    },
+    {
+        "start": 307.0,
+        "end": 309.0,
+        "english": "But it's going to be slow down a little bit.",
+        "chinese": "但是它会稍微慢一些。"
+    },
+    {
+        "start": 309.0,
+        "end": 313.0,
+        "english": "That'll help us understand these phrases just a little bit better.",
+        "chinese": "这句话的意思是：“那会让我们对这些短语稍微了解一些。”"
+    },
+    {
+        "start": 321.0,
+        "end": 323.0,
+        "english": "Hello, sir.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 323.0,
+        "end": 325.0,
+        "english": "How can I help you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 325.0,
+        "end": 328.0,
+        "english": "Yes, I need this prescription, please.",
+        "chinese": "是的，我需要这个处方，请。"
+    },
+    {
+        "start": 328.0,
+        "end": 329.0,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 329.0,
+        "end": 330.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 330.0,
+        "end": 333.0,
+        "english": "So 50 milligrams of prozac.",
+        "chinese": "所以50毫克的丙戊酸钠。"
+    },
+    {
+        "start": 333.0,
+        "end": 337.0,
+        "english": "Would you prefer this in capsule or tablet?",
+        "chinese": "您更喜欢这个在胶囊里还是手机上？"
+    },
+    {
+        "start": 337.0,
+        "end": 339.0,
+        "english": "Capsules are fine.",
+        "chinese": "英语：胶囊是好的。"
+    },
+    {
+        "start": 339.0,
+        "end": 340.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 340.0,
+        "end": 344.0,
+        "english": "You should take one capsule three times a day.",
+        "chinese": "你应当每天服用一粒胶囊三次。"
+    },
+    {
+        "start": 344.0,
+        "end": 347.0,
+        "english": "Be sure not to take it on an empty stomach.",
+        "chinese": "英语：请确保不要空腹使用它。"
+    },
+    {
+        "start": 347.0,
+        "end": 351.0,
+        "english": "And also, don't ever mix it with alcohol.",
+        "chinese": "而且，别把它与酒精混合。"
+    },
+    {
+        "start": 351.0,
+        "end": 352.0,
+        "english": "Yes, I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 352.0,
+        "end": 355.0,
+        "english": "It's not the first time I'm taking this.",
+        "chinese": "英语：它不是第一次这么做的。"
+    },
+    {
+        "start": 355.0,
+        "end": 356.0,
+        "english": "Don't worry.",
+        "chinese": "英语：不要担心。"
+    },
+    {
+        "start": 356.0,
+        "end": 358.0,
+        "english": "I won't overdose.",
+        "chinese": "我不会超量。"
+    },
+    {
+        "start": 358.0,
+        "end": 359.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 359.0,
+        "end": 361.0,
+        "english": "Anything else I can get you?",
+        "chinese": "我能帮到你什么？"
+    },
+    {
+        "start": 361.0,
+        "end": 362.0,
+        "english": "Oh, yes.",
+        "chinese": "英语：哦，是的。"
+    },
+    {
+        "start": 362.0,
+        "end": 364.0,
+        "english": "I almost forgot.",
+        "chinese": "我几乎忘记了。"
+    },
+    {
+        "start": 364.0,
+        "end": 368.0,
+        "english": "Can I get some eye drops and some condoms?",
+        "chinese": "英语：我能得到一些眼药水和避孕套吗？"
+    },
+    {
+        "start": 368.0,
+        "end": 369.0,
+        "english": "Sure.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 369.0,
+        "end": 373.0,
+        "english": "Darn condoms aren't registered in our system.",
+        "chinese": "英语：这不登记在我们系统里。"
+    },
+    {
+        "start": 373.0,
+        "end": 375.0,
+        "english": "Oh, well, that's okay.",
+        "chinese": "英语：哦，好吧。"
+    },
+    {
+        "start": 375.0,
+        "end": 377.0,
+        "english": "I'll get some later.",
+        "chinese": "我将尽快完成。"
+    },
+    {
+        "start": 377.0,
+        "end": 378.0,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 378.0,
+        "end": 379.0,
+        "english": "Really, it's no problem.",
+        "chinese": "真的，它没问题。"
+    },
+    {
+        "start": 379.0,
+        "end": 382.0,
+        "english": "Just hang on there, a sec.",
+        "chinese": "请稍等，我将为您翻译并提供简化中文版本。"
+    },
+    {
+        "start": 382.0,
+        "end": 388.0,
+        "english": "Can I get a price check on fun times ribbed condoms, please?",
+        "chinese": "可以帮我查询一下带有蕾丝图案的避孕套价格吗？"
+    },
+    {
+        "start": 392.0,
+        "end": 393.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 393.0,
+        "end": 399.0,
+        "english": "So now it's time for us to take a look at some of the phrases that we saw in this dialogue",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英语句子。"
+    },
+    {
+        "start": 399.0,
+        "end": 402.0,
+        "english": "in putting it together.",
+        "chinese": "在组装它。"
+    },
+    {
+        "start": 402.0,
+        "end": 405.0,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 405.0,
+        "end": 411.0,
+        "english": "We're going to look at two phrases here and we're going to see how we can use them in different situations.",
+        "chinese": "我们将在这里看看两个短语，然后我们将如何在不同的情境下使用它们。"
+    },
+    {
+        "start": 411.0,
+        "end": 416.0,
+        "english": "The pharmacist warned, be sure not to take it on an empty stomach.",
+        "chinese": "英语：药师警告，别空腹服用。"
+    },
+    {
+        "start": 416.0,
+        "end": 417.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 417.0,
+        "end": 418.0,
+        "english": "So be sure not to.",
+        "chinese": "所以不要。"
+    },
+    {
+        "start": 418.0,
+        "end": 420.0,
+        "english": "Be sure not to.",
+        "chinese": "英语：请勿。"
+    },
+    {
+        "start": 420.0,
+        "end": 422.0,
+        "english": "So what does he mean by this?",
+        "chinese": "英语：所以他说这是什么？"
+    },
+    {
+        "start": 422.0,
+        "end": 424.0,
+        "english": "He just means don't do this.",
+        "chinese": "他只是说不要这样做。"
+    },
+    {
+        "start": 424.0,
+        "end": 425.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 425.0,
+        "end": 427.0,
+        "english": "So don't take the medicine without eating.",
+        "chinese": "所以，不要自行服用药物。"
+    },
+    {
+        "start": 427.0,
+        "end": 429.0,
+        "english": "We can mix it up a little bit.",
+        "chinese": "我们可以稍微混合一下。"
+    },
+    {
+        "start": 429.0,
+        "end": 434.0,
+        "english": "Why don't we listen to some examples of how we can use this in different situations?",
+        "chinese": "英语：为什么我们不能看看如何在不同的情况下使用这个？"
+    },
+    {
+        "start": 434.0,
+        "end": 438.0,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 438.0,
+        "end": 444.0,
+        "english": "Be sure not to leave your bike outside or it will be stolen.",
+        "chinese": "英语：请确保不要将自行车放在外面，否则可能会被盗。"
+    },
+    {
+        "start": 444.0,
+        "end": 447.0,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 447.0,
+        "end": 449.0,
+        "english": "Be sure not to forget your umbrella.",
+        "chinese": "英语：请确保不要忘记你的雨伞。"
+    },
+    {
+        "start": 449.0,
+        "end": 453.0,
+        "english": "It's raining today.",
+        "chinese": "今天下雨。"
+    },
+    {
+        "start": 453.0,
+        "end": 456.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 456.0,
+        "end": 463.0,
+        "english": "I told him to be sure not to do anything stupid, but he did.",
+        "chinese": "我告诉他不要做任何愚蠢的事情，但他还是做了。"
+    },
+    {
+        "start": 463.0,
+        "end": 469.0,
+        "english": "So Marco, why should we say be sure not to instead of don't?",
+        "chinese": "所以马科，我们为什么不说不要，而应该说呢？"
+    },
+    {
+        "start": 469.0,
+        "end": 472.0,
+        "english": "I think don't sounds more like an order.",
+        "chinese": "我建议不要这么称呼。"
+    },
+    {
+        "start": 472.0,
+        "end": 473.0,
+        "english": "I'm very direct.",
+        "chinese": "我非常直接。"
+    },
+    {
+        "start": 473.0,
+        "end": 477.0,
+        "english": "Maybe be sure not to is a little bit softer, a little bit more friendly.",
+        "chinese": "英语：也许要小心，不要太温柔。"
+    },
+    {
+        "start": 477.0,
+        "end": 479.0,
+        "english": "So be sure not to.",
+        "chinese": "所以不要。"
+    },
+    {
+        "start": 479.0,
+        "end": 481.0,
+        "english": "Now for our last phrase.",
+        "chinese": "好的，我明白了。请告诉我下一个需要翻译的英文句子。"
+    },
+    {
+        "start": 481.0,
+        "end": 486.68,
+        "english": "So the pharmacist in the end wanted to check for the price and he said just hang on there",
+        "chinese": "所以最后的药师想检查价格，他便说等一下。"
+    },
+    {
+        "start": 486.68,
+        "end": 487.92,
+        "english": "a sec.",
+        "chinese": "一秒。"
+    },
+    {
+        "start": 487.92,
+        "end": 488.92,
+        "english": "So that's interesting.",
+        "chinese": "所以这样有趣。"
+    },
+    {
+        "start": 488.92,
+        "end": 489.92,
+        "english": "Hang on.",
+        "chinese": "挂上。"
+    },
+    {
+        "start": 489.92,
+        "end": 490.92,
+        "english": "Hang on.",
+        "chinese": "挂上。"
+    },
+    {
+        "start": 490.92,
+        "end": 491.92,
+        "english": "Hang on.",
+        "chinese": "挂上。"
+    },
+    {
+        "start": 491.92,
+        "end": 492.92,
+        "english": "Well hang on.",
+        "chinese": "很好，等一下。"
+    },
+    {
+        "start": 492.92,
+        "end": 494.52,
+        "english": "What does he mean by hang on?",
+        "chinese": "英语：他怎么了？"
+    },
+    {
+        "start": 494.52,
+        "end": 495.52,
+        "english": "He means weight.",
+        "chinese": "他意味着重量。"
+    },
+    {
+        "start": 495.52,
+        "end": 496.52,
+        "english": "Weight.",
+        "chinese": "重量。"
+    },
+    {
+        "start": 496.52,
+        "end": 498.48,
+        "english": "It's an informal way of saying weight.",
+        "chinese": "这是一个表示体重的非正式方式。"
+    },
+    {
+        "start": 498.48,
+        "end": 499.48,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 499.48,
+        "end": 501.48,
+        "english": "It's also a little bit more friendly than just saying weight.",
+        "chinese": "英语：它也比仅仅说重量更友好。"
+    },
+    {
+        "start": 501.48,
+        "end": 502.48,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 502.48,
+        "end": 503.48,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 503.48,
+        "end": 505.72,
+        "english": "And we can change the time a little bit, right?",
+        "chinese": "我们能稍微改变一下时间吗？"
+    },
+    {
+        "start": 505.72,
+        "end": 506.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 506.72,
+        "end": 510.48,
+        "english": "So you can say hang on a second or hang on a moment.",
+        "chinese": "英语：所以你可以再等一会儿或者稍等一下。"
+    },
+    {
+        "start": 510.48,
+        "end": 511.48,
+        "english": "Hang on a minute.",
+        "chinese": "等一下。"
+    },
+    {
+        "start": 511.48,
+        "end": 512.48,
+        "english": "All right.",
+        "chinese": "英语：一切好。"
+    },
+    {
+        "start": 512.48,
+        "end": 513.48,
+        "english": "What about hang on an hour?",
+        "chinese": "关于等一等一个小时。"
+    },
+    {
+        "start": 513.48,
+        "end": 517.08,
+        "english": "Well maybe if you're telling someone to wait for an hour, just hang on there for an hour,",
+        "chinese": "嗯，也许如果你要等待一个小时，就等一等吧。"
+    },
+    {
+        "start": 517.08,
+        "end": 518.08,
+        "english": "I'll be there soon.",
+        "chinese": "我很快就会到。"
+    },
+    {
+        "start": 518.08,
+        "end": 520.28,
+        "english": "Yeah, but I guess it's more common hang on a minute.",
+        "chinese": "是的，不过我猜它可能更常见挂一会儿。"
+    },
+    {
+        "start": 520.28,
+        "end": 521.28,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 521.28,
+        "end": 522.28,
+        "english": "Maybe for shorter periods of time.",
+        "chinese": "英语：或许在短暂的时间内。"
+    },
+    {
+        "start": 522.28,
+        "end": 523.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 523.28,
+        "end": 524.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 524.28,
+        "end": 527.08,
+        "english": "So with these phrases, I think now we can use them in different circumstances.",
+        "chinese": "所以，有了这些短语，我认为现在我们可以用在不同的情境中。"
+    },
+    {
+        "start": 527.08,
+        "end": 529.48,
+        "english": "Obviously not only in the pharmacy.",
+        "chinese": "当然，不只是在药店。"
+    },
+    {
+        "start": 529.48,
+        "end": 530.48,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 530.48,
+        "end": 535.48,
+        "english": "Well, let's listen to our dialogue for the last time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 535.48,
+        "end": 541.84,
+        "english": "Hello, sir.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 541.84,
+        "end": 543.08,
+        "english": "How can I help you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 543.08,
+        "end": 546.24,
+        "english": "Yes, I need this prescription, please.",
+        "chinese": "是的，我需要这个处方，请。"
+    },
+    {
+        "start": 546.24,
+        "end": 547.24,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 547.24,
+        "end": 548.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 548.24,
+        "end": 550.52,
+        "english": "So 50 milligrams of prozac.",
+        "chinese": "所以50毫克的丙戊酸。"
+    },
+    {
+        "start": 550.52,
+        "end": 552.6800000000001,
+        "english": "Would you prefer this in capsule or tablet?",
+        "chinese": "英语：你更喜欢这个放在小本本上还是平板电脑？"
+    },
+    {
+        "start": 552.6800000000001,
+        "end": 554.28,
+        "english": "Capulet, right.",
+        "chinese": "卡内利奥，对吗？"
+    },
+    {
+        "start": 554.28,
+        "end": 555.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 555.28,
+        "end": 557.64,
+        "english": "You should take one capsule three times a day.",
+        "chinese": "你应当每天服用一粒胶囊三次。"
+    },
+    {
+        "start": 557.64,
+        "end": 562.64,
+        "english": "You sure not to take it on an empty stomach and also don't ever mix it with alcohol.",
+        "chinese": "英语：你绝对不能空腹使用它，而且也不要在酒精中混合。"
+    },
+    {
+        "start": 562.64,
+        "end": 564.12,
+        "english": "Yes, I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 564.12,
+        "end": 565.72,
+        "english": "It's not the first time I'm taking this.",
+        "chinese": "英语：它不是我第一次尝试。"
+    },
+    {
+        "start": 565.72,
+        "end": 566.72,
+        "english": "Don't worry.",
+        "chinese": "英语：不要担心。"
+    },
+    {
+        "start": 566.72,
+        "end": 567.72,
+        "english": "I've owned overdose.",
+        "chinese": "我已拥有过量。"
+    },
+    {
+        "start": 567.72,
+        "end": 568.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 568.72,
+        "end": 570.56,
+        "english": "Anything else I can get you?",
+        "chinese": "我还能为你做什么？"
+    },
+    {
+        "start": 570.56,
+        "end": 573.16,
+        "english": "Oh, yes, I almost forgot.",
+        "chinese": "英语：哦，对了，我差点忘了。"
+    },
+    {
+        "start": 573.16,
+        "end": 576.76,
+        "english": "Can I also get some eye drops and some condoms?",
+        "chinese": "英语：我还能得到点眼药水和避孕套吗？"
+    },
+    {
+        "start": 576.76,
+        "end": 577.76,
+        "english": "Sure.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 577.76,
+        "end": 581.36,
+        "english": "Darn condoms aren't registered in our system.",
+        "chinese": "英语：这不登记在我们系统里。"
+    },
+    {
+        "start": 581.36,
+        "end": 582.36,
+        "english": "Oh, well, that's okay.",
+        "chinese": "英语：哦，好吧。"
+    },
+    {
+        "start": 582.36,
+        "end": 583.36,
+        "english": "I'll get some later.",
+        "chinese": "我将尽快完成。"
+    },
+    {
+        "start": 583.36,
+        "end": 584.36,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 584.36,
+        "end": 585.84,
+        "english": "Really, it's no problem.",
+        "chinese": "真的，它没问题。"
+    },
+    {
+        "start": 585.84,
+        "end": 589.0400000000001,
+        "english": "The hang on there a sec.",
+        "chinese": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我。"
+    },
+    {
+        "start": 589.0400000000001,
+        "end": 590.24,
+        "english": "Can I get a price check on?",
+        "chinese": "是的，我可以查询价格吗？"
+    },
+    {
+        "start": 590.24,
+        "end": 592.84,
+        "english": "Fun times, rib condoms, please.",
+        "chinese": "快乐时光，避孕套，请。"
+    },
+    {
+        "start": 592.84,
+        "end": 597.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 597.84,
+        "end": 602.32,
+        "english": "So with medicine, an interesting thing comes up, right?",
+        "chinese": "所以，有了药，一个有趣的事情就发生了，对吧？"
+    },
+    {
+        "start": 602.32,
+        "end": 603.32,
+        "english": "That's right.",
+        "chinese": "正确翻译：那对吧。"
+    },
+    {
+        "start": 603.32,
+        "end": 605.9200000000001,
+        "english": "A lot of people think that you eat medicine.",
+        "chinese": "许多人都认为你吃药。"
+    },
+    {
+        "start": 605.9200000000001,
+        "end": 606.9200000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 606.9200000000001,
+        "end": 607.9200000000001,
+        "english": "Or drink medicine?",
+        "chinese": "英语：或者喝药？"
+    },
+    {
+        "start": 607.9200000000001,
+        "end": 608.9200000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 608.9200000000001,
+        "end": 610.64,
+        "english": "But in English, you always take medicine.",
+        "chinese": "但是，在英语中，你总是按时服药。"
+    },
+    {
+        "start": 610.64,
+        "end": 611.64,
+        "english": "Always take medicine.",
+        "chinese": "始终服用药物。"
+    },
+    {
+        "start": 611.64,
+        "end": 612.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 612.64,
+        "end": 615.1600000000001,
+        "english": "So you never can say, oh, I ate my medicine yesterday.",
+        "chinese": "所以你永远说，哦，我昨天吃药了。"
+    },
+    {
+        "start": 615.16,
+        "end": 617.16,
+        "english": "It always has to be I took my medicine.",
+        "chinese": "英语：它总是必须是我在吃药。"
+    },
+    {
+        "start": 617.16,
+        "end": 618.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 618.16,
+        "end": 619.16,
+        "english": "You take the capsules.",
+        "chinese": "你把胶囊拿走。"
+    },
+    {
+        "start": 619.16,
+        "end": 620.16,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 620.16,
+        "end": 621.16,
+        "english": "Or take the tablets.",
+        "chinese": "或者拿平板电脑。"
+    },
+    {
+        "start": 621.16,
+        "end": 622.16,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 622.16,
+        "end": 623.16,
+        "english": "So you take medicine.",
+        "chinese": "所以你服药。"
+    },
+    {
+        "start": 623.16,
+        "end": 627.04,
+        "english": "Now, an interesting thing in the United States, for example, it's very hard to get medicine",
+        "chinese": "现在，美国的一个有趣的事情，比如很难买到药。"
+    },
+    {
+        "start": 627.04,
+        "end": 628.24,
+        "english": "without a prescription.",
+        "chinese": "没有处方。"
+    },
+    {
+        "start": 628.24,
+        "end": 629.24,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 629.24,
+        "end": 635.68,
+        "english": "So we always talk about prescription medicine and OTC medicine or over the counter medicine.",
+        "chinese": "所以我们总是谈论处方药和非处方药，或者OTC药。"
+    },
+    {
+        "start": 635.68,
+        "end": 637.68,
+        "english": "So over the counter medicine is...",
+        "chinese": "所以非处方药是..."
+    },
+    {
+        "start": 637.68,
+        "end": 641.92,
+        "english": "Is medicine you can just buy without that prescription or note from your doctor?",
+        "chinese": "英语：是药三分毒。"
+    },
+    {
+        "start": 641.92,
+        "end": 642.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 642.92,
+        "end": 646.8399999999999,
+        "english": "So if you have a headache, you can go to the pharmacy and buy aspirin.",
+        "chinese": "所以，如果你有头痛，你可以去药店买阿司匹林。"
+    },
+    {
+        "start": 646.8399999999999,
+        "end": 647.8399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 647.8399999999999,
+        "end": 649.64,
+        "english": "And that's over the counter medicine.",
+        "chinese": "而且是非处方药。"
+    },
+    {
+        "start": 649.64,
+        "end": 653.04,
+        "english": "But prescription medicine, you can't get it without the doctor's note.",
+        "chinese": "但是处方药，你不能凭医生的处方买。"
+    },
+    {
+        "start": 653.04,
+        "end": 654.04,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 654.04,
+        "end": 657.0799999999999,
+        "english": "And like you said in America, you almost have to have a prescription for everything.",
+        "chinese": "就像你在美国说的那样，你几乎不得不有处方才能处理一切。"
+    },
+    {
+        "start": 657.0799999999999,
+        "end": 661.4,
+        "english": "Which is strange because people can overdose on aspirin.",
+        "chinese": "英语：这很奇怪，因为人们可以过量服用阿司匹林。"
+    },
+    {
+        "start": 661.4,
+        "end": 665.76,
+        "english": "So tell us how medicine and pharmacies work in your countries.",
+        "chinese": "英语：所以告诉我你们国家的药房和药店是如何工作的。"
+    },
+    {
+        "start": 665.76,
+        "end": 670.8399999999999,
+        "english": "And also, if you have questions or comments, our website, EnglishPod.com is always open",
+        "chinese": "英语：而且，如果您有任何问题或评论，请访问我们的网站，英文pod.com。"
+    },
+    {
+        "start": 670.8399999999999,
+        "end": 672.4,
+        "english": "and ready for you.",
+        "chinese": "和你准备好。"
+    },
+    {
+        "start": 672.4,
+        "end": 674.36,
+        "english": "Well, thanks for downloading this lesson, you guys.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 674.36,
+        "end": 676.0,
+        "english": "And until next time, goodbye.",
+        "chinese": "直到下次见面，再见。"
+    }
+]

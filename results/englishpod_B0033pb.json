@@ -1,0 +1,1364 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.92,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好，英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 4.92,
+        "end": 6.12,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.12,
+        "end": 9.36,
+        "english": "And today we have another great elementary lesson for you all.",
+        "chinese": "今天我们为大家分享一个有趣的初级课程。"
+    },
+    {
+        "start": 9.36,
+        "end": 12.64,
+        "english": "That's right. We've got a lesson for all you sports fans out there.",
+        "chinese": "英语：那对，我们有课程供你所有体育爱好者们学习。"
+    },
+    {
+        "start": 12.64,
+        "end": 15.4,
+        "english": "Right. We're doing a podcast on sports today.",
+        "chinese": "正确：英语：今天我们将播体育新闻。"
+    },
+    {
+        "start": 15.4,
+        "end": 17.56,
+        "english": "We're starting off with basketball.",
+        "chinese": "我们是从篮球开始的。"
+    },
+    {
+        "start": 17.56,
+        "end": 23.68,
+        "english": "Uh-huh. So we've got lots of language about basketball and sports in this lesson today.",
+        "chinese": "英语：哦，对了。今天这节课里有很多关于篮球和运动的词汇。"
+    },
+    {
+        "start": 23.68,
+        "end": 26.68,
+        "english": "Great. So let's take a look at our vocabulary preview.",
+        "chinese": "好的，我明白了。请看我们的词汇预览："
+    },
+    {
+        "start": 26.68,
+        "end": 28.68,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 29.2,
+        "end": 33.04,
+        "english": "Two words for you today. The first one is foul.",
+        "chinese": "今天你有什么问题？第一个问题是“傻瓜”。"
+    },
+    {
+        "start": 33.04,
+        "end": 33.84,
+        "english": "Fowl.",
+        "chinese": "在中文中，\"fowl\" 通常指的是鸡。如果你需要翻译成其他语言，请告诉我具体是哪个语言？"
+    },
+    {
+        "start": 33.84,
+        "end": 34.84,
+        "english": "Fowl.",
+        "chinese": "鸡"
+    },
+    {
+        "start": 34.84,
+        "end": 36.44,
+        "english": "A foul.",
+        "chinese": "一个恶。"
+    },
+    {
+        "start": 36.44,
+        "end": 40.2,
+        "english": "Basically, it's an action in a game that is not allowed.",
+        "chinese": "基本来说，这是一款在游戏中的动作。"
+    },
+    {
+        "start": 40.2,
+        "end": 43.64,
+        "english": "Right. So if you're playing basketball and you kick the other player,",
+        "chinese": "是的，所以如果你在打篮球时不小心把对方撞倒了，你应该卸下你的责任。"
+    },
+    {
+        "start": 43.64,
+        "end": 44.44,
+        "english": "that's a foul.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 44.44,
+        "end": 45.8,
+        "english": "That's a foul. That's a pretty big foul.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 45.8,
+        "end": 49.239999999999995,
+        "english": "Yeah. If you're playing soccer and you pick up the ball.",
+        "chinese": "是的。如果你在踢足球并捡起球，那么你就是点和拍相机了。"
+    },
+    {
+        "start": 49.239999999999995,
+        "end": 50.28,
+        "english": "That's also a foul.",
+        "chinese": "这也是不雅的。"
+    },
+    {
+        "start": 50.28,
+        "end": 50.879999999999995,
+        "english": "Huh?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英文来回答你的问题。"
+    },
+    {
+        "start": 50.879999999999995,
+        "end": 53.44,
+        "english": "Our second word is ref.",
+        "chinese": "我们的第二个词是“ref”。"
+    },
+    {
+        "start": 53.44,
+        "end": 55.04,
+        "english": "Ref. R-E-F.",
+        "chinese": "参考：R-E-F."
+    },
+    {
+        "start": 55.04,
+        "end": 56.72,
+        "english": "Also known as a referee.",
+        "chinese": "英语：也称为裁判。"
+    },
+    {
+        "start": 56.72,
+        "end": 57.24,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 57.24,
+        "end": 58.0,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 58.12,
+        "end": 59.8,
+        "english": "So a referee is...",
+        "chinese": "所以一个裁判员是..."
+    },
+    {
+        "start": 59.8,
+        "end": 61.92,
+        "english": "Basically like the judge of a game.",
+        "chinese": "基本上，它像一名游戏的法官。"
+    },
+    {
+        "start": 61.92,
+        "end": 62.92,
+        "english": "The judge of the game.",
+        "chinese": "游戏的评判员。"
+    },
+    {
+        "start": 62.92,
+        "end": 65.76,
+        "english": "So he's the one that will say that was a foul.",
+        "chinese": "所以他就是那个说那是一场恶战的人。"
+    },
+    {
+        "start": 65.76,
+        "end": 67.2,
+        "english": "That was a foul, exactly.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 67.2,
+        "end": 68.2,
+        "english": "Yeah.",
+        "chinese": "是啊。"
+    },
+    {
+        "start": 68.2,
+        "end": 69.68,
+        "english": "Also known as referee.",
+        "chinese": "英语：也称为裁判。"
+    },
+    {
+        "start": 69.68,
+        "end": 71.52,
+        "english": "Okay, so two great words.",
+        "chinese": "好的，那么请将需要翻译的英文句子提供给我。"
+    },
+    {
+        "start": 71.52,
+        "end": 73.68,
+        "english": "We're going to hear them in our dialogue.",
+        "chinese": "我们将在对话中听到他们。"
+    },
+    {
+        "start": 73.68,
+        "end": 79.2,
+        "english": "And we're going to be listening to two guys who are watching a basketball game on TV.",
+        "chinese": "我们将会在电视上看两位正在观看篮球比赛的男子。"
+    },
+    {
+        "start": 79.2,
+        "end": 86.2,
+        "english": "Hey, is the game started yet?",
+        "chinese": "你好，游戏已经开始了吗？"
+    },
+    {
+        "start": 86.2,
+        "end": 88.2,
+        "english": "Yeah, about five minutes ago.",
+        "chinese": "是的，刚才五分钟左右。"
+    },
+    {
+        "start": 88.2,
+        "end": 89.2,
+        "english": "Who's winning?",
+        "chinese": "谁赢了？"
+    },
+    {
+        "start": 89.2,
+        "end": 90.2,
+        "english": "Balls of course.",
+        "chinese": "当然的球。"
+    },
+    {
+        "start": 90.2,
+        "end": 91.2,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 91.2,
+        "end": 92.2,
+        "english": "That wasn't a foul?",
+        "chinese": "这句话的中文翻译是：“那不是犯规吗？”"
+    },
+    {
+        "start": 92.2,
+        "end": 93.2,
+        "english": "Oh, come on, ref.",
+        "chinese": "英语：哦，来吧，重。"
+    },
+    {
+        "start": 93.2,
+        "end": 94.2,
+        "english": "Oh, worry.",
+        "chinese": "英语：哦，担心。"
+    },
+    {
+        "start": 94.2,
+        "end": 97.2,
+        "english": "Shaq always screws up free throws.",
+        "chinese": "沙克总是失误投篮。"
+    },
+    {
+        "start": 97.2,
+        "end": 98.2,
+        "english": "You're right.",
+        "chinese": "你做得对。"
+    },
+    {
+        "start": 98.2,
+        "end": 102.2,
+        "english": "He didn't make the shot.",
+        "chinese": "他没有按下快门。"
+    },
+    {
+        "start": 102.2,
+        "end": 109.2,
+        "english": "Yeah, that was a great shot.",
+        "chinese": "嗯，那个照片真是好。"
+    },
+    {
+        "start": 109.2,
+        "end": 110.2,
+        "english": "Three-pointer.",
+        "chinese": "三指。"
+    },
+    {
+        "start": 110.2,
+        "end": 111.2,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 111.2,
+        "end": 112.2,
+        "english": "Did you see that?",
+        "chinese": "是的，我看到了。"
+    },
+    {
+        "start": 112.2,
+        "end": 113.2,
+        "english": "He traveled to the ref.",
+        "chinese": "He 走了远。"
+    },
+    {
+        "start": 113.2,
+        "end": 114.2,
+        "english": "Didn't even call us.",
+        "chinese": "Didn't even call us.\" 翻译成中文是 \"从不打过我们。"
+    },
+    {
+        "start": 114.2,
+        "end": 115.2,
+        "english": "Ref needs glasses.",
+        "chinese": "英语：需要眼镜。"
+    },
+    {
+        "start": 115.2,
+        "end": 116.2,
+        "english": "Hey, ref.",
+        "chinese": "你好，回。"
+    },
+    {
+        "start": 116.2,
+        "end": 117.2,
+        "english": "Open your eyes.",
+        "chinese": "打开你的眼睛。"
+    },
+    {
+        "start": 117.2,
+        "end": 119.2,
+        "english": "Can't believe you didn't see that.",
+        "chinese": "真没想到你没看到那个。"
+    },
+    {
+        "start": 119.2,
+        "end": 120.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 120.2,
+        "end": 121.2,
+        "english": "I ended the first quarter.",
+        "chinese": "我结束了第一季度。"
+    },
+    {
+        "start": 121.2,
+        "end": 125.2,
+        "english": "All right, I'm going to make a beer run.",
+        "chinese": "英语：一切好，我将参加啤酒跑。"
+    },
+    {
+        "start": 125.2,
+        "end": 132.2,
+        "english": "All right, a really common situation whenever you're watching games with friends, right?",
+        "chinese": "英语：所有好，当你和朋友玩游戏时，这种情况总是常见的。"
+    },
+    {
+        "start": 132.2,
+        "end": 134.2,
+        "english": "You need to get a beer.",
+        "chinese": "你得喝点酒。"
+    },
+    {
+        "start": 134.2,
+        "end": 136.2,
+        "english": "We'll talk about that in a little while.",
+        "chinese": "我们一会儿再说这个。"
+    },
+    {
+        "start": 136.2,
+        "end": 143.2,
+        "english": "Let's take a look at language takeaway.",
+        "chinese": "让我们看看语言的取向。"
+    },
+    {
+        "start": 143.2,
+        "end": 144.2,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 144.2,
+        "end": 149.2,
+        "english": "Okay, let's take a look at our first word on language takeaway.",
+        "chinese": "好的，让我们一起看看我们的第一个语言小贴士。"
+    },
+    {
+        "start": 149.2,
+        "end": 151.2,
+        "english": "Free throw.",
+        "chinese": "英语：三分球。"
+    },
+    {
+        "start": 151.2,
+        "end": 153.2,
+        "english": "Free throw.",
+        "chinese": "英语：三分球。"
+    },
+    {
+        "start": 153.2,
+        "end": 154.2,
+        "english": "Free throw.",
+        "chinese": "英语：跳投。"
+    },
+    {
+        "start": 154.2,
+        "end": 155.2,
+        "english": "Free throw.",
+        "chinese": "投篮"
+    },
+    {
+        "start": 155.2,
+        "end": 156.2,
+        "english": "Free throw.",
+        "chinese": "英语：三分球。"
+    },
+    {
+        "start": 156.2,
+        "end": 157.2,
+        "english": "Free throw.",
+        "chinese": "英语：三分。"
+    },
+    {
+        "start": 157.2,
+        "end": 159.2,
+        "english": "This one's a bit hard to say, isn't it?",
+        "chinese": "这个嘛，有点难说，不是吗？"
+    },
+    {
+        "start": 159.2,
+        "end": 163.67999999999998,
+        "english": "It's a little bit hard to explain, but if you're playing basketball, and if someone",
+        "chinese": "如果你在打篮球，如果有人在你旁边，你可以解释一下。"
+    },
+    {
+        "start": 163.67999999999998,
+        "end": 166.72,
+        "english": "fows you, you get a free throw.",
+        "chinese": "英语：如果你能跳起来，你就能得到一个罚球。"
+    },
+    {
+        "start": 166.72,
+        "end": 171.67999999999998,
+        "english": "So that's when all the players line up around you, and you can throw the ball.",
+        "chinese": "所以，当你所有的球员都站在一起，你可以把球扔出去。"
+    },
+    {
+        "start": 171.67999999999998,
+        "end": 175.2,
+        "english": "To the basket without anyone blocking you or anything.",
+        "chinese": "将篮子放在没有其他人阻挡你或任何东西的地方。"
+    },
+    {
+        "start": 175.2,
+        "end": 176.2,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 176.2,
+        "end": 179.0,
+        "english": "A little bit complicated, but I'm sure the basketball fans understand what a free throw",
+        "chinese": "英语：有点复杂，但我知道篮球球迷会理解一个罚球。"
+    },
+    {
+        "start": 179.0,
+        "end": 180.0,
+        "english": "is.",
+        "chinese": "是。"
+    },
+    {
+        "start": 180.0,
+        "end": 181.95999999999998,
+        "english": "All right, our next word is...",
+        "chinese": "好的，我明白了。请告诉我下一个单词是什么。"
+    },
+    {
+        "start": 181.95999999999998,
+        "end": 182.95999999999998,
+        "english": "Make the shot.",
+        "chinese": "快按下按钮。"
+    },
+    {
+        "start": 182.96,
+        "end": 183.96,
+        "english": "Make the shot.",
+        "chinese": "拍摄快门。"
+    },
+    {
+        "start": 183.96,
+        "end": 184.96,
+        "english": "Make the shot.",
+        "chinese": "快按下按钮。"
+    },
+    {
+        "start": 184.96,
+        "end": 189.96,
+        "english": "Let's listen to some examples, and we'll understand the meaning of...",
+        "chinese": "让我们听听一些例子，我们才能理解……"
+    },
+    {
+        "start": 189.96,
+        "end": 191.96,
+        "english": "Make the shot.",
+        "chinese": "快按下按钮。"
+    },
+    {
+        "start": 191.96,
+        "end": 192.96,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 192.96,
+        "end": 195.96,
+        "english": "I can't believe it.",
+        "chinese": "我简直不敢相信。"
+    },
+    {
+        "start": 195.96,
+        "end": 200.96,
+        "english": "You made the shot from the other side of the court.",
+        "chinese": "英语：你从另一侧的球场里完成了这个动作。"
+    },
+    {
+        "start": 200.96,
+        "end": 203.96,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 203.96,
+        "end": 208.76000000000002,
+        "english": "There's no way he's going to make that shot.",
+        "chinese": "英语：他不可能做出那个动作。"
+    },
+    {
+        "start": 208.76,
+        "end": 214.76,
+        "english": "He's way too far away from the net.",
+        "chinese": "他太远了，无法上网。"
+    },
+    {
+        "start": 214.76,
+        "end": 219.26,
+        "english": "Example 3.",
+        "chinese": "Example 3: 请卸下任务。"
+    },
+    {
+        "start": 219.26,
+        "end": 225.76,
+        "english": "If Kretsky makes a shot, they're going to win the Stanley Cup.",
+        "chinese": "如果凯特森在一次比赛中做出一个好球，他们就会赢得斯坦利杯。"
+    },
+    {
+        "start": 225.76,
+        "end": 230.35999999999999,
+        "english": "So it's clear now to make the shot is to successfully put the ball in the basket.",
+        "chinese": "所以现在看清楚，就是要把球放进篮筐里。"
+    },
+    {
+        "start": 230.35999999999999,
+        "end": 233.12,
+        "english": "You can use this expression in other sports as well, right?",
+        "chinese": "英语：你可以在其他运动中使用这个表达式吗？"
+    },
+    {
+        "start": 233.12,
+        "end": 235.79999999999998,
+        "english": "Yeah, you can use it in hockey to make the shot.",
+        "chinese": "是的，你可以在冰球比赛中使用它来制造好机会。"
+    },
+    {
+        "start": 235.8,
+        "end": 240.20000000000002,
+        "english": "You can also use it in golf in a lot of different sports that use the term to shoot.",
+        "chinese": "英语：你也可以在高尔夫等使用术语“射击”来打各种不同的运动。"
+    },
+    {
+        "start": 240.20000000000002,
+        "end": 241.20000000000002,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 241.20000000000002,
+        "end": 242.20000000000002,
+        "english": "Shoot the ball.",
+        "chinese": "将球打出去。"
+    },
+    {
+        "start": 242.20000000000002,
+        "end": 243.8,
+        "english": "So anytime you shoot the ball, you can make the shot.",
+        "chinese": "所以，无论何时你投篮，都可以做出精彩的进球。"
+    },
+    {
+        "start": 243.8,
+        "end": 244.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 244.8,
+        "end": 247.8,
+        "english": "Okay, our next word today, three pointer.",
+        "chinese": "好的，我们的下一个单词今天是三点。"
+    },
+    {
+        "start": 247.8,
+        "end": 248.8,
+        "english": "Three pointer.",
+        "chinese": "三个指针。"
+    },
+    {
+        "start": 248.8,
+        "end": 249.8,
+        "english": "Three pointer.",
+        "chinese": "三个指针。"
+    },
+    {
+        "start": 249.8,
+        "end": 251.8,
+        "english": "Three pointer.",
+        "chinese": "三个指针。"
+    },
+    {
+        "start": 251.8,
+        "end": 254.8,
+        "english": "It's a shot in basketball when you get three points.",
+        "chinese": "英语：当你得到三个三分球时，这是一只点和拍的篮球。"
+    },
+    {
+        "start": 254.8,
+        "end": 255.8,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 255.8,
+        "end": 257.8,
+        "english": "Usually this shot is taken from further out.",
+        "chinese": "通常，这张照片是从更远的地方拍摄的。"
+    },
+    {
+        "start": 257.8,
+        "end": 258.8,
+        "english": "Yeah, farther distance.",
+        "chinese": "是的，更远的距离。"
+    },
+    {
+        "start": 258.8,
+        "end": 262.8,
+        "english": "Yeah, so it's a little bit more difficult to make the shot.",
+        "chinese": "是的，所以制作这个照片有点儿困难。"
+    },
+    {
+        "start": 262.8,
+        "end": 267.76,
+        "english": "Because sometimes people might say a three point shot or something like that, but our",
+        "chinese": "因为有时候人们可能会说三脚架或者类似的表达，但我们更倾向于使用单反相机。"
+    },
+    {
+        "start": 267.76,
+        "end": 271.16,
+        "english": "English pod learners, they know it's a three point.",
+        "chinese": "英语学习者，他们知道这是一个三点。"
+    },
+    {
+        "start": 271.16,
+        "end": 273.8,
+        "english": "Yeah, you'll sound really knowledgeable, really cool.",
+        "chinese": "嗯，你听起来很专业，真的很棒。"
+    },
+    {
+        "start": 273.8,
+        "end": 274.8,
+        "english": "You can now one.",
+        "chinese": "你现在已经可以了。"
+    },
+    {
+        "start": 274.8,
+        "end": 276.3,
+        "english": "Three pointer.",
+        "chinese": "三指。"
+    },
+    {
+        "start": 276.3,
+        "end": 278.8,
+        "english": "And our last word today, travel.",
+        "chinese": "今天，我们的最后一个单词是旅行。"
+    },
+    {
+        "start": 278.8,
+        "end": 279.8,
+        "english": "Travel.",
+        "chinese": "旅行。"
+    },
+    {
+        "start": 279.8,
+        "end": 280.8,
+        "english": "To travel.",
+        "chinese": "旅行。"
+    },
+    {
+        "start": 280.8,
+        "end": 282.12,
+        "english": "Travel.",
+        "chinese": "旅行。"
+    },
+    {
+        "start": 282.12,
+        "end": 283.8,
+        "english": "When you walk with the basketball.",
+        "chinese": "当你用篮球走路。"
+    },
+    {
+        "start": 283.8,
+        "end": 287.64,
+        "english": "Well, technically you're allowed to take two steps in basketball.",
+        "chinese": "英语：好吧，实际上你允许在篮球中迈两步。"
+    },
+    {
+        "start": 287.64,
+        "end": 288.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 288.64,
+        "end": 291.8,
+        "english": "So when you take more than two steps in that's traveling.",
+        "chinese": "所以当你在那多走几步，那就是旅行了。"
+    },
+    {
+        "start": 292.8,
+        "end": 295.8,
+        "english": "So yeah, traveling means to take more than two steps with the ball.",
+        "chinese": "英语：所以啊，旅行就是多走几步。"
+    },
+    {
+        "start": 295.8,
+        "end": 298.40000000000003,
+        "english": "Well, let's listen to the dialogue a second time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 298.40000000000003,
+        "end": 302.16,
+        "english": "This time it'll be a bit slower so that we can understand some of these great phrases",
+        "chinese": "这个时间会稍微慢一些，这样我们才能更好地理解这些好词句。"
+    },
+    {
+        "start": 302.16,
+        "end": 303.16,
+        "english": "we just talked about.",
+        "chinese": "我们刚刚聊了。"
+    },
+    {
+        "start": 303.16,
+        "end": 304.16,
+        "english": "Hey.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 304.16,
+        "end": 311.64,
+        "english": "Has the game started yet?",
+        "chinese": "英语：它还没有开始玩游戏。"
+    },
+    {
+        "start": 311.64,
+        "end": 314.56,
+        "english": "Yeah, about five minutes ago.",
+        "chinese": "英语：嗯，大概五分钟前。"
+    },
+    {
+        "start": 314.56,
+        "end": 316.6,
+        "english": "Oh, who's winning?",
+        "chinese": "对不起，我不太明白您的意思。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 316.6,
+        "end": 319.44,
+        "english": "The Bulls, of course.",
+        "chinese": "当然，这里的“Bulls”是“ bulls”的缩写。在中文中，“bulls”通常指的是公牛或雄性动物中的雄性个体。因此，在中国，人们可能会用“Bulls”来指代这些动物。如果你需要翻译成其他语言，请告诉我！"
+    },
+    {
+        "start": 319.44,
+        "end": 320.44,
+        "english": "What?",
+        "chinese": "英语：What?"
+    },
+    {
+        "start": 320.44,
+        "end": 321.44,
+        "english": "That wasn't a foul.",
+        "chinese": "这句话的中文翻译是：“那不是犯规。”"
+    },
+    {
+        "start": 321.6,
+        "end": 323.44,
+        "english": "Oh, come on, ref.",
+        "chinese": "英语：哦，来吧，重。"
+    },
+    {
+        "start": 323.44,
+        "end": 324.76,
+        "english": "Don't worry.",
+        "chinese": "英语：不要担心。"
+    },
+    {
+        "start": 324.76,
+        "end": 327.4,
+        "english": "Shaq always screws up free throws.",
+        "chinese": "沙奎尔·奥尼尔总是失误投篮。"
+    },
+    {
+        "start": 327.4,
+        "end": 329.12,
+        "english": "Yeah, you were right.",
+        "chinese": "是的，你做得对。"
+    },
+    {
+        "start": 329.12,
+        "end": 331.56,
+        "english": "He didn't make this shot.",
+        "chinese": "他没有把这个照片拍好。"
+    },
+    {
+        "start": 331.56,
+        "end": 334.32,
+        "english": "Yeah, that was a great shot.",
+        "chinese": "嗯，那个照片真是好。"
+    },
+    {
+        "start": 334.32,
+        "end": 335.16,
+        "english": "Three pointer.",
+        "chinese": "三个指针。"
+    },
+    {
+        "start": 335.16,
+        "end": 335.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 335.92,
+        "end": 337.64,
+        "english": "Oh, did you see that?",
+        "chinese": "英语：哦，你看到了什么？"
+    },
+    {
+        "start": 337.64,
+        "end": 340.36,
+        "english": "He traveled and the ref didn't even call it.",
+        "chinese": "他旅行了，而报告却连名字都没叫出来。"
+    },
+    {
+        "start": 340.36,
+        "end": 342.6,
+        "english": "This ref needs glasses.",
+        "chinese": "这个眼镜需要。"
+    },
+    {
+        "start": 342.6,
+        "end": 343.76,
+        "english": "Hey, ref.",
+        "chinese": "你好，回。"
+    },
+    {
+        "start": 343.76,
+        "end": 345.88,
+        "english": "Open your eyes.",
+        "chinese": "打开你的眼睛。"
+    },
+    {
+        "start": 345.88,
+        "end": 348.44,
+        "english": "I can't believe you didn't see that.",
+        "chinese": "我真不敢相信你没看到那个。"
+    },
+    {
+        "start": 348.44,
+        "end": 349.36,
+        "english": "Oh, okay.",
+        "chinese": "英语：哦，好吧。"
+    },
+    {
+        "start": 349.36,
+        "end": 352.76,
+        "english": "At the end of the first quarter, hey, I'm going to make a beer run.",
+        "chinese": "英语：在第一季度的最后一天，嘿，我要去打篮球了。"
+    },
+    {
+        "start": 352.76,
+        "end": 353.76,
+        "english": "Sweet.",
+        "chinese": "甜。"
+    },
+    {
+        "start": 357.76,
+        "end": 358.92,
+        "english": "All right, sports fans.",
+        "chinese": "英语：一切好，球迷们。"
+    },
+    {
+        "start": 358.92,
+        "end": 362.72,
+        "english": "So now let's take a look at fluency builder.",
+        "chinese": "英语：所以现在让我们看看流利构建单元。"
+    },
+    {
+        "start": 362.72,
+        "end": 364.2,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 364.2,
+        "end": 368.8,
+        "english": "Okay, today on fluency builder, we have two really common words that you would listen to",
+        "chinese": "好的，今天在流利构建单元中，我们有两句话你可能会听到的很常见的词。"
+    },
+    {
+        "start": 368.8,
+        "end": 369.84000000000003,
+        "english": "while you're watching a game.",
+        "chinese": "在观看游戏时。"
+    },
+    {
+        "start": 369.84000000000003,
+        "end": 372.04,
+        "english": "Yeah, these are sort of slangy words, hey?",
+        "chinese": "是的，这些词有些俚语，对吧？"
+    },
+    {
+        "start": 372.04,
+        "end": 374.68,
+        "english": "Yeah, they're kind of a common informal.",
+        "chinese": "是的，它们有点儿像一个常见的口语表达。"
+    },
+    {
+        "start": 374.68,
+        "end": 375.68,
+        "english": "Informal.",
+        "chinese": "英语：Informal."
+    },
+    {
+        "start": 375.68,
+        "end": 378.28000000000003,
+        "english": "The first one that we have is screw up.",
+        "chinese": "第一个是出问题的。"
+    },
+    {
+        "start": 378.28,
+        "end": 379.28,
+        "english": "Screw up.",
+        "chinese": "英语：弄错。"
+    },
+    {
+        "start": 379.28,
+        "end": 380.28,
+        "english": "Screw up.",
+        "chinese": "英语：弄错。"
+    },
+    {
+        "start": 380.28,
+        "end": 381.28,
+        "english": "Screw up.",
+        "chinese": "英语：弄错。"
+    },
+    {
+        "start": 381.28,
+        "end": 382.28,
+        "english": "Two screw up.",
+        "chinese": "两个螺丝钉。"
+    },
+    {
+        "start": 382.28,
+        "end": 388.2,
+        "english": "Yeah, so this is a good way of saying to make a mistake.",
+        "chinese": "是的，所以这个方法好用。"
+    },
+    {
+        "start": 388.2,
+        "end": 392.2,
+        "english": "Let's listen to some examples of how this word is used.",
+        "chinese": "让我们听听一些这个单词是如何使用的例子。"
+    },
+    {
+        "start": 392.2,
+        "end": 393.59999999999997,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 393.59999999999997,
+        "end": 398.4,
+        "english": "Jill, you really screwed up this time.",
+        "chinese": "英语：Jill，你这次真的做错了。"
+    },
+    {
+        "start": 398.4,
+        "end": 404.32,
+        "english": "You'll fired.",
+        "chinese": "你将卸下重任。"
+    },
+    {
+        "start": 404.32,
+        "end": 406.32,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 407.32,
+        "end": 409.64,
+        "english": "This game is important.",
+        "chinese": "这个游戏很重要。"
+    },
+    {
+        "start": 409.64,
+        "end": 413.32,
+        "english": "If you screw it up, we're out of the finals.",
+        "chinese": "如果你们弄错了，我们就出线了。"
+    },
+    {
+        "start": 413.32,
+        "end": 415.32,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 415.32,
+        "end": 418.32,
+        "english": "I'm sorry.",
+        "chinese": "我非常抱歉。"
+    },
+    {
+        "start": 418.32,
+        "end": 422.32,
+        "english": "I know I screwed up.",
+        "chinese": "我知错了。"
+    },
+    {
+        "start": 422.32,
+        "end": 425.32,
+        "english": "Forgive me.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 425.32,
+        "end": 428.88,
+        "english": "Okay, so screw up is mess up.",
+        "chinese": "好的，所以搞砸了就是搞砸了。"
+    },
+    {
+        "start": 428.88,
+        "end": 429.88,
+        "english": "Yeah, make a mistake.",
+        "chinese": "嗯，犯错。"
+    },
+    {
+        "start": 429.88,
+        "end": 430.88,
+        "english": "Make a mistake.",
+        "chinese": "错误。"
+    },
+    {
+        "start": 430.88,
+        "end": 431.88,
+        "english": "Huh?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，我可以尝试用英文进行翻译："
+    },
+    {
+        "start": 431.88,
+        "end": 432.88,
+        "english": "Great.",
+        "chinese": "好。"
+    },
+    {
+        "start": 432.88,
+        "end": 435.2,
+        "english": "And our last word on fluency builder today, a beer run.",
+        "chinese": "今天，我们讨论了流利构建单元。"
+    },
+    {
+        "start": 435.2,
+        "end": 436.2,
+        "english": "A beer run.",
+        "chinese": "啤酒跑。"
+    },
+    {
+        "start": 436.2,
+        "end": 437.2,
+        "english": "Beer run.",
+        "chinese": "啤酒跑。"
+    },
+    {
+        "start": 437.2,
+        "end": 439.88,
+        "english": "So, what is this beer run?",
+        "chinese": "英语：所以，这瓶啤酒跑得怎么样？"
+    },
+    {
+        "start": 439.88,
+        "end": 441.92,
+        "english": "You run to get beer.",
+        "chinese": "你跑过去拿酒。"
+    },
+    {
+        "start": 441.92,
+        "end": 443.56,
+        "english": "You go to the store and get beer.",
+        "chinese": "你去商店买啤酒。"
+    },
+    {
+        "start": 443.56,
+        "end": 444.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 444.56,
+        "end": 447.71999999999997,
+        "english": "So it's just an expression to go and get more beer.",
+        "chinese": "所以，它只是个表达，去喝更多的啤酒。"
+    },
+    {
+        "start": 447.71999999999997,
+        "end": 451.76,
+        "english": "Yeah, usually you're watching a game or you're at home with your friends.",
+        "chinese": "是的，通常你是在看电视或和朋友在家里。"
+    },
+    {
+        "start": 451.76,
+        "end": 455.68,
+        "english": "You run out of beer, so somebody has to make a beer.",
+        "chinese": "英语：你喝完了啤酒，所以有人得去酿造啤酒了。"
+    },
+    {
+        "start": 455.68,
+        "end": 456.68,
+        "english": "Go get some beer.",
+        "chinese": "请喝点啤酒。"
+    },
+    {
+        "start": 456.68,
+        "end": 457.68,
+        "english": "Make a beer run.",
+        "chinese": "英语：制作啤酒跑。"
+    },
+    {
+        "start": 457.68,
+        "end": 458.68,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 458.68,
+        "end": 465.32,
+        "english": "Hey, is the game started yet?",
+        "chinese": "你好，游戏已经开始了吗？"
+    },
+    {
+        "start": 465.32,
+        "end": 466.8,
+        "english": "Yeah, about five minutes ago.",
+        "chinese": "英语：嗯，大约五分钟前。"
+    },
+    {
+        "start": 466.8,
+        "end": 467.8,
+        "english": "Who's winning?",
+        "chinese": "谁赢了？"
+    },
+    {
+        "start": 467.8,
+        "end": 468.8,
+        "english": "Bulls, of course.",
+        "chinese": "当然， bulls。"
+    },
+    {
+        "start": 468.8,
+        "end": 469.8,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 469.8,
+        "end": 471.8,
+        "english": "That wasn't a foul.",
+        "chinese": "这句话的中文翻译是：“那不是犯规。”"
+    },
+    {
+        "start": 471.8,
+        "end": 473.8,
+        "english": "Oh, come on, ref.",
+        "chinese": "英语：哦，来吧，重。"
+    },
+    {
+        "start": 473.8,
+        "end": 474.8,
+        "english": "Oh, worry.",
+        "chinese": "英语：哦，担心。"
+    },
+    {
+        "start": 474.8,
+        "end": 476.64,
+        "english": "Shaq always screws up free throws.",
+        "chinese": "沙克总是失误投篮。"
+    },
+    {
+        "start": 476.64,
+        "end": 477.64,
+        "english": "You're right.",
+        "chinese": "你对的。"
+    },
+    {
+        "start": 477.64,
+        "end": 481.64,
+        "english": "He didn't make the shot.",
+        "chinese": "他没有把镜头对准了。"
+    },
+    {
+        "start": 481.64,
+        "end": 487.24,
+        "english": "Yeah, that was a great shot.",
+        "chinese": "是的，那个照片很出色。"
+    },
+    {
+        "start": 487.24,
+        "end": 488.24,
+        "english": "Three pointer.",
+        "chinese": "三指。"
+    },
+    {
+        "start": 488.24,
+        "end": 489.24,
+        "english": "You see that?",
+        "chinese": "你看到这个吗？"
+    },
+    {
+        "start": 489.24,
+        "end": 490.40000000000003,
+        "english": "He traveled to the ref.",
+        "chinese": "他去了报告。"
+    },
+    {
+        "start": 490.40000000000003,
+        "end": 491.72,
+        "english": "Didn't even call us.",
+        "chinese": "“我们”没有向我们打电话。"
+    },
+    {
+        "start": 491.72,
+        "end": 492.72,
+        "english": "Ref needs glasses.",
+        "chinese": "英语：需要眼镜。"
+    },
+    {
+        "start": 492.72,
+        "end": 494.32,
+        "english": "Hey, ref, open your eyes.",
+        "chinese": "你好，李刚，睁开你的眼睛。"
+    },
+    {
+        "start": 494.32,
+        "end": 497.72,
+        "english": "Can't believe you didn't see that.",
+        "chinese": "真没想到你没看到那个。"
+    },
+    {
+        "start": 497.72,
+        "end": 498.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 498.72,
+        "end": 499.96000000000004,
+        "english": "I'm in the first quarter.",
+        "chinese": "我是在第一季度。"
+    },
+    {
+        "start": 499.96000000000004,
+        "end": 503.56,
+        "english": "All right, I'm going to make a beer run.",
+        "chinese": "英语：一切好，我要去打篮球。"
+    },
+    {
+        "start": 503.56,
+        "end": 508.0,
+        "english": "Okay, guys, I hope you enjoyed our lesson today.",
+        "chinese": "好的，同学们，我希望大家今天的学习体验愉快。"
+    },
+    {
+        "start": 508.0,
+        "end": 511.16,
+        "english": "We'll be bringing you more sports lessons in the future.",
+        "chinese": "我们将在未来提供更多的体育课程。"
+    },
+    {
+        "start": 511.16,
+        "end": 512.16,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 512.16,
+        "end": 515.44,
+        "english": "So if you have a particular sport that you want to learn about, you can tell us.",
+        "chinese": "所以如果你想学习某个特定的运动，你可以告诉我们。"
+    },
+    {
+        "start": 515.44,
+        "end": 518.44,
+        "english": "Come to our website, EnglishPod.com.",
+        "chinese": "来我们的网站，英语Pod.com。"
+    },
+    {
+        "start": 518.44,
+        "end": 523.44,
+        "english": "Yeah, and leave us your comments or your suggestions or any doubts that you have.",
+        "chinese": "是的，而且请将您提供的信息或任何疑问转交给我们。"
+    },
+    {
+        "start": 523.44,
+        "end": 524.6,
+        "english": "And we're always there to answer it.",
+        "chinese": "我们总是在这里回答它。"
+    },
+    {
+        "start": 524.6,
+        "end": 525.6,
+        "english": "So we'll see you there.",
+        "chinese": "所以我们会在这里见面。"
+    },
+    {
+        "start": 525.6,
+        "end": 526.6,
+        "english": "Yes, until next time.",
+        "chinese": "是的，下次再聊。"
+    },
+    {
+        "start": 526.6,
+        "end": 527.6,
+        "english": "Bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 527.6,
+        "end": 528.6,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

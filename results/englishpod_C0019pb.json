@@ -1,0 +1,1688 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.48,
+        "english": "Hello English learners and welcome to another lesson with EnglishPod.",
+        "chinese": "你好，英语学习者，请期待另一堂以英语为题目的课程。"
+    },
+    {
+        "start": 5.48,
+        "end": 10.44,
+        "english": "My name is Marco and I'm Erica and today we're bringing you a great Christmas lesson.",
+        "chinese": "我的名字是玛酷，今天我们带给你一个圣诞课。"
+    },
+    {
+        "start": 10.44,
+        "end": 15.24,
+        "english": "That's right we've got a lot of Christmas vocabulary in today's lesson for you.",
+        "chinese": "英语：那对，我们今天下午的课里有好多圣诞词汇给你。"
+    },
+    {
+        "start": 15.24,
+        "end": 19.16,
+        "english": "Yeah, it's almost Christmas time so everyone is getting into the spirit, especially here",
+        "chinese": "英语：是啊，到了圣诞季节大家都开始庆祝了，特别是这里。"
+    },
+    {
+        "start": 19.16,
+        "end": 23.04,
+        "english": "in EnglishPod so we're going to teach you a little bit more about this.",
+        "chinese": "在英语Pod上，我们将会教你一些关于这个主题的知识。"
+    },
+    {
+        "start": 23.04,
+        "end": 29.16,
+        "english": "Speaking of the spirit, I think it's time for us to look at our vocabulary preview.",
+        "chinese": "英语：谈到精神，我认为我们该看看我们的词汇预览了。"
+    },
+    {
+        "start": 29.16,
+        "end": 35.8,
+        "english": "So in this part of our show we'll look at some key language in the dialogue that you'll",
+        "chinese": "英语：所以在这部分节目中，我们将对对话中的一些关键语言进行分析。"
+    },
+    {
+        "start": 35.8,
+        "end": 40.64,
+        "english": "need to know to understand the dialogue and actually today we only have one word.",
+        "chinese": "英语：需要知道才能理解对话，今天我们只有一个单词。"
+    },
+    {
+        "start": 40.64,
+        "end": 41.64,
+        "english": "Egnog.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 41.64,
+        "end": 42.64,
+        "english": "Egnog.",
+        "chinese": "这个单词“Egnog”没有直接的中文释义，但根据上下文，它可能是指某种特定的食物或饮料。在不同的语言中，“Egnog”可以有多种解释："
+    },
+    {
+        "start": 42.64,
+        "end": 43.64,
+        "english": "Egnog.",
+        "chinese": "英文：Godspeed."
+    },
+    {
+        "start": 43.64,
+        "end": 46.64,
+        "english": "E-G-G-N-O-G.",
+        "chinese": "E-G-G-N-O-G (电-气-网-机)"
+    },
+    {
+        "start": 46.64,
+        "end": 47.64,
+        "english": "Egnog.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 47.64,
+        "end": 51.400000000000006,
+        "english": "So Egnog is a really popular Christmas drink.",
+        "chinese": "英语：所以Egnog是圣诞节最受欢迎的饮料。"
+    },
+    {
+        "start": 51.400000000000006,
+        "end": 53.08,
+        "english": "It's a traditional Christmas drink.",
+        "chinese": "英语：它是传统的圣诞饮料。"
+    },
+    {
+        "start": 53.08,
+        "end": 54.64,
+        "english": "Right, what is it made of?",
+        "chinese": "是的，它是由机身、镜头和偏振镜组成的。"
+    },
+    {
+        "start": 54.64,
+        "end": 60.32,
+        "english": "Eggs, cream, sugar and usually rum.",
+        "chinese": "鸡蛋，黄油，砂糖和通常的威士忌。"
+    },
+    {
+        "start": 60.32,
+        "end": 62.120000000000005,
+        "english": "Oh so it has alcohol.",
+        "chinese": "英语：Oh, so it has alcohol."
+    },
+    {
+        "start": 62.120000000000005,
+        "end": 64.12,
+        "english": "Yeah, normally it has alcohol.",
+        "chinese": "是的，通常它有酒精。"
+    },
+    {
+        "start": 64.12,
+        "end": 66.28,
+        "english": "Okay, all right that's interesting.",
+        "chinese": "好的，一切就绪。"
+    },
+    {
+        "start": 66.28,
+        "end": 69.48,
+        "english": "There's actually a drink very similar to this in Chile.",
+        "chinese": "英语：实际上，这种饮料和这个相似。"
+    },
+    {
+        "start": 69.48,
+        "end": 70.48,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 70.48,
+        "end": 72.56,
+        "english": "Yep, they call it monkey tail.",
+        "chinese": "是的，他们称它猴子尾。"
+    },
+    {
+        "start": 72.56,
+        "end": 74.16,
+        "english": "So in Spanish that would be...",
+        "chinese": "英语：所以，在西班牙语中，那将是什么？"
+    },
+    {
+        "start": 74.16,
+        "end": 75.16,
+        "english": "Golade mono.",
+        "chinese": "葡萄干。"
+    },
+    {
+        "start": 75.16,
+        "end": 76.16,
+        "english": "Very nice.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 76.16,
+        "end": 78.76,
+        "english": "Yeah so it's actually really really good.",
+        "chinese": "英语：是啊，所以它实际上真的很好。"
+    },
+    {
+        "start": 78.76,
+        "end": 80.12,
+        "english": "Men it's really similar to Egnog.",
+        "chinese": "英语：它真的像Eggog一样。"
+    },
+    {
+        "start": 80.12,
+        "end": 84.6,
+        "english": "Okay well with that in mind let's take a listen to our dialogue for the first time",
+        "chinese": "好的，让我们以这个开头开始："
+    },
+    {
+        "start": 84.6,
+        "end": 85.6,
+        "english": "time.",
+        "chinese": "时间。"
+    },
+    {
+        "start": 85.6,
+        "end": 95.96,
+        "english": "I hate working on Christmas Eve.",
+        "chinese": "我讨厌在圣诞节的晚上工作。"
+    },
+    {
+        "start": 95.96,
+        "end": 99.19999999999999,
+        "english": "Whoa, get a load of this guy.",
+        "chinese": "英语：哇，拿上这个家伙。"
+    },
+    {
+        "start": 99.19999999999999,
+        "end": 100.19999999999999,
+        "english": "Come in central.",
+        "chinese": "来这边。"
+    },
+    {
+        "start": 100.19999999999999,
+        "end": 102.19999999999999,
+        "english": "I think we got ourselves a situation here.",
+        "chinese": "我感觉我们已经陷入了一个困境。"
+    },
+    {
+        "start": 102.2,
+        "end": 126.04,
+        "english": "I have one or two glasses of Egnog but nothing else.",
+        "chinese": "我有一顶或两顶眼镜，但没什么别的。"
+    },
+    {
+        "start": 126.04,
+        "end": 127.80000000000001,
+        "english": "Step out of the vehicle please.",
+        "chinese": "请下车。"
+    },
+    {
+        "start": 127.80000000000001,
+        "end": 130.52,
+        "english": "Sir, what do you have in the back?",
+        "chinese": "英语：您在后部有什么？"
+    },
+    {
+        "start": 130.52,
+        "end": 132.68,
+        "english": "I have to feel Christmas gifts.",
+        "chinese": "我必须为圣诞礼物感到高兴。"
+    },
+    {
+        "start": 132.68,
+        "end": 134.60000000000002,
+        "english": "Tis the season after all.",
+        "chinese": "这个季节已经过去很久了。"
+    },
+    {
+        "start": 134.60000000000002,
+        "end": 136.52,
+        "english": "Don't take that tone with me.",
+        "chinese": "英语：不要用这种语气和我讲话。"
+    },
+    {
+        "start": 136.52,
+        "end": 138.36,
+        "english": "Do you have an invoice for these items?",
+        "chinese": "是的，你有这些商品的发票吗？"
+    },
+    {
+        "start": 138.36,
+        "end": 143.8,
+        "english": "Oh no, I make these in my workshop in the North Pole.",
+        "chinese": "英语：哦，不好，我在北极的工场里制造这些。"
+    },
+    {
+        "start": 143.8,
+        "end": 145.64000000000001,
+        "english": "You are under arrest sir.",
+        "chinese": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 145.64000000000001,
+        "end": 147.36,
+        "english": "You have the rights or main silent.",
+        "chinese": "你有权利或主要的沉默。"
+    },
+    {
+        "start": 147.36,
+        "end": 149.88,
+        "english": "You better not power, you better not cry.",
+        "chinese": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 149.88,
+        "end": 152.48000000000002,
+        "english": "Anything you say can and will be used against you.",
+        "chinese": "任何你说的话都可能和你发生冲突。"
+    },
+    {
+        "start": 152.48000000000002,
+        "end": 153.64000000000001,
+        "english": "You have the right to an attorney.",
+        "chinese": "你有律师的代理权。"
+    },
+    {
+        "start": 153.64000000000001,
+        "end": 156.36,
+        "english": "If you can't afford one, the state will appoint one for you.",
+        "chinese": "如果你不能负担，政府会为你指定一台单反相机。"
+    },
+    {
+        "start": 156.36,
+        "end": 159.16000000000003,
+        "english": "Do you understand these rights that have just been read to you?",
+        "chinese": "是的，我已经理解了这些权利。"
+    },
+    {
+        "start": 159.16,
+        "end": 161.28,
+        "english": "You can't take me to jail.",
+        "chinese": "你不能把我送到监狱。"
+    },
+    {
+        "start": 161.28,
+        "end": 162.28,
+        "english": "What about my sleigh?",
+        "chinese": "英语：What about my sleigh?"
+    },
+    {
+        "start": 162.28,
+        "end": 164.04,
+        "english": "It's Christmas Eve.",
+        "chinese": "英语：It's Christmas Eve."
+    },
+    {
+        "start": 164.04,
+        "end": 165.88,
+        "english": "I have presents to deliver.",
+        "chinese": "我有东西要送。"
+    },
+    {
+        "start": 165.88,
+        "end": 169.16,
+        "english": "Rudolph, Prince or Dancer, good health.",
+        "chinese": "英语：瑞迪，王子或舞者，健康。"
+    },
+    {
+        "start": 169.16,
+        "end": 185.64,
+        "english": "It's coming straight to the end.",
+        "chinese": "英语：它正在直奔终点。"
+    },
+    {
+        "start": 185.64,
+        "end": 189.32,
+        "english": "Well I did not see that one coming.",
+        "chinese": "英语：我并没有看到那个。"
+    },
+    {
+        "start": 189.32,
+        "end": 190.32,
+        "english": "That was interesting.",
+        "chinese": "那真是有趣。"
+    },
+    {
+        "start": 190.32,
+        "end": 192.95999999999998,
+        "english": "Santa Claus is being taken to jail.",
+        "chinese": "英文：圣诞老人被送进了监狱。"
+    },
+    {
+        "start": 192.95999999999998,
+        "end": 194.55999999999997,
+        "english": "What's going to happen next, Marco?",
+        "chinese": "英语：接下来会发生什么事，马科？"
+    },
+    {
+        "start": 194.55999999999997,
+        "end": 195.55999999999997,
+        "english": "I don't know.",
+        "chinese": "我不会。"
+    },
+    {
+        "start": 195.55999999999997,
+        "end": 196.88,
+        "english": "We'll talk about that in a little while.",
+        "chinese": "我们一会儿再说这个。"
+    },
+    {
+        "start": 196.88,
+        "end": 201.35999999999999,
+        "english": "Let's take a look at some language from this dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 201.35999999999999,
+        "end": 203.6,
+        "english": "Language take away.",
+        "chinese": "语言取消。"
+    },
+    {
+        "start": 203.6,
+        "end": 208.2,
+        "english": "So the first word that we have on our language take away today is vehicle.",
+        "chinese": "所以今天我们语言中第一个要删除的单词是车辆。"
+    },
+    {
+        "start": 208.2,
+        "end": 209.2,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 209.2,
+        "end": 210.2,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 210.2,
+        "end": 211.2,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 211.2,
+        "end": 213.2,
+        "english": "So this is a vehicle.",
+        "chinese": "英语：所以这是辆汽车。"
+    },
+    {
+        "start": 213.2,
+        "end": 236.56,
+        "english": "And this is a vehicle.",
+        "chinese": "而且这是辆汽车。"
+    },
+    {
+        "start": 236.56,
+        "end": 250.72,
+        "english": "And this is a vehicle.",
+        "chinese": "而且这是辆汽车。"
+    },
+    {
+        "start": 250.72,
+        "end": 252.6,
+        "english": "So all of those are vehicles.",
+        "chinese": "所以这些都是车辆。"
+    },
+    {
+        "start": 252.6,
+        "end": 255.68,
+        "english": "Now I thought that a vehicle was a car specifically.",
+        "chinese": "现在我意识到，一辆车是汽车的一种特定形式。"
+    },
+    {
+        "start": 255.68,
+        "end": 260.48,
+        "english": "Know any machine that carries people from one place to another is a vehicle.",
+        "chinese": "英语：知道能将人从一个地方带到另一个地方的机器是汽车。"
+    },
+    {
+        "start": 260.48,
+        "end": 261.48,
+        "english": "Great.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 261.48,
+        "end": 262.48,
+        "english": "Alright.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 262.48,
+        "end": 264.56,
+        "english": "Let's take a look now at our second word.",
+        "chinese": "让我们现在看看我们的第二个单词。"
+    },
+    {
+        "start": 264.56,
+        "end": 265.56,
+        "english": "Attorney.",
+        "chinese": "律师。"
+    },
+    {
+        "start": 265.56,
+        "end": 266.56,
+        "english": "Attorney.",
+        "chinese": "律师。"
+    },
+    {
+        "start": 266.56,
+        "end": 267.56,
+        "english": "Attorney.",
+        "chinese": "律师。"
+    },
+    {
+        "start": 267.56,
+        "end": 269.56,
+        "english": "So what is an attorney?",
+        "chinese": "英语：所以什么是律师？"
+    },
+    {
+        "start": 269.56,
+        "end": 270.56,
+        "english": "A lawyer.",
+        "chinese": "英文：A lawyer."
+    },
+    {
+        "start": 270.56,
+        "end": 271.56,
+        "english": "Well that's simple enough.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 271.56,
+        "end": 272.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 272.56,
+        "end": 273.56,
+        "english": "A lawyer.",
+        "chinese": "英文：A lawyer."
+    },
+    {
+        "start": 273.56,
+        "end": 276.64,
+        "english": "Let's move to our third word which is a point.",
+        "chinese": "让我们先移至我们的第三个词汇，即“点”。"
+    },
+    {
+        "start": 276.64,
+        "end": 277.64,
+        "english": "A point.",
+        "chinese": "一个点。"
+    },
+    {
+        "start": 277.64,
+        "end": 278.64,
+        "english": "A point.",
+        "chinese": "点。"
+    },
+    {
+        "start": 278.64,
+        "end": 279.64,
+        "english": "A point.",
+        "chinese": "一个点。"
+    },
+    {
+        "start": 279.64,
+        "end": 282.4,
+        "english": "So a point means choose.",
+        "chinese": "所以，一个点意味着选择。"
+    },
+    {
+        "start": 282.4,
+        "end": 283.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 283.4,
+        "end": 287.76,
+        "english": "So the president of a country might appoint his chief of staff.",
+        "chinese": "所以，一个国家的总统可能会任命他的首席秘书。"
+    },
+    {
+        "start": 287.76,
+        "end": 288.76,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 288.76,
+        "end": 291.36,
+        "english": "Or I can appoint my attorney.",
+        "chinese": "英语：或者我可以任命我的律师。"
+    },
+    {
+        "start": 291.36,
+        "end": 292.36,
+        "english": "True.",
+        "chinese": "真的。"
+    },
+    {
+        "start": 292.36,
+        "end": 294.32,
+        "english": "You appoint a thing.",
+        "chinese": "你任命一个东西。"
+    },
+    {
+        "start": 294.32,
+        "end": 296.28000000000003,
+        "english": "Can I appoint my coffee cup?",
+        "chinese": "英语：Can I assign my coffee cup?"
+    },
+    {
+        "start": 296.28000000000003,
+        "end": 297.28000000000003,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 297.28000000000003,
+        "end": 298.28000000000003,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 298.28000000000003,
+        "end": 299.28000000000003,
+        "english": "You only use it for people.",
+        "chinese": "你只能用于人们。"
+    },
+    {
+        "start": 299.28000000000003,
+        "end": 300.28000000000003,
+        "english": "You choose someone.",
+        "chinese": "你选择某人。"
+    },
+    {
+        "start": 300.28000000000003,
+        "end": 301.28000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 301.28000000000003,
+        "end": 302.28000000000003,
+        "english": "I can't choose something.",
+        "chinese": "我不能选择。"
+    },
+    {
+        "start": 302.28000000000003,
+        "end": 303.28000000000003,
+        "english": "So I appoint someone.",
+        "chinese": "所以，我任命某人。"
+    },
+    {
+        "start": 303.28000000000003,
+        "end": 304.28000000000003,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 304.28000000000003,
+        "end": 305.28000000000003,
+        "english": "Alright.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 305.28000000000003,
+        "end": 306.28000000000003,
+        "english": "Let's move to our final word.",
+        "chinese": "让我们移至最后单词。"
+    },
+    {
+        "start": 306.28000000000003,
+        "end": 307.28000000000003,
+        "english": "Slae.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 307.28000000000003,
+        "end": 308.28000000000003,
+        "english": "Slae.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 308.28000000000003,
+        "end": 309.28000000000003,
+        "english": "Slae.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 309.28000000000003,
+        "end": 310.28000000000003,
+        "english": "Slae.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 310.28000000000003,
+        "end": 311.40000000000003,
+        "english": "So Erica, you're from Canada.",
+        "chinese": "英语：所以埃里克，你来自加拿大。"
+    },
+    {
+        "start": 311.40000000000003,
+        "end": 312.44,
+        "english": "You can tell us about slays.",
+        "chinese": "你可以说说单反相机。"
+    },
+    {
+        "start": 312.44,
+        "end": 313.44,
+        "english": "Alright.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 313.44,
+        "end": 320.56,
+        "english": "A slay is a vehicle that is pulled by a horse and travels over snow or ice.",
+        "chinese": "英文：一个单反相机是通过马车拉着的，可以在雪地上或冰面上行驶。"
+    },
+    {
+        "start": 320.56,
+        "end": 321.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 321.56,
+        "end": 323.72,
+        "english": "You know, like Santa drives a slay.",
+        "chinese": "英语：你知道，比如圣诞老人开单反相机。"
+    },
+    {
+        "start": 323.72,
+        "end": 324.72,
+        "english": "He drives a slay.",
+        "chinese": "他开的是单反车。"
+    },
+    {
+        "start": 324.72,
+        "end": 327.48,
+        "english": "So do you drive a slay or ride a slay?",
+        "chinese": "英语：所以你开车还是骑车？"
+    },
+    {
+        "start": 327.48,
+        "end": 329.88,
+        "english": "Good question.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 329.88,
+        "end": 333.12,
+        "english": "Well the song says you ride in a one horse open slay.",
+        "chinese": "英语：它说你骑着一匹马在开山大峡谷里。"
+    },
+    {
+        "start": 333.12,
+        "end": 334.12,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 334.12,
+        "end": 335.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 335.12,
+        "end": 336.12,
+        "english": "Well you know what?",
+        "chinese": "英语：你懂吗？"
+    },
+    {
+        "start": 336.12,
+        "end": 338.8,
+        "english": "I think it's time for us to look at some interesting phrases that we found in this",
+        "chinese": "我认为现在是时候看看我们在这中文里找到的一些有趣短语。"
+    },
+    {
+        "start": 338.8,
+        "end": 339.8,
+        "english": "dialogue.",
+        "chinese": "对话。"
+    },
+    {
+        "start": 339.8,
+        "end": 343.32,
+        "english": "So let's look at putting it together.",
+        "chinese": "所以，让我们一起看看组装吧。"
+    },
+    {
+        "start": 343.32,
+        "end": 345.56,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 345.56,
+        "end": 346.52,
+        "english": "Today I'm putting it together.",
+        "chinese": "今天我要把它组装好。"
+    },
+    {
+        "start": 346.52,
+        "end": 348.8,
+        "english": "We have two great phrases for you.",
+        "chinese": "我们有两个好词给你。"
+    },
+    {
+        "start": 348.8,
+        "end": 350.92,
+        "english": "And let's take a look at the first one.",
+        "chinese": "让我们看看第一句。"
+    },
+    {
+        "start": 350.92,
+        "end": 351.92,
+        "english": "Step out.",
+        "chinese": "在离开。"
+    },
+    {
+        "start": 351.92,
+        "end": 352.92,
+        "english": "Step out.",
+        "chinese": "步骤下。"
+    },
+    {
+        "start": 352.92,
+        "end": 353.92,
+        "english": "Step out.",
+        "chinese": "在离开。"
+    },
+    {
+        "start": 353.92,
+        "end": 359.52000000000004,
+        "english": "So step out means to go out of a place for a short period of time.",
+        "chinese": "所以，走开意味着离开某个地方短暂地停留。"
+    },
+    {
+        "start": 359.52000000000004,
+        "end": 360.52000000000004,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 360.52000000000004,
+        "end": 365.92,
+        "english": "So in our dialogue for example, the police officer said, step out of the vehicle.",
+        "chinese": "英语：所以，在我们的对话中，警察说，下车。"
+    },
+    {
+        "start": 365.92,
+        "end": 367.52000000000004,
+        "english": "Get out of your vehicle.",
+        "chinese": "卸下你的车。"
+    },
+    {
+        "start": 367.52000000000004,
+        "end": 370.56,
+        "english": "You can also say, step out of the office.",
+        "chinese": "英语：你可以这样说，卸下办公室的职责。"
+    },
+    {
+        "start": 370.56,
+        "end": 373.8,
+        "english": "You can say, I just stepped out of the shower.",
+        "chinese": "英语：你可以这么说，我刚刚从淋浴间出来。"
+    },
+    {
+        "start": 373.8,
+        "end": 374.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 374.8,
+        "end": 377.16,
+        "english": "Now we can also say, step in.",
+        "chinese": "现在我们也可以这么说，卸下责任。"
+    },
+    {
+        "start": 377.16,
+        "end": 378.16,
+        "english": "It's the opposite.",
+        "chinese": "是反义。"
+    },
+    {
+        "start": 378.16,
+        "end": 379.16,
+        "english": "The opposite, right?",
+        "chinese": "这句话的中文翻译是：“相反，对吗？”"
+    },
+    {
+        "start": 379.16,
+        "end": 382.44,
+        "english": "I can ask Marco, step in to my office for a moment.",
+        "chinese": "我可以在你办公室稍作停留。"
+    },
+    {
+        "start": 382.44,
+        "end": 383.44,
+        "english": "Uh oh.",
+        "chinese": "英语：Uh oh."
+    },
+    {
+        "start": 383.44,
+        "end": 384.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 384.44,
+        "end": 387.36,
+        "english": "So that's step out and step in.",
+        "chinese": "所以，那就是卸下任务和承担责任。"
+    },
+    {
+        "start": 387.36,
+        "end": 388.36,
+        "english": "Great phrases.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 388.36,
+        "end": 390.56,
+        "english": "Let's take a look at our final phrase.",
+        "chinese": "让我们看看我们的最终短语。"
+    },
+    {
+        "start": 390.56,
+        "end": 391.76000000000005,
+        "english": "Get a load of.",
+        "chinese": "请欣赏。"
+    },
+    {
+        "start": 391.76000000000005,
+        "end": 393.52000000000004,
+        "english": "Get a load of.",
+        "chinese": "请欣赏。"
+    },
+    {
+        "start": 393.52000000000004,
+        "end": 394.92,
+        "english": "Get a load of.",
+        "chinese": "请欣赏。"
+    },
+    {
+        "start": 394.92,
+        "end": 398.72,
+        "english": "So when I say get a load of something, I mean look at, right?",
+        "chinese": "所以，当你说“拿点东西看看”，你指的是查看、还是看？"
+    },
+    {
+        "start": 398.72,
+        "end": 399.72,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 399.72,
+        "end": 400.72,
+        "english": "Look at this guy.",
+        "chinese": "请看这个家伙。"
+    },
+    {
+        "start": 400.72,
+        "end": 401.72,
+        "english": "Get a load of this guy.",
+        "chinese": "请欣赏这位先生。"
+    },
+    {
+        "start": 401.72,
+        "end": 402.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 402.72,
+        "end": 403.72,
+        "english": "That's what we heard in the dialogue.",
+        "chinese": "这句话的中文翻译是：“我们听到了对话。”"
+    },
+    {
+        "start": 403.72,
+        "end": 407.0,
+        "english": "Now you can use this phrase in a number of different ways and we have some examples",
+        "chinese": "现在你可以用这个短语在不同的方式上使用，并且我们有一些例子。"
+    },
+    {
+        "start": 407.0,
+        "end": 409.04,
+        "english": "for you.",
+        "chinese": "对于你。"
+    },
+    {
+        "start": 409.04,
+        "end": 412.76000000000005,
+        "english": "Get a load of this.",
+        "chinese": "请欣赏这个。"
+    },
+    {
+        "start": 412.76000000000005,
+        "end": 417.6,
+        "english": "A war has started in Antarctica.",
+        "chinese": "A战争已经开始在南极。"
+    },
+    {
+        "start": 417.6,
+        "end": 420.76000000000005,
+        "english": "Example two.",
+        "chinese": "示例三。"
+    },
+    {
+        "start": 420.76000000000005,
+        "end": 422.08000000000004,
+        "english": "Get a load of that house.",
+        "chinese": "请拿走那栋房子。"
+    },
+    {
+        "start": 422.08000000000004,
+        "end": 426.92,
+        "english": "It's so big.",
+        "chinese": "英语：它太大了。"
+    },
+    {
+        "start": 426.92,
+        "end": 427.92,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 427.92,
+        "end": 432.08000000000004,
+        "english": "Get a load of him.",
+        "chinese": "请欣赏他。"
+    },
+    {
+        "start": 432.08000000000004,
+        "end": 435.88,
+        "english": "He's wearing a pink suit.",
+        "chinese": "他穿着一件粉色的西装。"
+    },
+    {
+        "start": 435.88,
+        "end": 436.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 436.88,
+        "end": 439.48,
+        "english": "I think we've covered a lot of interesting words and phrases.",
+        "chinese": "我感觉我们已经覆盖了一些有趣的词汇和短语。"
+    },
+    {
+        "start": 439.48,
+        "end": 443.08,
+        "english": "So we are ready to listen to our dialogue a second time.",
+        "chinese": "所以，我们已经准备好第二次听取我们的对话。"
+    },
+    {
+        "start": 443.08,
+        "end": 449.92,
+        "english": "But this time it's going to be a little bit slower so we can pick up all these great words.",
+        "chinese": "但是这次速度会稍微慢一些，我们可以选中这些好词。"
+    },
+    {
+        "start": 449.92,
+        "end": 453.04,
+        "english": "I hate working on Christmas Eve.",
+        "chinese": "英语：我讨厌在圣诞节的晚上工作。"
+    },
+    {
+        "start": 453.04,
+        "end": 454.04,
+        "english": "Whoa.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 454.04,
+        "end": 456.71999999999997,
+        "english": "Get a load of this guy.",
+        "chinese": "请欣赏这位先生。"
+    },
+    {
+        "start": 456.71999999999997,
+        "end": 458.24,
+        "english": "Come in central.",
+        "chinese": "请进中央。"
+    },
+    {
+        "start": 458.24,
+        "end": 462.92,
+        "english": "I think we got ourselves a situation here.",
+        "chinese": "我感觉我们已经陷入了一个困境。"
+    },
+    {
+        "start": 462.92,
+        "end": 465.2,
+        "english": "License in registration, please.",
+        "chinese": "英语：注册登记，请出示您的驾照。"
+    },
+    {
+        "start": 465.2,
+        "end": 468.03999999999996,
+        "english": "Have you been drinking tonight, sir?",
+        "chinese": "英语：你今晚喝酒了吗，先生？"
+    },
+    {
+        "start": 468.03999999999996,
+        "end": 474.84,
+        "english": "I had one or two glasses of eggnog, but nothing else.",
+        "chinese": "我有一杯或两杯冰红茶，但没什么别的。"
+    },
+    {
+        "start": 474.84,
+        "end": 476.76,
+        "english": "Step out of the vehicle, please.",
+        "chinese": "英语：下车，好吗？"
+    },
+    {
+        "start": 476.76,
+        "end": 480.0,
+        "english": "Sir, what do you have in the back?",
+        "chinese": "英语：请告诉我您在后部的装备。"
+    },
+    {
+        "start": 480.0,
+        "end": 482.03999999999996,
+        "english": "Just a few Christmas gifts.",
+        "chinese": "英语：只是一些圣诞礼物。"
+    },
+    {
+        "start": 482.03999999999996,
+        "end": 485.4,
+        "english": "It is the season after all.",
+        "chinese": "这是最后一个季节。"
+    },
+    {
+        "start": 485.4,
+        "end": 486.96,
+        "english": "Don't take that tone with me.",
+        "chinese": "英语：不要用这种语气和我交流。"
+    },
+    {
+        "start": 486.96,
+        "end": 489.48,
+        "english": "Do you have an invoice for these items?",
+        "chinese": "是的，你有这些商品的发票吗？"
+    },
+    {
+        "start": 489.48,
+        "end": 492.48,
+        "english": "Um, no.",
+        "chinese": "英语：啊，不。"
+    },
+    {
+        "start": 492.48,
+        "end": 497.52000000000004,
+        "english": "I make these in my workshop in the North Pole.",
+        "chinese": "我在这里制作这些，我在北极的工厂。"
+    },
+    {
+        "start": 497.52000000000004,
+        "end": 499.76,
+        "english": "You are under arrest, sir.",
+        "chinese": "英语：你被逮捕了，先生。"
+    },
+    {
+        "start": 499.76,
+        "end": 501.72,
+        "english": "You have the right to remain silent.",
+        "chinese": "你有权利保持沉默。"
+    },
+    {
+        "start": 501.72,
+        "end": 502.96000000000004,
+        "english": "You better not pout.",
+        "chinese": "你最好不要生气。"
+    },
+    {
+        "start": 502.96000000000004,
+        "end": 504.28000000000003,
+        "english": "You better not cry.",
+        "chinese": "你最好不要哭。"
+    },
+    {
+        "start": 504.28000000000003,
+        "end": 508.44,
+        "english": "Anything you say can and will be used against you.",
+        "chinese": "任何你说的话都可能和你发生冲突。"
+    },
+    {
+        "start": 508.44,
+        "end": 510.36,
+        "english": "You have the right to an attorney.",
+        "chinese": "你有律师的代理权。"
+    },
+    {
+        "start": 510.36,
+        "end": 513.8000000000001,
+        "english": "If you cannot afford one, the state will appoint one for you.",
+        "chinese": "如果你不能负担，政府将为你指定一个。"
+    },
+    {
+        "start": 513.8000000000001,
+        "end": 518.24,
+        "english": "Do you understand all these rights that have just been read to you?",
+        "chinese": "是的，我已经理解了这些权利。"
+    },
+    {
+        "start": 518.24,
+        "end": 521.0,
+        "english": "You can't take me to jail.",
+        "chinese": "你不能把我关进监狱。"
+    },
+    {
+        "start": 521.0,
+        "end": 523.16,
+        "english": "What about my sleigh?",
+        "chinese": "英语：What about my sleigh?"
+    },
+    {
+        "start": 523.16,
+        "end": 524.72,
+        "english": "It's Christmas Eve.",
+        "chinese": "英语：It's Christmas Eve."
+    },
+    {
+        "start": 524.72,
+        "end": 527.2,
+        "english": "I have presents to deliver.",
+        "chinese": "我有东西要送。"
+    },
+    {
+        "start": 527.2,
+        "end": 532.44,
+        "english": "Rudolph, prancer, dancer, get help.",
+        "chinese": "英语：Rudolph, prancer, dancer, get help."
+    },
+    {
+        "start": 532.44,
+        "end": 538.36,
+        "english": "Okay, so we noticed some really great words and phrases.",
+        "chinese": "好的，我已经准确地将英文翻译成了中文。如果您有其他需要帮助的，请随时告诉我！"
+    },
+    {
+        "start": 538.36,
+        "end": 542.96,
+        "english": "And with this, now we can start with some fluency builder.",
+        "chinese": "现在我们可以从一些流利的构建开始。"
+    },
+    {
+        "start": 542.96,
+        "end": 544.32,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 544.32,
+        "end": 550.12,
+        "english": "Today on Fluency Builder, we have two great phrases that you can use to sound a little bit",
+        "chinese": "今天在流利构建单元，我们有两句话可以用来听起来稍微有点儿小声。"
+    },
+    {
+        "start": 550.12,
+        "end": 551.72,
+        "english": "more natural when you speak.",
+        "chinese": "英语：更自然的是你说话。"
+    },
+    {
+        "start": 551.72,
+        "end": 552.72,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 552.72,
+        "end": 560.52,
+        "english": "Our first phrase you can use if you want to say, don't speak to me like that.",
+        "chinese": "英语：如果你想说，不要像这样说话。"
+    },
+    {
+        "start": 560.52,
+        "end": 563.68,
+        "english": "Don't take that tone with me.",
+        "chinese": "英语：不要用这种语气和我交流。"
+    },
+    {
+        "start": 563.68,
+        "end": 565.52,
+        "english": "Don't take that tone with me.",
+        "chinese": "英语：别跟我用这种语气说话。"
+    },
+    {
+        "start": 565.52,
+        "end": 571.2,
+        "english": "So you often hear this phrase coming out of the mouth of a mother or a father.",
+        "chinese": "英语：所以你经常听到妈妈或爸爸说这句话。"
+    },
+    {
+        "start": 571.2,
+        "end": 574.32,
+        "english": "Yeah, when their children are maybe talking back.",
+        "chinese": "是的，当他们的孩子开始说话时。"
+    },
+    {
+        "start": 574.32,
+        "end": 575.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 575.32,
+        "end": 576.84,
+        "english": "Don't take that tone with me, young man.",
+        "chinese": "英语：不要对我这么粗鲁，年轻人。"
+    },
+    {
+        "start": 576.84,
+        "end": 578.36,
+        "english": "I used to get that a lot.",
+        "chinese": "我过去常常被那套机镜头困扰。"
+    },
+    {
+        "start": 578.36,
+        "end": 579.36,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 579.36,
+        "end": 580.36,
+        "english": "I don't know about that.",
+        "chinese": "我也不太清楚。"
+    },
+    {
+        "start": 580.36,
+        "end": 583.28,
+        "english": "Okay, our second phrase.",
+        "chinese": "好的，我们的第二句话。"
+    },
+    {
+        "start": 583.28,
+        "end": 585.64,
+        "english": "We use it when we have a problem.",
+        "chinese": "我们使用它来解决问题。"
+    },
+    {
+        "start": 585.64,
+        "end": 592.5600000000001,
+        "english": "The phrase we heard in the dialogue was, I think we've got ourselves the situation here.",
+        "chinese": "英语：我们刚才讨论的这个话题，我认为我们已经到了这个位置。"
+    },
+    {
+        "start": 592.5600000000001,
+        "end": 595.36,
+        "english": "Let's listen to another example.",
+        "chinese": "让我们听听另一个例子。"
+    },
+    {
+        "start": 595.36,
+        "end": 599.96,
+        "english": "Houston, we've got ourselves a situation here.",
+        "chinese": "英语：休斯顿，我们已经自己搞定了这个情况。"
+    },
+    {
+        "start": 599.96,
+        "end": 604.28,
+        "english": "Houston, we've got ourselves a situation here.",
+        "chinese": "英语：休斯顿，我们已经自己陷入了困境。"
+    },
+    {
+        "start": 604.28,
+        "end": 608.5600000000001,
+        "english": "Sometimes I use this phrase when I want to tell my boss that I have a problem.",
+        "chinese": "英语：有时我用这个短语来告诉我的老板我有问题。"
+    },
+    {
+        "start": 608.56,
+        "end": 612.8399999999999,
+        "english": "I might say, boss, I've got a bit of a situation.",
+        "chinese": "我可能说，老板，我现在有点儿情况。"
+    },
+    {
+        "start": 612.8399999999999,
+        "end": 614.2399999999999,
+        "english": "Can you help me with it?",
+        "chinese": "你能帮我解决这个问题吗？"
+    },
+    {
+        "start": 614.2399999999999,
+        "end": 615.2399999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 615.2399999999999,
+        "end": 616.2399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 616.2399999999999,
+        "end": 617.2399999999999,
+        "english": "I have a little bit of a problem.",
+        "chinese": "我有点问题。"
+    },
+    {
+        "start": 617.2399999999999,
+        "end": 618.2399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 618.2399999999999,
+        "end": 619.2399999999999,
+        "english": "Useful phrases, hey?",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 619.2399999999999,
+        "end": 620.2399999999999,
+        "english": "Really useful phrases.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 620.2399999999999,
+        "end": 621.2399999999999,
+        "english": "Great stuff.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 621.2399999999999,
+        "end": 623.28,
+        "english": "So now we can listen to our dialogue a final time.",
+        "chinese": "所以现在我们可以再次聆听我们的对话了。"
+    },
+    {
+        "start": 623.28,
+        "end": 629.28,
+        "english": "And this time we can understand everything that's in it.",
+        "chinese": "和这一次，我们能理解其中的一切。"
+    },
+    {
+        "start": 629.28,
+        "end": 638.4799999999999,
+        "english": "I hate working on Christmas Eve.",
+        "chinese": "我讨厌在圣诞节前夕工作。"
+    },
+    {
+        "start": 638.48,
+        "end": 640.72,
+        "english": "Whoa, get a load of this guy.",
+        "chinese": "哇，这家伙真帅。"
+    },
+    {
+        "start": 640.72,
+        "end": 641.72,
+        "english": "Come in central.",
+        "chinese": "来吧，中央。"
+    },
+    {
+        "start": 641.72,
+        "end": 651.76,
+        "english": "I think we got ourselves a situation here.",
+        "chinese": "我感觉我们已经陷入了一个困境。"
+    },
+    {
+        "start": 651.76,
+        "end": 667.48,
+        "english": "I have one or two glasses of Haynog, but nothing else.",
+        "chinese": "我有一顶或两顶哈尼族的帽子，但没什么别的。"
+    },
+    {
+        "start": 667.48,
+        "end": 669.28,
+        "english": "Step out of the vehicle, please.",
+        "chinese": "英语：下车，好吗？"
+    },
+    {
+        "start": 669.28,
+        "end": 672.04,
+        "english": "Sir, what do you have in the back?",
+        "chinese": "英语：请问您在后部有什么？"
+    },
+    {
+        "start": 672.04,
+        "end": 674.04,
+        "english": "Just a few Christmas gifts.",
+        "chinese": "英语：只是一些圣诞礼物。"
+    },
+    {
+        "start": 674.04,
+        "end": 676.04,
+        "english": "Tis the season after all.",
+        "chinese": "这是最后一个季节。"
+    },
+    {
+        "start": 676.04,
+        "end": 678.04,
+        "english": "Don't take that tone with me.",
+        "chinese": "英语：不要用这种语气和我交流。"
+    },
+    {
+        "start": 678.04,
+        "end": 680.28,
+        "english": "Do you have an invoice for these items?",
+        "chinese": "你有这些物品的发票吗？"
+    },
+    {
+        "start": 680.28,
+        "end": 681.28,
+        "english": "Oh, no.",
+        "chinese": "哦，不。"
+    },
+    {
+        "start": 681.28,
+        "end": 685.36,
+        "english": "I make these in my workshop in the North Pole.",
+        "chinese": "我在这里制作这些产品。"
+    },
+    {
+        "start": 685.36,
+        "end": 687.16,
+        "english": "You are under arrest, sir.",
+        "chinese": "您被逮捕了，先生。"
+    },
+    {
+        "start": 687.16,
+        "end": 688.88,
+        "english": "You have the rights to remain silent.",
+        "chinese": "你有权利保持沉默。"
+    },
+    {
+        "start": 688.88,
+        "end": 689.88,
+        "english": "You better not power.",
+        "chinese": "你最好不要开动。"
+    },
+    {
+        "start": 689.88,
+        "end": 691.4,
+        "english": "You better not cry.",
+        "chinese": "你最好不要哭泣。"
+    },
+    {
+        "start": 691.4,
+        "end": 694.0,
+        "english": "Anything you say can and will be used against you.",
+        "chinese": "任何你说的话都可能和你发生冲突。"
+    },
+    {
+        "start": 694.0,
+        "end": 695.16,
+        "english": "You have the right to an attorney.",
+        "chinese": "你有律师的代理权。"
+    },
+    {
+        "start": 695.16,
+        "end": 697.88,
+        "english": "If you can't afford one, the state will appoint one for you.",
+        "chinese": "如果你不能负担，政府会为你指定一个傻瓜相机。"
+    },
+    {
+        "start": 697.88,
+        "end": 700.68,
+        "english": "Do you understand these rights that have just been read to you?",
+        "chinese": "是的，我已经理解了这些权利。"
+    },
+    {
+        "start": 700.68,
+        "end": 702.8,
+        "english": "You can't take me to jail.",
+        "chinese": "你不能把我送到牢狱。"
+    },
+    {
+        "start": 702.8,
+        "end": 703.8,
+        "english": "What about my sleigh?",
+        "chinese": "英语：What about my sleigh?"
+    },
+    {
+        "start": 703.8,
+        "end": 705.56,
+        "english": "It's Christmas Eve.",
+        "chinese": "英语：It's Christmas Eve."
+    },
+    {
+        "start": 705.56,
+        "end": 707.56,
+        "english": "I have presents to deliver.",
+        "chinese": "我有东西要送。"
+    },
+    {
+        "start": 707.56,
+        "end": 708.56,
+        "english": "You're a hulk.",
+        "chinese": "你是个笨蛋。"
+    },
+    {
+        "start": 708.56,
+        "end": 710.56,
+        "english": "Prancer, dancer, good health.",
+        "chinese": "在《元鬼》中，舞者，健康。"
+    },
+    {
+        "start": 710.56,
+        "end": 727.4399999999999,
+        "english": "It's gonna straight to the dinner.",
+        "chinese": "英语：它会直接送到餐厅。"
+    },
+    {
+        "start": 727.4399999999999,
+        "end": 733.0799999999999,
+        "english": "So when the police officer was arresting Santa Claus, he said something a little bit strange,",
+        "chinese": "所以当警察叔叔在逮捕圣诞老人时，他说了一句有点奇怪的话。"
+    },
+    {
+        "start": 733.0799999999999,
+        "end": 734.0799999999999,
+        "english": "hey?",
+        "chinese": "你好？（Hǎo?）"
+    },
+    {
+        "start": 734.0799999999999,
+        "end": 735.5999999999999,
+        "english": "Yeah, he said you better not pout.",
+        "chinese": "是的，他可能是在说你最好不要生气了。"
+    },
+    {
+        "start": 735.5999999999999,
+        "end": 736.5999999999999,
+        "english": "You better not cry.",
+        "chinese": "你最好别哭了。"
+    },
+    {
+        "start": 736.6,
+        "end": 740.9200000000001,
+        "english": "Now are those part of the normal rights that a police officer reads?",
+        "chinese": "现在这些是警察读取的正常权利吗？"
+    },
+    {
+        "start": 740.9200000000001,
+        "end": 742.32,
+        "english": "No, no.",
+        "chinese": "不，不。"
+    },
+    {
+        "start": 742.32,
+        "end": 743.9200000000001,
+        "english": "They're not part of the normal rights.",
+        "chinese": "他们不是正常权利的一部分。"
+    },
+    {
+        "start": 743.9200000000001,
+        "end": 748.08,
+        "english": "It's actually from a Christmas song, so let's listen to how it goes in the song.",
+        "chinese": "英语：实际上，这首歌是从圣诞歌曲改编来的，所以让我们听听它在歌里的表现。"
+    },
+    {
+        "start": 748.08,
+        "end": 769.48,
+        "english": "I'm pretty happy we had a song to play there instead of us having to sing.",
+        "chinese": "我挺高兴我们有这个歌来代替我们自己唱的。"
+    },
+    {
+        "start": 769.48,
+        "end": 774.72,
+        "english": "But that's great because if the children cry or if they are not good kids, then Santa",
+        "chinese": "但是这很好，因为如果孩子们哭闹或者不乖，那么圣诞老人就会来了。"
+    },
+    {
+        "start": 774.72,
+        "end": 777.4000000000001,
+        "english": "Claus will not give them presents.",
+        "chinese": "恩，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 777.4,
+        "end": 778.4,
+        "english": "So that's why.",
+        "chinese": "所以，这就是原因。"
+    },
+    {
+        "start": 778.4,
+        "end": 781.16,
+        "english": "Okay, listeners, I hope that you're not pouting.",
+        "chinese": "好的，听众们，我希望你们不要哭泣。"
+    },
+    {
+        "start": 781.16,
+        "end": 783.16,
+        "english": "I hope you're not crying.",
+        "chinese": "英语：我希望你不要哭泣。"
+    },
+    {
+        "start": 783.16,
+        "end": 785.24,
+        "english": "But it's time for us to go.",
+        "chinese": "但是我们该去啦。"
+    },
+    {
+        "start": 785.24,
+        "end": 792.4,
+        "english": "So be sure to go to our website at englishpod.com and be sure to leave all your questions and",
+        "chinese": "所以请务必访问我们的网站 [英语Pod. com] 并确保将所有您的问题和疑虑都留下。"
+    },
+    {
+        "start": 792.4,
+        "end": 795.6,
+        "english": "comments and maybe some of your Christmas stories.",
+        "chinese": "英语：评论和可能有些你的圣诞故事。"
+    },
+    {
+        "start": 795.6,
+        "end": 798.6,
+        "english": "Alright, thanks for listening and until next time, bye.",
+        "chinese": "好的，谢谢你的耐心等待。我将按照你提供的规则进行翻译："
+    }
+]

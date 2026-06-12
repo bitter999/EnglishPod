@@ -1,0 +1,2540 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.64,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.64,
+        "end": 6.640000000000001,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.640000000000001,
+        "end": 11.44,
+        "english": "Today we're bringing you an upper intermediate lesson and something that we all do.",
+        "chinese": "今天，我们将为您带来一个上中段课程，并且我们大家都都在做。"
+    },
+    {
+        "start": 11.44,
+        "end": 12.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 12.44,
+        "end": 13.44,
+        "english": "Talking to ourselves.",
+        "chinese": "在和自己说话。"
+    },
+    {
+        "start": 13.44,
+        "end": 14.96,
+        "english": "Talking to ourselves, right?",
+        "chinese": "与自己对话，对吗？"
+    },
+    {
+        "start": 14.96,
+        "end": 16.4,
+        "english": "I think everyone does it.",
+        "chinese": "我认为每个人都这样做。"
+    },
+    {
+        "start": 16.4,
+        "end": 18.52,
+        "english": "You think to yourself or you talk to yourself.",
+        "chinese": "您自己思考或自己说话。"
+    },
+    {
+        "start": 18.52,
+        "end": 19.52,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 19.52,
+        "end": 20.52,
+        "english": "And we're going to be doing that today.",
+        "chinese": "今天，我们将进行这项活动。"
+    },
+    {
+        "start": 20.52,
+        "end": 22.88,
+        "english": "But we're going to be looking at some specific vocabulary.",
+        "chinese": "但是我们将要关注一些特定的词汇。"
+    },
+    {
+        "start": 22.88,
+        "end": 24.6,
+        "english": "Erica, why don't you tell us about that?",
+        "chinese": "你好，为什么你不告诉我呢？"
+    },
+    {
+        "start": 24.6,
+        "end": 29.88,
+        "english": "Well, unfortunately we're going to be following a guy as he's an in a really embarrassing situation.",
+        "chinese": "嗯，不幸的是，我们将会跟随一个他正处在非常尴尬的情况。"
+    },
+    {
+        "start": 29.88,
+        "end": 34.48,
+        "english": "And we're going to hear him call himself some bad names in his mind.",
+        "chinese": "我们将在心中听到他自称一些不好的名字。"
+    },
+    {
+        "start": 34.48,
+        "end": 39.0,
+        "english": "So he's a little bit nervous and he thinks he is not very smart, right?",
+        "chinese": "所以，他有点紧张，他认为自己并不聪明。"
+    },
+    {
+        "start": 39.0,
+        "end": 40.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 40.0,
+        "end": 44.2,
+        "english": "Okay, so before we start with this dialogue, there are a couple of words that we should",
+        "chinese": "好的，我们开始对话之前，我们需要记住以下几句话："
+    },
+    {
+        "start": 44.2,
+        "end": 46.56,
+        "english": "look at in vocabulary preview.",
+        "chinese": "看在词汇预览中。"
+    },
+    {
+        "start": 46.56,
+        "end": 47.56,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 47.56,
+        "end": 50.84,
+        "english": "All right, we're going to hear both of these words in the dialogue.",
+        "chinese": "好的，我们将在这对话中同时听到这两个词。"
+    },
+    {
+        "start": 50.84,
+        "end": 53.56,
+        "english": "And the first one is famished.",
+        "chinese": "第一个是饿的。"
+    },
+    {
+        "start": 53.56,
+        "end": 54.56,
+        "english": "Famished.",
+        "chinese": "饿了。"
+    },
+    {
+        "start": 54.56,
+        "end": 55.56,
+        "english": "Famished.",
+        "chinese": "饿了。"
+    },
+    {
+        "start": 55.56,
+        "end": 58.4,
+        "english": "Okay, so famished is an adjective.",
+        "chinese": "好的，所以“famished”是一个形容词。"
+    },
+    {
+        "start": 58.4,
+        "end": 61.36,
+        "english": "That's right, meaning very, very, very hungry.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 61.36,
+        "end": 62.36,
+        "english": "Very, very hungry.",
+        "chinese": "非常，非常饿。"
+    },
+    {
+        "start": 62.36,
+        "end": 64.88,
+        "english": "Okay, so just very hungry, very easy.",
+        "chinese": "好的，所以很饿，很容易。"
+    },
+    {
+        "start": 64.88,
+        "end": 65.88,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 65.88,
+        "end": 66.88,
+        "english": "Famished.",
+        "chinese": "饿了。"
+    },
+    {
+        "start": 66.88,
+        "end": 67.88,
+        "english": "Now what about our next one?",
+        "chinese": "现在我们下一个怎么办？"
+    },
+    {
+        "start": 67.88,
+        "end": 68.88,
+        "english": "Sexist.",
+        "chinese": "性别歧视。"
+    },
+    {
+        "start": 68.88,
+        "end": 69.88,
+        "english": "Sexist.",
+        "chinese": "性别歧视。"
+    },
+    {
+        "start": 69.88,
+        "end": 70.88,
+        "english": "Sexist.",
+        "chinese": "性别歧视。"
+    },
+    {
+        "start": 70.88,
+        "end": 73.48,
+        "english": "Another adjective to describe a person, right?",
+        "chinese": "另一个形容词来描述一个人吗？"
+    },
+    {
+        "start": 73.48,
+        "end": 74.48,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 74.48,
+        "end": 75.48,
+        "english": "Or a thing, I guess.",
+        "chinese": "或者，我猜测。"
+    },
+    {
+        "start": 75.48,
+        "end": 76.48,
+        "english": "Yeah, an idea.",
+        "chinese": "是的，一个想法。"
+    },
+    {
+        "start": 76.48,
+        "end": 82.6,
+        "english": "Okay, so a sexist person would be somebody who judges people by their sex.",
+        "chinese": "好的，所以一个 sexist的人是指一个人根据他们的性别来评判别人。"
+    },
+    {
+        "start": 82.6,
+        "end": 83.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 83.6,
+        "end": 86.03999999999999,
+        "english": "So like all women are stupid, for example.",
+        "chinese": "所以，就像所有女人都是愚蠢的，例如。"
+    },
+    {
+        "start": 86.03999999999999,
+        "end": 87.4,
+        "english": "Which is not true, of course.",
+        "chinese": "当然，以下是中国的翻译："
+    },
+    {
+        "start": 87.4,
+        "end": 88.4,
+        "english": "No, of course not.",
+        "chinese": "是的，当然不是。"
+    },
+    {
+        "start": 88.4,
+        "end": 89.4,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 89.4,
+        "end": 90.88000000000001,
+        "english": "So sexist works both ways.",
+        "chinese": "所以性别歧视的工作也两面。"
+    },
+    {
+        "start": 90.88000000000001,
+        "end": 93.68,
+        "english": "A woman can be sexist, a man could be sexist.",
+        "chinese": "一个女人可以是 sexist，一个男人也可以是 sexist。"
+    },
+    {
+        "start": 93.68,
+        "end": 94.68,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 94.68,
+        "end": 96.92,
+        "english": "Meaning the women thinks all men are stupid.",
+        "chinese": "女性认为所有男人都是愚蠢的。"
+    },
+    {
+        "start": 96.92,
+        "end": 97.92,
+        "english": "Which is also not true.",
+        "chinese": "这句话的意思是“也不是真的”。"
+    },
+    {
+        "start": 97.92,
+        "end": 98.92,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 98.92,
+        "end": 100.32000000000001,
+        "english": "Let's just be clear about that.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 100.32000000000001,
+        "end": 101.32000000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 101.32000000000001,
+        "end": 106.68,
+        "english": "So now that we've taken a look at these two phrases, let's start with our dialogue.",
+        "chinese": "所以现在我们已经看了这两个短语，让我们开始对话。"
+    },
+    {
+        "start": 106.68,
+        "end": 108.44,
+        "english": "And we'll be back to talk about all the great words.",
+        "chinese": "我们将继续讨论所有的好词。"
+    },
+    {
+        "start": 117.4,
+        "end": 119.4,
+        "english": "Miss Yor Salad.",
+        "chinese": "对不起，我无法直接提供或翻译您提供的英文句子。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 119.4,
+        "end": 121.72,
+        "english": "Hmm, looks good.",
+        "chinese": "嗯，看起来不错。"
+    },
+    {
+        "start": 121.72,
+        "end": 123.84,
+        "english": "Impositively famished.",
+        "chinese": "“朝夕饱食。”"
+    },
+    {
+        "start": 123.84,
+        "end": 126.60000000000001,
+        "english": "And for you, sir, thank you.",
+        "chinese": "谢谢，先生。"
+    },
+    {
+        "start": 126.60000000000001,
+        "end": 127.60000000000001,
+        "english": "Enjoy.",
+        "chinese": "享受。"
+    },
+    {
+        "start": 127.60000000000001,
+        "end": 128.6,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 128.6,
+        "end": 129.6,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 129.6,
+        "end": 135.6,
+        "english": "I can't believe she's on a date with me.",
+        "chinese": "我无法相信她和我约会。"
+    },
+    {
+        "start": 135.6,
+        "end": 136.6,
+        "english": "I'm so lucky.",
+        "chinese": "我真是太幸运了。"
+    },
+    {
+        "start": 136.6,
+        "end": 138.56,
+        "english": "I must be the luckiest guy in the world.",
+        "chinese": "我必须是世界上最好的人。"
+    },
+    {
+        "start": 138.56,
+        "end": 140.0,
+        "english": "I want to scream at the time I longs.",
+        "chinese": "我想要在时间长大的时候大喊。"
+    },
+    {
+        "start": 140.0,
+        "end": 142.4,
+        "english": "I'm luckiest dude in the world.",
+        "chinese": "我是世界上最幸运的人。"
+    },
+    {
+        "start": 142.4,
+        "end": 143.4,
+        "english": "Oh, shut up.",
+        "chinese": "对不起，别吵了。"
+    },
+    {
+        "start": 143.4,
+        "end": 146.12,
+        "english": "Don't be such a dumbass.",
+        "chinese": "不要成为那么愚蠢的人。"
+    },
+    {
+        "start": 146.12,
+        "end": 147.12,
+        "english": "She's so hot.",
+        "chinese": "她很热。"
+    },
+    {
+        "start": 147.12,
+        "end": 149.32,
+        "english": "Wait, I can't say that.",
+        "chinese": "等一下，我不能这么说。"
+    },
+    {
+        "start": 149.32,
+        "end": 150.32,
+        "english": "Good sexist.",
+        "chinese": "好的性别歧视。"
+    },
+    {
+        "start": 150.32,
+        "end": 152.68,
+        "english": "She's so hot she's making me sexist.",
+        "chinese": "她这么热，我就是个 sexist。"
+    },
+    {
+        "start": 152.68,
+        "end": 153.68,
+        "english": "Oh my god.",
+        "chinese": "哦，天啊。"
+    },
+    {
+        "start": 153.68,
+        "end": 155.08,
+        "english": "I'm such a tool.",
+        "chinese": "我是工具。"
+    },
+    {
+        "start": 155.08,
+        "end": 156.6,
+        "english": "Okay, get it together.",
+        "chinese": "好的，集合起来。"
+    },
+    {
+        "start": 156.6,
+        "end": 158.32,
+        "english": "Oh, she's eating salad.",
+        "chinese": "哦，她正在吃沙拉。"
+    },
+    {
+        "start": 158.32,
+        "end": 159.32,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 159.32,
+        "end": 160.32,
+        "english": "Never salad.",
+        "chinese": "永不加盐。"
+    },
+    {
+        "start": 160.32,
+        "end": 161.32,
+        "english": "No crap.",
+        "chinese": "没有废话。"
+    },
+    {
+        "start": 161.32,
+        "end": 163.32,
+        "english": "Which fork do I use?",
+        "chinese": "请问我使用哪个分支？"
+    },
+    {
+        "start": 163.32,
+        "end": 164.32,
+        "english": "Damn it.",
+        "chinese": "哈，你太疯狂了。"
+    },
+    {
+        "start": 164.32,
+        "end": 165.32,
+        "english": "She's going to think I'm a moron.",
+        "chinese": "她要我是个傻瓜。"
+    },
+    {
+        "start": 165.32,
+        "end": 168.16,
+        "english": "What the hell are all these forks for?",
+        "chinese": "这个问题让我感到困惑。\"What the hell are all these forks for?\" 这句话在中文中可以翻译为“这些叉子有什么用？”或者更简洁地表达为“这些叉子是什么意思？”。这句话表达了对各种餐具的不解和惊讶，因为它们似乎没有实际用途或意义。"
+    },
+    {
+        "start": 168.16,
+        "end": 169.16,
+        "english": "Which one did she use?",
+        "chinese": "请问她用了什么？"
+    },
+    {
+        "start": 169.16,
+        "end": 170.16,
+        "english": "Okay, chill.",
+        "chinese": "好的，慢慢来。"
+    },
+    {
+        "start": 170.16,
+        "end": 171.16,
+        "english": "You cool.",
+        "chinese": "您冷。"
+    },
+    {
+        "start": 171.16,
+        "end": 172.16,
+        "english": "You cool.",
+        "chinese": "您冷。"
+    },
+    {
+        "start": 172.16,
+        "end": 173.16,
+        "english": "Just take a fork.",
+        "chinese": "请用筷子。"
+    },
+    {
+        "start": 174.16,
+        "end": 175.16,
+        "english": "You're salad.",
+        "chinese": "您是沙拉。"
+    },
+    {
+        "start": 179.16,
+        "end": 180.16,
+        "english": "Um.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 180.16,
+        "end": 181.16,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 181.16,
+        "end": 183.16,
+        "english": "Oh, sorry.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 183.16,
+        "end": 184.16,
+        "english": "What were you saying?",
+        "chinese": "在中文中，\"What were you saying?\" 翻译成普通话是 \"你在说什么？\" 或者更简洁地表达为 \"你是在说什么吗？\"。"
+    },
+    {
+        "start": 184.16,
+        "end": 186.16,
+        "english": "You're eating my salad.",
+        "chinese": "您正在吃我的沙拉。"
+    },
+    {
+        "start": 186.16,
+        "end": 187.16,
+        "english": "Oh, yes.",
+        "chinese": "哦，是的。"
+    },
+    {
+        "start": 187.16,
+        "end": 188.16,
+        "english": "It's delicious.",
+        "chinese": "是可口的。"
+    },
+    {
+        "start": 188.16,
+        "end": 205.76,
+        "english": "Okay, embarrassing first date, huh?",
+        "chinese": "嗯，第一次约会有点尴尬啊？"
+    },
+    {
+        "start": 205.76,
+        "end": 206.76,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 206.76,
+        "end": 208.6,
+        "english": "I mean, I really do feel sorry for this guy.",
+        "chinese": "我真希望这个家伙能感到抱歉。"
+    },
+    {
+        "start": 208.6,
+        "end": 210.0,
+        "english": "Well, it happens to us.",
+        "chinese": "正确答案是："
+    },
+    {
+        "start": 210.0,
+        "end": 214.2,
+        "english": "Sometimes we are in the company of a very beautiful girl and we just get really nervous.",
+        "chinese": "有时我们与一个非常漂亮的女孩在一起，我们只是感到很紧张。"
+    },
+    {
+        "start": 214.2,
+        "end": 215.2,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 215.2,
+        "end": 218.92,
+        "english": "So, you know, psychologists call this negative self-talk.",
+        "chinese": "所以，心理学家称这种消极自我对话为负向自言。"
+    },
+    {
+        "start": 218.92,
+        "end": 219.92,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 219.92,
+        "end": 223.72,
+        "english": "Yeah, this sort of calling yourself names and talking negatively about yourself.",
+        "chinese": "是的，你这样称呼自己并谈论自己的负面形象。"
+    },
+    {
+        "start": 223.72,
+        "end": 227.79999999999998,
+        "english": "But actually, you can use some of this language to talk negatively about others.",
+        "chinese": "但是，实际上你可以说一些这种语言来批评别人。"
+    },
+    {
+        "start": 227.79999999999998,
+        "end": 228.79999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 228.79999999999998,
+        "end": 234.48,
+        "english": "So why don't we look now at this language in Language Takeaway?",
+        "chinese": "所以，我们为什么不现在看看这个语言在《语言手册》里？"
+    },
+    {
+        "start": 234.48,
+        "end": 236.28,
+        "english": "Language Takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 236.28,
+        "end": 238.39999999999998,
+        "english": "So in Language Takeaway today, we have five words.",
+        "chinese": "所以今天在语言分享会上，我们有五个字。"
+    },
+    {
+        "start": 238.39999999999998,
+        "end": 240.39999999999998,
+        "english": "Let's start with our first one.",
+        "chinese": "让我们从我们的第一个开始。"
+    },
+    {
+        "start": 240.39999999999998,
+        "end": 241.39999999999998,
+        "english": "Dumbass.",
+        "chinese": "傻瓜。"
+    },
+    {
+        "start": 241.39999999999998,
+        "end": 242.39999999999998,
+        "english": "Dumbass.",
+        "chinese": "傻瓜。"
+    },
+    {
+        "start": 242.39999999999998,
+        "end": 243.39999999999998,
+        "english": "Dumbass.",
+        "chinese": "傻瓜。"
+    },
+    {
+        "start": 243.39999999999998,
+        "end": 244.39999999999998,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 244.4,
+        "end": 246.8,
+        "english": "A very polite word, I would say.",
+        "chinese": "一个非常礼貌的话，我可以说。"
+    },
+    {
+        "start": 246.8,
+        "end": 247.8,
+        "english": "Definitely not polite.",
+        "chinese": "绝对不礼貌。"
+    },
+    {
+        "start": 247.8,
+        "end": 248.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 248.8,
+        "end": 251.4,
+        "english": "But what is a dumbass?",
+        "chinese": "但是，一个傻瓜？"
+    },
+    {
+        "start": 251.4,
+        "end": 255.4,
+        "english": "Well, it's obviously a dumb, stupid idiot.",
+        "chinese": "嗯，显然是一个愚蠢的、傻气的家伙。"
+    },
+    {
+        "start": 255.4,
+        "end": 256.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 256.4,
+        "end": 260.16,
+        "english": "So it's a person that is not very intelligent.",
+        "chinese": "所以，这个人并不聪明。"
+    },
+    {
+        "start": 260.16,
+        "end": 263.6,
+        "english": "And our next word is also quite similar.",
+        "chinese": "我们的下一个词也相当相似。"
+    },
+    {
+        "start": 263.6,
+        "end": 264.6,
+        "english": "Moron.",
+        "chinese": "在中文中，\"moron\" 的翻译是 \"傻瓜\"。"
+    },
+    {
+        "start": 264.6,
+        "end": 265.6,
+        "english": "Moron.",
+        "chinese": "在中文中，\"moron\" 的翻译是 \"傻瓜\"。"
+    },
+    {
+        "start": 265.6,
+        "end": 266.6,
+        "english": "Moron.",
+        "chinese": "在中文中，\"moron\" 通常指的是一个愚蠢、无知或不聪明的人。如果你需要将 \"moron\" 翻译成其他语言，请告诉我具体要翻译的语境和目标语言，我会尽力提供准确的翻译。"
+    },
+    {
+        "start": 266.6,
+        "end": 267.6,
+        "english": "A moron.",
+        "chinese": "一个傻瓜。"
+    },
+    {
+        "start": 267.6,
+        "end": 271.92,
+        "english": "If a person is a dumbass or a person is a moron, what's the difference?",
+        "chinese": "如果一个人是傻瓜还是笨蛋，有什么区别？"
+    },
+    {
+        "start": 271.92,
+        "end": 278.16,
+        "english": "Well, basically, a moron is someone who is not smart, who is very unintelligent.",
+        "chinese": "嗯，基本上，一个傻瓜就是不聪明，很愚蠢。"
+    },
+    {
+        "start": 278.16,
+        "end": 279.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 279.16,
+        "end": 281.32,
+        "english": "So they don't know what one plus one is.",
+        "chinese": "所以他们不知道一个加一个是多少。"
+    },
+    {
+        "start": 281.32,
+        "end": 282.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 282.32,
+        "end": 285.52000000000004,
+        "english": "But a dumbass is a person who does stupid things.",
+        "chinese": "但是，一个傻瓜就是一个人做愚蠢的事情。"
+    },
+    {
+        "start": 285.52000000000004,
+        "end": 286.52000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 286.52000000000004,
+        "end": 289.88,
+        "english": "So maybe a dumbass, like you're planning a bank robbery and the dumbass forgets to bring",
+        "chinese": "所以，也许是一个傻瓜，像你正在计划一个银行抢劫，并且傻瓜忘记带"
+    },
+    {
+        "start": 289.88,
+        "end": 290.88,
+        "english": "the gun.",
+        "chinese": "枪。"
+    },
+    {
+        "start": 290.88,
+        "end": 291.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 291.88,
+        "end": 292.88,
+        "english": "That is a dumbass.",
+        "chinese": "那是一个傻瓜。"
+    },
+    {
+        "start": 292.88,
+        "end": 293.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 293.88,
+        "end": 296.04,
+        "english": "So maybe moron is a little bit less offensive.",
+        "chinese": "所以，也许“moron”这个词稍微有点不那么冒犯。"
+    },
+    {
+        "start": 296.04,
+        "end": 298.52000000000004,
+        "english": "And it's actually, you'll find it in the dictionary, right?",
+        "chinese": "而且，你也会在字典里找到它。"
+    },
+    {
+        "start": 298.52000000000004,
+        "end": 299.52000000000004,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 299.52000000000004,
+        "end": 300.52000000000004,
+        "english": "Where is a dumbass?",
+        "chinese": "在哪儿是一个笨蛋？"
+    },
+    {
+        "start": 300.52000000000004,
+        "end": 301.52000000000004,
+        "english": "I don't think you'll find it.",
+        "chinese": "我不认为你会找到它。"
+    },
+    {
+        "start": 301.52,
+        "end": 302.52,
+        "english": "You're playing exactly.",
+        "chinese": "您正玩得恰到好处。"
+    },
+    {
+        "start": 302.52,
+        "end": 303.52,
+        "english": "Now, what about this next?",
+        "chinese": "现在，这个下一步怎么样？"
+    },
+    {
+        "start": 303.52,
+        "end": 304.91999999999996,
+        "english": "It's also a negative name.",
+        "chinese": "它也是一个负面的名字。"
+    },
+    {
+        "start": 304.91999999999996,
+        "end": 306.52,
+        "english": "You can call people a tool.",
+        "chinese": "你可以称呼别人为工具。"
+    },
+    {
+        "start": 306.52,
+        "end": 307.52,
+        "english": "Tool.",
+        "chinese": "工具 (zhǐ huá)"
+    },
+    {
+        "start": 307.52,
+        "end": 308.52,
+        "english": "Tool.",
+        "chinese": "工具 (zhǐ huá)"
+    },
+    {
+        "start": 308.52,
+        "end": 313.56,
+        "english": "This is very strange because I don't know how a tool can be something negative towards",
+        "chinese": "这是非常奇怪的，因为我并不知道工具如何能够对"
+    },
+    {
+        "start": 313.56,
+        "end": 314.56,
+        "english": "a person.",
+        "chinese": "一个人。"
+    },
+    {
+        "start": 314.56,
+        "end": 315.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 315.56,
+        "end": 316.71999999999997,
+        "english": "But it actually means the opposite, right?",
+        "chinese": "但是，实际上意味着相反的。"
+    },
+    {
+        "start": 316.71999999999997,
+        "end": 320.24,
+        "english": "If a person is called a tool, it means they are useless, right?",
+        "chinese": "如果一个人被称作工具，这意味着他们毫无价值，对吗？"
+    },
+    {
+        "start": 320.24,
+        "end": 321.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 321.24,
+        "end": 324.59999999999997,
+        "english": "So if you ever call the tool, they're saying that you're useless.",
+        "chinese": "所以如果你一直使用这个工具，他们说你就是废物。"
+    },
+    {
+        "start": 324.59999999999997,
+        "end": 325.59999999999997,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 325.59999999999997,
+        "end": 326.59999999999997,
+        "english": "You're good for nothing.",
+        "chinese": "您什么也没有。"
+    },
+    {
+        "start": 326.59999999999997,
+        "end": 327.59999999999997,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 327.59999999999997,
+        "end": 328.59999999999997,
+        "english": "Well, these are three interesting words.",
+        "chinese": "好的，以下是将“这些是三个有趣的词”翻译成中文的句子："
+    },
+    {
+        "start": 328.59999999999997,
+        "end": 331.28,
+        "english": "So why don't we hear some examples of each of these words in use?",
+        "chinese": "所以为什么我们没有听到这些词在实际使用中出现的例子呢？"
+    },
+    {
+        "start": 332.52,
+        "end": 333.52,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 333.52,
+        "end": 336.52,
+        "english": "I hate Tom.",
+        "chinese": "我讨厌汤姆。"
+    },
+    {
+        "start": 336.52,
+        "end": 338.76,
+        "english": "He's such a dumbass.",
+        "chinese": "他真是一个傻瓜。"
+    },
+    {
+        "start": 338.76,
+        "end": 345.0,
+        "english": "Last week he borrowed my mobile phone and dropped it in the pool.",
+        "chinese": "上个星期，他借了我的手机并把它扔进了游泳池。"
+    },
+    {
+        "start": 345.0,
+        "end": 346.0,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 346.0,
+        "end": 348.84,
+        "english": "I don't like Kevin very much.",
+        "chinese": "我不喜欢凯文。"
+    },
+    {
+        "start": 348.84,
+        "end": 353.79999999999995,
+        "english": "He can be a real moron at times.",
+        "chinese": "他有时会是一个真正的笨蛋。"
+    },
+    {
+        "start": 353.79999999999995,
+        "end": 356.96,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 356.96,
+        "end": 360.91999999999996,
+        "english": "It was looking for a joke, but he didn't even have a resume prepared.",
+        "chinese": "他正寻找一个笑话，但没有简历准备。"
+    },
+    {
+        "start": 360.92,
+        "end": 364.32,
+        "english": "He's such a tool.",
+        "chinese": "他真是个工具。"
+    },
+    {
+        "start": 364.32,
+        "end": 365.88,
+        "english": "OK, so great examples.",
+        "chinese": "好的，所以很好的例子。"
+    },
+    {
+        "start": 365.88,
+        "end": 370.16,
+        "english": "And here at EnglishPod, we're bringing you real street talk.",
+        "chinese": "在这里，我们正在向英语播客提供真实街头谈话。"
+    },
+    {
+        "start": 370.16,
+        "end": 371.16,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 371.16,
+        "end": 373.64000000000004,
+        "english": "Language as it is spoken by today's youth.",
+        "chinese": "语言作为今天年轻人所使用的语言。"
+    },
+    {
+        "start": 373.64000000000004,
+        "end": 374.8,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 374.8,
+        "end": 377.08000000000004,
+        "english": "Now let's take a look at our last two words.",
+        "chinese": "现在让我们看看我们上一次说的两个单词。"
+    },
+    {
+        "start": 377.08000000000004,
+        "end": 378.08000000000004,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 378.08000000000004,
+        "end": 381.12,
+        "english": "Well, these phrases you can use when you're trying to calm yourself down and make yourself",
+        "chinese": "嗯，当你试图平静自己并让自己放松时，你可以使用这些短语。"
+    },
+    {
+        "start": 381.12,
+        "end": 382.48,
+        "english": "relax a little bit, right?",
+        "chinese": "放松一点，对吗？"
+    },
+    {
+        "start": 382.48,
+        "end": 383.48,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 383.48,
+        "end": 384.48,
+        "english": "Let's take a look at the next one.",
+        "chinese": "请看下一个。"
+    },
+    {
+        "start": 384.48,
+        "end": 385.48,
+        "english": "Chill.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 385.48,
+        "end": 386.48,
+        "english": "Chill.",
+        "chinese": "降降温。"
+    },
+    {
+        "start": 386.48,
+        "end": 387.48,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 387.48,
+        "end": 388.48,
+        "english": "Chill.",
+        "chinese": "降温。"
+    },
+    {
+        "start": 388.48,
+        "end": 390.28000000000003,
+        "english": "So again, relax.",
+        "chinese": "所以，再放松。"
+    },
+    {
+        "start": 390.28,
+        "end": 391.28,
+        "english": "Calm down.",
+        "chinese": "冷静下来。"
+    },
+    {
+        "start": 391.28,
+        "end": 392.28,
+        "english": "Calm down.",
+        "chinese": "冷静下来。"
+    },
+    {
+        "start": 392.28,
+        "end": 393.28,
+        "english": "You need to chill.",
+        "chinese": "你需要降温。"
+    },
+    {
+        "start": 393.28,
+        "end": 394.28,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 394.28,
+        "end": 397.88,
+        "english": "And then you also need to be cool.",
+        "chinese": "然后你还需要保持冷静。"
+    },
+    {
+        "start": 397.88,
+        "end": 398.88,
+        "english": "Be cool.",
+        "chinese": "请安静。"
+    },
+    {
+        "start": 398.88,
+        "end": 399.88,
+        "english": "Be cool.",
+        "chinese": "请安静。"
+    },
+    {
+        "start": 399.88,
+        "end": 402.08,
+        "english": "Now, if you can tell the pattern is related to temperature, right?",
+        "chinese": "现在，如果你能告诉我这个模式与温度有关吗？"
+    },
+    {
+        "start": 402.08,
+        "end": 403.08,
+        "english": "Chill.",
+        "chinese": "降温。"
+    },
+    {
+        "start": 403.08,
+        "end": 404.08,
+        "english": "Chill is cold.",
+        "chinese": "这句话的中文翻译是：“冷是凉的。”"
+    },
+    {
+        "start": 404.08,
+        "end": 405.08,
+        "english": "Cool is similar to cold.",
+        "chinese": "凉是与冷相似。"
+    },
+    {
+        "start": 405.08,
+        "end": 407.71999999999997,
+        "english": "So again, that's what it means to relax.",
+        "chinese": "所以，这就是放松的真正含义。"
+    },
+    {
+        "start": 407.71999999999997,
+        "end": 409.59999999999997,
+        "english": "To calm down your emotions.",
+        "chinese": "要平息你的情绪。"
+    },
+    {
+        "start": 409.59999999999997,
+        "end": 411.52,
+        "english": "Make your emotions not so hot.",
+        "chinese": "将你的感情变得不那么热。"
+    },
+    {
+        "start": 411.52,
+        "end": 412.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 412.52,
+        "end": 413.52,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 413.52,
+        "end": 414.52,
+        "english": "So chill.",
+        "chinese": "所以凉爽。"
+    },
+    {
+        "start": 414.52,
+        "end": 415.52,
+        "english": "Be cool.",
+        "chinese": "请安静。"
+    },
+    {
+        "start": 415.52,
+        "end": 416.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 416.52,
+        "end": 417.52,
+        "english": "And you use them together like that, don't you?",
+        "chinese": "您使用它们就像这样，对吧？"
+    },
+    {
+        "start": 417.52,
+        "end": 418.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 418.52,
+        "end": 420.52,
+        "english": "And then you're another way of using it, right?",
+        "chinese": "然后你就是用它的一种方式，对吗？"
+    },
+    {
+        "start": 420.52,
+        "end": 421.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 421.52,
+        "end": 422.52,
+        "english": "You can say, I'm chilling with my friends.",
+        "chinese": "您可以这么说，我和朋友们一起聊天。"
+    },
+    {
+        "start": 422.52,
+        "end": 425.35999999999996,
+        "english": "Yeah, we're chilling here in the EnglishPod studio.",
+        "chinese": "是的，我们在这里在英语播音室里聊天。"
+    },
+    {
+        "start": 425.35999999999996,
+        "end": 426.84,
+        "english": "Which means we're just relaxing.",
+        "chinese": "这句话的中文翻译是：“这意味着我们只是放松。”"
+    },
+    {
+        "start": 426.84,
+        "end": 427.84,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 427.84,
+        "end": 428.84,
+        "english": "We are just having fun.",
+        "chinese": "我们只是在玩。"
+    },
+    {
+        "start": 428.84,
+        "end": 429.84,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 429.84,
+        "end": 430.84,
+        "english": "Not doing anything, right?",
+        "chinese": "是的，不做任何事情。"
+    },
+    {
+        "start": 430.84,
+        "end": 431.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 431.84,
+        "end": 433.15999999999997,
+        "english": "But you can't say chilling.",
+        "chinese": "但是你不能说冷。"
+    },
+    {
+        "start": 433.15999999999997,
+        "end": 434.15999999999997,
+        "english": "You have to drop the G.",
+        "chinese": "您必须删除G。"
+    },
+    {
+        "start": 434.15999999999997,
+        "end": 436.15999999999997,
+        "english": "Yeah, you have to try.",
+        "chinese": "是的，你必须尝试。"
+    },
+    {
+        "start": 436.15999999999997,
+        "end": 437.15999999999997,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 437.15999999999997,
+        "end": 438.15999999999997,
+        "english": "You can't say I'm chilling.",
+        "chinese": "你不能说我正在消遣。"
+    },
+    {
+        "start": 438.15999999999997,
+        "end": 439.15999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 439.15999999999997,
+        "end": 440.15999999999997,
+        "english": "You have to say I'm chilling.",
+        "chinese": "您必须说我正在消遣。"
+    },
+    {
+        "start": 440.15999999999997,
+        "end": 441.15999999999997,
+        "english": "I'm chilling.",
+        "chinese": "我是打发。"
+    },
+    {
+        "start": 441.15999999999997,
+        "end": 443.15999999999997,
+        "english": "OK, so that's all for language takeaway.",
+        "chinese": "好的，那么这就是语言小结。"
+    },
+    {
+        "start": 443.15999999999997,
+        "end": 447.44,
+        "english": "But now, let's take a look at some of the really useful phrases that we saw in this",
+        "chinese": "但是，让我们来看看我们在这个中文中看到的一些真正有用的短语。"
+    },
+    {
+        "start": 447.44,
+        "end": 450.8,
+        "english": "dialogue in Fluency Builder.",
+        "chinese": "在 Fluent Builder 中的对话。"
+    },
+    {
+        "start": 450.8,
+        "end": 451.8,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 451.8,
+        "end": 458.2,
+        "english": "OK, so this guy is so happy he's on this date that he wants to scream at the top of his",
+        "chinese": "好的，这位先生如此高兴以至于他想要在这一天大声尖叫。"
+    },
+    {
+        "start": 458.2,
+        "end": 459.2,
+        "english": "lungs.",
+        "chinese": "肺。"
+    },
+    {
+        "start": 459.2,
+        "end": 461.04,
+        "english": "Scream at the top of my lungs.",
+        "chinese": "大声尖叫。"
+    },
+    {
+        "start": 461.04,
+        "end": 462.56,
+        "english": "Scream at the top of my lungs.",
+        "chinese": "大声尖叫。"
+    },
+    {
+        "start": 462.56,
+        "end": 465.24,
+        "english": "So basically, he just wants to scream.",
+        "chinese": "所以基本上，他只是想大喊。"
+    },
+    {
+        "start": 465.24,
+        "end": 467.24,
+        "english": "To shout really loudly.",
+        "chinese": "要大声喊叫。"
+    },
+    {
+        "start": 467.24,
+        "end": 468.24,
+        "english": "Really loudly.",
+        "chinese": "真的大声地。"
+    },
+    {
+        "start": 468.24,
+        "end": 469.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 469.24,
+        "end": 470.24,
+        "english": "He's so excited, right?",
+        "chinese": "是的，他很兴奋。"
+    },
+    {
+        "start": 470.24,
+        "end": 471.24,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 471.24,
+        "end": 473.56,
+        "english": "OK, so for example, sometimes you're at a concert, right?",
+        "chinese": "是的，有时候你是在音乐会上。"
+    },
+    {
+        "start": 473.56,
+        "end": 474.56,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 474.56,
+        "end": 477.15999999999997,
+        "english": "And you need to talk to your friend and you're like screaming at the top of your lungs",
+        "chinese": "你还需要和朋友谈谈，就像在尖叫一样。"
+    },
+    {
+        "start": 477.16,
+        "end": 479.08000000000004,
+        "english": "because the other person can't hear you.",
+        "chinese": "因为其他人听不到你。"
+    },
+    {
+        "start": 479.08000000000004,
+        "end": 480.08000000000004,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 480.08000000000004,
+        "end": 484.08000000000004,
+        "english": "Or maybe you're lost in the woods and you need to scream at the top of your lungs so that",
+        "chinese": "或者你可能迷路在森林里，需要大声呼救以惊吓到。"
+    },
+    {
+        "start": 484.08000000000004,
+        "end": 485.88000000000005,
+        "english": "someone will hear you and find you.",
+        "chinese": "一个人会听到你，你会找到你。"
+    },
+    {
+        "start": 485.88000000000005,
+        "end": 487.08000000000004,
+        "english": "All right, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 487.08000000000004,
+        "end": 490.92,
+        "english": "OK, so scream at the top of my lungs.",
+        "chinese": "好的，大声地尖叫起来。"
+    },
+    {
+        "start": 490.92,
+        "end": 493.28000000000003,
+        "english": "Our next phrase.",
+        "chinese": "我们的下一个句子。"
+    },
+    {
+        "start": 493.28000000000003,
+        "end": 494.28000000000003,
+        "english": "Get it together.",
+        "chinese": "请妥善安排。"
+    },
+    {
+        "start": 494.28000000000003,
+        "end": 495.28000000000003,
+        "english": "Get it together.",
+        "chinese": "请妥善处理。"
+    },
+    {
+        "start": 495.28000000000003,
+        "end": 496.28000000000003,
+        "english": "Get it together.",
+        "chinese": "请妥善处理。"
+    },
+    {
+        "start": 496.28000000000003,
+        "end": 499.04,
+        "english": "So if I tell you, Erica, you need to get it together.",
+        "chinese": "所以，如果我告诉你，埃里卡，你需要把它弄好。"
+    },
+    {
+        "start": 499.04,
+        "end": 501.52000000000004,
+        "english": "Basically, you're telling me to calm down.",
+        "chinese": "基本来说，你是在告诉我要冷静下来。"
+    },
+    {
+        "start": 501.52000000000004,
+        "end": 502.52000000000004,
+        "english": "Relax.",
+        "chinese": "放松。"
+    },
+    {
+        "start": 502.52000000000004,
+        "end": 504.6,
+        "english": "So pull your emotions together.",
+        "chinese": "所以收好你的情绪。"
+    },
+    {
+        "start": 504.6,
+        "end": 505.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 505.6,
+        "end": 506.6,
+        "english": "Get your ideas straight.",
+        "chinese": "请把你的想法整理好。"
+    },
+    {
+        "start": 506.6,
+        "end": 507.6,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 507.6,
+        "end": 511.20000000000005,
+        "english": "It kind of gives you this idea that you've got to pull, like you said, pull your emotions",
+        "chinese": "它有点让你觉得你必须努力，就像你说的那样，努力控制自己的情绪。"
+    },
+    {
+        "start": 511.20000000000005,
+        "end": 513.52,
+        "english": "together in a little box and tie them up.",
+        "chinese": "一起在一个小盒子里系好。"
+    },
+    {
+        "start": 513.52,
+        "end": 515.44,
+        "english": "All right, so get it together.",
+        "chinese": "好的，集合起来。"
+    },
+    {
+        "start": 515.44,
+        "end": 516.44,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 516.44,
+        "end": 518.4,
+        "english": "So Marco, when would you use this phrase?",
+        "chinese": "所以马科，什么时候你会用这个短语？"
+    },
+    {
+        "start": 518.4,
+        "end": 519.4,
+        "english": "Get it together.",
+        "chinese": "请妥善处理。"
+    },
+    {
+        "start": 519.4,
+        "end": 524.64,
+        "english": "I guess when somebody is either very emotional, maybe crying or very nervous, you know,",
+        "chinese": "我猜测当有人情绪高涨，可能哭泣或非常紧张时，你一定知道。"
+    },
+    {
+        "start": 524.64,
+        "end": 526.24,
+        "english": "you tell a person, oh, get it together.",
+        "chinese": "您告诉一个人，啊，集合一下。"
+    },
+    {
+        "start": 526.24,
+        "end": 527.24,
+        "english": "You know, relax.",
+        "chinese": "我知道，放松。"
+    },
+    {
+        "start": 527.24,
+        "end": 528.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 528.24,
+        "end": 532.1600000000001,
+        "english": "Or when somebody maybe is not doing something good in their life, you know, like making",
+        "chinese": "当某人可能在他们的生活中做不好的事情，比如："
+    },
+    {
+        "start": 532.1600000000001,
+        "end": 536.5600000000001,
+        "english": "bad decisions or not being responsible, you tell that person, you need to get it together.",
+        "chinese": "坏决策或不负责任，你告诉他，你需要团结一致。"
+    },
+    {
+        "start": 536.56,
+        "end": 537.56,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 537.56,
+        "end": 538.56,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 538.56,
+        "end": 539.56,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 539.56,
+        "end": 540.9599999999999,
+        "english": "I couldn't have said it better myself.",
+        "chinese": "我无法用更好的方式表达自己。"
+    },
+    {
+        "start": 540.9599999999999,
+        "end": 541.9599999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 541.9599999999999,
+        "end": 544.8399999999999,
+        "english": "So now, why don't we move on to our next phrase?",
+        "chinese": "所以，为什么不把我们的下一个句子放下来呢？"
+    },
+    {
+        "start": 544.8399999999999,
+        "end": 546.8399999999999,
+        "english": "And this is really, really high frequency.",
+        "chinese": "而且这种频率是非常高的。"
+    },
+    {
+        "start": 546.8399999999999,
+        "end": 548.68,
+        "english": "I think you would hear it all the time.",
+        "chinese": "我认为你会听到它所有的。"
+    },
+    {
+        "start": 548.68,
+        "end": 549.68,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 549.68,
+        "end": 550.68,
+        "english": "So what the hell?",
+        "chinese": "所以什么？"
+    },
+    {
+        "start": 550.68,
+        "end": 551.68,
+        "english": "What the hell?",
+        "chinese": "啥意思？"
+    },
+    {
+        "start": 551.68,
+        "end": 552.68,
+        "english": "What the hell?",
+        "chinese": "啥玩意儿？"
+    },
+    {
+        "start": 552.68,
+        "end": 554.1999999999999,
+        "english": "So why would you say what the hell?",
+        "chinese": "所以你为什么说什么？"
+    },
+    {
+        "start": 554.1999999999999,
+        "end": 556.16,
+        "english": "Well, obviously, you're asking a question, right?",
+        "chinese": "是的，你说得对。"
+    },
+    {
+        "start": 556.16,
+        "end": 557.16,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 557.16,
+        "end": 558.16,
+        "english": "Because you got your W.",
+        "chinese": "因为您获得了W。"
+    },
+    {
+        "start": 558.16,
+        "end": 559.64,
+        "english": "You got your what?",
+        "chinese": "您得到了什么？"
+    },
+    {
+        "start": 559.64,
+        "end": 563.3199999999999,
+        "english": "But when you say the hell, you're putting emphasis on the what?",
+        "chinese": "但是当你说“地狱”，你是在强调什么？"
+    },
+    {
+        "start": 563.3199999999999,
+        "end": 565.4,
+        "english": "So you're asking a really strong question.",
+        "chinese": "所以您提出的问题真的很强大。"
+    },
+    {
+        "start": 565.4,
+        "end": 566.4,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 566.4,
+        "end": 567.4,
+        "english": "It's not polite.",
+        "chinese": "不是礼貌。"
+    },
+    {
+        "start": 567.4,
+        "end": 568.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 568.4,
+        "end": 569.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 569.4,
+        "end": 571.1999999999999,
+        "english": "So if I say what the hell is going on?",
+        "chinese": "所以，如果我说什么“到底”是什么？"
+    },
+    {
+        "start": 571.1999999999999,
+        "end": 572.1999999999999,
+        "english": "What's happening?",
+        "chinese": "正在发生什么？"
+    },
+    {
+        "start": 572.1999999999999,
+        "end": 573.1999999999999,
+        "english": "Really, really what's happening?",
+        "chinese": "真的，真的发生了什么？"
+    },
+    {
+        "start": 573.1999999999999,
+        "end": 574.1999999999999,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 574.1999999999999,
+        "end": 575.1999999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 575.1999999999999,
+        "end": 575.9599999999999,
+        "english": "So, and we can change it a little bit.",
+        "chinese": "所以，我们可以稍微调整一下。"
+    },
+    {
+        "start": 575.9599999999999,
+        "end": 579.0,
+        "english": "We can replace the what with another WH.",
+        "chinese": "我们可以在什么上替换这个？"
+    },
+    {
+        "start": 579.0,
+        "end": 580.0,
+        "english": "Like, why?",
+        "chinese": "像，为什么？"
+    },
+    {
+        "start": 580.0,
+        "end": 581.0,
+        "english": "How?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 581.0,
+        "end": 582.0,
+        "english": "How?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 582.0,
+        "end": 583.0,
+        "english": "Where?",
+        "chinese": "在哪儿？"
+    },
+    {
+        "start": 583.0,
+        "end": 584.0,
+        "english": "Where or when?",
+        "chinese": "在哪儿或何时？"
+    },
+    {
+        "start": 584.0,
+        "end": 585.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 585.0,
+        "end": 586.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 586.0,
+        "end": 591.52,
+        "english": "So why don't we hear some examples of how this expression is used using different WH words?",
+        "chinese": "所以为什么我们没有听到一些使用不同WH词的例证呢？"
+    },
+    {
+        "start": 591.52,
+        "end": 592.92,
+        "english": "Example 1.",
+        "chinese": "例1。"
+    },
+    {
+        "start": 593.92,
+        "end": 597.0799999999999,
+        "english": "Where the hell are you?",
+        "chinese": "在哪儿呢？"
+    },
+    {
+        "start": 597.0799999999999,
+        "end": 599.92,
+        "english": "I've been waiting for hours.",
+        "chinese": "我一直在等待几个小时。"
+    },
+    {
+        "start": 599.92,
+        "end": 604.92,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 604.92,
+        "end": 609.92,
+        "english": "How the hell did you do that?",
+        "chinese": "如何你干的？"
+    },
+    {
+        "start": 609.92,
+        "end": 612.92,
+        "english": "That was amazing.",
+        "chinese": "那真是太棒了。"
+    },
+    {
+        "start": 612.92,
+        "end": 619.76,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 619.76,
+        "end": 621.56,
+        "english": "And the hell are you going to find a job?",
+        "chinese": "和你有什么办法能找到工作？"
+    },
+    {
+        "start": 621.56,
+        "end": 627.16,
+        "english": "I'm tired of pay for everything.",
+        "chinese": "我厌倦了为一切付费。"
+    },
+    {
+        "start": 627.16,
+        "end": 628.16,
+        "english": "Example 4.",
+        "chinese": "Example 4. (注释)"
+    },
+    {
+        "start": 628.16,
+        "end": 632.16,
+        "english": "Who the hell are you?",
+        "chinese": "我是谁？"
+    },
+    {
+        "start": 632.16,
+        "end": 636.56,
+        "english": "I don't know you.",
+        "chinese": "我也不认识你。"
+    },
+    {
+        "start": 636.56,
+        "end": 637.56,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 637.56,
+        "end": 641.36,
+        "english": "Now our final word also a little bit strong.",
+        "chinese": "现在我们的最后一句话也有一点坚定。"
+    },
+    {
+        "start": 641.36,
+        "end": 643.16,
+        "english": "But pretty high frequency.",
+        "chinese": "但是高频频率。"
+    },
+    {
+        "start": 643.16,
+        "end": 644.16,
+        "english": "Oh yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 644.16,
+        "end": 645.16,
+        "english": "Very high frequency.",
+        "chinese": "非常高的频率。"
+    },
+    {
+        "start": 645.16,
+        "end": 646.16,
+        "english": "Oh crap.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 646.16,
+        "end": 647.16,
+        "english": "Oh crap.",
+        "chinese": "对不起。 (Kai kong)"
+    },
+    {
+        "start": 647.16,
+        "end": 648.16,
+        "english": "Oh crap.",
+        "chinese": "对不起。 (Kai kong)"
+    },
+    {
+        "start": 649.16,
+        "end": 653.56,
+        "english": "It's a little bit strong but less strong than maybe saying a really bad word, right?",
+        "chinese": "是有点强硬，但不如说一个非常坏的字那么强硬吗？"
+    },
+    {
+        "start": 653.56,
+        "end": 654.56,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 654.56,
+        "end": 657.36,
+        "english": "But it's definitely saying like you made a mistake, right?",
+        "chinese": "但是，它确实是在说你犯了错误，对吧？"
+    },
+    {
+        "start": 657.36,
+        "end": 658.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 658.36,
+        "end": 659.36,
+        "english": "It's like a really strong oh no.",
+        "chinese": "这句话可以翻译成中文为："
+    },
+    {
+        "start": 659.36,
+        "end": 660.36,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 660.36,
+        "end": 661.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 661.36,
+        "end": 662.36,
+        "english": "A really strong oh no.",
+        "chinese": "一个真的非常糟糕。"
+    },
+    {
+        "start": 662.36,
+        "end": 663.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 663.36,
+        "end": 664.36,
+        "english": "But I guess not many people say oh no.",
+        "chinese": "但是我想说，恐怕没有人会这么说。"
+    },
+    {
+        "start": 664.36,
+        "end": 665.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 665.36,
+        "end": 666.36,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 666.36,
+        "end": 667.36,
+        "english": "I just lost $10 million.",
+        "chinese": "我刚刚损失了10亿美元。"
+    },
+    {
+        "start": 667.36,
+        "end": 668.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 668.36,
+        "end": 669.36,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 669.36,
+        "end": 670.36,
+        "english": "You would not say that.",
+        "chinese": "您不会说这句话。"
+    },
+    {
+        "start": 670.36,
+        "end": 671.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 671.36,
+        "end": 674.86,
+        "english": "So it's a very strong oh no but it's not as strong as it could be.",
+        "chinese": "所以它很强大，但不如它应该强。"
+    },
+    {
+        "start": 674.86,
+        "end": 677.56,
+        "english": "There are other words out there that are stronger but we are not going to go into",
+        "chinese": "在其他地方，还有其他的词比这更强，但我们不会去深入研究。"
+    },
+    {
+        "start": 677.56,
+        "end": 678.56,
+        "english": "them here.",
+        "chinese": "他们在这里。"
+    },
+    {
+        "start": 678.56,
+        "end": 679.9599999999999,
+        "english": "But maybe you guys know so let us know.",
+        "chinese": "但是，你们可能知道吗？我们可以告知。"
+    },
+    {
+        "start": 679.9599999999999,
+        "end": 680.9599999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 680.9599999999999,
+        "end": 683.52,
+        "english": "We can definitely keep an eye out on the comments section.",
+        "chinese": "我们绝对可以密切关注评论区。"
+    },
+    {
+        "start": 683.52,
+        "end": 686.1199999999999,
+        "english": "But don't write the words in the comments section.",
+        "chinese": "但是不要在评论区写单词。"
+    },
+    {
+        "start": 686.1199999999999,
+        "end": 687.1199999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 687.1199999999999,
+        "end": 690.8599999999999,
+        "english": "So we saw some really great phrases, some really great words.",
+        "chinese": "所以我们看到了一些非常棒的短语，一些非常棒的话。"
+    },
+    {
+        "start": 690.8599999999999,
+        "end": 694.4399999999999,
+        "english": "A lot of informal language but it's very high frequency and you'll use that with your",
+        "chinese": "大量非正式语言，但它是高频的，你将使用它。"
+    },
+    {
+        "start": 694.4399999999999,
+        "end": 697.0,
+        "english": "friends or you'll see it in movies, TV shows.",
+        "chinese": "朋友，你可能会在电影、电视剧中看到它。"
+    },
+    {
+        "start": 697.0,
+        "end": 698.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 698.0,
+        "end": 699.76,
+        "english": "Really common in movies and in TV shows.",
+        "chinese": "真的在电影和电视节目中很常见。"
+    },
+    {
+        "start": 699.76,
+        "end": 700.76,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 700.76,
+        "end": 704.2399999999999,
+        "english": "So let's listen to this dialogue one more time and then we'll come back and talk a little",
+        "chinese": "所以让我们再听一次对话，然后我们再聊一会儿。"
+    },
+    {
+        "start": 704.2399999999999,
+        "end": 705.2399999999999,
+        "english": "bit more.",
+        "chinese": "更多。"
+    },
+    {
+        "start": 705.24,
+        "end": 729.88,
+        "english": "I can't believe she's on a date with me.",
+        "chinese": "我简直无法相信她和我在一起。"
+    },
+    {
+        "start": 729.88,
+        "end": 730.88,
+        "english": "I'm so lucky.",
+        "chinese": "我真是太幸运了。"
+    },
+    {
+        "start": 730.88,
+        "end": 732.92,
+        "english": "I must be the luckiest guy in the world.",
+        "chinese": "我必须是世界上最好的人。"
+    },
+    {
+        "start": 732.92,
+        "end": 734.92,
+        "english": "So I want to scream at the time of my lungs.",
+        "chinese": "所以我想在肺部发出声音。"
+    },
+    {
+        "start": 734.92,
+        "end": 736.92,
+        "english": "I'm the luckiest dude in the world.",
+        "chinese": "我是世界上最好的人。"
+    },
+    {
+        "start": 736.92,
+        "end": 737.92,
+        "english": "Oh shut up.",
+        "chinese": "请闭上眼睛。"
+    },
+    {
+        "start": 737.92,
+        "end": 740.52,
+        "english": "Don't be such a dumbass.",
+        "chinese": "不要成为那么愚蠢的人。"
+    },
+    {
+        "start": 740.52,
+        "end": 741.52,
+        "english": "She's so hot.",
+        "chinese": "她太热了。"
+    },
+    {
+        "start": 741.52,
+        "end": 743.7199999999999,
+        "english": "Wait I can't say that.",
+        "chinese": "等待我不能说。"
+    },
+    {
+        "start": 743.7199999999999,
+        "end": 745.3199999999999,
+        "english": "Good sexist.",
+        "chinese": "好的性别歧视。"
+    },
+    {
+        "start": 745.3199999999999,
+        "end": 747.04,
+        "english": "She's so hot she's making me sexist.",
+        "chinese": "她这么热，让我觉得我是个 sexist。"
+    },
+    {
+        "start": 747.04,
+        "end": 748.04,
+        "english": "Oh my god.",
+        "chinese": "哇，哈！"
+    },
+    {
+        "start": 748.04,
+        "end": 749.1999999999999,
+        "english": "I'm such a tool.",
+        "chinese": "我是工具。"
+    },
+    {
+        "start": 749.1999999999999,
+        "end": 750.1999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 750.1999999999999,
+        "end": 751.1999999999999,
+        "english": "Get it together.",
+        "chinese": "请妥善安排。"
+    },
+    {
+        "start": 751.1999999999999,
+        "end": 752.1999999999999,
+        "english": "Oh she's eating salad.",
+        "chinese": "她正在吃沙拉。"
+    },
+    {
+        "start": 752.1999999999999,
+        "end": 753.1999999999999,
+        "english": "Oh right.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 753.1999999999999,
+        "end": 754.1999999999999,
+        "english": "Never salad.",
+        "chinese": "永不加盐。"
+    },
+    {
+        "start": 754.1999999999999,
+        "end": 755.1999999999999,
+        "english": "No crap.",
+        "chinese": "没有废话。"
+    },
+    {
+        "start": 755.1999999999999,
+        "end": 757.1999999999999,
+        "english": "Which fork do I use?",
+        "chinese": "请问我使用哪个分支？"
+    },
+    {
+        "start": 757.1999999999999,
+        "end": 758.1999999999999,
+        "english": "Damn it.",
+        "chinese": "太糟糕了。"
+    },
+    {
+        "start": 758.1999999999999,
+        "end": 760.0,
+        "english": "She's going to think I'm a moron.",
+        "chinese": "她要我是个笨蛋。"
+    },
+    {
+        "start": 760.0,
+        "end": 762.56,
+        "english": "What the hell are all these forks for?",
+        "chinese": "这个问句在中文中可以翻译为："
+    },
+    {
+        "start": 762.56,
+        "end": 763.56,
+        "english": "You want to choose.",
+        "chinese": "您想选择。"
+    },
+    {
+        "start": 763.56,
+        "end": 764.56,
+        "english": "Okay chill.",
+        "chinese": "好的，我来帮你翻译这句话。"
+    },
+    {
+        "start": 764.56,
+        "end": 765.56,
+        "english": "You cool.",
+        "chinese": "您冷。"
+    },
+    {
+        "start": 765.56,
+        "end": 766.56,
+        "english": "You cool.",
+        "chinese": "您冷。"
+    },
+    {
+        "start": 766.56,
+        "end": 768.56,
+        "english": "Just take a fork.",
+        "chinese": "请用筷子。"
+    },
+    {
+        "start": 768.56,
+        "end": 772.56,
+        "english": "Eat your salad.",
+        "chinese": "吃你的沙拉。"
+    },
+    {
+        "start": 772.56,
+        "end": 773.56,
+        "english": "Ummmm.",
+        "chinese": "对不起，我没有找到任何可以翻译为“对不起”的句子。如果您需要帮助或有其他问题，请随时告诉我！"
+    },
+    {
+        "start": 773.56,
+        "end": 774.56,
+        "english": "Hmm?",
+        "chinese": "嗯？"
+    },
+    {
+        "start": 774.56,
+        "end": 775.56,
+        "english": "Oh sorry.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 775.56,
+        "end": 776.56,
+        "english": "What were you saying?",
+        "chinese": "在中文中，\"What were you saying?\" 翻译成普通话是 \"你在说什么？\" 或者更简洁地表达为 \"你是在说什么吗？\"。"
+    },
+    {
+        "start": 776.56,
+        "end": 777.56,
+        "english": "You're eating my salad.",
+        "chinese": "您正在吃我的沙拉。"
+    },
+    {
+        "start": 777.56,
+        "end": 778.56,
+        "english": "Oh yes.",
+        "chinese": "哦，对。"
+    },
+    {
+        "start": 778.56,
+        "end": 779.56,
+        "english": "It's delicious.",
+        "chinese": "是可口的。"
+    },
+    {
+        "start": 779.56,
+        "end": 798.1999999999999,
+        "english": "So these slang words, they're actually very common right?",
+        "chinese": "所以这些俚语，它们实际上是非常常见的？"
+    },
+    {
+        "start": 798.1999999999999,
+        "end": 799.1999999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 799.1999999999999,
+        "end": 802.04,
+        "english": "I think like you said, it's not likely that you'll find them in a dictionary.",
+        "chinese": "我认为，你所说的可能不会在字典中找到他们。"
+    },
+    {
+        "start": 802.04,
+        "end": 803.04,
+        "english": "Of course.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 803.04,
+        "end": 806.1999999999999,
+        "english": "And you can find them in movies or sometimes when you're having a conversation and very",
+        "chinese": "你可以在电影里找到它们，有时在和朋友聊天时也会发现。"
+    },
+    {
+        "start": 806.1999999999999,
+        "end": 808.3599999999999,
+        "english": "informal conversation with a native speaker.",
+        "chinese": "简体中文：与一个本地口语交流。"
+    },
+    {
+        "start": 808.3599999999999,
+        "end": 809.3599999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 809.36,
+        "end": 811.92,
+        "english": "So if you slip out and these slang terms will come up.",
+        "chinese": "所以如果你溜出去，这些俚语就会出现。"
+    },
+    {
+        "start": 811.92,
+        "end": 812.92,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 812.92,
+        "end": 813.92,
+        "english": "And you know what?",
+        "chinese": "您知道吗？"
+    },
+    {
+        "start": 813.92,
+        "end": 819.36,
+        "english": "There's a great resource out there for wonderful English slang terms called urbandictionary.com.",
+        "chinese": "有一个很好的资源，叫做.urbandictionary.com，提供了一些非常有趣的英语俚语术语。"
+    },
+    {
+        "start": 819.36,
+        "end": 820.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 820.36,
+        "end": 824.96,
+        "english": "If you ever see a word that maybe you can find in the conventional dictionary, you're probably",
+        "chinese": "如果你曾经看到过可能在传统字典中能找到的单词，那么你很可能是"
+    },
+    {
+        "start": 824.96,
+        "end": 825.96,
+        "english": "going to find it there.",
+        "chinese": "将要找到它。"
+    },
+    {
+        "start": 825.96,
+        "end": 826.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 826.96,
+        "end": 827.96,
+        "english": "We'll put a link up to it on the site.",
+        "chinese": "我们将将其链接上到网站上去。"
+    },
+    {
+        "start": 827.96,
+        "end": 828.96,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 828.96,
+        "end": 833.36,
+        "english": "So also if you have any questions or comments, be sure to come to our website, Englishpod.com.",
+        "chinese": "所以，如果你有任何问题或评论，请务必访问我们的网站，英语pod.com。"
+    },
+    {
+        "start": 833.36,
+        "end": 838.36,
+        "english": "Marco and I are there to answer all your questions and we also got lots of resources like links",
+        "chinese": "马科和我在这里是为了回答你的所有问题，我们还得到了许多资源，如链接。"
+    },
+    {
+        "start": 838.36,
+        "end": 839.36,
+        "english": "to urban dictionary.",
+        "chinese": "to 淘宝词典."
+    },
+    {
+        "start": 839.36,
+        "end": 840.36,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的中文翻译："
+    },
+    {
+        "start": 840.36,
+        "end": 843.64,
+        "english": "And also if you have any questions on any other slang terms that you may have heard or how",
+        "chinese": "而且，如果您有任何其他俚语词汇或您可能听说过的任何其他俚语，请随时提问。"
+    },
+    {
+        "start": 843.64,
+        "end": 846.48,
+        "english": "to use them, be sure to post it on the comment section.",
+        "chinese": "使用它们，一定要在评论区留言。"
+    },
+    {
+        "start": 846.48,
+        "end": 850.44,
+        "english": "Well guys, thanks for listening to this lesson and until next time, bye bye.",
+        "chinese": "各位朋友，谢谢听了今天的课程，并且在下下次见，再见。"
+    }
+]

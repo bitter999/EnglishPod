@@ -1,0 +1,1130 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.04,
+        "english": "Hello everyone, welcome to EnglishPod. Today I'm here with Erica.",
+        "chinese": "你好，大家，欢迎来到英语播客。今天我在这里和艾瑞克一起。"
+    },
+    {
+        "start": 5.04,
+        "end": 5.84,
+        "english": "Hi Marco.",
+        "chinese": "你好，马科。"
+    },
+    {
+        "start": 5.84,
+        "end": 6.72,
+        "english": "And I'm Marco.",
+        "chinese": "我是马克。"
+    },
+    {
+        "start": 6.72,
+        "end": 11.28,
+        "english": "And we're bringing you a great elementary lesson about a situation at an office.",
+        "chinese": "我们为您带来了一堂关于一个办公室工作情况的精彩入门课。"
+    },
+    {
+        "start": 11.28,
+        "end": 16.56,
+        "english": "That's true. Today we're going to learn some phrases for asking for time off.",
+        "chinese": "英语：那真是的。今天我们要学习一些关于请假的时间表达方式。"
+    },
+    {
+        "start": 16.56,
+        "end": 18.240000000000002,
+        "english": "Right. Asking for time off.",
+        "chinese": "正确：请休假。"
+    },
+    {
+        "start": 18.240000000000002,
+        "end": 19.6,
+        "english": "Or asking for leave.",
+        "chinese": "英语：或者请假。"
+    },
+    {
+        "start": 19.6,
+        "end": 20.88,
+        "english": "Asking for leave. Right.",
+        "chinese": "请稍等，我将为您翻译并提供简化中文版本。"
+    },
+    {
+        "start": 20.88,
+        "end": 26.88,
+        "english": "Right. So we're going to give you some great phrases and vocabulary for when you want to ask for leave.",
+        "chinese": "正确。我们将给你一些很棒的短语和词汇，以便在你想要请假时询问。"
+    },
+    {
+        "start": 26.88,
+        "end": 33.6,
+        "english": "So let's just listen to our dialogue today. We're at an office where live once some time off.",
+        "chinese": "所以，让我们先听听今天的对话吧。我们今天在办公室里有空闲时间休息一下。"
+    },
+    {
+        "start": 42.56,
+        "end": 46.239999999999995,
+        "english": "Mr. McKenna, do you have a second? I need to talk to you about something.",
+        "chinese": "英语：您好，麦肯恩先生，请问您有第二位吗？我需要和您讨论一些事情。"
+    },
+    {
+        "start": 46.239999999999995,
+        "end": 48.4,
+        "english": "Sure. Liv, what can I do for you?",
+        "chinese": "当然，没问题。你有什么需要帮忙的吗？"
+    },
+    {
+        "start": 48.4,
+        "end": 53.84,
+        "english": "Well, I was just wondering. You see, I know I've used up all my vacation days this year,",
+        "chinese": "英语：嗯，我刚刚想了一会儿。你明白，我已经用完了这个假期的所有时间了。"
+    },
+    {
+        "start": 53.84,
+        "end": 57.36000000000001,
+        "english": "but my sister's getting married and the wedding is overseas and well.",
+        "chinese": "但是我的姐姐即将结婚，婚礼将在海外举行，并且我需要承担起更多的责任。"
+    },
+    {
+        "start": 58.0,
+        "end": 59.6,
+        "english": "You want to take some time off? Is that right?",
+        "chinese": "是的，你想要休息一下吗？那应该对。"
+    },
+    {
+        "start": 60.24,
+        "end": 64.80000000000001,
+        "english": "Well, sir, I was just hoping I might be able to take some unpaid leave this year.",
+        "chinese": "英语：嗯，先生，我正希望能有机会在这年休假。"
+    },
+    {
+        "start": 64.80000000000001,
+        "end": 70.0,
+        "english": "What dates are you planning on taking off? I'll need at least two months notice so that I can plan for your absence.",
+        "chinese": "你好，你打算什么时候离开？我需要至少两个月的提前通知，以便安排你的缺席。"
+    },
+    {
+        "start": 70.0,
+        "end": 74.24000000000001,
+        "english": "I was thinking of taking off from September 1st until the 30th.",
+        "chinese": "我打算从9月1日到9月30日开始离开。"
+    },
+    {
+        "start": 74.88,
+        "end": 76.0,
+        "english": "Would you be okay with that?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 76.64,
+        "end": 78.96000000000001,
+        "english": "Well, I guess so.",
+        "chinese": "嗯，我猜的。"
+    },
+    {
+        "start": 83.84,
+        "end": 88.96000000000001,
+        "english": "Well, it sounds like the boss wasn't too happy about Liv's request.",
+        "chinese": "英语：嗯，听起来像老板对利维的请求不太满意。"
+    },
+    {
+        "start": 88.96000000000001,
+        "end": 92.64,
+        "english": "Well, she wanted to take off for 30 days, so...",
+        "chinese": "好的，她想在三天内离开，所以..."
+    },
+    {
+        "start": 92.64,
+        "end": 94.32000000000001,
+        "english": "I guess that is a long time.",
+        "chinese": "我猜那是很长时间。"
+    },
+    {
+        "start": 94.32000000000001,
+        "end": 96.4,
+        "english": "That is a long time. I wish I could do that.",
+        "chinese": "英语：那真是很久了。我想我能够做到这一点。"
+    },
+    {
+        "start": 96.4,
+        "end": 102.24000000000001,
+        "english": "Yeah. Okay, we have some great words for you today, so let's start with our language takeaway.",
+        "chinese": "是的。好的，今天我们有一些很棒的语言词汇给您，请开始我们的语言小结。"
+    },
+    {
+        "start": 103.84,
+        "end": 105.04,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 105.92,
+        "end": 110.24000000000001,
+        "english": "For words on our language takeaway today, Erica, why don't you tell us the first one?",
+        "chinese": "英语：它是一台傻瓜相机。"
+    },
+    {
+        "start": 110.24,
+        "end": 112.8,
+        "english": "The first word is vacation days.",
+        "chinese": "第一个单词是假期。"
+    },
+    {
+        "start": 112.8,
+        "end": 114.0,
+        "english": "Vacation days.",
+        "chinese": "假期。"
+    },
+    {
+        "start": 114.0,
+        "end": 115.28,
+        "english": "Vacation days.",
+        "chinese": "假期。"
+    },
+    {
+        "start": 115.83999999999999,
+        "end": 117.36,
+        "english": "So what are vacation days?",
+        "chinese": "英语：所以假期是什么？"
+    },
+    {
+        "start": 117.36,
+        "end": 122.64,
+        "english": "Basically, it's the number of personal leave days.",
+        "chinese": "基本来说，这是一天的个人假期。"
+    },
+    {
+        "start": 122.64,
+        "end": 125.67999999999999,
+        "english": "So the number of days that you can take to go on vacation.",
+        "chinese": "所以你可以在度假期间停留多少天。"
+    },
+    {
+        "start": 126.63999999999999,
+        "end": 128.88,
+        "english": "How many vacation days do you have?",
+        "chinese": "你好，有什么可以帮助你的吗？"
+    },
+    {
+        "start": 128.88,
+        "end": 132.64,
+        "english": "Yeah, I think I have not so many. I only have 10 vacation days.",
+        "chinese": "英语：是啊，我觉得我还有很多。我现在只有十天的假期。"
+    },
+    {
+        "start": 132.64,
+        "end": 133.6,
+        "english": "10 vacation?",
+        "chinese": "10 假日？"
+    },
+    {
+        "start": 133.6,
+        "end": 134.8,
+        "english": "Well, in some countries,",
+        "chinese": "在一些国家，"
+    },
+    {
+        "start": 135.60000000000002,
+        "end": 137.44,
+        "english": "there are 10 vacation days as normal.",
+        "chinese": "有10天的假期。"
+    },
+    {
+        "start": 137.44,
+        "end": 141.12,
+        "english": "In other, I guess it's 10, 15, even 20 I've heard.",
+        "chinese": "英语：在其他地方，我猜测是10、15甚至20。"
+    },
+    {
+        "start": 141.12,
+        "end": 141.92000000000002,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 141.92000000000002,
+        "end": 143.12,
+        "english": "Well, vacation days.",
+        "chinese": "很好，假期日。"
+    },
+    {
+        "start": 143.12,
+        "end": 144.8,
+        "english": "We can't take too many vacation days.",
+        "chinese": "我们不能太长时间地休假。"
+    },
+    {
+        "start": 144.8,
+        "end": 146.56,
+        "english": "Or else we won't make any more podcasts.",
+        "chinese": "英语：或者我们就不做更多的播客了。"
+    },
+    {
+        "start": 148.16000000000003,
+        "end": 149.76000000000002,
+        "english": "Why don't we look at our second word?",
+        "chinese": "为什么我们不看看我们的第二个单词？"
+    },
+    {
+        "start": 150.4,
+        "end": 151.36,
+        "english": "Overseas.",
+        "chinese": "英语：海外。"
+    },
+    {
+        "start": 152.16000000000003,
+        "end": 153.44,
+        "english": "Overseas.",
+        "chinese": "英语：海外。"
+    },
+    {
+        "start": 153.44,
+        "end": 154.56,
+        "english": "Overseas.",
+        "chinese": "英语：海外。"
+    },
+    {
+        "start": 155.12,
+        "end": 158.64000000000001,
+        "english": "When you travel overseas, you travel over the ocean.",
+        "chinese": "当你出国旅行时，你必须跨越大洋。"
+    },
+    {
+        "start": 158.64000000000001,
+        "end": 160.24,
+        "english": "Over the ocean to another country.",
+        "chinese": "英语：越过太平洋到另一个国家。"
+    },
+    {
+        "start": 160.24,
+        "end": 160.88000000000002,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 160.88000000000002,
+        "end": 161.92000000000002,
+        "english": "Okay, overseas.",
+        "chinese": "好的，海外。"
+    },
+    {
+        "start": 162.48,
+        "end": 165.67999999999998,
+        "english": "Okay, and our third word for language take away.",
+        "chinese": "好的，我们的第三句话是“语言删除法”。"
+    },
+    {
+        "start": 165.67999999999998,
+        "end": 167.44,
+        "english": "Unpaid leave.",
+        "chinese": "英语：无薪假。"
+    },
+    {
+        "start": 167.44,
+        "end": 169.44,
+        "english": "Unpaid leave.",
+        "chinese": "欠薪。"
+    },
+    {
+        "start": 169.44,
+        "end": 170.79999999999998,
+        "english": "Unpaid leave.",
+        "chinese": "欠薪。"
+    },
+    {
+        "start": 170.79999999999998,
+        "end": 173.51999999999998,
+        "english": "So this is time off without pay.",
+        "chinese": "所以，这是一份无薪的休假。"
+    },
+    {
+        "start": 173.51999999999998,
+        "end": 174.32,
+        "english": "Without pay.",
+        "chinese": "Without pay.\" 翻译成中文是 \"没有报酬。"
+    },
+    {
+        "start": 174.32,
+        "end": 174.95999999999998,
+        "english": "Simple.",
+        "chinese": "简单。"
+    },
+    {
+        "start": 174.95999999999998,
+        "end": 175.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 175.44,
+        "end": 176.23999999999998,
+        "english": "Unpaid leave.",
+        "chinese": "英语：无薪假。"
+    },
+    {
+        "start": 177.11999999999998,
+        "end": 178.32,
+        "english": "And our last word.",
+        "chinese": "我们的最后一句话。"
+    },
+    {
+        "start": 179.04,
+        "end": 180.07999999999998,
+        "english": "Notice.",
+        "chinese": "注意。"
+    },
+    {
+        "start": 180.07999999999998,
+        "end": 181.2,
+        "english": "Notice.",
+        "chinese": "注意。"
+    },
+    {
+        "start": 181.2,
+        "end": 182.0,
+        "english": "Notice.",
+        "chinese": "注意。"
+    },
+    {
+        "start": 183.2,
+        "end": 185.76,
+        "english": "So we have some great examples on how we use notice.",
+        "chinese": "英语：所以我们有一些很棒的例子，如何使用通知。"
+    },
+    {
+        "start": 185.76,
+        "end": 190.07999999999998,
+        "english": "And from these examples, I'm sure you'll be able to understand exactly what they mean.",
+        "chinese": "根据这些例子，我相信你一定能够理解他们到底是什么意思。"
+    },
+    {
+        "start": 190.88000000000002,
+        "end": 192.4,
+        "english": "Example 1.",
+        "chinese": "例1."
+    },
+    {
+        "start": 196.72000000000003,
+        "end": 200.88000000000002,
+        "english": "If you want to quit your job, make sure you give enough notice.",
+        "chinese": "如果想辞职，一定要提前通知雇主。"
+    },
+    {
+        "start": 200.88000000000002,
+        "end": 203.36,
+        "english": "You'll need to tell us four weeks in advance.",
+        "chinese": "你得提前告知我们四周的时间。"
+    },
+    {
+        "start": 208.72000000000003,
+        "end": 209.52,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 214.48000000000002,
+        "end": 217.44,
+        "english": "You didn't give me enough notice about this project.",
+        "chinese": "你没有足够的时间来处理这个项目。"
+    },
+    {
+        "start": 217.44,
+        "end": 218.96,
+        "english": "I didn't have enough time to finish it.",
+        "chinese": "我还没有足够的时间完成它。"
+    },
+    {
+        "start": 220.24,
+        "end": 228.16000000000003,
+        "english": "So when you give someone notice, you give them information in advance.",
+        "chinese": "所以，当你给某人通知时，你提前告知他们信息。"
+    },
+    {
+        "start": 228.16000000000003,
+        "end": 229.04000000000002,
+        "english": "In advance, right?",
+        "chinese": "英语：提前，对吗？"
+    },
+    {
+        "start": 229.04000000000002,
+        "end": 234.32000000000002,
+        "english": "So if I want to take time off, I need to give my boss notice, advance information.",
+        "chinese": "所以，如果我想请假，我需要提前通知老板，并提供相关信息。"
+    },
+    {
+        "start": 234.32000000000002,
+        "end": 234.72000000000003,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 234.72000000000003,
+        "end": 235.76000000000002,
+        "english": "15-day notice.",
+        "chinese": "15 天通知。"
+    },
+    {
+        "start": 235.76000000000002,
+        "end": 236.56,
+        "english": "Uh-huh.",
+        "chinese": "英语：嗯，对。"
+    },
+    {
+        "start": 236.56,
+        "end": 238.24,
+        "english": "20-day notice, etc.",
+        "chinese": "英语：20天通知，等等。"
+    },
+    {
+        "start": 238.24,
+        "end": 238.56,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 238.56,
+        "end": 240.8,
+        "english": "So that's our language takeaway for today.",
+        "chinese": "所以这就是今天我们对语言的总结。"
+    },
+    {
+        "start": 240.8,
+        "end": 244.48000000000002,
+        "english": "Now we are ready to listen to our dialogue a second time.",
+        "chinese": "现在我们再次听我们的对话。"
+    },
+    {
+        "start": 244.48000000000002,
+        "end": 246.48000000000002,
+        "english": "And this time it's going to be really slow.",
+        "chinese": "和这一次将非常缓慢。"
+    },
+    {
+        "start": 250.24,
+        "end": 251.68,
+        "english": "15-day notice.",
+        "chinese": "15 天通知。"
+    },
+    {
+        "start": 253.12,
+        "end": 256.48,
+        "english": "Mr. McKenna, do you have a second?",
+        "chinese": "英语：先生，你有第二位吗？"
+    },
+    {
+        "start": 256.48,
+        "end": 258.56,
+        "english": "I need to talk to you about something.",
+        "chinese": "我需要和你讨论一些事情。"
+    },
+    {
+        "start": 259.28000000000003,
+        "end": 260.08000000000004,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 260.08000000000004,
+        "end": 260.88,
+        "english": "Live.",
+        "chinese": "在中文中，\"live\" 的意思是 \"实时\" 或 \"在线\"。例如："
+    },
+    {
+        "start": 260.88,
+        "end": 262.08000000000004,
+        "english": "What can I do for you?",
+        "chinese": "英语：你有什么可以帮助你的吗？"
+    },
+    {
+        "start": 262.88,
+        "end": 265.28000000000003,
+        "english": "Well, I was just wondering.",
+        "chinese": "英语：嗯，我只是在想。"
+    },
+    {
+        "start": 265.28000000000003,
+        "end": 270.08000000000004,
+        "english": "You see, I know I've used up all my vacation days this year,",
+        "chinese": "你看到，我用完了今年的度假时间。"
+    },
+    {
+        "start": 270.08000000000004,
+        "end": 272.24,
+        "english": "but my sister is getting married.",
+        "chinese": "但是我的妹妹即将结婚。"
+    },
+    {
+        "start": 272.24,
+        "end": 275.2,
+        "english": "And the wedding is overseas and well...",
+        "chinese": "婚礼在国外，非常圆满..."
+    },
+    {
+        "start": 275.92,
+        "end": 278.32,
+        "english": "You want to take some time off.",
+        "chinese": "你想要休息一下。"
+    },
+    {
+        "start": 278.32,
+        "end": 279.2,
+        "english": "Is that right?",
+        "chinese": "是的，这是正确的。"
+    },
+    {
+        "start": 279.84,
+        "end": 286.32,
+        "english": "Well, sir, I was just hoping that I might be able to take some unpaid leave this year.",
+        "chinese": "英语：嗯，先生，我刚刚希望我能有机会在这年休假。"
+    },
+    {
+        "start": 286.88,
+        "end": 289.68,
+        "english": "What dates are you planning on taking off?",
+        "chinese": "英语：你打算什么时候起飞？"
+    },
+    {
+        "start": 289.68,
+        "end": 293.68,
+        "english": "I'll need at least two months notice so that I can plan for your absence.",
+        "chinese": "我需要至少两个月的准备期，以便您可以请假。"
+    },
+    {
+        "start": 294.48,
+        "end": 300.08,
+        "english": "I was thinking of taking off from September 1st until the 30th.",
+        "chinese": "我打算从9月1日到9月30日开始离开。"
+    },
+    {
+        "start": 300.08,
+        "end": 302.24,
+        "english": "Would you be okay with that?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 302.24,
+        "end": 302.96,
+        "english": "I guess so.",
+        "chinese": "我猜。"
+    },
+    {
+        "start": 303.03999999999996,
+        "end": 315.12,
+        "english": "A lot of non-native English speakers sometimes feel quite nervous about asking their boss for time off.",
+        "chinese": "英语：很多非母语的英语使用者有时会感到有些紧张，想要向老板请假。"
+    },
+    {
+        "start": 315.12,
+        "end": 315.35999999999996,
+        "english": "Hey?",
+        "chinese": "你好？（Hǎo?）"
+    },
+    {
+        "start": 316.0,
+        "end": 319.2,
+        "english": "Yeah, I guess it's kind of a difficult subject.",
+        "chinese": "嗯，我猜这有点难。"
+    },
+    {
+        "start": 319.2,
+        "end": 325.2,
+        "english": "Yeah, but today we're going to teach you some great phrases that you can use next time you need to ask for some time off.",
+        "chinese": "是的，但今天我们要教你一些很棒的表达方式，下次你需要请假时可以使用这些。"
+    },
+    {
+        "start": 325.2,
+        "end": 328.4,
+        "english": "Great, so why don't we take a look at putting it together?",
+        "chinese": "好的，我明白了。请将需要翻译的英文语句提供给我。"
+    },
+    {
+        "start": 328.47999999999996,
+        "end": 331.52,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 333.03999999999996,
+        "end": 334.88,
+        "english": "Okay, so I'm putting it together today.",
+        "chinese": "好的，今天我打算把这台相机组装好。"
+    },
+    {
+        "start": 334.88,
+        "end": 339.67999999999995,
+        "english": "We're going to talk about some great phrases that you can use when approaching your boss.",
+        "chinese": "我们打算讨论一些你可以在接近你的老板时使用的好词。"
+    },
+    {
+        "start": 339.67999999999995,
+        "end": 342.32,
+        "english": "Yes, we heard live say this.",
+        "chinese": "是的，我们听到现场说这个。"
+    },
+    {
+        "start": 343.91999999999996,
+        "end": 345.2,
+        "english": "Do you have a second?",
+        "chinese": "英语：你有第二？"
+    },
+    {
+        "start": 347.12,
+        "end": 348.4,
+        "english": "Do you have a second?",
+        "chinese": "英语：你有第二？"
+    },
+    {
+        "start": 349.59999999999997,
+        "end": 354.4,
+        "english": "This is a nice way to make sure your boss isn't busy when you want to ask him something.",
+        "chinese": "这个是种好办法，能确保你上司不在忙的时候，你可以向他问问题。"
+    },
+    {
+        "start": 354.4,
+        "end": 358.15999999999997,
+        "english": "Right, right, right, but we could also say this in two different ways.",
+        "chinese": "正确，正确，正确，但我们可以也说这是两种不同的方式。"
+    },
+    {
+        "start": 358.16,
+        "end": 358.8,
+        "english": "Let's listen.",
+        "chinese": "让我们听。"
+    },
+    {
+        "start": 359.76000000000005,
+        "end": 360.96000000000004,
+        "english": "Do you have a minute?",
+        "chinese": "英语：你有时间吗？"
+    },
+    {
+        "start": 360.96000000000004,
+        "end": 362.24,
+        "english": "I want to ask you something.",
+        "chinese": "我想要问你点和拍的问题。"
+    },
+    {
+        "start": 364.32000000000005,
+        "end": 365.28000000000003,
+        "english": "Do you have a sec?",
+        "chinese": "英语：你有时间吗？"
+    },
+    {
+        "start": 365.28000000000003,
+        "end": 366.24,
+        "english": "I need to talk to you.",
+        "chinese": "我需要和你交谈。"
+    },
+    {
+        "start": 367.36,
+        "end": 368.88000000000005,
+        "english": "A great way to approach your boss.",
+        "chinese": "一个好办法来接近你的老板。"
+    },
+    {
+        "start": 368.88000000000005,
+        "end": 370.8,
+        "english": "Yeah, I love this phrase.",
+        "chinese": "是的，我喜欢这个短语。"
+    },
+    {
+        "start": 370.8,
+        "end": 371.68,
+        "english": "Do you have a sec?",
+        "chinese": "英语：你有时间吗？"
+    },
+    {
+        "start": 372.40000000000003,
+        "end": 373.36,
+        "english": "Yeah, do you have a sec?",
+        "chinese": "是的，你有时间吗？"
+    },
+    {
+        "start": 373.36,
+        "end": 375.04,
+        "english": "It's really natural.",
+        "chinese": "英语：它真的很自然。"
+    },
+    {
+        "start": 375.04,
+        "end": 379.44000000000005,
+        "english": "Okay, so you've asked your boss for leave and you want to make sure that he agrees with you.",
+        "chinese": "好的，那么现在请将以下句子翻译成简体中文："
+    },
+    {
+        "start": 379.44000000000005,
+        "end": 381.28000000000003,
+        "english": "Yes, and this is how live did it.",
+        "chinese": "是的，而且这正是如何直播的。"
+    },
+    {
+        "start": 382.40000000000003,
+        "end": 384.08000000000004,
+        "english": "Would you be okay with that?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 386.0,
+        "end": 387.68,
+        "english": "Would you be okay with that?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 388.88000000000005,
+        "end": 393.44,
+        "english": "This is a great pattern and we've got two other examples of how you can use it.",
+        "chinese": "这个是很好的图案，我们还有两个例子可以用来使用它。"
+    },
+    {
+        "start": 394.16,
+        "end": 395.12,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 396.72,
+        "end": 397.92,
+        "english": "Are you all right with that?",
+        "chinese": "英语：你都准备好了吗？"
+    },
+    {
+        "start": 400.0,
+        "end": 400.72,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 402.8,
+        "end": 403.92,
+        "english": "Would you be okay with this?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 405.6,
+        "end": 406.72,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 408.32000000000005,
+        "end": 409.44000000000005,
+        "english": "I'm fine with that.",
+        "chinese": "我接受这个。"
+    },
+    {
+        "start": 410.40000000000003,
+        "end": 414.40000000000003,
+        "english": "Okay, great examples, great patterns, really useful language.",
+        "chinese": "好的，好的例子、好的模式、非常实用的语言。"
+    },
+    {
+        "start": 414.40000000000003,
+        "end": 414.96000000000004,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 414.96000000000004,
+        "end": 417.52000000000004,
+        "english": "Okay, so now let's listen to our dialogue a third time.",
+        "chinese": "好的，现在让我们再次听我们的对话。"
+    },
+    {
+        "start": 418.8,
+        "end": 428.72,
+        "english": "Mr. McKenna, do you have a second?",
+        "chinese": "英语：先生，你有第二位吗？"
+    },
+    {
+        "start": 428.72,
+        "end": 430.48,
+        "english": "I need to talk to you about something.",
+        "chinese": "我需要和你讨论一些事情。"
+    },
+    {
+        "start": 430.48,
+        "end": 431.36,
+        "english": "Sure, live.",
+        "chinese": "当然，以下是翻译："
+    },
+    {
+        "start": 431.36,
+        "end": 432.64000000000004,
+        "english": "What can I do for you?",
+        "chinese": "英语：你有什么可以帮助你的吗？"
+    },
+    {
+        "start": 432.64000000000004,
+        "end": 434.56,
+        "english": "Well, I was just wondering.",
+        "chinese": "英语：嗯，我只是在想。"
+    },
+    {
+        "start": 434.56,
+        "end": 438.08000000000004,
+        "english": "You see, I know I've used up all my vacation days this year,",
+        "chinese": "你看到，我用完了这年里的所有假期时间。"
+    },
+    {
+        "start": 438.08000000000004,
+        "end": 441.20000000000005,
+        "english": "but my sister's getting married and the wedding is over season.",
+        "chinese": "但是我的姐姐结婚了，婚礼已经结束。"
+    },
+    {
+        "start": 441.20000000000005,
+        "end": 443.36,
+        "english": "Well, you want to take some time off.",
+        "chinese": "很好，你想休息一下。"
+    },
+    {
+        "start": 443.36,
+        "end": 443.84000000000003,
+        "english": "Is that right?",
+        "chinese": "是的，这是正确的。"
+    },
+    {
+        "start": 444.47999999999996,
+        "end": 449.03999999999996,
+        "english": "Well, sir, I was just hoping I might be able to take some unpaid leave this year.",
+        "chinese": "英语：嗯，先生，我正希望能有机会在这年中休些假。"
+    },
+    {
+        "start": 449.03999999999996,
+        "end": 450.79999999999995,
+        "english": "What dates are you planning on taking off?",
+        "chinese": "英语：你打算什么时候起飞？"
+    },
+    {
+        "start": 450.79999999999995,
+        "end": 454.23999999999995,
+        "english": "I'll need at least two months notice so that I can plan for your absence.",
+        "chinese": "我需要至少两个月的准备时间，以便你可以请假。"
+    },
+    {
+        "start": 454.23999999999995,
+        "end": 458.47999999999996,
+        "english": "I was thinking of taking off from September 1st until the 30th.",
+        "chinese": "我打算从9月1日到9月30日开始离开。"
+    },
+    {
+        "start": 459.12,
+        "end": 460.23999999999995,
+        "english": "Would you be okay with that?",
+        "chinese": "英语：你愿意接受这个吗？"
+    },
+    {
+        "start": 460.88,
+        "end": 463.28,
+        "english": "Well, I guess so.",
+        "chinese": "嗯，我猜的。"
+    },
+    {
+        "start": 468.23999999999995,
+        "end": 473.28,
+        "english": "I really noticed how live in this dialogue used a lot of really polite language,",
+        "chinese": "我真的很注意到了这段对话中使用了很多非常礼貌的语言。"
+    },
+    {
+        "start": 474.08,
+        "end": 475.84,
+        "english": "yeah, I guess when you're talking to your boss,",
+        "chinese": "是的，我猜当你和你的老板交谈时。"
+    },
+    {
+        "start": 475.84,
+        "end": 479.59999999999997,
+        "english": "you really have to be respectful and you have to use really polite language.",
+        "chinese": "你真的得尊重我，你用的语气要礼貌。"
+    },
+    {
+        "start": 479.59999999999997,
+        "end": 483.03999999999996,
+        "english": "What sort of things did she do to make herself seem more polite?",
+        "chinese": "英语：她做了什么让她看起来更礼貌？"
+    },
+    {
+        "start": 483.03999999999996,
+        "end": 486.55999999999995,
+        "english": "Well, she said a couple of interesting phrases, for example,",
+        "chinese": "好的，她说了几句有趣的话，比如，例如。"
+    },
+    {
+        "start": 487.28,
+        "end": 489.44,
+        "english": "well, I was just wondering.",
+        "chinese": "好的，我刚刚想问。"
+    },
+    {
+        "start": 489.44,
+        "end": 491.59999999999997,
+        "english": "Yeah, I was just wondering.",
+        "chinese": "嗯，我刚刚只是想问问。"
+    },
+    {
+        "start": 491.59999999999997,
+        "end": 496.47999999999996,
+        "english": "Right, I was like, well, she's kind of setting up to ask for a favor or something.",
+        "chinese": "是的，我明白了。她似乎在准备向你提出一个请求或有什么打算。"
+    },
+    {
+        "start": 496.47999999999996,
+        "end": 497.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 497.44,
+        "end": 500.4,
+        "english": "And she also used another phrase that I thought was interesting.",
+        "chinese": "英语：她还用了一个我以前觉得有趣的表达。"
+    },
+    {
+        "start": 500.4,
+        "end": 503.35999999999996,
+        "english": "Yeah, she also said I was just hoping that,",
+        "chinese": "是的，她还说我只是希望你能够顺利完成任务。"
+    },
+    {
+        "start": 503.91999999999996,
+        "end": 504.79999999999995,
+        "english": "yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 504.79999999999995,
+        "end": 508.71999999999997,
+        "english": "Right, I was just hoping that maybe I could take some time off.",
+        "chinese": "正确，我刚刚只是希望可能我可以有时间休息。"
+    },
+    {
+        "start": 508.71999999999997,
+        "end": 513.92,
+        "english": "Yeah, again, that sort of doesn't sound too strong, so it seems a bit more polite.",
+        "chinese": "英语：是啊，再次说这个听起来有点不那么强，所以感觉稍微礼貌一些。"
+    },
+    {
+        "start": 513.92,
+        "end": 518.48,
+        "english": "Yeah, because if she said, well, I want to take some time off, that's too strong.",
+        "chinese": "是的，因为如果她说，嗯，我想休息一下，那太强了。"
+    },
+    {
+        "start": 518.48,
+        "end": 521.12,
+        "english": "Yeah, so I was just hoping.",
+        "chinese": "嗯，所以我只是希望。"
+    },
+    {
+        "start": 521.12,
+        "end": 523.68,
+        "english": "And then, well, the boss says, okay, well, when do you want to leave?",
+        "chinese": "英语：然后，好吧，老板说，好了，你什么时候能走？"
+    },
+    {
+        "start": 523.68,
+        "end": 526.24,
+        "english": "And she says, well, I was thinking of,",
+        "chinese": "And she says, \"嗯，我是在想……"
+    },
+    {
+        "start": 527.84,
+        "end": 529.1999999999999,
+        "english": "right, I was thinking of.",
+        "chinese": "正确，我正在想。"
+    },
+    {
+        "start": 529.1999999999999,
+        "end": 529.4399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 530.24,
+        "end": 533.12,
+        "english": "Again, if she would have said, I want to.",
+        "chinese": "英语：再次，如果她愿意说，我想。"
+    },
+    {
+        "start": 533.12,
+        "end": 533.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 533.6,
+        "end": 534.48,
+        "english": "Too strong, right?",
+        "chinese": "英语：太强了，对吗？"
+    },
+    {
+        "start": 534.48,
+        "end": 541.44,
+        "english": "Yeah, in English, sometimes we are careful to not be too direct when we're asking for something,",
+        "chinese": "是的，有时候我们在询问时要小心不要过于直接，以免引起误解。"
+    },
+    {
+        "start": 541.44,
+        "end": 541.7600000000001,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 542.48,
+        "end": 543.36,
+        "english": "Right, yeah.",
+        "chinese": "正确：英语：对，没错。"
+    },
+    {
+        "start": 543.36,
+        "end": 547.84,
+        "english": "Because if you're too direct, you sound a little bit impolite.",
+        "chinese": "因为如果你太直接了，你听起来有点冒犯。"
+    },
+    {
+        "start": 547.84,
+        "end": 548.8000000000001,
+        "english": "Yeah, you sound rude.",
+        "chinese": "英语：嗯，你说的真不客气。"
+    },
+    {
+        "start": 548.8000000000001,
+        "end": 549.0400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 549.7600000000001,
+        "end": 554.8800000000001,
+        "english": "Okay, so great tips and great things to take into consideration the next time you're talking",
+        "chinese": "好的，所以今天我给你一些好建议和值得考虑的事项，下次你和其他人交流时会更加明智。"
+    },
+    {
+        "start": 554.8800000000001,
+        "end": 555.7600000000001,
+        "english": "into your boss.",
+        "chinese": "进入你的老板。"
+    },
+    {
+        "start": 555.7600000000001,
+        "end": 558.72,
+        "english": "All right, guys, we're out of time, but thanks for listening.",
+        "chinese": "英语：所有好，伙计们，时间到了，谢谢你的聆听。"
+    },
+    {
+        "start": 558.72,
+        "end": 562.0,
+        "english": "And be sure to check out our website, EnglishPod.com.",
+        "chinese": "英语：和我们网站上的所有内容都进行比较。"
+    },
+    {
+        "start": 562.0,
+        "end": 565.52,
+        "english": "Right, where you can leave all your questions and comments and we'll be there to answer them.",
+        "chinese": "正确翻译：英语：Right, where you can leave all your questions and comments and we'll be there to answer them。中文：正确，您可以将所有问题和评论都留下并我们会在这里为您解答。"
+    },
+    {
+        "start": 565.52,
+        "end": 567.6,
+        "english": "But I guess until then, it's goodbye.",
+        "chinese": "但是，我猜测直到那时，它就该结束了。"
+    }
+]

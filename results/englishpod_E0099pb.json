@@ -1,0 +1,1790 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.28,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 6.28,
+        "end": 7.5600000000000005,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.5600000000000005,
+        "end": 11.68,
+        "english": "And today we're going to go back to the movies, but this time we're going to do it a little",
+        "chinese": "今天我们将回到电影院，但这次我们将会做一点。"
+    },
+    {
+        "start": 11.68,
+        "end": 12.92,
+        "english": "bit different.",
+        "chinese": "不同。"
+    },
+    {
+        "start": 12.92,
+        "end": 18.080000000000002,
+        "english": "That's right, we're going to be listening as two movie critics offer their opinion on",
+        "chinese": "没错，我们将倾听两位电影评论家对这部电影的评价。"
+    },
+    {
+        "start": 18.080000000000002,
+        "end": 19.080000000000002,
+        "english": "the latest release.",
+        "chinese": "最新的发布。"
+    },
+    {
+        "start": 19.080000000000002,
+        "end": 24.76,
+        "english": "Alright, so we're going to be learning how to criticize or give your opinions about something.",
+        "chinese": "好的，我们将学习如何批评或给你的意见。"
+    },
+    {
+        "start": 24.76,
+        "end": 25.76,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 25.76,
+        "end": 29.88,
+        "english": "And here we're talking movies, but a lot of this language can be used to offer your",
+        "chinese": "在这里，我们正在谈论电影，但很多这种语言都可以用来提供您的。"
+    },
+    {
+        "start": 29.88,
+        "end": 36.48,
+        "english": "criticism or ideas on literature or art or other artistic pursuits.",
+        "chinese": "批评或艺术或其他艺术追求的意见或想法。"
+    },
+    {
+        "start": 36.48,
+        "end": 41.72,
+        "english": "Okay, so before we listen to this dialogue for the first time, let's take a look at Vocabulary",
+        "chinese": "好的，那么在第一次听到这段对话之前，让我们看看词汇。"
+    },
+    {
+        "start": 41.72,
+        "end": 42.72,
+        "english": "Preview.",
+        "chinese": "预览。"
+    },
+    {
+        "start": 42.72,
+        "end": 44.72,
+        "english": "Vocabulary Preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 44.72,
+        "end": 49.879999999999995,
+        "english": "Well, we're going to look at one word here that we will hear in the dialogue and it is",
+        "chinese": "好的，我们将在这里讨论一个词，它将在对话中听到。这个词是"
+    },
+    {
+        "start": 49.879999999999995,
+        "end": 51.36,
+        "english": "Arial Dite.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 51.36,
+        "end": 52.36,
+        "english": "Arial Dite.",
+        "chinese": "Arial Dite (拼音：Ailai Dite) 是一个由阿里巴巴集团开发的字体，用于创建高质量的文本。在中文中，“Arial”通常指的是“阿莱文”，而“Dite”则可能是指某种特定的应用程序或工具。如果您能提供更多的上下文信息，我将能够更准确地翻译和解释这个术语。"
+    },
+    {
+        "start": 52.36,
+        "end": 53.36,
+        "english": "Arial Dite.",
+        "chinese": "Arial Dite (拼音: 腾讯街) 是阿里巴巴集团旗下的一个社交媒体平台，主要面向年轻人和商务人士。它提供了一个简洁、易用的界面，让用户可以轻松地分享信息、发布动态，并与朋友进行互动。此外，该平台还支持实时聊天功能，用户可以在平台上与其他用户进行即时交流。"
+    },
+    {
+        "start": 53.36,
+        "end": 54.84,
+        "english": "Okay, so this word Arial Dite.",
+        "chinese": "好的，这个字是阿莱克斯·迪特尔。"
+    },
+    {
+        "start": 54.84,
+        "end": 56.68,
+        "english": "Some people pronounce it Arial Dite.",
+        "chinese": "根据您提供的信息，这句话可以翻译成中文为：“有些人把它读作阿莱克斯·迪特尔。”"
+    },
+    {
+        "start": 56.68,
+        "end": 62.16,
+        "english": "That's true and basically it's an adjective describing someone who has a lot of knowledge",
+        "chinese": "这句话可以翻译成中文为：“这就是真的，基本上就是形容一个人知识渊博的人。”"
+    },
+    {
+        "start": 62.16,
+        "end": 63.16,
+        "english": "about a subject.",
+        "chinese": "关于一个主题。"
+    },
+    {
+        "start": 63.16,
+        "end": 66.6,
+        "english": "Okay, so an Arial Dite in Engineering.",
+        "chinese": "好的，所以一个阿里的德特在工程里。"
+    },
+    {
+        "start": 66.6,
+        "end": 68.6,
+        "english": "Yes, or an Arial Dite Professor.",
+        "chinese": "是，或者一个阿里安德森教授。"
+    },
+    {
+        "start": 68.6,
+        "end": 69.88,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 69.88,
+        "end": 74.68,
+        "english": "So that's the word that we're going to preview today and now let's listen to our dialogue",
+        "chinese": "所以，今天我们要预览的这个单词是“我们”。"
+    },
+    {
+        "start": 74.68,
+        "end": 85.48,
+        "english": "and find out what movie they are criticizing.",
+        "chinese": "并且找出他们正在批评的电影。"
+    },
+    {
+        "start": 85.48,
+        "end": 89.12,
+        "english": "Welcome back to Movie Lovers to another premiere movie review.",
+        "chinese": "欢迎回到电影爱好者，再次观看另一部新片的影评。"
+    },
+    {
+        "start": 89.12,
+        "end": 94.36,
+        "english": "My name is Richard Clark and I am joined today by the very Arial Dite, David Watson.",
+        "chinese": "我的名字是理查德·克拉克，今天我与非常感谢的阿莱克斯·戴蒂先生和大卫·沃森先生一起。"
+    },
+    {
+        "start": 94.36,
+        "end": 95.36,
+        "english": "Thank you, Dick.",
+        "chinese": "谢谢，Dick。"
+    },
+    {
+        "start": 95.36,
+        "end": 98.0,
+        "english": "Today we're going to talk about the movie Lion King.",
+        "chinese": "今天，我们将谈论电影《狮子王》。"
+    },
+    {
+        "start": 98.0,
+        "end": 100.32000000000001,
+        "english": "Tell me, what is your impression of this film?",
+        "chinese": "请告诉我，你对这部电影的印象如何？"
+    },
+    {
+        "start": 100.32000000000001,
+        "end": 103.04,
+        "english": "Well, I think this film is simply a fable.",
+        "chinese": "嗯，我认为这部电影只是一个寓言。"
+    },
+    {
+        "start": 103.04,
+        "end": 108.2,
+        "english": "The pick-thing man's eternal greed for power and in my opinion, it's a very fine film.",
+        "chinese": "这个选角演员的永恒对权力的贪婪，我认为这是一个非常优秀的电影。"
+    },
+    {
+        "start": 108.2,
+        "end": 112.96000000000001,
+        "english": "Even despite the accusations of plagiarism of traditional folk tales from other countries,",
+        "chinese": "即使在其他国家对传统民间故事的指控中，中国："
+    },
+    {
+        "start": 112.96000000000001,
+        "end": 114.56,
+        "english": "the musical score was amazing.",
+        "chinese": "音乐谱子真是美妙！"
+    },
+    {
+        "start": 114.56,
+        "end": 118.08,
+        "english": "The animation was very well done and the story was simply enchanting.",
+        "chinese": "动画做得很好，故事非常吸引人。"
+    },
+    {
+        "start": 118.08,
+        "end": 119.52,
+        "english": "Well, I think otherwise.",
+        "chinese": "嗯，我觉得不然。"
+    },
+    {
+        "start": 119.52,
+        "end": 123.4,
+        "english": "Even though the animation was technically strong and as you say, the score and songs performed",
+        "chinese": "即使动画技术出色，你所说的旋律和歌曲也表现出了"
+    },
+    {
+        "start": 123.4,
+        "end": 124.88,
+        "english": "by Elton John were great.",
+        "chinese": "由埃尔顿·约翰演唱的歌曲是很好的。"
+    },
+    {
+        "start": 124.88,
+        "end": 127.08,
+        "english": "The film lacks certain originality.",
+        "chinese": "电影缺乏某些原创性。"
+    },
+    {
+        "start": 127.08,
+        "end": 131.16,
+        "english": "It lacked heart and I would dare to say it was too predictable.",
+        "chinese": "它缺乏心，我敢说这是太 predictable了。"
+    },
+    {
+        "start": 131.16,
+        "end": 132.16,
+        "english": "Predictable?",
+        "chinese": "预测的？"
+    },
+    {
+        "start": 132.16,
+        "end": 133.16,
+        "english": "How?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 133.16,
+        "end": 134.16,
+        "english": "Come on, Dave.",
+        "chinese": "来吧，戴夫。"
+    },
+    {
+        "start": 134.16,
+        "end": 135.16,
+        "english": "It's a G-rated movie.",
+        "chinese": "这是一个G级电影。"
+    },
+    {
+        "start": 135.16,
+        "end": 137.08,
+        "english": "It's for the kids.",
+        "chinese": "对于孩子们。"
+    },
+    {
+        "start": 137.08,
+        "end": 138.08,
+        "english": "It's not a thriller.",
+        "chinese": "是的，这是一个恐怖片。"
+    },
+    {
+        "start": 138.08,
+        "end": 139.76,
+        "english": "Well, that's just it.",
+        "chinese": "好的，这是唯一的问题。"
+    },
+    {
+        "start": 139.76,
+        "end": 141.84,
+        "english": "It did have some very dramatic and intense scenes.",
+        "chinese": "它确实有相当戏剧性和紧张的场景。"
+    },
+    {
+        "start": 141.84,
+        "end": 146.76,
+        "english": "For example, when Mufasa dies or the dark grim portrayal of Scar.",
+        "chinese": "例如，当莫桑比克王亚瑟·马库萨（Mufasa）去世或者黑暗的、描绘为沙纳的塞拉（Scar）的丑陋形象。"
+    },
+    {
+        "start": 146.76,
+        "end": 148.92000000000002,
+        "english": "Even so, the film is linear.",
+        "chinese": "即使如此，这部电影是线性的。"
+    },
+    {
+        "start": 148.92000000000002,
+        "end": 150.24,
+        "english": "Mufasa dies.",
+        "chinese": "马萨死了。"
+    },
+    {
+        "start": 150.24,
+        "end": 152.0,
+        "english": "Simba runs away thinking it's his fault.",
+        "chinese": "狮子跑掉了，它以为是它的错。"
+    },
+    {
+        "start": 152.0,
+        "end": 154.44,
+        "english": "Fas and love and returns to retake what's rightfully his.",
+        "chinese": "fas 和爱，以及回到把应该属于自己的东西还回来。"
+    },
+    {
+        "start": 154.44,
+        "end": 156.32,
+        "english": "It's just too cliche.",
+        "chinese": "它太 cliché了。"
+    },
+    {
+        "start": 156.32,
+        "end": 157.32,
+        "english": "How can it be cliche?",
+        "chinese": "如何可以这么简单？"
+    },
+    {
+        "start": 157.32,
+        "end": 159.12,
+        "english": "It's a fable.",
+        "chinese": "这是一个寓言。"
+    },
+    {
+        "start": 159.12,
+        "end": 161.08,
+        "english": "It's telling a time-honored story.",
+        "chinese": "它讲述了一个悠久的故事。"
+    },
+    {
+        "start": 161.08,
+        "end": 165.36,
+        "english": "The movie makes a point of how the hunger of power leads to corruption and teaches children",
+        "chinese": "电影强调权力的欲望导致腐败，并教育孩子们。"
+    },
+    {
+        "start": 165.36,
+        "end": 168.76,
+        "english": "of the value of respect, life and love.",
+        "chinese": "尊重、生命和爱的价值。"
+    },
+    {
+        "start": 168.76,
+        "end": 171.4,
+        "english": "You have always been so soft, dick.",
+        "chinese": "您总是那么温柔，小屁孩。"
+    },
+    {
+        "start": 171.4,
+        "end": 173.56,
+        "english": "Ha ha ha ha.",
+        "chinese": "哈哈哈哈哈哈。"
+    },
+    {
+        "start": 173.56,
+        "end": 174.96,
+        "english": "Open your heart, Dave.",
+        "chinese": "打开你的心，戴维。"
+    },
+    {
+        "start": 174.96,
+        "end": 175.96,
+        "english": "Don't shut us out.",
+        "chinese": "不要拒绝我们。"
+    },
+    {
+        "start": 175.96,
+        "end": 177.92000000000002,
+        "english": "Anyway, that's all for today, folks.",
+        "chinese": "当然，今天就到这里了，朋友们。"
+    },
+    {
+        "start": 177.92000000000002,
+        "end": 180.76,
+        "english": "Join us next time as we talk about how to lose a guy in 10 days.",
+        "chinese": "加入我们，下一次我们将讨论如何在10天内失去一个男人。"
+    },
+    {
+        "start": 180.76,
+        "end": 183.24,
+        "english": "I'm sure you'll love that one, dick.",
+        "chinese": "我保证你会喜欢那个，大头。"
+    },
+    {
+        "start": 183.24,
+        "end": 191.96,
+        "english": "Alright, so the Lion King, one of my all-time favorites.",
+        "chinese": "好的，所以《狮子王》是我一生中最喜爱的电影之一。"
+    },
+    {
+        "start": 191.96,
+        "end": 195.08,
+        "english": "A very good movie and, well, mixed feelings about it, right?",
+        "chinese": "一个非常好的电影，而且，嗯，对这部电影的混合情感挺多的。"
+    },
+    {
+        "start": 195.08,
+        "end": 196.32,
+        "english": "Some people think it's good.",
+        "chinese": "有些人认为是好的。"
+    },
+    {
+        "start": 196.32,
+        "end": 199.64000000000001,
+        "english": "Other people think it's not that good.",
+        "chinese": "其他人都认为这不怎么样。"
+    },
+    {
+        "start": 199.64,
+        "end": 202.23999999999998,
+        "english": "I'm in the good camp, as you know.",
+        "chinese": "我是好心的，你知道吗？"
+    },
+    {
+        "start": 202.23999999999998,
+        "end": 206.79999999999998,
+        "english": "But anyway, there's tons of really useful and quite difficult language here.",
+        "chinese": "但是，这里确实有很多非常有用且相当困难的语言。"
+    },
+    {
+        "start": 206.79999999999998,
+        "end": 212.04,
+        "english": "So why don't we look at that now in Language Takeaway?",
+        "chinese": "所以，我们为什么不现在看看这个在语言分享中？"
+    },
+    {
+        "start": 212.04,
+        "end": 213.44,
+        "english": "Language Takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 213.44,
+        "end": 219.07999999999998,
+        "english": "Alright, on Language Takeaway today, we have five words and we can start with the first",
+        "chinese": "好的，今天在语言分享会上，我们有五个单词，并且可以开始用第一个。"
+    },
+    {
+        "start": 219.07999999999998,
+        "end": 220.07999999999998,
+        "english": "one.",
+        "chinese": "一。"
+    },
+    {
+        "start": 220.07999999999998,
+        "end": 224.6,
+        "english": "So the critic, the first critic said that this was a movie depicting man's eternal greed",
+        "chinese": "所以，第一个批评家说这部电影描绘了人类永恒的贪婪。"
+    },
+    {
+        "start": 224.6,
+        "end": 225.92,
+        "english": "for power.",
+        "chinese": "对于电力。"
+    },
+    {
+        "start": 225.92,
+        "end": 226.92,
+        "english": "Depicting.",
+        "chinese": "描绘。 (Tā qìng.)"
+    },
+    {
+        "start": 226.92,
+        "end": 227.92,
+        "english": "Too depicting.",
+        "chinese": "太描绘。"
+    },
+    {
+        "start": 227.92,
+        "end": 228.92,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 229.2,
+        "end": 234.35999999999999,
+        "english": "This word depicting, it sounds a little bit strange, so before we explain it, let's take",
+        "chinese": "这个表示的词听起来有点奇怪，所以我们先解释一下。"
+    },
+    {
+        "start": 234.35999999999999,
+        "end": 237.6,
+        "english": "a look at some examples.",
+        "chinese": "看一些例子。"
+    },
+    {
+        "start": 237.6,
+        "end": 240.11999999999998,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 240.11999999999998,
+        "end": 244.44,
+        "english": "I don't really like the way that novel depicted the role of women in society.",
+        "chinese": "我不喜欢那个小说描绘了社会对女性的角色。"
+    },
+    {
+        "start": 244.44,
+        "end": 248.39999999999998,
+        "english": "It was pretty sexist.",
+        "chinese": "很不绅士。"
+    },
+    {
+        "start": 248.39999999999998,
+        "end": 249.39999999999998,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我进行中文翻译。)"
+    },
+    {
+        "start": 249.39999999999998,
+        "end": 257.28,
+        "english": "A film depicting the realities of war very accurately.",
+        "chinese": "一个描绘战争真实面貌的电影非常准确。"
+    },
+    {
+        "start": 257.28,
+        "end": 260.15999999999997,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 260.15999999999997,
+        "end": 265.11999999999995,
+        "english": "So this image here is depicting some of the most well-known scenes from Australian history.",
+        "chinese": "所以这个图像描绘了澳大利亚历史上的许多最著名场景。"
+    },
+    {
+        "start": 265.11999999999995,
+        "end": 268.52,
+        "english": "Alright, so depicting.",
+        "chinese": "好的，所以描绘。"
+    },
+    {
+        "start": 268.52,
+        "end": 272.44,
+        "english": "I can basically understand that this means to show something.",
+        "chinese": "我可以说，这表示要展示什么。"
+    },
+    {
+        "start": 272.44,
+        "end": 279.28,
+        "english": "Now we can notice that the word depicting has this short little word picked in there that",
+        "chinese": "现在我们可以注意到，这个单词里有一个短小的词被选中了。"
+    },
+    {
+        "start": 279.28,
+        "end": 281.0,
+        "english": "sounds like picture.",
+        "chinese": "声音好像图片。"
+    },
+    {
+        "start": 281.0,
+        "end": 286.67999999999995,
+        "english": "And when we think about depicting, we're often thinking about in a picture or in a book",
+        "chinese": "当我们在讨论描绘时，我们常常是在画图或写书。"
+    },
+    {
+        "start": 286.68,
+        "end": 287.68,
+        "english": "or in a painting.",
+        "chinese": "或者在画中。"
+    },
+    {
+        "start": 287.68,
+        "end": 291.0,
+        "english": "So in this case, the story is depicted in a movie, right?",
+        "chinese": "所以在这个情况下，故事被描绘成电影了。"
+    },
+    {
+        "start": 291.0,
+        "end": 292.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 292.0,
+        "end": 293.0,
+        "english": "So you can see it.",
+        "chinese": "所以你可以看到它。"
+    },
+    {
+        "start": 293.0,
+        "end": 294.0,
+        "english": "It's a picture, basically.",
+        "chinese": "是图，基本上。"
+    },
+    {
+        "start": 294.0,
+        "end": 295.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 295.0,
+        "end": 296.0,
+        "english": "Alright, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 296.0,
+        "end": 301.32,
+        "english": "So, to depict what moving on, the critic also talked about the grim portrayal of the villain",
+        "chinese": "因此，为了描绘移动的影子，评论家还谈到了恶人的惨淡形象。"
+    },
+    {
+        "start": 301.32,
+        "end": 302.68,
+        "english": "of the movie, Scar.",
+        "chinese": "电影中的角色，Scar。"
+    },
+    {
+        "start": 302.68,
+        "end": 303.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 303.68,
+        "end": 305.68,
+        "english": "So grim portrayal.",
+        "chinese": "所以阴郁的描绘。"
+    },
+    {
+        "start": 305.68,
+        "end": 307.2,
+        "english": "A grim portrayal.",
+        "chinese": "一个阴郁的描绘。"
+    },
+    {
+        "start": 307.2,
+        "end": 310.36,
+        "english": "Okay, let's look at the word grim first.",
+        "chinese": "好的，让我们来看看“阴沉”的第一个音节。"
+    },
+    {
+        "start": 310.36,
+        "end": 315.56,
+        "english": "When something is grim, it's really unpleasant or uncomfortable or even shocking to think",
+        "chinese": "当某事是艰难的、不舒服或甚至令人震惊的时候，可以说它真的很不愉快或者不舒服。"
+    },
+    {
+        "start": 315.56,
+        "end": 316.56,
+        "english": "about.",
+        "chinese": "关于。"
+    },
+    {
+        "start": 316.56,
+        "end": 318.56,
+        "english": "Okay, so something that is grim.",
+        "chinese": "好的，所以有点让人感到压抑。"
+    },
+    {
+        "start": 318.56,
+        "end": 320.28000000000003,
+        "english": "Now what about portrayal?",
+        "chinese": "现在怎么办？"
+    },
+    {
+        "start": 320.28000000000003,
+        "end": 326.68,
+        "english": "Really close to depict a portrayal is something that shows or describes something, especially",
+        "chinese": "真的很近，就是描述或展示某物的手段。"
+    },
+    {
+        "start": 326.68,
+        "end": 329.28000000000003,
+        "english": "like in a book or in a picture or in a play.",
+        "chinese": "在书、画或戏剧中。"
+    },
+    {
+        "start": 329.28000000000003,
+        "end": 330.96,
+        "english": "Okay, so a portrayal.",
+        "chinese": "好的，所以一个表现。"
+    },
+    {
+        "start": 330.96,
+        "end": 334.0,
+        "english": "I guess we can relate it again to a portrait.",
+        "chinese": "我猜测我们可以再次把它联系到一幅肖像。"
+    },
+    {
+        "start": 334.0,
+        "end": 335.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 335.0,
+        "end": 336.0,
+        "english": "Alright, so portrayal.",
+        "chinese": "好的，所以描绘。"
+    },
+    {
+        "start": 336.0,
+        "end": 339.48,
+        "english": "Now we can also use this as a verb to portray.",
+        "chinese": "现在我们也可以用这个作为动词来表现。"
+    },
+    {
+        "start": 339.48,
+        "end": 342.88,
+        "english": "So this movie portrays man's eternal greed.",
+        "chinese": "所以这部电影描绘了人类永恒的贪婪。"
+    },
+    {
+        "start": 342.88,
+        "end": 343.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.88,
+        "end": 347.12,
+        "english": "So we can use this as a noun or as a verb.",
+        "chinese": "所以我们可以用这个作为名词或作为动词。"
+    },
+    {
+        "start": 347.12,
+        "end": 348.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 348.12,
+        "end": 352.2,
+        "english": "So moving on with our third word today, we have an enchanting movie.",
+        "chinese": "所以，让我们继续今天的第三句话，我们有一个令人陶醉的电影。"
+    },
+    {
+        "start": 352.2,
+        "end": 353.2,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 353.2,
+        "end": 354.71999999999997,
+        "english": "The story was simply enchanting.",
+        "chinese": "故事简单迷人。"
+    },
+    {
+        "start": 354.71999999999997,
+        "end": 362.64,
+        "english": "Okay, so if something is enchanting, it's really attractive and beautiful and interesting",
+        "chinese": "好的，如果某件东西是迷人的，它真的很吸引人、漂亮和有趣。"
+    },
+    {
+        "start": 362.64,
+        "end": 364.4,
+        "english": "and it holds your attention.",
+        "chinese": "这句话的中文翻译是：“它让你着迷。”"
+    },
+    {
+        "start": 364.4,
+        "end": 366.15999999999997,
+        "english": "Okay, it holds your attention.",
+        "chinese": "好的，它抓住了你的注意力。"
+    },
+    {
+        "start": 366.15999999999997,
+        "end": 367.92,
+        "english": "So it's something very nice.",
+        "chinese": "所以它是一件非常美好的事情。"
+    },
+    {
+        "start": 367.92,
+        "end": 369.76,
+        "english": "Something that is enchanting has to be nice.",
+        "chinese": "要被喜欢的东西是好的。"
+    },
+    {
+        "start": 369.76,
+        "end": 370.76,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 370.76,
+        "end": 372.56,
+        "english": "And it has the sense of magic around it.",
+        "chinese": "而且它有一种魔力环绕在周围。"
+    },
+    {
+        "start": 372.56,
+        "end": 373.88,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 373.88,
+        "end": 376.08,
+        "english": "So an enchanting moment.",
+        "chinese": "所以一段美妙的时刻。"
+    },
+    {
+        "start": 376.08,
+        "end": 377.64,
+        "english": "Or an enchanting woman.",
+        "chinese": "一个美丽的女人。"
+    },
+    {
+        "start": 377.64,
+        "end": 378.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 378.64,
+        "end": 380.76,
+        "english": "And now what about our next word?",
+        "chinese": "现在我们来谈谈我们的下一个单词。"
+    },
+    {
+        "start": 380.76,
+        "end": 382.08,
+        "english": "It's very...",
+        "chinese": "太好了！"
+    },
+    {
+        "start": 382.08,
+        "end": 383.16,
+        "english": "And what about our next word?",
+        "chinese": "And 什么下一个词？"
+    },
+    {
+        "start": 383.16,
+        "end": 386.28000000000003,
+        "english": "It's French actually, but we use it in English.",
+        "chinese": "是法语，但我们用英语。"
+    },
+    {
+        "start": 386.28000000000003,
+        "end": 387.28000000000003,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 387.28000000000003,
+        "end": 390.52,
+        "english": "So the critics had that this story was cliche.",
+        "chinese": "所以评论家说，这个故事是陈腔滥调。"
+    },
+    {
+        "start": 390.52,
+        "end": 391.52,
+        "english": "Cliche.",
+        "chinese": "陈词滥调。"
+    },
+    {
+        "start": 391.52,
+        "end": 392.52,
+        "english": "Cliche.",
+        "chinese": "陈词滥调。"
+    },
+    {
+        "start": 392.52,
+        "end": 394.88,
+        "english": "Okay, so we hear this all the time.",
+        "chinese": "好的，所以我们经常听到这个。"
+    },
+    {
+        "start": 394.88,
+        "end": 396.12,
+        "english": "What is a cliche?",
+        "chinese": "在汉语中，“cliche”可以翻译为“陈词滥调”。例如："
+    },
+    {
+        "start": 396.12,
+        "end": 402.32,
+        "english": "Well, basically a cliche is a phrase or an idea that is used so often.",
+        "chinese": "嗯，基本上一个陈词滥调就是这么个东西。"
+    },
+    {
+        "start": 402.32,
+        "end": 406.12,
+        "english": "It loses its meaning or importance or interest.",
+        "chinese": "它失去了它的意义或重要性或兴趣。"
+    },
+    {
+        "start": 406.12,
+        "end": 407.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 407.12,
+        "end": 412.8,
+        "english": "So can you give us some examples of a cliche moment or maybe a phrase that's cliche?",
+        "chinese": "所以你能给我们一些例子，或者也许一个 cliché 的时刻或一句 cliché 的话吗？"
+    },
+    {
+        "start": 412.8,
+        "end": 414.12,
+        "english": "Okay, well how about this one?",
+        "chinese": "好的，那么这个怎么样呢？"
+    },
+    {
+        "start": 414.12,
+        "end": 419.08,
+        "english": "When you're breaking up with your boyfriend and you say, honey, it's not you, it's me.",
+        "chinese": "当你和你的男朋友分手时，你可以说：“宝贝，不是我，是你们。”"
+    },
+    {
+        "start": 419.08,
+        "end": 420.71999999999997,
+        "english": "Okay, that's cliche.",
+        "chinese": "好的，这就是陈词滥调。"
+    },
+    {
+        "start": 420.71999999999997,
+        "end": 421.71999999999997,
+        "english": "It's typical.",
+        "chinese": "通常。"
+    },
+    {
+        "start": 421.71999999999997,
+        "end": 427.52,
+        "english": "Yeah, or maybe a cliche portrayal of a French man would be a guy riding a bike with a",
+        "chinese": "是的，或者也许一个法国男人的 cliché 画风会是一个骑自行车的男人。"
+    },
+    {
+        "start": 427.52,
+        "end": 431.32,
+        "english": "baguette, smoking a cigarette and with a beret on his head.",
+        "chinese": "面包卷、吸了一根香烟，戴着帽子在头上。"
+    },
+    {
+        "start": 431.32,
+        "end": 433.04,
+        "english": "Okay, that's a cliche portrayal.",
+        "chinese": "好的，这就是一个陈词滥调。"
+    },
+    {
+        "start": 433.04,
+        "end": 434.04,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 434.04,
+        "end": 435.04,
+        "english": "So it's common.",
+        "chinese": "所以，这是普遍的。"
+    },
+    {
+        "start": 435.04,
+        "end": 437.28,
+        "english": "It's even to a certain point a little bit stereotypical.",
+        "chinese": "它甚至到了某种程度上有点过于刻板。"
+    },
+    {
+        "start": 437.28,
+        "end": 438.28,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 438.28,
+        "end": 439.28,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 439.28,
+        "end": 440.56,
+        "english": "And what about our last word?",
+        "chinese": "And what about our last word? (翻译成中文)"
+    },
+    {
+        "start": 440.56,
+        "end": 443.48,
+        "english": "Well they describe this story as a fable.",
+        "chinese": "他们把这个故事描述为寓言。"
+    },
+    {
+        "start": 443.48,
+        "end": 444.48,
+        "english": "Fable.",
+        "chinese": "故事。"
+    },
+    {
+        "start": 444.48,
+        "end": 445.48,
+        "english": "A fable.",
+        "chinese": "一个寓言。"
+    },
+    {
+        "start": 445.48,
+        "end": 449.96,
+        "english": "Okay, so when we were small, we all read fables.",
+        "chinese": "好的，所以当我们小的时候，我们都读寓言。"
+    },
+    {
+        "start": 449.96,
+        "end": 450.96,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 450.96,
+        "end": 455.32,
+        "english": "They are stories about animals that are used to teach people lesson.",
+        "chinese": "他们讲述的是关于动物的故事，用来教导人们道理。"
+    },
+    {
+        "start": 455.32,
+        "end": 457.84,
+        "english": "Okay, so a fable teaches you a lesson.",
+        "chinese": "好的，所以一个寓言教你了一个教训。"
+    },
+    {
+        "start": 457.84,
+        "end": 461.96,
+        "english": "I think the most famous one is the one of the tortoise and the hare, right?",
+        "chinese": "我认为最著名的莫过于乌龟和兔子的故事了。"
+    },
+    {
+        "start": 461.96,
+        "end": 464.44,
+        "english": "Yeah, and another good one would be the three little pigs.",
+        "chinese": "是的，还有一个好点子就是三只小猪。"
+    },
+    {
+        "start": 464.44,
+        "end": 466.11999999999995,
+        "english": "Okay, that's also a fable.",
+        "chinese": "好的，这也是一个寓言。"
+    },
+    {
+        "start": 466.11999999999995,
+        "end": 467.11999999999995,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 467.11999999999995,
+        "end": 472.71999999999997,
+        "english": "Okay, so we've looked at these five great words and now it's time for us to move on to",
+        "chinese": "好的，我们现在已经看了这五句话，并且现在是时候转而讨论了。"
+    },
+    {
+        "start": 472.71999999999997,
+        "end": 473.91999999999996,
+        "english": "putting it together.",
+        "chinese": "将它们组合起来。"
+    },
+    {
+        "start": 473.91999999999996,
+        "end": 477.32,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 477.32,
+        "end": 482.64,
+        "english": "Okay, here we're going to look at some phrases that you can use in a bunch of different",
+        "chinese": "好的，我们将对一些在不同中文语境中可以使用的短语进行分析。"
+    },
+    {
+        "start": 482.64,
+        "end": 487.32,
+        "english": "ways to help you criticize or give your opinion about a piece of art.",
+        "chinese": "方法帮助你批评或表达对一件艺术品的看法。"
+    },
+    {
+        "start": 487.32,
+        "end": 488.96,
+        "english": "Like a movie or a book or whatever.",
+        "chinese": "像电影、一本书或什么。"
+    },
+    {
+        "start": 488.96,
+        "end": 491.96,
+        "english": "Okay, so let's start right away with our first word.",
+        "chinese": "好的，让我们从我们的第一个词开始。"
+    },
+    {
+        "start": 491.96,
+        "end": 496.76,
+        "english": "So the film critic asked, what is your impression of this film?",
+        "chinese": "所以电影评论家问，你对这部电影的印象如何？"
+    },
+    {
+        "start": 496.76,
+        "end": 499.24,
+        "english": "What's your impression of?",
+        "chinese": "您的印象如何？"
+    },
+    {
+        "start": 499.24,
+        "end": 501.08,
+        "english": "What's your impression of something, right?",
+        "chinese": "你的看法如何，对吗？"
+    },
+    {
+        "start": 501.08,
+        "end": 502.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 502.08,
+        "end": 508.68,
+        "english": "Alright, so before we get into explaining impression, let's listen to some more examples.",
+        "chinese": "好的，那么我们先听听一些例子，再谈谈印象。"
+    },
+    {
+        "start": 508.68,
+        "end": 511.12,
+        "english": "Example 1.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 511.12,
+        "end": 517.24,
+        "english": "I don't know where, but I have the impression that we've met before.",
+        "chinese": "我不太知道，但我感觉我们之前有过交集。"
+    },
+    {
+        "start": 517.24,
+        "end": 520.44,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译粘贴在这里，以便我能够更好地帮助您。)"
+    },
+    {
+        "start": 520.44,
+        "end": 525.64,
+        "english": "I get the impression that he's a very organized person.",
+        "chinese": "我感觉他是个非常有组织的人。"
+    },
+    {
+        "start": 525.64,
+        "end": 528.88,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 528.88,
+        "end": 532.8,
+        "english": "Somehow Jim got the impression that I was guy to determine that.",
+        "chinese": "有些地方，吉姆觉得我是个能决定的人。"
+    },
+    {
+        "start": 532.8,
+        "end": 539.32,
+        "english": "Okay, so I can see that this means basically what's your opinion or how do you feel about",
+        "chinese": "好的，所以我可以看到这 essentially means basically what your opinion is or how do you feel about."
+    },
+    {
+        "start": 539.32,
+        "end": 540.32,
+        "english": "something?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 540.32,
+        "end": 544.32,
+        "english": "Okay, so you can have an impression of something or of someone.",
+        "chinese": "好的，你可以对某事或某人有一个印象。"
+    },
+    {
+        "start": 544.32,
+        "end": 545.32,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 545.32,
+        "end": 546.32,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 546.32,
+        "end": 547.32,
+        "english": "What about the next word?",
+        "chinese": "你有什么建议吗？"
+    },
+    {
+        "start": 547.32,
+        "end": 553.32,
+        "english": "Well, the critic Richard Clark said that it was a really enjoyable film even despite the",
+        "chinese": "好的，评论家理查德·克拉克说，尽管这部电影确实很有趣，但还是值得一看。"
+    },
+    {
+        "start": 553.32,
+        "end": 555.5600000000001,
+        "english": "accusations of plagiarism.",
+        "chinese": "指控抄袭。"
+    },
+    {
+        "start": 555.5600000000001,
+        "end": 558.48,
+        "english": "Okay, so now we have an interesting phrase here.",
+        "chinese": "好的，现在我们有了一个有趣的话题。"
+    },
+    {
+        "start": 558.48,
+        "end": 561.88,
+        "english": "The accusations of plagiarism.",
+        "chinese": "这是一句英文，即“抄袭指控”。在中文中可以翻译为："
+    },
+    {
+        "start": 561.88,
+        "end": 562.88,
+        "english": "Accusations of plagiarism.",
+        "chinese": "指控抄袭。"
+    },
+    {
+        "start": 562.88,
+        "end": 564.9200000000001,
+        "english": "Okay, so accusations is a noun, right?",
+        "chinese": "是的，指控是一个名词。"
+    },
+    {
+        "start": 564.9200000000001,
+        "end": 567.2800000000001,
+        "english": "Right, it's the action of accusing.",
+        "chinese": "是的，这是对某人进行指责。"
+    },
+    {
+        "start": 567.2800000000001,
+        "end": 568.88,
+        "english": "Okay, of blaming somebody.",
+        "chinese": "好的，指责某人。"
+    },
+    {
+        "start": 568.88,
+        "end": 569.88,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 569.88,
+        "end": 571.32,
+        "english": "Alright, and what about plagiarism?",
+        "chinese": "好的，至于抄袭？"
+    },
+    {
+        "start": 571.32,
+        "end": 573.08,
+        "english": "This is an academic term.",
+        "chinese": "这个是学术术语。"
+    },
+    {
+        "start": 573.08,
+        "end": 578.1600000000001,
+        "english": "If you plagiarize, you copy someone's work and take credit for it.",
+        "chinese": "如果你抄袭，你就复制了别人的作品，并且自认为是自己的。"
+    },
+    {
+        "start": 578.1600000000001,
+        "end": 582.76,
+        "english": "Okay, so if I copy somebody's book and I say, I wrote it, then that's plagiarism.",
+        "chinese": "好的，如果我复制了某人的书，并且说我写过这本书，那么这就是抄袭。"
+    },
+    {
+        "start": 582.76,
+        "end": 584.0,
+        "english": "Yeah, that's pretty bad.",
+        "chinese": "是的，那可不太好。"
+    },
+    {
+        "start": 584.0,
+        "end": 585.0,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 585.0,
+        "end": 586.0,
+        "english": "So, accusations of plagiarism.",
+        "chinese": "所以，指控抄袭。"
+    },
+    {
+        "start": 586.0,
+        "end": 589.6800000000001,
+        "english": "Now we can use this phrase, accusations of something in a bunch of different ways.",
+        "chinese": "现在我们可以使用这个短语，指控某事在各种方式上。"
+    },
+    {
+        "start": 589.6800000000001,
+        "end": 591.44,
+        "english": "So Marko, let's have an example.",
+        "chinese": "所以马克，让我们举个例子。"
+    },
+    {
+        "start": 591.44,
+        "end": 598.12,
+        "english": "Alright, so for example, we can say he was cleared of all accusations of tax evasion.",
+        "chinese": "好的，例如，我们可以这样表达：“他被清除了所有关于税务逃税的指控。”"
+    },
+    {
+        "start": 598.12,
+        "end": 599.2800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 599.2800000000001,
+        "end": 602.36,
+        "english": "He denied accusations of cheating on his wife.",
+        "chinese": "他否认了他妻子的欺骗行为。"
+    },
+    {
+        "start": 602.52,
+        "end": 603.52,
+        "english": "Alright, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 603.52,
+        "end": 605.5600000000001,
+        "english": "So, accusations.",
+        "chinese": "所以，指控。"
+    },
+    {
+        "start": 605.5600000000001,
+        "end": 611.32,
+        "english": "And now moving on to the final part of putting it together, we have this word, lax.",
+        "chinese": "现在转到最后部分组装这个部件，我们有这个字，松弛。"
+    },
+    {
+        "start": 611.32,
+        "end": 613.6800000000001,
+        "english": "The film lacks a certain originality.",
+        "chinese": "电影缺乏一定的原创性。"
+    },
+    {
+        "start": 613.6800000000001,
+        "end": 617.6800000000001,
+        "english": "Okay, so the film lacks a certain originality.",
+        "chinese": "好的，这部电影缺乏一定的原创性。"
+    },
+    {
+        "start": 617.6800000000001,
+        "end": 619.12,
+        "english": "What does he mean by that?",
+        "chinese": "这句话的中文翻译是：“他到底在说什么？”"
+    },
+    {
+        "start": 619.12,
+        "end": 620.92,
+        "english": "It doesn't have enough of.",
+        "chinese": "它不够多。"
+    },
+    {
+        "start": 620.92,
+        "end": 624.72,
+        "english": "Okay, so if you are lacking something, you don't have enough of it.",
+        "chinese": "好的，如果你缺少什么，你就没有足够的了。"
+    },
+    {
+        "start": 624.72,
+        "end": 625.96,
+        "english": "Or you don't have it at all.",
+        "chinese": "或者你没有它。"
+    },
+    {
+        "start": 625.96,
+        "end": 629.6,
+        "english": "Alright, so can you give us some more examples of how we can use lax?",
+        "chinese": "好的，那么你能给我们提供一些如何使用宽松的例子吗？"
+    },
+    {
+        "start": 629.6800000000001,
+        "end": 634.0400000000001,
+        "english": "Okay, the same way it's used in the dialogue, our team lacks the appropriate talent to",
+        "chinese": "好的，就像对话中一样，我们的团队缺乏合适的才能。"
+    },
+    {
+        "start": 634.0400000000001,
+        "end": 635.6800000000001,
+        "english": "complete this project.",
+        "chinese": "完成这个项目。"
+    },
+    {
+        "start": 635.6800000000001,
+        "end": 641.32,
+        "english": "Okay, or I can say our school lacks infrastructure for so many students.",
+        "chinese": "好的，或者我可以这么说我们的学校缺乏基础设施，以至于有很多学生无法正常学习。"
+    },
+    {
+        "start": 641.32,
+        "end": 644.8000000000001,
+        "english": "Or we can also say infrastructure is lacking at our school.",
+        "chinese": "我们也可以说我们的学校基础设施不足。"
+    },
+    {
+        "start": 644.8000000000001,
+        "end": 647.64,
+        "english": "Okay, so you can use it in those two ways, right?",
+        "chinese": "是的，您可以在这两种方式中使用它。"
+    },
+    {
+        "start": 647.64,
+        "end": 650.12,
+        "english": "You can use it as a gerund or as a verb.",
+        "chinese": "您可以将其作为动词或作为动词使用。"
+    },
+    {
+        "start": 650.12,
+        "end": 651.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 651.12,
+        "end": 652.44,
+        "english": "Okay, lots of great language here.",
+        "chinese": "好的，这里有很多好语言。"
+    },
+    {
+        "start": 652.44,
+        "end": 656.0,
+        "english": "And why don't we hear it one more time in context with the dialogue?",
+        "chinese": "我们为什么不重复一下这个话题呢？"
+    },
+    {
+        "start": 659.6,
+        "end": 667.8000000000001,
+        "english": "Welcome back, movie lovers, to another premier movie review.",
+        "chinese": "欢迎再次观看电影，电影爱好者们，到此为止。"
+    },
+    {
+        "start": 667.8000000000001,
+        "end": 673.0400000000001,
+        "english": "My name is Richard Clark and I am joined today by the very erudite David Watson.",
+        "chinese": "我的名字是理查德·克拉克，今天我与非常渊博的大卫·沃森先生一起出席。"
+    },
+    {
+        "start": 673.0400000000001,
+        "end": 674.0400000000001,
+        "english": "Thank you, Dick.",
+        "chinese": "谢谢，Dick。"
+    },
+    {
+        "start": 674.0400000000001,
+        "end": 676.88,
+        "english": "Today we are going to talk about the movie Lion King.",
+        "chinese": "今天我们将谈论电影《狮子王》。"
+    },
+    {
+        "start": 676.88,
+        "end": 679.0400000000001,
+        "english": "Tell me what is your impression of this film?",
+        "chinese": "请告诉我对这部电影的 impression。"
+    },
+    {
+        "start": 679.0400000000001,
+        "end": 681.72,
+        "english": "Well, I think this film is simply a fable.",
+        "chinese": "嗯，我认为这部电影只是一个寓言。"
+    },
+    {
+        "start": 681.72,
+        "end": 686.88,
+        "english": "The picked-ing man's eternal greed for power, and in my opinion, it's a very fine film.",
+        "chinese": "选中的男人的永恒的贪婪和在我看来，这是一个非常好的电影。"
+    },
+    {
+        "start": 686.88,
+        "end": 691.96,
+        "english": "Despite the accusations of plagiarism of traditional folktales from other countries, the musical",
+        "chinese": "尽管其他国家对传统民间故事的指控，但音乐仍然可以继续发展。"
+    },
+    {
+        "start": 691.96,
+        "end": 693.24,
+        "english": "score was amazing.",
+        "chinese": "评分真是太棒了。"
+    },
+    {
+        "start": 693.24,
+        "end": 696.72,
+        "english": "The animation was very well done and the story was simply enchanting.",
+        "chinese": "动画做得很好，故事非常吸引人。"
+    },
+    {
+        "start": 696.72,
+        "end": 698.2,
+        "english": "Well, I think otherwise.",
+        "chinese": "嗯，我认为不然。"
+    },
+    {
+        "start": 698.2,
+        "end": 702.08,
+        "english": "Even though the animation was technically strong, and as you say, the score and songs performed",
+        "chinese": "即使动画技术出色，你所说的曲子和歌曲也表现出了"
+    },
+    {
+        "start": 702.08,
+        "end": 703.56,
+        "english": "by Elton John were great.",
+        "chinese": "由埃尔顿·约翰演唱的歌曲是很好的。"
+    },
+    {
+        "start": 703.56,
+        "end": 705.76,
+        "english": "The film lacks certain originality.",
+        "chinese": "电影缺乏某些原创性。"
+    },
+    {
+        "start": 705.76,
+        "end": 707.0,
+        "english": "It lacked heart.",
+        "chinese": "它没有心。"
+    },
+    {
+        "start": 707.0,
+        "end": 709.8,
+        "english": "And I would dare to say it was too predictable.",
+        "chinese": "而且我敢说，它太 predictable了。"
+    },
+    {
+        "start": 709.8,
+        "end": 710.8,
+        "english": "Predictable?",
+        "chinese": "预测的？"
+    },
+    {
+        "start": 710.8,
+        "end": 711.8,
+        "english": "How?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 711.8,
+        "end": 712.8,
+        "english": "Come on, Dave.",
+        "chinese": "来吧，戴夫。"
+    },
+    {
+        "start": 712.8,
+        "end": 714.36,
+        "english": "It's a g-rated movie.",
+        "chinese": "这是一个低俗电影。"
+    },
+    {
+        "start": 714.36,
+        "end": 715.36,
+        "english": "It's for the kids.",
+        "chinese": "对于孩子们。"
+    },
+    {
+        "start": 715.36,
+        "end": 716.84,
+        "english": "It's not a thriller.",
+        "chinese": "不是悬疑。"
+    },
+    {
+        "start": 716.84,
+        "end": 718.44,
+        "english": "Well, that's just it.",
+        "chinese": "好的，这是唯一的问题。"
+    },
+    {
+        "start": 718.44,
+        "end": 722.8000000000001,
+        "english": "It did have some very dramatic and intense scenes, for example, when Mufasa dies or the",
+        "chinese": "它确实有一些非常戏剧性和激烈的场景，例如，在马萨德去世或剧情发生重大转折时。"
+    },
+    {
+        "start": 722.8000000000001,
+        "end": 725.4,
+        "english": "dark grim portrayal of Scar.",
+        "chinese": "黑暗阴郁的描绘形象，Scar。"
+    },
+    {
+        "start": 725.4,
+        "end": 727.5600000000001,
+        "english": "Even so, the film is linear.",
+        "chinese": "即使如此，这部电影是线性的。"
+    },
+    {
+        "start": 727.5600000000001,
+        "end": 728.88,
+        "english": "Mufasa dies.",
+        "chinese": "马萨死。"
+    },
+    {
+        "start": 728.88,
+        "end": 730.6800000000001,
+        "english": "Simba runs away thinking it's his fault.",
+        "chinese": "狮子跑掉了，它以为是它的错。"
+    },
+    {
+        "start": 730.6800000000001,
+        "end": 733.08,
+        "english": "Falsen love and returns to retake what's rightfully his.",
+        "chinese": "假爱和返回，以收回属于自己的那份。"
+    },
+    {
+        "start": 733.08,
+        "end": 734.96,
+        "english": "It's just too cliche.",
+        "chinese": "它太 cliché了。"
+    },
+    {
+        "start": 734.96,
+        "end": 736.2800000000001,
+        "english": "How can it be cliche?",
+        "chinese": "如何能说得很简单？"
+    },
+    {
+        "start": 736.2800000000001,
+        "end": 737.2800000000001,
+        "english": "It's a fable.",
+        "chinese": "这是一个寓言。"
+    },
+    {
+        "start": 737.2800000000001,
+        "end": 739.76,
+        "english": "It's telling a time-honored story.",
+        "chinese": "它是流传下来的古老故事。"
+    },
+    {
+        "start": 739.76,
+        "end": 744.0,
+        "english": "The movie makes a point of how the hunger of power leads to corruption and teaches children",
+        "chinese": "电影强调权力的欲望导致腐败，并教育孩子们。"
+    },
+    {
+        "start": 744.0,
+        "end": 747.44,
+        "english": "of the value of respect, life and love.",
+        "chinese": "价值的尊重、生命和爱。"
+    },
+    {
+        "start": 747.44,
+        "end": 752.24,
+        "english": "You have always been so soft, Dick.",
+        "chinese": "您总是那么温柔，Dick。"
+    },
+    {
+        "start": 752.24,
+        "end": 753.24,
+        "english": "Open your heart, Dave.",
+        "chinese": "打开你的心，戴维。"
+    },
+    {
+        "start": 753.24,
+        "end": 754.56,
+        "english": "Don't shut us out.",
+        "chinese": "不要拒绝我们。"
+    },
+    {
+        "start": 754.56,
+        "end": 756.6,
+        "english": "Anyway, that's all for today, folks.",
+        "chinese": "当然，今天就到这里了，朋友们。"
+    },
+    {
+        "start": 756.6,
+        "end": 759.4,
+        "english": "Join us next time as we talk about how to lose a guy in 10 days.",
+        "chinese": "加入我们，下一次我们将谈论如何在10天内失去一个男人。"
+    },
+    {
+        "start": 759.4,
+        "end": 761.84,
+        "english": "I'm sure you'll love that one, Dick.",
+        "chinese": "我保证你会喜欢那个，Dick。"
+    },
+    {
+        "start": 761.84,
+        "end": 766.12,
+        "english": "Alright, so a good movie.",
+        "chinese": "好的，那么一个好的电影。"
+    },
+    {
+        "start": 766.12,
+        "end": 767.92,
+        "english": "What do you think about the Lion King?",
+        "chinese": "您对《狮子王》有什么看法？"
+    },
+    {
+        "start": 767.92,
+        "end": 769.48,
+        "english": "What do you think about his critique?",
+        "chinese": "您对他的批评怎么看？"
+    },
+    {
+        "start": 769.48,
+        "end": 772.16,
+        "english": "Well, I am with Dick on this one.",
+        "chinese": "很好，我和迪克一起在这个问题上。"
+    },
+    {
+        "start": 772.16,
+        "end": 773.9599999999999,
+        "english": "I think that this is a great film.",
+        "chinese": "我认为这是一部很好的电影。"
+    },
+    {
+        "start": 773.9599999999999,
+        "end": 777.36,
+        "english": "It was one of my favorites and I've seen it about five billion times.",
+        "chinese": "这是我最喜欢的一张照片，我已经看了五亿次。"
+    },
+    {
+        "start": 777.36,
+        "end": 778.36,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 778.36,
+        "end": 779.36,
+        "english": "You really liked it.",
+        "chinese": "您真的很喜欢它。"
+    },
+    {
+        "start": 779.36,
+        "end": 780.68,
+        "english": "But I'm not interested in my opinion.",
+        "chinese": "但是，我没有兴趣在我的观点。"
+    },
+    {
+        "start": 780.68,
+        "end": 784.28,
+        "english": "I want to hear criticisms and film criticisms from our users.",
+        "chinese": "我要听听我们的用户对批评和电影批评的反馈。"
+    },
+    {
+        "start": 784.28,
+        "end": 789.6,
+        "english": "Right, so come to our website at EnglishPod.com where you can leave your questions, your comments,",
+        "chinese": "是的，所以请访问我们的网站 www.englishpod.com。在这里，您可以留下您的问题和评论。"
+    },
+    {
+        "start": 789.6,
+        "end": 795.76,
+        "english": "and also any criticisms on this particular movie or maybe the other one that we mentioned,",
+        "chinese": "而且，还有对这部电影或其他电影的任何批评或意见。"
+    },
+    {
+        "start": 795.76,
+        "end": 797.88,
+        "english": "how to lose a guy in 10 days.",
+        "chinese": "如何在10天内失去一个男人？"
+    },
+    {
+        "start": 797.88,
+        "end": 801.4399999999999,
+        "english": "Personally, not so fond of that one, but looking forward to hearing from our users.",
+        "chinese": "个人而言，不太喜欢那个，但期待从我们的用户那里听到。"
+    },
+    {
+        "start": 801.44,
+        "end": 803.96,
+        "english": "Alright, or maybe any other movies you might like.",
+        "chinese": "好的，或者可能有其他你喜欢的电影。"
+    },
+    {
+        "start": 803.96,
+        "end": 807.32,
+        "english": "So come to the website and until next time.",
+        "chinese": "所以，请访问网站，直到下次见。"
+    },
+    {
+        "start": 807.32,
+        "end": 808.32,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

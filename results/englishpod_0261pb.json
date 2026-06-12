@@ -1,0 +1,1826 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.0,
+        "english": "Hello everyone and welcome to EnglishPod.",
+        "chinese": "你好，大家欢迎来到英语有声！"
+    },
+    {
+        "start": 4.0,
+        "end": 5.0,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是Marco。"
+    },
+    {
+        "start": 5.0,
+        "end": 8.4,
+        "english": "My name is Catherine and today we're going to play a game.",
+        "chinese": "我的名字是凯瑟琳，今天我们要玩一个游戏。"
+    },
+    {
+        "start": 8.4,
+        "end": 9.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 9.4,
+        "end": 11.120000000000001,
+        "english": "Today we're going to describe someone's face.",
+        "chinese": "今天我们要描述某人的脸。"
+    },
+    {
+        "start": 11.120000000000001,
+        "end": 14.76,
+        "english": "So we're going to try to guess who that person is.",
+        "chinese": "我们试着猜猜那个人是谁。"
+    },
+    {
+        "start": 14.76,
+        "end": 19.52,
+        "english": "Okay, so there are lots of really great words to describe people's faces in this lesson.",
+        "chinese": "好的，这节课里形容人们脸上的好词真是太多了。"
+    },
+    {
+        "start": 19.52,
+        "end": 23.04,
+        "english": "Let's take a listen to today's dialogue and we'll be back in a moment to talk about",
+        "chinese": "好的，让我们听听今天的对话吧。一会儿我们再来聊聊。"
+    },
+    {
+        "start": 23.04,
+        "end": 23.72,
+        "english": "what's going on.",
+        "chinese": "发生了什么事。"
+    },
+    {
+        "start": 31.0,
+        "end": 32.0,
+        "english": "Let's play a game.",
+        "chinese": "好的，我们来玩个游戏。"
+    },
+    {
+        "start": 32.0,
+        "end": 33.8,
+        "english": "Okay, how about Scrabble?",
+        "chinese": "好的，玩拼字游戏怎么样？"
+    },
+    {
+        "start": 33.8,
+        "end": 34.64,
+        "english": "No, no.",
+        "chinese": "不，不。"
+    },
+    {
+        "start": 34.64,
+        "end": 37.6,
+        "english": "A friend of mine taught me this really fun game.",
+        "chinese": "我一个朋友教我的这个游戏真的很有趣。"
+    },
+    {
+        "start": 37.6,
+        "end": 41.04,
+        "english": "I'm going to describe someone's face and you guess who it is.",
+        "chinese": "我将描述某人的脸，你猜猜是哪个人。"
+    },
+    {
+        "start": 41.04,
+        "end": 42.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 42.04,
+        "end": 43.44,
+        "english": "Let's see.",
+        "chinese": "让我们看看。"
+    },
+    {
+        "start": 43.44,
+        "end": 46.32,
+        "english": "He has a Roman nose,",
+        "chinese": "他有一个罗马鼻子。"
+    },
+    {
+        "start": 46.32,
+        "end": 48.879999999999995,
+        "english": "but she eyebrows and dimples.",
+        "chinese": "但她的眉毛和酒窝。"
+    },
+    {
+        "start": 48.879999999999995,
+        "end": 51.24,
+        "english": "Our cousin Pete, my turn.",
+        "chinese": "我们表弟皮特，我的轮到啦。"
+    },
+    {
+        "start": 51.24,
+        "end": 52.64,
+        "english": "She has a pointy nose,",
+        "chinese": "她有一个尖鼻子。"
+    },
+    {
+        "start": 52.64,
+        "end": 55.04,
+        "english": "sunken eyes and a mole on her chin.",
+        "chinese": "凹陷的双眼和下巴上的一颗痣。"
+    },
+    {
+        "start": 55.04,
+        "end": 56.04,
+        "english": "It rose.",
+        "chinese": "它升起。"
+    },
+    {
+        "start": 56.04,
+        "end": 58.68,
+        "english": "That mole is so huge.",
+        "chinese": "那条痣这么大。"
+    },
+    {
+        "start": 58.72,
+        "end": 60.12,
+        "english": "Okay, my turn.",
+        "chinese": "好的，我的时间到了。"
+    },
+    {
+        "start": 60.12,
+        "end": 63.76,
+        "english": "He has a crooked nose and full lips.",
+        "chinese": "他有一个歪鼻子和厚嘴唇。"
+    },
+    {
+        "start": 63.76,
+        "end": 67.56,
+        "english": "He has quite a few freckles and an oval face.",
+        "chinese": "他有很多雀斑和圆脸。"
+    },
+    {
+        "start": 67.56,
+        "end": 69.32,
+        "english": "Oh, he's also bald.",
+        "chinese": "哦，他也是秃顶。"
+    },
+    {
+        "start": 69.32,
+        "end": 70.84,
+        "english": "Your future husband.",
+        "chinese": "你的未来丈夫。"
+    },
+    {
+        "start": 70.84,
+        "end": 72.72,
+        "english": "Not funny.",
+        "chinese": "不幽默。"
+    },
+    {
+        "start": 80.52,
+        "end": 81.44,
+        "english": "All right, we're back.",
+        "chinese": "好的，我们又回来了。"
+    },
+    {
+        "start": 81.44,
+        "end": 86.16,
+        "english": "So now let's take a look at five key words that we have to describe someone's face",
+        "chinese": "所以现在让我们看看五个需要描述一个人脸的关键词汇。"
+    },
+    {
+        "start": 86.16,
+        "end": 87.56,
+        "english": "on language takeaway.",
+        "chinese": "关于语言取走。"
+    },
+    {
+        "start": 89.36000000000001,
+        "end": 91.12,
+        "english": "Language takeaway.",
+        "chinese": "当然，以下是翻译结果：\n\n语言小贴士。\n中文：语言小贴士。"
+    },
+    {
+        "start": 92.12,
+        "end": 94.44000000000001,
+        "english": "So we've got a couple words for noses here.",
+        "chinese": "我们这里有几个鼻子的词语。"
+    },
+    {
+        "start": 94.44000000000001,
+        "end": 96.52000000000001,
+        "english": "They're adjectives to describe noses.",
+        "chinese": "它们是形容鼻子的词。"
+    },
+    {
+        "start": 96.52000000000001,
+        "end": 99.56,
+        "english": "The first one that we heard is Roman nose.",
+        "chinese": "第一个我们听到的，是罗马鼻子。"
+    },
+    {
+        "start": 99.56,
+        "end": 103.2,
+        "english": "Okay, so if someone has a Roman nose,",
+        "chinese": "好的，如果某人鼻子是罗马式的。"
+    },
+    {
+        "start": 103.2,
+        "end": 104.48,
+        "english": "does that mean they're from Rome?",
+        "chinese": "那他们是不是来自罗马？"
+    },
+    {
+        "start": 104.48,
+        "end": 105.92000000000002,
+        "english": "No, not quite.",
+        "chinese": "不是的，有点问题。"
+    },
+    {
+        "start": 105.92000000000002,
+        "end": 108.44000000000001,
+        "english": "Well, Rome, as we know, is a city in Italy,",
+        "chinese": "当然，罗马作为我们所知道的意大利一座城市。"
+    },
+    {
+        "start": 108.44000000000001,
+        "end": 110.48,
+        "english": "but it's also an adjective here.",
+        "chinese": "但是，它在这里也是一个形容词。"
+    },
+    {
+        "start": 110.48,
+        "end": 115.08000000000001,
+        "english": "Roman means that the nose is straight on top.",
+        "chinese": "罗马的意思是鼻子在顶部是直的。"
+    },
+    {
+        "start": 115.08000000000001,
+        "end": 116.2,
+        "english": "It's like a triangle.",
+        "chinese": "就像一个三角形。"
+    },
+    {
+        "start": 116.2,
+        "end": 117.84,
+        "english": "Okay, but it's kind of long.",
+        "chinese": "好的，但挺长的。"
+    },
+    {
+        "start": 117.84,
+        "end": 120.08,
+        "english": "You have kind of a long straight nose, right?",
+        "chinese": "你鼻子有点长，是吧？"
+    },
+    {
+        "start": 120.08,
+        "end": 120.92,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 120.92,
+        "end": 122.36,
+        "english": "A very long straight nose.",
+        "chinese": "非常长的鼻子。"
+    },
+    {
+        "start": 122.36,
+        "end": 124.92,
+        "english": "Okay, so we have Roman nose,",
+        "chinese": "好的，所以我们有一个罗纳尔多鼻子。"
+    },
+    {
+        "start": 124.92,
+        "end": 127.36,
+        "english": "somebody that has a long straight nose.",
+        "chinese": "某人鼻子很长，鼻梁挺直。"
+    },
+    {
+        "start": 127.36,
+        "end": 129.84,
+        "english": "Now, what about a pointy nose?",
+        "chinese": "现在，你有尖鼻子吗？"
+    },
+    {
+        "start": 129.84,
+        "end": 134.12,
+        "english": "A pointy nose means that the tip of the nose is pointy.",
+        "chinese": "一个尖鼻子意味着鼻子的顶端是尖的。"
+    },
+    {
+        "start": 134.12,
+        "end": 137.96,
+        "english": "So maybe it goes up a little bit, down and then up,",
+        "chinese": "所以可能会上升一些，然后下降，然后再上升一下。"
+    },
+    {
+        "start": 137.96,
+        "end": 140.52,
+        "english": "but usually that there's a point on the tip of the nose.",
+        "chinese": "但通常，那是在鼻子尖上的一点。"
+    },
+    {
+        "start": 140.52,
+        "end": 143.8,
+        "english": "Or sometimes the nose is very thin, right?",
+        "chinese": "有时候鼻子特别细，对吧？"
+    },
+    {
+        "start": 143.8,
+        "end": 147.28,
+        "english": "It's very, it's not very wide, so it looks very pointy.",
+        "chinese": "它挺窄的，所以看上去特别尖。"
+    },
+    {
+        "start": 147.32,
+        "end": 148.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 148.12,
+        "end": 150.04,
+        "english": "So it kind of gets very narrow at the end there.",
+        "chinese": "所以到最后，这有点窄了。"
+    },
+    {
+        "start": 150.04,
+        "end": 150.88,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 150.88,
+        "end": 154.28,
+        "english": "Okay, and now maybe you broke your nose once",
+        "chinese": "好的，现在可能是你摔过一次鼻子了"
+    },
+    {
+        "start": 154.28,
+        "end": 158.0,
+        "english": "or you had an accident, and some people have a crooked nose.",
+        "chinese": "你或者是因为发生了意外，有些人则天生就长着歪鼻子。"
+    },
+    {
+        "start": 158.0,
+        "end": 161.36,
+        "english": "Yeah, a lot of very famous football players have crooked noses,",
+        "chinese": "哦，很多非常著名的足球运动员都有歪鼻子。"
+    },
+    {
+        "start": 161.36,
+        "end": 164.44,
+        "english": "because you know, you get hit in the face with the football",
+        "chinese": "因为你知道，你被足球直接砸到了脸上。"
+    },
+    {
+        "start": 164.44,
+        "end": 166.68,
+        "english": "and then your nose always has a bump.",
+        "chinese": "然后你的鼻子总是有个凸起。"
+    },
+    {
+        "start": 166.68,
+        "end": 167.52,
+        "english": "Right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 167.52,
+        "end": 170.44,
+        "english": "Something is crooked if it's not straight.",
+        "chinese": "东西歪了，如果它不是直的。"
+    },
+    {
+        "start": 170.44,
+        "end": 173.96,
+        "english": "So crooked is the opposite of a Roman nose or a straight nose.",
+        "chinese": "所以，歪鼻子的反义词是罗马鼻子或直鼻。"
+    },
+    {
+        "start": 173.96,
+        "end": 174.76,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 174.76,
+        "end": 176.2,
+        "english": "So maybe you see boxers also,",
+        "chinese": "所以也许你会看到拳手们也……"
+    },
+    {
+        "start": 176.2,
+        "end": 178.28,
+        "english": "I think have crooked nose most of them,",
+        "chinese": "我觉得他们大多数都有歪鼻子，是不是？"
+    },
+    {
+        "start": 178.28,
+        "end": 180.04,
+        "english": "or hockey players and stuff like that.",
+        "chinese": "或者那些冰球运动员和其他类似的事情。"
+    },
+    {
+        "start": 180.04,
+        "end": 183.35999999999999,
+        "english": "Yeah, they take a lot of hits to the face.",
+        "chinese": "没错，他们头可要挨好几下子呢。"
+    },
+    {
+        "start": 183.35999999999999,
+        "end": 187.2,
+        "english": "Okay, so now moving on, we've described rope noses",
+        "chinese": "好的，那么我们现在继续，我们已经描述了绳鼻。"
+    },
+    {
+        "start": 187.2,
+        "end": 189.56,
+        "english": "in many ways, and you can say long nose, short nose,",
+        "chinese": "在许多方面，你可以说长鼻子，短鼻子。"
+    },
+    {
+        "start": 189.56,
+        "end": 192.16,
+        "english": "or whatever, but this is another way of doing it.",
+        "chinese": "好吧，但这只是另一种做法。"
+    },
+    {
+        "start": 192.16,
+        "end": 194.56,
+        "english": "And what about eyebrows?",
+        "chinese": "这眉毛呢？"
+    },
+    {
+        "start": 194.56,
+        "end": 199.64,
+        "english": "Okay, eyebrows are those lines of hair above your eyes.",
+        "chinese": "好的，眉毛就是你眼睛上方的那几条毛发。"
+    },
+    {
+        "start": 199.64,
+        "end": 202.0,
+        "english": "And some people have really thick eyebrows.",
+        "chinese": "有些人真的眉毛很浓。"
+    },
+    {
+        "start": 202.0,
+        "end": 204.28,
+        "english": "Some people have very thin eyebrows,",
+        "chinese": "有些人眉很薄。"
+    },
+    {
+        "start": 204.28,
+        "end": 207.12,
+        "english": "but if someone has thick eyebrows, lots of hair,",
+        "chinese": "但是，如果某人眉毛浓密，头发很多的话。"
+    },
+    {
+        "start": 207.12,
+        "end": 209.12,
+        "english": "we call them bushy eyebrows.",
+        "chinese": "我们叫他们浓眉。"
+    },
+    {
+        "start": 209.12,
+        "end": 212.24,
+        "english": "Okay, so if you have bushy eyebrows,",
+        "chinese": "好的，如果你有浓密的眉毛，"
+    },
+    {
+        "start": 212.24,
+        "end": 214.2,
+        "english": "it means that you have a lot of hair,",
+        "chinese": "它意味着你有很多头发。"
+    },
+    {
+        "start": 215.4,
+        "end": 219.04,
+        "english": "as you said, your eyebrows or over your eye, okay?",
+        "chinese": "你说你眉毛上或者眼睛下面呢？好的。"
+    },
+    {
+        "start": 219.04,
+        "end": 222.6,
+        "english": "And now this is a really, I think kind of a nice feature",
+        "chinese": "现在这是个真的，我觉得挺好的功能"
+    },
+    {
+        "start": 222.6,
+        "end": 224.88,
+        "english": "that some people have on their cheeks.",
+        "chinese": "那有些人脸上的。"
+    },
+    {
+        "start": 224.88,
+        "end": 226.48,
+        "english": "We have dimples.",
+        "chinese": "我们有小凹陷。"
+    },
+    {
+        "start": 226.48,
+        "end": 227.84,
+        "english": "I love dimples.",
+        "chinese": "我爱小酒窝。"
+    },
+    {
+        "start": 227.84,
+        "end": 229.48,
+        "english": "Not many people have them,",
+        "chinese": "不是很多人有，"
+    },
+    {
+        "start": 229.48,
+        "end": 232.8,
+        "english": "but these are two little dots,",
+        "chinese": "但是这些只是两个小小的点。"
+    },
+    {
+        "start": 232.8,
+        "end": 236.84,
+        "english": "little indentations that appear when a person smiles.",
+        "chinese": "小的微笑留下的凹痕。"
+    },
+    {
+        "start": 236.84,
+        "end": 237.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 237.68,
+        "end": 239.0,
+        "english": "So maybe you've seen this,",
+        "chinese": "所以可能你已经看到了这个，"
+    },
+    {
+        "start": 239.0,
+        "end": 240.92000000000002,
+        "english": "or maybe you have this, or a friend has this,",
+        "chinese": "或许你也有这个，或者你的朋友也有。"
+    },
+    {
+        "start": 240.92000000000002,
+        "end": 244.32000000000002,
+        "english": "somebody smiles, and on their cheeks",
+        "chinese": "某人笑了，脸颊上浮现了笑容。"
+    },
+    {
+        "start": 244.32000000000002,
+        "end": 246.68,
+        "english": "towards the middle of the cheek,",
+        "chinese": "在脸颊的中间，"
+    },
+    {
+        "start": 246.68,
+        "end": 249.32000000000002,
+        "english": "they have little holes that form that look like,",
+        "chinese": "他们有一些小洞，看起来像是，"
+    },
+    {
+        "start": 249.32000000000002,
+        "end": 251.12,
+        "english": "I don't know, like somebody kind of pinched it",
+        "chinese": "我也不清楚，像有人把它压扁了。"
+    },
+    {
+        "start": 251.12,
+        "end": 252.12,
+        "english": "with a needle or something.",
+        "chinese": "用针或者什么。"
+    },
+    {
+        "start": 252.12,
+        "end": 254.96,
+        "english": "Yeah, like it goes down a little bit for some reason,",
+        "chinese": "是的，好像因为某种原因稍微低了一点。"
+    },
+    {
+        "start": 254.96,
+        "end": 257.40000000000003,
+        "english": "and it goes like, yeah, they're being pinched inside",
+        "chinese": "嗯，他们被夹在中间了"
+    },
+    {
+        "start": 257.40000000000003,
+        "end": 258.24,
+        "english": "their cheek.",
+        "chinese": "他们的脸颊。"
+    },
+    {
+        "start": 258.24,
+        "end": 259.08000000000004,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 259.08000000000004,
+        "end": 259.76,
+        "english": "Those are called dimples.",
+        "chinese": "那些叫做酒窝。"
+    },
+    {
+        "start": 259.76,
+        "end": 260.76,
+        "english": "Dimples.",
+        "chinese": "笑纹。"
+    },
+    {
+        "start": 260.76,
+        "end": 262.76,
+        "english": "Okay, so a lot of great things,",
+        "chinese": "好的，有很多很棒的事情，"
+    },
+    {
+        "start": 262.76,
+        "end": 265.92,
+        "english": "in the first part, let's review what we've heard.",
+        "chinese": "在第一部分，让我们回顾我们所听到的内容。"
+    },
+    {
+        "start": 265.92,
+        "end": 267.44,
+        "english": "Let's go back to the dialogue,",
+        "chinese": "好的，让我们回到对话中来。"
+    },
+    {
+        "start": 267.44,
+        "end": 269.12,
+        "english": "and we'll be back in a bit.",
+        "chinese": "好的，我们一会儿就回来。"
+    },
+    {
+        "start": 269.12,
+        "end": 280.12,
+        "english": "Let's play a game.",
+        "chinese": "好的，我们来玩一个游戏。"
+    },
+    {
+        "start": 280.12,
+        "end": 281.88,
+        "english": "Okay, how about Scrabble?",
+        "chinese": "好的，玩拼字游戏怎么样？"
+    },
+    {
+        "start": 281.88,
+        "end": 282.88,
+        "english": "No, no.",
+        "chinese": "不，不。"
+    },
+    {
+        "start": 282.88,
+        "end": 285.71999999999997,
+        "english": "A friend of mine taught me this really fun game.",
+        "chinese": "我一个朋友教我玩了一个非常有趣的游戏。"
+    },
+    {
+        "start": 285.71999999999997,
+        "end": 287.71999999999997,
+        "english": "I'm going to describe someone's face,",
+        "chinese": "我打算描述某人的脸。"
+    },
+    {
+        "start": 287.71999999999997,
+        "end": 289.24,
+        "english": "and you guess who it is.",
+        "chinese": "你猜是谁？"
+    },
+    {
+        "start": 289.24,
+        "end": 290.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 290.76,
+        "end": 292.04,
+        "english": "Let's see.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 292.04,
+        "end": 295.0,
+        "english": "He has a Roman nose,",
+        "chinese": "他有一个罗马鼻子。"
+    },
+    {
+        "start": 295.0,
+        "end": 297.56,
+        "english": "but she eyebrows and dimples.",
+        "chinese": "但是她的眉毛和酒窝。"
+    },
+    {
+        "start": 297.56,
+        "end": 299.88,
+        "english": "Our cousin Pete, my turn.",
+        "chinese": "我们表弟彼得，轮到我了。"
+    },
+    {
+        "start": 299.88,
+        "end": 301.28000000000003,
+        "english": "She has a pointy nose,",
+        "chinese": "她有一张尖鼻子。"
+    },
+    {
+        "start": 301.28000000000003,
+        "end": 303.68,
+        "english": "synchronized, and a mole on her chin.",
+        "chinese": "同步，下巴上长了个痣。"
+    },
+    {
+        "start": 303.68,
+        "end": 307.36,
+        "english": "And Rose, that mole is so huge.",
+        "chinese": "哦，那块痣怎么那么大？"
+    },
+    {
+        "start": 307.36,
+        "end": 308.76,
+        "english": "Okay, my turn.",
+        "chinese": "好的，我的轮次。"
+    },
+    {
+        "start": 308.76,
+        "end": 312.36,
+        "english": "He has a crooked nose and full lips.",
+        "chinese": "他有一个歪鼻子和厚嘴唇。"
+    },
+    {
+        "start": 312.36,
+        "end": 316.2,
+        "english": "He has quite a few freckles and an oval face.",
+        "chinese": "他有很多雀斑，圆脸。"
+    },
+    {
+        "start": 316.2,
+        "end": 317.96000000000004,
+        "english": "Oh, he's also bald.",
+        "chinese": "哦，他也是秃头。"
+    },
+    {
+        "start": 317.96000000000004,
+        "end": 319.48,
+        "english": "Your future husband.",
+        "chinese": "你的未来丈夫。"
+    },
+    {
+        "start": 319.48,
+        "end": 328.76,
+        "english": "Not funny.",
+        "chinese": "不幽默。"
+    },
+    {
+        "start": 328.76,
+        "end": 329.76,
+        "english": "All right, we're back.",
+        "chinese": "好的，我们又回来了。"
+    },
+    {
+        "start": 329.76,
+        "end": 332.04,
+        "english": "So now we're going to take a look at even more words",
+        "chinese": "现在我们来仔细看看更多的单词"
+    },
+    {
+        "start": 332.04,
+        "end": 334.04,
+        "english": "on how to describe a face.",
+        "chinese": "如何描述一张脸。"
+    },
+    {
+        "start": 334.04,
+        "end": 338.96000000000004,
+        "english": "So now let's take a look at language takeaway part two.",
+        "chinese": "现在，我们来好好看看语言取舍第二部分。"
+    },
+    {
+        "start": 338.96000000000004,
+        "end": 341.92,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 341.92,
+        "end": 344.56,
+        "english": "Okay, so the first word has to do with the eyes.",
+        "chinese": "好的，那么第一个词和眼睛有关。"
+    },
+    {
+        "start": 344.56,
+        "end": 346.08000000000004,
+        "english": "We just talked about the eyebrows.",
+        "chinese": "我们刚刚聊了眉毛。"
+    },
+    {
+        "start": 346.08000000000004,
+        "end": 347.56,
+        "english": "Those are above your eyes.",
+        "chinese": "那些是你的双眼。"
+    },
+    {
+        "start": 347.56,
+        "end": 351.92,
+        "english": "What happens if your eyes are very, very deep in your face?",
+        "chinese": "如果你的双眼深深地嵌入你的脸部，会发生什么呢？"
+    },
+    {
+        "start": 351.92,
+        "end": 352.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 352.92,
+        "end": 356.84,
+        "english": "We heard that in the dialogue because we heard that in the dialogue",
+        "chinese": "我们听说在对话中，因为我们在对话中听到了。"
+    },
+    {
+        "start": 356.84,
+        "end": 359.88,
+        "english": "described as sunken eyes.",
+        "chinese": "看起来是凹陷的眼睛。"
+    },
+    {
+        "start": 359.88,
+        "end": 364.92,
+        "english": "So sunken means very far back or very deep in something.",
+        "chinese": "所以下沉意味着非常深或非常远。"
+    },
+    {
+        "start": 364.92,
+        "end": 365.92,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 365.92,
+        "end": 367.4,
+        "english": "Think about a sunken ship.",
+        "chinese": "考虑一艘沉船。"
+    },
+    {
+        "start": 367.4,
+        "end": 370.12,
+        "english": "It's under the water, under the ocean.",
+        "chinese": "它在水下，潜入海洋。"
+    },
+    {
+        "start": 370.12,
+        "end": 373.8,
+        "english": "So someone with sunken eyes probably has dark rings under their eyes",
+        "chinese": "所以，眼袋深的人可能眼周有黑眼圈。"
+    },
+    {
+        "start": 373.8,
+        "end": 376.24,
+        "english": "because their eyes are so deep in their head.",
+        "chinese": "因为他们的眼珠子深藏在脑袋里。"
+    },
+    {
+        "start": 376.24,
+        "end": 377.24,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 377.24,
+        "end": 380.36,
+        "english": "So in the opposite, maybe you've seen people that have eyes that are almost like popping",
+        "chinese": "当然，在相反的情况下，也许你见过眼睛几乎像要爆开一样的人。"
+    },
+    {
+        "start": 380.36,
+        "end": 381.36,
+        "english": "out a little bit.",
+        "chinese": "出了点小状况。"
+    },
+    {
+        "start": 381.36,
+        "end": 382.36,
+        "english": "Right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 382.36,
+        "end": 383.36,
+        "english": "His eyes pop out.",
+        "chinese": "他的眼睛瞪大了。"
+    },
+    {
+        "start": 383.36,
+        "end": 384.68,
+        "english": "That means they come out of the face.",
+        "chinese": "那意味着他们从脸上出来。"
+    },
+    {
+        "start": 384.68,
+        "end": 386.64,
+        "english": "They're closer to the skin.",
+        "chinese": "他们更接近皮肤。"
+    },
+    {
+        "start": 386.64,
+        "end": 387.64,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 387.64,
+        "end": 388.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 388.64,
+        "end": 390.56,
+        "english": "And now this is something that many people have.",
+        "chinese": "现在这事儿很多人都有。"
+    },
+    {
+        "start": 390.56,
+        "end": 394.64,
+        "english": "And even some models have become famous because of this.",
+        "chinese": "而且，甚至有些模型因为这个原因也变得出名了。"
+    },
+    {
+        "start": 394.64,
+        "end": 396.72,
+        "english": "Many times called a beauty mark.",
+        "chinese": "很多人都称它为优点。"
+    },
+    {
+        "start": 396.72,
+        "end": 398.44,
+        "english": "We're talking about moles.",
+        "chinese": "我们正在谈论鼹鼠。"
+    },
+    {
+        "start": 398.44,
+        "end": 400.96000000000004,
+        "english": "Cindy Crawford is probably the model you're talking about.",
+        "chinese": "Cindy Crawford很可能是你想说的那个模特。"
+    },
+    {
+        "start": 400.96000000000004,
+        "end": 402.36,
+        "english": "She had a very famous mole.",
+        "chinese": "她有一块非常著名的痣。"
+    },
+    {
+        "start": 402.36,
+        "end": 408.52000000000004,
+        "english": "A mole is basically a spot on your skin that's very, very dark.",
+        "chinese": "一只毛痣，基本上就是你皮肤上非常、非常黑的一个斑点。"
+    },
+    {
+        "start": 408.52000000000004,
+        "end": 411.44,
+        "english": "So sometimes there's hair on it.",
+        "chinese": "所以有时候它上面会有头发。"
+    },
+    {
+        "start": 411.44,
+        "end": 413.44,
+        "english": "Sometimes it's texture is different, but it's a...",
+        "chinese": "有时候它的质地不同，但这是..."
+    },
+    {
+        "start": 413.44,
+        "end": 414.44,
+        "english": "Give me big.",
+        "chinese": "给我大点。"
+    },
+    {
+        "start": 414.44,
+        "end": 418.84000000000003,
+        "english": "Give me small, but it's a change of texture on your skin.",
+        "chinese": "给我小的，但这是你皮肤上的变化。"
+    },
+    {
+        "start": 418.84000000000003,
+        "end": 419.84000000000003,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 419.84000000000003,
+        "end": 424.24,
+        "english": "So usually it's like a little brown ball if it's big.",
+        "chinese": "所以通常它就变成一个小小的棕色球，如果大了。"
+    },
+    {
+        "start": 424.24,
+        "end": 428.64,
+        "english": "And sometimes it just look like little spots on your skin, little dark brown spots.",
+        "chinese": "有时候看起来就像是皮肤上的一些小点，小黑褐色的斑点。"
+    },
+    {
+        "start": 428.64,
+        "end": 429.64,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 429.64,
+        "end": 431.64,
+        "english": "But they're not the same as something else we heard in today's dialogue.",
+        "chinese": "但它们和我们今天对话中听到的并不一样。"
+    },
+    {
+        "start": 431.71999999999997,
+        "end": 432.64,
+        "english": "So we'll wait for that.",
+        "chinese": "所以我们等着吧。"
+    },
+    {
+        "start": 432.64,
+        "end": 436.12,
+        "english": "But a mole usually comes a little bit off the skin.",
+        "chinese": "但通常，痣会从皮肤上稍微移开一点。"
+    },
+    {
+        "start": 436.12,
+        "end": 438.76,
+        "english": "And it's usually bigger than other dots.",
+        "chinese": "而且，通常比其他点要大。"
+    },
+    {
+        "start": 438.76,
+        "end": 439.76,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 439.76,
+        "end": 442.2,
+        "english": "And I think what you're talking about is freckles.",
+        "chinese": "你所说的那可能是雀斑。"
+    },
+    {
+        "start": 442.2,
+        "end": 443.2,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 443.2,
+        "end": 444.2,
+        "english": "Freckles.",
+        "chinese": "雀斑"
+    },
+    {
+        "start": 444.2,
+        "end": 445.68,
+        "english": "A lot of people have these when they're children.",
+        "chinese": "小时候，很多人都有这样的经历。"
+    },
+    {
+        "start": 445.68,
+        "end": 449.08,
+        "english": "They come on your nose and your cheeks and even your arms.",
+        "chinese": "他们出现在你的鼻子和脸颊上，甚至你的手臂上。"
+    },
+    {
+        "start": 449.08,
+        "end": 450.88,
+        "english": "And they're smooth with your skin.",
+        "chinese": "他们皮肤很光滑。"
+    },
+    {
+        "start": 450.88,
+        "end": 452.64,
+        "english": "They don't come off your skin.",
+        "chinese": "他们不沾你的皮。"
+    },
+    {
+        "start": 452.64,
+        "end": 454.91999999999996,
+        "english": "They're not puffy.",
+        "chinese": "他们不是圆滚滚的。"
+    },
+    {
+        "start": 454.91999999999996,
+        "end": 455.91999999999996,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 455.92,
+        "end": 463.12,
+        "english": "I think many of you maybe if you have lighter skin may have freckles.",
+        "chinese": "我觉得你们中很多人都可能因为肤色浅，所以可能会有雀斑。"
+    },
+    {
+        "start": 463.12,
+        "end": 468.12,
+        "english": "And that's usually just little spots but of just different color on your skin.",
+        "chinese": "那通常只是皮肤上的一些小斑点，颜色不同。"
+    },
+    {
+        "start": 468.12,
+        "end": 473.0,
+        "english": "So usually people that have maybe red hair, they have freckles.",
+        "chinese": "所以通常那些头发是红头发的人，他们可能会有雀斑。"
+    },
+    {
+        "start": 473.0,
+        "end": 477.16,
+        "english": "Like maybe from the Harry Potter movie, the Harry Potter's best friend, I think Ron.",
+        "chinese": "就像哈利波特电影里，哈利的最好朋友，我觉得罗恩。"
+    },
+    {
+        "start": 477.16,
+        "end": 478.16,
+        "english": "Ron.",
+        "chinese": "Ron. 这个星期六请我吃饭吧。"
+    },
+    {
+        "start": 478.16,
+        "end": 479.72,
+        "english": "You can see he has freckles.",
+        "chinese": "你可以看到他有雀斑。"
+    },
+    {
+        "start": 479.72,
+        "end": 480.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 480.72,
+        "end": 482.6,
+        "english": "On his skin he has lots of little dots.",
+        "chinese": "在他的皮肤上有很多小点。"
+    },
+    {
+        "start": 482.6,
+        "end": 484.6,
+        "english": "Because he has very pale skin and red hair.",
+        "chinese": "因为他皮肤很白，头发是红色的。"
+    },
+    {
+        "start": 484.6,
+        "end": 486.72,
+        "english": "So these are called freckles.",
+        "chinese": "这些被称为雀斑。"
+    },
+    {
+        "start": 486.72,
+        "end": 487.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 487.72,
+        "end": 488.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 488.72,
+        "end": 493.96000000000004,
+        "english": "And now when we talked about lips, a nice way of describing lips, you can say big lips.",
+        "chinese": "现在我们讨论嘴唇的时候，你可以用“大嘴巴”来形容。"
+    },
+    {
+        "start": 493.96000000000004,
+        "end": 497.52000000000004,
+        "english": "But that just means that they're big, right?",
+        "chinese": "但那只是说他们很大嘛？"
+    },
+    {
+        "start": 497.52000000000004,
+        "end": 500.16,
+        "english": "But what about if that person has full lips?",
+        "chinese": "那如果那个人的嘴唇是全的呢？"
+    },
+    {
+        "start": 500.16,
+        "end": 502.40000000000003,
+        "english": "Full lips is a great way to describe big lips.",
+        "chinese": "全口唇是形容大嘴唇的好方法。"
+    },
+    {
+        "start": 502.40000000000003,
+        "end": 506.12,
+        "english": "We would say someone like Angelina Jolie has very full lips.",
+        "chinese": "我们可以说像安吉丽娜·朱莉这样的演员，她的嘴唇非常饱满。"
+    },
+    {
+        "start": 506.12,
+        "end": 507.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 507.12,
+        "end": 512.0,
+        "english": "This means that they're not thin but they've got a lot of puff to them.",
+        "chinese": "这意味着他们看起来不是瘦的，但他们的体积很大。"
+    },
+    {
+        "start": 512.0,
+        "end": 513.76,
+        "english": "They have a lot of texture.",
+        "chinese": "他们有很多纹理。"
+    },
+    {
+        "start": 513.76,
+        "end": 519.12,
+        "english": "As you said, Angelina Jolie is probably the best example of someone with full lips.",
+        "chinese": "你这么说了，章子怡可能是全口大齿的最好例子。"
+    },
+    {
+        "start": 519.12,
+        "end": 520.4399999999999,
+        "english": "And now what about bald?",
+        "chinese": "现在秃头怎么办？"
+    },
+    {
+        "start": 520.4399999999999,
+        "end": 521.4399999999999,
+        "english": "Someone who's bald.",
+        "chinese": "鬓发稀疏的人。"
+    },
+    {
+        "start": 521.4399999999999,
+        "end": 522.68,
+        "english": "Who's a good example for this?",
+        "chinese": "谁是这个的好例子？"
+    },
+    {
+        "start": 522.68,
+        "end": 523.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 523.68,
+        "end": 525.6,
+        "english": "So this next word we've got is bald.",
+        "chinese": "这个接下来的单词是秃顶。"
+    },
+    {
+        "start": 525.6,
+        "end": 527.88,
+        "english": "Who's a famous bald person?",
+        "chinese": "谁是著名的秃头人？"
+    },
+    {
+        "start": 527.88,
+        "end": 529.72,
+        "english": "Maybe you've heard of Kobe Bryant.",
+        "chinese": "你可能听说过科比·布莱恩特。"
+    },
+    {
+        "start": 529.72,
+        "end": 530.72,
+        "english": "Hmm.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 530.72,
+        "end": 531.72,
+        "english": "That basketball player.",
+        "chinese": "那个篮球运动员。"
+    },
+    {
+        "start": 531.72,
+        "end": 532.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 532.72,
+        "end": 533.72,
+        "english": "Now he's not completely bald.",
+        "chinese": "现在他头上没有完全秃了。"
+    },
+    {
+        "start": 533.72,
+        "end": 535.68,
+        "english": "He actually shaves his head.",
+        "chinese": "他其实把头剃了。"
+    },
+    {
+        "start": 535.68,
+        "end": 541.4399999999999,
+        "english": "But anyone who shaves their head also has no hair on their head is considered to be",
+        "chinese": "但是，剃光头的人也完全没有头发在头上，被认为是"
+    },
+    {
+        "start": 541.4399999999999,
+        "end": 542.4399999999999,
+        "english": "a bald person.",
+        "chinese": "一个秃顶的人。"
+    },
+    {
+        "start": 542.5200000000001,
+        "end": 543.44,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 543.44,
+        "end": 545.5200000000001,
+        "english": "So bald means no hair on their head.",
+        "chinese": "所以秃头意味着没有头发在头上。"
+    },
+    {
+        "start": 545.5200000000001,
+        "end": 546.5200000000001,
+        "english": "Right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 546.5200000000001,
+        "end": 548.7600000000001,
+        "english": "Now sometimes naturally people become bald.",
+        "chinese": "现在有时候，自然的人会变秃顶。"
+    },
+    {
+        "start": 548.7600000000001,
+        "end": 554.1600000000001,
+        "english": "Hair falls off as the years go by and they no more hair grows on their head.",
+        "chinese": "头发随着岁月的增长而脱落，他们头上的头发不再生长。"
+    },
+    {
+        "start": 554.1600000000001,
+        "end": 555.1600000000001,
+        "english": "So they're bald.",
+        "chinese": "他们秃顶。"
+    },
+    {
+        "start": 555.1600000000001,
+        "end": 556.1600000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 556.1600000000001,
+        "end": 559.24,
+        "english": "So this happens to a lot of people, especially men, they lose their hair.",
+        "chinese": "所以这发生在很多人身上，特别是男性，他们脱发了。"
+    },
+    {
+        "start": 559.24,
+        "end": 560.72,
+        "english": "Some people have a little bit of hair.",
+        "chinese": "有些人头发有点少。"
+    },
+    {
+        "start": 560.72,
+        "end": 562.8800000000001,
+        "english": "Some people lose all of their hair.",
+        "chinese": "有些人全秃了。"
+    },
+    {
+        "start": 562.8800000000001,
+        "end": 566.72,
+        "english": "But when you lose hair on your head, it's called going bald.",
+        "chinese": "但是，当你头上的头发掉光后，就叫做秃顶。"
+    },
+    {
+        "start": 566.72,
+        "end": 567.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 567.72,
+        "end": 568.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 568.72,
+        "end": 572.2800000000001,
+        "english": "So now we have a lot of words in how we can describe people.",
+        "chinese": "现在我们有很多词语用来描述人。"
+    },
+    {
+        "start": 572.28,
+        "end": 576.1999999999999,
+        "english": "And so why don't we go back, listen to the dialogue again and we've back to talk a little",
+        "chinese": "那我们不就回去了，再听听对话，然后又聊起来了。"
+    },
+    {
+        "start": 576.1999999999999,
+        "end": 577.72,
+        "english": "bit more.",
+        "chinese": "更多。"
+    },
+    {
+        "start": 577.72,
+        "end": 583.92,
+        "english": "Let's play a game.",
+        "chinese": "好的，我们来玩一个游戏。"
+    },
+    {
+        "start": 583.92,
+        "end": 584.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 584.92,
+        "end": 585.92,
+        "english": "How about Scrabble?",
+        "chinese": "怎么样是拼字游戏？"
+    },
+    {
+        "start": 585.92,
+        "end": 586.92,
+        "english": "No, no.",
+        "chinese": "不，不。"
+    },
+    {
+        "start": 586.92,
+        "end": 589.52,
+        "english": "A friend of mine taught me this really fun game.",
+        "chinese": "一个朋友教我了一个非常有趣的游戏。"
+    },
+    {
+        "start": 589.52,
+        "end": 593.1999999999999,
+        "english": "I'm going to describe someone's face and you guess who it is.",
+        "chinese": "我将描述某人的脸，你猜猜看是谁。"
+    },
+    {
+        "start": 593.1999999999999,
+        "end": 594.1999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 594.1999999999999,
+        "end": 595.52,
+        "english": "Let's see.",
+        "chinese": "好的，我们看看。"
+    },
+    {
+        "start": 595.52,
+        "end": 600.8399999999999,
+        "english": "He has a Roman nose, bushy eyebrows and dimples.",
+        "chinese": "他有一张罗马鼻子，浓密的眉毛和酒窝。"
+    },
+    {
+        "start": 600.84,
+        "end": 603.24,
+        "english": "Our cousin Pete, my turn.",
+        "chinese": "我表哥彼得，我的轮到啦。"
+    },
+    {
+        "start": 603.24,
+        "end": 607.12,
+        "english": "She has a pointy nose, sunken eyes and a mole on her chin.",
+        "chinese": "她有一张尖鼻子，凹陷的眼睛和下巴上的一颗痣。"
+    },
+    {
+        "start": 607.12,
+        "end": 608.12,
+        "english": "It rose.",
+        "chinese": "它升起。"
+    },
+    {
+        "start": 608.12,
+        "end": 610.32,
+        "english": "That mole is so huge.",
+        "chinese": "那条痣这么大。"
+    },
+    {
+        "start": 610.32,
+        "end": 611.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 611.32,
+        "end": 612.32,
+        "english": "My turn.",
+        "chinese": "我的轮次。"
+    },
+    {
+        "start": 612.32,
+        "end": 615.72,
+        "english": "He has a crooked nose and full lips.",
+        "chinese": "他有一个歪鼻子和厚嘴唇。"
+    },
+    {
+        "start": 615.72,
+        "end": 618.9200000000001,
+        "english": "He has quite a few freckles and an oval face.",
+        "chinese": "他有很多雀斑，一张椭圆形的脸。"
+    },
+    {
+        "start": 618.9200000000001,
+        "end": 621.36,
+        "english": "Oh, he's also bald.",
+        "chinese": "哦，他也是秃头。"
+    },
+    {
+        "start": 621.36,
+        "end": 623.1600000000001,
+        "english": "Your future husband.",
+        "chinese": "你的未来丈夫。"
+    },
+    {
+        "start": 623.1600000000001,
+        "end": 629.64,
+        "english": "Not funny.",
+        "chinese": "不幽默。"
+    },
+    {
+        "start": 629.64,
+        "end": 633.04,
+        "english": "So we've talked a lot about the different parts of the face, but we have not talked about",
+        "chinese": "所以我们在谈论脸的不同部分，但还没有谈到。"
+    },
+    {
+        "start": 633.04,
+        "end": 634.04,
+        "english": "one important part.",
+        "chinese": "一个重要的部分。"
+    },
+    {
+        "start": 634.04,
+        "end": 636.96,
+        "english": "That's the bottom of a person's face along that bone there.",
+        "chinese": "那是在骨头那儿的人脸底下的那个地方。"
+    },
+    {
+        "start": 636.96,
+        "end": 639.24,
+        "english": "It's a part called the chin.",
+        "chinese": "这是一个叫做下巴的部分。"
+    },
+    {
+        "start": 639.24,
+        "end": 640.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 640.24,
+        "end": 644.96,
+        "english": "So we could say some people have very, very prominent or big chins, right?",
+        "chinese": "所以我们可以这么说，有些人下巴特别突出或者很大。"
+    },
+    {
+        "start": 644.96,
+        "end": 646.1999999999999,
+        "english": "Like for example, Jay Leno.",
+        "chinese": "比如，杰伊·兰度。"
+    },
+    {
+        "start": 646.1999999999999,
+        "end": 647.1999999999999,
+        "english": "Oh, yeah.",
+        "chinese": "哦，是的。"
+    },
+    {
+        "start": 647.1999999999999,
+        "end": 648.56,
+        "english": "His chin is so big.",
+        "chinese": "他的下巴这么大。"
+    },
+    {
+        "start": 648.56,
+        "end": 649.56,
+        "english": "Right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 649.56,
+        "end": 652.84,
+        "english": "It's almost a joke among people that he has this big chin.",
+        "chinese": "这在人们中间简直成了笑话，他竟然有这么大的下巴。"
+    },
+    {
+        "start": 652.84,
+        "end": 653.84,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 653.84,
+        "end": 655.0,
+        "english": "So he has a long chin.",
+        "chinese": "他下巴很长。"
+    },
+    {
+        "start": 655.0,
+        "end": 659.72,
+        "english": "Now other people may have a very square chin, right?",
+        "chinese": "现在别人可能下巴很方，对不对？"
+    },
+    {
+        "start": 659.72,
+        "end": 662.68,
+        "english": "So it's almost like it looks like a square on the bottom of their face.",
+        "chinese": "所以，几乎就像它看起来像是他们的脸底下的一个正方形。"
+    },
+    {
+        "start": 662.68,
+        "end": 664.8,
+        "english": "Otherwise, you could have a round chin.",
+        "chinese": "否则，你可能会有圆下巴。"
+    },
+    {
+        "start": 664.8,
+        "end": 665.8,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 665.8,
+        "end": 668.24,
+        "english": "And the opposite part of the face is also very important.",
+        "chinese": "而且脸的另一部分也很重要。"
+    },
+    {
+        "start": 668.24,
+        "end": 672.48,
+        "english": "We call it not the top of your head, but we call it your forehead.",
+        "chinese": "我们叫它不是你脑袋里的，而是你的额头。"
+    },
+    {
+        "start": 672.48,
+        "end": 673.48,
+        "english": "Your forehead.",
+        "chinese": "你的额头。"
+    },
+    {
+        "start": 673.48,
+        "end": 676.72,
+        "english": "Now some people have a very big forehead, right?",
+        "chinese": "现在有些人头很大，是吗？"
+    },
+    {
+        "start": 676.72,
+        "end": 679.76,
+        "english": "Because maybe their hair grows a little bit further back.",
+        "chinese": "因为他们的头发可能往后长了一点。"
+    },
+    {
+        "start": 679.76,
+        "end": 683.2,
+        "english": "And other people have smaller foreheads that you almost can't even really see.",
+        "chinese": "其他人的额头比你几乎看不到那么小。"
+    },
+    {
+        "start": 683.2,
+        "end": 685.32,
+        "english": "Sometimes they just hide it with their hair.",
+        "chinese": "有时候他们只是用头发遮掩。"
+    },
+    {
+        "start": 685.32,
+        "end": 686.32,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 686.32,
+        "end": 690.6,
+        "english": "And now actually talking about chins, there's another type of chin that's also very popular.",
+        "chinese": "现在说说下巴，又有一种很火的下巴类型。"
+    },
+    {
+        "start": 690.6,
+        "end": 692.1600000000001,
+        "english": "John Travoltas chin.",
+        "chinese": "John Travalta的下巴。"
+    },
+    {
+        "start": 692.1600000000001,
+        "end": 695.0,
+        "english": "That is, he has a dimple in his chin.",
+        "chinese": "那就是，他下巴上有个小坑。"
+    },
+    {
+        "start": 695.0,
+        "end": 696.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 696.0,
+        "end": 698.9200000000001,
+        "english": "Remember we were talking about dimples as little holes while you can have them in other",
+        "chinese": "记得我们之前聊过小坑，就像你也可以在其他地方有。"
+    },
+    {
+        "start": 698.9200000000001,
+        "end": 701.08,
+        "english": "places and the chin is one of them.",
+        "chinese": "这个地方和下巴是其中之一。"
+    },
+    {
+        "start": 701.08,
+        "end": 702.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 702.08,
+        "end": 705.6800000000001,
+        "english": "So I think that's called a butt chin if I'm not mistaken, right?",
+        "chinese": "我猜这就是所谓的屁股下巴吧？对不对？"
+    },
+    {
+        "start": 705.6800000000001,
+        "end": 706.6800000000001,
+        "english": "I'm not even going to ask.",
+        "chinese": "我不打算问。"
+    },
+    {
+        "start": 706.6800000000001,
+        "end": 707.6800000000001,
+        "english": "I've heard it before.",
+        "chinese": "我之前听说过。"
+    },
+    {
+        "start": 707.6800000000001,
+        "end": 710.9200000000001,
+        "english": "I'm not sure how to answer you, but yeah.",
+        "chinese": "我不确定如何回答你，但是的。"
+    },
+    {
+        "start": 710.9200000000001,
+        "end": 711.9200000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 711.92,
+        "end": 716.56,
+        "english": "Hopefully this is a good time to encourage you all to tell us about your facial features",
+        "chinese": "希望这个时间正好是鼓励大家向我们介绍一下你们的面部特征的时候吧。"
+    },
+    {
+        "start": 716.56,
+        "end": 719.28,
+        "english": "or to describe someone for us.",
+        "chinese": "为了描述某人给我们。"
+    },
+    {
+        "start": 719.28,
+        "end": 721.1999999999999,
+        "english": "Use some of the vocabulary that you heard today.",
+        "chinese": "今天听到的一些词汇用起来。"
+    },
+    {
+        "start": 721.1999999999999,
+        "end": 722.1999999999999,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 722.1999999999999,
+        "end": 724.76,
+        "english": "Or maybe you even just want to describe someone famous and we can guess what you're talking",
+        "chinese": "或许你只是想描述一位著名的人，我们可以猜出你在说什么。"
+    },
+    {
+        "start": 724.76,
+        "end": 725.76,
+        "english": "about.",
+        "chinese": "关于。"
+    },
+    {
+        "start": 725.76,
+        "end": 726.76,
+        "english": "Good challenge.",
+        "chinese": "好的挑战。"
+    },
+    {
+        "start": 726.76,
+        "end": 727.76,
+        "english": "So we will see you on our website, EnglishPod.com.",
+        "chinese": "我们会在英语播客的网站上见你。"
+    },
+    {
+        "start": 727.76,
+        "end": 728.76,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 728.76,
+        "end": 729.76,
+        "english": "We'll see you guys there.",
+        "chinese": "我们到时候见。"
+    },
+    {
+        "start": 729.76,
+        "end": 730.76,
+        "english": "Bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 730.76,
+        "end": 731.76,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

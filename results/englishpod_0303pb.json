@@ -1,0 +1,620 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.0,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 5.0,
+        "end": 9.28,
+        "english": "My name is Catherine Ann Marker. I can tell you right now I'm already hungry just thinking",
+        "chinese": "我的名字是凯瑟琳安妮·马克。我现在可以说我已经饿了，只是在想。"
+    },
+    {
+        "start": 9.28,
+        "end": 15.24,
+        "english": "about our lesson today. That's right. Today we have another food lesson. Our world cuisine",
+        "chinese": "今天我们的课程是关于食物的。没错，今天我们还有另一个烹饪课程。"
+    },
+    {
+        "start": 15.24,
+        "end": 21.240000000000002,
+        "english": "lesson for today is all about Mexican food. Okay, Mexican food comes from the country",
+        "chinese": "今天的学习主题是关于墨西哥食物。很好，墨西哥的食物来自这个国家。"
+    },
+    {
+        "start": 21.240000000000002,
+        "end": 28.240000000000002,
+        "english": "Mexico but also parts of the United States. Like Texas has something called Tex Mex. So",
+        "chinese": "美国也有叫做Tex Mex的地方。所以，墨西哥也包括了美国的某些地方。"
+    },
+    {
+        "start": 28.24,
+        "end": 32.239999999999995,
+        "english": "you're going to hear a lot about these kinds of foods there. Let's check out today's dialogue.",
+        "chinese": "你今天会听很多关于这些食物的介绍。让我们看看今天的对话吧。"
+    },
+    {
+        "start": 38.239999999999995,
+        "end": 43.239999999999995,
+        "english": "Hello sir. Welcome to Pistolett Restaurant. May I take your order? Yes, I would like the",
+        "chinese": "你好，先生。欢迎来到点牧尔餐厅。请问可以帮我点餐吗？好的，我想要一份菜单。"
+    },
+    {
+        "start": 43.239999999999995,
+        "end": 49.239999999999995,
+        "english": "chicken cheese enchiladas with a side of guacamole. Sorry sir, but we ran out of chicken. May I",
+        "chinese": "鸡蛋玉米饼配一杯鳄梨。抱歉，但我们没有鸡肉了。我可以退换吗？"
+    },
+    {
+        "start": 49.239999999999995,
+        "end": 54.239999999999995,
+        "english": "suggest our delicious beef burritos or cheese quesadillas? Both include a side of guacamole",
+        "chinese": "建议我们试试我们的牛肉玉米饼还是奶酪香肠煎饼？两样都包括一份鳄梨酱。"
+    },
+    {
+        "start": 55.24,
+        "end": 60.24,
+        "english": "and jalapenos. Sure, I'll have the burrito. Do you have nachos? Of course, sir. Our nachos",
+        "chinese": "和辣椒酱。当然，先生。我们的墨西哥玉米饼"
+    },
+    {
+        "start": 60.24,
+        "end": 66.24000000000001,
+        "english": "come with melted cheese and chili. Sounds good. Would you like anything to drink? Sure, I'll",
+        "chinese": "来点融化了的奶酪和辣椒吗？听起来不错。你想要什么饮料？当然，我将"
+    },
+    {
+        "start": 66.24000000000001,
+        "end": 74.24000000000001,
+        "english": "have a corona. All right, we're back. So a lot of great dishes from Mexico. Let's take a closer",
+        "chinese": "英语：have a Corona. 好的，我们回来。所以从墨西哥来的很多美味菜肴。让我们更仔细地品尝。"
+    },
+    {
+        "start": 74.24000000000001,
+        "end": 83.24000000000001,
+        "english": "look at some of those on language takeaway. Language takeaway. So first up, Marco, we have the word",
+        "chinese": "看一些语言小站的。语言小站。所以首先，马科，我们有这个单词。"
+    },
+    {
+        "start": 83.24,
+        "end": 90.24,
+        "english": "enchilada. That's right. We have some chicken cheese enchiladas. So this dish has chicken and",
+        "chinese": "意大利面。对，我们有鸡肉奶酪意面。所以这个菜含有鸡肉和奶酪。"
+    },
+    {
+        "start": 90.24,
+        "end": 96.24,
+        "english": "cheese, but an enchilada. What is that? Okay, so it's basically a wrap that is covered in",
+        "chinese": "英语：奶酪，但是一道玉米饼。那是什么？好吧，所以它基本上是裹着的，上面覆盖了一层。"
+    },
+    {
+        "start": 96.24,
+        "end": 102.24,
+        "english": "cheese, right? That's right. So it has a base of a flour tortilla. So a tortilla is like a",
+        "chinese": "是的，对吧？没错。所以它有一个面筋饼底。因此，面筋饼就像一个"
+    },
+    {
+        "start": 102.24,
+        "end": 108.24,
+        "english": "wrap, as you said, let's consider it as flat bread. Very thin. Very thin and it rolls up and",
+        "chinese": "裹，按照你说的，我们可以把它当作面片。非常薄，非常薄，它卷起来和展开都挺好的。"
+    },
+    {
+        "start": 109.24,
+        "end": 112.24,
+        "english": "it's covered with cheese and inside it has chicken. Very, very good. That's right. And just",
+        "chinese": "英语：它覆盖着奶酪，并且里面有一只鸡。非常，非常好。那真是对的。而且"
+    },
+    {
+        "start": 112.24,
+        "end": 118.24,
+        "english": "a warning, you're going to hear me say the American pronunciation enchilada. And you're going",
+        "chinese": "英语：警告，你即将听到我用美国口音说的玉米。你即将开始学习中文。"
+    },
+    {
+        "start": 118.24,
+        "end": 123.24,
+        "english": "to hear Marco say a more appropriate little bit with a more Hispanic accent to it. That's",
+        "chinese": "英语：听莫卡说一个更合适的西班牙语版本，这样应该会更好。"
+    },
+    {
+        "start": 123.24,
+        "end": 128.24,
+        "english": "right. So the second one we've got is guacamole. Guacamole. That's right. We say guacamole.",
+        "chinese": "正确。所以第二件我们有，就是鳄梨酱。鳄梨酱。这就是正确的。我们说鳄梨酱。"
+    },
+    {
+        "start": 128.24,
+        "end": 136.24,
+        "english": "And this is from the avocado fruit. That's right. Avocados are green fruits. They have a skin.",
+        "chinese": "英语：和这个从橄榄果中提取的成分是一样的。正确。橄榄果是绿色水果，它有皮。"
+    },
+    {
+        "start": 136.24,
+        "end": 142.24,
+        "english": "So you take the skin off and you usually mix guacamole with other ingredients. Right. It has",
+        "chinese": "英语：所以你得把皮肤弄掉，通常会和其他配料混合。对吧？它有。"
+    },
+    {
+        "start": 142.24,
+        "end": 147.24,
+        "english": "a little bit of lemon, onion, tomato, maybe a little spice. Yeah. Really good stuff. So yeah,",
+        "chinese": "英文：一小撮柠檬、洋葱和番茄，也许加点香料。嗯，真的很好吃。所以啊……"
+    },
+    {
+        "start": 147.24,
+        "end": 152.24,
+        "english": "it comes from that fruit that you said and it's kind of like a paste, right? It's",
+        "chinese": "英语：它来自你所说的那个水果，感觉有点像胶水一样。"
+    },
+    {
+        "start": 152.24,
+        "end": 158.24,
+        "english": "yeah. It's something that we often use as a dip so I can dip my potato chips or my tortilla",
+        "chinese": "是的。它经常作为蘸酱或薯条的一种方式，我可以用它蘸我的土豆片或玉米片。"
+    },
+    {
+        "start": 158.24,
+        "end": 164.24,
+        "english": "chips in it or I can use it as a sauce. All right. Very good. And our next and probably",
+        "chinese": "英语：它在你身上，或者我可以把它作为调味品使用。行吗？很好，而且我们的下一个和可能的。"
+    },
+    {
+        "start": 164.24,
+        "end": 171.24,
+        "english": "one of the most popular dishes in the Mexican cuisine world is a beef burrito. Burrito. So a",
+        "chinese": "墨西哥菜中最受欢迎的菜肴之一是牛肉玉米饼。牛肉玉米饼。所以一个"
+    },
+    {
+        "start": 171.24,
+        "end": 177.24,
+        "english": "burrito is another kind of wrap. We have a tortilla, like you said earlier, and inside",
+        "chinese": "Burrito 是另一种包的另一种形式。我们有玉米饼，就像你刚才说的那样。"
+    },
+    {
+        "start": 177.24,
+        "end": 183.24,
+        "english": "there are many different things. So usually some rice and some beans and some meat, maybe",
+        "chinese": "英语：有很多不同的东西。所以通常有一些大米、一些豆子和一些肉，也许。"
+    },
+    {
+        "start": 183.24,
+        "end": 190.24,
+        "english": "beef or chicken. That's right. So consider it kind of like a sandwich, more or less.",
+        "chinese": "牛肉或鸡肉。那应该算是个半生不熟的三明治，差不多。"
+    },
+    {
+        "start": 190.24,
+        "end": 196.24,
+        "english": "But in a blanket instead of bread. Exactly. In a blanket. And then also we have cheese",
+        "chinese": "但是，不如在毯子上。正好。然后还有奶酪。"
+    },
+    {
+        "start": 196.24,
+        "end": 203.24,
+        "english": "quesadillas. Now also these are made from the same blanket of tortilla. That's",
+        "chinese": "quesadillas. 现在也这些都是用同一块玉米面做的。"
+    },
+    {
+        "start": 203.24,
+        "end": 210.24,
+        "english": "right. So this thin tortilla, this flour tortilla is put on top and on bottom. And inside",
+        "chinese": "正确。因此，这个薄脆饼、这个面粉饼放在上面和下面。并且里面。"
+    },
+    {
+        "start": 210.24,
+        "end": 215.24,
+        "english": "you have some cheese, some melted cheese or other times you can have cheese and chicken.",
+        "chinese": "你有奶酪、一些融化了的奶酪或者其他时候可以吃奶酪和鸡肉。"
+    },
+    {
+        "start": 215.24,
+        "end": 220.24,
+        "english": "And usually you find it it's a circle, but it's cut into four pieces. So it looks like a",
+        "chinese": "通常你发现它是一个圆，但被四等分。所以看起来像一个"
+    },
+    {
+        "start": 220.24,
+        "end": 227.24,
+        "english": "pieces of a pie. That's right. And actually what you do is you heat it up in a pan so the",
+        "chinese": "蛋糕。正确。实际上，你做的就是把蛋糕放在锅里加热，让它的表面变得金黄酥脆。"
+    },
+    {
+        "start": 227.24,
+        "end": 233.24,
+        "english": "cheese inside melts. And it's very, very delicious. It is. And sometimes you have this with a",
+        "chinese": "英语：它在里面放了一块奶酪。而且味道超级棒！很好吃，有时候还会和一块奶酪一起吃呢。"
+    },
+    {
+        "start": 233.24,
+        "end": 239.24,
+        "english": "side of jalapeno. Okay. This is a some type of vegetable I would guess. It's a pepper.",
+        "chinese": "侧边的辣椒。好的。这是某种蔬菜，我猜测是辣椒。"
+    },
+    {
+        "start": 239.24,
+        "end": 244.24,
+        "english": "It's a pepper. Right. So this is a very, very spicy pepper that people often use to make",
+        "chinese": "英语：它是一颗辣椒。正确。所以这是一颗非常辣的辣椒，人们经常用来制作辣味菜肴。"
+    },
+    {
+        "start": 244.24,
+        "end": 249.24,
+        "english": "things taste hot. That's right. So you can see them. They're usually green. And they're",
+        "chinese": "事物味道热。正确。所以你可以看到它们。他们通常是绿色的。"
+    },
+    {
+        "start": 249.24,
+        "end": 255.24,
+        "english": "very, very spicy. So if you bite into it, it'll burn your mouth. It will. And sometimes",
+        "chinese": "英语：非常，非常辣。所以如果你咬了一口，它会烧你的舌头。而且有时候"
+    },
+    {
+        "start": 255.24,
+        "end": 259.24,
+        "english": "people like to put these on our next dish. What's the next dish, Marco? We have some",
+        "chinese": "意大利面。我们有几款意大利面，比如：番茄酱意面、奶油意面和香草意面。"
+    },
+    {
+        "start": 259.24,
+        "end": 265.24,
+        "english": "nachos. Okay. This is a classic text mechs dish. Like I was saying. So a lot of",
+        "chinese": "这个点和拍是傻瓜相机。很好。这是经典文本机械的碗，就像我说的。所以很多中国人都喜欢它。"
+    },
+    {
+        "start": 265.24,
+        "end": 272.24,
+        "english": "Americans love to eat this. And nachos are basically a plate of tortilla chips with",
+        "chinese": "美国人非常喜欢吃这个。而且，墨西哥玉米饼配上薯条是典型的墨西哥菜。"
+    },
+    {
+        "start": 272.24,
+        "end": 279.24,
+        "english": "what on top? Usually it has melted cheese and maybe some chili. Like we see in the",
+        "chinese": "英语：什么在上面？通常它有融化了的奶酪和辣椒。就像我们在看的那样。"
+    },
+    {
+        "start": 279.24,
+        "end": 285.24,
+        "english": "dialogue. So it will kind of just consider a plate full of these chips. They look like",
+        "chinese": "英语：对话。所以它会像这样考虑一个装满这些芯片的盘子。它们看起来像是。"
+    },
+    {
+        "start": 285.24,
+        "end": 291.24,
+        "english": "potato chips, but they're made out of flour. And on top, a lot of cheese and maybe some",
+        "chinese": "土豆条，但它们是由面粉制成的。而且在上面，可能还有奶酪和一些。"
+    },
+    {
+        "start": 291.24,
+        "end": 295.24,
+        "english": "meat or some chili on top. And Americans also like to put sour cream on top.",
+        "chinese": "肉或一些辣椒在上面。美国人也喜欢在上面放些酸奶。"
+    },
+    {
+        "start": 295.24,
+        "end": 301.24,
+        "english": "Oh, yes. Sour cream is very popular on this dish. So a lot of dishes. These are",
+        "chinese": "哦，是的。酸奶非常受欢迎于这个菜肴。因此有很多菜肴。这些是"
+    },
+    {
+        "start": 301.24,
+        "end": 306.24,
+        "english": "probably the most popular ones that you can find at most Mexican restaurants and also",
+        "chinese": "很可能是你可以在大多数墨西哥餐厅找到最受欢迎的那几个。"
+    },
+    {
+        "start": 306.24,
+        "end": 311.24,
+        "english": "in text mechs style cuisine. So why don't we take another look at everything and",
+        "chinese": "在文本风格的菜肴中。所以为什么不再仔细看看一切呢？"
+    },
+    {
+        "start": 311.24,
+        "end": 316.24,
+        "english": "we'll be back in a bit with Fluency Builder.",
+        "chinese": "我们将在稍后与 Fluent Builder 一起。"
+    },
+    {
+        "start": 316.24,
+        "end": 324.24,
+        "english": "Hello, sir. Welcome to Pistolero Restaurant. May I take your order? Yes. I would like the",
+        "chinese": "你好，先生。欢迎来到 Pistolero餐厅。请问可以让我点餐吗？好的，我想要一份招牌菜。"
+    },
+    {
+        "start": 324.24,
+        "end": 329.24,
+        "english": "chicken cheese enchiladas with a side of guacamole. Sorry, sir, but we ran out of chicken.",
+        "chinese": "鸡蛋玉米饼配一杯鳄梨。抱歉，先生，我们没有鸡肉了。"
+    },
+    {
+        "start": 329.24,
+        "end": 334.24,
+        "english": "May I suggest our delicious beef burritos or cheese quesadillas? Both include a side of",
+        "chinese": "我建议我们享用美味的牛肉汉堡或奶酪卷饼。两者的共同点是都包含一份中式菜肴。"
+    },
+    {
+        "start": 334.24,
+        "end": 340.24,
+        "english": "guacamole and jalapenos. Sure, I'll have the burrito. Do you have nachos? Of course, sir.",
+        "chinese": "酸角和辣椒。确定一下吗？当然，先生。"
+    },
+    {
+        "start": 340.24,
+        "end": 349.24,
+        "english": "Our nachos come with melted cheese and chili. Sounds good. Would you like anything to drink? Sure, I'll have a corona.",
+        "chinese": "我们的Nachos带了融化奶酪和辣椒。听起来不错，你想要什么饮料？当然，我将有一杯冠状。"
+    },
+    {
+        "start": 349.24,
+        "end": 356.24,
+        "english": "Alright, so Marco, today we have only three things to talk about in Fluency Builder. The first one is",
+        "chinese": "好的，今天在Fluency Builder里我们只讨论三个话题。第一个话题是："
+    },
+    {
+        "start": 356.24,
+        "end": 361.24,
+        "english": "something that the waiter said to the customer. It was to run out of. That's right. He wanted some",
+        "chinese": "英语：他想买一些东西。"
+    },
+    {
+        "start": 361.24,
+        "end": 368.24,
+        "english": "chicken cheese enchiladas, but unfortunately they ran out of chicken. So the fraisel verb here is to run out of.",
+        "chinese": "鸡蛋玉米饼，但不幸的是他们没有了鸡肉。所以这个句子在这里的主语是“fraiser”，谓语是“run out”。"
+    },
+    {
+        "start": 368.24,
+        "end": 376.24,
+        "english": "That's right. And we heard the past tense. So unfortunately we ran out of chicken. This means that we no longer have chicken.",
+        "chinese": "是的。而且我们听到了过去时，所以不幸的是我们没有鸡肉了。这意味着我们现在没有鸡肉了。"
+    },
+    {
+        "start": 376.24,
+        "end": 384.24,
+        "english": "We sold all of the chicken. That's right. So for example, if you're in your car and all of a sudden you run out of gasoline,",
+        "chinese": "我们卖完了所有的鸡肉。对吧？所以，比如说，在你的汽车里突然没有汽油了，你该怎么办呢？"
+    },
+    {
+        "start": 384.24,
+        "end": 391.24,
+        "english": "it means your car will stop running. That's very bad situation. So to run out of means to not have",
+        "chinese": "英语：它意味着你的汽车将停止运行。那真是非常糟糕的情况。所以，为了不失去控制，我们必须尽快离开。"
+    },
+    {
+        "start": 391.24,
+        "end": 396.24,
+        "english": "anymore. That's right. So you ran out of money. Maybe you have no more money. Another bad situation.",
+        "chinese": "当然。你已经没有钱了。也许你没有更多的钱。还有另一个糟糕的情况。"
+    },
+    {
+        "start": 396.24,
+        "end": 402.24,
+        "english": "Alright. So instead he ordered a burrito that included a side of guacamole and jalapenos.",
+        "chinese": "好的。所以，他点了加了辣椒酱和 jalapeño 的墨西哥玉米饼。"
+    },
+    {
+        "start": 402.24,
+        "end": 409.24,
+        "english": "Okay. So the reason we included this is because it's important to remember this as a phrase, a side of.",
+        "chinese": "好的。所以这个原因是因为它是我们用来记住这句话，这是它的一个方面。"
+    },
+    {
+        "start": 409.24,
+        "end": 417.24,
+        "english": "That's right. So this burrito comes with a side of guacamole or this burrito has a side of beans.",
+        "chinese": "是的，正确。这个三明治套餐里有鳄梨或者这个三明治有玉米片。"
+    },
+    {
+        "start": 417.24,
+        "end": 426.24,
+        "english": "So a side of means a small portion, a little bit. That's right. The most important part of a side of is that it doesn't",
+        "chinese": "所以，一个侧面的含义是小部分、一小块。没错。侧面的一个重要组成部分就是它不包含任何东西。"
+    },
+    {
+        "start": 426.24,
+        "end": 434.24,
+        "english": "come in the dish or inside the burrito. Let's say it just comes separately on a separate little plate or it can come next to,",
+        "chinese": "请把这个放在一个单独的小盘子里或者旁边，然后我们再一起把它带到厨房里。"
+    },
+    {
+        "start": 434.24,
+        "end": 443.24,
+        "english": "yeah, next to the main dish. So if the main dish is tacos, you can say I want tacos with a side of black beans.",
+        "chinese": "是的，接下来要和你一起享用主菜。如果主菜是 tacos，你可以这么说：“我要在旁边加一些黑豆。”"
+    },
+    {
+        "start": 443.24,
+        "end": 448.24,
+        "english": "You would get the black beans in a little bowl next to you, but that's not the main thing. Exactly. Exactly.",
+        "chinese": "你将在你的旁边看到一个小碗，但那不是主要的。对了。对了。"
+    },
+    {
+        "start": 448.24,
+        "end": 457.24,
+        "english": "So a side of now for our last phrase, when we talked about the nachos, they came with melted cheese and chili.",
+        "chinese": "所以，现在我们聊一下我们的晚餐，他们带了融化奶酪和辣椒。"
+    },
+    {
+        "start": 457.24,
+        "end": 461.24,
+        "english": "So what do we mean by they come with melted cheese and chili?",
+        "chinese": "所以他们带了奶油和辣椒吗？"
+    },
+    {
+        "start": 461.24,
+        "end": 468.24,
+        "english": "Okay. So this verb to come with means that they they have as a part of the dish. So this is not a side, right?",
+        "chinese": "好的。所以这个表示伴随的词意味着他们作为部分的一部分，而不是侧面的吗？"
+    },
+    {
+        "start": 468.24,
+        "end": 478.24,
+        "english": "Not like before when we were talking about a side of this means that in the case of nachos, the nachos have on them on top, cheese and chili.",
+        "chinese": "不是以前那种，当我们谈论这个意思时，那里的 nachos 有上面的配料，里面有奶酪和辣椒。"
+    },
+    {
+        "start": 478.24,
+        "end": 488.24,
+        "english": "That's right. So sometimes if you go about in McDonald's and you buy a meal, you get a burger and the burger comes with French fries and a coke included in the meal.",
+        "chinese": "是的，你说得对。有时候如果你去麦当劳吃午餐，并且买了一份餐食，你就会得到一个汉堡、薯条和可乐等食物。"
+    },
+    {
+        "start": 488.24,
+        "end": 495.24,
+        "english": "Or you can say, unfortunately, this meal does not come with a drink. So you have to order the drink extra.",
+        "chinese": "英语：或者你可以这么说，遗憾的是，这个餐点没有带饮料。所以你需要额外购买饮料。"
+    },
+    {
+        "start": 495.24,
+        "end": 501.24,
+        "english": "That's right. Okay. So a lot of great stuff. Let's take another look and we'll be right back.",
+        "chinese": "正确。好的。那么，很多好东西。让我们再看看，然后我们再来。"
+    },
+    {
+        "start": 507.24,
+        "end": 510.24,
+        "english": "Hello, sir. Welcome to Pistolator Restaurant. May I take your order?",
+        "chinese": "你好，先生。欢迎来到 Pistolator餐厅，请问我可以为您点餐吗？"
+    },
+    {
+        "start": 510.24,
+        "end": 515.24,
+        "english": "Yes. I would like the chicken cheese and chiladas with a side of guacamole.",
+        "chinese": "是的。我想要一份鸡胸肉和一些鳄梨沙拉。"
+    },
+    {
+        "start": 515.24,
+        "end": 521.24,
+        "english": "Sorry, sir, but we ran out of chicken. May I suggest our delicious beef burritos or cheese case ideas?",
+        "chinese": "对不起，先生，但我们已经用完了鸡肉。请问我们是否可以考虑我们的牛肉汉堡或芝士卷呢？"
+    },
+    {
+        "start": 521.24,
+        "end": 524.24,
+        "english": "Both include a side of guacamole and jalapenos.",
+        "chinese": "两者都包括一个切片和辣椒酱的组合。"
+    },
+    {
+        "start": 524.24,
+        "end": 527.24,
+        "english": "Sure. I'll have the burrito. If you have nachos.",
+        "chinese": "当然，我会准备这些。如果你有甜甜圈，请随时告诉我。"
+    },
+    {
+        "start": 527.24,
+        "end": 531.24,
+        "english": "Of course, sir. Our nachos come with melted cheese and chili.",
+        "chinese": "当然，先生。我们的 Nacho 有奶油和辣椒酱。"
+    },
+    {
+        "start": 531.24,
+        "end": 534.24,
+        "english": "Sounds good. Would you like anything to drink?",
+        "chinese": "英语：听起来不错。你有什么想喝的吗？"
+    },
+    {
+        "start": 534.24,
+        "end": 536.24,
+        "english": "Sure. I'll have a corona.",
+        "chinese": "是的，我将拥有冠状病毒。"
+    },
+    {
+        "start": 537.24,
+        "end": 545.24,
+        "english": "All right. So Mexican food, very, very delicious. And as we see, it has a lot of cheese and most dishes.",
+        "chinese": "好的。所以墨西哥菜，非常美味。而且我们看到，它有很多奶酪和大多数菜肴。"
+    },
+    {
+        "start": 545.24,
+        "end": 555.24,
+        "english": "It does. A lot of cheese and also a lot of tortillas. So tortillas are these usually round flats pancake-like things.",
+        "chinese": "英语：它能做。很多奶酪，还有许多玉米棒子。所以这些通常是圆形的、扁平的小面团。"
+    },
+    {
+        "start": 555.24,
+        "end": 563.24,
+        "english": "They're not sweet. They're savory. And you usually put things in them like tacos or fajitas or burritos.",
+        "chinese": "他们不是甜的，也不是咸的。通常他们会把东西放在这些地方： taco, fajitas 或者 burritos。"
+    },
+    {
+        "start": 564.24,
+        "end": 566.24,
+        "english": "That's right. And there's two kinds, right?",
+        "chinese": "是的，还有其他选项。请告诉我更多细节。"
+    },
+    {
+        "start": 566.24,
+        "end": 570.24,
+        "english": "That's right. So you have tortillas that are made from flour that are usually white.",
+        "chinese": "是的，你做得很好。那么，这些玉米面通常都是白色的吗？"
+    },
+    {
+        "start": 570.24,
+        "end": 575.24,
+        "english": "And then you have corn tortillas that are made from corn and they're usually a little bit more yellow.",
+        "chinese": "然后你有玉米面制成的棒子，通常稍微有些黄色。"
+    },
+    {
+        "start": 575.24,
+        "end": 582.24,
+        "english": "That's right. So it's actually Mexican food is very, very good. But usually it's a little bit spicy.",
+        "chinese": "是的，你说得对。实际上，墨西哥菜非常美味，但通常味道偏辣。"
+    },
+    {
+        "start": 582.24,
+        "end": 587.24,
+        "english": "So if you don't really like spicy food, you should tell the waiter or waitress to not make it spicy.",
+        "chinese": "所以如果你真的不喜欢辣的食物，你应该让服务员或侍者不要加辣椒。"
+    },
+    {
+        "start": 587.24,
+        "end": 592.24,
+        "english": "That's right. If you don't eat spicy food, you certainly don't want to eat any jalapeno peppers.",
+        "chinese": "是的，如果你不吃辣的食物，你肯定也不喜欢吃任何辣椒。"
+    },
+    {
+        "start": 593.24,
+        "end": 600.24,
+        "english": "That's right. I'm actually not really a fan of spicy food. So for example, I really cannot eat jalapeno peppers.",
+        "chinese": "是的，我理解了。实际上我对辣味食物并不感兴趣。例如，我实在无法吃辣椒。"
+    },
+    {
+        "start": 600.24,
+        "end": 607.24,
+        "english": "See, I'm the opposite. I love spicy food. So I often order green enchiladas, which have a spicy jalapeno green sauce.",
+        "chinese": "英语：看，我就是这个。我喜欢辣的食品。所以我经常订购绿色玉米 enchiladas，这有辣椒绿酱。"
+    },
+    {
+        "start": 607.24,
+        "end": 614.24,
+        "english": "Yeah, they're very, very spicy. So this is part of our mini series that we have all about world foods.",
+        "chinese": "是的，他们非常辣。所以这是我们的迷你系列的一部分，关于我们世界美食的详细介绍。"
+    },
+    {
+        "start": 614.24,
+        "end": 621.24,
+        "english": "We've already taken a look at Italian food. We have Mexican food. Next we'll be looking at Indian food, Korean food.",
+        "chinese": "我们已经看了意大利食物。我们还有墨西哥食物。接下来我们将看印度食物、韩国食物。"
+    },
+    {
+        "start": 621.24,
+        "end": 628.24,
+        "english": "A lot of great international foods coming up. Yummy. So let us know. Do you like Mexican food? Have you ever had Mexican food?",
+        "chinese": "很多国际美食正在涌现。好吃的。所以请告诉我。你喜欢墨西哥食物吗？你曾经吃过墨西哥食物吗？"
+    },
+    {
+        "start": 628.24,
+        "end": 632.24,
+        "english": "And if we left off some kind of Mexican food like tacos, let us know. That's right.",
+        "chinese": "如果我们可以继续一些墨西哥食物，比如玉米卷饼，那就太好了。"
+    },
+    {
+        "start": 632.24,
+        "end": 635.24,
+        "english": "Our website is englishpod.com. We'll see you there. Alright, bye.",
+        "chinese": "我们的网站是englishpod.com。我们将在这里见面。好了，再见！"
+    }
+]

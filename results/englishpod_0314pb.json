@@ -1,0 +1,686 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.8,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.8,
+        "end": 8.4,
+        "english": "My name is Catherine and today we're making a phone call.",
+        "chinese": "我的名字是凯特，今天我们要做的是一个电话会议。"
+    },
+    {
+        "start": 8.4,
+        "end": 13.76,
+        "english": "That's right we are making a special type of phone call. We're making a collect call.",
+        "chinese": "是的，我们正在准备一个特别类型的电话。我们将进行一次集会通话。"
+    },
+    {
+        "start": 13.76,
+        "end": 18.240000000000002,
+        "english": "So we will explain what this means. Let's listen to the dialogue. Let's see if you can",
+        "chinese": "所以我们将解释一下这个意思。让我们听听对话。让我们看看你能不能理解。"
+    },
+    {
+        "start": 18.240000000000002,
+        "end": 22.240000000000002,
+        "english": "more or less guess what a collect call means and we'll be right back.",
+        "chinese": "英语：更或稍作猜测，我们将在适当的时候回来。"
+    },
+    {
+        "start": 30.8,
+        "end": 38.16,
+        "english": "This is the operator. Help me. I help you. Yes, I would like to make a collect call.",
+        "chinese": "这个是操作员。请帮助我。我帮你们。对，我想做一次通话。"
+    },
+    {
+        "start": 38.16,
+        "end": 40.4,
+        "english": "Okay sir, please dial the number.",
+        "chinese": "好的，先生，请拨打电话。"
+    },
+    {
+        "start": 44.4,
+        "end": 48.16,
+        "english": "Now please state your name. Tommy. Please wait a moment.",
+        "chinese": "现在请告诉我你的名字。汤米，请稍等片刻。"
+    },
+    {
+        "start": 48.16,
+        "end": 62.559999999999995,
+        "english": "Hello, you have a collect call from Tommy. Would you like to accept the charges?",
+        "chinese": "你好，你有从汤米处收到的欠款请求。你想接受这笔费用吗？"
+    },
+    {
+        "start": 62.559999999999995,
+        "end": 66.8,
+        "english": "Yes of course. Yes Tommy, what happened? Are you okay?",
+        "chinese": "是的，你说得对。汤米，发生了什么事？你没事吧？"
+    },
+    {
+        "start": 66.8,
+        "end": 71.44,
+        "english": "Yes, everything is okay. I'm calling you because I want to know if it's okay for me to go to my",
+        "chinese": "是的，一切都好。我打电话给你是因为我想知道是否可以去我的公司参观一下。"
+    },
+    {
+        "start": 71.44,
+        "end": 76.8,
+        "english": "friend's house today after school. Yeah sure no problem. You scared me to death.",
+        "chinese": "今天朋友家后学校。嗯，没问题。你吓死我了。"
+    },
+    {
+        "start": 76.8,
+        "end": 81.52,
+        "english": "I've told you to make a collect call in case of an emergency only. Why didn't you call me from",
+        "chinese": "我告诉过你，如果遇到紧急情况，请不要打我的电话。为什么你不让我打我的电话？"
+    },
+    {
+        "start": 81.52,
+        "end": 86.72,
+        "english": "your mobile phone? I read it a credit and I also didn't have 25 cents for the pay phone. Sorry dad.",
+        "chinese": "你的手机？我读了这个，但没有25元的零钱。对不起爸爸。"
+    },
+    {
+        "start": 90.16,
+        "end": 94.0,
+        "english": "All right so we're back. We've got a number of words and phrases to look at. Let's check out",
+        "chinese": "好的，我明白了。请看以下示例："
+    },
+    {
+        "start": 94.0,
+        "end": 102.88,
+        "english": "our words in language takeaway first. Language takeaway. All right so as we mentioned we are",
+        "chinese": "我们的语言总结首先。语言总结。一切好，所以既然我们提到，我们就"
+    },
+    {
+        "start": 102.88,
+        "end": 109.36,
+        "english": "making a collect call. So what exactly is a collect call? All right well a collect call is a phone",
+        "chinese": "一个收集呼叫。那么，什么是收集呼叫？很好，一个收集呼叫是一个电话。"
+    },
+    {
+        "start": 109.36,
+        "end": 116.24,
+        "english": "call you make when you don't have any money and the phone company charges the person who answers",
+        "chinese": "当您没有钱，且运营商要求接听电话的人回答时，请使用您的名字。"
+    },
+    {
+        "start": 116.24,
+        "end": 123.6,
+        "english": "the phone. Okay. So if I call my mom with a collect call my mom pays. Not you. Not me.",
+        "chinese": "英文：电话。"
+    },
+    {
+        "start": 123.6,
+        "end": 128.64,
+        "english": "And you can do this pretty much from any phone right? That's right you can do this from any phone",
+        "chinese": "您也可以从任何手机轻松实现这个吗？没错，您也可以从任何手机轻松实现这个。"
+    },
+    {
+        "start": 128.64,
+        "end": 134.23999999999998,
+        "english": "normally people use pay phones to do this. But there is one condition that is important with the",
+        "chinese": "英语：通常，人们使用公共电话亭来完成这项任务。但有一个重要的条件需要遵守。"
+    },
+    {
+        "start": 134.23999999999998,
+        "end": 139.35999999999999,
+        "english": "collect call. The person who answers the phone they have to say that it's okay that they pay.",
+        "chinese": "英语：打电话。他们必须说，他们应该支付电话费。"
+    },
+    {
+        "start": 139.92,
+        "end": 144.64,
+        "english": "Okay they can't you can't just use this with anybody. Okay very good. So actually when the guy was",
+        "chinese": "好的，他们不能。你不能随便使用这个。很好。所以实际上当那个家伙是"
+    },
+    {
+        "start": 144.64,
+        "end": 152.48,
+        "english": "making this collect call the operator asked him to dial the number. Okay so this is an important",
+        "chinese": "英语：这是一款点和拍的相机。"
+    },
+    {
+        "start": 152.48,
+        "end": 158.07999999999998,
+        "english": "verb that we have with making a telephone call. You don't you make a call but with the number the",
+        "chinese": "英语：我们有打电话的语法。你不用打电话，而是用号码。"
+    },
+    {
+        "start": 158.08,
+        "end": 163.44000000000003,
+        "english": "phone number you actually have to dial it. Right. And that comes from those old phones where you don't",
+        "chinese": "电话号码你必须拨。对，那是那些老手机里的号码。"
+    },
+    {
+        "start": 163.44000000000003,
+        "end": 168.16000000000003,
+        "english": "push the numbers you pull them. Yeah you have to spin the little wheel. Yeah there's circles and you",
+        "chinese": "请告诉我，您需要我如何帮助您？"
+    },
+    {
+        "start": 168.16000000000003,
+        "end": 174.56,
+        "english": "pull the numbers and spin the wheel around. But the verb now is to dial a number. To dial a number",
+        "chinese": "将数字和旋转轮子一起转。但现在是拨打电话。拨打电话"
+    },
+    {
+        "start": 174.56,
+        "end": 182.32000000000002,
+        "english": "that's right. Okay so you dial your number and well actually as we said you're making this collect",
+        "chinese": "对的。所以你拨号，实际上我们已经说好了，你要做的是这个收集。"
+    },
+    {
+        "start": 182.32,
+        "end": 189.35999999999999,
+        "english": "call because maybe you don't have any money. In this case sometimes in your mobile phone you have",
+        "chinese": "英语：请，因为也许你没有多少钱。在这种情况下，在你的手机里有时会有一些钱。"
+    },
+    {
+        "start": 189.35999999999999,
+        "end": 195.51999999999998,
+        "english": "what we call credit. This is an important word this is a noun you have it or you don't have it.",
+        "chinese": "我们称它为信用。这是一个重要的词汇，你有它吗？或者你没有呢？"
+    },
+    {
+        "start": 195.51999999999998,
+        "end": 202.16,
+        "english": "On my phone for example I have a lot of credit. But maybe if I don't have any credit I run out of",
+        "chinese": "英语：在我的手机上，我有很多的信用。不过，如果我没有信用，我可能会很快用完。"
+    },
+    {
+        "start": 202.16,
+        "end": 207.6,
+        "english": "credit. I don't have any money left. I can't make a phone call. That's right. So this is what it",
+        "chinese": "信用。我没有钱了，我不能打个电话。对，这就是它。"
+    },
+    {
+        "start": 207.6,
+        "end": 212.72,
+        "english": "means when you have credit in your phone it means that you have some money with the telephone",
+        "chinese": "英语：它意味着当你在你的手机上有信用时，你就有了一些钱。"
+    },
+    {
+        "start": 212.72,
+        "end": 217.6,
+        "english": "company. So when you make a call they discount it from there. But if you don't have any more credit",
+        "chinese": "公司。所以，当你打电话时，他们从那里给你折扣。但如果你没有更多的信用了，你就不能打这个电话。"
+    },
+    {
+        "start": 217.6,
+        "end": 223.2,
+        "english": "you can't make any phone calls. Exactly. So basically credit represents money. That's right.",
+        "chinese": "你不能随便打电话。对，基本上信用代表钱。这就是正确的。"
+    },
+    {
+        "start": 223.84,
+        "end": 229.84,
+        "english": "Okay and as you said a collect call you usually make it from a pay phone. So what is a pay phone?",
+        "chinese": "好的，我明白了。请告诉我更多关于“pay phone”的信息。"
+    },
+    {
+        "start": 229.84,
+        "end": 234.56,
+        "english": "Okay well we have phones at people's houses and some regular phones and we have cell phones which",
+        "chinese": "好的，我们有手机在家里，有些常规的手机和一些智能手机。"
+    },
+    {
+        "start": 234.56,
+        "end": 240.4,
+        "english": "you can carry around. Well pay phones are public phones that you have to use money in order to make",
+        "chinese": "你可以在随身携带。好，电话是公共电话，你需要用钱才能使用。"
+    },
+    {
+        "start": 240.4,
+        "end": 247.12,
+        "english": "a call on. Okay so usually you will see these at airports for example. Airports, train stations,",
+        "chinese": "英语：一个电话。"
+    },
+    {
+        "start": 247.12,
+        "end": 253.04,
+        "english": "any big public place where people need to use phones. They're less common now in some places but",
+        "chinese": "英文：任何需要使用手机的地方，现在在一些地方不太常见了。"
+    },
+    {
+        "start": 253.04,
+        "end": 259.12,
+        "english": "basically you you have to put the coins the money coins into the phone to get the phone to work.",
+        "chinese": "基本你得把硬币放进手机里才能让手机工作。"
+    },
+    {
+        "start": 259.12,
+        "end": 263.76,
+        "english": "Right. If you don't have any money you can't make a call. Yeah that's right. Okay so",
+        "chinese": "是的，如果你没有足够的钱，你不能打电话。对吧？嗯，所以"
+    },
+    {
+        "start": 264.56,
+        "end": 268.72,
+        "english": "four key words there why don't we take a break and listen to the dialogue again.",
+        "chinese": "英语：四关键词，我们为什么不休息听对话呢？"
+    },
+    {
+        "start": 280.4,
+        "end": 285.12,
+        "english": "This is the operator. Help me I help you. Yes I would like to make a collect call.",
+        "chinese": "这个是操作员。请帮我，我帮您。是的，我想进行一次通话。"
+    },
+    {
+        "start": 285.12,
+        "end": 287.12,
+        "english": "Okay sir please dial the number.",
+        "chinese": "您好，请拨打电话。"
+    },
+    {
+        "start": 287.12,
+        "end": 294.88,
+        "english": "Now please state your name. Tommy please wait a moment.",
+        "chinese": "现在请告诉我你的名字。汤姆，请稍等片刻。"
+    },
+    {
+        "start": 304.64,
+        "end": 309.6,
+        "english": "Hello you have a collect call from Tommy would you like to accept the charges?",
+        "chinese": "你好，你有从汤米那里收到的汇款申请吗？"
+    },
+    {
+        "start": 309.6,
+        "end": 313.68,
+        "english": "Yes of course. Yes. Yeah Tommy what happened are you okay?",
+        "chinese": "是的，是的。汤米，你没事吧？"
+    },
+    {
+        "start": 313.68,
+        "end": 318.16,
+        "english": "Yeah dad everything is okay I'm calling you because I want to know if it's okay for me to go to my",
+        "chinese": "是的，爸爸。一切都很好。我打电话给你是因为我想知道你是否允许我去去我的地方。"
+    },
+    {
+        "start": 318.16,
+        "end": 324.16,
+        "english": "friend's house today after school. Yeah sure no problem. You scared me to death. I've told you to",
+        "chinese": "今天朋友家后学校。嗯，没问题。你吓死我了。我已经告诉你了，别告诉别人。"
+    },
+    {
+        "start": 324.16,
+        "end": 329.28000000000003,
+        "english": "make a collect call in case of an emergency only. Why didn't you call me from your mobile phone?",
+        "chinese": "英语：在紧急情况下只拨打我的手机。为什么你不从你的移动电话里拨给我？"
+    },
+    {
+        "start": 329.28000000000003,
+        "end": 333.44,
+        "english": "I read it a credit and I also didn't have 25 cents for the pay phone. Sorry dad.",
+        "chinese": "英语：我读了这则公告，而且我没有25美分的零钱。对不起爸爸。"
+    },
+    {
+        "start": 336.72,
+        "end": 341.04,
+        "english": "All right now we're going to talk a little bit more about the phrases we found in this dialogue",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 341.04,
+        "end": 348.96000000000004,
+        "english": "on fluency builder. Fluency builder. So this first phrase is a phrase that you might encounter in",
+        "chinese": "英语：它是一台点和拍相机。"
+    },
+    {
+        "start": 348.96000000000004,
+        "end": 353.76000000000005,
+        "english": "many different situations but today's situation is making a collect call so we heard this phrase",
+        "chinese": "英语：许多不同的情况，但今天的情况让我们想起了这个短语。"
+    },
+    {
+        "start": 354.40000000000003,
+        "end": 362.08000000000004,
+        "english": "please state your name. That's right. So you have a verb here to state your name. state your age",
+        "chinese": "请告诉我您的名字。您是正确的。因此，您在这里需要一个动词来描述自己的名字。描述自己的年龄。"
+    },
+    {
+        "start": 362.08000000000004,
+        "end": 368.8,
+        "english": "and that basically means to tell us tell me or tell us what is your name. That's right so if I say",
+        "chinese": "英语：和那基本上意味着告诉你们或者告诉你们你的名字。嗯，如果我说，\"你叫什么名字？\" 你会说：\"你好，我叫XXX。\""
+    },
+    {
+        "start": 368.88,
+        "end": 375.12,
+        "english": "hey you state your name. Uh-huh that means I have to say my name Marco for example. So you can",
+        "chinese": "你好，你叫什么名字。嗯，你说我的名字就是我叫Marco的例子。所以你可以这样称呼我："
+    },
+    {
+        "start": 375.12,
+        "end": 380.8,
+        "english": "use it for name for age. Yes state your birthday please. So this is often what we have to do when",
+        "chinese": "英语：使用它来命名，告诉我你的生日。所以通常我们得这么做，当我们在谈论我们的家庭成员时。"
+    },
+    {
+        "start": 380.8,
+        "end": 385.6,
+        "english": "we're on the phone with a service company. So the bank will ask us what is your you know state your",
+        "chinese": "我们正在电话联系一家服务公司。因此银行将询问我们的状态，即您知道您的情况是什么？"
+    },
+    {
+        "start": 385.6,
+        "end": 391.44,
+        "english": "birthday please or state your last name or state your phone number. They want to confirm our personal",
+        "chinese": "生日请告诉我或告知你的姓名，以便确认我们的个人信息。"
+    },
+    {
+        "start": 391.44,
+        "end": 397.2,
+        "english": "information. Okay and well as we heard it so once you do all this you make a collect call.",
+        "chinese": "信息。嗯，我们已经说了，你做好这些事情后，就可以做收集电话了。"
+    },
+    {
+        "start": 397.2,
+        "end": 404.08,
+        "english": "The person on the other side has to accept and this is when the operator said would you like to accept",
+        "chinese": "英语：另一边的那个人必须接受，这是当操作员说你愿意接受的时候。"
+    },
+    {
+        "start": 404.08,
+        "end": 411.68,
+        "english": "the charges. In this case to accept the charges means to offer to pay okay. So if you accept",
+        "chinese": "这个费用。在这种情况下，接受费用意味着愿意支付合理的价格。所以如果你愿意支付合理的价格，我们可以达成协议。"
+    },
+    {
+        "start": 411.68,
+        "end": 418.08,
+        "english": "the charges that means that the phone company will ask you for money when your bill comes. That's",
+        "chinese": "这个费用意味着你的手机公司会要求你支付钱，直到你的账单到来。"
+    },
+    {
+        "start": 418.08,
+        "end": 426.08,
+        "english": "right. So you accept to be charged with money or you accept the charges that come with this telephone",
+        "chinese": "是的，您接受将被罚款或支付此电话费用。"
+    },
+    {
+        "start": 426.08,
+        "end": 431.84,
+        "english": "call. That's right. Alright and now the dad finally says are you okay you know is everything",
+        "chinese": "请翻译成中文："
+    },
+    {
+        "start": 431.84,
+        "end": 437.76,
+        "english": "alright and apparently it was a very trivial thing. He just called to make sure that he can go to",
+        "chinese": "好的，似乎这是一个非常简单的事务。他只是打电话确认自己可以去。"
+    },
+    {
+        "start": 437.76,
+        "end": 443.68,
+        "english": "his friend's house and the dad said you scared me to death. Okay parents often use this phrase in",
+        "chinese": "英语：他的朋友的房子和爸爸说你吓死我了。父母经常用这句话来表达这种感觉。"
+    },
+    {
+        "start": 443.68,
+        "end": 451.03999999999996,
+        "english": "English. Uh this means you had me very worried. I was so worried so you scared me to death. That",
+        "chinese": "英语。嗯，这确实意味着你让我非常担心。我真的很担心你会吓到我。"
+    },
+    {
+        "start": 451.12,
+        "end": 456.72,
+        "english": "doesn't mean that the father died. Right. I mean he was very very very scared. Right exactly. So it's a",
+        "chinese": "不是。正确的说法是：他非常害怕，所以这是一只傻瓜相机。"
+    },
+    {
+        "start": 456.72,
+        "end": 462.8,
+        "english": "phrase a little bit obviously with exaggeration but very common to hear you scared me to death. You",
+        "chinese": "英语：它有点像傻瓜相机，但很常见听到你吓得发抖。"
+    },
+    {
+        "start": 462.8,
+        "end": 469.76,
+        "english": "scared me a lot. Yes. And uh why did he scare him to death because he told his son to make a",
+        "chinese": "英语：吓到我了。对，他为什么这么凶，因为他告诉他的儿子要自己动手做这个。"
+    },
+    {
+        "start": 469.76,
+        "end": 477.84000000000003,
+        "english": "collect call in case of an emergency only. Okay so this phrase in case of an emergency is a fixed",
+        "chinese": "英语：收集紧急情况下的联系卡。很好，这个固定表达是应急情况下的一种联系卡。"
+    },
+    {
+        "start": 477.84,
+        "end": 483.03999999999996,
+        "english": "phrase. You can see this on the metro. You can see this on the bus but also you can hear this",
+        "chinese": "英语：它在地铁上也能看到，也可以在公交车上也能听到。"
+    },
+    {
+        "start": 483.03999999999996,
+        "end": 490.0,
+        "english": "in conversation. And so in case of an emergency means only when there is an emergency situation,",
+        "chinese": "在对话中。而且，在紧急情况下，只有在这种情况下才适用。"
+    },
+    {
+        "start": 490.0,
+        "end": 496.79999999999995,
+        "english": "a fire, an accident, something like that. That's right. It may be on a train you have seen or an",
+        "chinese": "英语：一个大火，一次事故，类似这样的。没错。它可能是你在火车上见过的，或者是一次交通事故。"
+    },
+    {
+        "start": 496.79999999999995,
+        "end": 504.71999999999997,
+        "english": "airplane. Uh you have a big red button or a lever that says pull in case of emergency. That means",
+        "chinese": "飞机。抱歉，你有一个大红色按钮或一个可以扳动的按钮，表示在紧急情况下拉出。这意味着。"
+    },
+    {
+        "start": 504.72,
+        "end": 509.92,
+        "english": "don't pull it now but pull it if there's a serious problem. That's right. So the father says you",
+        "chinese": "不要现在就拔，如果问题严重的话，那也是对的。所以父亲说你。"
+    },
+    {
+        "start": 509.92,
+        "end": 515.2,
+        "english": "know what? I told you only make a collect call in case of an emergency. That means if there's an",
+        "chinese": "英语：你知道吗？我告诉你，只有在紧急情况下才打电话。这意味着如果有紧急情况发生，你只能拨打一个号码。"
+    },
+    {
+        "start": 515.2,
+        "end": 520.88,
+        "english": "accident, if the boys in the hospital, if there is something serious happening, then it's okay to",
+        "chinese": "事故，如果医院里有重大情况发生，那么可以原谅他们。"
+    },
+    {
+        "start": 520.88,
+        "end": 526.08,
+        "english": "charge. That's right. To make this collect call but other times like you know you forgot your wallet.",
+        "chinese": "请看以下翻译："
+    },
+    {
+        "start": 526.08,
+        "end": 531.52,
+        "english": "That's not an emergency. Yeah. All right very good. So why don't we listen to our dialogue one",
+        "chinese": "这不是紧急情况。好的，很好。所以为什么不听我们的对话呢？"
+    },
+    {
+        "start": 531.52,
+        "end": 533.52,
+        "english": "last time and we'll be right back.",
+        "chinese": "上一次，我们将会回到这里。"
+    },
+    {
+        "start": 544.88,
+        "end": 549.6,
+        "english": "This is the operator. Help me. I help you. Yes, I would like to make a collect call.",
+        "chinese": "这个是操作员。请帮助我。我会帮你，对吧？好的，我可以为您做一次通话。"
+    },
+    {
+        "start": 549.6,
+        "end": 551.52,
+        "english": "Okay sir. Please dial the number.",
+        "chinese": "好的，先生。请拨打电话。"
+    },
+    {
+        "start": 555.6,
+        "end": 559.36,
+        "english": "Now please state your name. Tommy. Please wait a moment.",
+        "chinese": "现在请告诉我你的名字。汤米，请稍等片刻。"
+    },
+    {
+        "start": 562.0,
+        "end": 574.8,
+        "english": "Hello. You have a collect call from Tommy. Would you like to accept the charges? Yes of course.",
+        "chinese": "你好。你有从汤米那里收到的收据，请问您是否愿意接受费用？当然，好。"
+    },
+    {
+        "start": 575.1999999999999,
+        "end": 580.24,
+        "english": "Death? Yeah Tommy. What happened? Are you okay? Yeah, dead. Everything is okay. I'm calling",
+        "chinese": "英语：死亡？嗯，汤米。发生了什么？你没事吧？是的，死了。一切都好。我叫。"
+    },
+    {
+        "start": 580.24,
+        "end": 584.48,
+        "english": "you because I want to know if it's okay for me to go to my friend's house today after school.",
+        "chinese": "你因为今天放学后想去你的朋友家玩，所以我想知道这事儿是否合适。"
+    },
+    {
+        "start": 584.48,
+        "end": 590.24,
+        "english": "Yeah sure. No problem. You scared me to death. I've told you to make a collect call in case of",
+        "chinese": "是的，没问题。你吓坏了我。我已经告诉你了，如果遇到紧急情况，请立即拨打客服热线。"
+    },
+    {
+        "start": 590.24,
+        "end": 595.12,
+        "english": "an emergency only. Why didn't you call me from your mobile phone? I read it a credit and I also",
+        "chinese": "一个紧急情况。你怎么不打电话告诉我呢？我读到了这个信用，我也在想。"
+    },
+    {
+        "start": 595.12,
+        "end": 604.24,
+        "english": "didn't have 25 cents for the pay phone. Sorry dad. So making a collect call, very common thing as",
+        "chinese": "英语：它没有25美分的电话费。对不起爸爸，所以打电话的时候很常见。"
+    },
+    {
+        "start": 604.24,
+        "end": 609.28,
+        "english": "well. This is the scenario you will find in the United States for example if you go to a pay phone,",
+        "chinese": "好的，我明白了。请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 609.28,
+        "end": 613.92,
+        "english": "you don't have any money, you want to call your friend, the tour guide, the airport, anything,",
+        "chinese": "你没钱，想叫你的朋友、导游、机场、什么的。"
+    },
+    {
+        "start": 613.92,
+        "end": 619.36,
+        "english": "you can make a collect call. That's right and this is something that is like I said becoming less",
+        "chinese": "你可以说，你可以制作一个收集电话。那真是棒极了，这和我说的，变得越来越少一样。"
+    },
+    {
+        "start": 619.36,
+        "end": 624.16,
+        "english": "common with cell phones. But generally speaking if you don't have any money and you have an",
+        "chinese": "英语：它通常与智能手机兼容。但一般来说，如果你没有多少钱或者没有手机的话，你可能需要一些额外的设备来完成你的任务。"
+    },
+    {
+        "start": 624.16,
+        "end": 629.52,
+        "english": "emergency situation or you need to call someone, it's very important then you can make a collect call.",
+        "chinese": "紧急情况或需要联系人，那么你可以立即拨打急救电话。"
+    },
+    {
+        "start": 629.52,
+        "end": 634.48,
+        "english": "You dial 0 for the operator and you say I want to make a collect call and they will ask you these",
+        "chinese": "英语：你拨号0，然后说我要做一次集会电话，并且他们将问你这些。"
+    },
+    {
+        "start": 634.48,
+        "end": 638.96,
+        "english": "important questions. And then what the other person hears is you know, Catherine would like to make",
+        "chinese": "重要的问题。然后，听到的其他人是您知道的，凯特琳想说："
+    },
+    {
+        "start": 638.96,
+        "end": 643.2,
+        "english": "a collect call. Right. Exactly. Will you accept the charges and you know if you're my mother you'll",
+        "chinese": "a收集联系。正确。你是否愿意接受这些费用，以及你是否知道如果我是你的母亲，你会愿意支付这些费用？"
+    },
+    {
+        "start": 643.2,
+        "end": 649.6,
+        "english": "say yes. That's right. Now as you said, pay phones, they used to be all over the place and you",
+        "chinese": "是的，你说得对。现在你说了，你们的电话到处都是，他们以前都挺常见的吧。"
+    },
+    {
+        "start": 649.6,
+        "end": 654.08,
+        "english": "would have to put in a quarter. This is why the kids said that he didn't have any money for the",
+        "chinese": "英语：他必须先交纳押金。这正是孩子们说他没有钱的原因。"
+    },
+    {
+        "start": 654.08,
+        "end": 659.84,
+        "english": "pay phone. But now you don't really see too many pay phones. Everyone's got mobile phones.",
+        "chinese": "英语：pay phone. 但是现在你不太可能看到很多付费电话。每个人都有手机。"
+    },
+    {
+        "start": 659.84,
+        "end": 665.12,
+        "english": "That's right. And pay phones are less and less common although a lot of people like to use pay",
+        "chinese": "英语：那对，而且手机支付越来越少了，尽管很多人喜欢使用手机支付。"
+    },
+    {
+        "start": 665.12,
+        "end": 670.72,
+        "english": "phones just because they're private, not tracked. Yeah. But what I found is that the airports now,",
+        "chinese": "电话，因为它们是私人的，不追踪。对的。但是，我发现现在的机场，"
+    },
+    {
+        "start": 670.72,
+        "end": 676.1600000000001,
+        "english": "you can't use a pay phone with quarters or money. Now you got to use a credit card to use a",
+        "chinese": "你不能用硬币或硬币来使用电话。现在你需要使用信用卡才能使用电话。"
+    },
+    {
+        "start": 676.1600000000001,
+        "end": 680.72,
+        "english": "pay phone. That's right. It's become so expensive that you have to you have to swipe your credit card",
+        "chinese": "电话费。对，现在这么贵，你得用信用卡扫描。"
+    },
+    {
+        "start": 680.72,
+        "end": 686.64,
+        "english": "to use the pay phone. So it's a changing world, Mark. Now can we make international collect calls?",
+        "chinese": "英语：使用电话机。所以这是一个改变的世界，马克。现在我们可以做国际长途通话了。"
+    },
+    {
+        "start": 686.64,
+        "end": 691.9200000000001,
+        "english": "I don't think so. No. I think it's just America. Okay. Well, this is a very interesting topic.",
+        "chinese": "我不同意。不，我认为这只是美国。好吧，这个话题非常有趣。"
+    },
+    {
+        "start": 691.9200000000001,
+        "end": 697.6800000000001,
+        "english": "Obviously we will see if in your country you can make collect calls or how do you make a call",
+        "chinese": "当然，我们将在您的国家中看到您能否进行通话或如何进行通话。"
+    },
+    {
+        "start": 697.68,
+        "end": 701.4399999999999,
+        "english": "to someone if you don't have any money? That's a good question. So let us know our website is",
+        "chinese": "如果你们没有钱，那是个好问题。所以让我们看看我们的网站是怎样的。"
+    },
+    {
+        "start": 701.4399999999999,
+        "end": 703.92,
+        "english": "EnglishPod.com. We'll see you guys there. Bye.",
+        "chinese": "英文播客网。我们见你了！再见。"
+    }
+]

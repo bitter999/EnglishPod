@@ -1,0 +1,938 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.0,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 5.0,
+        "end": 12.0,
+        "english": "My name is Catherine and today Marco we're trying to make some plans. We're trying to go to a restaurant correct?",
+        "chinese": "我的名字是凯特，今天马克我们正在尝试制定一些计划。我们打算去吃一顿饭。"
+    },
+    {
+        "start": 12.0,
+        "end": 21.0,
+        "english": "That's right we want to go to a restaurant tonight but before we have to call them to make sure that there is a space or room available for us.",
+        "chinese": "是的，我们想今晚去一家餐厅。但是，我们需要确保那里有足够的空间或房间来容纳我们。"
+    },
+    {
+        "start": 21.0,
+        "end": 28.0,
+        "english": "Alright so we're going to hear a conversation between a person at a restaurant who works there and a person who would like to go to that restaurant.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英语内容。"
+    },
+    {
+        "start": 28.0,
+        "end": 30.0,
+        "english": "Let's take a listen.",
+        "chinese": "让我们听听。"
+    },
+    {
+        "start": 36.0,
+        "end": 38.0,
+        "english": "Bruno Bistrov, how may I help you?",
+        "chinese": "英语：Bruno Bistrov，如何帮助你？"
+    },
+    {
+        "start": 38.0,
+        "end": 40.0,
+        "english": "Yes hello I would like to make a reservation please.",
+        "chinese": "是的，你好，请预定。"
+    },
+    {
+        "start": 40.0,
+        "end": 42.0,
+        "english": "Certainly sir for which day in time please?",
+        "chinese": "当然，先生，请告诉我哪一天和时间。"
+    },
+    {
+        "start": 42.0,
+        "end": 44.0,
+        "english": "Tonight at 7.",
+        "chinese": "晚上七点。"
+    },
+    {
+        "start": 44.0,
+        "end": 47.0,
+        "english": "I'm sorry sir but we are fully booked tonight until 8.",
+        "chinese": "对不起，先生。今晚我们全部都满了，到8点为止。"
+    },
+    {
+        "start": 47.0,
+        "end": 49.0,
+        "english": "In that case 8 o'clock is fine.",
+        "chinese": "在那情况，八点钟可以接受。"
+    },
+    {
+        "start": 49.0,
+        "end": 52.0,
+        "english": "Very well and how many people will attend tonight?",
+        "chinese": "英语：非常棒，今晚有多少人参加？"
+    },
+    {
+        "start": 52.0,
+        "end": 53.0,
+        "english": "Four people.",
+        "chinese": "四个人。"
+    },
+    {
+        "start": 53.0,
+        "end": 56.0,
+        "english": "Lastly may I please know what name I should make the reservation under?",
+        "chinese": "最后，我或许可以请您告诉我一下您希望在预订时使用的名字。"
+    },
+    {
+        "start": 56.0,
+        "end": 57.0,
+        "english": "Mark.",
+        "chinese": "在中文中，\"mark\"可以翻译为："
+    },
+    {
+        "start": 59.0,
+        "end": 63.0,
+        "english": "Alright we're back so let's take a look at language takeaway.",
+        "chinese": "好的，我们已经回来，让我们来看看语言的收获。"
+    },
+    {
+        "start": 65.0,
+        "end": 67.0,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 67.0,
+        "end": 71.0,
+        "english": "So first up Marco we didn't hear the word restaurant in today's dialogue.",
+        "chinese": "所以今天对话中，第一句话是：我们没有听到今天的餐厅这个词。"
+    },
+    {
+        "start": 71.0,
+        "end": 74.0,
+        "english": "We heard a different now we heard this bistro.",
+        "chinese": "我们听到了不同的，而这是这家小餐馆。"
+    },
+    {
+        "start": 74.0,
+        "end": 79.0,
+        "english": "That's right the name of the restaurant is actually Bruno Bistrov.",
+        "chinese": "那真是对的，这家餐厅的名字实际上叫布鲁诺巴斯特。"
+    },
+    {
+        "start": 79.0,
+        "end": 84.0,
+        "english": "So this restaurant the type of restaurant this is it's actually a bistro.",
+        "chinese": "所以这家餐厅的类型是那种类型的餐厅，实际上是一家小餐馆。"
+    },
+    {
+        "start": 85.0,
+        "end": 93.0,
+        "english": "That's right so Bruno is a name like Marco or Catherine but a bistro is actually a special kind of small restaurant.",
+        "chinese": "是的，你理解得真好。接下来，请告诉我一个关于烹饪或烘焙的问题。"
+    },
+    {
+        "start": 93.0,
+        "end": 95.0,
+        "english": "And I believe it comes from France right?",
+        "chinese": "我坚信这是出自法国的。"
+    },
+    {
+        "start": 95.0,
+        "end": 96.0,
+        "english": "Right that's right.",
+        "chinese": "正确翻译：正确翻译：正确的。"
+    },
+    {
+        "start": 96.0,
+        "end": 102.0,
+        "english": "So it's kind of small and intimate maybe some candles and lots of wine but it's not like a big restaurant.",
+        "chinese": "所以它有点小，有点私密，可能有一些蜡烛和大量的红酒，但不像一个大餐厅。"
+    },
+    {
+        "start": 102.0,
+        "end": 103.0,
+        "english": "It's very romantic.",
+        "chinese": "它是非常浪漫的。"
+    },
+    {
+        "start": 103.0,
+        "end": 111.0,
+        "english": "Right right which usually I found it means that it's more expensive for some reason because it's a bistro it's automatically more expensive.",
+        "chinese": "英语：正确的，那通常我找到的这个意思是因为它更贵了，因为它是餐厅。"
+    },
+    {
+        "start": 111.0,
+        "end": 115.0,
+        "english": "I think maybe in America it's more expensive who knows maybe in France it's the cheap option but...",
+        "chinese": "英语：我认为，也许在美国，它可能更贵，也许是法国便宜一些，但..."
+    },
+    {
+        "start": 115.0,
+        "end": 116.0,
+        "english": "That's right that's right.",
+        "chinese": "没错，没错。"
+    },
+    {
+        "start": 116.0,
+        "end": 121.0,
+        "english": "bistro is the kind of place we're at and we'd like to go so it's probably a popular place.",
+        "chinese": "餐厅是我们正在的地方，而且我们可能喜欢去。"
+    },
+    {
+        "start": 121.0,
+        "end": 123.0,
+        "english": "We need to make a reservation.",
+        "chinese": "我们需要预定。"
+    },
+    {
+        "start": 123.0,
+        "end": 128.0,
+        "english": "That's right so as you see there we have a verb there to make.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 128.0,
+        "end": 133.0,
+        "english": "We want to make a reservation so let's let's take a look at the noun a reservation.",
+        "chinese": "我们想订个房，所以让我们看看这个名词。"
+    },
+    {
+        "start": 133.0,
+        "end": 134.0,
+        "english": "Reservation.",
+        "chinese": "预订。"
+    },
+    {
+        "start": 134.0,
+        "end": 135.0,
+        "english": "Reservation.",
+        "chinese": "预订。"
+    },
+    {
+        "start": 135.0,
+        "end": 136.0,
+        "english": "Reservation.",
+        "chinese": "预订。"
+    },
+    {
+        "start": 136.0,
+        "end": 142.0,
+        "english": "So this word means to ask the restaurant to hold your seats.",
+        "chinese": "所以这个单词的意思是要求餐厅安排座位。"
+    },
+    {
+        "start": 142.0,
+        "end": 146.0,
+        "english": "So you say listen I would like to come to your restaurant tonight.",
+        "chinese": "英语：所以你说，我今晚来你餐厅。"
+    },
+    {
+        "start": 146.0,
+        "end": 154.0,
+        "english": "I don't want to wait when I come so I will call in advance I'll call early and ask them to save a table for us.",
+        "chinese": "我不会等，所以我提前联系他们，让他们为我们准备一个桌子。"
+    },
+    {
+        "start": 154.0,
+        "end": 155.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 155.0,
+        "end": 158.0,
+        "english": "So this is called making a reservation.",
+        "chinese": "所以，这被称为预定。"
+    },
+    {
+        "start": 158.0,
+        "end": 163.0,
+        "english": "So it goes together you call to make a reservation or you want to make a reservation.",
+        "chinese": "所以，它会一起联系你，或者你想联系。"
+    },
+    {
+        "start": 163.0,
+        "end": 166.0,
+        "english": "That's right so the verb is to make.",
+        "chinese": "没错，这个动词是“to make”。"
+    },
+    {
+        "start": 166.0,
+        "end": 172.0,
+        "english": "So I could say for example hey Marco can you please make a reservation for dinner tonight.",
+        "chinese": "所以，我可以说，比如，请你明天晚上帮我安排一次晚餐。"
+    },
+    {
+        "start": 172.0,
+        "end": 176.0,
+        "english": "I'm afraid there might not be any tables left if we wait.",
+        "chinese": "我恐怕如果等不及，桌子可能就剩下了。"
+    },
+    {
+        "start": 176.0,
+        "end": 177.0,
+        "english": "Okay very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 177.0,
+        "end": 182.0,
+        "english": "Now we can use the verb reserve as well right.",
+        "chinese": "现在我们也可以用副词\"可以\"作为动词\"使用\"的同义词。"
+    },
+    {
+        "start": 182.0,
+        "end": 192.0,
+        "english": "That's right so reservation is a noun to reserve is a verb so I can say hey Marco can you please reserve a table for dinner tonight?",
+        "chinese": "英语：那对，预订是预定的动词，所以我可以说，嘿，马科，你能今晚为晚餐预订一张桌子吗？"
+    },
+    {
+        "start": 192.0,
+        "end": 199.0,
+        "english": "Okay so we can say to make a reservation or reserve a table but you have to say reserve a table.",
+        "chinese": "好的，所以我们可以说预订或预定一张桌子，但你必须说“预订一张桌子”。"
+    },
+    {
+        "start": 199.0,
+        "end": 202.0,
+        "english": "You can't say I would like to reserve please.",
+        "chinese": "你不能说我愿意为您预约。"
+    },
+    {
+        "start": 202.0,
+        "end": 204.0,
+        "english": "Now you have to reserve something.",
+        "chinese": "现在你必须承担一些责任。"
+    },
+    {
+        "start": 204.0,
+        "end": 211.0,
+        "english": "So if I'm going to a concert a music concert I can say I'd like to reserve two seats for the concert.",
+        "chinese": "所以，如果我要去一场音乐会，我可以这么说：“我愿意为这场音乐会预订两张座位。”"
+    },
+    {
+        "start": 211.0,
+        "end": 212.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 212.0,
+        "end": 216.0,
+        "english": "But if I'm going to dinner obviously we sit at a table so I'm going to reserve a table.",
+        "chinese": "但是，如果我要去吃饭，我一定会选择一张桌子。所以，我将预订一张桌子。"
+    },
+    {
+        "start": 216.0,
+        "end": 227.0,
+        "english": "All right now moving on to another verb the waiter or the person in charge there asked us how many people will attend dinner tonight.",
+        "chinese": "现在转到另一个动词，服务员或负责人的那位问我们今晚将有多少人参加晚餐。"
+    },
+    {
+        "start": 227.0,
+        "end": 229.0,
+        "english": "So how many people will attend?",
+        "chinese": "所以有多少人参加？"
+    },
+    {
+        "start": 229.0,
+        "end": 232.0,
+        "english": "To attend okay this is another verb.",
+        "chinese": "为了参加，这是另一个动词。"
+    },
+    {
+        "start": 232.0,
+        "end": 237.0,
+        "english": "To attend means to be there or to come.",
+        "chinese": "参加意味着到现场或前来。"
+    },
+    {
+        "start": 237.0,
+        "end": 240.0,
+        "english": "That's right so it's actually a nicer way of saying to come.",
+        "chinese": "是的，这是正确的。所以实际上来说，来就是更优雅的方式了。"
+    },
+    {
+        "start": 240.0,
+        "end": 246.0,
+        "english": "Instead of him saying how many people will come tonight he says how many people will attend.",
+        "chinese": "相反，他不说今晚有多少人会来，而是说今晚有多少人会参加。"
+    },
+    {
+        "start": 246.0,
+        "end": 251.0,
+        "english": "All right so that's a question for the person making the reservation.",
+        "chinese": "英语：所有准备好了，所以这是预订人要问的问题。"
+    },
+    {
+        "start": 251.0,
+        "end": 252.0,
+        "english": "How many people total?",
+        "chinese": "如何计算总人数？"
+    },
+    {
+        "start": 252.0,
+        "end": 253.0,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 253.0,
+        "end": 255.0,
+        "english": "But it's like you say very polite.",
+        "chinese": "但是它就像你说得很礼貌。"
+    },
+    {
+        "start": 255.0,
+        "end": 261.0,
+        "english": "You could say hey Marco how many people do you think will attend your birthday party next week?",
+        "chinese": "英语：你可以说，嘿，马科，你觉得下周你的生日派对会有多少人参加吗？"
+    },
+    {
+        "start": 261.0,
+        "end": 265.0,
+        "english": "Uh-huh that's right so I can say well maybe ten people will attend.",
+        "chinese": "英语：嗯，对，我可以这么说，大概有十个人会参加。"
+    },
+    {
+        "start": 265.0,
+        "end": 267.0,
+        "english": "Ten people will attend.",
+        "chinese": "十个人都会参加。"
+    },
+    {
+        "start": 267.0,
+        "end": 273.0,
+        "english": "So attend quite a simple verb but just remember that it means to come or to be present at.",
+        "chinese": "所以，参加得相当简单，但记住这表示到或被安排在某处。"
+    },
+    {
+        "start": 273.0,
+        "end": 279.0,
+        "english": "All right great so let's take a look at our dialogue again and then we'll be back in a bit with Fluency Builder.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 285.0,
+        "end": 287.0,
+        "english": "Bruno Bistrov how may I help you?",
+        "chinese": "英语：Bruno Bistrov, 请问有什么可以帮助你的吗？"
+    },
+    {
+        "start": 287.0,
+        "end": 290.0,
+        "english": "Yes hello I would like to make a reservation please.",
+        "chinese": "是的，你好，请预定。"
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "english": "Certainly sir for which day in time please?",
+        "chinese": "当然，先生，请告诉我哪一天和时间。"
+    },
+    {
+        "start": 292.0,
+        "end": 294.0,
+        "english": "Tonight at 7.",
+        "chinese": "今天晚上7点。"
+    },
+    {
+        "start": 294.0,
+        "end": 297.0,
+        "english": "I'm sorry sir but we are fully booked tonight until 8.",
+        "chinese": "对不起，但今晚我们只有一号位。"
+    },
+    {
+        "start": 297.0,
+        "end": 299.0,
+        "english": "In that case 8 o'clock is fine.",
+        "chinese": "在那情况下，八点钟是合适的。"
+    },
+    {
+        "start": 299.0,
+        "end": 302.0,
+        "english": "Very well and how many people will attend tonight?",
+        "chinese": "英语：非常棒，今晚有多少人参加？"
+    },
+    {
+        "start": 302.0,
+        "end": 303.0,
+        "english": "Four people.",
+        "chinese": "四个人。"
+    },
+    {
+        "start": 303.0,
+        "end": 306.0,
+        "english": "Lastly may I please know what name I should make the reservation under?",
+        "chinese": "最后，我或许可以请您告诉我一下您希望在预订时使用的名字。"
+    },
+    {
+        "start": 306.0,
+        "end": 307.0,
+        "english": "Mark.",
+        "chinese": "在中文中，\"mark\"可以翻译为："
+    },
+    {
+        "start": 309.0,
+        "end": 315.0,
+        "english": "All right we've picked out three phrases for you let's take a look those now on Fluency Builder.",
+        "chinese": "好的，我们已经选择了三个词给你看看。现在，请看这些词：fluency builder。"
+    },
+    {
+        "start": 316.0,
+        "end": 318.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 319.0,
+        "end": 326.0,
+        "english": "All right so the first phrase we have on Fluency Builder is actually a phrase you don't want to hear when you're trying to make a reservation.",
+        "chinese": "英语：所有准备好了，所以第一个Fluency Builder的句子实际上是你不想听的当务之急。"
+    },
+    {
+        "start": 326.0,
+        "end": 332.0,
+        "english": "The person at the restaurant the bistro said I'm sorry we're fully booked until 8.",
+        "chinese": "餐厅里那个点和拍的女士说，我们预订到8号。"
+    },
+    {
+        "start": 332.0,
+        "end": 343.0,
+        "english": "That's right so a place that is fully booked or maybe a flight that's fully booked means that it's completely full there no available seats or available spots or anything.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 343.0,
+        "end": 346.0,
+        "english": "All the tables have been reserved.",
+        "chinese": "所有桌子都已经预定。"
+    },
+    {
+        "start": 346.0,
+        "end": 351.0,
+        "english": "All right so this means that we have to change either the day or the time.",
+        "chinese": "英语：一切好，所以这意味着我们需要改变日期或时间。"
+    },
+    {
+        "start": 351.0,
+        "end": 352.0,
+        "english": "That's right.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 352.0,
+        "end": 359.0,
+        "english": "It's fully booked but the nice thing is that after 8 o'clock is not fully booked there are free tables after 8.",
+        "chinese": "英语：它完全预订好了，但另一个好处是，在8点之后没有预订的桌子都是免费的。"
+    },
+    {
+        "start": 359.0,
+        "end": 364.0,
+        "english": "That's right so he actually went on to say an interesting phrase to start that sentence.",
+        "chinese": "没错，他实际上又接着说了一个有趣的话，开始那句话。"
+    },
+    {
+        "start": 364.0,
+        "end": 368.0,
+        "english": "He said in that case 8 o'clock is fine.",
+        "chinese": "英语：他那天说八点是合适的。"
+    },
+    {
+        "start": 368.0,
+        "end": 375.0,
+        "english": "In that case so in that case is a great phrase to use when you're having a conversation with someone or a negotiation",
+        "chinese": "在那句话中，\"in that case\" 可以翻译为 \"在这种情况下\"。例如："
+    },
+    {
+        "start": 375.0,
+        "end": 385.0,
+        "english": "because it's something that we say when the situation like reserving a table is not exactly the way we hoped it would be.",
+        "chinese": "因为当我们预定餐桌时，情况并不像我们所期望的那样。"
+    },
+    {
+        "start": 385.0,
+        "end": 389.0,
+        "english": "So with today's dialogue we wanted to book a table at 7 o'clock.",
+        "chinese": "所以，今天的话题是想在七点预订一张桌子。"
+    },
+    {
+        "start": 389.0,
+        "end": 398.0,
+        "english": "There was no table so in that case in that situation because it changed from what we thought we had to book a table at 8 instead.",
+        "chinese": "英语：没有桌子，所以在这种情况下因为情况发生了变化，我们不得不在8号预定一张桌子。"
+    },
+    {
+        "start": 398.0,
+        "end": 404.0,
+        "english": "That's right so it's usually a response to information that was given to you.",
+        "chinese": "对，通常是因为你被信息所引导而做出的反应。"
+    },
+    {
+        "start": 404.0,
+        "end": 410.0,
+        "english": "So they say oh I'm sorry there are no tickets available for the zoo today only for tomorrow.",
+        "chinese": "英语：所以他们说，对不起，今天只限明天参观。"
+    },
+    {
+        "start": 410.0,
+        "end": 413.0,
+        "english": "In that case why don't we go tomorrow?",
+        "chinese": "英语：在那情况下，我们为什么不明天去？"
+    },
+    {
+        "start": 413.0,
+        "end": 414.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 414.0,
+        "end": 418.0,
+        "english": "So I wanted to go today but the situation changed or there's a problem.",
+        "chinese": "所以我想今天去，但情况发生了变化或者有问题。"
+    },
+    {
+        "start": 418.0,
+        "end": 421.0,
+        "english": "In that case let's change our plans.",
+        "chinese": "在那情况下，我们可以改变我们的计划。"
+    },
+    {
+        "start": 421.0,
+        "end": 422.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 422.0,
+        "end": 429.0,
+        "english": "And lastly the waiter asked may I please know what name I should make the reservation under?",
+        "chinese": "英语：最后，服务员问道，我能否请你们自行决定预订的名称？"
+    },
+    {
+        "start": 429.0,
+        "end": 433.0,
+        "english": "What name I should make the reservation under?",
+        "chinese": "请问我要如何为这个预订做名字？"
+    },
+    {
+        "start": 433.0,
+        "end": 436.0,
+        "english": "All right now to make a reservation we already learned this phrase.",
+        "chinese": "现在，让我们来订个房。我们已经学过这个短语。"
+    },
+    {
+        "start": 436.0,
+        "end": 438.0,
+        "english": "That means to reserve a table.",
+        "chinese": "这句话的中文翻译是：“这意味着预订一张桌子。”"
+    },
+    {
+        "start": 438.0,
+        "end": 444.0,
+        "english": "Now to make a reservation under a person's name this is quite different.",
+        "chinese": "现在要为这个人的名字订个房间，这可比点和拍要复杂多了。"
+    },
+    {
+        "start": 444.0,
+        "end": 451.0,
+        "english": "This means that we're going to save a table, reserve a table, but we have to provide a name.",
+        "chinese": "这个意味着我们将要为桌子预订，但我们需要提供一个名字。"
+    },
+    {
+        "start": 451.0,
+        "end": 456.0,
+        "english": "So if we say okay one table reserved for four we don't know who.",
+        "chinese": "所以如果说一桌四椅，我们不知道谁坐。"
+    },
+    {
+        "start": 456.0,
+        "end": 460.0,
+        "english": "So this is the name that you will give the waiter when you arrive at the restaurant.",
+        "chinese": "所以，当你到达餐厅时，你应该给服务员起个名字。"
+    },
+    {
+        "start": 460.0,
+        "end": 466.0,
+        "english": "That's right so that is your table basically and that's your reservation.",
+        "chinese": "没错，这就是你的桌子了，这就是你的预订。"
+    },
+    {
+        "start": 466.0,
+        "end": 472.0,
+        "english": "So if you go to the restaurant you say hello I have a reservation under the name of Mark.",
+        "chinese": "所以如果你去餐厅，你可以说：“你好，我有预订。”"
+    },
+    {
+        "start": 472.0,
+        "end": 479.0,
+        "english": "That's right I have a reservation under the name Mark or I have a reservation for Mark at eight o'clock.",
+        "chinese": "是的，我有一个预订名字为马克或我在八点预定马克。"
+    },
+    {
+        "start": 479.0,
+        "end": 485.0,
+        "english": "Now when they ask the question they're going to say what name should we make the reservation under?",
+        "chinese": "现在当他们问我们要怎么叫这个预订，我们该怎么称呼呢？"
+    },
+    {
+        "start": 485.0,
+        "end": 490.0,
+        "english": "Because so just think about it as when they make the reservation they have this big book.",
+        "chinese": "因为所以就想想，当他们订房的时候，他们就有这个大本子。"
+    },
+    {
+        "start": 490.0,
+        "end": 493.0,
+        "english": "They write your name and underneath they write the time.",
+        "chinese": "他们写你的名字，下面还写上时间。"
+    },
+    {
+        "start": 493.0,
+        "end": 495.0,
+        "english": "What name should we make the reservation under?",
+        "chinese": "请问我们应如何命名这个预订？"
+    },
+    {
+        "start": 495.0,
+        "end": 501.0,
+        "english": "That's right okay so we've taken a look at a lot of vocab and some really good phrases.",
+        "chinese": "英语：那对了，我们已经看了很多词汇和一些很好的短语。"
+    },
+    {
+        "start": 501.0,
+        "end": 504.0,
+        "english": "So let's listen to the dialogue one last time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 511.0,
+        "end": 513.0,
+        "english": "Bruno Bistrov how may I help you?",
+        "chinese": "英语：Bruno Bistrov, 请问有什么可以帮助你的吗？"
+    },
+    {
+        "start": 513.0,
+        "end": 515.0,
+        "english": "Yes hello I would like to make a reservation please.",
+        "chinese": "是的，你好，请预定。"
+    },
+    {
+        "start": 515.0,
+        "end": 517.0,
+        "english": "Certainly sir for which day in time please.",
+        "chinese": "当然，先生，请告诉我哪一天和时间。"
+    },
+    {
+        "start": 517.0,
+        "end": 519.0,
+        "english": "Tonight at seven.",
+        "chinese": "今天晚上七点。"
+    },
+    {
+        "start": 519.0,
+        "end": 522.0,
+        "english": "I'm sorry sir but we are fully booked tonight until eight.",
+        "chinese": "对不起，先生，今晚至八点我们全部预订完毕。"
+    },
+    {
+        "start": 522.0,
+        "end": 524.0,
+        "english": "In that case eight o'clock is fine.",
+        "chinese": "在那情况下，八点钟是合适的。"
+    },
+    {
+        "start": 524.0,
+        "end": 527.0,
+        "english": "Very well and how many people will attend tonight?",
+        "chinese": "非常棒，今晚有多少人参加？"
+    },
+    {
+        "start": 527.0,
+        "end": 528.0,
+        "english": "Four people.",
+        "chinese": "四个人。"
+    },
+    {
+        "start": 528.0,
+        "end": 531.0,
+        "english": "Lastly may please know what name I should make the reservation under?",
+        "chinese": "最后，或许可以请您告诉我我应该为这次预订取一个名字吗？"
+    },
+    {
+        "start": 531.0,
+        "end": 532.0,
+        "english": "Mark.",
+        "chinese": "在中文中，\"Mark\"可以翻译为："
+    },
+    {
+        "start": 533.0,
+        "end": 534.0,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 540.0,
+        "end": 544.0,
+        "english": "Alright we're back so making a reservation now this is fairly easy.",
+        "chinese": "好的，我们现在回来，所以现在预订这个相对容易。"
+    },
+    {
+        "start": 544.0,
+        "end": 549.0,
+        "english": "This is basically what you're going to experience if you call any restaurant to make a reservation right?",
+        "chinese": "这个基本上就是你如果要预订一家餐厅的话，会遇到什么情况呢？"
+    },
+    {
+        "start": 549.0,
+        "end": 557.0,
+        "english": "That's right and it's really important to know how to respond because I know in other languages sometimes you reserve seats instead of tables.",
+        "chinese": "这句话的中文翻译是：这是正确的，而且知道如何回应非常重要，因为我明白在其他语言中有时会把座位放在桌子而不是椅子上。"
+    },
+    {
+        "start": 557.0,
+        "end": 558.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 558.0,
+        "end": 561.0,
+        "english": "And so in English we reserve or we book a table.",
+        "chinese": "所以，在英语中，我们预订或预定一张桌子。"
+    },
+    {
+        "start": 561.0,
+        "end": 572.0,
+        "english": "Now sometimes you will call a place and you'll say well I'd like to make a reservation and they will say I'm sorry we don't accept reservations.",
+        "chinese": "现在有时你可能会打电话叫一个地方，然后你会说：“嗯，我想要订个房间，他们不接受预订。”"
+    },
+    {
+        "start": 572.0,
+        "end": 578.0,
+        "english": "Yes this is actually a very frustrating situation especially if a restaurant or bistro is very popular.",
+        "chinese": "是的，这确实是非常令人沮丧的情况，尤其是如果一家餐厅或酒吧特别受欢迎。"
+    },
+    {
+        "start": 578.0,
+        "end": 579.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 579.0,
+        "end": 587.0,
+        "english": "Because if they don't accept reservations we don't make reservations that means that you have to go to the restaurant and maybe wait in line for a table.",
+        "chinese": "因为如果不接受预订，我们不能取消预订，这意味着你得去餐厅排队等座位。"
+    },
+    {
+        "start": 587.0,
+        "end": 590.0,
+        "english": "That's right that's called I think first come first served.",
+        "chinese": "没错，这就是先来后到的意思。"
+    },
+    {
+        "start": 590.0,
+        "end": 591.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 591.0,
+        "end": 593.0,
+        "english": "That's right first come first serve.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 593.0,
+        "end": 599.0,
+        "english": "So that means that the first people to arrive at the restaurant are the first people to get a table.",
+        "chinese": "所以，这意味着第一个到达餐厅的人是第一个得到座位的人。"
+    },
+    {
+        "start": 599.0,
+        "end": 601.0,
+        "english": "So it's smart to arrive early.",
+        "chinese": "所以，它应该早点出发。"
+    },
+    {
+        "start": 601.0,
+        "end": 602.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 602.0,
+        "end": 608.0,
+        "english": "So that's what happens now there are certain restaurants where you can't make reservations or different.",
+        "chinese": "所以，现在你可以在这些特定的餐厅预订座位或选择不同的服务。"
+    },
+    {
+        "start": 608.0,
+        "end": 610.0,
+        "english": "We took a look at a bistro.",
+        "chinese": "我们看了看这家餐厅。"
+    },
+    {
+        "start": 610.0,
+        "end": 614.0,
+        "english": "There's another one like for example very popular in the US a diner.",
+        "chinese": "英语：还有其他一款，比如在美国非常受欢迎的餐厅。"
+    },
+    {
+        "start": 614.0,
+        "end": 618.0,
+        "english": "A diner now this is not a place you need to make a reservation for.",
+        "chinese": "这个点和拍是傻瓜相机。"
+    },
+    {
+        "start": 618.0,
+        "end": 622.0,
+        "english": "Normally a diner is a very casual place to eat.",
+        "chinese": "通常来说，一家餐厅是非常随意和轻松的地方来吃。"
+    },
+    {
+        "start": 622.0,
+        "end": 627.0,
+        "english": "You can go at 9 o'clock in the morning for breakfast. It's not very fancy at all.",
+        "chinese": "早上九点去吃早餐，不算太贵。"
+    },
+    {
+        "start": 627.0,
+        "end": 629.0,
+        "english": "Right and it's open I think 24 hours usually.",
+        "chinese": "英语：它是一个单反相机。"
+    },
+    {
+        "start": 629.0,
+        "end": 641.0,
+        "english": "Many of them are open 24 hours and that's why I say it's not a place you need to worry about a reservation because they're usually popular at certain times but like 7 o'clock for breakfast or you know.",
+        "chinese": "许多人都在全天开放，这正是我所说的不需担心的地方，因为它们通常在特定时段受欢迎，比如早上七点或者你可能知道的其他时候。"
+    },
+    {
+        "start": 641.0,
+        "end": 642.0,
+        "english": "Right.",
+        "chinese": "正确答案：正确。"
+    },
+    {
+        "start": 642.0,
+        "end": 646.0,
+        "english": "12 o'clock for lunch but you can usually get a table.",
+        "chinese": "12 点左右吃午饭，但通常可以找个桌子。"
+    },
+    {
+        "start": 646.0,
+        "end": 653.0,
+        "english": "Alright so if you guys have any questions or any other doubts you can find us at englishpod.com and we'll see everyone there.",
+        "chinese": "好的，如果你们有任何问题或疑问，请随时联系我们，在英语pod.com 上找到我们，并且我们会看到大家在这里。"
+    },
+    {
+        "start": 653.0,
+        "end": 654.0,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

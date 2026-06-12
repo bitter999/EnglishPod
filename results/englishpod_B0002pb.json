@@ -1,0 +1,1862 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.4,
+        "english": "Hello English learners, welcome to EnglishPod, my name is Marco.",
+        "chinese": "你好，英语学习者，欢迎来到英语pod。我的名字是马克。"
+    },
+    {
+        "start": 5.4,
+        "end": 6.6000000000000005,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.6000000000000005,
+        "end": 11.4,
+        "english": "And today we're going to be bringing you a very useful lesson about being sick.",
+        "chinese": "今天我们将向您介绍一个非常有用的关于生病的实用技巧。"
+    },
+    {
+        "start": 11.4,
+        "end": 19.400000000000002,
+        "english": "Yeah, we're going to learn how to tell your boss that you can't go to work because you're sick.",
+        "chinese": "是的，我们决定告诉你的老板你不能去上班，因为你生病了。"
+    },
+    {
+        "start": 19.400000000000002,
+        "end": 25.0,
+        "english": "Exactly, this is really important because we all get sick and sometimes you just can't go to work.",
+        "chinese": "是的，这非常重要，因为我们每个人都生病过，有时候你根本无法工作。"
+    },
+    {
+        "start": 25.0,
+        "end": 28.0,
+        "english": "Yes, or maybe sometimes you just don't want to go to work.",
+        "chinese": "是的，或者有时候你可能不想去上班。"
+    },
+    {
+        "start": 28.0,
+        "end": 29.6,
+        "english": "Exactly, maybe you're lying.",
+        "chinese": "是的，也许你是在说谎。"
+    },
+    {
+        "start": 29.6,
+        "end": 30.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 30.6,
+        "end": 32.4,
+        "english": "But we're going to be teaching you how to do it anyways.",
+        "chinese": "但是我们还是决定教你如何做呢。"
+    },
+    {
+        "start": 32.4,
+        "end": 37.0,
+        "english": "So before we start with our dialogue, let's take a look at vocabulary preview.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 37.0,
+        "end": 39.0,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 39.0,
+        "end": 43.0,
+        "english": "In this vocabulary preview, we have two words for you.",
+        "chinese": "在这一词汇预览中，我们有两个词给你。"
+    },
+    {
+        "start": 43.0,
+        "end": 45.6,
+        "english": "The first one is quite ill.",
+        "chinese": "第一个是不太好的。"
+    },
+    {
+        "start": 45.6,
+        "end": 46.8,
+        "english": "Quite ill.",
+        "chinese": "很笨。"
+    },
+    {
+        "start": 46.8,
+        "end": 48.400000000000006,
+        "english": "Quite ill.",
+        "chinese": "很笨。"
+    },
+    {
+        "start": 48.400000000000006,
+        "end": 50.2,
+        "english": "So quite ill.",
+        "chinese": "英语：所以挺笨。"
+    },
+    {
+        "start": 50.2,
+        "end": 51.2,
+        "english": "Very sick.",
+        "chinese": "很不舒服。"
+    },
+    {
+        "start": 51.2,
+        "end": 51.8,
+        "english": "Very sick.",
+        "chinese": "很不舒服。"
+    },
+    {
+        "start": 51.8,
+        "end": 53.400000000000006,
+        "english": "Quite is a synonym of very.",
+        "chinese": "很，这与非常相似。"
+    },
+    {
+        "start": 53.400000000000006,
+        "end": 54.400000000000006,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 54.400000000000006,
+        "end": 55.400000000000006,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 55.400000000000006,
+        "end": 56.400000000000006,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 56.4,
+        "end": 57.4,
+        "english": "Sick.",
+        "chinese": "生病。"
+    },
+    {
+        "start": 57.4,
+        "end": 59.0,
+        "english": "So they both mean the same thing.",
+        "chinese": "所以他们都意味着同样的意思。"
+    },
+    {
+        "start": 59.0,
+        "end": 60.0,
+        "english": "No difference.",
+        "chinese": "没有区别。"
+    },
+    {
+        "start": 60.0,
+        "end": 61.0,
+        "english": "No difference at all.",
+        "chinese": "完全没有差别。"
+    },
+    {
+        "start": 61.0,
+        "end": 64.4,
+        "english": "I just think ill is more common in British English.",
+        "chinese": "英语：我只是觉得“我”在英国语中更常见。"
+    },
+    {
+        "start": 64.4,
+        "end": 65.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 65.4,
+        "end": 66.4,
+        "english": "All right.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 66.4,
+        "end": 68.4,
+        "english": "Let's take a look at our second word.",
+        "chinese": "让我们看看我们的第二个单词。"
+    },
+    {
+        "start": 68.4,
+        "end": 69.4,
+        "english": "Flu.",
+        "chinese": "流感"
+    },
+    {
+        "start": 69.4,
+        "end": 70.4,
+        "english": "The flu.",
+        "chinese": "流感"
+    },
+    {
+        "start": 70.4,
+        "end": 71.4,
+        "english": "The flu.",
+        "chinese": "你好，我是来自阿里云的Qwen。请问您想了解什么？"
+    },
+    {
+        "start": 71.4,
+        "end": 73.4,
+        "english": "So the flu is a virus.",
+        "chinese": "所以流感是病毒。"
+    },
+    {
+        "start": 73.4,
+        "end": 75.4,
+        "english": "Yeah, it's a sickness.",
+        "chinese": "是的，它是一病。"
+    },
+    {
+        "start": 75.4,
+        "end": 76.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 76.4,
+        "end": 78.4,
+        "english": "And it's very similar to a cold.",
+        "chinese": "而且非常相似于寒冷。"
+    },
+    {
+        "start": 78.4,
+        "end": 80.4,
+        "english": "Yes, but just a lot worse.",
+        "chinese": "是的，但只是这个坏到极点。"
+    },
+    {
+        "start": 80.4,
+        "end": 81.4,
+        "english": "A lot worse.",
+        "chinese": "很多更糟。"
+    },
+    {
+        "start": 81.4,
+        "end": 82.4,
+        "english": "So it's stronger.",
+        "chinese": "所以它更强。"
+    },
+    {
+        "start": 82.4,
+        "end": 83.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 83.4,
+        "end": 86.4,
+        "english": "It's also called influenza.",
+        "chinese": "英语：它也被称为流感。"
+    },
+    {
+        "start": 86.4,
+        "end": 88.12,
+        "english": "Unfluenza, exactly.",
+        "chinese": "英语：流感，正好。"
+    },
+    {
+        "start": 88.12,
+        "end": 89.60000000000001,
+        "english": "So the flu.",
+        "chinese": "英语：所以这个流感。"
+    },
+    {
+        "start": 89.60000000000001,
+        "end": 91.80000000000001,
+        "english": "Okay, so let's listen to our dialogue.",
+        "chinese": "好的，现在让我们听我们的对话。"
+    },
+    {
+        "start": 91.80000000000001,
+        "end": 93.12,
+        "english": "What's going to happen here today?",
+        "chinese": "今天发生什么事？"
+    },
+    {
+        "start": 93.12,
+        "end": 98.24000000000001,
+        "english": "Well, we're going to listen as Julie calls her boss to tell him she's sick.",
+        "chinese": "英语：嗯，我们将听取乔尔小姐的上司打电话通知她生病。"
+    },
+    {
+        "start": 98.24000000000001,
+        "end": 100.64000000000001,
+        "english": "All right, but is she really sick?",
+        "chinese": "英语：一切好，但她真的生病了。"
+    },
+    {
+        "start": 100.64000000000001,
+        "end": 101.64000000000001,
+        "english": "I don't know.",
+        "chinese": "我不会。"
+    },
+    {
+        "start": 101.64000000000001,
+        "end": 102.64000000000001,
+        "english": "Let's find out.",
+        "chinese": "让我们找找。"
+    },
+    {
+        "start": 113.4,
+        "end": 117.0,
+        "english": "I have a headache.",
+        "chinese": "我有头痛。"
+    },
+    {
+        "start": 117.0,
+        "end": 118.60000000000001,
+        "english": "So throat.",
+        "chinese": "所以喉咙。"
+    },
+    {
+        "start": 118.60000000000001,
+        "end": 119.60000000000001,
+        "english": "Running nose.",
+        "chinese": "运行的鼻涕。"
+    },
+    {
+        "start": 119.60000000000001,
+        "end": 121.2,
+        "english": "And I'm feeling slightly feverish.",
+        "chinese": "我有点发热。"
+    },
+    {
+        "start": 121.2,
+        "end": 124.0,
+        "english": "See, so you're calling in sick.",
+        "chinese": "英语：看，你是不是在生病？"
+    },
+    {
+        "start": 124.0,
+        "end": 128.88,
+        "english": "Yes, I was hoping to take the day off to recover.",
+        "chinese": "是的，我希望能今天好好休息，以便恢复。"
+    },
+    {
+        "start": 128.88,
+        "end": 132.56,
+        "english": "I'm sure you're going to be able to recover.",
+        "chinese": "我保证你能恢复。"
+    },
+    {
+        "start": 132.56,
+        "end": 134.4,
+        "english": "I'm going to get back to you.",
+        "chinese": "我将尽快回复你。"
+    },
+    {
+        "start": 134.4,
+        "end": 136.4,
+        "english": "I'm going to get back to you.",
+        "chinese": "我将回到你这里。"
+    },
+    {
+        "start": 136.4,
+        "end": 138.4,
+        "english": "I'm going to get back to you.",
+        "chinese": "我将尽快回复你。"
+    },
+    {
+        "start": 138.4,
+        "end": 140.4,
+        "english": "I'm going to get back to you.",
+        "chinese": "我将回到你这里。"
+    },
+    {
+        "start": 140.4,
+        "end": 141.4,
+        "english": "I'm going to get back to you.",
+        "chinese": "我将尽快回复你。"
+    },
+    {
+        "start": 141.4,
+        "end": 143.4,
+        "english": "I'm going to take the day off to recover.",
+        "chinese": "我将休假一天，恢复状态。"
+    },
+    {
+        "start": 143.4,
+        "end": 144.4,
+        "english": "Okay, then.",
+        "chinese": "好的，那么。"
+    },
+    {
+        "start": 144.4,
+        "end": 148.4,
+        "english": "Try and get some rest.",
+        "chinese": "英语：试试和休息一下。"
+    },
+    {
+        "start": 148.4,
+        "end": 155.88,
+        "english": "All right, so Julie didn't really seem to be sick, huh?",
+        "chinese": "英语：所有好，苏莉莉没有真的看起来不舒服吧？"
+    },
+    {
+        "start": 155.88,
+        "end": 157.4,
+        "english": "Yeah, I don't know.",
+        "chinese": "嗯，我不太明白。"
+    },
+    {
+        "start": 157.4,
+        "end": 160.32,
+        "english": "That cough was just a little too much.",
+        "chinese": "英语：那咳嗽太重了。"
+    },
+    {
+        "start": 160.32,
+        "end": 162.12,
+        "english": "It seemed like she was acting.",
+        "chinese": "看起来她似乎在做。"
+    },
+    {
+        "start": 162.12,
+        "end": 163.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 163.12,
+        "end": 168.08,
+        "english": "All right, so let's take a look at some of this vocabulary in language takeaway.",
+        "chinese": "好的，那么我们来看看这些词汇在语言总结中。"
+    },
+    {
+        "start": 168.08,
+        "end": 169.92000000000002,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 169.92,
+        "end": 172.16,
+        "english": "We have five words for you here.",
+        "chinese": "我们这里有五个词给你。"
+    },
+    {
+        "start": 172.16,
+        "end": 175.48,
+        "english": "And these are all great words to describe a sickness, right?",
+        "chinese": "是的，这些都是描述疾病的好词。"
+    },
+    {
+        "start": 175.48,
+        "end": 176.48,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 176.48,
+        "end": 178.27999999999997,
+        "english": "All right, the first one, headache.",
+        "chinese": "好的，第一个，头疼。"
+    },
+    {
+        "start": 178.27999999999997,
+        "end": 179.27999999999997,
+        "english": "Headache.",
+        "chinese": "头疼。"
+    },
+    {
+        "start": 179.27999999999997,
+        "end": 180.27999999999997,
+        "english": "Headache.",
+        "chinese": "头疼。"
+    },
+    {
+        "start": 180.27999999999997,
+        "end": 181.27999999999997,
+        "english": "Headache.",
+        "chinese": "头痛"
+    },
+    {
+        "start": 181.27999999999997,
+        "end": 184.72,
+        "english": "So when you have a headache, you have a sore head, right?",
+        "chinese": "所以当你头痛时，你脑袋痛，对吧？"
+    },
+    {
+        "start": 184.72,
+        "end": 186.51999999999998,
+        "english": "Right, your head hurts.",
+        "chinese": "正确答案：英语：Right, your head hurts."
+    },
+    {
+        "start": 186.51999999999998,
+        "end": 187.51999999999998,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 187.51999999999998,
+        "end": 188.51999999999998,
+        "english": "So it's pretty simple.",
+        "chinese": "所以它挺简单的。"
+    },
+    {
+        "start": 188.51999999999998,
+        "end": 189.51999999999998,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 189.51999999999998,
+        "end": 190.51999999999998,
+        "english": "You have a headache.",
+        "chinese": "你有头痛。"
+    },
+    {
+        "start": 190.51999999999998,
+        "end": 193.11999999999998,
+        "english": "It's the way you feel after being at the bar too late.",
+        "chinese": "英语：它就像在酒吧喝得太晚一样。"
+    },
+    {
+        "start": 193.11999999999998,
+        "end": 195.39999999999998,
+        "english": "Yeah, when you drink too much, you get a headache.",
+        "chinese": "是的，当你喝得太多时，你会头痛。"
+    },
+    {
+        "start": 195.39999999999998,
+        "end": 196.39999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 196.39999999999998,
+        "end": 199.67999999999998,
+        "english": "All right, let's take a look at our next word, sore throat.",
+        "chinese": "好的，让我们看看我们的下一个单词——喉咙痛。"
+    },
+    {
+        "start": 199.68,
+        "end": 200.68,
+        "english": "Soar throat.",
+        "chinese": "英语：所以喉咙。"
+    },
+    {
+        "start": 200.68,
+        "end": 201.68,
+        "english": "Soar throat.",
+        "chinese": "英语：所以飞喉咙。"
+    },
+    {
+        "start": 201.68,
+        "end": 202.68,
+        "english": "Soar throat.",
+        "chinese": "英语：所以飞喉咙。"
+    },
+    {
+        "start": 202.68,
+        "end": 205.96,
+        "english": "So basically, we have two words here.",
+        "chinese": "所以，基本上，我们有两个词在这里。"
+    },
+    {
+        "start": 205.96,
+        "end": 208.04000000000002,
+        "english": "Let's look at the first one, sore.",
+        "chinese": "让我们看看第一台，辛苦了。"
+    },
+    {
+        "start": 208.04000000000002,
+        "end": 209.04000000000002,
+        "english": "Hurting.",
+        "chinese": "英语：Hurt."
+    },
+    {
+        "start": 209.04000000000002,
+        "end": 210.04000000000002,
+        "english": "It hurts, right?",
+        "chinese": "是的，它痛。"
+    },
+    {
+        "start": 210.04000000000002,
+        "end": 211.04000000000002,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 211.04000000000002,
+        "end": 212.04000000000002,
+        "english": "And your throat is...",
+        "chinese": "你的喉咙..."
+    },
+    {
+        "start": 212.04000000000002,
+        "end": 214.04000000000002,
+        "english": "Well, it's, you know, it's the part right here at the bat.",
+        "chinese": "英语：嗯，你知道，它就在这里。"
+    },
+    {
+        "start": 214.04000000000002,
+        "end": 215.52,
+        "english": "Oh, you can't see me.",
+        "chinese": "英语：哦，你不能看到我。"
+    },
+    {
+        "start": 215.52,
+        "end": 220.68,
+        "english": "Well, it's the part at the back of your mouth that goes down to your stomach.",
+        "chinese": "英语：它在你的后背，紧贴着你的胃。"
+    },
+    {
+        "start": 220.68,
+        "end": 221.92000000000002,
+        "english": "All right, that's your throat.",
+        "chinese": "英语：一切好，这是你的喉部。"
+    },
+    {
+        "start": 221.92000000000002,
+        "end": 222.92000000000002,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 222.92000000000002,
+        "end": 224.16,
+        "english": "So you use your throat to swallow.",
+        "chinese": "所以你用你的喉咙吞咽。"
+    },
+    {
+        "start": 224.16,
+        "end": 225.16,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，嗯。"
+    },
+    {
+        "start": 225.16,
+        "end": 226.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 226.16,
+        "end": 229.48000000000002,
+        "english": "Now, we can use the word sore with different body parts, right?",
+        "chinese": "现在，我们可以用“伤痛”来表示身体的不同部位。"
+    },
+    {
+        "start": 229.48,
+        "end": 230.48,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 230.48,
+        "end": 232.0,
+        "english": "Like, a sore back.",
+        "chinese": "英语：像，腰疼。"
+    },
+    {
+        "start": 232.0,
+        "end": 233.39999999999998,
+        "english": "A sore back, right?",
+        "chinese": "英语：腰疼，对吗？"
+    },
+    {
+        "start": 233.39999999999998,
+        "end": 236.79999999999998,
+        "english": "Or maybe you were playing tennis all weekend, so you have a sore arm.",
+        "chinese": "英语：或者可能是你周末一直在打网球，所以你的手臂有点疼。"
+    },
+    {
+        "start": 236.79999999999998,
+        "end": 237.79999999999998,
+        "english": "Uh-huh.",
+        "chinese": "抱歉，我不能直接翻译成中文。不过，\"Uh-huh\" 是一个常用的英语表达，意思是“嗯”或“是的”。如果您需要在中文中使用这个短语，请告诉我！"
+    },
+    {
+        "start": 237.79999999999998,
+        "end": 239.28,
+        "english": "Or even a sore neck.",
+        "chinese": "英语：或者甚至肩膀疼。"
+    },
+    {
+        "start": 239.28,
+        "end": 240.28,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 240.28,
+        "end": 241.28,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，你做得很好。"
+    },
+    {
+        "start": 241.28,
+        "end": 242.28,
+        "english": "So the word sore.",
+        "chinese": "所以这个字叫“痛”。"
+    },
+    {
+        "start": 242.28,
+        "end": 244.04,
+        "english": "Let's take a look at our third word.",
+        "chinese": "让我们看看我们的第三个词。"
+    },
+    {
+        "start": 244.04,
+        "end": 245.04,
+        "english": "Runny nose.",
+        "chinese": "英语：流鼻涕。"
+    },
+    {
+        "start": 245.04,
+        "end": 246.04,
+        "english": "Runny nose.",
+        "chinese": "感冒。"
+    },
+    {
+        "start": 246.04,
+        "end": 247.04,
+        "english": "Runny nose.",
+        "chinese": "感冒。"
+    },
+    {
+        "start": 247.04,
+        "end": 248.04,
+        "english": "Runny nose.",
+        "chinese": "感冒。"
+    },
+    {
+        "start": 248.04,
+        "end": 249.04,
+        "english": "Runny nose.",
+        "chinese": "流鼻涕。"
+    },
+    {
+        "start": 249.04,
+        "end": 250.39999999999998,
+        "english": "This is a very strange word.",
+        "chinese": "这个是个多音字。"
+    },
+    {
+        "start": 250.39999999999998,
+        "end": 251.39999999999998,
+        "english": "I know.",
+        "chinese": "我懂。"
+    },
+    {
+        "start": 251.39999999999998,
+        "end": 254.39999999999998,
+        "english": "But it doesn't mean that your nose is running, right?",
+        "chinese": "但是这并不意味着你的鼻子正在跑，对吗？"
+    },
+    {
+        "start": 254.39999999999998,
+        "end": 255.92,
+        "english": "No, but okay.",
+        "chinese": "英语：不，但可以。"
+    },
+    {
+        "start": 255.92,
+        "end": 259.44,
+        "english": "No, but when you have a runny nose, there's...",
+        "chinese": "是的，但当你有鼻塞时..."
+    },
+    {
+        "start": 259.44,
+        "end": 262.24,
+        "english": "There's lots of water coming out of your nose, right?",
+        "chinese": "英语：到处都是水，对吗？"
+    },
+    {
+        "start": 262.24,
+        "end": 263.24,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 263.24,
+        "end": 267.04,
+        "english": "So it's interesting, though, because when you run, you go fast, right?",
+        "chinese": "英语：所以，尽管如此，因为当你跑的时候，你速度快吗？"
+    },
+    {
+        "start": 267.04,
+        "end": 269.68,
+        "english": "So a lot of water is...",
+        "chinese": "所以很多水..."
+    },
+    {
+        "start": 269.68,
+        "end": 271.16,
+        "english": "Coming fast out of your nose.",
+        "chinese": "英语：飞快地从你的鼻孔里出来。"
+    },
+    {
+        "start": 271.16,
+        "end": 272.16,
+        "english": "A lot of your nose.",
+        "chinese": "很多你的鼻子。"
+    },
+    {
+        "start": 272.16,
+        "end": 273.16,
+        "english": "Runny nose.",
+        "chinese": "英语：流鼻涕。"
+    },
+    {
+        "start": 273.16,
+        "end": 274.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 274.16,
+        "end": 275.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 275.16,
+        "end": 276.15999999999997,
+        "english": "Our fourth word today.",
+        "chinese": "我们的第四个单词是：远程和微弱。"
+    },
+    {
+        "start": 276.15999999999997,
+        "end": 277.15999999999997,
+        "english": "Slightly feverish.",
+        "chinese": "英语：略显疲惫。"
+    },
+    {
+        "start": 277.15999999999997,
+        "end": 278.15999999999997,
+        "english": "Slightly feverish.",
+        "chinese": "英语：略显疲惫。"
+    },
+    {
+        "start": 278.15999999999997,
+        "end": 279.15999999999997,
+        "english": "Slightly feverish.",
+        "chinese": "英语：略显疲惫。"
+    },
+    {
+        "start": 279.15999999999997,
+        "end": 280.15999999999997,
+        "english": "Slightly feverish.",
+        "chinese": "英语：略显疲惫。"
+    },
+    {
+        "start": 280.15999999999997,
+        "end": 281.15999999999997,
+        "english": "Slightly feverish.",
+        "chinese": "英语：略显疲惫。"
+    },
+    {
+        "start": 281.15999999999997,
+        "end": 283.84,
+        "english": "So again, slightly is...",
+        "chinese": "英语：所以，再次，稍微是..."
+    },
+    {
+        "start": 283.84,
+        "end": 284.84,
+        "english": "A little bit.",
+        "chinese": "一个字。"
+    },
+    {
+        "start": 284.84,
+        "end": 285.84,
+        "english": "A little bit, right?",
+        "chinese": "嗯，有点。"
+    },
+    {
+        "start": 285.84,
+        "end": 286.84,
+        "english": "A little bit.",
+        "chinese": "一个字。"
+    },
+    {
+        "start": 286.84,
+        "end": 287.84,
+        "english": "And feverish.",
+        "chinese": "这句话的中文翻译是：“狂热的”。"
+    },
+    {
+        "start": 287.84,
+        "end": 289.84,
+        "english": "Well, let's break this word down.",
+        "chinese": "好的，我明白了。请将需要翻译的英文句子提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 289.84,
+        "end": 292.32,
+        "english": "We know fever, right?",
+        "chinese": "我们知道发烧了。"
+    },
+    {
+        "start": 292.32,
+        "end": 296.71999999999997,
+        "english": "So when your body is very, very hot because you're sick.",
+        "chinese": "所以当你非常不舒服，身体温度非常高。"
+    },
+    {
+        "start": 296.71999999999997,
+        "end": 303.15999999999997,
+        "english": "So feverish is the feeling of your body being very, very hot.",
+        "chinese": "所以你的身体感觉非常、非常热。"
+    },
+    {
+        "start": 303.15999999999997,
+        "end": 304.15999999999997,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，好。"
+    },
+    {
+        "start": 304.15999999999997,
+        "end": 306.23999999999995,
+        "english": "Okay, so you have a high temperature.",
+        "chinese": "好的，现在请将“Okay, so you have a high temperature.” 用简化中文表达。"
+    },
+    {
+        "start": 306.23999999999995,
+        "end": 311.91999999999996,
+        "english": "It's not that you have a high temperature, but you feel like you have a high temperature.",
+        "chinese": "英语：它不是你有高烧，而是你感觉像有高烧。"
+    },
+    {
+        "start": 311.91999999999996,
+        "end": 312.91999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 312.91999999999996,
+        "end": 315.28,
+        "english": "So slightly feverish.",
+        "chinese": "英语：所以有点热。"
+    },
+    {
+        "start": 315.28,
+        "end": 318.2,
+        "english": "And our last word to recover.",
+        "chinese": "和我们的最后一句话恢复。"
+    },
+    {
+        "start": 318.2,
+        "end": 319.2,
+        "english": "Recover.",
+        "chinese": "恢复。"
+    },
+    {
+        "start": 319.2,
+        "end": 320.2,
+        "english": "Recover.",
+        "chinese": "恢复。"
+    },
+    {
+        "start": 320.2,
+        "end": 321.2,
+        "english": "Recover.",
+        "chinese": "恢复。"
+    },
+    {
+        "start": 321.2,
+        "end": 323.59999999999997,
+        "english": "So this means to get better, right?",
+        "chinese": "所以，这表示要提高自己，对吗？"
+    },
+    {
+        "start": 323.59999999999997,
+        "end": 324.59999999999997,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 324.59999999999997,
+        "end": 325.91999999999996,
+        "english": "Can you only use it when you're sick?",
+        "chinese": "英语：你能只用它当生病时使用吗？"
+    },
+    {
+        "start": 325.91999999999996,
+        "end": 328.96,
+        "english": "So when you recover, you get better and you rest.",
+        "chinese": "所以当你恢复时，你会变得更优秀，休息一下。"
+    },
+    {
+        "start": 328.96,
+        "end": 332.52,
+        "english": "So maybe you can say, I was so busy this week.",
+        "chinese": "英语：所以，你可能可以说，我这段时间非常忙碌。"
+    },
+    {
+        "start": 332.52,
+        "end": 334.32,
+        "english": "I need to recover this weekend.",
+        "chinese": "我需要在周末恢复这个。"
+    },
+    {
+        "start": 334.32,
+        "end": 338.2,
+        "english": "Okay, so yeah, if you feel tired and you feel sick, you can recover.",
+        "chinese": "好的，如果感觉疲劳和不舒服，可以恢复。"
+    },
+    {
+        "start": 338.2,
+        "end": 339.2,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 339.2,
+        "end": 343.59999999999997,
+        "english": "Okay, let's listen to our dialogue again and we can listen to these words that we've",
+        "chinese": "好的，让我们再次听我们的对话，并且我们可以听到这些我们刚才说过的单词。"
+    },
+    {
+        "start": 343.59999999999997,
+        "end": 344.59999999999997,
+        "english": "just talked about.",
+        "chinese": "刚刚聊到了。"
+    },
+    {
+        "start": 344.6,
+        "end": 352.12,
+        "english": "Hello, Daniel speaking.",
+        "chinese": "您好，丹尼尔先生。"
+    },
+    {
+        "start": 352.12,
+        "end": 353.52000000000004,
+        "english": "How may I help you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 353.52000000000004,
+        "end": 354.52000000000004,
+        "english": "Hi, Daniel.",
+        "chinese": "你好，丹尼尔。"
+    },
+    {
+        "start": 354.52000000000004,
+        "end": 355.52000000000004,
+        "english": "Julie here.",
+        "chinese": "在这里，杰里。"
+    },
+    {
+        "start": 355.52000000000004,
+        "end": 358.48,
+        "english": "Oh, hi, Julie.",
+        "chinese": "你好，莉莉。"
+    },
+    {
+        "start": 358.48,
+        "end": 359.48,
+        "english": "How are you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 359.48,
+        "end": 362.40000000000003,
+        "english": "Actually, I'm feeling quite ill today.",
+        "chinese": "实际上，我今天感觉有点不舒服。"
+    },
+    {
+        "start": 362.40000000000003,
+        "end": 364.32000000000005,
+        "english": "Oh, I'm sorry to hear that.",
+        "chinese": "英语：哦，我听到有事了。"
+    },
+    {
+        "start": 364.32000000000005,
+        "end": 365.32000000000005,
+        "english": "What's wrong?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英语来回答你的问题。"
+    },
+    {
+        "start": 365.32000000000005,
+        "end": 368.40000000000003,
+        "english": "I think I'm coming down with the flu.",
+        "chinese": "我感觉我可能得流感了。"
+    },
+    {
+        "start": 368.40000000000003,
+        "end": 373.40000000000003,
+        "english": "I have a headache, sore throat, a runny nose.",
+        "chinese": "我头疼，喉咙痛，流鼻涕。"
+    },
+    {
+        "start": 373.4,
+        "end": 375.44,
+        "english": "And I'm feeling slightly feverish.",
+        "chinese": "我感觉有点发烧。"
+    },
+    {
+        "start": 375.44,
+        "end": 376.44,
+        "english": "Nice see.",
+        "chinese": "很好看。"
+    },
+    {
+        "start": 376.44,
+        "end": 378.71999999999997,
+        "english": "So you're calling in sick?",
+        "chinese": "英语：所以你请假了？"
+    },
+    {
+        "start": 378.71999999999997,
+        "end": 379.71999999999997,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 379.71999999999997,
+        "end": 383.12,
+        "english": "I was hoping to take the day off to recover.",
+        "chinese": "我希望能今天好好休息，以便恢复。"
+    },
+    {
+        "start": 383.12,
+        "end": 384.12,
+        "english": "Okay, then.",
+        "chinese": "好的，那么。"
+    },
+    {
+        "start": 384.12,
+        "end": 385.47999999999996,
+        "english": "Try and get some rest.",
+        "chinese": "尝试让自己有片刻的休息。"
+    },
+    {
+        "start": 391.47999999999996,
+        "end": 395.56,
+        "english": "In this dialogue, we listen to some really interesting phrases of how you can tell your",
+        "chinese": "在对话中，我们听到了一些非常有趣的话语，如何能够让你知道。"
+    },
+    {
+        "start": 395.56,
+        "end": 397.47999999999996,
+        "english": "boss that you are feeling sick, right?",
+        "chinese": "老板，你感觉不舒服吗？"
+    },
+    {
+        "start": 397.47999999999996,
+        "end": 398.79999999999995,
+        "english": "Yeah, some great phrases.",
+        "chinese": "是的，有一些好词。"
+    },
+    {
+        "start": 398.79999999999995,
+        "end": 402.96,
+        "english": "So let's look at these in fluency builder.",
+        "chinese": "所以，让我们来看看这些在流畅器中。"
+    },
+    {
+        "start": 402.96,
+        "end": 403.96,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 403.96,
+        "end": 408.12,
+        "english": "Okay, let's take a look at our first phrase on fluency builder.",
+        "chinese": "好的，让我们一起看看我们的第一个Fluency Builder。"
+    },
+    {
+        "start": 408.12,
+        "end": 409.59999999999997,
+        "english": "I'm coming down with.",
+        "chinese": "我下岗了。"
+    },
+    {
+        "start": 409.59999999999997,
+        "end": 411.68,
+        "english": "I'm coming down with.",
+        "chinese": "我下岗了。"
+    },
+    {
+        "start": 411.68,
+        "end": 413.68,
+        "english": "I'm coming down with.",
+        "chinese": "我下岗了。"
+    },
+    {
+        "start": 413.68,
+        "end": 415.03999999999996,
+        "english": "I'm coming down with.",
+        "chinese": "我下岗了。"
+    },
+    {
+        "start": 415.03999999999996,
+        "end": 419.79999999999995,
+        "english": "All right, so let's listen to some examples and then we'll come back and explain this",
+        "chinese": "好的，那么我们先听听例子，然后我们再回到这里来解释这个。"
+    },
+    {
+        "start": 419.79999999999995,
+        "end": 421.84,
+        "english": "interesting phrase.",
+        "chinese": "有趣的短语。"
+    },
+    {
+        "start": 421.84,
+        "end": 422.84,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 422.84,
+        "end": 425.71999999999997,
+        "english": "My throat really hurts.",
+        "chinese": "我的喉咙真的痛。"
+    },
+    {
+        "start": 425.71999999999997,
+        "end": 430.52,
+        "english": "I think I'm coming down with a cold.",
+        "chinese": "我感觉我即将感冒。"
+    },
+    {
+        "start": 431.08,
+        "end": 434.08,
+        "english": "You have a runny nose.",
+        "chinese": "英语：你有鼻涕。"
+    },
+    {
+        "start": 434.08,
+        "end": 439.24,
+        "english": "Are you coming down with the flu?",
+        "chinese": "英语：你是不是感冒了？"
+    },
+    {
+        "start": 439.24,
+        "end": 442.76,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 442.76,
+        "end": 444.28,
+        "english": "I don't feel well.",
+        "chinese": "我感觉不舒服。"
+    },
+    {
+        "start": 444.28,
+        "end": 448.12,
+        "english": "I think I'm coming down with something.",
+        "chinese": "我感觉我可能得了什么病。"
+    },
+    {
+        "start": 448.12,
+        "end": 454.15999999999997,
+        "english": "Okay, so basically coming down with means starting to get sick.",
+        "chinese": "好的，所以基本上感冒了，意味着开始生病。"
+    },
+    {
+        "start": 454.15999999999997,
+        "end": 456.96,
+        "english": "I'm beginning to feel sick.",
+        "chinese": "我开始感到不舒服。"
+    },
+    {
+        "start": 456.96,
+        "end": 457.96,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 457.96,
+        "end": 458.96,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 458.96,
+        "end": 460.96,
+        "english": "I'm coming down with a flu.",
+        "chinese": "我即将下岗。"
+    },
+    {
+        "start": 460.96,
+        "end": 462.79999999999995,
+        "english": "I'm coming down with a cold.",
+        "chinese": "我即将下岗。"
+    },
+    {
+        "start": 462.79999999999995,
+        "end": 465.12,
+        "english": "I'm coming down with a cough.",
+        "chinese": "我即将下岗。"
+    },
+    {
+        "start": 465.12,
+        "end": 468.0,
+        "english": "Yeah, or I'm coming down with something.",
+        "chinese": "是的，或者我得去医院看病。"
+    },
+    {
+        "start": 468.0,
+        "end": 469.0,
+        "english": "With something.",
+        "chinese": "有啥。"
+    },
+    {
+        "start": 469.0,
+        "end": 470.0,
+        "english": "You don't know what it is.",
+        "chinese": "你不知道这是什么。"
+    },
+    {
+        "start": 470.0,
+        "end": 471.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 471.0,
+        "end": 473.59999999999997,
+        "english": "Okay, let's take a look at our second phrase.",
+        "chinese": "好的，让我们看看我们的第二个表达。"
+    },
+    {
+        "start": 473.59999999999997,
+        "end": 475.0,
+        "english": "Calling in sick.",
+        "chinese": "在中文中，\"Calling in sick\" 翻译成普通话是 \"请调休\"。"
+    },
+    {
+        "start": 475.0,
+        "end": 476.0,
+        "english": "Calling in sick.",
+        "chinese": "在中文中，\"Calling in sick\" 翻译成普通话是 \"请调班\"。"
+    },
+    {
+        "start": 476.0,
+        "end": 479.0,
+        "english": "Okay, calling in sick.",
+        "chinese": "好的，请假。"
+    },
+    {
+        "start": 479.0,
+        "end": 481.44,
+        "english": "So this phrase is great.",
+        "chinese": "英语：所以这个短语很好。"
+    },
+    {
+        "start": 481.44,
+        "end": 486.76,
+        "english": "You know, when you say I'm calling in sick, you're saying, hey, I'm not going to come",
+        "chinese": "英语：你知道，当你说我要请假时，你是在说，嘿，我不能来。"
+    },
+    {
+        "start": 486.76,
+        "end": 489.24,
+        "english": "to work today because I am sick.",
+        "chinese": "今天我因为生病而工作。"
+    },
+    {
+        "start": 489.24,
+        "end": 490.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 490.24,
+        "end": 494.0,
+        "english": "So literally, it means that you call your office and you say you're not going to work.",
+        "chinese": "所以直截了当地，它意味着你打电话说你不想工作。"
+    },
+    {
+        "start": 494.0,
+        "end": 495.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 495.0,
+        "end": 498.88,
+        "english": "But it's great because it's three words that show such a long idea.",
+        "chinese": "但是这真是一个好主意，因为它只用了三个字就表达了如此宽广的想法。"
+    },
+    {
+        "start": 498.88,
+        "end": 499.88,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 499.88,
+        "end": 504.48,
+        "english": "Because otherwise you would have to say, I'm calling because I don't feel well so I'm",
+        "chinese": "因为否则你就要说，我叫你是因为我不舒服，所以我需要卸下我的责任。"
+    },
+    {
+        "start": 504.48,
+        "end": 505.68,
+        "english": "not going to go to work.",
+        "chinese": "不打算去上班。"
+    },
+    {
+        "start": 505.68,
+        "end": 506.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 506.68,
+        "end": 508.56,
+        "english": "But if you say I'm calling in sick, everyone knows.",
+        "chinese": "但是如果你说我有病，大家都知道。"
+    },
+    {
+        "start": 508.56,
+        "end": 510.68,
+        "english": "Everyone understands that you're not going to go to work.",
+        "chinese": "每个人都知道你不会去上班。"
+    },
+    {
+        "start": 510.68,
+        "end": 511.68,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 511.68,
+        "end": 512.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 512.68,
+        "end": 514.16,
+        "english": "Now let's take a look at our last phrase.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 514.16,
+        "end": 515.16,
+        "english": "Take the day off.",
+        "chinese": "英语：今天休息一下。"
+    },
+    {
+        "start": 515.16,
+        "end": 517.0799999999999,
+        "english": "Take the day off.",
+        "chinese": "取一天假。"
+    },
+    {
+        "start": 517.0799999999999,
+        "end": 518.48,
+        "english": "Take the day off.",
+        "chinese": "取一天假。"
+    },
+    {
+        "start": 518.48,
+        "end": 519.48,
+        "english": "Take the day off.",
+        "chinese": "取一天假。"
+    },
+    {
+        "start": 519.48,
+        "end": 525.68,
+        "english": "Now this is a great phrase to take the day off is to not go to work on that day.",
+        "chinese": "现在这个是很好的表达今天可以休息一天的用语。"
+    },
+    {
+        "start": 525.68,
+        "end": 526.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 526.68,
+        "end": 529.28,
+        "english": "Now you can say take the week off.",
+        "chinese": "现在你可以说休息一下。"
+    },
+    {
+        "start": 529.28,
+        "end": 530.8,
+        "english": "Take the month off.",
+        "chinese": "英语：休息一下。"
+    },
+    {
+        "start": 530.8,
+        "end": 533.24,
+        "english": "Take the month off or take the year off.",
+        "chinese": "英语：休息一下或者休假。"
+    },
+    {
+        "start": 533.24,
+        "end": 534.56,
+        "english": "If you are so lucky.",
+        "chinese": "如果如此幸运。"
+    },
+    {
+        "start": 534.56,
+        "end": 535.56,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 535.56,
+        "end": 538.36,
+        "english": "So take the day off means to not go to work on that day.",
+        "chinese": "所以，今天不上班意味着不去工作。"
+    },
+    {
+        "start": 538.36,
+        "end": 539.36,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 539.36,
+        "end": 543.68,
+        "english": "Let's listen to our dialogue again now and then we'll come back and talk a little bit",
+        "chinese": "让我们再听一遍我们的对话，然后我们再聊点小的。"
+    },
+    {
+        "start": 543.68,
+        "end": 544.68,
+        "english": "more.",
+        "chinese": "更多。"
+    },
+    {
+        "start": 544.68,
+        "end": 551.9599999999999,
+        "english": "Hello, Daniel speaking.",
+        "chinese": "你好，丹尼尔在讲话。"
+    },
+    {
+        "start": 551.9599999999999,
+        "end": 553.4,
+        "english": "How may help you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 553.4,
+        "end": 554.4,
+        "english": "Hi, Daniel.",
+        "chinese": "你好，丹尼尔。"
+    },
+    {
+        "start": 554.4,
+        "end": 555.4,
+        "english": "Julie here.",
+        "chinese": "在这里，杰里。"
+    },
+    {
+        "start": 555.4,
+        "end": 556.4,
+        "english": "Hi, Julie.",
+        "chinese": "你好，尤里。"
+    },
+    {
+        "start": 556.4,
+        "end": 557.4,
+        "english": "How are you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 557.4,
+        "end": 562.0,
+        "english": "Actually, I'm feeling quite ill today.",
+        "chinese": "实际上，我今天感觉有点不舒服。"
+    },
+    {
+        "start": 562.0,
+        "end": 564.28,
+        "english": "Oh, I'm sorry to hear that.",
+        "chinese": "英语：哦，我听到有事了。"
+    },
+    {
+        "start": 564.28,
+        "end": 565.28,
+        "english": "What's wrong?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英文来回答这个问题。"
+    },
+    {
+        "start": 565.28,
+        "end": 568.04,
+        "english": "I think I'm coming down with the flu.",
+        "chinese": "我感觉我可能得了流感。"
+    },
+    {
+        "start": 568.04,
+        "end": 573.0,
+        "english": "I have a headache, sore throat, a runny nose.",
+        "chinese": "我头疼，喉咙痛，流鼻涕。"
+    },
+    {
+        "start": 573.0,
+        "end": 575.24,
+        "english": "And I'm feeling slightly feverish.",
+        "chinese": "我有点发烧。"
+    },
+    {
+        "start": 575.24,
+        "end": 578.08,
+        "english": "See, so you're calling in sick.",
+        "chinese": "英语：看，所以你是在请病假。"
+    },
+    {
+        "start": 578.08,
+        "end": 579.08,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 579.08,
+        "end": 582.48,
+        "english": "I was hoping to take the day off to recover.",
+        "chinese": "我希望能今天好好休息，以便恢复。"
+    },
+    {
+        "start": 582.48,
+        "end": 583.48,
+        "english": "OK, then.",
+        "chinese": "好的，那么。"
+    },
+    {
+        "start": 583.48,
+        "end": 585.08,
+        "english": "Try and get some rest.",
+        "chinese": "英语：试着休息一下。"
+    },
+    {
+        "start": 591.92,
+        "end": 595.92,
+        "english": "Well, Marco, have you ever done what Julie did?",
+        "chinese": "英语：嗯，玛酷，你有没有做过像莉莉那样干的？"
+    },
+    {
+        "start": 595.92,
+        "end": 599.92,
+        "english": "Did you ever call your boss to say you're sick when you're not really?",
+        "chinese": "英语：你曾没有真正告诉你老板你生病过吗？"
+    },
+    {
+        "start": 599.92,
+        "end": 600.68,
+        "english": "Yeah, of course.",
+        "chinese": "是的，当然。"
+    },
+    {
+        "start": 600.68,
+        "end": 604.52,
+        "english": "I mean, sometimes you just don't feel very well, but you're not really sick.",
+        "chinese": "英语：我指的是，有时候你可能感觉不怎么舒服，但并不算严重。"
+    },
+    {
+        "start": 604.52,
+        "end": 606.0799999999999,
+        "english": "You just don't feel like going to work.",
+        "chinese": "你刚才没有感觉要出门。"
+    },
+    {
+        "start": 606.0799999999999,
+        "end": 607.0799999999999,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 607.0799999999999,
+        "end": 609.64,
+        "english": "Or sometimes you have something to do, right?",
+        "chinese": "英语：或者有时候你有事情要干，对吗？"
+    },
+    {
+        "start": 609.64,
+        "end": 610.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 610.64,
+        "end": 611.64,
+        "english": "You know what?",
+        "chinese": "你明白吗？"
+    },
+    {
+        "start": 611.64,
+        "end": 612.8,
+        "english": "We call those in Canada.",
+        "chinese": "我们把这些放在加拿大的。"
+    },
+    {
+        "start": 612.8,
+        "end": 614.8,
+        "english": "We call them personal days.",
+        "chinese": "我们称它们个人日。"
+    },
+    {
+        "start": 614.8,
+        "end": 615.8,
+        "english": "Personal days.",
+        "chinese": "个人时间。"
+    },
+    {
+        "start": 615.8,
+        "end": 616.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 616.8,
+        "end": 618.7199999999999,
+        "english": "So you say, oh, I'm going to take a personal day.",
+        "chinese": "英语：所以你说，哦，我要一天假。"
+    },
+    {
+        "start": 618.7199999999999,
+        "end": 622.8,
+        "english": "I'm going to call in sick, but then go shopping.",
+        "chinese": "我打算请假，但然后去购物。"
+    },
+    {
+        "start": 622.8,
+        "end": 626.4,
+        "english": "We used to do that a lot because, for example, soccer games are such a big deal.",
+        "chinese": "我们过去常常这样做，因为比如足球比赛这么重要。"
+    },
+    {
+        "start": 626.4,
+        "end": 627.4,
+        "english": "Oh, yeah.",
+        "chinese": "英语：哦，对了。"
+    },
+    {
+        "start": 627.4,
+        "end": 633.72,
+        "english": "And sometimes you would have a soccer match between Brazil and it would be maybe at 10",
+        "chinese": "有时你会有一场巴西和它之间的足球比赛，可能在10点。"
+    },
+    {
+        "start": 633.72,
+        "end": 635.0,
+        "english": "a.m. or 11 a.m.",
+        "chinese": "早上八点或者十一点。"
+    },
+    {
+        "start": 635.0,
+        "end": 637.52,
+        "english": "So everyone would call in sick on that day.",
+        "chinese": "所以那天大家都决定请假了。"
+    },
+    {
+        "start": 637.52,
+        "end": 638.52,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 638.52,
+        "end": 640.72,
+        "english": "The boss at least could plan that he would have an empty office.",
+        "chinese": "英语：至少可以推测他将有一个空办公室。"
+    },
+    {
+        "start": 640.72,
+        "end": 641.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 641.72,
+        "end": 643.92,
+        "english": "Or sometimes you would take half the day off.",
+        "chinese": "英语：或者有时候你会把一半的天假给掉了。"
+    },
+    {
+        "start": 643.92,
+        "end": 647.1999999999999,
+        "english": "So you would just go, you say, well, I'm not going to make it in the morning, but I'll",
+        "chinese": "所以你只会按照我说的去做，你说得对，我不会在早上做出任何决定，但我会尽力。"
+    },
+    {
+        "start": 647.1999999999999,
+        "end": 648.56,
+        "english": "come in the afternoon.",
+        "chinese": "下午到来。"
+    },
+    {
+        "start": 648.56,
+        "end": 650.72,
+        "english": "So you would recover very quickly.",
+        "chinese": "所以你很快就能恢复了。"
+    },
+    {
+        "start": 650.72,
+        "end": 651.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 651.72,
+        "end": 655.56,
+        "english": "I'm feeling a little bit sick, but I'm going to be better in the afternoon.",
+        "chinese": "英语：我感觉有点不舒服，但下午我会好起来的。"
+    },
+    {
+        "start": 655.56,
+        "end": 656.56,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 656.56,
+        "end": 660.4799999999999,
+        "english": "So well, if you have any questions or comments, please come to our website.",
+        "chinese": "英语：所以很好，如果你有任何问题或评论，请来我们的网站。"
+    },
+    {
+        "start": 660.4799999999999,
+        "end": 663.88,
+        "english": "And if you have any calling in sick stories, please let us know.",
+        "chinese": "如果您在生病故事中有任何请求，请告知我们。"
+    },
+    {
+        "start": 663.88,
+        "end": 664.88,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 664.88,
+        "end": 667.1199999999999,
+        "english": "You can visit us at EnglishPod.com.",
+        "chinese": "你可以访问我们的英文网站。"
+    },
+    {
+        "start": 667.1199999999999,
+        "end": 670.4799999999999,
+        "english": "And Marco and I are always there to answer your questions.",
+        "chinese": "和马科斯和我总是在这里回答你的问题。"
+    },
+    {
+        "start": 670.4799999999999,
+        "end": 671.4799999999999,
+        "english": "All right, folks.",
+        "chinese": "好的，朋友们。"
+    },
+    {
+        "start": 671.4799999999999,
+        "end": 672.4799999999999,
+        "english": "So we'll see you next time.",
+        "chinese": "所以我们会再次见到你的。"
+    },
+    {
+        "start": 672.4799999999999,
+        "end": 673.4799999999999,
+        "english": "Thanks for listening.",
+        "chinese": "谢谢你的聆听。"
+    },
+    {
+        "start": 673.4799999999999,
+        "end": 674.4799999999999,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

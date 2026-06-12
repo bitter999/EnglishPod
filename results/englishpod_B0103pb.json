@@ -1,0 +1,2060 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.88,
+        "english": "Hello English learners, welcome back to English.",
+        "chinese": "大家好，欢迎再次来到英语学习。"
+    },
+    {
+        "start": 4.88,
+        "end": 6.36,
+        "english": "Pa, my name is Marco.",
+        "chinese": "你好，我是马科。"
+    },
+    {
+        "start": 6.36,
+        "end": 8.120000000000001,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 8.120000000000001,
+        "end": 13.44,
+        "english": "And today we have another romantic lesson, kind of romantic.",
+        "chinese": "英语：今天我们又学了一个浪漫的课程，有点浪漫。"
+    },
+    {
+        "start": 13.44,
+        "end": 15.36,
+        "english": "A little romantic.",
+        "chinese": "英文：A little romantic."
+    },
+    {
+        "start": 15.36,
+        "end": 19.96,
+        "english": "We got a boyfriend and a girlfriend, and they're apologizing to each other.",
+        "chinese": "我们得到了一个男朋友和一个女朋友，他们正在道歉。"
+    },
+    {
+        "start": 19.96,
+        "end": 24.44,
+        "english": "Okay, so it's a very common situation, and we're going to be talking about love.",
+        "chinese": "好的，接下来是关于爱的对话。"
+    },
+    {
+        "start": 24.44,
+        "end": 29.04,
+        "english": "We're also going to talk about different pet names that are commonly used in English.",
+        "chinese": "我们还打算讨论一些在英语中常见的宠物名字。"
+    },
+    {
+        "start": 29.04,
+        "end": 32.4,
+        "english": "That are used with your boyfriend or girlfriend.",
+        "chinese": "这个傻瓜相机通常用于约会或亲密关系。"
+    },
+    {
+        "start": 32.4,
+        "end": 34.0,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 34.0,
+        "end": 38.92,
+        "english": "So let's listen to this dialogue for the first time and see what's happening with her",
+        "chinese": "所以让我们先听一下这段对话，看看她发生了什么。"
+    },
+    {
+        "start": 38.92,
+        "end": 57.0,
+        "english": "couple.",
+        "chinese": "夫妻。"
+    },
+    {
+        "start": 57.0,
+        "end": 59.0,
+        "english": "Can we talk?",
+        "chinese": "是的，我们可以聊。"
+    },
+    {
+        "start": 59.0,
+        "end": 61.64,
+        "english": "Sure honey, we're talking now aren't we?",
+        "chinese": "是的，我们正在说话吗？"
+    },
+    {
+        "start": 61.64,
+        "end": 62.88,
+        "english": "You know what I mean.",
+        "chinese": "你懂我什么意思。"
+    },
+    {
+        "start": 62.88,
+        "end": 64.92,
+        "english": "Yeah I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 64.92,
+        "end": 68.32,
+        "english": "I want to know where this relationship is going.",
+        "chinese": "我想要知道这个关系会往哪里发展。"
+    },
+    {
+        "start": 68.32,
+        "end": 71.72,
+        "english": "I mean love with you and I need to know.",
+        "chinese": "我指的是对你有爱，需要知道。"
+    },
+    {
+        "start": 71.72,
+        "end": 73.76,
+        "english": "You know I think you're awesome.",
+        "chinese": "你了解我真的很棒。"
+    },
+    {
+        "start": 73.76,
+        "end": 74.76,
+        "english": "I'm awesome.",
+        "chinese": "我超级棒。"
+    },
+    {
+        "start": 74.76,
+        "end": 77.72,
+        "english": "Well I guess that's my answer isn't it?",
+        "chinese": "英语：嗯，我猜这可能是我的答案吧。"
+    },
+    {
+        "start": 77.72,
+        "end": 78.72,
+        "english": "Honey.",
+        "chinese": "在中文中，\"Honey\"可以翻译为："
+    },
+    {
+        "start": 78.72,
+        "end": 82.96000000000001,
+        "english": "Look, if you don't love me, it's not a thing all right?",
+        "chinese": "英语：看看，如果你不爱我，这不是一件好事吗？"
+    },
+    {
+        "start": 82.96000000000001,
+        "end": 86.96000000000001,
+        "english": "We've had our laughs, but I don't appreciate, well maybe it's just time we...",
+        "chinese": "我们已经笑过，但我不太喜欢，或许只是时间到了。"
+    },
+    {
+        "start": 86.96,
+        "end": 89.11999999999999,
+        "english": "Baby, I love you so much.",
+        "chinese": "英语：宝贝，我爱你太深了。"
+    },
+    {
+        "start": 89.11999999999999,
+        "end": 90.11999999999999,
+        "english": "You do?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 90.11999999999999,
+        "end": 92.32,
+        "english": "I love you and I think you're awesome.",
+        "chinese": "我爱您，我也认为你很棒。"
+    },
+    {
+        "start": 92.32,
+        "end": 94.8,
+        "english": "Oh, I love you too.",
+        "chinese": "英语：啊，我也爱你。"
+    },
+    {
+        "start": 94.8,
+        "end": 96.44,
+        "english": "Come on, put the gun down.",
+        "chinese": "英语：Come on, put the gun down."
+    },
+    {
+        "start": 96.44,
+        "end": 99.75999999999999,
+        "english": "Oh baby, I'm so sorry.",
+        "chinese": "英语：哦，宝贝，我真是太遗憾了。"
+    },
+    {
+        "start": 99.75999999999999,
+        "end": 105.91999999999999,
+        "english": "Okay, so romantic and dramatic.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 105.91999999999999,
+        "end": 109.0,
+        "english": "Yeah I think she really needed to hear that.",
+        "chinese": "嗯，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 109.0,
+        "end": 112.24,
+        "english": "Right, so I think she really wanted to hear that I love you.",
+        "chinese": "是的，她真的想听听我爱她的想法。"
+    },
+    {
+        "start": 112.24,
+        "end": 113.72,
+        "english": "Yeah, that's right.",
+        "chinese": "是的，那正是。"
+    },
+    {
+        "start": 113.72,
+        "end": 118.88,
+        "english": "And there's some interesting phrases here in this dialogue and today we're going to",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 118.88,
+        "end": 121.24,
+        "english": "focus mostly on phrases.",
+        "chinese": "英语：聚焦主要在句法上。"
+    },
+    {
+        "start": 121.24,
+        "end": 125.72,
+        "english": "So why don't we start with Fluency Builder.",
+        "chinese": "英语：所以为什么不从流利构建单元开始？"
+    },
+    {
+        "start": 125.72,
+        "end": 126.72,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 126.72,
+        "end": 132.32,
+        "english": "Okay, on Fluency Builder today we are going to take a look at some of these phrases and",
+        "chinese": "好的，今天我们将对一些短语进行了解和讨论。"
+    },
+    {
+        "start": 132.32,
+        "end": 135.32,
+        "english": "the first one is very important and very different.",
+        "chinese": "第一个很重要，而且不同。"
+    },
+    {
+        "start": 135.32,
+        "end": 141.32,
+        "english": "So obviously this dialogue is about love and we heard two different ways that this word",
+        "chinese": "所以很明显，这对话是关于爱的，我们听到两个不同的方式，这个单词。"
+    },
+    {
+        "start": 141.32,
+        "end": 142.32,
+        "english": "is used.",
+        "chinese": "是用的。"
+    },
+    {
+        "start": 142.32,
+        "end": 145.32,
+        "english": "The first one is to love someone.",
+        "chinese": "第一个是爱一个人。"
+    },
+    {
+        "start": 145.32,
+        "end": 147.4,
+        "english": "Right, so he said I love you.",
+        "chinese": "正确翻译：英语：Right, so he said I love you. 中国：正确。"
+    },
+    {
+        "start": 147.4,
+        "end": 148.92,
+        "english": "Yeah, I love you.",
+        "chinese": "英语：是啊，我爱你们。"
+    },
+    {
+        "start": 148.92,
+        "end": 151.04,
+        "english": "We all pretty much understand what that means.",
+        "chinese": "我们大家都理解那句话的意思。"
+    },
+    {
+        "start": 151.04,
+        "end": 156.0,
+        "english": "Right, but they also mentioned to be in love with someone.",
+        "chinese": "正确：英语：Right, but they also mentioned to be in love with someone."
+    },
+    {
+        "start": 156.0,
+        "end": 159.32,
+        "english": "Okay, so he said I am in love with you.",
+        "chinese": "好的，现在请将“Okay, so he said I am in love with you.” 用简化中文翻译。"
+    },
+    {
+        "start": 159.32,
+        "end": 161.32,
+        "english": "I'm in love with you.",
+        "chinese": "我爱上了你。"
+    },
+    {
+        "start": 161.32,
+        "end": 162.32,
+        "english": "In love.",
+        "chinese": "爱情。"
+    },
+    {
+        "start": 162.32,
+        "end": 166.28,
+        "english": "Okay, so what's the difference between to love and to be in love?",
+        "chinese": "好的，那么爱情的定义是什么？"
+    },
+    {
+        "start": 166.28,
+        "end": 172.07999999999998,
+        "english": "To be in love with someone means that you have these strong romantic feelings towards",
+        "chinese": "要爱一个人意味着你对这个人有强烈的浪漫情感。"
+    },
+    {
+        "start": 172.08,
+        "end": 173.08,
+        "english": "somebody.",
+        "chinese": "某人。"
+    },
+    {
+        "start": 173.08,
+        "end": 174.08,
+        "english": "That's right.",
+        "chinese": "正确翻译：那对啊。"
+    },
+    {
+        "start": 174.08,
+        "end": 180.72000000000003,
+        "english": "So you can only be in love with your boyfriend, your girlfriend, your husband or your wife.",
+        "chinese": "所以你只能爱上你的男朋友、女朋友或者丈夫或妻子。"
+    },
+    {
+        "start": 180.72000000000003,
+        "end": 185.24,
+        "english": "So you can love your parents, you can love your family, but you can be in love with them.",
+        "chinese": "所以，你可以爱你的父母、你家人的爱，但你也可以爱上他们。"
+    },
+    {
+        "start": 185.24,
+        "end": 188.84,
+        "english": "You can only be in love with your girlfriend, boyfriend, husband, wife.",
+        "chinese": "你只能爱上你的女朋友、男朋友、丈夫或妻子。"
+    },
+    {
+        "start": 188.84,
+        "end": 189.84,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 189.84,
+        "end": 190.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 190.84,
+        "end": 193.16000000000003,
+        "english": "So moving on to the next phrase.",
+        "chinese": "好的，我明白了。请告诉我下一个需要翻译的英文句子。"
+    },
+    {
+        "start": 193.16000000000003,
+        "end": 196.88000000000002,
+        "english": "Now the girl asked her boyfriend, can we talk?",
+        "chinese": "现在这个女孩问她男朋友，我们可以聊吗？"
+    },
+    {
+        "start": 196.88000000000002,
+        "end": 198.88000000000002,
+        "english": "Can we talk?",
+        "chinese": "是的，我们可以聊。"
+    },
+    {
+        "start": 198.88000000000002,
+        "end": 200.0,
+        "english": "Can we talk?",
+        "chinese": "英语：能聊吗？"
+    },
+    {
+        "start": 200.0,
+        "end": 201.64000000000001,
+        "english": "This is a very simple sentence.",
+        "chinese": "这个是个多义句。"
+    },
+    {
+        "start": 201.64,
+        "end": 203.48,
+        "english": "Right, we know the meaning, right?",
+        "chinese": "是的，我知道了。"
+    },
+    {
+        "start": 203.48,
+        "end": 205.88,
+        "english": "But why does she say can we talk?",
+        "chinese": "但是为什么她说我们可以聊？"
+    },
+    {
+        "start": 205.88,
+        "end": 211.44,
+        "english": "Okay, so you use this when you want to start a conversation about something serious.",
+        "chinese": "好的，现在请将“Okay, so you use this when you want to start a conversation about something serious.” 用简化中文翻译。"
+    },
+    {
+        "start": 211.44,
+        "end": 217.2,
+        "english": "Okay, so if you wanted to talk to me about my new shirt.",
+        "chinese": "好的，如果我想要和你讨论我的新衬衫，我们可以从以下几个方面开始："
+    },
+    {
+        "start": 217.2,
+        "end": 218.2,
+        "english": "I wouldn't ask.",
+        "chinese": "我不会问。"
+    },
+    {
+        "start": 218.2,
+        "end": 220.64,
+        "english": "I wouldn't say, hey, Marco, can we talk?",
+        "chinese": "我不会这么说，嘿，马科，我们可以聊一聊。"
+    },
+    {
+        "start": 220.64,
+        "end": 222.35999999999999,
+        "english": "Oh, I really like your shirt.",
+        "chinese": "英语：哦，我真的很喜欢你的衬衫。"
+    },
+    {
+        "start": 222.35999999999999,
+        "end": 223.35999999999999,
+        "english": "What'd you get it?",
+        "chinese": "英语：What'd you get it?"
+    },
+    {
+        "start": 223.35999999999999,
+        "end": 224.35999999999999,
+        "english": "Exactly, right?",
+        "chinese": "是的，对吗？"
+    },
+    {
+        "start": 224.35999999999999,
+        "end": 225.35999999999999,
+        "english": "It has to be serious.",
+        "chinese": "英语：它必须是严肃的。"
+    },
+    {
+        "start": 225.35999999999999,
+        "end": 226.6,
+        "english": "It has to be serious.",
+        "chinese": "英语：它必须是严肃的。"
+    },
+    {
+        "start": 226.6,
+        "end": 230.28,
+        "english": "So usually if somebody says, hey, can we talk?",
+        "chinese": "英语：所以通常如果有人说，我们可以聊吗？"
+    },
+    {
+        "start": 230.28,
+        "end": 232.32,
+        "english": "It means that there's going to be a serious topic.",
+        "chinese": "这句话意味着将要发生一个严重的主题。"
+    },
+    {
+        "start": 232.32,
+        "end": 234.24,
+        "english": "Yeah, it's going to be probably bad news.",
+        "chinese": "英语：是啊，恐怕会出问题。"
+    },
+    {
+        "start": 234.24,
+        "end": 235.24,
+        "english": "Maybe bad news.",
+        "chinese": "英语：可能有坏消息。"
+    },
+    {
+        "start": 235.24,
+        "end": 236.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 236.24,
+        "end": 237.24,
+        "english": "So can we talk?",
+        "chinese": "英语：所以我们可以聊一聊。"
+    },
+    {
+        "start": 237.24,
+        "end": 240.72,
+        "english": "So if your boyfriend or girlfriend tells you this, well, it's not a good sign.",
+        "chinese": "英语：所以如果你的男朋友或女朋友告诉你这个，那不是个好兆头。"
+    },
+    {
+        "start": 240.72,
+        "end": 241.72,
+        "english": "That's right.",
+        "chinese": "正确翻译：那对啊。"
+    },
+    {
+        "start": 241.72,
+        "end": 242.72,
+        "english": "All right.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 242.72,
+        "end": 246.72,
+        "english": "And the last phrase that we have on Fluency Builder, you know what I mean.",
+        "chinese": "最后这句话，你知道我指的是什么吗？"
+    },
+    {
+        "start": 246.72,
+        "end": 248.24,
+        "english": "You know what I mean.",
+        "chinese": "你明白我说的是什么吗？"
+    },
+    {
+        "start": 248.24,
+        "end": 249.51999999999998,
+        "english": "You know what I mean.",
+        "chinese": "你明白我说的是什么吗？"
+    },
+    {
+        "start": 249.51999999999998,
+        "end": 250.51999999999998,
+        "english": "You know what I mean.",
+        "chinese": "你明白我说的意思吗？"
+    },
+    {
+        "start": 250.51999999999998,
+        "end": 251.51999999999998,
+        "english": "All right.",
+        "chinese": "英语：一切好。"
+    },
+    {
+        "start": 251.51999999999998,
+        "end": 254.56,
+        "english": "So again, this phrase is very simple to understand, right?",
+        "chinese": "英语：所以，这个短语非常简单理解，对吗？"
+    },
+    {
+        "start": 254.56,
+        "end": 255.56,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 255.84,
+        "end": 258.04,
+        "english": "You know what I'm talking about.",
+        "chinese": "你了解我正在说的内容吗？"
+    },
+    {
+        "start": 258.04,
+        "end": 260.24,
+        "english": "You understand me.",
+        "chinese": "你理解我。"
+    },
+    {
+        "start": 260.24,
+        "end": 264.68,
+        "english": "But the interesting thing is that we can also make it a question.",
+        "chinese": "但是有趣的是，我们也可以让它成为一个问题。"
+    },
+    {
+        "start": 264.68,
+        "end": 268.48,
+        "english": "And it's all about the change in tone.",
+        "chinese": "而且，一切都在于语调的变化。"
+    },
+    {
+        "start": 268.48,
+        "end": 269.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 269.48,
+        "end": 276.2,
+        "english": "So with this in mind, let's listen to two examples of the same phrase, but with different tones.",
+        "chinese": "因此，让我们听听同样的句子，但使用不同的音调。"
+    },
+    {
+        "start": 276.2,
+        "end": 280.08,
+        "english": "And you try to see which one is the question.",
+        "chinese": "您试着看哪个是问题。"
+    },
+    {
+        "start": 280.08,
+        "end": 284.08,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 284.12,
+        "end": 286.47999999999996,
+        "english": "I'm tired doing nothing all day here at home.",
+        "chinese": "我在这里一直忙到天亮。"
+    },
+    {
+        "start": 286.47999999999996,
+        "end": 290.15999999999997,
+        "english": "You know what I mean?",
+        "chinese": "你懂我什么意思？"
+    },
+    {
+        "start": 290.15999999999997,
+        "end": 293.0,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 293.0,
+        "end": 294.08,
+        "english": "Come on, Charles.",
+        "chinese": "英语：Come on, Charles."
+    },
+    {
+        "start": 294.08,
+        "end": 299.03999999999996,
+        "english": "You know what I mean when I say that I don't like your friends.",
+        "chinese": "英语：你懂我为什么不喜欢你的朋友吗？"
+    },
+    {
+        "start": 299.03999999999996,
+        "end": 301.56,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 301.56,
+        "end": 302.79999999999995,
+        "english": "I hate this class.",
+        "chinese": "我讨厌这个课程。"
+    },
+    {
+        "start": 302.79999999999995,
+        "end": 304.52,
+        "english": "It's so boring and tedious.",
+        "chinese": "英语：它真是太无聊了。"
+    },
+    {
+        "start": 304.52,
+        "end": 307.76,
+        "english": "You know what I mean?",
+        "chinese": "你明白我说的什么吗？"
+    },
+    {
+        "start": 307.76,
+        "end": 308.76,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 308.76,
+        "end": 312.15999999999997,
+        "english": "So we heard the examples and well, maybe you guessed it right.",
+        "chinese": "英语：所以我们听到了例子，或许你猜对了。"
+    },
+    {
+        "start": 312.16,
+        "end": 314.64000000000004,
+        "english": "The second example was the question.",
+        "chinese": "英语：第二句话是问题。"
+    },
+    {
+        "start": 314.64000000000004,
+        "end": 315.64000000000004,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 315.64000000000004,
+        "end": 316.64000000000004,
+        "english": "You know what I mean?",
+        "chinese": "你明白我说的意思吗？"
+    },
+    {
+        "start": 316.64000000000004,
+        "end": 317.64000000000004,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 317.64000000000004,
+        "end": 320.8,
+        "english": "So basically you're asking the person if they understand your idea or they understand",
+        "chinese": "所以基本上你是在问他们是否理解你的想法，或者他们是否明白。"
+    },
+    {
+        "start": 320.8,
+        "end": 322.12,
+        "english": "what you're talking about.",
+        "chinese": "英语：你正在讨论什么？"
+    },
+    {
+        "start": 322.12,
+        "end": 325.8,
+        "english": "So maybe you can say, so the professor wasn't very clear on his instruction.",
+        "chinese": "所以，也许你可以这么说，因为教授的指令不是很清楚。"
+    },
+    {
+        "start": 325.8,
+        "end": 327.72,
+        "english": "So how was I supposed to do the homework?",
+        "chinese": "英语：所以怎么才能把作业做好？"
+    },
+    {
+        "start": 327.72,
+        "end": 328.72,
+        "english": "You know what I mean?",
+        "chinese": "你明白我说的意思吗？"
+    },
+    {
+        "start": 328.72,
+        "end": 331.64000000000004,
+        "english": "So you're asking me to confirm that I understand you.",
+        "chinese": "所以你是在问我，我明白你的意思。"
+    },
+    {
+        "start": 331.64000000000004,
+        "end": 332.64000000000004,
+        "english": "My idea.",
+        "chinese": "我的想法。"
+    },
+    {
+        "start": 332.64000000000004,
+        "end": 333.64000000000004,
+        "english": "You understand what I'm saying.",
+        "chinese": "你理解了我说的吗？"
+    },
+    {
+        "start": 333.64000000000004,
+        "end": 334.64000000000004,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 334.64000000000004,
+        "end": 335.64000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 335.64000000000004,
+        "end": 339.36,
+        "english": "And if it was a statement, I might say, hey, I don't like going to your mom's house.",
+        "chinese": "如果是一句话，我可能会说，“嗯，我不喜欢你妈妈的家。”"
+    },
+    {
+        "start": 339.36,
+        "end": 340.36,
+        "english": "So I would say, what?",
+        "chinese": "英语：所以我说，什么？"
+    },
+    {
+        "start": 340.36,
+        "end": 341.36,
+        "english": "What do you mean?",
+        "chinese": "英语：What do you mean?"
+    },
+    {
+        "start": 341.76,
+        "end": 342.72,
+        "english": "You know what I mean.",
+        "chinese": "你懂我意思吗？"
+    },
+    {
+        "start": 342.72,
+        "end": 343.72,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 343.72,
+        "end": 347.2,
+        "english": "So I perfectly understand or know the reasons why you don't like going to my mom's house.",
+        "chinese": "所以，我完全理解或知道你为什么不喜欢去我家。"
+    },
+    {
+        "start": 347.2,
+        "end": 348.44,
+        "english": "Like I don't have to tell you.",
+        "chinese": "英语：像我来说，你不需要告诉我。"
+    },
+    {
+        "start": 348.44,
+        "end": 349.64,
+        "english": "You know what I mean.",
+        "chinese": "你懂我什么意思。"
+    },
+    {
+        "start": 349.64,
+        "end": 350.64,
+        "english": "All right.",
+        "chinese": "一切好。"
+    },
+    {
+        "start": 350.64,
+        "end": 351.64,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 351.64,
+        "end": 352.64,
+        "english": "So you know what I mean.",
+        "chinese": "所以你懂我什么意思。"
+    },
+    {
+        "start": 352.64,
+        "end": 353.64,
+        "english": "Great.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 353.64,
+        "end": 354.88,
+        "english": "So we've taken a look at these four phrases.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英语句子。"
+    },
+    {
+        "start": 354.88,
+        "end": 359.84000000000003,
+        "english": "They're very simple, but the way that you use them gives them different meanings.",
+        "chinese": "英语：它们非常简单，但当你用它们的方式时，它们就有了不同的含义。"
+    },
+    {
+        "start": 359.84000000000003,
+        "end": 360.84000000000003,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 360.84000000000003,
+        "end": 361.84000000000003,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 361.84000000000003,
+        "end": 364.08000000000004,
+        "english": "So let's listen to our dialogue for the second time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 364.08000000000004,
+        "end": 367.56,
+        "english": "Let's slow it down a little bit and then we'll come back and look at some more phrases.",
+        "chinese": "让我们稍微慢一点，然后我们再看看一些更多的短语。"
+    },
+    {
+        "start": 372.36,
+        "end": 374.44,
+        "english": "Can we talk?",
+        "chinese": "英语：能聊吗？"
+    },
+    {
+        "start": 374.44,
+        "end": 375.44,
+        "english": "Sure, honey.",
+        "chinese": "当然，以下是根据提供的术语翻译的简化中文："
+    },
+    {
+        "start": 375.44,
+        "end": 379.12,
+        "english": "We're talking now, aren't we?",
+        "chinese": "我们正在讨论，不是吗？"
+    },
+    {
+        "start": 379.12,
+        "end": 380.44,
+        "english": "You know what I mean.",
+        "chinese": "你明白我说的什么意思。"
+    },
+    {
+        "start": 380.44,
+        "end": 382.36,
+        "english": "Yeah, I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 382.36,
+        "end": 385.76,
+        "english": "I want to know where this relationship is going.",
+        "chinese": "我想要知道这个关系会如何发展。"
+    },
+    {
+        "start": 385.76,
+        "end": 389.16,
+        "english": "I mean, love with you and I need to know.",
+        "chinese": "我指的是，爱慕你，并且需要知道。"
+    },
+    {
+        "start": 389.16,
+        "end": 391.24,
+        "english": "You know, I think you're awesome.",
+        "chinese": "英语：你知不知道，我觉得你很棒。"
+    },
+    {
+        "start": 391.24,
+        "end": 392.24,
+        "english": "I'm awesome.",
+        "chinese": "我超级棒。"
+    },
+    {
+        "start": 392.24,
+        "end": 395.2,
+        "english": "Well, I guess that's my answer, isn't it?",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 395.2,
+        "end": 396.2,
+        "english": "Honey.",
+        "chinese": "在中文中，\"Honey\"可以翻译为 \"蜂蜜\"。"
+    },
+    {
+        "start": 396.2,
+        "end": 400.44,
+        "english": "Look, if you don't love me, it's not a thing, all right.",
+        "chinese": "英语：看看，如果你不爱我，那不是一件。"
+    },
+    {
+        "start": 400.44,
+        "end": 404.44,
+        "english": "We've had our laughs, but I don't appreciate, well, maybe it's just time we...",
+        "chinese": "我们已经笑过，但我不太喜欢，或许只是时间到了。"
+    },
+    {
+        "start": 404.44,
+        "end": 406.6,
+        "english": "Baby, I love you so much.",
+        "chinese": "英语：宝贝，我爱你太深了。"
+    },
+    {
+        "start": 406.6,
+        "end": 407.6,
+        "english": "You do?",
+        "chinese": "你？"
+    },
+    {
+        "start": 407.6,
+        "end": 409.8,
+        "english": "I love you and I think you're awesome.",
+        "chinese": "我爱您，我也认为你很棒。"
+    },
+    {
+        "start": 409.8,
+        "end": 412.6,
+        "english": "Oh, I love you too.",
+        "chinese": "英语：啊，我也爱你。"
+    },
+    {
+        "start": 412.6,
+        "end": 413.6,
+        "english": "Come on.",
+        "chinese": "英语：Come on."
+    },
+    {
+        "start": 413.6,
+        "end": 414.6,
+        "english": "Put the gun down.",
+        "chinese": "放枪。"
+    },
+    {
+        "start": 414.6,
+        "end": 415.6,
+        "english": "Oh, baby.",
+        "chinese": "哦，宝贝。"
+    },
+    {
+        "start": 415.6,
+        "end": 417.6,
+        "english": "I'm so sorry.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 417.6,
+        "end": 420.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 420.92,
+        "end": 424.84,
+        "english": "So now it's time for us to take a look at some more phrases, but this time we're going",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 424.84,
+        "end": 428.76,
+        "english": "to look at them in putting it together.",
+        "chinese": "将他们放在一起看看。"
+    },
+    {
+        "start": 428.76,
+        "end": 436.24,
+        "english": "Okay, we're going to see how we can use these phrases in a few different situations.",
+        "chinese": "好的，我们将在几个不同的场景中使用这些短语。"
+    },
+    {
+        "start": 436.24,
+        "end": 441.76,
+        "english": "So the girl wanted to talk to her boyfriend because she wanted to know where this relationship",
+        "chinese": "所以这个女孩想和她男朋友谈谈，因为她想知道这段关系的具体位置。"
+    },
+    {
+        "start": 441.76,
+        "end": 442.76,
+        "english": "is going.",
+        "chinese": "是。"
+    },
+    {
+        "start": 442.76,
+        "end": 443.76,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 443.76,
+        "end": 446.03999999999996,
+        "english": "Where is this relationship going?",
+        "chinese": "英语：Where is this relationship going?"
+    },
+    {
+        "start": 446.03999999999996,
+        "end": 447.84,
+        "english": "Where is this relationship going?",
+        "chinese": "英语：Where is this relationship going?"
+    },
+    {
+        "start": 447.84,
+        "end": 451.03999999999996,
+        "english": "So she wants to know what's going to happen or what's...",
+        "chinese": "所以她想知道会发生什么或者发生了什么..."
+    },
+    {
+        "start": 451.03999999999996,
+        "end": 452.03999999999996,
+        "english": "What's the future?",
+        "chinese": "英语：What's the future?"
+    },
+    {
+        "start": 452.03999999999996,
+        "end": 453.03999999999996,
+        "english": "What's the future of this relationship?",
+        "chinese": "请问这个关系的未来是什么样子？"
+    },
+    {
+        "start": 453.03999999999996,
+        "end": 454.03999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 454.03999999999996,
+        "end": 456.08,
+        "english": "Are we going to get married or what's happening?",
+        "chinese": "英语：我们去结婚还是发生了什么？"
+    },
+    {
+        "start": 456.08,
+        "end": 457.08,
+        "english": "Yeah.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 457.08,
+        "end": 461.88,
+        "english": "We'll listen to some examples with different nouns and how we can use this phrase.",
+        "chinese": "我们将在不同的名词和如何使用这个短语方面进行讨论。"
+    },
+    {
+        "start": 461.88,
+        "end": 463.88,
+        "english": "Example 1.",
+        "chinese": "Example 1: 傻瓜相机 = 单反相机"
+    },
+    {
+        "start": 463.88,
+        "end": 466.91999999999996,
+        "english": "I don't know where my career is going in this company.",
+        "chinese": "我也不知道我在这家公司未来的职业方向。"
+    },
+    {
+        "start": 466.91999999999996,
+        "end": 470.76,
+        "english": "I don't see any potential for growth.",
+        "chinese": "我看不到任何增长的可能。"
+    },
+    {
+        "start": 470.76,
+        "end": 473.59999999999997,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 473.59999999999997,
+        "end": 475.03999999999996,
+        "english": "This movie is so confusing.",
+        "chinese": "这部电影真是太复杂了。"
+    },
+    {
+        "start": 475.03999999999996,
+        "end": 479.44,
+        "english": "I have no idea where the plot is going.",
+        "chinese": "我一点也不知道剧情会怎么发展。"
+    },
+    {
+        "start": 479.44,
+        "end": 482.76,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 482.76,
+        "end": 488.12,
+        "english": "We have been in this meeting for over two hours and I still don't know where it's going.",
+        "chinese": "我们已经在这次会议上待了超过两个小时，而且我仍然不知道它将去哪里。"
+    },
+    {
+        "start": 488.12,
+        "end": 492.71999999999997,
+        "english": "Okay, so again, this phrase is just asking about the future of something.",
+        "chinese": "好的，再次，这个短语只是在询问关于某事的未来。"
+    },
+    {
+        "start": 492.71999999999997,
+        "end": 493.71999999999997,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 493.71999999999997,
+        "end": 495.12,
+        "english": "So where the future of this movie?",
+        "chinese": "英语：所以这部电影的未来在哪里？"
+    },
+    {
+        "start": 495.12,
+        "end": 496.59999999999997,
+        "english": "Where is this movie going?",
+        "chinese": "电影去哪里？"
+    },
+    {
+        "start": 496.59999999999997,
+        "end": 497.59999999999997,
+        "english": "Yeah, what's happening?",
+        "chinese": "是的，正在发生什么？"
+    },
+    {
+        "start": 497.59999999999997,
+        "end": 498.59999999999997,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 498.59999999999997,
+        "end": 499.59999999999997,
+        "english": "What's going to happen?",
+        "chinese": "这句话的中文翻译是：“正在发生什么？”"
+    },
+    {
+        "start": 499.59999999999997,
+        "end": 500.59999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 500.59999999999997,
+        "end": 501.59999999999997,
+        "english": "Or your career, etc.",
+        "chinese": "英语：或者你的职业生涯，等等。"
+    },
+    {
+        "start": 501.59999999999997,
+        "end": 502.59999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 502.59999999999997,
+        "end": 503.59999999999997,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 503.59999999999997,
+        "end": 508.12,
+        "english": "And so the girl, you know, she was talking a little bit about her feelings and she said,",
+        "chinese": "And so the girl, you know, she was talking a little bit about her feelings and she said, \"我爱你，我爱你。"
+    },
+    {
+        "start": 508.12,
+        "end": 511.24,
+        "english": "maybe it's just time we...",
+        "chinese": "可能这只是时候我们卸下责任了。"
+    },
+    {
+        "start": 511.32,
+        "end": 514.5600000000001,
+        "english": "Okay, so this phrase isn't complete yet.",
+        "chinese": "好的，这个句子还没完全完成。"
+    },
+    {
+        "start": 514.5600000000001,
+        "end": 516.2,
+        "english": "We need to finish it.",
+        "chinese": "我们得把它完成。"
+    },
+    {
+        "start": 516.2,
+        "end": 519.0,
+        "english": "But she is basically saying, maybe we should do this.",
+        "chinese": "但是她说，或许我们应该这样做。"
+    },
+    {
+        "start": 519.0,
+        "end": 520.24,
+        "english": "How can we finish the phrase?",
+        "chinese": "如何结束这个短语？"
+    },
+    {
+        "start": 520.24,
+        "end": 524.64,
+        "english": "All right, so she could say, maybe it's just time we break up.",
+        "chinese": "英语：一切好，那么她可以这么说，或许我们该分手了。"
+    },
+    {
+        "start": 524.64,
+        "end": 528.48,
+        "english": "All right, or I can say, maybe it's time we have a baby.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 528.48,
+        "end": 529.48,
+        "english": "Oh, Marco.",
+        "chinese": "你好，马科。"
+    },
+    {
+        "start": 529.48,
+        "end": 531.48,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 531.48,
+        "end": 534.8,
+        "english": "Or even maybe it's time we go home.",
+        "chinese": "英语：或者甚至可能我们该回家了。"
+    },
+    {
+        "start": 534.8,
+        "end": 536.48,
+        "english": "Okay, so it's getting late.",
+        "chinese": "好的，现在是晚了。"
+    },
+    {
+        "start": 536.48,
+        "end": 537.48,
+        "english": "Let's go home.",
+        "chinese": "让我们回家。"
+    },
+    {
+        "start": 537.48,
+        "end": 538.48,
+        "english": "Maybe it's time we go home.",
+        "chinese": "英语：也许我们该回家了。"
+    },
+    {
+        "start": 538.64,
+        "end": 541.84,
+        "english": "So this is how we can finish this phrase.",
+        "chinese": "所以，这就是我们如何完成这个短语。"
+    },
+    {
+        "start": 541.84,
+        "end": 543.64,
+        "english": "And what about our last phrase?",
+        "chinese": "英语：And what about our last phrase?"
+    },
+    {
+        "start": 543.64,
+        "end": 546.84,
+        "english": "So she also said, we've had our laughs.",
+        "chinese": "所以她还说，我们已经笑过。"
+    },
+    {
+        "start": 546.84,
+        "end": 549.52,
+        "english": "Okay, so that means we've had our good times.",
+        "chinese": "好的，那么现在请将“Okay, so that means we've had our good times.” 用简化中文翻译。"
+    },
+    {
+        "start": 549.52,
+        "end": 550.52,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 550.52,
+        "end": 551.52,
+        "english": "Okay.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 551.52,
+        "end": 555.52,
+        "english": "But we can change this to, we've had our ups and downs.",
+        "chinese": "但是我们可以说，我们已经经历了起伏。"
+    },
+    {
+        "start": 555.52,
+        "end": 557.88,
+        "english": "Okay, or we've had our moments.",
+        "chinese": "好的，或者我们已经经历了一些事情。"
+    },
+    {
+        "start": 557.88,
+        "end": 558.88,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 558.88,
+        "end": 559.88,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 559.88,
+        "end": 561.9200000000001,
+        "english": "So that means we've had our good moments and our bad moments.",
+        "chinese": "所以这意味着我们已经经历了好的时光，也经历过不好的时光。"
+    },
+    {
+        "start": 561.9200000000001,
+        "end": 562.9200000000001,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 562.9200000000001,
+        "end": 565.28,
+        "english": "Or we've had our issues.",
+        "chinese": "英语：或者我们已经遇到了问题。"
+    },
+    {
+        "start": 565.28,
+        "end": 567.8000000000001,
+        "english": "Okay, so that means we've had some problems.",
+        "chinese": "好的，那么现在请将以下英文翻译成简化的中文："
+    },
+    {
+        "start": 567.8,
+        "end": 569.7199999999999,
+        "english": "So we've had some difficulties.",
+        "chinese": "英语：所以我们遇到了一些困难。"
+    },
+    {
+        "start": 569.7199999999999,
+        "end": 571.3599999999999,
+        "english": "Or even we've had our moments.",
+        "chinese": "英语：或者我们已经有过经验。"
+    },
+    {
+        "start": 571.3599999999999,
+        "end": 574.8,
+        "english": "Okay, so that means we've had special times.",
+        "chinese": "好的，现在请将“Okay, so that means we've had special times.” 用简化中文翻译。"
+    },
+    {
+        "start": 574.8,
+        "end": 575.8,
+        "english": "Yeah.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 575.8,
+        "end": 578.3199999999999,
+        "english": "So that means we've had our special times, special occasions",
+        "chinese": "所以，这意味着我们已经度过了特别的时光、特别的日子。"
+    },
+    {
+        "start": 578.3199999999999,
+        "end": 579.52,
+        "english": "that we will always remember.",
+        "chinese": "我们永远都会记住这一切。"
+    },
+    {
+        "start": 579.52,
+        "end": 580.52,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 580.52,
+        "end": 581.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 581.52,
+        "end": 586.0,
+        "english": "So three really useful structures that you can change the words",
+        "chinese": "所以三个你可以在单词中改变的结构。"
+    },
+    {
+        "start": 586.0,
+        "end": 588.24,
+        "english": "a little bit to slightly change the meaning.",
+        "chinese": "英语：有一点点要稍微改变意思。"
+    },
+    {
+        "start": 588.24,
+        "end": 591.0799999999999,
+        "english": "Okay, so it's time for us to listen to our dialogue",
+        "chinese": "好的，现在我们来听我们的对话。"
+    },
+    {
+        "start": 591.0799999999999,
+        "end": 594.4,
+        "english": "for the last time now we're ready to understand everything.",
+        "chinese": "现在我们已经准备好理解一切了。"
+    },
+    {
+        "start": 594.4,
+        "end": 596.56,
+        "english": "And then we'll come back and give you some examples",
+        "chinese": "英语：然后我们将给你一些例子，以便更好地理解。"
+    },
+    {
+        "start": 596.56,
+        "end": 598.56,
+        "english": "of pet names in English.",
+        "chinese": "英语：of pet names in English."
+    },
+    {
+        "start": 598.56,
+        "end": 610.4799999999999,
+        "english": "[♪ OUTRO MUSIC PLAYING [♪",
+        "chinese": "[♪ 音乐正在播放中... [♪"
+    },
+    {
+        "start": 615.28,
+        "end": 617.28,
+        "english": "Can we talk?",
+        "chinese": "是的，我们可以聊。"
+    },
+    {
+        "start": 617.28,
+        "end": 618.28,
+        "english": "Sure, honey.",
+        "chinese": "当然，以下是根据提供的术语翻译的简化中文："
+    },
+    {
+        "start": 618.28,
+        "end": 619.88,
+        "english": "We're talking now, aren't we?",
+        "chinese": "我们正在讨论，不是吗？"
+    },
+    {
+        "start": 619.88,
+        "end": 621.28,
+        "english": "You know what I mean.",
+        "chinese": "你明白我说的是什么吗？"
+    },
+    {
+        "start": 621.28,
+        "end": 623.28,
+        "english": "Yeah, I know.",
+        "chinese": "是的，我知道。"
+    },
+    {
+        "start": 623.28,
+        "end": 626.76,
+        "english": "I want to know where this relationship is going.",
+        "chinese": "我想要知道这个关系会怎样发展。"
+    },
+    {
+        "start": 626.76,
+        "end": 627.9599999999999,
+        "english": "I mean, love with you.",
+        "chinese": "我指的是，爱你。"
+    },
+    {
+        "start": 627.9599999999999,
+        "end": 630.1999999999999,
+        "english": "And I need to know.",
+        "chinese": "英语：And I need to know."
+    },
+    {
+        "start": 630.1999999999999,
+        "end": 632.24,
+        "english": "You know, I think you're awesome.",
+        "chinese": "英语：你知不知道，我觉得你很厉害。"
+    },
+    {
+        "start": 632.24,
+        "end": 634.16,
+        "english": "I'm awesome.",
+        "chinese": "我超级棒。"
+    },
+    {
+        "start": 634.16,
+        "end": 636.04,
+        "english": "Well, I guess that's my answer, isn't it?",
+        "chinese": "英语：嗯，我猜这是我的答案，不是吗？"
+    },
+    {
+        "start": 636.04,
+        "end": 637.1999999999999,
+        "english": "Honey.",
+        "chinese": "在中文中，\"Honey\"可以翻译为 \"蜂蜜\"。"
+    },
+    {
+        "start": 637.1999999999999,
+        "end": 641.36,
+        "english": "Look, if you don't love me, it's not a thing, all right?",
+        "chinese": "英语：看看，如果你不爱我，那不是一件。"
+    },
+    {
+        "start": 641.36,
+        "end": 644.24,
+        "english": "We've had our laughs, but I don't appreciate, well,",
+        "chinese": "我们玩得开心，但我不喜欢，嗯。"
+    },
+    {
+        "start": 644.24,
+        "end": 645.48,
+        "english": "maybe it's just time we...",
+        "chinese": "可能是我们该卸下重担了。"
+    },
+    {
+        "start": 645.48,
+        "end": 647.56,
+        "english": "Baby, I love you so much.",
+        "chinese": "英语：宝贝，我爱你太深了。"
+    },
+    {
+        "start": 647.56,
+        "end": 648.3199999999999,
+        "english": "You do?",
+        "chinese": "你？"
+    },
+    {
+        "start": 648.3199999999999,
+        "end": 648.92,
+        "english": "I love you.",
+        "chinese": "我爱你。"
+    },
+    {
+        "start": 648.92,
+        "end": 650.8399999999999,
+        "english": "And I think you're awesome.",
+        "chinese": "英语：And I think you're awesome."
+    },
+    {
+        "start": 650.8399999999999,
+        "end": 653.16,
+        "english": "Oh, I love you too.",
+        "chinese": "英语：哦，我也爱你。"
+    },
+    {
+        "start": 653.1999999999999,
+        "end": 653.88,
+        "english": "Come on.",
+        "chinese": "来吧。"
+    },
+    {
+        "start": 653.88,
+        "end": 655.04,
+        "english": "Put the gun down.",
+        "chinese": "英语：把枪放下。"
+    },
+    {
+        "start": 655.04,
+        "end": 656.16,
+        "english": "Oh, baby.",
+        "chinese": "哎，宝贝。"
+    },
+    {
+        "start": 656.16,
+        "end": 657.24,
+        "english": "I'm so sorry.",
+        "chinese": "我非常抱歉。"
+    },
+    {
+        "start": 657.24,
+        "end": 664.36,
+        "english": "[♪ OUTRO MUSIC PLAYING [♪",
+        "chinese": "[♪ 音乐正在播放中... [♪"
+    },
+    {
+        "start": 664.36,
+        "end": 667.68,
+        "english": "All right, Omar, can you mention this word pet names?",
+        "chinese": "英语：所有好，奥马尔，请你提及这个单词宠物名字。"
+    },
+    {
+        "start": 667.68,
+        "end": 668.88,
+        "english": "And what exactly is that?",
+        "chinese": "英语：And what exactly is that?"
+    },
+    {
+        "start": 668.88,
+        "end": 671.4399999999999,
+        "english": "All right, so pet names aren't names for your dogs",
+        "chinese": "英语：所有好，所以狗狗的名字不是你的狗的名字。"
+    },
+    {
+        "start": 671.4399999999999,
+        "end": 672.48,
+        "english": "or your cats, right?",
+        "chinese": "或者你的猫咪，对吧？"
+    },
+    {
+        "start": 672.48,
+        "end": 673.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 673.0,
+        "end": 675.1999999999999,
+        "english": "They are those sweet names that you would call",
+        "chinese": "他们这些甜美的名字，你就会叫。"
+    },
+    {
+        "start": 675.1999999999999,
+        "end": 676.48,
+        "english": "your boyfriend or girlfriend.",
+        "chinese": "你的男朋友/女朋友。"
+    },
+    {
+        "start": 676.48,
+        "end": 677.8399999999999,
+        "english": "OK, so like, baby.",
+        "chinese": "好的，那么请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 677.8399999999999,
+        "end": 679.68,
+        "english": "OK, in our dialogue, we heard baby.",
+        "chinese": "好的，现在请将“OK, in our dialogue, we heard baby.” 用简化中文表达。"
+    },
+    {
+        "start": 679.68,
+        "end": 680.1999999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 680.1999999999999,
+        "end": 681.1999999999999,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 681.1999999999999,
+        "end": 682.04,
+        "english": "So we're not talking about a little...",
+        "chinese": "所以我们不是在谈论一个..."
+    },
+    {
+        "start": 682.04,
+        "end": 682.88,
+        "english": "A little child.",
+        "chinese": "一个小孩子。"
+    },
+    {
+        "start": 682.88,
+        "end": 683.7199999999999,
+        "english": "A little child now.",
+        "chinese": "一个孩子现在。"
+    },
+    {
+        "start": 683.7199999999999,
+        "end": 686.0799999999999,
+        "english": "This is usually how you would call maybe your girlfriend",
+        "chinese": "这个通常会叫你的女朋友。"
+    },
+    {
+        "start": 686.0799999999999,
+        "end": 687.4,
+        "english": "or boyfriend, baby.",
+        "chinese": "或者男朋友，或者女朋友。"
+    },
+    {
+        "start": 687.4,
+        "end": 688.3199999999999,
+        "english": "Or honey.",
+        "chinese": "英语：或者蜂蜜。"
+    },
+    {
+        "start": 688.3199999999999,
+        "end": 689.16,
+        "english": "Honey, right?",
+        "chinese": "蜂蜜，对吗？"
+    },
+    {
+        "start": 689.16,
+        "end": 690.8,
+        "english": "Hey, honey or...",
+        "chinese": "你好，宝贝或..."
+    },
+    {
+        "start": 690.8,
+        "end": 691.7199999999999,
+        "english": "Honey, I'm home.",
+        "chinese": "哈哈，我回来了。"
+    },
+    {
+        "start": 691.7199999999999,
+        "end": 692.7199999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 692.7199999999999,
+        "end": 693.04,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 693.04,
+        "end": 695.04,
+        "english": "But we also have other ones like, sweet heart.",
+        "chinese": "但是我们还有其他的东西，比如，甜蜜的心。"
+    },
+    {
+        "start": 695.04,
+        "end": 695.8,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，你做得很好。"
+    },
+    {
+        "start": 695.8,
+        "end": 696.4,
+        "english": "Or...",
+        "chinese": "英语：或者..."
+    },
+    {
+        "start": 696.4,
+        "end": 697.0799999999999,
+        "english": "Darling.",
+        "chinese": "亲爱的。"
+    },
+    {
+        "start": 697.0799999999999,
+        "end": 697.92,
+        "english": "Darling.",
+        "chinese": "在中文中，\"darling\" 通常翻译为 \"宝贝\" 或 \"小可爱\"。如果您有特定的上下文或想要表达的情感，请告诉我，我可以提供更准确的翻译。"
+    },
+    {
+        "start": 697.92,
+        "end": 698.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 698.12,
+        "end": 699.7199999999999,
+        "english": "Or what about sweetie?",
+        "chinese": "英语：或者，小宝贝。"
+    },
+    {
+        "start": 699.7199999999999,
+        "end": 700.48,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 700.48,
+        "end": 701.64,
+        "english": "Or cutie.",
+        "chinese": "英语：或者切片。"
+    },
+    {
+        "start": 701.64,
+        "end": 702.48,
+        "english": "Cutie.",
+        "chinese": "在中文中，\"Cutie\" 通常指的是一个可爱的、可爱的小女孩。如果你需要将其翻译成其他语言，请告诉我具体的目标语言。"
+    },
+    {
+        "start": 702.48,
+        "end": 703.0,
+        "english": "Oh.",
+        "chinese": "英语：Oh."
+    },
+    {
+        "start": 703.0,
+        "end": 706.4,
+        "english": "So some of these phrases can be a little bit like cheesy, maybe like...",
+        "chinese": "英语：所以，有些这样的短语可以有点像滑稽，或许像..."
+    },
+    {
+        "start": 706.4,
+        "end": 707.88,
+        "english": "Yeah, a little too sweet.",
+        "chinese": "嗯，有点甜。"
+    },
+    {
+        "start": 707.88,
+        "end": 708.64,
+        "english": "Too much.",
+        "chinese": "太多了。"
+    },
+    {
+        "start": 708.64,
+        "end": 709.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 709.16,
+        "end": 710.4,
+        "english": "Smookoms.",
+        "chinese": "Smooksoms\" in Chinese is \"小松鼠\" (xiǎo shūmáo)."
+    },
+    {
+        "start": 710.4,
+        "end": 711.24,
+        "english": "Smookoms.",
+        "chinese": "Smooksoms\" in Chinese is \"小松鼠\" (xiǎo shūmáo)."
+    },
+    {
+        "start": 711.24,
+        "end": 712.24,
+        "english": "Smookoms.",
+        "chinese": "Smooksoms\" in Chinese is \"小松鼠\" (xiǎo shūmáo)."
+    },
+    {
+        "start": 712.24,
+        "end": 713.24,
+        "english": "Like snookoms.",
+        "chinese": "像哨子。"
+    },
+    {
+        "start": 713.24,
+        "end": 714.24,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 714.24,
+        "end": 715.24,
+        "english": "Or honey bunny.",
+        "chinese": "英语：或者蜂蜜兔子。"
+    },
+    {
+        "start": 715.24,
+        "end": 716.24,
+        "english": "Oh, yeah, yeah.",
+        "chinese": "英语：哦，对了，对了。"
+    },
+    {
+        "start": 716.24,
+        "end": 718.24,
+        "english": "You also have sweetie pie.",
+        "chinese": "你还有甜点呢。"
+    },
+    {
+        "start": 718.24,
+        "end": 719.24,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 719.24,
+        "end": 720.24,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 720.24,
+        "end": 721.48,
+        "english": "And some of them will make some up, right?",
+        "chinese": "还有些人会编一些，对吗？"
+    },
+    {
+        "start": 721.48,
+        "end": 725.32,
+        "english": "Maybe they'll call their boyfriend, pooh bear.",
+        "chinese": "英语：也许他们会打电话给他们的男朋友，小熊。"
+    },
+    {
+        "start": 725.32,
+        "end": 726.32,
+        "english": "Oh, yeah.",
+        "chinese": "英语：哦，对了。"
+    },
+    {
+        "start": 726.32,
+        "end": 727.32,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 727.32,
+        "end": 728.32,
+        "english": "Like, you know, like, we need a pooh bear.",
+        "chinese": "英语：像，你知道，我们需要一只小熊。"
+    },
+    {
+        "start": 728.32,
+        "end": 729.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 729.32,
+        "end": 730.32,
+        "english": "I heard dumpling.",
+        "chinese": "我听说饺子。"
+    },
+    {
+        "start": 730.32,
+        "end": 731.32,
+        "english": "And they're calling one.",
+        "chinese": "英语：And they're calling one."
+    },
+    {
+        "start": 731.32,
+        "end": 733.12,
+        "english": "Also, it could be...",
+        "chinese": "另外，它可能..."
+    },
+    {
+        "start": 733.12,
+        "end": 734.8,
+        "english": "You can make up your own phrase.",
+        "chinese": "你可以在句子中添加自己的表达方式。例如："
+    },
+    {
+        "start": 734.8,
+        "end": 736.5600000000001,
+        "english": "You can make up your own pet names, right?",
+        "chinese": "是的，你可以随意命名你的宠物。"
+    },
+    {
+        "start": 736.5600000000001,
+        "end": 737.5600000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 737.5600000000001,
+        "end": 738.5600000000001,
+        "english": "So I want to hear from our listeners.",
+        "chinese": "所以我想听听我们的听众的意见。"
+    },
+    {
+        "start": 738.5600000000001,
+        "end": 741.2,
+        "english": "Are there any common pet names in your language?",
+        "chinese": "是的，你有常见的宠物名字吗？"
+    },
+    {
+        "start": 741.2,
+        "end": 745.2,
+        "english": "I know that in Spanish, we sometimes call the...",
+        "chinese": "我了解在西班牙语中，我们有时会称..."
+    },
+    {
+        "start": 745.2,
+        "end": 751.12,
+        "english": "We can sometimes call our girlfriend, gorda, which actually means fat.",
+        "chinese": "我们有时会称我们的女朋友为格洛达，这实际上意味着胖。"
+    },
+    {
+        "start": 751.12,
+        "end": 752.5200000000001,
+        "english": "But it's not in a bad way.",
+        "chinese": "但是它并不在坏处。"
+    },
+    {
+        "start": 752.5200000000001,
+        "end": 753.5200000000001,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 753.5200000000001,
+        "end": 755.5200000000001,
+        "english": "It's a sweet way of calling your girlfriend.",
+        "chinese": "英语：它是一种甜蜜的叫你的女朋友的方式。"
+    },
+    {
+        "start": 755.5200000000001,
+        "end": 760.5200000000001,
+        "english": "And I know in French, you can say mapou, switch basically means my flea.",
+        "chinese": "而且我知道在法语中，你可以说mapou，基本上意味着我的跳蚤。"
+    },
+    {
+        "start": 760.5200000000001,
+        "end": 764.9200000000001,
+        "english": "Yeah, so some of them, if you translate, you wouldn't really use in English.",
+        "chinese": "是的，所以有些可能，如果你翻译的话，你不会真正使用英语。"
+    },
+    {
+        "start": 764.9200000000001,
+        "end": 766.4000000000001,
+        "english": "But let us know.",
+        "chinese": "但是，我们可以告知。"
+    },
+    {
+        "start": 766.4000000000001,
+        "end": 769.76,
+        "english": "Translate from your language or other ones that you've heard maybe in movies or talk",
+        "chinese": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 769.76,
+        "end": 772.76,
+        "english": "shows and come to our website, EnglishPod.com.",
+        "chinese": "显示并访问我们的网站，www.englishpod.com。"
+    },
+    {
+        "start": 772.76,
+        "end": 773.76,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 773.76,
+        "end": 776.56,
+        "english": "Leave your questions there, as well as your pet names.",
+        "chinese": "别在这里留下你的问题，也别用你家里的宠物名字。"
+    },
+    {
+        "start": 776.56,
+        "end": 778.84,
+        "english": "And Marco and I are always happy to see you there.",
+        "chinese": "我和马科斯总是很高兴在这里见到你。"
+    },
+    {
+        "start": 778.84,
+        "end": 779.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 779.84,
+        "end": 780.84,
+        "english": "Until next time.",
+        "chinese": "直到下次见。"
+    },
+    {
+        "start": 780.84,
+        "end": 781.84,
+        "english": "Bye-bye.",
+        "chinese": "拜拜。"
+    }
+]

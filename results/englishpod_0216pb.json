@@ -1,0 +1,1304 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.24,
+        "english": "Hello everyone and welcome to English.",
+        "chinese": "你好，大家欢迎来到英语。"
+    },
+    {
+        "start": 5.24,
+        "end": 6.84,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是Marco。"
+    },
+    {
+        "start": 6.84,
+        "end": 8.32,
+        "english": "My name is Catherine.",
+        "chinese": "我的名字是凯瑟琳。"
+    },
+    {
+        "start": 8.32,
+        "end": 15.6,
+        "english": "And today we have a very healthy lesson for everyone we are going to have healthy food.",
+        "chinese": "今天我们要来一节非常健康的课，我们即将享用健康的食物。"
+    },
+    {
+        "start": 15.6,
+        "end": 19.48,
+        "english": "So we're going to the grocery store and we're choosing what food to buy.",
+        "chinese": "所以我们要去超市，选择要买什么食物。"
+    },
+    {
+        "start": 19.48,
+        "end": 23.28,
+        "english": "You're going to hear a lot of words about eating right and eating healthy.",
+        "chinese": "你将会听到很多关于吃对了和吃得健康的话语。"
+    },
+    {
+        "start": 23.28,
+        "end": 27.16,
+        "english": "So let's jump into this dialogue first and we'll be back in a moment to talk more about",
+        "chinese": "好的，我们先跳进这个对话里，然后一会儿再来聊更多。"
+    },
+    {
+        "start": 27.16,
+        "end": 28.16,
+        "english": "it.",
+        "chinese": "是。"
+    },
+    {
+        "start": 28.16,
+        "end": 38.6,
+        "english": "Okay darling, I got some pizzas, potato chips, hot dogs and lots of cheese.",
+        "chinese": "好的宝贝，我买了些披萨、薯片、热狗和好多奶酪。"
+    },
+    {
+        "start": 38.6,
+        "end": 41.64,
+        "english": "Oh John, I thought we said we'd start eating right.",
+        "chinese": "哦，约翰，我以为我们说过要开始吃饭的。"
+    },
+    {
+        "start": 41.64,
+        "end": 42.64,
+        "english": "Remember?",
+        "chinese": "记住？"
+    },
+    {
+        "start": 42.64,
+        "end": 43.64,
+        "english": "A new healthy lifestyle.",
+        "chinese": "新的健康生活方式。"
+    },
+    {
+        "start": 43.64,
+        "end": 45.64,
+        "english": "That's all junk food.",
+        "chinese": "那全是垃圾食品。"
+    },
+    {
+        "start": 45.64,
+        "end": 46.64,
+        "english": "Huh.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 46.64,
+        "end": 49.0,
+        "english": "Right, so what did you get?",
+        "chinese": "好的，那你得到的是什么呢？"
+    },
+    {
+        "start": 49.0,
+        "end": 51.04,
+        "english": "Well healthy food of course.",
+        "chinese": "当然，健康的食品。"
+    },
+    {
+        "start": 51.04,
+        "end": 56.120000000000005,
+        "english": "I got some whole wheat bread, skimmed milk, fresh fish and organic carrots.",
+        "chinese": "我得到了全麦面包、脱脂牛奶、新鲜鱼和有机胡萝卜。"
+    },
+    {
+        "start": 56.120000000000005,
+        "end": 57.120000000000005,
+        "english": "Organic.",
+        "chinese": "有机的。"
+    },
+    {
+        "start": 57.120000000000005,
+        "end": 58.120000000000005,
+        "english": "What's organic?",
+        "chinese": "有机是什么？"
+    },
+    {
+        "start": 58.12,
+        "end": 59.12,
+        "english": "Organic carrots.",
+        "chinese": "有机胡萝卜。"
+    },
+    {
+        "start": 59.12,
+        "end": 63.4,
+        "english": "They were grown without using any chemicals that are harmful to our health.",
+        "chinese": "他们没有使用任何对我们的健康有害的化学物质。"
+    },
+    {
+        "start": 63.4,
+        "end": 66.28,
+        "english": "And yes John, we need organic carrots.",
+        "chinese": "当然约翰，我们需要有机胡萝卜。"
+    },
+    {
+        "start": 66.28,
+        "end": 70.24,
+        "english": "Oh so organic vegetables are the green option right?",
+        "chinese": "哎，真的有机蔬菜就是绿色选项吗？"
+    },
+    {
+        "start": 70.24,
+        "end": 73.6,
+        "english": "Yep, better for the environment and better for us.",
+        "chinese": "没错，对环境好，对我们也好。"
+    },
+    {
+        "start": 73.6,
+        "end": 75.08,
+        "english": "Wait a minute.",
+        "chinese": "好一会儿。"
+    },
+    {
+        "start": 75.08,
+        "end": 76.08,
+        "english": "What's that?",
+        "chinese": "那是什么？"
+    },
+    {
+        "start": 76.08,
+        "end": 77.08,
+        "english": "Donuts.",
+        "chinese": "甜甜圈。"
+    },
+    {
+        "start": 77.08,
+        "end": 79.67999999999999,
+        "english": "Are they organic donuts Kelly?",
+        "chinese": "Kelly，它们是有机的甜甜圈吗？"
+    },
+    {
+        "start": 79.67999999999999,
+        "end": 86.47999999999999,
+        "english": "But I like donuts.",
+        "chinese": "但我不喜欢甜甜圈。"
+    },
+    {
+        "start": 86.48,
+        "end": 90.56,
+        "english": "So it's a very popular topic nowadays people want to eat light.",
+        "chinese": "现在吃轻食已经成为一个非常热门的话题，人们都希望能轻松愉快地享受美食。"
+    },
+    {
+        "start": 90.56,
+        "end": 98.16,
+        "english": "So why don't we take a look at some of these words and phrases now in language takeaway.",
+        "chinese": "现在，我们来回顾一下这些词语和短语吧。"
+    },
+    {
+        "start": 98.16,
+        "end": 100.60000000000001,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。\n中文：这是一份语言学习的提示。"
+    },
+    {
+        "start": 100.60000000000001,
+        "end": 103.52000000000001,
+        "english": "The first kind of food we have here is whole wheat bread.",
+        "chinese": "我们这里的第一种食物是全麦面包。"
+    },
+    {
+        "start": 103.52000000000001,
+        "end": 107.32000000000001,
+        "english": "So maybe you're buying bread at the grocery store and you see a number of different kinds",
+        "chinese": "所以也许你在超市买面包时，看到有很多不同的种类。"
+    },
+    {
+        "start": 107.32000000000001,
+        "end": 108.32000000000001,
+        "english": "of bread.",
+        "chinese": "面包的。"
+    },
+    {
+        "start": 108.32000000000001,
+        "end": 109.88000000000001,
+        "english": "There's white bread.",
+        "chinese": "有白面包。"
+    },
+    {
+        "start": 109.88000000000001,
+        "end": 110.88000000000001,
+        "english": "There's rye bread.",
+        "chinese": "有面包。"
+    },
+    {
+        "start": 110.88000000000001,
+        "end": 113.96000000000001,
+        "english": "Well we have whole wheat bread which is maybe the healthiest option.",
+        "chinese": "我们有全麦面包，可能是健康选项之一。"
+    },
+    {
+        "start": 113.96000000000001,
+        "end": 115.64,
+        "english": "So it's made out of wheat.",
+        "chinese": "所以它是用小麦做成的。"
+    },
+    {
+        "start": 116.12,
+        "end": 118.84,
+        "english": "All right so we have whole wheat bread now as you say.",
+        "chinese": "好的，我们现在有全麦面包了，你说对吧。"
+    },
+    {
+        "start": 118.84,
+        "end": 124.16,
+        "english": "It's a type of bread that uses wheat as its main ingredient.",
+        "chinese": "这是一种以小麦为主要成分的面包。"
+    },
+    {
+        "start": 124.16,
+        "end": 126.16,
+        "english": "Right so it's made from wheat flour.",
+        "chinese": "没错，它是用小麦面粉制成的。"
+    },
+    {
+        "start": 126.16,
+        "end": 128.2,
+        "english": "It's usually a brownish kind of bread.",
+        "chinese": "通常是一块棕色的面包。"
+    },
+    {
+        "start": 128.2,
+        "end": 131.2,
+        "english": "That means the color is brown not white.",
+        "chinese": "这意味着颜色是棕色而不是白色。"
+    },
+    {
+        "start": 131.2,
+        "end": 135.32,
+        "english": "And it's healthier than white bread because white bread uses that processed flour right?",
+        "chinese": "当然比白面包健康，因为白面包就是用那种经过加工的面粉呢？"
+    },
+    {
+        "start": 135.32,
+        "end": 136.32,
+        "english": "It does.",
+        "chinese": "确实。"
+    },
+    {
+        "start": 136.32,
+        "end": 138.2,
+        "english": "It's processed and also uses a lot more sugar.",
+        "chinese": "它处理过，而且用了很多糖。"
+    },
+    {
+        "start": 138.2,
+        "end": 142.04,
+        "english": "Okay so whole wheat bread is a healthy option.",
+        "chinese": "好的，全麦面包是一个健康的选择。"
+    },
+    {
+        "start": 142.04,
+        "end": 145.35999999999999,
+        "english": "And also we are having skimmed milk.",
+        "chinese": "而且我们正喝着浓缩牛奶。"
+    },
+    {
+        "start": 145.35999999999999,
+        "end": 149.84,
+        "english": "All right so as you know when milk comes out of the cow it's very very fatty.",
+        "chinese": "英语：所有这些都是你所知道的，当牛奶从牛身上流出时，它是非常非常脂肪的。"
+    },
+    {
+        "start": 149.84,
+        "end": 156.12,
+        "english": "There's lots of fat and so skimmed milk means that when the dairy is processing the milk",
+        "chinese": "当然有很多脂肪，所以就是说加工牛奶的时候去掉了一部分。"
+    },
+    {
+        "start": 156.12,
+        "end": 157.84,
+        "english": "the fat is taken away.",
+        "chinese": "我胖得要命。"
+    },
+    {
+        "start": 157.84,
+        "end": 160.35999999999999,
+        "english": "So this is one of the healthier kinds of milk.",
+        "chinese": "所以这是一款比较健康的牛奶。"
+    },
+    {
+        "start": 160.35999999999999,
+        "end": 163.44,
+        "english": "You have fat free and skimmed milk which are the healthiest.",
+        "chinese": "你有低脂奶和脱脂奶，是最健康的选择。"
+    },
+    {
+        "start": 163.44,
+        "end": 167.79999999999998,
+        "english": "So when you buy normal milk what is that called?",
+        "chinese": "你说的是正常的牛奶叫什么？"
+    },
+    {
+        "start": 167.79999999999998,
+        "end": 168.79999999999998,
+        "english": "Well you have whole milk.",
+        "chinese": "你有全牛奶。"
+    },
+    {
+        "start": 168.79999999999998,
+        "end": 169.79999999999998,
+        "english": "Whole milk.",
+        "chinese": "全脂牛奶。"
+    },
+    {
+        "start": 169.88000000000002,
+        "end": 173.04000000000002,
+        "english": "2% milk which is 2% fat.",
+        "chinese": "2%牛奶，即2%脂肪。"
+    },
+    {
+        "start": 173.04000000000002,
+        "end": 176.16000000000003,
+        "english": "And then skimmed milk and fat free milk.",
+        "chinese": "然后是全脂牛奶和脱脂牛奶。"
+    },
+    {
+        "start": 176.16000000000003,
+        "end": 177.16000000000003,
+        "english": "Okay good.",
+        "chinese": "好的。不错。"
+    },
+    {
+        "start": 177.16000000000003,
+        "end": 182.44,
+        "english": "Now when we were talking about the carrots she said you know what we also bought organic",
+        "chinese": "现在当我们谈论胡萝卜时，她还说你知道我们还买有机的。"
+    },
+    {
+        "start": 182.44,
+        "end": 183.8,
+        "english": "carrots.",
+        "chinese": "胡萝卜"
+    },
+    {
+        "start": 183.8,
+        "end": 187.52,
+        "english": "So this is a very popular word nowadays.",
+        "chinese": "所以，这个词现在非常流行。"
+    },
+    {
+        "start": 187.52,
+        "end": 190.16000000000003,
+        "english": "Organic vegetables, organic carrots.",
+        "chinese": "有机蔬菜，有机胡萝卜。"
+    },
+    {
+        "start": 190.16000000000003,
+        "end": 191.92000000000002,
+        "english": "What does it mean if it's organic?",
+        "chinese": "有机意味着什么？"
+    },
+    {
+        "start": 191.92000000000002,
+        "end": 195.20000000000002,
+        "english": "Well in general things that are organic come from nature.",
+        "chinese": "当然，有机的东西通常来源于自然。"
+    },
+    {
+        "start": 195.2,
+        "end": 200.0,
+        "english": "But in food things that are organic don't use chemicals.",
+        "chinese": "但有机食品并不使用化学物质。"
+    },
+    {
+        "start": 200.0,
+        "end": 205.07999999999998,
+        "english": "So a lot of people are very nervous about food that comes from farms that have pesticides",
+        "chinese": "所以很多人对来自农场的食物感到非常紧张。"
+    },
+    {
+        "start": 205.07999999999998,
+        "end": 206.64,
+        "english": "or chemicals on them.",
+        "chinese": "或者它们身上。"
+    },
+    {
+        "start": 206.64,
+        "end": 209.64,
+        "english": "But organic food is safe in this area.",
+        "chinese": "但是有机食品在这个地区是安全的。"
+    },
+    {
+        "start": 209.64,
+        "end": 211.64,
+        "english": "There's no pesticides or chemicals.",
+        "chinese": "没有农药或化学物质。"
+    },
+    {
+        "start": 211.64,
+        "end": 217.2,
+        "english": "Okay so what about when you talk about chickens or animals they also say it's an organic",
+        "chinese": "好的，那么当你谈论鸡或动物时，他们也说这是有机的。"
+    },
+    {
+        "start": 217.2,
+        "end": 218.39999999999998,
+        "english": "farm.",
+        "chinese": "农场"
+    },
+    {
+        "start": 218.39999999999998,
+        "end": 221.79999999999998,
+        "english": "That means that they don't have chemicals injected into them.",
+        "chinese": "这意味着他们没有被注入化学物质。"
+    },
+    {
+        "start": 221.79999999999998,
+        "end": 225.16,
+        "english": "That's right they're not stuffed with chemicals or given chemical shots.",
+        "chinese": "没错，他们可不是用化学物质塞满的，也没有接受过化学注射。"
+    },
+    {
+        "start": 225.2,
+        "end": 227.76,
+        "english": "And also the food that they eat is real food.",
+        "chinese": "而且他们吃的食物都是真的食物。"
+    },
+    {
+        "start": 227.76,
+        "end": 230.4,
+        "english": "It's not like chemical food to make them fatter.",
+        "chinese": "不是化学食物让他们变胖的。"
+    },
+    {
+        "start": 230.4,
+        "end": 231.72,
+        "english": "Okay very good.",
+        "chinese": "好的，不错。"
+    },
+    {
+        "start": 231.72,
+        "end": 236.35999999999999,
+        "english": "So organic foods and you mentioned the word chemicals a lot.",
+        "chinese": "所以有机食物，你提到的化学这个词很多啊。"
+    },
+    {
+        "start": 236.35999999999999,
+        "end": 241.88,
+        "english": "So when we talk about chemicals we're talking about substances that are artificial right?",
+        "chinese": "英语：所以当我们谈论化学时，我们是在谈论那些人工合成的物质吗？"
+    },
+    {
+        "start": 241.88,
+        "end": 244.64,
+        "english": "That's right they're not organic.",
+        "chinese": "那他们是有机的吗？"
+    },
+    {
+        "start": 244.64,
+        "end": 250.92,
+        "english": "These are things that are chemicals that scientists come up with to help make food.",
+        "chinese": "这些都是科学家们研发出来的化学物质，用来帮助制造食物。"
+    },
+    {
+        "start": 250.92,
+        "end": 255.88,
+        "english": "For example help make fatter chickens or to make greener vegetables.",
+        "chinese": "例如帮助让鸡长得更肥，或者使蔬菜变得更绿。"
+    },
+    {
+        "start": 255.88,
+        "end": 257.2,
+        "english": "And these are not natural.",
+        "chinese": "这些并不是自然的。"
+    },
+    {
+        "start": 257.2,
+        "end": 261.36,
+        "english": "These are man made and chemicals can also mean pesticides.",
+        "chinese": "这些都是人为制造的，也可以是指农药。"
+    },
+    {
+        "start": 261.36,
+        "end": 266.91999999999996,
+        "english": "So some sprays or things that we put on plants to keep the bugs away.",
+        "chinese": "所以有些喷雾剂或我们用来防止害虫的植物制品。"
+    },
+    {
+        "start": 266.91999999999996,
+        "end": 270.4,
+        "english": "And these are all things that have been found to hurt human beings.",
+        "chinese": "这些都是被认为会对人类造成伤害的事情。"
+    },
+    {
+        "start": 270.4,
+        "end": 276.52,
+        "english": "Yeah I guess for example when you are eating something and you see in the box and it says",
+        "chinese": "是的，我猜，例如当你吃东西时，你看到盒子里写着什么，比如："
+    },
+    {
+        "start": 276.52,
+        "end": 282.88,
+        "english": "it has certain preservatives those are chemicals right that help keep the food fresh for a longer",
+        "chinese": "英语：它有某些防腐剂，这些是帮助保持食物新鲜的化学物质。"
+    },
+    {
+        "start": 282.88,
+        "end": 283.88,
+        "english": "period of time.",
+        "chinese": "时间段"
+    },
+    {
+        "start": 283.88,
+        "end": 284.88,
+        "english": "That's right.",
+        "chinese": "那是对的。"
+    },
+    {
+        "start": 284.88,
+        "end": 290.32,
+        "english": "Okay so chemicals and that's the last word that we have for you in language takeaway.",
+        "chinese": "好的，那么现在请将以下句子翻译成简体中文："
+    },
+    {
+        "start": 290.32,
+        "end": 294.56,
+        "english": "Four key words here when we go back listen to the dialogue again and we'll be back in a",
+        "chinese": "英语：四关键词，当我们再次回放对话时，我们将回到一个位置。"
+    },
+    {
+        "start": 294.56,
+        "end": 297.56,
+        "english": "bit.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 297.56,
+        "end": 305.15999999999997,
+        "english": "Okay darling I got some pizzas potato chips hot dogs and lots of cheese.",
+        "chinese": "好的宝贝，我买了些披萨、薯片、热狗和好多奶酪。"
+    },
+    {
+        "start": 305.16,
+        "end": 308.24,
+        "english": "Oh John I thought we said we'd start eating right.",
+        "chinese": "哦，约翰，我以为我们说过要开始吃正餐的。"
+    },
+    {
+        "start": 308.24,
+        "end": 312.76000000000005,
+        "english": "Remember a new healthy lifestyle that's all junk food.",
+        "chinese": "记得一个全新的健康生活方式，全是垃圾食品。"
+    },
+    {
+        "start": 312.76000000000005,
+        "end": 315.72,
+        "english": "Right so what did you get?",
+        "chinese": "对，你得到了什么？"
+    },
+    {
+        "start": 315.72,
+        "end": 317.52000000000004,
+        "english": "Well healthy food of course.",
+        "chinese": "当然，当然是健康的食物。"
+    },
+    {
+        "start": 317.52000000000004,
+        "end": 322.68,
+        "english": "I got some whole wheat bread, skimmed milk, fresh fish and organic carrots.",
+        "chinese": "我买了全麦面包，脱脂牛奶，新鲜鱼和有机胡萝卜。"
+    },
+    {
+        "start": 322.68,
+        "end": 323.68,
+        "english": "Organic.",
+        "chinese": "有机的"
+    },
+    {
+        "start": 323.68,
+        "end": 324.68,
+        "english": "What's organic?",
+        "chinese": "有机是什么？"
+    },
+    {
+        "start": 324.68,
+        "end": 326.40000000000003,
+        "english": "Do we need organic carrots?",
+        "chinese": "我们是不是需要有机胡萝卜？"
+    },
+    {
+        "start": 326.40000000000003,
+        "end": 330.76000000000005,
+        "english": "They were grown without using any chemicals that are harmful to our health and yes John",
+        "chinese": "他们没有使用任何对我们的健康有害的化学物质。"
+    },
+    {
+        "start": 330.76000000000005,
+        "end": 332.8,
+        "english": "we need organic carrots.",
+        "chinese": "我们需要有机胡萝卜。"
+    },
+    {
+        "start": 332.8,
+        "end": 336.64,
+        "english": "Oh so organic vegetables are the green option right?",
+        "chinese": "哎，真的有机蔬菜就是绿色选项吗？"
+    },
+    {
+        "start": 336.64,
+        "end": 337.64,
+        "english": "Yep.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 337.64,
+        "end": 340.12,
+        "english": "Better for the environment and better for us.",
+        "chinese": "当然好，对环境和我们都有好处。"
+    },
+    {
+        "start": 340.12,
+        "end": 341.6,
+        "english": "Wait a minute.",
+        "chinese": "好的，稍等。"
+    },
+    {
+        "start": 341.6,
+        "end": 342.6,
+        "english": "What's that?",
+        "chinese": "那是什么？"
+    },
+    {
+        "start": 342.6,
+        "end": 343.6,
+        "english": "Donuts.",
+        "chinese": "蛋糕。"
+    },
+    {
+        "start": 343.6,
+        "end": 347.12,
+        "english": "Are they organic donuts Kelly?",
+        "chinese": "Kelly，他们有机的甜甜圈吗？"
+    },
+    {
+        "start": 347.12,
+        "end": 351.32,
+        "english": "But I like donuts.",
+        "chinese": "但我喜欢甜甜圈。"
+    },
+    {
+        "start": 351.32,
+        "end": 360.48,
+        "english": "Alright we're back so now let's take a look at three key phrases on fluency builder.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英语句子。"
+    },
+    {
+        "start": 360.48,
+        "end": 362.2,
+        "english": "Fluency builder.",
+        "chinese": "你好！我想让你帮我提高我的口语表达能力。"
+    },
+    {
+        "start": 362.2,
+        "end": 367.08,
+        "english": "This first key phrase is one that I think was very very common in America in the late",
+        "chinese": "这是我在美国晚期非常常见的短语。"
+    },
+    {
+        "start": 367.08,
+        "end": 370.08,
+        "english": "80s, early 1990s.",
+        "chinese": "八十年代，早期九十年代。"
+    },
+    {
+        "start": 370.08,
+        "end": 375.68,
+        "english": "People in America have been struggling with eating healthy food and not eating so much fatty",
+        "chinese": "美国人民一直在为吃健康食物而挣扎，又不想吃得太多脂肪。"
+    },
+    {
+        "start": 375.68,
+        "end": 379.84,
+        "english": "food and so there was an emphasis on eating right.",
+        "chinese": "食物嘛，所以特别注重吃对了。"
+    },
+    {
+        "start": 379.84,
+        "end": 381.71999999999997,
+        "english": "That's right to eat right.",
+        "chinese": "没错，好好吃饭。"
+    },
+    {
+        "start": 381.71999999999997,
+        "end": 383.88,
+        "english": "Now how do you eat right?",
+        "chinese": "现在你如何吃得好呢？"
+    },
+    {
+        "start": 383.88,
+        "end": 387.88,
+        "english": "I mean it sounds like you want to eat with your spoon correctly.",
+        "chinese": "你听起来好像想用勺子吃东西才对。"
+    },
+    {
+        "start": 387.88,
+        "end": 391.91999999999996,
+        "english": "No eating right is more about the kind of food you eat.",
+        "chinese": "不吃对食物的选择更重要。"
+    },
+    {
+        "start": 391.92,
+        "end": 394.16,
+        "english": "It's about not eating pizza every day.",
+        "chinese": "这指的是每天不吃披萨。"
+    },
+    {
+        "start": 394.16,
+        "end": 395.36,
+        "english": "Pizza and hamburgers.",
+        "chinese": "披萨和汉堡。"
+    },
+    {
+        "start": 395.36,
+        "end": 400.68,
+        "english": "So we say eating a balanced, we say eating right involves having a balanced diet.",
+        "chinese": "所以，我们说吃均衡的，也就是吃对了，就是有平衡的饮食。"
+    },
+    {
+        "start": 400.68,
+        "end": 406.08000000000004,
+        "english": "That means eating vegetables and grains and a little bit of meat and not so many sweets",
+        "chinese": "这意味着吃蔬菜、粮食和一点肉，不要太多甜食。"
+    },
+    {
+        "start": 406.08000000000004,
+        "end": 407.08000000000004,
+        "english": "or oils.",
+        "chinese": "或者油脂。"
+    },
+    {
+        "start": 407.08000000000004,
+        "end": 412.6,
+        "english": "Okay so that's what it means when you are eating right so you have to eat right that means",
+        "chinese": "好的，那么现在请将以下句子翻译成简化的中文："
+    },
+    {
+        "start": 412.6,
+        "end": 413.6,
+        "english": "eating healthy.",
+        "chinese": "吃健康的食物。"
+    },
+    {
+        "start": 413.6,
+        "end": 414.6,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 414.6,
+        "end": 418.6,
+        "english": "Now the opposite if you're not eating healthy that's because maybe you're eating too much",
+        "chinese": "现在，如果你不健康饮食是因为你吃得太多。"
+    },
+    {
+        "start": 418.6,
+        "end": 421.36,
+        "english": "junk food and that's our next phrase.",
+        "chinese": "垃圾食品，这是我们下一个词。"
+    },
+    {
+        "start": 421.44,
+        "end": 426.0,
+        "english": "So junk food is you know junk garbage food.",
+        "chinese": "所以垃圾食品就是你知道的垃圾食物。"
+    },
+    {
+        "start": 426.0,
+        "end": 431.76,
+        "english": "It's the kind of food that is very unhealthy for you potato chips pizza, ice cream.",
+        "chinese": "这个土豆薯片、披萨、冰淇淋，非常不健康。"
+    },
+    {
+        "start": 431.76,
+        "end": 436.76,
+        "english": "It's all the best kind of food but it's also the worst for your body so we call it junk",
+        "chinese": "这是最好的食物，但也是对你的身体最坏的。所以我们把它称为垃圾食品。"
+    },
+    {
+        "start": 436.76,
+        "end": 437.76,
+        "english": "food.",
+        "chinese": "食物"
+    },
+    {
+        "start": 437.76,
+        "end": 442.2,
+        "english": "Okay so everything that's for example fast food is usually considered to be junk food.",
+        "chinese": "好的，比如快餐通常都被认为是垃圾食品。"
+    },
+    {
+        "start": 442.2,
+        "end": 444.52000000000004,
+        "english": "Yes it's high in oils and fats.",
+        "chinese": "是的，它的油脂和脂肪含量很高。"
+    },
+    {
+        "start": 444.52000000000004,
+        "end": 449.56,
+        "english": "Okay so junk food and for the last phrase for today.",
+        "chinese": "好的，今天要说到垃圾食品了。"
+    },
+    {
+        "start": 449.56,
+        "end": 451.04,
+        "english": "What does it say?",
+        "chinese": "你这是在说什么？"
+    },
+    {
+        "start": 451.04,
+        "end": 452.04,
+        "english": "Healthy lifestyle.",
+        "chinese": "健康的生活方式。"
+    },
+    {
+        "start": 452.04,
+        "end": 453.04,
+        "english": "Healthy lifestyle.",
+        "chinese": "健康的生活方式。"
+    },
+    {
+        "start": 453.04,
+        "end": 458.32,
+        "english": "And for the last phrase we are starting a healthy lifestyle.",
+        "chinese": "我们最后的这句，是要开始一个健康的生活方式。"
+    },
+    {
+        "start": 458.32,
+        "end": 461.04,
+        "english": "So what does it mean by a healthy lifestyle?",
+        "chinese": "什么是健康的生活方式？"
+    },
+    {
+        "start": 461.04,
+        "end": 463.04,
+        "english": "Well we don't say life.",
+        "chinese": "我们不说是生活。"
+    },
+    {
+        "start": 463.04,
+        "end": 466.68,
+        "english": "We say lifestyle because this is the way in which a person lives.",
+        "chinese": "我们说生活方式，因为这是一个人生活的方式。"
+    },
+    {
+        "start": 466.68,
+        "end": 468.20000000000005,
+        "english": "It's your lifestyle.",
+        "chinese": "你的生活方式。"
+    },
+    {
+        "start": 468.20000000000005,
+        "end": 475.04,
+        "english": "Okay so this involves exercise, diet, what kind of food you eat.",
+        "chinese": "好的，这涉及到运动、饮食，以及你吃的食物类型。"
+    },
+    {
+        "start": 475.04,
+        "end": 479.36,
+        "english": "The way that you work do you get too much sleep, not enough sleep.",
+        "chinese": "你工作的方式，睡眠多吗？不够怎么办？"
+    },
+    {
+        "start": 479.36,
+        "end": 483.08000000000004,
+        "english": "So your lifestyle is about the choices you make in all parts of your life.",
+        "chinese": "你的生活方式，就是你生活中所有选择的结果。"
+    },
+    {
+        "start": 483.08000000000004,
+        "end": 488.04,
+        "english": "And so having a healthy lifestyle as I said it's not just about not eating junk food.",
+        "chinese": "所以，我之前说的是保持健康的生活方式可不是只关于不吃垃圾食品。"
+    },
+    {
+        "start": 488.04,
+        "end": 493.12,
+        "english": "It's about running five miles or trying to get eight hours of sleep.",
+        "chinese": "这是一场五英里跑，或者尝试睡八个小时。"
+    },
+    {
+        "start": 493.12,
+        "end": 497.72,
+        "english": "So it's important to maintain a healthy lifestyle and usually in the news we always hear.",
+        "chinese": "当然，保持健康的生活方式非常重要。在新闻里我们经常听到的是。"
+    },
+    {
+        "start": 497.72,
+        "end": 501.84000000000003,
+        "english": "So usually in the news we hear this phrase not healthy life but healthy lifestyle.",
+        "chinese": "所以通常在新闻里我们听到这个词语，不是健康的生活，而是健康的生活方式。"
+    },
+    {
+        "start": 501.84000000000003,
+        "end": 508.04,
+        "english": "Right so maybe somebody that leads a dangerous lifestyle maybe does maybe has a job that's",
+        "chinese": "好吧，可能是某个人过着危险的生活方式，也许有份工作吧。"
+    },
+    {
+        "start": 508.04,
+        "end": 509.04,
+        "english": "very dangerous.",
+        "chinese": "非常危险。"
+    },
+    {
+        "start": 509.04,
+        "end": 510.04,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 510.04,
+        "end": 512.04,
+        "english": "Or an unhealthy lifestyle.",
+        "chinese": "或者是一种不健康的生活方式。"
+    },
+    {
+        "start": 512.04,
+        "end": 514.24,
+        "english": "Someone who eats one meal a day.",
+        "chinese": "每天只吃一顿饭的人。"
+    },
+    {
+        "start": 514.24,
+        "end": 515.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 515.24,
+        "end": 516.24,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 516.24,
+        "end": 518.88,
+        "english": "So those are key phrases for fluency builder.",
+        "chinese": "那些就是提高流利度的关键短语。"
+    },
+    {
+        "start": 518.88,
+        "end": 522.9200000000001,
+        "english": "Why don't we go back, listen to the dialogue for the last time and we'll be back to talk",
+        "chinese": "好，我们回去听听最后的对白吧，这样我们就又可以开始聊天了。"
+    },
+    {
+        "start": 522.9200000000001,
+        "end": 531.16,
+        "english": "with you a little bit more.",
+        "chinese": "你好，再多一点。"
+    },
+    {
+        "start": 531.16,
+        "end": 536.12,
+        "english": "Okay darling I got some pizzas, potato chips, hot dogs and lots of cheese.",
+        "chinese": "好的，亲爱的。我买了披萨、薯片、热狗和好多奶酪。"
+    },
+    {
+        "start": 536.12,
+        "end": 537.12,
+        "english": "Oh John.",
+        "chinese": "哦，约翰。"
+    },
+    {
+        "start": 537.12,
+        "end": 539.4,
+        "english": "I thought we said we'd start eating right.",
+        "chinese": "我以为我们说过要开始吃饭了。"
+    },
+    {
+        "start": 539.4,
+        "end": 542.12,
+        "english": "Remember a new healthy lifestyle?",
+        "chinese": "记得一个新健康的日常生活方式吧？"
+    },
+    {
+        "start": 542.12,
+        "end": 544.12,
+        "english": "That's all junk food.",
+        "chinese": "那就是垃圾食品。"
+    },
+    {
+        "start": 544.12,
+        "end": 546.92,
+        "english": "Right so what to do get?",
+        "chinese": "当然，有什么可以帮忙的吗？"
+    },
+    {
+        "start": 546.92,
+        "end": 548.76,
+        "english": "Well healthy food of course.",
+        "chinese": "当然，健康的食物。"
+    },
+    {
+        "start": 548.76,
+        "end": 553.88,
+        "english": "I got some whole wheat bread, skimmed milk, fresh fish and organic carrots.",
+        "chinese": "我买了全麦面包、脱脂牛奶、新鲜鱼和有机胡萝卜。"
+    },
+    {
+        "start": 553.88,
+        "end": 554.88,
+        "english": "Organic.",
+        "chinese": "有机的。"
+    },
+    {
+        "start": 554.88,
+        "end": 555.88,
+        "english": "What's organic?",
+        "chinese": "有机是什么？"
+    },
+    {
+        "start": 555.88,
+        "end": 557.5600000000001,
+        "english": "Do we need organic carrots?",
+        "chinese": "我们是不是需要有机胡萝卜？"
+    },
+    {
+        "start": 557.5600000000001,
+        "end": 561.16,
+        "english": "They were grown without using any chemicals that are harmful to our health.",
+        "chinese": "他们是在没有使用对人体有害的化学物质的情况下长大的。"
+    },
+    {
+        "start": 561.16,
+        "end": 564.0,
+        "english": "And yes John we need organic carrots.",
+        "chinese": "当然，约翰我们需要有机胡萝卜。"
+    },
+    {
+        "start": 564.0,
+        "end": 567.92,
+        "english": "Oh so organic vegetables are the green option right?",
+        "chinese": "哦，那么有机蔬菜就是绿色选项吗？"
+    },
+    {
+        "start": 567.92,
+        "end": 568.92,
+        "english": "Yep.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 568.92,
+        "end": 571.32,
+        "english": "Best of the environment and best of for us.",
+        "chinese": "环境最好的，我们最好的。"
+    },
+    {
+        "start": 571.32,
+        "end": 572.8,
+        "english": "Wait a minute.",
+        "chinese": "好的，稍等一下。"
+    },
+    {
+        "start": 572.8,
+        "end": 573.8,
+        "english": "What's that?",
+        "chinese": "那是什么？"
+    },
+    {
+        "start": 573.8,
+        "end": 574.8,
+        "english": "Donuts.",
+        "chinese": "甜甜圈。"
+    },
+    {
+        "start": 574.8,
+        "end": 578.24,
+        "english": "Are they organic donuts Kelly?",
+        "chinese": "Kelly，他们有机的甜甜圈吗？"
+    },
+    {
+        "start": 578.24,
+        "end": 582.84,
+        "english": "But I like donuts.",
+        "chinese": "但我觉得甜甜圈很好吃。"
+    },
+    {
+        "start": 582.84,
+        "end": 589.84,
+        "english": "Alright we're back so talking about healthy food and healthy eating.",
+        "chinese": "好的，我们又开始聊健康的食物和健康的饮食了。"
+    },
+    {
+        "start": 589.84,
+        "end": 592.6,
+        "english": "How healthy do you eat, Captain?",
+        "chinese": "你吃得多健康，船长？"
+    },
+    {
+        "start": 592.6,
+        "end": 596.0,
+        "english": "I think I eat pretty decently.",
+        "chinese": "我觉得我吃得挺好的。"
+    },
+    {
+        "start": 596.0,
+        "end": 597.8000000000001,
+        "english": "I try to eat a balanced diet.",
+        "chinese": "我尽量吃均衡的饮食。"
+    },
+    {
+        "start": 597.8000000000001,
+        "end": 602.12,
+        "english": "Like I said earlier I think a balanced diet is a key to a healthy lifestyle.",
+        "chinese": "正如我之前所说，我认为均衡的饮食是健康生活方式的关键。"
+    },
+    {
+        "start": 602.12,
+        "end": 604.4,
+        "english": "I don't really eat fast food.",
+        "chinese": "我不太喜欢吃快餐。"
+    },
+    {
+        "start": 604.4,
+        "end": 605.4,
+        "english": "Oh really?",
+        "chinese": "真的吗？"
+    },
+    {
+        "start": 605.4,
+        "end": 609.16,
+        "english": "Yeah I try not to eat too much meat or too much sugar.",
+        "chinese": "嗯，我尽量少吃肉和糖。"
+    },
+    {
+        "start": 609.16,
+        "end": 612.08,
+        "english": "What about organic stuff?",
+        "chinese": "你觉得有机的东西怎么样？"
+    },
+    {
+        "start": 612.08,
+        "end": 615.44,
+        "english": "Are you a big fan of organic vegetables, organic meats?",
+        "chinese": "你是不是有机蔬菜、有机肉类的大粉丝？"
+    },
+    {
+        "start": 615.44,
+        "end": 616.44,
+        "english": "I am.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 616.44,
+        "end": 619.64,
+        "english": "This comes from a part of the dialogue we didn't cover.",
+        "chinese": "这来自于我们没有覆盖的部分的对话。"
+    },
+    {
+        "start": 619.64,
+        "end": 623.72,
+        "english": "One of the characters says that vegetables are the green option.",
+        "chinese": "其中一个角色说，蔬菜是绿色的选项。"
+    },
+    {
+        "start": 623.72,
+        "end": 629.68,
+        "english": "Okay so trying to eat organic food and think about green is a part of thinking about the",
+        "chinese": "好的，正在尝试吃有机食物的同时思考绿色，这其实也是在考虑那些环保的事情。"
+    },
+    {
+        "start": 629.68,
+        "end": 631.4,
+        "english": "environment.",
+        "chinese": "环境"
+    },
+    {
+        "start": 631.4,
+        "end": 636.4,
+        "english": "And so I think eating organic vegetables is an important part of caring about the environment",
+        "chinese": "所以我认为吃有机蔬菜是关心环境的一个重要方面。"
+    },
+    {
+        "start": 636.4,
+        "end": 641.6,
+        "english": "because the more chemicals the more pesticides we put into the world the more harmful it is",
+        "chinese": "因为我们用的化学品越多，我们就往世界上排放更多的杀虫剂，这对环境就更不好了。"
+    },
+    {
+        "start": 641.6,
+        "end": 643.92,
+        "english": "for the earth, for animals and for ourselves.",
+        "chinese": "为了地球、动物和我们自己。"
+    },
+    {
+        "start": 643.92,
+        "end": 649.6,
+        "english": "That's absolutely true and it has become a more popular aspect around America.",
+        "chinese": "真的，这已经成为美国更受欢迎的一部分了。"
+    },
+    {
+        "start": 649.6,
+        "end": 655.0,
+        "english": "And Europe people choosing to go with organic vegetables.",
+        "chinese": "欧洲人选择有机蔬菜。"
+    },
+    {
+        "start": 655.0,
+        "end": 658.6800000000001,
+        "english": "For example eggs that were grown on an organic farm.",
+        "chinese": "比如在有机农场种植的鸡蛋。"
+    },
+    {
+        "start": 658.6800000000001,
+        "end": 664.44,
+        "english": "And so it is the healthier option and obviously the green option as we saw in the dialogue.",
+        "chinese": "所以，这才是更健康的选择，也是我们刚才对话中提到的绿色选择。"
+    },
+    {
+        "start": 664.44,
+        "end": 667.32,
+        "english": "Okay so a very interesting topic.",
+        "chinese": "好的，这是一个非常有趣的话题。"
+    },
+    {
+        "start": 667.32,
+        "end": 669.28,
+        "english": "We want to know what your opinion is on it.",
+        "chinese": "我们想知道你的意见是什么。"
+    },
+    {
+        "start": 669.28,
+        "end": 675.48,
+        "english": "Why don't you come to our website, EnglishPod.com and tell us if you are a fan of the light",
+        "chinese": "英语：你为什么不来我们的网站，英语Pod. com 和告诉我们你喜欢轻音乐吗？"
+    },
+    {
+        "start": 675.48,
+        "end": 680.44,
+        "english": "or green organic lifestyle or maybe you just really don't really care.",
+        "chinese": "或者绿色有机的生活方式，或者是你真的不在乎。"
+    },
+    {
+        "start": 680.44,
+        "end": 682.04,
+        "english": "Maybe you love junk food.",
+        "chinese": "也许你喜欢垃圾食品。"
+    },
+    {
+        "start": 682.04,
+        "end": 683.04,
+        "english": "Let us know.",
+        "chinese": "让我们知道。"
+    },
+    {
+        "start": 683.04,
+        "end": 684.04,
+        "english": "EnglishPod.com.",
+        "chinese": "英语播客网。"
+    },
+    {
+        "start": 684.04,
+        "end": 685.04,
+        "english": "Alright we'll see you guys there.",
+        "chinese": "好的，我们到时候见。"
+    },
+    {
+        "start": 685.04,
+        "end": 686.04,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

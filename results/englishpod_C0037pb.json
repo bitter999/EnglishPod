@@ -1,0 +1,2030 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.04,
+        "english": "Hello English learners, welcome to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.04,
+        "end": 6.32,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.32,
+        "end": 9.08,
+        "english": "And today we have a very special guest in our studio, Dany.",
+        "chinese": "今天，我们有特别的嘉宾在我们的工作室里，Dany。"
+    },
+    {
+        "start": 9.08,
+        "end": 10.92,
+        "english": "Hi everyone, Dany.",
+        "chinese": "你好，大家，Dany。"
+    },
+    {
+        "start": 10.92,
+        "end": 15.88,
+        "english": "Dany is part of our EnglishPod team and today she's going to help us with this Chinese",
+        "chinese": "Dany 是我们的英语播客团队的一员，今天她将帮助我们解决这个问题。"
+    },
+    {
+        "start": 15.88,
+        "end": 16.88,
+        "english": "New Year's lesson.",
+        "chinese": "新年的课程。"
+    },
+    {
+        "start": 16.88,
+        "end": 21.72,
+        "english": "It's an intermediate lesson but it has a lot of cultural aspects about Chinese New Year.",
+        "chinese": "这是一个中间课程，但它有很多关于中国新年的文化方面。"
+    },
+    {
+        "start": 21.72,
+        "end": 24.12,
+        "english": "So that's what Dany is going to help us out with today.",
+        "chinese": "所以，今天Dany将帮助我们解决什么问题。"
+    },
+    {
+        "start": 24.12,
+        "end": 28.72,
+        "english": "Yes, today we're going to learn a little bit about Chinese New Year in English.",
+        "chinese": "是的，今天我们将学习一些关于中国新年的英文知识。"
+    },
+    {
+        "start": 28.959999999999997,
+        "end": 33.36,
+        "english": "And we're also going to learn some language for describing things that we're excited",
+        "chinese": "我们也将学习一些语言，用于描述我们感到兴奋的事物。"
+    },
+    {
+        "start": 33.36,
+        "end": 34.36,
+        "english": "about.",
+        "chinese": "关于。"
+    },
+    {
+        "start": 34.36,
+        "end": 36.36,
+        "english": "Ok, yeah, I'm excited to hear the show.",
+        "chinese": "好的，嗯，我非常期待听到这个节目。"
+    },
+    {
+        "start": 36.36,
+        "end": 40.36,
+        "english": "Ok, so let's listen to the dialogue now and then when we come back we'll explain everything.",
+        "chinese": "好的，现在我们来听对话并解释每个部分。"
+    },
+    {
+        "start": 47.76,
+        "end": 50.84,
+        "english": "I'm so excited about Chinese New Year.",
+        "chinese": "英语：我太激动了，期待着中国的新年。"
+    },
+    {
+        "start": 50.84,
+        "end": 52.44,
+        "english": "When do I get to visit grandma?",
+        "chinese": "当我要去拜访祖母时，我需要卸下我的责任。"
+    },
+    {
+        "start": 52.44,
+        "end": 54.68,
+        "english": "Grandma makes the best dumplings in the world.",
+        "chinese": "奶奶做的饺子是最好的。"
+    },
+    {
+        "start": 55.68,
+        "end": 60.68,
+        "english": "Right, sounds to me like you're more excited about dumplings than senior grandma.",
+        "chinese": "英语：对，听起来好像你更喜欢饺子而不是年长的奶奶。"
+    },
+    {
+        "start": 60.68,
+        "end": 62.44,
+        "english": "Of course I miss grandma too.",
+        "chinese": "当然，我也想念奶奶。"
+    },
+    {
+        "start": 62.44,
+        "end": 64.68,
+        "english": "I bet she's going to teach me how to play Marjon.",
+        "chinese": "我估计她会教我如何玩《玛雅》。"
+    },
+    {
+        "start": 64.68,
+        "end": 67.8,
+        "english": "Hey, Dad, are you going to buy me firecrackers this year?",
+        "chinese": "你好，爸爸，今年你准备买给我放鞭炮吗？"
+    },
+    {
+        "start": 67.8,
+        "end": 69.44,
+        "english": "We're going to have the best fireworks.",
+        "chinese": "我们将会拥有最好的烟花。"
+    },
+    {
+        "start": 69.44,
+        "end": 71.48,
+        "english": "I'm really looking forward to lighting them.",
+        "chinese": "我真的很期待照亮他们。"
+    },
+    {
+        "start": 71.48,
+        "end": 74.32,
+        "english": "Son, firecrackers aren't toys.",
+        "chinese": "儿子，火炮不是玩具。"
+    },
+    {
+        "start": 74.32,
+        "end": 75.32,
+        "english": "They are dangerous.",
+        "chinese": "他们很危险。"
+    },
+    {
+        "start": 75.32,
+        "end": 78.12,
+        "english": "No, fireworks are awesome.",
+        "chinese": "是的，烟花很炫酷。"
+    },
+    {
+        "start": 78.12,
+        "end": 80.56,
+        "english": "Wow, don't you remember?",
+        "chinese": "哇，你记得吗？"
+    },
+    {
+        "start": 80.56,
+        "end": 85.36,
+        "english": "Last year when I set out the firecrackers you covered both your ears and hit behind your",
+        "chinese": "上个年头，当我宣布放烟火时，你捂住了我的耳朵，还把烟火扔在你的后背。"
+    },
+    {
+        "start": 85.36,
+        "end": 86.36,
+        "english": "mother.",
+        "chinese": "母亲。在中文中，\"mother\" 的翻译是 \"妈妈\"。"
+    },
+    {
+        "start": 86.36,
+        "end": 89.2,
+        "english": "And I was scared because I saw a bug.",
+        "chinese": "我害怕，因为看到一只虫子。"
+    },
+    {
+        "start": 89.2,
+        "end": 90.2,
+        "english": "That's all.",
+        "chinese": "所有的。"
+    },
+    {
+        "start": 90.2,
+        "end": 91.2,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 91.2,
+        "end": 94.76,
+        "english": "Oh, and I can't wait to watch the dragon dance.",
+        "chinese": "哦，而且我迫不及待要观看龙舞。"
+    },
+    {
+        "start": 94.76,
+        "end": 96.88,
+        "english": "Dad, can I sit on your shoulders this time?",
+        "chinese": "爸爸，这次我能不能坐你的肩膀上呢？"
+    },
+    {
+        "start": 96.88,
+        "end": 99.2,
+        "english": "Hey, I offered last year.",
+        "chinese": "你好，去年我曾提出过。"
+    },
+    {
+        "start": 99.2,
+        "end": 102.28,
+        "english": "Well, anyways, I was just thinking of the red envelopes.",
+        "chinese": "嗯，算了，我只是在想红包。"
+    },
+    {
+        "start": 102.28,
+        "end": 105.52000000000001,
+        "english": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+        "chinese": "我要列出我将通过红包收到的所有物品。"
+    },
+    {
+        "start": 105.52000000000001,
+        "end": 106.52000000000001,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 106.52000000000001,
+        "end": 108.12,
+        "english": "I'm going to have so much money.",
+        "chinese": "我将拥有如此多的钱。"
+    },
+    {
+        "start": 108.12,
+        "end": 110.72,
+        "english": "Mom, can I get a pen and a piece of paper?",
+        "chinese": "妈妈，我可以拿一支钢笔和一张纸吗？"
+    },
+    {
+        "start": 110.72,
+        "end": 111.72,
+        "english": "I want a new transformer.",
+        "chinese": "我想要一个新的Transformer。"
+    },
+    {
+        "start": 111.72,
+        "end": 112.72,
+        "english": "No, two transformers.",
+        "chinese": "是的，两个变压器。"
+    },
+    {
+        "start": 112.72,
+        "end": 113.72,
+        "english": "I want a spray.",
+        "chinese": "我想要喷雾。"
+    },
+    {
+        "start": 113.72,
+        "end": 114.72,
+        "english": "Wheeljack.",
+        "chinese": "轮镐。"
+    },
+    {
+        "start": 114.72,
+        "end": 115.72,
+        "english": "I'll get a PSP game.",
+        "chinese": "我会下载一个PSP游戏。"
+    },
+    {
+        "start": 115.72,
+        "end": 118.72,
+        "english": "Oh, I need to get it.",
+        "chinese": "你好，我需要它。"
+    },
+    {
+        "start": 118.72,
+        "end": 130.08,
+        "english": "Okay, so Chinese New Year.",
+        "chinese": "好的，春节。"
+    },
+    {
+        "start": 130.08,
+        "end": 132.6,
+        "english": "A lot of exciting vocabulary here.",
+        "chinese": "这里有很多有趣的词汇。"
+    },
+    {
+        "start": 132.6,
+        "end": 136.84,
+        "english": "Before we get into describing it, let's look at the vocabulary that we saw in language",
+        "chinese": "在我们开始描述它之前，让我们看看我们在语言中看到的词汇。"
+    },
+    {
+        "start": 136.84,
+        "end": 141.28,
+        "english": "takeaway.",
+        "chinese": "“ takeaway” 翻译成中文是 “ 自取餐”。"
+    },
+    {
+        "start": 141.28,
+        "end": 144.24,
+        "english": "The first word on language takeaway, dumplings.",
+        "chinese": "第一句话是“汤圆”，在语言小贴士中。"
+    },
+    {
+        "start": 144.24,
+        "end": 145.24,
+        "english": "Dumplings.",
+        "chinese": "饺子。"
+    },
+    {
+        "start": 145.24,
+        "end": 146.24,
+        "english": "Dumplings.",
+        "chinese": "饺子。"
+    },
+    {
+        "start": 146.24,
+        "end": 147.24,
+        "english": "Dumplings.",
+        "chinese": "饺子。"
+    },
+    {
+        "start": 147.24,
+        "end": 149.76,
+        "english": "Well, in Chinese, we call it shui-jiao.",
+        "chinese": "在中文中，我们可以称它为“水汪汪”。"
+    },
+    {
+        "start": 149.76,
+        "end": 150.76,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用于表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 150.76,
+        "end": 154.88,
+        "english": "And it's a very traditional Chinese food and it's getting very famous now.",
+        "chinese": "而且它是中国传统的美食，现在越来越流行了。"
+    },
+    {
+        "start": 154.88,
+        "end": 161.96,
+        "english": "Yes, so it's basically small pieces of dough with maybe some meat or some vegetables inside.",
+        "chinese": "是的，所以基本上是小块面团，可能包含一些肉或蔬菜在里面。"
+    },
+    {
+        "start": 161.96,
+        "end": 163.48000000000002,
+        "english": "And then they are boiled.",
+        "chinese": "然后它们被煮。"
+    },
+    {
+        "start": 163.48000000000002,
+        "end": 164.32,
+        "english": "Usually in a soup.",
+        "chinese": "通常在汤中。"
+    },
+    {
+        "start": 164.32,
+        "end": 165.32,
+        "english": "In a soup.",
+        "chinese": "在汤中。"
+    },
+    {
+        "start": 165.32,
+        "end": 166.76,
+        "english": "You can also have fried dumplings.",
+        "chinese": "你还可以吃油炸饺子。"
+    },
+    {
+        "start": 166.76,
+        "end": 167.76,
+        "english": "Yeah, yeah, that's right.",
+        "chinese": "是的，是的，那正是。"
+    },
+    {
+        "start": 167.76,
+        "end": 168.76,
+        "english": "It's so really good.",
+        "chinese": "是太好了。"
+    },
+    {
+        "start": 168.76,
+        "end": 173.0,
+        "english": "So if you know Italian food, they're really similar to a tortellini.",
+        "chinese": "所以如果你知道意大利菜，它们真的很像意面。"
+    },
+    {
+        "start": 173.0,
+        "end": 174.0,
+        "english": "Not exactly.",
+        "chinese": "不完全。"
+    },
+    {
+        "start": 174.0,
+        "end": 177.76,
+        "english": "Or in Latin America, it's very similar to maybe an empanada.",
+        "chinese": "在拉丁美洲，它与可能是玉米饼非常相似。"
+    },
+    {
+        "start": 177.76,
+        "end": 178.76,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 178.76,
+        "end": 180.28,
+        "english": "Like a small little empanada.",
+        "chinese": "像一个小小的油条。"
+    },
+    {
+        "start": 180.28,
+        "end": 181.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 181.28,
+        "end": 182.6,
+        "english": "Marco, what's our next word?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英文来回答这个问题。"
+    },
+    {
+        "start": 182.6,
+        "end": 185.16,
+        "english": "All right, our next word, firecrackers.",
+        "chinese": "好的，我们的下一个词是“爆竹”。"
+    },
+    {
+        "start": 185.16,
+        "end": 186.95999999999998,
+        "english": "Firecrackers.",
+        "chinese": "火把。"
+    },
+    {
+        "start": 186.95999999999998,
+        "end": 187.95999999999998,
+        "english": "Firecrackers.",
+        "chinese": "火把。"
+    },
+    {
+        "start": 187.95999999999998,
+        "end": 189.95999999999998,
+        "english": "Firecrackers.",
+        "chinese": "火把。"
+    },
+    {
+        "start": 189.95999999999998,
+        "end": 191.35999999999999,
+        "english": "This is a firecracker.",
+        "chinese": "这是一个火柴。"
+    },
+    {
+        "start": 191.36,
+        "end": 201.0,
+        "english": "Firecrackers are so common in China.",
+        "chinese": "火把在中国是如此普遍。"
+    },
+    {
+        "start": 201.0,
+        "end": 203.04000000000002,
+        "english": "We use it all the time in all occasions.",
+        "chinese": "我们使用它在所有的场合。"
+    },
+    {
+        "start": 203.04000000000002,
+        "end": 204.04000000000002,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 204.04000000000002,
+        "end": 206.64000000000001,
+        "english": "And especially on the New Year's Eve.",
+        "chinese": "而且在新年之夜。"
+    },
+    {
+        "start": 206.64000000000001,
+        "end": 211.04000000000002,
+        "english": "Traditionally, people use it to scare off the evil spirits.",
+        "chinese": "传统的说法是人们用它来驱赶邪恶的鬼魂。"
+    },
+    {
+        "start": 211.04000000000002,
+        "end": 212.04000000000002,
+        "english": "The evil spirits.",
+        "chinese": "邪恶的鬼魂。"
+    },
+    {
+        "start": 212.04000000000002,
+        "end": 213.56,
+        "english": "So they, oh, okay.",
+        "chinese": "所以啊，嗯。"
+    },
+    {
+        "start": 213.56,
+        "end": 217.68,
+        "english": "So on Chinese New Year, there are millions of firecrackers.",
+        "chinese": "所以在中国新年的第一天，有数以百万计的鞭炮。"
+    },
+    {
+        "start": 217.68,
+        "end": 219.08,
+        "english": "Millions of firecrackers.",
+        "chinese": "亿响鞭炮。"
+    },
+    {
+        "start": 219.08,
+        "end": 220.08,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 220.12,
+        "end": 222.4,
+        "english": "There are also a lot of fireworks.",
+        "chinese": "这里还有许多烟花。"
+    },
+    {
+        "start": 222.4,
+        "end": 223.60000000000002,
+        "english": "Fireworks.",
+        "chinese": "火光。"
+    },
+    {
+        "start": 223.60000000000002,
+        "end": 224.60000000000002,
+        "english": "Fireworks.",
+        "chinese": "火光。"
+    },
+    {
+        "start": 224.60000000000002,
+        "end": 225.88000000000002,
+        "english": "Fireworks.",
+        "chinese": "火光。"
+    },
+    {
+        "start": 225.88000000000002,
+        "end": 228.84,
+        "english": "So fireworks are similar to firecrackers.",
+        "chinese": "所以烟花和火把很相似。"
+    },
+    {
+        "start": 228.84,
+        "end": 230.04000000000002,
+        "english": "But they have lots of lights.",
+        "chinese": "但是他们有很多灯。"
+    },
+    {
+        "start": 230.04000000000002,
+        "end": 231.04000000000002,
+        "english": "A light.",
+        "chinese": "一个光。"
+    },
+    {
+        "start": 231.04000000000002,
+        "end": 231.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 231.56,
+        "end": 233.68,
+        "english": "They go up in the air and explode.",
+        "chinese": "他们升空并爆炸。"
+    },
+    {
+        "start": 233.68,
+        "end": 234.72000000000003,
+        "english": "And you see lots of nice colors.",
+        "chinese": "你看到很多漂亮的色彩。"
+    },
+    {
+        "start": 234.72000000000003,
+        "end": 236.20000000000002,
+        "english": "Beautiful colors.",
+        "chinese": "美丽的颜色。"
+    },
+    {
+        "start": 236.20000000000002,
+        "end": 237.04000000000002,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 237.04000000000002,
+        "end": 239.48000000000002,
+        "english": "Very popular in 4th of July in the United States.",
+        "chinese": "美国的4月7日大选非常受欢迎。"
+    },
+    {
+        "start": 239.48000000000002,
+        "end": 240.36,
+        "english": "Or New Year's Eve.",
+        "chinese": "或者除夕夜。"
+    },
+    {
+        "start": 240.36,
+        "end": 241.20000000000002,
+        "english": "New Year's Eve.",
+        "chinese": "新年的除夕。"
+    },
+    {
+        "start": 241.20000000000002,
+        "end": 242.20000000000002,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 242.20000000000002,
+        "end": 243.4,
+        "english": "Fireworks.",
+        "chinese": "火光。"
+    },
+    {
+        "start": 243.4,
+        "end": 244.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 244.24,
+        "end": 246.20000000000002,
+        "english": "Now let's look at our last word.",
+        "chinese": "现在让我们看看我们的最后一个单词。"
+    },
+    {
+        "start": 246.20000000000002,
+        "end": 247.64000000000001,
+        "english": "Set off.",
+        "chinese": "设置。"
+    },
+    {
+        "start": 247.64000000000001,
+        "end": 248.60000000000002,
+        "english": "Set off.",
+        "chinese": "设置。"
+    },
+    {
+        "start": 248.60000000000002,
+        "end": 249.60000000000002,
+        "english": "Set off.",
+        "chinese": "设置。"
+    },
+    {
+        "start": 249.6,
+        "end": 250.6,
+        "english": "Set off.",
+        "chinese": "设置。"
+    },
+    {
+        "start": 250.6,
+        "end": 253.28,
+        "english": "So this is the verb you would use with firecrackers.",
+        "chinese": "所以，这是你用来点燃爆竹的动词。"
+    },
+    {
+        "start": 253.28,
+        "end": 254.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 254.28,
+        "end": 255.68,
+        "english": "It means like, explode the firecrackers.",
+        "chinese": "这句话的意思是，就像放烟花一样。"
+    },
+    {
+        "start": 255.68,
+        "end": 256.68,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 256.68,
+        "end": 257.68,
+        "english": "Set off the firecrackers.",
+        "chinese": "开烟火。"
+    },
+    {
+        "start": 257.68,
+        "end": 258.96,
+        "english": "Set off the bomb.",
+        "chinese": "设置爆炸物。"
+    },
+    {
+        "start": 258.96,
+        "end": 259.96,
+        "english": "Set off fireworks.",
+        "chinese": "开烟火。"
+    },
+    {
+        "start": 259.96,
+        "end": 262.56,
+        "english": "Well, let's listen to our dialogue a second time.",
+        "chinese": "嗯，我们再听我们的对话再说一遍。"
+    },
+    {
+        "start": 262.56,
+        "end": 267.36,
+        "english": "And this time, it'll be a little bit slower so that you can understand the language a bit",
+        "chinese": "和这一次，它会稍微慢一些，这样你就可以理解得更清楚了。"
+    },
+    {
+        "start": 267.36,
+        "end": 268.36,
+        "english": "better.",
+        "chinese": "更好的。"
+    },
+    {
+        "start": 268.36,
+        "end": 276.8,
+        "english": "I'm so excited about Chinese New Year.",
+        "chinese": "我非常兴奋地庆祝中国新年。"
+    },
+    {
+        "start": 276.8,
+        "end": 279.28,
+        "english": "When do I get to visit grandma?",
+        "chinese": "当我要拜访祖母时，是几点？"
+    },
+    {
+        "start": 279.28,
+        "end": 282.08,
+        "english": "Grandma makes the best dumplings in the world.",
+        "chinese": "奶奶是中国最擅长做饺子的人。"
+    },
+    {
+        "start": 282.08,
+        "end": 283.08,
+        "english": "Haha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 283.08,
+        "end": 284.08,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 284.08,
+        "end": 290.28,
+        "english": "Sounds to me like you are more excited about dumplings than seeing your grandma.",
+        "chinese": "我听你的话，似乎你对饺子比看到你的奶奶更有兴趣。"
+    },
+    {
+        "start": 290.28,
+        "end": 292.52,
+        "english": "Of course I miss grandma too.",
+        "chinese": "当然，我也想念奶奶。"
+    },
+    {
+        "start": 292.52,
+        "end": 295.71999999999997,
+        "english": "I bet she's going to teach me how to play magion.",
+        "chinese": "我估计她会教我如何玩魔塔。"
+    },
+    {
+        "start": 295.71999999999997,
+        "end": 300.08,
+        "english": "Hey, dad, are you going to buy me firecrackers this year?",
+        "chinese": "你好，爸爸，今年你打算买给我放鞭炮吗？"
+    },
+    {
+        "start": 300.08,
+        "end": 302.2,
+        "english": "We're going to have the best fireworks.",
+        "chinese": "我们将会燃放最好的焰火。"
+    },
+    {
+        "start": 302.2,
+        "end": 304.91999999999996,
+        "english": "I'm really looking forward to lighting them.",
+        "chinese": "我真的很期待照亮他们。"
+    },
+    {
+        "start": 304.92,
+        "end": 308.08000000000004,
+        "english": "Son, firecrackers aren't toys.",
+        "chinese": "儿子，鞭炮不是玩具。"
+    },
+    {
+        "start": 308.08000000000004,
+        "end": 309.72,
+        "english": "They're dangerous.",
+        "chinese": "他们很危险。"
+    },
+    {
+        "start": 309.72,
+        "end": 312.12,
+        "english": "No fireworks are awesome.",
+        "chinese": "没有烟花，是美好的。"
+    },
+    {
+        "start": 312.12,
+        "end": 313.12,
+        "english": "Whoa.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 313.12,
+        "end": 314.76,
+        "english": "Don't you remember?",
+        "chinese": "我不记得。"
+    },
+    {
+        "start": 314.76,
+        "end": 320.88,
+        "english": "Last year when I set off the firecrackers, you covered both your ears and hid behind",
+        "chinese": "上个年头，我点燃了鞭炮，你捂住了耳朵，躲到了。"
+    },
+    {
+        "start": 320.88,
+        "end": 321.88,
+        "english": "your mother.",
+        "chinese": "您的母亲。"
+    },
+    {
+        "start": 321.88,
+        "end": 325.96000000000004,
+        "english": "Dad, I was scared because I saw a bug.",
+        "chinese": "爸爸，我被吓到了，因为看到一只虫子。"
+    },
+    {
+        "start": 325.96000000000004,
+        "end": 326.96000000000004,
+        "english": "That's all.",
+        "chinese": "所有的。"
+    },
+    {
+        "start": 326.96000000000004,
+        "end": 327.96000000000004,
+        "english": "Haha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 327.96000000000004,
+        "end": 328.96000000000004,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 328.96000000000004,
+        "end": 331.8,
+        "english": "Oh, and I can't wait to watch the dragon dance.",
+        "chinese": "哦，而且我迫不及待要观看龙舞。"
+    },
+    {
+        "start": 331.8,
+        "end": 334.0,
+        "english": "Dad, can I sit on your shoulders this time?",
+        "chinese": "爸爸，这次我能不能坐你的肩膀上呢？"
+    },
+    {
+        "start": 334.0,
+        "end": 336.72,
+        "english": "Hey, I offered last year.",
+        "chinese": "你好，去年我曾提出过。"
+    },
+    {
+        "start": 336.72,
+        "end": 341.12,
+        "english": "Well, anyways, I was just thinking of the red envelopes.",
+        "chinese": "嗯，算了，我只是在想红包。"
+    },
+    {
+        "start": 341.12,
+        "end": 344.64,
+        "english": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+        "chinese": "我要列出我将通过红包收到的所有物品。"
+    },
+    {
+        "start": 344.64,
+        "end": 345.8,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 345.8,
+        "end": 347.64,
+        "english": "I'm going to have so much money.",
+        "chinese": "我将拥有如此多的钱。"
+    },
+    {
+        "start": 347.64,
+        "end": 350.8,
+        "english": "Mom, can I get a pen and a piece of paper?",
+        "chinese": "妈妈，我可以拿一支钢笔和一张纸吗？"
+    },
+    {
+        "start": 350.8,
+        "end": 352.36,
+        "english": "I want a new transformer.",
+        "chinese": "我想要一个新的Transformer。"
+    },
+    {
+        "start": 352.36,
+        "end": 354.16,
+        "english": "No, two transformers.",
+        "chinese": "是的，两个变压器。"
+    },
+    {
+        "start": 354.16,
+        "end": 356.64,
+        "english": "The Optimus Prime and made me the Wheeljack.",
+        "chinese": "优化者和我成为了轮子。"
+    },
+    {
+        "start": 356.64,
+        "end": 358.28,
+        "english": "I'll get a PSP game.",
+        "chinese": "我会下载一个PSP游戏。"
+    },
+    {
+        "start": 358.28,
+        "end": 359.28,
+        "english": "Haha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 359.28,
+        "end": 360.52,
+        "english": "And I'll buy the entire class.",
+        "chinese": "我将买整个班级。"
+    },
+    {
+        "start": 360.52,
+        "end": 361.44,
+        "english": "Lunch at McDonald's.",
+        "chinese": "午餐在麦当劳。"
+    },
+    {
+        "start": 365.0,
+        "end": 369.76,
+        "english": "Okay, so we saw some really great phrases of describing excitement.",
+        "chinese": "好的，我们看到了一些非常精彩的描述兴奋的表达。"
+    },
+    {
+        "start": 369.76,
+        "end": 370.76,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英语表达，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 370.76,
+        "end": 371.76,
+        "english": "Right?",
+        "chinese": "对吗？"
+    },
+    {
+        "start": 371.76,
+        "end": 374.52,
+        "english": "So, let's start with Fluency Builder.",
+        "chinese": "所以，我们先从 Fluent Builder 开始。"
+    },
+    {
+        "start": 374.52,
+        "end": 375.92,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 375.92,
+        "end": 378.44,
+        "english": "We have four phrases for you today.",
+        "chinese": "今天，我们有四句话给你听。"
+    },
+    {
+        "start": 378.44,
+        "end": 381.96,
+        "english": "And the first one is, I'm so excited about.",
+        "chinese": "第一个是，我太兴奋了。"
+    },
+    {
+        "start": 381.96,
+        "end": 383.48,
+        "english": "I'm so excited about.",
+        "chinese": "我非常兴奋。"
+    },
+    {
+        "start": 383.48,
+        "end": 385.68,
+        "english": "I'm so excited about.",
+        "chinese": "我非常激动。"
+    },
+    {
+        "start": 385.68,
+        "end": 389.96,
+        "english": "So when you say, I'm so excited, it means that you are like really happy.",
+        "chinese": "所以当你说，我非常兴奋，这意味着你就像真的非常高兴。"
+    },
+    {
+        "start": 389.96,
+        "end": 390.96,
+        "english": "That something is going to happen.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 390.96,
+        "end": 393.08,
+        "english": "Yeah, so happy you can't relax.",
+        "chinese": "是的，所以你不能放松。"
+    },
+    {
+        "start": 393.91999999999996,
+        "end": 397.91999999999996,
+        "english": "Right, so you can say, I'm so excited about our vacation next month.",
+        "chinese": "是的，你说得对。我非常兴奋地期待我们的下个月度假。"
+    },
+    {
+        "start": 397.91999999999996,
+        "end": 400.64,
+        "english": "I'm so excited about opening all my presents.",
+        "chinese": "我非常兴奋地准备打开所有的礼物。"
+    },
+    {
+        "start": 400.64,
+        "end": 403.0,
+        "english": "Exactly, so excited.",
+        "chinese": "正确，非常激动。"
+    },
+    {
+        "start": 403.0,
+        "end": 406.96,
+        "english": "Now, we also saw another really great word, very similar to, I'm so excited.",
+        "chinese": "现在，我们还看到了一个非常棒的词，与之极为相似，我好激动。"
+    },
+    {
+        "start": 406.96,
+        "end": 407.71999999999997,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 407.71999999999997,
+        "end": 409.91999999999996,
+        "english": "I'm really looking forward to.",
+        "chinese": "我真的很期待。"
+    },
+    {
+        "start": 409.91999999999996,
+        "end": 412.36,
+        "english": "I'm really looking forward to.",
+        "chinese": "我真的很期待。"
+    },
+    {
+        "start": 412.36,
+        "end": 414.32,
+        "english": "I'm really looking forward to.",
+        "chinese": "我真的很期待。"
+    },
+    {
+        "start": 414.32,
+        "end": 416.4,
+        "english": "I'm really looking forward to.",
+        "chinese": "我真的很期待。"
+    },
+    {
+        "start": 416.4,
+        "end": 419.32,
+        "english": "So this is a little bit less than excited, right?",
+        "chinese": "所以，这有点儿不如激动，对吗？"
+    },
+    {
+        "start": 419.32,
+        "end": 420.47999999999996,
+        "english": "A bit less strong.",
+        "chinese": "一个稍微弱一些。"
+    },
+    {
+        "start": 420.47999999999996,
+        "end": 421.15999999999997,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 421.16,
+        "end": 426.52000000000004,
+        "english": "So you would say, oh, I'm really looking forward to meeting your new girlfriend.",
+        "chinese": "所以你可能会这么说，嗯，我真的很期待和你的新女友见面。"
+    },
+    {
+        "start": 426.52000000000004,
+        "end": 430.16,
+        "english": "Or you can say, I'm really looking forward to seeing that movie.",
+        "chinese": "您可以这么说，我真的很期待那部电影。"
+    },
+    {
+        "start": 430.16,
+        "end": 431.16,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 431.16,
+        "end": 434.44000000000005,
+        "english": "So it means you're a little bit excited, but not so excited.",
+        "chinese": "所以，你有点兴奋，但不是那么兴奋。"
+    },
+    {
+        "start": 434.44000000000005,
+        "end": 438.04,
+        "english": "Yeah, you're happy about something that's going to happen in the future.",
+        "chinese": "是的，你对即将发生的某事感到高兴。"
+    },
+    {
+        "start": 438.04,
+        "end": 442.0,
+        "english": "Now let's look at our next phrase and it's very similar to excited.",
+        "chinese": "现在让我们看看我们的下一个短语，它与兴奋非常相似。"
+    },
+    {
+        "start": 442.0,
+        "end": 443.40000000000003,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 443.40000000000003,
+        "end": 444.8,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 444.8,
+        "end": 446.08000000000004,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 446.08000000000004,
+        "end": 447.40000000000003,
+        "english": "I can't wait.",
+        "chinese": "我无法等待。"
+    },
+    {
+        "start": 447.40000000000003,
+        "end": 450.24,
+        "english": "So this is very, very similar to, I'm so excited.",
+        "chinese": "所以，这与非常相似。我太兴奋了。"
+    },
+    {
+        "start": 450.24,
+        "end": 453.56,
+        "english": "Yes, when you're so excited for something you can't wait for it.",
+        "chinese": "是的，当你如此兴奋以至于你无法等待它。"
+    },
+    {
+        "start": 453.56,
+        "end": 457.76,
+        "english": "Let's listen to some more examples of, I can't wait.",
+        "chinese": "让我们听听一些更多的例子，我迫不及待了。"
+    },
+    {
+        "start": 457.76,
+        "end": 458.76,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 458.76,
+        "end": 461.8,
+        "english": "I'm so excited.",
+        "chinese": "我非常激动。"
+    },
+    {
+        "start": 461.8,
+        "end": 467.44,
+        "english": "I can't wait to see you.",
+        "chinese": "我迫不及待地想见到你。"
+    },
+    {
+        "start": 467.44,
+        "end": 469.44,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 469.44,
+        "end": 473.92,
+        "english": "Mmm, smells delicious.",
+        "chinese": "嗯，味道鲜美。"
+    },
+    {
+        "start": 473.92,
+        "end": 480.2,
+        "english": "I can't wait for dinner.",
+        "chinese": "我迫不及待地想吃饭。"
+    },
+    {
+        "start": 480.2,
+        "end": 484.84,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 484.84,
+        "end": 490.32,
+        "english": "I can't wait to open my presents.",
+        "chinese": "我迫不及待地打开我的礼物。"
+    },
+    {
+        "start": 490.32,
+        "end": 491.84,
+        "english": "So we can use it again the same way.",
+        "chinese": "所以我们可以重复使用它，就像以前一样。"
+    },
+    {
+        "start": 491.84,
+        "end": 494.76,
+        "english": "I can't wait to go on vacation next month.",
+        "chinese": "我迫不及待地想下个月度假。"
+    },
+    {
+        "start": 494.76,
+        "end": 496.96,
+        "english": "I can't wait to open all my presents.",
+        "chinese": "我迫不及待地打开所有的礼物。"
+    },
+    {
+        "start": 496.96,
+        "end": 497.96,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 497.96,
+        "end": 500.24,
+        "english": "Now our last phrase, I bet.",
+        "chinese": "英语：现在我们的最后一个句子，我估计。"
+    },
+    {
+        "start": 500.24,
+        "end": 501.44,
+        "english": "I bet.",
+        "chinese": "我猜。"
+    },
+    {
+        "start": 501.44,
+        "end": 502.68,
+        "english": "I bet.",
+        "chinese": "我估计。"
+    },
+    {
+        "start": 502.68,
+        "end": 503.68,
+        "english": "I bet.",
+        "chinese": "我猜。"
+    },
+    {
+        "start": 503.68,
+        "end": 505.68,
+        "english": "BET bet.",
+        "chinese": "这个句子“BET bet”在中文中可以翻译为：“等你”。"
+    },
+    {
+        "start": 505.68,
+        "end": 506.68,
+        "english": "Bet.",
+        "chinese": "在中文中，\"bet\"可以翻译为 \"下注\" 或 \"下赌\"。例如："
+    },
+    {
+        "start": 506.68,
+        "end": 511.08,
+        "english": "When you say I bet, it means that you're pretty sure about something.",
+        "chinese": "当你说“我赌”时，它意味着你非常确定某件事。"
+    },
+    {
+        "start": 511.08,
+        "end": 512.92,
+        "english": "Mmm, you predict it will happen.",
+        "chinese": "英语：嗯，你预测会发生的。"
+    },
+    {
+        "start": 512.92,
+        "end": 518.92,
+        "english": "Right, so let's listen to some more examples of, I bet.",
+        "chinese": "正确，那么我们继续听听一些更多的例子，我猜。"
+    },
+    {
+        "start": 518.92,
+        "end": 522.4,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 522.4,
+        "end": 529.4,
+        "english": "I bet I'm going to get so much money for Chinese New Year.",
+        "chinese": "英语：我估计我会得到很多钱的中国新年。"
+    },
+    {
+        "start": 529.4,
+        "end": 531.2,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 531.2,
+        "end": 535.24,
+        "english": "Robert's late.",
+        "chinese": "李博的晚安。"
+    },
+    {
+        "start": 535.24,
+        "end": 536.24,
+        "english": "Where do you think he is?",
+        "chinese": "英语：Where do you think he is?"
+    },
+    {
+        "start": 536.24,
+        "end": 541.64,
+        "english": "I bet he's stuck in traffic.",
+        "chinese": "我估计他迷路了。"
+    },
+    {
+        "start": 541.64,
+        "end": 545.64,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 545.64,
+        "end": 549.2,
+        "english": "I bet the boss is going to give us a big bonus this year.",
+        "chinese": "我估计老板会给我们一个大奖金。"
+    },
+    {
+        "start": 549.2,
+        "end": 554.76,
+        "english": "Well, I guess we're ready to listen to our dialogue for the third time.",
+        "chinese": "嗯，估计我们已经准备好第三次对话了。"
+    },
+    {
+        "start": 554.76,
+        "end": 563.76,
+        "english": "And then when we come back, Danny's going to tell us all about Chinese New Year.",
+        "chinese": "英语：然后当我们在回来的时候，丹尼将会向我们介绍中国新年。"
+    },
+    {
+        "start": 564.76,
+        "end": 568.04,
+        "english": "I'm so excited about Chinese New Year.",
+        "chinese": "我非常兴奋地迎接中国的新年。"
+    },
+    {
+        "start": 568.04,
+        "end": 569.64,
+        "english": "When do I get to visit grandma?",
+        "chinese": "英语：当我要去拜访祖母时。"
+    },
+    {
+        "start": 569.64,
+        "end": 572.08,
+        "english": "Grandma makes the best dumplings in the world.",
+        "chinese": "奶奶是中国的方言，所以这个句子翻译成中文是：奶奶在中国是最好的饺子厨师。"
+    },
+    {
+        "start": 572.08,
+        "end": 573.08,
+        "english": "Haha, right.",
+        "chinese": "哈哈，对。"
+    },
+    {
+        "start": 573.08,
+        "end": 577.92,
+        "english": "Sounds to me like you're more excited about dumplings than seeing a grandma.",
+        "chinese": "英语：听起来你似乎对饺子比看奶奶更感兴趣。"
+    },
+    {
+        "start": 577.92,
+        "end": 579.64,
+        "english": "Of course I miss grandma too.",
+        "chinese": "当然，我也想念奶奶。"
+    },
+    {
+        "start": 579.64,
+        "end": 581.64,
+        "english": "I bet she's going to teach me how to play Marjon.",
+        "chinese": "我估计她会教我如何玩《玛雅》。"
+    },
+    {
+        "start": 581.64,
+        "end": 585.04,
+        "english": "Hey, Dad, are you going to buy me firecrackers this year?",
+        "chinese": "你好，爸爸，今年你准备买给我放鞭炮吗？"
+    },
+    {
+        "start": 585.04,
+        "end": 586.64,
+        "english": "We're going to have the best fireworks.",
+        "chinese": "我们将会拥有最好的烟花。"
+    },
+    {
+        "start": 586.64,
+        "end": 588.88,
+        "english": "I'm really looking forward to lighting them.",
+        "chinese": "我真的很期待他们能照明。"
+    },
+    {
+        "start": 588.88,
+        "end": 591.56,
+        "english": "Son, firecrackers aren't toys.",
+        "chinese": "英语：儿子，火炮不是玩具。"
+    },
+    {
+        "start": 591.56,
+        "end": 592.56,
+        "english": "They are dangerous.",
+        "chinese": "他们很危险。"
+    },
+    {
+        "start": 592.92,
+        "end": 595.3199999999999,
+        "english": "No, fireworks are awesome.",
+        "chinese": "英语：不，烟花很美。"
+    },
+    {
+        "start": 595.3199999999999,
+        "end": 596.3199999999999,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 596.3199999999999,
+        "end": 597.52,
+        "english": "Don't you remember?",
+        "chinese": "英语：Don't you remember?"
+    },
+    {
+        "start": 597.52,
+        "end": 602.5999999999999,
+        "english": "Last year when I set out the firecrackers, you covered both your ears and hit behind your",
+        "chinese": "英语：去年我出发时，你覆盖了你的耳朵，并且撞到了你的身后。"
+    },
+    {
+        "start": 602.5999999999999,
+        "end": 603.5999999999999,
+        "english": "mother.",
+        "chinese": "妈妈。"
+    },
+    {
+        "start": 603.5999999999999,
+        "end": 606.4,
+        "english": "And I was scared because I saw a bug.",
+        "chinese": "英语：And I was scared because I saw a bug."
+    },
+    {
+        "start": 606.4,
+        "end": 607.4,
+        "english": "That's all.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 607.4,
+        "end": 608.4,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 608.4,
+        "end": 611.9599999999999,
+        "english": "Oh, and I can't wait to watch the dragon dance.",
+        "chinese": "英语：哦，而且我迫不及待要观看龙舞。"
+    },
+    {
+        "start": 611.9599999999999,
+        "end": 614.04,
+        "english": "Dad, can I sit on your shoulders this time?",
+        "chinese": "爸爸，这次我可以坐你的肩膀吗？"
+    },
+    {
+        "start": 614.04,
+        "end": 616.4,
+        "english": "Hey, I offered last year.",
+        "chinese": "你好，去年我曾提出过。"
+    },
+    {
+        "start": 616.4,
+        "end": 619.52,
+        "english": "Well, anyways, I was just thinking of the red envelopes.",
+        "chinese": "英语：嗯，好吧，我正想着红 envelope。"
+    },
+    {
+        "start": 619.52,
+        "end": 622.72,
+        "english": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+        "chinese": "我想要列出我将用红包钱购买的所有东西。"
+    },
+    {
+        "start": 622.72,
+        "end": 623.72,
+        "english": "I can't wait.",
+        "chinese": "我迫不及待了。"
+    },
+    {
+        "start": 623.72,
+        "end": 625.28,
+        "english": "I'm going to have so much money.",
+        "chinese": "我将拥有如此多的钱。"
+    },
+    {
+        "start": 625.28,
+        "end": 627.92,
+        "english": "Mom, can I get a pen and a piece of paper?",
+        "chinese": "妈妈，我可以拿个笔和一张纸吗？"
+    },
+    {
+        "start": 627.92,
+        "end": 628.92,
+        "english": "I want a new transformer.",
+        "chinese": "我想要一个新的变压器。"
+    },
+    {
+        "start": 628.92,
+        "end": 629.92,
+        "english": "No, two transformers.",
+        "chinese": "是的，两个变压器。"
+    },
+    {
+        "start": 629.92,
+        "end": 630.92,
+        "english": "I'm a spy.",
+        "chinese": "我是个间谍。"
+    },
+    {
+        "start": 630.92,
+        "end": 631.92,
+        "english": "Wheeljack.",
+        "chinese": "轮镐。"
+    },
+    {
+        "start": 631.92,
+        "end": 632.92,
+        "english": "I'll get a PSP game.",
+        "chinese": "我将获得一个PSP游戏。"
+    },
+    {
+        "start": 632.92,
+        "end": 633.92,
+        "english": "Come on.",
+        "chinese": "英语：Come on."
+    },
+    {
+        "start": 633.92,
+        "end": 651.24,
+        "english": "So, Danny, what are these red packets of money about?",
+        "chinese": "英语：所以，丹尼，这些红色的钞票是什么？"
+    },
+    {
+        "start": 651.24,
+        "end": 653.76,
+        "english": "So in Chinese, we call it homebou.",
+        "chinese": "所以，在中文中，我们称之为“家”。"
+    },
+    {
+        "start": 653.76,
+        "end": 657.0,
+        "english": "And it's basically a bag full of money.",
+        "chinese": "而且它基本上是一包钱。"
+    },
+    {
+        "start": 657.0,
+        "end": 658.28,
+        "english": "Why do you get money?",
+        "chinese": "为什么你赚到钱了？"
+    },
+    {
+        "start": 658.28,
+        "end": 659.28,
+        "english": "As a gift.",
+        "chinese": "英语：作为礼物。"
+    },
+    {
+        "start": 659.28,
+        "end": 660.28,
+        "english": "As a gift.",
+        "chinese": "英语：作为礼物。"
+    },
+    {
+        "start": 660.28,
+        "end": 661.28,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 661.28,
+        "end": 662.64,
+        "english": "The children get it, though.",
+        "chinese": "英语：孩子们理解了，尽管。"
+    },
+    {
+        "start": 662.64,
+        "end": 670.12,
+        "english": "If you're a university student and you haven't got a job yet, then you can still ask for",
+        "chinese": "如果你是大学学生并且还没有找到工作，那么你仍然可以向雇主提出请求。"
+    },
+    {
+        "start": 670.12,
+        "end": 672.88,
+        "english": "homebou from your parents or relatives.",
+        "chinese": "家庭作业从父母或亲戚那里完成。"
+    },
+    {
+        "start": 672.88,
+        "end": 676.4,
+        "english": "So is there some meaning to this gift of money?",
+        "chinese": "英语：所以这是你钱的礼物吗？"
+    },
+    {
+        "start": 676.4,
+        "end": 682.3199999999999,
+        "english": "Well, it is believed that children have to put these red envelopes under the pillow on",
+        "chinese": "嗯，据说孩子们必须把这些红信封放在枕头下面。"
+    },
+    {
+        "start": 682.3199999999999,
+        "end": 685.4399999999999,
+        "english": "your seat to scare away the evil spirits.",
+        "chinese": "你的座位可以吓走邪恶的气球。"
+    },
+    {
+        "start": 685.4399999999999,
+        "end": 687.4399999999999,
+        "english": "Again, like the firecracker.",
+        "chinese": "英语：再次，就像烟花。"
+    },
+    {
+        "start": 687.4399999999999,
+        "end": 691.36,
+        "english": "A lot of evil spirits in China.",
+        "chinese": "中国有很多邪恶的神灵。"
+    },
+    {
+        "start": 691.36,
+        "end": 694.96,
+        "english": "So, Danny, how much money would a kid get for Chinese New York?",
+        "chinese": "英语：所以，丹尼，一个孩子能为中国的纽约赚多少钱？"
+    },
+    {
+        "start": 694.96,
+        "end": 701.36,
+        "english": "Well, when I was little, the best year I got was 3,000 RMB, which is like almost $500.",
+        "chinese": "英语：嗯，当我还是个小孩子的时候，最好的一年是3,000元人民币，相当于大约500美元。"
+    },
+    {
+        "start": 701.36,
+        "end": 702.36,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 702.36,
+        "end": 703.36,
+        "english": "Almost $500.",
+        "chinese": "大约500元。"
+    },
+    {
+        "start": 703.36,
+        "end": 704.36,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 704.36,
+        "end": 706.36,
+        "english": "I was so rich at the time.",
+        "chinese": "我那时很富有。"
+    },
+    {
+        "start": 706.36,
+        "end": 708.0,
+        "english": "Wow, amazing.",
+        "chinese": "哇，太棒了。"
+    },
+    {
+        "start": 708.0,
+        "end": 709.0,
+        "english": "Uh-huh.",
+        "chinese": "抱歉，我不能直接翻译成中文。不过，根据你的要求，\"Uh-huh.\" 可以被理解为 \"嗯\" 或者 \"是的\"。如果你有其他需要帮助的地方，请告诉我！"
+    },
+    {
+        "start": 709.0,
+        "end": 711.0,
+        "english": "What about this game, Ma Jong?",
+        "chinese": "英语：这游戏怎么样，Ma Jong？"
+    },
+    {
+        "start": 711.0,
+        "end": 712.0,
+        "english": "Ma Jong?",
+        "chinese": "你好，马乔。"
+    },
+    {
+        "start": 712.0,
+        "end": 713.0,
+        "english": "Ma Jong.",
+        "chinese": "你好，马乔。"
+    },
+    {
+        "start": 713.0,
+        "end": 714.0,
+        "english": "Have you played it?",
+        "chinese": "英语：你玩过它吗？"
+    },
+    {
+        "start": 714.0,
+        "end": 715.0,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 715.0,
+        "end": 716.0,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 716.0,
+        "end": 718.84,
+        "english": "I think again, it's very traditional Chinese game.",
+        "chinese": "我再想想，这很传统中国游戏。"
+    },
+    {
+        "start": 719.84,
+        "end": 723.88,
+        "english": "You will see senior people always gathering along the table.",
+        "chinese": "你将看到许多年长的人们经常聚集在桌子旁。"
+    },
+    {
+        "start": 723.88,
+        "end": 724.88,
+        "english": "So old people.",
+        "chinese": "所以老人们。"
+    },
+    {
+        "start": 724.88,
+        "end": 725.88,
+        "english": "Old people.",
+        "chinese": "老人们。"
+    },
+    {
+        "start": 725.88,
+        "end": 726.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 726.88,
+        "end": 727.88,
+        "english": "So it's like a board game, kind of like chess?",
+        "chinese": "英语：所以它就像一个棋盘游戏，有点像象棋。"
+    },
+    {
+        "start": 727.88,
+        "end": 731.4,
+        "english": "It's kind of like chess, but they have like special, specially made chess.",
+        "chinese": "英语：它有点像棋，但它们有特别的、专门设计的棋。"
+    },
+    {
+        "start": 731.4,
+        "end": 732.8000000000001,
+        "english": "It's very different.",
+        "chinese": "英语：它很不一样。"
+    },
+    {
+        "start": 732.8000000000001,
+        "end": 733.8000000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 733.8000000000001,
+        "end": 738.2,
+        "english": "So I want to know more about these, uh, the fireworks and firecrackers on Chinese New",
+        "chinese": "英语：所以我想知道更多关于这些，呃，中国的烟花和烟火。"
+    },
+    {
+        "start": 738.2,
+        "end": 739.2,
+        "english": "Year.",
+        "chinese": "年。"
+    },
+    {
+        "start": 739.2,
+        "end": 741.64,
+        "english": "Okay, usually we buy firecrackers.",
+        "chinese": "好的，通常我们购买爆竹。"
+    },
+    {
+        "start": 741.64,
+        "end": 742.64,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 742.64,
+        "end": 745.08,
+        "english": "I believe fireworks are more expensive.",
+        "chinese": "我坚信烟花比点和拍贵。"
+    },
+    {
+        "start": 745.08,
+        "end": 748.08,
+        "english": "So we play firecrackers, pow-jong.",
+        "chinese": "英语：所以我们放烟花，噼啪。"
+    },
+    {
+        "start": 748.08,
+        "end": 751.88,
+        "english": "And usually we do it, um, right after the midnight.",
+        "chinese": "通常我们这样做，就是，在午夜之后。"
+    },
+    {
+        "start": 751.88,
+        "end": 753.5200000000001,
+        "english": "So 12 o'clock.",
+        "chinese": "所以12点。"
+    },
+    {
+        "start": 753.5200000000001,
+        "end": 754.5200000000001,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 754.5200000000001,
+        "end": 755.5200000000001,
+        "english": "It's very loud.",
+        "chinese": "英语：它声音很大。"
+    },
+    {
+        "start": 755.5200000000001,
+        "end": 761.9200000000001,
+        "english": "And, um, say for example, I personally don't even dare to stay close when they set off",
+        "chinese": "而且，比如说，我本人不敢跟他们一起离开。"
+    },
+    {
+        "start": 761.9200000000001,
+        "end": 765.12,
+        "english": "the firecrackers because it's just way too loud.",
+        "chinese": "英语：因为声音太大，所以放了点烟花。"
+    },
+    {
+        "start": 765.12,
+        "end": 766.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 766.12,
+        "end": 767.9200000000001,
+        "english": "It's, and everyone starts to lie down.",
+        "chinese": "是的，每个人开始都躺下了。"
+    },
+    {
+        "start": 767.9200000000001,
+        "end": 768.9200000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 768.9200000000001,
+        "end": 769.9200000000001,
+        "english": "So it's like, no, it's amazing.",
+        "chinese": "英语：所以它就像，不是吗？"
+    },
+    {
+        "start": 769.9200000000001,
+        "end": 770.9200000000001,
+        "english": "It's pretty.",
+        "chinese": "它挺好的。"
+    },
+    {
+        "start": 770.9200000000001,
+        "end": 774.96,
+        "english": "Um, I've, I've seen Chinese New Year three times in China and each time I've just been",
+        "chinese": "英语：哦，我刚在华沙见过中国新年三次，每次都是刚刚。"
+    },
+    {
+        "start": 774.96,
+        "end": 775.96,
+        "english": "amazed.",
+        "chinese": "英语：amazed."
+    },
+    {
+        "start": 775.96,
+        "end": 778.0400000000001,
+        "english": "Like, it's so, so cool.",
+        "chinese": "英语：像，真是太棒了。"
+    },
+    {
+        "start": 778.04,
+        "end": 779.68,
+        "english": "And so noisy and so awesome.",
+        "chinese": "英语：And so noisy and so awesome."
+    },
+    {
+        "start": 779.68,
+        "end": 781.7199999999999,
+        "english": "I mean, you've got to visit China to see this.",
+        "chinese": "我意思是，你得去中国看看这个。"
+    },
+    {
+        "start": 781.7199999999999,
+        "end": 782.7199999999999,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 782.7199999999999,
+        "end": 783.7199999999999,
+        "english": "It's a really cool festival.",
+        "chinese": "英语：它是一个非常酷的节日。"
+    },
+    {
+        "start": 783.7199999999999,
+        "end": 784.7199999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 784.7199999999999,
+        "end": 786.3199999999999,
+        "english": "And definitely playing with firecrackers is always fun.",
+        "chinese": "并且，玩烟火放炮总是很有趣的。"
+    },
+    {
+        "start": 786.3199999999999,
+        "end": 788.52,
+        "english": "So yeah, maybe a little bit dangerous.",
+        "chinese": "英语：所以啊，可能有点危险。"
+    },
+    {
+        "start": 788.52,
+        "end": 789.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 789.52,
+        "end": 794.0,
+        "english": "Well, everyone, uh, we've just learned about how New Year's is celebrated in China.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 794.0,
+        "end": 797.12,
+        "english": "And we want to know how do you celebrate New Year's in your country?",
+        "chinese": "我们想知道你在您的国家如何庆祝新年？"
+    },
+    {
+        "start": 797.12,
+        "end": 798.12,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 798.12,
+        "end": 799.28,
+        "english": "How do you welcome the New Year?",
+        "chinese": "你好，新年快乐！"
+    },
+    {
+        "start": 799.28,
+        "end": 801.12,
+        "english": "How do you scare away evil spirits?",
+        "chinese": "你好，我需要一些帮助。请告诉我你需要什么。"
+    },
+    {
+        "start": 801.12,
+        "end": 802.12,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 802.12,
+        "end": 803.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 803.12,
+        "end": 807.4399999999999,
+        "english": "So come to our website at EnglishPod.com and leave us your comments.",
+        "chinese": "所以，请访问我们的网站 [英语播客](https://www.englishpod.com) 并留下您的评论。"
+    },
+    {
+        "start": 807.44,
+        "end": 810.24,
+        "english": "That's right, Danny Ericka and I will be there to answer all your questions.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 810.24,
+        "end": 812.36,
+        "english": "So be sure to send us some comments.",
+        "chinese": "所以请务必发送给我们一些评论。"
+    },
+    {
+        "start": 812.36,
+        "end": 813.96,
+        "english": "Well, everyone, thanks for listening.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 813.96,
+        "end": 814.96,
+        "english": "And until next time, bye.",
+        "chinese": "直到下次见，再见。"
+    },
+    {
+        "start": 814.96,
+        "end": 815.96,
+        "english": "Bye.",
+        "chinese": "拜。"
+    },
+    {
+        "start": 815.96,
+        "end": 816.96,
+        "english": "Bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 816.96,
+        "end": 817.96,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

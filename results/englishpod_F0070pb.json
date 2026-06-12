@@ -1,0 +1,2090 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.0,
+        "english": "Hello everyone, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "大家好，欢迎再次来到英语播客，我的名字是马科。"
+    },
+    {
+        "start": 5.0,
+        "end": 6.0,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.0,
+        "end": 11.0,
+        "english": "And today we're bringing you a very, I would say, embarrassing lesson for us men.",
+        "chinese": "今天，我们在这里向你们展示一个非常尴尬的教训。"
+    },
+    {
+        "start": 11.0,
+        "end": 14.0,
+        "english": "Right, embarrassing for men, but I think it's okay for women.",
+        "chinese": "正确，对于男性来说是尴尬的，但我觉得这是可以接受的。"
+    },
+    {
+        "start": 14.0,
+        "end": 19.0,
+        "english": "That's right, we're going to be talking about buying underwear, specifically women's underwear.",
+        "chinese": "是的，我们打算讨论购买内衣，特别是女性内衣。"
+    },
+    {
+        "start": 19.0,
+        "end": 24.0,
+        "english": "Right, so obviously not the favorite thing for men to do.",
+        "chinese": "正确，显然，对于男人来说，做女人的不是他们的最爱。"
+    },
+    {
+        "start": 24.0,
+        "end": 27.0,
+        "english": "Well, apart from being a little bit uncomfortable, it's also boring.",
+        "chinese": "嗯，除了有一点点不舒服之外，它也很无聊。"
+    },
+    {
+        "start": 27.0,
+        "end": 29.0,
+        "english": "Yeah, it involves shopping, right?",
+        "chinese": "是的，涉及购物啊？"
+    },
+    {
+        "start": 29.0,
+        "end": 32.0,
+        "english": "It involves shopping, so we're not really big on that.",
+        "chinese": "它涉及购物，所以我们不太喜欢那个。"
+    },
+    {
+        "start": 32.0,
+        "end": 36.0,
+        "english": "All right, but well, even though it might be a little bit of an uncomfortable topic,",
+        "chinese": "好的，不过好，尽管说它可能有点不舒服的话题。"
+    },
+    {
+        "start": 36.0,
+        "end": 38.0,
+        "english": "there is some great language in here, isn't there?",
+        "chinese": "这里有一些很好的语言，不是吗？"
+    },
+    {
+        "start": 38.0,
+        "end": 44.0,
+        "english": "Yeah, there's some really good words and of course, the different types of underwear that we're going to be looking at.",
+        "chinese": "是的，确实有一些很好的词汇，当然，我们将要关注的不同类型的内衣。"
+    },
+    {
+        "start": 44.0,
+        "end": 45.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 45.0,
+        "end": 48.0,
+        "english": "But we also have some words that we're going to take a look at before we get into our dialogues.",
+        "chinese": "但是，我们也会在对话之前看看一些词。"
+    },
+    {
+        "start": 48.0,
+        "end": 51.0,
+        "english": "So let's start with vocabulary preview.",
+        "chinese": "所以，我们先来预览词汇。"
+    },
+    {
+        "start": 51.0,
+        "end": 53.0,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 53.0,
+        "end": 56.0,
+        "english": "Well, we're going to look at two words that will appear in our dialogue.",
+        "chinese": "好的，我们将对对话中出现的两个单词进行分析。"
+    },
+    {
+        "start": 56.0,
+        "end": 59.0,
+        "english": "And the first one is lingerie.",
+        "chinese": "第一件是内衣。"
+    },
+    {
+        "start": 59.0,
+        "end": 60.0,
+        "english": "lingerie.",
+        "chinese": "裙子。"
+    },
+    {
+        "start": 60.0,
+        "end": 61.0,
+        "english": "lingerie.",
+        "chinese": "裙子。"
+    },
+    {
+        "start": 61.0,
+        "end": 66.0,
+        "english": "Okay, so lingerie, this is a nice fancy word, basically for underwear, right?",
+        "chinese": "好的，所以“ lingerie ”，这是个漂亮的高档词，基本上就是内衣的意思吗？"
+    },
+    {
+        "start": 66.0,
+        "end": 68.0,
+        "english": "Right, for women's underwear.",
+        "chinese": "正确，对于女性内衣。"
+    },
+    {
+        "start": 68.0,
+        "end": 69.0,
+        "english": "Women's underwear.",
+        "chinese": "女人的内衣。"
+    },
+    {
+        "start": 69.0,
+        "end": 70.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 70.0,
+        "end": 74.0,
+        "english": "So lingerie, but it's very nice, very pretty sexy.",
+        "chinese": "所以内衣，但真好，非常性感。"
+    },
+    {
+        "start": 74.0,
+        "end": 75.0,
+        "english": "Sexy underwear, yeah.",
+        "chinese": "Sexy underwear, yeah. (翻译成中文：性感内衣，对吧？)"
+    },
+    {
+        "start": 75.0,
+        "end": 78.0,
+        "english": "Now the spelling of this word is interesting, isn't it?",
+        "chinese": "现在这个字的拼写有趣，不是吗？"
+    },
+    {
+        "start": 78.0,
+        "end": 82.0,
+        "english": "Yeah, it's spelled L-I-N-G-E-R-I-E.",
+        "chinese": "是的，它被拼写为 L-I-N-G-E-R-I-E。"
+    },
+    {
+        "start": 82.0,
+        "end": 83.0,
+        "english": "Longerie.",
+        "chinese": "长者。"
+    },
+    {
+        "start": 83.0,
+        "end": 84.0,
+        "english": "Longerie.",
+        "chinese": "长者。"
+    },
+    {
+        "start": 84.0,
+        "end": 85.0,
+        "english": "Longerie.",
+        "chinese": "长者。"
+    },
+    {
+        "start": 85.0,
+        "end": 86.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 86.0,
+        "end": 87.0,
+        "english": "Don't you love English spelling?",
+        "chinese": "您喜欢英语拼写吗？"
+    },
+    {
+        "start": 87.0,
+        "end": 90.0,
+        "english": "So women's nice, pretty sexy underwear.",
+        "chinese": "所以女人的漂亮、可爱的内衣。"
+    },
+    {
+        "start": 90.0,
+        "end": 91.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 91.0,
+        "end": 94.0,
+        "english": "And our second word, awkward.",
+        "chinese": "和我们的第二个字，尴尬。"
+    },
+    {
+        "start": 94.0,
+        "end": 95.0,
+        "english": "Awkward.",
+        "chinese": "尴尬。"
+    },
+    {
+        "start": 95.0,
+        "end": 96.0,
+        "english": "Awkward.",
+        "chinese": "尴尬。"
+    },
+    {
+        "start": 96.0,
+        "end": 97.0,
+        "english": "Awkward.",
+        "chinese": "尴尬。"
+    },
+    {
+        "start": 97.0,
+        "end": 102.0,
+        "english": "So this is a feeling that men have, especially when they're buying women's underwear.",
+        "chinese": "所以，这是男人特有的感觉，尤其是在购买女性内衣时。"
+    },
+    {
+        "start": 102.0,
+        "end": 106.0,
+        "english": "Well, yeah, you feel a little bit uncomfortable or it's a strange situation.",
+        "chinese": "嗯，对，你感觉有点不舒服或者这是一个奇怪的情况。"
+    },
+    {
+        "start": 106.0,
+        "end": 108.0,
+        "english": "A weird or out of place.",
+        "chinese": "一个奇怪或不合群的。"
+    },
+    {
+        "start": 108.0,
+        "end": 109.0,
+        "english": "It's awkward.",
+        "chinese": "它很尴尬。"
+    },
+    {
+        "start": 109.0,
+        "end": 110.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 110.0,
+        "end": 113.0,
+        "english": "All right, so we're going to be hearing both of these two words in the dialogue.",
+        "chinese": "好的，我们将分别听到这两个词的对话。"
+    },
+    {
+        "start": 113.0,
+        "end": 115.0,
+        "english": "Now, Marco, where are we here?",
+        "chinese": "现在，马科，我们在这里哪里？"
+    },
+    {
+        "start": 115.0,
+        "end": 120.0,
+        "english": "We're going to be at a department store at the section where they have women's lingerie,",
+        "chinese": "我们将在这里在女装内衣区，与该区域的女性服装店一起。"
+    },
+    {
+        "start": 120.0,
+        "end": 124.0,
+        "english": "and we have a guy buying underwear for his girlfriend.",
+        "chinese": "我们有一个男人在为他的女朋友买内衣。"
+    },
+    {
+        "start": 124.0,
+        "end": 127.0,
+        "english": "All right, well, let's find out what happens.",
+        "chinese": "好的，好吧，让我们找出会发生什么。"
+    },
+    {
+        "start": 127.0,
+        "end": 129.0,
+        "english": "This sucks.",
+        "chinese": "这太糟糕了。"
+    },
+    {
+        "start": 129.0,
+        "end": 131.0,
+        "english": "What, hate buying lingerie?",
+        "chinese": "请问，讨厌买内衣吗？"
+    },
+    {
+        "start": 131.0,
+        "end": 134.0,
+        "english": "Okay, just find something and get out of here.",
+        "chinese": "好的，找点东西出来吧。"
+    },
+    {
+        "start": 134.0,
+        "end": 136.0,
+        "english": "All right, these are fine.",
+        "chinese": "好的，这些是合适的。"
+    },
+    {
+        "start": 136.0,
+        "end": 138.0,
+        "english": "Oh, no, don't come over here.",
+        "chinese": "对不起，不要来这儿。"
+    },
+    {
+        "start": 138.0,
+        "end": 139.0,
+        "english": "Don't come over here.",
+        "chinese": "不要在这里出现。"
+    },
+    {
+        "start": 139.0,
+        "end": 140.0,
+        "english": "You look a little lost.",
+        "chinese": "你看起来有点迷茫。"
+    },
+    {
+        "start": 140.0,
+        "end": 141.0,
+        "english": "Can I help you?",
+        "chinese": "是的，我可以帮助你。"
+    },
+    {
+        "start": 141.0,
+        "end": 143.0,
+        "english": "Um, I'm just having a look around.",
+        "chinese": "嗯，我只是随便看看。"
+    },
+    {
+        "start": 143.0,
+        "end": 145.0,
+        "english": "It's my girlfriend's birthday tomorrow.",
+        "chinese": "明天是你的女朋友的生日。"
+    },
+    {
+        "start": 145.0,
+        "end": 148.0,
+        "english": "I'm trying to find her something.",
+        "chinese": "我正在寻找她。"
+    },
+    {
+        "start": 148.0,
+        "end": 150.0,
+        "english": "Well, you can't give her granny panties.",
+        "chinese": "嗯，你不能给她奶奶的短裤。"
+    },
+    {
+        "start": 150.0,
+        "end": 153.0,
+        "english": "Have you thought about getting her some sleepwear?",
+        "chinese": "是的，我考虑过给她买一些睡衣。"
+    },
+    {
+        "start": 153.0,
+        "end": 158.0,
+        "english": "We've got these lovely silky nighties or how about some nice panties in a bra set?",
+        "chinese": "我们有这些柔软的夜裙，或者考虑一下一些舒适的上衣搭配。"
+    },
+    {
+        "start": 158.0,
+        "end": 161.0,
+        "english": "Look, here's a nice satin push up bra.",
+        "chinese": "请看，这里有一件漂亮的纱质上衣。"
+    },
+    {
+        "start": 161.0,
+        "end": 165.0,
+        "english": "And you can choose a few different styles of undies to get her panties.",
+        "chinese": "你可以选择几个不同的式样上衣来得到她的内衣。"
+    },
+    {
+        "start": 165.0,
+        "end": 166.0,
+        "english": "Sure, that's fine.",
+        "chinese": "好的，那没问题。"
+    },
+    {
+        "start": 166.0,
+        "end": 168.0,
+        "english": "This is so awkward.",
+        "chinese": "这是这么尴尬。"
+    },
+    {
+        "start": 168.0,
+        "end": 169.0,
+        "english": "Well, let's do my pick.",
+        "chinese": "好的，我们来做我的选择。"
+    },
+    {
+        "start": 169.0,
+        "end": 170.0,
+        "english": "What size is she?",
+        "chinese": "请问她有多大？"
+    },
+    {
+        "start": 170.0,
+        "end": 172.0,
+        "english": "Well, do you want a thong?",
+        "chinese": "是的，你想要一条围巾吗？"
+    },
+    {
+        "start": 172.0,
+        "end": 173.0,
+        "english": "Some bikini briefs?",
+        "chinese": "是的，我不能直接翻译成中文。不过，如果你能提供更多的上下文信息，我可以尝试帮助你理解这句话的意思。例如："
+    },
+    {
+        "start": 173.0,
+        "end": 176.0,
+        "english": "Maybe this nice pair of lacy boy shorts.",
+        "chinese": "可能这双漂亮的女式短裤。"
+    },
+    {
+        "start": 176.0,
+        "end": 179.0,
+        "english": "Just pick something and get the hell out of here.",
+        "chinese": "请随意选择，尽快离开这里。"
+    },
+    {
+        "start": 179.0,
+        "end": 181.0,
+        "english": "Um, I'll go with these two.",
+        "chinese": "嗯，我跟这两个一起走。"
+    },
+    {
+        "start": 181.0,
+        "end": 182.0,
+        "english": "This is mortifying.",
+        "chinese": "这个是令人尴尬的。"
+    },
+    {
+        "start": 182.0,
+        "end": 186.0,
+        "english": "I just want to get this over with and she better take me for this.",
+        "chinese": "我只想快点结束这件事，她最好能带我去。"
+    },
+    {
+        "start": 186.0,
+        "end": 187.0,
+        "english": "Here you are, sir.",
+        "chinese": "在这里，先生。"
+    },
+    {
+        "start": 187.0,
+        "end": 189.0,
+        "english": "I'm sure she'll enjoy them.",
+        "chinese": "我保证她会喜欢它们。"
+    },
+    {
+        "start": 189.0,
+        "end": 190.0,
+        "english": "Finally.",
+        "chinese": "最后。"
+    },
+    {
+        "start": 191.0,
+        "end": 193.0,
+        "english": "I'm sorry, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 193.0,
+        "end": 197.0,
+        "english": "I'm going to have to take a look inside your bag.",
+        "chinese": "我必须亲自检查一下你的包。"
+    },
+    {
+        "start": 197.0,
+        "end": 200.0,
+        "english": "Oh, the poor guy.",
+        "chinese": "对不起，这个句子在中文中是不正确的。\"Oh, the poor guy.\" 这句话的翻译应该是：“啊，这穷小子。”"
+    },
+    {
+        "start": 200.0,
+        "end": 202.0,
+        "english": "I totally feel bad for him.",
+        "chinese": "我完全感到抱歉。"
+    },
+    {
+        "start": 202.0,
+        "end": 204.0,
+        "english": "Yeah, he was really nervous.",
+        "chinese": "是的，他真的很紧张。"
+    },
+    {
+        "start": 204.0,
+        "end": 207.0,
+        "english": "And of course, it was very uncomfortable for him.",
+        "chinese": "当然，对他来说，这非常不舒服。"
+    },
+    {
+        "start": 207.0,
+        "end": 211.0,
+        "english": "I know, and then the security guard shows up.",
+        "chinese": "我知道，然后保安员出现。"
+    },
+    {
+        "start": 211.0,
+        "end": 212.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 212.0,
+        "end": 215.0,
+        "english": "But we're going to have to take a look at the bag.",
+        "chinese": "但是，我们必须看看这个包。"
+    },
+    {
+        "start": 215.0,
+        "end": 217.0,
+        "english": "Oh, the poor guy.",
+        "chinese": "对不起，这个句子在中文中是不正确的。\"Oh, the poor guy.\" 这句话的翻译应该是：“啊，这穷小子。”"
+    },
+    {
+        "start": 217.0,
+        "end": 219.0,
+        "english": "I totally feel bad for him.",
+        "chinese": "我完全感到抱歉。"
+    },
+    {
+        "start": 219.0,
+        "end": 224.0,
+        "english": "But we have the opportunity to take a look at some really great words and phrases.",
+        "chinese": "但是我们有很好的词汇和短语来看看。"
+    },
+    {
+        "start": 224.0,
+        "end": 229.0,
+        "english": "So let's start off with the first one in language takeaway.",
+        "chinese": "所以，让我们从第一句话开始。"
+    },
+    {
+        "start": 229.0,
+        "end": 231.0,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 231.0,
+        "end": 237.0,
+        "english": "All right, we're going to look at words here that mostly have to do with underwear, describing underwear.",
+        "chinese": "好的，我们将在这里讨论一些与内衣相关的词汇，这些词汇通常与内衣有关。"
+    },
+    {
+        "start": 237.0,
+        "end": 238.0,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 238.0,
+        "end": 241.0,
+        "english": "And the first one is granny panties.",
+        "chinese": "这是 granny panties 的意思。"
+    },
+    {
+        "start": 241.0,
+        "end": 243.0,
+        "english": "Granny panties.",
+        "chinese": "奶奶的短裤。"
+    },
+    {
+        "start": 243.0,
+        "end": 244.0,
+        "english": "Granny panties.",
+        "chinese": "奶奶的短裤。"
+    },
+    {
+        "start": 244.0,
+        "end": 246.0,
+        "english": "This isn't like a real, real word, right?",
+        "chinese": "这不像是一个真实的现实世界，对吗？"
+    },
+    {
+        "start": 246.0,
+        "end": 248.0,
+        "english": "It's not something you'll find at a dictionary.",
+        "chinese": "不是在字典里能找到的。"
+    },
+    {
+        "start": 248.0,
+        "end": 250.0,
+        "english": "It's a slang word.",
+        "chinese": "这是一个俚语。"
+    },
+    {
+        "start": 250.0,
+        "end": 256.0,
+        "english": "And we use it to describe really big, ugly underwear, like your grandmother would wear.",
+        "chinese": "我们用它来描述非常大的、丑陋的内衣，比如你奶奶会穿的那种。"
+    },
+    {
+        "start": 256.0,
+        "end": 257.0,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 257.0,
+        "end": 259.0,
+        "english": "So they're not like the sexy little underwear.",
+        "chinese": "所以他们不像性感的小内衣。"
+    },
+    {
+        "start": 259.0,
+        "end": 262.0,
+        "english": "It's more like long and it's not very appealing.",
+        "chinese": "它更像长的，而不是很吸引人的。"
+    },
+    {
+        "start": 262.0,
+        "end": 264.0,
+        "english": "Just picture what your grandmother would wear.",
+        "chinese": "请想象一下你奶奶会穿什么。"
+    },
+    {
+        "start": 264.0,
+        "end": 265.0,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 265.0,
+        "end": 267.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 267.0,
+        "end": 269.0,
+        "english": "So granny panties.",
+        "chinese": "所以奶奶的短裤。"
+    },
+    {
+        "start": 269.0,
+        "end": 273.0,
+        "english": "So obviously, this guy doesn't want to be buying any of those.",
+        "chinese": "因此，这个家伙显然不想买这些。"
+    },
+    {
+        "start": 273.0,
+        "end": 277.0,
+        "english": "But the saleswoman suggests that he tries some sleepwear.",
+        "chinese": "但是，售货员建议他试试睡衣。"
+    },
+    {
+        "start": 277.0,
+        "end": 278.0,
+        "english": "Sleepwear.",
+        "chinese": "睡衣。"
+    },
+    {
+        "start": 278.0,
+        "end": 279.0,
+        "english": "Sleepwear.",
+        "chinese": "睡衣。"
+    },
+    {
+        "start": 279.0,
+        "end": 280.0,
+        "english": "Sleepwear.",
+        "chinese": "睡衣。"
+    },
+    {
+        "start": 280.0,
+        "end": 281.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 281.0,
+        "end": 282.0,
+        "english": "So sleepwear.",
+        "chinese": "所以睡衣。"
+    },
+    {
+        "start": 282.0,
+        "end": 285.0,
+        "english": "Obviously, clothes you wear when you're sleeping.",
+        "chinese": "当然，当你睡觉时你穿的衣服。"
+    },
+    {
+        "start": 285.0,
+        "end": 289.0,
+        "english": "Now this is really interesting because men aren't really that complicated when it comes to sleeping.",
+        "chinese": "现在这确实很有趣，因为男人并不是那么复杂地睡觉。"
+    },
+    {
+        "start": 289.0,
+        "end": 292.0,
+        "english": "Just throw on a t-shirt and that's it.",
+        "chinese": "直接穿上T恤，就足够了。"
+    },
+    {
+        "start": 292.0,
+        "end": 297.0,
+        "english": "Well, obviously for women, there are more options and more different things you can choose from.",
+        "chinese": "嗯，显然对于女性来说，有更多的选择和更多的不同事物可以选择。"
+    },
+    {
+        "start": 297.0,
+        "end": 298.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 298.0,
+        "end": 300.0,
+        "english": "The whole separate category for women.",
+        "chinese": "整个单独的类别为女性。"
+    },
+    {
+        "start": 300.0,
+        "end": 303.0,
+        "english": "Even when you're sleeping, you must wear something nice.",
+        "chinese": "即使你在睡觉，你也必须穿一件好衣服。"
+    },
+    {
+        "start": 303.0,
+        "end": 304.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 304.0,
+        "end": 306.0,
+        "english": "Sleepwear is silky 90s.",
+        "chinese": "睡衣是90年代的丝绸。"
+    },
+    {
+        "start": 306.0,
+        "end": 307.0,
+        "english": "90s.",
+        "chinese": "90s in Chinese is \"九十年代\" (jiǔshíyī)."
+    },
+    {
+        "start": 307.0,
+        "end": 308.0,
+        "english": "90s.",
+        "chinese": "90s in Chinese is \"九十年代\" (jiǔshíyī)."
+    },
+    {
+        "start": 308.0,
+        "end": 311.0,
+        "english": "And I G-H-T-I-E-S.",
+        "chinese": "我高高在上。"
+    },
+    {
+        "start": 311.0,
+        "end": 312.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 312.0,
+        "end": 313.0,
+        "english": "So a 90.",
+        "chinese": "所以，九零。"
+    },
+    {
+        "start": 313.0,
+        "end": 316.0,
+        "english": "It's basically a dress that you wear when you sleep.",
+        "chinese": "基本来说，这是一种你睡觉时穿的衣服。"
+    },
+    {
+        "start": 316.0,
+        "end": 317.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 317.0,
+        "end": 320.0,
+        "english": "Now the pronunciation is interesting because the first five letters are night.",
+        "chinese": "现在发音有趣，因为前五字母是夜。"
+    },
+    {
+        "start": 320.0,
+        "end": 321.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 321.0,
+        "end": 322.0,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 322.0,
+        "end": 323.0,
+        "english": "But you don't say night.",
+        "chinese": "但是你不说夜。"
+    },
+    {
+        "start": 323.0,
+        "end": 324.0,
+        "english": "You don't say 90.",
+        "chinese": "您不说 \"九零\"。"
+    },
+    {
+        "start": 324.0,
+        "end": 325.0,
+        "english": "You say 90.",
+        "chinese": "您说90。"
+    },
+    {
+        "start": 325.0,
+        "end": 326.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 326.0,
+        "end": 327.0,
+        "english": "You make the T-A-D.",
+        "chinese": "您制造了T-A-D。"
+    },
+    {
+        "start": 327.0,
+        "end": 328.0,
+        "english": "90.",
+        "chinese": "90. 九零。"
+    },
+    {
+        "start": 328.0,
+        "end": 330.0,
+        "english": "Now she offered him some silky 90s.",
+        "chinese": "现在她给他送来了些90年代的丝绸。"
+    },
+    {
+        "start": 330.0,
+        "end": 331.0,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 331.0,
+        "end": 332.0,
+        "english": "So silky.",
+        "chinese": "所以柔软。"
+    },
+    {
+        "start": 332.0,
+        "end": 336.0,
+        "english": "Obviously we know silk is a soft, shiny fabric.",
+        "chinese": "当然，我们很清楚丝绸是一种柔软、光泽的面料。"
+    },
+    {
+        "start": 336.0,
+        "end": 337.0,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 337.0,
+        "end": 342.0,
+        "english": "So when something is silky, it's either made from silk or it's soft and shiny.",
+        "chinese": "所以，当某种东西柔软且光泽时，它要么是用丝制成的，要么是软的和亮的。"
+    },
+    {
+        "start": 342.0,
+        "end": 343.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.0,
+        "end": 345.0,
+        "english": "So some silky 90s.",
+        "chinese": "所以有些90年代的丝绸。"
+    },
+    {
+        "start": 345.0,
+        "end": 347.0,
+        "english": "Very soft, shiny 90s.",
+        "chinese": "非常柔软，闪耀的90年代。"
+    },
+    {
+        "start": 347.0,
+        "end": 348.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 348.0,
+        "end": 349.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 349.0,
+        "end": 350.0,
+        "english": "What about our next word?",
+        "chinese": "关于下一个单词，我们有什么想法？"
+    },
+    {
+        "start": 350.0,
+        "end": 354.0,
+        "english": "Well, the sales girl offers different styles of undies.",
+        "chinese": "好的，销售员提供各种类型的内衣。"
+    },
+    {
+        "start": 354.0,
+        "end": 355.0,
+        "english": "Undies.",
+        "chinese": "短裤。"
+    },
+    {
+        "start": 355.0,
+        "end": 356.0,
+        "english": "Undies.",
+        "chinese": "无衣。"
+    },
+    {
+        "start": 356.0,
+        "end": 357.0,
+        "english": "Undies.",
+        "chinese": "无袖。"
+    },
+    {
+        "start": 357.0,
+        "end": 358.0,
+        "english": "Undies.",
+        "chinese": "短裤。"
+    },
+    {
+        "start": 358.0,
+        "end": 360.0,
+        "english": "So undies is an interesting word.",
+        "chinese": "所以 \"undies\" 是一个有趣的词。"
+    },
+    {
+        "start": 360.0,
+        "end": 363.0,
+        "english": "It's basically short for underwear.",
+        "chinese": "基本意思是内衣。"
+    },
+    {
+        "start": 363.0,
+        "end": 364.0,
+        "english": "Underwear, okay.",
+        "chinese": "内衣，好的。"
+    },
+    {
+        "start": 364.0,
+        "end": 366.0,
+        "english": "So you can just call underwear undies.",
+        "chinese": "所以，你可以直接叫内衣裤。"
+    },
+    {
+        "start": 366.0,
+        "end": 367.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 367.0,
+        "end": 370.0,
+        "english": "But I think you mostly use this when you're talking about women's underwear.",
+        "chinese": "但是我认为你通常用这个来谈论女性内衣。"
+    },
+    {
+        "start": 370.0,
+        "end": 371.0,
+        "english": "Oh really?",
+        "chinese": "是的，真的？"
+    },
+    {
+        "start": 371.0,
+        "end": 375.0,
+        "english": "I mean, I don't know if I would say undies when I'm talking about men's underwear.",
+        "chinese": "我指的是，我不确定我会说内衣裤（undies）谈论男装内裤。"
+    },
+    {
+        "start": 375.0,
+        "end": 376.0,
+        "english": "No, I don't think so.",
+        "chinese": "不，我不这么认为。"
+    },
+    {
+        "start": 376.0,
+        "end": 377.0,
+        "english": "Maybe children's underwear.",
+        "chinese": "可能孩子的内衣。"
+    },
+    {
+        "start": 377.0,
+        "end": 378.0,
+        "english": "Yeah, yeah, yeah, for children.",
+        "chinese": "是的，是的，是的，对于儿童。"
+    },
+    {
+        "start": 378.0,
+        "end": 379.0,
+        "english": "For children, right?",
+        "chinese": "对于儿童，正确？"
+    },
+    {
+        "start": 379.0,
+        "end": 380.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 380.0,
+        "end": 381.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 381.0,
+        "end": 382.0,
+        "english": "All right.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 382.0,
+        "end": 383.0,
+        "english": "So we saw some of the different types of clothing.",
+        "chinese": "所以我们看到了一些不同的服装类型。"
+    },
+    {
+        "start": 383.0,
+        "end": 386.0,
+        "english": "But now let's take a look at this interesting adjective.",
+        "chinese": "但是现在让我们来看看这个有趣的形容词。"
+    },
+    {
+        "start": 386.0,
+        "end": 387.0,
+        "english": "Mortifying.",
+        "chinese": "在中文中，\"mortifying\" 的意思是 \"贬低、降低\"。例如："
+    },
+    {
+        "start": 387.0,
+        "end": 388.0,
+        "english": "Mortifying.",
+        "chinese": "在中文中，\"mortifying\" 翻译为 \"杀戮\"。请注意，这个词语在中文语境下通常用来形容对某人或事物的极度厌恶和不尊重。如果你有其他问题需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 388.0,
+        "end": 389.0,
+        "english": "This is mortifying.",
+        "chinese": "这个是令人尴尬的。"
+    },
+    {
+        "start": 389.0,
+        "end": 390.0,
+        "english": "Mortifying.",
+        "chinese": "在中文中，\"mortifying\" 的意思是 \"贬低、降低\"。例如："
+    },
+    {
+        "start": 390.0,
+        "end": 394.0,
+        "english": "Okay, so when something is mortifying.",
+        "chinese": "好的，所以当某事令人恶心。"
+    },
+    {
+        "start": 394.0,
+        "end": 399.0,
+        "english": "Well, I think we've got some examples to show you what that is like.",
+        "chinese": "嗯，我认为我们已经展示了你如何理解这一点。"
+    },
+    {
+        "start": 399.0,
+        "end": 400.0,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 400.0,
+        "end": 405.0,
+        "english": "And then I fell in front of everyone.",
+        "chinese": "然后我站在众人面前。"
+    },
+    {
+        "start": 405.0,
+        "end": 409.0,
+        "english": "It was mortifying.",
+        "chinese": "是令人痛心的。"
+    },
+    {
+        "start": 409.0,
+        "end": 413.0,
+        "english": "Example two.",
+        "chinese": "翻译成中文是：示例二。"
+    },
+    {
+        "start": 414.0,
+        "end": 422.0,
+        "english": "I was completely mortified when I realized what I had done.",
+        "chinese": "我完全被震惊了，当我意识到自己做了什么。"
+    },
+    {
+        "start": 422.0,
+        "end": 426.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 426.0,
+        "end": 432.0,
+        "english": "It must have been mortifying for her when she realized that her underwear was showing.",
+        "chinese": "她意识到自己的内衣露在外面时，一定是感到非常尴尬的。"
+    },
+    {
+        "start": 432.0,
+        "end": 434.0,
+        "english": "So basically it's very embarrassing.",
+        "chinese": "所以基本上是很尴尬的。"
+    },
+    {
+        "start": 434.0,
+        "end": 435.0,
+        "english": "Super embarrassing.",
+        "chinese": "超尴尬。"
+    },
+    {
+        "start": 435.0,
+        "end": 436.0,
+        "english": "You want to die almost.",
+        "chinese": "你想要死几乎。"
+    },
+    {
+        "start": 436.0,
+        "end": 437.0,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 437.0,
+        "end": 438.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 438.0,
+        "end": 439.0,
+        "english": "Which is interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 439.0,
+        "end": 440.0,
+        "english": "I mean, mort.",
+        "chinese": "我指的是，死。"
+    },
+    {
+        "start": 440.0,
+        "end": 441.0,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 441.0,
+        "end": 442.0,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 442.0,
+        "end": 443.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 443.0,
+        "end": 444.0,
+        "english": "Well, etymology here at EnglishPod.",
+        "chinese": "在英语中，这里有一个有趣的悖论。根据传统的汉语语法和词法，\"here\"（在这里）应该被视为一个名词短语的一部分，而不是独立的主语。然而，在英语中，“etymology”这个词通常指的是语言学中的“历史”，而不仅仅是关于词语或句子本身的起源。"
+    },
+    {
+        "start": 444.0,
+        "end": 445.0,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 445.0,
+        "end": 447.0,
+        "english": "So some interesting.",
+        "chinese": "所以有些有趣。"
+    },
+    {
+        "start": 447.0,
+        "end": 448.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 448.0,
+        "end": 450.32,
+        "english": "So we saw the different types of underwear.",
+        "chinese": "所以我们看到了不同的内衣。"
+    },
+    {
+        "start": 450.32,
+        "end": 454.04,
+        "english": "We saw this really great word for when you're really embarrassed.",
+        "chinese": "我们看到这个真的很棒的词，当您很尴尬的时候。"
+    },
+    {
+        "start": 454.04,
+        "end": 458.56,
+        "english": "So now let's take a look at some of the phrases that you would use when you're really embarrassed",
+        "chinese": "所以现在让我们看看你当面羞愧时会用到哪些短语。"
+    },
+    {
+        "start": 458.56,
+        "end": 460.0,
+        "english": "in fluency builder.",
+        "chinese": "在流畅器。"
+    },
+    {
+        "start": 460.0,
+        "end": 461.0,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 461.0,
+        "end": 462.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 462.0,
+        "end": 464.0,
+        "english": "We have two phrases to look at here.",
+        "chinese": "我们这里有两个要关注的短语。"
+    },
+    {
+        "start": 464.0,
+        "end": 465.56,
+        "english": "The first one.",
+        "chinese": "第一个。"
+    },
+    {
+        "start": 465.56,
+        "end": 467.96,
+        "english": "Get the hell out of here.",
+        "chinese": "请尽快离开这里。"
+    },
+    {
+        "start": 467.96,
+        "end": 469.72,
+        "english": "Get the hell out of here.",
+        "chinese": "请尽快离开这里。"
+    },
+    {
+        "start": 469.72,
+        "end": 470.72,
+        "english": "Get the hell out of here.",
+        "chinese": "请尽快离开这里。"
+    },
+    {
+        "start": 470.72,
+        "end": 471.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 471.72,
+        "end": 477.48,
+        "english": "So if I say I want to get the hell out of here, you want to leave this place really quickly.",
+        "chinese": "所以，如果我说我要离开这里，你希望尽快离开这个地方。"
+    },
+    {
+        "start": 477.48,
+        "end": 478.48,
+        "english": "Really quickly.",
+        "chinese": "真的快点。"
+    },
+    {
+        "start": 478.48,
+        "end": 479.48,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 479.48,
+        "end": 480.48,
+        "english": "I want to leave.",
+        "chinese": "我要离开。"
+    },
+    {
+        "start": 480.48,
+        "end": 481.48,
+        "english": "Right now.",
+        "chinese": "当前。"
+    },
+    {
+        "start": 481.48,
+        "end": 484.6,
+        "english": "Now when you're using this phrase or this sentence, get the hell out of here.",
+        "chinese": "现在当你使用这个短语或这句话时，赶紧离开这里。"
+    },
+    {
+        "start": 484.6,
+        "end": 485.72,
+        "english": "Is it really polite?",
+        "chinese": "是真是假？"
+    },
+    {
+        "start": 485.72,
+        "end": 486.72,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 486.72,
+        "end": 487.72,
+        "english": "Of course not.",
+        "chinese": "当然不。"
+    },
+    {
+        "start": 487.72,
+        "end": 488.72,
+        "english": "It's in polite.",
+        "chinese": "它在礼貌。"
+    },
+    {
+        "start": 488.72,
+        "end": 489.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 489.72,
+        "end": 490.72,
+        "english": "So it's really negative.",
+        "chinese": "所以，它确实很负面。"
+    },
+    {
+        "start": 490.72,
+        "end": 491.72,
+        "english": "Very negative and informal, right?",
+        "chinese": "非常负面和口语化的，对吗？"
+    },
+    {
+        "start": 491.72,
+        "end": 492.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 492.72,
+        "end": 493.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 493.72,
+        "end": 497.0,
+        "english": "So you would use this maybe with your friends or like in this case, think it to yourself.",
+        "chinese": "所以，你可能会用这种方法与朋友或类似的情况一起使用。例如，在这种情况下，自己思考一下。"
+    },
+    {
+        "start": 497.0,
+        "end": 498.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 498.0,
+        "end": 500.8,
+        "english": "You have a good idea to use with your boss or your mother.",
+        "chinese": "您有好的想法可以向您的老板或妈妈提出。"
+    },
+    {
+        "start": 500.8,
+        "end": 501.8,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 501.8,
+        "end": 502.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 502.8,
+        "end": 503.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 503.8,
+        "end": 507.6,
+        "english": "I guess sometimes depending on the tone you use, how you say it, you can sound really angry,",
+        "chinese": "我猜测有时候，看你用的语气和怎么说，你听起来真的很生气。"
+    },
+    {
+        "start": 507.6,
+        "end": 508.6,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 508.6,
+        "end": 509.6,
+        "english": "Definitely.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 509.6,
+        "end": 510.6,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 510.6,
+        "end": 511.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 511.6,
+        "end": 512.6,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 512.6,
+        "end": 514.6,
+        "english": "Well, let's listen to some examples.",
+        "chinese": "好的，我们听听一些例子。"
+    },
+    {
+        "start": 514.6,
+        "end": 515.6,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 515.6,
+        "end": 517.6,
+        "english": "These places scary.",
+        "chinese": "这些地方很吓人。"
+    },
+    {
+        "start": 517.6,
+        "end": 522.04,
+        "english": "Let's get the hell out of here.",
+        "chinese": "让我们赶紧离开这里。"
+    },
+    {
+        "start": 522.04,
+        "end": 525.88,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 525.88,
+        "end": 527.88,
+        "english": "What are you doing in my house?",
+        "chinese": "在你家里你在做什么？"
+    },
+    {
+        "start": 527.88,
+        "end": 533.0,
+        "english": "The hell out of here.",
+        "chinese": "这里的地狱。"
+    },
+    {
+        "start": 533.0,
+        "end": 534.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 534.0,
+        "end": 539.6,
+        "english": "We're at a friend's party and all of a sudden a parent's arrived.",
+        "chinese": "我们正在参加朋友的聚会，突然来了一个父母。"
+    },
+    {
+        "start": 539.6,
+        "end": 542.2,
+        "english": "We got the hell out of there as quickly as possible.",
+        "chinese": "我们赶紧离开了。"
+    },
+    {
+        "start": 542.2,
+        "end": 544.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 544.4,
+        "end": 547.56,
+        "english": "So get the hell out of here.",
+        "chinese": "所以快走开！"
+    },
+    {
+        "start": 547.56,
+        "end": 548.88,
+        "english": "Get the hell out of here.",
+        "chinese": "请尽快离开这里。"
+    },
+    {
+        "start": 548.88,
+        "end": 552.0,
+        "english": "Now let's take a look at our last phrase for a fluency builder.",
+        "chinese": "现在让我们看看我们的上一句，以便进行流畅构建。"
+    },
+    {
+        "start": 552.0,
+        "end": 553.28,
+        "english": "Get this over with.",
+        "chinese": "请尽快解决这个问题。"
+    },
+    {
+        "start": 553.28,
+        "end": 554.48,
+        "english": "Get this over with.",
+        "chinese": "将这个话题翻译成中文是：“结束这件事。”"
+    },
+    {
+        "start": 554.48,
+        "end": 557.32,
+        "english": "I want to get this over with.",
+        "chinese": "我要结束这个。"
+    },
+    {
+        "start": 557.32,
+        "end": 559.96,
+        "english": "So you want to finish it really quickly.",
+        "chinese": "所以你想要这么快完成它。"
+    },
+    {
+        "start": 559.96,
+        "end": 563.0400000000001,
+        "english": "But you want to finish it because you're not really enjoying it, right?",
+        "chinese": "但是，你想要完成它，因为你并不真正喜欢它。"
+    },
+    {
+        "start": 563.0400000000001,
+        "end": 564.0400000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 564.0400000000001,
+        "end": 566.7600000000001,
+        "english": "This is something that you use when the situation is negative.",
+        "chinese": "这是当你面对负面情况时使用的一种方式。"
+    },
+    {
+        "start": 566.7600000000001,
+        "end": 567.7600000000001,
+        "english": "It's negative.",
+        "chinese": "是负面的。"
+    },
+    {
+        "start": 567.7600000000001,
+        "end": 568.7600000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 568.7600000000001,
+        "end": 570.6,
+        "english": "So I just want to get this over with.",
+        "chinese": "所以，我只是想快点结束这件事。"
+    },
+    {
+        "start": 570.6,
+        "end": 571.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 571.6,
+        "end": 572.6,
+        "english": "I want to get this test over with.",
+        "chinese": "我要结束这个测试。"
+    },
+    {
+        "start": 572.6,
+        "end": 574.0400000000001,
+        "english": "I want to get this day over with.",
+        "chinese": "我想尽快结束这个日子。"
+    },
+    {
+        "start": 574.0400000000001,
+        "end": 575.8000000000001,
+        "english": "I want to get this.",
+        "chinese": "我想要这个。"
+    },
+    {
+        "start": 575.8000000000001,
+        "end": 578.5600000000001,
+        "english": "Maybe if you're on a bad date, I want to get this date over with.",
+        "chinese": "可能如果你在一段糟糕的关系中，我想要结束这段关系。"
+    },
+    {
+        "start": 578.5600000000001,
+        "end": 579.5600000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 579.5600000000001,
+        "end": 580.5600000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 580.5600000000001,
+        "end": 581.5600000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 581.5600000000001,
+        "end": 582.5600000000001,
+        "english": "Well, interesting phrases.",
+        "chinese": "好的，有趣的短语。"
+    },
+    {
+        "start": 582.56,
+        "end": 586.88,
+        "english": "It would help us to hear them once more in context in the dialogue.",
+        "chinese": "它有助于我们再次听到他们，以更好地理解对话。"
+    },
+    {
+        "start": 586.88,
+        "end": 587.88,
+        "english": "This sucks.",
+        "chinese": "这太糟糕了。"
+    },
+    {
+        "start": 587.88,
+        "end": 597.4,
+        "english": "I hate buying lingerie.",
+        "chinese": "我讨厌买内衣。"
+    },
+    {
+        "start": 597.4,
+        "end": 598.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 598.4,
+        "end": 599.92,
+        "english": "Just find something and get out of here.",
+        "chinese": "请找到什么，离开这里。"
+    },
+    {
+        "start": 599.92,
+        "end": 600.92,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 600.92,
+        "end": 601.92,
+        "english": "These are fine.",
+        "chinese": "这些是好的。"
+    },
+    {
+        "start": 601.92,
+        "end": 602.92,
+        "english": "Oh, no.",
+        "chinese": "对不起，抱歉。"
+    },
+    {
+        "start": 602.92,
+        "end": 603.92,
+        "english": "Don't come over here.",
+        "chinese": "不要在这里出现。"
+    },
+    {
+        "start": 603.92,
+        "end": 604.92,
+        "english": "Don't come over here.",
+        "chinese": "不要在这里出现。"
+    },
+    {
+        "start": 604.92,
+        "end": 605.92,
+        "english": "You look a little lost.",
+        "chinese": "您看起来有点迷茫。"
+    },
+    {
+        "start": 605.92,
+        "end": 606.92,
+        "english": "Can I help you?",
+        "chinese": "是的，我可以帮助你。"
+    },
+    {
+        "start": 606.92,
+        "end": 609.56,
+        "english": "I'm just having a look around.",
+        "chinese": "我是随便看看。"
+    },
+    {
+        "start": 609.56,
+        "end": 611.0,
+        "english": "It's my girlfriend's birthday tomorrow.",
+        "chinese": "明天是你的女朋友的生日。"
+    },
+    {
+        "start": 611.0,
+        "end": 613.76,
+        "english": "I'm trying to find her something.",
+        "chinese": "我正在寻找她。"
+    },
+    {
+        "start": 613.76,
+        "end": 616.36,
+        "english": "Well you can't give her granny panties.",
+        "chinese": "你不能给她奶奶的内衣。"
+    },
+    {
+        "start": 616.36,
+        "end": 619.0,
+        "english": "Have you thought about getting her some sleepwear?",
+        "chinese": "是的，我考虑过给她买睡衣。"
+    },
+    {
+        "start": 619.0,
+        "end": 624.2,
+        "english": "We've got these lovely silky nighties or how about some nice panties in a bra set?",
+        "chinese": "我们有这些柔软的夜裙，或者考虑一下一些舒适的上衣搭配。"
+    },
+    {
+        "start": 624.2,
+        "end": 628.24,
+        "english": "Look, here's a nice satin push up bra and you can choose a few different styles of",
+        "chinese": "请看，这里有一件漂亮的缎面推手上衣和你可以选择几种不同的款式。"
+    },
+    {
+        "start": 628.24,
+        "end": 629.24,
+        "english": "undies to go with it.",
+        "chinese": "带着它去。"
+    },
+    {
+        "start": 629.24,
+        "end": 630.24,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 630.24,
+        "end": 631.24,
+        "english": "That's fine.",
+        "chinese": "没关系。"
+    },
+    {
+        "start": 631.24,
+        "end": 632.72,
+        "english": "This is so awkward.",
+        "chinese": "这是这么尴尬。"
+    },
+    {
+        "start": 632.72,
+        "end": 634.24,
+        "english": "Well, it's too late.",
+        "chinese": "太晚了。"
+    },
+    {
+        "start": 634.24,
+        "end": 635.24,
+        "english": "Pick.",
+        "chinese": "在中文中，\"pick\" 的意思是 \"选择\"。例如："
+    },
+    {
+        "start": 635.24,
+        "end": 636.24,
+        "english": "What size is she?",
+        "chinese": "请问她有多大？"
+    },
+    {
+        "start": 636.24,
+        "end": 639.44,
+        "english": "Well, do you want to thong some bikini briefs?",
+        "chinese": "是的，你想要穿一些短裙吗？"
+    },
+    {
+        "start": 639.44,
+        "end": 642.36,
+        "english": "Give me this nice pair of lacy boy shorts.",
+        "chinese": "请给我这双漂亮的蕾丝男生短裤。"
+    },
+    {
+        "start": 642.36,
+        "end": 644.5600000000001,
+        "english": "Just pick something and get the hell out of here.",
+        "chinese": "请随意选择，快点离开这里。"
+    },
+    {
+        "start": 644.5600000000001,
+        "end": 646.96,
+        "english": "Um, I'll go with these two.",
+        "chinese": "嗯，我跟这两个一起走。"
+    },
+    {
+        "start": 646.96,
+        "end": 647.96,
+        "english": "This is mortifying.",
+        "chinese": "这是令人尴尬的。"
+    },
+    {
+        "start": 647.96,
+        "end": 651.6,
+        "english": "I just want to get this over with and she better take me for this.",
+        "chinese": "我只想快点结束这件事，她最好能带我去。"
+    },
+    {
+        "start": 651.6,
+        "end": 652.6,
+        "english": "Here you are, sir.",
+        "chinese": "在这里，先生。"
+    },
+    {
+        "start": 652.6,
+        "end": 654.6,
+        "english": "I'm sure she'll enjoy them.",
+        "chinese": "我保证她会喜欢它们。"
+    },
+    {
+        "start": 654.6,
+        "end": 656.6,
+        "english": "Just finally.",
+        "chinese": "刚刚。"
+    },
+    {
+        "start": 656.6,
+        "end": 658.36,
+        "english": "I'm sorry, sir.",
+        "chinese": "对不起，先生。"
+    },
+    {
+        "start": 658.36,
+        "end": 662.0,
+        "english": "I'm going to have to take a look inside your bag.",
+        "chinese": "我必须亲自检查一下你的包。"
+    },
+    {
+        "start": 662.0,
+        "end": 667.0,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 667.0,
+        "end": 669.28,
+        "english": "So I guess the situation is very common.",
+        "chinese": "所以我认为这种情况非常普遍。"
+    },
+    {
+        "start": 669.28,
+        "end": 674.44,
+        "english": "Men either having to shop for this type of article for their girlfriend or wife because",
+        "chinese": "男人要么必须为这种类型的文章而购买，因为"
+    },
+    {
+        "start": 674.44,
+        "end": 680.16,
+        "english": "it's their birthday or sometimes we get dragged into a store to buy this.",
+        "chinese": "他们过生日，或者有时候我们会被强迫去商店买这个。"
+    },
+    {
+        "start": 680.16,
+        "end": 684.16,
+        "english": "So you're shopping with your girlfriend and she's going to make you go look at underwear",
+        "chinese": "所以，你正在和你的女朋友购物，并且她会带你去看内衣。"
+    },
+    {
+        "start": 684.16,
+        "end": 685.16,
+        "english": "with her.",
+        "chinese": "她。"
+    },
+    {
+        "start": 685.16,
+        "end": 686.16,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 686.16,
+        "end": 687.16,
+        "english": "I usually don't do that though.",
+        "chinese": "我通常不会那样做。"
+    },
+    {
+        "start": 687.16,
+        "end": 690.16,
+        "english": "I'll just go to the next section and just look around.",
+        "chinese": "我只管往下一步看，看看四周。"
+    },
+    {
+        "start": 690.16,
+        "end": 691.16,
+        "english": "Look at tools.",
+        "chinese": "请看工具。"
+    },
+    {
+        "start": 691.16,
+        "end": 694.0,
+        "english": "Look at TVs and play stations.",
+        "chinese": "请看电视机和收音机。"
+    },
+    {
+        "start": 694.0,
+        "end": 695.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 695.0,
+        "end": 699.6,
+        "english": "But I have seen some men who go shopping with their girlfriends or wives and actually enjoy",
+        "chinese": "但是，我见过一些男人与她们的伴侣或妻子一起去购物，并且实际上享受。"
+    },
+    {
+        "start": 699.6,
+        "end": 700.6,
+        "english": "buying underwear.",
+        "chinese": "购买内衣。"
+    },
+    {
+        "start": 700.6,
+        "end": 701.6,
+        "english": "See, that's the thing.",
+        "chinese": "是的，这就是问题。"
+    },
+    {
+        "start": 701.6,
+        "end": 705.84,
+        "english": "I think it makes sense, but I don't know how comfortable you would actually be.",
+        "chinese": "我认为这很好，但我不太知道你实际会感觉如何。"
+    },
+    {
+        "start": 705.84,
+        "end": 706.84,
+        "english": "I don't know why.",
+        "chinese": "我也不清楚。"
+    },
+    {
+        "start": 706.84,
+        "end": 710.52,
+        "english": "I guess just how it indicates sexuality and stuff.",
+        "chinese": "我猜测它暗示了性欲和一些其他话题。"
+    },
+    {
+        "start": 710.52,
+        "end": 711.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 711.52,
+        "end": 715.52,
+        "english": "I could do it for maybe five or ten minutes, give my professional advice and then I'm out",
+        "chinese": "我可能可以做一会儿，提供我的专业建议，然后我就走了。"
+    },
+    {
+        "start": 715.52,
+        "end": 716.52,
+        "english": "of there.",
+        "chinese": "有。"
+    },
+    {
+        "start": 716.52,
+        "end": 717.52,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 717.52,
+        "end": 721.28,
+        "english": "Well, maybe those guys who look like they're enjoying themselves are just really talking",
+        "chinese": "嗯，或许那些看起来像是在享受的家伙只是真的在聊天。"
+    },
+    {
+        "start": 721.28,
+        "end": 724.56,
+        "english": "in their heads, um, telling themselves how much they hate this.",
+        "chinese": "在心里，嗯，告诉自己他们多么讨厌这个。"
+    },
+    {
+        "start": 724.56,
+        "end": 725.56,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 725.56,
+        "end": 728.8399999999999,
+        "english": "Maybe they're just a pretending or listening to their iPod.",
+        "chinese": "可能他们只是在假装或听他们的iPod。"
+    },
+    {
+        "start": 728.8399999999999,
+        "end": 731.68,
+        "english": "Well, tell us, well, guys, I know we've got a lot of male listeners.",
+        "chinese": "嗯，你说的对。我明白我们有很多男性听众。"
+    },
+    {
+        "start": 731.68,
+        "end": 733.0,
+        "english": "Tell us what you think.",
+        "chinese": "请告诉我们你的看法。"
+    },
+    {
+        "start": 733.0,
+        "end": 735.52,
+        "english": "Are you embarrassed by women's underwear?",
+        "chinese": "是吗，对女性内衣感到羞愧吗？"
+    },
+    {
+        "start": 735.52,
+        "end": 736.52,
+        "english": "Right.",
+        "chinese": "右。 (Rì shàng.)"
+    },
+    {
+        "start": 736.52,
+        "end": 737.52,
+        "english": "Or women.",
+        "chinese": "在中文中，\"Or women\"可以翻译为："
+    },
+    {
+        "start": 737.52,
+        "end": 740.88,
+        "english": "Why aren't you embarrassed when you buy men's underwear for your boyfriend or husband?",
+        "chinese": "为什么你不会因为买你的男朋友或女朋友的内衣而感到尴尬？"
+    },
+    {
+        "start": 740.88,
+        "end": 742.64,
+        "english": "I think there's a lot to talk about here.",
+        "chinese": "我认为这里有很多话要说。"
+    },
+    {
+        "start": 742.64,
+        "end": 745.04,
+        "english": "So come to our website at EnglishPod.com.",
+        "chinese": "所以，请访问我们的网站：英语pod.com。"
+    },
+    {
+        "start": 745.04,
+        "end": 746.04,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 746.04,
+        "end": 749.56,
+        "english": "Leave your questions and comments and of course, tell us what you think about this topic.",
+        "chinese": "离开你的问题和评论，当然，请告诉我您对这个话题的看法。"
+    },
+    {
+        "start": 749.56,
+        "end": 753.1199999999999,
+        "english": "Well, thanks for downloading this lesson and until next time, goodbye.",
+        "chinese": "好的，谢谢下载这个课程，并且下一次再见时见。"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "start": 0.0,
+        "end": 12.0,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco. My name is Catherine and today we have part two of a very important and very valuable series about giving presentations.",
+        "chinese": "你好，大家，欢迎来到英语播客。我的名字是马科，我叫凯特琳和今天我们要讲的是一系列关于给演讲做准备的重要性和价值。"
+    },
+    {
+        "start": 12.0,
+        "end": 25.0,
+        "english": "That's right. As you well know, we started this series. It's a ten-part series and today we're going to talk about sales and charts and graphs and more or less explaining maybe a PowerPoint presentation.",
+        "chinese": "是的，您说得对。众所周知，我们开始了一项系列。这是一个十集系列，今天我们将讨论销售和图表以及更多的内容或演示文稿。"
+    },
+    {
+        "start": 25.0,
+        "end": 36.0,
+        "english": "That's right. So you're going to learn some wonderful ways of talking about changes in markets and marketing. So let's take a listen to today's dialogue and we'll be back in a moment to talk about what you've heard.",
+        "chinese": "正确。您将学习一些关于市场变化和营销的美妙方式。那么，让我们听听今天的对话，我们将回到一段话中来讨论您听过的。"
+    },
+    {
+        "start": 42.0,
+        "end": 54.0,
+        "english": "As all of you are well aware, competition in the laptop computer sector is intense. We continue to fight with our competitors for market share and this is the case both in the developed markets in the West as well as more developing markets in Asia and Africa.",
+        "chinese": "英语：众所周知，笔记本电脑市场竞争激烈。我们继续与竞争对手竞争市场份额，并且在西欧和亚洲、非洲等地都如此。"
+    },
+    {
+        "start": 55.0,
+        "end": 66.0,
+        "english": "You may ask yourself, why is this market so cutthroat? Well, the answer is simple. There is a huge untapped potential market out there with a huge untapped potential for profit.",
+        "chinese": "英语：它可能问自己，为什么这个市场这么竞争激烈？嗯，答案很简单。那里有一个巨大的未开发潜力的市场，一个巨大的潜在利润空间。"
+    },
+    {
+        "start": 66.0,
+        "end": 79.0,
+        "english": "If I bring up the first graph here, it shows the increase in terms of number of computer owners across the globe. As you can see in the 1980s, computer ownership amounted to around 0.5% of the total world population.",
+        "chinese": "如果我在这里提到来自全球的计算机拥有量，那么可以看到在1980年代，计算机拥有量占世界人口总数的约0.5%。"
+    },
+    {
+        "start": 79.0,
+        "end": 94.0,
+        "english": "Since the 1990s, computer ownership has risen dramatically. In the new millennium, we saw an even larger explosion in computer owners with figures rising to around 4% to 5%, in increase of 1000% compared with the 1980s.",
+        "chinese": "英语：自1990年代以来，计算机拥有率急剧上升。在新世纪的十年间，我们见证了计算机拥有量从约4%到5%，增加了1000倍于1980年代。"
+    },
+    {
+        "start": 94.0,
+        "end": 108.0,
+        "english": "If we move on to discuss the figures for China specifically, we can see in chart B that the overall figure for computer ownership stands at around 60 million, which represents a huge increase in a very short time period.",
+        "chinese": "如果我们将讨论中国计算机所有权的整体情况从图表B中移开，我们可以看到，在整体上，中国计算机拥有率约为6000万，这表明在过去的一段时间内发生了巨大的变化。"
+    },
+    {
+        "start": 108.0,
+        "end": 118.0,
+        "english": "Now of course, 60 million is just a drop in the ocean if you compare the total population of China. And this is a key reason why the personal computer market is such a hot market.",
+        "chinese": "现在当然，60亿只是沧海一粟之比，这也是中国个人电脑市场如此火热的原因之一。"
+    },
+    {
+        "start": 118.0,
+        "end": 126.0,
+        "english": "For us at Alpha and of course for all of our competitors as well, we have millions of potential customers who are looking to join the internet generation.",
+        "chinese": "英文：对于Alpha和我们的竞争对手来说，我们有数百万潜在客户，他们正在寻找加入互联网世代的机会。"
+    },
+    {
+        "start": 126.0,
+        "end": 131.0,
+        "english": "If we do this right, we really can reap huge rewards in a very short time frame.",
+        "chinese": "如果我们做得很好，那么在短时间内就能获得巨大的回报。"
+    },
+    {
+        "start": 131.0,
+        "end": 138.0,
+        "english": "I now like to move on to discuss the X420 brand itself and compare and contrast with some of our key competitors.",
+        "chinese": "我现在想转而讨论一下X420品牌本身，并与一些我们的主要竞争对手进行比较和对比。"
+    },
+    {
+        "start": 143.0,
+        "end": 147.0,
+        "english": "Alright, we're back. So now let's start with language takeaway.",
+        "chinese": "好的，我明白了。现在让我们从语言取向开始吧。"
+    },
+    {
+        "start": 148.0,
+        "end": 150.0,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 151.0,
+        "end": 158.0,
+        "english": "Okay, so in the first part of what Mr. Ford is saying, he mentioned something called market share. Now, Margot, what is market share?",
+        "chinese": "好的，现在请继续。"
+    },
+    {
+        "start": 158.0,
+        "end": 178.0,
+        "english": "That's right. Everyone is competing for market share. And this is basically a small portion of your available market. So for example, if you sell perfumes, women's perfume, then your market shares may be women who are 18 to 35 years old in your city or in your town or in your country.",
+        "chinese": "是的，你说得对。每个人都在竞争市场份额。而且这基本上是你可用市场的一部分。例如，如果你卖香水，女性香水、女士香水，那么你的市场份额可能是在你所在的城市或国家的18到35岁的女性中。"
+    },
+    {
+        "start": 178.0,
+        "end": 188.0,
+        "english": "Right. So when we're talking about market share because we're sharing a piece of this big pie, we're going to talk about that in terms of a percentage. So 30% or 15%.",
+        "chinese": "正确。当我们谈论市场份额，因为我们共享这个大蛋糕时，我们将用百分比来讨论这一点。所以30%或15%，等等。"
+    },
+    {
+        "start": 188.0,
+        "end": 197.0,
+        "english": "That's right. I think maybe one of the clearest examples is Coca-Cola has, I think maybe a 60% market share of the carbonated beverages market.",
+        "chinese": "是的，我认为可能有一款饮料品牌，比如可口可乐，它的市场份额大约为60%。"
+    },
+    {
+        "start": 197.0,
+        "end": 204.0,
+        "english": "Interesting. So you could say that Apple has a 50% market share of the personal computing industry.",
+        "chinese": "很好，我已准备好。请问您需要翻译的英文句子是什么？"
+    },
+    {
+        "start": 204.0,
+        "end": 219.0,
+        "english": "That's right. Very good. So this is when what we refer to as market share. Now, as we continue to talk about markets, we have two very interesting words when we refer to a developed market and a developing market.",
+        "chinese": "正确。很好。因此，当我们继续谈论市场时，我们有两个非常有趣的词，当我们将一个成熟的市场和一个发展的市场联系起来。"
+    },
+    {
+        "start": 219.0,
+        "end": 230.0,
+        "english": "Okay. So a developed market is something that has been polished and grown over time. Perhaps we talk about the developed world being Western Europe and America.",
+        "chinese": "好的。那么，一个成熟的市场就是指经过时间的打磨和成长而变得成熟了的东西。或许我们可以谈论一下西方欧洲和美国等发达市场的现状。"
+    },
+    {
+        "start": 230.0,
+        "end": 243.0,
+        "english": "But then we have developing markets and those are markets that are still trying to figure out kind of what's going on. They're growing. They're usually growing much faster than a developed market.",
+        "chinese": "但是然后我们有发展市场，这些市场还在努力理解发生的事情。他们通常比一个成熟市场增长得更快。"
+    },
+    {
+        "start": 243.0,
+        "end": 250.0,
+        "english": "That's right. So again, when we're talking about maybe computers, we consider for example the United States a developed market.",
+        "chinese": "英语：那对了。所以，当我们谈论可能的电脑市场时，我们可以考虑美国作为一个发展中的市场。"
+    },
+    {
+        "start": 250.0,
+        "end": 264.0,
+        "english": "Many people already have a computer or express the desire by one. And so maybe a developing market are some of the African countries where they're still growing. And so now they're beginning to purchase more and more computers.",
+        "chinese": "许多人都已经拥有一台电脑或表达了购买的意愿。而且，也许在非洲的一些发展中国家，他们仍然在成长。现在，他们已经开始购买更多的电脑了。"
+    },
+    {
+        "start": 264.0,
+        "end": 278.0,
+        "english": "Okay. So developed and developing two different ways to describe markets. That's right. Now after that, we hear this phrase cutthroat. So someone asks, why is this market so cutthroat? What does this mean?",
+        "chinese": "好的。所以开发和发展的两种方式来描述市场。这就是正确的。现在，当我们听到“市场如火如荼”时，有人问这是什么意思？这表示什么含义？"
+    },
+    {
+        "start": 278.0,
+        "end": 283.0,
+        "english": "A cutthroat business or a cutthroat industry. It means that it's very, very competitive.",
+        "chinese": "英语：一个竞争激烈的行业或公司。它意味着非常激烈的竞争。"
+    },
+    {
+        "start": 283.0,
+        "end": 295.0,
+        "english": "Okay. So cutthroat, we're actually talking about maybe having a knife and cutting someone else's throat, but it's just a metaphor. It's a way of saying yes, this is very competitive. So you're not actually cutting someone's throat.",
+        "chinese": "好的。所以，我们正在讨论是否应该有刀和切断别人喉咙的手段，但这只是个比喻。它表示是的，这是非常竞争的。所以，你并不切别人喉咙。"
+    },
+    {
+        "start": 295.0,
+        "end": 305.0,
+        "english": "Right. Everyone is fighting for that market share. So it's very cutthroat. Everyone is fighting very, very hard. But you're not literally killing someone or cutting their throats.",
+        "chinese": "是的，每个人都在为那个市场份额而战。所以竞争异常激烈。每个人都在拼尽全力，非常拼命。但你不是真的杀害某人或切断他们的喉咙。"
+    },
+    {
+        "start": 305.0,
+        "end": 311.0,
+        "english": "And you could even use this to talk about a sporting event. You could say, you know, it was a cutthroat game.",
+        "chinese": "你还可以用这种方法谈论体育赛事。你可以这么说，你知道，那是个竞争激烈的比赛。"
+    },
+    {
+        "start": 311.0,
+        "end": 327.0,
+        "english": "That's right. That's right. So anything that's very competitive or very close. So to finish off language takeaway when Mr. Ford was towards the end of his presentation, he said that the rewards could be very, very big in a very short timeframe.",
+        "chinese": "是的，没错。那么任何非常竞争或非常接近的情况。所以，在福特先生接近结束演讲时，他说道，奖励可能在短时间内变得非常巨大。"
+    },
+    {
+        "start": 327.0,
+        "end": 339.0,
+        "english": "So when we say the word timeframe, we mean period of time. It's not like, you know, 2 p.m. It's like from from May to June. We have this short timeframe. It's only two months long.",
+        "chinese": "所以当我们说时间框架时，我们指的是时间段。它不像，你知不知道，从5月到6月。我们有这个短时间段。只有两个月长。"
+    },
+    {
+        "start": 339.0,
+        "end": 342.0,
+        "english": "That's right. So timeframe is a window or a period.",
+        "chinese": "是的，你说得对。时间窗口或时间段。"
+    },
+    {
+        "start": 342.0,
+        "end": 351.0,
+        "english": "Mm-hmm. That's right. So this is what he is referring to is that in a very short period or in this period of time, they could make a lot of money at timeframe.",
+        "chinese": "嗯，你说得对。我明白了。那么，这个傻瓜相机在短时间内能赚很多钱吗？"
+    },
+    {
+        "start": 351.0,
+        "end": 359.0,
+        "english": "Right. But how long would a long time frame be? Maybe a couple of years. All right. So you can have a short time frame and a long time frame.",
+        "chinese": "正确。但多久会是一个长时段？也许几年。好的，你可以有短时段和长时段。"
+    },
+    {
+        "start": 359.0,
+        "end": 365.0,
+        "english": "That's right. Okay. Why don't we take a look at our dialogue again and we'll back shortly with Fluency Builder.",
+        "chinese": "正确。好的。我们再看看对话，然后马上用流畅性构建器。"
+    },
+    {
+        "start": 370.0,
+        "end": 377.0,
+        "english": "As all of you are well aware, competition in the laptop computer sector is intense. We continue to fight with our competitors for market share.",
+        "chinese": "英语：众所周知，笔记本电脑市场竞争激烈。我们继续与竞争对手竞争市场份额。"
+    },
+    {
+        "start": 377.0,
+        "end": 383.0,
+        "english": "And this is the case both in the developed markets in the West as well as more developing markets in Asia and Africa.",
+        "chinese": "英语：它在西欧和亚洲、非洲等地都适用。"
+    },
+    {
+        "start": 383.0,
+        "end": 394.0,
+        "english": "You may ask yourself, why is this market so cutthroat? Well, the answer is simple. There is a huge untapped potential market out there with a huge untapped potential for profit.",
+        "chinese": "英语：它可能问自己，为什么这个市场这么竞争激烈？嗯，答案很简单。这里有一个巨大的未开发潜力的市场，一个巨大的潜在利润空间。"
+    },
+    {
+        "start": 394.0,
+        "end": 401.0,
+        "english": "If I bring up the first graph here, it shows the increase in terms of number of computer owners across the globe.",
+        "chinese": "如果我在这里提一下第一张图表，它会显示全球计算机拥有的数量增加。"
+    },
+    {
+        "start": 401.0,
+        "end": 412.0,
+        "english": "As you can see in the 1980s, computer ownership amounted to around 0.5% of the total world population. Since the 1990s, computer ownership has risen dramatically.",
+        "chinese": "英语：它在1980年代可以看得见，计算机拥有率大约是世界人口的0.5%，自1990年以来，计算机拥有率急剧上升。"
+    },
+    {
+        "start": 412.0,
+        "end": 419.0,
+        "english": "In the new millennium, we saw an even larger explosion in computer owners with figures rising to around 4 to 5%.",
+        "chinese": "在新世纪，我们看到了计算机拥有者数量上升到大约4%至5%的爆炸式增长。"
+    },
+    {
+        "start": 419.0,
+        "end": 430.0,
+        "english": "An increase of 1000% compared with the 1980s. If we move on to discuss the figures for China specifically, we can see in chart B that the overall figure for computer ownership stands out.",
+        "chinese": "增加到2000%与上世纪八十年代相比。如果我们讨论中国具体的数据，我们可以看到图表B中计算机所有权的整体情况。"
+    },
+    {
+        "start": 430.0,
+        "end": 437.0,
+        "english": "The figure ownership stands out around 60 million, which represents a huge increase in a very short time period.",
+        "chinese": "图片所有权在6000万左右，这代表了一个非常短的时间内巨大的增长。"
+    },
+    {
+        "start": 437.0,
+        "end": 447.0,
+        "english": "Now of course, 60 million is just a drop in the ocean if you compare the total population of China. And this is a key reason why the personal computer market is such a hot market.",
+        "chinese": "现在当然，60亿只是沧海一粟之比，这也是中国个人电脑市场如此火热的原因之一。"
+    },
+    {
+        "start": 447.0,
+        "end": 455.0,
+        "english": "For us at Alpha and of course for all of our competitors as well, we have millions of potential customers who are looking to join the internet generation.",
+        "chinese": "英文：对于Alpha和我们的竞争对手来说，我们有数百万潜在客户，他们正在寻找加入互联网世代的机会。"
+    },
+    {
+        "start": 455.0,
+        "end": 466.0,
+        "english": "If we do this right, we really can reap huge rewards in a very short time frame. I now like to move on to discuss the X420 brand itself and compare and contrast with some of our key competitors.",
+        "chinese": "如果我们做得很好，那么在很短的时间内就能获得巨大的回报。我现在想转而讨论一下X420品牌及其与其他竞争对手的比较和对比。"
+    },
+    {
+        "start": 472.0,
+        "end": 478.0,
+        "english": "Alright, we're back. So now we've picked out a couple of different phrases for you. Let's check those out now on Fluency Builder.",
+        "chinese": "好的，我明白了。现在请检查一下Fluency Builder中的这些短语，并告诉我它们的正确翻译。"
+    },
+    {
+        "start": 479.0,
+        "end": 481.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 481.0,
+        "end": 496.0,
+        "english": "So in today's dialogue, we heard Mr. Ford talk about some numbers. He's talking about growth and change in the market. And he says with figures to around 4 to 5%. We've got an overall increase of 1000%.",
+        "chinese": "所以，在今天的对话中，我们听到了福特先生谈论一些数字。他正在讨论市场增长和变化的情况，并且他说出了大约4到5%的增幅。我们已经看到了一个总的增长率达到了1000%。"
+    },
+    {
+        "start": 496.0,
+        "end": 508.0,
+        "english": "That's right. So this phrase, an increase of very, very common when you're talking about growth of maybe revenue or when you're talking about the growth of a company or sales, for example.",
+        "chinese": "是的，你说得对。那么，关于增长、公司或销售等话题中的“增加”一词，我们可以用“提升”来表达。例如："
+    },
+    {
+        "start": 508.0,
+        "end": 523.0,
+        "english": "So it's important to remember here that this is a fixed phrase. We say an increase of 10% or an increase of 30%. But you can use the same phrase with drops in percentages or money.",
+        "chinese": "英语：因此，这里特别强调了这一点。我们说增加10%或增加30%。但你可以使用相同的表达方式，例如减少百分比或货币。"
+    },
+    {
+        "start": 523.0,
+        "end": 531.0,
+        "english": "So you can say a decrease of 10%. That means that you go down 10% or a decrease of 100%.",
+        "chinese": "所以，你可以说一个下降的百分比。这意味着你下降了百分之十或者百分之百。"
+    },
+    {
+        "start": 531.0,
+        "end": 540.0,
+        "english": "That's right. So a very useful phrase when talking about incrementing someone or as you said, decreasing a decrease of 5%.",
+        "chinese": "是的，你说得对。当谈论增加某人的时候，或者你刚才说的减少5%时，使用“增加”或“减小”。"
+    },
+    {
+        "start": 540.0,
+        "end": 552.0,
+        "english": "Now Mr. Ford used a very interesting phrase when referring to the Chinese market. Obviously it's a very big market. And he says that the computer ownership stands at around 60 million.",
+        "chinese": "现在福特先生用了一个非常有趣的话来描述中国市场的规模。很明显，这是一个很大的市场。他还说，中国的电脑拥有量大约有6000万。"
+    },
+    {
+        "start": 552.0,
+        "end": 558.0,
+        "english": "But of course, 60 million is just a drop in the ocean if you compare it to the population of China.",
+        "chinese": "但是啊，6000万只是一滴水，跟中国人口相比可真是微不足道。"
+    },
+    {
+        "start": 558.0,
+        "end": 563.0,
+        "english": "That's right. So what does this mean? It's a big percentage or a small percentage. Very, very small.",
+        "chinese": "英语：那对了。那么这句话意味着什么？这是一个很大的百分比或者一个小的百分比。非常，非常小。"
+    },
+    {
+        "start": 563.0,
+        "end": 574.0,
+        "english": "All right. So what he's saying here is it's like a drop of water in an ocean. So a drop of water is so small you don't even notice it. You don't even see it because the ocean is so big.",
+        "chinese": "好的。那么他在这里说的是，就像一滴水在大海里一样。所以一滴水这么小，你甚至看不到它。你看不到它是因为海洋太大了。"
+    },
+    {
+        "start": 574.0,
+        "end": 583.0,
+        "english": "And so you can use this in many different ways. You can say, hey, you know, $5 is just a drop in the ocean. It's not really important because it's very little money.",
+        "chinese": "而且你可以在很多不同的方式上使用它。你可以这么说：“你知道，5块钱只是大海中的一个微小的滴水。”这并不重要，因为它只是一个很小的钱。"
+    },
+    {
+        "start": 583.0,
+        "end": 589.0,
+        "english": "That's right. That's right. So it's sort of like a metaphor saying, you know what? It's very insignificant.",
+        "chinese": "是的，没错。嗯，这就像在说，你知道吗？它其实并不那么重要。"
+    },
+    {
+        "start": 589.0,
+        "end": 594.0,
+        "english": "It's just a drop of water in an ocean. It's not really something you can notice.",
+        "chinese": "英语：它就像一滴水在大海中一样渺小。这不是什么你无法察觉的。"
+    },
+    {
+        "start": 594.0,
+        "end": 603.0,
+        "english": "That's right. Just a drop in the ocean. And now at the very end of today's speech, we heard the phrase to compare and contrast.",
+        "chinese": "英语：那对了。这只是沧海一粟，今天上午的讲话中，我们听到了一句话来对比和比较。"
+    },
+    {
+        "start": 603.0,
+        "end": 613.0,
+        "english": "So we're talking about the X420 computer brand itself. Now what does what is Mr. Ford mean when he says to compare and contrast?",
+        "chinese": "英语：所以我们正在讨论X420电脑品牌本身。现在，当福特先生说要比较和对比时，他到底在说什么呢？"
+    },
+    {
+        "start": 613.0,
+        "end": 625.0,
+        "english": "So when we mentioned the word compare, we are basically trying to determine how they are similar in many ways. The characteristics of how they are similar and and to contrast is how they are different, right?",
+        "chinese": "所以当我们提到“比较”时，我们基本上是在确定他们之间有哪些相似之处。它们之间的相似之处和差异是如何通过对比来体现的吗？"
+    },
+    {
+        "start": 625.0,
+        "end": 633.0,
+        "english": "That's right. So let's let's use an example. Perhaps we could say Pepsi and Coca-Cola. Let's compare and contrast.",
+        "chinese": "好的，我明白了。请告诉我一个例子，或许我们可以用“Pepsi”和“Coca-Cola”。让我们对比一下。"
+    },
+    {
+        "start": 633.0,
+        "end": 641.0,
+        "english": "So they're both carbonated beverages. They are both sweet. And they're both there's pretty much the same color.",
+        "chinese": "所以他们都是碳酸饮料。它们都是甜的。而且，差不多是同样的颜色。"
+    },
+    {
+        "start": 641.0,
+        "end": 651.0,
+        "english": "That's right. And they're also fairly cheap. They have about the same price. But I would say that Coca-Cola is tastes more like prune.",
+        "chinese": "是的，他们也很便宜。它们的价格差不多。不过我觉得可口可乐的味道更像梨子。"
+    },
+    {
+        "start": 651.0,
+        "end": 656.0,
+        "english": "So that would be a contrasting characteristic of Coca-Cola is that maybe it tastes a little bit sweeter.",
+        "chinese": "所以，那可能就是可口可乐的一个特点：它或许尝起来有点甜。"
+    },
+    {
+        "start": 656.0,
+        "end": 662.0,
+        "english": "It does. And you could also say it's easier to find Coca-Cola. Pepsi is less easy to find sometimes.",
+        "chinese": "英语：它能。而且你也可以这么说，因为有时候找可口可乐比找百事可乐容易得多。"
+    },
+    {
+        "start": 662.0,
+        "end": 663.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 663.0,
+        "end": 669.0,
+        "english": "So another way that they're different. So basically to compare and contrast is to point out how two things are similar and how they're different.",
+        "chinese": "所以另一种方式是对比和比较。简单来说，就是找出两个事物的相似之处和不同之处。"
+    },
+    {
+        "start": 669.0,
+        "end": 678.0,
+        "english": "That's right. So we've had a lot of interesting phrases there. I think very useful if you're talking about business and marketing and sales.",
+        "chinese": "是的。我们在这里已经谈了很多有趣的话。我认为如果你谈论商业和营销和销售，这些话非常有用。"
+    },
+    {
+        "start": 678.0,
+        "end": 681.0,
+        "english": "So why don't we listen to our dialogue one last time.",
+        "chinese": "英语：所以我们为什么不再听我们的对话呢？"
+    },
+    {
+        "start": 687.0,
+        "end": 693.0,
+        "english": "As all of you are well aware, competition in the laptop computer sector is intense. We continue to fight with our competitors for market share.",
+        "chinese": "英语：众所周知，笔记本电脑市场竞争激烈。我们继续与竞争对手竞争市场份额。"
+    },
+    {
+        "start": 693.0,
+        "end": 700.0,
+        "english": "And this is the case both in the developed markets in the West as well as more developing markets in Asia and Africa.",
+        "chinese": "英语：它在西欧和亚洲、非洲等地都适用。"
+    },
+    {
+        "start": 700.0,
+        "end": 705.0,
+        "english": "You may ask yourself, why is this market so cutthroat? Well, the answer is simple.",
+        "chinese": "英语：你可能问自己，为什么这个市场这么竞争激烈？答案很简单。"
+    },
+    {
+        "start": 705.0,
+        "end": 711.0,
+        "english": "There's a huge untapped potential market out there with a huge untapped potential for profit.",
+        "chinese": "英语：那里有一个巨大的未开发潜力的市场，有巨大的未开发潜力的盈利机会。"
+    },
+    {
+        "start": 711.0,
+        "end": 717.0,
+        "english": "If I bring up the first graph here, it shows the increase in terms of number of computer owners across the globe.",
+        "chinese": "如果我在这里提一下第一张图表，它会显示全球计算机拥有的数量增加。"
+    },
+    {
+        "start": 717.0,
+        "end": 724.0,
+        "english": "As you can see in the 1980s, computer ownership amounted to around 0.5% of the total world population.",
+        "chinese": "英语：当你能看清楚1980年代的照片时，计算机拥有大约0.5%的世界人口。"
+    },
+    {
+        "start": 724.0,
+        "end": 728.0,
+        "english": "Since the 1990s, computer ownership has risen dramatically.",
+        "chinese": "英语：自1990年代以来，计算机拥有率急剧上升。"
+    },
+    {
+        "start": 729.0,
+        "end": 740.0,
+        "english": "In the new millennium, we saw an even larger explosion in computer owners with figures rising to around 4% to 5%, an increase of 1000% compared with the 1980s.",
+        "chinese": "在新世纪，我们看到了计算机拥有者数量的爆炸式增长，从2000年到2010年的数字大约是4%到5%，比1980年代增加了1000倍。"
+    },
+    {
+        "start": 740.0,
+        "end": 754.0,
+        "english": "If we move on to discuss the figures for China specifically, we can see in chart B that the overall figure for computer ownership stands at around 60 million, which represents a huge increase in a very short time period.",
+        "chinese": "如果我们将讨论中国计算机所有权的整体情况从图表B转移到讨论，我们可以看到，整体上，中国计算机拥有率约为6000万，这是一个非常迅速的增长。"
+    },
+    {
+        "start": 754.0,
+        "end": 759.0,
+        "english": "Now of course, 60 million is just a drop in the ocean if you compare the total population of China.",
+        "chinese": "现在看来，60亿只是一滴水，如果要比较中国的人口总数。"
+    },
+    {
+        "start": 759.0,
+        "end": 764.0,
+        "english": "And this is a key reason why the personal computer market is such a hot market.",
+        "chinese": "而且这个就是个人电脑市场为什么这么热的原因。"
+    },
+    {
+        "start": 764.0,
+        "end": 772.0,
+        "english": "For us at Alpha and of course for all of our competitors as well, we have millions of potential customers who are looking to join the internet generation.",
+        "chinese": "英文：对于Alpha和我们的竞争对手来说，我们有数百万潜在客户，他们正在寻找加入互联网世代的机会。"
+    },
+    {
+        "start": 772.0,
+        "end": 777.0,
+        "english": "If we do this right, we really can reap huge rewards in a very short time frame.",
+        "chinese": "如果我们做得很好，那么在短时间内就能获得巨大的回报。"
+    },
+    {
+        "start": 777.0,
+        "end": 784.0,
+        "english": "I now like to move on to discuss the X420 brand itself and compare and contrast with some of our key competitors.",
+        "chinese": "我现在想转而讨论一下X420品牌本身，并与一些我们的主要竞争对手进行比较和对比。"
+    },
+    {
+        "start": 789.0,
+        "end": 794.0,
+        "english": "Alright, we're back. So as we mentioned, this is just a part of our presentation series.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 794.0,
+        "end": 805.0,
+        "english": "We're going to keep on talking with Mr. Ford as he discusses business and a lot of other very interesting and useful skills for talking in public.",
+        "chinese": "我们将会继续和福特先生讨论商业以及许多其他非常有趣且有用的公共场合交流技巧。"
+    },
+    {
+        "start": 806.0,
+        "end": 812.0,
+        "english": "That's right. So the goal of this series is to help you feel better when you're giving a presentation in English.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 812.0,
+        "end": 820.0,
+        "english": "We all know it's very, very hard to talk in English when you're when you're still learning, but it's even harder to talk alone to give us speech or presentation.",
+        "chinese": "我们都知道，当我们还在学习的时候，很难用英语流畅地交流。然而，当我们独自讲话或做演示时，更是难上加难。"
+    },
+    {
+        "start": 820.0,
+        "end": 829.0,
+        "english": "And so the point of this series is to really give you those skills and to help teach you some of the key phrases and words that you'll be using in your presentations in the future.",
+        "chinese": "这个系列的目的是让你真正掌握这些技能，并帮助你在未来的演讲中学习和使用一些你将在未来工作中使用的关键术语。"
+    },
+    {
+        "start": 829.0,
+        "end": 836.0,
+        "english": "That's right. So if you have any questions or any doubts, we are always available at English.com. And we'll see everyone there.",
+        "chinese": "是的，您说得对。如果您有任何疑问或疑虑，请随时联系我们：www.english.com。我们将在这里等待您的到来。"
+    },
+    {
+        "start": 836.0,
+        "end": 837.0,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

@@ -1,0 +1,1286 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.0,
+        "end": 10.0,
+        "english": "We're bringing you an advanced lesson today.",
+        "chinese": "今天，我们将为您带来一个高级课程。"
+    },
+    {
+        "start": 10.0,
+        "end": 14.0,
+        "english": "That's right. An advanced lesson where we talk about investing in emerging markets.",
+        "chinese": "正确。一个关于投资新兴市场的高级课程。"
+    },
+    {
+        "start": 14.0,
+        "end": 19.0,
+        "english": "Right. So it's kind of a business topic. It's kind of a world topic as well.",
+        "chinese": "正确。因此，这是一个商业话题，也是一个全球话题。"
+    },
+    {
+        "start": 19.0,
+        "end": 20.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 20.0,
+        "end": 22.0,
+        "english": "And it's pretty difficult.",
+        "chinese": "而且很难。"
+    },
+    {
+        "start": 22.0,
+        "end": 23.0,
+        "english": "Yeah, it is really hard.",
+        "chinese": "是的，确实很难。"
+    },
+    {
+        "start": 23.0,
+        "end": 27.0,
+        "english": "Right. So if you're listening and you don't understand everything,",
+        "chinese": "正确。如果你在听，但你不明白所有的内容，"
+    },
+    {
+        "start": 27.0,
+        "end": 31.0,
+        "english": "please don't get discouraged. Don't worry about it because we're here to learn.",
+        "chinese": "请不要气馁。别担心，我们在这里学习。"
+    },
+    {
+        "start": 31.0,
+        "end": 32.0,
+        "english": "Yes. And we're here to help you.",
+        "chinese": "是的。我们在这里帮助你。"
+    },
+    {
+        "start": 32.0,
+        "end": 33.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 33.0,
+        "end": 37.0,
+        "english": "So let's get started with this. I'm really excited about this lesson.",
+        "chinese": "所以，我们先开始吧。我真的很兴奋能和你一起学习这个课程。"
+    },
+    {
+        "start": 37.0,
+        "end": 41.0,
+        "english": "Yeah. Okay. Well, Marco, maybe you can tell us a little bit what is an emerging market?",
+        "chinese": "是的。好的。嗯，马科斯，或许你能够告诉我们一下什么是新兴市场？"
+    },
+    {
+        "start": 41.0,
+        "end": 46.0,
+        "english": "An emerging market is a market that is starting to develop.",
+        "chinese": "一个新兴市场是指正在发展的市场。"
+    },
+    {
+        "start": 46.0,
+        "end": 48.0,
+        "english": "Okay. And it's growing rapidly.",
+        "chinese": "好的。它正在迅速增长。"
+    },
+    {
+        "start": 48.0,
+        "end": 51.0,
+        "english": "So you can maybe give some examples of an emerging market.",
+        "chinese": "所以你或许可以提供一些新兴市场的例子。"
+    },
+    {
+        "start": 51.0,
+        "end": 53.0,
+        "english": "Well, for example, China is an emerging market.",
+        "chinese": "好的，以下是翻译成中文的句子："
+    },
+    {
+        "start": 53.0,
+        "end": 54.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 54.0,
+        "end": 56.0,
+        "english": "And last year's has been growing rapidly.",
+        "chinese": "去年的增长速度非常快。"
+    },
+    {
+        "start": 56.0,
+        "end": 59.0,
+        "english": "More and more people are moving to the middle class and have money to spend.",
+        "chinese": "越来越多的人正在向中产阶级过渡，拥有足够的钱来消费。"
+    },
+    {
+        "start": 59.0,
+        "end": 60.0,
+        "english": "Right. Exactly.",
+        "chinese": "正确。完全。"
+    },
+    {
+        "start": 60.0,
+        "end": 64.0,
+        "english": "So China is like a really great example of an emerging market.",
+        "chinese": "所以中国就像一个真正的新兴市场榜样。"
+    },
+    {
+        "start": 64.0,
+        "end": 67.0,
+        "english": "All right. Well, with that, let's listen to the dialogue for the first time.",
+        "chinese": "好的。好了，让我们先听一下对话的第一遍。"
+    },
+    {
+        "start": 79.0,
+        "end": 81.0,
+        "english": "Dad, I'd like to borrow some money.",
+        "chinese": "爸爸，我想借点钱。"
+    },
+    {
+        "start": 81.0,
+        "end": 84.0,
+        "english": "Sure, Johnny. How much do you need? 5 bucks?",
+        "chinese": "好的，约翰尼。你需要多少？5块钱？"
+    },
+    {
+        "start": 84.0,
+        "end": 87.0,
+        "english": "Come on, Dad. I need 30,000. I want to get into the market.",
+        "chinese": "来吧，爸爸。我需要三十万。我想进入市场。"
+    },
+    {
+        "start": 87.0,
+        "end": 92.0,
+        "english": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession,",
+        "chinese": "我知道，我厌倦了听到关于经济衰退和不可避免的衰退的一切新闻。"
+    },
+    {
+        "start": 92.0,
+        "end": 94.0,
+        "english": "people stuffing their money in their mattresses.",
+        "chinese": "人们把钱塞进他们的床垫里。"
+    },
+    {
+        "start": 94.0,
+        "end": 98.0,
+        "english": "I look at this as an opportunity. This is a chance for me to get a jumpstart on building my nest egg.",
+        "chinese": "我把它看作是一个机会。这是我有机会积累财富的绝佳时机。"
+    },
+    {
+        "start": 98.0,
+        "end": 102.0,
+        "english": "I don't know about that, huh? With only uncertainty in the markets right now,",
+        "chinese": "我也不清楚，对吧？现在市场上的不确定性还是很大。"
+    },
+    {
+        "start": 102.0,
+        "end": 104.0,
+        "english": "it'll be a very unwise decision to invest.",
+        "chinese": "这是一个非常不明智的决定。"
+    },
+    {
+        "start": 104.0,
+        "end": 109.0,
+        "english": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+        "chinese": "我也不清楚，儿子，最近市场发生了许多动荡。"
+    },
+    {
+        "start": 109.0,
+        "end": 112.0,
+        "english": "And there have already been half a million layoffs in the last few months,",
+        "chinese": "和过去几个月里已经有半万次裁员一样，中国已经经历了数百万人的减员。"
+    },
+    {
+        "start": 112.0,
+        "end": 117.0,
+        "english": "and we have no idea how the proposed stimulus package will impact upon the economy.",
+        "chinese": "和我们没有把握，这个提出的刺激方案将如何影响经济。"
+    },
+    {
+        "start": 117.0,
+        "end": 122.0,
+        "english": "There's just too much instability. I just wouldn't feel comfortable investing in this climate.",
+        "chinese": "这里太不稳定了。我就不愿意在这个气候中投资了。"
+    },
+    {
+        "start": 122.0,
+        "end": 125.0,
+        "english": "Look at it this way. Every challenge is an opportunity.",
+        "chinese": "请看它这样。每一个挑战都是机遇。"
+    },
+    {
+        "start": 125.0,
+        "end": 128.0,
+        "english": "In any way, I'm not talking about investing in the domestic market.",
+        "chinese": "在任何情况下，我都不谈论投资于国内市场。"
+    },
+    {
+        "start": 128.0,
+        "end": 130.0,
+        "english": "There are emerging markets that promise great returns.",
+        "chinese": "有崛起的市场，它们将带来巨大的回报。"
+    },
+    {
+        "start": 130.0,
+        "end": 134.0,
+        "english": "Look at China, for example. They have 1.4 billion people,",
+        "chinese": "请看中国，例如。他们有14亿人口，"
+    },
+    {
+        "start": 134.0,
+        "end": 136.0,
+        "english": "half a billion of whom have recently entered the middle class.",
+        "chinese": "半亿中产阶级中有多少人？"
+    },
+    {
+        "start": 137.0,
+        "end": 141.0,
+        "english": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+        "chinese": "在这里，消费者商品的总需求是一个令人惊叹的财富创造机会。"
+    },
+    {
+        "start": 141.0,
+        "end": 145.0,
+        "english": "Oh, come on. Son, you're looking at this too, no, Evli.",
+        "chinese": "哦，来吧。儿子，你也在看这个，不，王丽。"
+    },
+    {
+        "start": 145.0,
+        "end": 148.0,
+        "english": "The Chinese market has exhibited a great deal of instability,",
+        "chinese": "中国市场的不稳定程度很高。"
+    },
+    {
+        "start": 148.0,
+        "end": 151.0,
+        "english": "and that currency has been devalued by almost a whole percentage point.",
+        "chinese": "并且，人民币已经贬值了几乎一个百分点。"
+    },
+    {
+        "start": 151.0,
+        "end": 154.0,
+        "english": "Fine then. If that's the way you feel, so be it.",
+        "chinese": "好的，以下是根据您提供的文本翻译成中文："
+    },
+    {
+        "start": 154.0,
+        "end": 158.0,
+        "english": "But you're losing out on a great opportunity here. I'm going to hit up mom for the cash.",
+        "chinese": "但是在这里你将失去一个巨大的机会。我要去问妈妈要钱。"
+    },
+    {
+        "start": 167.0,
+        "end": 174.0,
+        "english": "Well, it sounds like the dad has missed out on a really big investment opportunity.",
+        "chinese": "嗯，看来爸爸错过了一个非常大的投资机会。"
+    },
+    {
+        "start": 174.0,
+        "end": 176.0,
+        "english": "Yeah, and his son is pretty smart.",
+        "chinese": "是的，他的儿子聪明。"
+    },
+    {
+        "start": 176.0,
+        "end": 178.0,
+        "english": "Yeah, pretty smart little boy.",
+        "chinese": "是的，一个聪明的小男孩。"
+    },
+    {
+        "start": 178.0,
+        "end": 179.0,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 179.0,
+        "end": 182.0,
+        "english": "Okay, so we have some great words that we want to look at here.",
+        "chinese": "好的，我们这里有一些很棒的词汇想要看看。"
+    },
+    {
+        "start": 182.0,
+        "end": 185.0,
+        "english": "Why don't we start with the first one, turmoil?",
+        "chinese": "为什么不从第一个开始，动荡？"
+    },
+    {
+        "start": 185.0,
+        "end": 187.0,
+        "english": "Turmoil.",
+        "chinese": "在中文中，\"turmoil\" 的翻译是 \"动荡\"。"
+    },
+    {
+        "start": 187.0,
+        "end": 188.0,
+        "english": "Turmoil.",
+        "chinese": "动荡。"
+    },
+    {
+        "start": 188.0,
+        "end": 189.0,
+        "english": "Turmoil.",
+        "chinese": "动荡。"
+    },
+    {
+        "start": 189.0,
+        "end": 192.0,
+        "english": "So we have some great examples of how turmoil is used in different sentences.",
+        "chinese": "所以，我们有一些例子，如何在不同的句子中使用动荡。"
+    },
+    {
+        "start": 192.0,
+        "end": 193.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 193.0,
+        "end": 194.0,
+        "english": "So let's listen.",
+        "chinese": "所以，让我们倾听。"
+    },
+    {
+        "start": 194.0,
+        "end": 196.0,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 199.0,
+        "end": 205.0,
+        "english": "With a civil war, a famine, and inflation, the country has been in turmoil for 10 years.",
+        "chinese": "随着一场内战、饥荒和通货膨胀的困扰，这个国家已经经历了十年的动荡。"
+    },
+    {
+        "start": 209.0,
+        "end": 211.0,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 215.0,
+        "end": 217.0,
+        "english": "There's been a lot of Turmoil in my life recently.",
+        "chinese": "我的生活最近发生了许多动荡。"
+    },
+    {
+        "start": 217.0,
+        "end": 220.0,
+        "english": "I've moved to a new city. I've changed my job.",
+        "chinese": "我搬到了一个新的城市。我已经换了工作。"
+    },
+    {
+        "start": 220.0,
+        "end": 222.0,
+        "english": "I broke up with my girlfriend.",
+        "chinese": "我与我的女朋友分手了。"
+    },
+    {
+        "start": 225.0,
+        "end": 227.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 230.0,
+        "end": 235.0,
+        "english": "The devaluation of the dollar caused a great deal of turmoil in the markets.",
+        "chinese": "美元的贬值导致了市场的剧烈动荡。"
+    },
+    {
+        "start": 238.0,
+        "end": 245.0,
+        "english": "So turmoil is a state of uncertainty, of change, of difficult times.",
+        "chinese": "所以动荡是不确定、变化和艰难的时期。"
+    },
+    {
+        "start": 245.0,
+        "end": 247.0,
+        "english": "A little bit of chaos.",
+        "chinese": "一个小小的混乱。"
+    },
+    {
+        "start": 247.0,
+        "end": 248.0,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 248.0,
+        "end": 253.0,
+        "english": "So for example, when there's a lot of turmoil in the market, that means stock prices are changing drastically from day to day.",
+        "chinese": "所以，例如，在市场动荡时，股票价格每天都在发生剧烈的变化。"
+    },
+    {
+        "start": 254.0,
+        "end": 255.0,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 255.0,
+        "end": 256.0,
+        "english": "Or the economy is in turmoil.",
+        "chinese": "或者经济处于动荡之中。"
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "english": "There's a lot of problems going on.",
+        "chinese": "这里有很多问题。"
+    },
+    {
+        "start": 258.0,
+        "end": 259.0,
+        "english": "Yeah, uncertainty.",
+        "chinese": "是的，不确定性。"
+    },
+    {
+        "start": 259.0,
+        "end": 260.0,
+        "english": "Uncertainty.",
+        "chinese": "不确定性。"
+    },
+    {
+        "start": 260.0,
+        "end": 262.0,
+        "english": "Okay. Good word.",
+        "chinese": "好的。好词。"
+    },
+    {
+        "start": 262.0,
+        "end": 268.0,
+        "english": "All right. And we also saw something really interesting in the dialogue about a proposed stimulus package.",
+        "chinese": "好的。我们也看到了一个非常有趣的话题讨论中的实际内容。"
+    },
+    {
+        "start": 268.0,
+        "end": 271.0,
+        "english": "A proposed stimulus package.",
+        "chinese": "一个提出的刺激方案。"
+    },
+    {
+        "start": 271.0,
+        "end": 275.0,
+        "english": "So a proposed stimulus package is something that's going on now.",
+        "chinese": "所以，提出的刺激方案正在现在发生。"
+    },
+    {
+        "start": 275.0,
+        "end": 277.0,
+        "english": "Yes, let's break this phrase down.",
+        "chinese": "是的，让我们把这个短语分解一下。"
+    },
+    {
+        "start": 277.0,
+        "end": 279.0,
+        "english": "So we've got stimulus package.",
+        "chinese": "所以我们有刺激计划。"
+    },
+    {
+        "start": 280.0,
+        "end": 281.0,
+        "english": "A stimulus package.",
+        "chinese": "一个刺激包。"
+    },
+    {
+        "start": 281.0,
+        "end": 284.0,
+        "english": "Something to stimulate the economy, right?",
+        "chinese": "有什么办法能刺激经济吗？"
+    },
+    {
+        "start": 284.0,
+        "end": 287.0,
+        "english": "Right. So money from the government to get the economy moving.",
+        "chinese": "正确。政府向经济发展的目标迈进的钱。"
+    },
+    {
+        "start": 287.0,
+        "end": 288.0,
+        "english": "To get it moving.",
+        "chinese": "要让它运转。"
+    },
+    {
+        "start": 288.0,
+        "end": 289.0,
+        "english": "A stimulus package.",
+        "chinese": "一个刺激包。"
+    },
+    {
+        "start": 289.0,
+        "end": 290.0,
+        "english": "Proposed.",
+        "chinese": "请允许我翻译一下："
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "english": "It means that it hasn't been approved yet.",
+        "chinese": "这句话意味着还没有通过。"
+    },
+    {
+        "start": 292.0,
+        "end": 294.0,
+        "english": "Right. It's suggested.",
+        "chinese": "正确。建议。"
+    },
+    {
+        "start": 294.0,
+        "end": 295.0,
+        "english": "Suggested. It's an idea.",
+        "chinese": "给定。这是一个想法。"
+    },
+    {
+        "start": 295.0,
+        "end": 296.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想了解什么？如果您能提供更多的上下文信息或具体语境，我可以尝试更好地帮助您。"
+    },
+    {
+        "start": 296.0,
+        "end": 302.0,
+        "english": "So the proposed stimulus package for the US economy, for example, is $150 billion.",
+        "chinese": "所以，例如，美国经济的刺激方案，比如是150亿美元。"
+    },
+    {
+        "start": 302.0,
+        "end": 308.0,
+        "english": "Right. That's $150 billion of American taxpayers money that the government wants to put into the economy",
+        "chinese": "正确。这是美国纳税人为经济注入150亿美元的政府资金。"
+    },
+    {
+        "start": 308.0,
+        "end": 309.0,
+        "english": "to keep it moving.",
+        "chinese": "保持它流动。"
+    },
+    {
+        "start": 309.0,
+        "end": 311.0,
+        "english": "To keep it moving, right?",
+        "chinese": "要保持流动，对吗？"
+    },
+    {
+        "start": 311.0,
+        "end": 316.0,
+        "english": "So if it works or not, that's still a debate, but it's a proposed stimulus package.",
+        "chinese": "所以，如果它有效还是无效，那仍然是一个辩论，但这是一个提出的刺激方案。"
+    },
+    {
+        "start": 316.0,
+        "end": 318.0,
+        "english": "Let's move to our third phrase.",
+        "chinese": "让我们移动到第三句话。"
+    },
+    {
+        "start": 318.0,
+        "end": 320.0,
+        "english": "Aggregate demand.",
+        "chinese": "聚合需求。"
+    },
+    {
+        "start": 320.0,
+        "end": 321.0,
+        "english": "Aggregate demand.",
+        "chinese": "聚合需求。"
+    },
+    {
+        "start": 321.0,
+        "end": 322.0,
+        "english": "Aggregate demand.",
+        "chinese": "聚合需求。"
+    },
+    {
+        "start": 322.0,
+        "end": 324.0,
+        "english": "Aggregate demand.",
+        "chinese": "聚合需求。"
+    },
+    {
+        "start": 324.0,
+        "end": 327.0,
+        "english": "So demand is pretty clear, but this word aggregate.",
+        "chinese": "所以需求很明显，但这个聚合词。"
+    },
+    {
+        "start": 327.0,
+        "end": 328.0,
+        "english": "What's that about?",
+        "chinese": "这句话的意思是“有什么关于的？”"
+    },
+    {
+        "start": 328.0,
+        "end": 331.0,
+        "english": "Aggregate is like a combined added.",
+        "chinese": "聚合是像合并加在一起一样。"
+    },
+    {
+        "start": 331.0,
+        "end": 332.0,
+        "english": "Yeah. Right?",
+        "chinese": "是的。对吗？"
+    },
+    {
+        "start": 332.0,
+        "end": 333.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 333.0,
+        "end": 334.0,
+        "english": "Aggregate demand.",
+        "chinese": "聚合需求。"
+    },
+    {
+        "start": 334.0,
+        "end": 341.0,
+        "english": "For example, in a country like China, where cities like in Shanghai or cities like Beijing,",
+        "chinese": "例如，在中国，如上海或北京这样的城市，中国的许多地方都存在。"
+    },
+    {
+        "start": 341.0,
+        "end": 347.0,
+        "english": "where more and more people are accumulating wealth, the aggregate demand is increasing.",
+        "chinese": "在中国，越来越多的人积累财富，总需求也在增加。"
+    },
+    {
+        "start": 347.0,
+        "end": 351.0,
+        "english": "Right. Right. The combined demand for consumer goods is growing.",
+        "chinese": "正确。正确。消费者商品的需求正在增长。"
+    },
+    {
+        "start": 351.0,
+        "end": 352.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 352.0,
+        "end": 354.0,
+        "english": "More people have more money, so they're spending more.",
+        "chinese": "更多的人有更多的钱，所以他们花的钱就更多。"
+    },
+    {
+        "start": 354.0,
+        "end": 355.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 355.0,
+        "end": 356.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 356.0,
+        "end": 360.0,
+        "english": "You know, Marco, there's a ton of excellent language in this dialogue, isn't there?",
+        "chinese": "我知道，马科，这里有很多优秀的语言，不是吗？"
+    },
+    {
+        "start": 360.0,
+        "end": 362.0,
+        "english": "Yeah. A lot of good stuff here.",
+        "chinese": "是的。这里有很多好东西。"
+    },
+    {
+        "start": 362.0,
+        "end": 369.0,
+        "english": "And we want to listen to the dialogue one more time, but before we do, we have three words for you that we want you to listen for.",
+        "chinese": "我们还想再听一次对话，但在此之前，我们需要三句话给你听。"
+    },
+    {
+        "start": 369.0,
+        "end": 371.0,
+        "english": "Yeah. Pay attention to these words.",
+        "chinese": "是的。注意这些字眼。"
+    },
+    {
+        "start": 371.0,
+        "end": 373.0,
+        "english": "Nest egg.",
+        "chinese": "蛋壳。"
+    },
+    {
+        "start": 373.0,
+        "end": 374.0,
+        "english": "Nest egg.",
+        "chinese": "蛋壳。"
+    },
+    {
+        "start": 374.0,
+        "end": 375.0,
+        "english": "Inevitable.",
+        "chinese": "不可避免。"
+    },
+    {
+        "start": 375.0,
+        "end": 376.0,
+        "english": "Inevitable.",
+        "chinese": "不可避免。"
+    },
+    {
+        "start": 376.0,
+        "end": 378.0,
+        "english": "And hit up.",
+        "chinese": "并且去。"
+    },
+    {
+        "start": 378.0,
+        "end": 379.0,
+        "english": "Hit up.",
+        "chinese": "上车。"
+    },
+    {
+        "start": 379.0,
+        "end": 384.0,
+        "english": "So from the context of the dialogue, try and see if you can figure out what they mean.",
+        "chinese": "因此，从对话的背景中尝试找出他们所表示的意思。"
+    },
+    {
+        "start": 384.0,
+        "end": 388.0,
+        "english": "But after listening to it, we'll come back and explain it anyways.",
+        "chinese": "但是听完它，我们还是会回来再解释一下。"
+    },
+    {
+        "start": 393.0,
+        "end": 397.0,
+        "english": "Dad, I'd like to borrow some money.",
+        "chinese": "爸爸，我想借点钱。"
+    },
+    {
+        "start": 397.0,
+        "end": 400.0,
+        "english": "Sure, Johnny. How much do you need? Five bucks?",
+        "chinese": "好的，小明。你需要多少钱？五元钱。"
+    },
+    {
+        "start": 400.0,
+        "end": 404.0,
+        "english": "Come on, Dad. I need 30,000. I want to get into the market.",
+        "chinese": "来吧，爸爸。我需要三十万。我想进入市场。"
+    },
+    {
+        "start": 404.0,
+        "end": 410.0,
+        "english": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.",
+        "chinese": "我知道，我厌倦了听到关于经济衰退、不可避免的衰退、人们把钱塞进床垫里的所有新闻。"
+    },
+    {
+        "start": 410.0,
+        "end": 415.0,
+        "english": "I look at this as an opportunity. This is a chance for me to get a jumpstart on building my nest egg.",
+        "chinese": "我把它看作是一个机会。这是我有机会积累财富的机会。"
+    },
+    {
+        "start": 415.0,
+        "end": 420.0,
+        "english": "I don't know about that, huh? With only uncertainty in the markets right now, to be very unwise decision to invest.",
+        "chinese": "我不知道，对吗？现在市场不确定性很高，做出非常不明智的决策。"
+    },
+    {
+        "start": 421.0,
+        "end": 425.0,
+        "english": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+        "chinese": "我也不太清楚，儿子，但最近市场的动荡程度确实很大。"
+    },
+    {
+        "start": 425.0,
+        "end": 433.0,
+        "english": "And there have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.",
+        "chinese": "和过去几个月的裁员数量已经达到了半万个，我们对此一无所知，不知道刺激方案将如何影响经济。"
+    },
+    {
+        "start": 433.0,
+        "end": 438.0,
+        "english": "There's just too much instability. I just wouldn't feel comfortable investing in this climate.",
+        "chinese": "这里太不稳定了。我就不愿意在这个气候中投资。"
+    },
+    {
+        "start": 438.0,
+        "end": 441.0,
+        "english": "I'm looking at this way. Every challenge is an opportunity.",
+        "chinese": "我正在看这个。每一个挑战都是机遇。"
+    },
+    {
+        "start": 441.0,
+        "end": 444.0,
+        "english": "And anyway, I'm not talking about investing in the domestic market.",
+        "chinese": "而且，我并不是在谈论投资国内市场。"
+    },
+    {
+        "start": 444.0,
+        "end": 447.0,
+        "english": "There are emerging markets that promise great returns.",
+        "chinese": "有崛起的市场，它们将带来巨大的回报。"
+    },
+    {
+        "start": 447.0,
+        "end": 453.0,
+        "english": "Look at China, for example. They have 1.4 billion people, half a billion of whom have recently entered the middle class.",
+        "chinese": "看中国，比如。他们有14亿人口，其中8亿人口已经进入中产阶级。"
+    },
+    {
+        "start": 453.0,
+        "end": 458.0,
+        "english": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+        "chinese": "在这里，消费者商品的总需求是一个令人惊叹的财富创造机会。"
+    },
+    {
+        "start": 458.0,
+        "end": 461.0,
+        "english": "Oh, come on. Son, you're looking at this too, no, Evli.",
+        "chinese": "哦，过来吧。儿子，你也在看啊，不，王丽。"
+    },
+    {
+        "start": 461.0,
+        "end": 468.0,
+        "english": "The Chinese market has exhibited a great deal of instability, and that currency has been devalued by almost a whole percentage point.",
+        "chinese": "中国的市场经常出现剧烈波动，人民币已经贬值了几乎一个百分点。"
+    },
+    {
+        "start": 468.0,
+        "end": 471.0,
+        "english": "Fine then. If that's the way you feel, so be it.",
+        "chinese": "好的，以下是该句子的中文翻译："
+    },
+    {
+        "start": 471.0,
+        "end": 475.0,
+        "english": "What you're losing out on a great opportunity here. I'm going to hit up Mom for the cash.",
+        "chinese": "你在这里错失了一个很好的机会。我要去妈妈那里要钱。"
+    },
+    {
+        "start": 478.0,
+        "end": 484.0,
+        "english": "So the kid wants to invest because he wants to set up his nest egg.",
+        "chinese": "所以这个孩子想投资，因为他想要为自己攒一笔钱。"
+    },
+    {
+        "start": 484.0,
+        "end": 494.0,
+        "english": "That's right. So basically he wants to get a bunch of cash together so that he can buy a house or get married or whatever.",
+        "chinese": "是的。所以基本上他想把钱集在一起，以便以后可以买房子或者结婚等。"
+    },
+    {
+        "start": 494.0,
+        "end": 496.0,
+        "english": "It's that money you need to start your life, right?",
+        "chinese": "是那钱让你开始你的生活吗？"
+    },
+    {
+        "start": 496.0,
+        "end": 500.0,
+        "english": "To start your life, your nest egg. It's kind of a weird way of referring to this money, right?",
+        "chinese": "开始你的生活，你的储蓄。这有点像把钱称为这个钱的另一种方式，对吗？"
+    },
+    {
+        "start": 500.0,
+        "end": 502.0,
+        "english": "I guess it is kind of funny.",
+        "chinese": "我猜这很有趣。"
+    },
+    {
+        "start": 502.0,
+        "end": 506.0,
+        "english": "And also the little boy talked about an inevitable recession.",
+        "chinese": "而且那个小男孩谈到一个不可避免的衰退。"
+    },
+    {
+        "start": 506.0,
+        "end": 508.0,
+        "english": "Yes, inevitable.",
+        "chinese": "是的，不可避免。"
+    },
+    {
+        "start": 508.0,
+        "end": 509.0,
+        "english": "Inevitable.",
+        "chinese": "不可避免。"
+    },
+    {
+        "start": 509.0,
+        "end": 512.0,
+        "english": "Inevitable basically means unavoidable.",
+        "chinese": "不可避免地，基本上意味着不可避免。"
+    },
+    {
+        "start": 512.0,
+        "end": 513.0,
+        "english": "Right.",
+        "chinese": "右。 (Rì)"
+    },
+    {
+        "start": 513.0,
+        "end": 516.0,
+        "english": "So this guy thinks that the recession is unavoidable.",
+        "chinese": "所以这个人认为经济衰退不可避免。"
+    },
+    {
+        "start": 516.0,
+        "end": 517.0,
+        "english": "It's going to happen.",
+        "chinese": "它将发生。"
+    },
+    {
+        "start": 517.0,
+        "end": 518.0,
+        "english": "Yes, inevitable.",
+        "chinese": "是的，不可避免。"
+    },
+    {
+        "start": 518.0,
+        "end": 524.0,
+        "english": "You know this word inevitable. If you apply the root word, you can get a noun and adjective or an adverb, right?",
+        "chinese": "你了解这个词\"不可避免\"。如果你应用根词，你可以得到一个名词和形容词或副词，对吗？"
+    },
+    {
+        "start": 524.0,
+        "end": 525.0,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 525.0,
+        "end": 529.0,
+        "english": "So we've got some examples where you can see this word in action.",
+        "chinese": "所以我们已经看到这个单词在实践中是如何运作的。"
+    },
+    {
+        "start": 529.0,
+        "end": 531.0,
+        "english": "Example 1.",
+        "chinese": "好的，以下是例句的中文翻译："
+    },
+    {
+        "start": 531.0,
+        "end": 534.0,
+        "english": "Jason knew he was going to get laid off.",
+        "chinese": "亚历山大知道他要被解雇了。"
+    },
+    {
+        "start": 534.0,
+        "end": 537.0,
+        "english": "But he was trying to delay the inevitable.",
+        "chinese": "但是他正在试图推迟不可避免的。"
+    },
+    {
+        "start": 537.0,
+        "end": 541.0,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 541.0,
+        "end": 548.0,
+        "english": "As a new manager, it's inevitable that you're going to make mistakes.",
+        "chinese": "作为新经理，不可避免的是你一定会犯错误。"
+    },
+    {
+        "start": 548.0,
+        "end": 552.0,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 552.0,
+        "end": 558.0,
+        "english": "Inevitably, we all die at the end of our lives.",
+        "chinese": "在我们生命的最后时刻，我们都不可避免地会死亡。"
+    },
+    {
+        "start": 559.0,
+        "end": 564.0,
+        "english": "So as you can see, the noun and adjective form are the same.",
+        "chinese": "所以，你可以看到，名词和形容词的形式是相同的。"
+    },
+    {
+        "start": 564.0,
+        "end": 565.0,
+        "english": "Yes, inevitable.",
+        "chinese": "是的，不可避免。"
+    },
+    {
+        "start": 565.0,
+        "end": 566.0,
+        "english": "Inevitably.",
+        "chinese": "当然，以下是中文翻译："
+    },
+    {
+        "start": 566.0,
+        "end": 569.0,
+        "english": "When we use it as an adverb though, we add the LY to it.",
+        "chinese": "当它作为副词使用时，我们会在其后加上 \"LY\"。"
+    },
+    {
+        "start": 569.0,
+        "end": 570.0,
+        "english": "Inevitably.",
+        "chinese": "当然，以下是中文翻译："
+    },
+    {
+        "start": 570.0,
+        "end": 571.0,
+        "english": "Inevitably.",
+        "chinese": "当然，以下是中文翻译："
+    },
+    {
+        "start": 571.0,
+        "end": 572.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 572.0,
+        "end": 576.0,
+        "english": "So yeah, as you can see, we could use it in many different ways depending on what we want to say.",
+        "chinese": "所以啊，正如您所见，我们可以在许多不同的方式上使用它，取决于我们要说的内容。"
+    },
+    {
+        "start": 576.0,
+        "end": 580.0,
+        "english": "Right. Well, inevitably we have to move on to our third word.",
+        "chinese": "正确。当然，不可避免地我们需要转向我们的第三个单词。"
+    },
+    {
+        "start": 580.0,
+        "end": 581.0,
+        "english": "Hit up.",
+        "chinese": "上车。"
+    },
+    {
+        "start": 581.0,
+        "end": 582.0,
+        "english": "Hit up.",
+        "chinese": "上车。"
+    },
+    {
+        "start": 582.0,
+        "end": 585.0,
+        "english": "So he says he's going to hit up mom for the cash.",
+        "chinese": "所以他说他会去找妈妈要钱。"
+    },
+    {
+        "start": 585.0,
+        "end": 586.0,
+        "english": "Ask his mom.",
+        "chinese": "请问他的妈妈。"
+    },
+    {
+        "start": 586.0,
+        "end": 587.0,
+        "english": "Yeah, hit up.",
+        "chinese": "是的，去吧。"
+    },
+    {
+        "start": 587.0,
+        "end": 590.0,
+        "english": "Yeah, this is kind of a slang-y term, isn't it?",
+        "chinese": "是的，这有点俚俗的说法吧？"
+    },
+    {
+        "start": 590.0,
+        "end": 593.0,
+        "english": "Yeah, it's more informal, a lot more slang-y.",
+        "chinese": "是的，它更正式一些，用得更多的是俚语。"
+    },
+    {
+        "start": 593.0,
+        "end": 594.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 594.0,
+        "end": 596.0,
+        "english": "We wouldn't really use it with your boss, would you?",
+        "chinese": "我们不会真正使用你的老板，好吗？"
+    },
+    {
+        "start": 596.0,
+        "end": 599.0,
+        "english": "No, you're not going to go up to your boss and say, hey, I need to hit you up for some cash.",
+        "chinese": "是的，你不会向上级领导提出要找钱的要求。"
+    },
+    {
+        "start": 599.0,
+        "end": 600.0,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 600.0,
+        "end": 604.0,
+        "english": "So, Marko, I think this word is only applying to money, right?",
+        "chinese": "所以，马克奥，我认为这个字只适用于金钱吗？"
+    },
+    {
+        "start": 604.0,
+        "end": 608.0,
+        "english": "Well, you wouldn't go up to your boss and say, oh, I need to hit you up for some vacation time.",
+        "chinese": "嗯，你不会去找你的老板说：“我需要找时间去度假。”"
+    },
+    {
+        "start": 608.0,
+        "end": 611.0,
+        "english": "No, it's typically used like for money in this context.",
+        "chinese": "是的，通常用于金钱在这里使用。"
+    },
+    {
+        "start": 611.0,
+        "end": 612.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 612.0,
+        "end": 615.0,
+        "english": "Yeah, we've got some examples of the phrase, hit up.",
+        "chinese": "是的，我们有一些例子了。上手。"
+    },
+    {
+        "start": 615.0,
+        "end": 617.0,
+        "english": "Let's listen.",
+        "chinese": "让我们倾听。"
+    },
+    {
+        "start": 617.0,
+        "end": 620.0,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 620.0,
+        "end": 624.0,
+        "english": "I'm going to hit up the boss for a race.",
+        "chinese": "我将去向老板要一场比赛。"
+    },
+    {
+        "start": 624.0,
+        "end": 628.0,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 628.0,
+        "end": 633.0,
+        "english": "Are you trying to hit me up for money?",
+        "chinese": "是想找我借钱吗？"
+    },
+    {
+        "start": 633.0,
+        "end": 636.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 636.0,
+        "end": 637.0,
+        "english": "I don't have any cash.",
+        "chinese": "我没有任何现金。"
+    },
+    {
+        "start": 637.0,
+        "end": 639.0,
+        "english": "Have you tried hitting up Sophie?",
+        "chinese": "是的，我试过联系Sophie。"
+    },
+    {
+        "start": 639.0,
+        "end": 642.0,
+        "english": "She's rich.",
+        "chinese": "她很富。"
+    },
+    {
+        "start": 642.0,
+        "end": 644.0,
+        "english": "Okay, so this is our first advanced lesson.",
+        "chinese": "好的，这是我们的第一堂高级课。"
+    },
+    {
+        "start": 644.0,
+        "end": 645.0,
+        "english": "I hope you enjoyed it.",
+        "chinese": "我祝愿你玩得开心。"
+    },
+    {
+        "start": 645.0,
+        "end": 647.0,
+        "english": "It is a lot more challenging, I think.",
+        "chinese": "这是一个很大的挑战，我认为。"
+    },
+    {
+        "start": 647.0,
+        "end": 648.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 648.0,
+        "end": 655.0,
+        "english": "Especially because it's set in a business context, so we have a lot of specific words and a lot of technical vocabulary.",
+        "chinese": "特别因为它是商业环境，所以我们有很多特定的词汇和大量的技术词汇。"
+    },
+    {
+        "start": 655.0,
+        "end": 656.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 656.0,
+        "end": 657.0,
+        "english": "Marko, you're exactly right.",
+        "chinese": "马克，你真是对的。"
+    },
+    {
+        "start": 657.0,
+        "end": 662.0,
+        "english": "And I think that our users are going to have a lot of questions about the language in this lesson.",
+        "chinese": "并且我认为我们的用户将有很多关于语言的问题，这节课。"
+    },
+    {
+        "start": 662.0,
+        "end": 666.0,
+        "english": "So, I'd like to invite you guys to come onto our website at englishpod.com.",
+        "chinese": "所以，我想邀请你们来我们的网站访问英语pod.com。"
+    },
+    {
+        "start": 666.0,
+        "end": 667.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 667.0,
+        "end": 670.0,
+        "english": "You can leave all your questions and comments and we'll be there to answer them.",
+        "chinese": "您可以将所有问题和评论都带走，我们将在这里为您解答。"
+    },
+    {
+        "start": 670.0,
+        "end": 673.0,
+        "english": "But until then, it's goodbye.",
+        "chinese": "但是直到那时，就别说了。"
+    }
+]

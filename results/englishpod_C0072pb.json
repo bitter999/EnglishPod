@@ -1,0 +1,1280 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.4,
+        "english": "Hello English learners, welcome back to English pod, my name is Marco.",
+        "chinese": "你好英语学习者，欢迎再次回到英语课程，我的名字是马科。"
+    },
+    {
+        "start": 5.4,
+        "end": 6.4,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.4,
+        "end": 8.84,
+        "english": "And today we're bringing you a great office lesson.",
+        "chinese": "今天，我们为您带来一场精彩的办公室课。"
+    },
+    {
+        "start": 8.84,
+        "end": 14.48,
+        "english": "That's right, but actually I hope this situation never happens to any of our listeners.",
+        "chinese": "是的，但事实上我希望能避免这种情况对我们的听众造成任何影响。"
+    },
+    {
+        "start": 14.48,
+        "end": 17.52,
+        "english": "Exactly, today we are firing somebody.",
+        "chinese": "是的，今天我们正在开除某人。"
+    },
+    {
+        "start": 17.52,
+        "end": 18.52,
+        "english": "Thanks.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 18.52,
+        "end": 23.28,
+        "english": "It is a little bit complicated, but maybe you're a nature manager, maybe you're a supervisor",
+        "chinese": "这是一个稍微有点复杂的，但也许你是一名自然管理者，或者是一个监督员。"
+    },
+    {
+        "start": 23.28,
+        "end": 27.16,
+        "english": "and you'll have to do this one day, so gotta learn how, right?",
+        "chinese": "你得有一天要这样做，所以得学一学，对吗？"
+    },
+    {
+        "start": 27.16,
+        "end": 28.16,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 28.16,
+        "end": 35.16,
+        "english": "Why don't we get started then as we listen to Isabel and Anthony?",
+        "chinese": "为什么我们不要先开始，因为我们要听从伊莎贝拉和阿诺特的话？"
+    },
+    {
+        "start": 35.16,
+        "end": 47.64,
+        "english": "Hi Isabel, you wanted to see me?",
+        "chinese": "你好，伊莎贝拉，你想要见我吗？"
+    },
+    {
+        "start": 47.64,
+        "end": 50.08,
+        "english": "Yes, Anthony.",
+        "chinese": "是的，安东尼。"
+    },
+    {
+        "start": 50.08,
+        "end": 53.08,
+        "english": "Come on in and have a seat.",
+        "chinese": "来吧，坐下来。"
+    },
+    {
+        "start": 53.08,
+        "end": 55.8,
+        "english": "Is everything okay?",
+        "chinese": "是啊，一切正常。"
+    },
+    {
+        "start": 55.8,
+        "end": 58.279999999999994,
+        "english": "You seem a bit preoccupied.",
+        "chinese": "您似乎有点紧张。"
+    },
+    {
+        "start": 58.279999999999994,
+        "end": 62.76,
+        "english": "Well Anthony, this is not going to be an easy conversation.",
+        "chinese": "好的，这是不会是一个容易对话。"
+    },
+    {
+        "start": 62.76,
+        "end": 67.88,
+        "english": "The company has made some decisions which will have a direct impact on your employment.",
+        "chinese": "公司已经做出了一些决定，这些决定将直接影响您的就业。"
+    },
+    {
+        "start": 67.88,
+        "end": 68.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 68.88,
+        "end": 73.24,
+        "english": "I don't want to beat around the bush, so I'm just gonna come out with it.",
+        "chinese": "我不想绕弯子，所以我只能直接说出来。"
+    },
+    {
+        "start": 73.24,
+        "end": 75.64,
+        "english": "We're gonna have to let you go.",
+        "chinese": "我们不得不让你走。"
+    },
+    {
+        "start": 75.64,
+        "end": 76.64,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 76.64,
+        "end": 77.64,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 77.64,
+        "end": 79.96,
+        "english": "I mean, just like that, I'm fired.",
+        "chinese": "我指的是，就像这样，我被解雇了。"
+    },
+    {
+        "start": 79.96,
+        "end": 84.47999999999999,
+        "english": "I'm sorry, but to be honest, you're a terrible employee.",
+        "chinese": "我非常抱歉，但说实话，你是一个糟糕的员工。"
+    },
+    {
+        "start": 85.48,
+        "end": 87.32000000000001,
+        "english": "I resent that.",
+        "chinese": "我遗憾。"
+    },
+    {
+        "start": 87.32000000000001,
+        "end": 91.68,
+        "english": "Anthony, you were caught making international calls from the office phone.",
+        "chinese": "在办公室电话里，安东尼亚你被发现正在制造国际通话。"
+    },
+    {
+        "start": 91.68,
+        "end": 98.28,
+        "english": "You called in sick eight times this month and you smell like alcohol.",
+        "chinese": "您本月八次请假，气味像酒精。"
+    },
+    {
+        "start": 98.28,
+        "end": 107.48,
+        "english": "He did sound a little bit like he had too much to drink.",
+        "chinese": "他声音有点像他喝多了。"
+    },
+    {
+        "start": 107.48,
+        "end": 108.48,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guó wáng.)"
+    },
+    {
+        "start": 108.48,
+        "end": 110.48,
+        "english": "He had that kind of slur.",
+        "chinese": "他有这种口音。"
+    },
+    {
+        "start": 110.48,
+        "end": 116.04,
+        "english": "Yeah, that slow way of talking that made him seem a little bit drunk.",
+        "chinese": "是的，那种慢节奏的交流让他看起来有点醉酒。"
+    },
+    {
+        "start": 116.04,
+        "end": 121.36,
+        "english": "Well, that's definitely something you don't want to do is show up to work with alcohol",
+        "chinese": "嗯，那肯定是你不希望的，上班时喝酒。"
+    },
+    {
+        "start": 121.36,
+        "end": 122.36,
+        "english": "in your breath.",
+        "chinese": "在你的呼吸中。"
+    },
+    {
+        "start": 122.36,
+        "end": 123.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 123.36,
+        "end": 126.16,
+        "english": "But you know what, there's a lot of great language in this dialogue, so why don't we take a",
+        "chinese": "但是你知道，这里有很多好语言，所以为什么不考虑呢？"
+    },
+    {
+        "start": 126.16,
+        "end": 130.4,
+        "english": "look at it now in language takeaway?",
+        "chinese": "现在来看一下吧。"
+    },
+    {
+        "start": 130.4,
+        "end": 131.4,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 131.4,
+        "end": 135.16,
+        "english": "All right, well, I want to look at three words here.",
+        "chinese": "好的，很好，我想看看这里这三个词。"
+    },
+    {
+        "start": 135.16,
+        "end": 140.07999999999998,
+        "english": "Now the first one, Anthony said that Isabel was preoccupied.",
+        "chinese": "现在，第一个是安东尼奥说伊莎贝拉很忙。"
+    },
+    {
+        "start": 140.07999999999998,
+        "end": 141.07999999999998,
+        "english": "Preoccupied.",
+        "chinese": "预设。"
+    },
+    {
+        "start": 141.07999999999998,
+        "end": 142.07999999999998,
+        "english": "Preoccupied.",
+        "chinese": "预设。"
+    },
+    {
+        "start": 142.07999999999998,
+        "end": 146.04,
+        "english": "Okay, so if somebody is preoccupied, they're not focused.",
+        "chinese": "好的，如果有人被分心了，他们就不集中注意力。"
+    },
+    {
+        "start": 146.04,
+        "end": 147.16,
+        "english": "Maybe they're a little bit worried.",
+        "chinese": "可能他们有点担心。"
+    },
+    {
+        "start": 147.16,
+        "end": 148.92,
+        "english": "Yeah, they're thinking of something else.",
+        "chinese": "是的，他们正在考虑其他事情。"
+    },
+    {
+        "start": 148.92,
+        "end": 149.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 149.92,
+        "end": 154.64,
+        "english": "Why don't we take a listen to a few examples of how this word is used?",
+        "chinese": "为什么我们不要听听几个例子，如何用这个单词？"
+    },
+    {
+        "start": 154.64,
+        "end": 158.44,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 158.44,
+        "end": 160.04,
+        "english": "James is really preoccupied.",
+        "chinese": "詹姆斯真的很忙。"
+    },
+    {
+        "start": 160.04,
+        "end": 162.28,
+        "english": "I think he's having some family problems.",
+        "chinese": "我认为他可能有家庭问题。"
+    },
+    {
+        "start": 166.16,
+        "end": 167.16,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 167.16,
+        "end": 171.68,
+        "english": "Oh, were you talking to me, honey?",
+        "chinese": "是的，你是在和我聊天，宝贝。"
+    },
+    {
+        "start": 171.68,
+        "end": 172.68,
+        "english": "I'm sorry.",
+        "chinese": "我非常抱歉。"
+    },
+    {
+        "start": 172.68,
+        "end": 175.68,
+        "english": "I'm just really preoccupied with work.",
+        "chinese": "我是真的很专注于工作。"
+    },
+    {
+        "start": 175.68,
+        "end": 180.6,
+        "english": "All right, so very clear now preoccupied.",
+        "chinese": "好的，现在一切都很清楚了，很专注。"
+    },
+    {
+        "start": 180.6,
+        "end": 184.72,
+        "english": "Let's move on to our next word, direct impact.",
+        "chinese": "让我们转向下一个词，直接影响。"
+    },
+    {
+        "start": 184.72,
+        "end": 186.07999999999998,
+        "english": "Direct impact.",
+        "chinese": "直接影响。"
+    },
+    {
+        "start": 186.07999999999998,
+        "end": 187.4,
+        "english": "A direct impact.",
+        "chinese": "一个直接的影响。"
+    },
+    {
+        "start": 187.4,
+        "end": 193.8,
+        "english": "All right, so again, Isabel told Anthony that the decision will have a direct impact",
+        "chinese": "好的，那么再次说，伊莎贝拉告诉安东尼奥决定将产生直接的影响。"
+    },
+    {
+        "start": 193.8,
+        "end": 194.8,
+        "english": "on his career.",
+        "chinese": "在职业生涯。"
+    },
+    {
+        "start": 194.8,
+        "end": 200.32000000000002,
+        "english": "It will have a noticeable or impact or effect on his career.",
+        "chinese": "它将对他的职业生涯产生显著或影响。"
+    },
+    {
+        "start": 200.32000000000002,
+        "end": 203.0,
+        "english": "Okay, so a direct impact.",
+        "chinese": "好的，所以直接的冲击。"
+    },
+    {
+        "start": 203.0,
+        "end": 204.76000000000002,
+        "english": "And what about our last word?",
+        "chinese": "And what about our last word? 翻译成中文是："
+    },
+    {
+        "start": 204.76000000000002,
+        "end": 208.28,
+        "english": "Well, Anthony said I resent that.",
+        "chinese": "好的，Anthony说我很resent那个。"
+    },
+    {
+        "start": 208.28,
+        "end": 209.28,
+        "english": "Resent.",
+        "chinese": "愤怒。"
+    },
+    {
+        "start": 209.28,
+        "end": 210.28,
+        "english": "Resent.",
+        "chinese": "愤怒。"
+    },
+    {
+        "start": 210.28,
+        "end": 214.48000000000002,
+        "english": "Okay, now this is spelled exactly like recent, like with an S, right?",
+        "chinese": "好的，现在这个字完全像最近的，就像加上了S一样？"
+    },
+    {
+        "start": 214.48000000000002,
+        "end": 215.48000000000002,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 215.48000000000002,
+        "end": 216.48000000000002,
+        "english": "R-E-S-E-N-T.",
+        "chinese": "这个单词“RESPECT”在中文中的意思是尊重。例如，“我尊重你的意见。”（I respect your opinion.)"
+    },
+    {
+        "start": 216.48000000000002,
+        "end": 218.88000000000002,
+        "english": "But you pronounce it like a Z.",
+        "chinese": "但是你读得像一个Z。"
+    },
+    {
+        "start": 218.88000000000002,
+        "end": 219.88000000000002,
+        "english": "Resent.",
+        "chinese": "愤怒。"
+    },
+    {
+        "start": 219.88000000000002,
+        "end": 221.08,
+        "english": "Resent that.",
+        "chinese": "这句话的中文翻译是：“感到遗憾。”"
+    },
+    {
+        "start": 221.08,
+        "end": 223.44,
+        "english": "So what does it mean if you say I resent that?",
+        "chinese": "所以，如果你说“我怀念那个”，这表示什么？"
+    },
+    {
+        "start": 223.44,
+        "end": 225.92,
+        "english": "It means I find that insulting.",
+        "chinese": "这句话的意思是：“这意味着我发现自己很不礼貌。”"
+    },
+    {
+        "start": 225.92,
+        "end": 228.68,
+        "english": "I find that to be not true.",
+        "chinese": "我发现，这并不准确。"
+    },
+    {
+        "start": 228.68,
+        "end": 229.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 229.68,
+        "end": 230.68,
+        "english": "Okay, I resent that.",
+        "chinese": "好的，我理解错了。"
+    },
+    {
+        "start": 230.68,
+        "end": 233.24,
+        "english": "All right, Marco, well, how do you use this word?",
+        "chinese": "好的，马克，你用这个词怎么样？"
+    },
+    {
+        "start": 233.24,
+        "end": 237.4,
+        "english": "Well, if somebody tells you you're lazy.",
+        "chinese": "嗯，如果有人告诉你你懒惰。"
+    },
+    {
+        "start": 237.4,
+        "end": 238.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 238.4,
+        "end": 239.4,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 239.4,
+        "end": 241.92,
+        "english": "Then you might say, hey, I resent that.",
+        "chinese": "然后你可能会说，哎呀，我怀念那个。"
+    },
+    {
+        "start": 241.92,
+        "end": 243.32,
+        "english": "Right, I do a lot of work.",
+        "chinese": "正确，我做很多事。"
+    },
+    {
+        "start": 243.32,
+        "end": 244.32,
+        "english": "I'm not lazy.",
+        "chinese": "我是不会懒惰的。"
+    },
+    {
+        "start": 244.32,
+        "end": 248.92,
+        "english": "Yeah, so it's always something that you use after someone insults you.",
+        "chinese": "是的，所以总是你使用之后别人对你进行侮辱时做的事情。"
+    },
+    {
+        "start": 248.92,
+        "end": 249.92,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 249.92,
+        "end": 252.12,
+        "english": "Or says something that you find to be not true.",
+        "chinese": "或者说你认为不正确的。"
+    },
+    {
+        "start": 252.12,
+        "end": 253.12,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 253.12,
+        "end": 254.44,
+        "english": "I resent that.",
+        "chinese": "我遗憾。"
+    },
+    {
+        "start": 254.44,
+        "end": 258.68,
+        "english": "And I guess with this, it's time for us to listen to this dialogue again.",
+        "chinese": "而且我猜测，我们有必要再次倾听这段对话。"
+    },
+    {
+        "start": 258.68,
+        "end": 262.0,
+        "english": "And then we'll come back and look at some great phrases.",
+        "chinese": "然后我们将回来看看一些好词组。"
+    },
+    {
+        "start": 262.0,
+        "end": 269.16,
+        "english": "Hi, Isabelle.",
+        "chinese": "你好，伊莎贝拉。"
+    },
+    {
+        "start": 269.16,
+        "end": 270.96,
+        "english": "You wanted to see me?",
+        "chinese": "您想让我见您吗？"
+    },
+    {
+        "start": 270.96,
+        "end": 272.88,
+        "english": "Yes, Anthony.",
+        "chinese": "是的，安东尼。"
+    },
+    {
+        "start": 272.88,
+        "end": 274.6,
+        "english": "Come on in and have a seat.",
+        "chinese": "来吧，坐下来。"
+    },
+    {
+        "start": 274.6,
+        "end": 276.04,
+        "english": "Is everything okay?",
+        "chinese": "是啊，一切正常。"
+    },
+    {
+        "start": 276.04,
+        "end": 278.36,
+        "english": "You seem a bit preoccupied.",
+        "chinese": "您似乎有点紧张。"
+    },
+    {
+        "start": 278.36,
+        "end": 283.04,
+        "english": "Well, Anthony, this is not going to be an easy conversation.",
+        "chinese": "好的，Anthony，这将是一个不轻松的对话。"
+    },
+    {
+        "start": 283.04,
+        "end": 288.12,
+        "english": "The company has made some decisions which will have a direct impact on your employment.",
+        "chinese": "公司已经做出了一些决定，这些决定将直接影响到你的就业。"
+    },
+    {
+        "start": 288.12,
+        "end": 289.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 289.88,
+        "end": 293.52000000000004,
+        "english": "I don't want to beat around the bush, so I'm just going to come out with it.",
+        "chinese": "我不想绕弯子，所以我只是直接说出来。"
+    },
+    {
+        "start": 293.52000000000004,
+        "end": 295.88,
+        "english": "We're going to have to let you go.",
+        "chinese": "我们不得不让你走。"
+    },
+    {
+        "start": 295.88,
+        "end": 296.88,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 296.88,
+        "end": 297.88,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 297.88,
+        "end": 300.24,
+        "english": "I mean, just like that, I'm fired.",
+        "chinese": "我指的是，就像这样，我被解雇了。"
+    },
+    {
+        "start": 300.24,
+        "end": 304.76,
+        "english": "I'm sorry, but to be honest, you're a terrible employee.",
+        "chinese": "我非常抱歉，但说实话，你是一个糟糕的员工。"
+    },
+    {
+        "start": 304.76,
+        "end": 305.76,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 305.76,
+        "end": 307.56,
+        "english": "I resent that.",
+        "chinese": "我遗憾。"
+    },
+    {
+        "start": 307.56,
+        "end": 311.96000000000004,
+        "english": "Anthony, you were caught making international calls from the office phone.",
+        "chinese": "在办公室电话里，安东尼亚你被发现正在制造国际通话。"
+    },
+    {
+        "start": 311.96,
+        "end": 318.03999999999996,
+        "english": "You called in sick eight times this month and you smell like alcohol.",
+        "chinese": "您本月八次请假，气味像酒精。"
+    },
+    {
+        "start": 318.03999999999996,
+        "end": 325.56,
+        "english": "Yeah, there's some wonderful language in here that you can use when you have to have",
+        "chinese": "是的，这里有一些非常美妙的语言，当你不得不使用中文时。"
+    },
+    {
+        "start": 325.56,
+        "end": 327.96,
+        "english": "a difficult conversation with somebody.",
+        "chinese": "一个艰难的对话。"
+    },
+    {
+        "start": 327.96,
+        "end": 332.47999999999996,
+        "english": "Right, so let's take a look at these phrases in Fluency Builder.",
+        "chinese": "正确，那么我们来看看这些短语在 FluentBuilder 中的表现。"
+    },
+    {
+        "start": 332.47999999999996,
+        "end": 333.71999999999997,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 333.71999999999997,
+        "end": 339.32,
+        "english": "We have three phrases here and the first one is to beat around the bush.",
+        "chinese": "我们这里有三个短语，第一个是绕弯子。"
+    },
+    {
+        "start": 339.32,
+        "end": 342.32,
+        "english": "Okay, beat around the bush.",
+        "chinese": "好的，绕弯子。"
+    },
+    {
+        "start": 342.32,
+        "end": 343.64,
+        "english": "Beat around the bush.",
+        "chinese": "翻译成中文是：“绕圈子。”"
+    },
+    {
+        "start": 343.64,
+        "end": 346.8,
+        "english": "Okay, so this is an idiomatic phrase.",
+        "chinese": "好的，这是个口语化的表达。"
+    },
+    {
+        "start": 346.8,
+        "end": 351.8,
+        "english": "So before we explain it, let's listen to somebody beating around the bush.",
+        "chinese": "所以，我们先听听别人绕圈子。"
+    },
+    {
+        "start": 351.8,
+        "end": 362.96,
+        "english": "Okay, the one thing that I want to tell you, it's so important that I don't like.",
+        "chinese": "好的，我想告诉你，这是非常重要的一件事，我并不喜欢。"
+    },
+    {
+        "start": 362.96,
+        "end": 367.36,
+        "english": "I always, sometimes when, all right, here's a deal.",
+        "chinese": "我总是，有时，都行，这里有个安排。"
+    },
+    {
+        "start": 367.36,
+        "end": 369.28,
+        "english": "This is it.",
+        "chinese": "这是。"
+    },
+    {
+        "start": 369.28,
+        "end": 373.84,
+        "english": "Typically, it's not this, it's not that, it's not you, it's not me.",
+        "chinese": "通常来说，这并不像这样，也不像那样，也不像你，也不像我。"
+    },
+    {
+        "start": 373.84,
+        "end": 374.84,
+        "english": "It's everyone.",
+        "chinese": "是每个人。"
+    },
+    {
+        "start": 374.84,
+        "end": 375.84,
+        "english": "It's everything.",
+        "chinese": "是所有。"
+    },
+    {
+        "start": 375.84,
+        "end": 378.28,
+        "english": "Do you understand what I'm saying?",
+        "chinese": "是的，我明白你说的是什么。"
+    },
+    {
+        "start": 378.28,
+        "end": 384.2,
+        "english": "So as you can tell, the person has something to say, but they're taking a long time to",
+        "chinese": "所以，你可以说这个人有话要说，但他们却花费了很长时间。"
+    },
+    {
+        "start": 384.2,
+        "end": 385.2,
+        "english": "say it.",
+        "chinese": "说它。"
+    },
+    {
+        "start": 385.2,
+        "end": 389.35999999999996,
+        "english": "Right, you're kind of looking for the right or maybe more polite words to say something.",
+        "chinese": "是的，你可能更喜欢使用合适的或稍微礼貌一些的话来表达某个想法。"
+    },
+    {
+        "start": 389.35999999999996,
+        "end": 390.35999999999996,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 390.35999999999996,
+        "end": 392.35999999999996,
+        "english": "So that is to beat around the bush.",
+        "chinese": "所以，这就是绕弯子。"
+    },
+    {
+        "start": 392.35999999999996,
+        "end": 396.76,
+        "english": "Now the opposite of to beat around the bush is to come out with it.",
+        "chinese": "现在，与掩饰、含糊其辞相对的，是直接说出真相。"
+    },
+    {
+        "start": 396.76,
+        "end": 398.35999999999996,
+        "english": "Okay, come out with it.",
+        "chinese": "好的，出来吧。"
+    },
+    {
+        "start": 398.36,
+        "end": 402.28000000000003,
+        "english": "So maybe you're talking to your friend and he's beating around the bush so you can just",
+        "chinese": "所以，你可能是在和你的朋友聊天，他正在绕圈子，所以你可以直接说：“嗯，我明白了。”"
+    },
+    {
+        "start": 402.28000000000003,
+        "end": 403.8,
+        "english": "say, hey, come out with it.",
+        "chinese": "说，来吧，跟我一起！"
+    },
+    {
+        "start": 403.8,
+        "end": 404.8,
+        "english": "Tell me.",
+        "chinese": "请告诉我。"
+    },
+    {
+        "start": 404.8,
+        "end": 405.8,
+        "english": "Tell me just what is it?",
+        "chinese": "请告诉我这是什么？"
+    },
+    {
+        "start": 405.8,
+        "end": 406.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 406.8,
+        "end": 407.8,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 407.8,
+        "end": 408.8,
+        "english": "Come out with it.",
+        "chinese": "来吧，跟我来。"
+    },
+    {
+        "start": 408.8,
+        "end": 409.8,
+        "english": "Be direct.",
+        "chinese": "直接。"
+    },
+    {
+        "start": 409.8,
+        "end": 413.16,
+        "english": "When Isabelle finally came out with it, she told Anthony that we're going to have to",
+        "chinese": "当伊莎贝拉终于发表出来时，她告诉安东尼奥我们不得不"
+    },
+    {
+        "start": 413.16,
+        "end": 415.12,
+        "english": "let you go.",
+        "chinese": "你可以走了。"
+    },
+    {
+        "start": 415.12,
+        "end": 416.12,
+        "english": "Let you go.",
+        "chinese": "你可以走了。"
+    },
+    {
+        "start": 416.12,
+        "end": 417.12,
+        "english": "Let you go.",
+        "chinese": "你可以走了。"
+    },
+    {
+        "start": 417.12,
+        "end": 419.84000000000003,
+        "english": "So this is actually a nicer way of saying you're fired.",
+        "chinese": "所以，这实际上是一种更好的方式说你被解雇了。"
+    },
+    {
+        "start": 419.84000000000003,
+        "end": 422.2,
+        "english": "Yeah, it's a little bit more polite, isn't it?",
+        "chinese": "是的，有点稍微礼貌一些吧？"
+    },
+    {
+        "start": 422.2,
+        "end": 425.2,
+        "english": "Right, it's, we're going to have to let you go or...",
+        "chinese": "是的，我们不得不让你离开或者..."
+    },
+    {
+        "start": 425.2,
+        "end": 427.92,
+        "english": "Oh, I was let go from my company.",
+        "chinese": "抱歉，我不能直接翻译中文。不过，我可以尝试用另一种方式表达这个意思。"
+    },
+    {
+        "start": 427.92,
+        "end": 428.92,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 428.92,
+        "end": 430.72,
+        "english": "So a synonym for to be fired.",
+        "chinese": "所以，一个替代词是“被解雇”。"
+    },
+    {
+        "start": 430.72,
+        "end": 431.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 431.72,
+        "end": 435.96000000000004,
+        "english": "Okay, so let's listen to Anthony getting fired one more time and then we'll come back",
+        "chinese": "好的，那么我们继续听安东尼再次被解雇，然后我们将回到这里。"
+    },
+    {
+        "start": 435.96000000000004,
+        "end": 441.76,
+        "english": "and talk a little bit more about this difficult situation.",
+        "chinese": "谈谈这个困难的情况。"
+    },
+    {
+        "start": 441.76,
+        "end": 452.0,
+        "english": "Hi, Isabelle.",
+        "chinese": "你好，伊莎贝拉。"
+    },
+    {
+        "start": 452.0,
+        "end": 453.6,
+        "english": "You wanted to see me?",
+        "chinese": "您想让我见您吗？"
+    },
+    {
+        "start": 453.6,
+        "end": 455.72,
+        "english": "Yes, Anthony.",
+        "chinese": "是的，安东尼。"
+    },
+    {
+        "start": 455.72,
+        "end": 460.20000000000005,
+        "english": "Come on in and have a seat.",
+        "chinese": "来吧，坐下来。"
+    },
+    {
+        "start": 460.20000000000005,
+        "end": 461.44000000000005,
+        "english": "Is everything okay?",
+        "chinese": "是啊，一切都好。"
+    },
+    {
+        "start": 461.44000000000005,
+        "end": 463.84000000000003,
+        "english": "You seem a bit preoccupied.",
+        "chinese": "您似乎有点紧张。"
+    },
+    {
+        "start": 463.84000000000003,
+        "end": 468.44000000000005,
+        "english": "Well, Anthony, this is not going to be an easy conversation.",
+        "chinese": "好的，Anthony，这将是一个不轻松的对话。"
+    },
+    {
+        "start": 468.44000000000005,
+        "end": 473.6,
+        "english": "The company has made some decisions which will have a direct impact on your employment.",
+        "chinese": "公司已经做出了一些决定，这些决定将直接影响到你的就业。"
+    },
+    {
+        "start": 473.6,
+        "end": 475.28000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 475.28000000000003,
+        "end": 478.92,
+        "english": "I don't want to beat around the bush, so I'm just going to come out with it.",
+        "chinese": "我不想绕弯子，所以我只是直接说出来。"
+    },
+    {
+        "start": 478.92,
+        "end": 481.28000000000003,
+        "english": "We're going to have to let you go.",
+        "chinese": "我们不得不让你走。"
+    },
+    {
+        "start": 481.28000000000003,
+        "end": 482.28000000000003,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 482.28000000000003,
+        "end": 483.28000000000003,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 483.28000000000003,
+        "end": 484.28000000000003,
+        "english": "I mean, just like that.",
+        "chinese": "我指的是，就像这样。"
+    },
+    {
+        "start": 484.28000000000003,
+        "end": 485.28000000000003,
+        "english": "I'm fired?",
+        "chinese": "我被解雇了？"
+    },
+    {
+        "start": 485.64,
+        "end": 489.88,
+        "english": "I'm sorry, but to be honest, you're a terrible employee.",
+        "chinese": "我非常抱歉，但说实话，你是一个糟糕的员工。"
+    },
+    {
+        "start": 489.88,
+        "end": 491.2,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 491.2,
+        "end": 492.84,
+        "english": "I resent that.",
+        "chinese": "我遗憾。"
+    },
+    {
+        "start": 492.84,
+        "end": 497.32,
+        "english": "Anthony, you were caught making international calls from the office phone.",
+        "chinese": "在办公室电话里，安东尼亚你被发现正在制造国际通话。"
+    },
+    {
+        "start": 497.32,
+        "end": 504.32,
+        "english": "You called in sick eight times this month and you smell like alcohol.",
+        "chinese": "您本月八次请假，气味像酒精。"
+    },
+    {
+        "start": 504.32,
+        "end": 509.59999999999997,
+        "english": "So, Erica, have you ever fired anyone?",
+        "chinese": "所以，艾瑞卡，你有没有曾经让任何人离职过？"
+    },
+    {
+        "start": 509.59999999999997,
+        "end": 511.23999999999995,
+        "english": "I have fired a lot of people.",
+        "chinese": "我发出了许多声音。"
+    },
+    {
+        "start": 511.23999999999995,
+        "end": 512.24,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 512.24,
+        "end": 513.8399999999999,
+        "english": "You are a mean person.",
+        "chinese": "你是一个坏人。"
+    },
+    {
+        "start": 513.84,
+        "end": 514.84,
+        "english": "Oh, yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 514.84,
+        "end": 521.0400000000001,
+        "english": "Well, you know, there are some people who really do silly things like come to work drunk.",
+        "chinese": "嗯，你知道，确实有一些人真的做了一些傻事，比如酗酒上班。"
+    },
+    {
+        "start": 521.0400000000001,
+        "end": 523.48,
+        "english": "And if you do that, you're obviously going to get fired.",
+        "chinese": "如果这样做，你肯定会被解雇。"
+    },
+    {
+        "start": 523.48,
+        "end": 524.48,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 524.48,
+        "end": 528.64,
+        "english": "But in the United States, actually, there is an interesting way of firing people.",
+        "chinese": "但是，在美国，实际上确实存在一种有趣的方式来解雇人。"
+    },
+    {
+        "start": 528.64,
+        "end": 530.1600000000001,
+        "english": "They get a pink slip.",
+        "chinese": "他们收到一张粉色的离职证明。"
+    },
+    {
+        "start": 530.1600000000001,
+        "end": 531.96,
+        "english": "Oh, yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 531.96,
+        "end": 534.96,
+        "english": "But I guess this is just a little bit different than getting fired.",
+        "chinese": "但是，我猜这与被解雇有点不同。"
+    },
+    {
+        "start": 534.96,
+        "end": 539.12,
+        "english": "This is, you get a pink slip when you get laid off.",
+        "chinese": "这是，你收到的是一张粉色的离职证明。"
+    },
+    {
+        "start": 539.12,
+        "end": 540.12,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的中文翻译："
+    },
+    {
+        "start": 540.12,
+        "end": 543.52,
+        "english": "I mean, if you come to work drunk, you get fired immediately, right?",
+        "chinese": "我指的是，如果你在上班时喝醉了酒，立刻会被解雇。"
+    },
+    {
+        "start": 543.52,
+        "end": 547.6,
+        "english": "When you get a pink slip, so it's basically a little pink paper that tells you that you",
+        "chinese": "当你收到一张粉色的条子时，这基本上是告诉你的，你实际上是一张粉色的纸。"
+    },
+    {
+        "start": 547.6,
+        "end": 548.6,
+        "english": "have been laid off.",
+        "chinese": "有被辞退。"
+    },
+    {
+        "start": 548.6,
+        "end": 549.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 549.6,
+        "end": 555.24,
+        "english": "And so when you hear somebody say, we send out, yeah, so when you hear somebody talk about",
+        "chinese": "所以当你听到有人这样说，我们发送出去，或者当您听到有人谈论。"
+    },
+    {
+        "start": 555.24,
+        "end": 561.48,
+        "english": "pink slips, like we send, like our company sent out 500 pink slips, you know that means",
+        "chinese": "红色的离职信，就像我们发送的那样，像我们的公司发出了500份红色的离职信，你知道这意味着什么？"
+    },
+    {
+        "start": 561.48,
+        "end": 564.0799999999999,
+        "english": "that 500 people got laid off.",
+        "chinese": "这500人失业了。"
+    },
+    {
+        "start": 564.0799999999999,
+        "end": 565.84,
+        "english": "Or I got a pink slip today.",
+        "chinese": "今天，我收到了一张粉色的离职证明。"
+    },
+    {
+        "start": 565.84,
+        "end": 566.84,
+        "english": "That means you got laid off.",
+        "chinese": "这句话的中文翻译是：“这意味着你失业了。”"
+    },
+    {
+        "start": 566.84,
+        "end": 567.84,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 567.84,
+        "end": 571.8,
+        "english": "That's actually interesting because I don't know any other country that actually has this",
+        "chinese": "这也是有趣的，因为我并不知道任何其他国家有这种。"
+    },
+    {
+        "start": 571.8,
+        "end": 572.8,
+        "english": "of special color.",
+        "chinese": "特殊颜色。"
+    },
+    {
+        "start": 572.8,
+        "end": 574.8,
+        "english": "Special color for firing people.",
+        "chinese": "特殊颜色用于烧人。"
+    },
+    {
+        "start": 574.8,
+        "end": 575.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 575.8,
+        "end": 580.12,
+        "english": "How about in your country, is there a special color for pink slips?",
+        "chinese": "在您的国家，是否有一种特别的颜色用于粉色离职？"
+    },
+    {
+        "start": 580.12,
+        "end": 585.04,
+        "english": "If you guys have any stories as well, maybe about being fired or maybe you've had to",
+        "chinese": "如果你们也有故事，也许关于被解雇或者可能你不得不"
+    },
+    {
+        "start": 585.04,
+        "end": 588.5999999999999,
+        "english": "fire somebody, come to our website and tell us about it.",
+        "chinese": "火把别人，来我们的网站告诉我。"
+    },
+    {
+        "start": 588.5999999999999,
+        "end": 589.5999999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 589.5999999999999,
+        "end": 590.5999999999999,
+        "english": "EnglishPod.com.",
+        "chinese": "中文名：英语播客。"
+    },
+    {
+        "start": 590.5999999999999,
+        "end": 592.0799999999999,
+        "english": "There you can leave your questions and comments.",
+        "chinese": "在这里，你可以留下你的问题和评论。"
+    },
+    {
+        "start": 592.0799999999999,
+        "end": 596.4799999999999,
+        "english": "Eric and I are always there trying to answer your questions and also our great community",
+        "chinese": "王和我总是在这里尽力回答你的问题，同时我们的大社区"
+    },
+    {
+        "start": 596.4799999999999,
+        "end": 597.4799999999999,
+        "english": "is there.",
+        "chinese": "是。"
+    },
+    {
+        "start": 597.4799999999999,
+        "end": 598.4799999999999,
+        "english": "They will also help you.",
+        "chinese": "他们也将帮助你。"
+    },
+    {
+        "start": 598.4799999999999,
+        "end": 600.4,
+        "english": "Okay, guys, we'll work out of time for today.",
+        "chinese": "好的，各位，今天我们将根据时间灵活安排。"
+    },
+    {
+        "start": 600.4,
+        "end": 601.4,
+        "english": "But until next time.",
+        "chinese": "但下次见。"
+    },
+    {
+        "start": 601.4,
+        "end": 602.4,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

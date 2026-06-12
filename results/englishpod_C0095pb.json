@@ -1,0 +1,2114 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.5,
+        "english": "Hello English learners, welcome back to English.",
+        "chinese": "大家好，欢迎再次来到英语学习。"
+    },
+    {
+        "start": 5.5,
+        "end": 6.84,
+        "english": "Pod, my name is Marco.",
+        "chinese": "我是马科，我的名字是罗伯特。"
+    },
+    {
+        "start": 6.84,
+        "end": 8.24,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 8.24,
+        "end": 11.84,
+        "english": "And today we have a very special lesson because we're going to be focusing a little bit",
+        "chinese": "今天，我们有一个非常特别的课程，因为我们将会在稍后进行一些小讨论。"
+    },
+    {
+        "start": 11.84,
+        "end": 13.68,
+        "english": "more on grammar.",
+        "chinese": "更多关于语法。"
+    },
+    {
+        "start": 13.68,
+        "end": 14.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 14.68,
+        "end": 20.240000000000002,
+        "english": "We're going to look today at the difference between past simple and past progressive",
+        "chinese": "今天，我们将讨论过去简单式和过去进行式的区别。"
+    },
+    {
+        "start": 20.240000000000002,
+        "end": 23.56,
+        "english": "or sometimes called past continuous.",
+        "chinese": "或者有时被称为过去持续。"
+    },
+    {
+        "start": 23.56,
+        "end": 24.560000000000002,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 24.560000000000002,
+        "end": 28.64,
+        "english": "So we are going to take a look at these two structures which are a little bit confusing",
+        "chinese": "所以我们将对这两个结构进行一些观察，它们有点不清晰。"
+    },
+    {
+        "start": 28.64,
+        "end": 31.6,
+        "english": "at times and we're going to be practicing today.",
+        "chinese": "在某些时候，我们今天会练习。"
+    },
+    {
+        "start": 31.6,
+        "end": 36.6,
+        "english": "But before we get started, why don't we take a look at vocabulary preview?",
+        "chinese": "但是，我们先不着急开始，让我们看看词汇预览。"
+    },
+    {
+        "start": 36.6,
+        "end": 38.120000000000005,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 38.120000000000005,
+        "end": 44.08,
+        "english": "Well, this dialogue is all about telling a story in the past and we're going to hear two",
+        "chinese": "好的，这是关于讲述过去的故事的对话。我们将听到两个。"
+    },
+    {
+        "start": 44.08,
+        "end": 47.040000000000006,
+        "english": "words in the dialogue that we need to understand the meaning of.",
+        "chinese": "在对话中我们需要理解的词语。"
+    },
+    {
+        "start": 47.040000000000006,
+        "end": 49.36,
+        "english": "So the first one, ages.",
+        "chinese": "所以第一个，年纪。"
+    },
+    {
+        "start": 49.36,
+        "end": 50.36,
+        "english": "Ages.",
+        "chinese": "年龄。"
+    },
+    {
+        "start": 50.36,
+        "end": 53.72,
+        "english": "I haven't seen you in ages.",
+        "chinese": "我在这段时间里没有见过你。"
+    },
+    {
+        "start": 53.72,
+        "end": 58.56,
+        "english": "Okay, so if I tell you, I haven't seen you in ages.",
+        "chinese": "好的，如果我告诉你，我已经很久没有见过你了。"
+    },
+    {
+        "start": 58.56,
+        "end": 61.56,
+        "english": "Basically, you haven't seen me in a really long time.",
+        "chinese": "基本来说，你在这段时间里没有看到我。"
+    },
+    {
+        "start": 61.56,
+        "end": 62.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 62.56,
+        "end": 64.56,
+        "english": "So it's a way of exaggerating a little bit.",
+        "chinese": "所以，这是一种稍微夸张一点的方法。"
+    },
+    {
+        "start": 64.56,
+        "end": 65.56,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 65.56,
+        "end": 74.24000000000001,
+        "english": "And this word ages, we can use in many different ways like I've been studying English for ages.",
+        "chinese": "而且这个字会变旧，我们可以在很多不同的方式上使用，比如我已经学了英语很久。"
+    },
+    {
+        "start": 74.24000000000001,
+        "end": 78.56,
+        "english": "Or for example, I can say I haven't been to the dentist in ages.",
+        "chinese": "或者，例如，我可以这么说，我从没去看过牙医。"
+    },
+    {
+        "start": 78.56,
+        "end": 82.12,
+        "english": "Oh, well, guess you better go, huh?",
+        "chinese": "嗯，好吧，你最好走了，对吧？"
+    },
+    {
+        "start": 82.12,
+        "end": 83.12,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 83.12,
+        "end": 84.52000000000001,
+        "english": "So ages a very long time.",
+        "chinese": "所以岁月非常漫长。"
+    },
+    {
+        "start": 84.52000000000001,
+        "end": 85.52000000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 85.52,
+        "end": 89.84,
+        "english": "Another phrase to run into somebody.",
+        "chinese": "另一个话，会遇到某人。"
+    },
+    {
+        "start": 89.84,
+        "end": 92.08,
+        "english": "So to run into somebody.",
+        "chinese": "所以遇到一个人。"
+    },
+    {
+        "start": 92.08,
+        "end": 94.19999999999999,
+        "english": "I ran into Matt.",
+        "chinese": "我遇到了马特。"
+    },
+    {
+        "start": 94.19999999999999,
+        "end": 100.52,
+        "english": "Okay, so if you ran into Matt the other day, you met him unexpectedly.",
+        "chinese": "好的，如果昨天你遇到Matt，他突然出现。"
+    },
+    {
+        "start": 100.52,
+        "end": 106.84,
+        "english": "Okay, so you didn't plan to meet, you didn't have a date, you just casually on the street",
+        "chinese": "好的，所以你没有预定见面，也没有定一个约会，只是在街上随意走着。"
+    },
+    {
+        "start": 106.84,
+        "end": 107.84,
+        "english": "met.",
+        "chinese": "“met” 翻译成中文是 “遇见”。"
+    },
+    {
+        "start": 107.84,
+        "end": 108.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 108.84,
+        "end": 112.44,
+        "english": "Okay, so I ran into your friend the other day.",
+        "chinese": "好的，我昨天遇到了你的好朋友。"
+    },
+    {
+        "start": 112.44,
+        "end": 114.56,
+        "english": "Okay, so two good words.",
+        "chinese": "好的，那么两个好词。"
+    },
+    {
+        "start": 114.56,
+        "end": 116.6,
+        "english": "We're going to hear both of these in the dialogue.",
+        "chinese": "我们将同时听到这两者。"
+    },
+    {
+        "start": 116.6,
+        "end": 125.12,
+        "english": "So why don't we get started with dialogue first time.",
+        "chinese": "所以为什么不一开始就用对话开始呢？"
+    },
+    {
+        "start": 125.12,
+        "end": 126.84,
+        "english": "Mike, what's going on, man?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英文来回答这个问题："
+    },
+    {
+        "start": 126.84,
+        "end": 127.84,
+        "english": "Long time no see.",
+        "chinese": "长时间不见。"
+    },
+    {
+        "start": 127.84,
+        "end": 128.84,
+        "english": "Hey, Pat.",
+        "chinese": "你好，Pat。"
+    },
+    {
+        "start": 128.84,
+        "end": 129.84,
+        "english": "Yeah, I haven't seen you in ages.",
+        "chinese": "是的，我好久没见你了。"
+    },
+    {
+        "start": 129.84,
+        "end": 130.84,
+        "english": "How's it going?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 130.84,
+        "end": 132.52,
+        "english": "Things are going great.",
+        "chinese": "事物正在很好。"
+    },
+    {
+        "start": 132.52,
+        "end": 134.07999999999998,
+        "english": "It's funny running into you like this.",
+        "chinese": "哈哈，遇到你这么巧。"
+    },
+    {
+        "start": 134.07999999999998,
+        "end": 135.48,
+        "english": "Small world, huh?",
+        "chinese": "小世界，对吗？"
+    },
+    {
+        "start": 135.48,
+        "end": 137.92,
+        "english": "You know, just last week I ran into Matt as well.",
+        "chinese": "我知道，上周我和马特碰面了。"
+    },
+    {
+        "start": 137.92,
+        "end": 138.92,
+        "english": "Yeah?",
+        "chinese": "是的？"
+    },
+    {
+        "start": 138.92,
+        "end": 139.92,
+        "english": "How's he doing?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 139.92,
+        "end": 140.92,
+        "english": "He's doing well.",
+        "chinese": "他做得很好。"
+    },
+    {
+        "start": 140.92,
+        "end": 143.16,
+        "english": "He's not for a couple of beers and the funniest thing happened.",
+        "chinese": "他不是几瓶啤酒，最搞笑的事情发生了。"
+    },
+    {
+        "start": 143.16,
+        "end": 144.16,
+        "english": "Oh, yeah?",
+        "chinese": "是的，对吗？"
+    },
+    {
+        "start": 144.16,
+        "end": 147.44,
+        "english": "Well, we were talking and catching up on what we've been doing.",
+        "chinese": "嗯，我们正在聊天，回顾我们在做的事情。"
+    },
+    {
+        "start": 147.44,
+        "end": 150.95999999999998,
+        "english": "Talking about work and family and all of a sudden Matt saw a mouse running into the chair",
+        "chinese": "谈论工作和家庭，突然间马特看到椅子上有一只老鼠。"
+    },
+    {
+        "start": 150.95999999999998,
+        "end": 152.35999999999999,
+        "english": "and he completely lost it.",
+        "chinese": "和他完全失去了理智。"
+    },
+    {
+        "start": 152.35999999999999,
+        "end": 153.83999999999997,
+        "english": "He started freaking out and screaming.",
+        "chinese": "他开始大喊大叫。"
+    },
+    {
+        "start": 153.83999999999997,
+        "end": 154.83999999999997,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 154.83999999999997,
+        "end": 158.64,
+        "english": "Yeah, and the funniest thing was then he jumped onto his chair and started shrieking like",
+        "chinese": "是的，最搞笑的事情是他跳到椅子上开始大喊。"
+    },
+    {
+        "start": 158.64,
+        "end": 159.64,
+        "english": "a girl.",
+        "chinese": "一个女孩。"
+    },
+    {
+        "start": 159.64,
+        "end": 160.64,
+        "english": "He should have been there.",
+        "chinese": "他应该在那里。"
+    },
+    {
+        "start": 160.64,
+        "end": 162.07999999999998,
+        "english": "Everyone was staring and laughing.",
+        "chinese": "每个人都盯着看，笑得前仰后合。"
+    },
+    {
+        "start": 162.07999999999998,
+        "end": 164.07999999999998,
+        "english": "It was hilarious.",
+        "chinese": "它是滑稽的。"
+    },
+    {
+        "start": 164.07999999999998,
+        "end": 165.07999999999998,
+        "english": "Ha ha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 166.08,
+        "end": 168.64000000000001,
+        "english": "All right, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 168.64000000000001,
+        "end": 172.96,
+        "english": "So a funny story and as we saw a lot of stuff in the past, right?",
+        "chinese": "所以一个有趣的故事，我们看到过去很多东西，对吗？"
+    },
+    {
+        "start": 172.96,
+        "end": 173.96,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 173.96,
+        "end": 175.68,
+        "english": "And we're going to look at that in a moment.",
+        "chinese": "接下来，我们将详细分析这个话题。"
+    },
+    {
+        "start": 175.68,
+        "end": 184.32000000000002,
+        "english": "But first, we've got lots of exciting language to describe when somebody gets really emotional.",
+        "chinese": "但是，我们已经有很多语言来描述当某人非常情绪化时的情况。"
+    },
+    {
+        "start": 184.32000000000002,
+        "end": 185.32000000000002,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 185.32000000000002,
+        "end": 190.96,
+        "english": "So, when will we start now with language takeaway?",
+        "chinese": "所以，我们什么时候开始用语言小包了？"
+    },
+    {
+        "start": 190.96,
+        "end": 193.8,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 193.8,
+        "end": 195.52,
+        "english": "We have four words here.",
+        "chinese": "我们这里有四个词。"
+    },
+    {
+        "start": 195.52,
+        "end": 200.92000000000002,
+        "english": "Now in the dialogue, the guy in the story lost it.",
+        "chinese": "在对话中，故事中的角色失去了理智。"
+    },
+    {
+        "start": 200.92000000000002,
+        "end": 204.68,
+        "english": "So he saw a mouse and he completely lost it.",
+        "chinese": "所以，他看到了一只老鼠，然后完全失去了它。"
+    },
+    {
+        "start": 204.68,
+        "end": 205.68,
+        "english": "To lose it.",
+        "chinese": "要失去它。"
+    },
+    {
+        "start": 205.68,
+        "end": 206.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 206.68,
+        "end": 208.84,
+        "english": "So when you lose some, you lose it.",
+        "chinese": "所以当你失去一些，你就会失去它。"
+    },
+    {
+        "start": 208.84,
+        "end": 209.84,
+        "english": "What are you losing?",
+        "chinese": "在中文中，\"What are you losing?\" 翻译成普通话是：“你正在失去什么？”"
+    },
+    {
+        "start": 209.84,
+        "end": 213.88000000000002,
+        "english": "You're losing control of yourself and your emotion.",
+        "chinese": "你失去了控制自己和情绪。"
+    },
+    {
+        "start": 213.88000000000002,
+        "end": 214.88000000000002,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 214.88000000000002,
+        "end": 216.28,
+        "english": "So you lose your temper, maybe.",
+        "chinese": "所以你发脾气了，可能。"
+    },
+    {
+        "start": 216.28,
+        "end": 217.28,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 217.28,
+        "end": 219.92000000000002,
+        "english": "So when I lose it, do I just get angry?",
+        "chinese": "所以当我失去它，我是不是就会生气？"
+    },
+    {
+        "start": 219.92,
+        "end": 223.16,
+        "english": "Or upset or even sad.",
+        "chinese": "或者生气或甚至伤心。"
+    },
+    {
+        "start": 223.16,
+        "end": 225.39999999999998,
+        "english": "But it's usually a negative feeling.",
+        "chinese": "但是通常是一种消极的情绪。"
+    },
+    {
+        "start": 225.39999999999998,
+        "end": 226.39999999999998,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 226.39999999999998,
+        "end": 228.35999999999999,
+        "english": "So it's not a good thing to lose it.",
+        "chinese": "所以，把它丢了并不是一件好事。"
+    },
+    {
+        "start": 228.35999999999999,
+        "end": 229.35999999999999,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 229.35999999999999,
+        "end": 234.48,
+        "english": "So for example, when I showed my boss the sales figures, he completely lost it.",
+        "chinese": "所以，例如，当我向我的老板展示销售数据时，他完全失去了理智。"
+    },
+    {
+        "start": 234.48,
+        "end": 235.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 235.48,
+        "end": 236.48,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 236.48,
+        "end": 237.72,
+        "english": "So that's what lose it means.",
+        "chinese": "所以，这就是“失去”这个词的意思。"
+    },
+    {
+        "start": 237.72,
+        "end": 242.35999999999999,
+        "english": "And now our second word is very similar but has a little bit of a difference.",
+        "chinese": "现在我们的第二个词非常相似，但有一点稍微不同。"
+    },
+    {
+        "start": 242.35999999999999,
+        "end": 243.35999999999999,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 243.35999999999999,
+        "end": 245.64,
+        "english": "He started freaking out.",
+        "chinese": "他开始发抖。"
+    },
+    {
+        "start": 245.64,
+        "end": 246.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 246.64,
+        "end": 248.04,
+        "english": "So to freak out.",
+        "chinese": "所以要发疯。"
+    },
+    {
+        "start": 248.04,
+        "end": 249.67999999999998,
+        "english": "To freak out.",
+        "chinese": "要发疯。"
+    },
+    {
+        "start": 249.68,
+        "end": 252.4,
+        "english": "Now freak out is very similar to lose it, right?",
+        "chinese": "现在大惊失色很像失去理智，对吗？"
+    },
+    {
+        "start": 252.4,
+        "end": 253.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 253.4,
+        "end": 259.12,
+        "english": "But why don't we hear an example now of somebody freaking out?",
+        "chinese": "但是，我们为什么还没有听到一个例子，关于有人惊慌失措？"
+    },
+    {
+        "start": 259.12,
+        "end": 260.6,
+        "english": "It's just, no.",
+        "chinese": "是的，没有。"
+    },
+    {
+        "start": 260.6,
+        "end": 261.6,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 261.6,
+        "end": 262.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 262.6,
+        "end": 263.6,
+        "english": "Forget it.",
+        "chinese": "忘记它。"
+    },
+    {
+        "start": 263.6,
+        "end": 264.6,
+        "english": "Forget it.",
+        "chinese": "忘记它。"
+    },
+    {
+        "start": 264.6,
+        "end": 265.6,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 265.6,
+        "end": 266.6,
+        "english": "Just forget it.",
+        "chinese": "请不要理会它。"
+    },
+    {
+        "start": 266.6,
+        "end": 267.6,
+        "english": "I don't even want to just, I just want to forget it.",
+        "chinese": "我不想要只是，我只是想忘记它。"
+    },
+    {
+        "start": 267.6,
+        "end": 268.6,
+        "english": "I just want to forget it.",
+        "chinese": "我只想忘记它。"
+    },
+    {
+        "start": 268.6,
+        "end": 269.6,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 269.6,
+        "end": 270.6,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 270.6,
+        "end": 271.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 271.6,
+        "end": 272.6,
+        "english": "Calm down.",
+        "chinese": "冷静下来。"
+    },
+    {
+        "start": 272.6,
+        "end": 273.6,
+        "english": "Woo.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 273.6,
+        "end": 274.6,
+        "english": "Calm down.",
+        "chinese": "冷静下来。"
+    },
+    {
+        "start": 274.6,
+        "end": 275.6,
+        "english": "I got to calm down.",
+        "chinese": "我冷静下来了。"
+    },
+    {
+        "start": 275.6,
+        "end": 276.6,
+        "english": "I'm so happy.",
+        "chinese": "我非常高兴。"
+    },
+    {
+        "start": 276.6,
+        "end": 277.6,
+        "english": "I'm so happy.",
+        "chinese": "我非常高兴。"
+    },
+    {
+        "start": 277.6,
+        "end": 278.6,
+        "english": "I got to calm down.",
+        "chinese": "我冷静下来了。"
+    },
+    {
+        "start": 278.6,
+        "end": 279.6,
+        "english": "I'm so happy.",
+        "chinese": "我非常高兴。"
+    },
+    {
+        "start": 279.6,
+        "end": 281.8,
+        "english": "I can't, I can't even express it.",
+        "chinese": "我不能，我不能甚至表达。"
+    },
+    {
+        "start": 281.8,
+        "end": 284.76000000000005,
+        "english": "I'm like, I haven't, have I even finished one sentence?",
+        "chinese": "我好像，我还没有，有没呢？"
+    },
+    {
+        "start": 284.76000000000005,
+        "end": 286.24,
+        "english": "I'm like, ha ha ha.",
+        "chinese": "我是，哈哈，哈哈。"
+    },
+    {
+        "start": 286.24,
+        "end": 287.24,
+        "english": "Woo.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 287.24,
+        "end": 289.16,
+        "english": "Give me a high five, baby.",
+        "chinese": "给宝宝一个大大的五，好吗？"
+    },
+    {
+        "start": 289.16,
+        "end": 290.16,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 290.16,
+        "end": 292.40000000000003,
+        "english": "So we heard this person freaking out.",
+        "chinese": "所以我们听到了这个人的大喊大叫。"
+    },
+    {
+        "start": 292.40000000000003,
+        "end": 298.44,
+        "english": "And basically it could be losing control or losing your temper, but also in a positive way.",
+        "chinese": "A大致说来，它可能失去控制或发脾气，但同时也可以有积极的一面。"
+    },
+    {
+        "start": 298.44,
+        "end": 299.44,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 299.44,
+        "end": 303.04,
+        "english": "So maybe you're really excited about something that's going to happen.",
+        "chinese": "所以，你可能真的非常兴奋于即将发生的事情。"
+    },
+    {
+        "start": 303.04,
+        "end": 304.36,
+        "english": "So you're freaking out.",
+        "chinese": "所以你太紧张了。"
+    },
+    {
+        "start": 304.36,
+        "end": 305.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 305.36,
+        "end": 307.28000000000003,
+        "english": "Maybe you're very nervous or you're very excited.",
+        "chinese": "可能你很紧张，或者你很兴奋。"
+    },
+    {
+        "start": 307.28,
+        "end": 308.28,
+        "english": "Mm hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想表达什么？如果您能提供更多的上下文信息或具体语境，我可以尝试更准确地帮助您进行翻译。"
+    },
+    {
+        "start": 308.28,
+        "end": 309.28,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 309.28,
+        "end": 312.79999999999995,
+        "english": "And now moving on to our third word, stair.",
+        "chinese": "现在转到我们的第三句话，楼梯。"
+    },
+    {
+        "start": 312.79999999999995,
+        "end": 314.28,
+        "english": "To stair.",
+        "chinese": "To stair in Chinese is \"登楼梯\" (dēng shān lè)."
+    },
+    {
+        "start": 314.28,
+        "end": 316.15999999999997,
+        "english": "People started to stare.",
+        "chinese": "人们开始盯着。"
+    },
+    {
+        "start": 316.15999999999997,
+        "end": 317.15999999999997,
+        "english": "Staring.",
+        "chinese": "你好，我需要翻译“ staring” 这个短语。在中文中，“staring” 的意思是注视、凝视或关注。如果你有其他想要翻译的内容，请告诉我！"
+    },
+    {
+        "start": 317.15999999999997,
+        "end": 318.15999999999997,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 318.15999999999997,
+        "end": 321.47999999999996,
+        "english": "Now, when you stare at someone or at something.",
+        "chinese": "现在，当你盯着某人或某物看。"
+    },
+    {
+        "start": 321.47999999999996,
+        "end": 325.03999999999996,
+        "english": "You look at and focus at something for a really long time.",
+        "chinese": "你长时间地盯着和聚焦于某物。"
+    },
+    {
+        "start": 325.03999999999996,
+        "end": 326.03999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 326.03999999999996,
+        "end": 327.47999999999996,
+        "english": "So you are looking at it.",
+        "chinese": "所以你看着它。"
+    },
+    {
+        "start": 327.47999999999996,
+        "end": 328.47999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 328.47999999999996,
+        "end": 329.47999999999996,
+        "english": "I'm focusing on it.",
+        "chinese": "我专注于它。"
+    },
+    {
+        "start": 329.47999999999996,
+        "end": 330.47999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 330.47999999999996,
+        "end": 331.47999999999996,
+        "english": "Longer than usual.",
+        "chinese": "长于平时。"
+    },
+    {
+        "start": 331.47999999999996,
+        "end": 332.47999999999996,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 332.47999999999996,
+        "end": 335.52,
+        "english": "Maybe when we were small, our parents taught us that it's not nice to stare at other people.",
+        "chinese": "可能当我们还小的时候，我们的父母教导我们不要盯着别人看。"
+    },
+    {
+        "start": 335.52,
+        "end": 336.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 336.52,
+        "end": 337.03999999999996,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 337.04,
+        "end": 338.84000000000003,
+        "english": "To stare.",
+        "chinese": "要盯着。"
+    },
+    {
+        "start": 338.84000000000003,
+        "end": 343.28000000000003,
+        "english": "In our final words, when Matt saw the mouse, he started shrieking.",
+        "chinese": "在我们的最后话中，当马特看到老鼠时，他开始大喊。"
+    },
+    {
+        "start": 343.28000000000003,
+        "end": 344.28000000000003,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 344.28000000000003,
+        "end": 346.0,
+        "english": "So to shriek.",
+        "chinese": "所以要尖叫。"
+    },
+    {
+        "start": 346.0,
+        "end": 347.0,
+        "english": "Shriek.",
+        "chinese": "这句话“Shriek”在中文中可以翻译为“呼喊”。"
+    },
+    {
+        "start": 347.0,
+        "end": 348.0,
+        "english": "Shriek.",
+        "chinese": "这句话的中文翻译是“呼啸”。"
+    },
+    {
+        "start": 348.0,
+        "end": 349.52000000000004,
+        "english": "Very similar to that movie Shrek.",
+        "chinese": "非常相似于那部电影《小马过河》。"
+    },
+    {
+        "start": 349.52000000000004,
+        "end": 350.52000000000004,
+        "english": "Oh, yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 350.52000000000004,
+        "end": 351.52000000000004,
+        "english": "Sounds quite similar.",
+        "chinese": "声音确实很相似。"
+    },
+    {
+        "start": 351.52000000000004,
+        "end": 352.52000000000004,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 352.52000000000004,
+        "end": 353.52000000000004,
+        "english": "But it's different.",
+        "chinese": "但是它就不同。"
+    },
+    {
+        "start": 353.52000000000004,
+        "end": 354.52000000000004,
+        "english": "What does shriek mean?",
+        "chinese": "在中文中，\"shriek\" 的意思是 \"尖叫\"。"
+    },
+    {
+        "start": 354.52000000000004,
+        "end": 356.52000000000004,
+        "english": "Well, why don't we listen to an example?",
+        "chinese": "好的，我们为什么不听听一个例子呢？"
+    },
+    {
+        "start": 356.52000000000004,
+        "end": 357.52000000000004,
+        "english": "Woo!",
+        "chinese": "你好！"
+    },
+    {
+        "start": 357.52000000000004,
+        "end": 358.52000000000004,
+        "english": "Oh my god.",
+        "chinese": "啊，天啊。"
+    },
+    {
+        "start": 358.52000000000004,
+        "end": 359.52000000000004,
+        "english": "Woo-hoo, Lichengala.",
+        "chinese": "哇，里克拉加。"
+    },
+    {
+        "start": 360.52,
+        "end": 364.52,
+        "english": "Woo-hoo, Lichengala.",
+        "chinese": "哇，里克拉加。"
+    },
+    {
+        "start": 364.52,
+        "end": 365.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 365.52,
+        "end": 373.2,
+        "english": "So I think shrieking is to shout in a very high pitched voice.",
+        "chinese": "所以我认为尖叫是高音声线的喊叫。"
+    },
+    {
+        "start": 373.2,
+        "end": 374.2,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 374.2,
+        "end": 375.2,
+        "english": "That's too shriek.",
+        "chinese": "这句话的中文翻译是：“那太吵了。”"
+    },
+    {
+        "start": 375.2,
+        "end": 376.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 376.2,
+        "end": 379.47999999999996,
+        "english": "So we saw four really great words in language takeaway.",
+        "chinese": "所以我们在语言小结中看到了四个非常优秀的词。"
+    },
+    {
+        "start": 379.47999999999996,
+        "end": 384.56,
+        "english": "And why don't we listen now to the dialogue for a second time a little bit slower.",
+        "chinese": "A、为什么我们不要再等第二遍对话稍微慢一点呢？"
+    },
+    {
+        "start": 384.56,
+        "end": 395.48,
+        "english": "And then we'll come back and look at the differences between simple past and past progressive.",
+        "chinese": "然后我们将回到这里，看看简单过去时和主动进行时的区别。"
+    },
+    {
+        "start": 395.48,
+        "end": 397.52,
+        "english": "Mike, what's going on, man?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英语来回答这个问题："
+    },
+    {
+        "start": 397.52,
+        "end": 398.68,
+        "english": "Long time no see.",
+        "chinese": "长时间不见。"
+    },
+    {
+        "start": 398.68,
+        "end": 399.68,
+        "english": "Hey, Pat.",
+        "chinese": "你好，Pat。"
+    },
+    {
+        "start": 399.68,
+        "end": 400.68,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 400.68,
+        "end": 402.92,
+        "english": "I haven't seen you in ages.",
+        "chinese": "我在这段时间里没有见过你。"
+    },
+    {
+        "start": 402.92,
+        "end": 403.92,
+        "english": "How's it going?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 403.92,
+        "end": 405.76,
+        "english": "Things are going great.",
+        "chinese": "事物正在很好。"
+    },
+    {
+        "start": 405.76,
+        "end": 407.96,
+        "english": "It's funny running into you like this.",
+        "chinese": "哈哈，遇到了你这么巧。"
+    },
+    {
+        "start": 407.96,
+        "end": 409.44,
+        "english": "Small world, eh?",
+        "chinese": "小世界，对吗？"
+    },
+    {
+        "start": 409.44,
+        "end": 412.72,
+        "english": "You know, just last week I ran into Matt as well.",
+        "chinese": "我知道，上周我碰到了马特。"
+    },
+    {
+        "start": 412.72,
+        "end": 413.72,
+        "english": "Yeah?",
+        "chinese": "是的？"
+    },
+    {
+        "start": 413.72,
+        "end": 415.44000000000005,
+        "english": "How's he doing?",
+        "chinese": "如何他？"
+    },
+    {
+        "start": 415.44000000000005,
+        "end": 416.52000000000004,
+        "english": "He's doing well.",
+        "chinese": "他做得很好。"
+    },
+    {
+        "start": 416.52000000000004,
+        "end": 419.6,
+        "english": "We went out for a couple of beers and the funniest thing happened.",
+        "chinese": "我们出去喝了几杯啤酒，最搞笑的事情发生了。"
+    },
+    {
+        "start": 419.6,
+        "end": 420.6,
+        "english": "Oh yeah?",
+        "chinese": "是的，对吗？"
+    },
+    {
+        "start": 420.6,
+        "end": 425.84000000000003,
+        "english": "Well, we were talking and catching up on what we've been doing, talking about work and family.",
+        "chinese": "嗯，我们正在聊着我们在做的事情，谈论工作和家庭。"
+    },
+    {
+        "start": 425.84000000000003,
+        "end": 430.0,
+        "english": "When all of a sudden, Matt saw a mouse run under his chair and he completely lost it.",
+        "chinese": "当突然，马特看到他的椅子下面有一只老鼠，并且他完全失去了它。"
+    },
+    {
+        "start": 430.0,
+        "end": 432.12,
+        "english": "He started freaking out and screaming.",
+        "chinese": "他开始发抖和大喊。"
+    },
+    {
+        "start": 432.12,
+        "end": 433.44000000000005,
+        "english": "Ha-ha, really?",
+        "chinese": "哈哈，真的吗？"
+    },
+    {
+        "start": 433.44000000000005,
+        "end": 434.44000000000005,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 434.44000000000005,
+        "end": 438.72,
+        "english": "And the funniest thing was that he jumped on his chair and started shrieking like a girl.",
+        "chinese": "最搞笑的是，他跳到椅子上就开始大喊大叫了。"
+    },
+    {
+        "start": 438.72,
+        "end": 440.20000000000005,
+        "english": "You should have been there.",
+        "chinese": "你应该在那里。"
+    },
+    {
+        "start": 440.20000000000005,
+        "end": 441.72,
+        "english": "Everyone was staring and laughing.",
+        "chinese": "每个人都盯着看，笑得前仰后合。"
+    },
+    {
+        "start": 441.72,
+        "end": 442.72,
+        "english": "It was hilarious.",
+        "chinese": "它是滑稽的。"
+    },
+    {
+        "start": 442.72,
+        "end": 443.72,
+        "english": "Ha-ha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 443.72,
+        "end": 451.12,
+        "english": "Okay, so there was a lot of different uses of past tense here in this dialogue, wasn't",
+        "chinese": "是的，这里在这里对话中有很多不同的使用了过去时态的方式。"
+    },
+    {
+        "start": 451.12,
+        "end": 452.12,
+        "english": "there?",
+        "chinese": "是的，我可以帮助你将 \"there?\" 翻译成中文。\"There?\" 在中文中可以翻译为“那里”或“那儿”。例如："
+    },
+    {
+        "start": 452.12,
+        "end": 456.08000000000004,
+        "english": "Yeah, since he was telling a story that happened, he used the past a lot.",
+        "chinese": "是的，自从他讲述了一个发生在过去的故事以来，他就经常使用过去。"
+    },
+    {
+        "start": 456.08000000000004,
+        "end": 464.20000000000005,
+        "english": "Well, let's now, as promised, look at past simple and past progressive in grammar breakdown.",
+        "chinese": "好的，让我们现在，按照预期的语法分段来看过去简单和过去进行时态的分段。"
+    },
+    {
+        "start": 464.20000000000005,
+        "end": 466.20000000000005,
+        "english": "Rama breakdown.",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，我可以尝试用另一种方式来表达这个意思。"
+    },
+    {
+        "start": 466.20000000000005,
+        "end": 472.32000000000005,
+        "english": "Okay, Marco, before we start our discussion, why don't we hear one example of past simple",
+        "chinese": "好的，马科，我们开始讨论之前使用过的过去时态之前，为什么不听一个例子？"
+    },
+    {
+        "start": 472.32,
+        "end": 477.59999999999997,
+        "english": "and one example of past progressive?",
+        "chinese": "和过去进步的一个例子。"
+    },
+    {
+        "start": 477.59999999999997,
+        "end": 481.4,
+        "english": "You know, just last week I ran into Matt as well.",
+        "chinese": "我知道，上周我遇到了马特。"
+    },
+    {
+        "start": 481.4,
+        "end": 486.88,
+        "english": "Well, we were talking and catching up on what we've been doing.",
+        "chinese": "嗯，我们正在聊天，回顾我们在做的事情。"
+    },
+    {
+        "start": 486.88,
+        "end": 493.24,
+        "english": "Okay, so we heard that just last week I ran into Matt.",
+        "chinese": "好的，上周我遇到了Matt。"
+    },
+    {
+        "start": 493.24,
+        "end": 497.8,
+        "english": "So we discussed what run into means to meet someone by surprise.",
+        "chinese": "所以我们讨论了如何在意外的情况下遇到某人。"
+    },
+    {
+        "start": 497.8,
+        "end": 498.8,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 498.8,
+        "end": 501.0,
+        "english": "And now this structure is the simple past, right?",
+        "chinese": "现在这个结构是简单过去式，对吗？"
+    },
+    {
+        "start": 501.0,
+        "end": 502.0,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 502.0,
+        "end": 506.32,
+        "english": "So the last example that we heard was we were talking and catching up.",
+        "chinese": "所以我们刚才听到的最后一个例子是我们在交谈并同步跟进。"
+    },
+    {
+        "start": 506.32,
+        "end": 509.88,
+        "english": "Okay, so let's look at the difference in meaning here.",
+        "chinese": "好的，那么我们来看看这里的含义差异。"
+    },
+    {
+        "start": 509.88,
+        "end": 512.04,
+        "english": "I ran into Matt.",
+        "chinese": "我遇到了马特。"
+    },
+    {
+        "start": 512.04,
+        "end": 513.56,
+        "english": "Happened in the past, right?",
+        "chinese": "是的，发生在过去吗？"
+    },
+    {
+        "start": 513.56,
+        "end": 514.56,
+        "english": "Right, simple past.",
+        "chinese": "正确，简单过去式。"
+    },
+    {
+        "start": 514.56,
+        "end": 516.72,
+        "english": "But one moment in the past.",
+        "chinese": "但是过去的一瞬间。"
+    },
+    {
+        "start": 516.72,
+        "end": 519.48,
+        "english": "So the action finished, concluded.",
+        "chinese": "所以行动结束了，完成。"
+    },
+    {
+        "start": 519.48,
+        "end": 522.12,
+        "english": "Started and finished all around the same time.",
+        "chinese": "开始和结束的时间相同。"
+    },
+    {
+        "start": 522.12,
+        "end": 524.92,
+        "english": "So it's one simple moment.",
+        "chinese": "所以，这是一个简单的一刻。"
+    },
+    {
+        "start": 524.92,
+        "end": 525.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 525.92,
+        "end": 530.0,
+        "english": "Now the other example is in the past progressive.",
+        "chinese": "现在另一个例子是过去的进步。"
+    },
+    {
+        "start": 530.0,
+        "end": 534.52,
+        "english": "So the action was happening for a longer period of time.",
+        "chinese": "所以行动持续的时间较长。"
+    },
+    {
+        "start": 534.52,
+        "end": 535.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 535.52,
+        "end": 536.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 536.52,
+        "end": 539.8,
+        "english": "So let's attach some times to this.",
+        "chinese": "所以，让我们为这个时间加上一些。"
+    },
+    {
+        "start": 539.8,
+        "end": 543.92,
+        "english": "Maybe you ran into Matt at 8.04.",
+        "chinese": "可能你遇到了Matt在8点零四。"
+    },
+    {
+        "start": 543.92,
+        "end": 544.92,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 544.92,
+        "end": 548.64,
+        "english": "And so the action started at 8.04.",
+        "chinese": "而且行动从8:04开始。"
+    },
+    {
+        "start": 548.64,
+        "end": 553.48,
+        "english": "But you were talking and catching up from 8.05 until 9.05.",
+        "chinese": "但是你一直在说话，从8点05分到9点05分。"
+    },
+    {
+        "start": 553.48,
+        "end": 554.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 554.48,
+        "end": 555.96,
+        "english": "So you were talking for an hour.",
+        "chinese": "所以你一直在说一个小时。"
+    },
+    {
+        "start": 555.96,
+        "end": 556.96,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 556.96,
+        "end": 563.24,
+        "english": "So the past progressive you use when the action is happening for a longer period of time.",
+        "chinese": "所以，当你使用过去时来描述一个动作持续的时间较长的情况。"
+    },
+    {
+        "start": 563.24,
+        "end": 564.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 564.24,
+        "end": 569.6,
+        "english": "So to better understand this, let's have another example.",
+        "chinese": "所以要更好地理解这个，让我们再举一个例子。"
+    },
+    {
+        "start": 569.6,
+        "end": 574.2,
+        "english": "Matt saw a mouse run under his chair and he completely lost it.",
+        "chinese": "马特看到他的椅子下面有一只老鼠，他完全失去了它。"
+    },
+    {
+        "start": 574.2,
+        "end": 576.6,
+        "english": "Everyone was staring and laughing.",
+        "chinese": "每个人都盯着看，笑得前仰后合。"
+    },
+    {
+        "start": 576.6,
+        "end": 581.44,
+        "english": "So as we heard in the example, he saw a mouse run under his chair.",
+        "chinese": "所以正如我们听到的那样，他看到一只老鼠在椅子下面。"
+    },
+    {
+        "start": 581.44,
+        "end": 584.0400000000001,
+        "english": "So a quick action that started and finished quickly.",
+        "chinese": "所以一个快速的行动，很快就结束了。"
+    },
+    {
+        "start": 584.0400000000001,
+        "end": 585.0400000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 585.0400000000001,
+        "end": 586.52,
+        "english": "He saw the mouse and it ran under the chair.",
+        "chinese": "他看到老鼠，它就跑到了椅子下面。"
+    },
+    {
+        "start": 587.36,
+        "end": 593.4399999999999,
+        "english": "Now the second example we heard was everyone was staring and laughing.",
+        "chinese": "现在我们听到的第二个例子是每个人都盯着笑。"
+    },
+    {
+        "start": 593.4399999999999,
+        "end": 596.04,
+        "english": "So maybe this happened over four or five minutes.",
+        "chinese": "所以大概可能是四到五分钟发生了这种情况。"
+    },
+    {
+        "start": 596.04,
+        "end": 597.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 597.04,
+        "end": 601.16,
+        "english": "So people were looking at him and laughing and talking about how he was screaming like",
+        "chinese": "所以人们都在看他，笑着谈论着他怎么在喊。"
+    },
+    {
+        "start": 601.16,
+        "end": 602.16,
+        "english": "a girl.",
+        "chinese": "一个女孩。"
+    },
+    {
+        "start": 602.16,
+        "end": 603.16,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 603.16,
+        "end": 604.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 604.16,
+        "end": 608.48,
+        "english": "So that's the main difference between the simple past and the past progressive, the amount",
+        "chinese": "所以，这就是简单过去时和过去进行时的主要区别：数量。"
+    },
+    {
+        "start": 608.48,
+        "end": 610.4399999999999,
+        "english": "of time that the action happened.",
+        "chinese": "时间里发生的事情。"
+    },
+    {
+        "start": 610.4399999999999,
+        "end": 611.4399999999999,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 611.4399999999999,
+        "end": 612.4399999999999,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 612.4399999999999,
+        "end": 614.84,
+        "english": "Well, now that we understand a little bit more about the past tense, why don't we hear",
+        "chinese": "好的，现在我们对过去时有一个基本的了解。为什么不听听呢？"
+    },
+    {
+        "start": 614.84,
+        "end": 627.76,
+        "english": "it again in context by listening to the dialogue for a third time?",
+        "chinese": "它在语境中再次听对话三次？"
+    },
+    {
+        "start": 627.76,
+        "end": 629.4,
+        "english": "Mike, what's going on, man?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英文来回答这个问题："
+    },
+    {
+        "start": 629.4,
+        "end": 630.4,
+        "english": "Long time no see.",
+        "chinese": "长时间不见。"
+    },
+    {
+        "start": 630.4,
+        "end": 631.4,
+        "english": "Hey, Pat.",
+        "chinese": "你好，Pat。"
+    },
+    {
+        "start": 631.4,
+        "end": 632.4,
+        "english": "Yeah, I haven't seen you in ages.",
+        "chinese": "是的，我好久没见你了。"
+    },
+    {
+        "start": 632.4,
+        "end": 633.4,
+        "english": "How's it going?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 633.4,
+        "end": 635.12,
+        "english": "Things are going great.",
+        "chinese": "事物正在很好。"
+    },
+    {
+        "start": 635.12,
+        "end": 636.76,
+        "english": "It's funny running into you like this.",
+        "chinese": "哈哈，遇到你这么巧。"
+    },
+    {
+        "start": 636.76,
+        "end": 637.76,
+        "english": "Small world, huh?",
+        "chinese": "小世界，对吗？"
+    },
+    {
+        "start": 637.76,
+        "end": 640.6,
+        "english": "You know, just last week I ran into Matt as well.",
+        "chinese": "我知道，上周我遇到了马特。"
+    },
+    {
+        "start": 640.6,
+        "end": 641.6,
+        "english": "Yeah?",
+        "chinese": "是的？"
+    },
+    {
+        "start": 641.6,
+        "end": 642.6,
+        "english": "How's he doing?",
+        "chinese": "如何他？"
+    },
+    {
+        "start": 642.6,
+        "end": 643.6,
+        "english": "He's doing well.",
+        "chinese": "他做得很好。"
+    },
+    {
+        "start": 643.6,
+        "end": 645.84,
+        "english": "I've got to go through a couple of beers and the funniest thing happened.",
+        "chinese": "我必须喝几瓶啤酒，最搞笑的事情发生了。"
+    },
+    {
+        "start": 645.84,
+        "end": 646.84,
+        "english": "Oh, yeah?",
+        "chinese": "是的，对吗？"
+    },
+    {
+        "start": 646.84,
+        "end": 651.12,
+        "english": "Well, we were talking and catching up on what we've been doing, talking about work and family",
+        "chinese": "嗯，我们正在聊着我们在做的事情，谈论工作和家庭。"
+    },
+    {
+        "start": 651.12,
+        "end": 654.72,
+        "english": "when all of a sudden Matt saw a mouse running into the chair and he completely lost it.",
+        "chinese": "当突然，Matt 见到了一只老鼠跑进椅子里，他完全失去了主意。"
+    },
+    {
+        "start": 654.72,
+        "end": 656.52,
+        "english": "He started freaking out and screaming.",
+        "chinese": "他开始大喊大叫。"
+    },
+    {
+        "start": 656.52,
+        "end": 657.52,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 657.52,
+        "end": 658.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 658.52,
+        "end": 661.96,
+        "english": "And the funniest thing was then he jumped onto his chair and started shrieking like a girl.",
+        "chinese": "最搞笑的是，他跳到椅子上开始大喊，像个小女孩一样。"
+    },
+    {
+        "start": 661.96,
+        "end": 663.2,
+        "english": "He should have been there.",
+        "chinese": "他应该在那里。"
+    },
+    {
+        "start": 663.2,
+        "end": 664.6800000000001,
+        "english": "Everyone was staring and laughing.",
+        "chinese": "每个人都盯着看，笑得前仰后合。"
+    },
+    {
+        "start": 664.6800000000001,
+        "end": 666.6800000000001,
+        "english": "It was hilarious.",
+        "chinese": "它是滑稽的。"
+    },
+    {
+        "start": 666.6800000000001,
+        "end": 667.6800000000001,
+        "english": "Ha ha.",
+        "chinese": "哈哈。"
+    },
+    {
+        "start": 667.6800000000001,
+        "end": 668.6800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 668.6800000000001,
+        "end": 669.6800000000001,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 669.92,
+        "end": 670.92,
+        "english": "Okay, perfect.",
+        "chinese": "好的，完美。"
+    },
+    {
+        "start": 670.92,
+        "end": 674.56,
+        "english": "So now that we understand the words and the grammar behind it, there are some interesting",
+        "chinese": "所以现在我们理解了背后的词汇和语法，有一些有趣的东西。"
+    },
+    {
+        "start": 674.56,
+        "end": 678.0,
+        "english": "phrases here that you can use casually with your friends.",
+        "chinese": "在这里，你可以随意使用这些短语与朋友交流。"
+    },
+    {
+        "start": 678.0,
+        "end": 683.3599999999999,
+        "english": "Yeah, there's actually a lot of great sort of meeting and greeting and saying hello language.",
+        "chinese": "是的，实际上确实有很多很好的打招呼和说“你好”的语言。"
+    },
+    {
+        "start": 683.3599999999999,
+        "end": 684.3599999999999,
+        "english": "Mm hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文短语“Mm hmm”，它可能是一个表示同意或赞同的表达方式。如果您能提供更多的上下文信息或者具体的句子，我可以尝试帮助您进行更准确的翻译。例如："
+    },
+    {
+        "start": 684.3599999999999,
+        "end": 689.56,
+        "english": "So for example, when they met up since they were old friends, he said, hey, Pat.",
+        "chinese": "所以，例如，在他们相识之后，他说道：“嘿，帕特。”"
+    },
+    {
+        "start": 689.56,
+        "end": 690.56,
+        "english": "Hey.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 690.56,
+        "end": 691.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 691.56,
+        "end": 692.88,
+        "english": "So this word hey.",
+        "chinese": "所以这个字叫啥。"
+    },
+    {
+        "start": 692.88,
+        "end": 693.88,
+        "english": "It's kind of like high.",
+        "chinese": "是有点像高。"
+    },
+    {
+        "start": 693.88,
+        "end": 694.88,
+        "english": "It's high, right?",
+        "chinese": "是高的吗？"
+    },
+    {
+        "start": 694.88,
+        "end": 695.88,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 695.88,
+        "end": 698.0,
+        "english": "Normally you would use it to get somebody's attention, right?",
+        "chinese": "通常，你用来引起别人的注意的工具是正确的。"
+    },
+    {
+        "start": 698.0,
+        "end": 699.0,
+        "english": "Like, hey, I'm over here.",
+        "chinese": "像，嘿，我在这里。"
+    },
+    {
+        "start": 699.0,
+        "end": 700.0,
+        "english": "Hey, waiter.",
+        "chinese": "你好，服务员。"
+    },
+    {
+        "start": 700.0,
+        "end": 701.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 701.0,
+        "end": 702.4,
+        "english": "But in this case, like, hey, how's it going?",
+        "chinese": "但是，在这种情况下，嗯，怎么样呢？"
+    },
+    {
+        "start": 702.4,
+        "end": 703.4,
+        "english": "Or, hi.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 703.4,
+        "end": 704.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 704.4,
+        "end": 706.4,
+        "english": "So it's a really friendly and informal way of saying hi.",
+        "chinese": "所以，这是一种非常友好的和随意的方式说“你好”。"
+    },
+    {
+        "start": 706.4,
+        "end": 707.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 707.4,
+        "end": 710.4,
+        "english": "And then he asked, how's it going?",
+        "chinese": "然后他问，怎么样？"
+    },
+    {
+        "start": 710.4,
+        "end": 711.8,
+        "english": "How's it going?",
+        "chinese": "如何？"
+    },
+    {
+        "start": 711.8,
+        "end": 714.32,
+        "english": "So again, this is a way of saying, how are you?",
+        "chinese": "所以，这也是一个方式，你怎么了？"
+    },
+    {
+        "start": 714.32,
+        "end": 715.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 715.32,
+        "end": 717.72,
+        "english": "Marco, what's the correct answer to this greeting?",
+        "chinese": "在中文中，你可以这样翻译："
+    },
+    {
+        "start": 717.72,
+        "end": 720.96,
+        "english": "Well, well, for example, he said things are going great.",
+        "chinese": "好的，很好。例如，他说一切都很顺利。"
+    },
+    {
+        "start": 720.96,
+        "end": 721.96,
+        "english": "Right?",
+        "chinese": "是的，您说得对。"
+    },
+    {
+        "start": 721.96,
+        "end": 726.72,
+        "english": "You can say, yeah, things are great or I'm doing well or even great.",
+        "chinese": "您可以说，是的，一切都很好或者正在做得很好甚至更好。"
+    },
+    {
+        "start": 726.72,
+        "end": 727.72,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 727.72,
+        "end": 728.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 728.72,
+        "end": 729.72,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 729.72,
+        "end": 736.88,
+        "english": "Now, another one that we didn't see in the dialogue, but it's very popular is when somebody",
+        "chinese": "现在，我们没有在对话中看到的另一件事情，但它非常流行是当有人"
+    },
+    {
+        "start": 736.88,
+        "end": 738.72,
+        "english": "asks, hey, what's up?",
+        "chinese": "问，你好，有什么事？"
+    },
+    {
+        "start": 738.72,
+        "end": 740.28,
+        "english": "Yeah, what's up?",
+        "chinese": "是的，有什么事吗？"
+    },
+    {
+        "start": 740.28,
+        "end": 743.5600000000001,
+        "english": "So again, what is the right way to answer this question?",
+        "chinese": "所以，再次，正确回答这个问题的方法是什么？"
+    },
+    {
+        "start": 743.5600000000001,
+        "end": 744.5600000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 744.5600000000001,
+        "end": 748.24,
+        "english": "So when somebody says, what's up, you can say, well, not much.",
+        "chinese": "所以，当有人问“怎么样”，你可以回答：“嗯，没什么。”"
+    },
+    {
+        "start": 748.24,
+        "end": 751.9200000000001,
+        "english": "Or if maybe you have news or something that you want to share, you would say, well,",
+        "chinese": "如果可能的话，如果你有新闻或有什么想分享的事情，你可以这样说：嗯。"
+    },
+    {
+        "start": 751.9200000000001,
+        "end": 754.52,
+        "english": "I just got back from the doctor's office.",
+        "chinese": "我刚刚从医生那里回来。"
+    },
+    {
+        "start": 754.52,
+        "end": 755.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 755.52,
+        "end": 760.84,
+        "english": "But you wouldn't say, fine, thank you, or you wouldn't say very good or any of these other",
+        "chinese": "但是，你不会说，“好的”，或者你也不会说其他这些别的。"
+    },
+    {
+        "start": 760.84,
+        "end": 762.6,
+        "english": "common answers to, what's up?",
+        "chinese": "常见的答案，你好？"
+    },
+    {
+        "start": 762.6,
+        "end": 763.6,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 763.6,
+        "end": 764.6,
+        "english": "It can be a little bit tricky.",
+        "chinese": "它可能有点难。"
+    },
+    {
+        "start": 764.6,
+        "end": 765.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 765.6,
+        "end": 770.6,
+        "english": "So the rule is the normal thing to say when someone says, hey, what's up is nothing much.",
+        "chinese": "所以，规则就是当别人说“哎呀，没什么大不了的”时应该说。"
+    },
+    {
+        "start": 770.6,
+        "end": 771.6,
+        "english": "Not much.",
+        "chinese": "不太多。"
+    },
+    {
+        "start": 771.6,
+        "end": 772.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 772.6,
+        "end": 773.6,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 773.6,
+        "end": 774.76,
+        "english": "So interesting ways of greeting casually with people, right?",
+        "chinese": "所以随意地用友好的方式与人打招呼，对吗？"
+    },
+    {
+        "start": 774.76,
+        "end": 777.8,
+        "english": "You wouldn't use this for you with your boss, maybe, or in an office setting.",
+        "chinese": "你不会用这种方法来对你上司或在办公室使用。"
+    },
+    {
+        "start": 777.8,
+        "end": 778.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 778.8,
+        "end": 780.0,
+        "english": "More useful with your friends.",
+        "chinese": "更实用与你的朋友。"
+    },
+    {
+        "start": 780.0,
+        "end": 781.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 781.0,
+        "end": 785.64,
+        "english": "So if you have any other questions or have any other informal greetings that you would",
+        "chinese": "所以如果有其他问题或有其他形式的问候，你希望我回答什么。"
+    },
+    {
+        "start": 785.64,
+        "end": 789.36,
+        "english": "like to share with us, come to EnglishPod.com.",
+        "chinese": "我愿意与您分享，欢迎您访问英语Pod.com。"
+    },
+    {
+        "start": 789.36,
+        "end": 790.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 790.36,
+        "end": 792.24,
+        "english": "Marco and I are always around to answer your questions.",
+        "chinese": "马科和我总是愿意回答你的问题。"
+    },
+    {
+        "start": 792.24,
+        "end": 794.28,
+        "english": "And we look forward to hearing from you.",
+        "chinese": "我们期待着听到您的消息。"
+    },
+    {
+        "start": 794.28,
+        "end": 795.8,
+        "english": "So until next time, bye.",
+        "chinese": "所以直到下次，再见。"
+    },
+    {
+        "start": 795.8,
+        "end": 796.8,
+        "english": "Bye.",
+        "chinese": "拜。"
+    },
+    {
+        "start": 796.8,
+        "end": 797.8,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

@@ -1,0 +1,1526 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.3000000000000003,
+        "english": "Hello everyone and welcome to EnglishPod.",
+        "chinese": "你好，大家欢迎来到英语广播。"
+    },
+    {
+        "start": 3.3000000000000003,
+        "end": 4.3,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是Marco。"
+    },
+    {
+        "start": 4.3,
+        "end": 8.6,
+        "english": "My name is Catherine and today we have a very, very useful intermediate level lesson",
+        "chinese": "我的名字是凯瑟琳，今天我们要进行一次非常实用的中级课程。"
+    },
+    {
+        "start": 8.6,
+        "end": 10.0,
+        "english": "for you all about the weather.",
+        "chinese": "关于你们的天气。"
+    },
+    {
+        "start": 10.0,
+        "end": 11.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 11.0,
+        "end": 15.5,
+        "english": "So obviously we have seen the news and sometimes on the news we have the weather report.",
+        "chinese": "所以，我们当然已经看到了新闻，有时候在新闻里我们会看到天气预报。"
+    },
+    {
+        "start": 15.5,
+        "end": 19.2,
+        "english": "So today we're going to learn all about that weather report in English.",
+        "chinese": "今天我们要学习关于那场英语天气预报的全部内容。"
+    },
+    {
+        "start": 19.2,
+        "end": 22.6,
+        "english": "So let's check out today's dialogue and we'll be back in a moment to talk about the words",
+        "chinese": "当然，让我们检查今天的对话内容。一会儿我们再来聊聊这些词汇吧。"
+    },
+    {
+        "start": 22.6,
+        "end": 25.0,
+        "english": "and phrases that those weather forecasters used.",
+        "chinese": "and那些天气预报员使用的短语。"
+    },
+    {
+        "start": 31.0,
+        "end": 36.0,
+        "english": "And those are today's top stories.",
+        "chinese": "今天的主要新闻如下。"
+    },
+    {
+        "start": 36.0,
+        "end": 38.0,
+        "english": "Now let's go to John for the weather.",
+        "chinese": "现在我们去约翰那里看看天气。"
+    },
+    {
+        "start": 42.0,
+        "end": 45.0,
+        "english": "John, what does the forecast look like for our weekend travelers?",
+        "chinese": "John，我们周末的旅客预报怎么样？"
+    },
+    {
+        "start": 45.0,
+        "end": 48.0,
+        "english": "I'm afraid we're in for a rough weekend, Mary.",
+        "chinese": "我怕我们这一周的周末会挺艰难的，玛丽。"
+    },
+    {
+        "start": 48.0,
+        "end": 51.0,
+        "english": "There's a storm system moving through the east coast.",
+        "chinese": "有一个风暴系统正在穿过东海岸。"
+    },
+    {
+        "start": 51.0,
+        "end": 56.0,
+        "english": "It will be drizzling all day today and there's a 60% chance of thunderstorms this evening.",
+        "chinese": "今天全天都是小雨，晚上有60%的几率会有雷阵雨。"
+    },
+    {
+        "start": 56.0,
+        "end": 59.0,
+        "english": "It will be warm and humid all weekend.",
+        "chinese": "这周末会暖和且潮湿。"
+    },
+    {
+        "start": 59.0,
+        "end": 64.0,
+        "english": "In the Midwest, expect strong winds and a low of around 40 degrees.",
+        "chinese": "在中西部，准备迎接强劲的风和低温约在40度左右。"
+    },
+    {
+        "start": 64.0,
+        "end": 66.0,
+        "english": "That's pretty chilly for the summer.",
+        "chinese": "那夏天还挺冷的。"
+    },
+    {
+        "start": 66.0,
+        "end": 68.0,
+        "english": "Will it rain on Saturday?",
+        "chinese": "周六会下雨吗？"
+    },
+    {
+        "start": 68.0,
+        "end": 69.0,
+        "english": "Unfortunately, yes.",
+        "chinese": "很遗憾。"
+    },
+    {
+        "start": 69.0,
+        "end": 74.0,
+        "english": "It will be clearly Saturday morning but there is a high chance of showers and thunderstorms later in the day.",
+        "chinese": "今天是星期六的早晨，但下午可能会有雷阵雨和雷暴。"
+    },
+    {
+        "start": 74.0,
+        "end": 78.0,
+        "english": "There is a severe thunderstorm warning for some parts of the southeast.",
+        "chinese": "有部分地区东南地区发布严重雷暴警告。"
+    },
+    {
+        "start": 78.0,
+        "end": 85.0,
+        "english": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+        "chinese": "那些地方的人可能会看到一些冰雹和洪水，特别是那些已经经历了创纪录的暴雨的地方。"
+    },
+    {
+        "start": 85.0,
+        "end": 88.0,
+        "english": "That certainly sounds like a jury Saturday.",
+        "chinese": "那听起来确实像是一个陪审团周末。"
+    },
+    {
+        "start": 88.0,
+        "end": 90.0,
+        "english": "It gets better on Sunday though.",
+        "chinese": "当然会更好哦！"
+    },
+    {
+        "start": 90.0,
+        "end": 93.0,
+        "english": "The storm systems move east and the skies will clear up at night.",
+        "chinese": "风暴系统往东移动，到了晚上天空就会放晴。"
+    },
+    {
+        "start": 93.0,
+        "end": 96.0,
+        "english": "It will still be rather cool with highs in the low 50s.",
+        "chinese": "气温依然会挺凉爽的，低五位数。"
+    },
+    {
+        "start": 96.0,
+        "end": 99.0,
+        "english": "The west coast will be experiencing some unusually chilly weather.",
+        "chinese": "西海岸将经历一些异常寒冷的天气。"
+    },
+    {
+        "start": 99.0,
+        "end": 101.0,
+        "english": "But at least the sun will come out.",
+        "chinese": "但至少太阳会出来。"
+    },
+    {
+        "start": 101.0,
+        "end": 105.0,
+        "english": "I advise weekend travelers to be careful, especially while driving.",
+        "chinese": "我建议周末的旅行者要小心，尤其是开车的时候。"
+    },
+    {
+        "start": 105.0,
+        "end": 106.0,
+        "english": "Back to you, Mary.",
+        "chinese": "回过头来，玛丽。"
+    },
+    {
+        "start": 106.0,
+        "end": 108.0,
+        "english": "Thanks, John, and there you have it.",
+        "chinese": "谢谢，约翰，这就给你了。"
+    },
+    {
+        "start": 108.0,
+        "end": 111.0,
+        "english": "Looks like it's a weekend to stay at home.",
+        "chinese": "听起来像是周末在家待着挺好的。"
+    },
+    {
+        "start": 118.0,
+        "end": 119.0,
+        "english": "We're back.",
+        "chinese": "我们又回来了。"
+    },
+    {
+        "start": 119.0,
+        "end": 123.0,
+        "english": "Apparently, they're not going to have great weather this weekend.",
+        "chinese": "看来，这个周末天气不会很好。"
+    },
+    {
+        "start": 123.0,
+        "end": 126.0,
+        "english": "They actually started with an interesting word.",
+        "chinese": "他们真的从一个有趣的小词开始的。"
+    },
+    {
+        "start": 126.0,
+        "end": 134.0,
+        "english": "The commentator started asking the weatherman, John, what does the forecast look like for our weekend?",
+        "chinese": "评论员开始问天气预报员约翰，我们这个周末的天气会怎么样？"
+    },
+    {
+        "start": 134.0,
+        "end": 141.0,
+        "english": "The word here forecast is very important because it describes this part of the newscast.",
+        "chinese": "这个单词在这里的预测非常重要，因为它描述了新scast的一部分。"
+    },
+    {
+        "start": 141.0,
+        "end": 149.0,
+        "english": "A forecast is basically a prediction or a description of the future weather situation.",
+        "chinese": "天气预报基本上是对未来天气情况的预测或描述。"
+    },
+    {
+        "start": 149.0,
+        "end": 150.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 150.0,
+        "end": 152.0,
+        "english": "We're talking about the weather forecast.",
+        "chinese": "我们正在谈论天气预报。"
+    },
+    {
+        "start": 152.0,
+        "end": 157.0,
+        "english": "It's very interesting because we can also use that in business, for example, in budgets.",
+        "chinese": "确实很有趣，因为我们也可以在业务中使用它，比如预算里。"
+    },
+    {
+        "start": 157.0,
+        "end": 161.0,
+        "english": "You can say what is the financial forecast of the company.",
+        "chinese": "你可以问一下公司的财务预测是什么。"
+    },
+    {
+        "start": 161.0,
+        "end": 164.0,
+        "english": "You can't know what will happen, but you can predict it.",
+        "chinese": "你无法预知未来，但你可以预测它。"
+    },
+    {
+        "start": 164.0,
+        "end": 166.0,
+        "english": "That's what a forecast is.",
+        "chinese": "那这就是天气预报。"
+    },
+    {
+        "start": 166.0,
+        "end": 167.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 167.0,
+        "end": 170.0,
+        "english": "We're talking about the weather forecast and the weatherman said that,",
+        "chinese": "我们正在谈论天气预报，气象台长说，"
+    },
+    {
+        "start": 170.0,
+        "end": 175.0,
+        "english": "well, there are some storms coming and it will be drizzling all day.",
+        "chinese": "好的，有一些风暴要来了，今天会一直下雨。"
+    },
+    {
+        "start": 175.0,
+        "end": 181.0,
+        "english": "Okay, so to drizzle is a verb and it's like the verb terrain except it's less by degree.",
+        "chinese": "好的，所以“drizzle”是一个动词，和地形的动词意思类似，只是程度上更弱。"
+    },
+    {
+        "start": 181.0,
+        "end": 183.0,
+        "english": "It's very light rain.",
+        "chinese": "雨不大。"
+    },
+    {
+        "start": 183.0,
+        "end": 189.0,
+        "english": "Yeah, it's kind of like if I spray you with water, not a spray can or something, it's like drizzle.",
+        "chinese": "嗯，这有点像是我用水枪喷你，不是那种水枪或者喷雾，是像细雨滴落。"
+    },
+    {
+        "start": 189.0,
+        "end": 191.0,
+        "english": "It's just little dots of water.",
+        "chinese": "那是水滴小小的点。"
+    },
+    {
+        "start": 191.0,
+        "end": 192.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 192.0,
+        "end": 193.0,
+        "english": "It's not like you're getting wet.",
+        "chinese": "这不是你真的要淋雨。"
+    },
+    {
+        "start": 193.0,
+        "end": 196.0,
+        "english": "You don't really have the normal heavy rain drops.",
+        "chinese": "你真的没有正常的倾盆大雨。"
+    },
+    {
+        "start": 196.0,
+        "end": 198.0,
+        "english": "You just have a little bit of water coming down.",
+        "chinese": "你只是下了一点小雨。"
+    },
+    {
+        "start": 198.0,
+        "end": 201.0,
+        "english": "But it's annoying because do you bring your umbrella?",
+        "chinese": "但这是很烦人的，你带伞了吗？"
+    },
+    {
+        "start": 201.0,
+        "end": 202.0,
+        "english": "Do you leave your umbrella?",
+        "chinese": "你带伞了吗？"
+    },
+    {
+        "start": 202.0,
+        "end": 205.0,
+        "english": "So drizzling is a kind of rain that's very, very light.",
+        "chinese": "所以，细雨是一种非常、非常轻的雨。"
+    },
+    {
+        "start": 205.0,
+        "end": 206.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 206.0,
+        "end": 208.0,
+        "english": "So it's going to drizzle all day.",
+        "chinese": "所以整天都要下雨。"
+    },
+    {
+        "start": 208.0,
+        "end": 213.0,
+        "english": "And the weatherman also said that we might have some thunderstorms.",
+        "chinese": "而且天气预报员还说，我们可能会有雷阵雨。"
+    },
+    {
+        "start": 213.0,
+        "end": 216.0,
+        "english": "Okay, so thunderstorms are very different.",
+        "chinese": "好的，那么雷暴是完全不同的。"
+    },
+    {
+        "start": 216.0,
+        "end": 219.0,
+        "english": "Thunderstorms are kind of storm where there is thunder.",
+        "chinese": "雷暴是一种有闪电的风暴。"
+    },
+    {
+        "start": 219.0,
+        "end": 222.0,
+        "english": "So thunder is the loud noises when there's lightning.",
+        "chinese": "所以雷声就是闪电时发出的隆隆巨响。"
+    },
+    {
+        "start": 222.0,
+        "end": 223.0,
+        "english": "Oh, lightning.",
+        "chinese": "哦，闪电。"
+    },
+    {
+        "start": 223.0,
+        "end": 227.0,
+        "english": "Okay, so lightning is like the flash that you get from the sky.",
+        "chinese": "好的，闪电就像是天空中的闪光一样。"
+    },
+    {
+        "start": 227.0,
+        "end": 230.0,
+        "english": "And thunder is the hard sound that comes after.",
+        "chinese": "而且雷声是紧接着的硬响。"
+    },
+    {
+        "start": 230.0,
+        "end": 231.0,
+        "english": "The boom.",
+        "chinese": "这个句子的英文是 \"The boom.\" 在中文中可以翻译为“繁荣”。"
+    },
+    {
+        "start": 231.0,
+        "end": 232.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 232.0,
+        "end": 234.0,
+        "english": "Yeah, so remember, light, lightning.",
+        "chinese": "嗯，记得哦，光，闪电。"
+    },
+    {
+        "start": 234.0,
+        "end": 237.0,
+        "english": "Light is the light that comes down from the sky, lightning.",
+        "chinese": "光，是来自天空的光芒。"
+    },
+    {
+        "start": 237.0,
+        "end": 240.0,
+        "english": "And thunderstorms are just those loud noises that the lightning makes.",
+        "chinese": "而且雷暴就是闪电发出的轰隆隆的声音。"
+    },
+    {
+        "start": 240.0,
+        "end": 243.0,
+        "english": "So usually with thunderstorms we have very heavy rain.",
+        "chinese": "通常，雷暴伴随着非常强的降雨。"
+    },
+    {
+        "start": 243.0,
+        "end": 244.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 244.0,
+        "end": 247.0,
+        "english": "And that's why it's different from drizzling, which is very light.",
+        "chinese": "所以这就是为什么和细雨不同，非常轻。"
+    },
+    {
+        "start": 247.0,
+        "end": 248.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 248.0,
+        "end": 250.0,
+        "english": "Now we're talking about water.",
+        "chinese": "现在我们谈论的是水。"
+    },
+    {
+        "start": 250.0,
+        "end": 251.0,
+        "english": "We have drizzle.",
+        "chinese": "我们有小雨。"
+    },
+    {
+        "start": 251.0,
+        "end": 252.0,
+        "english": "We have thunderstorm.",
+        "chinese": "我们有雷阵雨。"
+    },
+    {
+        "start": 252.0,
+        "end": 254.0,
+        "english": "Now what about a shower?",
+        "chinese": "现在洗澡呢？"
+    },
+    {
+        "start": 254.0,
+        "end": 256.0,
+        "english": "Because the weatherman said there is a high chance of showers.",
+        "chinese": "因为天气预报说有很高的下雨几率。"
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "english": "Well, yes, there's a high chance of showers.",
+        "chinese": "嗯，是的，有雨的可能性很大。"
+    },
+    {
+        "start": 258.0,
+        "end": 259.0,
+        "english": "I take showers every day.",
+        "chinese": "我每天都洗澡。"
+    },
+    {
+        "start": 259.0,
+        "end": 260.0,
+        "english": "Thank you very much.",
+        "chinese": "非常感谢。"
+    },
+    {
+        "start": 260.0,
+        "end": 262.0,
+        "english": "But this not the kind of shower we're talking about here.",
+        "chinese": "但这不是我们正在谈论的那种淋浴。"
+    },
+    {
+        "start": 262.0,
+        "end": 263.0,
+        "english": "Is it?",
+        "chinese": "是吗？"
+    },
+    {
+        "start": 263.0,
+        "end": 264.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 264.0,
+        "end": 265.0,
+        "english": "Think about it though.",
+        "chinese": "确实，你考虑一下。"
+    },
+    {
+        "start": 265.0,
+        "end": 266.0,
+        "english": "It's similar.",
+        "chinese": "确实。"
+    },
+    {
+        "start": 266.0,
+        "end": 269.0,
+        "english": "A shower when you wash yourself is water coming down on top of you.",
+        "chinese": "当你洗澡时，水是从你身上往下流的。"
+    },
+    {
+        "start": 269.0,
+        "end": 272.0,
+        "english": "Well, in this case, it's a rain shower.",
+        "chinese": "好吧，在这种情况下，这是阵雨。"
+    },
+    {
+        "start": 272.0,
+        "end": 274.0,
+        "english": "So it's rain that's happening.",
+        "chinese": "所以是下雨了。"
+    },
+    {
+        "start": 274.0,
+        "end": 280.0,
+        "english": "Okay, so it's a rain water that's coming down very similar to the shower that you take in the morning.",
+        "chinese": "好的，那是因为和你早晨洗澡的水一样，下了一场雨。"
+    },
+    {
+        "start": 280.0,
+        "end": 284.0,
+        "english": "The difference though is that a shower is a noun and to rain is a verb.",
+        "chinese": "但是，区别在于淋浴是名词，而下雨是动词。"
+    },
+    {
+        "start": 284.0,
+        "end": 290.0,
+        "english": "So it will rain tomorrow or we expect showers tomorrow, both mean the same thing.",
+        "chinese": "所以，明天会下雨，还是我们预计会有阵雨，两者的意思是一样的。"
+    },
+    {
+        "start": 290.0,
+        "end": 291.0,
+        "english": "All right, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 291.0,
+        "end": 299.0,
+        "english": "And while talking about showers and thunderstorms, there's also another type of water that falls from the sky.",
+        "chinese": "英语：而且在谈论雨和雷电时，还有另一种从天空中落下水的类型。"
+    },
+    {
+        "start": 299.0,
+        "end": 300.0,
+        "english": "This is called hail.",
+        "chinese": "这是叫雨。"
+    },
+    {
+        "start": 300.0,
+        "end": 304.0,
+        "english": "Okay, so hail is difficult to describe because it's like ice.",
+        "chinese": "好的，所以雪很难形容，就像冰一样。"
+    },
+    {
+        "start": 304.0,
+        "end": 306.0,
+        "english": "But it's not really.",
+        "chinese": "但其实不是。"
+    },
+    {
+        "start": 306.0,
+        "end": 313.0,
+        "english": "It's just usually hard, almost like marbles, like hard balls of rain that come down.",
+        "chinese": "英语：它就像雨中的小球一样，很硬。"
+    },
+    {
+        "start": 313.0,
+        "end": 314.0,
+        "english": "So it's not snow.",
+        "chinese": "所以不是雪。"
+    },
+    {
+        "start": 314.0,
+        "end": 315.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 315.0,
+        "end": 316.0,
+        "english": "It hurts when it hits you.",
+        "chinese": "确实，当它来的时候会疼。"
+    },
+    {
+        "start": 316.0,
+        "end": 317.0,
+        "english": "Sometimes it's very big.",
+        "chinese": "有时候真的很特别。"
+    },
+    {
+        "start": 317.0,
+        "end": 319.0,
+        "english": "Sometimes it's very small.",
+        "chinese": "有时候很小。"
+    },
+    {
+        "start": 319.0,
+        "end": 322.0,
+        "english": "But it's heavy, hard things that come out of the clouds.",
+        "chinese": "但这些都是从云层里出来的沉重、艰难的事。"
+    },
+    {
+        "start": 322.0,
+        "end": 323.0,
+        "english": "Yeah, so just think about it.",
+        "chinese": "是的，所以想一想。"
+    },
+    {
+        "start": 323.0,
+        "end": 325.0,
+        "english": "It's very, very similar to ice.",
+        "chinese": "它非常像冰。"
+    },
+    {
+        "start": 325.0,
+        "end": 329.0,
+        "english": "It's the small pieces of ice coming down from the sky.",
+        "chinese": "那是从天空飘落的小小冰片。"
+    },
+    {
+        "start": 329.0,
+        "end": 330.0,
+        "english": "So that's hail.",
+        "chinese": "所以这就是雨。"
+    },
+    {
+        "start": 330.0,
+        "end": 334.0,
+        "english": "But obviously very different from snow because as we said, it's hard.",
+        "chinese": "但是，显然和雪完全不同，因为正如我们所说，那是很难的。"
+    },
+    {
+        "start": 334.0,
+        "end": 335.0,
+        "english": "Snow is very soft.",
+        "chinese": "雪非常柔软。"
+    },
+    {
+        "start": 335.0,
+        "end": 336.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 336.0,
+        "end": 342.0,
+        "english": "And well, with this type of weather going on on the weekend, the commentator said, wow, that certainly sounds like a lot of snow.",
+        "chinese": "而且，这种周末的天气状况令人印象深刻，评论员说，确实听起来像一场雪。"
+    },
+    {
+        "start": 342.0,
+        "end": 345.0,
+        "english": "Wow, that certainly sounds like a dreary Saturday.",
+        "chinese": "哇，那的确听起来是个糟糕的周六。"
+    },
+    {
+        "start": 345.0,
+        "end": 348.0,
+        "english": "Okay, dreary is a great word to describe it.",
+        "chinese": "好的，乏味是形容它的一种好词。"
+    },
+    {
+        "start": 348.0,
+        "end": 350.0,
+        "english": "So as you can tell, it's going to rain.",
+        "chinese": "你看起来是想说，天要下雨了。"
+    },
+    {
+        "start": 350.0,
+        "end": 352.0,
+        "english": "It's, dreary is not a good thing.",
+        "chinese": "确实，这并不好。"
+    },
+    {
+        "start": 352.0,
+        "end": 353.0,
+        "english": "It's not a happy thing.",
+        "chinese": "这不是一件快乐的事情。"
+    },
+    {
+        "start": 353.0,
+        "end": 354.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 354.0,
+        "end": 356.0,
+        "english": "So something is dreary when it's not very exciting.",
+        "chinese": "英语：所以当它不那么引人注目的时候，就有点乏味了。"
+    },
+    {
+        "start": 356.0,
+        "end": 360.0,
+        "english": "It looks like it'll be dull or sad or boring or dark.",
+        "chinese": "听起来像是会无聊、悲伤、乏味或阴暗。"
+    },
+    {
+        "start": 360.0,
+        "end": 362.0,
+        "english": "Now can you describe a person like this as well?",
+        "chinese": "你能不能也描述这么一个人呢？"
+    },
+    {
+        "start": 362.0,
+        "end": 364.0,
+        "english": "Yes, he's a very dreary person.",
+        "chinese": "是的，他是个非常郁闷的人。"
+    },
+    {
+        "start": 364.0,
+        "end": 366.0,
+        "english": "He's never optimistic.",
+        "chinese": "他从不乐观。"
+    },
+    {
+        "start": 366.0,
+        "end": 371.0,
+        "english": "He's always down and, yeah, kind of quiet and sad and down.",
+        "chinese": "英语：他总是下着，嗯，有点安静和悲伤，下着。"
+    },
+    {
+        "start": 371.0,
+        "end": 372.0,
+        "english": "And boring.",
+        "chinese": "无聊。"
+    },
+    {
+        "start": 372.0,
+        "end": 373.0,
+        "english": "Yeah.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 373.0,
+        "end": 377.0,
+        "english": "Okay, so that's what it means, something that's boring, not very exciting or very calm.",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 377.0,
+        "end": 378.0,
+        "english": "But also dark.",
+        "chinese": "但也是黑色的。"
+    },
+    {
+        "start": 378.0,
+        "end": 380.0,
+        "english": "There's a dark element to it because it's dreary.",
+        "chinese": "英语：它有黑暗元素，因为它是阴郁的。"
+    },
+    {
+        "start": 380.0,
+        "end": 381.0,
+        "english": "You know, there's no sunshine.",
+        "chinese": "你知道吗？没有阳光。"
+    },
+    {
+        "start": 381.0,
+        "end": 382.0,
+        "english": "There's no light.",
+        "chinese": "没有光。"
+    },
+    {
+        "start": 382.0,
+        "end": 383.0,
+        "english": "There's no optimism.",
+        "chinese": "没有希望。"
+    },
+    {
+        "start": 383.0,
+        "end": 384.0,
+        "english": "So you can say it's a dreary day.",
+        "chinese": "所以你说这天阴沉沉的。"
+    },
+    {
+        "start": 384.0,
+        "end": 386.0,
+        "english": "Yeah, very dreary day today.",
+        "chinese": "是的，今天真是非常乏味的一天。"
+    },
+    {
+        "start": 386.0,
+        "end": 387.0,
+        "english": "No light, no sunshine.",
+        "chinese": "没有光，就没有阳光。"
+    },
+    {
+        "start": 387.0,
+        "end": 389.0,
+        "english": "Okay, very good.",
+        "chinese": "好的，不错。"
+    },
+    {
+        "start": 389.0,
+        "end": 391.0,
+        "english": "We've taken a look at a lot of vocab there.",
+        "chinese": "我们已经仔细研究了那里的词汇。"
+    },
+    {
+        "start": 391.0,
+        "end": 394.0,
+        "english": "Why don't we review what we've just learned and listen to the dialogue again?",
+        "chinese": "我们为何不回顾一下刚才学到的内容，然后再次听听对话呢？"
+    },
+    {
+        "start": 402.0,
+        "end": 407.0,
+        "english": "And those are today's top stories.",
+        "chinese": "那些是今天的头条新闻。"
+    },
+    {
+        "start": 407.0,
+        "end": 408.0,
+        "english": "Now let's go to John for the weather.",
+        "chinese": "好，我们去约翰那里看看天气。"
+    },
+    {
+        "start": 413.0,
+        "end": 416.0,
+        "english": "John, what does the forecast look like for our weekend travelers?",
+        "chinese": "英语：约翰，我们的周末旅客的预报看起来怎么样？"
+    },
+    {
+        "start": 416.0,
+        "end": 420.0,
+        "english": "I'm afraid we're in for a rough weekend, Mary.",
+        "chinese": "恐怕我们这个周末要过得很艰难，玛丽。"
+    },
+    {
+        "start": 420.0,
+        "end": 423.0,
+        "english": "There's a storm system moving through the east coast.",
+        "chinese": "有条风暴系统正在东海岸移动。"
+    },
+    {
+        "start": 423.0,
+        "end": 428.0,
+        "english": "It will be drizzling all day today and there's a 60% chance of thunderstorms this evening.",
+        "chinese": "今天会下大雨，今晚有60%的概率会有雷阵雨。"
+    },
+    {
+        "start": 428.0,
+        "end": 430.0,
+        "english": "It will be warm and humid all weekend.",
+        "chinese": "这整个周末都会是暖湿的天气。"
+    },
+    {
+        "start": 430.0,
+        "end": 435.0,
+        "english": "In the Midwest, expect strong winds and a low of around 40 degrees.",
+        "chinese": "在中西部地区，预计会有强风和最低气温约为40度。"
+    },
+    {
+        "start": 435.0,
+        "end": 437.0,
+        "english": "That's pretty chilly for the summer.",
+        "chinese": "那夏天还挺冷的。"
+    },
+    {
+        "start": 437.0,
+        "end": 439.0,
+        "english": "Will it rain on Saturday?",
+        "chinese": "周六会下雨吗？"
+    },
+    {
+        "start": 439.0,
+        "end": 440.0,
+        "english": "Unfortunately, yes.",
+        "chinese": "很遗憾，是的。"
+    },
+    {
+        "start": 440.0,
+        "end": 445.0,
+        "english": "It will be clearly Saturday morning, but there is a high chance of showers and thunderstorms later in the day.",
+        "chinese": "英语：它将在今天早上非常清楚，但下午可能会有雨和雷电。"
+    },
+    {
+        "start": 445.0,
+        "end": 449.0,
+        "english": "There is a severe thunderstorm warning for some parts of the southeast.",
+        "chinese": "部分地区有严重雷暴警告。"
+    },
+    {
+        "start": 449.0,
+        "end": 456.0,
+        "english": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+        "chinese": "英语：那些地区的人们可能会看到一些暴雨和洪水，特别是在经历了历史最高降雨量的地区。"
+    },
+    {
+        "start": 456.0,
+        "end": 459.0,
+        "english": "That certainly sounds like a jury Saturday.",
+        "chinese": "那确实听起来像是星期六的陪审团。"
+    },
+    {
+        "start": 459.0,
+        "end": 461.0,
+        "english": "It gets better on Sunday though.",
+        "chinese": "当然会更好哦。"
+    },
+    {
+        "start": 461.0,
+        "end": 464.0,
+        "english": "The storm systems move east and the skies will clear up at night.",
+        "chinese": "英语：风暴系统向东移动，天空将在夜晚变得开阔。"
+    },
+    {
+        "start": 464.0,
+        "end": 467.0,
+        "english": "It will still be rather cool with highs in the low 50s.",
+        "chinese": "英语：它将仍然相当有趣，尤其是在低气温下。"
+    },
+    {
+        "start": 467.0,
+        "end": 472.0,
+        "english": "The west coast will be experiencing some unusually chilly weather, but at least the sun will come out.",
+        "chinese": "英语：西海岸将经历一些异常寒冷的天气，但至少太阳会出来。"
+    },
+    {
+        "start": 472.0,
+        "end": 476.0,
+        "english": "I advise weekend travelers to be careful, especially while driving.",
+        "chinese": "我建议周末旅行者要小心，尤其是开车。"
+    },
+    {
+        "start": 476.0,
+        "end": 477.0,
+        "english": "Back to you, Mary.",
+        "chinese": "你好，玛丽。"
+    },
+    {
+        "start": 477.0,
+        "end": 479.0,
+        "english": "Thanks, John, and there you have it.",
+        "chinese": "谢谢，约翰，这就是了。"
+    },
+    {
+        "start": 479.0,
+        "end": 482.0,
+        "english": "Looks like it's a weekend to stay at home.",
+        "chinese": "英语：看起来像周末在家待着。"
+    },
+    {
+        "start": 486.0,
+        "end": 492.0,
+        "english": "Alright, we're back.",
+        "chinese": "好的，我们又回来了。"
+    },
+    {
+        "start": 492.0,
+        "end": 497.0,
+        "english": "So now we're going to talk a little bit about some phrases that we've chosen for you on Fluency Builder.",
+        "chinese": "好的，我明白了。请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 497.0,
+        "end": 499.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 499.0,
+        "end": 504.0,
+        "english": "So when we're talking about forecasts, remember that we're talking about things that aren't certain.",
+        "chinese": "所以当我们谈论预测时，记得我们是在讨论不确定的事情。"
+    },
+    {
+        "start": 504.0,
+        "end": 511.0,
+        "english": "We have to explain that there is a possibility of rain or a possibility of sunshine.",
+        "chinese": "我们不得不解释一下，有可能下雨或者有阳光。"
+    },
+    {
+        "start": 511.0,
+        "end": 518.0,
+        "english": "And usually in the weather report, they will use percentages to describe how likely something is to happen.",
+        "chinese": "英语：通常在天气预报中，他们会使用百分比来描述某个事件发生的可能性。"
+    },
+    {
+        "start": 518.0,
+        "end": 523.0,
+        "english": "That's right. The weatherman said there is a 60% chance of thunderstorms.",
+        "chinese": "是的，你说得对。天气预报员说有六成概率会下雨。"
+    },
+    {
+        "start": 523.0,
+        "end": 528.0,
+        "english": "Okay, so 60% is not very likely, but it's also not unlikely.",
+        "chinese": "好的，所以60%不太可能，但也不太可能。"
+    },
+    {
+        "start": 528.0,
+        "end": 531.0,
+        "english": "It means that it might happen that it rains.",
+        "chinese": "这意味着可能会下雨。"
+    },
+    {
+        "start": 531.0,
+        "end": 532.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 532.0,
+        "end": 539.0,
+        "english": "So as you said, it's a way to measure what the probabilities are because imagine if the weatherman says it might rain tomorrow,",
+        "chinese": "所以，正如你说的那样，这可以用来衡量明天天气的可能性，因为想象一下如果气象学家说明天会下雨。"
+    },
+    {
+        "start": 539.0,
+        "end": 545.0,
+        "english": "you're like, well, maybe it really will or maybe it's very unlikely that it won't or we don't really know.",
+        "chinese": "你好像，嗯，也许它真的会或者可能非常罕见，我们也不知道。"
+    },
+    {
+        "start": 545.0,
+        "end": 550.0,
+        "english": "Exactly. So for example, if the weatherman says there's a 95% chance of rain tomorrow, do you bring your umbrella?",
+        "chinese": "是的。例如，如果天气预报说明天有95%的可能性下雨，你带伞了吗？"
+    },
+    {
+        "start": 550.0,
+        "end": 551.0,
+        "english": "Yes.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 551.0,
+        "end": 554.0,
+        "english": "What if he says there's a 5% chance of rain tomorrow?",
+        "chinese": "英语：如果他说有5%的可能性下雨，我们该怎么办？"
+    },
+    {
+        "start": 554.0,
+        "end": 557.0,
+        "english": "No, no. So you have to think about the probability.",
+        "chinese": "不，不。所以你得考虑概率。"
+    },
+    {
+        "start": 557.0,
+        "end": 563.0,
+        "english": "60%, it's maybe half and half, but 95%, it's very likely to happen.",
+        "chinese": "英语：60%，它可能半一半，但95%很可能会发生。"
+    },
+    {
+        "start": 563.0,
+        "end": 571.0,
+        "english": "That's right. And he also mentioned that there's a high chance of thunderstorms or maybe you can say there's a low chance of hail.",
+        "chinese": "没错。他还提到，有可能会有雷阵雨或者你可以说成有小概率会打雷。"
+    },
+    {
+        "start": 571.0,
+        "end": 578.0,
+        "english": "Right. So he's basically saying he or she is basically saying, you know, it's possible that this will happen or it's not likely that this will happen.",
+        "chinese": "是的。所以他说或者她说，你可能或者不可能发生这种情况。"
+    },
+    {
+        "start": 578.0,
+        "end": 582.0,
+        "english": "They're just trying to help you out. They can't say this will happen because they don't know.",
+        "chinese": "他们只是想帮你。他们不能说这会发生，因为他们不知道。"
+    },
+    {
+        "start": 582.0,
+        "end": 590.0,
+        "english": "Okay. So the word for probability here, the key word is chance. There is a good chance that it will rain. So chance is probability.",
+        "chinese": "好的。在这里，概率的关键词是机会。有大约百分之百的概率会下雨。所以概率就是机会。"
+    },
+    {
+        "start": 590.0,
+        "end": 595.0,
+        "english": "Right. So for example, what's the chance it will rain tomorrow? Well, there's a high chance.",
+        "chinese": "好的。比如说，明天会不会下雨？当然有高概率。"
+    },
+    {
+        "start": 595.0,
+        "end": 603.0,
+        "english": "Okay. Very good. Okay. And now when we talk about the degrees or the how warm or cold it is.",
+        "chinese": "好的。很好。现在我们谈论温度或冷暖的程度时。"
+    },
+    {
+        "start": 603.0,
+        "end": 607.0,
+        "english": "So we express it in Fahrenheit in some countries or in other countries in centigrade.",
+        "chinese": "所以我们在一些国家用华氏度，在其他国家则用摄氏度。"
+    },
+    {
+        "start": 607.0,
+        "end": 613.0,
+        "english": "Here we talk about 40 degrees Fahrenheit. But the weatherman also says highs and lows.",
+        "chinese": "英语：这里我们谈论40度的 Fahrenheit。但气象台也说高和低。"
+    },
+    {
+        "start": 613.0,
+        "end": 617.0,
+        "english": "There's a low of around 40 degrees. What does he mean? A low.",
+        "chinese": "有一个大约40度的低气压。他说的是什么意思？低气压。"
+    },
+    {
+        "start": 617.0,
+        "end": 622.0,
+        "english": "This is a really important part of the forecast because you need to know, well, you have to bring a coat tomorrow.",
+        "chinese": "这个是预报中非常重要的一部分，因为您需要知道，明天您需要带外套。"
+    },
+    {
+        "start": 622.0,
+        "end": 631.0,
+        "english": "Is it going to be hot or cold? And so you think about a day, usually during the day at noon or one o'clock in the afternoon, it's the hottest.",
+        "chinese": "是吗？你考虑一下一天，通常在中午或下午一点的时候最热。"
+    },
+    {
+        "start": 631.0,
+        "end": 639.0,
+        "english": "But at night, it's the coldest. And so the low refers to the lowest temperature and the high refers to the highest temperature.",
+        "chinese": "但晚上，温度最低。所以低指最低温度，高则指最高温度。"
+    },
+    {
+        "start": 639.0,
+        "end": 646.0,
+        "english": "So for example, in the fall, maybe the highs are 60 degrees, but the lows are 40. So you should bring a coat.",
+        "chinese": "所以，比如在秋天，可能最高温度是60度，最低温度是40度。你应该带件外套。"
+    },
+    {
+        "start": 646.0,
+        "end": 649.0,
+        "english": "Okay. Means that night will be 40 during the day will be 60.",
+        "chinese": "好的。晚上是40，白天是60。"
+    },
+    {
+        "start": 649.0,
+        "end": 657.0,
+        "english": "Okay. So we're talking about the highs or the highest temperatures or the highest number that we'll get and the lows is the lowest.",
+        "chinese": "好的。所以我们正在谈论最高温度或最高数字，以及最低温度是最低。"
+    },
+    {
+        "start": 657.0,
+        "end": 663.0,
+        "english": "So the weatherman will commonly say tomorrow will experience a high of 32 degrees and a low of 25.",
+        "chinese": "所以明天的天气预报会说今天最高温度将达到32度，最低气温为25度。"
+    },
+    {
+        "start": 663.0,
+        "end": 670.0,
+        "english": "Right. So it's very easy to understand that the temperature during the day will be between these two numbers.",
+        "chinese": "没错。所以，白天的温度很容易就能理解是在这两个数字之间。"
+    },
+    {
+        "start": 670.0,
+        "end": 679.0,
+        "english": "Right. Very good. Okay. And for our last phrase, the weatherman also said that there is a severe thunderstorm warning for some parts of the southeast.",
+        "chinese": "好的，我明白了。请告诉我下一个需要翻译的句子。"
+    },
+    {
+        "start": 679.0,
+        "end": 686.0,
+        "english": "All right. So Marco, this is a really key phrase because it is telling people about potential danger.",
+        "chinese": "好的。所以Marco，这真是一个非常关键的短语，因为它在告诉人们潜在的危险。"
+    },
+    {
+        "start": 686.0,
+        "end": 690.0,
+        "english": "You know, a thunderstorm can be very dangerous. So you want to stay inside.",
+        "chinese": "你知道，雷阵雨可非常危险。所以你想要待在家里。"
+    },
+    {
+        "start": 690.0,
+        "end": 695.0,
+        "english": "So a severe thunderstorm warning, severe means very, very serious.",
+        "chinese": "所以，一个严重的雷暴警告，严重意味着非常、非常严重。"
+    },
+    {
+        "start": 695.0,
+        "end": 702.0,
+        "english": "If something you should pay attention to, that's right. But now the interesting thing is that we can change the noun in this case thunderstorm.",
+        "chinese": "如果某人应该注意的事情，那正是正确的。但现在有趣的是，我们可以在这个案例中改变名词：雷暴。"
+    },
+    {
+        "start": 702.0,
+        "end": 707.0,
+        "english": "And we can talk about, for example, a severe tornado warning.",
+        "chinese": "我们还可以讨论，例如，恶劣的雷暴预警。"
+    },
+    {
+        "start": 707.0,
+        "end": 717.0,
+        "english": "All right. So if there's a severe tornado warning, then I really have to pay attention to the weather and be careful not to go outside or even a severe flood warning.",
+        "chinese": "好的。如果有一级大风预警，那么我必须更加注意天气，并且尽量避免外出或在极端洪水预警下。"
+    },
+    {
+        "start": 717.0,
+        "end": 720.0,
+        "english": "You need to know that the streets might become flooded and prepare.",
+        "chinese": "你知道，街道可能会被淹了，要做好准备。"
+    },
+    {
+        "start": 720.0,
+        "end": 726.0,
+        "english": "So they're saying that there's a very high probability that this might happen. So they're warning you to take precaution.",
+        "chinese": "所以他们说，这可能意味着这个可能会发生。所以你们要小心点。"
+    },
+    {
+        "start": 726.0,
+        "end": 731.0,
+        "english": "All right. So pay attention to that last one. And we're going to listen to today's dialogue one more time.",
+        "chinese": "好的。所以要特别注意那个最后一点哦。我们再听一遍今天对话吧。"
+    },
+    {
+        "start": 731.0,
+        "end": 734.0,
+        "english": "We'll be back in a moment to talk a little bit more about the weather.",
+        "chinese": "我们稍后回来，再多聊聊天气。"
+    },
+    {
+        "start": 742.0,
+        "end": 747.0,
+        "english": "And those are today's top stories. Now let's go to John for the weather.",
+        "chinese": "英语：和这些今天的头条新闻一样。现在让我们去约翰那里看看天气。"
+    },
+    {
+        "start": 751.0,
+        "end": 754.0,
+        "english": "John, what does the forecast look like for our weekend travelers?",
+        "chinese": "John，我们周末的旅客预报是什么样的？"
+    },
+    {
+        "start": 754.0,
+        "end": 757.0,
+        "english": "I'm afraid we're in for a rough weekend, Mary.",
+        "chinese": "我怕我们这个周末要过得很辛苦，玛丽。"
+    },
+    {
+        "start": 757.0,
+        "end": 765.0,
+        "english": "There's a storm system moving through the east coast. It will be drizzling all day today and there's a 60% chance of thunderstorms this evening.",
+        "chinese": "今天东部沿海要来一场风暴系统。全天都是小雨，晚上有60%的几率雷阵雨。"
+    },
+    {
+        "start": 765.0,
+        "end": 772.0,
+        "english": "It will be warm and humid all weekend. In the Midwest, expect strong winds and a low of around 40 degrees.",
+        "chinese": "这周末会暖湿，整个中西部地区会有强风和最低气温在大约40度左右。"
+    },
+    {
+        "start": 772.0,
+        "end": 776.0,
+        "english": "That's pretty chilly for the summer. Will it rain on Saturday?",
+        "chinese": "这夏天有点冷。周六会下雨吗？"
+    },
+    {
+        "start": 776.0,
+        "end": 783.0,
+        "english": "Unfortunately, yes. It will be clearly Saturday morning, but there is a high chance of showers and thunderstorms later in the day.",
+        "chinese": "不幸的是，是的。今天会是周六早上，但下午可能会有雨和雷电。"
+    },
+    {
+        "start": 783.0,
+        "end": 787.0,
+        "english": "There is a severe thunderstorm warning for some parts of the southeast.",
+        "chinese": "有部分地区发布雷暴警告。"
+    },
+    {
+        "start": 787.0,
+        "end": 794.0,
+        "english": "Folks in those areas might see some hail and flooding, especially in areas that have been experiencing record high rainfalls.",
+        "chinese": "那边的人可能会看到一些冰雹和洪水，尤其是那些最近经历了创纪录的降雨量的地方。"
+    },
+    {
+        "start": 794.0,
+        "end": 797.0,
+        "english": "That certainly sounds like a jury Saturday.",
+        "chinese": "那听起来确实像是星期六的陪审团会议。"
+    },
+    {
+        "start": 797.0,
+        "end": 801.0,
+        "english": "It gets better on Sunday, though. The storm systems move east and the skies will clear up at night.",
+        "chinese": "英语：它会越来越好，尽管风暴系统向东移动，并且天色将变得明亮。"
+    },
+    {
+        "start": 802.0,
+        "end": 810.0,
+        "english": "It will still be rather cool with highs in the low 50s. The west coast will be experiencing some unusually chilly weather, but at least the sun will come out.",
+        "chinese": "英语：它将仍然相当凉爽，西部沿海地区将会经历一些异常寒冷的天气，但至少太阳会出来。"
+    },
+    {
+        "start": 810.0,
+        "end": 815.0,
+        "english": "I advise weekend travelers to be careful, especially while driving. Back to you, Mary.",
+        "chinese": "我建议周末的旅行者要当心，尤其是开车的时候。玛丽，请问有什么我可以帮您的吗？"
+    },
+    {
+        "start": 815.0,
+        "end": 820.0,
+        "english": "Thanks, John, and there you have it. Looks like it's a weekend to stay at home.",
+        "chinese": "谢谢，约翰，这就是了。看来周末就宅在家里吧。"
+    },
+    {
+        "start": 821.0,
+        "end": 823.0,
+        "english": "The weather is always wrong.",
+        "chinese": "天气总是搞错了。"
+    },
+    {
+        "start": 823.0,
+        "end": 826.0,
+        "english": "Always. It's like the opposite of what should happen.",
+        "chinese": "当然。就像不应该发生的一样。"
+    },
+    {
+        "start": 826.0,
+        "end": 843.0,
+        "english": "That's right. You can't blame them because all they have is a computer and some sensors and they have to guess about the weather and help people figure out what to do.",
+        "chinese": "对了，你可以不怪他们，因为他们的全部只有台式机和一些传感器，他们只能靠猜天气，帮人们解决遇到的问题。"
+    },
+    {
+        "start": 843.0,
+        "end": 849.0,
+        "english": "Have you ever experienced anything severe like a heart thunderstorm or maybe a tornado or something like this?",
+        "chinese": "你有没有体验过像心脏暴风雨或者龙卷风这样的严重事情吗？"
+    },
+    {
+        "start": 849.0,
+        "end": 855.0,
+        "english": "I have actually because I'm from Chicago and in America, the middle of the country is called the tornado belt.",
+        "chinese": "我其实是因为我是芝加哥人，美国中部的中西部地区被称为龙卷风带。"
+    },
+    {
+        "start": 855.0,
+        "end": 858.0,
+        "english": "That means it's a piece of land where tornadoes are very common.",
+        "chinese": "这意味着那是一块非常容易发生龙卷风的土地。"
+    },
+    {
+        "start": 858.0,
+        "end": 863.0,
+        "english": "And so in the fall and in the spring, we often have tornadoes and I've been in a couple tornadoes myself.",
+        "chinese": "英语：而且在秋天和春天，我们经常会有龙卷风，我在去年的龙卷风中也经历了一次。"
+    },
+    {
+        "start": 863.0,
+        "end": 864.0,
+        "english": "Have you seen them?",
+        "chinese": "你看过吗？"
+    },
+    {
+        "start": 864.0,
+        "end": 865.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 865.0,
+        "end": 866.0,
+        "english": "Is it amazing to see?",
+        "chinese": "真的吗？看到这个感觉怎么样？"
+    },
+    {
+        "start": 866.0,
+        "end": 870.0,
+        "english": "They're very scary. You're always running inside and locking yourself in the basement.",
+        "chinese": "他们挺吓人的。你总是跑着躲在里面，把自己锁在地下室里。"
+    },
+    {
+        "start": 870.0,
+        "end": 878.0,
+        "english": "It's very important to protect yourself in a tornado because it's very dangerous around the area of the tornado",
+        "chinese": "在龙卷风附近保护自己非常重要，因为它非常危险。"
+    },
+    {
+        "start": 878.0,
+        "end": 887.0,
+        "english": "because the wind is so strong that trucks and cars and telephone poles and big, big heavy objects can fly through the air and hurt people.",
+        "chinese": "因为风太大了，卡车、汽车、电话线和大大的重物都能飞起来，撞到人。"
+    },
+    {
+        "start": 887.0,
+        "end": 889.0,
+        "english": "That's how most of the damage happens.",
+        "chinese": "那就是大多数损坏发生的缘由。"
+    },
+    {
+        "start": 889.0,
+        "end": 894.0,
+        "english": "This is interesting because a tornado is also considered a natural disaster.",
+        "chinese": "这挺有意思的，因为龙卷风也归类为一种自然灾害。"
+    },
+    {
+        "start": 894.0,
+        "end": 895.0,
+        "english": "Yes it is.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 895.0,
+        "end": 902.0,
+        "english": "But it's a weather phenomenon, whereas earthquakes are a natural disaster, but it's not part of the weather.",
+        "chinese": "但这是天气现象，而地震是自然灾难，但它不是天气的一部分。"
+    },
+    {
+        "start": 902.0,
+        "end": 906.0,
+        "english": "No, you're right. It's not something that it sweeps in and it leaves.",
+        "chinese": "不，你完全是对的。这不是什么悄无声息地出现然后又消失的事情。"
+    },
+    {
+        "start": 906.0,
+        "end": 910.0,
+        "english": "Like a flood, for example, all the rain will come down and it will create a flood.",
+        "chinese": "就像洪水一样，所有的雨水都会倾泻而下，并形成洪水。"
+    },
+    {
+        "start": 910.0,
+        "end": 913.0,
+        "english": "An earthquake is a natural disaster that's not weather-related.",
+        "chinese": "地震是一种与天气无关的自然灾难。"
+    },
+    {
+        "start": 913.0,
+        "end": 914.0,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 914.0,
+        "end": 915.0,
+        "english": "Okay, interesting thing.",
+        "chinese": "好的，有趣的事情。"
+    },
+    {
+        "start": 915.0,
+        "end": 922.0,
+        "english": "So maybe some of our listeners that live in a very cold area have experienced a heavy snow storm.",
+        "chinese": "所以，可能有些住在非常寒冷地区的朋友，曾经经历了一场大雪暴。"
+    },
+    {
+        "start": 922.0,
+        "end": 923.0,
+        "english": "Like a blizzard.",
+        "chinese": "就像一场暴风雪。"
+    },
+    {
+        "start": 923.0,
+        "end": 924.0,
+        "english": "Like a blizzard.",
+        "chinese": "就像一场暴风雪。"
+    },
+    {
+        "start": 924.0,
+        "end": 928.0,
+        "english": "Or maybe people in a tropical area have experienced a hurricane.",
+        "chinese": "或许在热带地区的人们曾经经历过台风。"
+    },
+    {
+        "start": 928.0,
+        "end": 932.0,
+        "english": "Let us know if you've ever been in one of these weather-related phenomena.",
+        "chinese": "英语：让我们知道你是否曾经在这些天气相关的现象中出现过。"
+    },
+    {
+        "start": 932.0,
+        "end": 936.0,
+        "english": "And also if you have any comments or questions, we're always at EnglishPod.com.",
+        "chinese": "当然，如果你有任何评论或问题，我们总是可以在英语Pod.com那里找到答案。"
+    },
+    {
+        "start": 936.0,
+        "end": 937.0,
+        "english": "We hope to see you guys there.",
+        "chinese": "我们希望你能来参加。"
+    },
+    {
+        "start": 937.0,
+        "end": 938.0,
+        "english": "Alright, bye.",
+        "chinese": "好的，拜拜。"
+    }
+]

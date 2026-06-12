@@ -1,0 +1,908 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.6000000000000005,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "大家好，欢迎来到英语播客。我的名字是马科。"
+    },
+    {
+        "start": 5.6000000000000005,
+        "end": 7.2,
+        "english": "Hi everyone, my name is Katherine.",
+        "chinese": "你好，大家，我的名字是凯特。"
+    },
+    {
+        "start": 7.2,
+        "end": 8.8,
+        "english": "What do you got Katherine for us today?",
+        "chinese": "今天，你为我们准备了什么？"
+    },
+    {
+        "start": 8.8,
+        "end": 12.8,
+        "english": "It's a good question. Well, we've got a little bit of a sign-failed situation.",
+        "chinese": "这是一个好问题。嗯，我们还有一小点的失败情况。"
+    },
+    {
+        "start": 12.8,
+        "end": 16.8,
+        "english": "So for those of you who are not familiar with this American TV show,",
+        "chinese": "所以对于那些对美国电视节目的不熟悉的人，"
+    },
+    {
+        "start": 16.8,
+        "end": 18.8,
+        "english": "which by the way is one of my favorites,",
+        "chinese": "根据下面的翻译："
+    },
+    {
+        "start": 18.8,
+        "end": 20.8,
+        "english": "a sign-failed is a TV show,",
+        "chinese": "一个失败的节目是一个电视节目。"
+    },
+    {
+        "start": 20.8,
+        "end": 26.0,
+        "english": "a comedy about very awkward, very common situations",
+        "chinese": "一个关于非常尴尬、非常常见的场景的喜剧"
+    },
+    {
+        "start": 26.0,
+        "end": 28.8,
+        "english": "that are taken to the extreme.",
+        "chinese": "那被推向极端。"
+    },
+    {
+        "start": 28.8,
+        "end": 32.8,
+        "english": "So it's a very popular show. It was around for like 10 years ago.",
+        "chinese": "所以它很受欢迎。它早在十年前就流行起来了。"
+    },
+    {
+        "start": 32.8,
+        "end": 36.8,
+        "english": "Oh yeah, yeah. But it's not airing anymore. Well, they're not making new episodes anymore.",
+        "chinese": "嗯，嗯。但现在已经不播放了。不过他们不再制作新的节目了。"
+    },
+    {
+        "start": 36.8,
+        "end": 38.64,
+        "english": "No, you have to see them in reruns.",
+        "chinese": "不可以，你们必须在循环中观看。"
+    },
+    {
+        "start": 38.64,
+        "end": 42.24,
+        "english": "Reruns, right? So we have a situation that's very common.",
+        "chinese": "重播，对吗？所以我们有一个非常普遍的情况。"
+    },
+    {
+        "start": 42.24,
+        "end": 47.6,
+        "english": "It was and it was pretty funny on the show. It's a guy trying to rent a car.",
+        "chinese": "是的，也是挺有趣的。这是一位正在试驾的男子。"
+    },
+    {
+        "start": 47.6,
+        "end": 52.400000000000006,
+        "english": "Okay, so he's probably at the airport or traveling and he's had a long flight",
+        "chinese": "好的，他大概是在机场或旅行，并且他有一段长的飞行。"
+    },
+    {
+        "start": 52.400000000000006,
+        "end": 55.44,
+        "english": "and he wants to rent a car, but of course there are some problems.",
+        "chinese": "他想租一辆车，但当然也有一些问题。"
+    },
+    {
+        "start": 55.44,
+        "end": 61.44,
+        "english": "So this is an elementary level lesson, by the way, so keep that in mind as we listen to this dialogue one time.",
+        "chinese": "所以这是个初级水平的课程，顺便说一句，我们听这个对话一次就记住这一点。"
+    },
+    {
+        "start": 65.84,
+        "end": 69.84,
+        "english": "Hi, I made a reservation for a mid-size vehicle.",
+        "chinese": "你好，我预定了一辆中型车辆。"
+    },
+    {
+        "start": 69.84,
+        "end": 75.84,
+        "english": "The name is Jimmy Fox. I'm sorry. We have no mid-size available at the moment.",
+        "chinese": "名字是乔伊·弗兰克。抱歉。目前没有中型可用。"
+    },
+    {
+        "start": 75.84,
+        "end": 81.03999999999999,
+        "english": "I don't understand. I made a reservation. Do you have my reservation?",
+        "chinese": "我不理解。我订好了，您有我的预订吗？"
+    },
+    {
+        "start": 81.04,
+        "end": 86.64,
+        "english": "Yes, we do. Unfortunately, we ran out of cars.",
+        "chinese": "是的，我们有。遗憾的是，我们没有汽车。"
+    },
+    {
+        "start": 87.44000000000001,
+        "end": 92.48,
+        "english": "But the reservation keeps the car here. That's why you have the reservation.",
+        "chinese": "但是预订在这里。这就是为什么你有预订的原因。"
+    },
+    {
+        "start": 93.12,
+        "end": 97.2,
+        "english": "I know why we have reservations. I don't think you do.",
+        "chinese": "我知道为什么我们有预订。我不认为你有这个能力。"
+    },
+    {
+        "start": 97.84,
+        "end": 102.4,
+        "english": "If you did, I'd have a car. See, you know how to take the reservation.",
+        "chinese": "如果你这样做，我就会有车。你看，你知道怎么预约。"
+    },
+    {
+        "start": 102.4,
+        "end": 106.80000000000001,
+        "english": "You just don't know how to hold the reservation and that's really the most important part of the",
+        "chinese": "你也不清楚如何预订，这确实是最重要的部分。"
+    },
+    {
+        "start": 106.80000000000001,
+        "end": 109.84,
+        "english": "reservation. The holding. Anybody can just take them.",
+        "chinese": "预订。保管。任何人都可以随意取走它们。"
+    },
+    {
+        "start": 110.72,
+        "end": 116.96000000000001,
+        "english": "But we do have a compact or an SUV if you'd like. Fine, I'll take the compact.",
+        "chinese": "但是，我们有紧凑型或SUV。好的，我愿意接受紧凑型。"
+    },
+    {
+        "start": 117.92,
+        "end": 123.60000000000001,
+        "english": "All right, we have a blue Ford Focus for you, Mr. Fox. Would you like insurance?",
+        "chinese": "好的，我们有辆蓝色的福特Focus给您。您愿意购买保险吗？"
+    },
+    {
+        "start": 124.4,
+        "end": 128.56,
+        "english": "Yeah, you better give me the insurance because I'm going to beat the hell out of this car.",
+        "chinese": "是的，你最好给我保险，因为我一定会把这辆车打爆。"
+    },
+    {
+        "start": 133.76,
+        "end": 139.68,
+        "english": "All right, great. So this actually happens a lot. You make a reservation and either they lose it",
+        "chinese": "好的，很好。实际上这种情况经常发生。你订了房，他们可能就丢了"
+    },
+    {
+        "start": 139.68,
+        "end": 143.04000000000002,
+        "english": "or they run out of cars. It's such a common situation.",
+        "chinese": "或者他们跑完了车。这真是一个很常见的情况。"
+    },
+    {
+        "start": 143.68,
+        "end": 148.8,
+        "english": "And it's not just cars. Sometimes this happens at restaurants too and it really makes me angry.",
+        "chinese": "A、它不只是汽车。有时候，这在餐厅发生也很让人生气。"
+    },
+    {
+        "start": 148.8,
+        "end": 152.16,
+        "english": "Yeah, that happens a lot. You show up and they're like, oh, we don't have a reservation.",
+        "chinese": "是的，经常发生这种情况。你出现时他们说：“啊，我们没有预订。”"
+    },
+    {
+        "start": 152.16,
+        "end": 156.56,
+        "english": "And you're just like, well, then you have to keep yourself in check. You can't really get angry.",
+        "chinese": "你就像，嗯，那么你就得自己控制一下。你不能真的生气。"
+    },
+    {
+        "start": 156.56,
+        "end": 161.20000000000002,
+        "english": "But this guy does. So let's take a look at the language. Take a way to find out what are some of",
+        "chinese": "但是这个家伙做得很好。所以让我们看看语言。找到一些什么？"
+    },
+    {
+        "start": 161.20000000000002,
+        "end": 166.4,
+        "english": "the words we're using here to describe renting a car and what kind of car we're talking about.",
+        "chinese": "我们在这里使用的这些词来描述租一辆车和我们讨论的汽车类型。"
+    },
+    {
+        "start": 166.72,
+        "end": 176.56,
+        "english": "Language take away. Well, as you mentioned, at rental places, they have different size cars,",
+        "chinese": "语言剥夺。嗯，您提到的，当在租赁场所时，他们有不同的大小汽车。"
+    },
+    {
+        "start": 176.56,
+        "end": 180.08,
+        "english": "right, different size vehicles, which by the way, it costs different prices.",
+        "chinese": "正确，不同尺寸的车辆，这大概也是因为价格不同。"
+    },
+    {
+        "start": 180.08,
+        "end": 185.36,
+        "english": "Right. So let's take a look at the size that they mentioned in dialogue. Starting with the",
+        "chinese": "正确。那么，让我们来看看他们对话中提到的尺寸。从这里开始，我们可以看到："
+    },
+    {
+        "start": 185.36,
+        "end": 191.76,
+        "english": "cheapest one, the least expensive and the smallest, it's a compact vehicle. All right, compact.",
+        "chinese": "最便宜的、最经济的和最小的，它就是紧凑型车。好了，紧凑型。"
+    },
+    {
+        "start": 191.76,
+        "end": 197.6,
+        "english": "So compact actually means small. Small. Right. So compact car, you're going to hear a very often,",
+        "chinese": "所以紧凑实际上意味着小。小。正确。紧凑的汽车，你一定会经常听到。"
+    },
+    {
+        "start": 197.6,
+        "end": 205.67999999999998,
+        "english": "even if you're buying a car, let's think of an I, what's a compact car? The VW Golf is a compact",
+        "chinese": "即使你正在购买一辆车，让我们想想一辆I。VW Golf是紧凑型车。"
+    },
+    {
+        "start": 205.67999999999998,
+        "end": 210.56,
+        "english": "car. Very small car. So usually it's two doors or if it's a four-door car, it's very small,",
+        "chinese": "小车。非常小的汽车。所以通常情况下，它有两个门或者如果是四门车，就显得很小。"
+    },
+    {
+        "start": 210.56,
+        "end": 215.12,
+        "english": "not very long, right? Right. Exactly. So maybe like a four-focus could be a small car.",
+        "chinese": "不长，对吗？是的。大概就像四轮定位的小车。"
+    },
+    {
+        "start": 215.20000000000002,
+        "end": 219.76,
+        "english": "Compact. Now moving up in size a little bit, we would have a mid-size vehicle.",
+        "chinese": "紧凑。现在稍微缩小一点，我们就有了中型车辆。"
+    },
+    {
+        "start": 220.4,
+        "end": 225.92000000000002,
+        "english": "Okay, mid-size vehicle is, well, it's a giveaway here because mid-mids middle. So it's kind of",
+        "chinese": "好的，中型车是……因为中等。所以有点像……"
+    },
+    {
+        "start": 225.92000000000002,
+        "end": 230.72,
+        "english": "in the middle between the small and the large. And this is your average four-door sedan car.",
+        "chinese": "在中间，两者之间。这就是您平均的四门轿车。"
+    },
+    {
+        "start": 230.72,
+        "end": 237.12,
+        "english": "Okay. So as an example, you would have a four-taurus or maybe a Toyota Camry.",
+        "chinese": "好的。那么，作为例子，您可能会有四头牛或者可能是一辆丰田卡罗拉。"
+    },
+    {
+        "start": 237.68,
+        "end": 243.20000000000002,
+        "english": "Yeah, Toyota Camry is maybe the most common car. Yeah. It's kind of expensive, but it's still",
+        "chinese": "是的，丰田卡罗拉可能是最常见的车。嗯。它有点贵，但还是挺好的。"
+    },
+    {
+        "start": 243.2,
+        "end": 249.35999999999999,
+        "english": "mid-size, right? Exactly. And now a bigger car and probably one of the most popular cars in the",
+        "chinese": "中型车，对吧？没错。现在一辆更大的汽车和最流行的中国车型。"
+    },
+    {
+        "start": 249.35999999999999,
+        "end": 256.71999999999997,
+        "english": "United States is an SUV. Not anymore, Marco. I know. With the energy crisis and the gas prices.",
+        "chinese": "美国是SUV。不，马克。我知道。由于能源危机和油价上涨。"
+    },
+    {
+        "start": 256.71999999999997,
+        "end": 262.96,
+        "english": "Well, the economy as well. People are not driving their SUVs anymore, but SUV is an acronym. That",
+        "chinese": "嗯，经济也一样。人们不再开车，而是用SUV表示汽车了。"
+    },
+    {
+        "start": 262.96,
+        "end": 269.84,
+        "english": "means it stands for three different words. S meaning sports. You meaning? Utility. V vehicle.",
+        "chinese": "意味着它代表了三个不同的词。S 意味着运动。你呢？是工具。V 是车辆。"
+    },
+    {
+        "start": 269.84,
+        "end": 274.64,
+        "english": "All right. Thank you. So SUV sport utility vehicle means it can go maybe off-road.",
+        "chinese": "好的。谢谢。所以SUV运动型多功能车是指它可能在越野上行驶。"
+    },
+    {
+        "start": 274.64,
+        "end": 281.35999999999996,
+        "english": "Right. So an example of this would be a Ford Explorer or a Jeep Cherokee. A Jeep Cherokee could be",
+        "chinese": "正确。那么，这个例子就是福特 Explorer 或者雪佛兰捷达。雪佛兰捷达可以是"
+    },
+    {
+        "start": 281.35999999999996,
+        "end": 286.4,
+        "english": "an SUV as well. So right, those are three different types of cars. Now obviously there are many more,",
+        "chinese": "一个SUV也行。所以，是的，这些汽车有三种不同的类型。现在很明显，有更多的选择。"
+    },
+    {
+        "start": 286.4,
+        "end": 293.52,
+        "english": "like a van or a limo. A limo, like a limousine. But yeah, these are the most common ones that you would",
+        "chinese": "像一辆巴士或一辆轿车。一辆巴士，就像一辆豪华汽车。不过，这些都是你最常遇到的最常见的方式。"
+    },
+    {
+        "start": 293.52,
+        "end": 300.64,
+        "english": "rent at a car rental price. Yeah, definitely. But what we have to do here is make a reservation.",
+        "chinese": "租车价格。嗯，肯定的。但是这里我们需要做的是预订。"
+    },
+    {
+        "start": 301.91999999999996,
+        "end": 307.35999999999996,
+        "english": "Now interesting, you make a reservation. Yeah, you don't have it. You don't do it. You don't",
+        "chinese": "现在有趣，你订了房。对，你没有它。你没做。你没办。"
+    },
+    {
+        "start": 308.47999999999996,
+        "end": 313.59999999999997,
+        "english": "you make it. Yeah, you make these are words that go together. So we're going to keep them together.",
+        "chinese": "您做得很好。是的，这些词是相辅相成的。所以我们要一起保持它们。"
+    },
+    {
+        "start": 313.59999999999997,
+        "end": 317.35999999999996,
+        "english": "I can call a restaurant. So say, for example, Marco works at a restaurant and say hello.",
+        "chinese": "我可以叫一家餐馆。所以，例如，马科在一家餐馆工作，并说你好。"
+    },
+    {
+        "start": 318.15999999999997,
+        "end": 323.28,
+        "english": "I like to make a reservation for tonight. Okay, perfect. Now if you show up at the restaurant,",
+        "chinese": "我喜欢今晚预订。好的，完美。现在如果你到餐厅里来，请告诉我。"
+    },
+    {
+        "start": 323.28,
+        "end": 330.88,
+        "english": "you say, where's my table? I made a reservation. Right. And of course, I throw a fit because",
+        "chinese": "您说，我的桌子在哪里？我已经订好了。对了，我发疯了！"
+    },
+    {
+        "start": 330.88,
+        "end": 337.11999999999995,
+        "english": "there's no table for me. So you make a reservation. And in this case, it was made before. Okay, so you",
+        "chinese": "没有桌子。所以你预订了餐桌。而且在这个情况下，它是在预订之前做的。好的，那么你预订的餐桌是啥样子？"
+    },
+    {
+        "start": 337.11999999999995,
+        "end": 343.52,
+        "english": "make a reservation. Now why was this guy angry at the rental car place? Oh, long story short,",
+        "chinese": "预订。现在为什么这个家伙对租车公司生气？哦，长故事短的。"
+    },
+    {
+        "start": 343.91999999999996,
+        "end": 351.59999999999997,
+        "english": "the company ran out of cars. Okay, not all cars. Just the car that he wanted. Right. Mid-size vehicle.",
+        "chinese": "这个公司用完了所有的汽车。好的，不是所有汽车。只是他想要的那个车。对。中型车辆。"
+    },
+    {
+        "start": 351.6,
+        "end": 356.32000000000005,
+        "english": "So they ran out. So that doesn't mean they're actually running somewhere. No, they're not putting",
+        "chinese": "所以他们跑出了。所以这并不意味着他们在实际运行。不是的，他们并没有把责任放下来。"
+    },
+    {
+        "start": 356.32000000000005,
+        "end": 363.04,
+        "english": "on their running shoes and going for a jog. No, in this case, to run out or in this case, we ran out",
+        "chinese": "在他们的跑鞋上跑步，然后去慢跑。不，在这种情况下，我们跑出了或者在这种情况下，我们跑出了。"
+    },
+    {
+        "start": 363.04,
+        "end": 368.32000000000005,
+        "english": "means that they don't have anymore. You don't have anymore. Exactly. I think this word is a nice word",
+        "chinese": "这句话的意思是：这意味着他们不再有。你不再有。的确如此。我认为这个单词是一个好词。"
+    },
+    {
+        "start": 368.32000000000005,
+        "end": 377.36,
+        "english": "for us to take a look at some other examples now. Example one. We're going to run out of gasoline.",
+        "chinese": "对于我们来看一下其他例子。例一：我们将耗尽汽油。"
+    },
+    {
+        "start": 377.36,
+        "end": 388.32,
+        "english": "You need to find a gas station soon. Example two. Can you buy some milk on your way home?",
+        "chinese": "你需要尽快找到加油站。 例子二。 你能回家买些牛奶吗？"
+    },
+    {
+        "start": 388.32,
+        "end": 397.84000000000003,
+        "english": "We ran out last night. Example three. My pen ran out of ink. Can you lend me one, please?",
+        "chinese": "我们昨晚就用完了。例3. 我的钢笔干枯了，你能借给我一支吗？"
+    },
+    {
+        "start": 399.76,
+        "end": 404.64,
+        "english": "Oh, not a fun phrase, but an important one in case you're ever in a restaurant or in a hot",
+        "chinese": "哦，不是个有趣的话，但是一旦你置身于餐厅或热气腾腾的环境中，这句话将变得非常重要。"
+    },
+    {
+        "start": 404.64,
+        "end": 409.59999999999997,
+        "english": "towel or in a place where you can purchase something or rent something and it's all gone.",
+        "chinese": "毛巾或在你可以在那里购买某种东西或者租借的东西，已经不见了。"
+    },
+    {
+        "start": 409.59999999999997,
+        "end": 414.96,
+        "english": "All right. So I think we've taken a look at a lot of great words here. So let's listen to this",
+        "chinese": "好的。那么我认为我们已经看了很多很棒的词。所以让我们听听这个。"
+    },
+    {
+        "start": 414.96,
+        "end": 419.44,
+        "english": "dialogue again. We're going to slow it down just a little bit and then we'll come back and explain",
+        "chinese": "对话再进行一次。我们将稍微减速，然后我们再来解释一下。"
+    },
+    {
+        "start": 419.44,
+        "end": 430.71999999999997,
+        "english": "some phrases. Hi, I made a reservation for a mid-size vehicle. The name is Jimmy Fox. I'm sorry.",
+        "chinese": "一些短语。你好，我预定了一辆中型车辆。名字叫乔伊·费舍尔。抱歉。"
+    },
+    {
+        "start": 430.8,
+        "end": 437.28000000000003,
+        "english": "We have no mid-size available at the moment. I don't understand. I made a reservation. Do you have",
+        "chinese": "我们目前没有中型的可用空间。我不太明白。我预订了。您有？"
+    },
+    {
+        "start": 437.28000000000003,
+        "end": 447.76000000000005,
+        "english": "my reservation? Yes, we do. Unfortunately, we ran out of cars, but the reservation keeps the car",
+        "chinese": "我的预订？是的，我们有。遗憾的是，我们没有汽车，但预订继续使用汽车"
+    },
+    {
+        "start": 447.76000000000005,
+        "end": 455.6,
+        "english": "here. That's why you have the reservation. I know why we have reservations. I don't think you do.",
+        "chinese": "在这里。这就是为什么你有预订的原因。我知道我们有预订的原因。我不认为你没有。"
+    },
+    {
+        "start": 455.84000000000003,
+        "end": 462.0,
+        "english": "If you did, I'd have a car. See, you know how to take the reservation. You just don't know how to",
+        "chinese": "如果你那样做，我就会有车。你看，你知道怎么预约了。你只知道怎么开车。"
+    },
+    {
+        "start": 462.0,
+        "end": 466.48,
+        "english": "hold the reservation and that's really the most important part of the reservation, the holding.",
+        "chinese": "请保留预订，这是预订中最重要的一部分，等待。"
+    },
+    {
+        "start": 466.48,
+        "end": 474.40000000000003,
+        "english": "Anybody can just take them. But we do have a compact or an SUV if you'd like. Fine. I'll take the",
+        "chinese": "任何人都可以拿它们。不过我们有紧凑型或SUV，如果需要的话。好的，我将取。"
+    },
+    {
+        "start": 474.40000000000003,
+        "end": 481.6,
+        "english": "compact. All right. We have a blue Ford Focus for you, Mr. Fox. Would you like insurance?",
+        "chinese": "紧凑。好的，我们有一辆蓝色的福特Focus给您，先生。您想买保险吗？"
+    },
+    {
+        "start": 482.40000000000003,
+        "end": 486.56,
+        "english": "Yeah, you better give me the insurance because I'm going to beat the hell out of this car.",
+        "chinese": "是的，你最好给我保险，因为我要把这辆车打得粉碎。"
+    },
+    {
+        "start": 490.40000000000003,
+        "end": 495.12,
+        "english": "And we're back. Marco, we've got a couple phrases here that deserve some attention.",
+        "chinese": "和我们回来。马科，这里有一些话值得注意。"
+    },
+    {
+        "start": 495.12,
+        "end": 500.16,
+        "english": "So let's take a look at them in today's Fluency Builder. Fluency Builder.",
+        "chinese": "所以，让我们来看看今天在 Fluent Builder 中的他们。 Fluent Builder。"
+    },
+    {
+        "start": 500.72,
+        "end": 505.6,
+        "english": "So the first phrase that I want to take a look at is when the agent says,",
+        "chinese": "我想要看看的是，当代理人说时，以下这句话是什么意思："
+    },
+    {
+        "start": 505.68,
+        "end": 509.68,
+        "english": "I'm sorry. We have no midsize available at the moment.",
+        "chinese": "我非常抱歉。目前我们没有中型的资源可用。"
+    },
+    {
+        "start": 510.72,
+        "end": 516.32,
+        "english": "Okay. So do they or do they not have any? Yes. She says we have no midsize.",
+        "chinese": "好的。那么他们呢？还是没有？是的。她说我们没有中型。"
+    },
+    {
+        "start": 516.32,
+        "end": 521.2,
+        "english": "Okay. So another way to say this is we haven't got any. Oh, we don't have any.",
+        "chinese": "好的。所以另一种说法是我们没有。哦，我们没有。"
+    },
+    {
+        "start": 521.76,
+        "end": 527.2,
+        "english": "Okay. But in this case, you can just simplify it and say we have no. Why wouldn't she say we have none?",
+        "chinese": "好的。但是在这个情况下，你可以简化一下并说我们没有。她为什么不这么说呢？"
+    },
+    {
+        "start": 527.2,
+        "end": 533.6,
+        "english": "Good question. Why? Because we need a thing here. We have no cars. We have no cake. We have no",
+        "chinese": "好的问题。为什么？因为这里需要一个东西。我们没有汽车。我们没有蛋糕。我们没有"
+    },
+    {
+        "start": 533.6,
+        "end": 539.76,
+        "english": "food. So this is a very common phrase in English and remember to put the thing at the end. So",
+        "chinese": "食物。所以，这是一个非常常见的英语表达，并且记得要把东西放在最后。因此："
+    },
+    {
+        "start": 541.0400000000001,
+        "end": 547.2,
+        "english": "so for example, can I say I have no money? Absolutely. I'm so sorry, Marco, but I'm not going to lend you.",
+        "chinese": "所以，比如说，我可以这么说：“我没有任何钱？”当然。对不起，马科，我没有给你贷款。"
+    },
+    {
+        "start": 547.2,
+        "end": 552.48,
+        "english": "I have no money. Seriously lend me so much. So we have no. This is interesting because this is not",
+        "chinese": "我没有任何钱。真的借给我这么多钱。所以我们没有。这有趣的是，这不是什么。"
+    },
+    {
+        "start": 552.48,
+        "end": 559.52,
+        "english": "a structure that is usually learned through textbooks, right? Usually say I don't have or we haven't",
+        "chinese": "一个通常通过教科书学习的结构？我并不知道或我们还没有。"
+    },
+    {
+        "start": 559.52,
+        "end": 566.88,
+        "english": "got exactly. It's very spoken because you would never say I go no. Right. Exactly. Right. We have to",
+        "chinese": "得完全。它很口语化，因为你永远不会说“我去了”。对。完全。完全。我们需要"
+    },
+    {
+        "start": 566.88,
+        "end": 572.3199999999999,
+        "english": "talk about something that we that has an object, something that we have. So here I have no is very",
+        "chinese": "在这里，我没有什么东西。"
+    },
+    {
+        "start": 572.3199999999999,
+        "end": 579.52,
+        "english": "spoken, very common. It's got another phrase that is also not taught so much in those textbooks that",
+        "chinese": "说的，非常普遍。它还有另一个词也是很少在那些教科书上提到的呢。"
+    },
+    {
+        "start": 579.52,
+        "end": 586.88,
+        "english": "we were just mentioning. So what's that phrase at the end? Well, well, it's a threat. The guy is so",
+        "chinese": "我们刚刚提到了。那句话的末尾是什么意思？嗯，嗯，这是一个威胁。那个家伙真是太"
+    },
+    {
+        "start": 586.88,
+        "end": 593.6,
+        "english": "angry. He leans over the counter and he points his finger in the the agent's face. I want to say",
+        "chinese": "生气。他站在柜台前，指着代理人的眼睛。我想说"
+    },
+    {
+        "start": 593.6,
+        "end": 600.96,
+        "english": "he says, yeah, you better give me the insurance. You better. You better. All right. So you better than",
+        "chinese": "他说，对了，你最好给我保险。你最好。你最好。行。所以你最好比。"
+    },
+    {
+        "start": 600.96,
+        "end": 607.76,
+        "english": "me? No, no, it's not like better. Like something is good, right? You better is like a suggestion,",
+        "chinese": "我？不，不，这不是像更好。就像有什么好，对吗？你最好是一个建议。"
+    },
+    {
+        "start": 607.76,
+        "end": 613.68,
+        "english": "but a very strong one. Okay. Very strong. This is a threat. Yeah, it's better. You better eat your",
+        "chinese": "但是非常强大。好的。非常强大。这是威胁。嗯，更好。你最好吃你的。"
+    },
+    {
+        "start": 613.68,
+        "end": 621.28,
+        "english": "dinner or I'm going to send you to your room. Exactly. So as you can see, it says he says you better,",
+        "chinese": "晚饭或者我将带你去你的房间。对，你看，他说你最好，"
+    },
+    {
+        "start": 621.28,
+        "end": 627.92,
+        "english": "you better give me the insurance, but the grammatically correct way would be you had better. You had",
+        "chinese": "您最好给我保险，但语法正确的做法是您最好。您最好"
+    },
+    {
+        "start": 627.92,
+        "end": 635.92,
+        "english": "better. So the contraction would be you'd better. Exactly. You'd you had better do this. So this is a",
+        "chinese": "更好的。所以这个缩写就是你最好这样做。正好。你最好这么做。这就是"
+    },
+    {
+        "start": 636.9599999999999,
+        "end": 641.76,
+        "english": "hypothetical situation. You had better do this. If you don't do this bad things will happen. So",
+        "chinese": "假设情景。你最好这样做。如果不这样做，坏事会发生的。所以"
+    },
+    {
+        "start": 641.84,
+        "end": 646.24,
+        "english": "remember that here we've got the grammatically correct form that you should write you'd better",
+        "chinese": "记得，这里我们有语法正确的形式，你最好还是写。"
+    },
+    {
+        "start": 646.24,
+        "end": 651.84,
+        "english": "or the spoken form you better you better. You better. I think in this one we should also listen to",
+        "chinese": "或者你更好的。你更好。我认为在这一轮我们还应该听听中文。"
+    },
+    {
+        "start": 651.84,
+        "end": 659.36,
+        "english": "some other examples to get a better idea of how we can use this very strong suggestion. Example one.",
+        "chinese": "一些其他例子，可以帮助我们更好地了解如何使用这个非常强的建议。 例一。"
+    },
+    {
+        "start": 661.52,
+        "end": 664.72,
+        "english": "You better go to the doctor before that cold gets any worse.",
+        "chinese": "你最好在那个感冒变得更严重之前去看医生。"
+    },
+    {
+        "start": 665.44,
+        "end": 673.84,
+        "english": "Example two. You better watch out. It's dangerous to go out this late.",
+        "chinese": "例二。你最好小心点。出门太晚很危险。"
+    },
+    {
+        "start": 677.28,
+        "end": 683.6800000000001,
+        "english": "Example three. She better change her attitude or her boss is going to fire her.",
+        "chinese": "例三。她最好改变态度，或者她的老板会解雇她。"
+    },
+    {
+        "start": 686.64,
+        "end": 692.32,
+        "english": "So what is the threat? You better give me insurance because what is he going to do? He says I'm",
+        "chinese": "所以，威胁是什么？你最好给我保险，因为他会做什么？他说，我是"
+    },
+    {
+        "start": 692.32,
+        "end": 700.5600000000001,
+        "english": "going to beat the hell out of this car. Okay so this future I'm going to I'm gonna beat the hell out",
+        "chinese": "我打算要打败这个车。嗯，这是我的未来。我打算要打败这个车。"
+    },
+    {
+        "start": 700.5600000000001,
+        "end": 706.8000000000001,
+        "english": "of this car. So this is very strong right? Yeah it's very strong and he's saying he is going to",
+        "chinese": "这辆汽车。所以，这很坚固吗？是的，它非常坚固，他说他会"
+    },
+    {
+        "start": 706.8000000000001,
+        "end": 712.5600000000001,
+        "english": "destroy the car. So beat the hell out of so that means really just do damage to something. So you can",
+        "chinese": "摧毁汽车。所以彻底地打败，那么意味着真的只是对某物造成了损害。因此你可以说："
+    },
+    {
+        "start": 712.5600000000001,
+        "end": 717.6800000000001,
+        "english": "use it out towards the person also it's like I'm going to beat the hell out of you and I'll arrest you",
+        "chinese": "使用它来面对那个人，也就像我决定要对你进行彻底的惩罚和逮捕。"
+    },
+    {
+        "start": 718.16,
+        "end": 723.8399999999999,
+        "english": "for violence. Right so it's a very strong phrase. It shows anger it shows that you are threatening",
+        "chinese": "对于暴力。非常强烈的话。它显示愤怒，表明你正在威胁。"
+    },
+    {
+        "start": 723.8399999999999,
+        "end": 730.88,
+        "english": "somebody so it's not obviously it's not polite and it might get you a broken nose in a bar.",
+        "chinese": "有人这样，它不是明摆着的，也不是礼貌的，可能会让你在酒吧摔破鼻子。"
+    },
+    {
+        "start": 730.88,
+        "end": 735.3599999999999,
+        "english": "If you ever say this to someone or about someone so be very careful. Right but you can use it to",
+        "chinese": "如果你曾经对某人说过或提到过，那么一定要非常小心。但你也可以用它来……"
+    },
+    {
+        "start": 735.3599999999999,
+        "end": 741.28,
+        "english": "describe a situation right? He's like yeah we went to a bar yesterday and Dan beat the hell out of",
+        "chinese": "描述一下当前的情况吗？他好像昨天去酒吧了，丹真是个把不胜的对手。"
+    },
+    {
+        "start": 741.36,
+        "end": 750.4,
+        "english": "the bartender. Right? So instead of just saying Dan hit the bartender or Dan got into a fight",
+        "chinese": "服务员。对吧？所以，而不是只说丹打了服务员或者丹和打架了"
+    },
+    {
+        "start": 750.4,
+        "end": 757.12,
+        "english": "he you're saying he hit him and he just and he kept hitting him and kept hitting him so yeah he beat",
+        "chinese": "他你说他打了他，然后他就继续打他，而且一直打到他。所以，他赢了。"
+    },
+    {
+        "start": 757.12,
+        "end": 762.24,
+        "english": "the hell out of him. Right. Alright great so those are the the phrases and words that we wanted to",
+        "chinese": "这出戏搞定了。对，好极了！所以这些是我们在想表达的那些词语和短语。"
+    },
+    {
+        "start": 762.24,
+        "end": 766.24,
+        "english": "talk about today but I think it'd be good if we listened to this dialogue one more time just to get",
+        "chinese": "谈谈今天，但我认为如果我们再听一次对话，以确保我们真正理解了这段话。"
+    },
+    {
+        "start": 766.24,
+        "end": 770.16,
+        "english": "a good feel for it. We come back we'll be talking a little bit more about the process of renting a car.",
+        "chinese": "一个好的感觉。我们回来，我们会稍微谈一下租车的过程。"
+    },
+    {
+        "start": 771.4399999999999,
+        "end": 784.16,
+        "english": "Hi I made a reservation for a mid-size vehicle the name is Jimmy Fox. I'm sorry we have no mid-size",
+        "chinese": "你好，我预定了一辆中型车辆的名称是Jimmy Fox。抱歉，我们目前没有中型车辆。"
+    },
+    {
+        "start": 784.16,
+        "end": 790.0799999999999,
+        "english": "available at the moment. I don't understand I made a reservation do you have my reservation?",
+        "chinese": "当前可用。我没有理解，我预订了你吗？"
+    },
+    {
+        "start": 790.9599999999999,
+        "end": 800.0799999999999,
+        "english": "Yes we do. Unfortunately we ran out of cars but the reservation keeps the car here.",
+        "chinese": "是的，我们确实如此。不幸的是，我们没有汽车，但预订仍然在这里。"
+    },
+    {
+        "start": 800.8000000000001,
+        "end": 807.12,
+        "english": "That's why you have the reservation. I know why we have reservations. I don't think you do.",
+        "chinese": "这是因为您有预订。我知道我们也有预订。我不认为您没有预订。"
+    },
+    {
+        "start": 807.76,
+        "end": 813.9200000000001,
+        "english": "If you did I'd have a car. See you know how to take the reservation. You just don't know how to",
+        "chinese": "如果你做到了，我就会有车。请告诉我如何预订。你并不知道怎么操作。"
+    },
+    {
+        "start": 813.9200000000001,
+        "end": 818.48,
+        "english": "hold the reservation and that's really the most important part of the reservation the holding",
+        "chinese": "预订，这是预订中最重要的一部分。预订是客人与酒店之间的重要协议，它确保了客人能够顺利入住并享受预定的设施和服务。预订过程通常包括确认房间、支付费用和办理入住手续等步骤。在预订过程中，客人需要仔细阅读合同条款，并根据自己的需求做出选择。"
+    },
+    {
+        "start": 818.48,
+        "end": 826.4000000000001,
+        "english": "anybody can just take them. But we do have a compact or an SUV if you'd like. Fine I'll take the",
+        "chinese": "任何人都可以拿它们。不过我们有紧凑型或SUV，如果需要的话。好的，我将取一辆。"
+    },
+    {
+        "start": 826.4,
+        "end": 833.52,
+        "english": "compact. Alright we have a blue Ford focus for you Mr. Fox. Would you like insurance?",
+        "chinese": "紧凑。我们有辆蓝色的福特Focus给您，先生。您想买保险吗？"
+    },
+    {
+        "start": 834.4,
+        "end": 838.56,
+        "english": "Yeah you better give me the insurance because I'm gonna beat the hell out of this car.",
+        "chinese": "是的，你最好给我保险，因为我要把这辆车打得一干二净。"
+    },
+    {
+        "start": 842.4,
+        "end": 850.0799999999999,
+        "english": "You know I heard that in Florida or in certain like cities of California and Florida you can",
+        "chinese": "我知道在佛罗里达或某些像加州和佛罗里达州这样的城市，你可以在那里听到。"
+    },
+    {
+        "start": 850.08,
+        "end": 855.6800000000001,
+        "english": "actually rent luxury cars. Oh yeah you can do that in most places. You can rent like a Porsche",
+        "chinese": "实际上可以租高级汽车。哦，你可以在大多数地方租像保时捷那样的车。"
+    },
+    {
+        "start": 855.6800000000001,
+        "end": 861.6800000000001,
+        "english": "like a Porsche or Lamborghini or a Ferrari. Yeah obviously it costs a lot of money but it gives you",
+        "chinese": "像保时捷、兰博基尼或法拉利这样的车，确实很贵，但能给你带来很多乐趣。"
+    },
+    {
+        "start": 861.6800000000001,
+        "end": 866.96,
+        "english": "the opportunity to maybe drive to maybe drive one of these cars that you obviously wouldn't have",
+        "chinese": "这个机会，或许能让我尝试一下这辆我显然不会开的车。"
+    },
+    {
+        "start": 866.96,
+        "end": 871.2800000000001,
+        "english": "the money to buy. Yeah especially if you're talking about those warm places like Florida,",
+        "chinese": "钱来买。嗯，特别是如果是在那些温暖的地方，比如佛罗里达州的话。"
+    },
+    {
+        "start": 871.2800000000001,
+        "end": 876.08,
+        "english": "California you want to be in the sunshine you get a convertible. You got to get a convertible.",
+        "chinese": "中国，你想要在阳光下吗？你需要一辆敞篷车。你必须拥有一辆敞篷车。"
+    },
+    {
+        "start": 876.08,
+        "end": 880.96,
+        "english": "Yeah so I think the insurance premiums on those particular cars are very high though so you're",
+        "chinese": "是的，我认为那些特定车辆的保险费用很高。所以你呢？"
+    },
+    {
+        "start": 880.96,
+        "end": 886.72,
+        "english": "not only paying for the car but you're also paying for the insurance and possibly the speeding tickets.",
+        "chinese": "除了购买汽车，你还在为保险和可能的违章罚款买单。"
+    },
+    {
+        "start": 886.72,
+        "end": 892.0,
+        "english": "Yeah of course I can imagine renting one of those cars and not getting a speeding ticket. Exactly so",
+        "chinese": "是的，当然我可以想象租一辆这样的车，并且不会因此而受到罚款。完全如此。"
+    },
+    {
+        "start": 892.0,
+        "end": 897.76,
+        "english": "if any of you out there have experienced renting cars or you have some questions about the specifics",
+        "chinese": "如果你们中有人遇到租车的经历或者对具体细节感兴趣，那真是太好了。"
+    },
+    {
+        "start": 897.76,
+        "end": 902.1600000000001,
+        "english": "that are involved in this process let us know on our website www.englishpod.com.",
+        "chinese": "以下是该段话的中文翻译："
+    },
+    {
+        "start": 902.16,
+        "end": 906.16,
+        "english": "Right we're there to answer any questions or doubts and we'll see you guys there.",
+        "chinese": "正确我们在这里回答您的任何问题或疑虑，我们会见到您们。"
+    },
+    {
+        "start": 906.16,
+        "end": 908.16,
+        "english": "All right until next time everyone. Bye.",
+        "chinese": "所有到此为止，下一次见。再见。"
+    }
+]

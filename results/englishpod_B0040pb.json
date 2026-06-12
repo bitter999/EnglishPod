@@ -1,0 +1,1490 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.8,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 4.8,
+        "end": 6.32,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.32,
+        "end": 11.6,
+        "english": "And we're bringing you another great elementary lesson today, one that takes place at the office.",
+        "chinese": "英语：它也是点和拍的傻瓜相机。"
+    },
+    {
+        "start": 11.6,
+        "end": 17.68,
+        "english": "Yes, today we're going to teach you some great phrases so that you can ask people to help you.",
+        "chinese": "是的，今天我们将教你一些很棒的短语，以便你能向别人求助。"
+    },
+    {
+        "start": 17.68,
+        "end": 21.04,
+        "english": "Right, and I think this dialogue is with a new person at the office.",
+        "chinese": "正确：英语：Right, and I think this dialogue is with a new person at the office. 中文：正确：英语：对，我认为这对话是与办公室的新员工有关。"
+    },
+    {
+        "start": 21.04,
+        "end": 23.92,
+        "english": "So when you're new you always need to ask people for favors.",
+        "chinese": "所以当你刚开始的时候，你总是需要向别人请求帮助。"
+    },
+    {
+        "start": 23.92,
+        "end": 24.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 24.8,
+        "end": 28.32,
+        "english": "Okay, so we're going to be asking for a favor.",
+        "chinese": "好的，我们决定接受你的请求。"
+    },
+    {
+        "start": 28.32,
+        "end": 31.04,
+        "english": "So Marco, what exactly is a favor?",
+        "chinese": "英语：所以马科，什么是恩惠？"
+    },
+    {
+        "start": 31.04,
+        "end": 33.36,
+        "english": "Something that a person does for you.",
+        "chinese": "一个人为你做些什么。"
+    },
+    {
+        "start": 33.36,
+        "end": 35.28,
+        "english": "Like a small helpful thing.",
+        "chinese": "像一个小有帮助的东西。"
+    },
+    {
+        "start": 35.28,
+        "end": 36.72,
+        "english": "Yeah, a small helpful thing.",
+        "chinese": "是的，一个小小的有帮助的事情。"
+    },
+    {
+        "start": 36.72,
+        "end": 39.84,
+        "english": "So, you know, like, can you pass me that pencil?",
+        "chinese": "英语：所以，你懂的，能帮我拿一下那支铅笔吗？"
+    },
+    {
+        "start": 39.84,
+        "end": 41.2,
+        "english": "Maybe that's even the favor.",
+        "chinese": "英语：也许这就是你的恩情。"
+    },
+    {
+        "start": 41.2,
+        "end": 44.72,
+        "english": "Yeah, or maybe can you pick me up on your way to work?",
+        "chinese": "是的，或者你能不能帮我接我上班呢？"
+    },
+    {
+        "start": 44.72,
+        "end": 45.760000000000005,
+        "english": "Yeah, that's a favor.",
+        "chinese": "是的，那算是个恩情。"
+    },
+    {
+        "start": 45.760000000000005,
+        "end": 48.64,
+        "english": "Or even lending money to your friend.",
+        "chinese": "英语：或者甚至借钱给你的朋友。"
+    },
+    {
+        "start": 48.64,
+        "end": 49.519999999999996,
+        "english": "Yeah, that's a favor.",
+        "chinese": "是的，那算是个恩惠。"
+    },
+    {
+        "start": 49.519999999999996,
+        "end": 49.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 49.92,
+        "end": 53.36,
+        "english": "So that's what we're going to be talking about, favors and how to ask for one.",
+        "chinese": "所以，我们今天要讨论的是什么？以及如何向对方提出请求。"
+    },
+    {
+        "start": 53.36,
+        "end": 55.36,
+        "english": "Because you always have to do this at work.",
+        "chinese": "因为总是得这样干。"
+    },
+    {
+        "start": 55.36,
+        "end": 57.760000000000005,
+        "english": "At work with your friends, with your family.",
+        "chinese": "英语：在工作中与你的朋友和家人一起工作。"
+    },
+    {
+        "start": 57.76,
+        "end": 61.839999999999996,
+        "english": "So let's listen to the dialogue and then we'll come back and explain all the vocabulary.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英语句子。"
+    },
+    {
+        "start": 70.08,
+        "end": 71.92,
+        "english": "Um, sorry to bother you.",
+        "chinese": "英语：哦，不好意思打扰了。"
+    },
+    {
+        "start": 71.92,
+        "end": 73.75999999999999,
+        "english": "Um, my name is Rachel.",
+        "chinese": "你好，我是Rachel。"
+    },
+    {
+        "start": 73.75999999999999,
+        "end": 74.72,
+        "english": "I'm new here.",
+        "chinese": "我刚来这儿。"
+    },
+    {
+        "start": 74.72,
+        "end": 76.72,
+        "english": "Can I ask you for a favor?",
+        "chinese": "英语：我能帮你什么？"
+    },
+    {
+        "start": 76.72,
+        "end": 77.72,
+        "english": "Hi, Rachel.",
+        "chinese": "你好，瑞雅。"
+    },
+    {
+        "start": 77.72,
+        "end": 78.72,
+        "english": "Welcome on board.",
+        "chinese": "欢迎登机。"
+    },
+    {
+        "start": 78.72,
+        "end": 79.72,
+        "english": "I'm afraid I can't help you right now.",
+        "chinese": "我恐怕现在无法帮你了。"
+    },
+    {
+        "start": 79.72,
+        "end": 81.72,
+        "english": "I'm getting ready for a very important meeting.",
+        "chinese": "我正在为一个非常重要的会议做准备。"
+    },
+    {
+        "start": 81.72,
+        "end": 84.72,
+        "english": "Excuse me, but can I bother you for a second?",
+        "chinese": "打扰一下，我可以再给你停留一会儿吗？"
+    },
+    {
+        "start": 84.72,
+        "end": 85.72,
+        "english": "You know what?",
+        "chinese": "你明白吗？"
+    },
+    {
+        "start": 85.72,
+        "end": 86.72,
+        "english": "I'd love to help you.",
+        "chinese": "我愿意帮助你。"
+    },
+    {
+        "start": 86.72,
+        "end": 88.72,
+        "english": "But I'm about to meet an important client.",
+        "chinese": "但是我现在正准备与一个重要的客户见面。"
+    },
+    {
+        "start": 88.72,
+        "end": 90.72,
+        "english": "Don't ask Sean instead.",
+        "chinese": "英语：别问Sean。"
+    },
+    {
+        "start": 90.72,
+        "end": 92.72,
+        "english": "You sit right over there.",
+        "chinese": "你坐在这里。"
+    },
+    {
+        "start": 97.72,
+        "end": 99.72,
+        "english": "Sorry to interrupt you, Sean.",
+        "chinese": "对不起， Sean。"
+    },
+    {
+        "start": 99.72,
+        "end": 101.72,
+        "english": "Could you do me a quick favor?",
+        "chinese": "请稍等，我会尽快为您翻译。"
+    },
+    {
+        "start": 101.72,
+        "end": 103.72,
+        "english": "Actually, I'm working in a document that's doing a couple of minutes.",
+        "chinese": "实际上，我在写一个文档，正在进行几分钟的工作。"
+    },
+    {
+        "start": 103.72,
+        "end": 104.72,
+        "english": "I really can't talk right now.",
+        "chinese": "我真话，现在不能说话。"
+    },
+    {
+        "start": 104.72,
+        "end": 105.72,
+        "english": "Sorry about that.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 105.72,
+        "end": 106.72,
+        "english": "Jeez.",
+        "chinese": "英语：Jeez."
+    },
+    {
+        "start": 106.72,
+        "end": 109.72,
+        "english": "I just want to know where the bathroom is.",
+        "chinese": "我只想知道洗手间在哪里。"
+    },
+    {
+        "start": 109.72,
+        "end": 111.72,
+        "english": "What's wrong with you, people?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，根据您提供的英文句子，“What's wrong with you, people?” 可以被翻译成中文为：“你为什么这么生气？”。如果您有其他问题或需要进一步的帮助，请随时告诉我！"
+    },
+    {
+        "start": 117.72,
+        "end": 125.72,
+        "english": "So a pretty busy office.",
+        "chinese": "英语：所以一个忙碌的办公室。"
+    },
+    {
+        "start": 125.72,
+        "end": 127.72,
+        "english": "Pretty unhelpful colleagues.",
+        "chinese": "这些同事很不帮忙。"
+    },
+    {
+        "start": 127.72,
+        "end": 129.72,
+        "english": "I know everyone's so busy.",
+        "chinese": "我都知道大家都很忙。"
+    },
+    {
+        "start": 129.72,
+        "end": 130.72,
+        "english": "They didn't help this poor girl.",
+        "chinese": "他们没有帮助这个可怜的女孩。"
+    },
+    {
+        "start": 130.72,
+        "end": 133.72,
+        "english": "Yeah, I hope she found the bathroom.",
+        "chinese": "是的，我希望她找到了洗手间。"
+    },
+    {
+        "start": 133.72,
+        "end": 136.72,
+        "english": "Now let's take a look at the language from the dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 136.72,
+        "end": 139.72,
+        "english": "So let's start with language takeaway.",
+        "chinese": "所以，我们先从语言总结开始。"
+    },
+    {
+        "start": 139.72,
+        "end": 141.72,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 141.72,
+        "end": 144.72,
+        "english": "There's some great language in the dialogue.",
+        "chinese": "英语：对话中有许多好语言。"
+    },
+    {
+        "start": 145.72,
+        "end": 148.72,
+        "english": "Yeah, a lot of interesting phrases and words.",
+        "chinese": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 148.72,
+        "end": 151.72,
+        "english": "The first one that I saw that was really interesting is unbored.",
+        "chinese": "英语：我看到的第一个真的有趣的是不无聊。"
+    },
+    {
+        "start": 151.72,
+        "end": 153.72,
+        "english": "Unbored.",
+        "chinese": "不无聊。"
+    },
+    {
+        "start": 153.72,
+        "end": 154.72,
+        "english": "Welcome unbored.",
+        "chinese": "欢迎不被束缚。"
+    },
+    {
+        "start": 154.72,
+        "end": 157.72,
+        "english": "Well, we've got some examples of how this phrase is used.",
+        "chinese": "好的，我明白了。请将需要翻译的英文句子提供给我。"
+    },
+    {
+        "start": 157.72,
+        "end": 161.72,
+        "english": "So let's listen to them to help us understand the meaning.",
+        "chinese": "所以让我们听听他们，以便我们能更好地理解他们的意思。"
+    },
+    {
+        "start": 161.72,
+        "end": 164.72,
+        "english": "Example 1.",
+        "chinese": "以下是一段英文文本，需要将其翻译成中文："
+    },
+    {
+        "start": 164.72,
+        "end": 166.72,
+        "english": "Welcome unbored Sarah.",
+        "chinese": "欢迎不被无聊的萨拉。"
+    },
+    {
+        "start": 166.72,
+        "end": 169.72,
+        "english": "If you have any questions, please feel free to ask me.",
+        "chinese": "如果有什么问题，请随时告诉我。"
+    },
+    {
+        "start": 170.72,
+        "end": 173.72,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：这是一个例子，用于说明如何处理和翻译。)"
+    },
+    {
+        "start": 176.72,
+        "end": 181.72,
+        "english": "We need to get our new office assistant unbored as soon as possible.",
+        "chinese": "我们尽快让我们的新办公室助手卸下所有负担，以确保她能全神贯注地工作。"
+    },
+    {
+        "start": 183.72,
+        "end": 185.72,
+        "english": "Example 3.",
+        "chinese": "Example 3: 任务：将英语翻译成简化中文，准确无误。"
+    },
+    {
+        "start": 188.72,
+        "end": 192.72,
+        "english": "We decided to bring Melissa unbored to join the marketing team.",
+        "chinese": "我们决定将梅丽莎从营销团队中卸下，让她加入我们的团队。"
+    },
+    {
+        "start": 195.72,
+        "end": 197.72,
+        "english": "So basically it means...",
+        "chinese": "所以基本上就是..."
+    },
+    {
+        "start": 198.72,
+        "end": 200.72,
+        "english": "Welcome to the company.",
+        "chinese": "欢迎加入公司。"
+    },
+    {
+        "start": 200.72,
+        "end": 201.72,
+        "english": "Welcome to the company.",
+        "chinese": "欢迎加入公司。"
+    },
+    {
+        "start": 201.72,
+        "end": 202.72,
+        "english": "Or the team.",
+        "chinese": "英语：或者团队。"
+    },
+    {
+        "start": 202.72,
+        "end": 203.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 203.72,
+        "end": 204.72,
+        "english": "Welcome unbored.",
+        "chinese": "欢迎不被束缚。"
+    },
+    {
+        "start": 204.72,
+        "end": 206.72,
+        "english": "So unbored is the same as to the company.",
+        "chinese": "所以，点和拍是同一家公司的。"
+    },
+    {
+        "start": 206.72,
+        "end": 210.72,
+        "english": "I guess also when you get on a ship, they'll tell you welcome unbored.",
+        "chinese": "英语：我猜在你上船时，他们也会告诉你欢迎的。"
+    },
+    {
+        "start": 210.72,
+        "end": 211.72,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 211.72,
+        "end": 212.72,
+        "english": "That's where it comes from.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 212.72,
+        "end": 213.72,
+        "english": "Or an airplane.",
+        "chinese": "英语：或者一架飞机。"
+    },
+    {
+        "start": 213.72,
+        "end": 214.72,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 214.72,
+        "end": 215.72,
+        "english": "Welcome unbored.",
+        "chinese": "欢迎不被束缚。"
+    },
+    {
+        "start": 215.72,
+        "end": 217.72,
+        "english": "Okay, let's take a look at our next word.",
+        "chinese": "好的，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 217.72,
+        "end": 218.72,
+        "english": "About 2.",
+        "chinese": "关于2。"
+    },
+    {
+        "start": 218.72,
+        "end": 219.72,
+        "english": "About 2.",
+        "chinese": "关于 2。"
+    },
+    {
+        "start": 219.72,
+        "end": 221.72,
+        "english": "I'm about 2.",
+        "chinese": "我大约2岁。"
+    },
+    {
+        "start": 221.72,
+        "end": 223.72,
+        "english": "I'm about 2.",
+        "chinese": "我大约2岁。"
+    },
+    {
+        "start": 223.72,
+        "end": 228.72,
+        "english": "So this is a great phrase to explain that you're about to do something.",
+        "chinese": "英语：所以这个是解释你即将做的事情很棒的表达。"
+    },
+    {
+        "start": 228.72,
+        "end": 231.72,
+        "english": "I'm going to do this thing really soon.",
+        "chinese": "我马上要开始这个事情了。"
+    },
+    {
+        "start": 231.72,
+        "end": 236.72,
+        "english": "Okay, so for example, you can say, I'm about to go out for lunch.",
+        "chinese": "好的，现在请将这句话翻译成简化的中文："
+    },
+    {
+        "start": 236.72,
+        "end": 237.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 237.72,
+        "end": 240.72,
+        "english": "Or I could say, hey Marco, let's go record a show.",
+        "chinese": "英语：或者，嘿，马科，让我们去录个节目吧。"
+    },
+    {
+        "start": 240.72,
+        "end": 242.72,
+        "english": "I'm about to go into a meeting.",
+        "chinese": "我马上要参加一个会议。"
+    },
+    {
+        "start": 242.72,
+        "end": 243.72,
+        "english": "Mm-hmm, exactly.",
+        "chinese": "英语：很好，完全正确。"
+    },
+    {
+        "start": 243.72,
+        "end": 244.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 244.72,
+        "end": 245.72,
+        "english": "About 2.",
+        "chinese": "关于2。"
+    },
+    {
+        "start": 245.72,
+        "end": 247.72,
+        "english": "Going to do something really soon.",
+        "chinese": "英语：马上要做的事情。"
+    },
+    {
+        "start": 247.72,
+        "end": 248.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 248.72,
+        "end": 250.72,
+        "english": "The next word we have is instead.",
+        "chinese": "下一句是“而是”。"
+    },
+    {
+        "start": 250.72,
+        "end": 251.72,
+        "english": "Instead.",
+        "chinese": "相反。"
+    },
+    {
+        "start": 251.72,
+        "end": 252.72,
+        "english": "Instead.",
+        "chinese": "英语：Instead."
+    },
+    {
+        "start": 252.72,
+        "end": 253.72,
+        "english": "Instead.",
+        "chinese": "英语：Instead."
+    },
+    {
+        "start": 253.72,
+        "end": 255.72,
+        "english": "It means in the place of.",
+        "chinese": "在地方。"
+    },
+    {
+        "start": 255.72,
+        "end": 256.72,
+        "english": "In the place of.",
+        "chinese": "在...上。"
+    },
+    {
+        "start": 256.72,
+        "end": 257.72,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 257.72,
+        "end": 263.72,
+        "english": "So for example, if we're at dinner, I could say, I'll have the chicken instead of the fish.",
+        "chinese": "所以，如果我们在聚会上，我可以这么说：“我将吃鱼而不是鸡肉。”"
+    },
+    {
+        "start": 263.72,
+        "end": 264.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，好。"
+    },
+    {
+        "start": 264.72,
+        "end": 268.72,
+        "english": "Or I can say, I wanted to buy a red sweater, but they didn't have one.",
+        "chinese": "英语：或者我可以说，我想买一件红色的毛衣，但没有了。"
+    },
+    {
+        "start": 268.72,
+        "end": 270.72,
+        "english": "So I bought a blue one instead.",
+        "chinese": "所以，我买了一块蓝色的相机。"
+    },
+    {
+        "start": 270.72,
+        "end": 271.72,
+        "english": "Instead.",
+        "chinese": "英语：Instead."
+    },
+    {
+        "start": 271.72,
+        "end": 272.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，不错。"
+    },
+    {
+        "start": 272.72,
+        "end": 273.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 273.72,
+        "end": 274.72,
+        "english": "So in the place of.",
+        "chinese": "英语：所以，在这里。"
+    },
+    {
+        "start": 274.72,
+        "end": 275.72,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 275.72,
+        "end": 278.72,
+        "english": "And our last word for language takeaway.",
+        "chinese": "我们的最后一句话是：“和语言告别。”"
+    },
+    {
+        "start": 278.72,
+        "end": 279.72,
+        "english": "Interrupt.",
+        "chinese": "英语：中断。"
+    },
+    {
+        "start": 279.72,
+        "end": 280.72,
+        "english": "Interrupt.",
+        "chinese": "英语：中断。"
+    },
+    {
+        "start": 280.72,
+        "end": 281.72,
+        "english": "Interrupt.",
+        "chinese": "打断"
+    },
+    {
+        "start": 282.72,
+        "end": 285.72,
+        "english": "So when somebody interrupts you, they come in and.",
+        "chinese": "英语：所以当有人打断你时，他们就会进来。"
+    },
+    {
+        "start": 285.72,
+        "end": 290.72,
+        "english": "They talk to you while you're doing something or maybe while you're speaking.",
+        "chinese": "他们一边和你聊天，一边或者在说。"
+    },
+    {
+        "start": 290.72,
+        "end": 293.72,
+        "english": "Or maybe you're busy and people come and.",
+        "chinese": "英语：或者你可能忙得忘记了。"
+    },
+    {
+        "start": 293.72,
+        "end": 294.72,
+        "english": "And bother you.",
+        "chinese": "而且烦你。"
+    },
+    {
+        "start": 294.72,
+        "end": 295.72,
+        "english": "And bother you.",
+        "chinese": "而且烦你。"
+    },
+    {
+        "start": 295.72,
+        "end": 296.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 296.72,
+        "end": 297.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 297.72,
+        "end": 298.72,
+        "english": "So interrupt.",
+        "chinese": "英语：所以打断。"
+    },
+    {
+        "start": 298.72,
+        "end": 299.72,
+        "english": "Interrupt.",
+        "chinese": "英语：中断。"
+    },
+    {
+        "start": 299.72,
+        "end": 302.72,
+        "english": "Okay, some great words here in our dialogue and now we can listen to it again.",
+        "chinese": "好的，现在我们来听一遍这段对话。"
+    },
+    {
+        "start": 302.72,
+        "end": 304.72,
+        "english": "This time it's going to be a little bit slower.",
+        "chinese": "这个时间会稍微慢一点。"
+    },
+    {
+        "start": 304.72,
+        "end": 308.72,
+        "english": "And you'll be able to understand the language a little bit better.",
+        "chinese": "而且你将能够稍微理解一点语言。"
+    },
+    {
+        "start": 312.72,
+        "end": 313.72,
+        "english": "Um.",
+        "chinese": "英语：啊。"
+    },
+    {
+        "start": 313.72,
+        "end": 318.72,
+        "english": "Sorry to bother you.",
+        "chinese": "对不起，打扰一下。"
+    },
+    {
+        "start": 318.72,
+        "end": 319.72,
+        "english": "Um.",
+        "chinese": "英语：啊。"
+    },
+    {
+        "start": 319.72,
+        "end": 321.72,
+        "english": "My name is Rachel.",
+        "chinese": "我的名字是Rachel。"
+    },
+    {
+        "start": 321.72,
+        "end": 323.72,
+        "english": "I'm new here.",
+        "chinese": "我刚来这儿。"
+    },
+    {
+        "start": 323.72,
+        "end": 326.72,
+        "english": "Can I ask you for a favor?",
+        "chinese": "是的，我可以向你提出请求。"
+    },
+    {
+        "start": 326.72,
+        "end": 327.72,
+        "english": "Hi, Rachel.",
+        "chinese": "你好，瑞雅。"
+    },
+    {
+        "start": 327.72,
+        "end": 329.72,
+        "english": "Welcome on board.",
+        "chinese": "欢迎登机。"
+    },
+    {
+        "start": 329.72,
+        "end": 331.72,
+        "english": "I'm afraid I can't help you right now.",
+        "chinese": "我恐怕现在无法帮你了。"
+    },
+    {
+        "start": 331.72,
+        "end": 335.72,
+        "english": "I'm getting ready for a very important meeting.",
+        "chinese": "我正在为一个非常重要的会议做准备。"
+    },
+    {
+        "start": 335.72,
+        "end": 337.72,
+        "english": "Excuse me.",
+        "chinese": "英语：对不起。"
+    },
+    {
+        "start": 337.72,
+        "end": 340.72,
+        "english": "But can I bother you for a second?",
+        "chinese": "但是，我可以再等你一下吗？"
+    },
+    {
+        "start": 340.72,
+        "end": 341.72,
+        "english": "You know what?",
+        "chinese": "你懂吗？"
+    },
+    {
+        "start": 341.72,
+        "end": 343.72,
+        "english": "I'd love to help you.",
+        "chinese": "我愿意帮助你。"
+    },
+    {
+        "start": 343.72,
+        "end": 346.72,
+        "english": "But I'm about to meet an important client.",
+        "chinese": "但是我要去见一个重要的客户。"
+    },
+    {
+        "start": 346.72,
+        "end": 349.72,
+        "english": "Do you want to try Sean instead?",
+        "chinese": "是的，你想要尝试Sean吗？"
+    },
+    {
+        "start": 349.72,
+        "end": 351.72,
+        "english": "He sits right over there.",
+        "chinese": "他坐在那里。"
+    },
+    {
+        "start": 351.72,
+        "end": 354.72,
+        "english": "Sorry to interrupt you, Sean.",
+        "chinese": "对不起， Sean。"
+    },
+    {
+        "start": 354.72,
+        "end": 356.72,
+        "english": "Could you do me a quick favor?",
+        "chinese": "请帮我一个忙。"
+    },
+    {
+        "start": 356.72,
+        "end": 360.72,
+        "english": "Actually, I'm working on a document that is due in a couple of minutes.",
+        "chinese": "实际上，我现在正在为一份文档准备，预计在几分钟内完成。"
+    },
+    {
+        "start": 360.72,
+        "end": 363.72,
+        "english": "I really can't talk to you right now.",
+        "chinese": "我实在无法和你对话了。"
+    },
+    {
+        "start": 363.72,
+        "end": 365.72,
+        "english": "Sorry about that.",
+        "chinese": "对不起，抱歉。"
+    },
+    {
+        "start": 365.72,
+        "end": 367.72,
+        "english": "Geez.",
+        "chinese": "英语：Geez."
+    },
+    {
+        "start": 367.72,
+        "end": 371.72,
+        "english": "I just want to know where the bathroom is.",
+        "chinese": "我只想知道洗手间在哪里。"
+    },
+    {
+        "start": 371.72,
+        "end": 374.72,
+        "english": "What's wrong with you people?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，我可以尝试用另一种方式回答这个问题。"
+    },
+    {
+        "start": 378.72,
+        "end": 382.72,
+        "english": "Okay, so there are some great ways that you can ask someone for a favor, right?",
+        "chinese": "好的，那么你有什么好主意？"
+    },
+    {
+        "start": 382.72,
+        "end": 386.72,
+        "english": "Yeah, we want to show you some really useful phrases for asking for help.",
+        "chinese": "是的，我们想让你知道一些有用的表达方式来请求帮助。"
+    },
+    {
+        "start": 386.72,
+        "end": 391.72,
+        "english": "So let's start with putting it together.",
+        "chinese": "所以，让我们先组装它。"
+    },
+    {
+        "start": 391.72,
+        "end": 394.72,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 394.72,
+        "end": 399.72,
+        "english": "Let's listen to some different ways of how you can ask someone for a favor.",
+        "chinese": "让我们听听你如何向别人请求帮助的不同方式。"
+    },
+    {
+        "start": 399.72,
+        "end": 403.72,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 403.72,
+        "end": 405.72,
+        "english": "May I get you to do me a favor?",
+        "chinese": "英语：我可以帮你做点什么吗？"
+    },
+    {
+        "start": 405.72,
+        "end": 410.72,
+        "english": "Can you carry this package in your suitcase for me?",
+        "chinese": "英语：你能帮我把这个包裹放在我的行李箱里吗？"
+    },
+    {
+        "start": 410.72,
+        "end": 416.72,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 416.72,
+        "end": 423.72,
+        "english": "Can you just finish this report for me?",
+        "chinese": "你能马上完成这份报告吗？"
+    },
+    {
+        "start": 423.72,
+        "end": 427.72,
+        "english": "Example 3.",
+        "chinese": "Example 3: 任务：将英语翻译成简化中文，保持原意和准确度。"
+    },
+    {
+        "start": 427.72,
+        "end": 432.72,
+        "english": "Please do me a favor and pass me that file.",
+        "chinese": "请让我帮你处理这个文件。"
+    },
+    {
+        "start": 432.72,
+        "end": 435.72,
+        "english": "Okay, so those were great examples of asking for a favor.",
+        "chinese": "好的，所以这些是很好的例子，请求一个帮助的例子。"
+    },
+    {
+        "start": 435.72,
+        "end": 436.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 436.72,
+        "end": 439.72,
+        "english": "In our dialogue, we heard, can I ask you a favor?",
+        "chinese": "在我们的对话中，我们听到，你能帮我一个忙吗？"
+    },
+    {
+        "start": 439.72,
+        "end": 442.72,
+        "english": "But we could also say, can I get you to do me a favor?",
+        "chinese": "但是，我们也可以说，你能帮我做点什么吗？"
+    },
+    {
+        "start": 442.72,
+        "end": 444.72,
+        "english": "Right, can I get you to do me a favor?",
+        "chinese": "是的，我可以帮你做点什么？"
+    },
+    {
+        "start": 444.72,
+        "end": 447.72,
+        "english": "Also, I could say, will you do me a favor?",
+        "chinese": "英语：也，我可以这么说吗？"
+    },
+    {
+        "start": 447.72,
+        "end": 449.72,
+        "english": "Will you do me a favor?",
+        "chinese": "英语：你愿意帮我吗？"
+    },
+    {
+        "start": 449.72,
+        "end": 450.72,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 450.72,
+        "end": 453.72,
+        "english": "So those are different ways of asking for a favor.",
+        "chinese": "所以，这些是不同的方式来请求帮助。"
+    },
+    {
+        "start": 453.72,
+        "end": 456.72,
+        "english": "Let's say you want to ask someone for a favor, right?",
+        "chinese": "是的，我们可以这样表达：让我们问一下，你想要什么帮助吗？"
+    },
+    {
+        "start": 456.72,
+        "end": 457.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，好。"
+    },
+    {
+        "start": 457.72,
+        "end": 458.72,
+        "english": "But they're busy.",
+        "chinese": "但是他们很忙。"
+    },
+    {
+        "start": 458.72,
+        "end": 459.72,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 459.72,
+        "end": 461.72,
+        "english": "So you'll need some phrases to help you do this.",
+        "chinese": "所以你将需要一些词汇来帮助你完成这个任务。"
+    },
+    {
+        "start": 461.72,
+        "end": 462.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 462.72,
+        "end": 465.72,
+        "english": "You need some phrases to interrupt somebody.",
+        "chinese": "你需要一些词来打断某人。"
+    },
+    {
+        "start": 465.72,
+        "end": 466.72,
+        "english": "Right.",
+        "chinese": "右。"
+    },
+    {
+        "start": 466.72,
+        "end": 471.72,
+        "english": "So let's listen to some examples of what phrases you can use to begin to talk to someone.",
+        "chinese": "好的，我明白了。请开始使用这些术语进行对话吧。"
+    },
+    {
+        "start": 471.72,
+        "end": 472.72,
+        "english": "Yeah, to interrupt them.",
+        "chinese": "是的，要中断他们。"
+    },
+    {
+        "start": 472.72,
+        "end": 473.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 473.72,
+        "end": 478.72,
+        "english": "I hate to bother you, but I hate to bother you.",
+        "chinese": "我讨厌打扰你，但我讨厌打扰你。"
+    },
+    {
+        "start": 479.72,
+        "end": 491.72,
+        "english": "I'm sorry to bother you, but I'm sorry to bother you, but I don't mean to bother you, but I don't mean to bother you, but...",
+        "chinese": "对不起打扰到了，抱歉打扰到了，我没有说清楚，抱歉没有说清楚，我没有说清楚，对不起没有说清楚。"
+    },
+    {
+        "start": 491.72,
+        "end": 497.72,
+        "english": "Okay, so those are really nice and polite ways of beginning to talk to someone.",
+        "chinese": "好的，那么请告诉我如何开始与某人交谈？"
+    },
+    {
+        "start": 497.72,
+        "end": 498.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 498.72,
+        "end": 500.72,
+        "english": "They're really useful at the office.",
+        "chinese": "他们真的很实用。"
+    },
+    {
+        "start": 500.72,
+        "end": 504.72,
+        "english": "So maybe you want to talk to your boss, you knock on his door, kind of open it a little bit and say,",
+        "chinese": "所以，你或许想和你的老板谈谈，你可以敲他的门，稍微打开一点，然后说点什么。"
+    },
+    {
+        "start": 505.72,
+        "end": 510.72,
+        "english": "I'm sorry to bother you, but I was wondering if you have time for a meeting today.",
+        "chinese": "对不起打扰到了，但我今天有空。你有时间讨论一下吗？"
+    },
+    {
+        "start": 510.72,
+        "end": 511.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 511.72,
+        "end": 516.72,
+        "english": "Or you could say, I hate to bother you, but do you have time for a meeting today?",
+        "chinese": "英语：或者你可以这么说，我讨厌麻烦你了，但今天你有空吗？"
+    },
+    {
+        "start": 516.72,
+        "end": 517.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 517.72,
+        "end": 520.72,
+        "english": "So those are great ways of starting up a conversation.",
+        "chinese": "所以这些方法非常适合开始对话。"
+    },
+    {
+        "start": 520.72,
+        "end": 521.72,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 521.72,
+        "end": 524.72,
+        "english": "And maybe setting it up to ask for a favor, right?",
+        "chinese": "而且，也许是为了请求一个方便吧？"
+    },
+    {
+        "start": 524.72,
+        "end": 525.72,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 525.72,
+        "end": 527.72,
+        "english": "So we can combine them.",
+        "chinese": "所以我们可以组合它们。"
+    },
+    {
+        "start": 527.72,
+        "end": 531.72,
+        "english": "I could say, I hate to bother you, but can you do me a favor?",
+        "chinese": "英语：我可以说，我不介意麻烦你，你能帮我做点什么吗？"
+    },
+    {
+        "start": 531.72,
+        "end": 532.72,
+        "english": "Perfect.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 532.72,
+        "end": 533.72,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 533.72,
+        "end": 536.72,
+        "english": "So then you can ask someone for a favor.",
+        "chinese": "所以，你就可以向别人请求帮助了。"
+    },
+    {
+        "start": 536.72,
+        "end": 537.72,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 537.72,
+        "end": 538.72,
+        "english": "Okay, great stuff.",
+        "chinese": "好的，谢谢。"
+    },
+    {
+        "start": 538.72,
+        "end": 540.72,
+        "english": "So I guess we can listen to our dialogue again.",
+        "chinese": "所以，我猜我们可以在对话中再次倾听。"
+    },
+    {
+        "start": 540.72,
+        "end": 543.72,
+        "english": "Yeah, let's listen to our dialogue for the third time.",
+        "chinese": "是的，让我们再次聆听我们的对话。"
+    },
+    {
+        "start": 543.72,
+        "end": 546.72,
+        "english": "And this time I'm sure you'll understand it a lot better.",
+        "chinese": "和这一次，我保证你也会理解得更好。"
+    },
+    {
+        "start": 553.72,
+        "end": 555.72,
+        "english": "Um, sorry to bother you.",
+        "chinese": "英语：哦，不好意思打扰了。"
+    },
+    {
+        "start": 555.72,
+        "end": 557.72,
+        "english": "Um, my name is Rachel.",
+        "chinese": "你好，我是Rachel。"
+    },
+    {
+        "start": 557.72,
+        "end": 558.72,
+        "english": "I'm new here.",
+        "chinese": "我刚来这儿。"
+    },
+    {
+        "start": 558.72,
+        "end": 560.72,
+        "english": "Can I ask you for a favor?",
+        "chinese": "是的，我可以向你提出请求。"
+    },
+    {
+        "start": 560.72,
+        "end": 561.72,
+        "english": "Hi, Rachel.",
+        "chinese": "你好，瑞雅。"
+    },
+    {
+        "start": 561.72,
+        "end": 562.72,
+        "english": "Welcome on board.",
+        "chinese": "欢迎登机。"
+    },
+    {
+        "start": 562.72,
+        "end": 563.72,
+        "english": "I love you right now.",
+        "chinese": "我爱你。"
+    },
+    {
+        "start": 563.72,
+        "end": 565.72,
+        "english": "I'm getting ready for a very important meeting.",
+        "chinese": "我正在为一个非常重要的会议做准备。"
+    },
+    {
+        "start": 565.72,
+        "end": 568.72,
+        "english": "Excuse me, but can I bother you for a second?",
+        "chinese": "打扰一下，能不能再让我停留一会儿？"
+    },
+    {
+        "start": 568.72,
+        "end": 569.72,
+        "english": "You know what?",
+        "chinese": "你明白吗？"
+    },
+    {
+        "start": 569.72,
+        "end": 572.72,
+        "english": "I'd love to help you, but I'm about to meet an important client.",
+        "chinese": "我愿意帮助你，但我要去见一个重要的客户。"
+    },
+    {
+        "start": 572.72,
+        "end": 574.72,
+        "english": "Do you want to ask Sean instead?",
+        "chinese": "是的，你想要问苏恩吗？"
+    },
+    {
+        "start": 574.72,
+        "end": 576.72,
+        "english": "At least it's right over there.",
+        "chinese": "至少它就在那边。"
+    },
+    {
+        "start": 580.72,
+        "end": 582.72,
+        "english": "Sorry to interrupt you, Sean.",
+        "chinese": "对不起， Sean。"
+    },
+    {
+        "start": 582.72,
+        "end": 584.72,
+        "english": "Could you do me a quick favor?",
+        "chinese": "英语：你能帮我一个忙吗？"
+    },
+    {
+        "start": 584.72,
+        "end": 586.72,
+        "english": "Actually, I'm working in a document that's doing a couple of minutes.",
+        "chinese": "实际上，我正在处理一个文档，其中正在进行几分钟的工作。"
+    },
+    {
+        "start": 586.72,
+        "end": 588.72,
+        "english": "I really can't talk right now.",
+        "chinese": "我真不知道怎么跟你说。"
+    },
+    {
+        "start": 588.72,
+        "end": 589.72,
+        "english": "Sorry about that.",
+        "chinese": "对不起，抱歉。"
+    },
+    {
+        "start": 589.72,
+        "end": 590.72,
+        "english": "Jeez.",
+        "chinese": "英语：Jeez."
+    },
+    {
+        "start": 591.72,
+        "end": 593.72,
+        "english": "I just want to know where the bathroom is.",
+        "chinese": "我只想知道洗手间在哪里。"
+    },
+    {
+        "start": 593.72,
+        "end": 595.72,
+        "english": "What's wrong with you, people?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，根据您提供的英文句子，“What's wrong with you, people?” 的中文翻译是：“你有什么不对吗？”，意思是“你怎么了，大家？”。如果您有其他问题或需要进一步的帮助，请随时告诉我！"
+    },
+    {
+        "start": 605.72,
+        "end": 611.72,
+        "english": "Alright, so now you have all the vocabulary necessary the next time you need to ask someone for a favor.",
+        "chinese": "好的，现在你已经掌握了下次需要向别人请求帮助时所需的词汇。"
+    },
+    {
+        "start": 611.72,
+        "end": 612.72,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 612.72,
+        "end": 615.72,
+        "english": "At the office with your friends, with your family, anyone.",
+        "chinese": "在办公室里，和家人一起工作。"
+    },
+    {
+        "start": 615.72,
+        "end": 618.72,
+        "english": "Well, everyone, we are out of time for today.",
+        "chinese": "大家好，今天的时间已经用完了。"
+    },
+    {
+        "start": 618.72,
+        "end": 623.72,
+        "english": "But remember to visit our website at englischpa.com.",
+        "chinese": "但是记得访问我们的网站 [englischpa.com]。"
+    },
+    {
+        "start": 623.72,
+        "end": 624.72,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 624.72,
+        "end": 627.72,
+        "english": "At our website, you'll find the script of the dialogue.",
+        "chinese": "在我们的网站上，你可以找到对话的脚本。"
+    },
+    {
+        "start": 627.72,
+        "end": 632.72,
+        "english": "And also, you'll find intermediate lessons, upper intermediate, and even advanced.",
+        "chinese": "英语：它也是点和拍的入门课程。"
+    },
+    {
+        "start": 632.72,
+        "end": 633.72,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 633.72,
+        "end": 636.72,
+        "english": "Our website is a great resource for learning.",
+        "chinese": "我们的网站是学习的好资源。"
+    },
+    {
+        "start": 636.72,
+        "end": 639.72,
+        "english": "Marco and I are always there to answer your questions.",
+        "chinese": "英语：Marco 和我总是在这里为你解答问题。"
+    },
+    {
+        "start": 639.72,
+        "end": 643.72,
+        "english": "And we also have lots of helpful users who answer your questions.",
+        "chinese": "我们还有许多帮助用户，他们能回答你的问题。"
+    },
+    {
+        "start": 643.72,
+        "end": 644.72,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 644.72,
+        "end": 645.72,
+        "english": "So don't miss out.",
+        "chinese": "所以不要错过。"
+    },
+    {
+        "start": 645.72,
+        "end": 648.72,
+        "english": "We're going to go to our website at englischpa.com.",
+        "chinese": "我们打算访问我们的网站 [englischpa.com]。"
+    },
+    {
+        "start": 648.72,
+        "end": 649.72,
+        "english": "And we'll see you there.",
+        "chinese": "我们将在这里等你。"
+    },
+    {
+        "start": 649.72,
+        "end": 650.72,
+        "english": "Until next time, bye.",
+        "chinese": "直到下次，再见。"
+    },
+    {
+        "start": 650.72,
+        "end": 651.72,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

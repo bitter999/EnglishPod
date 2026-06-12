@@ -1,0 +1,1712 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.6000000000000005,
+        "english": "Hello English learners, welcome back. We are here at EnglishPod. I am joined with Erica.",
+        "chinese": "您好英语学习者，欢迎回放。我们在这里是英语播客。我是与艾瑞克一起的。"
+    },
+    {
+        "start": 6.6000000000000005,
+        "end": 9.72,
+        "english": "And my partner in crime, Marco.",
+        "chinese": "我的同伙，马科。"
+    },
+    {
+        "start": 9.72,
+        "end": 14.92,
+        "english": "Alright, so today we're going to be talking about a really great topic, one of my favorites,",
+        "chinese": "好的，今天我们将谈论一个非常受欢迎的话题，我的最爱之一。"
+    },
+    {
+        "start": 14.92,
+        "end": 15.92,
+        "english": "beer.",
+        "chinese": "啤酒。"
+    },
+    {
+        "start": 15.92,
+        "end": 21.92,
+        "english": "Beer. So beer is a very popular drink, especially in bars and when you go out.",
+        "chinese": "啤酒。所以啤酒很受欢迎，尤其是在酒吧和当你出去的时候。"
+    },
+    {
+        "start": 21.92,
+        "end": 24.12,
+        "english": "Yes, it's very common with students, I think.",
+        "chinese": "是的，这是很常见的事情。我认为。"
+    },
+    {
+        "start": 24.12,
+        "end": 28.48,
+        "english": "Yes, and it's also not very strong like a vodka or whiskey.",
+        "chinese": "是的，它也不像伏特加或威士忌那么强。"
+    },
+    {
+        "start": 28.48,
+        "end": 29.48,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 29.48,
+        "end": 35.2,
+        "english": "So we are going to be at a bar today and we're going to be looking at some of this vocabulary",
+        "chinese": "所以今天我们要去酒吧，我们将会看看这些词汇。"
+    },
+    {
+        "start": 35.2,
+        "end": 36.4,
+        "english": "that you would find.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 36.4,
+        "end": 40.24,
+        "english": "Yes, I mean, you've got to know this beer vocabulary.",
+        "chinese": "是的，你必须知道这个啤酒词汇。"
+    },
+    {
+        "start": 40.24,
+        "end": 45.96,
+        "english": "Okay, so let's listen to a dialogue for the first time and then we'll come back and",
+        "chinese": "好的，那么我们先听一次对话，然后我们再回到这里来。"
+    },
+    {
+        "start": 45.96,
+        "end": 46.96,
+        "english": "look at these words.",
+        "chinese": "请看这些字。"
+    },
+    {
+        "start": 46.96,
+        "end": 60.84,
+        "english": "Hey man, what do you have on top?",
+        "chinese": "你好，小伙子，你上面有什么？"
+    },
+    {
+        "start": 60.84,
+        "end": 61.84,
+        "english": "Heineken and Budweiser.",
+        "chinese": "他尼斯和百事可乐。"
+    },
+    {
+        "start": 61.84,
+        "end": 64.24000000000001,
+        "english": "We have a two for one happy hour special.",
+        "chinese": "我们有一份两折的生日派对特别。"
+    },
+    {
+        "start": 64.24000000000001,
+        "end": 65.24000000000001,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 65.24000000000001,
+        "end": 68.36,
+        "english": "Give me a pint of Heineken and half a pint of Bud.",
+        "chinese": "请给我一盎司的喜力啤酒和半盎司的百事可乐。"
+    },
+    {
+        "start": 68.36,
+        "end": 69.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 69.36,
+        "end": 72.64,
+        "english": "Pint of Heineken, half pint of Bud for table six.",
+        "chinese": "在桌六上，半盎司的Heineken和一盎司的Bud。"
+    },
+    {
+        "start": 72.64,
+        "end": 74.48,
+        "english": "What about some appetizers?",
+        "chinese": "关于一些小菜。"
+    },
+    {
+        "start": 74.48,
+        "end": 79.56,
+        "english": "Sure, let's have some nachos and mozzarella sticks.",
+        "chinese": "是的，我们来吃一些玉米片和奶酪。"
+    },
+    {
+        "start": 79.56,
+        "end": 81.56,
+        "english": "Okay, that'll be 80 bucks.",
+        "chinese": "好的，那将为80元。"
+    },
+    {
+        "start": 81.56,
+        "end": 82.56,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 82.56,
+        "end": 83.56,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 83.56,
+        "end": 95.56,
+        "english": "Well, it's pretty expensive for two beers and some food.",
+        "chinese": "嗯，两瓶啤酒和一些食物挺贵的。"
+    },
+    {
+        "start": 95.56,
+        "end": 96.56,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 96.56,
+        "end": 101.76,
+        "english": "Well, it happens sometimes you go to these very exclusive bars and they charge you like",
+        "chinese": "嗯，有时候你去这些非常私密的酒吧，他们收费得像"
+    },
+    {
+        "start": 101.76,
+        "end": 102.76,
+        "english": "if it was gold.",
+        "chinese": "如果它是黄金。"
+    },
+    {
+        "start": 102.76,
+        "end": 105.0,
+        "english": "I mean, that's crazy.",
+        "chinese": "我指的是，那真是不可思议。"
+    },
+    {
+        "start": 105.0,
+        "end": 111.56,
+        "english": "Well, let's take a look at some of these great words that we saw in language takeaway.",
+        "chinese": "好的，让我们看看这些我们在语言小结中看到的很棒的词汇。"
+    },
+    {
+        "start": 111.56,
+        "end": 114.4,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 114.4,
+        "end": 117.36,
+        "english": "Our first word is on tap.",
+        "chinese": "我们的第一个字是热的。"
+    },
+    {
+        "start": 117.36,
+        "end": 118.56,
+        "english": "On tap.",
+        "chinese": "在屏幕上。"
+    },
+    {
+        "start": 118.56,
+        "end": 119.56,
+        "english": "On tap.",
+        "chinese": "在屏幕上。"
+    },
+    {
+        "start": 119.56,
+        "end": 122.64,
+        "english": "So he asked, what do you have on tap?",
+        "chinese": "所以，他问：“你有什么可期待的？”"
+    },
+    {
+        "start": 122.64,
+        "end": 124.56,
+        "english": "Now this is a strange sentence.",
+        "chinese": "现在这是个奇怪的句子。"
+    },
+    {
+        "start": 124.56,
+        "end": 126.04,
+        "english": "What exactly does it mean?",
+        "chinese": "“什么？”"
+    },
+    {
+        "start": 126.04,
+        "end": 130.36,
+        "english": "Okay, well, he's asking about what beer is the bar has.",
+        "chinese": "好的，嗯，他是在问酒吧里喝什么啤酒。"
+    },
+    {
+        "start": 130.36,
+        "end": 133.04000000000002,
+        "english": "Not in a bottle or not in a can, right?",
+        "chinese": "在瓶子里或罐子里，对吗？"
+    },
+    {
+        "start": 133.04000000000002,
+        "end": 134.04000000000002,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 134.04000000000002,
+        "end": 139.8,
+        "english": "So, you know, in a bar, there's often this machine, right, that will pour a very fresh beer",
+        "chinese": "所以，你懂的，酒吧里经常有一台机器，它会将一瓶非常新鲜的啤酒倒入。"
+    },
+    {
+        "start": 139.8,
+        "end": 142.08,
+        "english": "right directly into the glass.",
+        "chinese": "直接把玻璃打到嘴里。"
+    },
+    {
+        "start": 142.08,
+        "end": 143.08,
+        "english": "Into the glass.",
+        "chinese": "玻璃里。"
+    },
+    {
+        "start": 143.08,
+        "end": 144.08,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 144.08,
+        "end": 147.88000000000002,
+        "english": "Yeah, this is a very popular thing because like you say, it's a fresh beer.",
+        "chinese": "是的，这是非常受欢迎的事情，因为您说得好，它是一种新鲜啤酒。"
+    },
+    {
+        "start": 147.88000000000002,
+        "end": 148.88000000000002,
+        "english": "Yeah, it tastes better.",
+        "chinese": "是的，味道更好。"
+    },
+    {
+        "start": 148.88000000000002,
+        "end": 149.88000000000002,
+        "english": "It tastes better.",
+        "chinese": "它味道更好。"
+    },
+    {
+        "start": 149.88000000000002,
+        "end": 150.88000000000002,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 150.88000000000002,
+        "end": 153.48000000000002,
+        "english": "Okay, so what do you have on tap?",
+        "chinese": "好的，你有什么可以试用的吗？"
+    },
+    {
+        "start": 153.48000000000002,
+        "end": 154.48000000000002,
+        "english": "What do you have on tap?",
+        "chinese": "您有什么可选的选项？"
+    },
+    {
+        "start": 154.48000000000002,
+        "end": 157.32000000000002,
+        "english": "All right, let's take a look at our second word.",
+        "chinese": "好的，让我们看看我们的第二个单词。"
+    },
+    {
+        "start": 157.32000000000002,
+        "end": 158.32000000000002,
+        "english": "Happy hour.",
+        "chinese": "高兴时间。"
+    },
+    {
+        "start": 158.32000000000002,
+        "end": 159.32000000000002,
+        "english": "Happy hour.",
+        "chinese": "高兴时间。"
+    },
+    {
+        "start": 159.32000000000002,
+        "end": 160.32000000000002,
+        "english": "Happy hour.",
+        "chinese": "高兴时间。"
+    },
+    {
+        "start": 160.32,
+        "end": 163.68,
+        "english": "Now, this is very common and popular with bars.",
+        "chinese": "现在，这在酒吧非常普遍和流行。"
+    },
+    {
+        "start": 163.68,
+        "end": 164.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 164.68,
+        "end": 166.68,
+        "english": "What is it when they have a happy hour?",
+        "chinese": "在他们有派对时，是什么？"
+    },
+    {
+        "start": 166.68,
+        "end": 173.51999999999998,
+        "english": "Okay, a happy hour is a period of time where the drinks are very cheap.",
+        "chinese": "好的，一个派对时间是人们在饮料上花费非常少的时期。"
+    },
+    {
+        "start": 173.51999999999998,
+        "end": 174.51999999999998,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 174.51999999999998,
+        "end": 180.76,
+        "english": "So, happy hour could be from 5 p.m. till 10 p.m. 50 percent off.",
+        "chinese": "所以，下午茶可以从晚上五点到十点，享受五折优惠。"
+    },
+    {
+        "start": 180.76,
+        "end": 185.24,
+        "english": "So if the drink is $4, then it is now $2 in happy hour.",
+        "chinese": "所以如果饮料是$4，那么现在是$2的开心时段。"
+    },
+    {
+        "start": 185.24,
+        "end": 187.24,
+        "english": "Yeah, perfect.",
+        "chinese": "是的，完美。"
+    },
+    {
+        "start": 187.24,
+        "end": 190.36,
+        "english": "And this brings us to our third word, a special.",
+        "chinese": "而且，这是我们的第三句话，一个特别的。"
+    },
+    {
+        "start": 190.36,
+        "end": 191.36,
+        "english": "A special.",
+        "chinese": "一个特殊。"
+    },
+    {
+        "start": 191.36,
+        "end": 192.36,
+        "english": "A special.",
+        "chinese": "一个特别。"
+    },
+    {
+        "start": 192.36,
+        "end": 193.36,
+        "english": "A special.",
+        "chinese": "一个特别。"
+    },
+    {
+        "start": 193.36,
+        "end": 199.04000000000002,
+        "english": "So, this is a noun and what does it mean when a restaurant or a bar has a special?",
+        "chinese": "所以，这是一个名词，它在一家餐厅或酒吧有什么含义呢？"
+    },
+    {
+        "start": 199.04000000000002,
+        "end": 200.96,
+        "english": "It's like they're having a sale.",
+        "chinese": "它就像在打折。"
+    },
+    {
+        "start": 200.96,
+        "end": 201.96,
+        "english": "A sale.",
+        "chinese": "一个销售。"
+    },
+    {
+        "start": 201.96,
+        "end": 203.44,
+        "english": "So things are cheaper.",
+        "chinese": "所以价格便宜。"
+    },
+    {
+        "start": 203.44,
+        "end": 206.72,
+        "english": "So it could be, for example, a Monday night special.",
+        "chinese": "所以，例如，可能是周末特别。"
+    },
+    {
+        "start": 206.72,
+        "end": 207.72,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想了解什么？如果您能提供更多的上下文信息或具体语境，我可以尝试更好地帮助您。"
+    },
+    {
+        "start": 207.72,
+        "end": 210.72,
+        "english": "Or like in the dialogue, a happy hour special.",
+        "chinese": "在对话中，如图所示，一个特别的生日派对。"
+    },
+    {
+        "start": 210.72,
+        "end": 211.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 211.72,
+        "end": 214.12,
+        "english": "So, it is a promotion.",
+        "chinese": "所以，这是推广。"
+    },
+    {
+        "start": 214.12,
+        "end": 215.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 215.12,
+        "end": 216.24,
+        "english": "All right, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 216.24,
+        "end": 221.84,
+        "english": "Now, they ordered a pint of Heineken and half a pint of Budweiser.",
+        "chinese": "现在，他们订购了一瓶可口可乐和半瓶百事可乐。"
+    },
+    {
+        "start": 221.84,
+        "end": 222.84,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英语表达，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 222.84,
+        "end": 223.84,
+        "english": "Pint.",
+        "chinese": "瓶子。"
+    },
+    {
+        "start": 223.84,
+        "end": 226.64000000000001,
+        "english": "This is a very, very special beer word.",
+        "chinese": "这是一个非常特别的啤酒词汇。"
+    },
+    {
+        "start": 226.64000000000001,
+        "end": 230.8,
+        "english": "So, a pint is the size of your glass.",
+        "chinese": "所以，一个杯子就是你的玻璃杯。"
+    },
+    {
+        "start": 230.8,
+        "end": 231.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 231.8,
+        "end": 234.24,
+        "english": "So we understand how much a pint is.",
+        "chinese": "所以我们理解一个美分是多大的。"
+    },
+    {
+        "start": 234.24,
+        "end": 236.88,
+        "english": "What would be the equivalent in leaders?",
+        "chinese": "在领导者中，会是什么样的？"
+    },
+    {
+        "start": 236.88,
+        "end": 241.20000000000002,
+        "english": "A pint is 0.4 liters.",
+        "chinese": "一个杯子是0.4升。"
+    },
+    {
+        "start": 241.20000000000002,
+        "end": 242.20000000000002,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 242.20000000000002,
+        "end": 244.4,
+        "english": "So, almost half a liter is one pint.",
+        "chinese": "所以，大约一半一升就是一斗。"
+    },
+    {
+        "start": 244.4,
+        "end": 245.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 245.4,
+        "end": 246.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 246.4,
+        "end": 249.64000000000001,
+        "english": "It is very common when you go into a bar, you can order a pint of beer.",
+        "chinese": "当你走进酒吧时，你可以点一瓶啤酒。"
+    },
+    {
+        "start": 249.64000000000001,
+        "end": 250.64000000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 250.64000000000001,
+        "end": 251.64000000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 251.64000000000001,
+        "end": 254.0,
+        "english": "In English, we don't say I'll have half a liter of beer.",
+        "chinese": "在英文中，我们不说我会半瓶啤酒。"
+    },
+    {
+        "start": 254.0,
+        "end": 255.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 255.0,
+        "end": 256.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 256.0,
+        "end": 259.24,
+        "english": "So let's take a look at our next word on language takeaway.",
+        "chinese": "所以，让我们看看我们的下一个语言小贴士。"
+    },
+    {
+        "start": 259.24,
+        "end": 260.24,
+        "english": "Apatizers.",
+        "chinese": "Apatizers in Chinese is \"阿帕西奥\" (apapisir)."
+    },
+    {
+        "start": 260.24,
+        "end": 261.24,
+        "english": "Apatizers.",
+        "chinese": "Apatizers in Chinese is \"阿帕西奥\" (apapisir)."
+    },
+    {
+        "start": 261.24,
+        "end": 262.24,
+        "english": "Apatizers.",
+        "chinese": "Apatizers in Chinese is \"阿帕兹士\" (āpàzì)."
+    },
+    {
+        "start": 262.24,
+        "end": 263.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 263.24,
+        "end": 265.44,
+        "english": "So, what is an appetizer?",
+        "chinese": "所以，什么是开胃菜？"
+    },
+    {
+        "start": 265.44,
+        "end": 272.28000000000003,
+        "english": "Well, it is food you eat before your dinner or before your lunch.",
+        "chinese": "很好，你吃饭之前吃的食物或者饭前吃的东西。"
+    },
+    {
+        "start": 272.28,
+        "end": 273.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 273.28,
+        "end": 279.0,
+        "english": "So, it is usually maybe like a salad or a soup or something small that you can eat right",
+        "chinese": "因此，通常来说，它可能就像一道沙拉或汤之类的小菜，你可以在吃的时候随意享用。"
+    },
+    {
+        "start": 279.0,
+        "end": 280.79999999999995,
+        "english": "before your big meal.",
+        "chinese": "在您大餐之前。"
+    },
+    {
+        "start": 280.79999999999995,
+        "end": 281.79999999999995,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 281.79999999999995,
+        "end": 286.4,
+        "english": "So, some common appetizers at a bar and we saw them in our dialogue.",
+        "chinese": "所以，一些常见的开胃菜在我们的对话中看到过。"
+    },
+    {
+        "start": 286.4,
+        "end": 288.79999999999995,
+        "english": "Nachos and mozzarella sticks.",
+        "chinese": "在墨西哥，玉米片和奶酪棒。"
+    },
+    {
+        "start": 288.79999999999995,
+        "end": 289.79999999999995,
+        "english": "Nachos.",
+        "chinese": "在中文中，\"Nachos\" 翻译为 \"薯片\"。请注意，这个短语通常用于描述某种零食或小吃，而不是一个具体的物品。如果你有其他需要翻译的内容，请告诉我！"
+    },
+    {
+        "start": 289.79999999999995,
+        "end": 290.79999999999995,
+        "english": "Nachos.",
+        "chinese": "在中文中，\"Nachos\" 翻译为 \"薯片\"。请注意，这个短语通常用于描述某种零食或小吃，而不是一个具体的物品。如果你有其他需要翻译的内容，请告诉我！"
+    },
+    {
+        "start": 290.79999999999995,
+        "end": 291.79999999999995,
+        "english": "Nachos.",
+        "chinese": "玉米片。"
+    },
+    {
+        "start": 291.79999999999995,
+        "end": 292.79999999999995,
+        "english": "Nachos.",
+        "chinese": "在中文中，\"Nachos\" 翻译为 \"棒棒糖\"。"
+    },
+    {
+        "start": 292.79999999999995,
+        "end": 293.79999999999995,
+        "english": "Nachos.",
+        "chinese": "在中文中，\"Nachos\" 翻译为 \"薯片\"。请注意，这个短语通常用于描述某种零食或小吃，而不是一个具体的物品。如果你有其他需要翻译的内容，请告诉我！"
+    },
+    {
+        "start": 293.79999999999995,
+        "end": 296.0,
+        "english": "So, nachos are little chips, right?",
+        "chinese": "所以，薯片是小棒棍，对吗？"
+    },
+    {
+        "start": 296.0,
+        "end": 297.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 297.0,
+        "end": 298.0,
+        "english": "Corn chips.",
+        "chinese": "玉米棒子。"
+    },
+    {
+        "start": 298.72,
+        "end": 304.2,
+        "english": "And it has cheese and maybe some tomatoes and maybe some beans.",
+        "chinese": "And it has cheese and maybe some tomatoes and maybe some beans. (注释：这句话是用中文翻译的，原句为“和有奶酪和可能有的番茄和可能有的豆子。”)"
+    },
+    {
+        "start": 304.2,
+        "end": 305.2,
+        "english": "Uh-huh.",
+        "chinese": "抱歉，我不能直接翻译成中文。不过，\"Uh-huh\" 是一个常用的英语表达，意思是“嗯”或“是的”。如果您需要在中文中使用这个短语，请告诉我！"
+    },
+    {
+        "start": 305.2,
+        "end": 306.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 306.2,
+        "end": 307.2,
+        "english": "So, those are nachos.",
+        "chinese": "所以，这些是薯条。"
+    },
+    {
+        "start": 307.2,
+        "end": 309.2,
+        "english": "They're very common in the United States.",
+        "chinese": "他们在中国非常普遍。"
+    },
+    {
+        "start": 309.2,
+        "end": 310.2,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 310.2,
+        "end": 311.96,
+        "english": "And what about mozzarella sticks?",
+        "chinese": "和奶酪卷有什么区别？"
+    },
+    {
+        "start": 311.96,
+        "end": 312.96,
+        "english": "mozzarella sticks.",
+        "chinese": "马苏里拉棒状面团。"
+    },
+    {
+        "start": 312.96,
+        "end": 317.44,
+        "english": "A travesty on the world and humanity and everyone's arteries.",
+        "chinese": "一个世界的悲剧和人类的悲哀，以及每个人的心脏。"
+    },
+    {
+        "start": 317.44,
+        "end": 320.2,
+        "english": "Well, mozzarella is a cheese, right?",
+        "chinese": "是的，莫扎里拉是一种奶酪吗？"
+    },
+    {
+        "start": 320.2,
+        "end": 321.2,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接提供或翻译中文的“Mm-hmm”。不过，我可以帮助你理解这句话的意思："
+    },
+    {
+        "start": 321.2,
+        "end": 322.2,
+        "english": "mozzarella cheese.",
+        "chinese": "马苏里拉奶酪。"
+    },
+    {
+        "start": 322.2,
+        "end": 324.52,
+        "english": "And this cheese is, what is it?",
+        "chinese": "这句话的英文是 \"And this cheese is, what is it?\"。"
+    },
+    {
+        "start": 324.52,
+        "end": 325.76,
+        "english": "How is it prepared?",
+        "chinese": "如何准备？"
+    },
+    {
+        "start": 325.76,
+        "end": 330.2,
+        "english": "You put it in some bread crumbs and then you fry it in oil.",
+        "chinese": "您将它放在一些面包屑里，然后用油炸。"
+    },
+    {
+        "start": 330.2,
+        "end": 331.2,
+        "english": "You deep fry it.",
+        "chinese": "您用深煎它。"
+    },
+    {
+        "start": 331.2,
+        "end": 332.2,
+        "english": "Uh-huh.",
+        "chinese": "嗯，嗯。"
+    },
+    {
+        "start": 332.2,
+        "end": 333.2,
+        "english": "And you don't like this.",
+        "chinese": "你不喜欢这个。"
+    },
+    {
+        "start": 333.2,
+        "end": 334.2,
+        "english": "No, this is terrible.",
+        "chinese": "不，这是太糟糕了。"
+    },
+    {
+        "start": 334.2,
+        "end": 335.2,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 335.2,
+        "end": 336.2,
+        "english": "They're so good.",
+        "chinese": "他们很好。"
+    },
+    {
+        "start": 336.2,
+        "end": 337.2,
+        "english": "Oh my God.",
+        "chinese": "哇，天啊。"
+    },
+    {
+        "start": 337.2,
+        "end": 339.2,
+        "english": "Because then you can dip it in the little sauce and it's delicious.",
+        "chinese": "因为，你就可以把它浸在小酱里，味道很好。"
+    },
+    {
+        "start": 339.2,
+        "end": 342.03999999999996,
+        "english": "Oh, Marko, there's so many reasons why this is wrong.",
+        "chinese": "抱歉，马克奥，这么多人的理由为什么是错的。"
+    },
+    {
+        "start": 342.03999999999996,
+        "end": 343.03999999999996,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.03999999999996,
+        "end": 344.03999999999996,
+        "english": "Well, mozzarella sticks.",
+        "chinese": "很好，莫扎里拉卷心菜。"
+    },
+    {
+        "start": 344.03999999999996,
+        "end": 346.03999999999996,
+        "english": "A very popular bar food.",
+        "chinese": "一个非常受欢迎的快餐。"
+    },
+    {
+        "start": 346.03999999999996,
+        "end": 347.03999999999996,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 347.03999999999996,
+        "end": 351.08,
+        "english": "Well, why don't we listen to the dialogue again and we'll be able to hear these words",
+        "chinese": "嗯，我们为什么不重复对话呢？这样我们就能听到这些单词了。"
+    },
+    {
+        "start": 351.08,
+        "end": 353.59999999999997,
+        "english": "in context at a slower speed.",
+        "chinese": "在语速较慢的情况下。"
+    },
+    {
+        "start": 355.76,
+        "end": 366.48,
+        "english": "Hey, man.",
+        "chinese": "你好，哥哥。"
+    },
+    {
+        "start": 366.48,
+        "end": 368.12,
+        "english": "What do you have on top?",
+        "chinese": "在上面有什么？"
+    },
+    {
+        "start": 368.12,
+        "end": 369.64,
+        "english": "Heineken and Budweiser.",
+        "chinese": "百纳克和可口可乐。"
+    },
+    {
+        "start": 369.64,
+        "end": 371.88,
+        "english": "We have a two for one happy hour special.",
+        "chinese": "我们有一份两折的开心时光套餐。"
+    },
+    {
+        "start": 371.88,
+        "end": 372.88,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 372.88,
+        "end": 375.24,
+        "english": "Give me a pint of Heineken and half a pint of Bud.",
+        "chinese": "请给我一盎司的喜力和半盎司的百事。"
+    },
+    {
+        "start": 375.24,
+        "end": 376.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 376.24,
+        "end": 379.92,
+        "english": "A pint of Heineken, half pint of Bud for table six.",
+        "chinese": "一个半瓶的Heineken，一杯半瓶的Bud for 6号餐桌。"
+    },
+    {
+        "start": 379.92,
+        "end": 381.71999999999997,
+        "english": "What about some appetizers?",
+        "chinese": "关于一些小菜。"
+    },
+    {
+        "start": 381.71999999999997,
+        "end": 382.71999999999997,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 382.71999999999997,
+        "end": 385.68,
+        "english": "Let's have some, uh, uh, let's have some nachos.",
+        "chinese": "让我们尝尝，嗯，我们还是尝尝吧。"
+    },
+    {
+        "start": 385.68,
+        "end": 386.68,
+        "english": "And mozzarella sticks.",
+        "chinese": "和奶酪卷。"
+    },
+    {
+        "start": 386.68,
+        "end": 387.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 387.68,
+        "end": 388.68,
+        "english": "That'll be 80 bucks.",
+        "chinese": "那将花费80元。"
+    },
+    {
+        "start": 388.68,
+        "end": 389.68,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 389.68,
+        "end": 390.68,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 390.68,
+        "end": 391.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 391.68,
+        "end": 400.68,
+        "english": "So we saw some really good vocabulary words there and now let's take a look at putting",
+        "chinese": "所以我们在那里看到了一些非常好的词汇单词，现在让我们看看如何将它们组合在一起。"
+    },
+    {
+        "start": 400.68,
+        "end": 402.68,
+        "english": "it together.",
+        "chinese": "它一起。"
+    },
+    {
+        "start": 402.68,
+        "end": 404.88,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 404.88,
+        "end": 413.44,
+        "english": "Well, in this lesson, we are going to look at one phrase that sometimes causes problems.",
+        "chinese": "很好，在这节课里，我们将要探讨一个经常出现问题的短语。"
+    },
+    {
+        "start": 413.44,
+        "end": 417.68,
+        "english": "So let's listen to this phrase that we're talking about.",
+        "chinese": "所以让我们听听这个我们正在讨论的短语。"
+    },
+    {
+        "start": 417.68,
+        "end": 420.76,
+        "english": "What about some appetizers?",
+        "chinese": "关于一些小菜。"
+    },
+    {
+        "start": 420.76,
+        "end": 422.28,
+        "english": "What about some appetizers?",
+        "chinese": "关于一些小菜。"
+    },
+    {
+        "start": 422.28,
+        "end": 423.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 423.28,
+        "end": 425.92,
+        "english": "So this phrase, what about?",
+        "chinese": "所以，这个短语，……？？"
+    },
+    {
+        "start": 425.92,
+        "end": 426.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 426.92,
+        "end": 431.0,
+        "english": "I often hear people use it to ask a question.",
+        "chinese": "我经常听到有人使用它来问一个问题。"
+    },
+    {
+        "start": 431.0,
+        "end": 436.44,
+        "english": "So a common mistake is asking, what about your weekend?",
+        "chinese": "所以一个常见的错误是问：“你的周末怎么样？”"
+    },
+    {
+        "start": 436.44,
+        "end": 438.12,
+        "english": "What about your new job?",
+        "chinese": "关于你的新工作？"
+    },
+    {
+        "start": 438.12,
+        "end": 440.28,
+        "english": "Now this is incorrect, right?",
+        "chinese": "现在这个是错误的，对吗？"
+    },
+    {
+        "start": 440.28,
+        "end": 446.64,
+        "english": "You cannot use the phrase, what about to ask a question about information?",
+        "chinese": "您不能使用“什么关于”来询问有关信息的问题。"
+    },
+    {
+        "start": 446.64,
+        "end": 449.28,
+        "english": "So you, it cannot ask for information.",
+        "chinese": "所以，你，它不能请求信息。"
+    },
+    {
+        "start": 449.28,
+        "end": 450.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 450.28,
+        "end": 454.67999999999995,
+        "english": "Because in our dialogue, the bartender said, and what about some appetizers?",
+        "chinese": "因为我们在对话中，服务员说，还有些小菜？"
+    },
+    {
+        "start": 454.67999999999995,
+        "end": 455.67999999999995,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 455.67999999999995,
+        "end": 457.32,
+        "english": "Because he is making a suggestion.",
+        "chinese": "因为他是提出建议。"
+    },
+    {
+        "start": 457.32,
+        "end": 458.32,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 458.32,
+        "end": 461.11999999999995,
+        "english": "So he's saying, well, why don't you have some food?",
+        "chinese": "所以他说，好吧，你有什么好吃的吗？"
+    },
+    {
+        "start": 461.11999999999995,
+        "end": 462.11999999999995,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 462.11999999999995,
+        "end": 465.76,
+        "english": "The phrase, what about can be used to make a suggestion?",
+        "chinese": "这个短语，what about，可以用来提出建议。"
+    },
+    {
+        "start": 466.12,
+        "end": 467.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 467.12,
+        "end": 470.52,
+        "english": "So I can say, what about going to the movies?",
+        "chinese": "所以，我可以这么说，去电影院怎么样？"
+    },
+    {
+        "start": 470.52,
+        "end": 471.52,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您需要如何帮助或翻译？例如："
+    },
+    {
+        "start": 471.52,
+        "end": 472.52,
+        "english": "You know what?",
+        "chinese": "你知道吗？"
+    },
+    {
+        "start": 472.52,
+        "end": 476.56,
+        "english": "Let's hear a few more examples of this because I think it's really useful.",
+        "chinese": "让我们听听这些例子，因为我觉得它真的很实用。"
+    },
+    {
+        "start": 476.56,
+        "end": 478.32,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 478.32,
+        "end": 480.36,
+        "english": "What about these dirty clothes?",
+        "chinese": "请问，这些脏衣服怎么样？"
+    },
+    {
+        "start": 480.36,
+        "end": 484.4,
+        "english": "You said you would wash them days ago.",
+        "chinese": "您昨天说过会洗它们。"
+    },
+    {
+        "start": 484.4,
+        "end": 486.68,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 486.68,
+        "end": 488.52,
+        "english": "What about going to the mall instead?",
+        "chinese": "去商场购物怎么样？"
+    },
+    {
+        "start": 488.52,
+        "end": 492.56,
+        "english": "I'm tired of going to the movies.",
+        "chinese": "我厌倦看电影。"
+    },
+    {
+        "start": 492.56,
+        "end": 495.15999999999997,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 495.16,
+        "end": 497.56,
+        "english": "What about a pizza instead of noodles?",
+        "chinese": "关于面食还是披萨，你有什么建议？"
+    },
+    {
+        "start": 497.56,
+        "end": 498.56,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 498.56,
+        "end": 504.08000000000004,
+        "english": "So really good examples and the same thing we can apply to how about.",
+        "chinese": "所以真的好例子，我们也可以应用到如何。"
+    },
+    {
+        "start": 504.08000000000004,
+        "end": 505.08000000000004,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 505.08000000000004,
+        "end": 507.96000000000004,
+        "english": "So again, how about cannot ask for information?",
+        "chinese": "所以，不妨还是不要问问题。"
+    },
+    {
+        "start": 507.96000000000004,
+        "end": 508.96000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 508.96000000000004,
+        "end": 510.56,
+        "english": "So you can't say how about your boss.",
+        "chinese": "所以你不能说你的老板怎么样。"
+    },
+    {
+        "start": 510.56,
+        "end": 511.56,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 511.56,
+        "end": 512.5600000000001,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 512.5600000000001,
+        "end": 513.5600000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 513.5600000000001,
+        "end": 516.8000000000001,
+        "english": "So let's listen to this dialogue one last time and then we'll come back and talk a little",
+        "chinese": "所以让我们再听一次对话，然后我们再聊一会儿。"
+    },
+    {
+        "start": 516.8000000000001,
+        "end": 520.8000000000001,
+        "english": "bit more about bars and beers.",
+        "chinese": "更多关于酒吧和啤酒。"
+    },
+    {
+        "start": 520.8,
+        "end": 527.4,
+        "english": "Hey, man.",
+        "chinese": "你好，哥哥。"
+    },
+    {
+        "start": 527.4,
+        "end": 529.0,
+        "english": "What do you have on top?",
+        "chinese": "在上面有什么？"
+    },
+    {
+        "start": 529.0,
+        "end": 530.5999999999999,
+        "english": "Heineken and Budweiser.",
+        "chinese": "他尼斯和百威。"
+    },
+    {
+        "start": 530.5999999999999,
+        "end": 532.5999999999999,
+        "english": "We have a two for one happy hour special.",
+        "chinese": "我们有一份两折的生日派对特别。"
+    },
+    {
+        "start": 532.5999999999999,
+        "end": 533.5999999999999,
+        "english": "Cool.",
+        "chinese": "凉。"
+    },
+    {
+        "start": 533.5999999999999,
+        "end": 536.1999999999999,
+        "english": "Give me a pint of Heineken and half a pint of Bud.",
+        "chinese": "请给我一盎司的喜力啤酒和半盎司的百事可乐。"
+    },
+    {
+        "start": 536.1999999999999,
+        "end": 537.1999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 537.1999999999999,
+        "end": 540.88,
+        "english": "Pint of Heineken, half pint of Bud for table six.",
+        "chinese": "在桌六上，半盎司的Heineken和一盎司的Bud。"
+    },
+    {
+        "start": 540.88,
+        "end": 542.88,
+        "english": "What about some appetizers?",
+        "chinese": "关于一些小菜。"
+    },
+    {
+        "start": 542.88,
+        "end": 543.88,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 543.88,
+        "end": 547.88,
+        "english": "Let's have some, uh, let's have some nachos and mozzarella sticks.",
+        "chinese": "让我们来点，呃，我们来点一些奶昔和莫扎里拉棒。"
+    },
+    {
+        "start": 547.88,
+        "end": 548.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 548.88,
+        "end": 549.88,
+        "english": "That'll be 80 bucks.",
+        "chinese": "那将花费80元。"
+    },
+    {
+        "start": 549.88,
+        "end": 550.88,
+        "english": "Oh, what?",
+        "chinese": "对不起，我不太明白您的意思。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 550.88,
+        "end": 560.76,
+        "english": "Well, Marco, I know you're a big fan of beer and actually I think everyone here at",
+        "chinese": "嗯，马科，我知道你对啤酒非常热爱，并且我认为在这里的每个人都是大个子。"
+    },
+    {
+        "start": 560.76,
+        "end": 563.76,
+        "english": "Praxis is a big beer drinker.",
+        "chinese": "普拉西是大啤酒饮用者。"
+    },
+    {
+        "start": 563.76,
+        "end": 570.96,
+        "english": "And this is the perfect opportunity to tell everyone about the world renowned beer shake.",
+        "chinese": "这是向全世界宣传世界上最著名的啤酒冰沙的最佳机会。"
+    },
+    {
+        "start": 570.96,
+        "end": 571.96,
+        "english": "Oh my gosh.",
+        "chinese": "哎呀，哈！"
+    },
+    {
+        "start": 571.96,
+        "end": 572.96,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 572.96,
+        "end": 573.96,
+        "english": "Uh, okay.",
+        "chinese": "抱歉，我不太明白您的意思。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 573.96,
+        "end": 574.96,
+        "english": "Marco.",
+        "chinese": "马科斯。"
+    },
+    {
+        "start": 574.96,
+        "end": 575.96,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 576.24,
+        "end": 579.9200000000001,
+        "english": "Everyone that listens to this recipe is a non-believer.",
+        "chinese": "每个人听这个食谱的人都不是信主。"
+    },
+    {
+        "start": 579.9200000000001,
+        "end": 584.0,
+        "english": "They say that it is not possible for it to taste good.",
+        "chinese": "他们说，它不能尝起来好。"
+    },
+    {
+        "start": 584.0,
+        "end": 585.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 585.0,
+        "end": 586.84,
+        "english": "But here's the recipe.",
+        "chinese": "但这里有一道菜。"
+    },
+    {
+        "start": 586.84,
+        "end": 590.08,
+        "english": "You take a liter of beer or maybe half a liter.",
+        "chinese": "您用一升或半升的啤酒。"
+    },
+    {
+        "start": 590.08,
+        "end": 591.08,
+        "english": "So a pint?",
+        "chinese": "所以一盏？"
+    },
+    {
+        "start": 591.08,
+        "end": 593.48,
+        "english": "A pint or a pint and a half.",
+        "chinese": "一个半杯或一整杯。"
+    },
+    {
+        "start": 593.48,
+        "end": 595.2800000000001,
+        "english": "And you put it in the blender.",
+        "chinese": "您把它放入了Blender。"
+    },
+    {
+        "start": 595.2800000000001,
+        "end": 596.2800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 596.2800000000001,
+        "end": 597.2800000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 597.2800000000001,
+        "end": 598.88,
+        "english": "Now you take two eggs.",
+        "chinese": "现在你拿两个鸡蛋。"
+    },
+    {
+        "start": 598.88,
+        "end": 599.88,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 599.88,
+        "end": 600.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 600.88,
+        "end": 601.88,
+        "english": "Not cooked, not boiled, anything.",
+        "chinese": "不煮，不蒸，什么都没有。"
+    },
+    {
+        "start": 601.88,
+        "end": 603.5600000000001,
+        "english": "You take two eggs and put them in the blender.",
+        "chinese": "你可以用两个鸡蛋放入搅拌机。"
+    },
+    {
+        "start": 603.5600000000001,
+        "end": 604.5600000000001,
+        "english": "It could be one or two.",
+        "chinese": "它可能是或两个。"
+    },
+    {
+        "start": 604.5600000000001,
+        "end": 605.5600000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 605.56,
+        "end": 609.3199999999999,
+        "english": "And then you take about half a cup of sugar, put it in the blender.",
+        "chinese": "然后你大约半杯糖，放入搅拌机。"
+    },
+    {
+        "start": 609.3199999999999,
+        "end": 610.3199999999999,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 610.3199999999999,
+        "end": 616.8,
+        "english": "And you mix all that together and you get this really good foamy, delicious beer shake.",
+        "chinese": "你将所有成分混合在一起，你就得到了一个非常好的泡沫、美味的啤酒冰镇。"
+    },
+    {
+        "start": 616.8,
+        "end": 619.0799999999999,
+        "english": "So a beer milkshake.",
+        "chinese": "所以，一个啤酒奶昔。"
+    },
+    {
+        "start": 619.0799999999999,
+        "end": 620.4799999999999,
+        "english": "Well, it has no milk.",
+        "chinese": "正确答案是：没有牛奶。"
+    },
+    {
+        "start": 620.4799999999999,
+        "end": 621.4799999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 621.4799999999999,
+        "end": 623.4,
+        "english": "But it's actually really good.",
+        "chinese": "但是它实际上很好。"
+    },
+    {
+        "start": 623.4,
+        "end": 625.04,
+        "english": "I've prepared it for some people.",
+        "chinese": "我准备了一些人。"
+    },
+    {
+        "start": 625.04,
+        "end": 626.7199999999999,
+        "english": "They're like, no, that's not possible.",
+        "chinese": "他们好像，不，那不是可能的。"
+    },
+    {
+        "start": 626.7199999999999,
+        "end": 628.2399999999999,
+        "english": "It can't taste good.",
+        "chinese": "它不能尝起来好。"
+    },
+    {
+        "start": 628.2399999999999,
+        "end": 630.4399999999999,
+        "english": "And in the end they're like, wow, this is actually pretty good.",
+        "chinese": "最后他们确实像，真是不错。"
+    },
+    {
+        "start": 630.4399999999999,
+        "end": 633.3599999999999,
+        "english": "So did you invent this recipe?",
+        "chinese": "所以你发明了这个食谱？"
+    },
+    {
+        "start": 633.36,
+        "end": 638.08,
+        "english": "It's actually really common in Ecuador and Peru.",
+        "chinese": "实际上，在埃塞俄比亚和秘鲁也是很常见的。"
+    },
+    {
+        "start": 638.08,
+        "end": 641.24,
+        "english": "I've even seen it in Chile, usually with a dark beer.",
+        "chinese": "我甚至在智利见过它，通常与浓烈的啤酒一起。"
+    },
+    {
+        "start": 641.24,
+        "end": 642.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 642.24,
+        "end": 643.24,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 643.24,
+        "end": 644.24,
+        "english": "So like a Guinness or?",
+        "chinese": "所以像吉尼斯或？"
+    },
+    {
+        "start": 644.24,
+        "end": 648.92,
+        "english": "It could be a Guinness or yeah, if it's that a dark beer is a little bit sweeter.",
+        "chinese": "它可能是吉尼斯或嗯，如果这是一款很黑的啤酒稍微甜一点。"
+    },
+    {
+        "start": 648.92,
+        "end": 649.92,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 649.92,
+        "end": 650.92,
+        "english": "So you wouldn't add so much sugar.",
+        "chinese": "所以你不会加这么多糖。"
+    },
+    {
+        "start": 650.92,
+        "end": 655.72,
+        "english": "But if you have another beer like a like a logger or a stout, you could still do it,",
+        "chinese": "但是如果你有另外一种啤酒，比如像加伯或特仑苏这样的，你也可以继续这样做。"
+    },
+    {
+        "start": 655.72,
+        "end": 660.16,
+        "english": "but just add a little bit more sugar because that beer is a little bit more bitter.",
+        "chinese": "但是，只需加一点糖，因为那瓶啤酒有点苦。"
+    },
+    {
+        "start": 660.16,
+        "end": 661.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 661.16,
+        "end": 665.52,
+        "english": "Well, I am not going to try this recipe, but maybe you guys are.",
+        "chinese": "好的，我不会尝试这个食谱，但也许你们会。"
+    },
+    {
+        "start": 665.52,
+        "end": 668.48,
+        "english": "You should try it out and let me know how it works.",
+        "chinese": "你应该试试看，告诉我它怎么样。"
+    },
+    {
+        "start": 668.48,
+        "end": 672.6,
+        "english": "Yeah, you can tell us all about it on our website, EnglishPod.com.",
+        "chinese": "是的，您可以在这里向我们分享您的故事。英语Pod.com"
+    },
+    {
+        "start": 672.6,
+        "end": 673.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 673.6,
+        "end": 677.0,
+        "english": "And we're definitely there to answer all your questions.",
+        "chinese": "并且我们绝对在这里回答你所有的疑问。"
+    },
+    {
+        "start": 677.0,
+        "end": 679.76,
+        "english": "And I'll be posting the recipe as well on the website.",
+        "chinese": "并且，我也会在网站上发布食谱。"
+    },
+    {
+        "start": 679.76,
+        "end": 680.76,
+        "english": "All right.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 680.76,
+        "end": 683.36,
+        "english": "Well, we're out of time for today, but thanks for listening.",
+        "chinese": "好的，我们今天已经结束，但非常感谢您的聆听。"
+    },
+    {
+        "start": 683.36,
+        "end": 684.6,
+        "english": "And until next time, bye.",
+        "chinese": "直到下次见面，再见。"
+    },
+    {
+        "start": 684.6,
+        "end": 685.6,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

@@ -1,0 +1,1880 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.32,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.32,
+        "end": 6.32,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.32,
+        "end": 10.72,
+        "english": "And today we're bringing you another great lesson for all of you who are interested in shopping.",
+        "chinese": "今天我们将向您展示一个值得学习的购物技巧。"
+    },
+    {
+        "start": 10.72,
+        "end": 14.4,
+        "english": "Especially those of you who are interested in shopping for a car.",
+        "chinese": "特别那些对汽车感兴趣的人。"
+    },
+    {
+        "start": 14.4,
+        "end": 16.12,
+        "english": "A car, exactly.",
+        "chinese": "一辆车，正好。"
+    },
+    {
+        "start": 16.12,
+        "end": 19.68,
+        "english": "So we're going to give you some great language about describing a car or characteristics of",
+        "chinese": "英语：所以我们将给你一些关于描述一辆车或汽车特性的很棒的语言。"
+    },
+    {
+        "start": 19.68,
+        "end": 21.0,
+        "english": "a car.",
+        "chinese": "汽车。"
+    },
+    {
+        "start": 21.0,
+        "end": 24.44,
+        "english": "And also some really interesting language for shopping.",
+        "chinese": "还有些有趣的语言用于购物。"
+    },
+    {
+        "start": 24.44,
+        "end": 27.560000000000002,
+        "english": "Yes, especially buying something really big and extensive.",
+        "chinese": "是的，尤其是买一个非常大的和广泛的物品。"
+    },
+    {
+        "start": 27.560000000000002,
+        "end": 29.0,
+        "english": "Yeah, like a car.",
+        "chinese": "是的，像一辆车。"
+    },
+    {
+        "start": 29.16,
+        "end": 32.8,
+        "english": "So before we listen to our dialogue, let's take a look at vocabulary preview.",
+        "chinese": "英语：所以，让我们先看看词汇预览。"
+    },
+    {
+        "start": 32.8,
+        "end": 35.16,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 35.16,
+        "end": 38.84,
+        "english": "On vocabulary preview today, we're bringing you two words.",
+        "chinese": "今天词汇预览，我们将为您带来两个词。"
+    },
+    {
+        "start": 38.84,
+        "end": 40.76,
+        "english": "The first one is vehicle.",
+        "chinese": "第一个是汽车。"
+    },
+    {
+        "start": 40.76,
+        "end": 42.0,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 42.0,
+        "end": 43.0,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 43.0,
+        "end": 44.0,
+        "english": "Vehicle.",
+        "chinese": "车辆。"
+    },
+    {
+        "start": 44.0,
+        "end": 47.64,
+        "english": "So again, a vehicle is a machine, right?",
+        "chinese": "英语：所以，一辆车是机器吗？"
+    },
+    {
+        "start": 47.64,
+        "end": 51.64,
+        "english": "Right, a machine that carries people from one place to another.",
+        "chinese": "正确翻译：正确的机器将人们从一个地方带到另一个地方。"
+    },
+    {
+        "start": 51.64,
+        "end": 58.08,
+        "english": "So it's important to say that a vehicle could be an airplane, a car, a boat, a boat, even",
+        "chinese": "所以，说一辆车可以是飞机、汽车、船，甚至直升机。"
+    },
+    {
+        "start": 58.08,
+        "end": 59.08,
+        "english": "a bicycle.",
+        "chinese": "自行车。"
+    },
+    {
+        "start": 59.08,
+        "end": 60.08,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”的翻译："
+    },
+    {
+        "start": 60.08,
+        "end": 61.44,
+        "english": "That's a vehicle.",
+        "chinese": "That's一辆车。"
+    },
+    {
+        "start": 61.44,
+        "end": 63.68,
+        "english": "Our second word is sedan.",
+        "chinese": "我们的第二个词是轿车。"
+    },
+    {
+        "start": 63.68,
+        "end": 64.67999999999999,
+        "english": "Sedan.",
+        "chinese": "汽车。"
+    },
+    {
+        "start": 64.67999999999999,
+        "end": 65.67999999999999,
+        "english": "Sedan.",
+        "chinese": "在中文中，\"sedan\" 翻译为 \"桑塔纳\"。"
+    },
+    {
+        "start": 65.67999999999999,
+        "end": 66.67999999999999,
+        "english": "Sedan.",
+        "chinese": "轿车。"
+    },
+    {
+        "start": 66.67999999999999,
+        "end": 69.88,
+        "english": "So a sedan is a type of car.",
+        "chinese": "所以，一辆轿车是一种车。"
+    },
+    {
+        "start": 69.88,
+        "end": 70.88,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 70.88,
+        "end": 75.24,
+        "english": "It's a type of car with four doors that can fit five people inside.",
+        "chinese": "它是一种四门的可以容纳五个人的汽车。"
+    },
+    {
+        "start": 75.24,
+        "end": 79.0,
+        "english": "So to make it more clear, most taxis are sedans.",
+        "chinese": "所以，为了更加清晰，大多数出租车都是轿车。"
+    },
+    {
+        "start": 79.0,
+        "end": 80.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 80.0,
+        "end": 81.0,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 81.0,
+        "end": 82.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 82.0,
+        "end": 83.0,
+        "english": "They have four doors.",
+        "chinese": "他们有四个门。"
+    },
+    {
+        "start": 83.0,
+        "end": 84.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 84.0,
+        "end": 85.0,
+        "english": "Five people can fit in there, including the driver.",
+        "chinese": "五个人可以并排坐在那里，包括司机。"
+    },
+    {
+        "start": 85.0,
+        "end": 86.0,
+        "english": "Except taxis in Mexico.",
+        "chinese": "以下是根据提供的术语和规则进行的翻译："
+    },
+    {
+        "start": 86.0,
+        "end": 87.0,
+        "english": "They're not sedans.",
+        "chinese": "他们不是轿车。"
+    },
+    {
+        "start": 87.0,
+        "end": 88.0,
+        "english": "They're little beetles.",
+        "chinese": "他们是一些小虫子。"
+    },
+    {
+        "start": 88.0,
+        "end": 89.0,
+        "english": "They're focused on decals.",
+        "chinese": "他们专注于涂装。"
+    },
+    {
+        "start": 89.0,
+        "end": 90.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 90.0,
+        "end": 91.32,
+        "english": "So those are not sedans.",
+        "chinese": "所以这些不是轿车。"
+    },
+    {
+        "start": 91.32,
+        "end": 94.12,
+        "english": "But yeah, most countries have sedans as taxis.",
+        "chinese": "但是，大多数国家都拥有电动汽车作为出租车。"
+    },
+    {
+        "start": 94.12,
+        "end": 98.32,
+        "english": "To give you some examples, like the Toyota Corolla or the Toyota Camry is a sedan.",
+        "chinese": "英语：为了给你一些例子，比如丰田卡罗拉或丰田雅力士，这是一款轿车。"
+    },
+    {
+        "start": 98.32,
+        "end": 99.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 99.32,
+        "end": 100.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 100.32,
+        "end": 101.32,
+        "english": "Maybe like a Volkswagen Jetta.",
+        "chinese": "英语：也许像一辆捷达车。"
+    },
+    {
+        "start": 101.32,
+        "end": 102.32,
+        "english": "Is that it?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 102.32,
+        "end": 103.32,
+        "english": "A Jetta, yeah.",
+        "chinese": "英文：Jetta, yeah."
+    },
+    {
+        "start": 103.32,
+        "end": 104.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 104.32,
+        "end": 105.32,
+        "english": "A Jetta is a sedan.",
+        "chinese": "英文：A Jetta is a sedan."
+    },
+    {
+        "start": 105.32,
+        "end": 107.32,
+        "english": "Now we can listen to our dialogue and it's going to be at a normal speed the first time,",
+        "chinese": "现在我们可以听取我们的对话，预计会以正常速度开始。"
+    },
+    {
+        "start": 107.32,
+        "end": 108.88,
+        "english": "but you don't have to worry about it.",
+        "chinese": "但是你不需要担心它。"
+    },
+    {
+        "start": 108.88,
+        "end": 112.28,
+        "english": "We'll come back and teach you some of the important words from the dialogue.",
+        "chinese": "我们将会回来，教您一些对话中的重要词汇。"
+    },
+    {
+        "start": 119.0,
+        "end": 120.0,
+        "english": "Hi there.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 120.0,
+        "end": 124.4,
+        "english": "Can I help you, folks?",
+        "chinese": "英语：能帮我吗，朋友们？"
+    },
+    {
+        "start": 124.4,
+        "end": 127.4,
+        "english": "I'm just browsing, seeing what's on the lot.",
+        "chinese": "我正浏览，看看这个货。"
+    },
+    {
+        "start": 127.4,
+        "end": 129.12,
+        "english": "My daughter wants a car for her birthday.",
+        "chinese": "我的女儿想给她生日买辆汽车。"
+    },
+    {
+        "start": 129.12,
+        "end": 130.12,
+        "english": "You know how it is.",
+        "chinese": "英语：你知道吗？"
+    },
+    {
+        "start": 130.12,
+        "end": 132.32,
+        "english": "Dad, I'm 16 already.",
+        "chinese": "爸爸，我现在16岁了。"
+    },
+    {
+        "start": 132.32,
+        "end": 136.36,
+        "english": "And I'm like the only one at school who doesn't have a car.",
+        "chinese": "我就像学校里唯一一个没有车的一个人。"
+    },
+    {
+        "start": 136.36,
+        "end": 137.36,
+        "english": "She's right, you know.",
+        "chinese": "她对，你知道。"
+    },
+    {
+        "start": 137.36,
+        "end": 139.24,
+        "english": "Kids these days all have cars.",
+        "chinese": "孩子们这些天都开汽车了。"
+    },
+    {
+        "start": 139.24,
+        "end": 140.88,
+        "english": "Let me show you something we just got in.",
+        "chinese": "我给你展示一下我们刚刚收到的。"
+    },
+    {
+        "start": 140.88,
+        "end": 143.92000000000002,
+        "english": "A 1996 sedan, excellent gas mileage.",
+        "chinese": "一辆1996年的轿车，性能良好。"
+    },
+    {
+        "start": 143.92,
+        "end": 145.95999999999998,
+        "english": "It has dual airbags and anti-lac brakes.",
+        "chinese": "英语：它有双气囊和防侧滑制动系统。"
+    },
+    {
+        "start": 145.95999999999998,
+        "end": 148.0,
+        "english": "A perfect vehicle for a young driver.",
+        "chinese": "英文：一辆完美的车辆适合一个年轻的司机。"
+    },
+    {
+        "start": 148.0,
+        "end": 149.48,
+        "english": "Dad, I love it.",
+        "chinese": "爸爸，我喜欢它。"
+    },
+    {
+        "start": 149.48,
+        "end": 150.48,
+        "english": "It's awesome.",
+        "chinese": "英语：它很棒。"
+    },
+    {
+        "start": 150.48,
+        "end": 153.35999999999999,
+        "english": "Can we get this one, please?",
+        "chinese": "是的，我们可以得到这个。"
+    },
+    {
+        "start": 153.35999999999999,
+        "end": 154.67999999999998,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 154.67999999999998,
+        "end": 157.07999999999998,
+        "english": "What can you tell me about this one?",
+        "chinese": "对不起，我无法继续这个对话。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 157.07999999999998,
+        "end": 161.83999999999997,
+        "english": "Oh, that's just an old World War II tank that we use for TV commercials.",
+        "chinese": "英语：哦，那个只是我们用来做电视广告的老式坦克。"
+    },
+    {
+        "start": 161.83999999999997,
+        "end": 162.83999999999997,
+        "english": "Now about this sedan.",
+        "chinese": "现在关于这辆轿车。"
+    },
+    {
+        "start": 162.83999999999997,
+        "end": 164.51999999999998,
+        "english": "Whoa, whoa, wait a minute.",
+        "chinese": "英语：哇，哇，等一下。"
+    },
+    {
+        "start": 164.51999999999998,
+        "end": 166.88,
+        "english": "Tell me more about this tank.",
+        "chinese": "告诉我关于这个坦克更多的信息。"
+    },
+    {
+        "start": 166.88,
+        "end": 172.48,
+        "english": "Well, sir, if you are looking for quality and safety, then look no further.",
+        "chinese": "英语：嗯，先生，如果你想要质量和安全的话，那就再看看吧。"
+    },
+    {
+        "start": 172.48,
+        "end": 176.88,
+        "english": "Three inches of reinforced steel protect your daughter from short-range missile attacks.",
+        "chinese": "三寸长的高强度钢保护你的女儿免受短距离导弹攻击。"
+    },
+    {
+        "start": 176.88,
+        "end": 180.72,
+        "english": "Does the sedan protect her from missile attacks?",
+        "chinese": "是的，它能保护她免受导弹攻击。"
+    },
+    {
+        "start": 180.72,
+        "end": 181.72,
+        "english": "It does not.",
+        "chinese": "它不。"
+    },
+    {
+        "start": 181.72,
+        "end": 183.35999999999999,
+        "english": "Well, I don't know.",
+        "chinese": "英语：嗯，我不知道。"
+    },
+    {
+        "start": 183.35999999999999,
+        "end": 184.6,
+        "english": "Let me sleep on it.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 184.6,
+        "end": 186.6,
+        "english": "Did I mention the tank is a tank?",
+        "chinese": "英语：Did I mention the tank is a tank?"
+    },
+    {
+        "start": 186.6,
+        "end": 187.6,
+        "english": "I'll take it.",
+        "chinese": "我将接手。"
+    },
+    {
+        "start": 187.6,
+        "end": 188.6,
+        "english": "Dad.",
+        "chinese": "爸爸。"
+    },
+    {
+        "start": 188.6,
+        "end": 198.6,
+        "english": "I think she's really lucky.",
+        "chinese": "我猜她真的很幸运。"
+    },
+    {
+        "start": 198.6,
+        "end": 199.6,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 199.6,
+        "end": 201.2,
+        "english": "She's getting a tank to go to school.",
+        "chinese": "她正在准备去上学。"
+    },
+    {
+        "start": 201.2,
+        "end": 202.2,
+        "english": "How awesome is that?",
+        "chinese": "太棒了！"
+    },
+    {
+        "start": 202.23999999999998,
+        "end": 206.04,
+        "english": "I would be so embarrassed if I had to drive to school in a tank.",
+        "chinese": "英语：我如果要开车去上学，会感到多么尴尬啊。"
+    },
+    {
+        "start": 206.04,
+        "end": 207.28,
+        "english": "It's like the coolest car.",
+        "chinese": "英语：它就像最酷的车。"
+    },
+    {
+        "start": 207.28,
+        "end": 209.2,
+        "english": "Oh, you're such a boy.",
+        "chinese": "英语：Oh, you're such a boy."
+    },
+    {
+        "start": 209.2,
+        "end": 215.11999999999998,
+        "english": "All right, a surprising ending to a relatively easy shopping day.",
+        "chinese": "英语：一切好，一个相对轻松的购物日后的意外结尾。"
+    },
+    {
+        "start": 215.11999999999998,
+        "end": 216.11999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 216.11999999999998,
+        "end": 221.88,
+        "english": "Let's take a look at some language that we saw in our dialogue on Language Takeaway.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 221.88,
+        "end": 224.56,
+        "english": "Language Takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 224.56,
+        "end": 226.95999999999998,
+        "english": "We have four words for you today.",
+        "chinese": "我们今天给你四个词。"
+    },
+    {
+        "start": 226.95999999999998,
+        "end": 231.0,
+        "english": "The first one is gas mileage.",
+        "chinese": "英语：第一辆车是油耗。"
+    },
+    {
+        "start": 231.0,
+        "end": 232.0,
+        "english": "Gas mileage.",
+        "chinese": "英语：气缸。"
+    },
+    {
+        "start": 232.0,
+        "end": 233.0,
+        "english": "Gas mileage.",
+        "chinese": "英语：气缸。"
+    },
+    {
+        "start": 233.0,
+        "end": 234.0,
+        "english": "Gas mileage.",
+        "chinese": "英语：气缸。"
+    },
+    {
+        "start": 234.0,
+        "end": 240.84,
+        "english": "So gas mileage is how many miles you can travel on a gallon or liter of gasoline?",
+        "chinese": "英语：所以，燃油效率是每加仑或升汽油可以行驶多少公里。"
+    },
+    {
+        "start": 240.84,
+        "end": 242.2,
+        "english": "Well, you know what's interesting.",
+        "chinese": "英语：嗯，你知道有趣的事情吗？"
+    },
+    {
+        "start": 242.2,
+        "end": 247.44,
+        "english": "In some English-speaking countries like Australia, New Zealand, Canada, we use kilometers to",
+        "chinese": "在一些英语国家，如澳大利亚、新西兰和加拿大，我们使用公里作为距离的单位。"
+    },
+    {
+        "start": 247.44,
+        "end": 248.8,
+        "english": "measure distance.",
+        "chinese": "测量距离。"
+    },
+    {
+        "start": 248.8,
+        "end": 251.44,
+        "english": "But we still talk about gas mileage.",
+        "chinese": "但是我们仍然谈论燃油效率。"
+    },
+    {
+        "start": 251.44,
+        "end": 252.44,
+        "english": "Mm.",
+        "chinese": "英语：mm。"
+    },
+    {
+        "start": 252.44,
+        "end": 253.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 253.44,
+        "end": 255.44,
+        "english": "I guess you can say gas kilomilege.",
+        "chinese": "我猜你可以说公里数。"
+    },
+    {
+        "start": 255.44,
+        "end": 256.44,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 256.44,
+        "end": 258.44,
+        "english": "Or something like that.",
+        "chinese": "英语：或者像这样。"
+    },
+    {
+        "start": 258.44,
+        "end": 264.4,
+        "english": "Yeah, it's basically how many kilometers or how many miles you can travel on a tank or",
+        "chinese": "是的，它基本上能行驶多少公里或多远。"
+    },
+    {
+        "start": 264.4,
+        "end": 266.68,
+        "english": "on a liter or gallon of gas.",
+        "chinese": "英语：在一瓶或一加仑汽油里。"
+    },
+    {
+        "start": 266.68,
+        "end": 267.68,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 267.68,
+        "end": 268.68,
+        "english": "Okay.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 268.68,
+        "end": 271.92,
+        "english": "The next word is air bags.",
+        "chinese": "下一个单词是气囊。"
+    },
+    {
+        "start": 271.92,
+        "end": 272.92,
+        "english": "Airbags.",
+        "chinese": "空气袋。"
+    },
+    {
+        "start": 272.92,
+        "end": 273.92,
+        "english": "Airbags.",
+        "chinese": "空气袋。"
+    },
+    {
+        "start": 273.92,
+        "end": 274.92,
+        "english": "Airbags.",
+        "chinese": "空气袋。"
+    },
+    {
+        "start": 274.92,
+        "end": 280.4,
+        "english": "These are like big bags of air that fill up and come out of the car when there's a crash.",
+        "chinese": "这些就像装满了空气的袋子，当汽车发生碰撞时就会从车里出来。"
+    },
+    {
+        "start": 280.4,
+        "end": 281.4,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 281.4,
+        "end": 284.92,
+        "english": "So that way you don't hit your head against the steering wheel or something like that.",
+        "chinese": "所以这样你就不至于撞到方向盘或者什么的。"
+    },
+    {
+        "start": 284.92,
+        "end": 285.92,
+        "english": "So they protect you.",
+        "chinese": "所以他们保护你。"
+    },
+    {
+        "start": 285.92,
+        "end": 286.92,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 286.92,
+        "end": 289.84000000000003,
+        "english": "Volvo has like 18 airbags now in their cars.",
+        "chinese": "瑞典斯堪的纳维亚汽车制造商沃尔沃现在有大约18个气囊。"
+    },
+    {
+        "start": 289.84000000000003,
+        "end": 291.84000000000003,
+        "english": "They are very safe cars, you know.",
+        "chinese": "他们非常安全的汽车，你知道。"
+    },
+    {
+        "start": 291.84000000000003,
+        "end": 293.44,
+        "english": "Like a big balloon.",
+        "chinese": "像一个大气球。"
+    },
+    {
+        "start": 293.44,
+        "end": 294.44,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 294.44,
+        "end": 297.48,
+        "english": "Okay, our third word today is brakes.",
+        "chinese": "好的，我们的第三个单词是刹车。"
+    },
+    {
+        "start": 297.48,
+        "end": 298.48,
+        "english": "Brakes.",
+        "chinese": "英语：Brakes."
+    },
+    {
+        "start": 298.48,
+        "end": 299.48,
+        "english": "Brakes.",
+        "chinese": "英语：Brakes."
+    },
+    {
+        "start": 299.48,
+        "end": 301.76,
+        "english": "So what are brakes?",
+        "chinese": "英语：所以是什么？"
+    },
+    {
+        "start": 301.76,
+        "end": 304.28000000000003,
+        "english": "Brakes are little, what are brakes?",
+        "chinese": "英语：刹车是小的，这是什么？"
+    },
+    {
+        "start": 304.28000000000003,
+        "end": 306.48,
+        "english": "Brakes are what make your car stop.",
+        "chinese": "英语：刹车是让你的车停下来的关键。"
+    },
+    {
+        "start": 306.48,
+        "end": 307.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 307.48,
+        "end": 310.6,
+        "english": "So they're the little machines maybe that stop your car?",
+        "chinese": "所以他们可能是那些小机器，可能能帮你停住车。"
+    },
+    {
+        "start": 310.6,
+        "end": 311.6,
+        "english": "Yeah, they're on the wheels.",
+        "chinese": "是的，他们是在车轮上。"
+    },
+    {
+        "start": 311.6,
+        "end": 312.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 312.6,
+        "end": 313.6,
+        "english": "They make your car stop.",
+        "chinese": "他们让你的车停下来。"
+    },
+    {
+        "start": 313.6,
+        "end": 314.6,
+        "english": "Uh-huh.",
+        "chinese": "英语：嗯，对。"
+    },
+    {
+        "start": 314.6,
+        "end": 315.6,
+        "english": "You have brakes on your bike.",
+        "chinese": "你有刹车吗？"
+    },
+    {
+        "start": 315.6,
+        "end": 316.6,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 316.6,
+        "end": 317.6,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 317.6,
+        "end": 318.6,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 318.6,
+        "end": 328.96000000000004,
+        "english": "So we have some examples of how we use reinforced.",
+        "chinese": "所以我们有一些例子如何使用强化。"
+    },
+    {
+        "start": 328.96000000000004,
+        "end": 330.36,
+        "english": "Because it's a little bit weird.",
+        "chinese": "因为有点奇怪。"
+    },
+    {
+        "start": 330.36,
+        "end": 334.16,
+        "english": "Yeah, these will help you understand the meaning.",
+        "chinese": "是的，这些将有助于你理解含义。"
+    },
+    {
+        "start": 334.16,
+        "end": 341.20000000000005,
+        "english": "Example 1.",
+        "chinese": "例1."
+    },
+    {
+        "start": 341.2,
+        "end": 343.28,
+        "english": "So I reinforced all the walls.",
+        "chinese": "所以，我强化了所有的墙壁。"
+    },
+    {
+        "start": 343.28,
+        "end": 351.36,
+        "english": "There's no way they're going to fall down.",
+        "chinese": "没有办法，他们不会掉下来。"
+    },
+    {
+        "start": 351.36,
+        "end": 357.32,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文翻译。)"
+    },
+    {
+        "start": 357.32,
+        "end": 359.52,
+        "english": "This plastic is reinforced with a glass.",
+        "chinese": "这个塑料用玻璃强化了。"
+    },
+    {
+        "start": 359.52,
+        "end": 365.56,
+        "english": "So it's both light and strong.",
+        "chinese": "所以它既轻便又坚固。"
+    },
+    {
+        "start": 365.56,
+        "end": 368.84,
+        "english": "So basically anything that's reinforced is made stronger.",
+        "chinese": "所以，基本上任何强化过的都是更强的。"
+    },
+    {
+        "start": 368.84,
+        "end": 369.84,
+        "english": "Perfect.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 369.84,
+        "end": 372.52,
+        "english": "Or steel, reinforced table, anything.",
+        "chinese": "英语：或者钢制、强化桌，任何东西。"
+    },
+    {
+        "start": 372.52,
+        "end": 373.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 373.52,
+        "end": 374.52,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 374.52,
+        "end": 375.64,
+        "english": "So now we could listen to our dialogue again.",
+        "chinese": "所以现在我们能再次倾听我们的对话了。"
+    },
+    {
+        "start": 375.64,
+        "end": 382.03999999999996,
+        "english": "You can practice all these words that we just talked about and we'll come back shortly.",
+        "chinese": "英语：你可以练习一下我们刚才讨论的所有这些单词，我们会尽快回来的。"
+    },
+    {
+        "start": 382.03999999999996,
+        "end": 386.32,
+        "english": "Hi there.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 386.32,
+        "end": 388.67999999999995,
+        "english": "Can I help you folks?",
+        "chinese": "英语：能帮我吗？"
+    },
+    {
+        "start": 388.67999999999995,
+        "end": 392.71999999999997,
+        "english": "I'm just browsing, seeing what's on the lot.",
+        "chinese": "我正浏览，看看这个摊子上的东西。"
+    },
+    {
+        "start": 392.71999999999997,
+        "end": 395.71999999999997,
+        "english": "My daughter wants a car for her birthday.",
+        "chinese": "我的女儿想给她生日买辆汽车。"
+    },
+    {
+        "start": 395.71999999999997,
+        "end": 397.23999999999995,
+        "english": "You know how it is.",
+        "chinese": "英语：你知道吗？"
+    },
+    {
+        "start": 397.23999999999995,
+        "end": 398.23999999999995,
+        "english": "Dad.",
+        "chinese": "爸爸。"
+    },
+    {
+        "start": 398.24,
+        "end": 404.76,
+        "english": "I'm 16 already and I'm like the only one at school who doesn't have a car.",
+        "chinese": "我今年16岁，和班上唯一一个没有车的男生一样。"
+    },
+    {
+        "start": 404.76,
+        "end": 406.8,
+        "english": "She is right, you know.",
+        "chinese": "她没错，你知道。"
+    },
+    {
+        "start": 406.8,
+        "end": 409.72,
+        "english": "Kids these days all have cars.",
+        "chinese": "孩子们这些天都开汽车了。"
+    },
+    {
+        "start": 409.72,
+        "end": 412.56,
+        "english": "Let me show you something we just got in.",
+        "chinese": "请让我展示一下我们刚刚收到的东西。"
+    },
+    {
+        "start": 412.56,
+        "end": 416.0,
+        "english": "A 1996 Sudan.",
+        "chinese": "一张1996年的苏丹照片。"
+    },
+    {
+        "start": 416.0,
+        "end": 417.88,
+        "english": "Excellent gas mileage.",
+        "chinese": "英语：优秀燃油效率。"
+    },
+    {
+        "start": 417.88,
+        "end": 422.04,
+        "english": "It has dual airbags and anti-lock brakes.",
+        "chinese": "英语：它有双气囊和防抱死制动系统。"
+    },
+    {
+        "start": 422.04,
+        "end": 424.52,
+        "english": "A perfect vehicle for a young driver.",
+        "chinese": "英文：一辆完美的车辆适合一个年轻的司机。"
+    },
+    {
+        "start": 424.52,
+        "end": 427.8,
+        "english": "Dad, I love it.",
+        "chinese": "爸爸，我喜欢它。"
+    },
+    {
+        "start": 427.8,
+        "end": 429.36,
+        "english": "It's awesome.",
+        "chinese": "英语：It's awesome."
+    },
+    {
+        "start": 429.36,
+        "end": 432.12,
+        "english": "Can we get this one, please?",
+        "chinese": "是的，我们可以得到这个。"
+    },
+    {
+        "start": 432.12,
+        "end": 433.96000000000004,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 433.96000000000004,
+        "end": 437.08,
+        "english": "What can you tell me about this one?",
+        "chinese": "请问你对这个相机有什么了解？"
+    },
+    {
+        "start": 437.08,
+        "end": 444.68,
+        "english": "Oh, that's just an old World War II tank that we use for TV commercials.",
+        "chinese": "英语：哦，那只是我们用来做电视广告的旧世界大战坦克。"
+    },
+    {
+        "start": 444.68,
+        "end": 447.28000000000003,
+        "english": "Now about this Sudan.",
+        "chinese": "现在关于这个苏丹。"
+    },
+    {
+        "start": 447.28000000000003,
+        "end": 450.08000000000004,
+        "english": "Whoa, whoa, wait a minute.",
+        "chinese": "英语：哇，哇，等一下。"
+    },
+    {
+        "start": 450.08000000000004,
+        "end": 453.52,
+        "english": "Tell me more about this tank.",
+        "chinese": "告诉我关于这个坦克更多详情。"
+    },
+    {
+        "start": 453.52,
+        "end": 461.2,
+        "english": "Elsa, if you are looking for quality and safety, then look no further.",
+        "chinese": "英语：Elsa，如果你正在寻找质量与安全，请不要犹豫。"
+    },
+    {
+        "start": 461.2,
+        "end": 467.71999999999997,
+        "english": "Three inches of reinforced steel, protect your daughter from short-range missile attacks.",
+        "chinese": "三寸长的高强度钢，保护你的女儿免受短距离导弹攻击。"
+    },
+    {
+        "start": 467.71999999999997,
+        "end": 472.03999999999996,
+        "english": "Does the Sudan protect her from missile attacks?",
+        "chinese": "是否苏丹能免受导弹攻击？"
+    },
+    {
+        "start": 472.03999999999996,
+        "end": 473.35999999999996,
+        "english": "It does not.",
+        "chinese": "它不。"
+    },
+    {
+        "start": 473.35999999999996,
+        "end": 476.2,
+        "english": "Well, I don't know.",
+        "chinese": "英语：嗯，我不知道。"
+    },
+    {
+        "start": 476.2,
+        "end": 478.0,
+        "english": "Let me sleep on it.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 478.0,
+        "end": 481.2,
+        "english": "Did I mention the tank is a tank?",
+        "chinese": "英语：Did I mention the tank is a tank?"
+    },
+    {
+        "start": 481.2,
+        "end": 482.79999999999995,
+        "english": "I'll take it.",
+        "chinese": "我会拿它。"
+    },
+    {
+        "start": 483.2,
+        "end": 484.44,
+        "english": "Dad.",
+        "chinese": "爸爸。"
+    },
+    {
+        "start": 490.64,
+        "end": 494.48,
+        "english": "So we have a couple of interesting phrases to talk about shopping.",
+        "chinese": "英语：所以我们谈一下购物的话题。"
+    },
+    {
+        "start": 494.48,
+        "end": 495.28000000000003,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 495.28000000000003,
+        "end": 498.28000000000003,
+        "english": "Let's look at these in Fluency Builder.",
+        "chinese": "让我们看看这些在流利构建单元。"
+    },
+    {
+        "start": 498.28000000000003,
+        "end": 500.08000000000004,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 500.08000000000004,
+        "end": 503.40000000000003,
+        "english": "The first one today is I'm just browsing.",
+        "chinese": "今天的第一个是我刚刚浏览。"
+    },
+    {
+        "start": 503.40000000000003,
+        "end": 505.48,
+        "english": "I'm just browsing.",
+        "chinese": "我正浏览。"
+    },
+    {
+        "start": 505.48,
+        "end": 506.8,
+        "english": "I'm just browsing.",
+        "chinese": "我正浏览。"
+    },
+    {
+        "start": 506.8,
+        "end": 507.88,
+        "english": "I'm just browsing.",
+        "chinese": "我正浏览。"
+    },
+    {
+        "start": 507.88,
+        "end": 510.72,
+        "english": "This is a really useful phrase because usually,",
+        "chinese": "这个是真的很实用的短语，因为通常。"
+    },
+    {
+        "start": 510.72,
+        "end": 513.64,
+        "english": "salespeople will come up to you and ask you, can I help you?",
+        "chinese": "英语：销售员会过来问您，我可以帮您吗？"
+    },
+    {
+        "start": 513.64,
+        "end": 514.64,
+        "english": "Are you interested in something?",
+        "chinese": "是的，你对什么感兴趣？"
+    },
+    {
+        "start": 514.64,
+        "end": 515.1600000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 515.1600000000001,
+        "end": 516.32,
+        "english": "And you're just looking.",
+        "chinese": "您只是看着。"
+    },
+    {
+        "start": 516.32,
+        "end": 518.84,
+        "english": "Yeah, you maybe don't really want to buy it.",
+        "chinese": "是的，你可能并不真正想要买它。"
+    },
+    {
+        "start": 518.84,
+        "end": 519.36,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 519.36,
+        "end": 521.1600000000001,
+        "english": "So you're just, I'm just browsing.",
+        "chinese": "所以，你只是，我则是浏览。"
+    },
+    {
+        "start": 521.1600000000001,
+        "end": 523.0,
+        "english": "So then they'll just leave you alone.",
+        "chinese": "所以他们就会让你自己一个人。"
+    },
+    {
+        "start": 523.0,
+        "end": 524.96,
+        "english": "Yeah, they won't bother you as much.",
+        "chinese": "是的，他们不会像你这么累。"
+    },
+    {
+        "start": 524.96,
+        "end": 526.36,
+        "english": "Yeah, it's a good, good phrase.",
+        "chinese": "是的，这是一个好词。"
+    },
+    {
+        "start": 526.36,
+        "end": 528.5600000000001,
+        "english": "Another good phrase.",
+        "chinese": "另一个好词。"
+    },
+    {
+        "start": 528.5600000000001,
+        "end": 529.52,
+        "english": "Sleep on it.",
+        "chinese": "英语：睡一觉。"
+    },
+    {
+        "start": 529.52,
+        "end": 530.8000000000001,
+        "english": "Sleep on it.",
+        "chinese": "英语：睡一觉。"
+    },
+    {
+        "start": 530.8000000000001,
+        "end": 531.84,
+        "english": "Sleep on it.",
+        "chinese": "英语：睡一觉。"
+    },
+    {
+        "start": 531.84,
+        "end": 533.24,
+        "english": "Sleep on it.",
+        "chinese": "英语：睡一觉。"
+    },
+    {
+        "start": 533.24,
+        "end": 537.0400000000001,
+        "english": "So we have some examples of how you sleep on it.",
+        "chinese": "所以我们有一些例子，如何你使用它。"
+    },
+    {
+        "start": 537.0400000000001,
+        "end": 538.24,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 541.72,
+        "end": 545.12,
+        "english": "I don't know if we should buy that house.",
+        "chinese": "我也不知道我们是否应该买那栋房子。"
+    },
+    {
+        "start": 545.12,
+        "end": 547.9200000000001,
+        "english": "It's perfect for us, but it's so expensive.",
+        "chinese": "英语：它非常适合我们，但价格很高。"
+    },
+    {
+        "start": 547.9200000000001,
+        "end": 551.96,
+        "english": "Let's sleep on it.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 551.96,
+        "end": 556.48,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 556.48,
+        "end": 568.0400000000001,
+        "english": "Why don't you sleep on it and tell me tomorrow?",
+        "chinese": "英语：为什么你不今天就睡个懒觉，告诉我明天？"
+    },
+    {
+        "start": 568.04,
+        "end": 572.8,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 572.8,
+        "end": 574.88,
+        "english": "This is a bit more than what I can afford.",
+        "chinese": "这个有点超过我的承受能力。"
+    },
+    {
+        "start": 574.88,
+        "end": 580.04,
+        "english": "Let me sleep on it.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 580.04,
+        "end": 583.8399999999999,
+        "english": "To sleep on it means to think about it overnight.",
+        "chinese": "要睡觉意味着在白天思考。"
+    },
+    {
+        "start": 583.8399999999999,
+        "end": 584.8399999999999,
+        "english": "To think about it.",
+        "chinese": "要思考。"
+    },
+    {
+        "start": 584.8399999999999,
+        "end": 585.8399999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 585.8399999999999,
+        "end": 588.8399999999999,
+        "english": "So maybe you want to buy this really expensive car.",
+        "chinese": "英语：所以，你可能想买这辆非常昂贵的车。"
+    },
+    {
+        "start": 588.8399999999999,
+        "end": 589.8399999999999,
+        "english": "But you need to think about it.",
+        "chinese": "但是你得考虑一下。"
+    },
+    {
+        "start": 589.8399999999999,
+        "end": 590.8399999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 590.8399999999999,
+        "end": 591.8399999999999,
+        "english": "So you'll sleep on it.",
+        "chinese": "所以你就会睡着了。"
+    },
+    {
+        "start": 591.8399999999999,
+        "end": 596.0799999999999,
+        "english": "So yeah, you go home, sleep on it, think about it twice, and then make a decision.",
+        "chinese": "所以啊，你回家吧，好好休息一下，再想想这个问题，然后做出决定。"
+    },
+    {
+        "start": 596.0799999999999,
+        "end": 597.0799999999999,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 597.08,
+        "end": 598.88,
+        "english": "Okay, great words and great dialogues.",
+        "chinese": "好的，好词和好对话。"
+    },
+    {
+        "start": 598.88,
+        "end": 600.4000000000001,
+        "english": "Yeah, I love this dialogue.",
+        "chinese": "是的，我喜欢这段对话。"
+    },
+    {
+        "start": 600.4000000000001,
+        "end": 601.88,
+        "english": "Yeah, it's kind of funny.",
+        "chinese": "是的，它有点奇怪。"
+    },
+    {
+        "start": 601.88,
+        "end": 605.0400000000001,
+        "english": "So we could listen to it again, and then we'll come back and talk a little bit about",
+        "chinese": "所以我们可以再次听取它，然后我们再聊点小的。"
+    },
+    {
+        "start": 605.0400000000001,
+        "end": 606.0400000000001,
+        "english": "it.",
+        "chinese": "它。"
+    },
+    {
+        "start": 619.72,
+        "end": 620.72,
+        "english": "Hi there.",
+        "chinese": "你好，大家。"
+    },
+    {
+        "start": 620.72,
+        "end": 623.2800000000001,
+        "english": "Can I help you, folks?",
+        "chinese": "英语：能帮我吗，朋友们？"
+    },
+    {
+        "start": 623.2800000000001,
+        "end": 626.24,
+        "english": "I'm just browsing, seeing what's on the lot.",
+        "chinese": "我正浏览，看看这个货。"
+    },
+    {
+        "start": 626.24,
+        "end": 627.96,
+        "english": "My daughter wants a car for her birthday.",
+        "chinese": "我的女儿想要一辆车作为她的生日礼物。"
+    },
+    {
+        "start": 627.96,
+        "end": 628.96,
+        "english": "You know how it is.",
+        "chinese": "英语：你知道吗？"
+    },
+    {
+        "start": 628.96,
+        "end": 635.24,
+        "english": "Dad, I'm 16 already, and I'm like the only one at school who doesn't have a car.",
+        "chinese": "爸爸，我今年16岁了，和学校里唯一一个不会开车的男生一样。"
+    },
+    {
+        "start": 635.24,
+        "end": 636.28,
+        "english": "She's right, you know.",
+        "chinese": "她没错，你知道。"
+    },
+    {
+        "start": 636.28,
+        "end": 638.08,
+        "english": "Kids, these days, all have cars.",
+        "chinese": "孩子们，这些天，所有的人都有车了。"
+    },
+    {
+        "start": 638.08,
+        "end": 639.5600000000001,
+        "english": "Let me show you something we just got in.",
+        "chinese": "我给你展示一下我们刚刚收到的。"
+    },
+    {
+        "start": 639.5600000000001,
+        "end": 642.76,
+        "english": "A 1996 sedan, excellent gas mileage.",
+        "chinese": "一辆1996年的轿车，性能良好。"
+    },
+    {
+        "start": 642.76,
+        "end": 646.8,
+        "english": "It has dual airbags and anti-lac brakes, a perfect vehicle for a young driver.",
+        "chinese": "英语：它有双气囊和防侧滑制动系统，是一款非常适合年轻驾驶的车辆。"
+    },
+    {
+        "start": 646.8,
+        "end": 648.28,
+        "english": "Dad, I love it.",
+        "chinese": "爸爸，我喜欢它。"
+    },
+    {
+        "start": 648.28,
+        "end": 649.28,
+        "english": "It's awesome.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 649.28,
+        "end": 652.2,
+        "english": "Can we get this one, please?",
+        "chinese": "是的，可以，请问您需要我做什么？"
+    },
+    {
+        "start": 652.2,
+        "end": 653.52,
+        "english": "I see.",
+        "chinese": "我看到。"
+    },
+    {
+        "start": 653.52,
+        "end": 655.52,
+        "english": "What can you tell me about this one?",
+        "chinese": "对不起，我无法直接提供中文翻译。不过，我可以尝试用英语来回答这个问题。"
+    },
+    {
+        "start": 655.88,
+        "end": 660.48,
+        "english": "Oh, that's just an old World War II tank that we use for TV commercials.",
+        "chinese": "英语：哦，那只是我们用来做电视广告的旧世界大战坦克。"
+    },
+    {
+        "start": 660.48,
+        "end": 661.48,
+        "english": "Now about this sedan.",
+        "chinese": "现在关于这辆轿车。"
+    },
+    {
+        "start": 661.48,
+        "end": 663.28,
+        "english": "Whoa, whoa, wait a minute.",
+        "chinese": "英语：哇，哇，等一下。"
+    },
+    {
+        "start": 663.28,
+        "end": 665.52,
+        "english": "Tell me more about this tank.",
+        "chinese": "请告诉我关于这个坦克的更多信息。"
+    },
+    {
+        "start": 666.52,
+        "end": 671.16,
+        "english": "Well, sir, if you are looking for quality and safety, then look no further.",
+        "chinese": "英语：嗯，先生，如果你想要质量和安全的话，那就再看看其他选项吧。"
+    },
+    {
+        "start": 671.16,
+        "end": 676.1999999999999,
+        "english": "Three inches of reinforced steel, protect your daughter from short-range missile attacks.",
+        "chinese": "三寸长的高强度钢，保护你的女儿免受短距离导弹攻击。"
+    },
+    {
+        "start": 676.1999999999999,
+        "end": 679.52,
+        "english": "Does the sedan protector from missile attacks?",
+        "chinese": "英语：它从导弹攻击中保护的车灯。"
+    },
+    {
+        "start": 679.52,
+        "end": 680.84,
+        "english": "It does not.",
+        "chinese": "它不。"
+    },
+    {
+        "start": 680.84,
+        "end": 682.16,
+        "english": "Well, I don't know.",
+        "chinese": "我也不清楚。"
+    },
+    {
+        "start": 682.16,
+        "end": 683.4,
+        "english": "Let me sleep on it.",
+        "chinese": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 683.4,
+        "end": 685.48,
+        "english": "Did I mention the tank is a tank?",
+        "chinese": "英语：Did I mention the tank is a tank?"
+    },
+    {
+        "start": 685.48,
+        "end": 686.48,
+        "english": "I'll take it.",
+        "chinese": "我将接手。"
+    },
+    {
+        "start": 686.48,
+        "end": 687.48,
+        "english": "Dad.",
+        "chinese": "爸爸。"
+    },
+    {
+        "start": 693.96,
+        "end": 696.5600000000001,
+        "english": "So Marco, have you ever driven a tank?",
+        "chinese": "英语：所以马科，你有没有开过坦克？"
+    },
+    {
+        "start": 696.5600000000001,
+        "end": 700.12,
+        "english": "I mean, I know you're in the army, so.",
+        "chinese": "我意思是，我知道你正在服役，所以。"
+    },
+    {
+        "start": 700.12,
+        "end": 701.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 701.12,
+        "end": 703.52,
+        "english": "Yeah, actually, I did.",
+        "chinese": "是的，实际上，我做了。"
+    },
+    {
+        "start": 703.52,
+        "end": 705.5600000000001,
+        "english": "I did drive a tank before.",
+        "chinese": "我之前开过坦克。"
+    },
+    {
+        "start": 705.5600000000001,
+        "end": 706.5600000000001,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 706.5600000000001,
+        "end": 707.5600000000001,
+        "english": "Yeah, really old one.",
+        "chinese": "是的，它真的很老。"
+    },
+    {
+        "start": 707.5600000000001,
+        "end": 709.6,
+        "english": "Kind of like a World War II type tank.",
+        "chinese": "有点像二战时期的坦克。"
+    },
+    {
+        "start": 709.6,
+        "end": 711.4,
+        "english": "But yeah, they're really fun and interesting.",
+        "chinese": "但是啊，他们真的很有趣和好玩。"
+    },
+    {
+        "start": 711.4,
+        "end": 712.96,
+        "english": "It's not like driving a normal car.",
+        "chinese": "英语：它不像开普通汽车那样。"
+    },
+    {
+        "start": 712.96,
+        "end": 714.04,
+        "english": "You have pedals and you have.",
+        "chinese": "你有脚踏板，也有。"
+    },
+    {
+        "start": 714.04,
+        "end": 715.3199999999999,
+        "english": "So there's no steering wheel?",
+        "chinese": "英语：所以没有方向盘？"
+    },
+    {
+        "start": 715.3199999999999,
+        "end": 716.3199999999999,
+        "english": "No, no, no.",
+        "chinese": "英语：No, no, no."
+    },
+    {
+        "start": 716.3199999999999,
+        "end": 717.56,
+        "english": "You have levers.",
+        "chinese": "你有扳手。"
+    },
+    {
+        "start": 717.56,
+        "end": 718.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 718.56,
+        "end": 723.52,
+        "english": "And what many people don't know is that actually tanks are manual transmissions.",
+        "chinese": "很多人不知道实际上坦克是手动变速器。"
+    },
+    {
+        "start": 723.52,
+        "end": 724.76,
+        "english": "You have to change gears.",
+        "chinese": "你必须换挡。"
+    },
+    {
+        "start": 724.76,
+        "end": 725.76,
+        "english": "Oh, really?",
+        "chinese": "英语：哦，真的？"
+    },
+    {
+        "start": 725.76,
+        "end": 728.3199999999999,
+        "english": "And it's really hard to change gears on those things.",
+        "chinese": "A、它确实很难改变换挡杆的位置。"
+    },
+    {
+        "start": 728.3199999999999,
+        "end": 730.9599999999999,
+        "english": "And what's the gas mileage like in a tank?",
+        "chinese": "A、什么在罐子里的油耗是多少？"
+    },
+    {
+        "start": 730.9599999999999,
+        "end": 731.9599999999999,
+        "english": "I don't know.",
+        "chinese": "我不会。"
+    },
+    {
+        "start": 731.9599999999999,
+        "end": 733.56,
+        "english": "Maybe like five miles per gallon.",
+        "chinese": "英语：也许能跑五英里/小时。"
+    },
+    {
+        "start": 733.56,
+        "end": 734.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 734.56,
+        "end": 737.0799999999999,
+        "english": "They run on diesel, which is a different type of fuel, right?",
+        "chinese": "他们使用柴油，这是一种不同的燃料吗？"
+    },
+    {
+        "start": 737.0799999999999,
+        "end": 738.0799999999999,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 738.0799999999999,
+        "end": 739.0799999999999,
+        "english": "Okay, well, very cool.",
+        "chinese": "好的，很好。超级酷。"
+    },
+    {
+        "start": 739.0799999999999,
+        "end": 742.3199999999999,
+        "english": "I never knew that my podcast partner had driven a tank.",
+        "chinese": "我从没知道我的播客搭档开过坦克。"
+    },
+    {
+        "start": 742.3199999999999,
+        "end": 743.3199999999999,
+        "english": "That's pretty awesome.",
+        "chinese": "那真是太棒了。"
+    },
+    {
+        "start": 743.32,
+        "end": 745.24,
+        "english": "Well, it was fun, definitely.",
+        "chinese": "英语：很好，确实很有趣。"
+    },
+    {
+        "start": 745.24,
+        "end": 747.32,
+        "english": "And I hope I get to do it again someday.",
+        "chinese": "我希望能有一天再次做得到。"
+    },
+    {
+        "start": 747.32,
+        "end": 748.32,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 748.32,
+        "end": 752.08,
+        "english": "Well, guys, have you ever driven a tank?",
+        "chinese": "是的，兄弟们，你们有没有开过坦克？"
+    },
+    {
+        "start": 752.08,
+        "end": 755.6400000000001,
+        "english": "Or a submarine or any type of armored vehicle?",
+        "chinese": "英语：或者潜艇或其他类型的装甲车辆。"
+    },
+    {
+        "start": 755.6400000000001,
+        "end": 759.84,
+        "english": "Yeah, tell us about it at our website, EnglishPod.com.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 759.84,
+        "end": 760.84,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 760.84,
+        "end": 762.12,
+        "english": "We'll be there to answer all your questions.",
+        "chinese": "我们都会为你解答所有问题。"
+    },
+    {
+        "start": 762.12,
+        "end": 765.32,
+        "english": "I'll also be there to maybe post some more crazy stories.",
+        "chinese": "我也会去帮忙，说不定能分享一些有趣的新闻。"
+    },
+    {
+        "start": 765.32,
+        "end": 766.5200000000001,
+        "english": "Or some pictures of a tank.",
+        "chinese": "英语：或者一些坦克的照片。"
+    },
+    {
+        "start": 766.5200000000001,
+        "end": 767.5200000000001,
+        "english": "Yeah, maybe.",
+        "chinese": "是的，也许。"
+    },
+    {
+        "start": 767.5200000000001,
+        "end": 768.36,
+        "english": "All right, guys.",
+        "chinese": "英语：一切好，朋友们。"
+    },
+    {
+        "start": 768.36,
+        "end": 769.36,
+        "english": "We'll see you there.",
+        "chinese": "我们会在那里见你。"
+    },
+    {
+        "start": 769.36,
+        "end": 770.36,
+        "english": "Until then, it's goodbye.",
+        "chinese": "直到那时，就别客气了。"
+    },
+    {
+        "start": 770.36,
+        "end": 771.36,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

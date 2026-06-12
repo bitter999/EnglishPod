@@ -1,0 +1,1682 @@
+[
+    {
+        "start": 0.0,
+        "end": 8.040000000000001,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "你好英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 8.040000000000001,
+        "end": 9.28,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 9.28,
+        "end": 12.16,
+        "english": "And today we are going to be talking about the weather.",
+        "chinese": "今天我们将谈论天气。"
+    },
+    {
+        "start": 12.16,
+        "end": 18.16,
+        "english": "That's right. And you know Marco, this is a really, really useful and important topic in English, isn't it?",
+        "chinese": "是的，马克。这在英语中确实是一个非常有用和重要的话题，不是吗？"
+    },
+    {
+        "start": 18.16,
+        "end": 23.68,
+        "english": "Exactly because if you ever travel abroad, you always want to know about the weather, right?",
+        "chinese": "正是因为如果你经常出国旅行，你总是想了解天气，对吗？"
+    },
+    {
+        "start": 23.68,
+        "end": 28.68,
+        "english": "That's right. And Anglo people, English people, all they ever do is talk about the weather.",
+        "chinese": "正确。英国家人，英语国家的人，他们只谈论天气。"
+    },
+    {
+        "start": 28.68,
+        "end": 32.92,
+        "english": "Well, it's an important topic. You want to know what clothes to wear or if you should take an umbrella?",
+        "chinese": "嗯，这是一个重要的话题。你想要知道穿什么衣服或者是否应该带伞？"
+    },
+    {
+        "start": 32.92,
+        "end": 35.32,
+        "english": "Or even when you're making small talk with people.",
+        "chinese": "或者，即使你是在和别人小声聊天。"
+    },
+    {
+        "start": 35.32,
+        "end": 40.36,
+        "english": "Exactly. So we're going to be taking a look at the weather in the United States.",
+        "chinese": "是的。我们将对美国的天气进行一番考察。"
+    },
+    {
+        "start": 40.36,
+        "end": 45.56,
+        "english": "But before we get started with the dialogue, let's take a look at vocabulary preview.",
+        "chinese": "但是，我们先来看一下词汇预览。"
+    },
+    {
+        "start": 45.56,
+        "end": 47.96,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 47.96,
+        "end": 51.32,
+        "english": "Okay, so we have two words we're going to hear in the dialogue.",
+        "chinese": "好的，我们将在对话中听到两个词。"
+    },
+    {
+        "start": 51.32,
+        "end": 54.519999999999996,
+        "english": "Now the first one is forecast.",
+        "chinese": "现在第一个是预报。"
+    },
+    {
+        "start": 54.519999999999996,
+        "end": 55.480000000000004,
+        "english": "Forecast.",
+        "chinese": "预报。"
+    },
+    {
+        "start": 55.480000000000004,
+        "end": 56.92,
+        "english": "Weather forecast.",
+        "chinese": "天气预报。"
+    },
+    {
+        "start": 57.0,
+        "end": 61.24,
+        "english": "So this is what we listen to or what we see on the television, the weather forecast.",
+        "chinese": "所以，这就是我们在电视上听到或看到的天气预报。"
+    },
+    {
+        "start": 61.24,
+        "end": 63.88,
+        "english": "Right. It's like the prediction of the weather.",
+        "chinese": "正确。就像天气预报一样。"
+    },
+    {
+        "start": 63.88,
+        "end": 67.88,
+        "english": "Okay. So forecast. Can I only use it in the weather?",
+        "chinese": "好的。那么预报。我能只用它来预测天气吗？"
+    },
+    {
+        "start": 67.88,
+        "end": 74.28,
+        "english": "No, of course you can use it in many other different situations like in business, for example, forecast sales.",
+        "chinese": "是的，当然可以把它用在各种不同的情境中，比如商业上，例如预测销售。"
+    },
+    {
+        "start": 74.28,
+        "end": 76.28,
+        "english": "Okay, so the prediction of sales.",
+        "chinese": "好的，预测销售。"
+    },
+    {
+        "start": 77.08,
+        "end": 80.84,
+        "english": "Very good. And we have one more word on vocabulary preview.",
+        "chinese": "很好。我们还有最后一个词汇预览的单词。"
+    },
+    {
+        "start": 80.84,
+        "end": 81.8,
+        "english": "A shower.",
+        "chinese": "一个淋浴。"
+    },
+    {
+        "start": 81.8,
+        "end": 83.0,
+        "english": "A shower.",
+        "chinese": "一个淋浴。"
+    },
+    {
+        "start": 83.72,
+        "end": 84.68,
+        "english": "Shower.",
+        "chinese": "澡。"
+    },
+    {
+        "start": 84.68,
+        "end": 89.72,
+        "english": "So when it rains for a short time and it's not too heavy, that's a shower.",
+        "chinese": "所以，当雨量短暂且不那么密集时，那就是淋浴。"
+    },
+    {
+        "start": 89.72,
+        "end": 93.64,
+        "english": "Okay, very good. So it's very similar to a shower at home.",
+        "chinese": "好的，很好。所以它和在家里洗澡非常相似。"
+    },
+    {
+        "start": 93.64,
+        "end": 95.08,
+        "english": "Right. It doesn't have a little bit of water.",
+        "chinese": "正确。它没有一点水。"
+    },
+    {
+        "start": 95.08,
+        "end": 96.2,
+        "english": "And it doesn't last too long.",
+        "chinese": "A、它不会太长久。"
+    },
+    {
+        "start": 96.2,
+        "end": 97.72,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 97.72,
+        "end": 100.28,
+        "english": "So why don't we listen to our dialogue now?",
+        "chinese": "所以为什么我们不倾听我们的对话呢？"
+    },
+    {
+        "start": 100.28,
+        "end": 105.88,
+        "english": "We are going to be listening to the weatherman as he describes the weather in Utah.",
+        "chinese": "我们将会倾听天气预报员描述了乌塔斯的天气。"
+    },
+    {
+        "start": 108.52,
+        "end": 111.96000000000001,
+        "english": "And now let's go to Kenny Williams for today's weather forecast.",
+        "chinese": "现在让我们去肯尼·威廉斯今天天气预报。"
+    },
+    {
+        "start": 111.96,
+        "end": 114.44,
+        "english": "Thank you, Bill, and good morning, Salt Lake City.",
+        "chinese": "非常感谢，Bill，早上好，盐湖城。"
+    },
+    {
+        "start": 114.91999999999999,
+        "end": 116.67999999999999,
+        "english": "What's the weather we're looking like today, Kenny?",
+        "chinese": "今天我们正在看什么样的天气，凯恩？"
+    },
+    {
+        "start": 116.67999999999999,
+        "end": 118.91999999999999,
+        "english": "Well, it's a bit of a mixed bag in Utah today.",
+        "chinese": "今天，加利福尼亚州有点混合。"
+    },
+    {
+        "start": 118.91999999999999,
+        "end": 123.0,
+        "english": "We've got heavy cloud cover here in Northern Utah and we're calling for scattered showers throughout the day.",
+        "chinese": "我们今天在北达科他州有厚厚的云层，今天全天都有分散的雨。"
+    },
+    {
+        "start": 123.0,
+        "end": 124.83999999999999,
+        "english": "With a daytime high of 45 degrees.",
+        "chinese": "白天最高温度为 45 度 Celsius。"
+    },
+    {
+        "start": 124.83999999999999,
+        "end": 129.0,
+        "english": "Now, if we move down to the south of the state, we can see that a cold front is moving in.",
+        "chinese": "现在，如果我们向南移动到该省的南部，我们可以看到一个冷锋正在移动。"
+    },
+    {
+        "start": 129.0,
+        "end": 133.88,
+        "english": "We can expect clear skies, but it will be quite cold with temperatures hovering around the 30-degree mark.",
+        "chinese": "我们预计会有晴朗的天空，但气温将接近于零度。"
+    },
+    {
+        "start": 133.88,
+        "end": 135.07999999999998,
+        "english": "It's a chilly day, folks.",
+        "chinese": "是冷天，大家！"
+    },
+    {
+        "start": 135.07999999999998,
+        "end": 137.32,
+        "english": "So don't forget your coats.",
+        "chinese": "所以不要忘了你的外套。"
+    },
+    {
+        "start": 137.32,
+        "end": 139.0,
+        "english": "What about tomorrow, Kenny?",
+        "chinese": "明天，凯恩？"
+    },
+    {
+        "start": 139.0,
+        "end": 140.12,
+        "english": "Do you have good news for us?",
+        "chinese": "您有好消息要对我们说吗？"
+    },
+    {
+        "start": 140.68,
+        "end": 142.76,
+        "english": "Well, it'll be a rainy day for Northern Utah.",
+        "chinese": "嗯，今天北部犹他州会下大雨。"
+    },
+    {
+        "start": 142.76,
+        "end": 145.24,
+        "english": "We can expect some isolated downpours in the morning.",
+        "chinese": "我们预计今天早上会有孤立的雨。"
+    },
+    {
+        "start": 145.24,
+        "end": 149.08,
+        "english": "Winds will be coming in from the northeast with gust reaching 23 miles per hour.",
+        "chinese": "风将从东北方向吹来，风速将达到每小时23公里。"
+    },
+    {
+        "start": 149.08,
+        "end": 152.12,
+        "english": "Salt Lake City can expect the rain to turn to sleet in the evening.",
+        "chinese": "盐湖城明天晚上可能会变成小雪。"
+    },
+    {
+        "start": 152.12,
+        "end": 153.96,
+        "english": "Things are looking a bit better for the south.",
+        "chinese": "事物看起来比南部要好一些。"
+    },
+    {
+        "start": 154.68,
+        "end": 156.76,
+        "english": "We'll see cloudy skies with a chance of showers.",
+        "chinese": "我们将看到阴天，有小雨的可能性。"
+    },
+    {
+        "start": 156.76,
+        "end": 160.76,
+        "english": "Later in the day, we can expect partly cloudy skies with a forecast high of 38 degrees.",
+        "chinese": "在一天的傍晚，我们可以期待有部分云彩，天气预报最高温度为38度。"
+    },
+    {
+        "start": 161.4,
+        "end": 163.4,
+        "english": "You heard it, folks. It's going to be a cold one.",
+        "chinese": "您听到了什么，朋友们？它会很冷。"
+    },
+    {
+        "start": 163.4,
+        "end": 164.20000000000002,
+        "english": "That's right, Bill.",
+        "chinese": "没错，布莱尔。"
+    },
+    {
+        "start": 164.92000000000002,
+        "end": 167.8,
+        "english": "We will have more later on today on the 6 o'clock news.",
+        "chinese": "我们今天将在今天的6点钟新闻上继续讨论。"
+    },
+    {
+        "start": 167.8,
+        "end": 169.4,
+        "english": "That's the weather forecast for this morning.",
+        "chinese": "这是一天的天气预报。"
+    },
+    {
+        "start": 170.44,
+        "end": 171.64000000000001,
+        "english": "We'll see you next time.",
+        "chinese": "我们下次见。"
+    },
+    {
+        "start": 175.4,
+        "end": 180.36,
+        "english": "All right, so we listen to the weather forecast and it doesn't seem like nice weather in Utah, huh?",
+        "chinese": "好的，所以我们听取天气预报，似乎不像在佛罗里达州的天气那么好。"
+    },
+    {
+        "start": 180.36,
+        "end": 182.04,
+        "english": "No, it certainly doesn't.",
+        "chinese": "是的，它肯定不。"
+    },
+    {
+        "start": 182.04,
+        "end": 184.76,
+        "english": "I don't think that I'd really like to live there.",
+        "chinese": "我不认为我会真的喜欢在那里生活。"
+    },
+    {
+        "start": 185.72,
+        "end": 187.8,
+        "english": "Well, maybe it's winter or something like that.",
+        "chinese": "嗯，或许可能是冬天或者什么情况。"
+    },
+    {
+        "start": 187.8,
+        "end": 189.48000000000002,
+        "english": "Well, I guess, yeah, maybe it's good for skiing.",
+        "chinese": "嗯，大概吧，可能对滑雪有好处。"
+    },
+    {
+        "start": 189.48000000000002,
+        "end": 193.24,
+        "english": "Okay, so now I think it's time for us to take a look at some of those",
+        "chinese": "好的，现在我觉得我们该看看这些了。"
+    },
+    {
+        "start": 193.24,
+        "end": 198.20000000000002,
+        "english": "maybe difficult words that we may have listened to in this dialogue in language takeaway.",
+        "chinese": "可能我们在这次对话中听到的难词，可能是我们在语言总结中的词汇。"
+    },
+    {
+        "start": 200.36,
+        "end": 201.48000000000002,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 203.32,
+        "end": 207.96,
+        "english": "All right, here we're going to look at some words and phrases that you can use to describe the weather.",
+        "chinese": "好的，我们将看看一些你可以用来描述天气的词汇和短语。"
+    },
+    {
+        "start": 207.96,
+        "end": 214.76,
+        "english": "Now, the first one, we heard in the weather forecast that they were calling for scattered showers.",
+        "chinese": "现在，我们听到的，他们正在预报有分散的小雨。"
+    },
+    {
+        "start": 214.76,
+        "end": 216.52,
+        "english": "Scattered showers.",
+        "chinese": "分散性雨滴。"
+    },
+    {
+        "start": 216.52,
+        "end": 217.48000000000002,
+        "english": "Scattered.",
+        "chinese": "散落。"
+    },
+    {
+        "start": 217.48000000000002,
+        "end": 220.20000000000002,
+        "english": "Scattered if something is scattered.",
+        "chinese": "散落在分散。"
+    },
+    {
+        "start": 220.20000000000002,
+        "end": 225.56,
+        "english": "It's sort of like it's a little bit of that thing everywhere.",
+        "chinese": "它有点像到处都是那个东西。"
+    },
+    {
+        "start": 225.56,
+        "end": 229.0,
+        "english": "Okay, so and we already talked about what showers were.",
+        "chinese": "好的，所以我们已经谈到了淋浴是什么。"
+    },
+    {
+        "start": 229.08,
+        "end": 233.32,
+        "english": "Right, so showers a small bit of a small amount of rain.",
+        "chinese": "正确，所以小雨一点小点的下雨。"
+    },
+    {
+        "start": 233.32,
+        "end": 234.36,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 234.36,
+        "end": 239.96,
+        "english": "To better understand when something is scattered, imagine that we are in a playground",
+        "chinese": "更好地理解某个事物是否分散，可以想象我们是在一个游乐场。"
+    },
+    {
+        "start": 239.96,
+        "end": 242.76,
+        "english": "and the children are playing in the playground.",
+        "chinese": "和孩子们在操场上玩耍。"
+    },
+    {
+        "start": 242.76,
+        "end": 243.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 243.16,
+        "end": 245.16,
+        "english": "So the children are scattered everywhere.",
+        "chinese": "所以孩子们到处都是。"
+    },
+    {
+        "start": 245.16,
+        "end": 247.0,
+        "english": "Some of them are playing on the swing.",
+        "chinese": "有些他们正在玩滑板。"
+    },
+    {
+        "start": 247.0,
+        "end": 251.0,
+        "english": "Some of them are playing on the grass or in the sandbox.",
+        "chinese": "有些他们正在草地上或沙坑里玩耍。"
+    },
+    {
+        "start": 251.0,
+        "end": 254.76,
+        "english": "So children, a little bit of children in every different spot.",
+        "chinese": "所以孩子们，每一个地方都有许多孩子。"
+    },
+    {
+        "start": 254.76,
+        "end": 260.03999999999996,
+        "english": "So if we think that the city is a playground, maybe in one part of the city,",
+        "chinese": "所以如果我们认为城市是一个游乐场，或许在某个部分的城市里。"
+    },
+    {
+        "start": 260.03999999999996,
+        "end": 262.28,
+        "english": "there's a little bit of rain but not in the other part.",
+        "chinese": "这里有一点雨，但不是在另一个地方。"
+    },
+    {
+        "start": 262.28,
+        "end": 262.92,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 262.92,
+        "end": 263.96,
+        "english": "That's a scattered shower.",
+        "chinese": "那是一场分散的雨。"
+    },
+    {
+        "start": 263.96,
+        "end": 264.92,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 264.92,
+        "end": 268.12,
+        "english": "Moving on to our second word, we have hovering.",
+        "chinese": "在我们第二句话之后，我们将有悬浮。"
+    },
+    {
+        "start": 268.76,
+        "end": 269.71999999999997,
+        "english": "Hovering.",
+        "chinese": "在中文中，\"hovering\" 翻译为 \"悬浮\"。例如："
+    },
+    {
+        "start": 269.71999999999997,
+        "end": 273.08,
+        "english": "Temperatures hovering around the 30 degree mark.",
+        "chinese": "温度接近于30度。"
+    },
+    {
+        "start": 273.08,
+        "end": 274.92,
+        "english": "The temperature is hovering around.",
+        "chinese": "温度正在徘徊在。"
+    },
+    {
+        "start": 275.48,
+        "end": 278.36,
+        "english": "Okay, so when I say the temperatures are hovering,",
+        "chinese": "好的，所以我说气温正在徘徊，"
+    },
+    {
+        "start": 279.24,
+        "end": 281.56,
+        "english": "you mean it's approximately.",
+        "chinese": "您说的差不多。"
+    },
+    {
+        "start": 281.56,
+        "end": 284.12,
+        "english": "Okay, so they can move up and down.",
+        "chinese": "好的，他们可以向上和向下移动。"
+    },
+    {
+        "start": 284.12,
+        "end": 288.2,
+        "english": "So maybe it'll be a little bit warmer than 30 degrees or a little bit colder.",
+        "chinese": "所以或许会比30度稍暖或稍冷。"
+    },
+    {
+        "start": 288.2,
+        "end": 288.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 289.0,
+        "end": 291.64,
+        "english": "So if you think of hovering as floating.",
+        "chinese": "所以如果你认为悬浮为漂浮。"
+    },
+    {
+        "start": 291.64,
+        "end": 292.68,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 292.68,
+        "end": 297.56,
+        "english": "So why don't we listen to some more examples of how we could use hovering in different situations?",
+        "chinese": "所以为什么我们不听听一些更具体的例子，如何在不同的情况下使用悬浮？"
+    },
+    {
+        "start": 299.32,
+        "end": 300.2,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 301.72,
+        "end": 305.48,
+        "english": "Unemployment rates are hovering around the 10% mark, despite the government's attempts",
+        "chinese": "失业率徘徊在10%左右，尽管政府的措施仍然有效。"
+    },
+    {
+        "start": 305.48,
+        "end": 306.52,
+        "english": "to stimulate the economy.",
+        "chinese": "要刺激经济。"
+    },
+    {
+        "start": 307.8,
+        "end": 308.52,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 310.36,
+        "end": 313.56,
+        "english": "The way it just kept hovering around us all night was really annoying.",
+        "chinese": "这个方式一直像在我们身边飘荡，真是让人厌烦。"
+    },
+    {
+        "start": 315.08,
+        "end": 316.28000000000003,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 318.2,
+        "end": 321.24,
+        "english": "The company's margin this year is hovering around the 40% mark.",
+        "chinese": "公司的利润率今年大约在40%左右。"
+    },
+    {
+        "start": 322.68,
+        "end": 323.88,
+        "english": "Okay, so pretty clear.",
+        "chinese": "好的，明白了。"
+    },
+    {
+        "start": 323.88,
+        "end": 327.48,
+        "english": "Hovering is sort of floating around one area.",
+        "chinese": "在悬停时，它似乎漂浮在一个区域里。"
+    },
+    {
+        "start": 327.48,
+        "end": 328.04,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 328.6,
+        "end": 331.4,
+        "english": "Now let's move on to the next part.",
+        "chinese": "现在让我们继续到下一个部分。"
+    },
+    {
+        "start": 331.4,
+        "end": 334.12,
+        "english": "We saw that we're going to have isolated downpours.",
+        "chinese": "我们看到，我们将会有孤立的降水。"
+    },
+    {
+        "start": 334.12,
+        "end": 335.48,
+        "english": "Isolated downpours.",
+        "chinese": "孤立的雨。"
+    },
+    {
+        "start": 336.04,
+        "end": 338.12,
+        "english": "Isolated downpours.",
+        "chinese": "孤立的雨。"
+    },
+    {
+        "start": 338.12,
+        "end": 339.56,
+        "english": "Okay, let's break this one down.",
+        "chinese": "好的，让我们把它分解一下。"
+    },
+    {
+        "start": 340.28000000000003,
+        "end": 342.2,
+        "english": "Let's start with downpour.",
+        "chinese": "让我们从倾盆大雨开始。"
+    },
+    {
+        "start": 342.2,
+        "end": 346.36,
+        "english": "A downpour is when you have a lot of rain, very strong rain.",
+        "chinese": "一个暴雨是指你有大量降水，非常强烈的降雨。"
+    },
+    {
+        "start": 346.36,
+        "end": 346.84,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 346.84,
+        "end": 350.12,
+        "english": "For maybe a short amount of time, it's really raining heavily.",
+        "chinese": "对于可能的短时间，确实非常下大雨。"
+    },
+    {
+        "start": 350.12,
+        "end": 350.92,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 350.92,
+        "end": 352.84,
+        "english": "So that's what a downpour is.",
+        "chinese": "所以这就是暴雨。"
+    },
+    {
+        "start": 352.84,
+        "end": 355.32,
+        "english": "And if we take a look at the first word, isolated.",
+        "chinese": "And if we take a look at the first word, isolated. (注：这句话是中文，但根据您的要求，我将它翻译成英文。)"
+    },
+    {
+        "start": 355.88,
+        "end": 358.12,
+        "english": "So in one small area.",
+        "chinese": "所以，在一个很小的地方。"
+    },
+    {
+        "start": 358.12,
+        "end": 360.68,
+        "english": "Okay, confined it to a specific area.",
+        "chinese": "好的，限制在一个特定的范围内。"
+    },
+    {
+        "start": 360.68,
+        "end": 361.56,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 361.56,
+        "end": 363.64,
+        "english": "Okay, so we have an isolated downpour.",
+        "chinese": "好的，所以我们有孤立的下暴雨。"
+    },
+    {
+        "start": 363.64,
+        "end": 366.12,
+        "english": "It'll be raining in one specific area.",
+        "chinese": "在特定区域将会有雨。"
+    },
+    {
+        "start": 366.12,
+        "end": 368.52,
+        "english": "And you hear this a lot with weather with language.",
+        "chinese": "并且你经常听到这句话，因为天气和语言有关。"
+    },
+    {
+        "start": 368.52,
+        "end": 370.52,
+        "english": "You hear isolated showers.",
+        "chinese": "您听到孤立的雨滴。"
+    },
+    {
+        "start": 370.52,
+        "end": 372.84,
+        "english": "Isolated snowstorms.",
+        "chinese": "孤立的雪灾。"
+    },
+    {
+        "start": 372.84,
+        "end": 373.4,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 373.4,
+        "end": 376.35999999999996,
+        "english": "So it'll be in a specific area only.",
+        "chinese": "所以它将在特定区域发生。"
+    },
+    {
+        "start": 376.35999999999996,
+        "end": 379.96,
+        "english": "All right, so along with these showers and rain,",
+        "chinese": "好的，所以加上这些淋浴和雨，"
+    },
+    {
+        "start": 379.96,
+        "end": 381.15999999999997,
+        "english": "we also talked about wind.",
+        "chinese": "我们还讨论了风。"
+    },
+    {
+        "start": 381.15999999999997,
+        "end": 385.79999999999995,
+        "english": "And we heard that we will have gusts reaching 23 miles per hour.",
+        "chinese": "而且我们听说，我们将有风速达到每小时23英里。"
+    },
+    {
+        "start": 385.79999999999995,
+        "end": 389.96,
+        "english": "So we're going to have gusts reaching 23 miles per hour.",
+        "chinese": "所以我们将会有风速达到每小时23公里。"
+    },
+    {
+        "start": 389.96,
+        "end": 391.47999999999996,
+        "english": "Guests of wind.",
+        "chinese": "客人用风。"
+    },
+    {
+        "start": 391.47999999999996,
+        "end": 395.96,
+        "english": "Okay, so can you explain to our listeners what gusts are?",
+        "chinese": "好的，那么你能向我们的听众解释什么是风吗？"
+    },
+    {
+        "start": 396.03999999999996,
+        "end": 400.2,
+        "english": "Okay, so a gust is a sudden increase in the amount of wind.",
+        "chinese": "好的，所以风是突然增加的空气流动。"
+    },
+    {
+        "start": 400.2,
+        "end": 405.0,
+        "english": "Okay, so maybe we'll have normal wind and all of a sudden it will get really windy.",
+        "chinese": "好的，也许我们会有正常的风，突然之间就会变得非常风大。"
+    },
+    {
+        "start": 405.0,
+        "end": 405.4,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 405.4,
+        "end": 406.52,
+        "english": "For a short amount of time.",
+        "chinese": "对于一个短暂的时间。"
+    },
+    {
+        "start": 406.52,
+        "end": 407.64,
+        "english": "Okay, that's a gust.",
+        "chinese": "好的，这就是一阵风。"
+    },
+    {
+        "start": 407.64,
+        "end": 409.32,
+        "english": "G-S-T-GUST.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 409.32,
+        "end": 410.59999999999997,
+        "english": "GUST of wind.",
+        "chinese": "风的威力。"
+    },
+    {
+        "start": 410.59999999999997,
+        "end": 413.56,
+        "english": "And for our final word on language takeaway today,",
+        "chinese": "今天我们的最后话，就是关于语言的总结。"
+    },
+    {
+        "start": 413.56,
+        "end": 415.32,
+        "english": "we're going to have sleet.",
+        "chinese": "我们将会下雪。"
+    },
+    {
+        "start": 415.32,
+        "end": 415.79999999999995,
+        "english": "Sleet?",
+        "chinese": "雪花？"
+    },
+    {
+        "start": 416.84,
+        "end": 417.32,
+        "english": "Sleet.",
+        "chinese": "雪。"
+    },
+    {
+        "start": 418.2,
+        "end": 420.59999999999997,
+        "english": "All right, sleet is a terrible kind of weather.",
+        "chinese": "好的，雪是糟糕的天气。"
+    },
+    {
+        "start": 420.59999999999997,
+        "end": 423.79999999999995,
+        "english": "It's sort of a mixture between snow and rain.",
+        "chinese": "它有点像雪和雨的混合。"
+    },
+    {
+        "start": 424.52000000000004,
+        "end": 430.04,
+        "english": "So sleet is kind of the strange mix between ice and rain and snow.",
+        "chinese": "所以“雪”是冰和雨的混合物，类似于雪花。"
+    },
+    {
+        "start": 430.04,
+        "end": 433.40000000000003,
+        "english": "So just imagine it's not completely ice, so it's not solid.",
+        "chinese": "所以，想象一下它不是完全的冰，所以它不是固态。"
+    },
+    {
+        "start": 433.96000000000004,
+        "end": 435.8,
+        "english": "But it's not water, right?",
+        "chinese": "但是，不是水。"
+    },
+    {
+        "start": 435.8,
+        "end": 436.6,
+        "english": "It's not rain.",
+        "chinese": "是的，不是雨。"
+    },
+    {
+        "start": 436.6,
+        "end": 437.88,
+        "english": "And it's not snow either.",
+        "chinese": "而且是雪。"
+    },
+    {
+        "start": 437.88,
+        "end": 438.84000000000003,
+        "english": "No, it's in the middle.",
+        "chinese": "不，就在中间。"
+    },
+    {
+        "start": 438.84000000000003,
+        "end": 439.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 439.32,
+        "end": 440.68,
+        "english": "All right, so sleet.",
+        "chinese": "好的，所以雪。"
+    },
+    {
+        "start": 440.68,
+        "end": 442.68,
+        "english": "But what you really need to know is that it's terrible.",
+        "chinese": "但是，你真正需要知道的是这太糟糕了。"
+    },
+    {
+        "start": 443.64,
+        "end": 447.48,
+        "english": "All right, so that's all the words we have today for language takeaway.",
+        "chinese": "好的，今天我们只说了今天的语言小贴士。"
+    },
+    {
+        "start": 447.48,
+        "end": 449.72,
+        "english": "Let's move on now to Fluency Builder.",
+        "chinese": "现在让我们转向流畅 builder。"
+    },
+    {
+        "start": 452.36,
+        "end": 453.40000000000003,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 454.52000000000004,
+        "end": 458.76,
+        "english": "All right, and Fluency Builder today, we're going to look at three phrases",
+        "chinese": "好的，今天，我们将对三个短语进行分析。"
+    },
+    {
+        "start": 458.76,
+        "end": 461.48,
+        "english": "that are really common when you're talking about the weather.",
+        "chinese": "当您谈论天气时，确实是非常常见的。"
+    },
+    {
+        "start": 461.48,
+        "end": 465.32,
+        "english": "Now, we heard in the dialogue that there was a cold front moving in.",
+        "chinese": "现在，我们听到在对话中说有冷锋正在移动。"
+    },
+    {
+        "start": 465.88,
+        "end": 468.04,
+        "english": "A cold front moving in.",
+        "chinese": "一个冷锋正在移动。"
+    },
+    {
+        "start": 468.04,
+        "end": 469.88,
+        "english": "A cold front is moving in.",
+        "chinese": "一个冷锋正在移动。"
+    },
+    {
+        "start": 469.88,
+        "end": 471.72,
+        "english": "Okay, so a cold front.",
+        "chinese": "好的，所以是冷锋。"
+    },
+    {
+        "start": 471.72,
+        "end": 474.6,
+        "english": "Imagine a wall of cold air.",
+        "chinese": "想象一片冰冷的空气。"
+    },
+    {
+        "start": 475.72,
+        "end": 480.2,
+        "english": "And it comes towards a place and then it changes the pressure in the atmosphere.",
+        "chinese": "然后它朝一个地方移动，然后改变了大气中的压力。"
+    },
+    {
+        "start": 480.2,
+        "end": 485.71999999999997,
+        "english": "Okay, so a very sudden amount of cold air that comes into a place.",
+        "chinese": "好的，所以突然进入一个地方的大量冷空气。"
+    },
+    {
+        "start": 485.71999999999997,
+        "end": 486.2,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 486.2,
+        "end": 489.0,
+        "english": "So we say a cold front is moving in.",
+        "chinese": "所以我们说冷锋正在移动。"
+    },
+    {
+        "start": 490.12,
+        "end": 494.12,
+        "english": "So we always think of these cold fronts or warm fronts as moving.",
+        "chinese": "所以，我们总是把这些冷锋或暖锋视为移动的。"
+    },
+    {
+        "start": 494.12,
+        "end": 498.91999999999996,
+        "english": "So you can either say they're moving in or you can say a cold front is coming in.",
+        "chinese": "所以你可以选择说他们正在移动，或者你可以说冷锋即将来临。"
+    },
+    {
+        "start": 498.91999999999996,
+        "end": 500.03999999999996,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 500.76,
+        "end": 505.0,
+        "english": "And okay, we have a cold front that's moving in and we're going to have winds",
+        "chinese": "而且，我们有一个冷锋正在移动，并且我们将有风。"
+    },
+    {
+        "start": 505.0,
+        "end": 507.71999999999997,
+        "english": "that will be coming in from the northeast.",
+        "chinese": "这将从东北来。"
+    },
+    {
+        "start": 507.71999999999997,
+        "end": 509.71999999999997,
+        "english": "Okay, winds coming in from.",
+        "chinese": "好的，风正从这边来。"
+    },
+    {
+        "start": 509.8,
+        "end": 512.0400000000001,
+        "english": "Okay, winds coming in from.",
+        "chinese": "好的，风正从这边来。"
+    },
+    {
+        "start": 512.0400000000001,
+        "end": 514.28,
+        "english": "So when I say it's coming in from.",
+        "chinese": "所以，当我说它会从这里来。"
+    },
+    {
+        "start": 514.28,
+        "end": 517.48,
+        "english": "You're talking about its origin, where it starts.",
+        "chinese": "您是在谈论它的起源，它从哪里开始。"
+    },
+    {
+        "start": 517.48,
+        "end": 522.76,
+        "english": "Okay, so if I change the noun and I say, and I don't say winds anymore, but maybe I'll say",
+        "chinese": "好的，如果我改变名词，并且说“和风”，而没有说“风”这个词，那么我会说："
+    },
+    {
+        "start": 522.76,
+        "end": 523.72,
+        "english": "my friends.",
+        "chinese": "我的朋友。"
+    },
+    {
+        "start": 523.72,
+        "end": 523.96,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您需要如何帮助或解决什么问题？如果您能提供更多的上下文信息，我可以尝试更好地理解和回答您的问题。"
+    },
+    {
+        "start": 523.96,
+        "end": 526.76,
+        "english": "My friends are coming in from Chicago.",
+        "chinese": "我的朋友们将从芝加哥来。"
+    },
+    {
+        "start": 526.76,
+        "end": 529.64,
+        "english": "Chicago, so they are arriving from Chicago.",
+        "chinese": "北京，所以他们是从北京来的。"
+    },
+    {
+        "start": 529.64,
+        "end": 530.44,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 530.44,
+        "end": 531.5600000000001,
+        "english": "What else can I say?",
+        "chinese": "你好，有什么我可以帮你说的吗？"
+    },
+    {
+        "start": 531.5600000000001,
+        "end": 535.08,
+        "english": "Or you can also say the kids are coming in from outside.",
+        "chinese": "您还可以说孩子们正在从外面到来。"
+    },
+    {
+        "start": 535.08,
+        "end": 537.4,
+        "english": "Okay, so where they were before.",
+        "chinese": "好的，他们之前在哪里？"
+    },
+    {
+        "start": 537.4,
+        "end": 537.96,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 537.96,
+        "end": 538.6800000000001,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 538.76,
+        "end": 543.64,
+        "english": "So coming in from, you can change the noun a little bit and you can form these new sentences.",
+        "chinese": "所以从这里来，你可以稍微改变一下名词，然后你就可以用这些新句子组成它们。"
+    },
+    {
+        "start": 543.64,
+        "end": 544.04,
+        "english": "Great.",
+        "chinese": "好的，以下是“Great”在中文的翻译："
+    },
+    {
+        "start": 544.04,
+        "end": 547.0799999999999,
+        "english": "Now, our final phrase, we heard the announcer say,",
+        "chinese": "现在，我们的最后一句话，我们听到广播员说："
+    },
+    {
+        "start": 547.0799999999999,
+        "end": 549.3199999999999,
+        "english": "it's going to be a cold one.",
+        "chinese": "它会是一个寒冷的一天。"
+    },
+    {
+        "start": 549.3199999999999,
+        "end": 551.16,
+        "english": "It's going to be a cold one.",
+        "chinese": "它是将要下雪的。"
+    },
+    {
+        "start": 551.16,
+        "end": 552.3599999999999,
+        "english": "It's going to be a cold one.",
+        "chinese": "它是将要下雪的。"
+    },
+    {
+        "start": 552.3599999999999,
+        "end": 555.0799999999999,
+        "english": "So I have this phrase, it's going to be a cold one.",
+        "chinese": "所以，我有这个短语，它将是一个冷的句子。"
+    },
+    {
+        "start": 555.0799999999999,
+        "end": 557.0799999999999,
+        "english": "What do I mean by a cold one?",
+        "chinese": "我用冷来形容什么？"
+    },
+    {
+        "start": 557.0799999999999,
+        "end": 560.52,
+        "english": "Okay, so the one represents the event.",
+        "chinese": "好的，所以这个代表事件。"
+    },
+    {
+        "start": 560.52,
+        "end": 561.4799999999999,
+        "english": "So the day.",
+        "chinese": "所以，一天。"
+    },
+    {
+        "start": 561.4799999999999,
+        "end": 564.28,
+        "english": "Okay, so it's going to be a cold day.",
+        "chinese": "好的，那么今天会是个寒冷的日子。"
+    },
+    {
+        "start": 564.28,
+        "end": 564.92,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 564.92,
+        "end": 565.7199999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 565.72,
+        "end": 569.1600000000001,
+        "english": "Now, we can obviously change the adjective, right?",
+        "chinese": "现在，我们可以说可以明显地改变形容词了吗？"
+    },
+    {
+        "start": 569.1600000000001,
+        "end": 570.36,
+        "english": "So it's going to be a hot one.",
+        "chinese": "所以，它会很热。"
+    },
+    {
+        "start": 570.36,
+        "end": 571.64,
+        "english": "It's going to be a long one.",
+        "chinese": "它是漫长的。"
+    },
+    {
+        "start": 571.64,
+        "end": 572.84,
+        "english": "It's going to be a long day.",
+        "chinese": "这是一个长的一天。"
+    },
+    {
+        "start": 572.84,
+        "end": 573.8000000000001,
+        "english": "All right.",
+        "chinese": "好的，我会将这句话翻译成中文："
+    },
+    {
+        "start": 573.8000000000001,
+        "end": 575.88,
+        "english": "But the one can mean anything.",
+        "chinese": "但是，这可以意味着任何事物。"
+    },
+    {
+        "start": 576.44,
+        "end": 577.64,
+        "english": "Okay, so it can be a day.",
+        "chinese": "好的，那么可以理解为一天。"
+    },
+    {
+        "start": 577.64,
+        "end": 579.4,
+        "english": "It can be an event.",
+        "chinese": "它可以是一个事件。"
+    },
+    {
+        "start": 579.4,
+        "end": 580.44,
+        "english": "Meeting.",
+        "chinese": "会议。"
+    },
+    {
+        "start": 580.44,
+        "end": 580.9200000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 580.9200000000001,
+        "end": 581.72,
+        "english": "A project.",
+        "chinese": "一个项目。"
+    },
+    {
+        "start": 581.72,
+        "end": 583.48,
+        "english": "So for example, if we're going to a meeting,",
+        "chinese": "所以，例如，如果我们去开会，"
+    },
+    {
+        "start": 583.48,
+        "end": 586.6800000000001,
+        "english": "I might say, hey, Marco, this is going to be a hard one.",
+        "chinese": "我或许会说，嘿，马科，这事儿肯定难。"
+    },
+    {
+        "start": 586.6800000000001,
+        "end": 589.4,
+        "english": "Okay, so the one represents the meeting.",
+        "chinese": "好的，所以这个代表会议。"
+    },
+    {
+        "start": 589.4,
+        "end": 589.8000000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 589.8000000000001,
+        "end": 591.08,
+        "english": "This is going to be a hard meeting.",
+        "chinese": "这是一个困难的会议。"
+    },
+    {
+        "start": 591.88,
+        "end": 594.36,
+        "english": "All right, I think this is a very good phrase,",
+        "chinese": "好的，我认为这是个很好的表达，"
+    },
+    {
+        "start": 594.36,
+        "end": 595.72,
+        "english": "and it's very commonly used.",
+        "chinese": "和它非常常见。"
+    },
+    {
+        "start": 595.72,
+        "end": 599.5600000000001,
+        "english": "So why don't we listen to some more examples of how we can use?",
+        "chinese": "所以为什么我们不听听更多例子，如何我们可以使用？"
+    },
+    {
+        "start": 599.5600000000001,
+        "end": 602.04,
+        "english": "It's going to be a something one.",
+        "chinese": "它将是一个什么。"
+    },
+    {
+        "start": 603.32,
+        "end": 604.28,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 605.48,
+        "end": 609.0,
+        "english": "Temperatures of forecasted to hit 37 degrees today.",
+        "chinese": "今天的预报温度预计将达到37度。"
+    },
+    {
+        "start": 609.0,
+        "end": 610.2,
+        "english": "It's going to be a hot one, folks.",
+        "chinese": "是热的一天，朋友们。"
+    },
+    {
+        "start": 611.96,
+        "end": 612.76,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 614.36,
+        "end": 615.64,
+        "english": "It's only 8 a.m.",
+        "chinese": "它只有早上八点。"
+    },
+    {
+        "start": 615.64,
+        "end": 617.8000000000001,
+        "english": "And I've got 100 emails already.",
+        "chinese": "我已经收到了100封邮件。"
+    },
+    {
+        "start": 617.8000000000001,
+        "end": 619.08,
+        "english": "It's going to be a long one today.",
+        "chinese": "今天将是一个漫长的时光。"
+    },
+    {
+        "start": 621.16,
+        "end": 622.2,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 622.76,
+        "end": 624.76,
+        "english": "I haven't studied a tool for the exam.",
+        "chinese": "我还没有学习过考试用的工具。"
+    },
+    {
+        "start": 624.76,
+        "end": 626.76,
+        "english": "It's going to be a tough one.",
+        "chinese": "它是要很艰难的。"
+    },
+    {
+        "start": 628.6800000000001,
+        "end": 633.24,
+        "english": "Okay, so some great examples, and I think it's time for us to listen to this dialogue again.",
+        "chinese": "好的，所以有一些很好的例子，我认为现在是时候听这个对话了。"
+    },
+    {
+        "start": 633.24,
+        "end": 638.12,
+        "english": "And now we can understand all these words and phrases that we've just talked about.",
+        "chinese": "现在我们能理解这些刚刚提到的每一个词和短语。"
+    },
+    {
+        "start": 639.96,
+        "end": 643.48,
+        "english": "And now, let's go to Kenny Williams for today's weather forecast.",
+        "chinese": "现在，让我们去肯尼·威廉姆斯今天天气预报。"
+    },
+    {
+        "start": 643.48,
+        "end": 646.44,
+        "english": "Thank you, Bill, and good morning, Salt Lake City.",
+        "chinese": "非常感谢，Bill，早上好，盐湖城。"
+    },
+    {
+        "start": 646.44,
+        "end": 648.2,
+        "english": "What's the weather we're looking like today, Kenny?",
+        "chinese": "今天我们正在看什么样的天气，凯恩？"
+    },
+    {
+        "start": 648.2,
+        "end": 650.44,
+        "english": "Well, it's a bit of a mix back in Utah today.",
+        "chinese": "今天，事情有点复杂在Utah。"
+    },
+    {
+        "start": 650.44,
+        "end": 654.6,
+        "english": "We've got heavy cloud cover here in Northern Utah, and we're calling for scattered showers throughout the day.",
+        "chinese": "我们今天在北达科他州有厚厚的云层，今天全天都有分散的雨。"
+    },
+    {
+        "start": 654.6,
+        "end": 656.36,
+        "english": "With a daytime high of 45 degrees.",
+        "chinese": "白天最高温度为 45 度 Celsius。"
+    },
+    {
+        "start": 656.36,
+        "end": 660.6,
+        "english": "Now, if we move down to the south of the state, we can see that a cold front is moving in.",
+        "chinese": "现在，如果我们向南移动到该省的南部，我们可以看到一个冷锋正在移动。"
+    },
+    {
+        "start": 660.6,
+        "end": 665.48,
+        "english": "We can expect clear skies, but it will be quite cold with temperatures hovering around the 30-degree mark.",
+        "chinese": "我们预计会有晴朗的天空，但气温将接近于零度。"
+    },
+    {
+        "start": 665.48,
+        "end": 666.6800000000001,
+        "english": "It's a chilly day, folks.",
+        "chinese": "是天气很冷，大家。"
+    },
+    {
+        "start": 666.6800000000001,
+        "end": 668.84,
+        "english": "So don't forget your coats.",
+        "chinese": "所以不要忘了你的外套。"
+    },
+    {
+        "start": 668.84,
+        "end": 670.5200000000001,
+        "english": "What about tomorrow, Kenny?",
+        "chinese": "明天，凯恩？"
+    },
+    {
+        "start": 670.5200000000001,
+        "end": 671.6400000000001,
+        "english": "Do you have good news for us?",
+        "chinese": "您有好消息要对我们说吗？"
+    },
+    {
+        "start": 672.2800000000001,
+        "end": 674.36,
+        "english": "Well, it'll be a rainy day for Northern Utah.",
+        "chinese": "嗯，北部犹他州将会有雨。"
+    },
+    {
+        "start": 674.36,
+        "end": 676.84,
+        "english": "We can expect some isolated downpours in the morning.",
+        "chinese": "我们预计今天早上会有孤立的雨滴。"
+    },
+    {
+        "start": 676.84,
+        "end": 680.6,
+        "english": "Winds will be coming in from the northeast, with gust reaching 23 miles per hour.",
+        "chinese": "风将从东北方向吹来，风速将达到每小时23公里。"
+    },
+    {
+        "start": 680.6,
+        "end": 683.64,
+        "english": "Salt Lake City can expect the rain to turn to sleet in the evening.",
+        "chinese": "盐湖城明天晚上可能会变成小雪。"
+    },
+    {
+        "start": 683.64,
+        "end": 685.5600000000001,
+        "english": "Things are looking a bit better for the south.",
+        "chinese": "事物看起来有些好转，南方。"
+    },
+    {
+        "start": 686.2800000000001,
+        "end": 688.2800000000001,
+        "english": "We'll see cloudy skies with a chance of showers.",
+        "chinese": "我们将看到阴天，有小雨的可能性。"
+    },
+    {
+        "start": 688.2800000000001,
+        "end": 692.36,
+        "english": "Later in the day, we can expect partly cloudy skies with a forecast high of 38 degrees.",
+        "chinese": "在一天的傍晚，我们可以期待有部分云彩，天空将有一度数为38的预报。"
+    },
+    {
+        "start": 692.9200000000001,
+        "end": 695.0,
+        "english": "You heard it, folks. It's going to be a cold one.",
+        "chinese": "您听到了什么，朋友们？天气会变得很冷。"
+    },
+    {
+        "start": 695.0,
+        "end": 695.8000000000001,
+        "english": "That's right, Bill.",
+        "chinese": "没错，布莱尔。"
+    },
+    {
+        "start": 696.52,
+        "end": 699.32,
+        "english": "We will have more later on today on the 6 o'clock news.",
+        "chinese": "我们今天将在今天的6点钟新闻上继续。"
+    },
+    {
+        "start": 699.32,
+        "end": 706.6800000000001,
+        "english": "That's the weather forecast for this morning.",
+        "chinese": "这是一天的天气预报。"
+    },
+    {
+        "start": 707.24,
+        "end": 709.88,
+        "english": "Okay, so we know that in English-speaking countries,",
+        "chinese": "好的，我们知道在英语国家，"
+    },
+    {
+        "start": 709.88,
+        "end": 715.48,
+        "english": "the weather is always, always, always a great subject of conversation for small talk, right?",
+        "chinese": "天气总是，总是，总是谈论的话题是小谈话的最好主题吗？"
+    },
+    {
+        "start": 715.48,
+        "end": 715.96,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 715.96,
+        "end": 718.6800000000001,
+        "english": "If you ever want to talk to somebody or start a conversation,",
+        "chinese": "如果你想和某人交谈或者开始对话，可以使用以下翻译："
+    },
+    {
+        "start": 718.6800000000001,
+        "end": 720.6800000000001,
+        "english": "the weather is always a number one topic.",
+        "chinese": "天气总是成为话题之一。"
+    },
+    {
+        "start": 720.6800000000001,
+        "end": 721.08,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 721.08,
+        "end": 723.4,
+        "english": "And we actually have a phrase in this dialogue.",
+        "chinese": "而且我们实际上在对话中有一个短语。"
+    },
+    {
+        "start": 723.4,
+        "end": 725.64,
+        "english": "There'll be great for starting a conversation.",
+        "chinese": "对于开始对话来说，会有很多好处。"
+    },
+    {
+        "start": 725.64,
+        "end": 729.08,
+        "english": "Like, for example, imagine if you lived here in Utah and you were, you know,",
+        "chinese": "像，例如，假设你住在休斯顿，你知道。"
+    },
+    {
+        "start": 729.08,
+        "end": 731.48,
+        "english": "wanting to start a conversation with someone, you could say,",
+        "chinese": "想要和某人开始对话，你可以这样说："
+    },
+    {
+        "start": 732.2,
+        "end": 734.44,
+        "english": "it sure is a cold one today, isn't it?",
+        "chinese": "是啊，今天真是冷啊，不是吗？"
+    },
+    {
+        "start": 734.44,
+        "end": 735.4000000000001,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 735.4,
+        "end": 737.3199999999999,
+        "english": "That's a great way of starting a conversation and",
+        "chinese": "这是一个很好的开始谈话的方式。"
+    },
+    {
+        "start": 738.04,
+        "end": 741.24,
+        "english": "English-speaking people love to talk about the weather, as you say.",
+        "chinese": "英语说的，喜欢谈论天气。"
+    },
+    {
+        "start": 741.24,
+        "end": 741.72,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 741.72,
+        "end": 746.92,
+        "english": "So, guys, if you have any questions about weather vocabulary or if you want to practice",
+        "chinese": "所以，朋友们，如果你有任何关于天气词汇的问题，或者你想练习一下呢。"
+    },
+    {
+        "start": 746.92,
+        "end": 750.84,
+        "english": "talking about the weather, come to our website at englishpod.com.",
+        "chinese": "谈论天气，来我们的网站 [英语播客] ."
+    },
+    {
+        "start": 750.84,
+        "end": 754.84,
+        "english": "Right, Erica and I are always there to answer any questions or doubts you may have.",
+        "chinese": "正确，艾瑞卡和我总是随时准备回答你可能有的任何问题或疑虑。"
+    },
+    {
+        "start": 754.84,
+        "end": 759.24,
+        "english": "And also, if you have any stories about crazy weather maybe in the countries you're from,",
+        "chinese": "而且，如果你有关于狂风暴雨的奇闻异事，也许来自你的国家的故事。"
+    },
+    {
+        "start": 759.24,
+        "end": 759.88,
+        "english": "let us know.",
+        "chinese": "我们请你们知道。"
+    },
+    {
+        "start": 760.4399999999999,
+        "end": 763.88,
+        "english": "So, thanks for downloading you guys and until next time, bye!",
+        "chinese": "所以，谢谢你们下载了我们大家，下一次见，再见！"
+    },
+    {
+        "start": 765.4,
+        "end": 788.4399999999999,
+        "english": "ージ мыаем",
+        "chinese": "你好！"
+    }
+]

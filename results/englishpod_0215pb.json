@@ -1,0 +1,842 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.24,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好大家，欢迎来到英语有声！我的名字是马克。"
+    },
+    {
+        "start": 6.24,
+        "end": 10.96,
+        "english": "My name is Catherine and today we're talking about one of our favorite topics here at",
+        "chinese": "我的名字是凯瑟琳，今天我们要谈论我们这里最喜欢的话题之一。"
+    },
+    {
+        "start": 10.96,
+        "end": 18.0,
+        "english": "EnglishPod that would be food. We love talking about food and this time we are going to pick up",
+        "chinese": "英语pod，就是美食。我们喜欢谈论食物，这次我们要pick up中文的中式美食。"
+    },
+    {
+        "start": 18.0,
+        "end": 25.36,
+        "english": "some food at the deli. What's a deli? A deli is a special store where a person can buy",
+        "chinese": "有些食物在卖肉的地方。什么是卖肉的？卖肉的是一个地方，你可以在那里买一些特别的东西。"
+    },
+    {
+        "start": 25.36,
+        "end": 31.439999999999998,
+        "english": "meats. Okay. Meat and cheese. In this case we're talking about special meats. It's not just",
+        "chinese": "肉类。好的。肉和奶酪。这里指的是特别的肉类。这不仅仅是普通的肉类。"
+    },
+    {
+        "start": 31.439999999999998,
+        "end": 37.519999999999996,
+        "english": "like pork or beef, which you could also buy at the butcher. It is cured meats, cold meats.",
+        "chinese": "就像猪肉或牛肉，你也可以在屠夫那里买到。它们是腌制肉类和冷肉。"
+    },
+    {
+        "start": 37.519999999999996,
+        "end": 42.16,
+        "english": "So let's take a look at today's vocabulary preview to find out more about this special kind of meat.",
+        "chinese": "所以，让我们来看看今天的词汇预览，了解更多这种特别的肉类吧。"
+    },
+    {
+        "start": 43.519999999999996,
+        "end": 51.36,
+        "english": "Very cabblery preview. All right so at the deli you usually pick up cold cuts. Cold cuts.",
+        "chinese": "非常棒的预览。好的，所以在卖肉串的小店你通常会拿冷肉吃。冷肉。"
+    },
+    {
+        "start": 51.36,
+        "end": 55.68,
+        "english": "So basically the way that I used to remember cold cuts as a child was that cold cuts are what",
+        "chinese": "所以，我小时候用来记住冷盘的方式就是：冷盘是……"
+    },
+    {
+        "start": 55.68,
+        "end": 64.32,
+        "english": "you put on a sandwich. So sliced turkey, sliced chicken, ham, salami. Okay like pepperoni would be",
+        "chinese": "你把面包放上了。所以，切的火鸡、鸡肉、熏肉、香肠。嗯，像培根那会儿就该是了。"
+    },
+    {
+        "start": 64.32,
+        "end": 69.68,
+        "english": "a cold cut, right? That's right. So cold cuts are meats that you serve cold normally. They're",
+        "chinese": "一块冷切肉，对不对？没错。所以冷切肉是通常会放在室温下保存的肉类。"
+    },
+    {
+        "start": 69.68,
+        "end": 74.96000000000001,
+        "english": "usually cured. They're not like raw pork or raw beef. You put them on a sandwich. So cured",
+        "chinese": "通常治愈。他们是不像生猪肉或生牛肉的。你把它们放在三明治里。所以熏制"
+    },
+    {
+        "start": 74.96000000000001,
+        "end": 79.76,
+        "english": "meats would be like that they're smoked. They're not cooked. No they're not cooked. You're right. They're",
+        "chinese": "肉是这样，它们被腌制过。它们不是煮熟的。你对吗？它们不是煮熟的。"
+    },
+    {
+        "start": 79.76,
+        "end": 85.28,
+        "english": "smoked or they're cured with a kind of chemical or brine. That means that they're preserved. They",
+        "chinese": "熏制或通过某种化学物质或盐水进行腌制。这意味着它们是经过保存的。"
+    },
+    {
+        "start": 85.28,
+        "end": 90.88000000000001,
+        "english": "can last for a long time. All right very good. So that's what we're getting at the deli. Usually at",
+        "chinese": "可以持续很长时间。好的，这就是我们去的比萨店通常会提供的。"
+    },
+    {
+        "start": 90.88000000000001,
+        "end": 96.24000000000001,
+        "english": "the deli you can pick up meats, cheeses and pickles and all that good stuff. All that good stuff.",
+        "chinese": "你可以自取的店，有肉、奶酪和腌菜等好东西。都是一样的好东西。"
+    },
+    {
+        "start": 96.24000000000001,
+        "end": 100.4,
+        "english": "All right so why don't we jump into our dialogue and listen to it for the first time.",
+        "chinese": "好的，那我们直接进入对话，听听它的第一遍吧。"
+    },
+    {
+        "start": 101.2,
+        "end": 111.68,
+        "english": "Honey we're all out of wine and cheese. Do you mind running to the deli and picking up a few things?",
+        "chinese": "我们已经没有酒和奶酪了。你介意去杂货店买点东西吗？"
+    },
+    {
+        "start": 112.32000000000001,
+        "end": 117.04,
+        "english": "Can't wait. I'm watching the game right now. Your friends and family are coming over tonight",
+        "chinese": "当然啦，我现在正在看比赛呢。你的朋友和家人今晚会过来的。"
+    },
+    {
+        "start": 117.04,
+        "end": 123.36000000000001,
+        "english": "and we still need to get a lot of things. Fine. What do you need? Okay pick up some cured meats to go",
+        "chinese": "我们还需要很多东西。好的，你需要什么？好吧，去拿一些火腿回去。"
+    },
+    {
+        "start": 123.36000000000001,
+        "end": 129.52,
+        "english": "with the wine. Maybe a pound of Polish sausages, ham, liver, worst, salami and any other cold cuts that",
+        "chinese": "用红酒。也许一块波兰熏肉、火腿、肝、最糟的、香肠和任何其他冷切肉类。"
+    },
+    {
+        "start": 129.52,
+        "end": 135.84,
+        "english": "are on sale. I think I saw a promotion for pastrami. Also get some coleslaw and a jar of olives.",
+        "chinese": "促销中。我想我看到过关于烟熏肉的优惠信息。顺便来点沙拉和一罐橄榄吧。"
+    },
+    {
+        "start": 135.84,
+        "end": 141.44,
+        "english": "Whoa wait a minute. Isn't that a bit too much. I mean how much is all this going to cost?",
+        "chinese": "哇，等等。这不是有点太多了嘛。这得花多少钱？"
+    },
+    {
+        "start": 141.44,
+        "end": 146.88,
+        "english": "Never mind that. Get some dips as well. Get a jar of spinach and blue cheese dips and also some",
+        "chinese": "好的，别管那个。多吃点蘸酱吧。买一罐菠菜芝士蘸酱和一些蓝莓蘸酱也是一样。"
+    },
+    {
+        "start": 146.88,
+        "end": 152.32000000000002,
+        "english": "satsuki. If they have been dipped get that as well. Last but not least get some pickles.",
+        "chinese": "satsuki。如果它们已经浸泡过了，也一起拿过来吧。最后别忘了买一些酸菜。"
+    },
+    {
+        "start": 152.32000000000002,
+        "end": 157.68,
+        "english": "Is that all your majesty? Very funny. Get a move on. People will be here any minute.",
+        "chinese": "这是你整个任务吗，陛下？好笑。快点行动吧。人们很快就到这儿来了。"
+    },
+    {
+        "start": 160.16,
+        "end": 166.64000000000001,
+        "english": "Alright we're back. So now we're going to go into language takeaway. We're going to take a look",
+        "chinese": "好的，我们又回来了。现在我们要去取语言了。我们去看看..."
+    },
+    {
+        "start": 166.64000000000001,
+        "end": 176.56,
+        "english": "at six keywords. Language takeaway. Alright so the first keyword that we have we actually talked",
+        "chinese": "好的，我们首先有一个关键词。这个关键词是：\n\n六字箴言。\n\n中文：六字箴言。"
+    },
+    {
+        "start": 176.56,
+        "end": 182.08,
+        "english": "about it already but just to make sure that you got it those are cured meats. Cured meats.",
+        "chinese": "关于它已经知道了，只是确认一下你都收到了。那些是火腿制品。"
+    },
+    {
+        "start": 182.64000000000001,
+        "end": 189.44,
+        "english": "Well to cure something is to preserve it in this case. So be careful because to cure has a",
+        "chinese": "好的，为了治愈就是保存它。所以要小心，因为“治愈”这个词有误。"
+    },
+    {
+        "start": 189.44,
+        "end": 194.64,
+        "english": "couple of different meanings but when we're talking about food something that is cured is preserved.",
+        "chinese": "几种不同的含义，但当我们谈论食物时，被腌制的东西是保存的。"
+    },
+    {
+        "start": 195.2,
+        "end": 202.16,
+        "english": "For example pickles are cured in salty water. Brian. Oh is that what it's called? Brian salty water.",
+        "chinese": "例如，腌制的蔬菜是用咸水腌制的。Brian，那叫什么名字？Brian 咸水。"
+    },
+    {
+        "start": 202.16,
+        "end": 207.92,
+        "english": "Yeah. No wonder I don't like pickles. But pickles are like if you don't put them in brine they",
+        "chinese": "是的。难怪我不喜欢腌菜了。但腌菜就像如果把它们放在盐水中，它们就变咸了。"
+    },
+    {
+        "start": 207.92,
+        "end": 213.44,
+        "english": "don't taste all soury and nasty. No that's because they're cucumbers. So a cucumber becomes",
+        "chinese": "别尝这么酸溜溜的。那是因为它们是黄瓜嘛。所以，一个黄瓜变成了..."
+    },
+    {
+        "start": 213.44,
+        "end": 219.92,
+        "english": "like pickle after it's been cured. So we could talk about pork but when pork is cured it becomes",
+        "chinese": "就像腌制好的咸菜一样。所以我们可以聊聊猪肉，但当猪肉经过腌制后就会变成……"
+    },
+    {
+        "start": 219.92,
+        "end": 226.48,
+        "english": "ham. Okay awesome. Okay so cured meats are meats that have been preserved through some kind of",
+        "chinese": "好的，听起来不错。那么火腿是通过某种方式保存的肉类。"
+    },
+    {
+        "start": 226.48,
+        "end": 233.12,
+        "english": "process like using salt or drying them. Okay awesome and one of these cured meats I think",
+        "chinese": "处理起来就像用盐腌制一样，或者晾干。好厉害！我觉得这里面有一种叫做熏肉的东西。"
+    },
+    {
+        "start": 233.12,
+        "end": 238.96,
+        "english": "maybe is a liver worst. Okay well this is a German lesson now not just an English lesson. In",
+        "chinese": "可能是肝脏最糟糕的。好的，现在是德国课，不是英语课。"
+    },
+    {
+        "start": 238.96,
+        "end": 244.16,
+        "english": "English we have a lot of words to come from German and one of these words is worst. Okay and",
+        "chinese": "我们来自德语的词汇非常多，其中一个就是最差的。哦，对了。"
+    },
+    {
+        "start": 244.16,
+        "end": 249.44,
+        "english": "that means sausage right? That's right sausage so brought worst liver worst and in this case liver",
+        "chinese": "那就是香肠吧？没错，就是香肠。所以这回肝特别差，这次的肝脏"
+    },
+    {
+        "start": 249.44,
+        "end": 255.12,
+        "english": "worst I'm sure you can guess what part of the pig that comes from. Liver? Very good Marco you get",
+        "chinese": "我确定你猜不到哪里是猪肝。很不错的Marco，你怎么得到的？"
+    },
+    {
+        "start": 255.12,
+        "end": 260.48,
+        "english": "a star for the day. Awesome. Yeah no liver worst is a kind of sausage that's made up of this part",
+        "chinese": "一天好。太好了。真希望你今天过得愉快。"
+    },
+    {
+        "start": 260.48,
+        "end": 265.92,
+        "english": "of the animal. Okay actually I've never I don't know if I've had liver worst. What does it look like?",
+        "chinese": "当然，我确实没有尝试过肝脏。它看起来是什么样的？"
+    },
+    {
+        "start": 265.92,
+        "end": 272.72,
+        "english": "Is it white? Is it red? Is it I think it's like dark. Light purple-ish whitish. I don't know",
+        "chinese": "是吗？是红色的吗？还是我猜它像深色。浅紫色的、白色的，我不太知道。"
+    },
+    {
+        "start": 272.72,
+        "end": 279.84000000000003,
+        "english": "I've had blood worst that's good. Yeah blood sausage is delicious. Okay and well apart from picking",
+        "chinese": "我有吃过比这更糟糕的血。嗯，血肉松软，味道不错。不过还是得分开处理，别忘了吃点别的。"
+    },
+    {
+        "start": 279.84000000000003,
+        "end": 287.44,
+        "english": "up meats and cheeses at the deli you can also pick up coleslaw. All right coleslaw is an American",
+        "chinese": "在肉店你还可以拿走沙拉。好的，沙拉是美国的。"
+    },
+    {
+        "start": 287.44,
+        "end": 292.72,
+        "english": "classic I'm sure you can get this other places as well though. It's basically a cold salad that's",
+        "chinese": "当然，你可以在其他地方买到的。这其实只是个冷沙拉。"
+    },
+    {
+        "start": 292.8,
+        "end": 301.28000000000003,
+        "english": "made up of cabbage and carrots and maybe onions but generally the sauce is white it's like a mayonnaise",
+        "chinese": "由西兰花和胡萝卜做成的，可能还有洋葱。但是总体来说酱汁是白色的，就像蛋黄酱一样"
+    },
+    {
+        "start": 301.28000000000003,
+        "end": 309.04,
+        "english": "and vinegar sauce so it's very stringy lots of thin long pieces and the sauce is white. Okay yeah I think",
+        "chinese": "嗯，醋汁很稠，有很多细长的薄片，酱是白色的。好，我觉得"
+    },
+    {
+        "start": 309.04,
+        "end": 314.32000000000005,
+        "english": "this is a very American thing I'm not really sure if I've seen coleslaw in many other places",
+        "chinese": "这是很美国的一件事，我真的不确定我在哪里见过凯撒沙拉"
+    },
+    {
+        "start": 314.32000000000005,
+        "end": 319.12,
+        "english": "but I personally don't like it again because of the whole vinegar thing I'm not a big fan of",
+        "chinese": "但我觉得这个还是因为醋的问题，我不太喜欢。"
+    },
+    {
+        "start": 319.2,
+        "end": 325.68,
+        "english": "the bitter stuff. Yeah I love we also call it slaw sometimes with a side of slaw I love a hot dog",
+        "chinese": "苦的东西。是的，我喜欢叫它沙拉，有时也加了沙拉。我喜欢热狗。"
+    },
+    {
+        "start": 325.68,
+        "end": 331.68,
+        "english": "with a side of coleslaw. Oh really? Favorite meals. Yeah. Oh wow okay so coleslaw moving on we have",
+        "chinese": "一边是凉菜。哦真的？最爱的美食。嗯，凉菜继续。我们有……"
+    },
+    {
+        "start": 331.68,
+        "end": 337.6,
+        "english": "an interesting sauce it's Greek I believe. That is correct and I'm not gonna try to pronounce it",
+        "chinese": "这个酱料挺有意思的，我认为是希腊的。没错，我不会试着读出来"
+    },
+    {
+        "start": 337.6,
+        "end": 341.36,
+        "english": "because I might mess it up so I'm gonna leave that one to you. Well I don't speak Greek but this",
+        "chinese": "因为我会弄错，我打算让你来处理。虽然我没有说希腊语，但是这个交给你吧。"
+    },
+    {
+        "start": 341.36,
+        "end": 348.0,
+        "english": "is how we say it in America. Satziki. Satziki. Okay Satziki is a food that comes from grace like",
+        "chinese": "这在我们美国就是这么说的。萨兹基。萨兹基。好吧，萨兹基是一种像来自上帝的食物"
+    },
+    {
+        "start": 348.0,
+        "end": 353.92,
+        "english": "you said you know in America we have a lot of different foods in Europe too wherever people come",
+        "chinese": "你刚才说，我们在美国有很多不同的食物，在欧洲也一样。人们来了哪里都有。"
+    },
+    {
+        "start": 353.92,
+        "end": 359.84,
+        "english": "from all over the place and in America we've adopted a number of foods one of these foods is Satziki",
+        "chinese": "从世界各地和美国我们已经采纳了许多食物，其中一种食物是萨兹基。"
+    },
+    {
+        "start": 359.84,
+        "end": 367.52,
+        "english": "it's a white yogurt dip okay so usually in Satziki there is some onions some cucumber some pepper",
+        "chinese": "这是一款白色的酸奶蘸酱，嗯，一般来说，在沙司基（Satziki）里有的是洋葱、黄瓜和辣椒。"
+    },
+    {
+        "start": 367.52,
+        "end": 374.56,
+        "english": "but it's a really good thick creamy yogurt dip that you use with bread or chips. Okay and that's",
+        "chinese": "但是它是很好的一块厚实的奶油酸奶蘸酱，可以用面包或者薯条来吃。好了，就是这样"
+    },
+    {
+        "start": 374.56,
+        "end": 380.72,
+        "english": "actually our next word you mentioned it's a dip so you're using that as a noun and that's our",
+        "chinese": "真的，我们下一个单词你说的是一个转折词，所以你是用它当名词的，这就是我们的"
+    },
+    {
+        "start": 380.72,
+        "end": 387.36,
+        "english": "next word dip. So basically a dip is a kind of food that you eat with other foods okay so it's",
+        "chinese": "下一个单词是。所以，基本上，一个 dips 是一种你和其他食物一起吃的食品。"
+    },
+    {
+        "start": 387.36,
+        "end": 393.6,
+        "english": "like a sauce. Exactly it's a sauce for finger foods. So basically a dip is a food you eat with other",
+        "chinese": "就像调味酱。它其实是给手指食物的蘸料。所以，基本上是用作你搭配其他食物吃的东西。"
+    },
+    {
+        "start": 393.6,
+        "end": 399.44,
+        "english": "foods so you could have chips and dip that would be potato chips with dip and sometimes you have",
+        "chinese": "食物让你可以吃上薯条和蘸料，有时候就是你有"
+    },
+    {
+        "start": 399.44,
+        "end": 406.48,
+        "english": "tomato dip or cheese dip in this case we have Satziki or blue cheese dip. Blue cheese dip okay but",
+        "chinese": "在这个案例中，我们有萨茨奇或蓝奶酪酱。蓝奶酪酱好，但这个选项不适用于我们的场景。"
+    },
+    {
+        "start": 406.48,
+        "end": 411.52,
+        "english": "actually it's also a verb right too dip so when you take your potato chip and you dip it in the",
+        "chinese": "实际上，它也是一个动词呢。所以当你拿你的薯片，然后把它蘸在..."
+    },
+    {
+        "start": 411.52,
+        "end": 418.64,
+        "english": "dip you can say that. Yes dip it in the dip. Okay so you dip your potato chip in the dip. Yes",
+        "chinese": "英语：它能说吗？是的，把它放进水中。好的，你把土豆薯片放进去吧。是的。"
+    },
+    {
+        "start": 418.64,
+        "end": 424.24,
+        "english": "very good. So those are all the words that we have for you today on language takeaway why don't we",
+        "chinese": "好的。那么今天我们的语言包里都有哪些单词呢？我们为什么不把这些都拿出来和大家分享一下呢？"
+    },
+    {
+        "start": 424.24,
+        "end": 428.8,
+        "english": "go back listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
+        "chinese": "回放对话再听一遍，我们一会儿就带着流利 builder 去。"
+    },
+    {
+        "start": 435.04,
+        "end": 439.6,
+        "english": "Honey we're all out of wine and cheese do you mind running to the deli and picking up a few things?",
+        "chinese": "亲爱的，我们所有的葡萄酒和奶酪都用完了，你介意去杂货店买几样东西吗？"
+    },
+    {
+        "start": 440.16,
+        "end": 445.04,
+        "english": "Can't wait I'm watching the game right now. Your friends and family are coming over tonight and",
+        "chinese": "我等不及了，我现在正在看比赛。你的朋友们和家人今晚要过来呢。"
+    },
+    {
+        "start": 445.04,
+        "end": 451.28000000000003,
+        "english": "we still need to get a lot of things. Fine what do you need? Okay pick up some cured meats to go",
+        "chinese": "我们还需要很多东西。你需要什么？好的，去拿几块火腿回去吧。"
+    },
+    {
+        "start": 451.28,
+        "end": 457.28,
+        "english": "with the wine. Maybe a pound of Polish sausages, ham, liver, worst, salami and any other cold cuts",
+        "chinese": "带着酒。可能是波兰熏肉、火腿、肝脏，还有最差的腌肉和任何其他冷切食品。"
+    },
+    {
+        "start": 457.28,
+        "end": 463.44,
+        "english": "that are on sale. I think I saw a promotion for pastrami. Also get some coleslaw and a jar of olives.",
+        "chinese": "那在促销中。我还想买一些生菜和一瓶橄榄油。"
+    },
+    {
+        "start": 464.0,
+        "end": 469.35999999999996,
+        "english": "Whoa wait a minute isn't that a bit too much. I mean how much is all this going to cost?",
+        "chinese": "哇，等一下，这不是有点太多了嘛。这到底要花多少钱？"
+    },
+    {
+        "start": 469.35999999999996,
+        "end": 474.71999999999997,
+        "english": "Never mind that. Get some dips as well. Get a jar of spinach and blue cheese dips and also some",
+        "chinese": "哎，没关系。来点蘸料也行。买个番茄芝士蘸料和一些蓝纹芝士蘸料，再来点。"
+    },
+    {
+        "start": 474.71999999999997,
+        "end": 480.23999999999995,
+        "english": "Satziki. If they have been dipped get that as well. Last but not least get some pickles.",
+        "chinese": "萨兹基。如果有浸泡过的话，一并拿过来吧。最后别忘了买些酸菜。"
+    },
+    {
+        "start": 480.24,
+        "end": 485.6,
+        "english": "Is that all your majesty? Very funny. Get a move on. People will be here any minute.",
+        "chinese": "陛下，这是你的全部吗？好笑。快点行动起来吧。人们很快就会到的。"
+    },
+    {
+        "start": 490.16,
+        "end": 495.52,
+        "english": "All right we're back and now let's take a look at three key phrases on Fluency Builder.",
+        "chinese": "好的，我们已经回来。现在让我们看看三个关键短语在 FluentBuilder 中。"
+    },
+    {
+        "start": 497.28000000000003,
+        "end": 503.44,
+        "english": "Fluency Builder. This first one is a very very common phrase. We use this a lot in English",
+        "chinese": "流利训练营。这个第一个就是非常非常常见的短语。我们在英语中经常用到。"
+    },
+    {
+        "start": 503.44,
+        "end": 509.68,
+        "english": "when we're maybe running late or we need something very quickly. We say hey can you run to the store",
+        "chinese": "当我们可能有点迟到或者需要非常紧急的时候。我们说：嘿，你能跑一趟去商店吗？"
+    },
+    {
+        "start": 509.68,
+        "end": 516.4,
+        "english": "and get this or do you mind running to the deli? So the verb here is to run to run to the deli.",
+        "chinese": "和你这样，还是觉得介意跑去肉店？这里的动词就是“跑”到肉店。"
+    },
+    {
+        "start": 516.4,
+        "end": 522.4,
+        "english": "Now does this mean that you're actually going to like walk very fast to the deli? You're going to run?",
+        "chinese": "现在是不是意味着你真的会走得很快去肉铺？你要跑啊。"
+    },
+    {
+        "start": 523.44,
+        "end": 528.88,
+        "english": "No this is not literal. This is not okay I'm going to go to the deli and I'm going to get some food.",
+        "chinese": "这不是字面意思。这是不被允许的，我打算去超市买点吃的。"
+    },
+    {
+        "start": 528.88,
+        "end": 535.6800000000001,
+        "english": "Now this is going quickly. Okay so I could say Marco I have no time. Can you run to the store and",
+        "chinese": "现在这个进展很快。 okay, 我可以告诉你，Marco，我有时间了。你能去商店找我吗？"
+    },
+    {
+        "start": 535.68,
+        "end": 540.9599999999999,
+        "english": "get me some milk please? Okay so that means just go really quickly in your car, your motorcycle",
+        "chinese": "请给我来点牛奶吧？好的，那意思是直接开快点你的车或者摩托车。"
+    },
+    {
+        "start": 540.9599999999999,
+        "end": 546.4799999999999,
+        "english": "anyway anyway you can. Or walking yeah exactly. Good so that's run to the store run to the deli.",
+        "chinese": "当然，当然。你可以。或者走路，正好到超市，正好去菜市场。"
+    },
+    {
+        "start": 546.4799999999999,
+        "end": 552.3199999999999,
+        "english": "In this case we saw it in the sentence. Do you mind running to the deli? So do you mind going",
+        "chinese": "在这种情况里，我们看到了这句话。你介意去菜市场吗？还是去超市吧？"
+    },
+    {
+        "start": 552.3199999999999,
+        "end": 558.4,
+        "english": "quickly? So this is going quickly. Do you mind running to the deli? This is a thing that we can do.",
+        "chinese": "好快啊？这就是在快速进行。你介意跑一趟大卖场吗？这是我们能做的。"
+    },
+    {
+        "start": 558.4,
+        "end": 564.0799999999999,
+        "english": "Okay and so she was telling him what to get and he's like well this is going to be really",
+        "chinese": "好的，她正告诉他说要买什么。他呢，说这事儿会挺麻烦的。"
+    },
+    {
+        "start": 564.08,
+        "end": 572.1600000000001,
+        "english": "expensive and she answered with this phrase never mind that. Never mind that. Okay this is a phrase",
+        "chinese": "昂贵的，她回答了这个短语。那好吧，那句短语。"
+    },
+    {
+        "start": 572.1600000000001,
+        "end": 577.44,
+        "english": "that we use when we want to say don't worry about it. That doesn't matter. No problem. It's not",
+        "chinese": "那我们用的时候就说不要担心了。没关系。没问题。不是事儿"
+    },
+    {
+        "start": 577.44,
+        "end": 584.5600000000001,
+        "english": "important. So never mind you could say by itself never mind forget about it but never mind that",
+        "chinese": "当然。请放心，不必特意记住它，也不用介意那个。"
+    },
+    {
+        "start": 584.5600000000001,
+        "end": 591.5200000000001,
+        "english": "is like saying this argument is over it's not a problem. Okay so never mind that as I was saying",
+        "chinese": "就像说这个论点已经解决了，问题不在于这个问题。好的，那就不管那个了，我刚才说的是"
+    },
+    {
+        "start": 591.6,
+        "end": 598.3199999999999,
+        "english": "let's go to the store. Okay good so it's not important it's not relevant don't worry about it. Okay",
+        "chinese": "好的，我们去超市吧。没关系的，无关紧要，不用太在意。"
+    },
+    {
+        "start": 598.3199999999999,
+        "end": 605.28,
+        "english": "very good and the last phrase that we have for you is a very interesting phrase when the girl said",
+        "chinese": "非常不错，最后给你留的一个有趣短语是那个女孩说的。"
+    },
+    {
+        "start": 605.28,
+        "end": 611.68,
+        "english": "you know what very funny but get a move on people will be here any minute get a move on. Get a",
+        "chinese": "你知道吧，挺逗的。但是赶紧过来的人一会儿就到了。过来啊！"
+    },
+    {
+        "start": 611.68,
+        "end": 616.88,
+        "english": "move on. So as we often say here at EnglishPod this is a kind of phrase we have to look at as a",
+        "chinese": "继续。在这里，我们常说的是英语播客上这样的一句话，我们需要仔细看看。"
+    },
+    {
+        "start": 616.88,
+        "end": 623.92,
+        "english": "chunk as a unit as one piece right you can say get get me this or I move I moved my house",
+        "chinese": "英语：把它切开，就像一块砖一样，你可以说拿走或者让我这个房子搬走。"
+    },
+    {
+        "start": 624.48,
+        "end": 632.8,
+        "english": "but get a move on means hurry up hurry up start leaving now go go to the store be quick about it",
+        "chinese": "但赶紧走吧，快点出发现在就去商店，抓紧时间"
+    },
+    {
+        "start": 632.8,
+        "end": 639.6,
+        "english": "so this is a command get a move on okay so take it as a phrase just like you know the phrase hurry up",
+        "chinese": "好的，这是一条命令，赶紧去办就好。就当你是知道“赶紧”的说法吧。"
+    },
+    {
+        "start": 639.6,
+        "end": 646.72,
+        "english": "or go quickly remember the phrase get a move on as a way of saying come on quickly go go go",
+        "chinese": "记得这句话来表示快速行动，比如尽快get a move on。"
+    },
+    {
+        "start": 646.88,
+        "end": 651.68,
+        "english": "quickly that's right or as I always say when I'm with friends and we're you know going slowly",
+        "chinese": "确实，就是这个意思。我通常和朋友们在一起的时候，我们会慢慢来。"
+    },
+    {
+        "start": 651.68,
+        "end": 657.36,
+        "english": "somewhere I say hey guys let's get a move on let's get a move on they're gonna close let's get",
+        "chinese": "我在这儿说嘿，大家快点动起来！咱们赶紧去吧！他们要关门了，咱们得赶时间！"
+    },
+    {
+        "start": 657.36,
+        "end": 663.4399999999999,
+        "english": "going let's go here okay very good so get a move on let's get a move on and why don't we go back",
+        "chinese": "好啊，走吧。好的，那就出发了！我们回去怎么样？让我们赶紧出发吧！"
+    },
+    {
+        "start": 663.4399999999999,
+        "end": 665.36,
+        "english": "and listen to the dialogue for one last time",
+        "chinese": "和再听一遍对话"
+    },
+    {
+        "start": 665.44,
+        "end": 678.0,
+        "english": "honey we're all out of wine and cheese do you mind running to the deli and picking up a few things",
+        "chinese": "哎，我们都没酒和奶酪了，你介不介意去肉铺子拿点东西回来？"
+    },
+    {
+        "start": 678.5600000000001,
+        "end": 683.44,
+        "english": "can it wait watching the game right now your friends and family are coming over tonight and",
+        "chinese": "好的，可以现在去看了吗？今晚你的朋友和家人要过来呢。"
+    },
+    {
+        "start": 683.44,
+        "end": 689.6800000000001,
+        "english": "we still need to get a lot of things fine what do you need okay pick up some cured meats to go",
+        "chinese": "我们还需要很多东西，你缺什么？去拿一些火腿吧。"
+    },
+    {
+        "start": 690.64,
+        "end": 696.64,
+        "english": "maybe a pound of Polish sausages ham liver worst salami and any other cold cuts that are on sale",
+        "chinese": "可能是波兰香肠、熏肝，还有任何在售的冷切食品中的最差一道。"
+    },
+    {
+        "start": 696.64,
+        "end": 703.92,
+        "english": "I think I saw a promotion for pastrami also get some coleslaw and a jar of olives whoa wait a minute",
+        "chinese": "我猜我也看到了一个促销，还有些咸菜和一瓶橄榄油。哦，天啊，等一下。"
+    },
+    {
+        "start": 703.92,
+        "end": 709.4399999999999,
+        "english": "isn't that a bit too much I mean how much is all this going to cost never mind that get some",
+        "chinese": "这真的有点多吧，到底要多少钱？算了，先找个地方放一放。"
+    },
+    {
+        "start": 709.4399999999999,
+        "end": 715.1999999999999,
+        "english": "dips as well get a jar of spinach and blue cheese dips and also some satsuki if they have been",
+        "chinese": "当然，我明白了。你希望翻译成什么内容呢？"
+    },
+    {
+        "start": 715.2,
+        "end": 721.6800000000001,
+        "english": "dipped get that as well last but not least get some pickles is that all your majesty very funny get",
+        "chinese": "我也是，最后还得吃些酸菜。那可是非常有趣的事情哦！"
+    },
+    {
+        "start": 721.6800000000001,
+        "end": 733.12,
+        "english": "a move on people will be here any minute all right we're back so now Catherine I understand",
+        "chinese": "一个关于人的动作会在不久后出现，对吧？我们又回来了。我是凯瑟琳，我明白。"
+    },
+    {
+        "start": 733.12,
+        "end": 741.44,
+        "english": "you're a big fan of pickles and olives and all that stuff I love cured food really pickled I",
+        "chinese": "你是个大粉丝，喜欢酸菜和橄榄什么的，真的超级爱腌制的食物呢。"
+    },
+    {
+        "start": 741.44,
+        "end": 748.96,
+        "english": "have you ever had a pickled tomato I hate pickled tomatoes pickled tomatoes pickled pickles pickled",
+        "chinese": "你有没有尝过那种我讨厌的酸黄瓜？酸黄瓜，酸黄瓜。酸黄瓜！"
+    },
+    {
+        "start": 748.96,
+        "end": 755.12,
+        "english": "olives everything I love it all I hate I actually there are a couple of things that I really like",
+        "chinese": "我喜欢的，我讨厌的，实际上还有一些事情我真的喜欢。"
+    },
+    {
+        "start": 755.12,
+        "end": 762.1600000000001,
+        "english": "for example coleslaw you mentioned that it has cabbage in it and many people may know this",
+        "chinese": "比如，你提到的coleslaw里有白菜，很多人都知道这个。"
+    },
+    {
+        "start": 762.1600000000001,
+        "end": 767.36,
+        "english": "vegetable as this purple lettuce right it looks like a lettuce purple that's right I hate it I",
+        "chinese": "蔬菜啊，这紫色的生菜看起来就像紫色的莴苣一样，对吧？对！我真的很讨厌它。"
+    },
+    {
+        "start": 767.36,
+        "end": 773.6800000000001,
+        "english": "don't like it and I actually hate olives and pickles I can't really eat them sounds like you don't",
+        "chinese": "你不喜欢它，我其实真的很讨厌橄榄和腌菜。我不太能吃它们，听起来你好像也不喜欢。"
+    },
+    {
+        "start": 773.6800000000001,
+        "end": 780.5600000000001,
+        "english": "like bitter things like vinegar yeah yeah no not a big fan not a big fan of anything that's bitter",
+        "chinese": "嗯，就像醋这种苦的东西一样啊。对，不是特别喜欢那种味道的玩意儿。没啥兴趣。"
+    },
+    {
+        "start": 780.5600000000001,
+        "end": 785.6800000000001,
+        "english": "I love it it's one of my favorite I love salty foods and I love bitter foods and that's all I",
+        "chinese": "我喜欢它，因为它是我最喜欢的一样。我喜欢咸的食物和苦的食物，这就是我。"
+    },
+    {
+        "start": 785.6800000000001,
+        "end": 792.5600000000001,
+        "english": "have to say about I've never really understood how people have like a whole pickle and they take it",
+        "chinese": "确实，我从来都不太明白人们为什么会这样折腾，他们整出一堆又一大堆东西，然后就去处理它们。"
+    },
+    {
+        "start": 792.5600000000001,
+        "end": 796.88,
+        "english": "out of the jar and they just bite into it it's like that's nasty well the adjective to describe",
+        "chinese": "从罐子里拿出来，他们直接就咬了进去，就像那样真是不好吃。形容词来描述"
+    },
+    {
+        "start": 796.88,
+        "end": 803.04,
+        "english": "a pickle's flavor is sour sour it's very sour and in America at Delis you can buy",
+        "chinese": "pickle的味道很酸，因为它真的特别酸，在美国的比萨店你可以买到。"
+    },
+    {
+        "start": 803.92,
+        "end": 810.32,
+        "english": "full sour or half sour or really some pickles are less sour than others we call it a half sour my",
+        "chinese": "全酸、半酸或者真的有些酸的比其他一些叫它半酸吧"
+    },
+    {
+        "start": 810.32,
+        "end": 816.64,
+        "english": "favorite pickles are full sour really make a cry a little bit is this the whole pickle thing is",
+        "chinese": "最喜欢的酸黄瓜真的超级酸，有点哭腔，这是整个酸黄瓜的全部吗？"
+    },
+    {
+        "start": 816.64,
+        "end": 820.4,
+        "english": "this very American because you always have pickles and burgers for example right you got to",
+        "chinese": "这个非常美国，因为你总是有酸黄瓜和汉堡的例子。你必须"
+    },
+    {
+        "start": 820.4,
+        "end": 824.56,
+        "english": "McDonald's you have pickles and burger is this very American or is this coming from another place it",
+        "chinese": "麦当劳的薯条和汉堡，是这非常美国的吗？还是从其他地方来的呢？"
+    },
+    {
+        "start": 824.56,
+        "end": 832.56,
+        "english": "comes from Europe a lot of German food involves pickles pickled vegetables the Koreans also",
+        "chinese": "来自欧洲的德国食物很多都含有泡菜和腌制蔬菜，韩国人也喜欢。"
+    },
+    {
+        "start": 832.56,
+        "end": 838.3199999999999,
+        "english": "Korean food has a lot of people festivals like Kim Chi which is pickled cabbage and so in Chinese",
+        "chinese": "韩国的食物有很多像拌饭这样的节日，比如泡菜。"
+    },
+    {
+        "start": 838.3199999999999,
+        "end": 842.16,
+        "english": "culture as well a lot of pickled foods so I think this is something that's very common all over the",
+        "chinese": "文化还有好多腌制食品，我觉得这在哪儿都挺常见的。"
+    },
+    {
+        "start": 842.16,
+        "end": 848.3199999999999,
+        "english": "world and you can have pickled fish really yeah and you can pickle anything I don't know if we",
+        "chinese": "世界和你一起可以尝尝酸菜鱼，或者你可以随便吃点什么。"
+    },
+    {
+        "start": 848.3199999999999,
+        "end": 853.1999999999999,
+        "english": "pickled things in Latin America this is why it seems very strange to me but this is a really",
+        "chinese": "在拉丁美洲，腌制的东西为什么看起来非常奇怪？不过这真的是一个挺特别的地方。"
+    },
+    {
+        "start": 853.2,
+        "end": 857.2,
+        "english": "interesting topic why don't you let us know what your favorite cured meats are I know there are",
+        "chinese": "有趣的话题，你介意告诉我们你的最爱腌制肉类是什么吗我知道有"
+    },
+    {
+        "start": 857.2,
+        "end": 861.44,
+        "english": "a lot of different types and if you like pickles or not maybe some people out there will support me",
+        "chinese": "有很多不同的种类，如果你喜欢酸菜或者不喜欢的，或许有些人会支持我"
+    },
+    {
+        "start": 861.44,
+        "end": 865.2800000000001,
+        "english": "and say they don't like pickles all right and if you have a delis in your home country let us know I'm",
+        "chinese": "和说他们不喜欢腌菜，而且如果你在你国家的某个超市里有家餐厅，我们可以告诉我是这样。"
+    },
+    {
+        "start": 865.2800000000001,
+        "end": 869.84,
+        "english": "I've always been curious about this do you have delis or do you just have a butcher shop what's the",
+        "chinese": "我一直对这个很感兴趣，你有超市吗？还是就只有肉铺呢？有什么区别吗？"
+    },
+    {
+        "start": 869.84,
+        "end": 875.12,
+        "english": "difference awesome so we'll see everyone there English pod dot com until next time bye everyone bye",
+        "chinese": "差别的美妙，所以我们将在这里见面。英语.pod.dot.com 从这里到下次再见，再见大家，再见大家。"
+    }
+]

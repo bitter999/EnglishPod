@@ -1,0 +1,1838 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.88,
+        "english": "Hello English learners, welcome back to another advanced lesson here at EnglishPod.",
+        "chinese": "你好，英语学习者，欢迎再次来到这里，我的英语课程。"
+    },
+    {
+        "start": 7.88,
+        "end": 8.96,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是马科。"
+    },
+    {
+        "start": 8.96,
+        "end": 10.28,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 10.28,
+        "end": 12.96,
+        "english": "And today we're going to be back in the office.",
+        "chinese": "今天我们将回到办公室。"
+    },
+    {
+        "start": 12.96,
+        "end": 13.96,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 13.96,
+        "end": 19.72,
+        "english": "We are listening in as somebody gets a little bit of trouble from their boss for being a bit",
+        "chinese": "我们正在倾听，因为有人在他们的老板面前有些小麻烦。"
+    },
+    {
+        "start": 19.72,
+        "end": 21.04,
+        "english": "late on a project.",
+        "chinese": "晚上的项目。"
+    },
+    {
+        "start": 21.04,
+        "end": 23.48,
+        "english": "Alright, so we're going to be at the office.",
+        "chinese": "好的，我们将在这里办公。"
+    },
+    {
+        "start": 23.48,
+        "end": 28.16,
+        "english": "Somebody misses a deadline and so well, how do you handle the situation?",
+        "chinese": "根据您提供的英文文本，中文翻译如下："
+    },
+    {
+        "start": 28.16,
+        "end": 30.92,
+        "english": "But can you do to explain yourself?",
+        "chinese": "但是你能解释自己吗？"
+    },
+    {
+        "start": 30.92,
+        "end": 36.0,
+        "english": "And what language can you actually use to talk about missed deadlines and late work?",
+        "chinese": "和你实际能用的语言来谈论被扣留的日期和拖延的工作有什么区别？"
+    },
+    {
+        "start": 36.0,
+        "end": 51.96,
+        "english": "Alright, so let's see why this person missed the deadline and let's find out what happens.",
+        "chinese": "好的，那么我们来看看这个人为什么没有按时完成任务，并且让我们找到发生这种情况的后果。"
+    },
+    {
+        "start": 51.96,
+        "end": 56.879999999999995,
+        "english": "And so I just wanted to check in with you and find out where we are with this project.",
+        "chinese": "然后，我只想和您核实一下我们目前的项目进展。"
+    },
+    {
+        "start": 56.88,
+        "end": 61.28,
+        "english": "As you know, you missed a fairly significant deadline last week and this will negatively",
+        "chinese": "根据您提供的信息，可以将这句话翻译成中文："
+    },
+    {
+        "start": 61.28,
+        "end": 66.08,
+        "english": "impact the team's ability to move forward with the next stages of this project.",
+        "chinese": "影响团队在这一阶段能够继续前进。"
+    },
+    {
+        "start": 66.08,
+        "end": 70.96000000000001,
+        "english": "I know, I'm really sorry that I missed the deadline, but really, it wasn't my fault.",
+        "chinese": "我知道，我真的很抱歉错过了截止日期，但说实话，这不是我的错。"
+    },
+    {
+        "start": 70.96000000000001,
+        "end": 75.84,
+        "english": "You see, we had all of these unexpected technical problems at the last minute and I couldn't",
+        "chinese": "您看，我们之前都遇到了这些意外的技术问题，我无法"
+    },
+    {
+        "start": 75.84,
+        "end": 79.96000000000001,
+        "english": "get into the database and extract the kind of information that I needed for the data",
+        "chinese": "进入数据库并提取我需要的数据的类型"
+    },
+    {
+        "start": 79.96000000000001,
+        "end": 80.96000000000001,
+        "english": "analysis.",
+        "chinese": "分析。"
+    },
+    {
+        "start": 80.96000000000001,
+        "end": 86.48,
+        "english": "You know, if the tech guys would have done their job and kept the CRM stable, then I wouldn't",
+        "chinese": "我知道，如果技术专家能做好他们的工作并保持CRM稳定，那么我不会"
+    },
+    {
+        "start": 86.48,
+        "end": 87.48,
+        "english": "have missed my deadline.",
+        "chinese": "我错过了我的截止日期。"
+    },
+    {
+        "start": 87.48,
+        "end": 89.36,
+        "english": "Oh, come on.",
+        "chinese": "啊，等等。"
+    },
+    {
+        "start": 89.36,
+        "end": 92.4,
+        "english": "An excuse like that is tantamount to lying.",
+        "chinese": "一个借口，就像这样，就等于撒谎。"
+    },
+    {
+        "start": 92.4,
+        "end": 97.0,
+        "english": "You're essentially blaming the tech team for your time management issues rather than accepting",
+        "chinese": "您实际上是在指责技术团队解决您的时间管理问题，而不是接受。"
+    },
+    {
+        "start": 97.0,
+        "end": 101.56,
+        "english": "responsibility for the fact that you were procrastinating for the past two weeks.",
+        "chinese": "责任在于你过去两周拖延的问题。"
+    },
+    {
+        "start": 101.56,
+        "end": 104.04,
+        "english": "No, I'm not trying to pass the buck here.",
+        "chinese": "是的，我在这里不希望代人承担责任。"
+    },
+    {
+        "start": 104.04,
+        "end": 109.08000000000001,
+        "english": "I know it was me who was ultimately responsible for getting this done, but the thing is, I could",
+        "chinese": "我知道是我最终负责完成了这个任务，但问题是，我不能"
+    },
+    {
+        "start": 109.08000000000001,
+        "end": 112.84,
+        "english": "have finished on time if the system hadn't gone down.",
+        "chinese": "如果系统没有出现问题，就按时完成了任务。"
+    },
+    {
+        "start": 112.84,
+        "end": 116.92,
+        "english": "You know, with everything I've got going on now, I can't afford to waste time dealing",
+        "chinese": "我知道现在的一切，我无法承受浪费时间来处理的状况。"
+    },
+    {
+        "start": 116.92,
+        "end": 117.92,
+        "english": "with technical problems.",
+        "chinese": "with technical problems.\" 翻译成中文是：“由于技术问题。”"
+    },
+    {
+        "start": 117.92,
+        "end": 121.84,
+        "english": "I've got a lot of my plate and there are only 24 hours in a day.",
+        "chinese": "我有很多我的盘子，一天只有24个小时。"
+    },
+    {
+        "start": 121.84,
+        "end": 125.08,
+        "english": "I'm not going to accept this excuse.",
+        "chinese": "我不接受这个借口。"
+    },
+    {
+        "start": 125.08,
+        "end": 129.88,
+        "english": "You're using these small technical glitches as a crutch and trying to rationalize the fact",
+        "chinese": "您正在利用这些小的技术漏洞作为垫脚石，试图合理化事实。"
+    },
+    {
+        "start": 129.88,
+        "end": 131.4,
+        "english": "that you've missed your deadline.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 131.4,
+        "end": 136.08,
+        "english": "Look, we have standards and I expect you to live up to those standards.",
+        "chinese": "请看，我们有标准，我期待你能遵守这些标准。"
+    },
+    {
+        "start": 136.08,
+        "end": 138.2,
+        "english": "No more phony excuses.",
+        "chinese": "无须虚假借口。"
+    },
+    {
+        "start": 138.2,
+        "end": 140.56,
+        "english": "If you're in over your head, you tell me.",
+        "chinese": "如果你超出了你的能力范围，就告诉我。"
+    },
+    {
+        "start": 140.56,
+        "end": 142.2,
+        "english": "No more missed deadlines.",
+        "chinese": "没有再错过期限。"
+    },
+    {
+        "start": 142.2,
+        "end": 145.48,
+        "english": "Now I want that data on my desk by 9am.",
+        "chinese": "现在我想把我的数据放在办公室的桌子上，早上九点。"
+    },
+    {
+        "start": 145.48,
+        "end": 158.28,
+        "english": "Well, it sounds like this guy isn't really accepting a lot of the responsibility for his",
+        "chinese": "嗯，这人似乎并不真正承担太多的责任。"
+    },
+    {
+        "start": 158.28,
+        "end": 159.28,
+        "english": "missed deadline.",
+        "chinese": "错过了截止日期。"
+    },
+    {
+        "start": 159.28,
+        "end": 160.28,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 160.28,
+        "end": 164.67999999999998,
+        "english": "Well, apparently he's explaining that it wasn't only his fault, right?",
+        "chinese": "嗯，似乎他正在解释说这不是他的错。"
+    },
+    {
+        "start": 164.67999999999998,
+        "end": 165.67999999999998,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 165.67999999999998,
+        "end": 169.92,
+        "english": "So some technical problems, but you know, he used a lot of pretty interesting language.",
+        "chinese": "所以有些技术问题，但你知道，他用了很多有趣的语言。"
+    },
+    {
+        "start": 169.92,
+        "end": 175.04,
+        "english": "And I think it'll help us to look at that now in language takeaway.",
+        "chinese": "并且我认为这将有助于我们现在在语言小结上看看。"
+    },
+    {
+        "start": 175.04,
+        "end": 176.04,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 176.04,
+        "end": 181.64,
+        "english": "Alright, so in language takeaway today, we have five words and let's start with the first",
+        "chinese": "好的，今天语言总结今天的五个词，让我们从第一个开始。"
+    },
+    {
+        "start": 181.64,
+        "end": 182.64,
+        "english": "one.",
+        "chinese": "在中文中，\"one\" 直接翻译为 \"一\"。"
+    },
+    {
+        "start": 182.64,
+        "end": 188.2,
+        "english": "Alright, well, the boss is not really happy with the excuse that the employee was giving",
+        "chinese": "好的，嗯，老板并不真正满意那个员工给出的借口。"
+    },
+    {
+        "start": 188.2,
+        "end": 193.07999999999998,
+        "english": "and he said, an excuse like that is tantamount to lying.",
+        "chinese": "他说道，像这样的一句借口就是欺骗。"
+    },
+    {
+        "start": 193.07999999999998,
+        "end": 194.07999999999998,
+        "english": "Tantamount.",
+        "chinese": "相当于。"
+    },
+    {
+        "start": 194.07999999999998,
+        "end": 195.88,
+        "english": "Tantamount to something.",
+        "chinese": "相当于什么。"
+    },
+    {
+        "start": 196.12,
+        "end": 202.32,
+        "english": "Okay, so if an excuse like that is tantamount to lying, what is he trying to say here?",
+        "chinese": "好的，如果这样的话，那么他在这里在说什么呢？"
+    },
+    {
+        "start": 202.32,
+        "end": 206.79999999999998,
+        "english": "Basically, it's the same as or it's almost the same as similar to.",
+        "chinese": "基本来说，它与或几乎等同于类似。"
+    },
+    {
+        "start": 206.79999999999998,
+        "end": 210.51999999999998,
+        "english": "So if I say tantamount to something else, how would I use it?",
+        "chinese": "所以如果我说的是另外一点，我如何使用它呢？"
+    },
+    {
+        "start": 210.51999999999998,
+        "end": 214.68,
+        "english": "You know, Marco, taking my computer without asking is tantamount to stealing.",
+        "chinese": "我知道，马科，没有事先告知我就拿我的电脑是偷窃。"
+    },
+    {
+        "start": 214.68,
+        "end": 220.28,
+        "english": "Okay, so even though I'm not actually stealing it or taking it home with me, it is almost",
+        "chinese": "好的，所以尽管我没有实际偷窃或带它回家，但几乎可以说它是属于我的。"
+    },
+    {
+        "start": 220.28,
+        "end": 221.28,
+        "english": "like stealing.",
+        "chinese": "Like stealing.\" in Chinese is \"像偷窃。"
+    },
+    {
+        "start": 221.68,
+        "end": 226.44,
+        "english": "And the interesting grammatical thing here is that we almost always use a gerund right",
+        "chinese": "而且这里有趣的是，我们几乎总是用一个动词做后缀。"
+    },
+    {
+        "start": 226.44,
+        "end": 227.44,
+        "english": "after.",
+        "chinese": "在中文中，\"after\" 的翻译是 \"之后\"。例如："
+    },
+    {
+        "start": 227.44,
+        "end": 228.92000000000002,
+        "english": "So tantamount to verbiangy.",
+        "chinese": "所以等同于词义。"
+    },
+    {
+        "start": 228.92000000000002,
+        "end": 233.96,
+        "english": "Okay, tantamount to stealing, tantamount to lying, tantamount to killing.",
+        "chinese": "好的，相当于偷窃、相当于撒谎、相当于杀害。"
+    },
+    {
+        "start": 233.96,
+        "end": 238.2,
+        "english": "Okay, well on that happy note, let's go on to our next word.",
+        "chinese": "好的，那么愉快的时刻到了，让我们继续我们的下一个单词。"
+    },
+    {
+        "start": 238.2,
+        "end": 243.84,
+        "english": "Now the boss was really unhappy with the employee for procrastinating.",
+        "chinese": "现在老板对员工非常不满，因为员工拖延了工作。"
+    },
+    {
+        "start": 243.84,
+        "end": 245.6,
+        "english": "Procrastinating.",
+        "chinese": "拖延。"
+    },
+    {
+        "start": 245.6,
+        "end": 247.2,
+        "english": "Procrastinating.",
+        "chinese": "拖延。"
+    },
+    {
+        "start": 247.2,
+        "end": 249.72,
+        "english": "So the verb is to procrastinate.",
+        "chinese": "所以动词是拖延。"
+    },
+    {
+        "start": 249.72,
+        "end": 253.44,
+        "english": "And when you procrastinate, you say, oh, do it later.",
+        "chinese": "A. 你拖延，说，等一下再做。"
+    },
+    {
+        "start": 253.44,
+        "end": 254.8,
+        "english": "I'll do it tomorrow.",
+        "chinese": "我明天会做。"
+    },
+    {
+        "start": 254.8,
+        "end": 258.56,
+        "english": "Okay, so you kind of delay things or you leave it for another day.",
+        "chinese": "好的，你稍微拖延事情或者留到第二天再做。"
+    },
+    {
+        "start": 258.56,
+        "end": 259.56,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 259.56,
+        "end": 260.56,
+        "english": "All right, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 260.56,
+        "end": 262.52,
+        "english": "So to procrastinate.",
+        "chinese": "所以拖延。"
+    },
+    {
+        "start": 262.52,
+        "end": 265.8,
+        "english": "A favorite verb amongst college students.",
+        "chinese": "一个大学学生最喜欢的动词。"
+    },
+    {
+        "start": 265.8,
+        "end": 272.0,
+        "english": "I actually thought for a little while that procrastinate was to have babies.",
+        "chinese": "我实际上以为在稍作思考后，拖延是生孩子的借口。"
+    },
+    {
+        "start": 272.0,
+        "end": 273.0,
+        "english": "Oh, oh, okay.",
+        "chinese": "你好，你好，行。"
+    },
+    {
+        "start": 273.0,
+        "end": 274.0,
+        "english": "It's kind of similar.",
+        "chinese": "是有点像。"
+    },
+    {
+        "start": 274.0,
+        "end": 275.0,
+        "english": "What's the word?",
+        "chinese": "对不起，我无法直接提供或翻译英文句子。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 275.0,
+        "end": 276.0,
+        "english": "Procrate.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 276.0,
+        "end": 277.0,
+        "english": "Procrate.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 277.28,
+        "end": 280.8,
+        "english": "For a while, I always thought that procrastinating was like having babies.",
+        "chinese": "对于一段时间，我一直认为拖延就像生孩子一样。"
+    },
+    {
+        "start": 280.8,
+        "end": 282.12,
+        "english": "Like, why are you procrastinating?",
+        "chinese": "像，你为什么拖延？"
+    },
+    {
+        "start": 282.12,
+        "end": 283.52,
+        "english": "And I'm like, I'm not.",
+        "chinese": "我就像，我没有。"
+    },
+    {
+        "start": 283.52,
+        "end": 285.48,
+        "english": "Well, glad you got that straight.",
+        "chinese": "好的，很高兴你理解了。"
+    },
+    {
+        "start": 285.48,
+        "end": 290.32,
+        "english": "So yes, our listeners procrastinate is not the same as procreate.",
+        "chinese": "所以是的，我们的听众拖延并不等同于繁殖。"
+    },
+    {
+        "start": 290.32,
+        "end": 291.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 291.32,
+        "end": 292.56,
+        "english": "I learned that the hard way.",
+        "chinese": "我学到了通过艰苦努力。"
+    },
+    {
+        "start": 292.56,
+        "end": 293.56,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 293.56,
+        "end": 297.76,
+        "english": "Well, it sounds like you had a little bit of a glitch in your understanding of language.",
+        "chinese": "嗯，看来你对语言的理解有些小失误。"
+    },
+    {
+        "start": 297.76,
+        "end": 299.16,
+        "english": "And that's our next phrase.",
+        "chinese": "这就是我们的下一个短语。"
+    },
+    {
+        "start": 299.16,
+        "end": 303.76,
+        "english": "So in the dialogue, they were talking about some glitches with the system.",
+        "chinese": "所以，在对话中，他们正在讨论系统中的一些故障。"
+    },
+    {
+        "start": 303.76,
+        "end": 305.44,
+        "english": "A glitch in the system.",
+        "chinese": "一个系统中的错误。"
+    },
+    {
+        "start": 305.44,
+        "end": 307.52,
+        "english": "Okay, so a glitch.",
+        "chinese": "好的，所以一个错误。"
+    },
+    {
+        "start": 307.52,
+        "end": 310.04,
+        "english": "Now this is a comment among computers, right?",
+        "chinese": "现在，这是计算机中的一个评论吗？"
+    },
+    {
+        "start": 310.04,
+        "end": 311.92,
+        "english": "A glitch is an error.",
+        "chinese": "一个错误称为“ glitches ”。"
+    },
+    {
+        "start": 311.92,
+        "end": 312.92,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī shí.)"
+    },
+    {
+        "start": 312.92,
+        "end": 316.36,
+        "english": "So when you're talking about a glitch and you're talking about computers, it's an error,",
+        "chinese": "所以当你谈论一个 glitches 和计算机的问题，它是一个错误。"
+    },
+    {
+        "start": 316.36,
+        "end": 317.36,
+        "english": "a mistake.",
+        "chinese": "一个错误。"
+    },
+    {
+        "start": 317.36,
+        "end": 322.48,
+        "english": "But we also use it to talk about any unexpected problem, a small and expected problem.",
+        "chinese": "但是，我们还使用它来讨论任何意外的问题，一个很小但预料到的问题。"
+    },
+    {
+        "start": 322.48,
+        "end": 323.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 323.48,
+        "end": 324.48,
+        "english": "So a small glitch.",
+        "chinese": "所以一个小错误。"
+    },
+    {
+        "start": 324.48,
+        "end": 325.48,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 325.48,
+        "end": 328.72,
+        "english": "There was a glitch in our plan and we arrived 10 minutes late.",
+        "chinese": "我们的计划有漏洞，我们提前了10分钟到达。"
+    },
+    {
+        "start": 328.72,
+        "end": 332.6,
+        "english": "Or I can say this movie has a glitch in the story.",
+        "chinese": "我可以说这部电影有故事中的bug。"
+    },
+    {
+        "start": 332.6,
+        "end": 335.4,
+        "english": "So there's a small problem in the story that doesn't make sense.",
+        "chinese": "所以故事中有一个小问题，不让人理解。"
+    },
+    {
+        "start": 335.4,
+        "end": 336.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 336.4,
+        "end": 337.4,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 337.4,
+        "end": 343.32,
+        "english": "So the employee was blaming his lateness on these small technical glitches.",
+        "chinese": "因此，这名员工把晚到的责任归咎于这些小的技术故障。"
+    },
+    {
+        "start": 343.32,
+        "end": 345.76,
+        "english": "But the boss didn't believe this, right?",
+        "chinese": "但是老板不相信这个。"
+    },
+    {
+        "start": 345.76,
+        "end": 350.71999999999997,
+        "english": "The boss said you're trying to rationalize the fact that you missed the deadline.",
+        "chinese": "老板说你是在试图用这种方式来解释自己错过了截止日期。"
+    },
+    {
+        "start": 350.71999999999997,
+        "end": 351.71999999999997,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 351.71999999999997,
+        "end": 353.23999999999995,
+        "english": "To rationalize.",
+        "chinese": "要理清。"
+    },
+    {
+        "start": 353.23999999999995,
+        "end": 354.67999999999995,
+        "english": "To rationalize.",
+        "chinese": "要理清。"
+    },
+    {
+        "start": 354.67999999999995,
+        "end": 358.15999999999997,
+        "english": "So the boss is saying that he's trying to rationalize.",
+        "chinese": "所以老板正在试图合理化。"
+    },
+    {
+        "start": 358.15999999999997,
+        "end": 361.88,
+        "english": "So that means is he trying to make sense of it?",
+        "chinese": "所以，他是在理解它吗？"
+    },
+    {
+        "start": 361.88,
+        "end": 365.68,
+        "english": "Well, this is an interesting psychological word.",
+        "chinese": "很好，这是个有趣的心理词汇。"
+    },
+    {
+        "start": 365.68,
+        "end": 370.68,
+        "english": "And when you rationalize something, you think about it or describe it, like especially",
+        "chinese": "A. 你当仁不让，当你理清了某个问题或概念时，你会思考它或者描述它，比如特别。"
+    },
+    {
+        "start": 370.68,
+        "end": 377.92,
+        "english": "some bad behavior in a way that makes it seem better or proper or more sensible.",
+        "chinese": "一些不好的行为，通过某种方式显得更好、更合适或更合理。"
+    },
+    {
+        "start": 377.92,
+        "end": 380.44,
+        "english": "So you're trying to convince yourself?",
+        "chinese": "所以你正在试图说服自己？"
+    },
+    {
+        "start": 380.44,
+        "end": 381.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 381.44,
+        "end": 384.32,
+        "english": "You're telling other people, but you're also telling yourself that it's better.",
+        "chinese": "您正在告诉其他人，但同时也在告诉自己这是更好的。"
+    },
+    {
+        "start": 384.32,
+        "end": 385.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 385.32,
+        "end": 387.0,
+        "english": "Or that you're right when you're actually wrong.",
+        "chinese": "或者你错了，当你说得对时。"
+    },
+    {
+        "start": 387.0,
+        "end": 388.0,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 388.0,
+        "end": 389.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 389.0,
+        "end": 390.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 390.0,
+        "end": 397.4,
+        "english": "So he was trying to explain to the boss and also kind of make himself believe that it wasn't",
+        "chinese": "因此，他试图向老板解释，并且也试图让自己感觉像是没有问题。"
+    },
+    {
+        "start": 397.4,
+        "end": 399.16,
+        "english": "really his fault when it was.",
+        "chinese": "真的是他自己的错。"
+    },
+    {
+        "start": 399.16,
+        "end": 403.72,
+        "english": "Now, because this is a little bit of a difficult concept to understand, I think we should hear",
+        "chinese": "现在，因为这有点难以理解，我认为我们应该听听。"
+    },
+    {
+        "start": 403.72,
+        "end": 405.68,
+        "english": "some examples.",
+        "chinese": "一些例子。"
+    },
+    {
+        "start": 405.68,
+        "end": 407.48,
+        "english": "Example one.",
+        "chinese": "一个例子。"
+    },
+    {
+        "start": 407.48,
+        "end": 413.68,
+        "english": "You can't rationalize your son's behavior by saying he's going through a hard time.",
+        "chinese": "你不能用说他正在经历困难来理清你的儿子的行为。"
+    },
+    {
+        "start": 413.68,
+        "end": 416.16,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 416.16,
+        "end": 422.44,
+        "english": "As much as I tried, I couldn't rationalize buying such an expensive pair of shoes.",
+        "chinese": "我尽力了，但还是无法合理地购买这样昂贵的鞋子。"
+    },
+    {
+        "start": 422.44,
+        "end": 425.16,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 425.16,
+        "end": 426.92,
+        "english": "You know it was the wrong thing to do.",
+        "chinese": "您知道这是不对的。"
+    },
+    {
+        "start": 426.92,
+        "end": 429.08000000000004,
+        "english": "Stop trying to rationalize it.",
+        "chinese": "停止试图用理性的理由来解释它。"
+    },
+    {
+        "start": 429.08000000000004,
+        "end": 430.08000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 430.08000000000004,
+        "end": 434.04,
+        "english": "So clear as daylight now, this word rationalize.",
+        "chinese": "所以现在如此清晰，这个词理应合理。"
+    },
+    {
+        "start": 434.04,
+        "end": 435.04,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 435.04,
+        "end": 436.32000000000005,
+        "english": "And our final word.",
+        "chinese": "和我们的最后话。"
+    },
+    {
+        "start": 436.32000000000005,
+        "end": 439.68,
+        "english": "So the boss really wasn't happy with these excuses.",
+        "chinese": "所以老板真的不高兴这些借口。"
+    },
+    {
+        "start": 439.68,
+        "end": 443.48,
+        "english": "And he said no more phony excuses.",
+        "chinese": "而且他不再使用虚假借口。"
+    },
+    {
+        "start": 443.48,
+        "end": 444.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 444.48,
+        "end": 445.48,
+        "english": "Phony.",
+        "chinese": "假的。"
+    },
+    {
+        "start": 445.88,
+        "end": 448.68,
+        "english": "Ph-O-N-Y-Fony.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 448.68,
+        "end": 451.8,
+        "english": "So phony is basically false or fake?",
+        "chinese": "所以伪劣是基本上是假的还是假的？"
+    },
+    {
+        "start": 451.8,
+        "end": 452.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 452.8,
+        "end": 453.8,
+        "english": "So a phony statement.",
+        "chinese": "所以一个虚假的声明。"
+    },
+    {
+        "start": 453.8,
+        "end": 454.8,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 454.8,
+        "end": 455.8,
+        "english": "A phony watch.",
+        "chinese": "一个假的表。"
+    },
+    {
+        "start": 455.8,
+        "end": 456.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 456.8,
+        "end": 457.8,
+        "english": "A fake watch.",
+        "chinese": "一个假的表。"
+    },
+    {
+        "start": 457.8,
+        "end": 458.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 458.8,
+        "end": 459.8,
+        "english": "Not a phony watch, but phony watch.",
+        "chinese": "不假思索的表，但假的表。"
+    },
+    {
+        "start": 459.8,
+        "end": 460.8,
+        "english": "A phony.",
+        "chinese": "一个假的。"
+    },
+    {
+        "start": 460.8,
+        "end": 465.8,
+        "english": "So a lot of great words in this dialogue, but as you mentioned, we also saw some very interesting",
+        "chinese": "所以这段对话中有很多好词，但您提到的，我们还看到了一些非常有趣的内容。"
+    },
+    {
+        "start": 465.8,
+        "end": 469.08000000000004,
+        "english": "phrases that we can use in situations like this.",
+        "chinese": "在这种情况下的短语，我们可以使用以下的表达式。"
+    },
+    {
+        "start": 469.08000000000004,
+        "end": 474.16,
+        "english": "So why don't we start now with Fluency Builder.",
+        "chinese": "所以为什么不从 Fluent Builder 开始呢？"
+    },
+    {
+        "start": 474.16,
+        "end": 475.16,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 475.32000000000005,
+        "end": 479.48,
+        "english": "Well, you know, one of the interesting things about English is that we have a lot of ways",
+        "chinese": "嗯，你知道的，英语的一个有趣之处在于我们有很多方法。"
+    },
+    {
+        "start": 479.48,
+        "end": 484.88000000000005,
+        "english": "to make things sound more direct, less direct, harder or softer.",
+        "chinese": "将事情说得更直接、更间接、更难或更软。"
+    },
+    {
+        "start": 484.88000000000005,
+        "end": 492.72,
+        "english": "And in this dialogue, there are a few examples of how we use softening words to do the opposite",
+        "chinese": "在这个对话中，有几例如何使用柔和的词汇来执行相反的动作。"
+    },
+    {
+        "start": 492.72,
+        "end": 494.28000000000003,
+        "english": "to actually make it a little strong.",
+        "chinese": "要让它稍微强壮一些。"
+    },
+    {
+        "start": 494.28000000000003,
+        "end": 495.28000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 495.28000000000003,
+        "end": 498.32000000000005,
+        "english": "So why don't we start with the first paragraph.",
+        "chinese": "所以为什么不从第一段开始呢？"
+    },
+    {
+        "start": 498.32000000000005,
+        "end": 503.16,
+        "english": "In the first part of the dialogue, he said you missed a fairly significant deadline.",
+        "chinese": "在对话的开头，他说道你错过了一个相当重要的截止日期。"
+    },
+    {
+        "start": 503.16,
+        "end": 504.96000000000004,
+        "english": "A fairly significant deadline.",
+        "chinese": "一个相当重要的截止日期。"
+    },
+    {
+        "start": 504.96,
+        "end": 508.32,
+        "english": "Now, this word fairly, kind of sort of.",
+        "chinese": "现在，这个字有点像。"
+    },
+    {
+        "start": 508.32,
+        "end": 509.96,
+        "english": "So it's not very significant.",
+        "chinese": "所以它并不重要。"
+    },
+    {
+        "start": 509.96,
+        "end": 510.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 510.96,
+        "end": 511.96,
+        "english": "It's kind of significant.",
+        "chinese": "是有点重要的。"
+    },
+    {
+        "start": 511.96,
+        "end": 512.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 512.96,
+        "end": 516.96,
+        "english": "But in this context when the person is saying it just sounds a little bit softer, but your",
+        "chinese": "但是，在这个情境中，当这个人说时，听起来有点软，但你的话。"
+    },
+    {
+        "start": 516.96,
+        "end": 518.4399999999999,
+        "english": "understanding is...",
+        "chinese": "理解是..."
+    },
+    {
+        "start": 518.4399999999999,
+        "end": 520.4,
+        "english": "It's a very important deadline.",
+        "chinese": "这是一个非常重要的时间限制。"
+    },
+    {
+        "start": 520.4,
+        "end": 521.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 521.4,
+        "end": 522.68,
+        "english": "A very important deadline.",
+        "chinese": "一个非常重要的截止日期。"
+    },
+    {
+        "start": 522.68,
+        "end": 529.3199999999999,
+        "english": "So another similar example of this is the boss was saying, you're essentially blaming",
+        "chinese": "所以另一个类似的例子是，这个老板正在说，你实际上是在指责。"
+    },
+    {
+        "start": 529.3199999999999,
+        "end": 530.3199999999999,
+        "english": "the tech team.",
+        "chinese": "这个句子“the tech team”在中文中可以翻译为："
+    },
+    {
+        "start": 530.3199999999999,
+        "end": 531.3199999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 531.3199999999999,
+        "end": 532.76,
+        "english": "You're essentially blaming.",
+        "chinese": "您实际上是在指责。"
+    },
+    {
+        "start": 532.76,
+        "end": 537.76,
+        "english": "So essentially is like basically or pretty much.",
+        "chinese": "所以基本上或者说差不多。"
+    },
+    {
+        "start": 537.76,
+        "end": 542.56,
+        "english": "So it sounds a little softer, but what he's actually really saying is you're doing this.",
+        "chinese": "所以听起来有点柔和，但他说的是你正在这样做。"
+    },
+    {
+        "start": 542.56,
+        "end": 543.56,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 543.56,
+        "end": 547.84,
+        "english": "So instead of saying you're blaming the tech team, he adds this word essentially to kind",
+        "chinese": "所以，他不直接说你“是”技术团队的错，而是用这个字眼来间接表达。"
+    },
+    {
+        "start": 547.84,
+        "end": 551.04,
+        "english": "of say, well, basically you're saying it's their fault.",
+        "chinese": "这句话可以翻译成中文为："
+    },
+    {
+        "start": 551.04,
+        "end": 555.88,
+        "english": "But the context or you understand that it's actually very direct and he's saying it's",
+        "chinese": "但是，您理解到这其实非常直接，他是在说……"
+    },
+    {
+        "start": 555.88,
+        "end": 556.88,
+        "english": "your fault.",
+        "chinese": "你的过错。"
+    },
+    {
+        "start": 556.88,
+        "end": 557.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 557.88,
+        "end": 561.4399999999999,
+        "english": "So he's saying you're almost blaming the tech team, but what he means is you're blaming",
+        "chinese": "所以他说你几乎是在指责技术团队，但他的意思是你在指责。"
+    },
+    {
+        "start": 561.44,
+        "end": 562.44,
+        "english": "the tech team.",
+        "chinese": "这个句子“the tech team”在中文中可以翻译为："
+    },
+    {
+        "start": 562.44,
+        "end": 563.44,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 563.44,
+        "end": 567.8800000000001,
+        "english": "Now our third phrase is very interesting because it's kind of like a saying.",
+        "chinese": "现在我们的第三句话非常有趣，因为它有点像一句谚语。"
+    },
+    {
+        "start": 567.8800000000001,
+        "end": 568.8800000000001,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 568.8800000000001,
+        "end": 572.0,
+        "english": "So the employee says, I'm not trying to pass the buck here.",
+        "chinese": "所以这个员工说，我在这里不希望承担任何责任。"
+    },
+    {
+        "start": 572.0,
+        "end": 574.0400000000001,
+        "english": "I'm not trying to pass the buck here.",
+        "chinese": "我不在这里试图推卸责任。"
+    },
+    {
+        "start": 574.0400000000001,
+        "end": 575.7600000000001,
+        "english": "I'm not trying to pass the buck.",
+        "chinese": "我是不想甩锅。"
+    },
+    {
+        "start": 575.7600000000001,
+        "end": 577.2800000000001,
+        "english": "Now what's the buck?",
+        "chinese": "现在谁的担子重？"
+    },
+    {
+        "start": 577.2800000000001,
+        "end": 578.2800000000001,
+        "english": "A dollar bill.",
+        "chinese": "一个美元纸币。"
+    },
+    {
+        "start": 578.2800000000001,
+        "end": 579.2800000000001,
+        "english": "A dollar bill.",
+        "chinese": "一个美元纸币。"
+    },
+    {
+        "start": 579.2800000000001,
+        "end": 580.2800000000001,
+        "english": "So he's...",
+        "chinese": "所以他..."
+    },
+    {
+        "start": 580.2800000000001,
+        "end": 584.9200000000001,
+        "english": "Well, understand that he's saying I'm not trying to blame somebody else or pass the blame",
+        "chinese": "嗯，明白他是在说我不试图责备别人或推卸责任。"
+    },
+    {
+        "start": 584.9200000000001,
+        "end": 586.12,
+        "english": "onto someone else.",
+        "chinese": "上交给另一个人。"
+    },
+    {
+        "start": 586.12,
+        "end": 587.12,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请问您想了解什么？如果您能提供更多的上下文信息或具体语境，我可以尝试更好地帮助您。"
+    },
+    {
+        "start": 587.12,
+        "end": 588.32,
+        "english": "But you can think about it like this.",
+        "chinese": "但是，你可以像这样想。"
+    },
+    {
+        "start": 588.32,
+        "end": 591.6800000000001,
+        "english": "Like imagine he had some fake or phony money, right?",
+        "chinese": "像想象他有假币或伪造的货币，对吗？"
+    },
+    {
+        "start": 591.6800000000001,
+        "end": 595.08,
+        "english": "And he wants to pass that on to the next person so he doesn't get in trouble.",
+        "chinese": "他想将这个传下去，以免自己受到惩罚。"
+    },
+    {
+        "start": 595.08,
+        "end": 596.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 596.08,
+        "end": 597.32,
+        "english": "So I'm not trying to pass the buck.",
+        "chinese": "所以，我并不是要推卸责任。"
+    },
+    {
+        "start": 597.32,
+        "end": 600.24,
+        "english": "I'm not trying to pass the blame.",
+        "chinese": "我不试图推卸责任。"
+    },
+    {
+        "start": 600.24,
+        "end": 602.2800000000001,
+        "english": "Put the responsibility on someone else.",
+        "chinese": "将责任转交他人。"
+    },
+    {
+        "start": 602.2800000000001,
+        "end": 603.2800000000001,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 603.2800000000001,
+        "end": 604.2800000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 604.2800000000001,
+        "end": 605.2800000000001,
+        "english": "But you know what?",
+        "chinese": "但是你知道什么？"
+    },
+    {
+        "start": 605.2800000000001,
+        "end": 606.2800000000001,
+        "english": "You know what he really means here?",
+        "chinese": "您知道他到底在说什么吗？"
+    },
+    {
+        "start": 606.2800000000001,
+        "end": 607.2800000000001,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 607.2800000000001,
+        "end": 608.2800000000001,
+        "english": "I am trying to do this.",
+        "chinese": "我正在尝试做这件事。"
+    },
+    {
+        "start": 608.2800000000001,
+        "end": 611.0400000000001,
+        "english": "Because he knew, yeah, he knew that it was a fake dollar bill.",
+        "chinese": "因为他知道，是的，他知道那是假美元。"
+    },
+    {
+        "start": 611.0400000000001,
+        "end": 612.0400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 612.0400000000001,
+        "end": 613.0400000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 613.0400000000001,
+        "end": 614.0400000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 614.04,
+        "end": 618.76,
+        "english": "It's interesting as well because it's kind of like a metaphor.",
+        "chinese": "它也很有趣，因为它有点像一个比喻。"
+    },
+    {
+        "start": 618.76,
+        "end": 624.36,
+        "english": "He said, the boss said, you're using the small technical glitches as a crutch.",
+        "chinese": "他说，老板说，你用小的技术漏洞作为垫脚石。"
+    },
+    {
+        "start": 624.36,
+        "end": 626.7199999999999,
+        "english": "So using something as a crutch.",
+        "chinese": "所以用它作为垫脚石。"
+    },
+    {
+        "start": 626.7199999999999,
+        "end": 628.68,
+        "english": "Now the crutch is a...",
+        "chinese": "现在这个是..."
+    },
+    {
+        "start": 628.68,
+        "end": 634.8,
+        "english": "You know when you break your leg, you use those wood in our metal sticks to walk with.",
+        "chinese": "你知道当你摔伤了腿时，你用木头在我们的金属棒上行走。"
+    },
+    {
+        "start": 634.8,
+        "end": 635.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 635.8,
+        "end": 636.8,
+        "english": "To help you walk.",
+        "chinese": "要帮助你走路。"
+    },
+    {
+        "start": 636.8,
+        "end": 637.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 637.8,
+        "end": 641.4,
+        "english": "So the boss is basically saying you're using these technical glitches as an excuse or as",
+        "chinese": "所以老板基本上是在说你正在利用这些技术漏洞作为借口或"
+    },
+    {
+        "start": 641.4,
+        "end": 644.52,
+        "english": "an aid to why you missed a deadline.",
+        "chinese": "一个帮助你为什么错过了截止日期的原因。"
+    },
+    {
+        "start": 644.52,
+        "end": 645.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 645.52,
+        "end": 649.36,
+        "english": "So if you think about it like this, some people might say, okay, if you walk with a crutch,",
+        "chinese": "所以如果从这个角度来考虑，有些人可能会说，嗯，如果你走路带着拐杖。"
+    },
+    {
+        "start": 649.36,
+        "end": 652.4399999999999,
+        "english": "then you won't succeed, right?",
+        "chinese": "那么你不会成功的，对吗？"
+    },
+    {
+        "start": 652.4399999999999,
+        "end": 654.8,
+        "english": "Because whatever.",
+        "chinese": "因为什么。"
+    },
+    {
+        "start": 654.8,
+        "end": 660.6,
+        "english": "So this guy, this employee is basically saying, yes, I know that I should meet deadlines,",
+        "chinese": "所以这个家伙，这个员工基本上是在说，“是的，我知道我应该按时完成任务。”"
+    },
+    {
+        "start": 660.6,
+        "end": 664.9599999999999,
+        "english": "but these problems, these glitches are like my crutch that make me not succeed.",
+        "chinese": "但是这些问题，这些问题就像我这个绊脚石，让我不能成功。"
+    },
+    {
+        "start": 664.9599999999999,
+        "end": 665.96,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 665.96,
+        "end": 668.56,
+        "english": "So he's trying to just make excuses.",
+        "chinese": "所以，他正试图只是找个借口。"
+    },
+    {
+        "start": 668.56,
+        "end": 671.76,
+        "english": "So, um, God, Marco, that was a little bit difficult to understand.",
+        "chinese": "所以，呃，哥，那个有点难懂。"
+    },
+    {
+        "start": 671.76,
+        "end": 673.64,
+        "english": "Do you think we should give a couple more examples?",
+        "chinese": "是的，我认为我们应当提供更多的例子。"
+    },
+    {
+        "start": 673.64,
+        "end": 678.8399999999999,
+        "english": "Yeah, I think some more examples would be very useful, so let's listen to a couple of",
+        "chinese": "是的，我认为有一些更多的例子会很有帮助，所以让我们听听一些中文。"
+    },
+    {
+        "start": 678.8399999999999,
+        "end": 681.1199999999999,
+        "english": "them now.",
+        "chinese": "他们现在。"
+    },
+    {
+        "start": 681.1199999999999,
+        "end": 683.7199999999999,
+        "english": "Example 1.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 683.7199999999999,
+        "end": 688.7199999999999,
+        "english": "I realized that I was using alcohol as a crutch to get through the day.",
+        "chinese": "我意识到，我正在用酒精作为度过一天的手段。"
+    },
+    {
+        "start": 688.7199999999999,
+        "end": 690.9599999999999,
+        "english": "Example 2.",
+        "chinese": "示例 2。"
+    },
+    {
+        "start": 690.9599999999999,
+        "end": 698.52,
+        "english": "I think Bill's very capable of being successful, but he uses his disability as a crutch.",
+        "chinese": "我认为比尔非常有能力能够成功，但他利用他的残疾作为垫脚石。"
+    },
+    {
+        "start": 698.52,
+        "end": 701.4399999999999,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 701.4399999999999,
+        "end": 703.8,
+        "english": "Stop using your weight as a crutch.",
+        "chinese": "停止用体重作为垫脚石。"
+    },
+    {
+        "start": 703.8,
+        "end": 707.52,
+        "english": "Just because your bit fat doesn't mean you can't get a great job.",
+        "chinese": "因为你的脂肪量不大，你不能不被录用。"
+    },
+    {
+        "start": 707.52,
+        "end": 708.52,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 708.52,
+        "end": 714.64,
+        "english": "So a lot of great phrases, great words, and well, I think it's time for us to listen to",
+        "chinese": "所以，很多好词、好句和……我认为现在是时候听听了。"
+    },
+    {
+        "start": 714.64,
+        "end": 720.24,
+        "english": "this dialogue for the last time, and then we'll come back and talk about this aspect of meeting",
+        "chinese": "这最后一次对话，然后我们将再次讨论这个关于会议的方面。"
+    },
+    {
+        "start": 720.24,
+        "end": 728.16,
+        "english": "deadlines.",
+        "chinese": "截止日期。"
+    },
+    {
+        "start": 728.16,
+        "end": 733.0799999999999,
+        "english": "And so I just wanted to check in with you and find out where we are with this project.",
+        "chinese": "然后，我只想和您核实一下，看看我们在这方面进展如何。"
+    },
+    {
+        "start": 733.0799999999999,
+        "end": 737.48,
+        "english": "As you know, you missed a fairly significant deadline last week, and this will negatively",
+        "chinese": "您知道，上周您错过了一个相当重要的截止日期，并且这将对您的工作产生负面影响。"
+    },
+    {
+        "start": 737.48,
+        "end": 742.28,
+        "english": "impact the team's ability to move forward with the next stages of this project.",
+        "chinese": "影响团队在这一阶段能够继续前进。"
+    },
+    {
+        "start": 742.28,
+        "end": 743.28,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guó wáng.)"
+    },
+    {
+        "start": 743.28,
+        "end": 747.16,
+        "english": "I'm really sorry that I missed the deadline, but really, it wasn't my fault.",
+        "chinese": "我真的很抱歉错过了截止日期，但说实话，这不是我的错。"
+    },
+    {
+        "start": 747.16,
+        "end": 752.0,
+        "english": "You see, we had all of these unexpected technical problems at the last minute, and I couldn't",
+        "chinese": "您看，我们在这个最后时刻都遇到了这些意外的技术问题，我无法"
+    },
+    {
+        "start": 752.0,
+        "end": 756.16,
+        "english": "get into the database and extract the kind of information that I needed for the data",
+        "chinese": "进入数据库并提取我需要的数据的类型。"
+    },
+    {
+        "start": 756.16,
+        "end": 757.16,
+        "english": "analysis.",
+        "chinese": "分析。"
+    },
+    {
+        "start": 757.16,
+        "end": 762.7199999999999,
+        "english": "You know, if the tech guys would have done their job and kept the CRM stable, then I wouldn't",
+        "chinese": "我知道，如果技术专家能做好他们的工作并保持CRM稳定，那么我不会"
+    },
+    {
+        "start": 762.7199999999999,
+        "end": 764.04,
+        "english": "have missed my deadline.",
+        "chinese": "我错过了我的截止日期。"
+    },
+    {
+        "start": 764.04,
+        "end": 765.56,
+        "english": "Oh, come on.",
+        "chinese": "啊，过来吧。"
+    },
+    {
+        "start": 765.56,
+        "end": 768.6,
+        "english": "An excuse like that is tantamount to lying.",
+        "chinese": "一个借口，就像这样，就等于撒谎。"
+    },
+    {
+        "start": 768.6,
+        "end": 773.24,
+        "english": "You're essentially blaming the tech team for your time management issues, rather than accepting",
+        "chinese": "您实际上是在指责技术团队解决您的时间管理问题，而不是接受。"
+    },
+    {
+        "start": 773.24,
+        "end": 777.7199999999999,
+        "english": "responsibility for the fact that you were procrastinating for the past two weeks.",
+        "chinese": "责任在于你过去两周拖延的原因。"
+    },
+    {
+        "start": 777.7199999999999,
+        "end": 780.24,
+        "english": "No, I'm not trying to pass the buck here.",
+        "chinese": "是的，我在这里不希望代人负过。"
+    },
+    {
+        "start": 780.24,
+        "end": 785.0799999999999,
+        "english": "I know it was me who was ultimately responsible for getting this done, but the thing is, I",
+        "chinese": "我知道这是我自己最终负责完成的，但问题是，我"
+    },
+    {
+        "start": 785.08,
+        "end": 789.0400000000001,
+        "english": "could have finished on time if the system hadn't gone down.",
+        "chinese": "如果系统没有出现问题，那么他就可以按时完成任务。"
+    },
+    {
+        "start": 789.0400000000001,
+        "end": 793.12,
+        "english": "And you know, with everything I've got going on now, I can't afford to waste time dealing",
+        "chinese": "而且，现在我所有的东西都忙得不可开交，我实在无法浪费时间处理。"
+    },
+    {
+        "start": 793.12,
+        "end": 794.12,
+        "english": "with technical problems.",
+        "chinese": "技术问题。"
+    },
+    {
+        "start": 794.12,
+        "end": 798.0400000000001,
+        "english": "I've got a lot of my plate, and there are only 24 hours in a day.",
+        "chinese": "我有很多我的盘子，一天只有24个小时。"
+    },
+    {
+        "start": 798.0400000000001,
+        "end": 801.2800000000001,
+        "english": "I'm not going to accept this excuse.",
+        "chinese": "我不接受这个借口。"
+    },
+    {
+        "start": 801.2800000000001,
+        "end": 805.88,
+        "english": "You're using these small technical glitches as a crutch and trying to rationalize the",
+        "chinese": "您正在利用这些小的技术漏洞作为垫脚石，试图合理化。"
+    },
+    {
+        "start": 805.88,
+        "end": 807.6800000000001,
+        "english": "fact that you've missed your deadline.",
+        "chinese": "事实，你超出了你的截止日期。"
+    },
+    {
+        "start": 807.6800000000001,
+        "end": 812.2800000000001,
+        "english": "Look, we have standards, and I expect you to live up to those standards.",
+        "chinese": "请看，我们有标准，我期待你能遵守这些标准。"
+    },
+    {
+        "start": 812.2800000000001,
+        "end": 814.4000000000001,
+        "english": "No more phony excuses.",
+        "chinese": "无须虚假借口。"
+    },
+    {
+        "start": 814.4,
+        "end": 816.76,
+        "english": "If you're in over your head, you tell me.",
+        "chinese": "如果你在自己力所不及的情况下，就告诉我。"
+    },
+    {
+        "start": 816.76,
+        "end": 818.4,
+        "english": "No more missed deadlines.",
+        "chinese": "没有再错过期限。"
+    },
+    {
+        "start": 818.4,
+        "end": 827.72,
+        "english": "Now I want that data on my desk by 9 a.m.",
+        "chinese": "现在我想把我的数据放在我的办公桌上，早上九点。"
+    },
+    {
+        "start": 827.72,
+        "end": 830.84,
+        "english": "This employee got in a lot of trouble for missing his deadline.",
+        "chinese": "这个员工因为超出了他的工作时间而受到了不少麻烦。"
+    },
+    {
+        "start": 830.84,
+        "end": 831.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 831.84,
+        "end": 838.72,
+        "english": "I think it's a very important aspect of not only Western culture, but also in general",
+        "chinese": "我认为，不仅西方文化，而且在一般意义上也是重要的。"
+    },
+    {
+        "start": 838.72,
+        "end": 841.24,
+        "english": "assuming guilt when it's your fault.",
+        "chinese": "假设自己负有责任，当它是我自己的过错。"
+    },
+    {
+        "start": 841.24,
+        "end": 846.28,
+        "english": "But in this case, we saw that the employee didn't really want to accept the fact that",
+        "chinese": "但是，在这种情况下，我们看到了员工并没有真正想要接受这个事实。"
+    },
+    {
+        "start": 846.28,
+        "end": 847.96,
+        "english": "he was his fault.",
+        "chinese": "他负有责任。"
+    },
+    {
+        "start": 847.96,
+        "end": 853.28,
+        "english": "He didn't say, yeah, I know it was me, I'm sorry, and this is my plan to fix it.",
+        "chinese": "他没有说，对，我知道那是我，对不起，这是我的计划来修复它。"
+    },
+    {
+        "start": 853.28,
+        "end": 858.5600000000001,
+        "english": "Now this is very important among cultures because in some cultures, the aspect of losing",
+        "chinese": "现在，这是非常重要的文化现象。因为在一些文化中，失去被视为一种美德或价值。"
+    },
+    {
+        "start": 858.5600000000001,
+        "end": 860.5600000000001,
+        "english": "face is so important, right?",
+        "chinese": "是的，脸很重要。"
+    },
+    {
+        "start": 860.5600000000001,
+        "end": 861.5600000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 861.5600000000001,
+        "end": 865.8,
+        "english": "So somebody may not really want to assume guilt or they have to because it's part of the",
+        "chinese": "所以，有人可能并不真正想承担责任或必须这样做，因为这是自然的一部分。"
+    },
+    {
+        "start": 865.8,
+        "end": 866.8,
+        "english": "culture.",
+        "chinese": "文化。"
+    },
+    {
+        "start": 866.8,
+        "end": 870.04,
+        "english": "But what's the standard in North American business practice?",
+        "chinese": "但是，美国商业实践的标准是什么？"
+    },
+    {
+        "start": 870.04,
+        "end": 875.4,
+        "english": "I would say that you would have to assume responsibility and take responsibility for",
+        "chinese": "我会说，你必须承担责任，并为此负责。"
+    },
+    {
+        "start": 875.4,
+        "end": 876.4,
+        "english": "your actions, right?",
+        "chinese": "你的行为，对吗？"
+    },
+    {
+        "start": 876.4,
+        "end": 880.36,
+        "english": "And say, yes, it's my fault I did it, but I'm going to get it fixed or I'll do it or",
+        "chinese": "And say, \"是啊，是我错了，但我打算解决或自己做。"
+    },
+    {
+        "start": 880.36,
+        "end": 882.24,
+        "english": "I'll make up for it.",
+        "chinese": "我会弥补它。"
+    },
+    {
+        "start": 882.24,
+        "end": 887.16,
+        "english": "So some good business tips here today in this lesson.",
+        "chinese": "所以今天在今天的课程里分享了一些好的商业技巧。"
+    },
+    {
+        "start": 887.16,
+        "end": 891.4399999999999,
+        "english": "Now remember, if you have any questions about the language or want to tell us a little",
+        "chinese": "现在记得，如果有任何关于语言的问题或想和我们聊点什么，请告诉我。"
+    },
+    {
+        "start": 891.4399999999999,
+        "end": 897.28,
+        "english": "bit about how you assume responsibility in your culture, visit our website at EnglishPod.com.",
+        "chinese": "关于您在文化中如何承担责任，访问我们的网站：https://www.englishpod.com."
+    },
+    {
+        "start": 897.28,
+        "end": 898.28,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 898.28,
+        "end": 902.92,
+        "english": "So always there to help you out and until next time, thanks for listening and goodbye.",
+        "chinese": "所以始终为你出谋划策，直到下次再见，谢谢你的倾听，再见。"
+    }
+]

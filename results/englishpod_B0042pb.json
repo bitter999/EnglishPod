@@ -1,0 +1,1670 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.24,
+        "english": "Hello English learners, welcome back to English.",
+        "chinese": "各位英语学习者大家好，欢迎回到英语频道。"
+    },
+    {
+        "start": 4.24,
+        "end": 5.72,
+        "english": "Pod, my name is Marco.",
+        "chinese": "我是英语 Pod 的 Marco。"
+    },
+    {
+        "start": 5.72,
+        "end": 7.08,
+        "english": "And I'm Erica.",
+        "chinese": "我是 Erica。"
+    },
+    {
+        "start": 7.08,
+        "end": 10.56,
+        "english": "And today with Erica we're bringing you a great lesson about time.",
+        "chinese": "今天我和 Erica 将为大家带来一堂关于时间的精彩课程。"
+    },
+    {
+        "start": 10.56,
+        "end": 11.56,
+        "english": "You need more of it.",
+        "chinese": "你总是需要更多的时间。"
+    },
+    {
+        "start": 11.56,
+        "end": 13.04,
+        "english": "We need more time, right?",
+        "chinese": "我们需要更多的时间，对吧？"
+    },
+    {
+        "start": 13.04,
+        "end": 16.44,
+        "english": "So we're going to be teaching you how you can ask for more time.",
+        "chinese": "所以我们要教你如何请求更多的时间。"
+    },
+    {
+        "start": 16.44,
+        "end": 21.28,
+        "english": "If you're working on a project at work and you can't finish it on time, you have to ask",
+        "chinese": "如果你正在处理一项工作，但无法按时完成，你就必须请求"
+    },
+    {
+        "start": 21.28,
+        "end": 23.92,
+        "english": "your boss for more time.",
+        "chinese": "你的老板多给你一点时间。"
+    },
+    {
+        "start": 23.92,
+        "end": 24.92,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 24.92,
+        "end": 30.24,
+        "english": "So when our dialogue Casey needs more time to put together a press kit.",
+        "chinese": "在我们的对话中，Casey 需要更多时间来整理一份新闻资料包。"
+    },
+    {
+        "start": 30.24,
+        "end": 31.84,
+        "english": "What's a press kit?",
+        "chinese": "什么是新闻资料包（press kit）？"
+    },
+    {
+        "start": 31.84,
+        "end": 32.84,
+        "english": "Good question.",
+        "chinese": "问得好。"
+    },
+    {
+        "start": 32.84,
+        "end": 36.48,
+        "english": "A press kit is something the marketing department will put together.",
+        "chinese": "新闻资料包通常是由市场部门整理的一套东西。"
+    },
+    {
+        "start": 36.48,
+        "end": 41.68,
+        "english": "Basically pictures, logos, information about the company.",
+        "chinese": "基本上包括照片、标志、以及公司的背景信息。"
+    },
+    {
+        "start": 41.68,
+        "end": 46.08,
+        "english": "So when a newspaper or a magazine wants to write an article about them, so they have something",
+        "chinese": "这样当报纸或杂志想写一篇关于他们的文章时，他们就有"
+    },
+    {
+        "start": 46.08,
+        "end": 49.08,
+        "english": "already prepared that they could give the newspaper or magazine.",
+        "chinese": "现成准备好的东西可以提供给媒体。"
+    },
+    {
+        "start": 49.08,
+        "end": 50.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 50.08,
+        "end": 51.08,
+        "english": "Okay.",
+        "chinese": "明白了。"
+    },
+    {
+        "start": 51.08,
+        "end": 53.96,
+        "english": "So let's listen to our dialogue for the first time.",
+        "chinese": "那我们先来听一遍对话吧。"
+    },
+    {
+        "start": 53.96,
+        "end": 57.52,
+        "english": "And as always, it's going to be at a normal speed so it might be a little bit difficult",
+        "chinese": "和往常一样，它会以正常速度播放，所以理解起来可能会"
+    },
+    {
+        "start": 57.52,
+        "end": 58.72,
+        "english": "to understand.",
+        "chinese": "有一点点困难。"
+    },
+    {
+        "start": 58.72,
+        "end": 71.0,
+        "english": "Welcome back in one minute and tell you about some of the key language.",
+        "chinese": "一分钟后我们将回到这里，为你讲解一些关键语言点。"
+    },
+    {
+        "start": 71.0,
+        "end": 77.52,
+        "english": "So Casey, how are things going with the photos for the press kit?",
+        "chinese": "那么 Casey，新闻资料包的照片进展得怎么样了？"
+    },
+    {
+        "start": 77.52,
+        "end": 78.52,
+        "english": "Yeah.",
+        "chinese": "额。"
+    },
+    {
+        "start": 78.52,
+        "end": 81.6,
+        "english": "I've been meaning to talk to you about that.",
+        "chinese": "我一直想跟你谈谈这件事。"
+    },
+    {
+        "start": 81.6,
+        "end": 85.52,
+        "english": "I might need to ask for an extension on that deadline.",
+        "chinese": "我可能需要申请延长一下截止日期。"
+    },
+    {
+        "start": 85.52,
+        "end": 88.76,
+        "english": "You've had over a month to get this finalized.",
+        "chinese": "你已经有一个多月的时间来完成最后定稿了。"
+    },
+    {
+        "start": 88.76,
+        "end": 91.16,
+        "english": "Why are things delayed?",
+        "chinese": "为什么进度被推迟了？"
+    },
+    {
+        "start": 91.16,
+        "end": 95.84,
+        "english": "Well the thing is, we ran into a lot of problems.",
+        "chinese": "呃，情况是这样的，我们遇到了很多问题。"
+    },
+    {
+        "start": 95.84,
+        "end": 97.96,
+        "english": "I'm not looking for excuses here.",
+        "chinese": "我不是来听你找借口的。"
+    },
+    {
+        "start": 97.96,
+        "end": 100.68,
+        "english": "I just want to get this finished on time.",
+        "chinese": "我只希望这件事能按时完成。"
+    },
+    {
+        "start": 100.68,
+        "end": 101.76,
+        "english": "I know.",
+        "chinese": "我知道。"
+    },
+    {
+        "start": 101.76,
+        "end": 103.88,
+        "english": "And I apologize for the delay.",
+        "chinese": "我为延误感到抱歉。"
+    },
+    {
+        "start": 103.88,
+        "end": 106.48,
+        "english": "But some things were just beyond my control.",
+        "chinese": "但有些事情确实超出了我的控制范围。"
+    },
+    {
+        "start": 106.48,
+        "end": 109.0,
+        "english": "I had trouble booking the photographer.",
+        "chinese": "我在预约摄影师时遇到了困难。"
+    },
+    {
+        "start": 109.0,
+        "end": 111.4,
+        "english": "And then Michael was sick for three weeks.",
+        "chinese": "接着 Michael 病了三周。"
+    },
+    {
+        "start": 111.4,
+        "end": 114.08,
+        "english": "But I couldn't include him in the photos.",
+        "chinese": "所以我没法把他拍进照片里。"
+    },
+    {
+        "start": 114.08,
+        "end": 116.72,
+        "english": "And the design team lost all the files.",
+        "chinese": "而且设计团队弄丢了所有文件。"
+    },
+    {
+        "start": 116.72,
+        "end": 119.0,
+        "english": "So I had to redo the pictures.",
+        "chinese": "所以我不得不重拍这些照片。"
+    },
+    {
+        "start": 119.0,
+        "end": 121.84,
+        "english": "I'm not going to put this off any longer, Casey.",
+        "chinese": "我不会再让你拖下去了，Casey。"
+    },
+    {
+        "start": 121.84,
+        "end": 123.48,
+        "english": "I want those photos.",
+        "chinese": "我要那些照片。"
+    },
+    {
+        "start": 123.48,
+        "end": 124.48,
+        "english": "ASAP.",
+        "chinese": "越快越好（尽快）。"
+    },
+    {
+        "start": 124.48,
+        "end": 127.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 127.0,
+        "end": 132.68,
+        "english": "So Casey is in trouble, I think.",
+        "chinese": "我想 Casey 遇到麻烦了。"
+    },
+    {
+        "start": 132.68,
+        "end": 133.68,
+        "english": "Yeah.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 133.68,
+        "end": 135.6,
+        "english": "I think her boss is pretty upset.",
+        "chinese": "我觉得她的老板非常生气。"
+    },
+    {
+        "start": 135.6,
+        "end": 136.6,
+        "english": "Yeah.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 136.6,
+        "end": 143.32,
+        "english": "Well, let's take a look at some of the language that we saw in this dialogue in language takeaway.",
+        "chinese": "好了，让我们在“语言要点”环节中看看对话里出现的一些词汇。"
+    },
+    {
+        "start": 143.32,
+        "end": 145.44,
+        "english": "Language takeaway.",
+        "chinese": "语言要点。"
+    },
+    {
+        "start": 145.44,
+        "end": 147.96,
+        "english": "First word today is deadline.",
+        "chinese": "今天的第一个词是 deadline。"
+    },
+    {
+        "start": 147.96,
+        "end": 149.48,
+        "english": "Deadline.",
+        "chinese": "截止日期。"
+    },
+    {
+        "start": 149.48,
+        "end": 150.48,
+        "english": "Deadline.",
+        "chinese": "截止日期。"
+    },
+    {
+        "start": 150.48,
+        "end": 151.48,
+        "english": "Deadline.",
+        "chinese": "截止日期。"
+    },
+    {
+        "start": 151.48,
+        "end": 153.36,
+        "english": "So Erica, what's a deadline?",
+        "chinese": "那么 Erica，deadline 是什么意思？"
+    },
+    {
+        "start": 153.36,
+        "end": 157.12,
+        "english": "It is the last possible date to do something.",
+        "chinese": "它是指做某件事最后期限的日期。"
+    },
+    {
+        "start": 157.12,
+        "end": 160.79,
+        "english": "So for example, when we were in school, our teacher would send us homework and say it was",
+        "chinese": "例如，我们在上学时，老师会发作业并说"
+    },
+    {
+        "start": 160.79,
+        "end": 161.96,
+        "english": "for Friday.",
+        "chinese": "周五交。"
+    },
+    {
+        "start": 161.96,
+        "end": 163.48,
+        "english": "So the deadline was Friday.",
+        "chinese": "所以截止日期就是周五。"
+    },
+    {
+        "start": 163.48,
+        "end": 165.12,
+        "english": "Was Friday, right?",
+        "chinese": "就是周五，对吧？"
+    },
+    {
+        "start": 165.12,
+        "end": 169.2,
+        "english": "Or when you're at work, you have projects that you have to finish by a certain date.",
+        "chinese": "或者在工作中，你必须在特定日期前完成项目。"
+    },
+    {
+        "start": 169.2,
+        "end": 170.2,
+        "english": "That's your deadline.",
+        "chinese": "那就是你的截止日期。"
+    },
+    {
+        "start": 170.2,
+        "end": 171.2,
+        "english": "Exactly.",
+        "chinese": "正是如此。"
+    },
+    {
+        "start": 171.2,
+        "end": 172.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 172.2,
+        "end": 173.6,
+        "english": "Let's look at our next word.",
+        "chinese": "让我们看下一个词。"
+    },
+    {
+        "start": 173.6,
+        "end": 174.6,
+        "english": "Extension.",
+        "chinese": "延长。"
+    },
+    {
+        "start": 174.6,
+        "end": 175.6,
+        "english": "Extension.",
+        "chinese": "延长。"
+    },
+    {
+        "start": 175.6,
+        "end": 176.6,
+        "english": "Extension.",
+        "chinese": "延长。"
+    },
+    {
+        "start": 176.6,
+        "end": 177.6,
+        "english": "Extension.",
+        "chinese": "延长。"
+    },
+    {
+        "start": 177.6,
+        "end": 180.76,
+        "english": "So extension and deadline go together, right?",
+        "chinese": "所以 extension（延期）和 deadline（截止日期）是常在一起用的，对吧？"
+    },
+    {
+        "start": 180.76,
+        "end": 181.76,
+        "english": "Exactly.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 181.76,
+        "end": 188.2,
+        "english": "If you can't reach your deadline or you can't make your deadline, you must ask for an extension.",
+        "chinese": "如果你无法赶上截止日期，你就必须申请延期。"
+    },
+    {
+        "start": 188.2,
+        "end": 189.2,
+        "english": "An extension.",
+        "chinese": "延期。"
+    },
+    {
+        "start": 189.2,
+        "end": 190.84,
+        "english": "So you ask for more time.",
+        "chinese": "也就是请求更多的时间。"
+    },
+    {
+        "start": 190.84,
+        "end": 191.84,
+        "english": "Yeah.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 191.84,
+        "end": 195.12,
+        "english": "Extension is moving the deadline in the future.",
+        "chinese": "延期就是把截止日期往后推。"
+    },
+    {
+        "start": 195.12,
+        "end": 196.12,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 196.12,
+        "end": 197.12,
+        "english": "Interesting.",
+        "chinese": "很有意思。"
+    },
+    {
+        "start": 197.12,
+        "end": 198.44,
+        "english": "Let's look at our next word.",
+        "chinese": "看下一个词。"
+    },
+    {
+        "start": 198.44,
+        "end": 200.28,
+        "english": "Ran into.",
+        "chinese": "遭遇，遇到。"
+    },
+    {
+        "start": 200.28,
+        "end": 201.28,
+        "english": "Ran into.",
+        "chinese": "遇见。"
+    },
+    {
+        "start": 201.28,
+        "end": 202.28,
+        "english": "Ran into.",
+        "chinese": "遇到。"
+    },
+    {
+        "start": 202.28,
+        "end": 205.2,
+        "english": "Ran into some problems.",
+        "chinese": "遇到了一些问题。"
+    },
+    {
+        "start": 205.2,
+        "end": 208.32,
+        "english": "So we ran into some problems in this dialogue.",
+        "chinese": "在对话中，我们“遇到了”一些问题。"
+    },
+    {
+        "start": 208.32,
+        "end": 213.36,
+        "english": "Let's listen to some more examples of run into so we can understand the meaning.",
+        "chinese": "让我们听听更多关于 run into 的例子来理解它的含义。"
+    },
+    {
+        "start": 213.36,
+        "end": 216.28,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 216.28,
+        "end": 221.8,
+        "english": "We ran into a storm on our way home.",
+        "chinese": "我们在回家的路上遇到了暴风雨。"
+    },
+    {
+        "start": 221.8,
+        "end": 225.36,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 225.36,
+        "end": 231.76,
+        "english": "If you're not careful now, you're going to run into a lot of problems later.",
+        "chinese": "如果你现在不小心，以后会遇到很多麻烦。"
+    },
+    {
+        "start": 231.76,
+        "end": 235.16,
+        "english": "Example three.",
+        "chinese": "例三。"
+    },
+    {
+        "start": 235.16,
+        "end": 238.84,
+        "english": "I ran into some trouble with my computer.",
+        "chinese": "我的电脑遇到了一些故障。"
+    },
+    {
+        "start": 238.84,
+        "end": 239.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 239.84,
+        "end": 240.84,
+        "english": "Good example.",
+        "chinese": "很好的例子。"
+    },
+    {
+        "start": 240.84,
+        "end": 242.36,
+        "english": "So it's clear now, right?",
+        "chinese": "现在很清楚了吧？"
+    },
+    {
+        "start": 242.36,
+        "end": 243.36,
+        "english": "Right.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 243.36,
+        "end": 245.64,
+        "english": "If you run into problems, you meet some problems.",
+        "chinese": "Run into problems 就是遇到问题的意思。"
+    },
+    {
+        "start": 245.64,
+        "end": 246.64,
+        "english": "Right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 246.64,
+        "end": 248.0,
+        "english": "Many students say it in that way.",
+        "chinese": "很多学生会那样说。"
+    },
+    {
+        "start": 248.0,
+        "end": 249.44,
+        "english": "I met some problems.",
+        "chinese": "我遇到了一些问题。"
+    },
+    {
+        "start": 249.44,
+        "end": 250.84,
+        "english": "Yeah, but that's wrong.",
+        "chinese": "是的，但那是错的。"
+    },
+    {
+        "start": 250.84,
+        "end": 251.6,
+        "english": "Right.",
+        "chinese": "对。"
+    },
+    {
+        "start": 251.6,
+        "end": 253.76,
+        "english": "So you would say I ran into some problems.",
+        "chinese": "所以你应该说 I ran into some problems。"
+    },
+    {
+        "start": 253.76,
+        "end": 254.76,
+        "english": "Right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 254.76,
+        "end": 255.76,
+        "english": "I met some problems.",
+        "chinese": "我遇到了一些问题。"
+    },
+    {
+        "start": 255.76,
+        "end": 256.76,
+        "english": "Is wrong.",
+        "chinese": "是错误的。"
+    },
+    {
+        "start": 256.76,
+        "end": 257.76,
+        "english": "Wrong.",
+        "chinese": "错误的。"
+    },
+    {
+        "start": 257.76,
+        "end": 258.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 258.76,
+        "end": 259.76,
+        "english": "Don't say met some problems.",
+        "chinese": "不要说遇到了一些问题。"
+    },
+    {
+        "start": 259.76,
+        "end": 260.76,
+        "english": "I ran into some problems.",
+        "chinese": "我遇到了一些问题。"
+    },
+    {
+        "start": 260.76,
+        "end": 261.76,
+        "english": "I ran into.",
+        "chinese": "使用 ran into。"
+    },
+    {
+        "start": 261.76,
+        "end": 262.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 262.76,
+        "end": 265.36,
+        "english": "And our last word for language takeaway.",
+        "chinese": "最后一个语言要点词汇。"
+    },
+    {
+        "start": 265.36,
+        "end": 266.36,
+        "english": "Delayed.",
+        "chinese": "延误，延迟。"
+    },
+    {
+        "start": 266.36,
+        "end": 267.36,
+        "english": "Delayed.",
+        "chinese": "延迟。"
+    },
+    {
+        "start": 267.36,
+        "end": 268.36,
+        "english": "Delayed.",
+        "chinese": "延迟。"
+    },
+    {
+        "start": 268.36,
+        "end": 269.36,
+        "english": "Delayed.",
+        "chinese": "延迟。"
+    },
+    {
+        "start": 269.36,
+        "end": 271.6,
+        "english": "So when something is delayed, it's late.",
+        "chinese": "当某事 delayed 时，就是迟了。"
+    },
+    {
+        "start": 271.6,
+        "end": 272.6,
+        "english": "Late.",
+        "chinese": "晚了。"
+    },
+    {
+        "start": 272.6,
+        "end": 274.8,
+        "english": "And the opposite is on time.",
+        "chinese": "反义词是 on time（按时）。"
+    },
+    {
+        "start": 274.8,
+        "end": 275.8,
+        "english": "Yeah.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 275.8,
+        "end": 278.96,
+        "english": "So your flight was delayed or your flight was on time.",
+        "chinese": "所以你的航班可能延误了，也可能按时起飞。"
+    },
+    {
+        "start": 278.96,
+        "end": 280.8,
+        "english": "The project was delayed.",
+        "chinese": "项目延期了。"
+    },
+    {
+        "start": 280.8,
+        "end": 282.48,
+        "english": "Or your project was on time.",
+        "chinese": "或者你的项目按时完成了。"
+    },
+    {
+        "start": 282.48,
+        "end": 283.48,
+        "english": "Clear.",
+        "chinese": "很清晰。"
+    },
+    {
+        "start": 283.48,
+        "end": 284.48,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 284.48,
+        "end": 285.96,
+        "english": "So now let's go back to the dialogue.",
+        "chinese": "现在让我们回到对话中。"
+    },
+    {
+        "start": 285.96,
+        "end": 287.4,
+        "english": "Let's listen to it again.",
+        "chinese": "再听一遍。"
+    },
+    {
+        "start": 287.4,
+        "end": 289.64,
+        "english": "And this time it will be a little bit slower.",
+        "chinese": "这次语速会稍微慢一点。"
+    },
+    {
+        "start": 289.64,
+        "end": 301.0,
+        "english": "So you can understand some of these phrases we just talked about.",
+        "chinese": "这样你就能理解我们刚才谈到的这些短语了。"
+    },
+    {
+        "start": 301.0,
+        "end": 307.64,
+        "english": "So Casey, how are things going with the photos for the press kit?",
+        "chinese": "那么 Casey，新闻资料包的照片进展得怎么样了？"
+    },
+    {
+        "start": 307.64,
+        "end": 308.64,
+        "english": "Yeah.",
+        "chinese": "额。"
+    },
+    {
+        "start": 308.64,
+        "end": 311.64,
+        "english": "I've been meaning to talk to you about that.",
+        "chinese": "我一直想跟你谈谈这件事。"
+    },
+    {
+        "start": 311.64,
+        "end": 315.56,
+        "english": "I might need to ask for an extension on that deadline.",
+        "chinese": "我可能需要申请延长截止日期。"
+    },
+    {
+        "start": 315.56,
+        "end": 318.8,
+        "english": "You've had over a month to get this finalized.",
+        "chinese": "你已经有一个多月的时间来完成最后定稿了。"
+    },
+    {
+        "start": 318.8,
+        "end": 321.2,
+        "english": "Why are things delayed?",
+        "chinese": "为什么进度被推迟了？"
+    },
+    {
+        "start": 321.2,
+        "end": 325.92,
+        "english": "Well, the thing is, we ran into a lot of problems.",
+        "chinese": "呃，情况是这样的，我们遇到了很多问题。"
+    },
+    {
+        "start": 325.92,
+        "end": 327.96,
+        "english": "I'm not looking for excuses here.",
+        "chinese": "我不是来听你找借口的。"
+    },
+    {
+        "start": 327.96,
+        "end": 331.2,
+        "english": "I just want to get this finished on time.",
+        "chinese": "我只希望这件事能按时完成。"
+    },
+    {
+        "start": 331.2,
+        "end": 332.2,
+        "english": "I know.",
+        "chinese": "我知道。"
+    },
+    {
+        "start": 332.2,
+        "end": 334.64,
+        "english": "And I apologize for the delay.",
+        "chinese": "我为延误感到抱歉。"
+    },
+    {
+        "start": 334.64,
+        "end": 337.92,
+        "english": "But some things were just beyond my control.",
+        "chinese": "但有些事情确实超出了我的控制。"
+    },
+    {
+        "start": 337.92,
+        "end": 340.56,
+        "english": "I had trouble booking the photographer.",
+        "chinese": "我在预约摄影师时遇到了麻烦。"
+    },
+    {
+        "start": 340.56,
+        "end": 345.36,
+        "english": "And then Michael was sick for three weeks, so I couldn't include him in the photos.",
+        "chinese": "接着 Michael 病了三周，所以我没法把他拍进照片里。"
+    },
+    {
+        "start": 345.36,
+        "end": 350.92,
+        "english": "And the design team lost all the files, so I had to redo the pictures.",
+        "chinese": "而且设计团队弄丢了所有文件，所以我不得不重拍照片。"
+    },
+    {
+        "start": 350.92,
+        "end": 354.64,
+        "english": "I'm not going to put this off any longer, Casey.",
+        "chinese": "我不会再让你拖下去了，Casey。"
+    },
+    {
+        "start": 354.64,
+        "end": 358.44,
+        "english": "I want those photos ASAP.",
+        "chinese": "我要那些照片，越快越好。"
+    },
+    {
+        "start": 359.16,
+        "end": 367.8,
+        "english": "Okay, so there were some really useful phrases that we saw in this dialogue.",
+        "chinese": "好的，我们在对话中看到了一些非常有用的短语。"
+    },
+    {
+        "start": 367.8,
+        "end": 372.64,
+        "english": "Yes, some wonderful phrases that you can use when you want to ask for more time.",
+        "chinese": "是的，当你想要申请更多时间时，可以使用这些极好的短语。"
+    },
+    {
+        "start": 372.64,
+        "end": 377.04,
+        "english": "Okay, so let's look at these phrases in Fluency Builder.",
+        "chinese": "好的，让我们在“流利表达”环节中看看这些短语。"
+    },
+    {
+        "start": 377.04,
+        "end": 378.04,
+        "english": "Fluency Builder.",
+        "chinese": "流利表达。"
+    },
+    {
+        "start": 378.04,
+        "end": 380.28,
+        "english": "Alright, what's our first phrase?",
+        "chinese": "好了，我们的第一个短语是什么？"
+    },
+    {
+        "start": 380.28,
+        "end": 383.0,
+        "english": "I've been meaning to talk to you.",
+        "chinese": "我一直想跟你谈谈。"
+    },
+    {
+        "start": 383.0,
+        "end": 384.88,
+        "english": "I've been meaning too.",
+        "chinese": "我一直打算（做某事）。"
+    },
+    {
+        "start": 384.88,
+        "end": 386.88,
+        "english": "I've been meaning too.",
+        "chinese": "我一直想..."
+    },
+    {
+        "start": 386.88,
+        "end": 391.68,
+        "english": "Okay, we have some really great examples of how you can combine.",
+        "chinese": "好的，我们有一些关于如何组合的优秀例子。"
+    },
+    {
+        "start": 391.68,
+        "end": 394.0,
+        "english": "I've been meaning too with different verbs.",
+        "chinese": "如何将 “I’ve been meaning to” 与不同的动词搭配。"
+    },
+    {
+        "start": 394.0,
+        "end": 395.72,
+        "english": "Yeah, let's listen.",
+        "chinese": "是的，一起来听听。"
+    },
+    {
+        "start": 395.72,
+        "end": 399.08,
+        "english": "Example one.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 399.08,
+        "end": 400.96,
+        "english": "I'm sorry I haven't called you yet.",
+        "chinese": "对不起，我还没给你打电话。"
+    },
+    {
+        "start": 400.96,
+        "end": 406.08,
+        "english": "I've been meaning too, but I've been busy.",
+        "chinese": "我一直想打，但我一直很忙。"
+    },
+    {
+        "start": 406.08,
+        "end": 410.24,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 410.24,
+        "end": 416.76,
+        "english": "I've been meaning to tell you that John Quitt yesterday.",
+        "chinese": "我一直想告诉你 John 昨天辞职了。"
+    },
+    {
+        "start": 416.76,
+        "end": 420.92,
+        "english": "Example three.",
+        "chinese": "例三。"
+    },
+    {
+        "start": 420.92,
+        "end": 426.16,
+        "english": "I've been meaning to see that film for a while.",
+        "chinese": "我想看那部电影已经有一段时间了。"
+    },
+    {
+        "start": 426.16,
+        "end": 430.0,
+        "english": "I've been meaning to go to that restaurant, but I haven't had time.",
+        "chinese": "我一直想去那家餐厅，但我一直没时间。"
+    },
+    {
+        "start": 430.0,
+        "end": 432.52,
+        "english": "So you've been wanting to for a long time.",
+        "chinese": "所以你已经想了很久了。"
+    },
+    {
+        "start": 432.52,
+        "end": 433.52,
+        "english": "Right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 433.52,
+        "end": 435.0,
+        "english": "I've been thinking about it.",
+        "chinese": "我一直在考虑这件事。"
+    },
+    {
+        "start": 435.0,
+        "end": 436.44,
+        "english": "I've been planning to do it.",
+        "chinese": "我一直在计划去做。"
+    },
+    {
+        "start": 436.44,
+        "end": 437.44,
+        "english": "But you just haven't done it.",
+        "chinese": "但你只是还没做。"
+    },
+    {
+        "start": 437.44,
+        "end": 440.76,
+        "english": "I haven't done it, because I haven't had time or money.",
+        "chinese": "我还没做是因为我没时间或者没钱。"
+    },
+    {
+        "start": 440.76,
+        "end": 442.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 442.08,
+        "end": 443.44,
+        "english": "Good phrase.",
+        "chinese": "很好的短语。"
+    },
+    {
+        "start": 443.44,
+        "end": 447.32,
+        "english": "Our next phrase is Beyond My Control.",
+        "chinese": "我们的下一个短语是 Beyond My Control（超出我的控制）。"
+    },
+    {
+        "start": 447.32,
+        "end": 449.4,
+        "english": "Beyond My Control.",
+        "chinese": "超出我的控制。"
+    },
+    {
+        "start": 449.4,
+        "end": 451.32,
+        "english": "It's Beyond My Control.",
+        "chinese": "这超出了我的掌控。"
+    },
+    {
+        "start": 451.32,
+        "end": 454.04,
+        "english": "So it means that I can't control it.",
+        "chinese": "所以它的意思是我无法控制它。"
+    },
+    {
+        "start": 454.04,
+        "end": 455.36,
+        "english": "You can't do anything about it.",
+        "chinese": "你对此无能为力。"
+    },
+    {
+        "start": 455.36,
+        "end": 456.2,
+        "english": "Can't do anything about it.",
+        "chinese": "无法采取任何行动。"
+    },
+    {
+        "start": 456.2,
+        "end": 458.2,
+        "english": "The weather is Beyond My Control.",
+        "chinese": "天气是超出我控制的。"
+    },
+    {
+        "start": 458.2,
+        "end": 459.2,
+        "english": "Right.",
+        "chinese": "对。"
+    },
+    {
+        "start": 459.2,
+        "end": 463.36,
+        "english": "Or relate with this project because Jane was sick for one month.",
+        "chinese": "或者项目延期是因为 Jane 病了一个月。"
+    },
+    {
+        "start": 463.36,
+        "end": 464.6,
+        "english": "It was Beyond My Control.",
+        "chinese": "那是超出了我的控制的。"
+    },
+    {
+        "start": 464.6,
+        "end": 465.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 465.6,
+        "end": 466.6,
+        "english": "It wasn't your fault.",
+        "chinese": "那不是你的错。"
+    },
+    {
+        "start": 466.6,
+        "end": 467.6,
+        "english": "No.",
+        "chinese": "不是。"
+    },
+    {
+        "start": 467.6,
+        "end": 468.6,
+        "english": "Okay.",
+        "chinese": "明白了。"
+    },
+    {
+        "start": 468.6,
+        "end": 471.2,
+        "english": "And our last phrase for fluency builder.",
+        "chinese": "“流利表达”环节的最后一个短语。"
+    },
+    {
+        "start": 471.2,
+        "end": 472.76,
+        "english": "Put this off.",
+        "chinese": "拖延，推迟某事。"
+    },
+    {
+        "start": 472.76,
+        "end": 475.12,
+        "english": "Put this off.",
+        "chinese": "推迟这个。"
+    },
+    {
+        "start": 475.12,
+        "end": 477.16,
+        "english": "Put this off.",
+        "chinese": "推迟这个。"
+    },
+    {
+        "start": 477.16,
+        "end": 479.2,
+        "english": "Put this off.",
+        "chinese": "推迟这个。"
+    },
+    {
+        "start": 479.2,
+        "end": 484.92,
+        "english": "So let's listen to some more examples of Put this off before we explain the meaning.",
+        "chinese": "在解释含义之前，让我们多听几个关于 Put this off 的例子。"
+    },
+    {
+        "start": 484.92,
+        "end": 488.2,
+        "english": "Example 1.",
+        "chinese": "例一。"
+    },
+    {
+        "start": 488.2,
+        "end": 490.84,
+        "english": "I've been putting off this project for a week.",
+        "chinese": "我把这个项目推迟了一周。"
+    },
+    {
+        "start": 490.84,
+        "end": 495.88,
+        "english": "And it's due tomorrow.",
+        "chinese": "而明天就是最后期限了。"
+    },
+    {
+        "start": 495.88,
+        "end": 499.92,
+        "english": "Example 2.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 499.92,
+        "end": 501.92,
+        "english": "Can we put off our meeting till next week?",
+        "chinese": "我们可以把会议推迟到下周吗？"
+    },
+    {
+        "start": 501.92,
+        "end": 506.8,
+        "english": "I'm too busy right now.",
+        "chinese": "我现在太忙了。"
+    },
+    {
+        "start": 506.8,
+        "end": 507.8,
+        "english": "Example 3.",
+        "chinese": "例三。"
+    },
+    {
+        "start": 507.8,
+        "end": 512.72,
+        "english": "I've been putting off my email all day.",
+        "chinese": "我一整天都在拖延处理邮件。"
+    },
+    {
+        "start": 512.72,
+        "end": 517.32,
+        "english": "And now I have 50 messages to respond to.",
+        "chinese": "现在我有 50 条消息要回复。"
+    },
+    {
+        "start": 517.32,
+        "end": 521.16,
+        "english": "So Marco, when you put something off, you leave it for later.",
+        "chinese": "所以 Marco，当你 put something off 时，你是把它留到以后处理。"
+    },
+    {
+        "start": 521.16,
+        "end": 522.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 522.16,
+        "end": 523.16,
+        "english": "Right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 523.16,
+        "end": 527.44,
+        "english": "So maybe I have to write a report today, but I'm going to put it off till tomorrow.",
+        "chinese": "所以可能我今天得写报告，但我打算把它推迟到明天。"
+    },
+    {
+        "start": 527.44,
+        "end": 528.8,
+        "english": "So you're going to do it tomorrow.",
+        "chinese": "所以你打算明天做。"
+    },
+    {
+        "start": 528.8,
+        "end": 529.8,
+        "english": "I'll do it tomorrow.",
+        "chinese": "我会明天再做。"
+    },
+    {
+        "start": 529.8,
+        "end": 530.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 530.8,
+        "end": 533.92,
+        "english": "So we've got some really great words and some really good phrases.",
+        "chinese": "我们学到了一些非常棒的词和短语。"
+    },
+    {
+        "start": 533.92,
+        "end": 537.08,
+        "english": "So now let's listen to our dialogue for the last time.",
+        "chinese": "现在让我们最后听一遍对话。"
+    },
+    {
+        "start": 537.08,
+        "end": 544.48,
+        "english": "And then we'll come back and talk some more.",
+        "chinese": "然后我们再回来聊一聊。"
+    },
+    {
+        "start": 544.48,
+        "end": 551.24,
+        "english": "So Casey, how are things going with the photos for the press kit?",
+        "chinese": "那么 Casey，新闻资料包的照片进展得怎么样了？"
+    },
+    {
+        "start": 551.24,
+        "end": 552.24,
+        "english": "Yeah.",
+        "chinese": "额。"
+    },
+    {
+        "start": 552.24,
+        "end": 555.08,
+        "english": "I've been meaning to talk to you about that.",
+        "chinese": "我一直想跟你谈谈这件事。"
+    },
+    {
+        "start": 555.08,
+        "end": 559.0,
+        "english": "I might need to ask for an extension on that deadline.",
+        "chinese": "我可能需要申请延长截止日期。"
+    },
+    {
+        "start": 559.0,
+        "end": 562.24,
+        "english": "We've had over a month to get this finalized.",
+        "chinese": "你已经有一个多月的时间来完成最后定稿了。"
+    },
+    {
+        "start": 562.24,
+        "end": 564.36,
+        "english": "Why are things delayed?",
+        "chinese": "为什么进度被推迟了？"
+    },
+    {
+        "start": 564.36,
+        "end": 569.36,
+        "english": "Well, the thing is, we ran into a lot of problems.",
+        "chinese": "呃，情况是这样的，我们遇到了很多问题。"
+    },
+    {
+        "start": 569.36,
+        "end": 571.48,
+        "english": "I'm not looking for excuses here.",
+        "chinese": "我不是来听你找借口的。"
+    },
+    {
+        "start": 571.48,
+        "end": 574.16,
+        "english": "I just want to get this finished on time.",
+        "chinese": "我只希望这件事能按时完成。"
+    },
+    {
+        "start": 574.16,
+        "end": 575.24,
+        "english": "I know.",
+        "chinese": "我知道。"
+    },
+    {
+        "start": 575.24,
+        "end": 577.36,
+        "english": "And I apologize for the delay.",
+        "chinese": "我为延误感到抱歉。"
+    },
+    {
+        "start": 577.36,
+        "end": 580.0,
+        "english": "But some things were just beyond my control.",
+        "chinese": "但有些事情确实超出了我的控制。"
+    },
+    {
+        "start": 580.0,
+        "end": 582.48,
+        "english": "I had trouble booking the photographer.",
+        "chinese": "我在预约摄影师时遇到了困难。"
+    },
+    {
+        "start": 582.48,
+        "end": 584.88,
+        "english": "And then, Michael was sick for three weeks.",
+        "chinese": "接着 Michael 病了三周。"
+    },
+    {
+        "start": 584.88,
+        "end": 587.6,
+        "english": "So I couldn't include him in the photos.",
+        "chinese": "所以我没法把他拍进照片里。"
+    },
+    {
+        "start": 587.6,
+        "end": 590.2,
+        "english": "And the design team lost all the files.",
+        "chinese": "而且设计团队弄丢了所有文件。"
+    },
+    {
+        "start": 590.2,
+        "end": 592.48,
+        "english": "So I had to redo the pictures.",
+        "chinese": "所以我不得不重拍照片。"
+    },
+    {
+        "start": 592.48,
+        "end": 595.32,
+        "english": "I'm not going to put this off any longer, Casey.",
+        "chinese": "我不会再让你拖下去了，Casey。"
+    },
+    {
+        "start": 595.32,
+        "end": 597.2,
+        "english": "I want those photos.",
+        "chinese": "我要那些照片。"
+    },
+    {
+        "start": 597.2,
+        "end": 598.2,
+        "english": "ASAP.",
+        "chinese": "越快越好。"
+    },
+    {
+        "start": 598.2,
+        "end": 609.36,
+        "english": "Marco, do you think that Casey's reasons for being late are good?",
+        "chinese": "Marco，你认为 Casey 迟到的理由充分吗？"
+    },
+    {
+        "start": 609.36,
+        "end": 615.24,
+        "english": "I think so because it wasn't really her fault, the whole situation with the photographer.",
+        "chinese": "我觉得还行，因为那确实不是她的错，比如摄影师那边的情况。"
+    },
+    {
+        "start": 615.24,
+        "end": 618.88,
+        "english": "And then one of her coworkers was sick for three weeks.",
+        "chinese": "而且她的一个同事还病了三周。"
+    },
+    {
+        "start": 618.88,
+        "end": 620.2,
+        "english": "It's not really her fault, right?",
+        "chinese": "这真的不是她的错，对吧？"
+    },
+    {
+        "start": 620.2,
+        "end": 621.2,
+        "english": "Right.",
+        "chinese": "对。"
+    },
+    {
+        "start": 621.2,
+        "end": 623.84,
+        "english": "But maybe the boss thinks that she's making excuses.",
+        "chinese": "但也许老板认为她是在找借口。"
+    },
+    {
+        "start": 623.84,
+        "end": 626.08,
+        "english": "Yeah, maybe she's making excuses.",
+        "chinese": "是的，也许她在找借口。"
+    },
+    {
+        "start": 626.08,
+        "end": 627.08,
+        "english": "That's really common.",
+        "chinese": "这非常普遍。"
+    },
+    {
+        "start": 627.08,
+        "end": 631.68,
+        "english": "For example, when we were kids, you would say, oh, my dog ate my homework.",
+        "chinese": "比如我们小时候，你会说：噢，我的狗把我的作业吃了。"
+    },
+    {
+        "start": 631.68,
+        "end": 632.68,
+        "english": "Right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 632.68,
+        "end": 634.84,
+        "english": "But that really happened to me once.",
+        "chinese": "但这种事真的在我身上发生过一次。"
+    },
+    {
+        "start": 634.84,
+        "end": 635.84,
+        "english": "Your dog ate your homework?",
+        "chinese": "你的狗吃了你的作业？"
+    },
+    {
+        "start": 635.84,
+        "end": 637.12,
+        "english": "My cat ate my homework.",
+        "chinese": "是我的猫吃了我的作业。"
+    },
+    {
+        "start": 637.12,
+        "end": 638.52,
+        "english": "Your cat ate your homework.",
+        "chinese": "你的猫吃了你的作业。"
+    },
+    {
+        "start": 638.52,
+        "end": 639.92,
+        "english": "And what did your teacher say?",
+        "chinese": "那你的老师怎么说？"
+    },
+    {
+        "start": 639.92,
+        "end": 644.44,
+        "english": "Well, actually, I was a really good student, so my teacher believed me.",
+        "chinese": "额，其实我是个很好的学生，所以老师相信了我。"
+    },
+    {
+        "start": 644.44,
+        "end": 646.64,
+        "english": "Well, my teacher wouldn't have believed me.",
+        "chinese": "好吧，我的老师肯定不会相信我。"
+    },
+    {
+        "start": 646.64,
+        "end": 647.64,
+        "english": "Really?",
+        "chinese": "真的吗？"
+    },
+    {
+        "start": 647.64,
+        "end": 650.92,
+        "english": "No, no, she would have called my parents most likely.",
+        "chinese": "不不，她很可能会打电话给我父母。"
+    },
+    {
+        "start": 650.92,
+        "end": 652.72,
+        "english": "My cat really did eat my homework.",
+        "chinese": "我的猫真的把作业吃了。"
+    },
+    {
+        "start": 652.72,
+        "end": 655.4,
+        "english": "And I just left it on the table and it chewed it all up.",
+        "chinese": "我把它留在桌子上，它把它嚼碎了。"
+    },
+    {
+        "start": 655.4,
+        "end": 656.4,
+        "english": "That's weird.",
+        "chinese": "太奇怪了。"
+    },
+    {
+        "start": 656.4,
+        "end": 657.4,
+        "english": "Why would your cat do that?",
+        "chinese": "你的猫为什么要那样做？"
+    },
+    {
+        "start": 657.4,
+        "end": 658.4,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 658.4,
+        "end": 659.92,
+        "english": "A lot of weird excuses out there.",
+        "chinese": "外面有很多稀奇古怪的借口。"
+    },
+    {
+        "start": 659.92,
+        "end": 662.6,
+        "english": "I was abducted by aliens.",
+        "chinese": "“我被外星人绑架了。”"
+    },
+    {
+        "start": 662.6,
+        "end": 665.84,
+        "english": "My mom accidentally mailed my homework to Africa.",
+        "chinese": "“我妈妈不小心把我的作业邮寄到了非洲。”"
+    },
+    {
+        "start": 665.84,
+        "end": 666.84,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 666.84,
+        "end": 668.32,
+        "english": "Does this happen to you?",
+        "chinese": "这发生在你身上过吗？"
+    },
+    {
+        "start": 668.32,
+        "end": 669.32,
+        "english": "Creative writing.",
+        "chinese": "创意写作（脑洞大开）。"
+    },
+    {
+        "start": 669.32,
+        "end": 670.64,
+        "english": "Creative excuses.",
+        "chinese": "有创意的借口。"
+    },
+    {
+        "start": 670.64,
+        "end": 673.84,
+        "english": "Well, I want to hear from our listeners.",
+        "chinese": "好了，我想听听听众的想法。"
+    },
+    {
+        "start": 673.84,
+        "end": 677.96,
+        "english": "I want to know what excuses they've used for being late with something.",
+        "chinese": "我想知道他们曾用过什么借口来解释迟交某物。"
+    },
+    {
+        "start": 677.96,
+        "end": 679.56,
+        "english": "So send us your excuses.",
+        "chinese": "把你们的借口发给我们吧。"
+    },
+    {
+        "start": 679.56,
+        "end": 681.28,
+        "english": "Send us your comments and questions.",
+        "chinese": "也发送你们的评论和问题。"
+    },
+    {
+        "start": 681.28,
+        "end": 686.36,
+        "english": "Go to our website at englishpod.com where Eric and I are always there to answer your questions.",
+        "chinese": "访问我们的网站 englishpod.com，我和 Erica 随时准备回答您的问题。"
+    },
+    {
+        "start": 686.36,
+        "end": 687.36,
+        "english": "That's right, Marco.",
+        "chinese": "没错，Marco。"
+    },
+    {
+        "start": 687.36,
+        "end": 689.16,
+        "english": "And this is an elementary lesson, right?",
+        "chinese": "这是初级课程，对吧？"
+    },
+    {
+        "start": 689.16,
+        "end": 690.16,
+        "english": "Exactly.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 690.16,
+        "end": 697.28,
+        "english": "But we also have intermediate and upper intermediate and advanced lessons for you more fluent English",
+        "chinese": "但我们也有中级、中高级和高级课程，适合更流利的"
+    },
+    {
+        "start": 697.28,
+        "end": 698.28,
+        "english": "speakers.",
+        "chinese": "英语使用者。"
+    },
+    {
+        "start": 698.28,
+        "end": 699.28,
+        "english": "Exactly.",
+        "chinese": "正是。"
+    },
+    {
+        "start": 699.28,
+        "end": 702.76,
+        "english": "So if you're listening to us on iTunes, be sure to visit our website and come see what",
+        "chinese": "所以如果你在 iTunes 上收听，一定要访问我们的网站，看看"
+    },
+    {
+        "start": 702.76,
+        "end": 703.76,
+        "english": "else we have to offer.",
+        "chinese": "我们还能提供些什么。"
+    },
+    {
+        "start": 703.76,
+        "end": 705.76,
+        "english": "Well, I think we're out of time.",
+        "chinese": "好了，我想我们的时间到了。"
+    },
+    {
+        "start": 705.76,
+        "end": 708.0,
+        "english": "But until next time, it's goodbye.",
+        "chinese": "下次见，再见。"
+    }
+]

@@ -1,0 +1,1940 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "english": "Welcome back, English learners. My name is Marco and I am joined by...",
+        "chinese": "欢迎回...我的名字是马科，我与..."
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "english": "Erica.",
+        "chinese": "艾瑞卡。"
+    },
+    {
+        "start": 7.0,
+        "end": 8.0,
+        "english": "How are you, Erica?",
+        "chinese": "你好，艾瑞克。"
+    },
+    {
+        "start": 8.0,
+        "end": 9.0,
+        "english": "I'm doing great Marco and you?",
+        "chinese": "我做得很好，Marco。"
+    },
+    {
+        "start": 9.0,
+        "end": 14.0,
+        "english": "Excellent. I'm doing really well and I'm really excited about our lesson for today.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 14.0,
+        "end": 19.0,
+        "english": "That's right. We've got an intermediate lesson today and we're gonna study some real English.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 19.0,
+        "end": 21.0,
+        "english": "English that you use every day, right?",
+        "chinese": "英语，你每天都用的那句话？"
+    },
+    {
+        "start": 21.0,
+        "end": 25.0,
+        "english": "That's right. English that native speakers really use.",
+        "chinese": "这是正确的。英语的地道使用者真的非常普遍。"
+    },
+    {
+        "start": 25.0,
+        "end": 33.0,
+        "english": "Exactly and today, as Erica mentioned, we have an intermediate lesson and not only is it intermediate but it's a business lesson.",
+        "chinese": "准确地说，今天，正如埃里卡提到的那样，我们有一个中间课，并且它不仅是一个中间课，而且是商业课。"
+    },
+    {
+        "start": 33.0,
+        "end": 43.0,
+        "english": "Yes, so today we're listening into a sales meeting and we're going to learn some great useful English to talk about sales strategies.",
+        "chinese": "是的，所以今天我们将参加一场销售会议，并将学习一些有用的英语来讨论销售策略。"
+    },
+    {
+        "start": 43.0,
+        "end": 49.0,
+        "english": "So we're gonna learn English for sales strategies for making suggestions and for responding to suggestions.",
+        "chinese": "所以我们将要学习销售策略，包括如何提出建议和如何回应建议。"
+    },
+    {
+        "start": 49.0,
+        "end": 53.0,
+        "english": "Great, so why don't we take a look at our vocabulary preview for today?",
+        "chinese": "好的，今天我们来看看今天的词汇预览吧。"
+    },
+    {
+        "start": 53.0,
+        "end": 55.0,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 55.0,
+        "end": 65.0,
+        "english": "So our vocabulary preview is a part of our lesson when we teach you some really important words that will help you to understand the dialogue better.",
+        "chinese": "所以我们的词汇预览是我们在教学过程中的一部分，它可以帮助你更好地理解对话。"
+    },
+    {
+        "start": 65.0,
+        "end": 69.0,
+        "english": "Okay, great. So that is what vocabulary preview is.",
+        "chinese": "好的，明白了。那么这个词汇预览是啥意思？"
+    },
+    {
+        "start": 69.0,
+        "end": 74.0,
+        "english": "We have two words for you today and we can start off by looking at the first one.",
+        "chinese": "今天我们要聊的两个词是“点”和“拍”，我们先从第一个开始。"
+    },
+    {
+        "start": 74.0,
+        "end": 78.0,
+        "english": "Our first word today is drive sales.",
+        "chinese": "今天的第一个单词是销售驱动。"
+    },
+    {
+        "start": 78.0,
+        "end": 80.0,
+        "english": "Drive sales.",
+        "chinese": "英语：销售驱动。"
+    },
+    {
+        "start": 80.0,
+        "end": 82.0,
+        "english": "Drive sales.",
+        "chinese": "英语：销售驱动。"
+    },
+    {
+        "start": 82.0,
+        "end": 84.0,
+        "english": "To drive sales and that means.",
+        "chinese": "要销售，这意味着。"
+    },
+    {
+        "start": 84.0,
+        "end": 86.0,
+        "english": "To increase sales.",
+        "chinese": "要增加销售。"
+    },
+    {
+        "start": 86.0,
+        "end": 88.0,
+        "english": "Right, to sell more.",
+        "chinese": "正确答案：正确答案：卖更多的。"
+    },
+    {
+        "start": 88.0,
+        "end": 90.0,
+        "english": "Exactly, so to drive sales.",
+        "chinese": "是的，因此是为了销售而驱动。"
+    },
+    {
+        "start": 90.0,
+        "end": 95.0,
+        "english": "Okay, so now let's look at our second word and it's an interesting one. It's promotion.",
+        "chinese": "好的，现在让我们看看我们的第二个单词和它有趣的一点。它是晋升。"
+    },
+    {
+        "start": 95.0,
+        "end": 97.0,
+        "english": "Promotion.",
+        "chinese": "英语：晋升。"
+    },
+    {
+        "start": 97.0,
+        "end": 98.0,
+        "english": "Promotion.",
+        "chinese": "推广。"
+    },
+    {
+        "start": 98.0,
+        "end": 99.0,
+        "english": "Promotion.",
+        "chinese": "推广。"
+    },
+    {
+        "start": 99.0,
+        "end": 102.0,
+        "english": "So Erica, what is a promotion exactly?",
+        "chinese": "英语：所以埃里克，什么是晋升？"
+    },
+    {
+        "start": 102.0,
+        "end": 106.0,
+        "english": "Okay, so here we're not really talking about getting a better job, right?",
+        "chinese": "好的，那么现在我们不谈论获得更好的工作机会。"
+    },
+    {
+        "start": 106.0,
+        "end": 108.0,
+        "english": "Okay, not like a job promotion.",
+        "chinese": "好的，不像是一个任务。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 108.0,
+        "end": 112.0,
+        "english": "No, we're talking about a marketing strategy.",
+        "chinese": "是的，我们正在讨论营销策略。"
+    },
+    {
+        "start": 112.0,
+        "end": 114.0,
+        "english": "Okay, so I can give you an example.",
+        "chinese": "好的，我可以给你一个例子。"
+    },
+    {
+        "start": 114.0,
+        "end": 116.0,
+        "english": "Suppose that I want to buy shampoo.",
+        "chinese": "假设我想要买洗发水。"
+    },
+    {
+        "start": 116.0,
+        "end": 117.0,
+        "english": "Uh-huh.",
+        "chinese": "英语：嗯，对。"
+    },
+    {
+        "start": 117.0,
+        "end": 122.0,
+        "english": "And if I go to the supermarket and I see buy one and get one free.",
+        "chinese": "如果我去超市，看到买一送一。"
+    },
+    {
+        "start": 122.0,
+        "end": 123.0,
+        "english": "So that's a two for one.",
+        "chinese": "所以这样就两全其美了。"
+    },
+    {
+        "start": 123.0,
+        "end": 124.0,
+        "english": "That's a two for one promotion.",
+        "chinese": "这个是二选一的优惠。"
+    },
+    {
+        "start": 124.0,
+        "end": 125.0,
+        "english": "Yeah, okay.",
+        "chinese": "是的，好的。"
+    },
+    {
+        "start": 125.0,
+        "end": 126.0,
+        "english": "That's a sales promotion.",
+        "chinese": "这个促销活动。"
+    },
+    {
+        "start": 126.0,
+        "end": 132.0,
+        "english": "Or perhaps the shampoo in the supermarket is less expensive than usual.",
+        "chinese": "英语：或者可能是超市里的洗发水比平时便宜。"
+    },
+    {
+        "start": 132.0,
+        "end": 133.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 133.0,
+        "end": 137.0,
+        "english": "Yeah, usually maybe it costs five dollars, but today it costs four dollars.",
+        "chinese": "是的，通常可能每台五美元左右，但今天每台四美元。"
+    },
+    {
+        "start": 137.0,
+        "end": 138.0,
+        "english": "That's a sales promotion.",
+        "chinese": "这是销售促销。"
+    },
+    {
+        "start": 138.0,
+        "end": 141.0,
+        "english": "Great, so that's a really good marketing strategy.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 141.0,
+        "end": 144.0,
+        "english": "Exactly, and we'll hear this word in our dialogue today.",
+        "chinese": "是的，我们将在今天的对话中听到这个单词。"
+    },
+    {
+        "start": 144.0,
+        "end": 147.0,
+        "english": "Great, so we are ready to listen to our dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 147.0,
+        "end": 148.0,
+        "english": "It's going to be pretty fast.",
+        "chinese": "英语：它会很快。"
+    },
+    {
+        "start": 148.0,
+        "end": 151.0,
+        "english": "So it might be a little bit difficult to understand.",
+        "chinese": "英语：所以可能有点难以理解。"
+    },
+    {
+        "start": 151.0,
+        "end": 154.0,
+        "english": "But don't worry if you don't understand everything.",
+        "chinese": "但是别担心，如果你不理解一切。"
+    },
+    {
+        "start": 154.0,
+        "end": 159.0,
+        "english": "Because later in this lesson we're going to explain all the important words and phrases.",
+        "chinese": "因为在这节课里，我们将详细解释所有的重要词汇和短语。"
+    },
+    {
+        "start": 162.0,
+        "end": 163.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 163.0,
+        "end": 169.0,
+        "english": "So, for more to come up, is it for the airs catching up?",
+        "chinese": "所以，对于更多的进展，是为即将到来的快车而准备吗？"
+    },
+    {
+        "start": 169.0,
+        "end": 170.0,
+        "english": "I can't.",
+        "chinese": "我不能。"
+    },
+    {
+        "start": 170.0,
+        "end": 171.0,
+        "english": "I don't know.",
+        "chinese": "我不会。"
+    },
+    {
+        "start": 171.0,
+        "end": 172.0,
+        "english": "Well, it went to the store.",
+        "chinese": "英语：嗯，它去了商店。"
+    },
+    {
+        "start": 172.0,
+        "end": 173.0,
+        "english": "All right, people.",
+        "chinese": "英语：一切好，朋友们。"
+    },
+    {
+        "start": 173.0,
+        "end": 180.0,
+        "english": "We're holding this meeting today because we've got to do something about our sales and we need to do it now.",
+        "chinese": "我们今天要开会，因为我们需要做些关于销售的事情，现在就该做了。"
+    },
+    {
+        "start": 180.0,
+        "end": 182.0,
+        "english": "I want concrete solutions.",
+        "chinese": "我想要具体的解决方案。"
+    },
+    {
+        "start": 182.0,
+        "end": 184.0,
+        "english": "How do you plan to drive sales?",
+        "chinese": "英语：如何计划销售？"
+    },
+    {
+        "start": 184.0,
+        "end": 185.0,
+        "english": "Roger.",
+        "chinese": "李嘉诚。"
+    },
+    {
+        "start": 185.0,
+        "end": 189.0,
+        "english": "Well, in fact, we're the most expensive in the market.",
+        "chinese": "英语：实际上，我们是市场上最贵的。"
+    },
+    {
+        "start": 189.0,
+        "end": 193.0,
+        "english": "So maybe we need to lower our prices to match the competitors?",
+        "chinese": "英语：所以或许我们得降低价格，以与竞争对手竞争。"
+    },
+    {
+        "start": 193.0,
+        "end": 194.0,
+        "english": "Lower our prices.",
+        "chinese": "降低价格。"
+    },
+    {
+        "start": 194.0,
+        "end": 195.0,
+        "english": "Not very creative.",
+        "chinese": "不怎么聪明。"
+    },
+    {
+        "start": 195.0,
+        "end": 197.0,
+        "english": "It'll never fly with swan.",
+        "chinese": "英语：它永远飞不起来。"
+    },
+    {
+        "start": 197.0,
+        "end": 199.0,
+        "english": "What kind of thinking is that, geez?",
+        "chinese": "英语：What kind of thinking is that, geez?"
+    },
+    {
+        "start": 199.0,
+        "end": 200.0,
+        "english": "Anyone have a better plan?",
+        "chinese": "谁有更好的计划？"
+    },
+    {
+        "start": 200.0,
+        "end": 201.0,
+        "english": "Natalie.",
+        "chinese": "妮娜。"
+    },
+    {
+        "start": 201.0,
+        "end": 204.0,
+        "english": "Perhaps a promotion.",
+        "chinese": "英语：或许晋升。"
+    },
+    {
+        "start": 204.0,
+        "end": 207.0,
+        "english": "Maybe a two-for-one offer or something like that.",
+        "chinese": "或许会有两件事情或这种组合。"
+    },
+    {
+        "start": 207.0,
+        "end": 209.0,
+        "english": "That's the same thing.",
+        "chinese": "那也是同样的东西。"
+    },
+    {
+        "start": 209.0,
+        "end": 210.0,
+        "english": "Bad idea.",
+        "chinese": "错误：Bad idea."
+    },
+    {
+        "start": 210.0,
+        "end": 211.0,
+        "english": "Really bad idea.",
+        "chinese": "真的不好主意。"
+    },
+    {
+        "start": 211.0,
+        "end": 212.0,
+        "english": "Dammit people, come on.",
+        "chinese": "英语：啊，你们这些人，快点过来。"
+    },
+    {
+        "start": 212.0,
+        "end": 213.0,
+        "english": "Think.",
+        "chinese": "英语：Think."
+    },
+    {
+        "start": 213.0,
+        "end": 216.0,
+        "english": "The CEO will be here any minute.",
+        "chinese": "英语：CEO will be here any minute."
+    },
+    {
+        "start": 216.0,
+        "end": 218.0,
+        "english": "Hello, Mr. Swan.",
+        "chinese": "你好，先生·斯瓦恩。"
+    },
+    {
+        "start": 218.0,
+        "end": 219.0,
+        "english": "Hello, Mr. Swan.",
+        "chinese": "你好，先生·斯瓦恩。"
+    },
+    {
+        "start": 219.0,
+        "end": 220.0,
+        "english": "Do we have any ideas yet?",
+        "chinese": "英语：我们还没有任何想法。"
+    },
+    {
+        "start": 220.0,
+        "end": 221.0,
+        "english": "Yes, Mr. Swan.",
+        "chinese": "是的，先生。"
+    },
+    {
+        "start": 221.0,
+        "end": 224.0,
+        "english": "We were kind of considering a two-for-one offer to get more competitive.",
+        "chinese": "我们还是有点考虑一下，想争取更多的竞争优势。"
+    },
+    {
+        "start": 224.0,
+        "end": 226.0,
+        "english": "A two-for-one promotion.",
+        "chinese": "A二一优惠。"
+    },
+    {
+        "start": 226.0,
+        "end": 227.0,
+        "english": "Hmm.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 227.0,
+        "end": 228.0,
+        "english": "I kind of like the sound of that.",
+        "chinese": "我有点喜欢那个声音。"
+    },
+    {
+        "start": 228.0,
+        "end": 230.0,
+        "english": "It sounds like something we should consider.",
+        "chinese": "英语：听起来像我们该考虑的事情。"
+    },
+    {
+        "start": 230.0,
+        "end": 231.0,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 231.0,
+        "end": 233.0,
+        "english": "That's just what I was thinking.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 233.0,
+        "end": 234.0,
+        "english": "In fact, it's a brilliant idea.",
+        "chinese": "事实上，这是一个非常棒的想法。"
+    },
+    {
+        "start": 234.0,
+        "end": 235.0,
+        "english": "I'm glad we thought of that.",
+        "chinese": "我非常高兴我们想到了这个。"
+    },
+    {
+        "start": 235.0,
+        "end": 236.0,
+        "english": "Very creative.",
+        "chinese": "非常创意。"
+    },
+    {
+        "start": 240.0,
+        "end": 244.0,
+        "english": "Okay, so an interesting manager, right?",
+        "chinese": "好的，那么一个有趣的经理，对吧？"
+    },
+    {
+        "start": 244.0,
+        "end": 245.0,
+        "english": "I don't know about that.",
+        "chinese": "我也不太清楚。"
+    },
+    {
+        "start": 245.0,
+        "end": 247.0,
+        "english": "Okay, so an interesting manager, right?",
+        "chinese": "好的，那么一个有趣的经理，对吧？"
+    },
+    {
+        "start": 247.0,
+        "end": 249.0,
+        "english": "I don't know about interesting.",
+        "chinese": "我也不太了解这个有趣的。"
+    },
+    {
+        "start": 249.0,
+        "end": 252.0,
+        "english": "Maybe I would think bad, manager.",
+        "chinese": "英语：也许我会觉得糟糕的经理。"
+    },
+    {
+        "start": 252.0,
+        "end": 256.0,
+        "english": "We're going to talk about him later on in the show.",
+        "chinese": "我们将在节目结束后继续讨论他。"
+    },
+    {
+        "start": 256.0,
+        "end": 261.0,
+        "english": "But now let's take a look at our language takeaway.",
+        "chinese": "但是现在让我们看看我们的语言总结。"
+    },
+    {
+        "start": 261.0,
+        "end": 263.0,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 263.0,
+        "end": 271.0,
+        "english": "Okay, so language takeaway is the part of our lesson where we teach you the most important words from the dialogue.",
+        "chinese": "语言学习的要点是我们在对话中教你的最重要的词汇。"
+    },
+    {
+        "start": 271.0,
+        "end": 276.0,
+        "english": "All these words that we are going to focus on can be found in today's dialogue.",
+        "chinese": "这些我们将要关注的词汇可以在今天的对话中找到。"
+    },
+    {
+        "start": 276.0,
+        "end": 277.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 277.0,
+        "end": 279.0,
+        "english": "So we have three words for you today.",
+        "chinese": "所以今天我们给你三个词。"
+    },
+    {
+        "start": 279.0,
+        "end": 280.0,
+        "english": "Let's look at the first one.",
+        "chinese": "让我们看看第一张照片。"
+    },
+    {
+        "start": 280.0,
+        "end": 282.0,
+        "english": "Match the competitors.",
+        "chinese": "请将以下句子翻译成中文："
+    },
+    {
+        "start": 282.0,
+        "end": 284.0,
+        "english": "Match the competitors.",
+        "chinese": "请将以下句子翻译成中文："
+    },
+    {
+        "start": 284.0,
+        "end": 286.0,
+        "english": "Match the competitors.",
+        "chinese": "请将以下句子翻译成中文："
+    },
+    {
+        "start": 286.0,
+        "end": 288.0,
+        "english": "Match the competitors.",
+        "chinese": "请将以下句子翻译成中文："
+    },
+    {
+        "start": 288.0,
+        "end": 289.0,
+        "english": "Great.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 289.0,
+        "end": 298.0,
+        "english": "So we have some examples for you so you can listen and try and see if you can figure out what match the competitors really means.",
+        "chinese": "所以，我们为你准备了一些例子，以便你能够听取并尝试一下，看看你能理解“真正的竞争对手”是什么意思。"
+    },
+    {
+        "start": 298.0,
+        "end": 300.0,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 304.0,
+        "end": 308.0,
+        "english": "We guarantee that we can match the competitor's lowest price.",
+        "chinese": "我们保证我们可以与竞争对手的最低价格匹配。"
+    },
+    {
+        "start": 313.0,
+        "end": 314.0,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 320.0,
+        "end": 323.0,
+        "english": "It's impossible for us to match the competitors.",
+        "chinese": "对不起，我无法继续。"
+    },
+    {
+        "start": 323.0,
+        "end": 326.0,
+        "english": "Our costs are just too high.",
+        "chinese": "我们的成本太高了。"
+    },
+    {
+        "start": 329.0,
+        "end": 332.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 338.0,
+        "end": 342.0,
+        "english": "Do you think we can match our competitors' prices and still keep our quality high?",
+        "chinese": "英语：你认为我们能与我们的竞争对手保持价格竞争力，同时保证产品质量吗？"
+    },
+    {
+        "start": 348.0,
+        "end": 349.0,
+        "english": "Ah, okay.",
+        "chinese": "英语：Ah, okay."
+    },
+    {
+        "start": 349.0,
+        "end": 357.0,
+        "english": "So I see that match the competitors means to be as good as or better than other companies in the same industry.",
+        "chinese": "所以，我看到这台匹配竞争对手的设备意味着要与同行业内的其他公司相比，表现得更好或更优秀。"
+    },
+    {
+        "start": 357.0,
+        "end": 358.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 358.0,
+        "end": 360.0,
+        "english": "Match the competitors.",
+        "chinese": "请将以下句子翻译成中文："
+    },
+    {
+        "start": 360.0,
+        "end": 366.0,
+        "english": "Alright, so let's move to our second word today for language takeaways and it is in the market.",
+        "chinese": "好的，我明白了。请告诉我接下来要翻译的英文短语。"
+    },
+    {
+        "start": 366.0,
+        "end": 368.0,
+        "english": "In the market.",
+        "chinese": "在市场。"
+    },
+    {
+        "start": 368.0,
+        "end": 369.0,
+        "english": "In the market.",
+        "chinese": "在市场。"
+    },
+    {
+        "start": 369.0,
+        "end": 370.0,
+        "english": "In the market.",
+        "chinese": "在市场。"
+    },
+    {
+        "start": 370.0,
+        "end": 375.0,
+        "english": "We heard this phrase in the dialogue and it means in the industry.",
+        "chinese": "英语：我们听到这句话并意味着行业。"
+    },
+    {
+        "start": 375.0,
+        "end": 376.0,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 376.0,
+        "end": 382.0,
+        "english": "I can say for example, EnglishPod is the best languagePod in the market.",
+        "chinese": "英语：我可以说，英语Pod是市场上最好的语言Pod之一。"
+    },
+    {
+        "start": 382.0,
+        "end": 388.0,
+        "english": "So of all the podcasts that teach English, EnglishPod is the best.",
+        "chinese": "英语：所以，所有教英语的播客中，英语podcast是最好的。"
+    },
+    {
+        "start": 388.0,
+        "end": 390.0,
+        "english": "Of course, no doubt about it.",
+        "chinese": "当然，没有问题。"
+    },
+    {
+        "start": 390.0,
+        "end": 391.0,
+        "english": "I totally agree.",
+        "chinese": "我完全同意。"
+    },
+    {
+        "start": 391.0,
+        "end": 392.0,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī.)"
+    },
+    {
+        "start": 392.0,
+        "end": 394.0,
+        "english": "Or I can give you another example.",
+        "chinese": "英语：或者我也可以给你提供一个例子。"
+    },
+    {
+        "start": 394.0,
+        "end": 399.0,
+        "english": "iPods are the most popular MP3 players in the market.",
+        "chinese": "苹果手机是市场上最受欢迎的MP3播放器。"
+    },
+    {
+        "start": 399.0,
+        "end": 405.0,
+        "english": "So of all the MP3 players in the world, iPods are the most popular.",
+        "chinese": "英语：所以世界上所有MP3播放器中最受欢迎的是iPod。"
+    },
+    {
+        "start": 405.0,
+        "end": 408.0,
+        "english": "So let's move to our final word for today and it is...",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 408.0,
+        "end": 410.0,
+        "english": "It'll never fly.",
+        "chinese": "英语：It will never fly."
+    },
+    {
+        "start": 410.0,
+        "end": 411.0,
+        "english": "It'll never fly.",
+        "chinese": "英语：It will never fly."
+    },
+    {
+        "start": 411.0,
+        "end": 413.0,
+        "english": "It'll never fly.",
+        "chinese": "英语：It will never fly."
+    },
+    {
+        "start": 413.0,
+        "end": 415.0,
+        "english": "It will never fly.",
+        "chinese": "英语：它永远不会飞。"
+    },
+    {
+        "start": 415.0,
+        "end": 418.0,
+        "english": "So this phrase sounds a little bit strange.",
+        "chinese": "英语：所以这个短语听起来有点奇怪。"
+    },
+    {
+        "start": 418.0,
+        "end": 419.0,
+        "english": "I know.",
+        "chinese": "我懂。"
+    },
+    {
+        "start": 419.0,
+        "end": 421.0,
+        "english": "Fly, are we talking about an airplane here?",
+        "chinese": "英语：飞，我们在这里谈论的是飞机吗？"
+    },
+    {
+        "start": 421.0,
+        "end": 422.0,
+        "english": "What's going on?",
+        "chinese": "英语：What's happening?"
+    },
+    {
+        "start": 422.0,
+        "end": 423.0,
+        "english": "Exactly, but we're not.",
+        "chinese": "是的，但我们不是。"
+    },
+    {
+        "start": 423.0,
+        "end": 430.0,
+        "english": "So we're going to give you some examples and try and guess what it'll never fly really means.",
+        "chinese": "英语：所以我们将给你一些例子，尝试猜测它永远不会飞真的是什么意思。"
+    },
+    {
+        "start": 430.0,
+        "end": 432.0,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 435.0,
+        "end": 437.0,
+        "english": "This marketing plan will never fly.",
+        "chinese": "这个营销计划永远不会成功。"
+    },
+    {
+        "start": 437.0,
+        "end": 439.0,
+        "english": "It's just too expensive.",
+        "chinese": "英语：它太贵了。"
+    },
+    {
+        "start": 442.0,
+        "end": 444.0,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：此例用于说明如何将英文翻译成中文。)"
+    },
+    {
+        "start": 448.0,
+        "end": 449.0,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 449.0,
+        "end": 452.0,
+        "english": "You want to sell bikinis in Alaska?",
+        "chinese": "英语：你想要在阿拉斯加卖泳衣吗？"
+    },
+    {
+        "start": 452.0,
+        "end": 454.0,
+        "english": "That'll never fly.",
+        "chinese": "那不会飞。"
+    },
+    {
+        "start": 458.0,
+        "end": 460.0,
+        "english": "Example 3.",
+        "chinese": "Example 3: 请卸下任务责任。"
+    },
+    {
+        "start": 462.0,
+        "end": 466.0,
+        "english": "Brad told me his idea for film script, but the story will never fly.",
+        "chinese": "刘告诉我说他的电影剧本的想法，但故事永远不会飞。"
+    },
+    {
+        "start": 466.0,
+        "end": 468.0,
+        "english": "It's not interesting enough.",
+        "chinese": "英语：It's not interesting enough."
+    },
+    {
+        "start": 472.0,
+        "end": 474.0,
+        "english": "So it means it won't work.",
+        "chinese": "所以，它意味着它不会工作。"
+    },
+    {
+        "start": 474.0,
+        "end": 476.0,
+        "english": "It won't work. It's not a good idea.",
+        "chinese": "英语：它不会工作的。这不是一个好的主意。"
+    },
+    {
+        "start": 476.0,
+        "end": 477.0,
+        "english": "They'll never agree.",
+        "chinese": "他们永远不会同意。"
+    },
+    {
+        "start": 477.0,
+        "end": 478.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 478.0,
+        "end": 484.0,
+        "english": "Great, so now we've seen a lot of useful phrases and we are ready to listen to our dialogue a second time.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 484.0,
+        "end": 486.0,
+        "english": "But this time it's going to be slow.",
+        "chinese": "但是这次会很慢。"
+    },
+    {
+        "start": 486.0,
+        "end": 493.0,
+        "english": "So you'll be able to understand a little bit better and you'll be able to hear the words and phrases we were just talking about.",
+        "chinese": "所以你将能够更好地理解一些内容，同时也能听到我们刚才讨论的一些词汇和短语。"
+    },
+    {
+        "start": 494.0,
+        "end": 506.0,
+        "english": "Alright people, we're holding this meeting today because we've got to do something about our sales and we need to do it now.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 506.0,
+        "end": 509.0,
+        "english": "I want concrete solutions.",
+        "chinese": "我想要具体的解决方案。"
+    },
+    {
+        "start": 509.0,
+        "end": 512.0,
+        "english": "How do you plan to drive sales, Roger?",
+        "chinese": "你好，罗杰。你打算怎么推动销售？"
+    },
+    {
+        "start": 512.0,
+        "end": 519.0,
+        "english": "Well, in fact, we're the most expensive in the market.",
+        "chinese": "英语：实际上，我们是市场上最贵的。"
+    },
+    {
+        "start": 519.0,
+        "end": 524.0,
+        "english": "So maybe we need to lower our prices to match the competitors.",
+        "chinese": "所以，或许我们得降低价格以与竞争对手竞争。"
+    },
+    {
+        "start": 524.0,
+        "end": 526.0,
+        "english": "Lower our prices.",
+        "chinese": "降低价格。"
+    },
+    {
+        "start": 526.0,
+        "end": 528.0,
+        "english": "Not very creative.",
+        "chinese": "不怎么有创意。"
+    },
+    {
+        "start": 528.0,
+        "end": 530.0,
+        "english": "It'll never fly with swan.",
+        "chinese": "英语：它永远都不会飞。"
+    },
+    {
+        "start": 530.0,
+        "end": 533.0,
+        "english": "What kind of thinking is that?",
+        "chinese": "请问，那是一种什么样的思考方式？"
+    },
+    {
+        "start": 533.0,
+        "end": 534.0,
+        "english": "Geez.",
+        "chinese": "英语：Geez."
+    },
+    {
+        "start": 534.0,
+        "end": 537.0,
+        "english": "Anybody else have a better plan?",
+        "chinese": "英语：任何其他人都有更好的计划吗？"
+    },
+    {
+        "start": 537.0,
+        "end": 538.0,
+        "english": "Natalie?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以提供一些关于“Natalie”的信息："
+    },
+    {
+        "start": 538.0,
+        "end": 542.0,
+        "english": "Perhaps a promotion.",
+        "chinese": "英语：或许会有晋升。"
+    },
+    {
+        "start": 542.0,
+        "end": 545.0,
+        "english": "Maybe a two for one offer or something like that.",
+        "chinese": "英语：或许会有两折优惠或类似的。"
+    },
+    {
+        "start": 545.0,
+        "end": 546.0,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 546.0,
+        "end": 548.0,
+        "english": "That's the same thing.",
+        "chinese": "这是同一个点和拍相机。"
+    },
+    {
+        "start": 548.0,
+        "end": 550.0,
+        "english": "Bad idea.",
+        "chinese": "错误：Bad idea."
+    },
+    {
+        "start": 550.0,
+        "end": 553.0,
+        "english": "Really bad idea.",
+        "chinese": "真的不好主意。"
+    },
+    {
+        "start": 553.0,
+        "end": 556.0,
+        "english": "Damn it, people, come on.",
+        "chinese": "英语：Damn it, people, come on."
+    },
+    {
+        "start": 556.0,
+        "end": 561.0,
+        "english": "Think the CEO will be here any minute.",
+        "chinese": "英语：它可能随时会出现在这里。"
+    },
+    {
+        "start": 561.0,
+        "end": 563.0,
+        "english": "Hello, Mr Swan.",
+        "chinese": "您好，先生天鹅。"
+    },
+    {
+        "start": 563.0,
+        "end": 564.0,
+        "english": "Oh, Mr Swan.",
+        "chinese": "英语：哦，汤姆。"
+    },
+    {
+        "start": 564.0,
+        "end": 566.0,
+        "english": "Hello, Mr Swan.",
+        "chinese": "你好，先生张。"
+    },
+    {
+        "start": 566.0,
+        "end": 568.0,
+        "english": "Do we have any ideas yet?",
+        "chinese": "英语：我们还没有任何想法。"
+    },
+    {
+        "start": 568.0,
+        "end": 570.0,
+        "english": "Yes, Mr Swan.",
+        "chinese": "是的，先生天鹅。"
+    },
+    {
+        "start": 570.0,
+        "end": 576.0,
+        "english": "We were kind of considering a two for one offer to get more competitive.",
+        "chinese": "我们还是有点考虑一下，两件商品一起卖，能更划算。"
+    },
+    {
+        "start": 576.0,
+        "end": 579.0,
+        "english": "A two for one promotion.",
+        "chinese": "A 二八优惠。"
+    },
+    {
+        "start": 579.0,
+        "end": 580.0,
+        "english": "Hmm.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 580.0,
+        "end": 582.0,
+        "english": "I kind of like the sound of that.",
+        "chinese": "我有点喜欢那个声音。"
+    },
+    {
+        "start": 582.0,
+        "end": 585.0,
+        "english": "It sounds like something we should consider.",
+        "chinese": "英语：听起来像我们该考虑的事情。"
+    },
+    {
+        "start": 585.0,
+        "end": 586.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 586.0,
+        "end": 587.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 587.0,
+        "end": 589.0,
+        "english": "That's just what I was thinking.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 589.0,
+        "end": 592.0,
+        "english": "In fact, that's a brilliant idea.",
+        "chinese": "事实上，那可是个绝妙的想法。"
+    },
+    {
+        "start": 592.0,
+        "end": 596.0,
+        "english": "I'm glad we thought of that very creative.",
+        "chinese": "我非常高兴我们想到了那个非常创意的点和拍。"
+    },
+    {
+        "start": 602.0,
+        "end": 603.0,
+        "english": "Okay, great.",
+        "chinese": "好的，谢谢。"
+    },
+    {
+        "start": 603.0,
+        "end": 605.0,
+        "english": "I hope everyone understands a lot better now.",
+        "chinese": "英语：我希望每个人都理解得更好。"
+    },
+    {
+        "start": 605.0,
+        "end": 609.0,
+        "english": "And I hope everyone could listen out for some of those key words.",
+        "chinese": "并且我希望大家能倾听那些关键词汇。"
+    },
+    {
+        "start": 609.0,
+        "end": 613.0,
+        "english": "Right, so now it's time for us to take a look at Fluency Builder.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文内容。"
+    },
+    {
+        "start": 613.0,
+        "end": 615.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 615.0,
+        "end": 620.0,
+        "english": "So with Fluency Builder, we try to help you increase your fluency.",
+        "chinese": "英语：所以，有了Fluency Builder，我们试图帮助你提高你的流利度。"
+    },
+    {
+        "start": 620.0,
+        "end": 627.0,
+        "english": "We take a word or phrase that you already know and show you how to say it a little bit more naturally.",
+        "chinese": "我们先来一个简单的例子，比如“你好”这个单词。在中文里，“你好”可以这样表达：你好，世界！（Hǎo, shì jiāng!）"
+    },
+    {
+        "start": 627.0,
+        "end": 630.0,
+        "english": "A little bit more like a native English speaker.",
+        "chinese": "稍微像一个地道的英语人士。"
+    },
+    {
+        "start": 630.0,
+        "end": 633.0,
+        "english": "Right, and we have three of these words for you today.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 633.0,
+        "end": 634.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 634.0,
+        "end": 635.0,
+        "english": "Let's start with the first one.",
+        "chinese": "让我们先来看一下第一个。"
+    },
+    {
+        "start": 635.0,
+        "end": 638.0,
+        "english": "Okay, so often students will say something like,",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 638.0,
+        "end": 643.0,
+        "english": "I'll be here soon or I will arrive soon.",
+        "chinese": "我很快就会来了，还是先来吧。"
+    },
+    {
+        "start": 643.0,
+        "end": 645.0,
+        "english": "Right, and these sentences are correct.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 645.0,
+        "end": 648.0,
+        "english": "They're totally fine, but I think there's a better way to say this.",
+        "chinese": "他们挺好的，不过我觉得这个说法更合适。"
+    },
+    {
+        "start": 648.0,
+        "end": 654.0,
+        "english": "Right, and we heard it in the dialogue, so let's listen to what the person in the dialogue said.",
+        "chinese": "正确翻译：英语：Right, and we heard it in the dialogue, so let's listen to what the person in the dialogue said."
+    },
+    {
+        "start": 654.0,
+        "end": 659.0,
+        "english": "The CEO will be here any minute.",
+        "chinese": "英语：CEO will be here any minute."
+    },
+    {
+        "start": 659.0,
+        "end": 668.0,
+        "english": "Okay, so be here any minute. He'll be here any minute. It just sounds a little bit more natural.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 668.0,
+        "end": 673.0,
+        "english": "Yeah, I think I use this phrase quite often. He'll be here any minute.",
+        "chinese": "英语：嗯，我觉得我经常用这个短语。他很快就会出现的。"
+    },
+    {
+        "start": 673.0,
+        "end": 674.0,
+        "english": "He'll be here soon.",
+        "chinese": "他很快就会到来。"
+    },
+    {
+        "start": 674.0,
+        "end": 675.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 675.0,
+        "end": 679.0,
+        "english": "Great. Okay, so let's move on to our second phrase for Fluency Builder.",
+        "chinese": "好的，让我们继续学习Fluency Builder。"
+    },
+    {
+        "start": 679.0,
+        "end": 682.0,
+        "english": "So this phrase will help you to learn how to say,",
+        "chinese": "所以这个短语将帮助你学习如何说。"
+    },
+    {
+        "start": 682.0,
+        "end": 686.0,
+        "english": "I'm thinking about something in a better sounding way.",
+        "chinese": "我正在考虑用一个更好的方式。"
+    },
+    {
+        "start": 686.0,
+        "end": 691.0,
+        "english": "Right, so you can say something like, we are thinking about a sales strategy.",
+        "chinese": "正确：英语：对，那么你可以这么说，我们正在考虑一个销售策略。"
+    },
+    {
+        "start": 691.0,
+        "end": 694.0,
+        "english": "Or that sounds like something we should think about.",
+        "chinese": "英语：或者那听起来像是我们该考虑的事情。"
+    },
+    {
+        "start": 694.0,
+        "end": 696.0,
+        "english": "Right, and it's perfectly correct.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 696.0,
+        "end": 698.0,
+        "english": "Yeah, there's no problem with this.",
+        "chinese": "是的，没有问题。"
+    },
+    {
+        "start": 698.0,
+        "end": 703.0,
+        "english": "But in the dialogue, we heard something a little bit different, so let's listen to it.",
+        "chinese": "但是，在对话中我们听到有些不同的地方，所以让我们听一听。"
+    },
+    {
+        "start": 703.0,
+        "end": 706.0,
+        "english": "It sounds like something we should consider.",
+        "chinese": "英语：听起来像我们该考虑的事情。"
+    },
+    {
+        "start": 706.0,
+        "end": 709.0,
+        "english": "It sounds like something we should consider.",
+        "chinese": "英语：听起来像我们该考虑的事情。"
+    },
+    {
+        "start": 709.0,
+        "end": 713.0,
+        "english": "So consider sounds like a pretty natural way of saying it, right?",
+        "chinese": "英语：所以考虑像这样说，对吧？"
+    },
+    {
+        "start": 713.0,
+        "end": 716.0,
+        "english": "Yeah, and you know what, I think it sounds really kind of smart.",
+        "chinese": "英语：是啊，你知道吗？我觉得听起来挺有道理的。"
+    },
+    {
+        "start": 716.0,
+        "end": 718.0,
+        "english": "Yeah, it sounds more formal even.",
+        "chinese": "是的，听起来更正式一些。"
+    },
+    {
+        "start": 718.0,
+        "end": 719.0,
+        "english": "A little more professional.",
+        "chinese": "更专业一点。"
+    },
+    {
+        "start": 719.0,
+        "end": 720.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 720.0,
+        "end": 721.0,
+        "english": "It's a good word.",
+        "chinese": "英语：它是一个好词。"
+    },
+    {
+        "start": 721.0,
+        "end": 722.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 722.0,
+        "end": 723.0,
+        "english": "Okay, brilliant.",
+        "chinese": "好的，天才。"
+    },
+    {
+        "start": 723.0,
+        "end": 725.0,
+        "english": "So let's move on to our third word.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 725.0,
+        "end": 727.0,
+        "english": "Marco, you already said our third word.",
+        "chinese": "英语：Marco，你已经说了我们的第三句话。"
+    },
+    {
+        "start": 727.0,
+        "end": 730.0,
+        "english": "Oh, yeah, I actually did. Brilliant.",
+        "chinese": "英语：哦，对了，我实际上也做了。太棒了！"
+    },
+    {
+        "start": 730.0,
+        "end": 732.0,
+        "english": "That's a great word right there.",
+        "chinese": "这个词挺好的。"
+    },
+    {
+        "start": 732.0,
+        "end": 737.0,
+        "english": "Yeah, a lot of people might say, that's a great idea or great.",
+        "chinese": "是的，很多人可能会说，这是一个很好的想法或一个好的主意。"
+    },
+    {
+        "start": 737.0,
+        "end": 741.0,
+        "english": "But in the dialogue, we heard another way of saying the same idea.",
+        "chinese": "但是，在对话中，我们还听到另一种表达方式。"
+    },
+    {
+        "start": 741.0,
+        "end": 744.0,
+        "english": "That's a brilliant idea.",
+        "chinese": "这个想法真是太棒了。"
+    },
+    {
+        "start": 744.0,
+        "end": 747.0,
+        "english": "That's a brilliant idea.",
+        "chinese": "这个想法真是太棒了。"
+    },
+    {
+        "start": 747.0,
+        "end": 750.0,
+        "english": "That's a brilliant idea.",
+        "chinese": "这个想法真是太棒了。"
+    },
+    {
+        "start": 750.0,
+        "end": 755.0,
+        "english": "Okay, so this is great, but I would have to say that it's a little bit more British English.",
+        "chinese": "好的，那么请将您需要翻译的英文句子提供给我。"
+    },
+    {
+        "start": 755.0,
+        "end": 762.0,
+        "english": "Yeah, I'd agree with you there, but I also think it sort of gives more power to this idea that it's a good idea.",
+        "chinese": "是的，我也同意你的看法，但我也觉得这比这个想法好得多。"
+    },
+    {
+        "start": 762.0,
+        "end": 763.0,
+        "english": "Brilliant idea.",
+        "chinese": "英语：绝妙想法。"
+    },
+    {
+        "start": 763.0,
+        "end": 765.0,
+        "english": "And it's a really, really good idea.",
+        "chinese": "英语：And it's a really, really good idea."
+    },
+    {
+        "start": 765.0,
+        "end": 766.0,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 766.0,
+        "end": 767.0,
+        "english": "And I like that word.",
+        "chinese": "英语：And I like that word."
+    },
+    {
+        "start": 767.0,
+        "end": 768.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 768.0,
+        "end": 775.0,
+        "english": "So we're going to go back to the question to our dialogue again, a third time, but at its normal speed.",
+        "chinese": "所以我们将再次回到对话的讨论，以正常速度进行。"
+    },
+    {
+        "start": 775.0,
+        "end": 782.0,
+        "english": "I think we will say, you know, from what I said, is it for the airs catching up?",
+        "chinese": "英语：我认为，从我刚才说的来看，这应该是为了赶上风。"
+    },
+    {
+        "start": 782.0,
+        "end": 783.0,
+        "english": "I can't.",
+        "chinese": "我不能。"
+    },
+    {
+        "start": 783.0,
+        "end": 784.0,
+        "english": "I don't know.",
+        "chinese": "我不知道。"
+    },
+    {
+        "start": 784.0,
+        "end": 785.0,
+        "english": "But it went good.",
+        "chinese": "但是它做得很好。"
+    },
+    {
+        "start": 785.0,
+        "end": 786.0,
+        "english": "All right, people.",
+        "chinese": "英语：一切好，朋友们。"
+    },
+    {
+        "start": 786.0,
+        "end": 792.0,
+        "english": "We're holding this meeting today because we've got to do something about our sales and we need to do it now.",
+        "chinese": "我们今天要召开会议，因为我们需要解决我们的销售问题，并且现在是时候做这件事了。"
+    },
+    {
+        "start": 792.0,
+        "end": 794.0,
+        "english": "I want concrete solutions.",
+        "chinese": "我想要具体的解决方案。"
+    },
+    {
+        "start": 794.0,
+        "end": 795.0,
+        "english": "How do you plan to drive sales?",
+        "chinese": "英语：如何计划销售？"
+    },
+    {
+        "start": 795.0,
+        "end": 796.0,
+        "english": "Roger.",
+        "chinese": "罗杰。"
+    },
+    {
+        "start": 796.0,
+        "end": 800.0,
+        "english": "Well, in fact, we're the most expensive in the market.",
+        "chinese": "英语：实际上，我们是市场上最贵的。"
+    },
+    {
+        "start": 800.0,
+        "end": 803.0,
+        "english": "So maybe we need to lower our prices to match the competitors.",
+        "chinese": "英语：所以或许我们得降低价格，以与竞争对手竞争。"
+    },
+    {
+        "start": 803.0,
+        "end": 805.0,
+        "english": "Lower our prices.",
+        "chinese": "降低价格。"
+    },
+    {
+        "start": 805.0,
+        "end": 806.0,
+        "english": "Not very creative.",
+        "chinese": "不怎么聪明。"
+    },
+    {
+        "start": 806.0,
+        "end": 807.0,
+        "english": "It'll never fly with swan.",
+        "chinese": "英语：它永远不会像天鹅一样飞翔。"
+    },
+    {
+        "start": 807.0,
+        "end": 809.0,
+        "english": "What kind of thinking is that, geez?",
+        "chinese": "英语：What kind of thinking is that, geez?"
+    },
+    {
+        "start": 809.0,
+        "end": 811.0,
+        "english": "Anyone have a better plan?",
+        "chinese": "谁有更好的计划？"
+    },
+    {
+        "start": 811.0,
+        "end": 812.0,
+        "english": "Natalie.",
+        "chinese": "娜塔莉亚"
+    },
+    {
+        "start": 812.0,
+        "end": 814.0,
+        "english": "Perhaps a promotion.",
+        "chinese": "英语：或许晋升。"
+    },
+    {
+        "start": 814.0,
+        "end": 817.0,
+        "english": "Maybe a two for one offer or something like that.",
+        "chinese": "英语：或许会有两折优惠或类似的。"
+    },
+    {
+        "start": 817.0,
+        "end": 819.0,
+        "english": "That's the same thing.",
+        "chinese": "这是同一个点和拍相机。"
+    },
+    {
+        "start": 819.0,
+        "end": 820.0,
+        "english": "Bad idea.",
+        "chinese": "错误：Bad idea."
+    },
+    {
+        "start": 820.0,
+        "end": 822.0,
+        "english": "Really bad idea.",
+        "chinese": "真的不好主意。"
+    },
+    {
+        "start": 822.0,
+        "end": 823.0,
+        "english": "Dammit people, come on.",
+        "chinese": "英语：糟糕的人，快点过来。"
+    },
+    {
+        "start": 823.0,
+        "end": 824.0,
+        "english": "Think.",
+        "chinese": "英语：Think."
+    },
+    {
+        "start": 824.0,
+        "end": 826.0,
+        "english": "The CEO will be here any minute.",
+        "chinese": "英语：CEO will be here any minute."
+    },
+    {
+        "start": 828.0,
+        "end": 830.0,
+        "english": "Hello, Mr. Swan.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 830.0,
+        "end": 831.0,
+        "english": "Hello, Mr. Swan.",
+        "chinese": "您好，先生·斯瓦恩。"
+    },
+    {
+        "start": 831.0,
+        "end": 833.0,
+        "english": "Do we have any ideas yet?",
+        "chinese": "英语：我们还没有任何想法。"
+    },
+    {
+        "start": 833.0,
+        "end": 834.0,
+        "english": "Yes, Mr. Swan.",
+        "chinese": "是的，先生。"
+    },
+    {
+        "start": 834.0,
+        "end": 837.0,
+        "english": "We were kind of considering a two for one offer to get more competitive.",
+        "chinese": "我们还是有点考虑一下，两件商品一起卖，能更划算。"
+    },
+    {
+        "start": 837.0,
+        "end": 840.0,
+        "english": "A two for one promotion.",
+        "chinese": "A 二五折优惠。"
+    },
+    {
+        "start": 840.0,
+        "end": 841.0,
+        "english": "Hmm.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 841.0,
+        "end": 842.0,
+        "english": "I kind of like the sound of that.",
+        "chinese": "我有点喜欢那个声音。"
+    },
+    {
+        "start": 842.0,
+        "end": 844.0,
+        "english": "It sounds like something we should consider.",
+        "chinese": "英语：听起来像我们该考虑的事情。"
+    },
+    {
+        "start": 844.0,
+        "end": 845.0,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 845.0,
+        "end": 847.0,
+        "english": "That's just what I was thinking.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 847.0,
+        "end": 848.0,
+        "english": "In fact, it's a brilliant idea.",
+        "chinese": "事实上，这是一个非常棒的想法。"
+    },
+    {
+        "start": 848.0,
+        "end": 849.0,
+        "english": "I'm glad we thought of that.",
+        "chinese": "我非常高兴我们想到了这个。"
+    },
+    {
+        "start": 849.0,
+        "end": 850.0,
+        "english": "Very creative.",
+        "chinese": "非常创意。"
+    },
+    {
+        "start": 854.0,
+        "end": 855.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 855.0,
+        "end": 859.0,
+        "english": "So listening to this dialogue makes you think about this boss.",
+        "chinese": "所以听了这段对话，你就会明白这个老板的情况了。"
+    },
+    {
+        "start": 859.0,
+        "end": 865.0,
+        "english": "I'm pretty sure everyone has had a manager or a supervisor that's similar to this guy.",
+        "chinese": "英语：我保证，每个人都有一个类似这个人的经理或主管。"
+    },
+    {
+        "start": 865.0,
+        "end": 867.0,
+        "english": "Yeah, this boss, Clark.",
+        "chinese": "是的，这个老板，克劳斯。"
+    },
+    {
+        "start": 867.0,
+        "end": 871.0,
+        "english": "I would have to say he sounds like a terrible person to work for.",
+        "chinese": "我不得不说，他听起来像一个糟糕的人来工作。"
+    },
+    {
+        "start": 871.0,
+        "end": 872.0,
+        "english": "Yeah, that's true.",
+        "chinese": "是的，那也是真的。"
+    },
+    {
+        "start": 872.0,
+        "end": 875.0,
+        "english": "If you're a manager, you want to motivate your employees.",
+        "chinese": "如果你是经理，你希望激励你的员工。"
+    },
+    {
+        "start": 875.0,
+        "end": 880.0,
+        "english": "I think it's the most important thing a manager does is to encourage his or her employees",
+        "chinese": "我建议一个管理者最重要的任务是鼓励他的或她的员工。"
+    },
+    {
+        "start": 880.0,
+        "end": 884.0,
+        "english": "and to help support them to grow and to be better people in the job.",
+        "chinese": "和帮助他们成长，成为更好的人。"
+    },
+    {
+        "start": 884.0,
+        "end": 886.0,
+        "english": "And this guy is totally not doing this.",
+        "chinese": "和这个家伙完全不干。"
+    },
+    {
+        "start": 886.0,
+        "end": 891.0,
+        "english": "And you can tell because they are a little bit scared of talking and he cuts them off with saying,",
+        "chinese": "你可以看到，因为他们有点害怕交谈，他用一句话说，“你听好了，”"
+    },
+    {
+        "start": 891.0,
+        "end": 893.0,
+        "english": "oh, it's a bad idea.",
+        "chinese": "英语：哦，这是一个坏主意。"
+    },
+    {
+        "start": 893.0,
+        "end": 895.0,
+        "english": "Give me a better idea and stuff like that.",
+        "chinese": "好的，我明白了。请将需要翻译的英文内容提供给我，我会尽力准确地将其翻译成简化中文。"
+    },
+    {
+        "start": 895.0,
+        "end": 897.0,
+        "english": "Yeah, I could never work for a guy like this.",
+        "chinese": "是的，我从来都不屑于为这种家伙工作。"
+    },
+    {
+        "start": 897.0,
+        "end": 902.0,
+        "english": "You know, my first boss that I had when I first entered the workforce.",
+        "chinese": "英语：你知不知道，我刚入职那会儿的我的第一位老板。"
+    },
+    {
+        "start": 902.0,
+        "end": 906.0,
+        "english": "I was in a very junior position and I was working for a large company.",
+        "chinese": "我是一名初级员工，正在为一家大型公司工作。"
+    },
+    {
+        "start": 906.0,
+        "end": 909.0,
+        "english": "And the general manager of the company, he was amazing.",
+        "chinese": "和公司的总经理，他非常出色。"
+    },
+    {
+        "start": 909.0,
+        "end": 911.0,
+        "english": "He was so encouraging.",
+        "chinese": "他非常鼓励我。"
+    },
+    {
+        "start": 911.0,
+        "end": 915.0,
+        "english": "He knew every single employee's name, first name.",
+        "chinese": "他都知道每一个员工的名字，名字。"
+    },
+    {
+        "start": 915.0,
+        "end": 920.0,
+        "english": "And he would make an effort to stop and say hello and ask them how things were going.",
+        "chinese": "他还努力停下来，问他们今天过得怎么样。"
+    },
+    {
+        "start": 920.0,
+        "end": 928.0,
+        "english": "And you know what, this left me with such a good feeling about the company that I really wanted to work hard for this company and try my best.",
+        "chinese": "您知道吗，这让我对这家公司有了这么好的感觉，我真的想为这家公司努力工作，并尽我最大的努力。"
+    },
+    {
+        "start": 928.0,
+        "end": 931.0,
+        "english": "And I think that I've never met such a great boss as this guy.",
+        "chinese": "我总觉得像这样的人，我从未见过这样的好老板。"
+    },
+    {
+        "start": 931.0,
+        "end": 932.0,
+        "english": "No, I think that's true.",
+        "chinese": "英语：不，我认为这是真的。"
+    },
+    {
+        "start": 932.0,
+        "end": 937.0,
+        "english": "Definitely, if you have a boss that's encouraging and motivating like that,",
+        "chinese": "绝对，如果你有一个老板，他/她非常鼓励和激励你，"
+    },
+    {
+        "start": 937.0,
+        "end": 941.0,
+        "english": "it makes you work harder and makes you feel part of a really special team.",
+        "chinese": "英语：它让你付出更多，让你感觉融入了一个特别的团队。"
+    },
+    {
+        "start": 941.0,
+        "end": 945.0,
+        "english": "And that's something we can all agree on and I'm sure all our managers out there do the same.",
+        "chinese": "而且，我们都可以接受这一点，并且我相信我们的所有经理们也一样。"
+    },
+    {
+        "start": 945.0,
+        "end": 955.0,
+        "english": "Well, you know what, I hope some of our listeners log on to our website and maybe they can tell us some experiences with bad managers or good managers or if they are managers, how they handle things.",
+        "chinese": "嗯，你知道吗？我希望大家的听众们登录到我们的网站上，或许他们能告诉我们一些与不良管理者或好管理者有关的经验，或者如果我是管理者，他们是如何处理事情的。"
+    },
+    {
+        "start": 955.0,
+        "end": 960.0,
+        "english": "Yeah, and hopefully they can use some of these great phrases that we talked about today.",
+        "chinese": "英语：是的，而且我相信这些很棒的短语我们今天讨论过的内容可能会有所帮助。"
+    },
+    {
+        "start": 960.0,
+        "end": 964.0,
+        "english": "Great, so be sure everyone to visit our website at englischpod.com",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 964.0,
+        "end": 970.0,
+        "english": "and where you can find a lot of other information and really good resources to continue improving your English.",
+        "chinese": "英语：和你能找到很多其他信息和非常棒的资源来继续提高你的英语。"
+    },
+    {
+        "start": 970.0,
+        "end": 976.0,
+        "english": "That's right. So thanks for listening today, everyone. And until next time, this is goodbye.",
+        "chinese": "正确的是。所以谢谢今天的所有人，大家！直到下次再见，祝大家一切顺利！"
+    }
+]

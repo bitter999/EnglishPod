@@ -1,0 +1,698 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.32,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.32,
+        "end": 7.44,
+        "english": "My name is Catherine and we're going to have some fun today Marco right?",
+        "chinese": "我的名字是凯特，今天我们要去玩Marco吗？"
+    },
+    {
+        "start": 7.44,
+        "end": 13.52,
+        "english": "That's right today we are taking a small kid and we're going to the park and we're going to play.",
+        "chinese": "今天，我们是带着一个小孩子去公园的。我们将要玩。"
+    },
+    {
+        "start": 13.52,
+        "end": 17.04,
+        "english": "Okay so there are fun things you can do at the park we're going to learn all about them.",
+        "chinese": "好的，那么现在请将以下句子翻译成简体中文："
+    },
+    {
+        "start": 17.04,
+        "end": 18.72,
+        "english": "Let's take a listen to our dialogue.",
+        "chinese": "让我们听听我们的对话。"
+    },
+    {
+        "start": 24.72,
+        "end": 26.64,
+        "english": "Hey honey, where were you?",
+        "chinese": "你好，宝贝，你在哪儿？"
+    },
+    {
+        "start": 26.64,
+        "end": 29.6,
+        "english": "I decided to take Kenny to the park and get some fresh air.",
+        "chinese": "我决定带肯尼迪去公园，呼吸新鲜空气。"
+    },
+    {
+        "start": 29.6,
+        "end": 31.840000000000003,
+        "english": "How was it? Were there a lot of kids?",
+        "chinese": "英语：如何？有那么多孩子吗？"
+    },
+    {
+        "start": 31.840000000000003,
+        "end": 34.56,
+        "english": "It wasn't too crowded but we had a great time.",
+        "chinese": "不是太拥挤，但我们玩得很开心。"
+    },
+    {
+        "start": 34.56,
+        "end": 38.800000000000004,
+        "english": "We got on the sea saw together then went on a couple of different slides and then I tried to go",
+        "chinese": "我们一起去海看的，然后去了几个不同的滑板和然后我试着去。"
+    },
+    {
+        "start": 38.800000000000004,
+        "end": 41.04,
+        "english": "with him in the jungle gym but I didn't fit.",
+        "chinese": "英语：与他一起在丛林健身房，但我不适合。"
+    },
+    {
+        "start": 41.04,
+        "end": 45.44,
+        "english": "Sounds like fun. When we go he always just likes to play in the sandbox.",
+        "chinese": "英语：听起来真有趣。当我们去的时候，他总是喜欢在沙子里玩耍。"
+    },
+    {
+        "start": 45.44,
+        "end": 50.56,
+        "english": "Yeah but today he was really hyper. He even got under the monkey bars and then he went on to go",
+        "chinese": "嗯，但今天他真是超人了。他还跳过了横木架，然后继续去了……"
+    },
+    {
+        "start": 50.56,
+        "end": 53.760000000000005,
+        "english": "on the swings for half an hour. I'm exhausted.",
+        "chinese": "英语：在半小时内下跳绳。我筋疲力尽。"
+    },
+    {
+        "start": 53.760000000000005,
+        "end": 57.28,
+        "english": "You should go to the park more often since you don't go to the gym anymore.",
+        "chinese": "英语：你应该更经常去公园，因为自从不再去健身房了。"
+    },
+    {
+        "start": 60.32,
+        "end": 66.08,
+        "english": "All right we're back so now let's take a look at some of this great playground equipment",
+        "chinese": "好的，我们已经回来。现在让我们来看看这些很棒的游乐设施。"
+    },
+    {
+        "start": 66.08,
+        "end": 67.44,
+        "english": "on language takeaway.",
+        "chinese": "在语言小结。"
+    },
+    {
+        "start": 70.32000000000001,
+        "end": 71.52,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 73.04,
+        "end": 77.68,
+        "english": "So as you said Marco, today we're focusing in language takeaway on some of these things you can do",
+        "chinese": "所以，正如你所说，今天我们将集中讨论一些你可以做的事情。"
+    },
+    {
+        "start": 77.68,
+        "end": 81.68,
+        "english": "at the park. Now the first one is one of my personal favorites from childhood.",
+        "chinese": "英语：在公园。现在是我童年时最喜欢的那一只。"
+    },
+    {
+        "start": 82.32,
+        "end": 83.52000000000001,
+        "english": "Called the sea saw.",
+        "chinese": "英语：被称作海豚。"
+    },
+    {
+        "start": 83.52000000000001,
+        "end": 85.52000000000001,
+        "english": "The sea saw that's right.",
+        "chinese": "海看到了那正是。"
+    },
+    {
+        "start": 85.52,
+        "end": 94.08,
+        "english": "And so basically it's that long piece of sometimes metal or wood and two people sit at each opposite",
+        "chinese": "所以基本上就是那种有时是金属或木材制成的，两个人坐在彼此对面。"
+    },
+    {
+        "start": 94.08,
+        "end": 100.24,
+        "english": "end. Yes and so when one person goes down the other person goes up and when that person goes down",
+        "chinese": "结束。是的，所以当一个人下降时，另一个也下降；而当那个人下降时，那个人上升。"
+    },
+    {
+        "start": 100.24,
+        "end": 102.47999999999999,
+        "english": "the other person goes up so it's a sea saw.",
+        "chinese": "英语：另一个人上去了，所以是海带。"
+    },
+    {
+        "start": 102.47999999999999,
+        "end": 108.56,
+        "english": "That's right. So yes it's actually a very common toy that you can play with at the playground",
+        "chinese": "英语：那对，所以确实是个非常常见的玩具，你可以在公园里玩。"
+    },
+    {
+        "start": 108.56,
+        "end": 113.19999999999999,
+        "english": "but also another very common one I'm sure everyone knows and has been on is a slide.",
+        "chinese": "但是，还有另一个非常常见的选项——一张相册。"
+    },
+    {
+        "start": 113.76,
+        "end": 119.28,
+        "english": "A slide. Now this is a bit hard to describe actually. Slides are usually quite colorful",
+        "chinese": "一张卡片。现在这有点难以描述了。卡片通常是彩色的。"
+    },
+    {
+        "start": 119.28,
+        "end": 125.12,
+        "english": "but they're like tubes that are open and the child can go down. So you're on top maybe",
+        "chinese": "但是它们就像管道一样，打开后孩子可以下。所以你可能在上面。"
+    },
+    {
+        "start": 126.08,
+        "end": 130.24,
+        "english": "two meters high and then you go down the slide and you come down to the ground.",
+        "chinese": "两米高，然后你沿着滑梯下来，来到地面。"
+    },
+    {
+        "start": 130.24,
+        "end": 137.2,
+        "english": "That's right and actually it's the the the noun a slide but what you do is you the verb is you",
+        "chinese": "英语：那对，实际上它就是这个滑动板，但是你做的就是你。"
+    },
+    {
+        "start": 137.2,
+        "end": 143.83999999999997,
+        "english": "actually slide down the slide. Yes and sometimes you go very fast and it's scary.",
+        "chinese": "英语：实际上，滑下去吧。是的，有时你走得很快，很危险。"
+    },
+    {
+        "start": 143.83999999999997,
+        "end": 149.28,
+        "english": "That's right and well if you want to have something a little bit less scary you can go into the",
+        "chinese": "没错，如果你想要有一点点的不那么可怕，你可以进入这个。"
+    },
+    {
+        "start": 149.28,
+        "end": 156.16,
+        "english": "jungle gym. All right jungle now the jungle is actually a place you know in South America for",
+        "chinese": "英语：丛林健身房。现在丛林是真的南美洲的一个地方，你知道吗？"
+    },
+    {
+        "start": 156.16,
+        "end": 161.35999999999999,
+        "english": "example you have jungles with lots of trees and monkeys and thing but jungle gym is like",
+        "chinese": "例如，你有茂密的森林和许多树木，猴子和东西，但跳绳架就像"
+    },
+    {
+        "start": 162.32000000000002,
+        "end": 169.60000000000002,
+        "english": "many many different metal bars or wood together to make this open structure that boys and girls",
+        "chinese": "许多不同的金属条或木块一起，才能构建出这样的开放结构。"
+    },
+    {
+        "start": 169.60000000000002,
+        "end": 173.44000000000003,
+        "english": "can climb on. So basically you start on the ground and you climb all the way up it.",
+        "chinese": "可以爬上去。所以基本上你从地面开始，然后一直往上爬。"
+    },
+    {
+        "start": 173.44000000000003,
+        "end": 178.0,
+        "english": "Okay so I think this is why it's called a kind of like a jungle gym right because you can climb",
+        "chinese": "英语：嗯，所以我觉得这叫一个像丛林吊床一样，因为你可以攀爬。"
+    },
+    {
+        "start": 178.0,
+        "end": 184.08,
+        "english": "up and down and grab all these bars. You can hang like a monkey from the bars. Exactly. Yeah so",
+        "chinese": "上和下，抓住这些栏杆。你可以像猴子一样从栏杆上挂下来。对的，所以"
+    },
+    {
+        "start": 184.08,
+        "end": 189.68,
+        "english": "basically it's just a cage that boys and girls can climb on and play with. Right and I guess",
+        "chinese": "英文：基本上它就是一个男孩和女孩可以攀爬并玩的笼子。对，我猜。"
+    },
+    {
+        "start": 189.68,
+        "end": 194.0,
+        "english": "you call it a jungle gym because when you're doing all this you're you're doing exercise. That's",
+        "chinese": "英语：你把它称为丛林健身房，因为你正在做这些事情的时候，你是在锻炼。"
+    },
+    {
+        "start": 194.0,
+        "end": 199.92000000000002,
+        "english": "right. All right so now maybe for the smaller kids we just want to play with some toys they can",
+        "chinese": "正确。好的，现在可能对较小的孩子们来说，我们只是想和他们玩一些玩具，让他们可以"
+    },
+    {
+        "start": 199.92000000000002,
+        "end": 206.24,
+        "english": "just hang out at the sand box. All right this is one word but it's actually quite literal you'd",
+        "chinese": "请在沙盒里休息。很好，这是一个单词，但实际上它很直接。你希望我用中文来翻译这句话吗？"
+    },
+    {
+        "start": 206.24,
+        "end": 211.52,
+        "english": "have sand in a box. That's right and a sand box is very safe and very fun because boys and girls",
+        "chinese": "有沙子在盒子里。这是正确的，而且一个沙盒非常安全和有趣，因为男孩和女孩"
+    },
+    {
+        "start": 211.52,
+        "end": 219.20000000000002,
+        "english": "can make castles or dig but there's nothing to it really it's just a box. It's just a box with",
+        "chinese": "可以建造城堡或挖掘，但没有什么实际意义。它只是一个盒子。"
+    },
+    {
+        "start": 219.2,
+        "end": 224.56,
+        "english": "sand literally yes that's right. So that's also fun for the smaller kids to be at the sand box.",
+        "chinese": "英文：沙子真的很好玩，毕竟这是个适合小朋友们的沙盒。"
+    },
+    {
+        "start": 224.56,
+        "end": 231.83999999999997,
+        "english": "Now going back to something very similar to the jungle gym we have the monkey bars. Okay now monkey",
+        "chinese": "现在回到我们有丛林吊环的类似设备。好了，现在是猴子架。"
+    },
+    {
+        "start": 231.83999999999997,
+        "end": 239.51999999999998,
+        "english": "bars are a very important part of the park. These are horizontal bars so they're across and you",
+        "chinese": "这些是公园中的横栏，它们是水平的，所以你需要把它们移开。"
+    },
+    {
+        "start": 239.51999999999998,
+        "end": 244.0,
+        "english": "you hang on them with your arms so your body hangs down and when you hang your feet are off the",
+        "chinese": "您悬挂它们，用双手支撑身体，当您放下双脚时，您的脚离地面。"
+    },
+    {
+        "start": 244.0,
+        "end": 249.36,
+        "english": "ground it's very tall right and you have to move you have to change from one bar to the other so",
+        "chinese": "地，你得移动到另一条线。"
+    },
+    {
+        "start": 249.36,
+        "end": 254.88,
+        "english": "it's like a ladder that you're pulling yourself across. Yes exactly so you've probably seen it",
+        "chinese": "英语：它像你自己爬上去的梯子一样。是啊，你肯定见过这个。"
+    },
+    {
+        "start": 254.88,
+        "end": 261.2,
+        "english": "exactly how you describe it's a ladder and you just got to hang on to the different bars with your",
+        "chinese": "你描述的，它是一个梯子，你只需要抓住不同的栏杆来保持平衡。"
+    },
+    {
+        "start": 261.2,
+        "end": 266.08,
+        "english": "arms it's actually quite difficult to do. I always used to get upset because I couldn't go all the",
+        "chinese": "英语：它实际上挺难的。我总是因为不能全心投入而感到沮丧。"
+    },
+    {
+        "start": 266.08,
+        "end": 271.04,
+        "english": "way across because you know you go from one end to the other end but my arms would get so tired",
+        "chinese": "英语：因为你知道你从一个端点到另一个端点，我的手臂会感到非常疲劳。"
+    },
+    {
+        "start": 271.04,
+        "end": 276.08000000000004,
+        "english": "that I had to drop down onto the ground. Alright well something that's a little bit less",
+        "chinese": "我不得不放下责任。好吧，事情稍微有点小弱。"
+    },
+    {
+        "start": 276.08000000000004,
+        "end": 282.72,
+        "english": "exhausting but also very fun when you go on the swings. Alright swings are great now swings are",
+        "chinese": "当您在滑板上玩耍时，这真是令人窒息但也很有趣。现在滑板是很好的，滑板是"
+    },
+    {
+        "start": 282.72,
+        "end": 288.40000000000003,
+        "english": "kind of like chairs but they don't have a back so you sit down on a piece that's maybe plastic",
+        "chinese": "有点像椅子，但它们没有后背，所以你可以坐在一个可能塑料的表面上。"
+    },
+    {
+        "start": 288.40000000000003,
+        "end": 294.08000000000004,
+        "english": "and I'm someone behind you will push you. Right because you're on these these hanging chairs",
+        "chinese": "英语：和我背后的人会把你推得更远。因为你在这些这些椅子上。"
+    },
+    {
+        "start": 294.08000000000004,
+        "end": 298.48,
+        "english": "and you they'll push you and you go forward and backward and you can go very very high and then",
+        "chinese": "你，他们会把你推着走，你向前和向后地走，你可以走得非常高。"
+    },
+    {
+        "start": 298.48,
+        "end": 304.32,
+        "english": "you come back down. Exactly so these are swings all of the all of this equipment you've most likely",
+        "chinese": "你下来吧。正好，这些设备都是在这些所有方面都很好的。"
+    },
+    {
+        "start": 304.32,
+        "end": 309.28000000000003,
+        "english": "seen at any of the of the parks that are nearby but we're going to post some pictures as well so you",
+        "chinese": "英语：看到附近的公园里的一些照片，然后我们也会发布一些图片。"
+    },
+    {
+        "start": 309.28000000000003,
+        "end": 315.28000000000003,
+        "english": "can see more clearly what they're all about. Now let's go and review the dialogue again before we",
+        "chinese": "你们能更清楚地看到他们都在谈论什么吗？现在让我们再回顾一下对话，之前我们已经讨论了哪些话题。"
+    },
+    {
+        "start": 315.28000000000003,
+        "end": 326.64000000000004,
+        "english": "move on to Fluency Builder. Hey honey where were you? I decided to take Kenny to the park and get some",
+        "chinese": "移动到流利 builder。宝贝，你在哪里？我决定带凯恩去公园，顺便也想看看他有没有什么进步。"
+    },
+    {
+        "start": 326.64,
+        "end": 332.56,
+        "english": "fresh air. How was it? Were there a lot of kids? It wasn't too crowded but we had a great time.",
+        "chinese": "新鲜空气。你玩得怎么样？有几个孩子？环境还算不错，我们玩得很开心。"
+    },
+    {
+        "start": 332.56,
+        "end": 336.71999999999997,
+        "english": "We got on the sea saw together then went on a couple of different slides and then I tried to go",
+        "chinese": "我们一起去海看的，然后去了几个不同的滑板和然后我试着去。"
+    },
+    {
+        "start": 336.71999999999997,
+        "end": 342.08,
+        "english": "with him in the jungle gym but I didn't fit. Sounds like fun when we go he always just likes to",
+        "chinese": "英语：他在我丛林健身房里，但我不太适合。听起来真好，当我们去时，他总是喜欢。"
+    },
+    {
+        "start": 342.08,
+        "end": 347.84,
+        "english": "play in the sandbox. Yeah but today he was really hyper. He even got under the monkey bars and then",
+        "chinese": "英语：玩在沙坑里。嗯，不过今天他真的很兴奋。他还跳过了木偶吊桥，然后"
+    },
+    {
+        "start": 347.84,
+        "end": 353.59999999999997,
+        "english": "he went on to go on the swings for half an hour. I'm exhausted. You should go to the park more often",
+        "chinese": "他继续去滑板车了，花了半个小时。我累坏了。你应该经常去公园玩儿。"
+    },
+    {
+        "start": 353.68,
+        "end": 361.84000000000003,
+        "english": "since you don't go to the gym anymore. All right we're back so now let's take a look at three phrases",
+        "chinese": "因为您不再去健身房了。好的，我们现在来看看三个短语。"
+    },
+    {
+        "start": 361.84000000000003,
+        "end": 370.40000000000003,
+        "english": "on Fluency Builder. Fluency Builder. So our first phrase today is actually something that the",
+        "chinese": "今天的第一句话实际上就是由 Fluent Builder 提供的。 Fluency Builder."
+    },
+    {
+        "start": 370.40000000000003,
+        "end": 375.68,
+        "english": "the parent is talking about. She wants to take Kenny to the park and get some fresh air. Now what",
+        "chinese": "英语：她想带肯尼去公园并呼吸新鲜空气。现在怎么办？"
+    },
+    {
+        "start": 375.68,
+        "end": 382.72,
+        "english": "does it mean to go get fresh air? Well basically you it means to go out and maybe walk or just be",
+        "chinese": "是的，它意味着去呼吸新鲜空气。嗯，基本上你可能是指出去走走或者只是休息一下。"
+    },
+    {
+        "start": 382.72,
+        "end": 388.40000000000003,
+        "english": "outside and get air from the outside because sometimes you're in your house all the time and that's",
+        "chinese": "外面，你得从外面借点东西，因为有时候你总是住在自己的房子里。"
+    },
+    {
+        "start": 388.40000000000003,
+        "end": 394.0,
+        "english": "not fresh air. That's right so basically this means exactly what you're saying it means going outside.",
+        "chinese": "不是新鲜空气。那当然，也就是说，你所说的完全与我所说的意思一致。"
+    },
+    {
+        "start": 394.0,
+        "end": 399.68,
+        "english": "So kids often need to go get some fresh air but also adults do too. Sometimes I feel like when I'm",
+        "chinese": "英语：所以孩子们经常需要去公园呼吸新鲜空气，而成年人也常常这样做。有时候我感觉像是在想，当我在公园里时，我总是感到很孤独和寂寞。"
+    },
+    {
+        "start": 399.68,
+        "end": 404.88000000000005,
+        "english": "working in the office for a long time I really need to get some fresh air so that means I go outside",
+        "chinese": "长时间在办公室工作，我真的需要出去呼吸新鲜空气，所以我要出去了。"
+    },
+    {
+        "start": 404.88000000000005,
+        "end": 410.96000000000004,
+        "english": "for a walk. Exactly. You can tell your friends oh excuse me for a minute I'm gonna go get some",
+        "chinese": "英语：为了散步。正好。你可以告诉你的朋友，对不起，我要去拿点东西了。"
+    },
+    {
+        "start": 410.96,
+        "end": 415.84,
+        "english": "fresh air. Or you know what you're looking a little bit pale maybe you should go get some fresh air.",
+        "chinese": "新鲜空气。或者你可能需要稍微去透气一下，也许你应该去看看外面的世界。"
+    },
+    {
+        "start": 415.84,
+        "end": 422.15999999999997,
+        "english": "Exactly. And talking about all this great equipment and how much fun you can have the wife said wow",
+        "chinese": "是的。而且谈论这些伟大的设备，以及你妻子能有多开心的话题，真是令人惊叹。"
+    },
+    {
+        "start": 422.15999999999997,
+        "end": 430.08,
+        "english": "that sounds like fun. Okay so sounds like fun it's not actually a sound. This phrase is really",
+        "chinese": "英语：听起来真好。嗯，听起来像真的不是声音。这个说法真的很有趣。"
+    },
+    {
+        "start": 430.08,
+        "end": 434.71999999999997,
+        "english": "important because we say it a lot but it actually just means that it sounds like it will be a fun time",
+        "chinese": "英语：重要，因为大家都说它很有趣，但实际上，它听起来更像是会有一个愉快的时光。"
+    },
+    {
+        "start": 434.71999999999997,
+        "end": 440.64,
+        "english": "right or I think it will be fun. Yeah so from what you're telling me I think it's fun. That's right",
+        "chinese": "英语：对，我同意。从你刚才说的这些，我觉得这事儿挺有趣的。"
+    },
+    {
+        "start": 440.64,
+        "end": 445.59999999999997,
+        "english": "so we can say this about a lot of things. I could say hey Marco we're gonna go play some football",
+        "chinese": "所以我们可以这么说，关于很多事情，我们都可以说嘿，马科，咱们去踢足球吧。"
+    },
+    {
+        "start": 445.59999999999997,
+        "end": 450.47999999999996,
+        "english": "after work. Do you want to come? Sure that sounds like fun. Alright so he thinks it sounds like a good",
+        "chinese": "英语：下班。你想要来吗？当然听起来挺有趣的。好吧，他觉得听起来挺好的。"
+    },
+    {
+        "start": 450.47999999999996,
+        "end": 456.71999999999997,
+        "english": "idea. You're probably come right? Exactly. So if something sounds like fun. Alright and moving on to",
+        "chinese": "英语：想法。你可能是来得正好吧？对了，如果听起来像有趣的事情，那么一切就绪，继续。"
+    },
+    {
+        "start": 456.71999999999997,
+        "end": 462.08,
+        "english": "our last phrase that we said that it was a great idea that we're going to the park and getting fresh",
+        "chinese": "我们的最后一个句子，我们说那是一个很棒的想法，我们要去公园，呼吸新鲜空气。"
+    },
+    {
+        "start": 462.08,
+        "end": 468.15999999999997,
+        "english": "air because we don't go to the gym anymore. Okay now this is a really important phrase to keep",
+        "chinese": "英语：因为不再去健身房了，所以这个非常重要的话一定要记住。"
+    },
+    {
+        "start": 468.16,
+        "end": 473.12,
+        "english": "as a phrase first of all we have a gym what do you do with a gym Marco? Well you work out.",
+        "chinese": "首先，我们需要找到这个句子的翻译。在提供的词汇中，“gym”是“健身房”的意思，所以我们可以直接用“健身房”来翻译。"
+    },
+    {
+        "start": 473.12,
+        "end": 478.88000000000005,
+        "english": "Yeah you exercise maybe you run on the treadmill or you lift weights but it's important to remember",
+        "chinese": "是的，你锻炼可能你在跑步机上跑或在举重。但记住，保持健康和健身非常重要。"
+    },
+    {
+        "start": 478.88000000000005,
+        "end": 484.8,
+        "english": "that the verb here is to go to the gym. Okay. So I could say I go to the gym three times a week how",
+        "chinese": "那这个动词在这里表示去健身房。对吧？所以我说我每周去健身房三次，正确吗？"
+    },
+    {
+        "start": 484.8,
+        "end": 490.64000000000004,
+        "english": "often do you go to the gym? Okay so that's the phrase you go to the gym. I stop going to the gym and",
+        "chinese": "英语：你经常去健身房吗？嗯，这就是你去健身房的这个短语。我停止去健身房了，并且"
+    },
+    {
+        "start": 490.64000000000004,
+        "end": 495.52000000000004,
+        "english": "I gain a little weight. Okay so that's the way you use it you don't use any other verb but when",
+        "chinese": "我减了点体重。嗯，这样你用它的时候不用其他动词，而是直接说“你不要使用任何其他的动词”。"
+    },
+    {
+        "start": 495.52,
+        "end": 500.71999999999997,
+        "english": "you're talking about the gym you say you go to the gym. I go to the gym he goes to the gym regularly.",
+        "chinese": "你是在谈论你去健身房，你说你经常去健身房。我经常去健身房，他也是这样。"
+    },
+    {
+        "start": 501.52,
+        "end": 506.96,
+        "english": "Alright very good so that's all the fluency builder for today let's review our dialogue one last time.",
+        "chinese": "好的，很好，所以今天所有的流利度构建就结束了。让我们回顾一下今天的对话，最后再进行一次总结。"
+    },
+    {
+        "start": 513.36,
+        "end": 518.3199999999999,
+        "english": "Hey honey where were you? I decided to take Kenny to the park and get some fresh air.",
+        "chinese": "喂，小明，你在哪里？我决定带肯尼去公园散散步，看看外面的世界。"
+    },
+    {
+        "start": 518.3199999999999,
+        "end": 523.68,
+        "english": "How was it? Were there a lot of kids? It wasn't too crowded but we had a great time. We got on",
+        "chinese": "英语：如何？有太多孩子吗？不是很拥挤，但我们玩得很开心。我们上了。"
+    },
+    {
+        "start": 523.68,
+        "end": 527.8399999999999,
+        "english": "the seesaw together then went on a couple of different slides and then I tried to go with him in",
+        "chinese": "英语：他俩一起走了一圈，然后又去了几个不同的滑板和然后我试着跟了上去。"
+    },
+    {
+        "start": 527.8399999999999,
+        "end": 533.5999999999999,
+        "english": "the jungle gym but I didn't fit. Sounds like fun when we go he always just likes to play in the sand",
+        "chinese": "英语：它像一个点和拍的相机，但我没装上。听起来真有趣，当我们去的时候，他总是喜欢在沙子里玩。"
+    },
+    {
+        "start": 533.5999999999999,
+        "end": 539.12,
+        "english": "box. Yeah but today he was really hyper. He even got under the monkey bars and then he went on to",
+        "chinese": "箱子。嗯，不过今天他真的很兴奋。他还跳过了单杠架和然后继续了。"
+    },
+    {
+        "start": 539.12,
+        "end": 544.9599999999999,
+        "english": "go on the swings for half an hour. I'm exhausted. You should go to the park more often since you don't",
+        "chinese": "去上个坡，我累坏了。你应该经常去公园，因为你不常来。"
+    },
+    {
+        "start": 544.9599999999999,
+        "end": 553.5999999999999,
+        "english": "go to the gym anymore. Alright so growing up there are many many different games at parks that you",
+        "chinese": "英语：继续去健身房吧。好了，所以长大后有很多不同的游戏可以在公园里玩呢。"
+    },
+    {
+        "start": 553.6,
+        "end": 558.8000000000001,
+        "english": "can probably find especially now. You have such great playground equipment but I think these are",
+        "chinese": "英语：它可能很快就能找到。你有这么好的游乐场设备，但我觉得这些可能是。"
+    },
+    {
+        "start": 558.8000000000001,
+        "end": 564.32,
+        "english": "the most basic ones that everyone knows about. That's right these are pretty standard things that",
+        "chinese": "这些是大多数人知道的基本东西。这就是说，这些都是基本的、常见的事物。"
+    },
+    {
+        "start": 564.32,
+        "end": 568.5600000000001,
+        "english": "you'll see at a playground. I remember that a park doesn't have to have these things.",
+        "chinese": "你将在公园看到这些。我记得公园不需要这些东西。"
+    },
+    {
+        "start": 569.0400000000001,
+        "end": 575.44,
+        "english": "Parks are just public places maybe with benches and trees but a playground is the part of the park",
+        "chinese": "公园只是公共地方，可能有座椅和树木，但一个儿童游乐场就是公园的一部分。"
+    },
+    {
+        "start": 575.44,
+        "end": 581.84,
+        "english": "where you'll see these kinds of things like a slide or swings and so it's important to remember that",
+        "chinese": "在你看到这些东西，比如滑板或旋转木马，以及它们的重要性。"
+    },
+    {
+        "start": 581.84,
+        "end": 586.96,
+        "english": "they're not the same. Right right and now did you ever have a bad accident or did you fall off",
+        "chinese": "他们不是一样的。对，你曾经有过一次糟糕的事故，或者摔倒了。"
+    },
+    {
+        "start": 586.96,
+        "end": 593.12,
+        "english": "the swing or the seesaw or maybe you fell off the slide. Oh I felt all the time. It never a serious",
+        "chinese": "英语：它可能是滑板或秋千，或者你可能摔倒了。哦，我感觉到了。从不严重。"
+    },
+    {
+        "start": 593.12,
+        "end": 599.84,
+        "english": "accident but swings I liked to swing and when I was forward you know up in the air I used to let go",
+        "chinese": "英语：意外，但我喜欢在空中挥臂，当你知道时，我总是放飞。"
+    },
+    {
+        "start": 599.84,
+        "end": 603.9200000000001,
+        "english": "and jump. Aha you would jump off the swing. I would jump off the swing so when you're very high",
+        "chinese": "和跳。啊，你就会从滑梯上跳下来。我也会从滑梯上跳下来，所以当你非常高时。"
+    },
+    {
+        "start": 603.9200000000001,
+        "end": 607.9200000000001,
+        "english": "in the air it feels like you're flying for a minute. My mother hated it because she thought I was",
+        "chinese": "在空中，感觉就像是你正飞一会儿。我的母亲讨厌它，因为她认为我是个笨蛋。"
+    },
+    {
+        "start": 607.92,
+        "end": 614.0,
+        "english": "going to break my arms but I loved it. It's great fun and actually we would really like to know",
+        "chinese": "英语：要离开我的肩膀，但我爱它。这真是太有趣了，而且我们真的想知道。"
+    },
+    {
+        "start": 614.0,
+        "end": 618.4799999999999,
+        "english": "maybe you have some pictures that you can share with us of some specific playground equipment that we",
+        "chinese": "可能你有某些照片可以与我们分享，关于我们正在使用的一些特定的游乐设施。"
+    },
+    {
+        "start": 618.4799999999999,
+        "end": 623.68,
+        "english": "may have missed. There are a lot of things out there and maybe locally there are even some more fun",
+        "chinese": "英语：可能有遗漏。到处都是东西，也许在本地还有更多的乐趣。"
+    },
+    {
+        "start": 623.68,
+        "end": 628.3199999999999,
+        "english": "things that we don't have. So let us know what do playgrounds look like in your country. We hope to",
+        "chinese": "我们不需要的东西。所以让我们知道你们的国家里有哪些游乐场。 我们希望看到什么样子的游乐场。"
+    },
+    {
+        "start": 628.32,
+        "end": 631.6,
+        "english": "see you at englispa.com. Alright we'll see you guys there. Bye.",
+        "chinese": "你好，欢迎来到英语学习平台。请告诉我您想了解的内容或问题。"
+    }
+]

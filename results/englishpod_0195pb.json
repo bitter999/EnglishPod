@@ -1,0 +1,566 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家欢迎来到英语有声。我的名字是Marco。"
+    },
+    {
+        "start": 6.0,
+        "end": 10.4,
+        "english": "My name is Catherine and today we're looking for a new job.",
+        "chinese": "我的名字是凯瑟琳，今天我们要找一份新工作。"
+    },
+    {
+        "start": 10.4,
+        "end": 17.0,
+        "english": "That's right. We are looking for a new job and so we're bringing you this great lesson where we're going to teach you in English.",
+        "chinese": "正确。我们正在寻找一份新工作，因此我们带来这个很棒的课程，让我们用英语教你。"
+    },
+    {
+        "start": 17.0,
+        "end": 22.5,
+        "english": "A lot of terms related with looking for a job or things like a resume cover letter.",
+        "chinese": "很多与找工作或简历、求职信相关的术语。"
+    },
+    {
+        "start": 22.5,
+        "end": 28.0,
+        "english": "So before we get on into that, why don't we take a look at a word that we have in vocabulary preview.",
+        "chinese": "所以，在我们深入讨论之前，为什么不先看看词汇预览中出现的一个单词呢？"
+    },
+    {
+        "start": 28.0,
+        "end": 37.0,
+        "english": "So this is actually the name of a job. It's a position, gas station, attendant.",
+        "chinese": "所以这实际上是一个职位。这是一个岗位，加油站，服务员。"
+    },
+    {
+        "start": 37.0,
+        "end": 41.0,
+        "english": "Okay, a gas station attendant. Now we know what a gas station is, right?",
+        "chinese": "好的，一个加油站的管理员。现在我们知道了加油站是什么样子的吗？"
+    },
+    {
+        "start": 41.0,
+        "end": 45.0,
+        "english": "That's right. It's a place where you go to fill your car with gas.",
+        "chinese": "正确。那是你去加油的地方。"
+    },
+    {
+        "start": 45.0,
+        "end": 48.0,
+        "english": "Okay. So in attendance, add a gas station. What does he do?",
+        "chinese": "好的。所以出席的，加一个加油站。他做什么？"
+    },
+    {
+        "start": 48.0,
+        "end": 53.0,
+        "english": "He or she is a person who will help you put the gas in your car.",
+        "chinese": "他或她是一个会帮你加满汽车油箱的人。"
+    },
+    {
+        "start": 53.0,
+        "end": 57.0,
+        "english": "So an attendant is someone who is almost like an assistant or a helper.",
+        "chinese": "所以，一个侍者更像是一个助手或帮手。"
+    },
+    {
+        "start": 57.0,
+        "end": 61.0,
+        "english": "Okay. You can have a bathroom attendant. Someone who gives you a towel after you wash your hands.",
+        "chinese": "好的。你可以请一个浴室服务员。他会在你洗手后给你提供毛巾。"
+    },
+    {
+        "start": 61.0,
+        "end": 63.0,
+        "english": "I've seen those in the fancy restaurants.",
+        "chinese": "我已经在那些高档餐厅里见过。"
+    },
+    {
+        "start": 63.0,
+        "end": 66.0,
+        "english": "Yeah, so gas station attendant.",
+        "chinese": "是的，所以加油站员工。"
+    },
+    {
+        "start": 66.0,
+        "end": 72.0,
+        "english": "All right. So why don't we take a look now at our dialogue? Let's listen to it for the first time and we'll be back in a bit.",
+        "chinese": "好的。那么我们现在就来好好看看我们的对话吧？我们先听一次，一会儿再回来。"
+    },
+    {
+        "start": 79.0,
+        "end": 83.0,
+        "english": "Woohoo! This just might be the start of the rest of my life.",
+        "chinese": "哇哦！这可能就是我余生的开始。"
+    },
+    {
+        "start": 84.0,
+        "end": 87.0,
+        "english": "What happened? I'm in the market for a job.",
+        "chinese": "发生了什么？我在找工作。"
+    },
+    {
+        "start": 87.0,
+        "end": 95.0,
+        "english": "I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+        "chinese": "我浏览了数百个职位列表的网站，最终找到了几个我想应聘的雇主。"
+    },
+    {
+        "start": 95.0,
+        "end": 101.0,
+        "english": "I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write.",
+        "chinese": "我上周为英语课写的简历，写一封求职信对我来说简直是小菜一碟。"
+    },
+    {
+        "start": 101.0,
+        "end": 107.0,
+        "english": "I've even done my research and found the names of the managers so I can address the letters personally.",
+        "chinese": "我已经做了研究，并找到了经理的名字，因此我可以亲自写信。"
+    },
+    {
+        "start": 107.0,
+        "end": 109.0,
+        "english": "And you know, I can be charming in interviews.",
+        "chinese": "你当然知道，我在面试中可以很迷人。"
+    },
+    {
+        "start": 109.0,
+        "end": 113.0,
+        "english": "Goodbye my penniless days, hello salary and a career.",
+        "chinese": "再见我的穷日子，你好薪水和职业生涯。"
+    },
+    {
+        "start": 113.0,
+        "end": 117.0,
+        "english": "Ben, we're 15. What kind of job are you looking for?",
+        "chinese": "Ben，我们是第十五个。你正在找什么样的工作？"
+    },
+    {
+        "start": 117.0,
+        "end": 127.0,
+        "english": "Oh, just for a position as a gas station attendant, you know, starting at a simple, lowly job just like all the greats before they made it big in the world.",
+        "chinese": "哦，只是因为一个加油站的保安员的工作，你知道吧，就像那些在世界大名鼎鼎之前都干过低级岗位一样。"
+    },
+    {
+        "start": 127.0,
+        "end": 128.0,
+        "english": "Uh-huh.",
+        "chinese": "嗯。"
+    },
+    {
+        "start": 128.0,
+        "end": 134.0,
+        "english": "But I'm just in it for the money, right? How else am I going to be able to afford to keep taking Angela to the movies?",
+        "chinese": "但我只是为了钱才进去的，对吧？不然我怎么才能负担得起带安吉去看电影的钱呢？"
+    },
+    {
+        "start": 134.0,
+        "end": 138.0,
+        "english": "Besides, I love the smell of gasoline. Don't you?",
+        "chinese": "此外，我爱汽油的味道。你呢？"
+    },
+    {
+        "start": 140.0,
+        "end": 145.0,
+        "english": "Alright, we're back. So now you're probably wondering what those words meant.",
+        "chinese": "好的，我们又回来了。你现在应该在想那些单词是什么意思吧。"
+    },
+    {
+        "start": 145.0,
+        "end": 149.0,
+        "english": "So why don't we take a look at a couple of them in language takeaway?",
+        "chinese": "所以，我们为什么不看看这些翻译中的几个呢？"
+    },
+    {
+        "start": 151.0,
+        "end": 153.0,
+        "english": "Language takeaway.",
+        "chinese": "英语：语言小贴士。"
+    },
+    {
+        "start": 153.0,
+        "end": 161.0,
+        "english": "The first phrase we have today is one that's very important when you're looking for a job. It's called job listing or job listings here.",
+        "chinese": "今天我们要翻译的第一句话非常重要，当你找工作时。它叫做职位列表或职位列表。"
+    },
+    {
+        "start": 161.0,
+        "end": 170.0,
+        "english": "Okay, job listings. And this is really common before the internet existed, you would have the listings in your local newspaper, right?",
+        "chinese": "好的，职位列表。而这个在互联网之前是相当常见的事情，你通常会在当地的报纸上看到这些职位的列表。"
+    },
+    {
+        "start": 170.0,
+        "end": 176.0,
+        "english": "Exactly. And in the movies, you always had the person sitting with the newspaper circling the potential jobs.",
+        "chinese": "Exactly. 在电影里，你总是看到那个人拿着报纸在圈定潜在的工作机会。"
+    },
+    {
+        "start": 176.0,
+        "end": 178.0,
+        "english": "Right, with the red markers.",
+        "chinese": "正确，用红点标记。"
+    },
+    {
+        "start": 178.0,
+        "end": 182.0,
+        "english": "Exactly. But now that we have the internet, you have lots of websites that have job listings.",
+        "chinese": "Exactly. 但现在有了互联网，你有很多网站有工作列表。"
+    },
+    {
+        "start": 182.0,
+        "end": 187.0,
+        "english": "And so a job listing is literally a list of jobs that are available.",
+        "chinese": "所以，一份工作列表实际上是一份列出所有可用工作的清单。"
+    },
+    {
+        "start": 187.0,
+        "end": 193.0,
+        "english": "Okay, so you look through the job listings. Maybe you found one that's interesting. There's an email address. So what do they ask for?",
+        "chinese": "好的，所以你浏览了工作列表。也许你发现了一个有趣的工作机会。他们有一个电子邮件地址，那么他们要什么？"
+    },
+    {
+        "start": 193.0,
+        "end": 196.0,
+        "english": "They ask you to send in your resume.",
+        "chinese": "他们让你寄简历。"
+    },
+    {
+        "start": 196.0,
+        "end": 208.0,
+        "english": "Okay, a resume is very important when you're looking for a job. It's a document. It's a piece of paper that tells someone all of the work that you've done before your job experiences.",
+        "chinese": "好的，当你找工作时，简历非常重要。它是一份文档。它是一张纸上写满了你以前的工作经历的纸。"
+    },
+    {
+        "start": 208.0,
+        "end": 214.0,
+        "english": "And it tells them where you went to school and what your qualifications are. So it's a summary of your work life.",
+        "chinese": "而且它会告诉他们你上学的地方和你的资格证书。所以这相当于你的工作经历的总结。"
+    },
+    {
+        "start": 215.0,
+        "end": 220.0,
+        "english": "Okay, and that's why it's called a resume, right? It's pretty much a summary of your work life as you say.",
+        "chinese": "好的，这就是为什么它被称为简历的原因吧？简而言之，就是你工作生活的总结。"
+    },
+    {
+        "start": 220.0,
+        "end": 229.0,
+        "english": "That's right. And a different one, sometimes people use this, is a CV curriculum, VTA. And that's an academic summary of your life.",
+        "chinese": "没错。而且另一种，有时候人们会用到这个，是简历CV，VTA。这是一个总结你一生的学术概要。"
+    },
+    {
+        "start": 229.0,
+        "end": 232.0,
+        "english": "So you have the work summary and the study summary.",
+        "chinese": "所以你已经有了工作总结和学习总结。"
+    },
+    {
+        "start": 232.0,
+        "end": 239.0,
+        "english": "Okay, very good. So if you send in your resume, what's recommended is that you attach it with a cover letter.",
+        "chinese": "好的，很好。所以如果你提交简历的话，建议你附上一封求职信。"
+    },
+    {
+        "start": 239.0,
+        "end": 244.0,
+        "english": "Okay, well cover letter, you know the word letter. It's something that you write to somebody else.",
+        "chinese": "好的，你知道信是什么意思吗？这个词的意思是你要写给某人的一封信。"
+    },
+    {
+        "start": 244.0,
+        "end": 257.0,
+        "english": "But a cover letter is like a cover for your resume. It's a letter where you explain to the future boss or future employer what exactly you want and how this job is going to help you get it.",
+        "chinese": "但是，一封推荐信就像你的简历的封面。它是一封信，你在这里向未来的老板或雇主解释你想要什么以及这个工作如何帮助你获得它。"
+    },
+    {
+        "start": 257.0,
+        "end": 266.0,
+        "english": "Okay, so that's basically a small little introduction to yourself, right? Before they read your resume, who you are, what you're looking for maybe very quickly.",
+        "chinese": "好的，这就是一个简短的自我介绍，对吧？在他们阅读你的简历之前，你可能很快就能了解到关于你的基本信息、你期望的工作内容等。"
+    },
+    {
+        "start": 266.0,
+        "end": 277.0,
+        "english": "Exactly. So you can say, hi, my name is Catherine. I'm very motivated and excited to have the opportunity to talk to you about why I'm a skilled employee and why I will benefit your company.",
+        "chinese": "Exactly. 你可以说，你好，我的名字是凯瑟琳。我非常有动力和兴奋，想和您谈谈为什么我是一个技能娴熟的员工，并且我将如何为您的公司带来好处。"
+    },
+    {
+        "start": 277.0,
+        "end": 286.0,
+        "english": "Very good. All right. So you've sent in your resume and your cover letter. And well, maybe you're looking to get into a career as a gas station attendant.",
+        "chinese": "很好。一切都好。所以你已经提交了你的简历和求职信。也许你想成为一名加油站工作人员的职业生涯吧？"
+    },
+    {
+        "start": 286.0,
+        "end": 299.0,
+        "english": "So what's the difference between job and career? Okay, and this is very interesting because in many languages, there is a similar word which for example in Spanish is carreira, right?",
+        "chinese": "所以，工作和事业之间有什么区别？好吧，而且这个话题非常有趣，因为许多语言中有一个类似单词的例子，在西班牙语中是 carrera。"
+    },
+    {
+        "start": 299.0,
+        "end": 307.0,
+        "english": "And that means like a profession. So many people translate it literally as career, but it's not the right word. What is a career?",
+        "chinese": "那意味着一种职业。所以很多人把它翻译成职业，但这不是正确的词。什么是职业？"
+    },
+    {
+        "start": 307.0,
+        "end": 321.0,
+        "english": "A career I think of as a long term goal. A career is your profession. It's the name you give yourself, but a job is a position in a company from one time to another.",
+        "chinese": "我认为职业生涯是一个长期目标。职业是你的专业，它是你给自己命名的，但工作则是公司从一个时期到另一个时期的职位。"
+    },
+    {
+        "start": 321.0,
+        "end": 336.0,
+        "english": "So for example, my job here is host of English pod, but maybe in the future I will have a media career. That means that my job or jobs will have to do with this profession. It's kind of a bigger thing.",
+        "chinese": "例如，我的工作就是主持英语播客节目，但也许将来我会从事媒体行业。这意味着我的工作或工作将与这一职业相关。这确实是一个更大的事情。"
+    },
+    {
+        "start": 336.0,
+        "end": 350.0,
+        "english": "So maybe you can think of it this way. A career is like as you say a bigger picture like the macro category, right? You're into media and television for example. And your job specifically is a podcast host.",
+        "chinese": "所以也许你可以这样想。你可以说，职业就像你说的大图景一样，比如宏观类别。举个例子，你的工作是播客主持人。"
+    },
+    {
+        "start": 350.0,
+        "end": 364.0,
+        "english": "But in the future, maybe I want to have a different job in this career and move into production and be a TV producer. So that's a part of my career path. I can move forward. So career is very important word.",
+        "chinese": "但未来，也许我想要换一个职业方向，在生产方面工作，成为一名电视节目主持人。这对我来说是一个职业生涯的一部分。我可以继续前进。所以“职业”这个词非常重要。"
+    },
+    {
+        "start": 364.0,
+        "end": 372.0,
+        "english": "Alright, so we've taken a look at a couple of great words. Why don't we listen to our dialogue again and we'll be back in a bit.",
+        "chinese": "好的，我们已经看了几个很棒的词。让我们再次聆听我们的对话，并稍后回来。"
+    },
+    {
+        "start": 376.0,
+        "end": 392.0,
+        "english": "Woohoo! This just might be the start of the rest of my life. What happened? I'm in the market for a job. I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+        "chinese": "哇哦！这可能就是我余生的开始。发生了什么？我在附近的一家网站上浏览了数百份工作机会，最终选中了几家公司希望加入。"
+    },
+    {
+        "start": 392.0,
+        "end": 406.0,
+        "english": "I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write. I've even done my research and found the names of the managers so I can address the letters personally. And you know, I can be charming in interviews.",
+        "chinese": "我上个月为英语课写的简历，写一封求职信对我来说简直是小菜一碟。我还做了研究，并找到了经理的名字，这样我可以亲自写信。而且你知道，在面试中我可以很得体。"
+    },
+    {
+        "start": 406.0,
+        "end": 414.0,
+        "english": "Goodbye my penniless days, hello salary and a career. Ben with 15. What kind of job are you looking for?",
+        "chinese": "再见我的穷日子，你好薪水和职业。Ben，你找的工作是什么类型的？"
+    },
+    {
+        "start": 414.0,
+        "end": 424.0,
+        "english": "Oh, just for a position as a gas station attendant, you know, starting at a simple, lowly job just like all the grades before they made it big in the world.",
+        "chinese": "哦，只是因为一个加油站的保安员的工作，你知道吧，从一个简单的、低微的工作开始，就像他们以前所有的级别一样，然后在世界上变得有名。"
+    },
+    {
+        "start": 424.0,
+        "end": 434.0,
+        "english": "Uh-huh. But I'm just in it for the money, right? How else am I going to be able to afford to keep taking Angela to the movies? Besides, I love the smell of gasoline. Don't you?",
+        "chinese": "嗯，对了。我只是为了钱才进去的吧？我怎么才能攒够钱去给安吉丽娜看那么多场电影呢？而且，我喜欢汽油的味道。"
+    },
+    {
+        "start": 434.0,
+        "end": 446.0,
+        "english": "All right, we're back. So now we have lined up for you three key phrases that we found in this dialogue. So let's take a look at those now. Influency builder.",
+        "chinese": "好的，我们回来了。现在我们已经列出了这个对话中找到的三个关键短语。让我们来看看这些吧。影响力构建者。"
+    },
+    {
+        "start": 446.0,
+        "end": 456.0,
+        "english": "Fluency builder. This first one's a great phrase. It's going to make you sound very fluent in English if you use it. We say in the market for.",
+        "chinese": "英语直译为中文：流利者。这个第一个短语非常好，如果你使用它，你会在英语中听起来非常流利。我们说市场里。"
+    },
+    {
+        "start": 456.0,
+        "end": 468.0,
+        "english": "I'm in the market for a new job. All right, so this person is looking for a new job. He is in the market for. I could also say, I'm in the market for a new house.",
+        "chinese": "我正在寻找一份新工作。好的，所以这个人正在找一份新的工作。他正在寻找。我也可以说，我在找一套新的房子。"
+    },
+    {
+        "start": 468.0,
+        "end": 476.0,
+        "english": "Mark, do you know any good real estate agents? So what does that mean if you say I'm in the market for a new job or you're in the market for a new house?",
+        "chinese": "Mark，你知道任何好的房地产经纪人吗？如果你说我在找新工作或者在找新房子，那意味着什么呢？"
+    },
+    {
+        "start": 476.0,
+        "end": 492.0,
+        "english": "I am right now actively looking for this thing. I really want one. You're available. Yes. Okay. So I'm in the market for a new job. I'm in the market for a new car. I mean, the market is the marketplace.",
+        "chinese": "我现在正在积极寻找这个东西。我真的想要一个。你呢？是的。好的。我正在寻找一份新工作。我正在寻找一辆新车。也就是说，市场就是市场。"
+    },
+    {
+        "start": 492.0,
+        "end": 501.0,
+        "english": "Right. Right. And this sometimes you could see it related in movies, for example, they say if a person gets married, they are no longer in the market.",
+        "chinese": "好的。好的。有时候，这种情形在电影中也能看到，比如他们说如果一个人结婚了，那么他就不再是市场的成员。"
+    },
+    {
+        "start": 501.0,
+        "end": 513.0,
+        "english": "Or I'm in the market for a husband. Right. Do you know any nice guys? All right. So you're in the market. You're looking for a job. And well, if you're qualified, it will be a piece of cake to find a new job.",
+        "chinese": "我正在寻找一个丈夫。对了，你知道一些好的男士吗？好吧，你是在找工作。如果你有资格的话，找到一份新工作将是一件轻而易举的事情。"
+    },
+    {
+        "start": 513.0,
+        "end": 522.0,
+        "english": "Isn't this a delicious phrase? So piece of cake, you think what does cake have to do with anything? Well, cake, this is a way to say something is easy.",
+        "chinese": "这不是一个美味的短语吗？你认为蛋糕和任何事情有什么关系呢？好吧，蛋糕就是用来形容某件事很容易。"
+    },
+    {
+        "start": 522.0,
+        "end": 532.0,
+        "english": "Okay. So it's really easy. This often happens in our office actually because you and I understand computers, but we work with someone who has a hard time with computers.",
+        "chinese": "好的。所以真的很简单。这在我们办公室经常发生，因为你是我和我们中的一个人理解电脑，但我们和某人一起工作，他很难使用电脑。"
+    },
+    {
+        "start": 532.0,
+        "end": 539.0,
+        "english": "And she says, it doesn't work. And we're like, it's a piece of cake. It's a piece of cake. It's so easy. Why is this hard?",
+        "chinese": "她说，不行。我们是说，这太简单了。太简单了。这么容易的事儿，为什么这么难？"
+    },
+    {
+        "start": 539.0,
+        "end": 548.0,
+        "english": "So a piece of cake is a way to say something simple and it's a very, very, very common phrase. You'll hear it all the time. A piece of cake. Don't worry about it.",
+        "chinese": "所以，一块蛋糕就是说简单的事情。这是一个非常、非常、非常常见的短语。你会经常听到这个词。一块蛋糕。别担心。"
+    },
+    {
+        "start": 548.0,
+        "end": 566.0,
+        "english": "Piece of cake. Hey, can you help me out with this thing? Sure. It's a piece of cake. All right. And for a last phrase, he was talking about his position as a gas attendant. And he said, well, you know, all the grades, all the famous people, they started somewhere before they made it big. What does he mean with? They made it big.",
+        "chinese": "一块蛋糕。你好，你能帮我一下吗？当然可以。最后一句话是：他谈到他的位置是气站的气体服务员。他说，你知道，所有的等级、著名的人都开始之前就有人做了。他怎么说的呢？他们做得很成功。"
+    },
+    {
+        "start": 566.0,
+        "end": 592.0,
+        "english": "Well, the phrase to make it big or in here in the past tense, made it big means to be successful. So we're talking about, for example, Albert Einstein. Albert Einstein worked in the patent office in a, he was a clerk in Europe. And, you know, that's not a very impressive job, but it was a job. And he made it big later on as a physicist.",
+        "chinese": "好的，要使自己成功或在过去时态中说成是“成功”，就是指成功的。所以，我们谈论的是例如爱因斯坦的例子。爱因斯坦在专利局工作过，在欧洲当一名职员。这不是一个很显眼的工作，但那是他的工作。后来他作为物理学家而大放异彩。"
+    },
+    {
+        "start": 592.0,
+        "end": 604.0,
+        "english": "And so to make it big is to succeed to become famous or successful or important. Right. Or sometimes people say, yeah, I made it. I made it big or I made it in my life. And that means that you were successful.",
+        "chinese": "而且，为了成功，就是说要成为有名的人或者成功。对了，有时候人们会说，嗯，我成功了。我成功了大了，在我的生活中。这表示你很成功。"
+    },
+    {
+        "start": 604.0,
+        "end": 617.0,
+        "english": "Or this product is going to make it big. It's going to be really successful. Yeah, that's good. Okay. So it's a key phrase to make it or to make it big. Why don't we listen to our dialogue for the last time and we'll be back in a little bit.",
+        "chinese": "或者这个产品即将大卖。它将会非常成功。是的，很好。好的。所以这是一个关键的词，用来让它或变得成功。让我们最后一次听听我们的对话，并稍后回来。"
+    },
+    {
+        "start": 623.0,
+        "end": 640.0,
+        "english": "Woohoo! This just might be the start of the rest of my life. What happened? I'm in the market for a job. I went on a website with hundreds of job listings in the area and browsed through them until I got the names of a few employers I would like to work for.",
+        "chinese": "哇哦！这可能就是我余生的开始。发生了什么？我在附近网站上浏览了数百份工作机会，最终选中了几家我想工作的公司。"
+    },
+    {
+        "start": 640.0,
+        "end": 654.0,
+        "english": "I have the resume I wrote for English class last month and a cover letter will be a piece of cake to write. I've even done my research and found the names of the managers so I can address the letters personally. And you know, I can be charming in interviews.",
+        "chinese": "我上个月为英语课写的简历，写一封求职信对我来说简直是小菜一碟。我还做了研究，找到了经理的名字，这样我可以亲自写信。而且你知道，在面试中我也可以很得体。"
+    },
+    {
+        "start": 654.0,
+        "end": 662.0,
+        "english": "Goodbye, my penniless days. Hello, salary and a career. Then, with 15, what kind of job are you looking for?",
+        "chinese": "再见，我的穷日子。你好，薪水和职业生涯。然后，你找什么样的工作呢？"
+    },
+    {
+        "start": 662.0,
+        "end": 672.0,
+        "english": "Oh, just for a position as a gas station attendant, you know, starting at a simple, lowly job just like all the greats before they made it big in the world.",
+        "chinese": "哦，只是因为一个加油站的保安员的工作，你知道吧，就像所有那些在世界大展身手之前都干过低级、不起眼工作的普通人一样。"
+    },
+    {
+        "start": 672.0,
+        "end": 683.0,
+        "english": "Uh-huh. But I'm just in it for the money, right? How else am I going to be able to afford to keep taking Angela to the movies? Besides, I love the smell of gasoline. Don't you?",
+        "chinese": "嗯，对了。我只是为了钱才进去的吧？我怎么才能攒够钱去给安吉丽娜看那么多场电影呢？而且，我喜欢汽油的味道。"
+    },
+    {
+        "start": 683.0,
+        "end": 696.0,
+        "english": "All right. So talking about jobs, now I noticed something that in the United States, unlike many other countries, there are no gas station attendants anymore.",
+        "chinese": "好的。说到工作，现在我注意到一个在许多其他国家都不存在的现象：在美国，加油站的收银员已经不见了。"
+    },
+    {
+        "start": 696.0,
+        "end": 708.0,
+        "english": "There are. To say, there are actually a lot of gas station attendants in New Jersey because it's the law that you cannot pump your own gas. You cannot put gas in your own car. Why is that?",
+        "chinese": "当然，实际上新泽西州有很多加油站的工作人员。因为这是法律的规定，你不能自己加汽油。你自己开车能装吗？那为什么呢？"
+    },
+    {
+        "start": 708.0,
+        "end": 718.0,
+        "english": "It's a way for the New Jersey government to increase the amount of jobs in the state. So to create jobs, they made gas station attendants.",
+        "chinese": "这是一个新泽西州政府增加该州就业机会的方法。因此，为了创造就业机会，他们开设了加油站服务员。"
+    },
+    {
+        "start": 718.0,
+        "end": 726.0,
+        "english": "Oh, wow. Yeah. I've noticed in some states, for example, you just go up to the pump and if you have your credit card, you put in your credit card and you pump your own gas.",
+        "chinese": "哦，哇。是的。我注意到在一些州，例如，你只需要走到加油机前，如果你有信用卡，你就可以把卡插进去，然后自己给油了。"
+    },
+    {
+        "start": 726.0,
+        "end": 738.0,
+        "english": "And apparently it also has to do with health issues because people who are working in gas stations tend to have serious health problems later on. I mean, you're inhaling all these gases from the gasoline.",
+        "chinese": "而且，它似乎还与健康问题有关，因为那些在加油站工作的人都会有一些严重的健康问题。我指的是，你吸入这些汽油中的气体。"
+    },
+    {
+        "start": 738.0,
+        "end": 746.0,
+        "english": "That's right. It's very unhealthy. And I think that's also very dangerous in some places because gas stations are often robbed. Yeah.",
+        "chinese": "那是的。这非常不健康。而且我认为在一些地方，这也是很危险的，因为加油站经常被抢劫。是的。"
+    },
+    {
+        "start": 746.0,
+        "end": 753.0,
+        "english": "Because there's only one person and no security sometimes. So there are some negative parts of being a gas station attended.",
+        "chinese": "因为只有一个员工，有时没有安全措施。所以当一个加油站被看管时有一些负面方面。"
+    },
+    {
+        "start": 753.0,
+        "end": 764.0,
+        "english": "But if it's a job and you need a job, it's probably a good one. Yeah. No, true. I actually, I remember seeing back to the future when in the 50s, you would pull up to a gas station.",
+        "chinese": "但是，如果这是份工作，而且你需要一份工作的话，那可能是一份不错的。对了，没错。我实际上，我记得在五十年代的时候，在加油站看到过。"
+    },
+    {
+        "start": 764.0,
+        "end": 772.0,
+        "english": "Somebody would check your tire pressure. They would check your oil and they would clean your windows. And it's just like full service when you pulled up to a gas station.",
+        "chinese": "有人会检查你的轮胎气压。他们会检查你的机油，还会清洗你的窗户。当你在加油站停下来时，这就像享受全服务一样。"
+    },
+    {
+        "start": 772.0,
+        "end": 781.0,
+        "english": "They might even buy you a beer. No. All right. So it's really interesting about these positions. I imagine that in other places, some job positions.",
+        "chinese": "他们甚至可能会给你买一杯啤酒。不，好吧。所以关于这些职位，真的挺有意思的。我想在其他地方，有些工作职位。"
+    },
+    {
+        "start": 781.0,
+        "end": 789.0,
+        "english": "And maybe we would find a little bit strange or uncommon. Absolutely. And I encourage everyone today. This is your homework.",
+        "chinese": "而且也许我们会发现一些不太寻常的东西。当然了。我希望大家今天能完成这项作业。"
+    },
+    {
+        "start": 789.0,
+        "end": 805.0,
+        "english": "Tell us on engluchpad.com. What is your job and what's your career? Okay. What's your job and what's your career? So what's the career you would like to have in the future? Very good. All right. So we'll see you guys there. Bye everyone. Bye.",
+        "chinese": "告诉我们在 engluchpad.com 上。你的工作是什么？你未来的职业是什么？好的。你的职业是什么？你将来想要的职业是什么？很好。好的。我们会见你们的。大家再见。"
+    },
+    {
+        "start": 811.0,
+        "end": 814.0,
+        "english": "You",
+        "chinese": "You: 你"
+    }
+]

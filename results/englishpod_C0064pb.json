@@ -1,0 +1,2456 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.28,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 6.28,
+        "end": 7.44,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.44,
+        "end": 10.68,
+        "english": "And today we're bringing you again the great series.",
+        "chinese": "今天，我们再次为您带来精彩的系列。"
+    },
+    {
+        "start": 10.68,
+        "end": 13.24,
+        "english": "I'm sorry, I love you, part six.",
+        "chinese": "我非常抱歉，我爱你，第六部分。"
+    },
+    {
+        "start": 13.24,
+        "end": 17.240000000000002,
+        "english": "The newest installment in the EnglishPod soap opera.",
+        "chinese": "这个最新版的英语小故事。"
+    },
+    {
+        "start": 17.240000000000002,
+        "end": 22.96,
+        "english": "Drama, romance, love, tragedy.",
+        "chinese": "戏剧、爱情、悲剧。"
+    },
+    {
+        "start": 22.96,
+        "end": 26.400000000000002,
+        "english": "All of it here at EnglishPod and in our series.",
+        "chinese": "所有在这里的英语播客和我们的系列。"
+    },
+    {
+        "start": 26.400000000000002,
+        "end": 29.92,
+        "english": "So today we have a really great dialogue.",
+        "chinese": "所以今天我们有一个非常良好的对话。"
+    },
+    {
+        "start": 29.92,
+        "end": 33.480000000000004,
+        "english": "I just can't believe what's happening here.",
+        "chinese": "我简直无法相信正在发生的一切。"
+    },
+    {
+        "start": 33.480000000000004,
+        "end": 36.480000000000004,
+        "english": "But before we get into it, we need to preview one word.",
+        "chinese": "但是，我们首先需要预览一个单词。"
+    },
+    {
+        "start": 36.480000000000004,
+        "end": 37.480000000000004,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 37.480000000000004,
+        "end": 41.08,
+        "english": "So let's take a look at it in vocabulary preview.",
+        "chinese": "所以让我们来看看词汇预览。"
+    },
+    {
+        "start": 41.08,
+        "end": 42.56,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 42.56,
+        "end": 46.32,
+        "english": "Well, we're going to preview this word.",
+        "chinese": "很好，我们将预览这个单词。"
+    },
+    {
+        "start": 46.32,
+        "end": 47.32000000000001,
+        "english": "Sleeping with.",
+        "chinese": "睡觉。"
+    },
+    {
+        "start": 47.32000000000001,
+        "end": 48.32000000000001,
+        "english": "Sleeping with.",
+        "chinese": "睡觉。"
+    },
+    {
+        "start": 48.32000000000001,
+        "end": 50.120000000000005,
+        "english": "Sleeping with someone.",
+        "chinese": "睡觉和别人一起。"
+    },
+    {
+        "start": 50.120000000000005,
+        "end": 51.120000000000005,
+        "english": "Sleeping with him.",
+        "chinese": "睡觉和他一起。"
+    },
+    {
+        "start": 51.120000000000005,
+        "end": 52.120000000000005,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 52.120000000000005,
+        "end": 54.32000000000001,
+        "english": "So it seems pretty easy.",
+        "chinese": "所以看来挺容易。"
+    },
+    {
+        "start": 54.32000000000001,
+        "end": 55.72,
+        "english": "I mean, sleeping with.",
+        "chinese": "我指的是，和。"
+    },
+    {
+        "start": 55.72,
+        "end": 58.480000000000004,
+        "english": "It just sounds like you are in bed with somebody.",
+        "chinese": "它听起来就像你和某人躺在床上。"
+    },
+    {
+        "start": 58.48,
+        "end": 63.08,
+        "english": "Yeah, but you are doing a little bit more in sleeping.",
+        "chinese": "是的，但你做得比睡觉还要多。"
+    },
+    {
+        "start": 63.08,
+        "end": 64.08,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 64.08,
+        "end": 70.6,
+        "english": "So in English, this phrase actually means that you are involved with someone and have an intimate",
+        "chinese": "所以，在英语中，这句话实际上意味着你与某人有密切关系，并且是亲密的。"
+    },
+    {
+        "start": 70.6,
+        "end": 72.24,
+        "english": "sexual relationship, right?",
+        "chinese": "性关系，正确吗？"
+    },
+    {
+        "start": 72.24,
+        "end": 76.32,
+        "english": "Yes, you are in a relationship with someone and you are having sex.",
+        "chinese": "是的，你与某人有关系，并且正在进行性行为。"
+    },
+    {
+        "start": 76.32,
+        "end": 77.32,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 77.32,
+        "end": 80.84,
+        "english": "So be careful how you use it because I know that sometimes you want to translate and",
+        "chinese": "所以要小心你如何使用它，因为我知道有时候你想要翻译和"
+    },
+    {
+        "start": 80.84,
+        "end": 84.75999999999999,
+        "english": "just say, well, they are in the same bed together, but it's not that they're having sex.",
+        "chinese": "请说，嗯，他们在一起睡在同一个床上，但并不是因为他们在同床共枕。"
+    },
+    {
+        "start": 84.75999999999999,
+        "end": 85.75999999999999,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 85.76,
+        "end": 90.48,
+        "english": "Most of the time in English, the phrase sleeping with means sex.",
+        "chinese": "大多数时候，在英语中，“with”表示性行为。"
+    },
+    {
+        "start": 90.48,
+        "end": 91.48,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 91.48,
+        "end": 92.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 92.48,
+        "end": 93.48,
+        "english": "Sleeping with.",
+        "chinese": "睡觉。"
+    },
+    {
+        "start": 93.48,
+        "end": 94.48,
+        "english": "Be careful.",
+        "chinese": "小心。"
+    },
+    {
+        "start": 94.48,
+        "end": 95.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 95.48,
+        "end": 97.48,
+        "english": "Well, let's find out why are we talking about sleeping with?",
+        "chinese": "好的，我们来谈谈为什么谈论睡觉与异性有关。"
+    },
+    {
+        "start": 97.48,
+        "end": 100.92,
+        "english": "Well, obviously somebody is sleeping with somebody.",
+        "chinese": "当然，有人正在与某人发生性关系。"
+    },
+    {
+        "start": 100.92,
+        "end": 114.56,
+        "english": "So let's listen to the dialogue and then we'll come back and talk about it.",
+        "chinese": "所以，我们先听对话，然后再一起讨论一下。"
+    },
+    {
+        "start": 114.56,
+        "end": 115.56,
+        "english": "This is ridiculous.",
+        "chinese": "这个是荒谬的。"
+    },
+    {
+        "start": 115.56,
+        "end": 118.72,
+        "english": "I can't believe you've been sleeping with someone else.",
+        "chinese": "我无法相信你一直在和别人睡。"
+    },
+    {
+        "start": 118.72,
+        "end": 119.72,
+        "english": "How could you do this?",
+        "chinese": "如何能完成这个？"
+    },
+    {
+        "start": 119.72,
+        "end": 120.72,
+        "english": "You know what?",
+        "chinese": "你知道吗？"
+    },
+    {
+        "start": 120.72,
+        "end": 121.72,
+        "english": "I'm out of here.",
+        "chinese": "我是出了这里。"
+    },
+    {
+        "start": 121.72,
+        "end": 122.72,
+        "english": "Wait.",
+        "chinese": "等待。"
+    },
+    {
+        "start": 122.72,
+        "end": 129.36,
+        "english": "Dr., how is this possible?",
+        "chinese": "您好，如何可能？"
+    },
+    {
+        "start": 129.36,
+        "end": 132.08,
+        "english": "I haven't cheated on my boyfriend.",
+        "chinese": "我没有欺骗我的男朋友。"
+    },
+    {
+        "start": 132.08,
+        "end": 134.56,
+        "english": "I have something to confess.",
+        "chinese": "我有要交代的。"
+    },
+    {
+        "start": 134.56,
+        "end": 136.48000000000002,
+        "english": "I'm sorry, Veronica.",
+        "chinese": "对不起，维克里。"
+    },
+    {
+        "start": 136.48000000000002,
+        "end": 137.88,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 137.88,
+        "end": 139.88,
+        "english": "Wait.",
+        "chinese": "等待。"
+    },
+    {
+        "start": 139.88,
+        "end": 140.88,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 140.88,
+        "end": 142.88,
+        "english": "What do you mean?",
+        "chinese": "你什么意思？"
+    },
+    {
+        "start": 142.88,
+        "end": 143.88,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 143.88,
+        "end": 145.28,
+        "english": "You aren't even pregnant.",
+        "chinese": "您不是怀孕了。"
+    },
+    {
+        "start": 145.28,
+        "end": 147.4,
+        "english": "There's no bun in the oven.",
+        "chinese": "在炉子上没有火腿。"
+    },
+    {
+        "start": 147.4,
+        "end": 152.2,
+        "english": "I was just so overwhelmed with jealousy that I couldn't help myself.",
+        "chinese": "我被如此的嫉妒所困扰，以至于无法自拔。"
+    },
+    {
+        "start": 152.2,
+        "end": 156.28,
+        "english": "Veronica, I love you.",
+        "chinese": "我爱你， Veronica。"
+    },
+    {
+        "start": 156.28,
+        "end": 158.04,
+        "english": "What are you talking about?",
+        "chinese": "在中文中，\"What are you talking about?\" 翻译成普通话是 \"你在说些什么？\" 或者更简洁地表达为 \"你正在说什么？\"。如果你需要一个更正式或礼貌的翻译，请告诉我！"
+    },
+    {
+        "start": 158.04,
+        "end": 159.04,
+        "english": "Who?",
+        "chinese": "Who? 在中文中，\"Who?\" 通常翻译成 \"谁？\"。这个短语常用于询问某人或某物的身份、地位或者背景等信息。例如："
+    },
+    {
+        "start": 159.04,
+        "end": 160.07999999999998,
+        "english": "Who are you?",
+        "chinese": "我是谁？"
+    },
+    {
+        "start": 160.07999999999998,
+        "end": 161.07999999999998,
+        "english": "It's me.",
+        "chinese": "它是我。"
+    },
+    {
+        "start": 161.07999999999998,
+        "end": 164.8,
+        "english": "Daniel, don't you remember me from high school?",
+        "chinese": "迪亚哥，你记得我吗？"
+    },
+    {
+        "start": 164.8,
+        "end": 167.68,
+        "english": "I sat behind you in science class.",
+        "chinese": "在科学课上，我坐在你后面。"
+    },
+    {
+        "start": 167.68,
+        "end": 172.8,
+        "english": "I used to go to every football game and watch you in the cheerleading squad.",
+        "chinese": "我过去常常去观看你踢足球的每场比赛，你也经常在排球队里。"
+    },
+    {
+        "start": 172.8,
+        "end": 174.48000000000002,
+        "english": "You're insane.",
+        "chinese": "您是疯子。"
+    },
+    {
+        "start": 174.48000000000002,
+        "end": 177.44,
+        "english": "We never even spoke.",
+        "chinese": "我们从不说话。"
+    },
+    {
+        "start": 177.44,
+        "end": 180.20000000000002,
+        "english": "Why did you lie like that to my boyfriend?",
+        "chinese": "为什么你那么自私地欺骗我男朋友？"
+    },
+    {
+        "start": 180.20000000000002,
+        "end": 183.20000000000002,
+        "english": "Because Veronica, it's not fair.",
+        "chinese": "因为维奥拉，这是不公平的。"
+    },
+    {
+        "start": 183.20000000000002,
+        "end": 184.72,
+        "english": "I love you.",
+        "chinese": "我爱您。"
+    },
+    {
+        "start": 184.72,
+        "end": 188.12,
+        "english": "I have since the first day we met.",
+        "chinese": "自从我们第一次见面以来，我已经很久了。"
+    },
+    {
+        "start": 188.12,
+        "end": 194.0,
+        "english": "Everything was going fine until that jerk came into the picture and ruined everything.",
+        "chinese": "从那起，一切似乎都在按部就班地进行，直到那个搅局者出现并彻底破坏了这一切。"
+    },
+    {
+        "start": 194.0,
+        "end": 198.16000000000003,
+        "english": "I went to med school and became a doctor for you.",
+        "chinese": "我上医学院并成为你的医生。"
+    },
+    {
+        "start": 198.16000000000003,
+        "end": 202.32000000000002,
+        "english": "You always said how you wanted to marry a doctor?",
+        "chinese": "您总是说您想嫁给医生吗？"
+    },
+    {
+        "start": 202.32,
+        "end": 209.76,
+        "english": "You will be mine now, one way or another.",
+        "chinese": "你将永远属于我，无论怎样。"
+    },
+    {
+        "start": 209.76,
+        "end": 212.56,
+        "english": "I heard everything you lying bastard.",
+        "chinese": "我听到你撒谎的混蛋。"
+    },
+    {
+        "start": 212.56,
+        "end": 217.64,
+        "english": "Get your hands off of her.",
+        "chinese": "请不要触摸她。"
+    },
+    {
+        "start": 217.64,
+        "end": 228.64,
+        "english": "Scandal, again.",
+        "chinese": "又是一场丑闻。"
+    },
+    {
+        "start": 228.64,
+        "end": 234.92,
+        "english": "Oh, this poor Veronica and Stephen, I don't know how their relationship could get more",
+        "chinese": "对不起，我无法直接翻译中文。不过，我可以尝试用英文来表达你的意思："
+    },
+    {
+        "start": 234.92,
+        "end": 235.92,
+        "english": "complicated.",
+        "chinese": "复杂的。"
+    },
+    {
+        "start": 235.92,
+        "end": 236.92,
+        "english": "It's amazing.",
+        "chinese": "它真是太神奇了。"
+    },
+    {
+        "start": 236.92,
+        "end": 240.44,
+        "english": "They're having an amazing adventure in their love life.",
+        "chinese": "他们正经历着一场美妙的爱恋冒险。"
+    },
+    {
+        "start": 240.44,
+        "end": 244.44,
+        "english": "I'm sure glad my love life was nothing like this.",
+        "chinese": "我肯定很高兴我的爱情生活和这种关系没有区别。"
+    },
+    {
+        "start": 244.44,
+        "end": 247.32,
+        "english": "All right, so we saw some really great words.",
+        "chinese": "好的，所以我们看到了一些非常棒的词。"
+    },
+    {
+        "start": 247.32,
+        "end": 251.95999999999998,
+        "english": "Let's take a look at them in language takeaway.",
+        "chinese": "让我们看看他们用的语言。"
+    },
+    {
+        "start": 251.95999999999998,
+        "end": 254.0,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 254.0,
+        "end": 259.0,
+        "english": "The words we're looking at now are about feelings.",
+        "chinese": "现在我们正在看的词是关于情感的。"
+    },
+    {
+        "start": 259.0,
+        "end": 261.48,
+        "english": "Let's take a look at the first one.",
+        "chinese": "请看第一个。"
+    },
+    {
+        "start": 261.48,
+        "end": 262.48,
+        "english": "Confess.",
+        "chinese": "承认。"
+    },
+    {
+        "start": 262.48,
+        "end": 264.68,
+        "english": "Okay, confess.",
+        "chinese": "好的，承认。"
+    },
+    {
+        "start": 264.68,
+        "end": 265.68,
+        "english": "To confess.",
+        "chinese": "承认。"
+    },
+    {
+        "start": 265.68,
+        "end": 267.52,
+        "english": "To confess.",
+        "chinese": "承认。"
+    },
+    {
+        "start": 267.52,
+        "end": 268.52,
+        "english": "So confess.",
+        "chinese": "所以，承认。"
+    },
+    {
+        "start": 268.52,
+        "end": 269.8,
+        "english": "What does that mean?",
+        "chinese": "这句话的意思是：“那是什么意思？”"
+    },
+    {
+        "start": 269.8,
+        "end": 274.0,
+        "english": "When you confess something, you tell a secret that you've been hiding.",
+        "chinese": "当你承认某事，你告诉了一个自己隐藏的秘密。"
+    },
+    {
+        "start": 274.0,
+        "end": 275.16,
+        "english": "Okay, so that's pretty easy.",
+        "chinese": "好的，那么就这么简单。"
+    },
+    {
+        "start": 275.16,
+        "end": 278.68,
+        "english": "So you have a secret and you want to tell it to someone so you are confessing.",
+        "chinese": "所以你有秘密，你想告诉别人，所以你正在自首。"
+    },
+    {
+        "start": 278.68,
+        "end": 281.52,
+        "english": "Yeah, and it's usually something negative.",
+        "chinese": "是的，而且通常是一件负面的事情。"
+    },
+    {
+        "start": 281.52,
+        "end": 282.52,
+        "english": "Negative.",
+        "chinese": "消极。"
+    },
+    {
+        "start": 282.52,
+        "end": 283.52,
+        "english": "Oh, okay.",
+        "chinese": "你好，行了。"
+    },
+    {
+        "start": 283.52,
+        "end": 287.59999999999997,
+        "english": "So I confess that I stole five dollars from you.",
+        "chinese": "所以，我承认自己从你那里偷了五块钱。"
+    },
+    {
+        "start": 287.59999999999997,
+        "end": 288.59999999999997,
+        "english": "Oh, you did?",
+        "chinese": "你好，你呢？"
+    },
+    {
+        "start": 288.59999999999997,
+        "end": 289.59999999999997,
+        "english": "Yeah, sorry.",
+        "chinese": "是的，抱歉。"
+    },
+    {
+        "start": 289.59999999999997,
+        "end": 292.03999999999996,
+        "english": "No, I no wonder my wallet was lighter.",
+        "chinese": "是的，我倒不奇怪我的钱包比以前轻。"
+    },
+    {
+        "start": 292.03999999999996,
+        "end": 293.03999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 293.03999999999996,
+        "end": 295.47999999999996,
+        "english": "All right, so confess.",
+        "chinese": "好的，那么就接受。"
+    },
+    {
+        "start": 295.47999999999996,
+        "end": 297.44,
+        "english": "I shall not forgive you for this.",
+        "chinese": "我不会原谅你的。"
+    },
+    {
+        "start": 297.44,
+        "end": 298.44,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 298.44,
+        "end": 301.91999999999996,
+        "english": "All right, let's take a look at our next word.",
+        "chinese": "好的，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 301.91999999999996,
+        "end": 302.91999999999996,
+        "english": "Overwhelmed.",
+        "chinese": "超负荷。"
+    },
+    {
+        "start": 302.91999999999996,
+        "end": 304.08,
+        "english": "Overwhelmed.",
+        "chinese": "超负荷。"
+    },
+    {
+        "start": 304.08,
+        "end": 306.28,
+        "english": "I am overwhelmed.",
+        "chinese": "我非常疲惫。"
+    },
+    {
+        "start": 306.28,
+        "end": 310.44,
+        "english": "So when I am overwhelmed, I am filled with emotion.",
+        "chinese": "所以当我被淹没时，我充满了情感。"
+    },
+    {
+        "start": 310.44,
+        "end": 312.28,
+        "english": "Okay, with emotion.",
+        "chinese": "好的，情绪。"
+    },
+    {
+        "start": 312.28,
+        "end": 315.0,
+        "english": "It can be good emotions and bad emotions, right?",
+        "chinese": "是好情绪和坏情绪，对吗？"
+    },
+    {
+        "start": 315.0,
+        "end": 316.91999999999996,
+        "english": "Yeah, but you just, you feel too much.",
+        "chinese": "是的，但你感觉太多了。"
+    },
+    {
+        "start": 316.91999999999996,
+        "end": 319.52,
+        "english": "It's like you're going to explode.",
+        "chinese": "这句话可以翻译成中文为：“就像你就要爆炸了。”"
+    },
+    {
+        "start": 319.52,
+        "end": 322.4,
+        "english": "Okay, I am overwhelmed with joy.",
+        "chinese": "好的，我非常高兴。"
+    },
+    {
+        "start": 322.4,
+        "end": 326.88,
+        "english": "Yes, or I'm overwhelmed with work.",
+        "chinese": "是的，或者我太忙了。"
+    },
+    {
+        "start": 326.88,
+        "end": 330.64,
+        "english": "And I am overwhelmed with jealousy.",
+        "chinese": "我被深深嫉妒。"
+    },
+    {
+        "start": 330.64,
+        "end": 331.64,
+        "english": "Like this guy.",
+        "chinese": "像这样的人。"
+    },
+    {
+        "start": 331.64,
+        "end": 332.64,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 332.64,
+        "end": 334.11999999999995,
+        "english": "And that's our third word.",
+        "chinese": "这是我们的第三句话。"
+    },
+    {
+        "start": 334.11999999999995,
+        "end": 335.11999999999995,
+        "english": "Jealousy.",
+        "chinese": "嫉妒。"
+    },
+    {
+        "start": 335.11999999999995,
+        "end": 336.11999999999995,
+        "english": "Jealousy.",
+        "chinese": "嫉妒。"
+    },
+    {
+        "start": 336.11999999999995,
+        "end": 340.03999999999996,
+        "english": "So this is interesting because jealousy is the noun.",
+        "chinese": "所以，这很有趣，因为嫉妒是名词。"
+    },
+    {
+        "start": 340.03999999999996,
+        "end": 341.03999999999996,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 341.03999999999996,
+        "end": 342.03999999999996,
+        "english": "It's the feeling.",
+        "chinese": "是感觉。"
+    },
+    {
+        "start": 342.04,
+        "end": 344.16,
+        "english": "Of being jealous.",
+        "chinese": "被嫉妒。"
+    },
+    {
+        "start": 344.16,
+        "end": 345.56,
+        "english": "Which is the adjective.",
+        "chinese": "哪是形容词。"
+    },
+    {
+        "start": 345.56,
+        "end": 347.04,
+        "english": "Which is the adjective.",
+        "chinese": "哪是形容词。"
+    },
+    {
+        "start": 347.04,
+        "end": 350.64000000000004,
+        "english": "So what does it mean when you are jealous?",
+        "chinese": "所以，当你嫉妒时，意味着什么？"
+    },
+    {
+        "start": 350.64000000000004,
+        "end": 355.96000000000004,
+        "english": "It means that you see somebody and you want what they have.",
+        "chinese": "这句话意味着你看到某人，你想要他们拥有的。"
+    },
+    {
+        "start": 355.96000000000004,
+        "end": 357.96000000000004,
+        "english": "Okay, you want what they have.",
+        "chinese": "好的，你想要他们有什么。"
+    },
+    {
+        "start": 357.96000000000004,
+        "end": 363.24,
+        "english": "Yeah, so in this case, the doctor is jealous of Veronica's boyfriend because the doctor",
+        "chinese": "是的，所以在这个情况下，医生嫉妒维罗尼卡男友，因为医生。"
+    },
+    {
+        "start": 363.24,
+        "end": 364.96000000000004,
+        "english": "wants Veronica.",
+        "chinese": "我想问，你叫什么名字？"
+    },
+    {
+        "start": 364.96000000000004,
+        "end": 367.0,
+        "english": "Okay, jealous.",
+        "chinese": "好的，嫉妒。"
+    },
+    {
+        "start": 367.0,
+        "end": 370.6,
+        "english": "So Erica, are you a jealous wife?",
+        "chinese": "所以艾瑞克，你是不是嫉妒的妻子？"
+    },
+    {
+        "start": 370.6,
+        "end": 373.96000000000004,
+        "english": "I don't know, maybe a little bit.",
+        "chinese": "我也不清楚，可能有一点。"
+    },
+    {
+        "start": 373.96000000000004,
+        "end": 374.96000000000004,
+        "english": "A little bit.",
+        "chinese": "一个字。"
+    },
+    {
+        "start": 374.96000000000004,
+        "end": 378.56,
+        "english": "But I've never gone to the extent of telling someone that they're pregnant.",
+        "chinese": "但是，我从未到过那种程度去告诉某人是怀孕的。"
+    },
+    {
+        "start": 378.56,
+        "end": 380.56,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 380.56,
+        "end": 381.56,
+        "english": "Jealousy.",
+        "chinese": "嫉妒。"
+    },
+    {
+        "start": 381.56,
+        "end": 382.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 382.56,
+        "end": 389.68,
+        "english": "And let's take a look at our next two words, which are actually kind of insults, right?",
+        "chinese": "让我们看看我们的下一个两个单词，实际上它们是侮辱性的。"
+    },
+    {
+        "start": 389.68,
+        "end": 392.0,
+        "english": "Yeah, they're not very kind words at all.",
+        "chinese": "是的，他们并不很友善的话。"
+    },
+    {
+        "start": 392.0,
+        "end": 393.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 393.0,
+        "end": 394.0,
+        "english": "But you got to learn them anyways.",
+        "chinese": "但是你还是得学着。"
+    },
+    {
+        "start": 394.0,
+        "end": 395.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 395.0,
+        "end": 397.0,
+        "english": "Okay, let's take a look at this one.",
+        "chinese": "好的，让我们来看看这个。"
+    },
+    {
+        "start": 397.0,
+        "end": 398.0,
+        "english": "Jerk.",
+        "chinese": "这个单词“ jerk”在中文里可以翻译为“滑头”，表示一个人行为粗鲁、不尊重或无礼。"
+    },
+    {
+        "start": 398.0,
+        "end": 399.0,
+        "english": "Jerk.",
+        "chinese": "在中文中，\" jerk \"可以翻译为“滑稽鬼”或“滑稽鬼”。请注意，这个词语的含义和使用可能因文化背景而异。"
+    },
+    {
+        "start": 399.0,
+        "end": 400.0,
+        "english": "He's a jerk.",
+        "chinese": "他是个废物。"
+    },
+    {
+        "start": 400.0,
+        "end": 401.0,
+        "english": "Okay, jerk.",
+        "chinese": "好的，小人。"
+    },
+    {
+        "start": 401.0,
+        "end": 402.0,
+        "english": "Jerk.",
+        "chinese": "在中文中，\"jerk\" 的意思是“粗鲁的、不礼貌的”。例如："
+    },
+    {
+        "start": 402.0,
+        "end": 404.96,
+        "english": "So what does it mean if someone is a jerk?",
+        "chinese": "所以，如果某人是“渣男”？"
+    },
+    {
+        "start": 404.96,
+        "end": 408.56,
+        "english": "A stupid and mean person.",
+        "chinese": "一个愚蠢和凶狠的人。"
+    },
+    {
+        "start": 408.56,
+        "end": 409.56,
+        "english": "Playing as simple as that.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 409.56,
+        "end": 410.56,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 410.56,
+        "end": 411.56,
+        "english": "Stupid and mean.",
+        "chinese": "愚蠢和无礼。"
+    },
+    {
+        "start": 411.56,
+        "end": 414.12,
+        "english": "So, can a woman be a jerk?",
+        "chinese": "所以，一个女人是不是废物？"
+    },
+    {
+        "start": 414.12,
+        "end": 419.96,
+        "english": "It's mostly male, but now it's becoming more common to use with women as well.",
+        "chinese": "主要都是男性，但现在越来越多地使用与女性。"
+    },
+    {
+        "start": 419.96,
+        "end": 423.32,
+        "english": "Okay, so I can say he is a jerk or she is a jerk.",
+        "chinese": "好的，所以我说他是个渣滓或者她是个渣滓。"
+    },
+    {
+        "start": 423.32,
+        "end": 425.12,
+        "english": "Yeah, but it is more common for men.",
+        "chinese": "是的，但更常见的是男性。"
+    },
+    {
+        "start": 425.12,
+        "end": 426.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 426.28,
+        "end": 429.12,
+        "english": "And now let's take a look at our last word.",
+        "chinese": "现在让我们看看我们的最后一个单词。"
+    },
+    {
+        "start": 429.12,
+        "end": 431.28000000000003,
+        "english": "New line bastard.",
+        "chinese": "新线狂人。"
+    },
+    {
+        "start": 431.28000000000003,
+        "end": 432.28000000000003,
+        "english": "Bastard.",
+        "chinese": "这个单词“baster”在中文中通常用来表示一个粗鲁、粗暴或无礼的人。例如，“baster”可以用来形容那些在公共场合大声喧哗、不尊重他人的人，或者是在某个特定情境下表现得非常粗鲁和直接的人。"
+    },
+    {
+        "start": 432.28000000000003,
+        "end": 433.28000000000003,
+        "english": "Bastard.",
+        "chinese": "这句英文是 \"Bastard.\" 翻译成中文是 \"这个家伙。"
+    },
+    {
+        "start": 433.28000000000003,
+        "end": 434.28000000000003,
+        "english": "Bastard.",
+        "chinese": "在中文中，\"bastard\" 的翻译是 \"废物\"。"
+    },
+    {
+        "start": 434.28000000000003,
+        "end": 436.08,
+        "english": "Wow, this is pretty strong as well.",
+        "chinese": "哇，这很强大。"
+    },
+    {
+        "start": 436.08,
+        "end": 437.72,
+        "english": "Yeah, you got to be careful about this one.",
+        "chinese": "是的，你一定要小心这个。"
+    },
+    {
+        "start": 437.72,
+        "end": 439.88,
+        "english": "This one is almost a swear word.",
+        "chinese": "这是一句几乎是一个骂人的词。"
+    },
+    {
+        "start": 439.88,
+        "end": 440.88,
+        "english": "Almost.",
+        "chinese": "几乎。"
+    },
+    {
+        "start": 440.88,
+        "end": 441.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 441.88,
+        "end": 442.88,
+        "english": "Like on the line.",
+        "chinese": "像在直线上。"
+    },
+    {
+        "start": 442.88,
+        "end": 443.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 443.88,
+        "end": 445.24,
+        "english": "So what does it mean if you call someone a bastard?",
+        "chinese": "所以，如果有人给你起绰号叫“小丑”，这表示什么？"
+    },
+    {
+        "start": 445.24,
+        "end": 451.56,
+        "english": "Well, literally, it means your mother and father were not married when you were born.",
+        "chinese": "正确翻译为中文是："
+    },
+    {
+        "start": 451.56,
+        "end": 453.44,
+        "english": "When you were born, exactly.",
+        "chinese": "当你出生时，正好。"
+    },
+    {
+        "start": 453.44,
+        "end": 455.64,
+        "english": "So it is a pretty big insult.",
+        "chinese": "所以，这是一场相当大的侮辱。"
+    },
+    {
+        "start": 455.64,
+        "end": 456.64,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 456.64,
+        "end": 459.71999999999997,
+        "english": "A little bit, I guess.",
+        "chinese": "我猜有一点。"
+    },
+    {
+        "start": 459.71999999999997,
+        "end": 464.03999999999996,
+        "english": "But it doesn't really, really mean that your mother and father weren't married.",
+        "chinese": "但是，这并不意味着你的母亲和父亲没有结婚。"
+    },
+    {
+        "start": 464.03999999999996,
+        "end": 465.03999999999996,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的中文翻译："
+    },
+    {
+        "start": 465.03999999999996,
+        "end": 466.03999999999996,
+        "english": "It means that you are a jerk.",
+        "chinese": "这句话意味着你是一个废物。"
+    },
+    {
+        "start": 466.03999999999996,
+        "end": 467.03999999999996,
+        "english": "You're a jerk.",
+        "chinese": "您是个废物。"
+    },
+    {
+        "start": 467.03999999999996,
+        "end": 468.32,
+        "english": "You're a really big jerk.",
+        "chinese": "您是一个非常粗鲁的人。"
+    },
+    {
+        "start": 468.32,
+        "end": 470.84,
+        "english": "You're a mean person, a really mean person.",
+        "chinese": "您是极其愚蠢的人，一个极其愚蠢的人。"
+    },
+    {
+        "start": 470.84,
+        "end": 473.08,
+        "english": "So jerk isn't as strong as a bastard.",
+        "chinese": "所以这个家伙不是比一个混蛋还弱。"
+    },
+    {
+        "start": 473.08,
+        "end": 474.08,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 474.08,
+        "end": 475.08,
+        "english": "Bastard is stronger.",
+        "chinese": "强盗比弱者更强。"
+    },
+    {
+        "start": 475.08,
+        "end": 476.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 476.08,
+        "end": 478.64,
+        "english": "So you got to be careful when you throw that word in there or how you would use it.",
+        "chinese": "所以你得小心在那儿放那个词，或者你怎么会用它。"
+    },
+    {
+        "start": 478.64,
+        "end": 480.08,
+        "english": "And again, it's for men, right?",
+        "chinese": "而且，还是为男性设计的。"
+    },
+    {
+        "start": 480.08,
+        "end": 481.08,
+        "english": "Not for women.",
+        "chinese": "不为女性。"
+    },
+    {
+        "start": 481.08,
+        "end": 482.59999999999997,
+        "english": "Yeah, you can't use this word with women.",
+        "chinese": "是的，你不能用这个词来称呼女性。"
+    },
+    {
+        "start": 482.59999999999997,
+        "end": 483.59999999999997,
+        "english": "Oh, okay.",
+        "chinese": "你好，好吧。"
+    },
+    {
+        "start": 483.59999999999997,
+        "end": 486.44,
+        "english": "There's another one out there, but that will have to wait for another English pod.",
+        "chinese": "还有一个，但得等一下。"
+    },
+    {
+        "start": 486.71999999999997,
+        "end": 489.2,
+        "english": "Well, apparently all of these words are just for men.",
+        "chinese": "嗯，看来这些词只是男人用的。"
+    },
+    {
+        "start": 489.2,
+        "end": 490.76,
+        "english": "What did we do wrong?",
+        "chinese": "我们做错了什么？"
+    },
+    {
+        "start": 490.76,
+        "end": 493.28,
+        "english": "I, Marco, I can't begin to tell you.",
+        "chinese": "我是马克，我无法告诉你。"
+    },
+    {
+        "start": 493.28,
+        "end": 494.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 494.28,
+        "end": 495.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 495.28,
+        "end": 508.44,
+        "english": "So let's listen to our dialogue again and then we'll come back and look at some great phrases.",
+        "chinese": "所以，让我们再次听我们的对话，然后我们再来看看一些好词句。"
+    },
+    {
+        "start": 508.44,
+        "end": 509.96,
+        "english": "This is ridiculous.",
+        "chinese": "这个是荒谬的。"
+    },
+    {
+        "start": 509.96,
+        "end": 512.6,
+        "english": "I can't believe you've been sleeping with someone else.",
+        "chinese": "我简直不敢相信你竟然与别人同床共寝。"
+    },
+    {
+        "start": 512.6,
+        "end": 513.6,
+        "english": "How can you do this?",
+        "chinese": "如何做这个？"
+    },
+    {
+        "start": 513.6,
+        "end": 514.6,
+        "english": "You know what?",
+        "chinese": "你知道吗？"
+    },
+    {
+        "start": 514.6,
+        "end": 515.6,
+        "english": "I'm out of here.",
+        "chinese": "我是出了这里。"
+    },
+    {
+        "start": 515.6,
+        "end": 516.6,
+        "english": "Wade.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 516.6,
+        "end": 520.6,
+        "english": "Dr.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 520.6,
+        "end": 522.8000000000001,
+        "english": "How is this possible?",
+        "chinese": "如何可能？"
+    },
+    {
+        "start": 522.8000000000001,
+        "end": 525.6,
+        "english": "I haven't cheated on my boyfriend.",
+        "chinese": "我没有欺骗我的男朋友。"
+    },
+    {
+        "start": 525.6,
+        "end": 528.08,
+        "english": "I have something to confess.",
+        "chinese": "我有要交代的。"
+    },
+    {
+        "start": 528.08,
+        "end": 530.0,
+        "english": "I'm sorry, Veronica.",
+        "chinese": "对不起，维克里。"
+    },
+    {
+        "start": 530.0,
+        "end": 531.4,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 531.4,
+        "end": 535.44,
+        "english": "Wade, what?",
+        "chinese": "对不起，我无法直接翻译中文到另一种语言。不过，我可以尝试用英语来回答你的问题："
+    },
+    {
+        "start": 535.44,
+        "end": 536.44,
+        "english": "What do you mean?",
+        "chinese": "你什么意思？"
+    },
+    {
+        "start": 536.44,
+        "end": 537.44,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 537.44,
+        "end": 538.6800000000001,
+        "english": "You aren't even pregnant.",
+        "chinese": "您不是怀孕了。"
+    },
+    {
+        "start": 538.6800000000001,
+        "end": 540.9200000000001,
+        "english": "There's no body in the oven.",
+        "chinese": "没有在炉子里的实体。"
+    },
+    {
+        "start": 540.92,
+        "end": 545.7199999999999,
+        "english": "I was just so overwhelmed with jealousy that I couldn't help myself.",
+        "chinese": "我刚刚被如此的嫉妒所困扰，无法自拔。"
+    },
+    {
+        "start": 545.7199999999999,
+        "end": 549.8,
+        "english": "Veronica, I love you.",
+        "chinese": "我爱你，维罗尼卡。"
+    },
+    {
+        "start": 549.8,
+        "end": 551.52,
+        "english": "What are you talking about?",
+        "chinese": "在中文中，\"What are you talking about?\" 翻译成普通话是 \"你正在讨论什么？\" 或者更简洁地表达为 \"你在谈论什么？\"。如果你需要将这句话翻译成其他语言，请告诉我！"
+    },
+    {
+        "start": 551.52,
+        "end": 552.52,
+        "english": "Who?",
+        "chinese": "Who? 在中文中，\"Who?\" 通常翻译成 \"谁？\"。这个短语常用于询问某人或某物的身份、地位或者某个问题的答案。例如："
+    },
+    {
+        "start": 552.52,
+        "end": 553.68,
+        "english": "Who are you?",
+        "chinese": "我是谁？"
+    },
+    {
+        "start": 553.68,
+        "end": 555.7199999999999,
+        "english": "It's me, Daniel.",
+        "chinese": "我是丹尼尔。"
+    },
+    {
+        "start": 555.7199999999999,
+        "end": 558.28,
+        "english": "Don't you remember me from high school?",
+        "chinese": "我不记得你从高中时期认识我。"
+    },
+    {
+        "start": 558.28,
+        "end": 561.16,
+        "english": "I sat behind you in science class.",
+        "chinese": "在科学课上，我坐在你后面。"
+    },
+    {
+        "start": 561.16,
+        "end": 566.4,
+        "english": "I used to go to every football game and watch you in the cheerleading squad.",
+        "chinese": "我过去常常去观看你踢足球队的每场比赛，你也经常在彩排队里。"
+    },
+    {
+        "start": 566.4,
+        "end": 568.0,
+        "english": "You're insane.",
+        "chinese": "您是疯子。"
+    },
+    {
+        "start": 568.0,
+        "end": 570.1999999999999,
+        "english": "We never even spoke.",
+        "chinese": "我们从不说话。"
+    },
+    {
+        "start": 570.9200000000001,
+        "end": 573.6,
+        "english": "Why did you lie like that to my boyfriend?",
+        "chinese": "为什么你那么自私地欺骗我男朋友？"
+    },
+    {
+        "start": 573.6,
+        "end": 576.8000000000001,
+        "english": "Because, Veronica, it's not fair.",
+        "chinese": "因为，维克里，不公平。"
+    },
+    {
+        "start": 576.8000000000001,
+        "end": 578.32,
+        "english": "I love you.",
+        "chinese": "我爱您。"
+    },
+    {
+        "start": 578.32,
+        "end": 581.4000000000001,
+        "english": "I have since the first day we met.",
+        "chinese": "自从我们第一次见面以来，我已经很久了。"
+    },
+    {
+        "start": 581.4000000000001,
+        "end": 587.6400000000001,
+        "english": "Everything was going fine until that jerk came into the picture and ruined everything.",
+        "chinese": "一切都很顺利，直到那个坏家伙出现并破坏了这一切。"
+    },
+    {
+        "start": 587.6400000000001,
+        "end": 591.6,
+        "english": "I went to med school and became a doctor for you.",
+        "chinese": "我上医学院并成为你的医生。"
+    },
+    {
+        "start": 591.6,
+        "end": 595.72,
+        "english": "You always said how you wanted to marry a doctor?",
+        "chinese": "您总是说您想嫁给医生吗？"
+    },
+    {
+        "start": 595.72,
+        "end": 598.32,
+        "english": "You will be mine now.",
+        "chinese": "你将永远属于我。"
+    },
+    {
+        "start": 598.32,
+        "end": 603.32,
+        "english": "One way or another.",
+        "chinese": "一种方式或另一种。"
+    },
+    {
+        "start": 603.32,
+        "end": 606.12,
+        "english": "I heard everything you lying bastard.",
+        "chinese": "我听到你撒谎的混蛋。"
+    },
+    {
+        "start": 606.12,
+        "end": 608.32,
+        "english": "Get your hands off of her.",
+        "chinese": "请不要触摸她。"
+    },
+    {
+        "start": 608.32,
+        "end": 615.0400000000001,
+        "english": "Alright, so great stuff.",
+        "chinese": "好的，那么好东西。"
+    },
+    {
+        "start": 615.0400000000001,
+        "end": 616.0400000000001,
+        "english": "Jerk bastards.",
+        "chinese": "“咬人狂徒。”"
+    },
+    {
+        "start": 616.0400000000001,
+        "end": 618.0400000000001,
+        "english": "All that good words going around.",
+        "chinese": "所有的好话都在飘荡。"
+    },
+    {
+        "start": 618.0400000000001,
+        "end": 621.0400000000001,
+        "english": "But we've also got some amazing phrases.",
+        "chinese": "但是我们也有许多美妙的短语。"
+    },
+    {
+        "start": 621.0400000000001,
+        "end": 625.0400000000001,
+        "english": "So why don't we take a look at those now, Influency Builder.",
+        "chinese": "所以，我们为什么不看看这些呢？影响构建师。"
+    },
+    {
+        "start": 625.0400000000001,
+        "end": 626.0400000000001,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 626.0400000000001,
+        "end": 628.0,
+        "english": "Alright, so Influency Builder today.",
+        "chinese": "好的，今天，影响者构建器。"
+    },
+    {
+        "start": 628.0,
+        "end": 630.4,
+        "english": "We have three great phrases.",
+        "chinese": "我们有三个伟大的短语。"
+    },
+    {
+        "start": 630.4,
+        "end": 633.12,
+        "english": "Let's take a look at the first one.",
+        "chinese": "让我们看看第一个。"
+    },
+    {
+        "start": 633.12,
+        "end": 634.12,
+        "english": "Bun in the oven.",
+        "chinese": "在锅里煮。"
+    },
+    {
+        "start": 634.12,
+        "end": 635.12,
+        "english": "A bun in the oven.",
+        "chinese": "在锅里烤一个饼。"
+    },
+    {
+        "start": 635.12,
+        "end": 636.44,
+        "english": "A bun in the oven.",
+        "chinese": "在锅里烤一个饼。"
+    },
+    {
+        "start": 636.44,
+        "end": 638.72,
+        "english": "Okay, this is obviously an idiomatic phrase.",
+        "chinese": "好的，这是毫无疑问的口语化表达。"
+    },
+    {
+        "start": 638.72,
+        "end": 639.72,
+        "english": "Right?",
+        "chinese": "对？"
+    },
+    {
+        "start": 639.72,
+        "end": 641.08,
+        "english": "Well, it could be literal as well, right?",
+        "chinese": "是的，它也可以是实际的。"
+    },
+    {
+        "start": 641.08,
+        "end": 643.4,
+        "english": "Like you could actually have a piece of bread in your oven.",
+        "chinese": "像你有能在烤箱里拿一块面包的能力。"
+    },
+    {
+        "start": 643.4,
+        "end": 644.4,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 644.4,
+        "end": 646.32,
+        "english": "Bun is a piece of bread in the oven.",
+        "chinese": "在烤箱里，面包是被烤熟的。"
+    },
+    {
+        "start": 646.32,
+        "end": 648.68,
+        "english": "But in this context, we're not using it.",
+        "chinese": "但是在这个情境中，我们并不使用它。"
+    },
+    {
+        "start": 648.68,
+        "end": 651.36,
+        "english": "No, it means you're pregnant.",
+        "chinese": "是的，它意味着你怀孕了。"
+    },
+    {
+        "start": 651.36,
+        "end": 652.36,
+        "english": "You're pregnant.",
+        "chinese": "您怀孕了。"
+    },
+    {
+        "start": 652.36,
+        "end": 653.36,
+        "english": "So the baby is the bun.",
+        "chinese": "所以这个宝宝就是这个包子。"
+    },
+    {
+        "start": 653.36,
+        "end": 655.36,
+        "english": "Yeah, and the oven is your stomach.",
+        "chinese": "是的，灶台就是你的胃。"
+    },
+    {
+        "start": 655.36,
+        "end": 656.36,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 656.36,
+        "end": 658.16,
+        "english": "You say she has a bun in the oven.",
+        "chinese": "您说她正在烤面包。"
+    },
+    {
+        "start": 658.16,
+        "end": 659.16,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 659.16,
+        "end": 660.16,
+        "english": "She's pregnant.",
+        "chinese": "她怀孕了。"
+    },
+    {
+        "start": 660.16,
+        "end": 661.16,
+        "english": "She's pregnant.",
+        "chinese": "她怀孕了。"
+    },
+    {
+        "start": 661.16,
+        "end": 662.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 662.16,
+        "end": 665.5600000000001,
+        "english": "It could be difficult to understand if you don't really have the explanation, right?",
+        "chinese": "是的，理解起来可能很难，对吧？"
+    },
+    {
+        "start": 665.5600000000001,
+        "end": 666.5600000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 666.5600000000001,
+        "end": 667.5600000000001,
+        "english": "You would say what?",
+        "chinese": "你又说啥？"
+    },
+    {
+        "start": 667.5600000000001,
+        "end": 668.5600000000001,
+        "english": "She has bread in the oven.",
+        "chinese": "她正在烤面包。"
+    },
+    {
+        "start": 668.5600000000001,
+        "end": 669.5600000000001,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 669.5600000000001,
+        "end": 670.5600000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 670.5600000000001,
+        "end": 671.5600000000001,
+        "english": "A bun in the oven.",
+        "chinese": "在锅里烤一个饼。"
+    },
+    {
+        "start": 671.5600000000001,
+        "end": 672.5600000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 672.5600000000001,
+        "end": 674.08,
+        "english": "Now let's take a look at the second one.",
+        "chinese": "现在让我们看看第二件。"
+    },
+    {
+        "start": 674.08,
+        "end": 675.08,
+        "english": "Couldn't help myself.",
+        "chinese": "我能不帮助你吗？"
+    },
+    {
+        "start": 675.08,
+        "end": 676.84,
+        "english": "I couldn't help myself.",
+        "chinese": "我无法不这样做。"
+    },
+    {
+        "start": 676.84,
+        "end": 679.04,
+        "english": "I couldn't help myself.",
+        "chinese": "我无法不这样做。"
+    },
+    {
+        "start": 679.04,
+        "end": 683.6,
+        "english": "So when you can't help yourself, you can't control yourself.",
+        "chinese": "所以当你无法控制自己时，你也无法控制自己。"
+    },
+    {
+        "start": 683.6,
+        "end": 684.6,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 685.0,
+        "end": 688.16,
+        "english": "You did something, but you couldn't control it.",
+        "chinese": "您做了什么，但你无法控制它。"
+    },
+    {
+        "start": 688.16,
+        "end": 689.16,
+        "english": "You couldn't stop it.",
+        "chinese": "您不能停止它。"
+    },
+    {
+        "start": 689.16,
+        "end": 690.16,
+        "english": "You couldn't stop it.",
+        "chinese": "你不能停止它。"
+    },
+    {
+        "start": 690.16,
+        "end": 692.84,
+        "english": "Okay, so let's listen to some examples of how you would use.",
+        "chinese": "好的，那么让我们听听如何使用你的方式。"
+    },
+    {
+        "start": 692.84,
+        "end": 697.16,
+        "english": "I couldn't help myself because it's a phrase that you can use in many different ways,",
+        "chinese": "我无法不这样做，因为这句话你可以在各种不同的方式中使用。"
+    },
+    {
+        "start": 697.16,
+        "end": 698.16,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 698.16,
+        "end": 699.16,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 699.16,
+        "end": 700.16,
+        "english": "Let's listen.",
+        "chinese": "让我们倾听。"
+    },
+    {
+        "start": 700.16,
+        "end": 701.16,
+        "english": "Example one.",
+        "chinese": "Example one. 例一。"
+    },
+    {
+        "start": 701.16,
+        "end": 704.72,
+        "english": "I just couldn't help myself when I saw your car.",
+        "chinese": "我看到你的车，就忍不住了。"
+    },
+    {
+        "start": 704.72,
+        "end": 708.4,
+        "english": "I just had to buy it.",
+        "chinese": "我刚刚需要买它。"
+    },
+    {
+        "start": 708.4,
+        "end": 710.9200000000001,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 710.9200000000001,
+        "end": 711.9200000000001,
+        "english": "I'm sorry.",
+        "chinese": "我非常抱歉。"
+    },
+    {
+        "start": 711.9200000000001,
+        "end": 712.9200000000001,
+        "english": "I couldn't help myself.",
+        "chinese": "我忍不住。"
+    },
+    {
+        "start": 712.92,
+        "end": 717.3199999999999,
+        "english": "I just started laughing.",
+        "chinese": "我刚刚开始笑。"
+    },
+    {
+        "start": 717.3199999999999,
+        "end": 721.0799999999999,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 721.0799999999999,
+        "end": 723.92,
+        "english": "That cake was so good.",
+        "chinese": "那蛋糕太好了。"
+    },
+    {
+        "start": 723.92,
+        "end": 725.7199999999999,
+        "english": "I couldn't help myself.",
+        "chinese": "我无法不这样做。"
+    },
+    {
+        "start": 725.7199999999999,
+        "end": 730.12,
+        "english": "I ate it all.",
+        "chinese": "我吃完了它。"
+    },
+    {
+        "start": 730.12,
+        "end": 731.12,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 731.12,
+        "end": 732.12,
+        "english": "Perfect.",
+        "chinese": "完美。"
+    },
+    {
+        "start": 732.12,
+        "end": 733.12,
+        "english": "Couldn't help myself.",
+        "chinese": "我无法不这样做。"
+    },
+    {
+        "start": 733.12,
+        "end": 734.12,
+        "english": "Easy.",
+        "chinese": "易。"
+    },
+    {
+        "start": 734.12,
+        "end": 739.48,
+        "english": "Now, the doctor, he couldn't help himself from lying to Veronica because he was angry that",
+        "chinese": "现在，医生，他不能不帮助自己向维奥拉撒谎，因为他很生气。"
+    },
+    {
+        "start": 739.48,
+        "end": 747.2,
+        "english": "her boyfriend, Stephen, came into the picture, came into the picture, to come into the picture.",
+        "chinese": "她的男朋友斯蒂芬，出现在镜头前，出现在镜头前。"
+    },
+    {
+        "start": 747.2,
+        "end": 748.2,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 748.2,
+        "end": 750.8000000000001,
+        "english": "So what does it mean when somebody comes into the picture?",
+        "chinese": "所以，当有人出现在画面中时，意味着什么？"
+    },
+    {
+        "start": 750.8000000000001,
+        "end": 754.2,
+        "english": "Well, basically, you appear in somebody's life.",
+        "chinese": "嗯，基本上，你出现在别人的生活里。"
+    },
+    {
+        "start": 754.2,
+        "end": 756.44,
+        "english": "You come into somebody's life.",
+        "chinese": "您进入某人的生活。"
+    },
+    {
+        "start": 756.44,
+        "end": 762.36,
+        "english": "So imagine that your life is a picture and somebody, all of a sudden, comes into it.",
+        "chinese": "所以想象一下，你的生活是一幅画，突然间，有人进入了这幅画。"
+    },
+    {
+        "start": 762.36,
+        "end": 763.8000000000001,
+        "english": "So they come into the picture.",
+        "chinese": "所以他们出现在画面中。"
+    },
+    {
+        "start": 763.8000000000001,
+        "end": 764.96,
+        "english": "They come into your life.",
+        "chinese": "他们进入你的生活。"
+    },
+    {
+        "start": 764.96,
+        "end": 765.96,
+        "english": "Come into your life.",
+        "chinese": "来活在你的生活中。"
+    },
+    {
+        "start": 765.96,
+        "end": 766.96,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 766.96,
+        "end": 771.0,
+        "english": "Maybe that's Stephen appeared into Veronica's life and they're in love and all that stuff.",
+        "chinese": "可能就是斯蒂芬出现在维奥拉的生活中，他们相爱，一切如此。"
+    },
+    {
+        "start": 771.0,
+        "end": 772.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 772.0,
+        "end": 773.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 773.0,
+        "end": 776.08,
+        "english": "Well, these are some great phrases and why don't we listen to them again in context?",
+        "chinese": "好的，这些是些很棒的短语，为什么我们不要在语境中再听一遍呢？"
+    },
+    {
+        "start": 776.08,
+        "end": 789.48,
+        "english": "So let's listen to the dialogue.",
+        "chinese": "所以让我们倾听对话。"
+    },
+    {
+        "start": 789.48,
+        "end": 790.48,
+        "english": "This is ridiculous.",
+        "chinese": "这个是荒谬的。"
+    },
+    {
+        "start": 790.48,
+        "end": 793.6800000000001,
+        "english": "I can't believe you've been sleeping with someone else.",
+        "chinese": "我简直不敢相信你竟然与别人同床共寝。"
+    },
+    {
+        "start": 793.6800000000001,
+        "end": 794.6800000000001,
+        "english": "How could you do this?",
+        "chinese": "如何能做得到这个？"
+    },
+    {
+        "start": 794.6800000000001,
+        "end": 795.6800000000001,
+        "english": "You know what?",
+        "chinese": "你知道吗？"
+    },
+    {
+        "start": 795.6800000000001,
+        "end": 796.6800000000001,
+        "english": "I'm out of here.",
+        "chinese": "我是出了这里。"
+    },
+    {
+        "start": 796.9599999999999,
+        "end": 797.9599999999999,
+        "english": "Wait.",
+        "chinese": "等待。"
+    },
+    {
+        "start": 800.9599999999999,
+        "end": 804.1999999999999,
+        "english": "Doctor, how is this possible?",
+        "chinese": "医生，这怎么可能？"
+    },
+    {
+        "start": 804.1999999999999,
+        "end": 806.9599999999999,
+        "english": "I haven't cheated on my boyfriend.",
+        "chinese": "我没有欺骗我的男朋友。"
+    },
+    {
+        "start": 806.9599999999999,
+        "end": 809.4399999999999,
+        "english": "I have something to confess.",
+        "chinese": "我有要交代的。"
+    },
+    {
+        "start": 809.4399999999999,
+        "end": 811.4,
+        "english": "I'm sorry, Veronica.",
+        "chinese": "对不起，维克里。"
+    },
+    {
+        "start": 811.4,
+        "end": 812.4,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 814.76,
+        "end": 815.56,
+        "english": "Wait.",
+        "chinese": "等待。"
+    },
+    {
+        "start": 815.56,
+        "end": 816.7199999999999,
+        "english": "What?",
+        "chinese": "什么？"
+    },
+    {
+        "start": 816.7199999999999,
+        "end": 817.76,
+        "english": "What do you mean?",
+        "chinese": "你什么意思？"
+    },
+    {
+        "start": 817.76,
+        "end": 818.8,
+        "english": "I lied.",
+        "chinese": "我撒谎。"
+    },
+    {
+        "start": 818.8,
+        "end": 820.4,
+        "english": "You aren't even pregnant.",
+        "chinese": "您不是怀孕了。"
+    },
+    {
+        "start": 820.4,
+        "end": 822.3199999999999,
+        "english": "There's no body in the oven.",
+        "chinese": "没有在炉子里的实体。"
+    },
+    {
+        "start": 822.32,
+        "end": 827.0400000000001,
+        "english": "I was just so overwhelmed with jealousy that I couldn't help myself.",
+        "chinese": "我刚刚被如此的嫉妒所困扰，无法自拔。"
+    },
+    {
+        "start": 827.0400000000001,
+        "end": 829.0400000000001,
+        "english": "Veronica, I love you.",
+        "chinese": "我爱你， Veronica。"
+    },
+    {
+        "start": 831.0400000000001,
+        "end": 832.84,
+        "english": "What are you talking about?",
+        "chinese": "在中文中，\"What are you talking about?\" 翻译成普通话是 \"你在说些什么？\" 或者更简洁地表达为 \"你正在说什么？\"。如果你需要一个更正式或礼貌的翻译，请告诉我！"
+    },
+    {
+        "start": 832.84,
+        "end": 833.84,
+        "english": "Who?",
+        "chinese": "Who? 在中文中，\"Who?\" 通常翻译成“谁？”。例如："
+    },
+    {
+        "start": 833.84,
+        "end": 835.44,
+        "english": "Who are you?",
+        "chinese": "我是谁？"
+    },
+    {
+        "start": 835.44,
+        "end": 837.44,
+        "english": "It's me, Daniel.",
+        "chinese": "我是丹尼尔。"
+    },
+    {
+        "start": 837.44,
+        "end": 839.7600000000001,
+        "english": "Don't you remember me from high school?",
+        "chinese": "我不记得你从高中的时候。"
+    },
+    {
+        "start": 839.7600000000001,
+        "end": 842.6400000000001,
+        "english": "I sat behind you in science class.",
+        "chinese": "在科学课上，我坐在你后面。"
+    },
+    {
+        "start": 842.6400000000001,
+        "end": 847.6400000000001,
+        "english": "I used to go to every football game and watch you in a cheerleading squad.",
+        "chinese": "我过去常常去观看你参加足球比赛，并且经常在队列中为你加油。"
+    },
+    {
+        "start": 847.6400000000001,
+        "end": 849.32,
+        "english": "You're insane.",
+        "chinese": "您是疯子。"
+    },
+    {
+        "start": 849.32,
+        "end": 850.6400000000001,
+        "english": "We never even spoke.",
+        "chinese": "我们从不说话。"
+    },
+    {
+        "start": 852.32,
+        "end": 854.9200000000001,
+        "english": "Why did you lie like that to my boyfriend?",
+        "chinese": "为什么你那么自私地欺骗我男朋友？"
+    },
+    {
+        "start": 854.9200000000001,
+        "end": 858.2,
+        "english": "Because, Veronica, it's not fair.",
+        "chinese": "因为，维克里，不公平。"
+    },
+    {
+        "start": 858.2,
+        "end": 859.72,
+        "english": "I love you.",
+        "chinese": "我爱您。"
+    },
+    {
+        "start": 859.72,
+        "end": 862.7600000000001,
+        "english": "I have since the first day we met.",
+        "chinese": "自从我们第一次见面以来，我已经很久了。"
+    },
+    {
+        "start": 862.7600000000001,
+        "end": 869.0,
+        "english": "Everything was going fine until that jerk came into the picture and ruined everything.",
+        "chinese": "从那起，一切都很顺利，直到那个坏家伙出现并破坏了这一切。"
+    },
+    {
+        "start": 869.0,
+        "end": 873.0,
+        "english": "I went to med school and became a doctor for you.",
+        "chinese": "我上医学院并成为你的医生。"
+    },
+    {
+        "start": 873.0,
+        "end": 877.12,
+        "english": "You always said, are you wanted to marry a doctor?",
+        "chinese": "您总是说，您是想嫁给我医生吗？"
+    },
+    {
+        "start": 877.12,
+        "end": 879.72,
+        "english": "You will be mine now.",
+        "chinese": "你将永远属于我。"
+    },
+    {
+        "start": 879.72,
+        "end": 884.6800000000001,
+        "english": "One way or another.",
+        "chinese": "一种方式或另一种。"
+    },
+    {
+        "start": 884.6800000000001,
+        "end": 887.44,
+        "english": "I heard everything you lying bastard.",
+        "chinese": "我听到你撒谎的混蛋。"
+    },
+    {
+        "start": 887.44,
+        "end": 889.72,
+        "english": "Get your hands off of her.",
+        "chinese": "请不要拿她手下的东西。"
+    },
+    {
+        "start": 889.72,
+        "end": 899.88,
+        "english": "Okay, so Veronica is not pregnant.",
+        "chinese": "好的，维奥拉目前不是怀孕的。"
+    },
+    {
+        "start": 899.88,
+        "end": 900.88,
+        "english": "That was a close one.",
+        "chinese": "这句话的中文翻译是：“那是一场艰难的比赛。”"
+    },
+    {
+        "start": 900.88,
+        "end": 901.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 901.88,
+        "end": 903.72,
+        "english": "Actually, they're not married.",
+        "chinese": "实际上，他们不是夫妻。"
+    },
+    {
+        "start": 903.72,
+        "end": 906.4,
+        "english": "This is a controversial topic.",
+        "chinese": "这是一个有争议的话题。"
+    },
+    {
+        "start": 906.4,
+        "end": 907.88,
+        "english": "Being knocked up.",
+        "chinese": "被拐骗。"
+    },
+    {
+        "start": 907.88,
+        "end": 908.88,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 908.88,
+        "end": 909.88,
+        "english": "Nice phrase.",
+        "chinese": "好词。"
+    },
+    {
+        "start": 909.88,
+        "end": 916.4,
+        "english": "There's a lot of interesting phrases and ways you can talk about pregnancy.",
+        "chinese": "这里有很多有趣的表达和方法，你可以谈论怀孕。"
+    },
+    {
+        "start": 916.4,
+        "end": 918.4,
+        "english": "If you're knocked up, you're pregnant.",
+        "chinese": "如果你被卷入，你就是怀孕了。"
+    },
+    {
+        "start": 918.4,
+        "end": 920.8,
+        "english": "You could hear that in movies.",
+        "chinese": "您可以在电影中听到这个。"
+    },
+    {
+        "start": 920.8,
+        "end": 925.0,
+        "english": "It's not really, I would say, a proper way of saying it.",
+        "chinese": "是的，我可以说这是一种不恰当的方式。"
+    },
+    {
+        "start": 925.0,
+        "end": 930.68,
+        "english": "No, it's not that polite because it gives you the idea that it was a mistake.",
+        "chinese": "是的，它不是因为这样做的方式不好听。因为它让你认为这是个错误。"
+    },
+    {
+        "start": 930.68,
+        "end": 934.12,
+        "english": "You would say she got knocked up.",
+        "chinese": "您会说她怀孕了。"
+    },
+    {
+        "start": 934.12,
+        "end": 935.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 935.12,
+        "end": 937.8,
+        "english": "Another common phrase is, preggers.",
+        "chinese": "另一个常见的表达是“早恋”。"
+    },
+    {
+        "start": 937.8,
+        "end": 941.12,
+        "english": "I heard this is a more Australian, right?",
+        "chinese": "我听到这听起来更像澳大利亚。"
+    },
+    {
+        "start": 941.12,
+        "end": 942.12,
+        "english": "She's pregnant.",
+        "chinese": "她怀孕了。"
+    },
+    {
+        "start": 942.12,
+        "end": 943.12,
+        "english": "She's pregnant.",
+        "chinese": "她怀孕了。"
+    },
+    {
+        "start": 943.12,
+        "end": 945.16,
+        "english": "It's actually a pretty interesting topic.",
+        "chinese": "是的，这是一个很有趣的话题。"
+    },
+    {
+        "start": 945.16,
+        "end": 952.1999999999999,
+        "english": "I know that, for example, in Latin America, if a girl that's maybe in her early 20s gets",
+        "chinese": "我知道，例如，在拉丁美洲，如果一个可能在她20多岁左右的女孩被怀疑是性侵受害者，那么她的年龄和性别信息可能会成为重要的证据。"
+    },
+    {
+        "start": 952.1999999999999,
+        "end": 957.04,
+        "english": "pregnant accidentally by her boyfriend, usually the family is expecting them to get married.",
+        "chinese": "怀孕意外由男友所生，通常家庭是期望他们结婚的。"
+    },
+    {
+        "start": 957.04,
+        "end": 958.04,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 958.04,
+        "end": 959.04,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 959.04,
+        "end": 960.52,
+        "english": "It's kind of like, should they get married?",
+        "chinese": "是啊，他们应该结婚吗？"
+    },
+    {
+        "start": 960.52,
+        "end": 961.52,
+        "english": "Should they not?",
+        "chinese": "是吗？"
+    },
+    {
+        "start": 961.52,
+        "end": 962.52,
+        "english": "There's a lot of pressure.",
+        "chinese": "这里有很多压力。"
+    },
+    {
+        "start": 962.52,
+        "end": 964.12,
+        "english": "A lot of pressure.",
+        "chinese": "大量压力。"
+    },
+    {
+        "start": 964.12,
+        "end": 965.9599999999999,
+        "english": "But it's different in other countries, right?",
+        "chinese": "但是在中国，情况是不同的。"
+    },
+    {
+        "start": 966.0400000000001,
+        "end": 971.0400000000001,
+        "english": "So, I don't know, for you guys, what's it like in your country where you live?",
+        "chinese": "所以，我不太知道，你们这些人在你们的国家里过得怎么样？"
+    },
+    {
+        "start": 971.0400000000001,
+        "end": 974.0400000000001,
+        "english": "Is there pressure on the guy and the girl to get married?",
+        "chinese": "是这个男人和那个女人的压力在促使他们结婚？"
+    },
+    {
+        "start": 974.0400000000001,
+        "end": 977.76,
+        "english": "I mean, should Steven and Veronica get married in this situation?",
+        "chinese": "我指的是，如果斯蒂芬和维罗尼卡在这样的情况下结婚呢？"
+    },
+    {
+        "start": 977.76,
+        "end": 979.36,
+        "english": "Or what about just living together?",
+        "chinese": "或者，还是同居吧？"
+    },
+    {
+        "start": 979.36,
+        "end": 981.88,
+        "english": "Or as they say, living in sin, right?",
+        "chinese": "或者正如他们所说，生活在罪恶中。"
+    },
+    {
+        "start": 981.88,
+        "end": 983.88,
+        "english": "Living in sin.",
+        "chinese": "在堕落。"
+    },
+    {
+        "start": 983.88,
+        "end": 985.2800000000001,
+        "english": "Living together, living in sin.",
+        "chinese": "生活在一起，生活在罪恶中。"
+    },
+    {
+        "start": 985.2800000000001,
+        "end": 986.2800000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 986.2800000000001,
+        "end": 990.96,
+        "english": "So, is it okay to just live together with your girlfriend or should you get married before?",
+        "chinese": "所以，你们是否应该和你的女朋友一起生活？还是得早点结婚呢？"
+    },
+    {
+        "start": 990.96,
+        "end": 994.72,
+        "english": "This is a controversial topic, so we'll have a lot of different opinions.",
+        "chinese": "这是一个敏感的话题，所以我们会有许多不同的观点。"
+    },
+    {
+        "start": 994.72,
+        "end": 995.72,
+        "english": "But it should be interesting.",
+        "chinese": "但是，应该有趣。"
+    },
+    {
+        "start": 995.72,
+        "end": 998.0,
+        "english": "Yes, so visit our website and tell us what you think.",
+        "chinese": "是的，所以访问我们的网站并告诉我们你的看法。"
+    },
+    {
+        "start": 998.0,
+        "end": 999.0,
+        "english": "EnglishPod.com.",
+        "chinese": "中文名：英语播客。"
+    },
+    {
+        "start": 999.0,
+        "end": 1000.8000000000001,
+        "english": "Alright, guys, we'll see you there.",
+        "chinese": "好的，大家，到时候见。"
+    }
+]

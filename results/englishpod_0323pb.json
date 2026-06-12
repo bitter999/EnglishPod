@@ -1,0 +1,1610 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.16,
+        "english": "Hello everyone and welcome to EnglishPod.",
+        "chinese": "大家好，欢迎来到英语播客。"
+    },
+    {
+        "start": 3.16,
+        "end": 4.16,
+        "english": "My name is Marco.",
+        "chinese": "我的名字是Marco。"
+    },
+    {
+        "start": 4.16,
+        "end": 8.08,
+        "english": "And my name is Catherine and today we have a great lesson for you about traveling.",
+        "chinese": "我的名字是凯特，今天我们有今天的课程来教你旅行。"
+    },
+    {
+        "start": 8.08,
+        "end": 9.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 9.08,
+        "end": 13.4,
+        "english": "You know, we have taken a look at previous lessons where you can buy a ticket, how to book",
+        "chinese": "英语：你懂吗，我们已经看了之前的学习资料，可以购买一张票，如何预订。"
+    },
+    {
+        "start": 13.4,
+        "end": 16.16,
+        "english": "a flight, what to do at the airport.",
+        "chinese": "飞机，机场怎么办？"
+    },
+    {
+        "start": 16.16,
+        "end": 21.28,
+        "english": "But now we are going to see what we can do if our flight gets cancelled.",
+        "chinese": "但是现在我们准备看看如果我们航班取消了，我们可以做些什么。"
+    },
+    {
+        "start": 21.28,
+        "end": 26.72,
+        "english": "Okay, this is not a fun situation, but hopefully with our help you'll be able to understand",
+        "chinese": "好的，这是一个不愉快的情况，但希望我们的帮助能让你理解。"
+    },
+    {
+        "start": 26.72,
+        "end": 29.84,
+        "english": "what these messages are about flights that are cancelled or delayed.",
+        "chinese": "这些消息是关于取消或延迟的航班。"
+    },
+    {
+        "start": 29.84,
+        "end": 37.68,
+        "english": "So let's take a listen to today's dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 37.68,
+        "end": 38.68,
+        "english": "Good afternoon sir.",
+        "chinese": "下午好，请问有什么可以帮助的？"
+    },
+    {
+        "start": 38.68,
+        "end": 41.28,
+        "english": "May I please see your passport and reservation?",
+        "chinese": "英语：请让我看看你的护照和预订。"
+    },
+    {
+        "start": 41.28,
+        "end": 42.28,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 42.28,
+        "end": 45.120000000000005,
+        "english": "Oh, I'm sorry sir.",
+        "chinese": "英语：哦，对不起先生。"
+    },
+    {
+        "start": 45.120000000000005,
+        "end": 48.480000000000004,
+        "english": "This flight has been cancelled due to some mechanical problems.",
+        "chinese": "这个飞行因为一些机械问题被取消了。"
+    },
+    {
+        "start": 48.480000000000004,
+        "end": 49.480000000000004,
+        "english": "Canceled?",
+        "chinese": "英语：取消了？"
+    },
+    {
+        "start": 49.480000000000004,
+        "end": 51.120000000000005,
+        "english": "What am I supposed to do now?",
+        "chinese": "在什么情况下我应该做些什么？"
+    },
+    {
+        "start": 51.120000000000005,
+        "end": 55.480000000000004,
+        "english": "We apologize for any inconveniences that may be caused by this.",
+        "chinese": "我们向您道歉，因为可能会给您带来不便。"
+    },
+    {
+        "start": 55.480000000000004,
+        "end": 59.28,
+        "english": "If your flight is urgent, I could put you on a waiting list for another flight this",
+        "chinese": "如果您的航班非常紧急，我可以在下次航班前为您安排一个座位。"
+    },
+    {
+        "start": 59.28,
+        "end": 63.0,
+        "english": "evening, but it's on a first-come, first-served basis.",
+        "chinese": "晚上，但它是先到先服务制。"
+    },
+    {
+        "start": 63.0,
+        "end": 66.6,
+        "english": "So there's no guarantee you'll be able to take that flight.",
+        "chinese": "所以，你肯定无法在那架飞机上成功飞行。"
+    },
+    {
+        "start": 66.6,
+        "end": 68.12,
+        "english": "What are my other options?",
+        "chinese": "英语：什么是我其他的选择？"
+    },
+    {
+        "start": 68.12,
+        "end": 73.16,
+        "english": "Well, if you can wait until tomorrow, we will put you up in a hotel for today and you",
+        "chinese": "嗯，如果明天你愿意等待，我们将把您安排在今天住进酒店，并且您将在这里度过今天的夜晚。"
+    },
+    {
+        "start": 73.16,
+        "end": 75.92,
+        "english": "can take the scheduled flight for tomorrow morning.",
+        "chinese": "可以明天早上飞往预定的航班。"
+    },
+    {
+        "start": 75.92,
+        "end": 76.92,
+        "english": "That's fine.",
+        "chinese": "没关系。"
+    },
+    {
+        "start": 76.92,
+        "end": 77.92,
+        "english": "I'll do that then.",
+        "chinese": "我将这么做。"
+    },
+    {
+        "start": 77.92,
+        "end": 78.92,
+        "english": "Thank you for your understanding, sir.",
+        "chinese": "谢谢您的理解，先生。"
+    },
+    {
+        "start": 78.92,
+        "end": 80.92,
+        "english": "I'll book your flight now.",
+        "chinese": "我将为您预订机票。"
+    },
+    {
+        "start": 80.92,
+        "end": 84.08,
+        "english": "Alright, we're back.",
+        "chinese": "好的，我们回来了。"
+    },
+    {
+        "start": 84.08,
+        "end": 90.56,
+        "english": "So now it's time for us to go into language takeaway.",
+        "chinese": "所以现在我们该去准备一下语言学习了。"
+    },
+    {
+        "start": 90.56,
+        "end": 92.03999999999999,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 92.03999999999999,
+        "end": 96.92,
+        "english": "Alright, in language takeaway today we have about four words or phrases.",
+        "chinese": "好的，今天语言总结的主题是“四句话或短语”。"
+    },
+    {
+        "start": 96.92,
+        "end": 100.32,
+        "english": "The first one is the reason for this cancellation.",
+        "chinese": "第一个原因是这个取消的原因。"
+    },
+    {
+        "start": 100.32,
+        "end": 102.52,
+        "english": "The reason is mechanical problems.",
+        "chinese": "英语：原因是因为机械问题。"
+    },
+    {
+        "start": 102.52,
+        "end": 103.52,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 103.52,
+        "end": 108.75999999999999,
+        "english": "She said that the airplane has some mechanical problems and that's why the flight is cancelled.",
+        "chinese": "英语：她说飞机上有机械问题，所以航班取消了。"
+    },
+    {
+        "start": 108.75999999999999,
+        "end": 110.84,
+        "english": "So the key here is mechanical.",
+        "chinese": "所以关键是机械的。"
+    },
+    {
+        "start": 110.84,
+        "end": 113.56,
+        "english": "Mechanical meaning like related to machines, right?",
+        "chinese": "英语：机械意义，类似于机器的含义。"
+    },
+    {
+        "start": 114.04,
+        "end": 117.68,
+        "english": "Alright, so something that's a mechanical problem has to do with the actual structure of",
+        "chinese": "好的，所以与实际结构有关的问题涉及到机械问题。"
+    },
+    {
+        "start": 117.68,
+        "end": 118.84,
+        "english": "the plane.",
+        "chinese": "飞机。"
+    },
+    {
+        "start": 118.84,
+        "end": 119.84,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 119.84,
+        "end": 123.68,
+        "english": "So for example, maybe something is wrong with the wings or maybe something is wrong with",
+        "chinese": "英语：所以，比如，可能翅膀有问题或者可能支架有问题。"
+    },
+    {
+        "start": 123.68,
+        "end": 128.8,
+        "english": "the engines, some type of problem that has to do with the mechanics of the machine.",
+        "chinese": "这个引擎，一些与机器的机械问题有关。"
+    },
+    {
+        "start": 128.8,
+        "end": 129.8,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 129.8,
+        "end": 133.84,
+        "english": "And obviously, if you have a problem with the wings or the wheels or the engine, you",
+        "chinese": "当然，如果你对翅膀或轮子或发动机有问题，你"
+    },
+    {
+        "start": 133.84,
+        "end": 135.88,
+        "english": "don't want to fly that plane.",
+        "chinese": "英语：不要想方设法飞那架飞机。"
+    },
+    {
+        "start": 135.88,
+        "end": 136.88,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 136.88,
+        "end": 139.32,
+        "english": "So this caused the cancelled flight.",
+        "chinese": "英语：所以这导致了航班取消。"
+    },
+    {
+        "start": 139.48,
+        "end": 141.2,
+        "english": "Now after that we heard this word.",
+        "chinese": "现在听了这个字，我们就开始了。"
+    },
+    {
+        "start": 141.2,
+        "end": 144.23999999999998,
+        "english": "We apologize for any inconveniences.",
+        "chinese": "我们向您道歉。"
+    },
+    {
+        "start": 144.23999999999998,
+        "end": 145.95999999999998,
+        "english": "What's an inconvenience, Marco?",
+        "chinese": "不好意思，我不能直接回答这个问题。如果您有其他问题或需要帮助，请随时告诉我！"
+    },
+    {
+        "start": 145.95999999999998,
+        "end": 146.95999999999998,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 146.95999999999998,
+        "end": 151.76,
+        "english": "Well, obviously I planned it to take this flight, let's say Tuesday at 8 a.m.",
+        "chinese": "嗯，很明显我计划了这个航班，说周二上午八点。"
+    },
+    {
+        "start": 151.76,
+        "end": 156.51999999999998,
+        "english": "And if the flight is cancelled, that means I have to wait an hour or three hours or maybe",
+        "chinese": "如果航班取消了，这意味着我必须等待一小时或三小时或者可能更久。"
+    },
+    {
+        "start": 156.51999999999998,
+        "end": 157.51999999999998,
+        "english": "for the next day.",
+        "chinese": "今天。"
+    },
+    {
+        "start": 157.51999999999998,
+        "end": 159.04,
+        "english": "So it's an inconvenience.",
+        "chinese": "所以，它是一个不便。"
+    },
+    {
+        "start": 159.04,
+        "end": 161.0,
+        "english": "It means it's not convenient for me.",
+        "chinese": "英语：它意味着对我来说不太方便。"
+    },
+    {
+        "start": 161.0,
+        "end": 162.79999999999998,
+        "english": "It causes me some trouble.",
+        "chinese": "英语：它让我有些困扰。"
+    },
+    {
+        "start": 162.79999999999998,
+        "end": 167.64,
+        "english": "Alright, so something that is inconvenient causes problems or causes trouble.",
+        "chinese": "好的，所以不方便导致问题或麻烦。"
+    },
+    {
+        "start": 167.64,
+        "end": 168.64,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 168.67999999999998,
+        "end": 174.23999999999998,
+        "english": "For example, you have this late flight or cancelled flight, that's an inconvenience, but also",
+        "chinese": "例如，你有这个晚点的航班或取消的航班，这确实是个不便，但也意味着需要卸下重任。"
+    },
+    {
+        "start": 174.23999999999998,
+        "end": 176.72,
+        "english": "small things can be inconvenient as well.",
+        "chinese": "小事情也可以不那么麻烦。"
+    },
+    {
+        "start": 176.72,
+        "end": 179.27999999999997,
+        "english": "Like I want to go home at five.",
+        "chinese": "英语：我想要在五点回家。"
+    },
+    {
+        "start": 179.27999999999997,
+        "end": 181.39999999999998,
+        "english": "Unfortunately, I have to write this report.",
+        "chinese": "抱歉，我必须写这份报告。"
+    },
+    {
+        "start": 181.39999999999998,
+        "end": 183.04,
+        "english": "It's very inconvenient.",
+        "chinese": "英语：它很不方便。"
+    },
+    {
+        "start": 183.04,
+        "end": 184.04,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 184.04,
+        "end": 187.56,
+        "english": "So maybe you have a doctor's appointment tomorrow at 12, but you also have a meeting at",
+        "chinese": "英语：所以，也许你明天下午两点有医生预约，但你也有一场会议。"
+    },
+    {
+        "start": 187.56,
+        "end": 188.56,
+        "english": "your work.",
+        "chinese": "你的工作。"
+    },
+    {
+        "start": 188.56,
+        "end": 189.56,
+        "english": "So it's inconvenient.",
+        "chinese": "英语：所以它不方便。"
+    },
+    {
+        "start": 189.56,
+        "end": 190.56,
+        "english": "These two dates.",
+        "chinese": "这些两个日期。"
+    },
+    {
+        "start": 190.56,
+        "end": 193.23999999999998,
+        "english": "Alright, they cause problems for each other.",
+        "chinese": "好的，他们对彼此造成了问题。"
+    },
+    {
+        "start": 193.23999999999998,
+        "end": 197.76,
+        "english": "So after that, the service person says if your flight is urgent, I can put you on a waiting",
+        "chinese": "所以，服务人员说如果您的航班紧急，请我为您安排一个等待。"
+    },
+    {
+        "start": 197.76,
+        "end": 198.76,
+        "english": "list, waiting list.",
+        "chinese": "列表，等待名单。"
+    },
+    {
+        "start": 198.76,
+        "end": 199.76,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 199.76,
+        "end": 200.76,
+        "english": "Waiting list.",
+        "chinese": "等待名单。"
+    },
+    {
+        "start": 200.76,
+        "end": 203.76,
+        "english": "So this is another important phrase to understand when we're talking about cancelled flights.",
+        "chinese": "英语：所以当我们谈论取消航班时，这个重要术语需要我们理解。"
+    },
+    {
+        "start": 203.76,
+        "end": 204.76,
+        "english": "That's right.",
+        "chinese": "正确的。"
+    },
+    {
+        "start": 204.76,
+        "end": 211.32,
+        "english": "We usually get put on a waiting list and it's basically a list with everyone's names where",
+        "chinese": "我们通常会得到等待名单，这基本上是每个人的名字的列表。"
+    },
+    {
+        "start": 211.32,
+        "end": 217.16,
+        "english": "you are waiting for the next available flight or you are waiting for to be able to have the",
+        "chinese": "你正在等待下一个可用的航班或准备好拥有。"
+    },
+    {
+        "start": 217.16,
+        "end": 218.16,
+        "english": "service provided.",
+        "chinese": "服务提供。"
+    },
+    {
+        "start": 218.16,
+        "end": 223.0,
+        "english": "Alright, so you can have a waiting list at an airport like here, but you can also have",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 223.0,
+        "end": 225.72,
+        "english": "a waiting list at a restaurant, right?",
+        "chinese": "英语：一个等待名单，对吗？"
+    },
+    {
+        "start": 225.72,
+        "end": 226.72,
+        "english": "That's right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 226.72,
+        "end": 229.68,
+        "english": "The restaurants are super popular and you got to get on a waiting list.",
+        "chinese": "餐厅非常受欢迎，你必须排队等候。"
+    },
+    {
+        "start": 229.68,
+        "end": 231.68,
+        "english": "So can I put my name on the waiting list?",
+        "chinese": "所以，我可以把我的名字列入等待名单。"
+    },
+    {
+        "start": 231.68,
+        "end": 234.84,
+        "english": "That means can you call me when there is a free table?",
+        "chinese": "这句话的翻译是："
+    },
+    {
+        "start": 234.84,
+        "end": 235.84,
+        "english": "Right.",
+        "chinese": "正确。"
+    },
+    {
+        "start": 235.84,
+        "end": 236.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 236.84,
+        "end": 243.96,
+        "english": "So even though we are on this waiting list, it doesn't mean that we are guaranteed to be",
+        "chinese": "所以尽管我们正在这个等待名单上，这并不意味着我们一定会被安排。"
+    },
+    {
+        "start": 243.96,
+        "end": 245.84,
+        "english": "able to take this flight this evening.",
+        "chinese": "英语：能在这个晚上飞得上。"
+    },
+    {
+        "start": 245.84,
+        "end": 247.2,
+        "english": "So there is no guarantee.",
+        "chinese": "所以没有保证。"
+    },
+    {
+        "start": 247.2,
+        "end": 252.64,
+        "english": "Alright, this guarantee, this is an important thing to talk about because a guarantee is something",
+        "chinese": "好的，这个保证，这是一个很重要的话题，因为保证是一种东西。"
+    },
+    {
+        "start": 252.64,
+        "end": 256.96,
+        "english": "that means that we will definitely get a later flight.",
+        "chinese": "这句话的中文翻译是：这意味着我们一定会有一个更晚的航班。"
+    },
+    {
+        "start": 256.96,
+        "end": 258.24,
+        "english": "Yeah, we promise.",
+        "chinese": "是的，我们保证。"
+    },
+    {
+        "start": 258.24,
+        "end": 259.24,
+        "english": "We promise.",
+        "chinese": "我们保证。"
+    },
+    {
+        "start": 259.24,
+        "end": 262.4,
+        "english": "So you often see the word guarantee in advertisements.",
+        "chinese": "英语：所以你经常在广告中看到“保证”这个词。"
+    },
+    {
+        "start": 262.4,
+        "end": 265.8,
+        "english": "For example, this TV has a six month guarantee.",
+        "chinese": "例如，这款电视有六个月的保修。"
+    },
+    {
+        "start": 265.8,
+        "end": 267.8,
+        "english": "So we guarantee it won't break.",
+        "chinese": "所以，我们保证它不会损坏。"
+    },
+    {
+        "start": 267.8,
+        "end": 269.68,
+        "english": "If it does, we will fix it.",
+        "chinese": "如果这样，我们将修复它。"
+    },
+    {
+        "start": 269.68,
+        "end": 270.68,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 270.68,
+        "end": 272.59999999999997,
+        "english": "But no guarantee means that we can't promise.",
+        "chinese": "但是没有保证，意味着我们不能保证。"
+    },
+    {
+        "start": 272.59999999999997,
+        "end": 273.59999999999997,
+        "english": "We don't promise.",
+        "chinese": "我们不保证。"
+    },
+    {
+        "start": 273.59999999999997,
+        "end": 274.59999999999997,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 274.59999999999997,
+        "end": 276.91999999999996,
+        "english": "So it's possible that you won't get a flight.",
+        "chinese": "英语：所以你可能不会获得飞行资格。"
+    },
+    {
+        "start": 276.91999999999996,
+        "end": 281.44,
+        "english": "So for example, if you buy a new car, the manufacturer will guarantee that it's in good",
+        "chinese": "英语：所以，例如，如果您购买一辆新车，制造商将保证它处于良好状态。"
+    },
+    {
+        "start": 281.44,
+        "end": 284.12,
+        "english": "condition and it won't break down.",
+        "chinese": "条件和它不会崩溃。"
+    },
+    {
+        "start": 284.12,
+        "end": 289.0,
+        "english": "But if you buy a used car, it's unlikely that they will give you that same guarantee.",
+        "chinese": "但是如果你买一辆二手车，那么他们不太可能给你同样的保证。"
+    },
+    {
+        "start": 289.0,
+        "end": 290.0,
+        "english": "No, that's right.",
+        "chinese": "是的，那正是。"
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "english": "They cannot promise it because they don't know.",
+        "chinese": "他们不能保证它，因为他们不知道。"
+    },
+    {
+        "start": 292.0,
+        "end": 293.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 293.0,
+        "end": 294.8,
+        "english": "Alright, so a lot of words and phrases there.",
+        "chinese": "好的，所以这里有很多词汇和短语。"
+    },
+    {
+        "start": 294.8,
+        "end": 302.84,
+        "english": "When we go back and listen to our dialogue again.",
+        "chinese": "当我们在重新听我们的对话时。"
+    },
+    {
+        "start": 302.84,
+        "end": 303.84,
+        "english": "Good afternoon, sir.",
+        "chinese": "下午好，先生。"
+    },
+    {
+        "start": 303.84,
+        "end": 306.44,
+        "english": "May I please see your passport and reservation?",
+        "chinese": "英语：请让我看看你的护照和预订。"
+    },
+    {
+        "start": 306.44,
+        "end": 307.44,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 307.44,
+        "end": 310.28,
+        "english": "Oh, I'm sorry, sir.",
+        "chinese": "英语：哦，对不起，请问。"
+    },
+    {
+        "start": 310.28,
+        "end": 313.91999999999996,
+        "english": "This flight has been canceled due to some mechanical problems.",
+        "chinese": "这个航班因为一些机械问题被取消了。"
+    },
+    {
+        "start": 313.91999999999996,
+        "end": 314.91999999999996,
+        "english": "Canceled?",
+        "chinese": "英语：取消了？"
+    },
+    {
+        "start": 314.91999999999996,
+        "end": 316.28,
+        "english": "What am I supposed to do now?",
+        "chinese": "在什么情况下我应该做些什么？"
+    },
+    {
+        "start": 316.28,
+        "end": 320.67999999999995,
+        "english": "We apologize for any inconveniences that may be caused by this.",
+        "chinese": "我们向您道歉，因为可能会给您带来不便。"
+    },
+    {
+        "start": 320.67999999999995,
+        "end": 325.71999999999997,
+        "english": "If your flight is urgent, I could put you on a waiting list for another flight this evening.",
+        "chinese": "如果您的航班非常紧急，我可以在今晚晚些时候为您安排一个等待列表。"
+    },
+    {
+        "start": 325.71999999999997,
+        "end": 328.15999999999997,
+        "english": "But it's on a first-come, first-served basis.",
+        "chinese": "但是它按先到先服务的原则分配。"
+    },
+    {
+        "start": 328.15999999999997,
+        "end": 331.79999999999995,
+        "english": "So there's no guarantee you'll be able to take that flight.",
+        "chinese": "英语：所以你肯定无法胜任那架飞机的飞行任务。"
+    },
+    {
+        "start": 331.79999999999995,
+        "end": 333.84,
+        "english": "What are my other options?",
+        "chinese": "我的其他选项是什么？"
+    },
+    {
+        "start": 333.84,
+        "end": 338.35999999999996,
+        "english": "Well, if you can wait until tomorrow, we will put you up in a hotel for today and you",
+        "chinese": "嗯，如果明天你愿意等待，我们就把今天安排在酒店里了，并且你也会住在这里。"
+    },
+    {
+        "start": 338.36,
+        "end": 341.08000000000004,
+        "english": "can take the scheduled flight for tomorrow morning.",
+        "chinese": "可以明天早上飞往预定的航班。"
+    },
+    {
+        "start": 341.08000000000004,
+        "end": 342.08000000000004,
+        "english": "That's fine.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 342.08000000000004,
+        "end": 343.08000000000004,
+        "english": "I'll do that then.",
+        "chinese": "我将这么做。"
+    },
+    {
+        "start": 343.08000000000004,
+        "end": 344.08000000000004,
+        "english": "Thank you for your understanding, sir.",
+        "chinese": "谢谢您的理解，先生。"
+    },
+    {
+        "start": 344.08000000000004,
+        "end": 346.40000000000003,
+        "english": "I'll book your flight now.",
+        "chinese": "我将为您预订机票。"
+    },
+    {
+        "start": 346.40000000000003,
+        "end": 352.8,
+        "english": "Alright, so now let's take a look at three key phrases that we have prepared for you on",
+        "chinese": "好的，现在让我们看看我们为你准备的三个关键短语："
+    },
+    {
+        "start": 352.8,
+        "end": 356.2,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 356.2,
+        "end": 357.2,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 357.2,
+        "end": 361.52000000000004,
+        "english": "Okay, so the first phrase we have here is a very important one.",
+        "chinese": "好的，接下来是另一个非常重要的句子。"
+    },
+    {
+        "start": 361.52000000000004,
+        "end": 364.96000000000004,
+        "english": "This tells us about the cause of the problem.",
+        "chinese": "这个告诉我们这个问题的原因。"
+    },
+    {
+        "start": 364.96,
+        "end": 367.96,
+        "english": "The service person said, I'm sorry, sir.",
+        "chinese": "英语：服务人员说，对不起，先生。"
+    },
+    {
+        "start": 367.96,
+        "end": 372.23999999999995,
+        "english": "This flight has been canceled due to some mechanical problems.",
+        "chinese": "这个航班因为一些机械问题被取消了。"
+    },
+    {
+        "start": 372.23999999999995,
+        "end": 373.23999999999995,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 373.23999999999995,
+        "end": 378.2,
+        "english": "So this phrase due to basically is saying because of, right?",
+        "chinese": "英语：所以这个短语基本上是说因为，对吗？"
+    },
+    {
+        "start": 378.2,
+        "end": 379.2,
+        "english": "That's right.",
+        "chinese": "好的，以下是将英文“that’s right”翻译成中文的句子："
+    },
+    {
+        "start": 379.2,
+        "end": 381.47999999999996,
+        "english": "So this flight has been canceled because of mechanical problems.",
+        "chinese": "所以这次飞行因为机械问题而取消了。"
+    },
+    {
+        "start": 381.47999999999996,
+        "end": 384.47999999999996,
+        "english": "And remember, this due is DUE.",
+        "chinese": "而且记住，这个任务截止日期是截止日期。"
+    },
+    {
+        "start": 384.47999999999996,
+        "end": 386.12,
+        "english": "That's right, DUE.",
+        "chinese": "没错，DUE。"
+    },
+    {
+        "start": 386.12,
+        "end": 393.0,
+        "english": "So I think it's kind of a nicer or more formal way of saying because of or the reason is.",
+        "chinese": "所以我觉得用更正式一点的方式说，因为原因或者是因为。"
+    },
+    {
+        "start": 393.0,
+        "end": 394.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 394.04,
+        "end": 398.56,
+        "english": "For example, the picnic has been canceled due to bad weather.",
+        "chinese": "例如，由于恶劣天气，野餐取消了。"
+    },
+    {
+        "start": 398.56,
+        "end": 399.56,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 399.56,
+        "end": 405.64,
+        "english": "So it sounds a lot more professional, a lot more formal than if you say because of bad weather.",
+        "chinese": "英语：所以听起来比说因为天气不好更正式，更专业一些。"
+    },
+    {
+        "start": 405.64,
+        "end": 410.32,
+        "english": "Alright, so just remember here, due to indicates the cause or the reason.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 410.32,
+        "end": 411.64,
+        "english": "It's like saying because.",
+        "chinese": "这句话可以翻译成中文为：“就像说。”"
+    },
+    {
+        "start": 411.64,
+        "end": 417.84,
+        "english": "Alright, now when we were talking about the flights, we said that we are on the waiting list,",
+        "chinese": "好的，现在我们正在谈论飞行，我们说我们是排队等待的。"
+    },
+    {
+        "start": 417.84,
+        "end": 425.56,
+        "english": "but in order to catch this flight, they are going to take people on a first come first",
+        "chinese": "但是为了赶上这趟航班，他们将乘客安排在先。"
+    },
+    {
+        "start": 425.56,
+        "end": 426.76,
+        "english": "served basis.",
+        "chinese": "服务基础。"
+    },
+    {
+        "start": 426.76,
+        "end": 429.44,
+        "english": "Alright, first come first served.",
+        "chinese": "好的，先来后到。"
+    },
+    {
+        "start": 429.44,
+        "end": 433.67999999999995,
+        "english": "Now this is a, this is again a very common phrase.",
+        "chinese": "现在这个是，这是一个非常常见的短语。"
+    },
+    {
+        "start": 433.67999999999995,
+        "end": 436.79999999999995,
+        "english": "It's related to that waiting list thing we were talking about.",
+        "chinese": "英语：它与我们讨论的等待名单有关。"
+    },
+    {
+        "start": 436.79999999999995,
+        "end": 441.47999999999996,
+        "english": "If you have a waiting list, usually the waiting list is first come first served.",
+        "chinese": "如果你有等待列表，通常先来后到。"
+    },
+    {
+        "start": 441.47999999999996,
+        "end": 447.12,
+        "english": "So I could say, you know, am I guaranteed a spot?",
+        "chinese": "英语：所以，你知道，我是不是保证能上位？"
+    },
+    {
+        "start": 447.12,
+        "end": 449.52,
+        "english": "You could say, well, it's first come first served.",
+        "chinese": "英语：你可以这么说，嗯，这是先来后到。"
+    },
+    {
+        "start": 449.52,
+        "end": 450.76,
+        "english": "Maybe, maybe not.",
+        "chinese": "英语：也许，也许不。"
+    },
+    {
+        "start": 450.76,
+        "end": 451.76,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 451.76,
+        "end": 456.68,
+        "english": "If I'm number one on list, I will probably get a seat, but if I'm number 30, probably,",
+        "chinese": "如果我被选为第一，我可能会坐上位置，但如果我是第三十，可能就坐不上了。"
+    },
+    {
+        "start": 456.68,
+        "end": 457.68,
+        "english": "probably not.",
+        "chinese": "英语：很可能是。"
+    },
+    {
+        "start": 457.68,
+        "end": 461.32,
+        "english": "So what we mean by it is that we don't give priority to anyone.",
+        "chinese": "所以，我们所说的这一点和一个就是指的不是谁优先。"
+    },
+    {
+        "start": 461.32,
+        "end": 463.96,
+        "english": "We don't say, oh, you are more important or you're not.",
+        "chinese": "我们不这么说，哦，你更重要还是没那么重要。"
+    },
+    {
+        "start": 463.96,
+        "end": 465.88,
+        "english": "Whoever comes first gets it.",
+        "chinese": "谁先到，就拿走。"
+    },
+    {
+        "start": 465.88,
+        "end": 470.04,
+        "english": "Alright, so if I come to the restaurant at five o'clock, I get to sit first, but if you",
+        "chinese": "好的，如果我从五点到餐厅坐下来，我会坐在第一排，但如果你"
+    },
+    {
+        "start": 470.04,
+        "end": 473.36,
+        "english": "come at five, 10, you're next and after you, five, 30.",
+        "chinese": "来吧，五点、十点、你是最棒的，然后是五点半、三十五。"
+    },
+    {
+        "start": 473.36,
+        "end": 475.08000000000004,
+        "english": "So it's first come first serve.",
+        "chinese": "所以，它就是先来后到。"
+    },
+    {
+        "start": 475.08000000000004,
+        "end": 477.44,
+        "english": "It depends on when you arrive.",
+        "chinese": "英语：它取决于你什么时候到达。"
+    },
+    {
+        "start": 477.44,
+        "end": 478.44,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 478.44,
+        "end": 480.56,
+        "english": "So obviously this wasn't convenient for us.",
+        "chinese": "所以显然，这并不是我们方便的。"
+    },
+    {
+        "start": 480.56,
+        "end": 486.32,
+        "english": "So we are going to wait until tomorrow, but the airline will put us up in a hotel.",
+        "chinese": "所以，我们今天下午将等待明天的航班，但航空公司将在酒店上铺床。"
+    },
+    {
+        "start": 486.32,
+        "end": 488.2,
+        "english": "We will put you up in a hotel.",
+        "chinese": "我们将会将你安置在酒店。"
+    },
+    {
+        "start": 488.2,
+        "end": 492.28000000000003,
+        "english": "Alright, so let's take this as a phrase, because we all know what a hotel is.",
+        "chinese": "好的，那么请将这句话翻译成简体中文："
+    },
+    {
+        "start": 492.28000000000003,
+        "end": 496.2,
+        "english": "It's a place where you stay when you're on holiday or business, but to put someone",
+        "chinese": "这是一个你度假或商务时停留的地方，但要为某人"
+    },
+    {
+        "start": 496.2,
+        "end": 499.40000000000003,
+        "english": "up, what exactly does this mean?",
+        "chinese": "上，这到底意味着什么？"
+    },
+    {
+        "start": 499.4,
+        "end": 504.71999999999997,
+        "english": "So you are paying for that person to stay at that hotel and you made the reservation",
+        "chinese": "所以，你支付了那人的住宿费，并且你预订了那个酒店。"
+    },
+    {
+        "start": 504.71999999999997,
+        "end": 506.76,
+        "english": "and you're going to pay for the room.",
+        "chinese": "和你承担起这个房间的费用。"
+    },
+    {
+        "start": 506.76,
+        "end": 511.56,
+        "english": "So I will put you up means I will pay for your room at a hotel.",
+        "chinese": "所以，我将把你的房间租给你，意味着我会为你的住宿支付费用。"
+    },
+    {
+        "start": 511.56,
+        "end": 512.56,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 512.56,
+        "end": 514.72,
+        "english": "And it's usually only for accommodation for a hotel.",
+        "chinese": "通常只用于酒店的住宿。"
+    },
+    {
+        "start": 514.72,
+        "end": 517.8,
+        "english": "You can say I will put you up for a meal.",
+        "chinese": "你可以说我会帮你安排一顿饭。"
+    },
+    {
+        "start": 517.8,
+        "end": 522.16,
+        "english": "No, but you can say I'll put you up at my house, which means I will let you stay the",
+        "chinese": "英语：不，但你可以这么说，我将让你住在我家的房子里，这意味着我会让你留在这里。"
+    },
+    {
+        "start": 522.16,
+        "end": 525.68,
+        "english": "night at my house, so not food, but actually sleeping, don't I?",
+        "chinese": "晚上我在家里，所以不是食物，而是睡觉。"
+    },
+    {
+        "start": 525.68,
+        "end": 526.68,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 526.68,
+        "end": 528.12,
+        "english": "So it usually involves sleeping.",
+        "chinese": "所以通常涉及睡觉。"
+    },
+    {
+        "start": 528.4,
+        "end": 529.12,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 529.12,
+        "end": 535.44,
+        "english": "So for example, you could say he's coming to our hometown for the wedding.",
+        "chinese": "所以，例如，你可以这样表达：“他即将来我们家乡参加婚礼。”"
+    },
+    {
+        "start": 535.44,
+        "end": 537.92,
+        "english": "I will put him up at my house.",
+        "chinese": "我将把这个人送到我家。"
+    },
+    {
+        "start": 537.92,
+        "end": 538.92,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 538.92,
+        "end": 543.92,
+        "english": "Or if your company sent you to Japan, you say my company put me up at the high at hotel.",
+        "chinese": "英语：或者如果你的公司把你送到日本，你可以说我的公司把您安置在酒店里。"
+    },
+    {
+        "start": 543.92,
+        "end": 544.92,
+        "english": "Ooh, fancy.",
+        "chinese": "啊，好！"
+    },
+    {
+        "start": 544.92,
+        "end": 545.92,
+        "english": "Nice.",
+        "chinese": "好。"
+    },
+    {
+        "start": 545.92,
+        "end": 548.36,
+        "english": "Alright, so that's all the phrases we have for you.",
+        "chinese": "好的，我已经准确地将这些术语翻译成了简化中文。如果你有其他需要帮助的，请随时告诉我！"
+    },
+    {
+        "start": 548.36,
+        "end": 550.16,
+        "english": "Let's listen to our dialogue one last time.",
+        "chinese": "让我们再听一次我们的对话。"
+    },
+    {
+        "start": 550.16,
+        "end": 557.04,
+        "english": "Good afternoon, sir.",
+        "chinese": "下午好，先生。"
+    },
+    {
+        "start": 557.04,
+        "end": 559.52,
+        "english": "May I please see your passport and reservation?",
+        "chinese": "英语：请让我看看你的护照和预订。"
+    },
+    {
+        "start": 559.52,
+        "end": 560.52,
+        "english": "Here you go.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 560.52,
+        "end": 563.4,
+        "english": "Oh, I'm sorry, sir.",
+        "chinese": "英语：哦，对不起，先生。"
+    },
+    {
+        "start": 563.4,
+        "end": 567.12,
+        "english": "This flight has been canceled due to some mechanical problems.",
+        "chinese": "这个飞行因为一些机械问题被取消了。"
+    },
+    {
+        "start": 567.12,
+        "end": 568.12,
+        "english": "Canceled?",
+        "chinese": "英语：取消了？"
+    },
+    {
+        "start": 568.12,
+        "end": 569.4,
+        "english": "What am I supposed to do now?",
+        "chinese": "在什么情况下我应该做些什么？"
+    },
+    {
+        "start": 569.4,
+        "end": 573.8,
+        "english": "We apologize for any inconveniences that may be caused by this.",
+        "chinese": "我们向您道歉，因为可能给您带来不便。"
+    },
+    {
+        "start": 573.8,
+        "end": 577.64,
+        "english": "If your flight is urgent, I could put you on a waiting list for another flight this",
+        "chinese": "如果您的航班非常紧急，我可以在下次航班前为您安排一个座位。"
+    },
+    {
+        "start": 577.64,
+        "end": 581.28,
+        "english": "evening, but it's on a first-come, first-served basis.",
+        "chinese": "晚上，但它是先到先服务制。"
+    },
+    {
+        "start": 581.28,
+        "end": 584.92,
+        "english": "So there's no guarantee you'll be able to take that flight.",
+        "chinese": "所以，你肯定无法胜任那架飞机的飞行任务。"
+    },
+    {
+        "start": 584.92,
+        "end": 586.9599999999999,
+        "english": "What are my other options?",
+        "chinese": "英语：什么是我其他的选择？"
+    },
+    {
+        "start": 586.96,
+        "end": 591.48,
+        "english": "Well, if you can wait until tomorrow, we will put you up in a hotel for today, and you",
+        "chinese": "嗯，如果明天你愿意等待，我们就把今天安排在酒店里，让你住上一天。"
+    },
+    {
+        "start": 591.48,
+        "end": 594.2,
+        "english": "can take the scheduled flight for tomorrow morning.",
+        "chinese": "可以明天早上飞往预定的航班。"
+    },
+    {
+        "start": 594.2,
+        "end": 595.2,
+        "english": "That's fine.",
+        "chinese": "那挺好。"
+    },
+    {
+        "start": 595.2,
+        "end": 596.2,
+        "english": "I'll do that then.",
+        "chinese": "我将这么做。"
+    },
+    {
+        "start": 596.2,
+        "end": 597.2,
+        "english": "Thank you for your understanding, sir.",
+        "chinese": "谢谢您的理解，先生。"
+    },
+    {
+        "start": 597.2,
+        "end": 599.44,
+        "english": "I'll book your flight now.",
+        "chinese": "我将为您预订机票。"
+    },
+    {
+        "start": 599.44,
+        "end": 602.6,
+        "english": "Alright, we're back.",
+        "chinese": "好的，我们回来了。"
+    },
+    {
+        "start": 602.6,
+        "end": 605.0400000000001,
+        "english": "So we're talking about canceled flights.",
+        "chinese": "英语：所以我们正在讨论取消航班。"
+    },
+    {
+        "start": 605.0400000000001,
+        "end": 609.52,
+        "english": "Usually it's due to bad weather, and usually you can catch another flight soon, but sometimes",
+        "chinese": "通常是因为天气不好，你可以在短时间内赶上另一趟航班，但有时也可能需要等待更长的时间。"
+    },
+    {
+        "start": 609.52,
+        "end": 610.52,
+        "english": "you do have these problems.",
+        "chinese": "你有这些问题吗？"
+    },
+    {
+        "start": 610.52,
+        "end": 614.76,
+        "english": "Like, when there was the whole 9-11 thing, I think a lot of flights were canceled or the",
+        "chinese": "英语：像，当有整个9·11事件的时候，我想很多航班都可能被取消或者机场的航班也可能会受到影响。"
+    },
+    {
+        "start": 614.76,
+        "end": 619.56,
+        "english": "volcano that erupted and European flights were grounded for a long time.",
+        "chinese": "火山喷发并欧洲航班长时间停飞的火山。"
+    },
+    {
+        "start": 619.56,
+        "end": 620.56,
+        "english": "Yes, that's right.",
+        "chinese": "是的，那正是。"
+    },
+    {
+        "start": 620.56,
+        "end": 623.48,
+        "english": "So sometimes there are natural disasters.",
+        "chinese": "英语：所以有时候会有自然灾害。"
+    },
+    {
+        "start": 623.48,
+        "end": 628.04,
+        "english": "Sometimes there are man-made disasters, but you actually said a very interesting word",
+        "chinese": "英语：有时会有人为的因素，但你实际上说的是一个非常有趣的话。"
+    },
+    {
+        "start": 628.04,
+        "end": 631.3199999999999,
+        "english": "there, and something that I think people who are learning about this should definitely",
+        "chinese": "好的，以下是根据您提供的文本翻译成中文："
+    },
+    {
+        "start": 631.3199999999999,
+        "end": 632.3199999999999,
+        "english": "study.",
+        "chinese": "英语：study."
+    },
+    {
+        "start": 632.3199999999999,
+        "end": 633.3199999999999,
+        "english": "The word is grounded.",
+        "chinese": "这个单词是扎根的。"
+    },
+    {
+        "start": 633.3199999999999,
+        "end": 635.28,
+        "english": "A flight has been grounded.",
+        "chinese": "英语：一架飞机已经降落。"
+    },
+    {
+        "start": 635.28,
+        "end": 638.64,
+        "english": "Yes, that means that the airplane will stay on the ground.",
+        "chinese": "是的，这意味着那架飞机将停留在地面。"
+    },
+    {
+        "start": 638.64,
+        "end": 640.72,
+        "english": "It means the plane will not fly.",
+        "chinese": "英语：它意味着飞机不会飞。"
+    },
+    {
+        "start": 640.72,
+        "end": 645.48,
+        "english": "Okay, so when planes are grounded because of bad weather or because of a natural disaster",
+        "chinese": "好的，所以当飞机因为恶劣天气或自然灾害而停飞时。"
+    },
+    {
+        "start": 645.48,
+        "end": 651.84,
+        "english": "like a volcano, it's a very serious situation because the people who are going to fly can't",
+        "chinese": "像火山一样，这是一个非常严重的状况，因为飞往那里的人们无法"
+    },
+    {
+        "start": 651.84,
+        "end": 652.84,
+        "english": "know.",
+        "chinese": "知道。"
+    },
+    {
+        "start": 652.84,
+        "end": 655.44,
+        "english": "Now, in our dialogue, we saw that they handled it.",
+        "chinese": "现在，我们在对话中看到他们处理了它。"
+    },
+    {
+        "start": 655.44,
+        "end": 659.8000000000001,
+        "english": "The airline handled it very, very well, but I think this is a very rare case.",
+        "chinese": "英语：航空公司处理得很好，但我认为这是非常罕见的情况。"
+    },
+    {
+        "start": 659.8000000000001,
+        "end": 661.64,
+        "english": "How do you've had flights canceled before?",
+        "chinese": "英语：你以前有没有因为航班取消而经历过飞行延误？"
+    },
+    {
+        "start": 661.64,
+        "end": 662.64,
+        "english": "How did they handle it?",
+        "chinese": "英语：他们怎么处理的？"
+    },
+    {
+        "start": 662.64,
+        "end": 663.64,
+        "english": "I have.",
+        "chinese": "我。"
+    },
+    {
+        "start": 663.64,
+        "end": 667.5600000000001,
+        "english": "I've had two or three flights canceled one time because of a blizzard, so all flights",
+        "chinese": "我有两次或三次因为暴风雪取消了航班，所以所有的航班都取消了。"
+    },
+    {
+        "start": 667.56,
+        "end": 668.56,
+        "english": "were grounded.",
+        "chinese": "是沉没。"
+    },
+    {
+        "start": 668.56,
+        "end": 673.1199999999999,
+        "english": "The weather was very bad, very dangerous, and the airline company said, well, we're sorry,",
+        "chinese": "英语：天气非常糟糕，非常危险，航空公司说，我们很抱歉。"
+    },
+    {
+        "start": 673.1199999999999,
+        "end": 677.28,
+        "english": "there are no more flights, but if you come back tomorrow, we can help you.",
+        "chinese": "没有更好的翻译方法。"
+    },
+    {
+        "start": 677.28,
+        "end": 680.76,
+        "english": "And I was very lucky because they did not give me a hold.",
+        "chinese": "我非常幸运，因为他们没有给我一个握持。"
+    },
+    {
+        "start": 680.76,
+        "end": 685.0,
+        "english": "They did not put me up in a hotel, but I was staying with a friend, so my friends put",
+        "chinese": "他们没有把我送到旅馆里，而是和朋友一起住了。所以我的朋友们把我在那里待的时间放下了。"
+    },
+    {
+        "start": 685.0,
+        "end": 687.0799999999999,
+        "english": "me up at her house.",
+        "chinese": "我把你带到她家。"
+    },
+    {
+        "start": 687.0799999999999,
+        "end": 692.92,
+        "english": "But the other time, the flight was canceled, the airline put me on a flight from another",
+        "chinese": "但是另一个时间，航班取消了，航空公司让我从另一趟航班上飞。"
+    },
+    {
+        "start": 692.92,
+        "end": 694.56,
+        "english": "company, another airline company.",
+        "chinese": "公司，另一个航空公司。"
+    },
+    {
+        "start": 694.56,
+        "end": 699.2399999999999,
+        "english": "And so sometimes they can do that, where they have a relationship with another airline",
+        "chinese": "而且有时候，他们可以做到这一点，即与另一家航空公司有关系。"
+    },
+    {
+        "start": 699.2399999999999,
+        "end": 700.4,
+        "english": "company, they can do that.",
+        "chinese": "公司，他们可以做到这一点。"
+    },
+    {
+        "start": 700.4,
+        "end": 704.7199999999999,
+        "english": "So usually they do try to handle it relatively well, but they've heard sometimes that they",
+        "chinese": "所以通常他们做得还不错，但有时他们听说说，他们可能需要更专业的帮助。"
+    },
+    {
+        "start": 704.7199999999999,
+        "end": 710.68,
+        "english": "are not very understanding or very sympathetic to the inconvenience they cause.",
+        "chinese": "不是非常理解或非常同情他们造成的不便。"
+    },
+    {
+        "start": 710.68,
+        "end": 715.4799999999999,
+        "english": "Definitely, and I think the worst is when it's bad weather because everyone's angry.",
+        "chinese": "绝对，我认为最糟糕的情况是天气不好，因为大家都很生气。"
+    },
+    {
+        "start": 715.4799999999999,
+        "end": 719.8399999999999,
+        "english": "And all the customers need to go somewhere, but they can't because there are no flights.",
+        "chinese": "所有顾客都需要去某个地方，但因为没有航班。"
+    },
+    {
+        "start": 719.84,
+        "end": 724.4,
+        "english": "And so the people who are working for the airlines get very frustrated or upset.",
+        "chinese": "所以那些为航空公司工作的人们非常生气或者沮丧。"
+    },
+    {
+        "start": 724.4,
+        "end": 726.8000000000001,
+        "english": "Right, because basically it's not their fault.",
+        "chinese": "正确：英语：对，因为基本上不是他们的错。"
+    },
+    {
+        "start": 726.8000000000001,
+        "end": 727.8000000000001,
+        "english": "It's not their fault.",
+        "chinese": "英语：它不是他们的错。"
+    },
+    {
+        "start": 727.8000000000001,
+        "end": 728.8000000000001,
+        "english": "There's bad weather.",
+        "chinese": "天气不好。"
+    },
+    {
+        "start": 728.8000000000001,
+        "end": 731.6,
+        "english": "So there's not really much compensation the company can give you.",
+        "chinese": "所以，公司对你提供的补偿并不算多。"
+    },
+    {
+        "start": 731.6,
+        "end": 735.6800000000001,
+        "english": "No, definitely not, not really their fault, but it's hard not to get frustrated because",
+        "chinese": "是的，他们确实有责任，但他们自己的行为也导致了问题。但是，很难不感到沮丧，因为"
+    },
+    {
+        "start": 735.6800000000001,
+        "end": 740.4,
+        "english": "you want to go home, you're tired, you don't want to pay for another night in a hotel.",
+        "chinese": "你想要回家，很累，不想再花第二次酒店费。"
+    },
+    {
+        "start": 740.4,
+        "end": 742.88,
+        "english": "So I can understand both sides.",
+        "chinese": "所以，我可以理解双方的观点。"
+    },
+    {
+        "start": 742.88,
+        "end": 743.88,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 743.88,
+        "end": 748.08,
+        "english": "Well, it's an interesting topic, and I'm sure many of our listeners who have traveled",
+        "chinese": "英语：它是个有趣的主题，我相信许多听众都对这个话题感兴趣。"
+    },
+    {
+        "start": 748.08,
+        "end": 750.72,
+        "english": "have had a flight delayed or canceled.",
+        "chinese": "英语：我有飞机延误或取消的记录。"
+    },
+    {
+        "start": 750.72,
+        "end": 753.76,
+        "english": "So you can come to our website and share your story with us.",
+        "chinese": "所以你可以通过我们的网站与我们分享你的故事。"
+    },
+    {
+        "start": 753.76,
+        "end": 758.2800000000001,
+        "english": "And of course, if you have any questions or comments, you can find us at engluchpa.com.",
+        "chinese": "英语：当然，如果你有任何问题或评论，请联系我们：engluchpa.com。"
+    },
+    {
+        "start": 758.2800000000001,
+        "end": 759.2800000000001,
+        "english": "We hope to see you all there.",
+        "chinese": "我们希望你都能到场。"
+    },
+    {
+        "start": 759.2800000000001,
+        "end": 760.2800000000001,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 760.2800000000001,
+        "end": 761.2800000000001,
+        "english": "Bye, guys.",
+        "chinese": "Bye, guys. (翻译成中文是：见了，朋友们。)"
+    }
+]

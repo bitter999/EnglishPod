@@ -1,0 +1,1994 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.28,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好，英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 5.28,
+        "end": 6.48,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.48,
+        "end": 11.08,
+        "english": "And today we're bringing you another great lesson about sports, part of our sports series.",
+        "chinese": "今天，我们为您带来另一个关于体育的宝贵教训，这是我们的体育系列的一部分。"
+    },
+    {
+        "start": 11.08,
+        "end": 18.28,
+        "english": "That's right. And in this lesson, we are talking about maybe the world's most favorite sports.",
+        "chinese": "正确的是。在这个课程中，我们谈论可能世界上最喜欢的运动。"
+    },
+    {
+        "start": 18.28,
+        "end": 22.32,
+        "english": "Right. One of the most popular sports in the world, soccer.",
+        "chinese": "正确。世界上最受欢迎的运动之一，足球。"
+    },
+    {
+        "start": 22.32,
+        "end": 22.84,
+        "english": "Mm-hmm.",
+        "chinese": "这句话“Mm-hmm”是用阿拉伯语写的。在中文中，可以理解为“嗯”。"
+    },
+    {
+        "start": 22.84,
+        "end": 25.2,
+        "english": "Or also known as football in other countries.",
+        "chinese": "或者也被称为足球在其他国家。"
+    },
+    {
+        "start": 25.2,
+        "end": 25.76,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 25.76,
+        "end": 33.760000000000005,
+        "english": "Okay, so before we get started with this great lesson, let's take a look at some of the words we'll find in the dialogue in vocabulary preview.",
+        "chinese": "好的，那么在开始这个精彩的课程之前，我们先来看看我们在对话预览中会遇到的一些词汇。"
+    },
+    {
+        "start": 34.6,
+        "end": 36.08,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 36.88,
+        "end": 39.160000000000004,
+        "english": "We're going to look at three words here.",
+        "chinese": "我们在这里要讨论三个词。"
+    },
+    {
+        "start": 39.160000000000004,
+        "end": 42.16,
+        "english": "The first word is wingman.",
+        "chinese": "第一个字是翅膀人。"
+    },
+    {
+        "start": 42.16,
+        "end": 43.160000000000004,
+        "english": "Wingman.",
+        "chinese": "wingman (英译)"
+    },
+    {
+        "start": 43.160000000000004,
+        "end": 44.160000000000004,
+        "english": "A wingman.",
+        "chinese": "一个翼人。"
+    },
+    {
+        "start": 44.160000000000004,
+        "end": 48.44,
+        "english": "Now, wingman isn't really related to soccer in any way.",
+        "chinese": "现在，翅膀人与足球无关。"
+    },
+    {
+        "start": 48.44,
+        "end": 49.040000000000006,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 49.040000000000006,
+        "end": 53.24,
+        "english": "But it's a way of referring to somebody as your right hand.",
+        "chinese": "但是，这是指某人作为你的右手。"
+    },
+    {
+        "start": 53.24,
+        "end": 54.92,
+        "english": "So your helper.",
+        "chinese": "所以你的助手。"
+    },
+    {
+        "start": 54.92,
+        "end": 57.52,
+        "english": "Your helper. Your number one guy.",
+        "chinese": "你的助手。你的第一位男伴。"
+    },
+    {
+        "start": 57.52,
+        "end": 58.72,
+        "english": "Okay. Right.",
+        "chinese": "好的。正确。"
+    },
+    {
+        "start": 58.72,
+        "end": 62.480000000000004,
+        "english": "So a wingman is someone who helps you a lot.",
+        "chinese": "所以，一个随从是指帮助你非常多的人。"
+    },
+    {
+        "start": 62.480000000000004,
+        "end": 64.0,
+        "english": "Uh-huh. Exactly.",
+        "chinese": "嗯，对。"
+    },
+    {
+        "start": 64.0,
+        "end": 67.32000000000001,
+        "english": "Okay. Our next word, tied.",
+        "chinese": "好的。我们的下一个词，绑。"
+    },
+    {
+        "start": 67.32000000000001,
+        "end": 68.2,
+        "english": "Tied.",
+        "chinese": "绑。"
+    },
+    {
+        "start": 68.2,
+        "end": 69.88,
+        "english": "They are tied.",
+        "chinese": "他们被绑在一起。"
+    },
+    {
+        "start": 69.88,
+        "end": 71.52000000000001,
+        "english": "They are tied.",
+        "chinese": "他们被绑在一起。"
+    },
+    {
+        "start": 71.52000000000001,
+        "end": 77.84,
+        "english": "Now, this is an interesting word because tie can be a noun verb and an adjective, right?",
+        "chinese": "现在，这个词很有趣因为它可以是名词、动词或形容词。正确吗？"
+    },
+    {
+        "start": 77.84,
+        "end": 78.64,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 78.64,
+        "end": 80.68,
+        "english": "So in this case, they are tied.",
+        "chinese": "所以，在这种情况下，他们被捆绑。"
+    },
+    {
+        "start": 80.68,
+        "end": 82.72,
+        "english": "It's an adjective meaning.",
+        "chinese": "它是一个形容词。"
+    },
+    {
+        "start": 82.72,
+        "end": 84.12,
+        "english": "They have the same score.",
+        "chinese": "他们有相同的分数。"
+    },
+    {
+        "start": 84.12,
+        "end": 84.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 84.92,
+        "end": 90.96000000000001,
+        "english": "And a tie is a game that has ended with no winner or loser.",
+        "chinese": "而且，一个平局是没有任何赢家或输家的游戏。"
+    },
+    {
+        "start": 90.96000000000001,
+        "end": 92.2,
+        "english": "Both of them had the same score.",
+        "chinese": "他们都得了相同的分数。"
+    },
+    {
+        "start": 92.2,
+        "end": 93.04,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 93.04,
+        "end": 99.56,
+        "english": "And so obviously, the verb, two tie is to reach the same score as your other team.",
+        "chinese": "所以很明显，动词“two tie”是为了与你的对手取得相同的分数。"
+    },
+    {
+        "start": 99.56,
+        "end": 100.48,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 100.48,
+        "end": 105.0,
+        "english": "All right. Well, our third word can also be used as a noun and a verb.",
+        "chinese": "好的。我们的第三句话也可以用作名词和动词。"
+    },
+    {
+        "start": 105.0,
+        "end": 107.08,
+        "english": "And it is foul.",
+        "chinese": "而且是污浊的。"
+    },
+    {
+        "start": 107.08,
+        "end": 108.28,
+        "english": "Fowled.",
+        "chinese": "这个单词“Fowled”在中文里可以翻译为“糊涂”。"
+    },
+    {
+        "start": 108.28,
+        "end": 109.8,
+        "english": "Fowled.",
+        "chinese": "这个字“Fowled”在中文里有多种含义，具体取决于上下文。以下是一些可能的解释："
+    },
+    {
+        "start": 109.8,
+        "end": 112.72,
+        "english": "Okay. So two fouls, somebody.",
+        "chinese": "好的。两个人犯规，有人。"
+    },
+    {
+        "start": 112.72,
+        "end": 117.24,
+        "english": "Is to do something to them that is not allowed in the sport.",
+        "chinese": "是做某事，他们不应该在运动中这样做。"
+    },
+    {
+        "start": 117.24,
+        "end": 118.84,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 118.84,
+        "end": 122.4,
+        "english": "And so when you do this, you have committed a foul.",
+        "chinese": "所以当你这样做，你就犯下了严重的错误。"
+    },
+    {
+        "start": 122.4,
+        "end": 123.4,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 123.4,
+        "end": 124.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 124.4,
+        "end": 125.56,
+        "english": "So you use it in the same way.",
+        "chinese": "所以你用它就像这样。"
+    },
+    {
+        "start": 125.56,
+        "end": 127.08,
+        "english": "Two foul or a foul.",
+        "chinese": "两恶或一恶。"
+    },
+    {
+        "start": 127.08,
+        "end": 128.07999999999998,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用于表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 128.07999999999998,
+        "end": 129.07999999999998,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 129.07999999999998,
+        "end": 132.12,
+        "english": "Well, we're going to hear these three words in context now.",
+        "chinese": "好的，我们现在将这三个词放在语境中听。"
+    },
+    {
+        "start": 132.12,
+        "end": 135.52,
+        "english": "So why don't we listen to our soccer dialogue?",
+        "chinese": "所以为什么我们不听我们的足球对话？"
+    },
+    {
+        "start": 143.72,
+        "end": 150.96,
+        "english": "Welcome back, soccer fans.",
+        "chinese": "欢迎再次来到足球爱好者。"
+    },
+    {
+        "start": 150.96,
+        "end": 152.16,
+        "english": "My name is Rick Fields.",
+        "chinese": "我的名字是雷奇·菲尔斯。"
+    },
+    {
+        "start": 152.16,
+        "end": 155.72,
+        "english": "And as always, I am joined by my commentating wingman, Bob Copeland.",
+        "chinese": "而且总是如此，我与我的评论员助手鲍勃·科潘德（Bob Copeland）一起出席。"
+    },
+    {
+        "start": 155.72,
+        "end": 161.24,
+        "english": "And we are in the break of soccer history today as Ecuador and Brazil are tied one-one",
+        "chinese": "今天，我们正处于足球历史的转折点，厄瓜多尔和巴西都以一球之差战平。"
+    },
+    {
+        "start": 161.24,
+        "end": 166.52,
+        "english": "as we begin the second half of the 2022 World Cup.",
+        "chinese": "我们将在2022年世界杯的第二半场开始。"
+    },
+    {
+        "start": 166.52,
+        "end": 168.36,
+        "english": "The ref calls the players for the kickoff.",
+        "chinese": "在传球中，球员们被指派去接球。"
+    },
+    {
+        "start": 168.36,
+        "end": 169.56,
+        "english": "And here we go.",
+        "chinese": "现在开始。"
+    },
+    {
+        "start": 169.56,
+        "end": 171.72,
+        "english": "Ecuador quickly passes the ball to the midfield.",
+        "chinese": "埃博拉病毒迅速传递到中转站。"
+    },
+    {
+        "start": 171.72,
+        "end": 173.35999999999999,
+        "english": "Oh, it's out of bounds.",
+        "chinese": "对不起，它超出了范围。"
+    },
+    {
+        "start": 173.35999999999999,
+        "end": 175.24,
+        "english": "It'll be a throw in for Brazil.",
+        "chinese": "它将是一次输球。"
+    },
+    {
+        "start": 175.24,
+        "end": 178.96,
+        "english": "Adirando has the ball and makes a long pass to Ovenio.",
+        "chinese": "在adiri的手中，有球并发出长传给ovenio。"
+    },
+    {
+        "start": 178.96,
+        "end": 180.68,
+        "english": "And the ref is called him offside.",
+        "chinese": "而且这个指针被标记为离队。"
+    },
+    {
+        "start": 180.68,
+        "end": 181.68,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 181.68,
+        "end": 183.6,
+        "english": "He was offside by a mile.",
+        "chinese": "他离对方一英里。"
+    },
+    {
+        "start": 183.6,
+        "end": 185.16,
+        "english": "We have a goal kick for Ecuador.",
+        "chinese": "我们有为厄瓜多尔争取的进球机会。"
+    },
+    {
+        "start": 185.16,
+        "end": 187.0,
+        "english": "Edison Mendez heads at a wheelchair.",
+        "chinese": "王鼎铭是轮椅上的残疾人。"
+    },
+    {
+        "start": 187.0,
+        "end": 188.0,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 188.0,
+        "end": 190.8,
+        "english": "Deflicted by the defender and we have a corner kick.",
+        "chinese": "被守护者所伤，我们有角球机会。"
+    },
+    {
+        "start": 190.8,
+        "end": 192.28,
+        "english": "Delgado takes the corner.",
+        "chinese": "脱格取角。"
+    },
+    {
+        "start": 192.28,
+        "end": 193.28,
+        "english": "We have a foul.",
+        "chinese": "我们有污点。"
+    },
+    {
+        "start": 193.28,
+        "end": 194.28,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 194.28,
+        "end": 198.04,
+        "english": "Dita, the goalkeeper has foul, the Ecuadorian player.",
+        "chinese": "在阿根廷队的防守球员有犯规，迪塔是。"
+    },
+    {
+        "start": 198.04,
+        "end": 201.07999999999998,
+        "english": "He gets a yellow card and that will be a penalty kick.",
+        "chinese": "他得到一张黄牌，这将是一次罚点球。"
+    },
+    {
+        "start": 201.08,
+        "end": 204.64000000000001,
+        "english": "This is the perfect opportunity for Ecuador to get ahead in this match and become world",
+        "chinese": "这是埃塞俄比亚在这一场比赛中取得优势并成为世界冠军的绝佳机会。"
+    },
+    {
+        "start": 204.64000000000001,
+        "end": 205.64000000000001,
+        "english": "champions.",
+        "chinese": "冠军。"
+    },
+    {
+        "start": 205.64000000000001,
+        "end": 206.88000000000002,
+        "english": "He gets ready for the kick.",
+        "chinese": "他为踢球做准备。"
+    },
+    {
+        "start": 206.88000000000002,
+        "end": 210.92000000000002,
+        "english": "He shoots and he...",
+        "chinese": "他射箭，他..."
+    },
+    {
+        "start": 210.92000000000002,
+        "end": 225.48000000000002,
+        "english": "OK, so Ecuador tied with Brazil in the 2022 World Cup.",
+        "chinese": "好的，所以厄瓜多尔与巴西在2022年世界杯上并列了。"
+    },
+    {
+        "start": 225.48000000000002,
+        "end": 230.64000000000001,
+        "english": "Wow, Marco, I'm really happy to see that you are able to see so far into the future.",
+        "chinese": "哇，马科，我真的很高兴看到你能够远望未来这么远。"
+    },
+    {
+        "start": 230.64,
+        "end": 236.48,
+        "english": "Well, I called it so in 2022, if we do win the World Cup, you know who said it first.",
+        "chinese": "嗯，我叫它那样，在2022年，如果我们赢得世界杯，你知道谁说的最早。"
+    },
+    {
+        "start": 236.48,
+        "end": 238.11999999999998,
+        "english": "All right, do you have money on that?",
+        "chinese": "是的，你有钱吗？"
+    },
+    {
+        "start": 238.11999999999998,
+        "end": 239.11999999999998,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 239.11999999999998,
+        "end": 244.11999999999998,
+        "english": "All right, so apart from this, we saw some really great vocabulary in this lesson.",
+        "chinese": "好的，除了这个之外，我们还看到了一些非常优秀的词汇。"
+    },
+    {
+        "start": 244.11999999999998,
+        "end": 249.6,
+        "english": "So let's take a look at it now in language takeaway.",
+        "chinese": "所以，让我们现在来看看它。"
+    },
+    {
+        "start": 249.6,
+        "end": 250.6,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 250.6,
+        "end": 256.59999999999997,
+        "english": "All right, you've got a lot of soccer words for you, but they're all important.",
+        "chinese": "好的，你对足球词汇有很多，但它们都很重要。"
+    },
+    {
+        "start": 256.59999999999997,
+        "end": 259.24,
+        "english": "So let's take a look at the first one.",
+        "chinese": "所以，让我们来看看第一个。"
+    },
+    {
+        "start": 259.24,
+        "end": 260.72,
+        "english": "Kick off.",
+        "chinese": "开跑。"
+    },
+    {
+        "start": 260.72,
+        "end": 261.72,
+        "english": "Kick off.",
+        "chinese": "开跑。"
+    },
+    {
+        "start": 261.72,
+        "end": 262.72,
+        "english": "Kick off.",
+        "chinese": "开跑。"
+    },
+    {
+        "start": 262.72,
+        "end": 263.92,
+        "english": "So a kick off.",
+        "chinese": "所以，起跑。"
+    },
+    {
+        "start": 263.92,
+        "end": 266.16,
+        "english": "This is how you start a soccer game, right?",
+        "chinese": "这是怎么开始足球比赛的吗？"
+    },
+    {
+        "start": 266.16,
+        "end": 267.16,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 267.16,
+        "end": 271.2,
+        "english": "So it's the very beginning, the referee blows the whistle and you kick the ball to another player.",
+        "chinese": "所以，这是开始，裁判吹哨，你把球踢给另一个球员。"
+    },
+    {
+        "start": 271.2,
+        "end": 272.2,
+        "english": "That's the kick off.",
+        "chinese": "这句话的中文翻译是：“这是出发。”"
+    },
+    {
+        "start": 272.2,
+        "end": 276.56,
+        "english": "OK, so our next phrase, out of bounds.",
+        "chinese": "好的，接下来的句子，超出范围。"
+    },
+    {
+        "start": 276.56,
+        "end": 278.0,
+        "english": "Out of bounds.",
+        "chinese": "超出范围。"
+    },
+    {
+        "start": 278.0,
+        "end": 279.0,
+        "english": "Out of bounds.",
+        "chinese": "超出范围。"
+    },
+    {
+        "start": 279.0,
+        "end": 282.40000000000003,
+        "english": "OK, out of bounds, this is a great word.",
+        "chinese": "好的，超出范围，这是个好词。"
+    },
+    {
+        "start": 282.40000000000003,
+        "end": 283.40000000000003,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 283.40000000000003,
+        "end": 288.04,
+        "english": "So in soccer, when the ball goes out of bounds, it goes outside the white lines, right?",
+        "chinese": "所以，在足球比赛中，当球出界时，它会超出白线吗？"
+    },
+    {
+        "start": 288.04,
+        "end": 289.64000000000004,
+        "english": "Outside of the playing field.",
+        "chinese": "在场外。"
+    },
+    {
+        "start": 289.64000000000004,
+        "end": 291.76000000000005,
+        "english": "OK, and you can use it in all other sports.",
+        "chinese": "好的，你可以用它在所有的体育项目中。"
+    },
+    {
+        "start": 291.76000000000005,
+        "end": 293.08000000000004,
+        "english": "You can use it in basketball.",
+        "chinese": "你可以用它在篮球比赛中。"
+    },
+    {
+        "start": 293.08000000000004,
+        "end": 295.08000000000004,
+        "english": "You can use it in tennis.",
+        "chinese": "你可以用它在网球中。"
+    },
+    {
+        "start": 295.08000000000004,
+        "end": 296.6,
+        "english": "Or football or anything.",
+        "chinese": "或者足球或者其他任何运动。"
+    },
+    {
+        "start": 296.6,
+        "end": 297.6,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 297.6,
+        "end": 300.48,
+        "english": "So any part that is not for playing.",
+        "chinese": "所以任何部分不用于玩游戏。"
+    },
+    {
+        "start": 300.48,
+        "end": 301.88,
+        "english": "Out of bounds.",
+        "chinese": "超出范围。"
+    },
+    {
+        "start": 301.88,
+        "end": 303.36,
+        "english": "What's our next word?",
+        "chinese": "您的问题“什么是我们的下一个词？”可以翻译成中文为：“我们下一个的词是什么？”"
+    },
+    {
+        "start": 303.36,
+        "end": 304.76,
+        "english": "Throw in.",
+        "chinese": "在中文中，\"throw in\" 的翻译是 \"放入\"。例如："
+    },
+    {
+        "start": 304.76,
+        "end": 306.20000000000005,
+        "english": "A throw in.",
+        "chinese": "一个扔。"
+    },
+    {
+        "start": 306.20000000000005,
+        "end": 307.76,
+        "english": "A throw in.",
+        "chinese": "一个扔。"
+    },
+    {
+        "start": 307.76,
+        "end": 310.16,
+        "english": "OK, so a throw in.",
+        "chinese": "好的，所以一个扔。"
+    },
+    {
+        "start": 310.16,
+        "end": 311.68,
+        "english": "The ball goes out of bounds.",
+        "chinese": "球跑出了界外。"
+    },
+    {
+        "start": 311.68,
+        "end": 312.20000000000005,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 312.20000000000005,
+        "end": 313.76,
+        "english": "How do you put it back into play?",
+        "chinese": "如何把它重新投入到游戏中？"
+    },
+    {
+        "start": 313.76,
+        "end": 315.52000000000004,
+        "english": "Obviously, a throw in.",
+        "chinese": "当然，一个扔。"
+    },
+    {
+        "start": 315.52000000000004,
+        "end": 317.8,
+        "english": "OK, so you throw in the ball.",
+        "chinese": "好的，你把球扔出去。"
+    },
+    {
+        "start": 317.8,
+        "end": 321.8,
+        "english": "That's the only time where a soccer player will actually grab the ball with his hands.",
+        "chinese": "这是唯一一次，一名足球运动员会用双手抓住球。"
+    },
+    {
+        "start": 321.8,
+        "end": 324.64,
+        "english": "All right, now another soccer term we have here.",
+        "chinese": "好的，这里有一个足球术语。"
+    },
+    {
+        "start": 324.64,
+        "end": 325.64,
+        "english": "Offside.",
+        "chinese": "在中文中，\"offside\" 翻译为 \"离体\"。例如："
+    },
+    {
+        "start": 325.64,
+        "end": 326.88,
+        "english": "Offside.",
+        "chinese": "在中文中，\"offside\" 翻译为 \"离体\"。"
+    },
+    {
+        "start": 326.88,
+        "end": 328.36,
+        "english": "Offside.",
+        "chinese": "在中文中，\"offside\" 翻译为 \"离体\"。"
+    },
+    {
+        "start": 328.36,
+        "end": 330.68,
+        "english": "OK, so this is a little bit difficult to explain.",
+        "chinese": "好的，这个问题有点难以解释。"
+    },
+    {
+        "start": 330.68,
+        "end": 332.8,
+        "english": "But just imagine you are on the soccer field.",
+        "chinese": "但是，想象一下你是在足球场。"
+    },
+    {
+        "start": 332.8,
+        "end": 333.56,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 333.56,
+        "end": 336.56,
+        "english": "And you are trying to score a goal.",
+        "chinese": "您正在努力取得进球。"
+    },
+    {
+        "start": 336.56,
+        "end": 337.56,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (kě de)."
+    },
+    {
+        "start": 337.56,
+        "end": 338.56,
+        "english": "Now you have some defenders, right?",
+        "chinese": "现在你已经有了一些防守者，对吗？"
+    },
+    {
+        "start": 338.56,
+        "end": 339.56,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 339.56,
+        "end": 341.8,
+        "english": "Those are the people who are trying to take the ball away.",
+        "chinese": "这些是试图夺回球的人。"
+    },
+    {
+        "start": 341.8,
+        "end": 345.96000000000004,
+        "english": "And you pass the ball to somebody who is behind the defenders.",
+        "chinese": "你把球传给站在防守队员后面的某人。"
+    },
+    {
+        "start": 345.96,
+        "end": 348.56,
+        "english": "Oh, and that person is offside.",
+        "chinese": "对不起，那个人是犯规。"
+    },
+    {
+        "start": 348.56,
+        "end": 349.76,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 349.76,
+        "end": 355.32,
+        "english": "So you must be at all times in the same position as the defenders or in front of them,",
+        "chinese": "所以你必须始终处于与防守者或前面相同的立场。"
+    },
+    {
+        "start": 355.32,
+        "end": 356.96,
+        "english": "but you can't beat all the way in the back.",
+        "chinese": "但是你永远无法在后方全部超越。"
+    },
+    {
+        "start": 356.96,
+        "end": 361.15999999999997,
+        "english": "OK, so is this a noun or a verb or an adjective?",
+        "chinese": "OK, so is this a noun or a verb or an adjective? 翻译成中文是："
+    },
+    {
+        "start": 361.15999999999997,
+        "end": 362.24,
+        "english": "So this is an adjective.",
+        "chinese": "所以，这是一个形容词。"
+    },
+    {
+        "start": 362.24,
+        "end": 363.59999999999997,
+        "english": "He is offside.",
+        "chinese": "他是在场上的。"
+    },
+    {
+        "start": 363.59999999999997,
+        "end": 364.59999999999997,
+        "english": "That's his condition.",
+        "chinese": "这是他的状态。"
+    },
+    {
+        "start": 364.59999999999997,
+        "end": 365.59999999999997,
+        "english": "OK, great.",
+        "chinese": "好的，好。"
+    },
+    {
+        "start": 365.59999999999997,
+        "end": 366.59999999999997,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 366.59999999999997,
+        "end": 367.59999999999997,
+        "english": "Excellent explanation, Mark.",
+        "chinese": "好的解释，马克。"
+    },
+    {
+        "start": 367.59999999999997,
+        "end": 368.59999999999997,
+        "english": "Well, thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 368.59999999999997,
+        "end": 369.59999999999997,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 369.59999999999997,
+        "end": 375.52,
+        "english": "Now we're going to look at three different phrases for three types of kicks in soccer.",
+        "chinese": "现在我们将对三种踢球方式的三个类型进行分析。"
+    },
+    {
+        "start": 375.52,
+        "end": 376.52,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 376.52,
+        "end": 378.68,
+        "english": "So let's take a look at this.",
+        "chinese": "所以，让我们来看看这个。"
+    },
+    {
+        "start": 378.68,
+        "end": 380.32,
+        "english": "The first one is goal kick.",
+        "chinese": "第一个是射门。"
+    },
+    {
+        "start": 380.32,
+        "end": 381.47999999999996,
+        "english": "A goal kick.",
+        "chinese": "一个射门。"
+    },
+    {
+        "start": 381.47999999999996,
+        "end": 383.03999999999996,
+        "english": "OK, goal kick.",
+        "chinese": "OK, goal kick. (OK, 目标进球。)"
+    },
+    {
+        "start": 383.03999999999996,
+        "end": 384.76,
+        "english": "So who does the goal kick?",
+        "chinese": "所以谁是进球手？"
+    },
+    {
+        "start": 384.76,
+        "end": 387.15999999999997,
+        "english": "It's usually the goalie or the goalkeeper.",
+        "chinese": "通常，是守门员或守门员。"
+    },
+    {
+        "start": 387.15999999999997,
+        "end": 388.15999999999997,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 388.15999999999997,
+        "end": 389.4,
+        "english": "Who takes the goal kick?",
+        "chinese": "谁来接球？"
+    },
+    {
+        "start": 389.4,
+        "end": 390.0,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 390.0,
+        "end": 394.96,
+        "english": "So when the goalie kicks the ball, now what about a corner kick?",
+        "chinese": "所以当守门员踢球时，现在怎么办？"
+    },
+    {
+        "start": 394.96,
+        "end": 395.84,
+        "english": "OK.",
+        "chinese": "OK in Chinese is \"好的\" (gě yǒu)."
+    },
+    {
+        "start": 395.84,
+        "end": 404.03999999999996,
+        "english": "So if the team is attacking and the ball goes out of bounds in the back area near the goal,",
+        "chinese": "所以如果球队在后场区域附近将球踢出边界，进球无效。"
+    },
+    {
+        "start": 404.04,
+        "end": 405.6,
+        "english": "then they get a corner kick.",
+        "chinese": "然后他们获得一个角球。"
+    },
+    {
+        "start": 405.6,
+        "end": 408.12,
+        "english": "They've got to kick the ball from the corner of the field.",
+        "chinese": "他们必须从球场的角球区踢球。"
+    },
+    {
+        "start": 408.12,
+        "end": 411.28000000000003,
+        "english": "This is a great chance to score a goal, isn't it?",
+        "chinese": "这是一个很好的机会能得球，不是吗？"
+    },
+    {
+        "start": 411.28000000000003,
+        "end": 412.28000000000003,
+        "english": "Exactly, yes.",
+        "chinese": "是的，对。"
+    },
+    {
+        "start": 412.28000000000003,
+        "end": 413.96000000000004,
+        "english": "OK, and our final kick.",
+        "chinese": "好的，我们的最后一击。"
+    },
+    {
+        "start": 413.96000000000004,
+        "end": 416.12,
+        "english": "A penalty kick.",
+        "chinese": "罚点球。"
+    },
+    {
+        "start": 416.12,
+        "end": 417.12,
+        "english": "Penalty kick.",
+        "chinese": "罚球点球。"
+    },
+    {
+        "start": 417.12,
+        "end": 418.12,
+        "english": "Penalty kick.",
+        "chinese": "罚球点球。"
+    },
+    {
+        "start": 418.12,
+        "end": 423.92,
+        "english": "So if a player gets fouled while he is in the area near the goal, he gets a penalty kick.",
+        "chinese": "所以如果一名球员在距离球门近的地方犯规，他会得到一个点球。"
+    },
+    {
+        "start": 423.92,
+        "end": 425.8,
+        "english": "So basically it's just him.",
+        "chinese": "所以基本上就是他。"
+    },
+    {
+        "start": 425.8,
+        "end": 429.84000000000003,
+        "english": "I think it's 13 or 15 steps away from the goalie.",
+        "chinese": "我认为距离守门员大约有13到15步。"
+    },
+    {
+        "start": 429.84000000000003,
+        "end": 432.92,
+        "english": "And he gets the opportunity to score or to kick the ball.",
+        "chinese": "他有机会得分或踢球。"
+    },
+    {
+        "start": 432.92,
+        "end": 435.40000000000003,
+        "english": "So there are no defenders or other players in the way.",
+        "chinese": "所以不存在守卫者或其他玩家，以阻挡我方的行动。"
+    },
+    {
+        "start": 435.40000000000003,
+        "end": 436.40000000000003,
+        "english": "Nobody.",
+        "chinese": "没有人。"
+    },
+    {
+        "start": 436.40000000000003,
+        "end": 438.76,
+        "english": "Wow, another great chance to score a goal.",
+        "chinese": "哇，又一个绝佳的机会来得分。"
+    },
+    {
+        "start": 438.76,
+        "end": 439.76,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 439.76,
+        "end": 441.44,
+        "english": "All right, well, these are all great soccer words.",
+        "chinese": "好的，很好。这些都是足球词汇。"
+    },
+    {
+        "start": 441.44,
+        "end": 444.56,
+        "english": "I think we should hear them again in context.",
+        "chinese": "我认为我们应当再次听他们。"
+    },
+    {
+        "start": 444.56,
+        "end": 448.36,
+        "english": "So let's listen this time a little bit slower.",
+        "chinese": "所以，让我们放慢一点时间听听。"
+    },
+    {
+        "start": 448.36,
+        "end": 454.52000000000004,
+        "english": "Welcome back, soccer fans.",
+        "chinese": "欢迎再次来到足球爱好者。"
+    },
+    {
+        "start": 454.52000000000004,
+        "end": 457.32,
+        "english": "My name is Rick Fields.",
+        "chinese": "我的名字是雷奇·法尔克。"
+    },
+    {
+        "start": 457.32,
+        "end": 462.76,
+        "english": "And as always, I am joined by my commentating wingman,",
+        "chinese": "而且总是有我随行的评论员，非常感谢。"
+    },
+    {
+        "start": 462.76,
+        "end": 463.76,
+        "english": "Bob Copeland.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 463.76,
+        "end": 468.44,
+        "english": "And we're on the brink of soccer history today.",
+        "chinese": "今天，我们正接近足球史的边缘。"
+    },
+    {
+        "start": 468.44,
+        "end": 473.52,
+        "english": "As Ecuador and Brazil are tied, one, one.",
+        "chinese": "作为厄瓜多尔和巴西是相连的，那么，一个、一个。"
+    },
+    {
+        "start": 473.52,
+        "end": 483.24,
+        "english": "As we begin the second half of the 2022 World Cup, the ref calls the players for the kickoff.",
+        "chinese": "随着世界杯第二阶段的开始，裁判为球员们发出了起脚的指令。"
+    },
+    {
+        "start": 483.24,
+        "end": 485.44,
+        "english": "And here we go.",
+        "chinese": "然后我们来。"
+    },
+    {
+        "start": 485.44,
+        "end": 491.84,
+        "english": "Ecuador quickly passes the ball to the midfield, but oh, it's out of bounds.",
+        "chinese": "埃博拉病毒迅速转移到中场，但啊，它已经出界。"
+    },
+    {
+        "start": 491.84,
+        "end": 494.64,
+        "english": "That will be a throw in for Brazil.",
+        "chinese": "这是对巴西的“兜售”。"
+    },
+    {
+        "start": 494.64,
+        "end": 499.0,
+        "english": "Adriano has the ball and makes a long pass to Rubinho.",
+        "chinese": "Adriano 有球，传球给Rubinho一个长距离的球。"
+    },
+    {
+        "start": 499.0,
+        "end": 501.44,
+        "english": "And the ref has called him upside.",
+        "chinese": "并且这个指针已经指向了一个上翻的点。"
+    },
+    {
+        "start": 501.44,
+        "end": 503.11999999999995,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 503.11999999999995,
+        "end": 505.56,
+        "english": "He was offside by a mile.",
+        "chinese": "他离对方一英里。"
+    },
+    {
+        "start": 505.56,
+        "end": 507.91999999999996,
+        "english": "We have a goal kick for Ecuador.",
+        "chinese": "我们有一个目标球踢给厄瓜多尔。"
+    },
+    {
+        "start": 507.91999999999996,
+        "end": 510.59999999999997,
+        "english": "Edison Mendez heads it to Valencia.",
+        "chinese": "王鼎钧带领他去了维也纳。"
+    },
+    {
+        "start": 510.59999999999997,
+        "end": 516.12,
+        "english": "He shoots, deflected by the defender, and we have a corner kick.",
+        "chinese": "他射门，被防守球员挡住，我们有角球。"
+    },
+    {
+        "start": 516.12,
+        "end": 518.04,
+        "english": "Delgado takes the corner.",
+        "chinese": "德瓦戈拿住角。"
+    },
+    {
+        "start": 518.04,
+        "end": 519.88,
+        "english": "Now we have a foul.",
+        "chinese": "现在我们有污点。"
+    },
+    {
+        "start": 519.88,
+        "end": 521.68,
+        "english": "Oh no.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 521.68,
+        "end": 526.0,
+        "english": "He, the goalkeeper, has fouled the Ecuadorian player.",
+        "chinese": "他，这个守门员，已经侵犯了厄瓜多尔球员。"
+    },
+    {
+        "start": 526.0,
+        "end": 530.12,
+        "english": "He gets a yellow card, and that will be a penalty kick.",
+        "chinese": "他得到一张黄牌，这将是一次点球。"
+    },
+    {
+        "start": 530.12,
+        "end": 534.8399999999999,
+        "english": "This is the perfect opportunity for Ecuador to get ahead in this match and become World",
+        "chinese": "这个是厄瓜多尔在这一场比赛中取得优势并成为世界冠军的绝佳机会。"
+    },
+    {
+        "start": 534.8399999999999,
+        "end": 536.0,
+        "english": "Champions.",
+        "chinese": "冠军。"
+    },
+    {
+        "start": 536.0,
+        "end": 537.64,
+        "english": "He gets ready for the kick.",
+        "chinese": "他为踢球做准备。"
+    },
+    {
+        "start": 537.64,
+        "end": 538.64,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 538.64,
+        "end": 540.64,
+        "english": "And he…",
+        "chinese": "和他……"
+    },
+    {
+        "start": 540.64,
+        "end": 549.28,
+        "english": "Alright, so we heard these words that we were talking about in context.",
+        "chinese": "好的，所以我们听到这些话是在我们讨论的背景下。"
+    },
+    {
+        "start": 549.28,
+        "end": 553.92,
+        "english": "And now some really interesting phrases came up, and this would be a good time to take",
+        "chinese": "现在有一些非常有趣的话出现了，这是一个好时机来谈谈。"
+    },
+    {
+        "start": 553.92,
+        "end": 557.12,
+        "english": "a look at them in Fluency Builder.",
+        "chinese": "在 Fluent Builder 中查看他们。"
+    },
+    {
+        "start": 557.12,
+        "end": 558.12,
+        "english": "Fluency Builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 558.12,
+        "end": 563.1999999999999,
+        "english": "Well, Marco, there are three great phrases in this dialogue that I want to look at.",
+        "chinese": "很好，马科，这段对话中有三个非常重要的短语，我想要看看。"
+    },
+    {
+        "start": 563.1999999999999,
+        "end": 565.12,
+        "english": "The first one.",
+        "chinese": "第一个。"
+    },
+    {
+        "start": 565.12,
+        "end": 567.76,
+        "english": "On the brink of.",
+        "chinese": "在悬崖边上。"
+    },
+    {
+        "start": 567.76,
+        "end": 570.12,
+        "english": "We are on the brink of.",
+        "chinese": "我们正处于危险的边缘。"
+    },
+    {
+        "start": 570.12,
+        "end": 572.8,
+        "english": "We're on the brink of soccer history.",
+        "chinese": "我们即将在足球史上站稳脚跟。"
+    },
+    {
+        "start": 572.8,
+        "end": 576.56,
+        "english": "Okay, so on the brink of, what exactly does that mean?",
+        "chinese": "好的，那么在接近的边缘上，具体意味着什么？"
+    },
+    {
+        "start": 576.56,
+        "end": 581.68,
+        "english": "Well, why don't we hear some examples to help us understand the meaning?",
+        "chinese": "好的，我们为什么不听听一些例子来帮助我们理解含义呢？"
+    },
+    {
+        "start": 581.68,
+        "end": 582.68,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 582.68,
+        "end": 585.8,
+        "english": "Look, we don't have any money.",
+        "chinese": "请看，我们没有钱。"
+    },
+    {
+        "start": 585.8,
+        "end": 589.4399999999999,
+        "english": "We're on the brink of going bankrupt.",
+        "chinese": "我们正处于濒临破产的边缘。"
+    },
+    {
+        "start": 589.4399999999999,
+        "end": 591.8399999999999,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：请将此翻译内容复制粘贴到聊天框中，以便我能够进行中文转文字的功能。)"
+    },
+    {
+        "start": 591.8399999999999,
+        "end": 596.1999999999999,
+        "english": "The two countries are on the brink of war.",
+        "chinese": "这两国正处于战争的边缘。"
+    },
+    {
+        "start": 596.1999999999999,
+        "end": 599.4,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 599.4,
+        "end": 602.3599999999999,
+        "english": "We're on the brink of an important discovery.",
+        "chinese": "我们正处于一个重要的发现的边缘。"
+    },
+    {
+        "start": 603.36,
+        "end": 607.84,
+        "english": "Alright, so great examples on the brink of at a critical point.",
+        "chinese": "好的，那么在接近关键点的边缘上，有一些很好的例子。"
+    },
+    {
+        "start": 607.84,
+        "end": 610.48,
+        "english": "Exactly, it means you're almost there, right?",
+        "chinese": "是的，它意味着你已经接近了目标，对吗？"
+    },
+    {
+        "start": 610.48,
+        "end": 612.76,
+        "english": "Okay, yeah, very good.",
+        "chinese": "好的，嗯，挺好的。"
+    },
+    {
+        "start": 612.76,
+        "end": 617.92,
+        "english": "And what about this next phrase that I saw, and it was really interesting, no question",
+        "chinese": "接下来这句话，我看到了，它真的很有趣，没有问题。"
+    },
+    {
+        "start": 617.92,
+        "end": 618.92,
+        "english": "about it.",
+        "chinese": "关于它。"
+    },
+    {
+        "start": 618.92,
+        "end": 620.4,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 620.4,
+        "end": 622.4,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 622.4,
+        "end": 623.92,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 623.92,
+        "end": 629.16,
+        "english": "Alright, so this is a statement that doesn't really make much sense.",
+        "chinese": "好的，这是个说不怎么明白的话。"
+    },
+    {
+        "start": 629.16,
+        "end": 631.9200000000001,
+        "english": "But what am I saying when I say, oh, no question about it?",
+        "chinese": "但是，我所说的，哦，关于它没有问题？"
+    },
+    {
+        "start": 631.92,
+        "end": 635.0,
+        "english": "You're saying, I agree, there is no doubt.",
+        "chinese": "您说得好，我同意，没有疑问。"
+    },
+    {
+        "start": 635.0,
+        "end": 636.0,
+        "english": "You're right.",
+        "chinese": "您说得对。"
+    },
+    {
+        "start": 636.0,
+        "end": 637.0,
+        "english": "You're right.",
+        "chinese": "您说得对。"
+    },
+    {
+        "start": 637.0,
+        "end": 638.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 638.0,
+        "end": 639.0,
+        "english": "Well, let's give some examples.",
+        "chinese": "好的，让我们给你一些例子。"
+    },
+    {
+        "start": 639.0,
+        "end": 642.04,
+        "english": "I could say, there's no question about it.",
+        "chinese": "我可以说，没有问题。"
+    },
+    {
+        "start": 642.04,
+        "end": 644.28,
+        "english": "Ecuador is a great soccer team.",
+        "chinese": "埃瓜加拉是一个伟大的足球队。"
+    },
+    {
+        "start": 644.28,
+        "end": 646.24,
+        "english": "There is no question about that.",
+        "chinese": "没有问题。"
+    },
+    {
+        "start": 646.24,
+        "end": 650.12,
+        "english": "Alright, so, or you can say, no question about it.",
+        "chinese": "好的，那么，或者你可以这么说：“嗯，或者你可以说，关于这个问题没有问题。”"
+    },
+    {
+        "start": 650.12,
+        "end": 653.3199999999999,
+        "english": "Our company makes the best products on the market.",
+        "chinese": "我们的公司生产市场上最好的产品。"
+    },
+    {
+        "start": 653.3199999999999,
+        "end": 658.3199999999999,
+        "english": "Okay, so really useful phrase that you can use in sports or anywhere else.",
+        "chinese": "好的，那么实用的这句话你可以在体育或其他地方使用。"
+    },
+    {
+        "start": 658.3199999999999,
+        "end": 659.48,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 659.48,
+        "end": 663.12,
+        "english": "And now let's take a look at our last phrase for Fluency Builder, and it's a really good",
+        "chinese": "现在让我们来看看我们的上一个语料库中的最后一个句子，这是一个非常棒的"
+    },
+    {
+        "start": 663.12,
+        "end": 665.16,
+        "english": "one to exaggerate a little bit.",
+        "chinese": "一可以稍微夸张一点。"
+    },
+    {
+        "start": 665.16,
+        "end": 666.16,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 666.16,
+        "end": 667.32,
+        "english": "Buy a mile.",
+        "chinese": "买一公里。"
+    },
+    {
+        "start": 667.32,
+        "end": 668.5600000000001,
+        "english": "Buy a mile.",
+        "chinese": "买一公里。"
+    },
+    {
+        "start": 668.5600000000001,
+        "end": 669.5600000000001,
+        "english": "Buy a mile.",
+        "chinese": "买一公里。"
+    },
+    {
+        "start": 669.5600000000001,
+        "end": 672.4,
+        "english": "So, he was offside by a mile.",
+        "chinese": "所以，他离对方一英里。"
+    },
+    {
+        "start": 672.4,
+        "end": 676.84,
+        "english": "Right, so the commentator is saying that he was very offside.",
+        "chinese": "正确，评论员说他非常离队。"
+    },
+    {
+        "start": 676.84,
+        "end": 678.5600000000001,
+        "english": "That it was really obvious.",
+        "chinese": "这句话的中文翻译是：“那确实很明显。”"
+    },
+    {
+        "start": 678.5600000000001,
+        "end": 679.5600000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 679.5600000000001,
+        "end": 683.04,
+        "english": "So, you can use that also in different contexts, maybe not in sports.",
+        "chinese": "所以，你也可以用它在不同的场合使用，也许不是体育。"
+    },
+    {
+        "start": 683.04,
+        "end": 684.04,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 684.04,
+        "end": 690.12,
+        "english": "Maybe we can say our company is ahead of all the others by a mile.",
+        "chinese": "也许我们可以说我们的公司比其他所有竞争对手领先一倍。"
+    },
+    {
+        "start": 690.12,
+        "end": 691.12,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 691.12,
+        "end": 696.36,
+        "english": "Or if you tell somebody to guess your age and they say, oh, I think you are 42.",
+        "chinese": "如果有人告诉你你的年龄，然后他们说：“哦，我认为你大约是42岁。”"
+    },
+    {
+        "start": 696.36,
+        "end": 699.36,
+        "english": "Oh, you could say you're off by a mile.",
+        "chinese": "对不起，你可以说你离我远一点。"
+    },
+    {
+        "start": 699.36,
+        "end": 700.36,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 700.36,
+        "end": 701.36,
+        "english": "So, you're really, really wrong.",
+        "chinese": "所以，你真的是真的非常错误。"
+    },
+    {
+        "start": 701.36,
+        "end": 702.36,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 702.36,
+        "end": 703.36,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 703.36,
+        "end": 704.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 704.36,
+        "end": 705.36,
+        "english": "So, it's a way of exaggerating a little bit.",
+        "chinese": "所以，这是一种稍微夸张一点的方法。"
+    },
+    {
+        "start": 705.36,
+        "end": 706.36,
+        "english": "Yes, and saying it's really obvious.",
+        "chinese": "是的，说得很清楚。"
+    },
+    {
+        "start": 706.36,
+        "end": 707.36,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 707.36,
+        "end": 709.16,
+        "english": "Well, three awesome phrases.",
+        "chinese": "好的，三个很棒的短语。"
+    },
+    {
+        "start": 709.16,
+        "end": 711.9599999999999,
+        "english": "And I think it will help us to hear them one more time.",
+        "chinese": "而且我认为这将有助于我们再次听取他们。"
+    },
+    {
+        "start": 711.9599999999999,
+        "end": 713.5999999999999,
+        "english": "So, let's listen to the dialogue.",
+        "chinese": "所以，让我们听听对话。"
+    },
+    {
+        "start": 713.6,
+        "end": 730.5600000000001,
+        "english": "Welcome back, soccer fans.",
+        "chinese": "欢迎再次来到足球爱好者。"
+    },
+    {
+        "start": 730.5600000000001,
+        "end": 735.32,
+        "english": "My name is Rick Fields, and as always, I am joined by my commentating wingman, Bob Copeland.",
+        "chinese": "我的名字是Rick Fields，而且总是和我搭档的评论员，鲍勃·科潘德。"
+    },
+    {
+        "start": 735.32,
+        "end": 740.96,
+        "english": "And we are in the break of soccer history today as Ecuador and Brazil are tied one-one,",
+        "chinese": "今天，我们正处于足球历史的转折点，厄瓜多尔和巴西都以一球之差战平。"
+    },
+    {
+        "start": 740.96,
+        "end": 746.12,
+        "english": "as we begin the second half of the 2022 World Cup.",
+        "chinese": "我们将在2022年世界杯的第二半场开始。"
+    },
+    {
+        "start": 746.12,
+        "end": 748.96,
+        "english": "The ref calls the players for the kickoff, and here we go.",
+        "chinese": "在传球中，球员们被召唤过来进行接球，我们继续。"
+    },
+    {
+        "start": 748.96,
+        "end": 752.96,
+        "english": "Ecuador quickly passes the ball to the midfield, but oh, it's out of bounds.",
+        "chinese": "埃博拉病毒迅速传到中场，但啊，它已经出界。"
+    },
+    {
+        "start": 752.96,
+        "end": 754.5600000000001,
+        "english": "That will be a throw in for Brazil.",
+        "chinese": "这是对巴西的“兜售”。"
+    },
+    {
+        "start": 754.5600000000001,
+        "end": 760.36,
+        "english": "Adiraino has the ball and makes a long pass to Havigno, and the ref is called him upside.",
+        "chinese": "在阿迪纳诺手中有球，他向胡金石长传，裁判把他叫到了上风。"
+    },
+    {
+        "start": 760.36,
+        "end": 761.36,
+        "english": "No question about it.",
+        "chinese": "无问题。"
+    },
+    {
+        "start": 761.36,
+        "end": 763.2,
+        "english": "He was offside by a mile.",
+        "chinese": "他离对方一英里。"
+    },
+    {
+        "start": 763.2,
+        "end": 764.8000000000001,
+        "english": "We have a goal kick for Ecuador.",
+        "chinese": "我们有为厄瓜多尔争取的进球机会。"
+    },
+    {
+        "start": 764.8000000000001,
+        "end": 766.6,
+        "english": "Edison Mendez heads at Tervilletia.",
+        "chinese": "王明德是泰立特利亚的主席。"
+    },
+    {
+        "start": 766.6,
+        "end": 767.6,
+        "english": "He shoots.",
+        "chinese": "他射箭。"
+    },
+    {
+        "start": 767.6,
+        "end": 770.4000000000001,
+        "english": "Deflicted by the defender, and we have a corner kick.",
+        "chinese": "被守护者陷害，我们有角球机会。"
+    },
+    {
+        "start": 770.4,
+        "end": 771.88,
+        "english": "Elgado takes the corner.",
+        "chinese": "Elgado は、角を取る。"
+    },
+    {
+        "start": 771.88,
+        "end": 772.88,
+        "english": "We have a foul.",
+        "chinese": "我们有污点。"
+    },
+    {
+        "start": 772.88,
+        "end": 773.88,
+        "english": "Oh, no.",
+        "chinese": "对不起，抱歉。"
+    },
+    {
+        "start": 773.88,
+        "end": 777.68,
+        "english": "Dita, the goalkeeper has foul, the Ecuadorian player.",
+        "chinese": "在阿根廷队的守门员有犯规，这个球员。"
+    },
+    {
+        "start": 777.68,
+        "end": 780.72,
+        "english": "He gets a yellow card, and that will be a penalty kick.",
+        "chinese": "他得到一张黄牌，这将是一次点球。"
+    },
+    {
+        "start": 780.72,
+        "end": 785.24,
+        "english": "This is the perfect opportunity for Ecuador to get ahead in this match and become World Champions.",
+        "chinese": "这个是厄瓜多尔在这一场比赛中取得优势并成为世界冠军的绝佳机会。"
+    },
+    {
+        "start": 785.24,
+        "end": 786.52,
+        "english": "He gets ready for the kick.",
+        "chinese": "他为踢球做准备。"
+    },
+    {
+        "start": 786.52,
+        "end": 788.24,
+        "english": "He shoots, and he...",
+        "chinese": "他射箭，和...一样。"
+    },
+    {
+        "start": 788.24,
+        "end": 806.08,
+        "english": "OK, well, as you all may know, soccer is a very popular sport, especially in Latin America.",
+        "chinese": "好的，嗯，你知道足球是非常受欢迎的运动，特别是在南美洲。"
+    },
+    {
+        "start": 806.08,
+        "end": 807.08,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 807.08,
+        "end": 811.12,
+        "english": "And your favorite team, Ecuador, are they really this good in soccer?",
+        "chinese": "您最喜欢的球队，厄瓜多尔队，他们真的这么好踢足球吗？"
+    },
+    {
+        "start": 811.12,
+        "end": 813.72,
+        "english": "Are they really going to win the 2022 Cup?",
+        "chinese": "是他们真的会赢得2022杯赛吗？"
+    },
+    {
+        "start": 813.72,
+        "end": 815.5600000000001,
+        "english": "Well, maybe not.",
+        "chinese": "好的，可能不是。"
+    },
+    {
+        "start": 815.56,
+        "end": 821.28,
+        "english": "Well, actually, Ecuador has improved with time, but usually it's the strong teams like",
+        "chinese": "好的，实际上，厄瓜多尔已经改善了，但通常情况下，是强队如中国这样的队伍。"
+    },
+    {
+        "start": 821.28,
+        "end": 826.04,
+        "english": "Argentina and Brazil who dominate the region, right?",
+        "chinese": "阿根廷和巴西是主导区域的国家吗？"
+    },
+    {
+        "start": 826.04,
+        "end": 827.04,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 827.04,
+        "end": 828.88,
+        "english": "But yeah, hopefully we'll make it next time.",
+        "chinese": "但是，嗯，我们下次一定能够成功。"
+    },
+    {
+        "start": 828.88,
+        "end": 832.04,
+        "english": "OK, well, I have my money on Ecuador and...",
+        "chinese": "好的，嗯，我有我的钱在厄瓜多尔..."
+    },
+    {
+        "start": 832.04,
+        "end": 833.3599999999999,
+        "english": "For 2022.",
+        "chinese": "2022年。"
+    },
+    {
+        "start": 833.3599999999999,
+        "end": 834.8399999999999,
+        "english": "But yeah, not on Canada.",
+        "chinese": "但是，不在中国。"
+    },
+    {
+        "start": 834.8399999999999,
+        "end": 836.0799999999999,
+        "english": "There's no hope for us.",
+        "chinese": "没有希望。"
+    },
+    {
+        "start": 836.0799999999999,
+        "end": 838.16,
+        "english": "Well, Canada is doing really well now.",
+        "chinese": "很好，加拿大现在做得非常好。"
+    },
+    {
+        "start": 838.16,
+        "end": 840.88,
+        "english": "They actually beat Mexico if on that mistake.",
+        "chinese": "他们实际上在那个错误上打败了墨西哥。"
+    },
+    {
+        "start": 840.88,
+        "end": 842.04,
+        "english": "Oh, actually, that sort of...",
+        "chinese": "当然，那……"
+    },
+    {
+        "start": 842.04,
+        "end": 843.9599999999999,
+        "english": "Yeah, I kind of remember that now.",
+        "chinese": "是的，我大概还记得现在。"
+    },
+    {
+        "start": 843.96,
+        "end": 849.08,
+        "english": "But I think there's no hope for us to be Brazil or Argentina, one of these big countries.",
+        "chinese": "但是我认为我们不可能成为巴西或阿根廷，这是一大国。"
+    },
+    {
+        "start": 849.08,
+        "end": 852.52,
+        "english": "We have the next World Cup coming up, so it's really exciting, and I don't know who's",
+        "chinese": "我们即将在世界杯上出现，真是太激动了，我不知道谁是"
+    },
+    {
+        "start": 852.52,
+        "end": 853.52,
+        "english": "going to win.",
+        "chinese": "翻译成中文是：“准备要赢。”"
+    },
+    {
+        "start": 853.52,
+        "end": 858.4000000000001,
+        "english": "All right, well, listeners, who do you think is going to win?",
+        "chinese": "好的，好，听众们，你们认为谁会赢？"
+    },
+    {
+        "start": 858.4000000000001,
+        "end": 860.4000000000001,
+        "english": "Who is the best soccer team out there?",
+        "chinese": "谁是目前最好的足球队？"
+    },
+    {
+        "start": 860.4000000000001,
+        "end": 861.4000000000001,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 861.4000000000001,
+        "end": 865.76,
+        "english": "They're really good soccer teams, although some countries aren't really known for their",
+        "chinese": "他们真的很棒的足球队，尽管有些国家并不被人们熟知。"
+    },
+    {
+        "start": 865.76,
+        "end": 867.08,
+        "english": "soccer like Russia.",
+        "chinese": "足球像俄罗斯。"
+    },
+    {
+        "start": 867.08,
+        "end": 870.96,
+        "english": "You don't really hear too much soccer from Russia or from China is for that.",
+        "chinese": "您从俄罗斯或中国听到的足球很少，因为那里的足球很少。"
+    },
+    {
+        "start": 870.96,
+        "end": 873.64,
+        "english": "I wonder how popular it is in these countries.",
+        "chinese": "我好奇这些国家在哪些地方受欢迎。"
+    },
+    {
+        "start": 873.64,
+        "end": 876.24,
+        "english": "So let us know, come to our website, EnglishPot.com.",
+        "chinese": "所以，让我们知道，请访问我们的网站：EnglishPot.com。"
+    },
+    {
+        "start": 876.24,
+        "end": 881.92,
+        "english": "Tell us how popular soccer is in your country or what team you are a fan of.",
+        "chinese": "请告诉我们您的国家足球在哪个方面受欢迎，或者您是某个球队的粉丝。"
+    },
+    {
+        "start": 881.92,
+        "end": 889.84,
+        "english": "I know many people like the European cups and their fans of Barcelona or the Italian teams.",
+        "chinese": "我知道许多球迷喜欢欧洲杯，尤其是巴塞罗那队或意大利球队。"
+    },
+    {
+        "start": 889.84,
+        "end": 890.84,
+        "english": "Well, come to the website.",
+        "chinese": "好的，来网站吧。"
+    },
+    {
+        "start": 890.84,
+        "end": 893.4399999999999,
+        "english": "Marco and I are always around to answer your questions.",
+        "chinese": "马科和我总是随时准备回答你的问题。"
+    },
+    {
+        "start": 893.4399999999999,
+        "end": 894.68,
+        "english": "And until next time, goodbye.",
+        "chinese": "直到下次见，再见。"
+    },
+    {
+        "start": 894.68,
+        "end": 895.68,
+        "english": "Bye.",
+        "chinese": "再见。"
+    }
+]

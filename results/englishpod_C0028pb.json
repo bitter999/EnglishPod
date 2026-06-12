@@ -1,0 +1,1544 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.28,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.28,
+        "end": 6.28,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.28,
+        "end": 10.120000000000001,
+        "english": "And today we're bringing you the sequel of I'm Sorry I Love You.",
+        "chinese": "英语：今天我们将为您带来《我爱我貌美》的续集。"
+    },
+    {
+        "start": 10.120000000000001,
+        "end": 11.08,
+        "english": "Part two.",
+        "chinese": "第二部分。"
+    },
+    {
+        "start": 11.08,
+        "end": 11.84,
+        "english": "Part two.",
+        "chinese": "第二部分。"
+    },
+    {
+        "start": 11.84,
+        "end": 12.64,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 12.64,
+        "end": 15.52,
+        "english": "I guess a lot of our listeners enjoyed the first part.",
+        "chinese": "我猜我们的听众对第一部分非常感兴趣。"
+    },
+    {
+        "start": 15.52,
+        "end": 16.04,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，不错。"
+    },
+    {
+        "start": 16.04,
+        "end": 19.52,
+        "english": "And since it was such a romantic dialogue and...",
+        "chinese": "而且，因为是一段浪漫对话……"
+    },
+    {
+        "start": 19.52,
+        "end": 20.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 20.28,
+        "end": 21.52,
+        "english": "We're bringing part two.",
+        "chinese": "我们正在准备第二部分。"
+    },
+    {
+        "start": 21.52,
+        "end": 28.04,
+        "english": "So it's even more romantic and I'm sure everyone is going to find some great and useful language in it.",
+        "chinese": "所以它更浪漫，我也很期待大家在其中找到一些有用的语言。"
+    },
+    {
+        "start": 28.04,
+        "end": 29.04,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 29.04,
+        "end": 31.88,
+        "english": "We've got language that we used to talk about dates.",
+        "chinese": "我们有语言，我们可以谈论日期。"
+    },
+    {
+        "start": 31.88,
+        "end": 32.879999999999995,
+        "english": "A date?",
+        "chinese": "一个约会？"
+    },
+    {
+        "start": 32.879999999999995,
+        "end": 33.879999999999995,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 33.879999999999995,
+        "end": 35.879999999999995,
+        "english": "So useful language for when you're going on a date.",
+        "chinese": "英语：所以用得上当下的语言。"
+    },
+    {
+        "start": 35.879999999999995,
+        "end": 36.879999999999995,
+        "english": "That's right.",
+        "chinese": "英语：That's right."
+    },
+    {
+        "start": 36.879999999999995,
+        "end": 42.36,
+        "english": "Well, before we look at this date language, let's listen to the dialogue for the first time.",
+        "chinese": "好的，我们先听听这个日期的语言，然后再看看第一次对话。"
+    },
+    {
+        "start": 48.04,
+        "end": 50.04,
+        "english": "I'm so relieved that your ankle wasn't broken.",
+        "chinese": "我非常感谢你的韧劲，你的脚踝没有受伤。"
+    },
+    {
+        "start": 50.04,
+        "end": 52.72,
+        "english": "I feel just awful about this whole thing.",
+        "chinese": "我对此事感到非常糟糕。"
+    },
+    {
+        "start": 52.72,
+        "end": 54.04,
+        "english": "I want to make it up to you.",
+        "chinese": "我想要弥补你的错误。"
+    },
+    {
+        "start": 54.04,
+        "end": 56.16,
+        "english": "Let me take you out to dinner tonight, my treat.",
+        "chinese": "我今天晚上带你出去吃晚饭，我的小菜一碟。"
+    },
+    {
+        "start": 56.16,
+        "end": 57.68,
+        "english": "Oh, that sounds great.",
+        "chinese": "英语：哦，那听起来不错。"
+    },
+    {
+        "start": 57.68,
+        "end": 59.48,
+        "english": "But I'd love to.",
+        "chinese": "但是我想。"
+    },
+    {
+        "start": 59.48,
+        "end": 60.48,
+        "english": "Here's my address.",
+        "chinese": "我的地址在这里。"
+    },
+    {
+        "start": 60.48,
+        "end": 61.96,
+        "english": "Pick me up at 8.",
+        "chinese": "英语：请尽快接我。"
+    },
+    {
+        "start": 61.96,
+        "end": 62.96,
+        "english": "Perfect.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 75.92,
+        "end": 77.64,
+        "english": "Thank you for such a lovely evening.",
+        "chinese": "谢谢这样的一个美好的夜晚。"
+    },
+    {
+        "start": 77.64,
+        "end": 80.4,
+        "english": "The food was amazing and I had a great time.",
+        "chinese": "英语：食物很好吃，我玩得非常开心。"
+    },
+    {
+        "start": 80.4,
+        "end": 81.48,
+        "english": "Me too.",
+        "chinese": "我也一样。"
+    },
+    {
+        "start": 81.48,
+        "end": 83.92,
+        "english": "You look so beautiful tonight.",
+        "chinese": "你看起来今晚真漂亮。"
+    },
+    {
+        "start": 83.92,
+        "end": 86.2,
+        "english": "I wish this night would never end.",
+        "chinese": "我希望能这个夜晚永远结束。"
+    },
+    {
+        "start": 86.2,
+        "end": 87.88000000000001,
+        "english": "There's something that I have to tell you.",
+        "chinese": "英语：我必须告诉你。"
+    },
+    {
+        "start": 87.88000000000001,
+        "end": 88.88000000000001,
+        "english": "But what is it?",
+        "chinese": "但是，这是什么？"
+    },
+    {
+        "start": 88.88000000000001,
+        "end": 93.64,
+        "english": "I woke up today thinking that this would be just like any other day.",
+        "chinese": "我今天醒来，心想这和每天一样。"
+    },
+    {
+        "start": 93.64,
+        "end": 94.64,
+        "english": "But I was wrong.",
+        "chinese": "但是我不对。"
+    },
+    {
+        "start": 94.64,
+        "end": 97.04,
+        "english": "The twist of fate brought us together.",
+        "chinese": "英语：命运的转折让我们结识了彼此。"
+    },
+    {
+        "start": 97.04,
+        "end": 101.8,
+        "english": "I crashed into your life and you into mine and this may sound crazy, but I'm falling in",
+        "chinese": "英语：我被你的生活和我的生活深深地卷入了。"
+    },
+    {
+        "start": 101.8,
+        "end": 102.80000000000001,
+        "english": "love with you, Veronica.",
+        "chinese": "我爱你，维罗尼卡。"
+    },
+    {
+        "start": 117.2,
+        "end": 120.24000000000001,
+        "english": "Wow, such a romantic dialogue.",
+        "chinese": "哇，这样的浪漫对话。"
+    },
+    {
+        "start": 120.24000000000001,
+        "end": 123.2,
+        "english": "It really sounds like they're falling in love.",
+        "chinese": "英语：它听起来像是他们正在坠入爱河。"
+    },
+    {
+        "start": 123.2,
+        "end": 127.84,
+        "english": "Yeah, it's a really romantic thing that's going on right now, but there were some really",
+        "chinese": "是的，它真是一个非常浪漫的事情正在发生，但也有些让人感到有些困惑。"
+    },
+    {
+        "start": 127.84,
+        "end": 129.16,
+        "english": "useful words here.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 129.16,
+        "end": 134.04,
+        "english": "So why don't we take a look at language takeaway?",
+        "chinese": "英语：所以为什么不看看语言小贴士？"
+    },
+    {
+        "start": 134.04,
+        "end": 135.04,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 135.04,
+        "end": 138.76,
+        "english": "Today, we have three words for language takeaway.",
+        "chinese": "今天，我们有三个词来总结语言学习。"
+    },
+    {
+        "start": 138.76,
+        "end": 142.48000000000002,
+        "english": "And the first one is relieved.",
+        "chinese": "英语：And the first one is relieved."
+    },
+    {
+        "start": 142.48000000000002,
+        "end": 143.48000000000002,
+        "english": "Relieved.",
+        "chinese": "释然。"
+    },
+    {
+        "start": 143.48000000000002,
+        "end": 144.48000000000002,
+        "english": "Relieved.",
+        "chinese": "释然。"
+    },
+    {
+        "start": 144.48,
+        "end": 148.32,
+        "english": "So we have some great examples on how we use relieved and I'm really sure you can understand",
+        "chinese": "所以，我们有一些很棒的例子，我想你们应该能理解。"
+    },
+    {
+        "start": 148.32,
+        "end": 151.2,
+        "english": "the meaning from the sentences.",
+        "chinese": "从句子的意义。"
+    },
+    {
+        "start": 151.2,
+        "end": 154.2,
+        "english": "Example one.",
+        "chinese": "Example one: 一例。"
+    },
+    {
+        "start": 154.2,
+        "end": 161.6,
+        "english": "They were relieved to hear that the company would not be making any layoffs.",
+        "chinese": "他们被解雇的消息让公司感到非常欣慰。"
+    },
+    {
+        "start": 161.6,
+        "end": 162.6,
+        "english": "Example two.",
+        "chinese": "例子二。"
+    },
+    {
+        "start": 162.6,
+        "end": 167.23999999999998,
+        "english": "I'm so relieved to hear your voice.",
+        "chinese": "我非常高兴听到你的声音。"
+    },
+    {
+        "start": 167.23999999999998,
+        "end": 172.35999999999999,
+        "english": "I was worried something happened to you.",
+        "chinese": "我担心你发生了什么。"
+    },
+    {
+        "start": 172.36,
+        "end": 179.4,
+        "english": "I guess relieved is like a happy or relaxed feeling that you get if you avoid something",
+        "chinese": "英语：我猜释怀是当你避免某事时，你会感到轻松或放松的感觉。"
+    },
+    {
+        "start": 179.4,
+        "end": 180.4,
+        "english": "bad, right?",
+        "chinese": "不好，对吗？"
+    },
+    {
+        "start": 180.4,
+        "end": 181.4,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 181.4,
+        "end": 182.92000000000002,
+        "english": "I'm so relieved that didn't happen.",
+        "chinese": "我非常高兴没有发生这种情况。"
+    },
+    {
+        "start": 182.92000000000002,
+        "end": 183.92000000000002,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 183.92000000000002,
+        "end": 186.48000000000002,
+        "english": "Now for our second word, pick me up.",
+        "chinese": "现在，让我们来选我。"
+    },
+    {
+        "start": 186.48000000000002,
+        "end": 188.0,
+        "english": "Pick me up.",
+        "chinese": "英语：Pick me up."
+    },
+    {
+        "start": 188.0,
+        "end": 189.4,
+        "english": "Pick me up.",
+        "chinese": "英语：Pick me up."
+    },
+    {
+        "start": 189.4,
+        "end": 193.76000000000002,
+        "english": "So when you ask someone to pick you up, you're saying basically come and get me.",
+        "chinese": "所以当你问某人帮你接车时，你是在说基本上请你来接我。"
+    },
+    {
+        "start": 193.76000000000002,
+        "end": 196.96,
+        "english": "Okay, so let's give a couple of examples.",
+        "chinese": "好的，让我们来举几个例子："
+    },
+    {
+        "start": 196.96,
+        "end": 202.8,
+        "english": "My husband was supposed to pick me up from work yesterday, but he forgot.",
+        "chinese": "我的丈夫昨天应该送我上班，但他忘记送我了。"
+    },
+    {
+        "start": 202.8,
+        "end": 203.8,
+        "english": "Does that really happen?",
+        "chinese": "英语：真的吗？"
+    },
+    {
+        "start": 203.8,
+        "end": 204.8,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 204.8,
+        "end": 205.8,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 205.8,
+        "end": 207.4,
+        "english": "We'll have a talk with him.",
+        "chinese": "我们将在会议上讨论他。"
+    },
+    {
+        "start": 207.4,
+        "end": 209.76000000000002,
+        "english": "Or we could also say, oh, I need to hurry up.",
+        "chinese": "英语：或者我们也可以这么说，嗯，我需要赶紧。"
+    },
+    {
+        "start": 209.76000000000002,
+        "end": 211.72,
+        "english": "The taxi will pick me up at seven.",
+        "chinese": "英语：这辆出租车将在七点接我。"
+    },
+    {
+        "start": 211.72,
+        "end": 212.72,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 212.72,
+        "end": 213.92000000000002,
+        "english": "So come and get me.",
+        "chinese": "所以请让我来。"
+    },
+    {
+        "start": 213.92000000000002,
+        "end": 214.92000000000002,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 214.92000000000002,
+        "end": 215.92000000000002,
+        "english": "Pick me up.",
+        "chinese": "请接我。"
+    },
+    {
+        "start": 215.92000000000002,
+        "end": 219.36,
+        "english": "And our final word in today's language takeaway is...",
+        "chinese": "今天的语言小贴士是..."
+    },
+    {
+        "start": 219.36,
+        "end": 221.16,
+        "english": "Ordinary.",
+        "chinese": "普通。"
+    },
+    {
+        "start": 221.16,
+        "end": 222.32,
+        "english": "Ordinary.",
+        "chinese": "普通。"
+    },
+    {
+        "start": 222.32,
+        "end": 223.32,
+        "english": "Ordinary.",
+        "chinese": "普通。"
+    },
+    {
+        "start": 223.32,
+        "end": 224.32,
+        "english": "Ordinary.",
+        "chinese": "普通。"
+    },
+    {
+        "start": 224.32,
+        "end": 227.4,
+        "english": "So, ordinary is a normal word.",
+        "chinese": "所以，普通就是正常的意思。"
+    },
+    {
+        "start": 227.4,
+        "end": 228.4,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 228.4,
+        "end": 229.4,
+        "english": "Meaning?",
+        "chinese": "英语：含义？"
+    },
+    {
+        "start": 229.4,
+        "end": 230.4,
+        "english": "It's normal.",
+        "chinese": "它很正常。"
+    },
+    {
+        "start": 230.4,
+        "end": 231.4,
+        "english": "Uh-huh.",
+        "chinese": "嗯，嗯。"
+    },
+    {
+        "start": 231.4,
+        "end": 232.4,
+        "english": "Nothing uncommon about it.",
+        "chinese": "没什么奇怪的。"
+    },
+    {
+        "start": 232.4,
+        "end": 233.4,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 233.4,
+        "end": 234.4,
+        "english": "So you can have like an ordinary person.",
+        "chinese": "所以你可以像一个普通人一样。"
+    },
+    {
+        "start": 234.4,
+        "end": 235.4,
+        "english": "An ordinary day.",
+        "chinese": "一个普通的日子。"
+    },
+    {
+        "start": 235.4,
+        "end": 237.2,
+        "english": "An ordinary day.",
+        "chinese": "一个普通的日子。"
+    },
+    {
+        "start": 237.2,
+        "end": 238.2,
+        "english": "Ordinary life.",
+        "chinese": "普通生活。"
+    },
+    {
+        "start": 238.2,
+        "end": 239.2,
+        "english": "Uh-huh.",
+        "chinese": "英语：嗯，对。"
+    },
+    {
+        "start": 239.2,
+        "end": 241.04,
+        "english": "Nothing exciting about it.",
+        "chinese": "没什么特别的。"
+    },
+    {
+        "start": 241.04,
+        "end": 242.04,
+        "english": "What else is ordinary?",
+        "chinese": "What else is ordinary? 翻译成中文是：什么其他也是普通的？"
+    },
+    {
+        "start": 242.04,
+        "end": 243.04,
+        "english": "Ordinary podcast.",
+        "chinese": "普通播客。"
+    },
+    {
+        "start": 243.04,
+        "end": 245.64,
+        "english": "An ordinary podcast, which English pot is not.",
+        "chinese": "英语：一个普通的播客，不是英语播客。"
+    },
+    {
+        "start": 245.64,
+        "end": 246.64,
+        "english": "It's not.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 246.64,
+        "end": 247.64,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 247.64,
+        "end": 248.64,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 248.64,
+        "end": 249.64,
+        "english": "So ordinary.",
+        "chinese": "So普通。"
+    },
+    {
+        "start": 249.64,
+        "end": 250.64,
+        "english": "Okay, great words.",
+        "chinese": "好的，好词。"
+    },
+    {
+        "start": 250.64,
+        "end": 252.72,
+        "english": "And I guess now we can listen to our dialogue a second time.",
+        "chinese": "现在，我们可以说我们的对话再听一次。"
+    },
+    {
+        "start": 252.72,
+        "end": 254.64,
+        "english": "This time it'll be a little bit slower.",
+        "chinese": "这个时间会稍微慢一点。"
+    },
+    {
+        "start": 254.64,
+        "end": 265.56,
+        "english": "And this will help you to understand the language more clearly.",
+        "chinese": "而且可以帮助你更清楚地理解语言。"
+    },
+    {
+        "start": 265.56,
+        "end": 268.44,
+        "english": "I'm so relieved that your ankle wasn't broken.",
+        "chinese": "我非常高兴你的脚踝没有受伤。"
+    },
+    {
+        "start": 268.44,
+        "end": 271.8,
+        "english": "I feel just awful about this whole thing.",
+        "chinese": "我对此事感到非常糟糕。"
+    },
+    {
+        "start": 271.8,
+        "end": 273.8,
+        "english": "I want to make it up to you.",
+        "chinese": "我想要弥补你的错误。"
+    },
+    {
+        "start": 273.8,
+        "end": 276.04,
+        "english": "Let me take you out to dinner tonight.",
+        "chinese": "让我带你去今晚的晚餐吧。"
+    },
+    {
+        "start": 276.04,
+        "end": 277.68,
+        "english": "My treat.",
+        "chinese": "我的荣幸。"
+    },
+    {
+        "start": 277.68,
+        "end": 279.32,
+        "english": "That sounds great.",
+        "chinese": "听起来不错。"
+    },
+    {
+        "start": 279.32,
+        "end": 281.2,
+        "english": "I'd love to.",
+        "chinese": "我想要。"
+    },
+    {
+        "start": 281.2,
+        "end": 283.0,
+        "english": "Here is my address.",
+        "chinese": "我的地址在这里。"
+    },
+    {
+        "start": 283.0,
+        "end": 285.24,
+        "english": "Pick me up at eight.",
+        "chinese": "英语：请尽快接我。"
+    },
+    {
+        "start": 285.24,
+        "end": 286.88,
+        "english": "Perfect.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 286.88,
+        "end": 289.12,
+        "english": "Thank you for such a lovely evening.",
+        "chinese": "谢谢这样的一个美好的夜晚。"
+    },
+    {
+        "start": 289.12,
+        "end": 291.08,
+        "english": "The food was amazing.",
+        "chinese": "食物很好。"
+    },
+    {
+        "start": 291.08,
+        "end": 293.48,
+        "english": "And I had a great time.",
+        "chinese": "英语：And I had a great time."
+    },
+    {
+        "start": 293.48,
+        "end": 294.8,
+        "english": "Me too.",
+        "chinese": "我也是。"
+    },
+    {
+        "start": 294.8,
+        "end": 297.91999999999996,
+        "english": "You look so beautiful tonight.",
+        "chinese": "你看起来今晚真漂亮。"
+    },
+    {
+        "start": 297.91999999999996,
+        "end": 300.71999999999997,
+        "english": "I wish this night would never end.",
+        "chinese": "我希望能永远不要结束这个夜晚。"
+    },
+    {
+        "start": 300.71999999999997,
+        "end": 303.68,
+        "english": "There's something I have to tell you.",
+        "chinese": "英语：你有什么事情要告诉我吗？"
+    },
+    {
+        "start": 303.68,
+        "end": 305.32,
+        "english": "What is it?",
+        "chinese": "这句话的中文翻译是:"
+    },
+    {
+        "start": 305.32,
+        "end": 311.15999999999997,
+        "english": "I woke up today thinking this would be just like any other ordinary day.",
+        "chinese": "我今天醒来，心想这和任何其他普通的日子都差不多。"
+    },
+    {
+        "start": 311.16,
+        "end": 312.84000000000003,
+        "english": "But I was wrong.",
+        "chinese": "但是我不对。"
+    },
+    {
+        "start": 312.84000000000003,
+        "end": 316.0,
+        "english": "A twist of fate brought us together.",
+        "chinese": "英语：一个转折点让我们相聚。"
+    },
+    {
+        "start": 316.0,
+        "end": 320.08000000000004,
+        "english": "I crashed into your life and you into mine.",
+        "chinese": "我将你的生活抛向了你，你则将我的生活抛向了我。"
+    },
+    {
+        "start": 320.08000000000004,
+        "end": 325.12,
+        "english": "And this may sound crazy, but I'm falling in love with you, Veronica.",
+        "chinese": "这句话的意思是，她可能觉得有点疯狂，但我觉得你很吸引我，Veronica。"
+    },
+    {
+        "start": 331.12,
+        "end": 333.40000000000003,
+        "english": "OK, so we looked at some great vocabulary.",
+        "chinese": "好的，我们看看一些好词汇。"
+    },
+    {
+        "start": 333.40000000000003,
+        "end": 335.6,
+        "english": "And now we can look at some great phrases.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 335.6,
+        "end": 338.92,
+        "english": "So let's start with Fluency Builder.",
+        "chinese": "英语：所以让我们从流利构建单元开始。"
+    },
+    {
+        "start": 338.92,
+        "end": 340.84000000000003,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 340.84,
+        "end": 344.32,
+        "english": "On Fluency Builder, today we have three great phrases.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 344.32,
+        "end": 346.52,
+        "english": "So why don't we just start with the first one?",
+        "chinese": "所以为什么不先从第一台开始呢？"
+    },
+    {
+        "start": 346.52,
+        "end": 348.96,
+        "english": "Yeah, the first one we heard at the beginning of the dialogue.",
+        "chinese": "是的，我们听到的第一个对话开始。"
+    },
+    {
+        "start": 348.96,
+        "end": 351.2,
+        "english": "Make it up to you.",
+        "chinese": "英语：Make it up to you."
+    },
+    {
+        "start": 351.2,
+        "end": 352.52,
+        "english": "Make it up to you.",
+        "chinese": "英语：Make it up to you."
+    },
+    {
+        "start": 352.52,
+        "end": 354.12,
+        "english": "Make it up to you.",
+        "chinese": "让你自己来。"
+    },
+    {
+        "start": 354.12,
+        "end": 356.91999999999996,
+        "english": "OK, so we have some great examples on how we use Make it Up.",
+        "chinese": "好的，所以我们有一些很棒的例子是如何使用Make。"
+    },
+    {
+        "start": 356.91999999999996,
+        "end": 359.76,
+        "english": "So let's listen.",
+        "chinese": "所以，让我们听。"
+    },
+    {
+        "start": 359.76,
+        "end": 360.88,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 364.12,
+        "end": 366.28,
+        "english": "I'm sorry I forgot your birthday.",
+        "chinese": "我非常抱歉，忘记了你的生日。"
+    },
+    {
+        "start": 366.28,
+        "end": 367.44,
+        "english": "How can I make it up to you?",
+        "chinese": "英语：如何能让我弥补你的错误？"
+    },
+    {
+        "start": 371.71999999999997,
+        "end": 372.76,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 377.03999999999996,
+        "end": 379.88,
+        "english": "I feel terrible for calling your mother fat.",
+        "chinese": "我为此感到非常抱歉，你妈妈长得太胖了。"
+    },
+    {
+        "start": 379.88,
+        "end": 382.47999999999996,
+        "english": "I want to make it up to her, so I got her these flowers.",
+        "chinese": "我想要给她点什么，所以我把这些花送给了她。"
+    },
+    {
+        "start": 387.52,
+        "end": 388.67999999999995,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 393.55999999999995,
+        "end": 395.52,
+        "english": "John forgot my anniversary again.",
+        "chinese": "英语：约翰又忘记了我的生日。"
+    },
+    {
+        "start": 395.52,
+        "end": 397.12,
+        "english": "He's going to have to make it up to me.",
+        "chinese": "他必须让我弥补这个。"
+    },
+    {
+        "start": 400.91999999999996,
+        "end": 403.96,
+        "english": "We can see from the examples that when you use the phrase,",
+        "chinese": "我们从例子中可以看出，当你使用这个短语时，你应该怎么做。"
+    },
+    {
+        "start": 403.96,
+        "end": 405.52,
+        "english": "make it up to you.",
+        "chinese": "给个面子。"
+    },
+    {
+        "start": 405.52,
+        "end": 409.84,
+        "english": "You're kind of saying you want to balance something bad you did",
+        "chinese": "英语：你好像在说你要平衡一个你做错的事情。"
+    },
+    {
+        "start": 409.84,
+        "end": 411.91999999999996,
+        "english": "with some good action, right?",
+        "chinese": "英语：带有好动作，对吗？"
+    },
+    {
+        "start": 411.91999999999996,
+        "end": 415.28,
+        "english": "Right, so if you call your mother-in-law fat,",
+        "chinese": "正确答案：对，如果你们称呼我的母亲为胖妈，那我就是傻瓜相机了。"
+    },
+    {
+        "start": 415.28,
+        "end": 419.2,
+        "english": "you better buy her at least some flowers or a card or something.",
+        "chinese": "你最好给她买些鲜花或一张卡片。"
+    },
+    {
+        "start": 419.2,
+        "end": 420.4,
+        "english": "To make it up, right?",
+        "chinese": "为了使它变得，对吗？"
+    },
+    {
+        "start": 421.35999999999996,
+        "end": 424.08,
+        "english": "So the bad action was calling her fat.",
+        "chinese": "所以那个动作是叫她胖的。"
+    },
+    {
+        "start": 424.08,
+        "end": 426.76,
+        "english": "And the balancing good action was the flowers.",
+        "chinese": "和平衡的好的行动是花朵。"
+    },
+    {
+        "start": 426.76,
+        "end": 427.79999999999995,
+        "english": "Or the flowers.",
+        "chinese": "或者，或者。"
+    },
+    {
+        "start": 427.79999999999995,
+        "end": 430.08,
+        "english": "I don't think flowers will be enough though.",
+        "chinese": "我并不认为花会足够。"
+    },
+    {
+        "start": 430.12,
+        "end": 431.68,
+        "english": "Looks like a doomed marriage.",
+        "chinese": "英语：看起来像一场没完没了的婚姻。"
+    },
+    {
+        "start": 432.68,
+        "end": 435.71999999999997,
+        "english": "Okay, our second phrase, my treat.",
+        "chinese": "好的，我的好朋友们。我们的第二句话是：你好，我的宝贝。"
+    },
+    {
+        "start": 435.71999999999997,
+        "end": 437.03999999999996,
+        "english": "My treat.",
+        "chinese": "我的荣幸。"
+    },
+    {
+        "start": 437.03999999999996,
+        "end": 438.0,
+        "english": "My treat.",
+        "chinese": "我的荣幸。"
+    },
+    {
+        "start": 438.0,
+        "end": 440.24,
+        "english": "So we use this phrase when we want to say,",
+        "chinese": "所以当我们想要表达时，我们会使用这个短语。"
+    },
+    {
+        "start": 440.24,
+        "end": 441.24,
+        "english": "I'll invite you.",
+        "chinese": "我将邀请你。"
+    },
+    {
+        "start": 441.24,
+        "end": 442.2,
+        "english": "I'll pay for you.",
+        "chinese": "我将支付给你。"
+    },
+    {
+        "start": 442.2,
+        "end": 443.2,
+        "english": "I'll pay.",
+        "chinese": "我将支付。"
+    },
+    {
+        "start": 443.2,
+        "end": 445.24,
+        "english": "Right, so I can say,",
+        "chinese": "是的，所以我可以这么说。"
+    },
+    {
+        "start": 445.24,
+        "end": 447.79999999999995,
+        "english": "hey, let's go get some beers.",
+        "chinese": "嘿，我们去喝点啤酒吧。"
+    },
+    {
+        "start": 447.79999999999995,
+        "end": 448.59999999999997,
+        "english": "It's my treat.",
+        "chinese": "这是我的奖励。"
+    },
+    {
+        "start": 448.59999999999997,
+        "end": 450.47999999999996,
+        "english": "Ooh, thanks Marko.",
+        "chinese": "英语：哦，多谢马克罗。"
+    },
+    {
+        "start": 450.47999999999996,
+        "end": 451.64,
+        "english": "So I'm paying, right?",
+        "chinese": "所以，我正在承担。"
+    },
+    {
+        "start": 451.64,
+        "end": 452.32,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 452.32,
+        "end": 453.76,
+        "english": "My treat.",
+        "chinese": "我的礼物。"
+    },
+    {
+        "start": 453.76,
+        "end": 456.96,
+        "english": "And our last phrase for fluency builder,",
+        "chinese": "我们的最后一个语境构建指令，中文："
+    },
+    {
+        "start": 456.96,
+        "end": 458.24,
+        "english": "a twist of fate.",
+        "chinese": "一个命运的转折。"
+    },
+    {
+        "start": 458.24,
+        "end": 460.36,
+        "english": "A twist of fate.",
+        "chinese": "一个命运的转折。"
+    },
+    {
+        "start": 460.36,
+        "end": 461.52,
+        "english": "Twist of fate.",
+        "chinese": "命运的扭转。"
+    },
+    {
+        "start": 461.52,
+        "end": 462.92,
+        "english": "A twist of fate.",
+        "chinese": "一个命运的转折。"
+    },
+    {
+        "start": 462.92,
+        "end": 464.76,
+        "english": "So Erica, what is a twist of fate?",
+        "chinese": "英语：所以埃里克，什么叫做命运的转折？"
+    },
+    {
+        "start": 464.76,
+        "end": 468.24,
+        "english": "A twist of fate is an unplanned event",
+        "chinese": "一个意外的转折是无计划的事件。"
+    },
+    {
+        "start": 468.24,
+        "end": 472.24,
+        "english": "that has a big impact on your future or your life.",
+        "chinese": "这个傻瓜相机对你的未来或生活有很大的影响。"
+    },
+    {
+        "start": 472.24,
+        "end": 473.08,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 473.08,
+        "end": 476.72,
+        "english": "Marko, can you give us an example of a twist of fate?",
+        "chinese": "英语：马克，你能给我们一个倒扣的例证吗？"
+    },
+    {
+        "start": 476.72,
+        "end": 478.2,
+        "english": "All right, for example.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 478.2,
+        "end": 481.8,
+        "english": "Okay, you're supposed to catch a flight to another country.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 481.8,
+        "end": 485.16,
+        "english": "All right, but you're late, so you miss your flight.",
+        "chinese": "英语：一切好，但你超时了，所以你的航班取消了。"
+    },
+    {
+        "start": 485.16,
+        "end": 486.0,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 486.0,
+        "end": 489.24,
+        "english": "And that flight crashes.",
+        "chinese": "英语：And that flight crashes."
+    },
+    {
+        "start": 489.24,
+        "end": 490.08000000000004,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 490.08000000000004,
+        "end": 491.84000000000003,
+        "english": "So that's a twist of fate.",
+        "chinese": "所以，这就是命运的转折点。"
+    },
+    {
+        "start": 491.84000000000003,
+        "end": 496.36,
+        "english": "So yeah, it's like fate, it's like destiny.",
+        "chinese": "英语：所以啊，就像命运一样，就像注定一样。"
+    },
+    {
+        "start": 496.36,
+        "end": 497.44000000000005,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 497.44000000000005,
+        "end": 500.68,
+        "english": "You weren't supposed to be on that flight.",
+        "chinese": "你不是被安排在这次飞行上的。"
+    },
+    {
+        "start": 500.68,
+        "end": 502.16,
+        "english": "Okay, so a twist of fate.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 502.16,
+        "end": 503.08000000000004,
+        "english": "A twist of fate.",
+        "chinese": "一个命运的转折。"
+    },
+    {
+        "start": 503.08000000000004,
+        "end": 503.92,
+        "english": "Great.",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 503.92,
+        "end": 507.16,
+        "english": "On a happier note, let's listen to the dialogue",
+        "chinese": "好的，我明白了。请告诉我需要翻译的英文句子。"
+    },
+    {
+        "start": 507.16,
+        "end": 508.36,
+        "english": "a third time.",
+        "chinese": "第三次。"
+    },
+    {
+        "start": 508.36,
+        "end": 521.12,
+        "english": "I'm so relieved that your ankle wasn't broken.",
+        "chinese": "我非常高兴你的脚踝没有受伤。"
+    },
+    {
+        "start": 521.12,
+        "end": 523.88,
+        "english": "I feel just awful about this whole thing.",
+        "chinese": "我对此事感到非常糟糕。"
+    },
+    {
+        "start": 523.88,
+        "end": 525.2,
+        "english": "I want to make it up to you.",
+        "chinese": "我想要弥补你的错误。"
+    },
+    {
+        "start": 525.2,
+        "end": 527.28,
+        "english": "Let me take you out to dinner tonight, my treat.",
+        "chinese": "我今天晚上带你去吃晚饭，我的小菜一碟。"
+    },
+    {
+        "start": 527.28,
+        "end": 528.76,
+        "english": "Oh, that sounds great.",
+        "chinese": "英语：Oh, that sounds great."
+    },
+    {
+        "start": 528.76,
+        "end": 530.52,
+        "english": "I'd love to.",
+        "chinese": "我想要。"
+    },
+    {
+        "start": 530.52,
+        "end": 531.52,
+        "english": "Here's my address.",
+        "chinese": "我的地址在这里。"
+    },
+    {
+        "start": 531.52,
+        "end": 533.28,
+        "english": "Pick me up at 8.",
+        "chinese": "英语：请尽快接我。"
+    },
+    {
+        "start": 533.28,
+        "end": 534.28,
+        "english": "Perfect.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 538.36,
+        "end": 548.6800000000001,
+        "english": "Thank you for such a lovely evening.",
+        "chinese": "谢谢这么一个美好的夜晚。"
+    },
+    {
+        "start": 548.6800000000001,
+        "end": 551.28,
+        "english": "The food was amazing and I had a great time.",
+        "chinese": "英语：食物非常美味，我玩得非常开心。"
+    },
+    {
+        "start": 551.28,
+        "end": 552.5600000000001,
+        "english": "Me too.",
+        "chinese": "我也一样。"
+    },
+    {
+        "start": 552.5600000000001,
+        "end": 554.96,
+        "english": "You look so beautiful tonight.",
+        "chinese": "你看起来今晚真漂亮。"
+    },
+    {
+        "start": 554.96,
+        "end": 556.5600000000001,
+        "english": "I wish this night would never end.",
+        "chinese": "我希望能这个夜晚永远结束。"
+    },
+    {
+        "start": 556.5600000000001,
+        "end": 558.92,
+        "english": "There's something that I have to tell you.",
+        "chinese": "英语：我有件事要告诉你。"
+    },
+    {
+        "start": 558.92,
+        "end": 559.92,
+        "english": "But what is it?",
+        "chinese": "但是，这是什么？"
+    },
+    {
+        "start": 559.92,
+        "end": 564.6800000000001,
+        "english": "I woke up today thinking that this would be just like any other day.",
+        "chinese": "我今天醒来时，心想这和任何其他一天都差不多。"
+    },
+    {
+        "start": 564.6800000000001,
+        "end": 565.6800000000001,
+        "english": "And I was wrong.",
+        "chinese": "英语：And I was wrong."
+    },
+    {
+        "start": 565.6800000000001,
+        "end": 568.12,
+        "english": "The twist of fate brought us together.",
+        "chinese": "英语：命运的转折点让我们相聚。"
+    },
+    {
+        "start": 568.12,
+        "end": 570.36,
+        "english": "I crashed into your life and you into mine.",
+        "chinese": "我将你置于我的生活之中。"
+    },
+    {
+        "start": 570.36,
+        "end": 574.4,
+        "english": "And this may sound crazy, but I'm falling in love with you, Veronica.",
+        "chinese": "这句话的意思是，我可能有点疯狂，但我深深地爱着你，Veronica。"
+    },
+    {
+        "start": 574.4,
+        "end": 591.48,
+        "english": "Okay, so we're back.",
+        "chinese": "好的，现在我们回到这里。"
+    },
+    {
+        "start": 591.48,
+        "end": 595.92,
+        "english": "Erica, I know you have a story of a twist of fate in your life.",
+        "chinese": "英语：艾瑞克，我知道你有关于命运的曲折故事。"
+    },
+    {
+        "start": 595.92,
+        "end": 596.92,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 596.92,
+        "end": 598.92,
+        "english": "Recently, actually, this happened.",
+        "chinese": "最近，实际上，这发生过了。"
+    },
+    {
+        "start": 598.92,
+        "end": 605.0799999999999,
+        "english": "I went to this party and at the party, there was a contest, like sort of a lottery.",
+        "chinese": "我去了这个派对，而且在派对上还有一场抽奖比赛。"
+    },
+    {
+        "start": 605.0799999999999,
+        "end": 607.12,
+        "english": "You could buy some tickets and win a prize.",
+        "chinese": "你可以买一些票，赢得一个奖品。"
+    },
+    {
+        "start": 607.12,
+        "end": 609.4,
+        "english": "And the prize was a week-long vacation.",
+        "chinese": "和奖品是一周的假期。"
+    },
+    {
+        "start": 609.4,
+        "end": 610.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 610.4,
+        "end": 615.64,
+        "english": "So I went with some friends of mine and they were tired, so they left early and they gave",
+        "chinese": "所以，我带着我和朋友一起去的。他们很累，所以他们早早地离开了，并且给他们留下了辞退信。"
+    },
+    {
+        "start": 615.64,
+        "end": 616.64,
+        "english": "me their tickets.",
+        "chinese": "我给他们买票。"
+    },
+    {
+        "start": 616.64,
+        "end": 617.64,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 617.64,
+        "end": 618.64,
+        "english": "Guess what happened?",
+        "chinese": "英语：猜猜发生了什么？"
+    },
+    {
+        "start": 618.64,
+        "end": 619.64,
+        "english": "What happened?",
+        "chinese": "英语：What happened?"
+    },
+    {
+        "start": 619.64,
+        "end": 620.64,
+        "english": "We won.",
+        "chinese": "我们赢了。"
+    },
+    {
+        "start": 620.64,
+        "end": 622.24,
+        "english": "We won the week-long vacation.",
+        "chinese": "我们赢得了连续一周的假期。"
+    },
+    {
+        "start": 622.24,
+        "end": 623.24,
+        "english": "Wow.",
+        "chinese": "英语：哇！"
+    },
+    {
+        "start": 623.24,
+        "end": 624.4,
+        "english": "Yeah, it was amazing.",
+        "chinese": "是的，它非常出色。"
+    },
+    {
+        "start": 624.4,
+        "end": 627.1999999999999,
+        "english": "And that was a really lucky twist of fate for me.",
+        "chinese": "这是我一生中最大的幸运。"
+    },
+    {
+        "start": 627.1999999999999,
+        "end": 628.1999999999999,
+        "english": "A lucky twist of fate.",
+        "chinese": "A幸运的转折。"
+    },
+    {
+        "start": 628.1999999999999,
+        "end": 629.6,
+        "english": "Yeah, that's a good story.",
+        "chinese": "是的，那是个好故事。"
+    },
+    {
+        "start": 629.6,
+        "end": 630.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 630.6,
+        "end": 633.52,
+        "english": "I'm sure it wasn't that good of a twist of fate for your friends.",
+        "chinese": "我肯定不是你的朋友们运气不佳。"
+    },
+    {
+        "start": 633.52,
+        "end": 637.1999999999999,
+        "english": "Yeah, but they were very generous and let me have the prize anyway.",
+        "chinese": "是的，但他们非常慷慨地让我拥有这个奖品。"
+    },
+    {
+        "start": 637.1999999999999,
+        "end": 638.1999999999999,
+        "english": "All right.",
+        "chinese": "英语：一切好。"
+    },
+    {
+        "start": 638.1999999999999,
+        "end": 642.68,
+        "english": "Well, we want to hear your stories of maybe some type of twist of fate that you've had.",
+        "chinese": "英语：嗯，我们想听听你可能有某种类型命运的曲折故事。"
+    },
+    {
+        "start": 642.68,
+        "end": 643.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 643.68,
+        "end": 646.88,
+        "english": "Maybe love stories, maybe tragic stories, any story.",
+        "chinese": "或许爱情故事，或许悲剧故事，任何故事。"
+    },
+    {
+        "start": 646.88,
+        "end": 647.88,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯。"
+    },
+    {
+        "start": 647.88,
+        "end": 654.0,
+        "english": "So be sure to leave your questions and comments and your stories at our website, www.englishpod.com.",
+        "chinese": "所以，请务必将您的问题和故事分享给我们，www.englishpod.com。"
+    },
+    {
+        "start": 654.0,
+        "end": 658.08,
+        "english": "And where you can also find us to answer any questions or doubts.",
+        "chinese": "和您能找到我们来回答任何问题或疑虑。"
+    },
+    {
+        "start": 658.08,
+        "end": 659.48,
+        "english": "Yes, that's right.",
+        "chinese": "是的，那正是。"
+    },
+    {
+        "start": 659.48,
+        "end": 661.48,
+        "english": "So I guess until then, it's goodbye.",
+        "chinese": "英语：所以，我猜直到那时，再见。"
+    },
+    {
+        "start": 661.48,
+        "end": 662.48,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 662.48,
+        "end": 663.48,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

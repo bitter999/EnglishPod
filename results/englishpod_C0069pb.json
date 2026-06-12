@@ -1,0 +1,2084 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.64,
+        "english": "Hello English learners, welcome back.",
+        "chinese": "你好，英语学习者，欢迎回来。"
+    },
+    {
+        "start": 3.64,
+        "end": 6.16,
+        "english": "We are here at EnglishPod, my name is Marco.",
+        "chinese": "我是Marco，来自英语播客。"
+    },
+    {
+        "start": 6.16,
+        "end": 7.16,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.16,
+        "end": 9.64,
+        "english": "And today we're going to be bringing you a lesson about eggs.",
+        "chinese": "今天，我们将向您介绍鸡蛋。"
+    },
+    {
+        "start": 9.64,
+        "end": 10.96,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 10.96,
+        "end": 15.72,
+        "english": "And who knew there was so much to talk about when we're talking eggs?",
+        "chinese": "而且谁会想到我们还能这么聊鸡蛋呢？"
+    },
+    {
+        "start": 15.72,
+        "end": 16.72,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī shí.)"
+    },
+    {
+        "start": 16.72,
+        "end": 20.56,
+        "english": "Well, we always have eggs for breakfast and there are many ways of preparing them.",
+        "chinese": "嗯，我们总是有鸡蛋吃，还有许多方法来准备它们。"
+    },
+    {
+        "start": 20.56,
+        "end": 23.32,
+        "english": "So we're going to learn what the different ways are.",
+        "chinese": "所以我们将学习不同的方法。"
+    },
+    {
+        "start": 23.32,
+        "end": 24.32,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 24.32,
+        "end": 27.8,
+        "english": "And we'll learn some of the language that goes along with eggs.",
+        "chinese": "我们将学习一些与鸡蛋相关的语言。"
+    },
+    {
+        "start": 27.8,
+        "end": 28.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 28.8,
+        "end": 32.120000000000005,
+        "english": "There's three words that we want to take a look at before we listen to our dialogue.",
+        "chinese": "我们之前想看看这三个词。"
+    },
+    {
+        "start": 32.120000000000005,
+        "end": 35.4,
+        "english": "So let's look at these in vocabulary preview.",
+        "chinese": "所以让我们来看看这些在词汇预览中。"
+    },
+    {
+        "start": 35.4,
+        "end": 37.36,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 37.36,
+        "end": 40.8,
+        "english": "Our preview word for this lesson is picky.",
+        "chinese": "我们的预览词是挑剔。"
+    },
+    {
+        "start": 40.8,
+        "end": 41.8,
+        "english": "Picky.",
+        "chinese": "挑食。"
+    },
+    {
+        "start": 41.8,
+        "end": 42.8,
+        "english": "Picky.",
+        "chinese": "挑食\" in Chinese is \"挑食\"."
+    },
+    {
+        "start": 42.8,
+        "end": 46.44,
+        "english": "So picky is an interesting adjective.",
+        "chinese": "所以挑剔是一个有趣的形容词。"
+    },
+    {
+        "start": 46.44,
+        "end": 47.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 47.44,
+        "end": 49.72,
+        "english": "So if a person is picky, what does that mean?",
+        "chinese": "所以如果一个人挑剔，那意味着什么？"
+    },
+    {
+        "start": 49.72,
+        "end": 51.96,
+        "english": "They're very hard to please.",
+        "chinese": "他们很难被满足。"
+    },
+    {
+        "start": 51.96,
+        "end": 52.96,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 52.96,
+        "end": 57.8,
+        "english": "So if your boss is picky and you give him a report and maybe it has, I don't know, a",
+        "chinese": "所以如果你的老板挑剔，你给他一份报告，并且可能有，我不知道。"
+    },
+    {
+        "start": 57.8,
+        "end": 59.32,
+        "english": "couple of mistakes or something.",
+        "chinese": "几处错误或事情。"
+    },
+    {
+        "start": 59.32,
+        "end": 60.72,
+        "english": "Yeah, he'll say do it again.",
+        "chinese": "是的，他会再次说：“好。”"
+    },
+    {
+        "start": 60.72,
+        "end": 61.72,
+        "english": "Change this.",
+        "chinese": "改变这个。"
+    },
+    {
+        "start": 61.72,
+        "end": 62.72,
+        "english": "Change this and this.",
+        "chinese": "将这句话翻译成中文是:"
+    },
+    {
+        "start": 62.72,
+        "end": 63.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 63.72,
+        "end": 67.6,
+        "english": "So if you are picky, you want everything to be perfect.",
+        "chinese": "所以如果你挑剔，你想要所有的东西都完美。"
+    },
+    {
+        "start": 67.6,
+        "end": 68.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 68.6,
+        "end": 72.56,
+        "english": "And if there's one small thing that's not, you won't be happy.",
+        "chinese": "如果有一件小事不，你就不快乐。"
+    },
+    {
+        "start": 72.56,
+        "end": 73.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 73.56,
+        "end": 74.56,
+        "english": "So picky.",
+        "chinese": "所以挑剔。"
+    },
+    {
+        "start": 74.56,
+        "end": 76.8,
+        "english": "Interesting word.",
+        "chinese": "有趣的话。"
+    },
+    {
+        "start": 76.8,
+        "end": 78.64,
+        "english": "Now our next word, yoke.",
+        "chinese": "现在我们的下一个词是“轭”。"
+    },
+    {
+        "start": 78.64,
+        "end": 79.64,
+        "english": "Yoke.",
+        "chinese": "在中文中，\"yoke\" 的意思是 \"锁\"。例如："
+    },
+    {
+        "start": 79.64,
+        "end": 80.64,
+        "english": "Yoke.",
+        "chinese": "在中文中，\"yoke\" 的意思是 \"锁\"。例如："
+    },
+    {
+        "start": 80.64,
+        "end": 81.64,
+        "english": "Y-O-L-K.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 81.64,
+        "end": 82.64,
+        "english": "Yoke.",
+        "chinese": "在中文中，\"yoke\" 的意思是 \"锁\" 或 \"束缚\"。例如："
+    },
+    {
+        "start": 82.64,
+        "end": 86.44,
+        "english": "So this word is actually not in the dialogue.",
+        "chinese": "所以这个单词实际上不是对话的一部分。"
+    },
+    {
+        "start": 86.44,
+        "end": 89.44,
+        "english": "It's not in the dialogue, but it's important that you know, right?",
+        "chinese": "是对话的内容，但你知道得很清楚吗？"
+    },
+    {
+        "start": 89.44,
+        "end": 90.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 90.44,
+        "end": 95.03999999999999,
+        "english": "So if you have an egg, the yellow part is called the yoke.",
+        "chinese": "所以如果你有鸡蛋，黄色的部分叫做蛋壳。"
+    },
+    {
+        "start": 95.03999999999999,
+        "end": 96.03999999999999,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 96.03999999999999,
+        "end": 98.12,
+        "english": "And what about the other part?",
+        "chinese": "And 什么另外一部分呢？"
+    },
+    {
+        "start": 98.12,
+        "end": 99.12,
+        "english": "The white.",
+        "chinese": "白。"
+    },
+    {
+        "start": 99.12,
+        "end": 100.12,
+        "english": "The white.",
+        "chinese": "白。"
+    },
+    {
+        "start": 100.12,
+        "end": 101.12,
+        "english": "The white.",
+        "chinese": "白。"
+    },
+    {
+        "start": 101.12,
+        "end": 102.12,
+        "english": "Or also called the egg white, right?",
+        "chinese": "当然，以下是该短语的中文翻译："
+    },
+    {
+        "start": 102.12,
+        "end": 103.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 103.12,
+        "end": 104.12,
+        "english": "Egg white.",
+        "chinese": "蛋清。"
+    },
+    {
+        "start": 104.12,
+        "end": 105.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 105.12,
+        "end": 106.12,
+        "english": "So pretty simple.",
+        "chinese": "所以简单。"
+    },
+    {
+        "start": 106.12,
+        "end": 107.12,
+        "english": "Yoke and egg white.",
+        "chinese": "在中文中，\"yoke and egg white\" 可以翻译为 \"锁和蛋白粉\"。\"Yoke\" 是一个汉语成语，意思是束缚或限制；而 \"egg white\" 是指鸡蛋的蛋清部分。所以，这个短语的意思是：锁住（或束缚）并用鸡蛋的蛋清代替。"
+    },
+    {
+        "start": 107.12,
+        "end": 109.12,
+        "english": "Let's listen to our dialogue.",
+        "chinese": "让我们倾听我们的对话。"
+    },
+    {
+        "start": 109.12,
+        "end": 112.32,
+        "english": "We are going to be listening to a couple who are having breakfast.",
+        "chinese": "我们将会倾听一对正在吃早饭的人。"
+    },
+    {
+        "start": 116.44,
+        "end": 117.44,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 117.44,
+        "end": 126.67999999999999,
+        "english": "You're up early today.",
+        "chinese": "今天你起来得早。"
+    },
+    {
+        "start": 126.67999999999999,
+        "end": 128.07999999999998,
+        "english": "What's for breakfast?",
+        "chinese": "What's for breakfast? 翻译成中文是：“早餐吃什么？”"
+    },
+    {
+        "start": 128.07999999999998,
+        "end": 131.76,
+        "english": "Well, I felt like baking, so I made some muffins.",
+        "chinese": "嗯，我想做蛋糕，所以做了些小松饼。"
+    },
+    {
+        "start": 131.76,
+        "end": 132.76,
+        "english": "Smells good.",
+        "chinese": "气味好。"
+    },
+    {
+        "start": 132.76,
+        "end": 133.76,
+        "english": "I'll make some coffee.",
+        "chinese": "我会做些咖啡。"
+    },
+    {
+        "start": 133.76,
+        "end": 135.52,
+        "english": "Do you want me to make you some eggs?",
+        "chinese": "您想让我为您做些鸡蛋吗？"
+    },
+    {
+        "start": 135.52,
+        "end": 136.52,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 136.52,
+        "end": 138.52,
+        "english": "I'll take my sunny side off.",
+        "chinese": "我会把我的阳光面甩掉。"
+    },
+    {
+        "start": 138.52,
+        "end": 141.52,
+        "english": "I don't know how you can eat your eggs like that.",
+        "chinese": "我不知道你如何能吃鸡蛋那样。"
+    },
+    {
+        "start": 141.52,
+        "end": 144.12,
+        "english": "Ever since I was small, I've had eggs and soldiers.",
+        "chinese": "自从我小的时候，我就有鸡蛋和士兵。"
+    },
+    {
+        "start": 144.12,
+        "end": 145.12,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guó wáng.)"
+    },
+    {
+        "start": 145.12,
+        "end": 148.44,
+        "english": "My dad heads scrambled eggs every morning for 20 years.",
+        "chinese": "我的爸爸每天早上都会炒鸡蛋20年。"
+    },
+    {
+        "start": 148.44,
+        "end": 151.0,
+        "english": "It drove my mom crazy.",
+        "chinese": "它把我妈妈搞坏了。"
+    },
+    {
+        "start": 151.0,
+        "end": 152.36,
+        "english": "You know what really drives me crazy?",
+        "chinese": "您知道真正让我烦恼的是什么吗？"
+    },
+    {
+        "start": 152.36,
+        "end": 156.76,
+        "english": "When I ask for soft boiled eggs and they overcook them so they come out hard boiled.",
+        "chinese": "当我说软煮鸡蛋时，它们过熟了，所以煮出来是硬煮的。"
+    },
+    {
+        "start": 156.76,
+        "end": 159.76,
+        "english": "How can you dip your toast into a hard boiled egg?",
+        "chinese": "如何将煎过的鸡蛋放入硬煮的面包里？"
+    },
+    {
+        "start": 159.76,
+        "end": 162.32,
+        "english": "Here's so picky sometimes.",
+        "chinese": "在这里，总是这么挑剔。"
+    },
+    {
+        "start": 162.32,
+        "end": 172.28,
+        "english": "Here you go, honey.",
+        "chinese": "在这里，蜜糖。"
+    },
+    {
+        "start": 172.28,
+        "end": 173.28,
+        "english": "Fried eggs.",
+        "chinese": "煎鸡蛋。"
+    },
+    {
+        "start": 173.28,
+        "end": 177.12,
+        "english": "I said sunny side up.",
+        "chinese": "我说煎蛋面。"
+    },
+    {
+        "start": 177.12,
+        "end": 186.32,
+        "english": "How many times do I have to tell you?",
+        "chinese": "我需要告诉你多少次？"
+    },
+    {
+        "start": 186.32,
+        "end": 189.8,
+        "english": "Well she is definitely very picky and has a very bad temper.",
+        "chinese": "她确实非常挑剔，脾气不好。"
+    },
+    {
+        "start": 189.8,
+        "end": 190.8,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guó wáng.)"
+    },
+    {
+        "start": 190.8,
+        "end": 193.76,
+        "english": "I can't believe anyone would get so angry over their breakfast.",
+        "chinese": "我简直无法相信有人会因为早餐而这么生气。"
+    },
+    {
+        "start": 193.76,
+        "end": 194.76,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 194.76,
+        "end": 197.36,
+        "english": "But I guess it is the most important meal of the day.",
+        "chinese": "但是，我想这可能是全天中最重要的一顿饭。"
+    },
+    {
+        "start": 197.36,
+        "end": 198.36,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 198.36,
+        "end": 202.0,
+        "english": "So we heard a couple of different ways of describing how you prepare eggs.",
+        "chinese": "所以我们听到了一些不同的描述，如何你准备鸡蛋。"
+    },
+    {
+        "start": 202.0,
+        "end": 206.8,
+        "english": "So let's take a look at that in language takeaway.",
+        "chinese": "所以，让我们来看看那在语言总结上。"
+    },
+    {
+        "start": 206.8,
+        "end": 208.28,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 208.28,
+        "end": 209.28,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 209.28,
+        "end": 214.52,
+        "english": "So our first preparation method, my favorite.",
+        "chinese": "所以我们的第一准备方法，我最喜欢。"
+    },
+    {
+        "start": 214.52,
+        "end": 215.52,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 215.52,
+        "end": 216.52,
+        "english": "Sunny side up.",
+        "chinese": "上锅巴。"
+    },
+    {
+        "start": 216.52,
+        "end": 217.52,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 217.52,
+        "end": 218.52,
+        "english": "Sunny side up.",
+        "chinese": "上锅巴。"
+    },
+    {
+        "start": 218.52,
+        "end": 219.52,
+        "english": "Sunny side up.",
+        "chinese": "上锅巴。"
+    },
+    {
+        "start": 219.52,
+        "end": 220.92000000000002,
+        "english": "No, this is interesting.",
+        "chinese": "是的，这很有趣。"
+    },
+    {
+        "start": 220.92000000000002,
+        "end": 222.32,
+        "english": "Sunny, like the sun, right?",
+        "chinese": "阳光，像太阳一样吗？"
+    },
+    {
+        "start": 222.32,
+        "end": 223.32,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 223.32,
+        "end": 228.08,
+        "english": "So when you fry an egg, right, and the yolk looks like a little sun, right?",
+        "chinese": "所以当你煎鸡蛋，蛋黄看起来像一个小太阳，对吗？"
+    },
+    {
+        "start": 228.08,
+        "end": 229.08,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 229.08,
+        "end": 230.08,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 230.08,
+        "end": 231.08,
+        "english": "So why is it called sunny side up?",
+        "chinese": "所以为什么叫“上半身朝上”？"
+    },
+    {
+        "start": 231.08,
+        "end": 234.36,
+        "english": "Because of what you just said, it looks like the sun.",
+        "chinese": "因为你说的什么，看起来就像太阳。"
+    },
+    {
+        "start": 234.36,
+        "end": 236.64000000000001,
+        "english": "But you don't cook the yolk, right?",
+        "chinese": "但是你不会烹饪蛋黄，对吗？"
+    },
+    {
+        "start": 236.64000000000001,
+        "end": 237.64000000000001,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 237.64000000000001,
+        "end": 238.64000000000001,
+        "english": "The yolk is still yellow.",
+        "chinese": "黄豆还是黄色。"
+    },
+    {
+        "start": 238.64000000000001,
+        "end": 240.68,
+        "english": "It's still a little bit liquid.",
+        "chinese": "它还是有点水。"
+    },
+    {
+        "start": 240.68,
+        "end": 241.68,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 241.68,
+        "end": 243.36,
+        "english": "It's a little bit soft.",
+        "chinese": "有点软。"
+    },
+    {
+        "start": 243.36,
+        "end": 244.36,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 244.36,
+        "end": 246.88000000000002,
+        "english": "Because the opposite would be a fried egg.",
+        "chinese": "因为相反就是煎蛋。"
+    },
+    {
+        "start": 246.88000000000002,
+        "end": 247.88000000000002,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 247.88000000000002,
+        "end": 249.56,
+        "english": "And that's our second word.",
+        "chinese": "这句话的中文翻译是：“这就是我们的第二个词。”"
+    },
+    {
+        "start": 249.56,
+        "end": 250.56,
+        "english": "Fried egg.",
+        "chinese": "煎蛋。"
+    },
+    {
+        "start": 250.56,
+        "end": 251.56,
+        "english": "Fried egg.",
+        "chinese": "煎蛋。"
+    },
+    {
+        "start": 251.56,
+        "end": 255.60000000000002,
+        "english": "So this, you put the egg in the pan and you cook it all the way through.",
+        "chinese": "所以，你把鸡蛋放入锅中并煮到完全熟透。"
+    },
+    {
+        "start": 255.60000000000002,
+        "end": 256.6,
+        "english": "All the way through.",
+        "chinese": "全部经过。"
+    },
+    {
+        "start": 256.6,
+        "end": 258.12,
+        "english": "So the yolk is not liquid anymore.",
+        "chinese": "所以卵黄不再像液体一样。"
+    },
+    {
+        "start": 258.12,
+        "end": 259.12,
+        "english": "It becomes hard and...",
+        "chinese": "它变得越来越难了..."
+    },
+    {
+        "start": 259.12,
+        "end": 260.12,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 260.12,
+        "end": 261.04,
+        "english": "Right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 261.08000000000004,
+        "end": 262.12,
+        "english": "A fried egg.",
+        "chinese": "一个煮熟的鸡蛋。"
+    },
+    {
+        "start": 262.12,
+        "end": 263.12,
+        "english": "A fried egg.",
+        "chinese": "一个煮熟的鸡蛋。"
+    },
+    {
+        "start": 263.12,
+        "end": 264.12,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 264.12,
+        "end": 266.88,
+        "english": "So now let's take a look at our next set of eggs.",
+        "chinese": "所以现在让我们看看我们的下一个鸡蛋。"
+    },
+    {
+        "start": 266.88,
+        "end": 267.88,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 267.88,
+        "end": 269.20000000000005,
+        "english": "A soft boiled egg.",
+        "chinese": "一个软煮的鸡蛋。"
+    },
+    {
+        "start": 269.20000000000005,
+        "end": 270.6,
+        "english": "A soft boiled egg.",
+        "chinese": "一个软煮鸡蛋。"
+    },
+    {
+        "start": 270.6,
+        "end": 272.04,
+        "english": "Soft boiled.",
+        "chinese": "软煮。"
+    },
+    {
+        "start": 272.04,
+        "end": 273.64000000000004,
+        "english": "Soft boiled.",
+        "chinese": "软煮。"
+    },
+    {
+        "start": 273.64000000000004,
+        "end": 274.64000000000004,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 274.64000000000004,
+        "end": 278.28000000000003,
+        "english": "So to boil, you put the egg in water.",
+        "chinese": "所以，你把鸡蛋放入水中煮。"
+    },
+    {
+        "start": 278.28000000000003,
+        "end": 279.48,
+        "english": "In boiling water.",
+        "chinese": "在沸腾的水中。"
+    },
+    {
+        "start": 279.48,
+        "end": 280.48,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 280.48,
+        "end": 281.48,
+        "english": "And make it cook.",
+        "chinese": "煮熟。"
+    },
+    {
+        "start": 281.48,
+        "end": 282.48,
+        "english": "And make it cook.",
+        "chinese": "将它煮熟。"
+    },
+    {
+        "start": 282.48,
+        "end": 285.04,
+        "english": "So how long would you usually put it in for to be soft boiled?",
+        "chinese": "所以你通常会多久才能让它软煮一下呢？"
+    },
+    {
+        "start": 285.04,
+        "end": 286.04,
+        "english": "Mm.",
+        "chinese": "这句话的中文翻译是 \"mm\"。"
+    },
+    {
+        "start": 286.04,
+        "end": 287.04,
+        "english": "Three minutes, four minutes.",
+        "chinese": "三分钟，四分钟。"
+    },
+    {
+        "start": 287.04,
+        "end": 288.04,
+        "english": "Four minutes, yeah.",
+        "chinese": "四分钟，对。"
+    },
+    {
+        "start": 288.04,
+        "end": 289.36,
+        "english": "So you only cook part of the egg, right?",
+        "chinese": "所以你只煮了鸡蛋的半部分，对吗？"
+    },
+    {
+        "start": 289.36,
+        "end": 290.36,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 290.36,
+        "end": 294.84000000000003,
+        "english": "The yellow part stays a little bit wet, a little bit liquid.",
+        "chinese": "黄色部分稍微有点湿润，有一点液体。"
+    },
+    {
+        "start": 294.84000000000003,
+        "end": 295.84000000000003,
+        "english": "Uh-huh.",
+        "chinese": "嗯，哈。"
+    },
+    {
+        "start": 295.84000000000003,
+        "end": 296.84000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 296.84000000000003,
+        "end": 300.28000000000003,
+        "english": "So again, the opposite would be a hard boiled egg.",
+        "chinese": "所以，反面就是一个煮熟的鸡蛋。"
+    },
+    {
+        "start": 300.28000000000003,
+        "end": 301.28000000000003,
+        "english": "Hard boiled egg.",
+        "chinese": "硬煮蛋。"
+    },
+    {
+        "start": 301.28000000000003,
+        "end": 302.28000000000003,
+        "english": "Hard boiled.",
+        "chinese": "硬煮。"
+    },
+    {
+        "start": 302.28000000000003,
+        "end": 305.92,
+        "english": "So hard boiled is when you cook the entire egg again.",
+        "chinese": "所以煮得这么干，当你再次把整个鸡蛋煮熟。"
+    },
+    {
+        "start": 305.92,
+        "end": 306.92,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 306.92,
+        "end": 308.12,
+        "english": "So then it's hard like a ball.",
+        "chinese": "所以，那么它就像一个球一样。"
+    },
+    {
+        "start": 308.12,
+        "end": 309.12,
+        "english": "The entire egg.",
+        "chinese": "整个鸡蛋。"
+    },
+    {
+        "start": 309.12,
+        "end": 310.12,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或确认。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 310.12,
+        "end": 314.68,
+        "english": "So with this soft boiled and hard boiled eggs, this takes us to our next form.",
+        "chinese": "所以用软煮和硬煮的鸡蛋，我们来到了我们的下一个形式。"
+    },
+    {
+        "start": 314.68,
+        "end": 315.68,
+        "english": "Eggs and soldiers.",
+        "chinese": "鸡蛋和士兵。"
+    },
+    {
+        "start": 315.68,
+        "end": 317.48,
+        "english": "Eggs and soldiers.",
+        "chinese": "鸡蛋和士兵。"
+    },
+    {
+        "start": 317.48,
+        "end": 319.08000000000004,
+        "english": "Eggs and soldiers.",
+        "chinese": "鸡蛋和士兵。"
+    },
+    {
+        "start": 319.08000000000004,
+        "end": 320.08000000000004,
+        "english": "Eggs and soldiers.",
+        "chinese": "鸡蛋和士兵。"
+    },
+    {
+        "start": 320.12,
+        "end": 321.28,
+        "english": "This is really interesting.",
+        "chinese": "这是真的有趣。"
+    },
+    {
+        "start": 321.28,
+        "end": 322.91999999999996,
+        "english": "I didn't really know about this before.",
+        "chinese": "我之前并不知道这个。"
+    },
+    {
+        "start": 322.91999999999996,
+        "end": 327.76,
+        "english": "It kind of sounds like you're having eggs with a group of soldiers",
+        "chinese": "它有点像你正在和一群士兵一起吃鸡蛋。"
+    },
+    {
+        "start": 327.76,
+        "end": 328.91999999999996,
+        "english": "with from the army.",
+        "chinese": "从军。"
+    },
+    {
+        "start": 328.91999999999996,
+        "end": 329.91999999999996,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 329.91999999999996,
+        "end": 333.84,
+        "english": "Well, this is a very British way of eating eggs.",
+        "chinese": "很好，这是非常英国的吃鸡蛋的方式。"
+    },
+    {
+        "start": 333.84,
+        "end": 339.24,
+        "english": "So you have your soft boiled egg in a cup, and you have a piece of toast.",
+        "chinese": "所以，你有软煮的鸡蛋在一个杯子里，还有面包片。"
+    },
+    {
+        "start": 339.24,
+        "end": 339.76,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 339.76,
+        "end": 343.24,
+        "english": "But the toast is cut into long pieces.",
+        "chinese": "但是，这杯茶被切成长段。"
+    },
+    {
+        "start": 343.24,
+        "end": 343.76,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.76,
+        "end": 347.91999999999996,
+        "english": "And then you take those pieces and you dip them into the egg yolk.",
+        "chinese": "然后你把这些碎片放入蛋黄中。"
+    },
+    {
+        "start": 347.91999999999996,
+        "end": 348.52,
+        "english": "Oh.",
+        "chinese": "哦。"
+    },
+    {
+        "start": 348.52,
+        "end": 349.36,
+        "english": "It's delicious.",
+        "chinese": "是可口的。"
+    },
+    {
+        "start": 349.36,
+        "end": 349.88,
+        "english": "It's good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 349.88,
+        "end": 350.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 350.88,
+        "end": 351.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 351.88,
+        "end": 352.88,
+        "english": "Typical English way of eating eggs.",
+        "chinese": "典型的吃鸡蛋的英语方式。"
+    },
+    {
+        "start": 352.88,
+        "end": 353.88,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 353.88,
+        "end": 355.96,
+        "english": "So eggs and soldiers, it's interesting.",
+        "chinese": "所以鸡蛋和士兵，这事儿挺有意思的。"
+    },
+    {
+        "start": 355.96,
+        "end": 360.8,
+        "english": "And this takes us to our last form of egg preparation and probably the most popular.",
+        "chinese": "而且，这是我们的最后一个蛋的准备方式，很可能也是最流行的。"
+    },
+    {
+        "start": 360.8,
+        "end": 361.8,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 361.8,
+        "end": 362.8,
+        "english": "Scramble eggs.",
+        "chinese": "蛋壳乱飞。"
+    },
+    {
+        "start": 362.8,
+        "end": 363.8,
+        "english": "Scramble eggs.",
+        "chinese": "蛋炒饭。"
+    },
+    {
+        "start": 363.8,
+        "end": 364.8,
+        "english": "Scramble eggs.",
+        "chinese": "蛋散了。"
+    },
+    {
+        "start": 364.8,
+        "end": 368.48,
+        "english": "Take eggs, put them in a pan, and then you just move them all over the place.",
+        "chinese": "将鸡蛋放入锅中，然后你只需要把它们放得随意一些。"
+    },
+    {
+        "start": 368.48,
+        "end": 369.48,
+        "english": "Mix them all up.",
+        "chinese": "将它们混合起来。"
+    },
+    {
+        "start": 369.48,
+        "end": 370.48,
+        "english": "Mix them all up.",
+        "chinese": "将它们混合起来。"
+    },
+    {
+        "start": 370.48,
+        "end": 373.71999999999997,
+        "english": "So the yolk and the white are mixed together.",
+        "chinese": "所以，卵黄和白质混合在一起。"
+    },
+    {
+        "start": 373.71999999999997,
+        "end": 374.71999999999997,
+        "english": "Mixed together.",
+        "chinese": "混合在一起。"
+    },
+    {
+        "start": 374.71999999999997,
+        "end": 376.08,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 376.08,
+        "end": 381.52,
+        "english": "So we've looked at a lot of egg preparation and now we can listen to our dialogue for the",
+        "chinese": "所以我们已经看了很多蛋的准备方法，现在我们可以倾听我们的对话了。"
+    },
+    {
+        "start": 381.52,
+        "end": 383.0,
+        "english": "second time.",
+        "chinese": "第二次。"
+    },
+    {
+        "start": 383.0,
+        "end": 386.08,
+        "english": "And then we'll come back and look at some phrases.",
+        "chinese": "然后我们将回来看看一些短语。"
+    },
+    {
+        "start": 386.08,
+        "end": 387.08,
+        "english": "Wow.",
+        "chinese": "哇。"
+    },
+    {
+        "start": 387.08,
+        "end": 396.79999999999995,
+        "english": "You're up early today.",
+        "chinese": "今天你起来得早。"
+    },
+    {
+        "start": 396.79999999999995,
+        "end": 398.2,
+        "english": "What's for breakfast?",
+        "chinese": "What's for breakfast? 翻译成中文是：早餐吃什么？"
+    },
+    {
+        "start": 398.2,
+        "end": 403.59999999999997,
+        "english": "Well, I felt like baking, so I made some muffins.",
+        "chinese": "嗯，我感觉像在做蛋糕，所以做了些小饼干。"
+    },
+    {
+        "start": 403.59999999999997,
+        "end": 405.59999999999997,
+        "english": "Smells good.",
+        "chinese": "气味好。"
+    },
+    {
+        "start": 405.6,
+        "end": 407.24,
+        "english": "I'll make some coffee.",
+        "chinese": "我会做点咖啡。"
+    },
+    {
+        "start": 407.24,
+        "end": 409.84000000000003,
+        "english": "Do you want me to make you some eggs?",
+        "chinese": "您想让我为您做鸡蛋吗？"
+    },
+    {
+        "start": 409.84000000000003,
+        "end": 410.84000000000003,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 410.84000000000003,
+        "end": 413.88,
+        "english": "I'll take my sunny side up.",
+        "chinese": "我会把我的阳光面抬高。"
+    },
+    {
+        "start": 413.88,
+        "end": 414.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 414.88,
+        "end": 418.08000000000004,
+        "english": "I don't know how you can eat your eggs like that.",
+        "chinese": "我不知道你如何能吃鸡蛋那样。"
+    },
+    {
+        "start": 418.08000000000004,
+        "end": 421.40000000000003,
+        "english": "Ever since I was small, I've had eggs and soldiers.",
+        "chinese": "自从我小的时候，我就有鸡蛋和士兵。"
+    },
+    {
+        "start": 421.40000000000003,
+        "end": 427.12,
+        "english": "You know, my dad had scrambled eggs every morning for 20 years.",
+        "chinese": "我知道，我爸爸每天早上都要煎鸡蛋20年。"
+    },
+    {
+        "start": 427.12,
+        "end": 429.68,
+        "english": "It drove my mom crazy.",
+        "chinese": "它把我妈妈搞坏了。"
+    },
+    {
+        "start": 429.68,
+        "end": 432.36,
+        "english": "You know what really drives me crazy?",
+        "chinese": "您知道真正让我烦恼的是什么吗？"
+    },
+    {
+        "start": 432.36,
+        "end": 438.04,
+        "english": "They asked for soft boiled eggs and they overcook them so they come out hard boiled.",
+        "chinese": "他们要求软煮鸡蛋，但它们过熟了，所以煮出来是硬煮的。"
+    },
+    {
+        "start": 438.04,
+        "end": 441.76,
+        "english": "How can you dip your toast into a hard boiled egg?",
+        "chinese": "如何将煎好的鸡蛋放入硬煮过的吐司里？"
+    },
+    {
+        "start": 441.76,
+        "end": 446.68,
+        "english": "You're so picky sometimes.",
+        "chinese": "您有时太挑剔了。"
+    },
+    {
+        "start": 446.68,
+        "end": 448.08000000000004,
+        "english": "Here you go, honey.",
+        "chinese": "在这里，蜜糖。"
+    },
+    {
+        "start": 448.08000000000004,
+        "end": 449.08000000000004,
+        "english": "Fried eggs.",
+        "chinese": "煎鸡蛋。"
+    },
+    {
+        "start": 449.08000000000004,
+        "end": 450.08000000000004,
+        "english": "Damn it.",
+        "chinese": "太遗憾了。"
+    },
+    {
+        "start": 450.08000000000004,
+        "end": 452.96000000000004,
+        "english": "I said sunny side up.",
+        "chinese": "我说煎蛋面。"
+    },
+    {
+        "start": 452.96000000000004,
+        "end": 459.08000000000004,
+        "english": "How many times do I have to tell you?",
+        "chinese": "我需要告诉你多少次？"
+    },
+    {
+        "start": 459.08,
+        "end": 463.15999999999997,
+        "english": "The first thing that the man in this dialogue is the one doing the baking.",
+        "chinese": "这个对话中的第一个人是做烘焙的人。"
+    },
+    {
+        "start": 463.15999999999997,
+        "end": 465.56,
+        "english": "Yeah, well, that's modern days.",
+        "chinese": "是的，嗯，这就是现代。"
+    },
+    {
+        "start": 465.56,
+        "end": 466.56,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 466.56,
+        "end": 468.56,
+        "english": "Men are learning how to cook and...",
+        "chinese": "男人正在学习烹饪..."
+    },
+    {
+        "start": 468.56,
+        "end": 469.56,
+        "english": "House husbands.",
+        "chinese": "房子丈夫。"
+    },
+    {
+        "start": 469.56,
+        "end": 470.56,
+        "english": "House husbands.",
+        "chinese": "房子丈夫。"
+    },
+    {
+        "start": 470.56,
+        "end": 471.56,
+        "english": "Yeah, more popular these days.",
+        "chinese": "是的，现在更受欢迎。"
+    },
+    {
+        "start": 471.56,
+        "end": 475.52,
+        "english": "Alright, well, since this house has been felt like baking, I think we should look at",
+        "chinese": "好的，好的，既然这个房子感觉像是在蒸笼里烤，那么我们或许应该看看。"
+    },
+    {
+        "start": 475.52,
+        "end": 479.08,
+        "english": "this and one other phrase in Fluency Builder.",
+        "chinese": "这个和另一个在 Fluent Builder 中的短语。"
+    },
+    {
+        "start": 479.08,
+        "end": 481.36,
+        "english": "Okay, so great phrase.",
+        "chinese": "好的，所以好词。"
+    },
+    {
+        "start": 481.36,
+        "end": 484.36,
+        "english": "He said, I felt like baking.",
+        "chinese": "他说，我感觉像在做蛋糕。"
+    },
+    {
+        "start": 484.36,
+        "end": 485.79999999999995,
+        "english": "I felt like baking.",
+        "chinese": "我感觉像在做烘焙。"
+    },
+    {
+        "start": 485.79999999999995,
+        "end": 487.64,
+        "english": "I felt like baking.",
+        "chinese": "我感觉像在做烘焙。"
+    },
+    {
+        "start": 487.64,
+        "end": 489.03999999999996,
+        "english": "So let's take a look at this.",
+        "chinese": "所以，让我们来看看这个。"
+    },
+    {
+        "start": 489.03999999999996,
+        "end": 491.91999999999996,
+        "english": "He feels like or he felt like in the past.",
+        "chinese": "他感觉过去或现在。"
+    },
+    {
+        "start": 491.91999999999996,
+        "end": 493.59999999999997,
+        "english": "What does that mean when you feel like?",
+        "chinese": "在你感到困惑的时候，这句话意味着什么？"
+    },
+    {
+        "start": 493.59999999999997,
+        "end": 494.59999999999997,
+        "english": "You want to do it.",
+        "chinese": "你想做这件事。"
+    },
+    {
+        "start": 494.59999999999997,
+        "end": 496.47999999999996,
+        "english": "You have the desire to do it.",
+        "chinese": "您有做这件事的欲望。"
+    },
+    {
+        "start": 496.47999999999996,
+        "end": 497.47999999999996,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 497.47999999999996,
+        "end": 501.28,
+        "english": "And then to bake and now this verb is in the gerund form.",
+        "chinese": "然后要烤，现在这个动词是不定式形式。"
+    },
+    {
+        "start": 501.28,
+        "end": 502.28,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 502.28,
+        "end": 504.03999999999996,
+        "english": "The I-N-G form.",
+        "chinese": "I-NG 形式"
+    },
+    {
+        "start": 504.03999999999996,
+        "end": 505.44,
+        "english": "And that's the rule, right?",
+        "chinese": "这句话的中文翻译是：“那也是规则，对吗？”"
+    },
+    {
+        "start": 505.44,
+        "end": 508.28,
+        "english": "I feel like playing soccer.",
+        "chinese": "我感觉像在踢足球。"
+    },
+    {
+        "start": 508.28,
+        "end": 509.28,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 509.28,
+        "end": 512.04,
+        "english": "I feel like eating lunch.",
+        "chinese": "我感觉像在吃午饭。"
+    },
+    {
+        "start": 512.04,
+        "end": 515.36,
+        "english": "I felt like going to the movies.",
+        "chinese": "我感觉像要去电影院。"
+    },
+    {
+        "start": 515.36,
+        "end": 516.76,
+        "english": "That's the way you would say this.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 516.76,
+        "end": 517.76,
+        "english": "You have the desire.",
+        "chinese": "您有欲望。"
+    },
+    {
+        "start": 517.76,
+        "end": 519.24,
+        "english": "You feel like doing something.",
+        "chinese": "您觉得做点什么。"
+    },
+    {
+        "start": 519.24,
+        "end": 520.24,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 520.24,
+        "end": 522.08,
+        "english": "Okay, very good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 522.08,
+        "end": 525.16,
+        "english": "And now let's take a look at this second phrase.",
+        "chinese": "现在让我们看看这个第二句话。"
+    },
+    {
+        "start": 525.16,
+        "end": 527.48,
+        "english": "Drives me crazy.",
+        "chinese": "我无法忍受。"
+    },
+    {
+        "start": 527.48,
+        "end": 529.16,
+        "english": "Drives me crazy.",
+        "chinese": "我无法忍受。"
+    },
+    {
+        "start": 529.16,
+        "end": 530.16,
+        "english": "Drives me crazy.",
+        "chinese": "我无法忍受。"
+    },
+    {
+        "start": 530.16,
+        "end": 533.68,
+        "english": "Alright, this is a very, very descriptive phrase.",
+        "chinese": "好的，这是一个非常、非常描述性的短语。"
+    },
+    {
+        "start": 533.68,
+        "end": 538.76,
+        "english": "And I think if we listen to some examples, it will help us understand the meaning.",
+        "chinese": "我想如果我们听听一些例子，它会帮助我们理解含义。"
+    },
+    {
+        "start": 538.76,
+        "end": 541.28,
+        "english": "Example 1.",
+        "chinese": "例如，第1行。"
+    },
+    {
+        "start": 541.28,
+        "end": 543.04,
+        "english": "This music is driving me crazy.",
+        "chinese": "这个音乐让我疯狂。"
+    },
+    {
+        "start": 543.04,
+        "end": 544.88,
+        "english": "Turn it down.",
+        "chinese": "将它调低。"
+    },
+    {
+        "start": 545.88,
+        "end": 547.88,
+        "english": "Example 2.",
+        "chinese": "示例 2。"
+    },
+    {
+        "start": 547.88,
+        "end": 552.68,
+        "english": "Don't leave garbage in my car.",
+        "chinese": "不要把垃圾留在我的车里。"
+    },
+    {
+        "start": 552.68,
+        "end": 557.28,
+        "english": "It drives me crazy.",
+        "chinese": "我非常烦。"
+    },
+    {
+        "start": 557.28,
+        "end": 560.6,
+        "english": "Example 3.",
+        "chinese": "Example 3. (注释)"
+    },
+    {
+        "start": 560.6,
+        "end": 562.56,
+        "english": "Your mom is driving me crazy.",
+        "chinese": "您的妈妈在折磨我。"
+    },
+    {
+        "start": 562.56,
+        "end": 564.88,
+        "english": "She keeps calling me.",
+        "chinese": "她一直叫我。"
+    },
+    {
+        "start": 564.88,
+        "end": 572.88,
+        "english": "Alright, so if something drives you crazy, it makes you feel very angry or annoyed or",
+        "chinese": "好的，如果某事让你感到非常愤怒或恼火，那么这会让你感觉非常生气或者烦躁。"
+    },
+    {
+        "start": 572.88,
+        "end": 573.88,
+        "english": "irritated.",
+        "chinese": "生气。"
+    },
+    {
+        "start": 573.88,
+        "end": 577.32,
+        "english": "Okay, but it can also be positive, right?",
+        "chinese": "是的，但它也可以是积极的吗？"
+    },
+    {
+        "start": 577.32,
+        "end": 579.32,
+        "english": "That girl drives me crazy.",
+        "chinese": "那女孩让我头疼。"
+    },
+    {
+        "start": 579.32,
+        "end": 581.48,
+        "english": "As in you really, really, really like her.",
+        "chinese": "在你真挚、真诚地喜欢她。"
+    },
+    {
+        "start": 581.48,
+        "end": 582.48,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 582.48,
+        "end": 584.48,
+        "english": "It sounds a little bit inappropriate.",
+        "chinese": "这句话在中文中可以翻译为：“听起来有点不合适。”"
+    },
+    {
+        "start": 584.48,
+        "end": 585.48,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 585.48,
+        "end": 587.48,
+        "english": "I think it's okay.",
+        "chinese": "我认为这是可以接受的。"
+    },
+    {
+        "start": 587.48,
+        "end": 588.48,
+        "english": "Drives me crazy.",
+        "chinese": "我无法忍受。"
+    },
+    {
+        "start": 588.48,
+        "end": 593.32,
+        "english": "She's got me thinking, she's got me in the clouds or something like that.",
+        "chinese": "她让我思考，她让我飘在云上或者……"
+    },
+    {
+        "start": 593.32,
+        "end": 596.4399999999999,
+        "english": "Alright, well maybe there's something about you that I don't need to know.",
+        "chinese": "好的，也许你不需要知道我对你有什么了解。"
+    },
+    {
+        "start": 596.4399999999999,
+        "end": 599.12,
+        "english": "So I'll just let you keep that thought to yourself.",
+        "chinese": "所以，我只能让你自己保留这个想法。"
+    },
+    {
+        "start": 599.12,
+        "end": 602.56,
+        "english": "Alright, well, I'm just saying we could use it in a positive form as well.",
+        "chinese": "好的，嗯，我只是说我们可以用这种形式来使用它。"
+    },
+    {
+        "start": 602.56,
+        "end": 604.3599999999999,
+        "english": "Okay, you're just saying.",
+        "chinese": "好的，你只是在说。"
+    },
+    {
+        "start": 604.3599999999999,
+        "end": 605.3599999999999,
+        "english": "I'm just saying.",
+        "chinese": "我就是说。"
+    },
+    {
+        "start": 605.3599999999999,
+        "end": 607.52,
+        "english": "Alright, so drives me crazy.",
+        "chinese": "好的，我非常烦心。"
+    },
+    {
+        "start": 607.52,
+        "end": 611.92,
+        "english": "Really great phrase and you can use it in all of these different situations like we heard.",
+        "chinese": "真的好词句，你可以用它在这些不同的场合都使用，就像我们听到的。"
+    },
+    {
+        "start": 611.92,
+        "end": 615.3199999999999,
+        "english": "So let's listen to our dialogue for the last time and then we'll come back and talk",
+        "chinese": "所以让我们再次聆听我们的对话，然后我们再回来继续讨论。"
+    },
+    {
+        "start": 615.3199999999999,
+        "end": 616.3199999999999,
+        "english": "a little bit more.",
+        "chinese": "一个稍微...。"
+    },
+    {
+        "start": 627.1999999999999,
+        "end": 628.88,
+        "english": "Wow, you're up early today.",
+        "chinese": "哇，你今天起得早啊。"
+    },
+    {
+        "start": 628.88,
+        "end": 630.1999999999999,
+        "english": "What's for breakfast?",
+        "chinese": "What's for breakfast? 翻译成中文是：早餐吃什么？"
+    },
+    {
+        "start": 630.2,
+        "end": 633.84,
+        "english": "Well, I felt like baking so I made some muffins.",
+        "chinese": "嗯，我感觉像要蒸糕了，于是做了些小松饼。"
+    },
+    {
+        "start": 633.84,
+        "end": 634.84,
+        "english": "Smells good.",
+        "chinese": "气味好。"
+    },
+    {
+        "start": 634.84,
+        "end": 635.84,
+        "english": "I'll make some coffee.",
+        "chinese": "我会做些咖啡。"
+    },
+    {
+        "start": 635.84,
+        "end": 637.6,
+        "english": "Do you want me to make you some eggs?",
+        "chinese": "是的，我想让你吃些鸡蛋。"
+    },
+    {
+        "start": 637.6,
+        "end": 638.6,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 638.6,
+        "end": 640.6800000000001,
+        "english": "I'll take my sunny side up.",
+        "chinese": "我会把我的阳光面抬高。"
+    },
+    {
+        "start": 640.6800000000001,
+        "end": 643.6400000000001,
+        "english": "I don't know how you can eat your eggs like that.",
+        "chinese": "我不知道你如何能吃鸡蛋那样。"
+    },
+    {
+        "start": 643.6400000000001,
+        "end": 646.2800000000001,
+        "english": "Ever since I was small, I've had eggs and soldiers.",
+        "chinese": "自从我小的时候，我就有鸡蛋和士兵。"
+    },
+    {
+        "start": 646.2800000000001,
+        "end": 650.6400000000001,
+        "english": "You know, my dad heads scrambled eggs every morning for 20 years.",
+        "chinese": "我知道，我爸爸每天早上都要炒鸡蛋20年。"
+    },
+    {
+        "start": 650.6400000000001,
+        "end": 653.2,
+        "english": "It drove my mom crazy.",
+        "chinese": "它把我妈妈搞坏了。"
+    },
+    {
+        "start": 653.2,
+        "end": 654.6800000000001,
+        "english": "You know what really drives me crazy?",
+        "chinese": "您知道真正让我烦恼的是什么吗？"
+    },
+    {
+        "start": 654.6800000000001,
+        "end": 658.9200000000001,
+        "english": "When I ask her soft boiled eggs and they overcook them so they come out hard boiled.",
+        "chinese": "当我问她软煮鸡蛋，它们过熟了，所以煮得硬煮蛋。"
+    },
+    {
+        "start": 658.92,
+        "end": 661.92,
+        "english": "How can you dip your toast into a hard boiled egg?",
+        "chinese": "如何将煎好的鸡蛋放入硬煮过的吐司中？"
+    },
+    {
+        "start": 661.92,
+        "end": 665.92,
+        "english": "You're so picky sometimes.",
+        "chinese": "您有时太挑剔了。"
+    },
+    {
+        "start": 665.92,
+        "end": 674.36,
+        "english": "Here you go, honey.",
+        "chinese": "在这里，蜜糖。"
+    },
+    {
+        "start": 674.36,
+        "end": 675.36,
+        "english": "Fried eggs.",
+        "chinese": "煎鸡蛋。"
+    },
+    {
+        "start": 675.36,
+        "end": 676.36,
+        "english": "Damn it.",
+        "chinese": "啊呀，真是糟糕。"
+    },
+    {
+        "start": 676.36,
+        "end": 679.28,
+        "english": "I said sunny side up.",
+        "chinese": "我说煎蛋面。"
+    },
+    {
+        "start": 679.28,
+        "end": 682.0799999999999,
+        "english": "How many times do I have to tell you?",
+        "chinese": "我需要告诉你多少次？"
+    },
+    {
+        "start": 682.08,
+        "end": 691.44,
+        "english": "Well, I think there are some people who really, really love eating eggs for breakfast and",
+        "chinese": "嗯，我认为有一些人真的非常热爱早餐吃鸡蛋。"
+    },
+    {
+        "start": 691.44,
+        "end": 693.1600000000001,
+        "english": "some people who just can't stand it.",
+        "chinese": "一些人根本无法忍受。"
+    },
+    {
+        "start": 693.1600000000001,
+        "end": 695.0,
+        "english": "Yeah, I don't know who though.",
+        "chinese": "是的，我不知道。"
+    },
+    {
+        "start": 695.0,
+        "end": 696.64,
+        "english": "I mean, who doesn't like eggs in the morning?",
+        "chinese": "我指的是，谁不喜欢早晨吃鸡蛋？"
+    },
+    {
+        "start": 696.64,
+        "end": 697.8000000000001,
+        "english": "I know, I'm a big fan.",
+        "chinese": "我知道，我是个大粉丝。"
+    },
+    {
+        "start": 697.8000000000001,
+        "end": 698.8000000000001,
+        "english": "Right?",
+        "chinese": "正确？"
+    },
+    {
+        "start": 698.8000000000001,
+        "end": 699.8000000000001,
+        "english": "Eggs, bacon, toast.",
+        "chinese": "鸡蛋，煎饼，面包。"
+    },
+    {
+        "start": 699.8000000000001,
+        "end": 700.8000000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 700.8000000000001,
+        "end": 701.8000000000001,
+        "english": "Good stuff.",
+        "chinese": "好的东西。"
+    },
+    {
+        "start": 701.8000000000001,
+        "end": 702.8000000000001,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，\"Mm-hmm\" 是一个常见的英文缩写，通常用来表示同意或认可。如果你需要将这个短语翻译成中文，请告诉我具体的意思或者上下文，我会尽力帮助你。"
+    },
+    {
+        "start": 702.8000000000001,
+        "end": 703.8000000000001,
+        "english": "Traditional American type breakfast.",
+        "chinese": "传统的美国早餐。"
+    },
+    {
+        "start": 703.8000000000001,
+        "end": 707.0,
+        "english": "Now, you were telling me that you have some traditions when you eat eggs.",
+        "chinese": "现在，你告诉我，当你吃鸡蛋时，你有一些传统。"
+    },
+    {
+        "start": 707.0,
+        "end": 708.0,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiān guò.)"
+    },
+    {
+        "start": 708.0,
+        "end": 712.0,
+        "english": "I'm not sure if this is just in my family, but I think actually it might be common.",
+        "chinese": "我不确定这是我的家庭，但我认为实际上可能很普遍。"
+    },
+    {
+        "start": 712.4,
+        "end": 714.8,
+        "english": "With other people as well.",
+        "chinese": "与其他人一起。"
+    },
+    {
+        "start": 714.8,
+        "end": 720.4,
+        "english": "When you eat a soft boiled or hard boiled egg, you have to eat all of the egg outside of",
+        "chinese": "当你吃一个软煮或硬煮的鸡蛋时，你必须吃掉整个鸡蛋外面。"
+    },
+    {
+        "start": 720.4,
+        "end": 724.52,
+        "english": "the shell and then you have to break the bottom of the shell after you finished.",
+        "chinese": "在你完成shell操作后，你需要将底部的shell打破。"
+    },
+    {
+        "start": 724.52,
+        "end": 725.52,
+        "english": "Why?",
+        "chinese": "为什么？"
+    },
+    {
+        "start": 725.52,
+        "end": 729.04,
+        "english": "So that the fairies who live in your egg cup can come out.",
+        "chinese": "所以，你的蛋杯里的精灵可以出来。"
+    },
+    {
+        "start": 729.04,
+        "end": 731.52,
+        "english": "So it's kind of like a superstition?",
+        "chinese": "所以它有点像迷信吗？"
+    },
+    {
+        "start": 731.52,
+        "end": 733.24,
+        "english": "Yeah, I guess it is.",
+        "chinese": "是的，我猜这是。"
+    },
+    {
+        "start": 733.24,
+        "end": 734.24,
+        "english": "Interesting.",
+        "chinese": "有趣。"
+    },
+    {
+        "start": 734.24,
+        "end": 735.24,
+        "english": "Yeah, so I don't know.",
+        "chinese": "是的，所以我不知道。"
+    },
+    {
+        "start": 735.24,
+        "end": 740.28,
+        "english": "You guys, do you have any egg traditions or any other crazy food stories like that?",
+        "chinese": "大家，你们有没有什么蛋的习俗或者一些奇怪的食物故事，比如那？"
+    },
+    {
+        "start": 740.28,
+        "end": 746.12,
+        "english": "Well, for example, I was telling you that when I prepare scrambled eggs, sometimes I like",
+        "chinese": "好的，例如，我告诉你，当我准备煎鸡蛋时，有时我喜欢"
+    },
+    {
+        "start": 746.12,
+        "end": 753.12,
+        "english": "to take some rice, some rice that has already been cooked, put it in the pan, and then take",
+        "chinese": "将一些大米，已经煮熟的米饭放入锅中，然后炒。"
+    },
+    {
+        "start": 753.12,
+        "end": 757.8,
+        "english": "some eggs to eggs, put it on top of the rice, and scramble the rice with the eggs.",
+        "chinese": "将一些鸡蛋放在米饭上，然后用鸡蛋炒饭。"
+    },
+    {
+        "start": 757.8,
+        "end": 759.1999999999999,
+        "english": "Okay, for breakfast?",
+        "chinese": "好的，早餐？"
+    },
+    {
+        "start": 759.1999999999999,
+        "end": 760.8,
+        "english": "Yeah, it could be for breakfast.",
+        "chinese": "是的，它可以作为早餐使用。"
+    },
+    {
+        "start": 760.8,
+        "end": 761.8,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 761.8,
+        "end": 762.8,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 762.8,
+        "end": 765.72,
+        "english": "A little bit, not like a huge plate of rice, or maybe at night you don't have anything",
+        "chinese": "小部分，不像一大块米饭那样大，或者可能是晚上没有东西。"
+    },
+    {
+        "start": 765.72,
+        "end": 766.72,
+        "english": "to eat.",
+        "chinese": "吃。"
+    },
+    {
+        "start": 766.72,
+        "end": 767.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 767.72,
+        "end": 768.72,
+        "english": "Scramble eggs with rice.",
+        "chinese": "蛋炒饭。"
+    },
+    {
+        "start": 768.72,
+        "end": 769.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 769.72,
+        "end": 770.72,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 770.72,
+        "end": 773.4,
+        "english": "Well, it's also a quick man's food.",
+        "chinese": "很好，这还是一道快速人的食物。"
+    },
+    {
+        "start": 773.4,
+        "end": 774.8000000000001,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 774.8000000000001,
+        "end": 780.52,
+        "english": "So let us know if you guys have any egg preparations or any special egg recipes or traditions that",
+        "chinese": "所以，让我们知道你们有没有任何鸡蛋准备或者有什么特别的鸡蛋食谱或传统。"
+    },
+    {
+        "start": 780.52,
+        "end": 781.52,
+        "english": "you practice.",
+        "chinese": "你练习。"
+    },
+    {
+        "start": 781.52,
+        "end": 788.0,
+        "english": "Visit our website at englischpod.com where you can leave all of your comments and questions.",
+        "chinese": "访问我们的网站 www.englischpod.com，您可以在这里留下所有的评论和问题。"
+    },
+    {
+        "start": 788.0,
+        "end": 789.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 789.0,
+        "end": 793.2,
+        "english": "And as always, we are there to answer them and solve any problems.",
+        "chinese": "而且总是如此，我们在这里等待他们并解决任何问题。"
+    },
+    {
+        "start": 793.2,
+        "end": 797.24,
+        "english": "Well, we're out of time for today, but until next time, bye.",
+        "chinese": "好的，我们今天的时间不多了，但下次见，再见。"
+    }
+]

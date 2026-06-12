@@ -1,0 +1,1274 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.96,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次回到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 4.96,
+        "end": 6.16,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.16,
+        "end": 9.44,
+        "english": "And today we're bringing you another great lesson about appointments.",
+        "chinese": "今天我们将向您介绍今天的另一个关于约会的宝贵教训。"
+    },
+    {
+        "start": 9.44,
+        "end": 14.64,
+        "english": "That's right, we've got an elementary lesson about canceling an appointment.",
+        "chinese": "英语：That's right，我们有次务员课程。"
+    },
+    {
+        "start": 14.64,
+        "end": 17.44,
+        "english": "It's a really common situation sometimes.",
+        "chinese": "有时候，这种情况很常见。"
+    },
+    {
+        "start": 17.44,
+        "end": 19.84,
+        "english": "You have an appointment at the doctors or something.",
+        "chinese": "你有医生的预约吗？"
+    },
+    {
+        "start": 19.84,
+        "end": 21.16,
+        "english": "Or at work.",
+        "chinese": "英语：或者在工作上。"
+    },
+    {
+        "start": 21.16,
+        "end": 22.16,
+        "english": "And you have to cancel it.",
+        "chinese": "您必须取消它。"
+    },
+    {
+        "start": 22.16,
+        "end": 27.0,
+        "english": "Yes, so we're going to learn some great language to help you cancel appointments today.",
+        "chinese": "是的，所以今天我们要学习一些很棒的语言来帮助你取消今天的约会。"
+    },
+    {
+        "start": 27.0,
+        "end": 28.8,
+        "english": "Let's go straight to the dialogue then.",
+        "chinese": "让我们直奔对话吧。"
+    },
+    {
+        "start": 28.8,
+        "end": 33.92,
+        "english": "We're going to be listening as Samantha and Angela have a phone conversation and Angela",
+        "chinese": "我们将会在萨曼达和安吉拉进行电话交谈时倾听。"
+    },
+    {
+        "start": 33.92,
+        "end": 36.32,
+        "english": "is trying to cancel an appointment.",
+        "chinese": "英语：他正在试图取消约会。"
+    },
+    {
+        "start": 36.32,
+        "end": 40.04,
+        "english": "And it's going to be a little bit fast in the beginning, but when we come back, we will",
+        "chinese": "而且，从开始到回来会有点快，但当我们回到这里时，我们会……"
+    },
+    {
+        "start": 40.04,
+        "end": 42.04,
+        "english": "explain all the great vocabulary.",
+        "chinese": "解释所有的大词汇。"
+    },
+    {
+        "start": 42.04,
+        "end": 49.519999999999996,
+        "english": "Hello Samantha speaking.",
+        "chinese": "你好，萨曼莎在讲话。"
+    },
+    {
+        "start": 49.519999999999996,
+        "end": 57.8,
+        "english": "Hi Samantha, this is Angela calling.",
+        "chinese": "您好，萨曼莎，这是安德烈打电话给您的。"
+    },
+    {
+        "start": 57.8,
+        "end": 59.559999999999995,
+        "english": "Oh hi Angela, what's up?",
+        "chinese": "你好，安德烈，有什么事吗？"
+    },
+    {
+        "start": 59.559999999999995,
+        "end": 62.12,
+        "english": "I'm just calling about our meeting today.",
+        "chinese": "我正准备讨论今天的会议。"
+    },
+    {
+        "start": 62.12,
+        "end": 66.28,
+        "english": "I wonder if it's possible to reschedule our appointment in the afternoon.",
+        "chinese": "英语：我想知道下午能否调整我们的约会时间。"
+    },
+    {
+        "start": 66.28,
+        "end": 70.0,
+        "english": "I have a bit of an emergency that I need to take care of.",
+        "chinese": "我有点儿紧急，需要处理一下。"
+    },
+    {
+        "start": 70.0,
+        "end": 71.0,
+        "english": "Let me see.",
+        "chinese": "我看看。"
+    },
+    {
+        "start": 71.0,
+        "end": 72.8,
+        "english": "It shouldn't be too much of a problem.",
+        "chinese": "英语：它不应该太复杂了。"
+    },
+    {
+        "start": 72.8,
+        "end": 74.32,
+        "english": "I'm really sorry.",
+        "chinese": "我真的很抱歉。"
+    },
+    {
+        "start": 74.32,
+        "end": 77.0,
+        "english": "I hope it doesn't inconvenience you too much.",
+        "chinese": "我希望能不让你太操心。"
+    },
+    {
+        "start": 77.0,
+        "end": 79.2,
+        "english": "It's just this thing came up and...",
+        "chinese": "英语：它只是这个东西出现了。"
+    },
+    {
+        "start": 79.2,
+        "end": 80.2,
+        "english": "Angela, you know what?",
+        "chinese": "英语：Angela，你了解什么？"
+    },
+    {
+        "start": 80.2,
+        "end": 81.92,
+        "english": "I can't make it to our meeting either.",
+        "chinese": "我不能参加我们的会议。"
+    },
+    {
+        "start": 81.92,
+        "end": 84.96,
+        "english": "Why don't we postpone it tomorrow afternoon at the same time?",
+        "chinese": "英语：为什么我们明天下午一起推迟一下？"
+    },
+    {
+        "start": 84.96,
+        "end": 86.72,
+        "english": "Sounds great, see you tomorrow.",
+        "chinese": "英语：听起来不错，明天见。"
+    },
+    {
+        "start": 88.8,
+        "end": 91.72,
+        "english": "Angela, Angela look up.",
+        "chinese": "英语：Angela，安德烈，你来帮我卸下任务吧。"
+    },
+    {
+        "start": 91.72,
+        "end": 94.44,
+        "english": "See that lady over there who's trying on a red leather jacket?",
+        "chinese": "英语：看到那边那个正在试穿红色皮衣的女士。"
+    },
+    {
+        "start": 94.44,
+        "end": 95.96,
+        "english": "Isn't that Samantha?",
+        "chinese": "是的，萨曼莎。"
+    },
+    {
+        "start": 95.96,
+        "end": 96.96,
+        "english": "What?",
+        "chinese": "英语：What?"
+    },
+    {
+        "start": 96.96,
+        "end": 99.92,
+        "english": "No wonder she told me she couldn't make it to the meeting.",
+        "chinese": "英语：她为什么不能参加会议？"
+    },
+    {
+        "start": 99.92,
+        "end": 103.72,
+        "english": "Oh no, I think she saw me.",
+        "chinese": "英语：哦，不好，她看到了我。"
+    },
+    {
+        "start": 103.72,
+        "end": 110.75999999999999,
+        "english": "Okay, we have some really interesting words that you probably listened to in this dialogue,",
+        "chinese": "好的，我们有几句你可能在对话中听到的有趣词汇，请告诉我。"
+    },
+    {
+        "start": 110.75999999999999,
+        "end": 114.72,
+        "english": "so let's start with language takeaway.",
+        "chinese": "所以，我们先从语言小贴士开始。"
+    },
+    {
+        "start": 114.72,
+        "end": 115.72,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 116.52,
+        "end": 119.28,
+        "english": "Today on language takeaway, we're bringing you three words.",
+        "chinese": "今天，我们将为您介绍三个单词。"
+    },
+    {
+        "start": 119.28,
+        "end": 120.4,
+        "english": "Erica, what's the first one?",
+        "chinese": "你好，艾丽卡。第一个是什么？"
+    },
+    {
+        "start": 120.4,
+        "end": 123.2,
+        "english": "The first word is reschedule.",
+        "chinese": "重新安排"
+    },
+    {
+        "start": 123.2,
+        "end": 124.32,
+        "english": "Reschedule.",
+        "chinese": "英语：取消。"
+    },
+    {
+        "start": 124.32,
+        "end": 125.6,
+        "english": "Reschedule.",
+        "chinese": "英语：取消。"
+    },
+    {
+        "start": 125.6,
+        "end": 127.12,
+        "english": "Reschedule.",
+        "chinese": "英语：取消。"
+    },
+    {
+        "start": 127.12,
+        "end": 132.16,
+        "english": "When you reschedule an appointment, you change it for another day or time.",
+        "chinese": "当您更改预约时间时，您可以将其更改为其他日期或时间。"
+    },
+    {
+        "start": 132.16,
+        "end": 133.32,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 133.32,
+        "end": 136.72,
+        "english": "Great, the second word that we have is inconvenience.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 136.72,
+        "end": 138.32,
+        "english": "Inconvenience.",
+        "chinese": "不方便。"
+    },
+    {
+        "start": 138.32,
+        "end": 139.52,
+        "english": "Inconvenience.",
+        "chinese": "不方便。"
+    },
+    {
+        "start": 139.52,
+        "end": 141.28,
+        "english": "Inconvenience.",
+        "chinese": "不方便。"
+    },
+    {
+        "start": 141.28,
+        "end": 143.88,
+        "english": "So to inconvenience someone is to...",
+        "chinese": "所以，让人烦恼是..."
+    },
+    {
+        "start": 143.88,
+        "end": 147.79999999999998,
+        "english": "To make things not convenient for that person.",
+        "chinese": "要让这件事变得不方便。"
+    },
+    {
+        "start": 147.79999999999998,
+        "end": 149.64,
+        "english": "So to make things a little bit difficult,",
+        "chinese": "所以，让事情稍微复杂一点。"
+    },
+    {
+        "start": 149.64,
+        "end": 151.4,
+        "english": "to make things a little bit...",
+        "chinese": "要让事情稍微..."
+    },
+    {
+        "start": 151.4,
+        "end": 152.4,
+        "english": "Uncomfortable.",
+        "chinese": "不舒服。"
+    },
+    {
+        "start": 152.4,
+        "end": 153.6,
+        "english": "Uncomfortable.",
+        "chinese": "英语：不舒服。"
+    },
+    {
+        "start": 153.6,
+        "end": 154.88,
+        "english": "Inconvenience.",
+        "chinese": "不方便。"
+    },
+    {
+        "start": 154.88,
+        "end": 156.96,
+        "english": "And our third word is...",
+        "chinese": "我们的第三句话是..."
+    },
+    {
+        "start": 156.96,
+        "end": 157.96,
+        "english": "Pospone.",
+        "chinese": "请将要翻译的英文句子提供给我，我会帮您将其翻译成中文。"
+    },
+    {
+        "start": 157.96,
+        "end": 159.32,
+        "english": "Pospone.",
+        "chinese": "“邮差。”"
+    },
+    {
+        "start": 159.32,
+        "end": 160.56,
+        "english": "Pospone.",
+        "chinese": "请将这句话翻译成中文。"
+    },
+    {
+        "start": 160.56,
+        "end": 161.32,
+        "english": "Pospone.",
+        "chinese": "请放心，我会尽力帮助您。请问您想将这句话翻译成哪种语言？"
+    },
+    {
+        "start": 161.32,
+        "end": 166.68,
+        "english": "We have some examples of the word postpone that will help you to understand its meaning a little bit better.",
+        "chinese": "英语：我们有一些例子来帮助你更好地理解这个词“推迟”。"
+    },
+    {
+        "start": 166.68,
+        "end": 168.16,
+        "english": "Let's listen.",
+        "chinese": "让我们听。"
+    },
+    {
+        "start": 168.16,
+        "end": 169.51999999999998,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 170.52,
+        "end": 176.52,
+        "english": "Since Robert is late again, we have to postpone the meeting.",
+        "chinese": "由于罗伯特再次迟到，我们不得不推迟会议。"
+    },
+    {
+        "start": 176.52,
+        "end": 179.52,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 179.52,
+        "end": 187.52,
+        "english": "I'm sorry Simon, but your vacation has been postponed until next month.",
+        "chinese": "对不起，史密斯先生，但您的度假计划已经推迟到下个月了。"
+    },
+    {
+        "start": 187.52,
+        "end": 191.52,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 191.52,
+        "end": 196.52,
+        "english": "Unfortunately, the flight will be postponed.",
+        "chinese": "抱歉，航班将延误。"
+    },
+    {
+        "start": 197.52,
+        "end": 200.52,
+        "english": "Okay, so basically postpone is to delay.",
+        "chinese": "嗯，所以基本上是推迟。"
+    },
+    {
+        "start": 200.52,
+        "end": 201.52,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 201.52,
+        "end": 202.52,
+        "english": "Make it at a later time.",
+        "chinese": "将它安排在以后的时间。"
+    },
+    {
+        "start": 202.52,
+        "end": 203.52,
+        "english": "At a later time.",
+        "chinese": "在未来的时间。"
+    },
+    {
+        "start": 203.52,
+        "end": 204.52,
+        "english": "Mm-hmm.",
+        "chinese": "英语：嗯，你做得很好。"
+    },
+    {
+        "start": 204.52,
+        "end": 210.52,
+        "english": "Okay, some great words there, and we can listen to our dialogue a second time at a slower speed.",
+        "chinese": "好的，有一些好词，我们可以慢一点听我们的对话。"
+    },
+    {
+        "start": 218.52,
+        "end": 220.52,
+        "english": "Hello, Samantha speaking.",
+        "chinese": "你好，莎拉。"
+    },
+    {
+        "start": 220.52,
+        "end": 222.52,
+        "english": "Hi, Samantha.",
+        "chinese": "你好，莎拉。"
+    },
+    {
+        "start": 222.52,
+        "end": 224.52,
+        "english": "This is Angela calling.",
+        "chinese": "这个是安吉拉打电话。"
+    },
+    {
+        "start": 224.52,
+        "end": 226.52,
+        "english": "Oh, hi Angela.",
+        "chinese": "你好，安格拉。"
+    },
+    {
+        "start": 226.52,
+        "end": 227.52,
+        "english": "What's up?",
+        "chinese": "英语：What's up?"
+    },
+    {
+        "start": 227.52,
+        "end": 230.52,
+        "english": "I'm just calling about our meeting today.",
+        "chinese": "我今天只是想和你们讨论一下今天的会议。"
+    },
+    {
+        "start": 230.52,
+        "end": 231.52,
+        "english": "I wonder...",
+        "chinese": "我想..."
+    },
+    {
+        "start": 231.52,
+        "end": 236.32000000000002,
+        "english": "Is it possible to reschedule our appointment in the afternoon?",
+        "chinese": "是的，我们可以调整我们的预约时间。"
+    },
+    {
+        "start": 236.32000000000002,
+        "end": 240.52,
+        "english": "I have a bit of an emergency that I need to take care of.",
+        "chinese": "我有点儿紧急，需要处理一下。"
+    },
+    {
+        "start": 240.52,
+        "end": 242.68,
+        "english": "Let me see.",
+        "chinese": "让我看看。"
+    },
+    {
+        "start": 242.68,
+        "end": 245.36,
+        "english": "It shouldn't be too much of a problem.",
+        "chinese": "英语：它不应该太复杂了。"
+    },
+    {
+        "start": 245.36,
+        "end": 247.32000000000002,
+        "english": "I'm really sorry.",
+        "chinese": "我真的很抱歉。"
+    },
+    {
+        "start": 247.32000000000002,
+        "end": 250.8,
+        "english": "I hope it doesn't inconvenience you too much.",
+        "chinese": "我希望能不让你太操劳。"
+    },
+    {
+        "start": 250.8,
+        "end": 253.52,
+        "english": "It's just this thing came up and...",
+        "chinese": "英语：它只是这个东西出现了。"
+    },
+    {
+        "start": 253.52,
+        "end": 255.52,
+        "english": "Angela, you know what?",
+        "chinese": "英语：Angela，你了解吗？"
+    },
+    {
+        "start": 255.52,
+        "end": 257.52,
+        "english": "I can't make it to our meeting either.",
+        "chinese": "我不能参加我们的会议。"
+    },
+    {
+        "start": 257.52,
+        "end": 262.52,
+        "english": "Why don't we postpone it to tomorrow afternoon at the same time?",
+        "chinese": "英语：为什么我们不明天下午一起推迟一下？"
+    },
+    {
+        "start": 262.52,
+        "end": 263.52,
+        "english": "Sounds great.",
+        "chinese": "英语：听起来不错。"
+    },
+    {
+        "start": 263.52,
+        "end": 265.52,
+        "english": "See you tomorrow.",
+        "chinese": "明天见。"
+    },
+    {
+        "start": 265.52,
+        "end": 269.52,
+        "english": "Angela, Angela, look up.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，我可以提供一些可能的翻译方式："
+    },
+    {
+        "start": 269.52,
+        "end": 273.52,
+        "english": "See that lady over there who's trying on a red leather jacket?",
+        "chinese": "英语：看到那边那个正在试穿红色皮衣的女士。"
+    },
+    {
+        "start": 273.52,
+        "end": 275.52,
+        "english": "Isn't that Samantha?",
+        "chinese": "是的，萨曼莎。"
+    },
+    {
+        "start": 275.52,
+        "end": 276.52,
+        "english": "What?",
+        "chinese": "什么?"
+    },
+    {
+        "start": 276.52,
+        "end": 280.52,
+        "english": "No wonder she told me she couldn't make it to the meeting.",
+        "chinese": "英语：难怪她告诉我她不能参加会议。"
+    },
+    {
+        "start": 281.52,
+        "end": 282.52,
+        "english": "Oh no!",
+        "chinese": "英语：Oh no!"
+    },
+    {
+        "start": 282.52,
+        "end": 284.52,
+        "english": "I think she saw me.",
+        "chinese": "我猜她看到了我。"
+    },
+    {
+        "start": 290.52,
+        "end": 295.52,
+        "english": "All right, so in this dialogue we had some really great phrases that we should look at in Fluency Builder.",
+        "chinese": "好的，所以在这次对话中我们有一些非常棒的短语应该在 Fluent Builder 中查看。"
+    },
+    {
+        "start": 295.52,
+        "end": 297.52,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 297.52,
+        "end": 302.52,
+        "english": "We have three phrases for you today in Fluency Builder and the first one is so common.",
+        "chinese": "今天在Fluency Builder里，有三个常用表达式，请问第一个是啥意思？"
+    },
+    {
+        "start": 302.52,
+        "end": 304.52,
+        "english": "It's a great phrase.",
+        "chinese": "英语：它是一个好词。"
+    },
+    {
+        "start": 304.52,
+        "end": 305.52,
+        "english": "What's up?",
+        "chinese": "英语：What's up?"
+    },
+    {
+        "start": 305.52,
+        "end": 306.52,
+        "english": "What's up?",
+        "chinese": "英语：What's up?"
+    },
+    {
+        "start": 306.52,
+        "end": 307.52,
+        "english": "What's up?",
+        "chinese": "英语：What's up?"
+    },
+    {
+        "start": 308.52,
+        "end": 310.52,
+        "english": "So this is a very common way of saying hi.",
+        "chinese": "英语：所以这是说你好的一种常见方式。"
+    },
+    {
+        "start": 310.52,
+        "end": 311.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 311.52,
+        "end": 312.52,
+        "english": "What's up?",
+        "chinese": "英语：What's up?"
+    },
+    {
+        "start": 312.52,
+        "end": 313.52,
+        "english": "How's it going?",
+        "chinese": "英语：如何？"
+    },
+    {
+        "start": 313.52,
+        "end": 314.52,
+        "english": "What's going on?",
+        "chinese": "这句话的英文是 \"What's happening? \"。"
+    },
+    {
+        "start": 314.52,
+        "end": 318.52,
+        "english": "Right, and now the interesting thing is that many people don't know how to answer this phrase.",
+        "chinese": "英语：对，而且这个有趣的事情是很多人不知道如何回答这句话。"
+    },
+    {
+        "start": 318.52,
+        "end": 320.52,
+        "english": "Yes, I see this all the time with my students.",
+        "chinese": "是的，我经常看到我的学生都用这个点和拍。"
+    },
+    {
+        "start": 320.52,
+        "end": 323.52,
+        "english": "So if you say what's up, you should say not much.",
+        "chinese": "所以，如果你说上什么，你就说不多。"
+    },
+    {
+        "start": 323.52,
+        "end": 324.52,
+        "english": "Not much.",
+        "chinese": "不很多。"
+    },
+    {
+        "start": 324.52,
+        "end": 325.52,
+        "english": "Nothing.",
+        "chinese": "无。"
+    },
+    {
+        "start": 325.52,
+        "end": 326.52,
+        "english": "So what's up?",
+        "chinese": "英语：所以有什么问题吗？"
+    },
+    {
+        "start": 326.52,
+        "end": 327.52,
+        "english": "Not much.",
+        "chinese": "不很多。"
+    },
+    {
+        "start": 327.52,
+        "end": 328.52,
+        "english": "Not much.",
+        "chinese": "不很多。"
+    },
+    {
+        "start": 328.52,
+        "end": 332.52,
+        "english": "All right, so the next time someone tells you what's up, now you know what to answer.",
+        "chinese": "好的，那么下次有人告诉你发生了什么，你现在就知道怎么回答了。"
+    },
+    {
+        "start": 332.52,
+        "end": 333.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 333.52,
+        "end": 336.52,
+        "english": "Okay, our second phrase is can't make it.",
+        "chinese": "好的，我们的第二句话是不能完成它。"
+    },
+    {
+        "start": 336.52,
+        "end": 337.52,
+        "english": "Can't make it.",
+        "chinese": "不能完成。"
+    },
+    {
+        "start": 337.52,
+        "end": 339.52,
+        "english": "I can't make it.",
+        "chinese": "我不能完成。"
+    },
+    {
+        "start": 339.52,
+        "end": 342.52,
+        "english": "We use this phrase when we want to say I cannot attend.",
+        "chinese": "我们使用这个短语来表示我不能参加。"
+    },
+    {
+        "start": 342.52,
+        "end": 343.52,
+        "english": "I cannot make it.",
+        "chinese": "我无法完成。"
+    },
+    {
+        "start": 343.52,
+        "end": 344.52,
+        "english": "Yeah, I can't come.",
+        "chinese": "嗯，我不能来。"
+    },
+    {
+        "start": 344.52,
+        "end": 349.52,
+        "english": "Right, so if you're having a party today, I say, oh, I'm sorry, I can't make it.",
+        "chinese": "是的，所以如果你今天有派对，请告诉我，抱歉，我不能去了。"
+    },
+    {
+        "start": 349.52,
+        "end": 351.52,
+        "english": "It means I can't go.",
+        "chinese": "这句话的意思是“我不能去。”"
+    },
+    {
+        "start": 351.52,
+        "end": 352.52,
+        "english": "Exactly.",
+        "chinese": "正确答案：完全。"
+    },
+    {
+        "start": 352.52,
+        "end": 353.52,
+        "english": "Maybe one more example.",
+        "chinese": "可能再举一个例子。"
+    },
+    {
+        "start": 353.52,
+        "end": 355.52,
+        "english": "So Marco, we've got a meeting today at three o'clock.",
+        "chinese": "英语：所以马科，今天下午三点有会议。"
+    },
+    {
+        "start": 355.52,
+        "end": 357.52,
+        "english": "I can't make it.",
+        "chinese": "我不能完成。"
+    },
+    {
+        "start": 357.52,
+        "end": 358.52,
+        "english": "I'm recording today.",
+        "chinese": "我今天正在录音。"
+    },
+    {
+        "start": 358.52,
+        "end": 359.52,
+        "english": "Oh, okay.",
+        "chinese": "英语：哦，好吧。"
+    },
+    {
+        "start": 359.52,
+        "end": 361.52,
+        "english": "So can't make it.",
+        "chinese": "所以不能实现。"
+    },
+    {
+        "start": 361.52,
+        "end": 365.52,
+        "english": "Our last word for Fluency Builder, this thing came up.",
+        "chinese": "我们的最后一个单词是Fluency Builder，这个东西出现了。"
+    },
+    {
+        "start": 365.52,
+        "end": 367.52,
+        "english": "This thing came up.",
+        "chinese": "这个东西来了。"
+    },
+    {
+        "start": 367.52,
+        "end": 369.52,
+        "english": "This thing came up.",
+        "chinese": "这个东西来了。"
+    },
+    {
+        "start": 369.52,
+        "end": 373.52,
+        "english": "This is a great way of giving an excuse for why you can't make it.",
+        "chinese": "这个是很好的理由，为什么你不能实现它。"
+    },
+    {
+        "start": 373.52,
+        "end": 374.52,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 374.52,
+        "end": 378.52,
+        "english": "So I can't make it today because this thing came up like something...",
+        "chinese": "英语：所以今天我不能做这件事，因为这个东西好像有点问题..."
+    },
+    {
+        "start": 378.52,
+        "end": 379.52,
+        "english": "Something happened.",
+        "chinese": "发生了一些事。"
+    },
+    {
+        "start": 379.52,
+        "end": 380.52,
+        "english": "Something happened.",
+        "chinese": "事情发生了。"
+    },
+    {
+        "start": 380.52,
+        "end": 381.52,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 381.52,
+        "end": 385.52,
+        "english": "Let's listen to a few examples of this phrase so we can see how it's used in the wild.",
+        "chinese": "让我们听听这个短语的几个例子，这样我们就能看到它在实际中的使用情况。"
+    },
+    {
+        "start": 385.52,
+        "end": 388.52,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 388.52,
+        "end": 389.52,
+        "english": "I'm sorry that I'm late.",
+        "chinese": "我非常抱歉，我超出了预期的时间。"
+    },
+    {
+        "start": 389.52,
+        "end": 394.52,
+        "english": "This thing came up at work and I had to stay to take care of it.",
+        "chinese": "这个东西在工作中出现并需要我来照顾它。"
+    },
+    {
+        "start": 395.52,
+        "end": 397.52,
+        "english": "Example two.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 397.52,
+        "end": 399.52,
+        "english": "I can't talk right now.",
+        "chinese": "我目前无法说话。"
+    },
+    {
+        "start": 399.52,
+        "end": 402.52,
+        "english": "Something came up.",
+        "chinese": "有事发生了。"
+    },
+    {
+        "start": 402.52,
+        "end": 406.52,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 406.52,
+        "end": 408.52,
+        "english": "Sorry I missed the meeting.",
+        "chinese": "对不起，我错过了会议。"
+    },
+    {
+        "start": 408.52,
+        "end": 411.52,
+        "english": "Something came up.",
+        "chinese": "有事发生了。"
+    },
+    {
+        "start": 411.52,
+        "end": 412.52,
+        "english": "Okay, great example.",
+        "chinese": "好的，这个例子很好。"
+    },
+    {
+        "start": 412.52,
+        "end": 414.52,
+        "english": "And I guess it's perfectly clear now.",
+        "chinese": "而且我猜现在很清楚。"
+    },
+    {
+        "start": 414.52,
+        "end": 415.52,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 415.52,
+        "end": 420.52,
+        "english": "So let's listen to our dialogue a third time and now we're ready to understand everything.",
+        "chinese": "英语：所以让我们再次听一下我们的对话，现在我们已经理解一切了。"
+    },
+    {
+        "start": 426.52,
+        "end": 429.52,
+        "english": "Hello Samantha speaking.",
+        "chinese": "你好，萨曼莎在讲话。"
+    },
+    {
+        "start": 429.52,
+        "end": 432.52,
+        "english": "Hi Samantha, this is Angela calling.",
+        "chinese": "您好，萨曼莎，这是安德烈打电话给您的。"
+    },
+    {
+        "start": 432.52,
+        "end": 434.52,
+        "english": "Oh hi Angela, what's up?",
+        "chinese": "你好，安德烈，有什么事吗？"
+    },
+    {
+        "start": 434.52,
+        "end": 436.52,
+        "english": "I'm just calling about our meeting today.",
+        "chinese": "我正准备和你们讨论今天的会议。"
+    },
+    {
+        "start": 436.52,
+        "end": 440.52,
+        "english": "I wonder is it possible to reschedule our appointment in the afternoon?",
+        "chinese": "英语：我 wondering 是否可以下午再预约我们的会议？"
+    },
+    {
+        "start": 440.52,
+        "end": 444.52,
+        "english": "I have a bit of an emergency that I need to take care of.",
+        "chinese": "我有点儿紧急，需要处理一下。"
+    },
+    {
+        "start": 444.52,
+        "end": 445.52,
+        "english": "Let me see.",
+        "chinese": "英语：让我看看。"
+    },
+    {
+        "start": 445.52,
+        "end": 447.52,
+        "english": "It shouldn't be too much of a problem.",
+        "chinese": "英语：它不应该太复杂了。"
+    },
+    {
+        "start": 447.52,
+        "end": 448.52,
+        "english": "I'm really sorry.",
+        "chinese": "我真的很抱歉。"
+    },
+    {
+        "start": 448.52,
+        "end": 451.52,
+        "english": "I hope it doesn't inconvenience you too much.",
+        "chinese": "英语：我希望它不会太麻烦你。"
+    },
+    {
+        "start": 451.52,
+        "end": 453.52,
+        "english": "It's just this thing came up and...",
+        "chinese": "英语：它只是这个东西出现了。"
+    },
+    {
+        "start": 453.52,
+        "end": 454.52,
+        "english": "Angela, you know what?",
+        "chinese": "英语：Angela，你知道什么吗？"
+    },
+    {
+        "start": 454.52,
+        "end": 456.52,
+        "english": "I can't make it to our meeting either.",
+        "chinese": "我不能参加我们的会议。"
+    },
+    {
+        "start": 456.52,
+        "end": 459.52,
+        "english": "Why don't we postpone it tomorrow afternoon at the same time?",
+        "chinese": "英语：为什么我们明天下午一起推迟一下？"
+    },
+    {
+        "start": 459.52,
+        "end": 460.52,
+        "english": "Sounds great.",
+        "chinese": "英语：听起来不错。"
+    },
+    {
+        "start": 460.52,
+        "end": 461.52,
+        "english": "See you tomorrow.",
+        "chinese": "明天见。"
+    },
+    {
+        "start": 463.52,
+        "end": 464.52,
+        "english": "Angela?",
+        "chinese": "英语：Angela？"
+    },
+    {
+        "start": 464.52,
+        "end": 465.52,
+        "english": "Angela, look up.",
+        "chinese": "英语：Angela，看看上。"
+    },
+    {
+        "start": 465.52,
+        "end": 468.52,
+        "english": "See that lady over there who's trying on a red leather jacket?",
+        "chinese": "英语：看到那边那个正在试穿红色皮革夹克的女士。"
+    },
+    {
+        "start": 468.52,
+        "end": 470.52,
+        "english": "Isn't that Samantha?",
+        "chinese": "是的，萨曼莎。"
+    },
+    {
+        "start": 470.52,
+        "end": 471.52,
+        "english": "What?",
+        "chinese": "英语：What?"
+    },
+    {
+        "start": 471.52,
+        "end": 474.52,
+        "english": "No wonder she told me she couldn't make it to the meeting.",
+        "chinese": "英语：她为什么不能参加会议？"
+    },
+    {
+        "start": 474.52,
+        "end": 476.52,
+        "english": "Oh no, I think she saw me.",
+        "chinese": "英语：哦，不好，她看到了我。"
+    },
+    {
+        "start": 477.52,
+        "end": 486.52,
+        "english": "So Eric, have you ever canceled an appointment like this under false pretenses?",
+        "chinese": "英语：所以埃里克，你是不是像这样假定的预约了这个？"
+    },
+    {
+        "start": 486.52,
+        "end": 489.52,
+        "english": "So for a fake reason?",
+        "chinese": "英语：所以为了一个假的理由？"
+    },
+    {
+        "start": 489.52,
+        "end": 492.52,
+        "english": "For a fake reason to go shopping?",
+        "chinese": "英语：为了一个假的借口去购物。"
+    },
+    {
+        "start": 492.52,
+        "end": 500.52,
+        "english": "Well, I may not have told my boss so I can't make it to a meeting because this thing came up and then I really was going shopping.",
+        "chinese": "英语：嗯，我可能没有告诉老板，所以我不能参加会议，因为这个东西来了，然后我真的要去购物了。"
+    },
+    {
+        "start": 500.52,
+        "end": 502.52,
+        "english": "I've never done that, but how about you, Marco?",
+        "chinese": "我从没做过这种事，你呢？"
+    },
+    {
+        "start": 502.52,
+        "end": 505.52,
+        "english": "Well, you know, an echo to our soccer is a really big thing.",
+        "chinese": "英语：嗯，你说得对。你了解足球的回声效果吗？"
+    },
+    {
+        "start": 505.52,
+        "end": 506.52,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 506.52,
+        "end": 510.52,
+        "english": "So when we were playing in the World Cup, Ecuador was playing and...",
+        "chinese": "所以当我们正在世界杯期间，厄瓜多尔正比赛呢。"
+    },
+    {
+        "start": 510.52,
+        "end": 511.52,
+        "english": "Not you, but...",
+        "chinese": "不，但..."
+    },
+    {
+        "start": 511.52,
+        "end": 514.52,
+        "english": "Well, no, like the Ecuadorian soccer team.",
+        "chinese": "英语：嗯，不，像厄瓜多尔足球队。"
+    },
+    {
+        "start": 514.52,
+        "end": 517.52,
+        "english": "I canceled an appointment because I was going to go watch the game.",
+        "chinese": "我因为要去观看比赛而取消了约会。"
+    },
+    {
+        "start": 517.52,
+        "end": 519.52,
+        "english": "Really, a business appointment.",
+        "chinese": "真的，这是业务会议。"
+    },
+    {
+        "start": 519.52,
+        "end": 520.52,
+        "english": "A business appointment.",
+        "chinese": "一个商务会议。"
+    },
+    {
+        "start": 520.52,
+        "end": 521.52,
+        "english": "Well, I guess that's okay.",
+        "chinese": "英语：嗯，我猜这没什么问题。"
+    },
+    {
+        "start": 521.52,
+        "end": 530.52,
+        "english": "Yeah, I mean, it was like the first time we were ever in the World Cup and you know, my boss didn't really put up much of a fight because I guess he also wanted to go watch the game.",
+        "chinese": "是的，我明白。我第一次在世界杯上就是这么做的，你猜，我的老板也不怎么费力，因为我估计他也是想去看比赛的。"
+    },
+    {
+        "start": 530.52,
+        "end": 533.52,
+        "english": "So very similar to the events in this dialogue.",
+        "chinese": "英语：因此，非常相似于这个对话中的事件。"
+    },
+    {
+        "start": 533.52,
+        "end": 534.52,
+        "english": "Very similar.",
+        "chinese": "很相似。"
+    },
+    {
+        "start": 534.52,
+        "end": 537.52,
+        "english": "I guess that's kind of the inspiration behind it.",
+        "chinese": "我猜这跟它的灵感有关。"
+    },
+    {
+        "start": 537.52,
+        "end": 541.52,
+        "english": "Alright, guys, I hope you found some of these phrases helpful and useful.",
+        "chinese": "好的，朋友们，我希望你们找到了这些短语有用且有趣。"
+    },
+    {
+        "start": 541.52,
+        "end": 548.52,
+        "english": "And remember, if you have any questions about anything you heard in today's lesson, please visit our website at www.englishpod.com.",
+        "chinese": "英语：它是一点和拍相机。"
+    },
+    {
+        "start": 548.52,
+        "end": 554.52,
+        "english": "Right. There you'll be able to find more resources and also a large community to interact with.",
+        "chinese": "正确翻译：英语：它是一个傻瓜相机。"
+    },
+    {
+        "start": 554.52,
+        "end": 556.52,
+        "english": "Yes, including me and Marco.",
+        "chinese": "是的，包括我和马科。"
+    },
+    {
+        "start": 556.52,
+        "end": 557.52,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 557.52,
+        "end": 558.52,
+        "english": "So we'll see you there.",
+        "chinese": "所以我们会在这里见面。"
+    },
+    {
+        "start": 558.52,
+        "end": 559.52,
+        "english": "Until then, it's...",
+        "chinese": "直到那时，它就..."
+    },
+    {
+        "start": 559.52,
+        "end": 560.52,
+        "english": "Bye!",
+        "chinese": "Bye! (英语：Bye!) 在中文中可以翻译为 \"再见！\"。"
+    },
+    {
+        "start": 564.52,
+        "end": 565.52,
+        "english": "Bye!",
+        "chinese": "Bye! (英语：bye!) 在中文中，\"bye!\" 是一个常见的告别语。它可以翻译成以下几种方式："
+    }
+]

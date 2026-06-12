@@ -1,0 +1,1226 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.36,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 6.36,
+        "end": 7.96,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 7.96,
+        "end": 14.200000000000001,
+        "english": "And today we're bringing you a lesson that was requested by one of our listeners.",
+        "chinese": "今天，我们为您带来了一堂您请求的课。"
+    },
+    {
+        "start": 14.200000000000001,
+        "end": 15.200000000000001,
+        "english": "Yes, that's right.",
+        "chinese": "是的，那正是。"
+    },
+    {
+        "start": 15.200000000000001,
+        "end": 20.48,
+        "english": "We got a request for a dialogue about a receptionist.",
+        "chinese": "我们收到了一个关于接待员的对话请求。"
+    },
+    {
+        "start": 20.48,
+        "end": 25.52,
+        "english": "So a receptionist at an office or at a hotel.",
+        "chinese": "所以一个在办公室或酒店的接待员。"
+    },
+    {
+        "start": 25.52,
+        "end": 31.96,
+        "english": "So today's dialogue is simple, but we're going to be looking at some really great phrases.",
+        "chinese": "所以今天的对话简单，但我们将会仔细研究一些非常棒的短语。"
+    },
+    {
+        "start": 31.96,
+        "end": 38.72,
+        "english": "Yeah, phrases that will help you sound really, really professional and really fluent.",
+        "chinese": "是的，能够帮助你听起来非常专业和流利的短语。"
+    },
+    {
+        "start": 38.72,
+        "end": 45.0,
+        "english": "So we are at an office today and the receptionist is greeting somebody that has an appointment.",
+        "chinese": "所以今天我们正在办公室，接待员正问候有人有约会。"
+    },
+    {
+        "start": 45.0,
+        "end": 46.8,
+        "english": "Alright, let's see what happens.",
+        "chinese": "好的，让我们看看会发生什么。"
+    },
+    {
+        "start": 56.52,
+        "end": 59.52,
+        "english": "Good afternoon.",
+        "chinese": "下午好。"
+    },
+    {
+        "start": 59.52,
+        "end": 60.52,
+        "english": "May I help you?",
+        "chinese": "是的，我可以帮助您。"
+    },
+    {
+        "start": 60.52,
+        "end": 65.32000000000001,
+        "english": "Yes, I'm here to see Joanna Stevens, I have an appointment at 4.",
+        "chinese": "是的，我来这里见乔安娜·斯蒂芬森。我现在有4点的预约。"
+    },
+    {
+        "start": 65.32000000000001,
+        "end": 66.32000000000001,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 66.32000000000001,
+        "end": 67.32000000000001,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 67.32000000000001,
+        "end": 69.32000000000001,
+        "english": "I'll let her know you've arrived.",
+        "chinese": "我会告诉她你已经到了。"
+    },
+    {
+        "start": 69.32000000000001,
+        "end": 74.32000000000001,
+        "english": "Sure, it's Josh O'Neill.",
+        "chinese": "是的，乔恩·奥尼尔。"
+    },
+    {
+        "start": 74.32000000000001,
+        "end": 76.44,
+        "english": "Miss Stevens will be with you momentarily.",
+        "chinese": "小斯特林将很快与您在一起。"
+    },
+    {
+        "start": 76.44,
+        "end": 78.44,
+        "english": "Can I offer you something to drink?",
+        "chinese": "是的，我可以给你点饮料。"
+    },
+    {
+        "start": 78.44,
+        "end": 82.44,
+        "english": "Yes, coffee would be nice, thank you.",
+        "chinese": "是的，咖啡很香，谢谢。"
+    },
+    {
+        "start": 83.44,
+        "end": 90.44,
+        "english": "Here you are.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 90.44,
+        "end": 92.44,
+        "english": "Miss Stevens is ready for you now.",
+        "chinese": "现在，小姐特丽莎已经准备好迎接你。"
+    },
+    {
+        "start": 92.44,
+        "end": 98.44,
+        "english": "I'll show you to her office, right this way.",
+        "chinese": "我会带你到她的办公室，这边走。"
+    },
+    {
+        "start": 98.44,
+        "end": 102.44,
+        "english": "Just watch your step here.",
+        "chinese": "请在这里小心。"
+    },
+    {
+        "start": 113.44,
+        "end": 115.44,
+        "english": "Well, that's pretty embarrassing, hey?",
+        "chinese": "嗯，那可真是不好意思啊，对吗？"
+    },
+    {
+        "start": 115.44,
+        "end": 116.44,
+        "english": "That was embarrassing.",
+        "chinese": "那真是尴尬。"
+    },
+    {
+        "start": 116.44,
+        "end": 120.44,
+        "english": "That's what happens to women when they wear high heels, see?",
+        "chinese": "那正是女性穿高跟鞋时会发生什么？"
+    },
+    {
+        "start": 120.44,
+        "end": 122.44,
+        "english": "Actually, that happened to me last weekend.",
+        "chinese": "实际上，那天我上周发生了这种情况。"
+    },
+    {
+        "start": 122.44,
+        "end": 123.44,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 123.44,
+        "end": 126.44,
+        "english": "I fell down the stairs and my knees are quite blue.",
+        "chinese": "我从楼梯上摔了下来，我的膝盖有些发蓝。"
+    },
+    {
+        "start": 126.44,
+        "end": 127.44,
+        "english": "Oh, no, see.",
+        "chinese": "对不起，见不到你。"
+    },
+    {
+        "start": 127.44,
+        "end": 129.44,
+        "english": "High heels are dangerous.",
+        "chinese": "高跟鞋是危险的。"
+    },
+    {
+        "start": 129.44,
+        "end": 131.44,
+        "english": "I don't know why women wear them.",
+        "chinese": "我并不知道为什么女人穿它们。"
+    },
+    {
+        "start": 131.44,
+        "end": 134.44,
+        "english": "Well, I don't know, but that's not what we're here to discover.",
+        "chinese": "嗯，我不太知道，但这不是我们来这里要探索的。"
+    },
+    {
+        "start": 134.44,
+        "end": 135.44,
+        "english": "Right.",
+        "chinese": "右。 (Wǒ zuò yī shí.)"
+    },
+    {
+        "start": 135.44,
+        "end": 141.44,
+        "english": "Okay, so let's take a look at some of these great phrases in fluency builder.",
+        "chinese": "好的，让我们看看这些流畅构建中的好词句。"
+    },
+    {
+        "start": 143.44,
+        "end": 145.44,
+        "english": "Fluency builder.",
+        "chinese": "流畅构建。"
+    },
+    {
+        "start": 145.44,
+        "end": 153.44,
+        "english": "Well, I really liked how this receptionist used some excellent phrases to sound really professional.",
+        "chinese": "嗯，我真的很喜欢这个接待员用了一些出色的表达方式听起来非常专业。"
+    },
+    {
+        "start": 153.44,
+        "end": 157.44,
+        "english": "And one thing she said was, certainly.",
+        "chinese": "她还说，当然。"
+    },
+    {
+        "start": 157.44,
+        "end": 159.44,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 159.44,
+        "end": 160.44,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 160.44,
+        "end": 162.44,
+        "english": "So why did she say, certainly?",
+        "chinese": "所以，她为什么这么说呢？"
+    },
+    {
+        "start": 162.44,
+        "end": 165.44,
+        "english": "Well, this is a nice way to respond.",
+        "chinese": "很好，这是个好办法。"
+    },
+    {
+        "start": 165.44,
+        "end": 170.44,
+        "english": "To make the other person know that you understand what they said.",
+        "chinese": "将对方听懂了你所说的话。"
+    },
+    {
+        "start": 170.44,
+        "end": 175.44,
+        "english": "So, Josh O'Neill said, yes, I'm here to see Joanna Stevens.",
+        "chinese": "所以，乔什·奥尼尔说，是的，我来这里见乔安娜史蒂文斯。"
+    },
+    {
+        "start": 175.44,
+        "end": 177.44,
+        "english": "I have an appointment at four.",
+        "chinese": "我有一个约会，四点。"
+    },
+    {
+        "start": 177.44,
+        "end": 178.44,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 178.44,
+        "end": 181.44,
+        "english": "So she is saying, I understand what you said.",
+        "chinese": "所以她是在说，我理解你刚才说的话。"
+    },
+    {
+        "start": 181.44,
+        "end": 182.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 182.44,
+        "end": 184.44,
+        "english": "And then she said, may I take your name?",
+        "chinese": "然后她说道，我叫什么名字？"
+    },
+    {
+        "start": 184.44,
+        "end": 185.44,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 185.44,
+        "end": 187.44,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 187.44,
+        "end": 191.44,
+        "english": "So this is a nice way of saying, what is your name?",
+        "chinese": "所以，这是个好办法，你叫什么名字？"
+    },
+    {
+        "start": 191.44,
+        "end": 192.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 192.44,
+        "end": 198.44,
+        "english": "So now this is really important because if you said, what is your name, is that correct?",
+        "chinese": "所以现在这个很重要，因为如果你说你是谁，那就是正确的。"
+    },
+    {
+        "start": 198.44,
+        "end": 202.44,
+        "english": "It's correct, but it's not really very...",
+        "chinese": "是正确的，但并不算很..."
+    },
+    {
+        "start": 202.44,
+        "end": 203.44,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 203.44,
+        "end": 205.44,
+        "english": "Or I would say, polite to a certain extent.",
+        "chinese": "或者可以说，礼貌到一定程度。"
+    },
+    {
+        "start": 205.44,
+        "end": 206.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 206.44,
+        "end": 207.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 207.44,
+        "end": 208.44,
+        "english": "So may I take your name?",
+        "chinese": "所以，我叫什么名字？"
+    },
+    {
+        "start": 208.44,
+        "end": 209.44,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 209.44,
+        "end": 215.44,
+        "english": "You use this phrase when you are going to write down the person's name.",
+        "chinese": "当你要写下这个人名字时，你可以使用这个短语。"
+    },
+    {
+        "start": 215.44,
+        "end": 216.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”在中文中的翻译："
+    },
+    {
+        "start": 216.44,
+        "end": 221.44,
+        "english": "So if you meet somebody on the street or at a bar, you wouldn't say, may I take your name?",
+        "chinese": "所以如果你在路上遇到一个人或者在酒吧里遇见一个人，你不会说：“我叫什么名字？”"
+    },
+    {
+        "start": 221.44,
+        "end": 222.44,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 222.44,
+        "end": 223.44,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语在中文中的翻译："
+    },
+    {
+        "start": 223.44,
+        "end": 225.44,
+        "english": "Unless you're going to write it down.",
+        "chinese": "除非你打算记下来。"
+    },
+    {
+        "start": 225.44,
+        "end": 230.44,
+        "english": "So usually for an office setting where the receptionist has to write down the name.",
+        "chinese": "所以通常在办公室环境中，接待员需要记录名字。"
+    },
+    {
+        "start": 230.44,
+        "end": 231.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 231.44,
+        "end": 232.44,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 232.44,
+        "end": 233.44,
+        "english": "One more phrase.",
+        "chinese": "一再重复一句话。"
+    },
+    {
+        "start": 233.44,
+        "end": 236.44,
+        "english": "Miss Stevens will be with you momentarily.",
+        "chinese": "小斯特林将很快与您在一起。"
+    },
+    {
+        "start": 236.44,
+        "end": 237.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 237.44,
+        "end": 241.44,
+        "english": "Miss Stevens will be with you momentarily.",
+        "chinese": "小斯特林将很快与您在一起。"
+    },
+    {
+        "start": 241.44,
+        "end": 243.44,
+        "english": "Will be with you momentarily.",
+        "chinese": "将与您短暂会面。"
+    },
+    {
+        "start": 243.44,
+        "end": 244.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 244.44,
+        "end": 246.44,
+        "english": "So this is really polite.",
+        "chinese": "所以，这是真的礼貌。"
+    },
+    {
+        "start": 246.44,
+        "end": 247.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 247.44,
+        "end": 249.44,
+        "english": "Momentarily, what does that mean?",
+        "chinese": "暂时，那意味着什么？"
+    },
+    {
+        "start": 249.44,
+        "end": 250.44,
+        "english": "In a moment.",
+        "chinese": "在一瞬间。"
+    },
+    {
+        "start": 250.44,
+        "end": 251.44,
+        "english": "In a moment.",
+        "chinese": "在一瞬间。"
+    },
+    {
+        "start": 251.44,
+        "end": 252.44,
+        "english": "Soon.",
+        "chinese": "马上。"
+    },
+    {
+        "start": 252.44,
+        "end": 259.44,
+        "english": "I would have said Miss Stevens will come out soon or Miss Stevens will see you in a minute.",
+        "chinese": "我会说，斯特伦斯小姐很快就会出现，或者斯特伦斯小姐在你面前几分钟后会看到她。"
+    },
+    {
+        "start": 259.44,
+        "end": 260.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 260.44,
+        "end": 263.44,
+        "english": "But that's not again, it's not really that polite, right?",
+        "chinese": "但是，这不是再次，也不是真的不礼貌。"
+    },
+    {
+        "start": 263.44,
+        "end": 264.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 264.44,
+        "end": 270.44,
+        "english": "So when you want to be formal, you can say Miss Stevens will be with you momentarily.",
+        "chinese": "所以当你想要正式时，你可以这样表达：“斯蒂芬小姐将在你身边短暂地出现。”"
+    },
+    {
+        "start": 270.44,
+        "end": 271.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 271.44,
+        "end": 272.44,
+        "english": "That's a really nice phrase.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 272.44,
+        "end": 273.44,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 273.44,
+        "end": 275.44,
+        "english": "There's so much in this dialogue.",
+        "chinese": "这是对话中的太多。"
+    },
+    {
+        "start": 275.44,
+        "end": 278.44,
+        "english": "So many great wonderful polite phrases.",
+        "chinese": "所以有很多好听的礼貌用语。"
+    },
+    {
+        "start": 278.44,
+        "end": 285.44,
+        "english": "So why don't we listen to it one more time, but this time slow down.",
+        "chinese": "所以，我们为什么不再听一次呢，这次慢一点。"
+    },
+    {
+        "start": 285.44,
+        "end": 290.44,
+        "english": "Good afternoon.",
+        "chinese": "下午好。"
+    },
+    {
+        "start": 290.44,
+        "end": 293.44,
+        "english": "May I help you?",
+        "chinese": "是的，我可以帮助您。"
+    },
+    {
+        "start": 293.44,
+        "end": 294.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 294.44,
+        "end": 297.44,
+        "english": "I'm here to see Joanna Stevens.",
+        "chinese": "我是来见乔安娜·斯蒂芬。"
+    },
+    {
+        "start": 297.44,
+        "end": 301.44,
+        "english": "I have an appointment at four.",
+        "chinese": "我有一个约会，四点。"
+    },
+    {
+        "start": 301.44,
+        "end": 302.44,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 302.44,
+        "end": 305.44,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 305.44,
+        "end": 308.44,
+        "english": "I'll let her know you've arrived.",
+        "chinese": "我会告诉她你已经到了。"
+    },
+    {
+        "start": 308.44,
+        "end": 309.44,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 309.44,
+        "end": 312.44,
+        "english": "It's Josh O'Neill.",
+        "chinese": "他叫乔什·奥尼尔。"
+    },
+    {
+        "start": 312.44,
+        "end": 316.44,
+        "english": "Miss Stevens will be with you momentarily.",
+        "chinese": "小斯特林将很快与您在一起。"
+    },
+    {
+        "start": 316.44,
+        "end": 319.44,
+        "english": "Can I offer you something to drink?",
+        "chinese": "是的，我可以给你点饮料。"
+    },
+    {
+        "start": 319.44,
+        "end": 320.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 320.44,
+        "end": 322.44,
+        "english": "Coffee would be nice.",
+        "chinese": "咖啡是好的。"
+    },
+    {
+        "start": 322.44,
+        "end": 323.44,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 323.44,
+        "end": 325.44,
+        "english": "Here you are.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 325.44,
+        "end": 327.44,
+        "english": "Miss Stevens is ready for you now.",
+        "chinese": "现在，小姐特丽西娅已经准备好和你见面了。"
+    },
+    {
+        "start": 327.44,
+        "end": 330.44,
+        "english": "I'll show you to her office.",
+        "chinese": "我会带你去她的办公室。"
+    },
+    {
+        "start": 330.44,
+        "end": 333.44,
+        "english": "Write this way.",
+        "chinese": "写这。"
+    },
+    {
+        "start": 333.44,
+        "end": 340.44,
+        "english": "Just watch your step here.",
+        "chinese": "请在这里小心。"
+    },
+    {
+        "start": 340.44,
+        "end": 341.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 341.44,
+        "end": 346.44,
+        "english": "So it's pretty clear now, but there are still a couple of phrases that I would like to look at.",
+        "chinese": "所以现在很清楚了，但还是有一些话我想要看看。"
+    },
+    {
+        "start": 346.44,
+        "end": 350.44,
+        "english": "So why don't we look at the last two sentences?",
+        "chinese": "所以，我们为什么不看看最后两个句子呢？"
+    },
+    {
+        "start": 350.44,
+        "end": 351.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 351.44,
+        "end": 353.44,
+        "english": "Miss Stevens is ready for you now.",
+        "chinese": "斯特伦斯小姐现在准备好与你见面了。"
+    },
+    {
+        "start": 353.44,
+        "end": 356.44,
+        "english": "Miss Stevens is ready for you now.",
+        "chinese": "小姐斯特维现在准备好与你交谈。"
+    },
+    {
+        "start": 356.44,
+        "end": 358.44,
+        "english": "Miss Stevens is ready for you.",
+        "chinese": "小姐特伦斯准备好让你了。"
+    },
+    {
+        "start": 358.44,
+        "end": 362.44,
+        "english": "So when she says ready for you, what does that mean?",
+        "chinese": "所以，当她说“准备好你”，意味着什么？"
+    },
+    {
+        "start": 362.44,
+        "end": 365.44,
+        "english": "I'm prepared to speak to you.",
+        "chinese": "我准备和你交谈。"
+    },
+    {
+        "start": 365.44,
+        "end": 366.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 366.44,
+        "end": 371.44,
+        "english": "So instead of saying Miss Stevens is ready or Miss Stevens can see you now.",
+        "chinese": "所以，不如说斯特伦斯小姐现在准备好或者斯特伦斯小姐可以见到你。"
+    },
+    {
+        "start": 371.44,
+        "end": 372.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 372.44,
+        "end": 374.44,
+        "english": "You use this great little phrase.",
+        "chinese": "您使用了这个很棒的小短语。"
+    },
+    {
+        "start": 374.44,
+        "end": 375.44,
+        "english": "It's ready for you.",
+        "chinese": "它已经准备好给你。"
+    },
+    {
+        "start": 375.44,
+        "end": 376.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 376.44,
+        "end": 379.44,
+        "english": "And then she said, I'll show you to her office.",
+        "chinese": "然后她说道，让我带你去她的办公室。"
+    },
+    {
+        "start": 379.44,
+        "end": 381.44,
+        "english": "I'll show you to her office.",
+        "chinese": "我会带你去她的办公室。"
+    },
+    {
+        "start": 381.44,
+        "end": 383.44,
+        "english": "I'll show you to her office.",
+        "chinese": "我会带你去她的办公室。"
+    },
+    {
+        "start": 383.44,
+        "end": 388.44,
+        "english": "This is a lovely way of saying, I will take you to the office.",
+        "chinese": "这是说，我会带你去办公室。"
+    },
+    {
+        "start": 388.44,
+        "end": 389.44,
+        "english": "I'll take you to the office.",
+        "chinese": "我会带你去办公室。"
+    },
+    {
+        "start": 389.44,
+        "end": 392.44,
+        "english": "She followed it by saying, right this way.",
+        "chinese": "她跟着它，说：“走这边。”"
+    },
+    {
+        "start": 392.44,
+        "end": 393.44,
+        "english": "Right this way.",
+        "chinese": "右这边。"
+    },
+    {
+        "start": 393.44,
+        "end": 395.44,
+        "english": "Right this way.",
+        "chinese": "右这里。"
+    },
+    {
+        "start": 395.44,
+        "end": 398.44,
+        "english": "So again, walk this way.",
+        "chinese": "所以，再走这条路。"
+    },
+    {
+        "start": 398.44,
+        "end": 399.44,
+        "english": "Walk this way.",
+        "chinese": "走这条路。"
+    },
+    {
+        "start": 399.44,
+        "end": 400.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 400.44,
+        "end": 401.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 401.44,
+        "end": 402.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 402.44,
+        "end": 403.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 403.44,
+        "end": 404.44,
+        "english": "Right this way.",
+        "chinese": "右这边。"
+    },
+    {
+        "start": 404.44,
+        "end": 406.44,
+        "english": "It sounds really, really nice, really polite, really welcoming.",
+        "chinese": "听起来真的很好，真的很礼貌，真的很欢迎。"
+    },
+    {
+        "start": 406.44,
+        "end": 407.44,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”的翻译："
+    },
+    {
+        "start": 407.44,
+        "end": 408.44,
+        "english": "And especially if you use it together, right?",
+        "chinese": "而且，如果你一起使用它，那真是太好了。"
+    },
+    {
+        "start": 408.44,
+        "end": 409.44,
+        "english": "I'll show you to her office.",
+        "chinese": "我会带你去她的办公室。"
+    },
+    {
+        "start": 409.44,
+        "end": 410.44,
+        "english": "Right this way.",
+        "chinese": "右这里。"
+    },
+    {
+        "start": 410.44,
+        "end": 411.44,
+        "english": "Please.",
+        "chinese": "请。"
+    },
+    {
+        "start": 411.44,
+        "end": 412.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 412.44,
+        "end": 413.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 413.44,
+        "end": 417.44,
+        "english": "So it's a really great way of being polite to somebody at an office.",
+        "chinese": "所以，这是在办公室里表现出礼貌的好方法。"
+    },
+    {
+        "start": 417.44,
+        "end": 420.44,
+        "english": "Now, the final useful phrase.",
+        "chinese": "现在，有用的短语。"
+    },
+    {
+        "start": 420.44,
+        "end": 422.44,
+        "english": "Watch your step.",
+        "chinese": "观看你的脚步。"
+    },
+    {
+        "start": 422.44,
+        "end": 424.44,
+        "english": "Watch your step.",
+        "chinese": "观看你的脚步。"
+    },
+    {
+        "start": 424.44,
+        "end": 426.44,
+        "english": "Watch your step.",
+        "chinese": "观看你的脚步。"
+    },
+    {
+        "start": 426.44,
+        "end": 428.44,
+        "english": "So watch your step.",
+        "chinese": "所以小心。"
+    },
+    {
+        "start": 428.44,
+        "end": 430.44,
+        "english": "You see that everywhere in the signs.",
+        "chinese": "您看到，到处都在广告牌上。"
+    },
+    {
+        "start": 430.44,
+        "end": 431.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 431.44,
+        "end": 432.44,
+        "english": "Be careful.",
+        "chinese": "小心。"
+    },
+    {
+        "start": 432.44,
+        "end": 433.44,
+        "english": "Be careful where you step.",
+        "chinese": "小心你走的地方。"
+    },
+    {
+        "start": 433.44,
+        "end": 434.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 434.44,
+        "end": 435.44,
+        "english": "Be careful where you're walking.",
+        "chinese": "请小心你正在走的路。"
+    },
+    {
+        "start": 435.44,
+        "end": 436.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 436.44,
+        "end": 439.44,
+        "english": "So obviously she didn't watch her step and...",
+        "chinese": "所以很明显，她没有看她的步态..."
+    },
+    {
+        "start": 439.44,
+        "end": 440.44,
+        "english": "She fell.",
+        "chinese": "她跌倒了。"
+    },
+    {
+        "start": 440.44,
+        "end": 441.44,
+        "english": "She fell.",
+        "chinese": "她跌倒了。"
+    },
+    {
+        "start": 441.44,
+        "end": 442.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 442.44,
+        "end": 443.44,
+        "english": "So really great phrases.",
+        "chinese": "所以真的好词句。"
+    },
+    {
+        "start": 443.44,
+        "end": 446.44,
+        "english": "Let's listen to this dialogue one last time.",
+        "chinese": "请听这对话再试一次。"
+    },
+    {
+        "start": 447.44,
+        "end": 455.44,
+        "english": "Good afternoon.",
+        "chinese": "下午好。"
+    },
+    {
+        "start": 455.44,
+        "end": 457.44,
+        "english": "May I help you?",
+        "chinese": "是的，我可以帮助您。"
+    },
+    {
+        "start": 457.44,
+        "end": 458.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 458.44,
+        "end": 460.44,
+        "english": "I'm here to see Joanna Stevens.",
+        "chinese": "我是来见乔安娜·斯蒂芬。"
+    },
+    {
+        "start": 460.44,
+        "end": 461.44,
+        "english": "I have an appointment at four.",
+        "chinese": "我有一个约会，四点。"
+    },
+    {
+        "start": 461.44,
+        "end": 462.44,
+        "english": "Certainly.",
+        "chinese": "当然。"
+    },
+    {
+        "start": 462.44,
+        "end": 464.44,
+        "english": "May I take your name?",
+        "chinese": "是的，我可以问你的名字。"
+    },
+    {
+        "start": 464.44,
+        "end": 465.44,
+        "english": "I'll let her know you've arrived.",
+        "chinese": "我会告诉她你已经到来了。"
+    },
+    {
+        "start": 465.44,
+        "end": 466.44,
+        "english": "Sure.",
+        "chinese": "是的。"
+    },
+    {
+        "start": 466.44,
+        "end": 470.44,
+        "english": "It's Josh O'Neill.",
+        "chinese": "他叫乔什·奥尼尔。"
+    },
+    {
+        "start": 470.44,
+        "end": 472.44,
+        "english": "Miss Stevens will be with you momentarily.",
+        "chinese": "小斯特林将很快与您在一起。"
+    },
+    {
+        "start": 472.44,
+        "end": 474.44,
+        "english": "Can I offer you something to drink?",
+        "chinese": "是的，我可以给你点饮料。"
+    },
+    {
+        "start": 474.44,
+        "end": 475.44,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 475.44,
+        "end": 477.44,
+        "english": "Coffee would be nice.",
+        "chinese": "咖啡是好的。"
+    },
+    {
+        "start": 477.44,
+        "end": 486.44,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 486.44,
+        "end": 487.44,
+        "english": "Here you are.",
+        "chinese": "在这里。"
+    },
+    {
+        "start": 487.44,
+        "end": 489.44,
+        "english": "Miss Stevens is ready for you now.",
+        "chinese": "现在，小姐特丽莎已经准备好迎接你了。"
+    },
+    {
+        "start": 489.44,
+        "end": 491.44,
+        "english": "I'll show you to her office.",
+        "chinese": "我会带你去她的办公室。"
+    },
+    {
+        "start": 491.44,
+        "end": 495.44,
+        "english": "Right this way.",
+        "chinese": "右这里。"
+    },
+    {
+        "start": 495.44,
+        "end": 498.44,
+        "english": "Just watch your step here.",
+        "chinese": "请在这里小心。"
+    },
+    {
+        "start": 498.44,
+        "end": 501.44,
+        "english": "Ah!",
+        "chinese": "对不起，我无法直接翻译中文到其他语言。不过，我可以提供一些关于您问题的建议："
+    },
+    {
+        "start": 505.44,
+        "end": 506.44,
+        "english": "Alright.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 506.44,
+        "end": 510.44,
+        "english": "So a really simple dialogue but with a lot of good phrases in there.",
+        "chinese": "所以，一个非常简单的对话，其中充满了许多好词句。"
+    },
+    {
+        "start": 510.44,
+        "end": 514.44,
+        "english": "And it's also a good review for more advanced students, right?",
+        "chinese": "而且，这也是对更高级的学生一个很好的评价吗？"
+    },
+    {
+        "start": 514.44,
+        "end": 515.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 515.44,
+        "end": 518.44,
+        "english": "Remember, like these phrases can really help you sound more professional,",
+        "chinese": "记得，像这些短语确实可以帮助你听起来更专业。"
+    },
+    {
+        "start": 518.44,
+        "end": 521.44,
+        "english": "more welcoming, more polite basically.",
+        "chinese": "更友好，更礼貌基本上。"
+    },
+    {
+        "start": 521.44,
+        "end": 522.44,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 522.44,
+        "end": 526.44,
+        "english": "So if you have any questions or doubts, please come to our website,",
+        "chinese": "所以如果有任何问题或疑虑，请访问我们的网站。"
+    },
+    {
+        "start": 526.44,
+        "end": 527.44,
+        "english": "www.englishpot.com.",
+        "chinese": "www.englishpot.com 翻译成中文是 \"英语园\"。请注意，这个网站可能不包含任何实际的英语学习资源或内容，而是提供一个在线论坛和社区来讨论英语学习相关话题。如果您需要更多关于英语学习的信息，请告诉我！"
+    },
+    {
+        "start": 527.44,
+        "end": 532.44,
+        "english": "And Marco and I are always around to respond to your questions and comments.",
+        "chinese": "和马科斯和我总是随时准备回答您的问题和评论。"
+    },
+    {
+        "start": 532.44,
+        "end": 536.44,
+        "english": "Okay guys, so we'll see you there and until next time, it's goodbye.",
+        "chinese": "好的，朋友们，我们将在这里等你，直到下次见面，再见。"
+    },
+    {
+        "start": 536.44,
+        "end": 537.44,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    }
+]

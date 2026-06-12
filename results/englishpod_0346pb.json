@@ -1,0 +1,926 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.76,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco. My name is",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马科。"
+    },
+    {
+        "start": 4.76,
+        "end": 9.06,
+        "english": "Catherine and we're going to be purchasing some wine today, right Marco? That's",
+        "chinese": "陈凯和我们今天要购买一些葡萄酒，对吧？是的。"
+    },
+    {
+        "start": 9.06,
+        "end": 12.58,
+        "english": "right. Today we're gonna go to the shop and we're gonna try to look for some wine",
+        "chinese": "今天我们将去商店，我们打算寻找一些葡萄酒。"
+    },
+    {
+        "start": 12.58,
+        "end": 16.62,
+        "english": "that will go well with the type of food that we're having. Alright so we're going",
+        "chinese": "那会和我们准备的食物相配的。好了，我们现在准备好了。"
+    },
+    {
+        "start": 16.62,
+        "end": 21.3,
+        "english": "to be learning a lot of specific terms. This is an advanced lesson so we expect",
+        "chinese": "英语：它是一台点和拍的傻瓜相机。"
+    },
+    {
+        "start": 21.3,
+        "end": 25.580000000000002,
+        "english": "that most of the basics you already know but some of these more difficult words",
+        "chinese": "这个点和拍是傻瓜相机。"
+    },
+    {
+        "start": 25.580000000000002,
+        "end": 29.86,
+        "english": "and phrases are going to be our focus. So let's take a listen to today's dialogue.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 29.86,
+        "end": 40.9,
+        "english": "Hello there, welcome to Wine World. Let me know if I can help you out at all. Yes please, I could",
+        "chinese": "你好，欢迎来到葡萄酒世界。请告诉我我能帮你的什么。当然，请告诉我。"
+    },
+    {
+        "start": 40.9,
+        "end": 44.22,
+        "english": "really use some help. I'm going over to my boss's house for dinner tonight and I",
+        "chinese": "真的需要帮助一下。我今晚要去我的老板家吃饭，我想去他家的厨房帮忙。"
+    },
+    {
+        "start": 44.22,
+        "end": 48.739999999999995,
+        "english": "don't know what kind of wine I should bring. Okay, do you know what kind of",
+        "chinese": "英语：不知道我应该带什么类型的葡萄酒。好，你知道什么样的葡萄酒吗？"
+    },
+    {
+        "start": 48.739999999999995,
+        "end": 53.18,
+        "english": "food will be served? Well his wife is Japanese. He said she makes really good",
+        "chinese": "英语：食物会准备吗？好，他的妻子是日本人。他说她做得很好。"
+    },
+    {
+        "start": 53.18,
+        "end": 59.7,
+        "english": "sushi. Hmm, that's a bit of a challenge. Sushi is notoriously difficult to",
+        "chinese": "寿司。嗯，那可真是个难题。寿司被认为非常难吃。"
+    },
+    {
+        "start": 59.7,
+        "end": 66.74,
+        "english": "pair with wine. Well let's see. It'll have to be a white wine of course. Why?",
+        "chinese": "英文：搭配红酒。好吧，让我们看看。它必须是红葡萄酒吧。为什么？"
+    },
+    {
+        "start": 66.74,
+        "end": 72.14,
+        "english": "Wouldn't a red wine go well with sushi? No, I don't think so. Sushi is a very",
+        "chinese": "不会与红葡萄酒搭配寿司。不，我不这么认为。寿司是一种非常特别的料理，它通常使用带有酸味和果香的酒来提升风味。如果你喜欢这种味道，那么红葡萄酒确实可以很好地与寿司搭配。不过，如果不喜欢这种味道或者你对寿司不太熟悉，那么红葡萄酒可能就不适合了。"
+    },
+    {
+        "start": 72.14,
+        "end": 77.1,
+        "english": "delicately flavored food and red wine would be a jarring contrast. You need a",
+        "chinese": "精致的菜肴和红葡萄酒会形成一个突兀的对比。你需要一个"
+    },
+    {
+        "start": 77.1,
+        "end": 81.98,
+        "english": "white wine which has more subtle flavors to complement the fish. I see. So I",
+        "chinese": "白葡萄酒，它有更微妙的风味来平衡鱼肉。嗯，我明白了。"
+    },
+    {
+        "start": 81.98,
+        "end": 86.18,
+        "english": "should get a bottle of Shardinay. That's a white wine, right? Yes, Shardinay is a",
+        "chinese": "英语：应该得到一瓶Shardinay。那是一种白葡萄酒，对吧？是的，Shardinay是一种白葡萄酒。"
+    },
+    {
+        "start": 86.18,
+        "end": 91.78,
+        "english": "white wine but I'm not sure it'd be your best bet. Shardinay is one of the more",
+        "chinese": "英语：白葡萄酒，但我还不确定它会是你的最佳选择。Shadinay 是一个较为知名的葡萄酒品牌。"
+    },
+    {
+        "start": 91.78,
+        "end": 96.82000000000001,
+        "english": "full-bodied whites and tends to be a bit oaky. I'd suggest you go for something",
+        "chinese": "英文：全尺寸白衬衫和倾向于有点油腻。我建议你选择一件。"
+    },
+    {
+        "start": 96.82000000000001,
+        "end": 102.62,
+        "english": "brighter like this Sauvignon Blanc from New Zealand. Oh, the Sauvignon Blanc?",
+        "chinese": "这个新西兰的萨维尼白葡萄酒看起来比这瓶更亮。哦，那瓶萨维尼白葡萄酒？"
+    },
+    {
+        "start": 102.62,
+        "end": 108.02000000000001,
+        "english": "What's that? That's another varietal or type of grape just like Shardinay. Let's",
+        "chinese": "什么？那又是一个品种或类型和Shardinay一样的葡萄。让我们继续。"
+    },
+    {
+        "start": 108.02,
+        "end": 112.5,
+        "english": "see. The label says it's got attractive citrus and grassy aromas that give way to",
+        "chinese": "看。标签上写着它有柑橘和草地的香味，然后会变淡。"
+    },
+    {
+        "start": 112.5,
+        "end": 118.3,
+        "english": "crisp mineral flavors and a bone-dry finish. Serve chilled. Oh no, how long will it",
+        "chinese": "英文：精炼的矿物质风味和干爽的表面。请在冰镇时享用。哦，糟糕，多久才能下订单呢？"
+    },
+    {
+        "start": 118.3,
+        "end": 122.3,
+        "english": "take to chill the wine? I'm on my way to dinner now. Oh it's okay, don't worry.",
+        "chinese": "英语：去喝点冰茶？我正要去吃晚饭呢。哦，没事的，别担心。"
+    },
+    {
+        "start": 122.3,
+        "end": 127.25999999999999,
+        "english": "We'll just choose a wine from the cooler. We don't have quite as extensive a",
+        "chinese": "我们先从冰箱里挑选一瓶酒。不过，我们并不太熟悉这里的酒类。"
+    },
+    {
+        "start": 127.25999999999999,
+        "end": 132.98,
+        "english": "selection over here but this Rome Valley white would be lovely. All right, what",
+        "chinese": "选择这里，但这个罗马高原白色的景色将会非常美丽。好啊，那我们继续看看其他选项。"
+    },
+    {
+        "start": 132.98,
+        "end": 137.82,
+        "english": "varietal is that? Well this is a French wine so they don't always specify the",
+        "chinese": "英语：它叫点和拍，是傻瓜相机。"
+    },
+    {
+        "start": 137.82,
+        "end": 142.57999999999998,
+        "english": "varietal on the label. The French believe that the soil a grape is grown in is",
+        "chinese": "标签上写着各种各样的葡萄。法国人认为种植葡萄的土地是肥沃的。"
+    },
+    {
+        "start": 142.57999999999998,
+        "end": 147.18,
+        "english": "one of the most important factors in the final flavor of the wine. This wine is",
+        "chinese": "这是一款在红酒中最重要的因素。这款酒的品质非常出色。"
+    },
+    {
+        "start": 147.18,
+        "end": 152.34,
+        "english": "probably a blend of a few different types of grapes. Mostly Vignet I'd guess.",
+        "chinese": "英文：它很可能是几种葡萄混合的。大多数是白葡萄，我猜。"
+    },
+    {
+        "start": 152.34,
+        "end": 157.14,
+        "english": "And you think this is a good wine? Yes, this is one of our best sellers. It's not",
+        "chinese": "您认为这是个好酒吗？是的，这是我们最好的卖点。它不是。"
+    },
+    {
+        "start": 157.14,
+        "end": 161.34,
+        "english": "quite as dry as the Sauvignon Blanc we were looking at earlier which means it's",
+        "chinese": "很像霞多丽，我们之前看中的那款。"
+    },
+    {
+        "start": 161.34,
+        "end": 166.45999999999998,
+        "english": "more approachable. It's light and crisp with a bit of a vanilla aroma. Perfect,",
+        "chinese": "更接近的。它轻便且清晰，带有淡淡的香草味。完美。"
+    },
+    {
+        "start": 166.46,
+        "end": 174.42000000000002,
+        "english": "I'll take it. All right, we're back. So now we're talking about wines and one of",
+        "chinese": "我将接手。一切就绪，我们再谈谈葡萄酒和……"
+    },
+    {
+        "start": 174.42000000000002,
+        "end": 179.26000000000002,
+        "english": "the first things that really pop up is when we're talking about sushi and how",
+        "chinese": "英语：首先，当你谈论到寿司时，你会想到什么？"
+    },
+    {
+        "start": 179.26000000000002,
+        "end": 183.5,
+        "english": "we're trying to get a wine to go well with sushi. All right, so the phrase here",
+        "chinese": "我们正在尝试让这杯酒与寿司搭配得最好。好了，所以这个短语在这里是这样的："
+    },
+    {
+        "start": 183.5,
+        "end": 189.3,
+        "english": "was to pair with wine. So sushi is notoriously difficult to pair with wine.",
+        "chinese": "英语：它与红酒搭配得很好。所以寿司很难和红酒搭配。"
+    },
+    {
+        "start": 189.3,
+        "end": 194.18,
+        "english": "All right, so when you're talking about wine you talk about pairing it with",
+        "chinese": "好的，当你谈论葡萄酒时，你谈的是与之搭配。"
+    },
+    {
+        "start": 194.18,
+        "end": 200.38,
+        "english": "food, P-A-I-R, to pair. That's right. So for example if you're having meat or",
+        "chinese": "食物，P-A-I-R，配对。这就是正确的。例如，如果你正在准备肉类或者蔬菜等食材。"
+    },
+    {
+        "start": 200.38,
+        "end": 205.42000000000002,
+        "english": "poultry or chicken you try to pair it with a wine. So basically that the",
+        "chinese": "英语：鸡或鸭，你试着搭配一瓶红酒。所以基本上就是说这个。"
+    },
+    {
+        "start": 205.42000000000002,
+        "end": 210.72,
+        "english": "flavors go well together. So commonly we say that red wine pairs well with",
+        "chinese": "味道一起好。所以大家通常会说红葡萄酒与白葡萄酒搭配得很好。"
+    },
+    {
+        "start": 210.72,
+        "end": 217.14000000000001,
+        "english": "red meat or fish and white wine pair well together. So you're pairing these",
+        "chinese": "红肉或鱼和白葡萄酒搭配得很好。所以你正在为这些配对。"
+    },
+    {
+        "start": 217.14000000000001,
+        "end": 222.74,
+        "english": "two things means you're using them in the same meal. That's right. Okay. So when",
+        "chinese": "两个事物意味着你在同一个餐点上使用它们。正确。好。所以当你在做什么时候？"
+    },
+    {
+        "start": 222.74,
+        "end": 227.74,
+        "english": "we were talking about pairing a wine with sushi the girl said well what about",
+        "chinese": "我们正在讨论搭配葡萄酒与寿司的建议，女孩说……"
+    },
+    {
+        "start": 227.74,
+        "end": 233.5,
+        "english": "red wine? Wouldn't that pair well with sushi? And the attendant said no. The red wine",
+        "chinese": "红葡萄酒？那不搭配寿司吗？和侍者说不行。红葡萄酒"
+    },
+    {
+        "start": 233.5,
+        "end": 238.18,
+        "english": "would be a jarring contrast. So first of all we have this word jarring. Something",
+        "chinese": "英语：它会是出人意料的对比。所以首先我们要说的是这个词“出人意料”。"
+    },
+    {
+        "start": 238.18,
+        "end": 244.94,
+        "english": "is jarring if it's loud, shocking, abrasive, difficult, annoying. So something",
+        "chinese": "如果它响亮、刺耳、粗糙、困难、烦人的话，那么这听起来很不舒服。"
+    },
+    {
+        "start": 244.94,
+        "end": 249.94,
+        "english": "it's jarring is loud and a contrast is something that shows the",
+        "chinese": "英语：它很吵，有对比效果。"
+    },
+    {
+        "start": 249.94,
+        "end": 253.1,
+        "english": "differences in something. That's right. So when we're saying that it would be a",
+        "chinese": "英语：差异。正确吗？所以我们说，它会是……"
+    },
+    {
+        "start": 253.1,
+        "end": 257.56,
+        "english": "jarring contrast to have sushi with red wine we're saying that they're just",
+        "chinese": "我用的不是中文，而是英文。以下是翻译："
+    },
+    {
+        "start": 257.56,
+        "end": 261.46,
+        "english": "two different. Sushi is too different from the red wine flavor so they wouldn't",
+        "chinese": "两个不同的。寿司的味道与红葡萄酒的风味不同，所以他们不会喜欢。"
+    },
+    {
+        "start": 261.46,
+        "end": 265.38,
+        "english": "go well together. That's right. And since jarring means it's a bad thing we think",
+        "chinese": "一起好好相处。没错。因为“jarring”意味着我们觉得这是一种不好的事情。"
+    },
+    {
+        "start": 265.38,
+        "end": 270.38,
+        "english": "the flavor will be wrong. Bad. So we need to look for something else and the",
+        "chinese": "英语：味道会出错。不好。所以我们需要找其他东西，然后继续尝试。"
+    },
+    {
+        "start": 270.38,
+        "end": 275.98,
+        "english": "salesperson suggested a wine that has more subtle flavors, white wine. That's",
+        "chinese": "销售员建议了一款白葡萄酒，它有更微妙的风味。"
+    },
+    {
+        "start": 275.98,
+        "end": 282.02000000000004,
+        "english": "right. So this word subtle is actually spelled S-U-B-T-L-E but the B is",
+        "chinese": "正确。所以这个字“微妙”实际上是“S-U-B-T-L-E”，但B是"
+    },
+    {
+        "start": 282.02000000000004,
+        "end": 286.74,
+        "english": "silent. That's right. So we say subtle and it's actually great because it's",
+        "chinese": "英语：沉默。那正是正确的。所以我们说微妙，实际上很好因为它是"
+    },
+    {
+        "start": 286.74,
+        "end": 292.58000000000004,
+        "english": "kind of like the opposite of jarring. Something that's not jarring is subtle.",
+        "chinese": "英语：有点像反向的。不反向的是微妙的。"
+    },
+    {
+        "start": 292.58000000000004,
+        "end": 298.82,
+        "english": "Right. So it's a little bit more, I don't know, like relaxed, like not as loud.",
+        "chinese": "是的，我理解了。那么，请告诉我您需要翻译的具体内容是什么？"
+    },
+    {
+        "start": 298.82,
+        "end": 303.66,
+        "english": "It's not obvious. You have to really think about it and look for it. Something",
+        "chinese": "英语：它不显而就。你必须真的思考一下，然后寻找它。有什么东西值得你关注呢？"
+    },
+    {
+        "start": 303.66,
+        "end": 309.14000000000004,
+        "english": "that subtle is not obvious. That's right. Now talking about one specific type of",
+        "chinese": "这个点和拍是傻瓜相机。"
+    },
+    {
+        "start": 309.14000000000004,
+        "end": 314.54,
+        "english": "white wine we have a shardonnay. All right. So we know that there are many many",
+        "chinese": "英文：白葡萄酒我们有沙拉。好的，所以我们知道有很多很多。"
+    },
+    {
+        "start": 314.54,
+        "end": 317.98,
+        "english": "different kinds of wine out there but there are some very common ones and",
+        "chinese": "不同的葡萄酒种类，但有一些非常常见的和。"
+    },
+    {
+        "start": 317.98,
+        "end": 322.82000000000005,
+        "english": "shardonnay is one of those. I think shardonnay tends to be a bit fruity or",
+        "chinese": "英语：它是一个傻瓜相机。我认为Shardonnay有点水果味或不协调。"
+    },
+    {
+        "start": 322.82000000000005,
+        "end": 327.02000000000004,
+        "english": "australia has some famous shardonnays, California has some famous",
+        "chinese": "澳大利亚有一些著名的沙丁鱼，加州也有一些著名的鲨鱼。"
+    },
+    {
+        "start": 327.02000000000004,
+        "end": 330.82000000000005,
+        "english": "shardonnays. So just remember that shardonnay is a kind of white wine. That's",
+        "chinese": "shardsoney 是一种白葡萄酒。"
+    },
+    {
+        "start": 330.82,
+        "end": 334.94,
+        "english": "right. And one of the ways that they used it to describe shardonnay is that",
+        "chinese": "正确答案：英语：它像傻瓜相机一样。"
+    },
+    {
+        "start": 334.94,
+        "end": 340.26,
+        "english": "it's one of the more full-bodied whites. All right. So whites here we're talking",
+        "chinese": "这个是单反相机。一切好。所以在这里我们谈论的是白。"
+    },
+    {
+        "start": 340.26,
+        "end": 344.02,
+        "english": "about white wines but something that's full-bodied. What does that mean Marco?",
+        "chinese": "关于白葡萄酒，但有些是饱满的。那意味着什么？ Marco？"
+    },
+    {
+        "start": 344.02,
+        "end": 348.53999999999996,
+        "english": "So if a wine is full-bodied it means that it has a little bit of a stronger",
+        "chinese": "所以，如果一瓶酒是中等的，这意味着它有一些稍微强一些的味道。"
+    },
+    {
+        "start": 348.53999999999996,
+        "end": 354.3,
+        "english": "flavor like it's a more complete flavor. It's not as subtle. All right. So we know",
+        "chinese": "英语：味道像它更完整一样。不是那么微妙。好的，所以我们知道。"
+    },
+    {
+        "start": 354.3,
+        "end": 360.1,
+        "english": "that white wines are a bit more subtle than red wines in this case but within",
+        "chinese": "这个白葡萄酒比红葡萄酒要复杂一些，但总体来说还是不错的。"
+    },
+    {
+        "start": 360.1,
+        "end": 363.34000000000003,
+        "english": "white wines you can have one that's very full-bodied. So this is a great",
+        "chinese": "白葡萄酒，你可以选择一个非常饱满的。所以这是一个很好的选择。"
+    },
+    {
+        "start": 363.34000000000003,
+        "end": 367.3,
+        "english": "phrase for describing wine. We don't really talk about other things being full-bodied",
+        "chinese": "描述葡萄酒的术语。我们并不真正谈论其他事物是丰满的"
+    },
+    {
+        "start": 367.3,
+        "end": 371.38,
+        "english": "but wine can be full-bodied if it really has what you say Marco this big full",
+        "chinese": "但是红酒如果真的有你所说的那么多，那么它就会非常饱满。"
+    },
+    {
+        "start": 371.38,
+        "end": 376.38,
+        "english": "taste of grain taste. That's right. And actually the sales attendant suggested",
+        "chinese": "英语：尝一尝这麦芽糖。对，而且实际上销售员建议。"
+    },
+    {
+        "start": 376.38,
+        "end": 381.58000000000004,
+        "english": "that well since the shardonnays two or is more full-bodied then he would",
+        "chinese": "那块好，因为两三年前的那块就更厚实了。"
+    },
+    {
+        "start": 381.58000000000004,
+        "end": 387.06,
+        "english": "recommend maybe a Sauvignon Blanc. All right. So Sauvignon Blanc is the French word",
+        "chinese": "建议试一试萨维尼白。行吗？所以萨维尼白是法国语单词。"
+    },
+    {
+        "start": 387.06,
+        "end": 390.82,
+        "english": "for white but we use this all the time in English Sauvignon Blanc being the",
+        "chinese": "英文：对于白葡萄酒，我们经常使用这个。"
+    },
+    {
+        "start": 390.82,
+        "end": 396.56,
+        "english": "kind of wine. Again it's a white wine and it's a bit brighter than the",
+        "chinese": "英语：它有点像红酒。再次，它比白葡萄酒要亮一些。"
+    },
+    {
+        "start": 396.56,
+        "end": 400.14,
+        "english": "shardonnay. That's what the salesperson said. That's right. And when we're talking",
+        "chinese": "英语：它是一台傻瓜相机。"
+    },
+    {
+        "start": 400.14,
+        "end": 405.74,
+        "english": "about wines either red wines or white wines this the way to describe it or the",
+        "chinese": "关于葡萄酒，红葡萄酒或白葡萄酒。"
+    },
+    {
+        "start": 405.74,
+        "end": 410.46,
+        "english": "different varieties is actually a variety of the wines or the type of grape.",
+        "chinese": "不同的品种实际上是一种葡萄酒或葡萄的类型。"
+    },
+    {
+        "start": 410.46,
+        "end": 415.06,
+        "english": "Right. So varietal. So you think of variety varietal.",
+        "chinese": "正确。所以是品种。你认为有多种品种。"
+    },
+    {
+        "start": 415.06,
+        "end": 421.26,
+        "english": "Varietal is a specific wine word that we use to describe the kind of grape that",
+        "chinese": "英语：特级葡萄是我们在描述特定葡萄品种时使用的术语。"
+    },
+    {
+        "start": 421.26,
+        "end": 426.14,
+        "english": "go into a wine. So we know wine generally comes from grapes they're crushed",
+        "chinese": "英语：进入一瓶葡萄酒。所以我们知道葡萄酒通常来自被压碎的葡萄。"
+    },
+    {
+        "start": 426.14,
+        "end": 431.34000000000003,
+        "english": "down and then the alcohol comes from all the sugars but each different kind of",
+        "chinese": "下酒菜，然后酒精从所有糖中产生，但每种不同的调料。"
+    },
+    {
+        "start": 431.34000000000003,
+        "end": 435.58,
+        "english": "grape has a different flavor and that's the varietal the kind of grape. That's",
+        "chinese": "葡萄有不同的风味，这就是那种葡萄的品种。"
+    },
+    {
+        "start": 435.58,
+        "end": 439.46,
+        "english": "right. So just think of it as the variety of the wines that you have and its",
+        "chinese": "正确。那么就把它看作是您所拥有的葡萄酒的多样性，以及它的品质和风格。"
+    },
+    {
+        "start": 439.46,
+        "end": 444.73999999999995,
+        "english": "awards used specifically for wines and well when the attendant kept talking",
+        "chinese": "英语：授予用于葡萄酒和佳酿的奖杯。"
+    },
+    {
+        "start": 444.73999999999995,
+        "end": 449.21999999999997,
+        "english": "about the wines and the types of wines they have there he mentioned that they",
+        "chinese": "关于他们那里有哪些葡萄酒，他提到这些酒的种类。"
+    },
+    {
+        "start": 449.21999999999997,
+        "end": 454.65999999999997,
+        "english": "have a small selection in the refrigerator or in the cooler. So selection in this",
+        "chinese": "英语：有小选择在冰箱或冰柜里。所以在这里，选择应该用“在这里”或者“这里”。"
+    },
+    {
+        "start": 454.65999999999997,
+        "end": 459.9,
+        "english": "case means what the store has to offer it means all the wines that they sell.",
+        "chinese": "案例意味着什么，意味着所有他们销售的葡萄酒。"
+    },
+    {
+        "start": 459.9,
+        "end": 464.41999999999996,
+        "english": "Right. So maybe you have an extensive selection it means you have many many",
+        "chinese": "正确。所以，也许你有很多选择，这意味着你拥有很多很多。"
+    },
+    {
+        "start": 464.41999999999996,
+        "end": 468.78,
+        "english": "many different kinds to choose from but if you don't have an extensive selection",
+        "chinese": "许多不同的选项可供选择，但如果你没有广泛的选型。"
+    },
+    {
+        "start": 468.78,
+        "end": 473.9,
+        "english": "you have very few wines that means that you have fewer things to sell. That's",
+        "chinese": "你有非常少的葡萄酒，这意味着你有更多的东西要卖。"
+    },
+    {
+        "start": 473.9,
+        "end": 479.34,
+        "english": "right. So a wide selection of wines or a small selection of wines and",
+        "chinese": "正确。所以，一瓶葡萄酒或一小瓶葡萄酒的选择范围更大。"
+    },
+    {
+        "start": 479.34,
+        "end": 485.14,
+        "english": "lastly talking about varietals we also have what we call a blend a blend of a",
+        "chinese": "最后，我们还讨论了品种。我们称之为混合品，混合品由 A 和 B 两部分组成。"
+    },
+    {
+        "start": 485.14,
+        "end": 489.05999999999995,
+        "english": "few different types of grapes. All right so you can have blends of different",
+        "chinese": "几个不同的葡萄品种。好吧，你可以有各种混合的葡萄了。"
+    },
+    {
+        "start": 489.05999999999995,
+        "end": 492.61999999999995,
+        "english": "things but in terms of wine we're talking about using different grapes",
+        "chinese": "但是从葡萄酒的角度来看，我们谈论的是使用不同的葡萄。"
+    },
+    {
+        "start": 492.61999999999995,
+        "end": 496.7,
+        "english": "together to make one wine. All right so this is something that's pretty common",
+        "chinese": "一起酿制一桶酒。一切好，这是比较常见的事情。"
+    },
+    {
+        "start": 496.86,
+        "end": 501.34,
+        "english": "and it's a way to achieve different flavors. That's right so a blend you also",
+        "chinese": "和它是一种实现不同风味的方法。这就是说，你也可以通过这个组合来达到不同的口味。"
+    },
+    {
+        "start": 501.34,
+        "end": 506.7,
+        "english": "talk about it in I think whiskeys you have a blended whiskeys. That's right so",
+        "chinese": "英语：谈论一下吧，你觉得这杯威士忌有混合酒吗？那应该对。"
+    },
+    {
+        "start": 506.7,
+        "end": 510.38,
+        "english": "you can have a single malt which is one grain in one barrel or you can have a",
+        "chinese": "你可以说有一瓶一克的单一麦芽酒，或者你可以选择一瓶一公斤的混合麦芽酒。"
+    },
+    {
+        "start": 510.38,
+        "end": 514.3,
+        "english": "blend which would be different grains fermented and different barrels mixed",
+        "chinese": "混和，这将会有不同的发酵物和混合的酒桶。"
+    },
+    {
+        "start": 514.3,
+        "end": 518.8199999999999,
+        "english": "together later. Okay so a lot of great stuff here all about wines let's listen to",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 518.8199999999999,
+        "end": 521.9399999999999,
+        "english": "this dialogue one last time.",
+        "chinese": "这个对话我再说了一次。"
+    },
+    {
+        "start": 521.94,
+        "end": 530.1600000000001,
+        "english": "Hello there welcome to Wine World. Let me know if I can help you out at all. Yes",
+        "chinese": "你好，欢迎来到葡萄酒世界。如果需要帮助，请随时告诉我。是的。"
+    },
+    {
+        "start": 530.1600000000001,
+        "end": 533.6600000000001,
+        "english": "please I could really use some help. I'm going over to my boss's house for",
+        "chinese": "请允许我非常感谢。我已经准备好帮助你了。"
+    },
+    {
+        "start": 533.6600000000001,
+        "end": 538.12,
+        "english": "dinner tonight and I don't know what kind of wine I should bring. Okay do you",
+        "chinese": "今晚的晚餐和我还不太知道应该带什么酒。你呢？"
+    },
+    {
+        "start": 538.12,
+        "end": 542.6400000000001,
+        "english": "know what kind of food will be served? Well his wife is Japanese. He said she",
+        "chinese": "英语：你知道吃什么？她是个日本人。她说她会吃寿司。"
+    },
+    {
+        "start": 542.6400000000001,
+        "end": 549.2,
+        "english": "makes really good sushi. That's a bit of a challenge. Sushi is notoriously",
+        "chinese": "英语：它是个点和拍相机。那有点难。寿司是特别有名的。"
+    },
+    {
+        "start": 549.2,
+        "end": 555.5600000000001,
+        "english": "difficult to pair with wine. Well let's see it'll have to be a white wine of",
+        "chinese": "英语：难与红葡萄酒搭配。好吧，那就得是白葡萄酒了。"
+    },
+    {
+        "start": 555.5600000000001,
+        "end": 562.0,
+        "english": "course. Why wouldn't a red wine go all with sushi? No I don't think so. Sushi is",
+        "chinese": "课程。为什么一个红葡萄酒会和寿司一起吃？不是的，寿司是饭。"
+    },
+    {
+        "start": 562.0,
+        "end": 567.2,
+        "english": "a very delicately flavored food and red wine would be a jarring contrast. You need",
+        "chinese": "一个非常精致的菜肴和红葡萄酒会形成强烈的对比。你需要卸下重任。"
+    },
+    {
+        "start": 567.2,
+        "end": 572.24,
+        "english": "a white wine which has more subtle flavors to complement the fish. I see so I",
+        "chinese": "一个白色的红酒，它的味道比鱼要复杂。我看到这样，所以我。"
+    },
+    {
+        "start": 572.24,
+        "end": 576.36,
+        "english": "should get a bottle of Shardinay that's a white wine right? Yes Shardinay is a",
+        "chinese": "英语：应该得到一瓶白葡萄酒的Shadinay？是的，Shadinay是一种红酒。"
+    },
+    {
+        "start": 576.36,
+        "end": 581.88,
+        "english": "white wine but I'm not sure it'd be your best bet. Shardinay is one of the more",
+        "chinese": "英语：白葡萄酒，但我还不太确定它会是你的最佳选择。Shardinay 是一个不错的选择。"
+    },
+    {
+        "start": 581.88,
+        "end": 587.04,
+        "english": "full-bodied whites and tends to be a bit oaky. I'd suggest you go for something",
+        "chinese": "英文：全尺寸白衬衫和倾向于有点油腻。我建议你选择一件。"
+    },
+    {
+        "start": 587.04,
+        "end": 593.28,
+        "english": "brighter like this Sauvignon Blanc from New Zealand. Oh the Sauvignon Blanc what's",
+        "chinese": "这个点和拍是单反，长焦镜头。"
+    },
+    {
+        "start": 593.28,
+        "end": 598.64,
+        "english": "that? That's another varietal or type of grape just like Shardinay. Let's see the",
+        "chinese": "那？那又一个品种或类型和香农尼一样，让我们看看。"
+    },
+    {
+        "start": 598.64,
+        "end": 603.04,
+        "english": "label says it's got attractive citrus and grassy aromas that give way to crisp",
+        "chinese": "标签上写着它有柑橘和草地香气，逐渐转变为清脆。"
+    },
+    {
+        "start": 603.04,
+        "end": 608.4399999999999,
+        "english": "mineral flavors and a bone-dried finish. Serve chilled. Oh no how long will it",
+        "chinese": "英语：矿物质风味和干骨风味。请在冰镇时享用。哦，糟糕，多久才能下订单呢？"
+    },
+    {
+        "start": 608.4399999999999,
+        "end": 612.4399999999999,
+        "english": "take to chill the wine? I'm not my way to dinner now. Oh it's okay don't worry",
+        "chinese": "英语：去喝点冰茶？我现在不是我的方式了。哦，没关系，不用担心。"
+    },
+    {
+        "start": 612.4399999999999,
+        "end": 617.4,
+        "english": "we'll just choose a wine from the cooler. We don't have quite as extensive a",
+        "chinese": "我们只选择从冰箱里的一瓶酒。我们并不像有那么丰富的酒样。"
+    },
+    {
+        "start": 617.4,
+        "end": 623.16,
+        "english": "selection over here but this Rome Valley white would be lovely. All right what",
+        "chinese": "选择这里，但这个罗马尼亚白将会非常漂亮。好吧，你选哪个？"
+    },
+    {
+        "start": 623.16,
+        "end": 628.0,
+        "english": "varietal is that? Well this is a French wine so they don't always specify the",
+        "chinese": "varietal 是什么？嗯，这是法国葡萄酒，所以他们不一定总是指定品名。"
+    },
+    {
+        "start": 628.0,
+        "end": 632.56,
+        "english": "varietal on the label. The French believe that the soil a grape is grown in.",
+        "chinese": "标签上的品种是多样的。法国人认为葡萄种植的土壤不同。"
+    },
+    {
+        "start": 632.56,
+        "end": 636.7199999999999,
+        "english": "It's one of the most important factors in the final flavor of the wine. This",
+        "chinese": "这个是葡萄酒中最重要的一个因素。"
+    },
+    {
+        "start": 636.7199999999999,
+        "end": 642.16,
+        "english": "wine is probably a blend of a few different types of grapes. Mostly Viennier I",
+        "chinese": "葡萄酒很可能是几种不同品种葡萄混合的。多为维尼翁1号。"
+    },
+    {
+        "start": 642.16,
+        "end": 647.04,
+        "english": "guess. And you think this is a good wine? Yes this is one of our best sellers. It's",
+        "chinese": "英语：猜。你认为这是个好酒吗？是的，这是我们最好的卖点之一。"
+    },
+    {
+        "start": 647.04,
+        "end": 651.28,
+        "english": "not quite as dry as the Sauvignon Blanc we were looking at earlier which means",
+        "chinese": "英语：不完全像我们之前看中的萨维尼白，这意味着。"
+    },
+    {
+        "start": 651.28,
+        "end": 655.8399999999999,
+        "english": "it's more approachable. It's light and crisp with a bit of a vanilla aroma.",
+        "chinese": "英语：它更接近点和拍。它轻薄且清晰，带有些许香料的香气。"
+    },
+    {
+        "start": 655.84,
+        "end": 664.2,
+        "english": "Perfect I'll take it. All right so obviously there are a lot more",
+        "chinese": "英语：完美，我会接受。很明显，有很多更多的事情需要处理。"
+    },
+    {
+        "start": 664.2,
+        "end": 669.76,
+        "english": "varietals out there. We only talked about two types of wines. We had a",
+        "chinese": "英语：各种各样的葡萄酒。我们只谈了两种类型的葡萄酒。我们讨论了红葡萄酒和白葡萄酒。"
+    },
+    {
+        "start": 669.76,
+        "end": 673.12,
+        "english": "Chardonnay and Sauvignon Blanc. That's right and the only wines we talked about",
+        "chinese": "白诗南和香槟。没错，我们讨论的只是这些酒"
+    },
+    {
+        "start": 673.12,
+        "end": 677.08,
+        "english": "were white wines of course there's a whole world of red wines out there and",
+        "chinese": "英语：当然，这里有一个世界上所有的红葡萄酒。"
+    },
+    {
+        "start": 677.08,
+        "end": 682.36,
+        "english": "then between red and white you have rosé. Those pink wines. Those pink wines",
+        "chinese": "然后在红色和白色之间，你有罗塞。那些粉色的葡萄酒。那些粉色的葡萄酒。"
+    },
+    {
+        "start": 682.36,
+        "end": 688.5600000000001,
+        "english": "yeah. But actually it's interesting because this the culture of drinking wine is",
+        "chinese": "英语：是啊。不过实际上，这很有趣，因为这个饮酒文化如此之盛。"
+    },
+    {
+        "start": 688.5600000000001,
+        "end": 693.64,
+        "english": "not as as extensive as we think it is. In many parts of the world they don't",
+        "chinese": "英语：它不像我们想象的那样全面。在许多地方，它们并不如我们所想的那么全面。"
+    },
+    {
+        "start": 693.64,
+        "end": 697.44,
+        "english": "they're not really used to drinking wine. That's right but then you go to places",
+        "chinese": "他们并不真正喜欢喝酒。那倒是，然后你去那边吧。"
+    },
+    {
+        "start": 697.44,
+        "end": 702.04,
+        "english": "like France and Italy and South America like Argentina, Chile and you",
+        "chinese": "英语：像法国、意大利和南美洲的阿根廷、智利和你一样。"
+    },
+    {
+        "start": 702.04,
+        "end": 706.4,
+        "english": "experience these different cultures of wine that are quite I think quite",
+        "chinese": "这让我想起了葡萄酒的不同文化，我认为很有趣。"
+    },
+    {
+        "start": 706.4,
+        "end": 710.8000000000001,
+        "english": "interesting because they're so different. Yeah that's right and it's become",
+        "chinese": "英语：有趣的是，它们如此不同。嗯，那真是对的，它已经成为……"
+    },
+    {
+        "start": 710.8,
+        "end": 716.76,
+        "english": "even healthy to drink wine. Medical tests show that if you have one glass of",
+        "chinese": "即使是健康的可以喝酒。医学测试显示，如果你有一杯酒，那么你可能健康。"
+    },
+    {
+        "start": 716.76,
+        "end": 721.04,
+        "english": "wine with dinner every day it reduces your chances of heart disease. That's",
+        "chinese": "英语：红酒每天都有，有助于降低心脏病的风险。"
+    },
+    {
+        "start": 721.04,
+        "end": 724.92,
+        "english": "right there's some special ingredient I'm not sure what it is but I obviously",
+        "chinese": "在那儿，我有些特别的成分我不太确定是什么，但我明显知道它。"
+    },
+    {
+        "start": 724.92,
+        "end": 728.0799999999999,
+        "english": "don't want to drink too much. If you have a little bit it's good for your heart.",
+        "chinese": "英语：不要喝太多。如果你有一点点的话，对心脏有益。"
+    },
+    {
+        "start": 728.0799999999999,
+        "end": 731.68,
+        "english": "I think red wine they say is a fear of heart. Yeah red wine. So it's interesting",
+        "chinese": "英语：我认为红葡萄酒他们说是一种心痛。是的，红葡萄酒。所以很有趣。"
+    },
+    {
+        "start": 731.68,
+        "end": 735.3199999999999,
+        "english": "but obviously maybe in your countries you don't drink wine or maybe you have a",
+        "chinese": "但是，也许在你的国家里你可能不会喝酒或者你可能有某种习惯。"
+    },
+    {
+        "start": 735.3199999999999,
+        "end": 740.1999999999999,
+        "english": "particular type of wine like in China they have isn't it plum wine?",
+        "chinese": "英语：特定类型如中国的 Plum 红葡萄酒，是不是不是呢？"
+    },
+    {
+        "start": 740.2,
+        "end": 744.12,
+        "english": "Or rice wine? Rice wine in China and plum wine I think in Japan.",
+        "chinese": "英语：或者米饭酒？在中国，我认为是 Plum 酱。"
+    },
+    {
+        "start": 744.12,
+        "end": 748.36,
+        "english": "In Japan. So maybe you have a specific type of wine that you want to let us know",
+        "chinese": "英语：在日本。所以也许你想要告诉我们你想要的特定类型葡萄酒。"
+    },
+    {
+        "start": 748.36,
+        "end": 751.2,
+        "english": "about and of course if you have any questions or comments we're always there.",
+        "chinese": "关于和当然，如果您有任何问题或反馈，请随时联系我们。"
+    },
+    {
+        "start": 751.2,
+        "end": 754.32,
+        "english": "Check us out at EnglishPod.com. Alright we'll see you get there. Bye.",
+        "chinese": "英语：查看我们在这里的英文版。好了，见你了。再见。"
+    }
+]

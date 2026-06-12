@@ -1,0 +1,1550 @@
+[
+    {
+        "start": 0.0,
+        "end": 5.5200000000000005,
+        "english": "Hello English learners, welcome back to EnglishPod, my name is Marco.",
+        "chinese": "您好英语学习者，欢迎再次来到英语pod，我的名字是马科。"
+    },
+    {
+        "start": 5.5200000000000005,
+        "end": 6.84,
+        "english": "And I'm Erica.",
+        "chinese": "我是艾瑞克。"
+    },
+    {
+        "start": 6.84,
+        "end": 11.18,
+        "english": "And we're bringing you another great elementary lesson for all our elementary learners.",
+        "chinese": "并且我们为您带来另一个非常棒的初级课程，供所有我们的初级学习者。"
+    },
+    {
+        "start": 11.18,
+        "end": 13.84,
+        "english": "You know what Marco, I think this lesson is so useful.",
+        "chinese": "英语：你了解这个，我想这节课非常有用。"
+    },
+    {
+        "start": 13.84,
+        "end": 17.16,
+        "english": "This is language that you can actually use every single day.",
+        "chinese": "这个是你可以每天用的语言。"
+    },
+    {
+        "start": 17.16,
+        "end": 18.48,
+        "english": "Exactly, every day.",
+        "chinese": "是的，每天。"
+    },
+    {
+        "start": 18.48,
+        "end": 21.76,
+        "english": "Exactly, because today we're going to be teaching you small talk.",
+        "chinese": "是的，因为今天我们将教你小谈。"
+    },
+    {
+        "start": 21.76,
+        "end": 23.92,
+        "english": "So what is small talk?",
+        "chinese": "英语：所以小话题是什么？"
+    },
+    {
+        "start": 23.92,
+        "end": 27.84,
+        "english": "Well, small talk is small conversations that you would have with people that you don't",
+        "chinese": "小话是与你不认识的人进行的小对话，而不是真正的交谈。"
+    },
+    {
+        "start": 27.84,
+        "end": 30.64,
+        "english": "know very well, but you still want to be polite.",
+        "chinese": "英语：知道非常清楚，但你还是想礼貌。"
+    },
+    {
+        "start": 30.64,
+        "end": 31.64,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 31.64,
+        "end": 33.92,
+        "english": "And you want to maybe just chat a little bit.",
+        "chinese": "你可能想聊点什么。"
+    },
+    {
+        "start": 33.92,
+        "end": 35.72,
+        "english": "Okay, so let's listen to our dialogue.",
+        "chinese": "好的，现在让我们听我们的对话。"
+    },
+    {
+        "start": 35.72,
+        "end": 39.08,
+        "english": "And as always, it's going to be a little bit fast, but don't worry about it.",
+        "chinese": "而且总是会很慢，但别担心。"
+    },
+    {
+        "start": 39.08,
+        "end": 42.480000000000004,
+        "english": "Because welcome back in a minute and help you with some of the difficult language.",
+        "chinese": "因为稍等片刻，帮助你解决一些困难的语言问题。"
+    },
+    {
+        "start": 51.68,
+        "end": 52.68,
+        "english": "Morning.",
+        "chinese": "早晨。"
+    },
+    {
+        "start": 52.68,
+        "end": 54.28,
+        "english": "Hi there, Mr. Anderson.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 54.28,
+        "end": 56.08,
+        "english": "How are you in this fine morning?",
+        "chinese": "英语：你今天好呢？"
+    },
+    {
+        "start": 56.08,
+        "end": 56.84,
+        "english": "Fine.",
+        "chinese": "英语：很好。"
+    },
+    {
+        "start": 56.84,
+        "end": 57.68,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 57.84,
+        "end": 59.84,
+        "english": "It sure is cold this morning, isn't it?",
+        "chinese": "英语：今天早上真是冷啊，不是吗？"
+    },
+    {
+        "start": 59.84,
+        "end": 61.760000000000005,
+        "english": "I barely even got out of bed.",
+        "chinese": "我几乎没睡醒。"
+    },
+    {
+        "start": 61.760000000000005,
+        "end": 64.16,
+        "english": "Yeah, it's pretty cold all right.",
+        "chinese": "是的，它挺冷的。"
+    },
+    {
+        "start": 64.16,
+        "end": 66.0,
+        "english": "Did you catch the news this morning?",
+        "chinese": "英语：你今天早上有没有看新闻？"
+    },
+    {
+        "start": 66.0,
+        "end": 68.92,
+        "english": "I heard that there was a fire in Byron Street.",
+        "chinese": "我听说伯里街有火灾。"
+    },
+    {
+        "start": 68.92,
+        "end": 71.04,
+        "english": "No, I didn't hear about that.",
+        "chinese": "是的，我没有听说过那个。"
+    },
+    {
+        "start": 71.04,
+        "end": 73.36,
+        "english": "Did you happen to watch the football game last night?",
+        "chinese": "英语：你昨晚是否看了昨晚的足球比赛？"
+    },
+    {
+        "start": 73.36,
+        "end": 75.68,
+        "english": "The Patriots scored in the last minute.",
+        "chinese": "足球队在最后一分钟得分。"
+    },
+    {
+        "start": 75.68,
+        "end": 77.92,
+        "english": "No, I don't like football.",
+        "chinese": "英语：不，我不喜欢足球。"
+    },
+    {
+        "start": 77.92,
+        "end": 82.16,
+        "english": "Oh, oh, by the way, I saw you with your daughter at the office Christmas party.",
+        "chinese": "英语：哦，哦，抱歉，我刚才在办公室圣诞派对上遇见了你。"
+    },
+    {
+        "start": 82.16,
+        "end": 83.56,
+        "english": "She's really beautiful.",
+        "chinese": "她真的很漂亮。"
+    },
+    {
+        "start": 83.56,
+        "end": 84.56,
+        "english": "She's my wife.",
+        "chinese": "她是我妻子。"
+    },
+    {
+        "start": 84.56,
+        "end": 86.12,
+        "english": "Oh, here's my floor.",
+        "chinese": "英语：哦，这里是我的地板。"
+    },
+    {
+        "start": 86.12,
+        "end": 87.32000000000001,
+        "english": "Nice talking to you.",
+        "chinese": "英语：你好，很高兴见到你。"
+    },
+    {
+        "start": 87.32,
+        "end": 88.32,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 88.32,
+        "end": 89.47999999999999,
+        "english": "Oh, sir, this is the 50s.",
+        "chinese": "英语：哦，先生，这是五十年代。"
+    },
+    {
+        "start": 89.47999999999999,
+        "end": 90.47999999999999,
+        "english": "Take four.",
+        "chinese": "英语：Take four."
+    },
+    {
+        "start": 90.47999999999999,
+        "end": 91.47999999999999,
+        "english": "We're on the 70s.",
+        "chinese": "我们是在七十年代。"
+    },
+    {
+        "start": 91.47999999999999,
+        "end": 92.47999999999999,
+        "english": "That's OK.",
+        "chinese": "没问题。"
+    },
+    {
+        "start": 92.47999999999999,
+        "end": 94.47999999999999,
+        "english": "I'll take the stairs.",
+        "chinese": "我会用楼梯。"
+    },
+    {
+        "start": 94.47999999999999,
+        "end": 101.11999999999999,
+        "english": "OK, I think this guy was a little bit annoying.",
+        "chinese": "好的，我认为这个人有点不耐烦。"
+    },
+    {
+        "start": 101.11999999999999,
+        "end": 104.56,
+        "english": "Yeah, Mr. Anderson really didn't want to talk to him, did he?",
+        "chinese": "是的，先生，他真的不想和你交谈，对吗？"
+    },
+    {
+        "start": 104.56,
+        "end": 106.03999999999999,
+        "english": "Yeah, I think that was pretty obvious.",
+        "chinese": "是的，我觉得那很显然。"
+    },
+    {
+        "start": 106.03999999999999,
+        "end": 107.83999999999999,
+        "english": "He left the elevator in a hurry.",
+        "chinese": "英语：他匆忙地上了电梯。"
+    },
+    {
+        "start": 107.83999999999999,
+        "end": 112.44,
+        "english": "OK, let's take a look at our language today in language takeaway.",
+        "chinese": "好的，让我们今天在语言小贴士中看看我们的语言。"
+    },
+    {
+        "start": 112.44,
+        "end": 113.44,
+        "english": "Language takeaway.",
+        "chinese": "语言带走"
+    },
+    {
+        "start": 113.44,
+        "end": 114.75999999999999,
+        "english": "All right.",
+        "chinese": "英语：一切好。"
+    },
+    {
+        "start": 114.75999999999999,
+        "end": 116.16,
+        "english": "What do we have today in language takeaway?",
+        "chinese": "今天在语言取向上，我们有什么？"
+    },
+    {
+        "start": 116.16,
+        "end": 120.88,
+        "english": "Well, we've got four words and phrases, and our first one is barely even.",
+        "chinese": "英语：嗯，我们有四个词和短语，我们的第一个词是几乎甚至。"
+    },
+    {
+        "start": 120.88,
+        "end": 122.24,
+        "english": "Barely even.",
+        "chinese": "几乎。"
+    },
+    {
+        "start": 122.24,
+        "end": 123.36,
+        "english": "Barely even.",
+        "chinese": "几乎。"
+    },
+    {
+        "start": 123.36,
+        "end": 125.16,
+        "english": "So how do we use barely even?",
+        "chinese": "所以我们如何使用几乎一点？"
+    },
+    {
+        "start": 125.16,
+        "end": 126.12,
+        "english": "It's a little bit difficult.",
+        "chinese": "英语：它有点难。"
+    },
+    {
+        "start": 126.12,
+        "end": 131.28,
+        "english": "It's really similar to almost couldn't or almost nothing or almost can't.",
+        "chinese": "英语：它真的很像几乎不能或者几乎什么都做不到。"
+    },
+    {
+        "start": 131.28,
+        "end": 134.04,
+        "english": "So we use it usually in a negative sense.",
+        "chinese": "所以我们通常会用它在负面意义上。"
+    },
+    {
+        "start": 134.04,
+        "end": 139.24,
+        "english": "For example, I could say I was so busy today I could barely even eat my lunch.",
+        "chinese": "例如，我可以说今天我太忙了，连吃饭都吃不了。"
+    },
+    {
+        "start": 139.24,
+        "end": 145.16,
+        "english": "OK, so I can maybe say it was so dark I could barely even see.",
+        "chinese": "好的，那么请告诉我您需要翻译的英文句子。"
+    },
+    {
+        "start": 145.16,
+        "end": 146.07999999999998,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 146.08,
+        "end": 147.08,
+        "english": "OK.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 147.08,
+        "end": 151.16000000000003,
+        "english": "Yeah, or I'm so poor I can barely even pay my rent.",
+        "chinese": "是的，或者我太穷了连付房租都难。"
+    },
+    {
+        "start": 151.16000000000003,
+        "end": 152.64000000000001,
+        "english": "OK, good.",
+        "chinese": "好的，很好。"
+    },
+    {
+        "start": 152.64000000000001,
+        "end": 153.64000000000001,
+        "english": "Barely even.",
+        "chinese": "几乎。"
+    },
+    {
+        "start": 153.64000000000001,
+        "end": 156.48000000000002,
+        "english": "All right, let's take a look at our next one.",
+        "chinese": "好的，让我们看看我们的下一个。"
+    },
+    {
+        "start": 156.48000000000002,
+        "end": 157.48000000000002,
+        "english": "Catch.",
+        "chinese": "抓住。"
+    },
+    {
+        "start": 157.48000000000002,
+        "end": 158.48000000000002,
+        "english": "Catch.",
+        "chinese": "抓住。"
+    },
+    {
+        "start": 158.48000000000002,
+        "end": 159.48000000000002,
+        "english": "Catch.",
+        "chinese": "抓住。"
+    },
+    {
+        "start": 159.48000000000002,
+        "end": 161.0,
+        "english": "Did you catch the news?",
+        "chinese": "英语：你是不是看到了新闻？"
+    },
+    {
+        "start": 161.0,
+        "end": 164.36,
+        "english": "So by did you catch the news, you mean did you hear the news?",
+        "chinese": "英语：所以你是不是真的听到了新闻，你是不是真的看到了新闻？"
+    },
+    {
+        "start": 164.36,
+        "end": 165.36,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 165.36,
+        "end": 166.52,
+        "english": "So how else can we use this?",
+        "chinese": "所以，我们如何使用这个？"
+    },
+    {
+        "start": 166.52,
+        "end": 167.68,
+        "english": "Did you catch?",
+        "chinese": "您是否看到了？"
+    },
+    {
+        "start": 167.68,
+        "end": 170.56,
+        "english": "A really common one is I didn't catch your name.",
+        "chinese": "一个很常见的例子是我不记得你的名字了。"
+    },
+    {
+        "start": 170.56,
+        "end": 171.96,
+        "english": "Yeah, I didn't hear your name.",
+        "chinese": "是的，我没听到你的名字。"
+    },
+    {
+        "start": 171.96,
+        "end": 172.96,
+        "english": "I didn't hear your name.",
+        "chinese": "我听不到你的名字。"
+    },
+    {
+        "start": 172.96,
+        "end": 173.96,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 173.96,
+        "end": 176.20000000000002,
+        "english": "I also say I didn't catch what he said.",
+        "chinese": "我也是说我没有听清楚他说的是什么。"
+    },
+    {
+        "start": 176.20000000000002,
+        "end": 177.44,
+        "english": "I didn't catch what he said.",
+        "chinese": "我没能听清楚你说的话。"
+    },
+    {
+        "start": 177.44,
+        "end": 178.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 178.44,
+        "end": 179.44,
+        "english": "So I didn't hear.",
+        "chinese": "所以，我没有听到。"
+    },
+    {
+        "start": 179.44,
+        "end": 180.44,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 180.44,
+        "end": 181.44,
+        "english": "OK, let's look at our next word.",
+        "chinese": "好的，让我们看看我们的下一个单词。"
+    },
+    {
+        "start": 181.44,
+        "end": 182.44,
+        "english": "By the way.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 182.44,
+        "end": 183.44,
+        "english": "By the way.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 183.44,
+        "end": 184.44,
+        "english": "By the way.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 184.44,
+        "end": 185.44,
+        "english": "By the way.",
+        "chinese": "英语：顺便说一句。"
+    },
+    {
+        "start": 185.44,
+        "end": 191.4,
+        "english": "OK, so let's listen to some examples first of how we can use by the way and then we'll",
+        "chinese": "好的，那么让我们先听听我们如何使用这个方式，然后我们将："
+    },
+    {
+        "start": 191.4,
+        "end": 193.84,
+        "english": "come back and talk more about it.",
+        "chinese": "再见，继续讨论。"
+    },
+    {
+        "start": 193.84,
+        "end": 196.68,
+        "english": "Example one.",
+        "chinese": "Example one: 一台单反相机。"
+    },
+    {
+        "start": 196.68,
+        "end": 198.4,
+        "english": "Are you going to be at the meeting today?",
+        "chinese": "是吗？你今天要去开会吗？"
+    },
+    {
+        "start": 198.4,
+        "end": 199.68,
+        "english": "Yeah, I'll be there.",
+        "chinese": "是的，我将前往。"
+    },
+    {
+        "start": 199.68,
+        "end": 202.88,
+        "english": "Oh, by the way, did you hear what happened today?",
+        "chinese": "英语：哦，顺便问一下，你今天听到了什么？"
+    },
+    {
+        "start": 203.88,
+        "end": 205.88,
+        "english": "Example two.",
+        "chinese": "这个例子。"
+    },
+    {
+        "start": 208.88,
+        "end": 213.88,
+        "english": "By the way, I almost forgot to tell you Maggie called.",
+        "chinese": "英语：顺便说一句，我差点忘了告诉你，马吉尔打电话去了。"
+    },
+    {
+        "start": 216.88,
+        "end": 223.88,
+        "english": "OK, so I see that when we say by the way, we're introducing a point after we've already",
+        "chinese": "好的，所以我说“顺便说一下”，我们已经提到过之后，我们是在介绍一个点。"
+    },
+    {
+        "start": 223.88,
+        "end": 224.88,
+        "english": "talked about something.",
+        "chinese": "英语：谈论了什么。"
+    },
+    {
+        "start": 224.88,
+        "end": 225.88,
+        "english": "Exactly.",
+        "chinese": "正确答案是： \"Exactly.\" 在中文中可以翻译为 \"正好。\" 或者更简洁地表达为 \"完全准确的。\" 但在实际语境下，通常会使用 \"正好\" 来表示。"
+    },
+    {
+        "start": 225.88,
+        "end": 228.88,
+        "english": "And maybe it's not even related to the topic we were talking about.",
+        "chinese": "而且，它可能与我们讨论的话题无关。"
+    },
+    {
+        "start": 228.88,
+        "end": 229.88,
+        "english": "No, it's a different topic.",
+        "chinese": "是的，这是一个不同的话题。"
+    },
+    {
+        "start": 229.88,
+        "end": 230.88,
+        "english": "Different topic, right?",
+        "chinese": "不同的话题，对吗？"
+    },
+    {
+        "start": 230.88,
+        "end": 233.88,
+        "english": "It's like saying, oh, I almost forgot to tell you.",
+        "chinese": "英语：它就像在说，哦，我几乎忘了告诉你。"
+    },
+    {
+        "start": 233.88,
+        "end": 234.88,
+        "english": "Exactly.",
+        "chinese": "正好。"
+    },
+    {
+        "start": 234.88,
+        "end": 237.16,
+        "english": "So it's like, oh, Erica, don't forget we have a meeting today.",
+        "chinese": "英语：所以啊，艾瑞克，别忘了今天有会儿。"
+    },
+    {
+        "start": 237.16,
+        "end": 239.79999999999998,
+        "english": "Oh, and by the way, I like your new haircut.",
+        "chinese": "英语：哦，而且顺便说一下，我非常喜欢你的新发型。"
+    },
+    {
+        "start": 239.79999999999998,
+        "end": 240.79999999999998,
+        "english": "Thanks, Marco.",
+        "chinese": "谢谢，马克。"
+    },
+    {
+        "start": 240.79999999999998,
+        "end": 241.79999999999998,
+        "english": "All right, see?",
+        "chinese": "好的，看！"
+    },
+    {
+        "start": 241.79999999999998,
+        "end": 243.79999999999998,
+        "english": "That's the way you would use by the way.",
+        "chinese": "这个傻瓜相机怎么用？"
+    },
+    {
+        "start": 243.79999999999998,
+        "end": 246.32,
+        "english": "OK, and our last word on language takeaway.",
+        "chinese": "好的，我明白了。请告诉我下一个需要翻译的句子或段落。"
+    },
+    {
+        "start": 246.32,
+        "end": 247.32,
+        "english": "Take the stairs.",
+        "chinese": "请使用中文翻译："
+    },
+    {
+        "start": 247.32,
+        "end": 248.32,
+        "english": "Take the stairs.",
+        "chinese": "请使用中文翻译："
+    },
+    {
+        "start": 248.32,
+        "end": 249.32,
+        "english": "Take the stairs.",
+        "chinese": "请使用中文翻译："
+    },
+    {
+        "start": 249.32,
+        "end": 250.32,
+        "english": "Take the stairs.",
+        "chinese": "请使用中文翻译："
+    },
+    {
+        "start": 250.32,
+        "end": 252.32,
+        "english": "So it doesn't mean you're going to take them somewhere.",
+        "chinese": "所以它并不意味着你打算把他们带到哪里。"
+    },
+    {
+        "start": 252.32,
+        "end": 255.2,
+        "english": "No, no, no, no, you're not taking them home with you.",
+        "chinese": "不，不，不，不，你不是带着他们回家的。"
+    },
+    {
+        "start": 255.2,
+        "end": 257.15999999999997,
+        "english": "It means you're going to go up the stairs.",
+        "chinese": "这句话意味着你将要上楼。"
+    },
+    {
+        "start": 257.15999999999997,
+        "end": 259.36,
+        "english": "OK, so take the stairs.",
+        "chinese": "好的，那么走楼梯。"
+    },
+    {
+        "start": 259.36,
+        "end": 264.0,
+        "english": "Yes, a lot of people might say use the stairs or go up the stairs.",
+        "chinese": "是的，很多人可能会说使用楼梯或上楼。"
+    },
+    {
+        "start": 264.0,
+        "end": 266.6,
+        "english": "But our English pod learners, they know, right?",
+        "chinese": "但是我们的英语学习者，他们知道吗？"
+    },
+    {
+        "start": 266.6,
+        "end": 268.32,
+        "english": "To use take the stairs.",
+        "chinese": "使用乘坐楼梯。"
+    },
+    {
+        "start": 268.32,
+        "end": 268.84000000000003,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 268.84000000000003,
+        "end": 269.92,
+        "english": "Take the stairs.",
+        "chinese": "请使用中文翻译："
+    },
+    {
+        "start": 269.92,
+        "end": 272.84000000000003,
+        "english": "OK, so now we're ready to listen to our dialogue again.",
+        "chinese": "好的，现在我们来听我们的对话。"
+    },
+    {
+        "start": 272.84000000000003,
+        "end": 274.40000000000003,
+        "english": "We're going to slow it down a little bit.",
+        "chinese": "我们打算稍微减速一下。"
+    },
+    {
+        "start": 274.40000000000003,
+        "end": 277.2,
+        "english": "And this will help you to catch these phrases a little bit better.",
+        "chinese": "而且，这将帮助你更好地捕捉这些短语。"
+    },
+    {
+        "start": 277.2,
+        "end": 287.2,
+        "english": "Morning.",
+        "chinese": "早上。"
+    },
+    {
+        "start": 287.2,
+        "end": 291.68,
+        "english": "Hi there, Mr. Anderson.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 291.68,
+        "end": 294.24,
+        "english": "How are you on this fine morning?",
+        "chinese": "英语：你今天好呢？"
+    },
+    {
+        "start": 294.24,
+        "end": 295.24,
+        "english": "Fine.",
+        "chinese": "英语：很好。"
+    },
+    {
+        "start": 295.24,
+        "end": 296.24,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 296.24,
+        "end": 299.2,
+        "english": "It sure is cold this morning, isn't it?",
+        "chinese": "英语：今天早上真是冷啊，不是吗？"
+    },
+    {
+        "start": 299.2,
+        "end": 301.28,
+        "english": "I barely even got out of bed.",
+        "chinese": "我几乎没睡醒。"
+    },
+    {
+        "start": 301.28,
+        "end": 305.0,
+        "english": "Yeah, it's pretty cold, all right?",
+        "chinese": "是的，它挺冷的，对吧？"
+    },
+    {
+        "start": 305.0,
+        "end": 307.28,
+        "english": "Did you catch the news this morning?",
+        "chinese": "英语：你今天早上是否看到了新闻？"
+    },
+    {
+        "start": 307.28,
+        "end": 310.28,
+        "english": "I heard that there was a fire in Byron Street.",
+        "chinese": "我听说在伯里昂街有一场火灾。"
+    },
+    {
+        "start": 310.28,
+        "end": 313.6,
+        "english": "No, I didn't hear about that.",
+        "chinese": "是的，我没有听说过那个。"
+    },
+    {
+        "start": 313.6,
+        "end": 316.28,
+        "english": "Did you happen to watch the football game last night?",
+        "chinese": "英语：你昨晚是否看了昨晚的足球比赛？"
+    },
+    {
+        "start": 316.28,
+        "end": 318.72,
+        "english": "The Patriots scored in the last minute.",
+        "chinese": "足球队在最后时刻得分。"
+    },
+    {
+        "start": 318.72,
+        "end": 321.28,
+        "english": "No, I don't like football.",
+        "chinese": "是的，我不喜欢足球。"
+    },
+    {
+        "start": 321.28,
+        "end": 326.8,
+        "english": "Oh, oh, by the way, I saw you with your daughter at the Oppas Christmas party.",
+        "chinese": "英语：哦，哦，抱歉，我看到你和你的女儿在奥普圣诞派对上。"
+    },
+    {
+        "start": 326.8,
+        "end": 328.84,
+        "english": "She's really beautiful.",
+        "chinese": "她真的很漂亮。"
+    },
+    {
+        "start": 328.84,
+        "end": 330.24,
+        "english": "She's my wife.",
+        "chinese": "她是我妻子。"
+    },
+    {
+        "start": 330.24,
+        "end": 332.36,
+        "english": "Oh, here's my floor.",
+        "chinese": "英语：哦，这里是我的地板。"
+    },
+    {
+        "start": 332.36,
+        "end": 334.0,
+        "english": "Nice talking to you.",
+        "chinese": "很高兴和你聊天。"
+    },
+    {
+        "start": 334.0,
+        "end": 335.0,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 335.0,
+        "end": 337.52,
+        "english": "Oh, sir, this is the 56th floor.",
+        "chinese": "英语：哦，先生，这是第五十六层楼。"
+    },
+    {
+        "start": 337.52,
+        "end": 339.04,
+        "english": "We're on the 70th.",
+        "chinese": "我们是在第70位。"
+    },
+    {
+        "start": 339.04,
+        "end": 340.04,
+        "english": "That's okay.",
+        "chinese": "英语：那没问题。"
+    },
+    {
+        "start": 340.04,
+        "end": 342.04,
+        "english": "I'll take the stairs.",
+        "chinese": "我会用楼梯。"
+    },
+    {
+        "start": 342.04,
+        "end": 353.04,
+        "english": "Okay, so now let's take a look at ways to start up some small talk and putting it together.",
+        "chinese": "好的，现在让我们看看如何开始一些小话题的讨论，并将它们整合在一起。"
+    },
+    {
+        "start": 353.04,
+        "end": 355.08,
+        "english": "Putting it together.",
+        "chinese": "将它组装起来。"
+    },
+    {
+        "start": 355.08,
+        "end": 361.04,
+        "english": "So Marco, today we've got some great patterns or structures that you can use in your small",
+        "chinese": "英语：所以马科，今天我们有了一些很棒的结构或图案，你可以用在你的小项目中。"
+    },
+    {
+        "start": 361.04,
+        "end": 362.04,
+        "english": "talk.",
+        "chinese": "英语：talk."
+    },
+    {
+        "start": 362.04,
+        "end": 363.04,
+        "english": "Yeah, exactly.",
+        "chinese": "是的，正好。"
+    },
+    {
+        "start": 363.04,
+        "end": 364.04,
+        "english": "Great patterns.",
+        "chinese": "好的，以下是“Great patterns”这句话的翻译："
+    },
+    {
+        "start": 364.04,
+        "end": 365.04,
+        "english": "Let's start with the first one.",
+        "chinese": "好的，我将为您翻译成中文："
+    },
+    {
+        "start": 365.04,
+        "end": 367.20000000000005,
+        "english": "It sure is cold this morning.",
+        "chinese": "英语：今天早上真冷。"
+    },
+    {
+        "start": 367.20000000000005,
+        "end": 369.44,
+        "english": "It sure is cold.",
+        "chinese": "英语：它确实很冷。"
+    },
+    {
+        "start": 369.44,
+        "end": 370.92,
+        "english": "It sure is cold.",
+        "chinese": "英语：它确实很冷。"
+    },
+    {
+        "start": 370.92,
+        "end": 372.52000000000004,
+        "english": "It sure is cold.",
+        "chinese": "英语：它确实很冷。"
+    },
+    {
+        "start": 372.52000000000004,
+        "end": 377.84000000000003,
+        "english": "Okay, so we can change it up a little bit and say it sure is hot.",
+        "chinese": "好的，那么我们来试试这个句子：Okay, so we can change it up a little bit and say it sure is hot."
+    },
+    {
+        "start": 377.84000000000003,
+        "end": 379.64000000000004,
+        "english": "Or it sure is late.",
+        "chinese": "英语：或者它肯定很晚。"
+    },
+    {
+        "start": 379.64000000000004,
+        "end": 382.52000000000004,
+        "english": "Okay, this sure is interesting.",
+        "chinese": "好的，这真是有趣。"
+    },
+    {
+        "start": 382.52000000000004,
+        "end": 385.04,
+        "english": "Or you could say he sure is smart.",
+        "chinese": "英语：或者你可以说他确实聪明。"
+    },
+    {
+        "start": 385.04,
+        "end": 388.28000000000003,
+        "english": "So basically you can change the adjective.",
+        "chinese": "所以基本上你可以说换了副词。"
+    },
+    {
+        "start": 388.28000000000003,
+        "end": 389.28000000000003,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 389.28000000000003,
+        "end": 390.52000000000004,
+        "english": "Cold, hot, smart, hard, difficult.",
+        "chinese": "英语：冷，热，聪明，硬，困难。"
+    },
+    {
+        "start": 390.52,
+        "end": 396.59999999999997,
+        "english": "And when you say sure is, this is a great way of emphasizing that you believe this adjective",
+        "chinese": "当你说“是的”时，这正是强调你相信这个形容词的一种好方法。"
+    },
+    {
+        "start": 396.59999999999997,
+        "end": 397.59999999999997,
+        "english": "to be true.",
+        "chinese": "正确答案：to be true."
+    },
+    {
+        "start": 397.59999999999997,
+        "end": 398.59999999999997,
+        "english": "Okay, sure is.",
+        "chinese": "好的，当然。"
+    },
+    {
+        "start": 398.59999999999997,
+        "end": 400.35999999999996,
+        "english": "Now what would be the answer to this?",
+        "chinese": "现在你想要我为你解答这个问题吗？"
+    },
+    {
+        "start": 400.35999999999996,
+        "end": 406.28,
+        "english": "Well, in the dialogue, Mr. Anderson said, yeah, it's pretty cold, all right.",
+        "chinese": "英语：嗯，对话中，先生说，是挺冷的，对吧。"
+    },
+    {
+        "start": 406.28,
+        "end": 408.0,
+        "english": "It's pretty cold, all right.",
+        "chinese": "英语：它很冷，对吧。"
+    },
+    {
+        "start": 408.0,
+        "end": 409.79999999999995,
+        "english": "It's pretty cold, all right.",
+        "chinese": "英语：它很冷，对吧。"
+    },
+    {
+        "start": 409.79999999999995,
+        "end": 415.52,
+        "english": "So again, using the examples we used before, we can say, oh, it's pretty hot, all right?",
+        "chinese": "所以，再次使用我们之前的例子，我们可以这么说，嗯，天气很热，行吗？"
+    },
+    {
+        "start": 415.52,
+        "end": 417.44,
+        "english": "Or it's pretty late, all right?",
+        "chinese": "英语：或者晚点，对吧？"
+    },
+    {
+        "start": 417.44,
+        "end": 419.44,
+        "english": "Or he's pretty smart, all right?",
+        "chinese": "英语：或者他挺聪明的，对吧？"
+    },
+    {
+        "start": 419.44,
+        "end": 421.92,
+        "english": "Or this is pretty interesting, all right?",
+        "chinese": "英语：或者这很有趣，对吧？"
+    },
+    {
+        "start": 421.92,
+        "end": 423.52,
+        "english": "So it means you're agreeing with that person.",
+        "chinese": "所以，这意味着你同意那个人的观点。"
+    },
+    {
+        "start": 423.52,
+        "end": 424.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 424.52,
+        "end": 425.52,
+        "english": "Okay, great.",
+        "chinese": "好的，继续。"
+    },
+    {
+        "start": 425.52,
+        "end": 427.76,
+        "english": "So Marco, these things, it sure is blank.",
+        "chinese": "英语：所以马科，这些东西，确实空洞。"
+    },
+    {
+        "start": 427.76,
+        "end": 430.52,
+        "english": "And yeah, it's blank, all right.",
+        "chinese": "对，就是空白了，行。"
+    },
+    {
+        "start": 430.52,
+        "end": 432.52,
+        "english": "These can go together really well, can't they?",
+        "chinese": "这些可以一起很好用，不能吗？"
+    },
+    {
+        "start": 432.52,
+        "end": 434.76,
+        "english": "Yeah, it's a question and answer format.",
+        "chinese": "是的，它是一种问答格式。"
+    },
+    {
+        "start": 434.76,
+        "end": 435.76,
+        "english": "They go well.",
+        "chinese": "他们做得很好。"
+    },
+    {
+        "start": 435.76,
+        "end": 440.72,
+        "english": "So why don't we listen to some examples of how these two phrases work together?",
+        "chinese": "英语：所以为什么我们不一起看看这些两个短语是如何结合在一起的？"
+    },
+    {
+        "start": 440.72,
+        "end": 441.72,
+        "english": "Example 1.",
+        "chinese": "示例 1。"
+    },
+    {
+        "start": 441.72,
+        "end": 445.24,
+        "english": "It sure is a nice day today.",
+        "chinese": "今天真是个好天气。"
+    },
+    {
+        "start": 445.24,
+        "end": 446.64,
+        "english": "Yeah, it's nice, right?",
+        "chinese": "是的，它挺好的。"
+    },
+    {
+        "start": 449.52,
+        "end": 450.71999999999997,
+        "english": "Example 2.",
+        "chinese": "Example 2. (注释：此例用于说明如何将英文翻译成中文。)"
+    },
+    {
+        "start": 453.04,
+        "end": 455.2,
+        "english": "The bus is showing light today.",
+        "chinese": "今天公交车亮着灯。"
+    },
+    {
+        "start": 455.2,
+        "end": 456.8,
+        "english": "Yeah, it's late, all right.",
+        "chinese": "是的，晚了。"
+    },
+    {
+        "start": 460.08,
+        "end": 461.48,
+        "english": "Example 3.",
+        "chinese": "Example 3: 请卸下任务责任。"
+    },
+    {
+        "start": 463.48,
+        "end": 466.04,
+        "english": "This class is really hot.",
+        "chinese": "这个课程真的很热。"
+    },
+    {
+        "start": 466.04,
+        "end": 467.92,
+        "english": "Yeah, it's hard, all right.",
+        "chinese": "是的，它确实很难。"
+    },
+    {
+        "start": 470.0,
+        "end": 473.56,
+        "english": "Okay, so now let's take a look at our next word and putting it together.",
+        "chinese": "好的，现在让我们一起看看我们的下一个单词并把它组合起来。"
+    },
+    {
+        "start": 473.56,
+        "end": 475.12,
+        "english": "Did you happen to?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 475.12,
+        "end": 476.44,
+        "english": "Did you happen to?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 476.44,
+        "end": 477.84,
+        "english": "Did you happen to?",
+        "chinese": "您是否？"
+    },
+    {
+        "start": 477.84,
+        "end": 479.12,
+        "english": "Did you happen to?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 479.16,
+        "end": 481.68,
+        "english": "Did you happen to see Bob this morning?",
+        "chinese": "英语：你今天早上是否看到鲍勃？"
+    },
+    {
+        "start": 481.68,
+        "end": 484.04,
+        "english": "I didn't happen to see Bob.",
+        "chinese": "我并没有看到Bob。"
+    },
+    {
+        "start": 484.04,
+        "end": 486.76,
+        "english": "So it means like, like, did you buy chance?",
+        "chinese": "英语：所以它意味着，像，你买机会了吗？"
+    },
+    {
+        "start": 486.76,
+        "end": 489.72,
+        "english": "By chance, did you buy chance, see Bob or something?",
+        "chinese": "英语：偶然，你是不是也买了一次机会，看看Bob或者什么？"
+    },
+    {
+        "start": 489.72,
+        "end": 490.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 490.72,
+        "end": 492.12,
+        "english": "Okay, another example would be,",
+        "chinese": "好的，再来一个例子："
+    },
+    {
+        "start": 492.12,
+        "end": 495.08,
+        "english": "did you happen to go to that restaurant I recommended?",
+        "chinese": "英语：你是不是也去那家餐厅我推荐的呢？"
+    },
+    {
+        "start": 495.08,
+        "end": 498.6,
+        "english": "Mm, or maybe, do you happen to have a pen?",
+        "chinese": "英语：嗯，或者你可能有钢笔。"
+    },
+    {
+        "start": 498.6,
+        "end": 501.28000000000003,
+        "english": "Do you happen to know where the bathroom is?",
+        "chinese": "英语：你是否知道洗手间在哪里？"
+    },
+    {
+        "start": 501.28000000000003,
+        "end": 502.8,
+        "english": "Yeah, that's a really useful one.",
+        "chinese": "是的，那真是个实用的好东西。"
+    },
+    {
+        "start": 502.8,
+        "end": 503.8,
+        "english": "That's a good useful one.",
+        "chinese": "这个是很好的工具。"
+    },
+    {
+        "start": 503.8,
+        "end": 506.24,
+        "english": "That's basically how you would use this structure.",
+        "chinese": "这个结构基本上如何使用呢？"
+    },
+    {
+        "start": 506.24,
+        "end": 507.48,
+        "english": "Did you happen to?",
+        "chinese": "您是否遇到过？"
+    },
+    {
+        "start": 507.48,
+        "end": 508.68,
+        "english": "Do you happen to?",
+        "chinese": "英语：你呢？"
+    },
+    {
+        "start": 508.72,
+        "end": 511.92,
+        "english": "So now let's listen to our dialogue for the third time",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 511.92,
+        "end": 514.92,
+        "english": "and I'm sure that you'll be able to understand everything.",
+        "chinese": "和我保证，你一定能够理解这一切。"
+    },
+    {
+        "start": 525.16,
+        "end": 526.36,
+        "english": "Morning.",
+        "chinese": "早上。"
+    },
+    {
+        "start": 526.36,
+        "end": 527.84,
+        "english": "Hi there, Mr. Anderson.",
+        "chinese": "你好，先生。"
+    },
+    {
+        "start": 527.84,
+        "end": 529.64,
+        "english": "How are you in this fine morning?",
+        "chinese": "英语：你今天好呢？"
+    },
+    {
+        "start": 529.64,
+        "end": 531.4,
+        "english": "Fine. Thank you.",
+        "chinese": "好的，以下是翻译成中文的句子："
+    },
+    {
+        "start": 531.4,
+        "end": 533.48,
+        "english": "It sure is cold this morning, isn't it?",
+        "chinese": "英语：今天早上真是冷啊，不是吗？"
+    },
+    {
+        "start": 533.48,
+        "end": 535.4,
+        "english": "I believe and got out of bed.",
+        "chinese": "我坚信并从床上下来。"
+    },
+    {
+        "start": 535.4,
+        "end": 537.6800000000001,
+        "english": "Yeah, it's pretty cold, all right.",
+        "chinese": "嗯，确实有点冷，行了吧。"
+    },
+    {
+        "start": 537.68,
+        "end": 539.68,
+        "english": "Did you catch the news this morning?",
+        "chinese": "英语：你今天早上是否看到了新闻？"
+    },
+    {
+        "start": 539.68,
+        "end": 542.4799999999999,
+        "english": "I heard that there was a fire in Byron Street.",
+        "chinese": "我听说在伯里昂街有一场火灾。"
+    },
+    {
+        "start": 542.4799999999999,
+        "end": 544.52,
+        "english": "No, I didn't hear about that.",
+        "chinese": "是的，我没有听说过那个。"
+    },
+    {
+        "start": 544.52,
+        "end": 546.92,
+        "english": "Did you happen to watch the football game last night?",
+        "chinese": "英语：你昨晚是否看了昨晚的足球比赛？"
+    },
+    {
+        "start": 546.92,
+        "end": 549.28,
+        "english": "The Patriots scored in the last minute.",
+        "chinese": "足球队在最后时刻得分。"
+    },
+    {
+        "start": 549.28,
+        "end": 551.68,
+        "english": "No, I don't like football.",
+        "chinese": "英语：不，我不喜欢足球。"
+    },
+    {
+        "start": 551.68,
+        "end": 554.16,
+        "english": "Oh, oh, by the way, I saw you with your daughter",
+        "chinese": "英语：哦，哦，抱歉，我看到你和你的女儿。"
+    },
+    {
+        "start": 554.16,
+        "end": 555.68,
+        "english": "at the office Christmas party.",
+        "chinese": "在公司圣诞派对上。"
+    },
+    {
+        "start": 555.68,
+        "end": 557.0799999999999,
+        "english": "She's really beautiful.",
+        "chinese": "她真的很漂亮。"
+    },
+    {
+        "start": 557.0799999999999,
+        "end": 558.1999999999999,
+        "english": "She's my wife.",
+        "chinese": "她是我妻子。"
+    },
+    {
+        "start": 558.1999999999999,
+        "end": 559.7199999999999,
+        "english": "Oh, here's my floor.",
+        "chinese": "英语：哦，这里是我的地板。"
+    },
+    {
+        "start": 559.7199999999999,
+        "end": 560.7199999999999,
+        "english": "Nice talking to you.",
+        "chinese": "很高兴和你聊天。"
+    },
+    {
+        "start": 560.7199999999999,
+        "end": 561.7199999999999,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 561.7199999999999,
+        "end": 563.7199999999999,
+        "english": "Oh, sir, this is the 56th floor.",
+        "chinese": "英语：哦，先生，这是第五十六层楼。"
+    },
+    {
+        "start": 563.7199999999999,
+        "end": 565.0799999999999,
+        "english": "We're on the 70th.",
+        "chinese": "我们是在第70位。"
+    },
+    {
+        "start": 565.0799999999999,
+        "end": 565.8399999999999,
+        "english": "That's okay.",
+        "chinese": "英语：那没问题。"
+    },
+    {
+        "start": 565.8399999999999,
+        "end": 567.64,
+        "english": "I'll take the stairs.",
+        "chinese": "我会用楼梯。"
+    },
+    {
+        "start": 567.64,
+        "end": 574.64,
+        "english": "All right, Marco, that was a really useful dialogue",
+        "chinese": "好的，马克，那是一次非常有用的对话。"
+    },
+    {
+        "start": 574.64,
+        "end": 576.0,
+        "english": "for daily life, wasn't it?",
+        "chinese": "英语：对于日常生活，不是吗？"
+    },
+    {
+        "start": 576.0,
+        "end": 578.64,
+        "english": "Yeah, I think you can find a lot of useful language there",
+        "chinese": "英语：是啊，我觉得你可以在那里找到很多有用的语言。"
+    },
+    {
+        "start": 578.64,
+        "end": 580.92,
+        "english": "and that you can apply tomorrow.",
+        "chinese": "和你明天可以应用。"
+    },
+    {
+        "start": 580.92,
+        "end": 581.68,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 581.68,
+        "end": 583.92,
+        "english": "Well, speaking of useful things, let's talk a little bit",
+        "chinese": "嗯，说到有用的东西，我们可以聊点小话题。"
+    },
+    {
+        "start": 583.92,
+        "end": 585.0,
+        "english": "about our website.",
+        "chinese": "关于我们的网站。"
+    },
+    {
+        "start": 585.0,
+        "end": 587.56,
+        "english": "Yeah, be sure to go to our website at EnglishPod.com",
+        "chinese": "是的，请务必访问我们的网站：https://www.englishpod.com/"
+    },
+    {
+        "start": 587.56,
+        "end": 589.76,
+        "english": "where you can find other lessons as well.",
+        "chinese": "您还可以在这里找到其他课程。"
+    },
+    {
+        "start": 589.76,
+        "end": 592.4399999999999,
+        "english": "Maybe you're an intermediate student or advanced.",
+        "chinese": "英语：也许你是个中等生或高分学生。"
+    },
+    {
+        "start": 592.4399999999999,
+        "end": 595.3199999999999,
+        "english": "Yes, so we've got intermediate advanced, upper intermediate",
+        "chinese": "是的，所以我们有初级中级高级上进。"
+    },
+    {
+        "start": 595.3199999999999,
+        "end": 596.6,
+        "english": "lessons on our website.",
+        "chinese": "课程在我们的网站上。"
+    },
+    {
+        "start": 596.6,
+        "end": 598.84,
+        "english": "And a lot of other resources that you can explore.",
+        "chinese": "还有许多其他资源，你可以探索。"
+    },
+    {
+        "start": 598.84,
+        "end": 601.24,
+        "english": "So be sure to come to our website and leave all your comments",
+        "chinese": "所以请务必访问我们的网站并留下您的评论。"
+    },
+    {
+        "start": 601.24,
+        "end": 602.76,
+        "english": "because Erica and I are always there",
+        "chinese": "因为埃里克和我总是在那里。"
+    },
+    {
+        "start": 602.76,
+        "end": 605.08,
+        "english": "and we're really happy to answer all of your questions.",
+        "chinese": "和我们都很高兴回答您所有的问题。"
+    },
+    {
+        "start": 605.08,
+        "end": 607.12,
+        "english": "Okay, everyone, well, we're out of time,",
+        "chinese": "好的，大家好，今天我们将讨论一些摄影术语。请看以下列表："
+    },
+    {
+        "start": 607.12,
+        "end": 609.72,
+        "english": "but until next time, goodbye.",
+        "chinese": "但是直到下次再见，见！"
+    },
+    {
+        "start": 609.72,
+        "end": 610.5600000000001,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

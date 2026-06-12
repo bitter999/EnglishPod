@@ -1,0 +1,1562 @@
+[
+    {
+        "start": 0.0,
+        "end": 6.0,
+        "english": "Hello English learners, welcome back to EnglishPod. My name is Marco.",
+        "chinese": "您好，英语学习者，欢迎再次来到英语pod。我的名字是马科。"
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "english": "And my name is Erica.",
+        "chinese": "我的名字是艾瑞克。"
+    },
+    {
+        "start": 7.0,
+        "end": 13.0,
+        "english": "Today we're bringing you another one of our sports lessons and this time we're going to go to a boxing match.",
+        "chinese": "今天，我们将为您带来我们的体育课程，并且这次我们将会去打一场拳击比赛。"
+    },
+    {
+        "start": 13.0,
+        "end": 20.0,
+        "english": "That's right. So we're going to be learning language that you can use if you're talking about boxing, but not only boxing, right?",
+        "chinese": "正确。我们将会学习你能够使用的语言，如果你谈论的是打拳，但不仅仅是打拳。"
+    },
+    {
+        "start": 20.0,
+        "end": 25.0,
+        "english": "Right. We can also use this language for describing a fight or somebody that's fighting.",
+        "chinese": "正确。我们也可以使用这种语言来描述一场战斗或正在战斗的人。"
+    },
+    {
+        "start": 26.0,
+        "end": 33.0,
+        "english": "Okay, so not that we're asking our listeners to get into fights, but if ever you see a fight, at least now you'll have the language to talk about it.",
+        "chinese": "好的，所以不是我们要求听众参与冲突的活动，但如果你看到一场冲突，至少现在你有了与之讨论的语言。"
+    },
+    {
+        "start": 33.0,
+        "end": 47.0,
+        "english": "Exactly. So let's listen to a dialogue for the first time. It might sound familiar. We have the legendary Rocky Balboa at EnglishPod fighting for the Heavyweight Championship. So let's see what happens.",
+        "chinese": "是的。那么让我们先听一次对话。听起来可能有点熟悉。我们有著名的罗比·巴里奥斯在英语pod上对抗重量级冠军。让我们看看会发生什么。"
+    },
+    {
+        "start": 47.0,
+        "end": 58.0,
+        "english": "Welcome back boxing fans. My name is Rick Fields and here with me is the man with the Iron Jaw, Bob Copeland.",
+        "chinese": "欢迎回到打拳爱好者。我的名字是Rick Fields，与我一起的还有身手矫健的Bob Copeland先生。"
+    },
+    {
+        "start": 58.0,
+        "end": 65.0,
+        "english": "Thank you, Rick. We're coming to you live from Las Vegas. We're in the beautiful MGM Grand Hotel and Casino.",
+        "chinese": "非常感谢Rick。我们正在实时与您见面，来自拉斯维加斯的美丽MGM Grand酒店和赌场。"
+    },
+    {
+        "start": 65.0,
+        "end": 70.0,
+        "english": "Where the World Heavyweight Championship is about to get underway.",
+        "chinese": "正在举行的世界 heavyweight 战士锦标赛即将开始。"
+    },
+    {
+        "start": 70.0,
+        "end": 83.0,
+        "english": "That's right, Bob. We're about to witness the legendary Italian Stallion himself, Rocky Balboa, square off against his lifetime rival Apollo Creed. This will be a gruesome match for sure.",
+        "chinese": "是的，鲍勃。我们即将见证意大利赛马之王罗伯特·巴尔达诺与他一生的对手阿波罗·克里斯丁之间的激烈对决。这将是一个非常血腥的比赛。"
+    },
+    {
+        "start": 83.0,
+        "end": 88.0,
+        "english": "Both fighters are in the ring and we are about to begin.",
+        "chinese": "两人都在场，我们即将开始。"
+    },
+    {
+        "start": 89.0,
+        "end": 106.0,
+        "english": "In the blue corner, weighing in at 220 pounds, the former Heavyweight Champion of the world, the master of disaster, the one and only Apollo Creed.",
+        "chinese": "在蓝角角落，重达220磅的前世界 heavyweight冠军、灾难之王、唯一阿波罗·克里斯汀。"
+    },
+    {
+        "start": 107.0,
+        "end": 126.0,
+        "english": "In the red corner, weighing 218 pounds and with a record of 47 wins and 37 knockouts, the undefeated, undisputed Heavyweight Champion of the world, the Italian Stallion Rocky Balboa.",
+        "chinese": "在红圈中，重达218磅，并且有47胜和37负的无冕之王、世界无冕重量级冠军意大利马特奥·巴尔达科。"
+    },
+    {
+        "start": 127.0,
+        "end": 139.0,
+        "english": "There's the bell and this fight is underway. Apollo quickly attacks Rocky with quick strong jabs. Rocky dodges successfully and counterattacks with a strong right hook.",
+        "chinese": "这里有一个铃铛，这场战斗正在进行。阿波罗迅速攻击雷克斯，用快速有力的戳击成功地反击了他。雷克斯顺利躲过了攻击，并以强有力的右勾拳回应。"
+    },
+    {
+        "start": 139.0,
+        "end": 147.0,
+        "english": "Apollo is cut. Rocky landed a strong blow to his right eyebrow and cut him. This is his chance.",
+        "chinese": "阿波罗被切。罗比用力拍了拍他的右眉毛，将他切伤。这是他的机会。"
+    },
+    {
+        "start": 147.0,
+        "end": 158.0,
+        "english": "Rocky quickly throws a left. Right. Another left. Apollo is getting pounded. Apollo recovers with a powerful haymaker and catches Rocky off guard.",
+        "chinese": "李奥尼迅速左转。右转。再左转。阿波罗被打得头破血流。阿波罗用一个强大的犁铧抓住了罗比，让他措手不及。"
+    },
+    {
+        "start": 158.0,
+        "end": 162.0,
+        "english": "He's down. The ref starts the count.",
+        "chinese": "他下来了。计时员开始计数。"
+    },
+    {
+        "start": 162.0,
+        "end": 169.0,
+        "english": "One, two, three, one.",
+        "chinese": "好的，以下是“一、二、三、一”这句话的翻译成中文："
+    },
+    {
+        "start": 170.0,
+        "end": 177.0,
+        "english": "Wow, sounds like a great fight.",
+        "chinese": "哇，听起来像是一个很好的战斗。"
+    },
+    {
+        "start": 177.0,
+        "end": 182.0,
+        "english": "Amazing fight and I don't know who's going to win. Rocky apparently got knocked down. What do you think will happen?",
+        "chinese": "惊人的战斗，我不知道谁会赢。罗比似乎被打倒了。你怎么看？"
+    },
+    {
+        "start": 182.0,
+        "end": 187.0,
+        "english": "Well, if I know anything about Rocky Balboa, he will not stay knocked down for long.",
+        "chinese": "嗯，如果我了解罗比·巴乔，他不会长时间被压住。"
+    },
+    {
+        "start": 187.0,
+        "end": 194.0,
+        "english": "Alright, so let's take a look at some of the language we saw in this dialogue in language takeaway.",
+        "chinese": "好的，让我们看看我们在对话中看到的一些语言。"
+    },
+    {
+        "start": 194.0,
+        "end": 201.0,
+        "english": "Well, Rickfield said that we have a very gruesome match tonight.",
+        "chinese": "很好，里奇菲尔德说今晚的比赛非常惨烈。"
+    },
+    {
+        "start": 201.0,
+        "end": 204.0,
+        "english": "A gruesome match.",
+        "chinese": "一个血腥的比赛。"
+    },
+    {
+        "start": 204.0,
+        "end": 207.0,
+        "english": "A gruesome. Alright, so if something is gruesome.",
+        "chinese": "一个血腥的。好了，如果某个东西是血腥的。"
+    },
+    {
+        "start": 207.0,
+        "end": 211.0,
+        "english": "It's really, it's bad, it's terrible, it's bloody.",
+        "chinese": "是的，是真的。太糟糕了。太可怕了。太惨烈了。"
+    },
+    {
+        "start": 211.0,
+        "end": 217.0,
+        "english": "Okay, bloody, terrible, very hard or like gruesome fight would be a very bloody fight.",
+        "chinese": "好的，血淋漓、惨烈、非常艰难或像悲惨战斗会是一场非常血腥的战斗。"
+    },
+    {
+        "start": 217.0,
+        "end": 219.0,
+        "english": "Yeah, or a gruesome film.",
+        "chinese": "是的，或者一部血腥电影。"
+    },
+    {
+        "start": 219.0,
+        "end": 222.0,
+        "english": "Okay, very good. So gruesome.",
+        "chinese": "好的，很好。那么恐怖。"
+    },
+    {
+        "start": 222.0,
+        "end": 226.0,
+        "english": "Now they all, they mentioned that both fighters are in the ring.",
+        "chinese": "现在他们都提到，两人都在场。"
+    },
+    {
+        "start": 226.0,
+        "end": 228.0,
+        "english": "Both fighters are in the ring.",
+        "chinese": "两人都在场。"
+    },
+    {
+        "start": 228.0,
+        "end": 229.0,
+        "english": "The ring.",
+        "chinese": "在中文中，\"the ring\"可以翻译为："
+    },
+    {
+        "start": 229.0,
+        "end": 233.0,
+        "english": "Okay, so the ring is the physical space where they fight.",
+        "chinese": "好的，所以这个环就是他们对抗的地方。"
+    },
+    {
+        "start": 233.0,
+        "end": 234.0,
+        "english": "But isn't it square?",
+        "chinese": "但这不是正方形吗？"
+    },
+    {
+        "start": 234.0,
+        "end": 240.0,
+        "english": "Yeah, it is square, it does not really circular, but it's called a boxing ring. I'm not really sure why.",
+        "chinese": "是的，它是一个正方形，实际上并不像圆形，但它被称为拳场。我不太明白为什么。"
+    },
+    {
+        "start": 240.0,
+        "end": 246.0,
+        "english": "Well, maybe one of our listeners knows and can tell us about that because I am not an expert on boxing.",
+        "chinese": "嗯，也许我们的听众知道，因为我是不太了解摔跤。"
+    },
+    {
+        "start": 246.0,
+        "end": 249.0,
+        "english": "But what I do know is our next word.",
+        "chinese": "但是，我知道我们的下一个词。"
+    },
+    {
+        "start": 249.0,
+        "end": 256.0,
+        "english": "They were describing Rocky Balboa's career and they said he had 37 knockouts.",
+        "chinese": "他们正在描述罗比·巴里奥斯的职业生涯，他们说他有37次KO。"
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "english": "Okay, a knockout.",
+        "chinese": "好的，一个终结。"
+    },
+    {
+        "start": 258.0,
+        "end": 259.0,
+        "english": "A knockout.",
+        "chinese": "一个击倒。"
+    },
+    {
+        "start": 259.0,
+        "end": 262.0,
+        "english": "In this sense, knockout is a noun.",
+        "chinese": "在这个意义上，KO 是一个名词。"
+    },
+    {
+        "start": 262.0,
+        "end": 273.0,
+        "english": "A knockout is when the fighter hits the other fighter and he falls to the ground and he can't get up in 10 seconds because he's tired, he's dizzy, he's hurt.",
+        "chinese": "一个决斗者是指当对手击倒自己并摔倒在地，他可以在10秒内站立不起来。因为疲惫、眩晕和受伤。"
+    },
+    {
+        "start": 273.0,
+        "end": 275.0,
+        "english": "Okay, so that's a knockout.",
+        "chinese": "好的，那么这就是一胜。"
+    },
+    {
+        "start": 275.0,
+        "end": 279.0,
+        "english": "Okay, so this is a technical boxing word.",
+        "chinese": "好的，这是技术拳击术语。"
+    },
+    {
+        "start": 279.0,
+        "end": 282.0,
+        "english": "It's the action of falling to the ground and not getting up.",
+        "chinese": "是落下地面，没有站起来。"
+    },
+    {
+        "start": 282.0,
+        "end": 286.0,
+        "english": "Right, but there's also a verb, two knockout.",
+        "chinese": "是的，还有动词，两个击倒。"
+    },
+    {
+        "start": 286.0,
+        "end": 288.0,
+        "english": "Or to knock someone out, so.",
+        "chinese": "或者用暴力手段打人，这样。"
+    },
+    {
+        "start": 288.0,
+        "end": 289.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 289.0,
+        "end": 292.0,
+        "english": "So when you say, I knocked this guy out.",
+        "chinese": "所以当你说，我打死了这个家伙。"
+    },
+    {
+        "start": 292.0,
+        "end": 298.0,
+        "english": "It means I hit him so hard that he fell to the floor and maybe he was unconscious for a while.",
+        "chinese": "这句话意味着我打得很狠，以至于他摔倒在地上，可能他还处于昏迷状态。"
+    },
+    {
+        "start": 298.0,
+        "end": 299.0,
+        "english": "So he fell asleep basically.",
+        "chinese": "所以，他基本上睡着了。"
+    },
+    {
+        "start": 299.0,
+        "end": 300.0,
+        "english": "Almost.",
+        "chinese": "几乎。"
+    },
+    {
+        "start": 300.0,
+        "end": 303.0,
+        "english": "Yeah, so it's very similar, the noun form to the verb form.",
+        "chinese": "是的，所以它非常相似，动词形式到名词形式。"
+    },
+    {
+        "start": 303.0,
+        "end": 306.0,
+        "english": "Like basically if you knock someone out, you get a knockout.",
+        "chinese": "基本来说，如果你把某人打倒在地，你就输了。"
+    },
+    {
+        "start": 306.0,
+        "end": 309.0,
+        "english": "Okay, so two knock someone out, a knockout.",
+        "chinese": "好的，那么两个人打人，一个被打倒。"
+    },
+    {
+        "start": 309.0,
+        "end": 318.0,
+        "english": "All right, now for our next word, we saw as Apollo quickly began to jab Rocky Balboa.",
+        "chinese": "好的，接下来的词我们看到阿波罗迅速开始打雷·巴萨诺。"
+    },
+    {
+        "start": 318.0,
+        "end": 320.0,
+        "english": "So the noun, a jab.",
+        "chinese": "所以，名词，一个“啊”。"
+    },
+    {
+        "start": 320.0,
+        "end": 323.0,
+        "english": "So a jab, quick jabs.",
+        "chinese": "所以一针，快速的刺。"
+    },
+    {
+        "start": 323.0,
+        "end": 325.0,
+        "english": "So a jab is a kind of punch, right?",
+        "chinese": "所以，一个戳是打的一种吗？"
+    },
+    {
+        "start": 325.0,
+        "end": 328.0,
+        "english": "It's a fast short but not very strong punch.",
+        "chinese": "它是一次快速的短击，但并不很有力。"
+    },
+    {
+        "start": 328.0,
+        "end": 331.0,
+        "english": "Okay, so a technical boxing word, a jab.",
+        "chinese": "好的，所以一个技术拳击术语，是勾拳。"
+    },
+    {
+        "start": 331.0,
+        "end": 332.0,
+        "english": "Hey, jab.",
+        "chinese": "你好，嘿。"
+    },
+    {
+        "start": 332.0,
+        "end": 333.0,
+        "english": "This can also be a verb, right?",
+        "chinese": "这个也可以是动词，对吗？"
+    },
+    {
+        "start": 333.0,
+        "end": 335.0,
+        "english": "Right, so two jab.",
+        "chinese": "正确，所以两个巴掌。"
+    },
+    {
+        "start": 335.0,
+        "end": 336.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 336.0,
+        "end": 337.0,
+        "english": "Two jab.",
+        "chinese": "两个巴。"
+    },
+    {
+        "start": 337.0,
+        "end": 341.0,
+        "english": "Now Apollo was throwing jabs and Rocky began to dodge.",
+        "chinese": "现在阿波罗在扔石块，雷克斯开始躲闪。"
+    },
+    {
+        "start": 341.0,
+        "end": 344.0,
+        "english": "All right, and that's our next word, two dodge.",
+        "chinese": "好的，这是我们的下一个词，两个绕。"
+    },
+    {
+        "start": 344.0,
+        "end": 345.0,
+        "english": "Dodge.",
+        "chinese": "Dodge 是一个中文的缩写，通常用于表示“避障”或“防撞”。在中文中，“ dodge ” 的意思是“躲避”，“避开”，或者 “避免”。"
+    },
+    {
+        "start": 345.0,
+        "end": 347.0,
+        "english": "D-O-D-G-E, two dodge.",
+        "chinese": "D-O-D-G-E, 二脱。"
+    },
+    {
+        "start": 347.0,
+        "end": 352.0,
+        "english": "All right, so if you dodge, you're trying to avoid getting hit.",
+        "chinese": "好的，如果你们绕开，你们就是在躲避被碰。"
+    },
+    {
+        "start": 352.0,
+        "end": 355.0,
+        "english": "Right, so you move your body so that you're not hit.",
+        "chinese": "是的，您移动身体，以避免被撞。"
+    },
+    {
+        "start": 355.0,
+        "end": 356.0,
+        "english": "Exactly.",
+        "chinese": "正确答案是：Exactly."
+    },
+    {
+        "start": 356.0,
+        "end": 358.0,
+        "english": "But we can also use it in different ways.",
+        "chinese": "但是，我们也可以用它在不同的方式上。"
+    },
+    {
+        "start": 358.0,
+        "end": 363.0,
+        "english": "Not only do you dodge when somebody's trying to punch you, you can also, for example, dodge a bullet.",
+        "chinese": "你不仅能够避开试图用拳头打你的人，还可以，例如，躲避子弹。"
+    },
+    {
+        "start": 363.0,
+        "end": 369.0,
+        "english": "Right, so when you dodge a bullet, you avoid some bad situation or some bad event.",
+        "chinese": "正确，所以当你躲避子弹时，你避免了一些不好的情况或事件。"
+    },
+    {
+        "start": 369.0,
+        "end": 376.0,
+        "english": "Right, so we have many examples of dodge used in other contexts, so why don't we listen to some examples?",
+        "chinese": "是的，所以我们有很多例子在其他地方使用了绕弯子，所以为什么不听听一些例子呢？"
+    },
+    {
+        "start": 376.0,
+        "end": 378.0,
+        "english": "Example one.",
+        "chinese": "这个例子。"
+    },
+    {
+        "start": 378.0,
+        "end": 380.0,
+        "english": "See that guy dodging through the traffic?",
+        "chinese": "看那个躲过交通的家伙？"
+    },
+    {
+        "start": 380.0,
+        "end": 383.0,
+        "english": "He's going to get hit by a car if he's not careful.",
+        "chinese": "他如果不小心撞到一辆车，他会受到伤害。"
+    },
+    {
+        "start": 383.0,
+        "end": 385.0,
+        "english": "Example two.",
+        "chinese": "Example two. 例二。"
+    },
+    {
+        "start": 385.0,
+        "end": 390.0,
+        "english": "Well, the storm turns south, so it looks like we managed to dodge a bullet.",
+        "chinese": "嗯，风暴转向了南边，所以看来我们成功地避开了子弹。"
+    },
+    {
+        "start": 390.0,
+        "end": 392.0,
+        "english": "Example three.",
+        "chinese": "翻译成中文是："
+    },
+    {
+        "start": 392.0,
+        "end": 395.0,
+        "english": "Look, you're the one who is in charge of sales and the numbers are down.",
+        "chinese": "请看，你就是负责销售的负责人，数字下降。"
+    },
+    {
+        "start": 395.0,
+        "end": 399.0,
+        "english": "It's your problem, so stop trying to dodge your responsibilities.",
+        "chinese": "你的问题，所以不要再逃避你应负的责任。"
+    },
+    {
+        "start": 399.0,
+        "end": 402.0,
+        "english": "You know, that word reminds me of another sport dodge ball.",
+        "chinese": "我知道，那个字让我想起了另一个运动飞镖。"
+    },
+    {
+        "start": 402.0,
+        "end": 403.0,
+        "english": "Oh, dodge ball, exactly.",
+        "chinese": "哈哈， dodge ball，正好。"
+    },
+    {
+        "start": 403.0,
+        "end": 404.0,
+        "english": "Same principle.",
+        "chinese": "同原则。"
+    },
+    {
+        "start": 404.0,
+        "end": 407.0,
+        "english": "Yeah, but that's an entirely different lesson.",
+        "chinese": "是的，但这就是一个完全不同的道理。"
+    },
+    {
+        "start": 407.0,
+        "end": 411.0,
+        "english": "I think we need to focus here on the boxing vocabulary.",
+        "chinese": "我认为在这里需要集中关注拳击词汇。"
+    },
+    {
+        "start": 411.0,
+        "end": 418.0,
+        "english": "So the announcers said that Apollo is getting pounded to get pounded.",
+        "chinese": "所以播音员说，阿波罗正在被压得喘不过气来。"
+    },
+    {
+        "start": 418.0,
+        "end": 419.0,
+        "english": "To get pounded.",
+        "chinese": "要剁碎。"
+    },
+    {
+        "start": 419.0,
+        "end": 425.0,
+        "english": "Now, if someone is getting pounded, they're getting hit really hard and a lot.",
+        "chinese": "现在，如果有人被打得很重，他们承受的打击非常大。"
+    },
+    {
+        "start": 425.0,
+        "end": 426.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 426.0,
+        "end": 428.0,
+        "english": "So to get pounded.",
+        "chinese": "所以要剁碎。"
+    },
+    {
+        "start": 428.0,
+        "end": 429.0,
+        "english": "Get pounded.",
+        "chinese": "得到剁碎。"
+    },
+    {
+        "start": 429.0,
+        "end": 436.0,
+        "english": "And now we have one more word, and it's also another boxing term called a haymaker.",
+        "chinese": "现在我们有一个额外的词，它也是另一种称谓，称为“打手”。"
+    },
+    {
+        "start": 436.0,
+        "end": 437.0,
+        "english": "A powerful haymaker.",
+        "chinese": "一个强大的脱粒机。"
+    },
+    {
+        "start": 438.0,
+        "end": 441.0,
+        "english": "Okay, so Apollo received a powerful haymaker.",
+        "chinese": "好的，所以阿波罗收到了一个强大的犁。"
+    },
+    {
+        "start": 441.0,
+        "end": 443.0,
+        "english": "Now, this word is actually new to me.",
+        "chinese": "现在，这个词对我来说是全新的。"
+    },
+    {
+        "start": 443.0,
+        "end": 444.0,
+        "english": "So, Mark, what does it mean?",
+        "chinese": "所以，马克，这到底意味着什么？"
+    },
+    {
+        "start": 444.0,
+        "end": 448.0,
+        "english": "Basically, it's a very strong, very wild punch.",
+        "chinese": "基本来说，它是一个非常强壮、非常野蛮的打击。"
+    },
+    {
+        "start": 448.0,
+        "end": 451.0,
+        "english": "Okay, so you don't have really good form.",
+        "chinese": "好的，你并不具备很好的姿势。"
+    },
+    {
+        "start": 451.0,
+        "end": 453.0,
+        "english": "Your body is kind of moving all over the place.",
+        "chinese": "你的身体在四处移动。"
+    },
+    {
+        "start": 453.0,
+        "end": 458.0,
+        "english": "Right, so you don't have much balance, so you just throw your entire body and your fist",
+        "chinese": "是的，你没有太多平衡力，所以你只是把全身和拳头全部扔出去。"
+    },
+    {
+        "start": 458.0,
+        "end": 460.0,
+        "english": "at someone to hit them as hard as you can.",
+        "chinese": "在某人面前，尽可能地打他们。"
+    },
+    {
+        "start": 460.0,
+        "end": 461.0,
+        "english": "That's a haymaker.",
+        "chinese": "这句话的中文翻译是：“那是一个麦秆。”"
+    },
+    {
+        "start": 461.0,
+        "end": 464.0,
+        "english": "All right, a technical boxing word here for you guys.",
+        "chinese": "好的，这里有一个技术拳击术语给你。"
+    },
+    {
+        "start": 465.0,
+        "end": 469.0,
+        "english": "But now we've got some interesting phrases for you on Fluency Builder.",
+        "chinese": "但是现在我们给你一些有趣的短语在 FluentU 中。"
+    },
+    {
+        "start": 469.0,
+        "end": 471.0,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 471.0,
+        "end": 476.0,
+        "english": "All right, so on Fluency Builder today, we're going to take a look at some of these phrases,",
+        "chinese": "好的，今天在 Fluent Builder 上，我们将对这些短语进行一些观察。"
+    },
+    {
+        "start": 476.0,
+        "end": 481.0,
+        "english": "and we have four of them for you today, so let's get started with the first one.",
+        "chinese": "和今天给你们四个人，让我们开始吧。"
+    },
+    {
+        "start": 481.0,
+        "end": 488.0,
+        "english": "Well, the announcer has said that the boxing match was about to get underway.",
+        "chinese": "嗯，解说员已经说比赛即将开始。"
+    },
+    {
+        "start": 488.0,
+        "end": 490.0,
+        "english": "Okay, to get underway.",
+        "chinese": "好的，出发。"
+    },
+    {
+        "start": 490.0,
+        "end": 491.0,
+        "english": "To get underway.",
+        "chinese": "开始行动。"
+    },
+    {
+        "start": 491.0,
+        "end": 494.0,
+        "english": "So, again, this is another way of saying about to begin.",
+        "chinese": "所以，再次，这就是开始的另一种方式。"
+    },
+    {
+        "start": 494.0,
+        "end": 495.0,
+        "english": "Right.",
+        "chinese": "正确。以下是“right”的翻译："
+    },
+    {
+        "start": 495.0,
+        "end": 498.0,
+        "english": "All right, so we're about to get underway with this new project.",
+        "chinese": "好的，我们现在将开始这个新的项目。"
+    },
+    {
+        "start": 498.0,
+        "end": 502.0,
+        "english": "Or the meetings just about to get underway, so make sure everyone's here.",
+        "chinese": "或者刚刚开始的会议，所以请确保每个人都到场。"
+    },
+    {
+        "start": 502.0,
+        "end": 503.0,
+        "english": "Very good.",
+        "chinese": "很好。"
+    },
+    {
+        "start": 503.0,
+        "end": 508.0,
+        "english": "So, the match was about to get underway, and the sports announcer said that Rocky Balboa",
+        "chinese": "所以，比赛即将开始，体育解说员说：“罗比·巴雷特。”"
+    },
+    {
+        "start": 508.0,
+        "end": 512.0,
+        "english": "is going to square off against his lifetime rival.",
+        "chinese": "他将与他的终身对手进行对决。"
+    },
+    {
+        "start": 512.0,
+        "end": 516.0,
+        "english": "So, we're going to look at this phrase to square off against someone.",
+        "chinese": "所以，我们将对这个短语进行一番较量。"
+    },
+    {
+        "start": 516.0,
+        "end": 520.0,
+        "english": "All right, I'm going to square off against Jim.",
+        "chinese": "好的，我准备和吉姆打一场对决。"
+    },
+    {
+        "start": 520.0,
+        "end": 526.0,
+        "english": "All right, when you square off against Jim, you get ready to fight with him or to compete with him, right?",
+        "chinese": "好的，当你对阵吉姆时，你准备好与他或竞争他吗？"
+    },
+    {
+        "start": 526.0,
+        "end": 530.0,
+        "english": "Right, so we're about to have a one-to-one competition.",
+        "chinese": "是的，我们现在将进行一对一的竞争。"
+    },
+    {
+        "start": 530.0,
+        "end": 536.0,
+        "english": "So, this is like a sports word, but it's also really commonly used in a lot of different contexts.",
+        "chinese": "所以，这就像一个体育词汇，但同时也非常广泛地在许多不同的领域中使用。"
+    },
+    {
+        "start": 536.0,
+        "end": 541.0,
+        "english": "So, why don't we hear a few more examples of how we can use this phrase to square off?",
+        "chinese": "所以，为什么我们不听听一些如何用这个短语来对峙的例子呢？"
+    },
+    {
+        "start": 541.0,
+        "end": 543.0,
+        "english": "Example one.",
+        "chinese": "例子一。"
+    },
+    {
+        "start": 543.0,
+        "end": 549.0,
+        "english": "The two countries are moving their armies close to the borders as they prepare to square off in a border dispute.",
+        "chinese": "这两国正在将他们的军队靠近边境，准备在边境争端中对峙。"
+    },
+    {
+        "start": 549.0,
+        "end": 551.0,
+        "english": "Example two.",
+        "chinese": "例二。"
+    },
+    {
+        "start": 551.0,
+        "end": 556.0,
+        "english": "Italy and Brazil are squaring off in the final game this afternoon.",
+        "chinese": "意大利和巴西将在今天下午进行最后的比赛。"
+    },
+    {
+        "start": 556.0,
+        "end": 558.0,
+        "english": "Example three.",
+        "chinese": "翻译结果如下："
+    },
+    {
+        "start": 558.0,
+        "end": 562.0,
+        "english": "Lees and Daniel squared off against each other in the marketing meeting today.",
+        "chinese": "今天，莱斯和丹尼尔在今天的营销会议上进行了对决。"
+    },
+    {
+        "start": 562.0,
+        "end": 564.0,
+        "english": "They were both pretty angry.",
+        "chinese": "他们都是很生气的。"
+    },
+    {
+        "start": 564.0,
+        "end": 570.0,
+        "english": "All right, so great examples, and I think we can use it now not only in boxing, but in other situations.",
+        "chinese": "好的，所以好例子，我认为我们可以现在用它不仅在拳击，而且在其他场合。"
+    },
+    {
+        "start": 570.0,
+        "end": 575.0,
+        "english": "Now, Bob said that Rocky landed a strong blow.",
+        "chinese": "现在，鲍勃说罗比打了一个强有力的拳头。"
+    },
+    {
+        "start": 575.0,
+        "end": 578.0,
+        "english": "To land a strong blow.",
+        "chinese": "要打一场强手。"
+    },
+    {
+        "start": 578.0,
+        "end": 581.0,
+        "english": "All right, so land a strong blow.",
+        "chinese": "好的，那么强手来吧。"
+    },
+    {
+        "start": 581.0,
+        "end": 583.0,
+        "english": "Now, let's break this down. So, a blow.",
+        "chinese": "现在，让我们分解一下。所以，一个击。"
+    },
+    {
+        "start": 583.0,
+        "end": 585.0,
+        "english": "A blow is a punch or a hit.",
+        "chinese": "一个击是拳或打。"
+    },
+    {
+        "start": 585.0,
+        "end": 588.0,
+        "english": "Okay, and when you land a strong blow, what happens?",
+        "chinese": "好的，当你对一个强大的对手发起猛烈攻击时会发生什么？"
+    },
+    {
+        "start": 588.0,
+        "end": 593.0,
+        "english": "You basically successfully hit your opponent with a punch or hit.",
+        "chinese": "你基本上成功地击中了你的对手。"
+    },
+    {
+        "start": 593.0,
+        "end": 596.0,
+        "english": "So, you hit them... so your fist meets their body.",
+        "chinese": "所以，你打他们... 所以你的拳头撞击到了他们的身体。"
+    },
+    {
+        "start": 596.0,
+        "end": 599.0,
+        "english": "Yes, so your fist landed on their body.",
+        "chinese": "是的，所以你的拳头击中了他们的身体。"
+    },
+    {
+        "start": 599.0,
+        "end": 602.0,
+        "english": "Mm-hmm, so I could also change this a little bit.",
+        "chinese": "这句话可以翻译成中文为："
+    },
+    {
+        "start": 602.0,
+        "end": 604.0,
+        "english": "I could say I landed a punch.",
+        "chinese": "我可以说我已经落下了。"
+    },
+    {
+        "start": 604.0,
+        "end": 605.0,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的翻译："
+    },
+    {
+        "start": 605.0,
+        "end": 608.0,
+        "english": "In boxing terms, he landed a strong left jab.",
+        "chinese": "在拳击术语中，他以强有力的左勾拳落到了地上。"
+    },
+    {
+        "start": 608.0,
+        "end": 611.0,
+        "english": "Okay, so to land a blow.",
+        "chinese": "好的，那么要降落一个炸弹。"
+    },
+    {
+        "start": 611.0,
+        "end": 614.0,
+        "english": "The announcer described it as rock through a left.",
+        "chinese": "解说者把它描述为石头。"
+    },
+    {
+        "start": 614.0,
+        "end": 615.0,
+        "english": "To throw a left.",
+        "chinese": "要扔左。"
+    },
+    {
+        "start": 615.0,
+        "end": 618.0,
+        "english": "So, he said he threw a left and right.",
+        "chinese": "所以，他说道他抛了一个左和一个右。"
+    },
+    {
+        "start": 618.0,
+        "end": 620.0,
+        "english": "Now, again, we'll take this one apart.",
+        "chinese": "现在，我们再把这个分开。"
+    },
+    {
+        "start": 620.0,
+        "end": 622.0,
+        "english": "So, a left. What are we talking about?",
+        "chinese": "所以，左。我们正在谈论什么？"
+    },
+    {
+        "start": 622.0,
+        "end": 626.0,
+        "english": "Basically, a left punch, but we can omit punch.",
+        "chinese": "基本来说，左拳，但我们可以省略拳。"
+    },
+    {
+        "start": 626.0,
+        "end": 628.0,
+        "english": "Okay, so it's a punch with your left hand.",
+        "chinese": "好的，所以是用左手打的这个拳。"
+    },
+    {
+        "start": 628.0,
+        "end": 629.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 629.0,
+        "end": 633.0,
+        "english": "But the verb throw. You throw a left punch.",
+        "chinese": "但是动词“扔”。“你”扔一个左拳。"
+    },
+    {
+        "start": 633.0,
+        "end": 636.0,
+        "english": "So, basically, you punch somebody with your left.",
+        "chinese": "所以，基本上，你用左手打人。"
+    },
+    {
+        "start": 636.0,
+        "end": 639.0,
+        "english": "Okay, so it's just another way of saying to punch someone.",
+        "chinese": "好的，所以这只是另一种方式，即向别人打人。"
+    },
+    {
+        "start": 639.0,
+        "end": 640.0,
+        "english": "To punch someone, right?",
+        "chinese": "要打人，对吗？"
+    },
+    {
+        "start": 640.0,
+        "end": 641.0,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 641.0,
+        "end": 644.0,
+        "english": "So, Bob started to throw some punches at the other guy.",
+        "chinese": "所以，鲍勃开始对另一个人扔些重拳。"
+    },
+    {
+        "start": 644.0,
+        "end": 647.0,
+        "english": "All right, or look over there. That guy's throwing punches.",
+        "chinese": "好的，或者看看那边。那个家伙正打拳。"
+    },
+    {
+        "start": 647.0,
+        "end": 651.0,
+        "english": "All right, so to throw a left, to throw a punch.",
+        "chinese": "好的，所以要向左扔一个球，或者用拳头打人。"
+    },
+    {
+        "start": 651.0,
+        "end": 654.0,
+        "english": "Now, again, you can use this in a lot of different ways",
+        "chinese": "现在，可以使用这个在很多不同的方式上。"
+    },
+    {
+        "start": 654.0,
+        "end": 656.0,
+        "english": "with a lot of different types of punches.",
+        "chinese": "有很多不同的拳头。"
+    },
+    {
+        "start": 656.0,
+        "end": 658.0,
+        "english": "So, you could say to throw a jab.",
+        "chinese": "所以，你可以这么说：向他扔个巴掌。"
+    },
+    {
+        "start": 658.0,
+        "end": 659.0,
+        "english": "Okay, or throw an uppercut.",
+        "chinese": "好的，或者挥一下拳头。"
+    },
+    {
+        "start": 659.0,
+        "end": 660.0,
+        "english": "Or throw a hook.",
+        "chinese": "或者用钩子。"
+    },
+    {
+        "start": 660.0,
+        "end": 664.0,
+        "english": "Okay, so now that we've seen all these phrases,",
+        "chinese": "好的，现在我们已经看到了这些短语，"
+    },
+    {
+        "start": 664.0,
+        "end": 667.0,
+        "english": "why don't we listen to the dialogue for the very last time?",
+        "chinese": "为什么我们不重复倾听对话呢？"
+    },
+    {
+        "start": 667.0,
+        "end": 670.0,
+        "english": "And we'll come back in a little bit.",
+        "chinese": "然后我们一会儿再回来。"
+    },
+    {
+        "start": 673.0,
+        "end": 675.0,
+        "english": "Welcome back, boxing fans.",
+        "chinese": "欢迎再次参加 boxing 热门赛事， boxing 俱乐部的粉丝们。"
+    },
+    {
+        "start": 675.0,
+        "end": 679.0,
+        "english": "My name is Rick Fields, and here with me is the man with the Iron Jaw, Bob Copeland.",
+        "chinese": "我的名字是Rick Fields，我与这位拥有铁牙璋的男子Bob Copeland在这里。"
+    },
+    {
+        "start": 679.0,
+        "end": 681.0,
+        "english": "Thank you, Rick.",
+        "chinese": "谢谢，Rick。"
+    },
+    {
+        "start": 681.0,
+        "end": 683.0,
+        "english": "We're coming to you live from Las Vegas.",
+        "chinese": "我们正在实时与您见面。"
+    },
+    {
+        "start": 683.0,
+        "end": 687.0,
+        "english": "We're in the beautiful MGM Grand Hotel in Casino.",
+        "chinese": "我们是在卡特堡万豪酒店（MGM Grand）度假。"
+    },
+    {
+        "start": 687.0,
+        "end": 691.0,
+        "english": "Where the World Heavyweight Championship is about to get underway.",
+        "chinese": "世界 heavyweight 战士锦标赛即将开始。"
+    },
+    {
+        "start": 691.0,
+        "end": 693.0,
+        "english": "That's right, Bob.",
+        "chinese": "正确，鲍勃。"
+    },
+    {
+        "start": 693.0,
+        "end": 698.0,
+        "english": "We're about to witness the legendary Italian Stallion himself, Rocky Balboa,",
+        "chinese": "我们即将见证意大利牛仔的传奇，罗宾·巴尔达诺。"
+    },
+    {
+        "start": 698.0,
+        "end": 702.0,
+        "english": "square off against his lifetime rival, Apollo Creed.",
+        "chinese": "在与他一生的对手阿波罗·克雷西对抗时，你将赢得胜利。"
+    },
+    {
+        "start": 702.0,
+        "end": 705.0,
+        "english": "This will be a gruesome match for sure.",
+        "chinese": "这是一个很惨烈的比赛。"
+    },
+    {
+        "start": 705.0,
+        "end": 709.0,
+        "english": "Both fighters are in the ring, and we are about to begin.",
+        "chinese": "两人都在场，我们马上开始。"
+    },
+    {
+        "start": 710.0,
+        "end": 712.0,
+        "english": "In the blue corner,",
+        "chinese": "在蓝色的角落里。"
+    },
+    {
+        "start": 712.0,
+        "end": 715.0,
+        "english": "weighing in at 220 pounds,",
+        "chinese": "重量在220斤。"
+    },
+    {
+        "start": 715.0,
+        "end": 719.0,
+        "english": "the former heavyweight champion of the world,",
+        "chinese": "前世界重量级冠军"
+    },
+    {
+        "start": 719.0,
+        "end": 721.0,
+        "english": "the master of disaster,",
+        "chinese": "灾难的主宰。"
+    },
+    {
+        "start": 721.0,
+        "end": 726.0,
+        "english": "the one and only Apollo Creed.",
+        "chinese": "唯一的阿波罗·克雷西。"
+    },
+    {
+        "start": 728.0,
+        "end": 732.0,
+        "english": "In the red corner, weighing 218 pounds,",
+        "chinese": "在红角，重达218磅。"
+    },
+    {
+        "start": 732.0,
+        "end": 737.0,
+        "english": "and with a record of 47 wins and 37 knockouts,",
+        "chinese": "并有47胜37负的记录。"
+    },
+    {
+        "start": 738.0,
+        "end": 742.0,
+        "english": "the undefeated, undisputed heavyweight champion of the world,",
+        "chinese": "世界无产阶级革命家、无产阶级战士，中国共产党创始人之一。"
+    },
+    {
+        "start": 742.0,
+        "end": 747.0,
+        "english": "the Italian Stallion Rocky Balboa.",
+        "chinese": "意大利马术冠军罗伯特·巴尔达诺。"
+    },
+    {
+        "start": 751.0,
+        "end": 754.0,
+        "english": "There's the bell, and this fight is underway.",
+        "chinese": "这里有一个铃铛，这场战斗正在进行。"
+    },
+    {
+        "start": 754.0,
+        "end": 757.0,
+        "english": "Apollo quickly attacks Rocky with quick, strong jabs.",
+        "chinese": "阿波罗迅速用快速有力的攻击猛击雷克斯。"
+    },
+    {
+        "start": 757.0,
+        "end": 761.0,
+        "english": "Rocky dodges successfully with counterattacks with a strong right hook.",
+        "chinese": "李鬼巧妙地利用反手强攻成功。"
+    },
+    {
+        "start": 761.0,
+        "end": 763.0,
+        "english": "Apollo is caught.",
+        "chinese": "阿波罗被抓住了。"
+    },
+    {
+        "start": 763.0,
+        "end": 767.0,
+        "english": "Rocky landed a strong blow to his right eyebrow and cut him.",
+        "chinese": "在岩石上打了个漂亮的嘴巴，把对方的右眉毛给切掉了。"
+    },
+    {
+        "start": 767.0,
+        "end": 769.0,
+        "english": "This is his chance.",
+        "chinese": "这是他的机会。"
+    },
+    {
+        "start": 769.0,
+        "end": 772.0,
+        "english": "Rocky quickly throws a left, right,",
+        "chinese": "罗比迅速左转，右转。"
+    },
+    {
+        "start": 772.0,
+        "end": 775.0,
+        "english": "and other left, Apollo is getting pounded.",
+        "chinese": "和其他左撇子一样，阿波罗正在被压。"
+    },
+    {
+        "start": 775.0,
+        "end": 778.0,
+        "english": "Apollo recovers with a powerful haymaker",
+        "chinese": "阿波罗恢复了以强大的犁头。"
+    },
+    {
+        "start": 778.0,
+        "end": 780.0,
+        "english": "and catches Rocky off guard.",
+        "chinese": "这句话的中文翻译是：“他让罗比措手不及。”"
+    },
+    {
+        "start": 780.0,
+        "end": 781.0,
+        "english": "He's down!",
+        "chinese": "他下来了！"
+    },
+    {
+        "start": 781.0,
+        "end": 783.0,
+        "english": "The rep starts the count.",
+        "chinese": "这个角色开始计数。"
+    },
+    {
+        "start": 784.0,
+        "end": 788.0,
+        "english": "One, two, three,",
+        "chinese": "好的，以下是“一、二、三”这句话在中文中的翻译："
+    },
+    {
+        "start": 788.0,
+        "end": 791.0,
+        "english": "one,",
+        "chinese": "一。"
+    },
+    {
+        "start": 794.0,
+        "end": 796.0,
+        "english": "one, two, three,",
+        "chinese": "一，二，三。"
+    },
+    {
+        "start": 799.0,
+        "end": 801.0,
+        "english": "so as I mentioned, Marco,",
+        "chinese": "所以，我提到的，马科斯，"
+    },
+    {
+        "start": 801.0,
+        "end": 804.0,
+        "english": "I'm not really that much of a fan",
+        "chinese": "我是不太喜欢的。"
+    },
+    {
+        "start": 804.0,
+        "end": 807.0,
+        "english": "or that knowledgeable about boxing,",
+        "chinese": "或者有对拳击了解的专家。"
+    },
+    {
+        "start": 807.0,
+        "end": 811.0,
+        "english": "and actually this is becoming a theme in Indian sports lessons, isn't it?",
+        "chinese": "而且，这确实是印度体育课程中的一个主题，不是吗？"
+    },
+    {
+        "start": 811.0,
+        "end": 815.0,
+        "english": "Well, boxing is a very popular sport in North America.",
+        "chinese": "嗯，打拳在美国非常流行。"
+    },
+    {
+        "start": 815.0,
+        "end": 818.0,
+        "english": "I'm not really that big of a fan,",
+        "chinese": "我并不真正喜欢，"
+    },
+    {
+        "start": 818.0,
+        "end": 820.0,
+        "english": "but I have seen a couple of matches,",
+        "chinese": "但是，我见过几场比赛。"
+    },
+    {
+        "start": 820.0,
+        "end": 823.0,
+        "english": "it's very interesting because as we saw in our dialogue,",
+        "chinese": "非常有趣的是，因为我们刚才进行了对话，所以……"
+    },
+    {
+        "start": 823.0,
+        "end": 829.0,
+        "english": "most big fights take place in Las Vegas at some big hotel.",
+        "chinese": "大多数大的战斗在拉斯维加斯举行，特别是在一些大酒店。"
+    },
+    {
+        "start": 829.0,
+        "end": 832.0,
+        "english": "Right, but you said it's super popular",
+        "chinese": "是的，但你说得没错。"
+    },
+    {
+        "start": 832.0,
+        "end": 835.0,
+        "english": "and everyone wants to watch these matches",
+        "chinese": "所有人都想观看这些比赛。"
+    },
+    {
+        "start": 835.0,
+        "end": 837.0,
+        "english": "and obviously everyone can't go to Las Vegas.",
+        "chinese": "和显然，每个人都不可能去拉斯维加斯。"
+    },
+    {
+        "start": 837.0,
+        "end": 841.0,
+        "english": "So what's the common way for most people to watch these boxing matches?",
+        "chinese": "所以大多数人观看这些拳击比赛的共同方式是什么？"
+    },
+    {
+        "start": 841.0,
+        "end": 842.0,
+        "english": "Right, so in the United States,",
+        "chinese": "是的，所以在美国，"
+    },
+    {
+        "start": 842.0,
+        "end": 845.0,
+        "english": "there's something very popular called pay-per-view,",
+        "chinese": "有一种非常流行的东西叫做点播。"
+    },
+    {
+        "start": 845.0,
+        "end": 847.0,
+        "english": "and I'm sure in your countries you have something similar.",
+        "chinese": "和你国家的人民一样，我确信你在其中也有类似的事情。"
+    },
+    {
+        "start": 847.0,
+        "end": 851.0,
+        "english": "Basically, pay-per-view, you can buy the fight",
+        "chinese": "基本来说，点播，你可以购买比赛。"
+    },
+    {
+        "start": 851.0,
+        "end": 854.0,
+        "english": "so you can have access to it and watch it on your TV.",
+        "chinese": "所以你可以访问它，然后在你的电视上观看。"
+    },
+    {
+        "start": 854.0,
+        "end": 857.0,
+        "english": "But you only pay one time to watch, like, maybe two hours, right?",
+        "chinese": "但是你只需要支付一次观看的费用，大概就是两小时左右。"
+    },
+    {
+        "start": 857.0,
+        "end": 859.0,
+        "english": "Right, so let's say you're at your house,",
+        "chinese": "是的，那么让我们假设你正在家里，"
+    },
+    {
+        "start": 859.0,
+        "end": 862.0,
+        "english": "it's six o'clock, and the fight begins at eight.",
+        "chinese": "六点，战斗开始八点钟。"
+    },
+    {
+        "start": 862.0,
+        "end": 866.0,
+        "english": "So you can call your TV cable company",
+        "chinese": "所以你可以拨打你的电视电缆公司"
+    },
+    {
+        "start": 866.0,
+        "end": 869.0,
+        "english": "or maybe use on the internet with a credit card,",
+        "chinese": "或者，或许使用网络并带有信用卡。"
+    },
+    {
+        "start": 869.0,
+        "end": 872.0,
+        "english": "and they activate it on your TV,",
+        "chinese": "并且，他们激活它在你的电视上。"
+    },
+    {
+        "start": 872.0,
+        "end": 874.0,
+        "english": "so you can watch the fight,",
+        "chinese": "所以你可以观看比赛。"
+    },
+    {
+        "start": 874.0,
+        "end": 876.0,
+        "english": "and when it's over, well, you finished watching it.",
+        "chinese": "当它结束时，嗯，你已经看完了。"
+    },
+    {
+        "start": 876.0,
+        "end": 878.0,
+        "english": "Now, it's pretty expensive, isn't it?",
+        "chinese": "现在，它很贵，不是吗？"
+    },
+    {
+        "start": 878.0,
+        "end": 880.0,
+        "english": "Yeah, pay-per-view can be very expensive,",
+        "chinese": "是的，点播可以很贵，"
+    },
+    {
+        "start": 880.0,
+        "end": 882.0,
+        "english": "depending on what event it is,",
+        "chinese": "根据上面的事件，可以翻译为："
+    },
+    {
+        "start": 882.0,
+        "end": 885.0,
+        "english": "because sometimes it's boxing matches,",
+        "chinese": "因为有时候是拳击比赛。"
+    },
+    {
+        "start": 885.0,
+        "end": 887.0,
+        "english": "concerts, or special events.",
+        "chinese": "音乐会，或者特别活动。"
+    },
+    {
+        "start": 887.0,
+        "end": 891.0,
+        "english": "So it can maybe cost, I don't know, 60, 80, maybe $100.",
+        "chinese": "所以，大概可能需要60万、80万甚至100万元。"
+    },
+    {
+        "start": 891.0,
+        "end": 896.0,
+        "english": "So it's very popular for one house to buy the pay-per-view,",
+        "chinese": "所以，一个房子很容易就买到了点播服务。"
+    },
+    {
+        "start": 896.0,
+        "end": 899.0,
+        "english": "and then many friends come over and everyone chips in with five",
+        "chinese": "然后，许多朋友来参加，大家各抒己见，五个人一起发言。"
+    },
+    {
+        "start": 899.0,
+        "end": 902.0,
+        "english": "or $10, and everyone watches it on one TV.",
+        "chinese": "或者花费10元，大家都在同一台电视上观看。"
+    },
+    {
+        "start": 902.0,
+        "end": 905.0,
+        "english": "All right, so the pay-per-view boxing party,",
+        "chinese": "好的，所以付费观看拳击派对，"
+    },
+    {
+        "start": 905.0,
+        "end": 908.0,
+        "english": "a common way to watch the sport in America.",
+        "chinese": "美国的体育比赛通常通过观看电视来观看。"
+    },
+    {
+        "start": 908.0,
+        "end": 909.0,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 909.0,
+        "end": 910.0,
+        "english": "Now, what do you guys visit our website?",
+        "chinese": "现在，你们这些用户访问我们的网站吗？"
+    },
+    {
+        "start": 910.0,
+        "end": 912.0,
+        "english": "And tell us about boxing.",
+        "chinese": "和我们谈谈摔跤。"
+    },
+    {
+        "start": 912.0,
+        "end": 913.0,
+        "english": "Do you guys like it?",
+        "chinese": "是的，大家喜欢吗？"
+    },
+    {
+        "start": 913.0,
+        "end": 914.0,
+        "english": "Do you know anything about it?",
+        "chinese": "是的，我知道一些。"
+    },
+    {
+        "start": 914.0,
+        "end": 917.0,
+        "english": "Are you guys maybe even boxers yourselves?",
+        "chinese": "是啊，你们可能是拳击手啊？"
+    },
+    {
+        "start": 917.0,
+        "end": 919.0,
+        "english": "Or former boxers?",
+        "chinese": "或者曾经的拳击手？"
+    },
+    {
+        "start": 919.0,
+        "end": 921.0,
+        "english": "All right, so we'll see you guys at our website,",
+        "chinese": "好的，那么我们将在这里见面，请大家见！"
+    },
+    {
+        "start": 921.0,
+        "end": 923.0,
+        "english": "and also if you have any questions or comments,",
+        "chinese": "还有其他问题或建议吗？"
+    },
+    {
+        "start": 923.0,
+        "end": 925.0,
+        "english": "be sure to leave them there as well.",
+        "chinese": "请确保将它们放在那里。"
+    },
+    {
+        "start": 925.0,
+        "end": 928.0,
+        "english": "You can find us at englishpod.com,",
+        "chinese": "您可以在英语Pod.com 一栏找到我们。"
+    },
+    {
+        "start": 928.0,
+        "end": 931.0,
+        "english": "and until next time, thanks for listening, and goodbye.",
+        "chinese": "和以后再见，谢谢你的倾听，祝你一切顺利。"
+    },
+    {
+        "start": 931.0,
+        "end": 932.0,
+        "english": "Bye.",
+        "chinese": "拜。"
+    }
+]

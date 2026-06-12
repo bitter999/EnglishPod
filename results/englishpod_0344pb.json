@@ -1,0 +1,812 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.5200000000000005,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.5200000000000005,
+        "end": 8.98,
+        "english": "My name is Catherine and today we're traveling a little bit and we need to book a hotel",
+        "chinese": "我的名字是凯特，今天我们打算去旅行，并需要预订旅馆。"
+    },
+    {
+        "start": 8.98,
+        "end": 9.98,
+        "english": "room.",
+        "chinese": "房间"
+    },
+    {
+        "start": 9.98,
+        "end": 12.9,
+        "english": "That's right so today we're going to learn all the words and phrases that will help",
+        "chinese": "好的，以下是将英文翻译成中文的句子："
+    },
+    {
+        "start": 12.9,
+        "end": 17.740000000000002,
+        "english": "you talk to the receptionist in order to book a hotel room.",
+        "chinese": "你打电话给前台，让他们帮你预订房间。"
+    },
+    {
+        "start": 17.740000000000002,
+        "end": 19.740000000000002,
+        "english": "Let's check out our dialogue.",
+        "chinese": "让我们看看我们的对话。"
+    },
+    {
+        "start": 19.74,
+        "end": 27.24,
+        "english": "Madison, sweet. Tell me I help you.",
+        "chinese": "小明，你好。告诉我，我帮你吧。"
+    },
+    {
+        "start": 27.24,
+        "end": 32.32,
+        "english": "Yes, I am calling from Mexico. I will be in town next week and would like to know if",
+        "chinese": "是的，我正在从墨西哥打电话。下周我要去拜访你，并询问是否可以了解一下。"
+    },
+    {
+        "start": 32.32,
+        "end": 33.92,
+        "english": "you have availability.",
+        "chinese": "你有空闲时间。"
+    },
+    {
+        "start": 33.92,
+        "end": 37.04,
+        "english": "Okay ma'am can you tell me the date you expect to check in?",
+        "chinese": "好的，我明白了。请告诉我您期望检查入站日期是哪一天。"
+    },
+    {
+        "start": 37.04,
+        "end": 40.68,
+        "english": "Yes, July 9th. I will be there for 7 nights.",
+        "chinese": "是的，七月九日。我将在此待7夜。"
+    },
+    {
+        "start": 40.68,
+        "end": 45.28,
+        "english": "We have a junior single sweet or a superior double sweet available for those dates.",
+        "chinese": "我们有两个单身或一个双面甜的约会对象。"
+    },
+    {
+        "start": 45.28,
+        "end": 46.28,
+        "english": "What's the difference?",
+        "chinese": "这个问题的中文答案是“有什么不同？”。"
+    },
+    {
+        "start": 46.300000000000004,
+        "end": 49.9,
+        "english": "But junior sweet is smaller and has one twin bed while the superior sweet has a double",
+        "chinese": "但是，小甜是更小的，并且有一个双床，而优甜则有一间单间。"
+    },
+    {
+        "start": 49.9,
+        "end": 51.06,
+        "english": "bed and mini bar.",
+        "chinese": "床和小酒吧。"
+    },
+    {
+        "start": 51.06,
+        "end": 55.120000000000005,
+        "english": "Okay, I would like to reserve the superior sweet. Is breakfast included?",
+        "chinese": "好的，我想要预订早餐。是的，请问有甜点吗？"
+    },
+    {
+        "start": 55.120000000000005,
+        "end": 59.120000000000005,
+        "english": "Yes, but breakfast is served every morning. I will need your name and your credit card",
+        "chinese": "是的，但早餐每天都在。我需要你的姓名和信用卡信息。"
+    },
+    {
+        "start": 59.120000000000005,
+        "end": 61.06,
+        "english": "details in order to complete the reservation.",
+        "chinese": "详细列出以完成预订。"
+    },
+    {
+        "start": 61.06,
+        "end": 67.46000000000001,
+        "english": "Sure, my credit card number is...",
+        "chinese": "当然，我的信用卡号码是...。"
+    },
+    {
+        "start": 67.46000000000001,
+        "end": 72.44,
+        "english": "Alright we're back so now let's take a look at language takeaway.",
+        "chinese": "好的，我们已经回来，现在让我们看看语言的收获。"
+    },
+    {
+        "start": 72.44,
+        "end": 75.2,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 75.2,
+        "end": 79.0,
+        "english": "So we've got a lot of great phrases and words today in language takeaway.",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 79.0,
+        "end": 84.08,
+        "english": "The first one that comes from the beginning of the dialogue, it's availability.",
+        "chinese": "第一个对话中的第一个，它是什么时候开始有的？"
+    },
+    {
+        "start": 84.08,
+        "end": 88.84,
+        "english": "Alright, so the woman wanted to know if the hotel has availability.",
+        "chinese": "好的，所以这个女人想知道酒店是否有空房。"
+    },
+    {
+        "start": 88.84,
+        "end": 90.16,
+        "english": "So what does that mean?",
+        "chinese": "所以，那意味着什么？"
+    },
+    {
+        "start": 90.16,
+        "end": 95.12,
+        "english": "That means do you have free rooms? Do you have any rooms I could rent?",
+        "chinese": "是的，你有空房吗？我能否为您寻找一间我可以租用的房间呢？"
+    },
+    {
+        "start": 95.12,
+        "end": 99.96000000000001,
+        "english": "So instead of saying do you have any free rooms or do you have rooms available, you can",
+        "chinese": "所以，如果你说你有空房或房间可用，你可以"
+    },
+    {
+        "start": 99.96000000000001,
+        "end": 102.76,
+        "english": "just say do you have availability?",
+        "chinese": "请说，你有空吗？"
+    },
+    {
+        "start": 102.76,
+        "end": 108.26,
+        "english": "That's right. So you're basically asking the person, do you have anything available?",
+        "chinese": "英语：那对了。所以你大致在问，这个人有没有什么可以提供或准备的东西？"
+    },
+    {
+        "start": 108.26,
+        "end": 110.28,
+        "english": "So what's your availability?",
+        "chinese": "英语：所以你的 Availability 如何？"
+    },
+    {
+        "start": 110.28,
+        "end": 115.86,
+        "english": "Very good. Okay. Alright, so we ask the hotel if they have availability and obviously the",
+        "chinese": "很好。行吗？好的，所以我们要问酒店是否有空房，并且很明显，酒店的"
+    },
+    {
+        "start": 115.86,
+        "end": 121.36000000000001,
+        "english": "receptionist needs to know when we expect to check in.",
+        "chinese": "英语：接待员需要知道我们什么时候可以办理入站手续。"
+    },
+    {
+        "start": 121.36000000000001,
+        "end": 126.16000000000001,
+        "english": "So this is a noun and a verb, but in today's dialogue it's used as a verb.",
+        "chinese": "英语：所以，这是一名词和一动词，但在今天的对话中它被用作动词。"
+    },
+    {
+        "start": 126.16000000000001,
+        "end": 129.46,
+        "english": "So it's something we do to check in.",
+        "chinese": "所以，这正是我们用来检查入局的手段。"
+    },
+    {
+        "start": 129.46,
+        "end": 133.74,
+        "english": "So the person on the phone would like to know what date you expect to check in.",
+        "chinese": "所以打电话的人想知道你什么时候能到。"
+    },
+    {
+        "start": 133.74,
+        "end": 137.02,
+        "english": "That means when will you arrive at our hotel?",
+        "chinese": "这句话的意思是：“这意味着你什么时候能到达我们的酒店？”"
+    },
+    {
+        "start": 137.02,
+        "end": 142.32,
+        "english": "That's right. So maybe we will arrive to the city a couple of days before we check into",
+        "chinese": "是的，你说得对。或许我们几天后就能抵达城市了。"
+    },
+    {
+        "start": 142.32,
+        "end": 146.9,
+        "english": "the hotel. So we really specifically want to know when are you going to start sleeping",
+        "chinese": "英语：酒店。"
+    },
+    {
+        "start": 146.9,
+        "end": 147.9,
+        "english": "here?",
+        "chinese": "在这里？（Here?）"
+    },
+    {
+        "start": 147.9,
+        "end": 153.02,
+        "english": "That's right. And the opposite, so when you leave the hotel is called check out to check",
+        "chinese": "是的。而且，当你离开酒店时，叫“退房”或“结账”。"
+    },
+    {
+        "start": 153.02,
+        "end": 159.42000000000002,
+        "english": "out. That's right. Okay. So we want to check in on July 9th and the receptionist",
+        "chinese": "出。正确。那么，我们想检查7月9日的接待情况。"
+    },
+    {
+        "start": 159.42,
+        "end": 164.01999999999998,
+        "english": "tells us that we have available a single suite or a double suite.",
+        "chinese": "英语：它告诉我们我们有单个套件或双套件。"
+    },
+    {
+        "start": 164.01999999999998,
+        "end": 169.33999999999997,
+        "english": "Alright, so these are two different kinds of rooms. Now a suite is different from a room",
+        "chinese": "好的，所以这些是两种不同的房间。现在一间套房不同于一间房间"
+    },
+    {
+        "start": 169.33999999999997,
+        "end": 174.17999999999998,
+        "english": "because it actually means that the space you're going to use is more than one room, maybe",
+        "chinese": "因为实际上，你使用的空间比一个房间大得多，可能。"
+    },
+    {
+        "start": 174.17999999999998,
+        "end": 175.57999999999998,
+        "english": "two rooms or three.",
+        "chinese": "两个房间或三个。"
+    },
+    {
+        "start": 175.57999999999998,
+        "end": 178.92,
+        "english": "That's right. So it's a little bit bigger than just a standard room.",
+        "chinese": "是的，那么现在请告诉我，这个傻瓜相机比标准房间大多少？"
+    },
+    {
+        "start": 178.92,
+        "end": 186.26,
+        "english": "It might have a sitting area or a kitchen area. So that's what a suite is. Very expensive",
+        "chinese": "英语：它可能有一个储藏室或厨房。所以这就是套间了。价格很高。"
+    },
+    {
+        "start": 186.26,
+        "end": 191.92,
+        "english": "rooms are suites as well. They have a sitting area and a kitchen and maybe even an extra",
+        "chinese": "房间也像套房一样。它们有客厅和厨房，甚至可能还有额外的区域。"
+    },
+    {
+        "start": 191.92,
+        "end": 197.7,
+        "english": "bedroom. That's right. Okay. So we have a single suite. That means that we have one of",
+        "chinese": "卧室。正确。那么我们有一个单间套房。这意味着我们有一个房间。"
+    },
+    {
+        "start": 197.7,
+        "end": 203.72,
+        "english": "these big rooms that is only for one person. Yeah. And a double suite means that two or",
+        "chinese": "这些大房间只供一个人使用。嗯，而且双套间意味着两个人或以上。"
+    },
+    {
+        "start": 203.72,
+        "end": 207.76,
+        "english": "more people can sleep there. That's right. So single will be one person and double will",
+        "chinese": "更多人可以在这里睡觉。没错，所以单人会是一个人，双人则会是两个人。"
+    },
+    {
+        "start": 207.76,
+        "end": 214.82,
+        "english": "be two people. And we also heard similar words with the beds because sometimes the rooms",
+        "chinese": "是两个人。而且我们还听到类似单词，因为有时候房间里会有一些事情。"
+    },
+    {
+        "start": 214.82,
+        "end": 219.73999999999998,
+        "english": "aren't really clear about what kind of beds they have. So this person asked, what's",
+        "chinese": "英语：他们没有明确说明他们的床是哪种类型的。"
+    },
+    {
+        "start": 219.73999999999998,
+        "end": 224.22,
+        "english": "the difference between these rooms and the hotel employee answered, well, the junior's",
+        "chinese": "这个房间和酒店员工之间的区别在于，这些房间比酒店员工的工作更差。"
+    },
+    {
+        "start": 224.22,
+        "end": 232.14,
+        "english": "suite has one twin bed. Mm hmm. Alright. What's a twin bed? So a twin bed is basically",
+        "chinese": "床是双人床。嗯，双人床就是基本的双人床，也就是一个单人床加一个双人床，所以双人床可以看作是一个基本的双人床。"
+    },
+    {
+        "start": 232.14,
+        "end": 237.62,
+        "english": "a bed that's only for one person. Only one person fits in there. Alright. So it's a",
+        "chinese": "一个只能容纳一个人的床。只有一个地方能放进去。好了，所以它就是一个。"
+    },
+    {
+        "start": 237.62,
+        "end": 242.7,
+        "english": "single, it's a single bed. Basically, we call it a twin. It's a standard size. So everywhere",
+        "chinese": "英语：单反相机，它是一台单人床。基本上，我们把它称为双人床。它是标准尺寸。所以，在这里，无论在哪里。"
+    },
+    {
+        "start": 242.7,
+        "end": 247.33999999999997,
+        "english": "you go, a twin is always for one person. That's right. Alright. And if you want to have",
+        "chinese": "你上，一对总是为一个人。对吧？和你一起！"
+    },
+    {
+        "start": 247.33999999999997,
+        "end": 251.17999999999998,
+        "english": "another person in bed, we have to get a bigger one. And what's that bigger bed called?",
+        "chinese": "另一个在床上，我们需要一个更大的床。而且那个更大的床叫什么名字？"
+    },
+    {
+        "start": 251.17999999999998,
+        "end": 257.86,
+        "english": "It's called a double bed. A double bed. So again, double, double room, double bed. So this",
+        "chinese": "英语：它叫双人床。双人床。所以又叫双，双人床。这个房间是双层的，双人床。所以这个房间是双层的，双人床。"
+    },
+    {
+        "start": 257.86,
+        "end": 262.26,
+        "english": "means that two people can sleep on the one bed. That's right. So this is important because",
+        "chinese": "这句话的中文翻译是：它意味着两个人可以在一张床上同时睡觉。这是正确的，所以这很重要因为"
+    },
+    {
+        "start": 262.26,
+        "end": 267.65999999999997,
+        "english": "sometimes you want to book a hotel room and it will be a double suite, but it will have",
+        "chinese": "有时候你想要预订一间酒店房间，它会是双床房，但会有"
+    },
+    {
+        "start": 267.66,
+        "end": 272.62,
+        "english": "two twin beds. Alright. So it's a double room. So it's for two people, but each person",
+        "chinese": "两个双人床。好的，所以它是一间双人间，每人都住一个床位，但每人只能睡两个人。"
+    },
+    {
+        "start": 272.62,
+        "end": 279.02000000000004,
+        "english": "has their own small bed. That's right. Two twin beds. Mm hmm. Okay. And lastly, the",
+        "chinese": "他们的床有自己的小床。没错。两张单人床。嗯，最后，还有最后一个"
+    },
+    {
+        "start": 279.02000000000004,
+        "end": 285.3,
+        "english": "superior double suite, not only had a double bed, but also had a mini bar. A mini bar.",
+        "chinese": "高级双床组合，不仅有双床，还有一小吧台。小吧台。"
+    },
+    {
+        "start": 285.3,
+        "end": 289.54,
+        "english": "So you know what a bar is? It's a place you go to get some alcohol or some drinks, but",
+        "chinese": "所以你知道什么是酒吧吗？它是一种你去喝点酒或者吃点东西的地方，但"
+    },
+    {
+        "start": 289.54,
+        "end": 295.5,
+        "english": "a mini bar is a little bit different, right? Mm hmm. It's a little refrigerator or a",
+        "chinese": "英语：一个小冰箱或一个小抽屉，对不对？"
+    },
+    {
+        "start": 295.5,
+        "end": 302.14,
+        "english": "little area where you will have snacks and drinks that you can just basically take freely,",
+        "chinese": "小区域，你可以在那里随便吃点零食和饮料。"
+    },
+    {
+        "start": 302.14,
+        "end": 306.7,
+        "english": "but obviously you will have to pay afterwards. That's right. So you can take them when you're",
+        "chinese": "但是显然你将在之后支付。没错，你可以随时拿它们。"
+    },
+    {
+        "start": 306.7,
+        "end": 310.82,
+        "english": "staying there, but when you check out, when you leave, you have to pay for everything",
+        "chinese": "在住在那里，但当你退房时、离开时，你必须为所有东西付费。"
+    },
+    {
+        "start": 310.82,
+        "end": 315.22,
+        "english": "you ate or drank. That's right. Okay. So a lot of words there on language take away",
+        "chinese": "英语：你吃或喝。对的。所以很多语言在这里会剥夺很多单词。"
+    },
+    {
+        "start": 315.22,
+        "end": 317.94,
+        "english": "today. Let's take a break and listen to the dialogue again.",
+        "chinese": "今天。让我们再次听对话吧。"
+    },
+    {
+        "start": 317.94,
+        "end": 329.26,
+        "english": "Madison, sweet. Tell me I help you. Yes. I am calling from Mexico. I will be in town",
+        "chinese": "美国的孟加拉，你好。告诉我，我帮你。是的，我在墨西哥待命。我会在你身边。"
+    },
+    {
+        "start": 329.26,
+        "end": 334.18,
+        "english": "next week and would like to know if you have availability. Okay, ma'am. Can you tell me",
+        "chinese": "下周一想了解一下你的可用性。好的，女士，请告诉我。"
+    },
+    {
+        "start": 334.18,
+        "end": 339.78,
+        "english": "the date you expect to check in? Yes. July 9th. I will be there for seven nights.",
+        "chinese": "日期你预期检查的时间是？是的。7月9日。我将在七天内到场。"
+    },
+    {
+        "start": 339.78,
+        "end": 344.5,
+        "english": "We have a junior single suite or a superior double suite available for those dates. What's",
+        "chinese": "我们有日期为那的单套或双套组合可供选择。"
+    },
+    {
+        "start": 344.5,
+        "end": 348.5,
+        "english": "the difference? The junior suite is smaller and has one twin bed while the superior suite",
+        "chinese": "英语：这个区别？优级套间比高级套间小，有单人床。"
+    },
+    {
+        "start": 348.5,
+        "end": 353.34,
+        "english": "has a double bed and mini bar. Okay. I would like to reserve the superior suite. Is breakfast",
+        "chinese": "英语：它有一个双床和迷你酒吧。好的。我想要预订优胜厅套房。早餐怎么样？"
+    },
+    {
+        "start": 353.34,
+        "end": 357.7,
+        "english": "included? Yes. But breakfast is served every morning. I will need your name and your",
+        "chinese": "是的，但早餐每天都在。我需要你的名字和你的联系方式。"
+    },
+    {
+        "start": 357.7,
+        "end": 363.14,
+        "english": "credit card details in order to complete the reservation. Sure. My credit card number is...",
+        "chinese": "信用卡信息用于完成预订。当然。我的信用卡号是..."
+    },
+    {
+        "start": 363.14,
+        "end": 372.34,
+        "english": "All right. So now it's time for some phrases. Let's start with Fluency Builder. Fluency",
+        "chinese": "英语：所有准备好了。现在该轮到你了，让我们从Fluency Builder开始。流畅构建单元。"
+    },
+    {
+        "start": 373.06,
+        "end": 377.7,
+        "english": "Builder. So the first phrase in Fluency Builder might seem a little bit strange. I will be",
+        "chinese": "Builder. 所以，Fluency Builder 可能听起来有点奇怪。我将使用 Fluent Builder 作为例子。"
+    },
+    {
+        "start": 377.7,
+        "end": 385.06,
+        "english": "in town next week. I'll be in town in what town? That's right. Well, if you say I will be in town,",
+        "chinese": "在周日，我将在哪里？没错。如果你们说我会在哪儿，那我就在这里了。"
+    },
+    {
+        "start": 385.06,
+        "end": 391.62,
+        "english": "that basically says I will be in this town. I will be there. I will be here. So I'll be in the town",
+        "chinese": "那基本上意味着我将在这个城市待一段时间。我会在那里待一段时间。我会在这里待一段时间。所以，我会在城市待一段时间。"
+    },
+    {
+        "start": 391.62,
+        "end": 397.38,
+        "english": "you're in. This is interesting. So when I'm talking to someone, maybe Marco is in Chicago and I'm in",
+        "chinese": "你好。你在这里吗？这是有趣的。所以，当你和某人交谈时，也许马克在芝加哥，我在伦敦。"
+    },
+    {
+        "start": 397.38,
+        "end": 403.7,
+        "english": "New York. I call him. I say, Hey, Marco. I'll be in town next week. What are you doing? Right.",
+        "chinese": "纽约。我叫他。我说，嘿，马科罗。我会在下周来拜访你的。你正在做什么？"
+    },
+    {
+        "start": 403.7,
+        "end": 407.54,
+        "english": "You want to have a drink. That means I'm going to be where? You're going to be in Chicago. That's",
+        "chinese": "你想要喝点什么。这意味着我要在哪里？你要在芝加哥。"
+    },
+    {
+        "start": 407.54,
+        "end": 412.18,
+        "english": "right. I'll be in Chicago like Marco is. I'm not going to talk about where I am now. This usually",
+        "chinese": "正确答案是：右。我将在芝加哥待如马库斯一样。我不打算谈论我现在的位置。这通常会很有趣。"
+    },
+    {
+        "start": 412.18,
+        "end": 417.3,
+        "english": "means I'm going somewhere else. That's right. So actually you can tell your friends that you're",
+        "chinese": "这句话的意思是：“我打算去别的地方。” 这是对的。所以实际上你可以告诉你的朋友你正在“出差”。"
+    },
+    {
+        "start": 417.3,
+        "end": 422.42,
+        "english": "going to be in town or sometimes you have to tell someone you're going to be out of town. I'll be",
+        "chinese": "英语：将要离开或有时你必须告诉别人你要出去。我会"
+    },
+    {
+        "start": 422.5,
+        "end": 427.3,
+        "english": "out of town. That means I won't be where I am now. I won't be in New York. I'll be somewhere else.",
+        "chinese": "离家出走。这意味着我现在不在这里，我将去往纽约之外的地方。"
+    },
+    {
+        "start": 427.3,
+        "end": 432.98,
+        "english": "I'll be in Chicago. That's right. All right. So now moving on where when we were talking specifically",
+        "chinese": "我将在芝加哥待着。对吧？好的，现在继续我们之前讨论的话题。"
+    },
+    {
+        "start": 432.98,
+        "end": 440.82,
+        "english": "about the hotel and maybe the what is included with our suite, we asked a very important question.",
+        "chinese": "关于酒店和我们套餐里可能包含的其他物品，我们向一个非常重要的问题提出了一个问题。"
+    },
+    {
+        "start": 440.82,
+        "end": 447.62,
+        "english": "Is breakfast included included in what? In the price. All right. So this is a very common question",
+        "chinese": "英语：是早餐包括在价格中的吗？在价格里。好的，这是个很常见的问题。"
+    },
+    {
+        "start": 447.7,
+        "end": 452.98,
+        "english": "like you're saying, Marco, but it's not obvious. So when you ask is breakfast included? That means",
+        "chinese": "英语：像你说的，马科，但不是很清楚。所以当你问早餐是否包括时，这意味着"
+    },
+    {
+        "start": 452.98,
+        "end": 460.42,
+        "english": "do I have to pay extra for breakfast? If breakfast is included, I don't have to pay. If it's not",
+        "chinese": "是的，你必须为早餐支付额外费用。如果早餐是包含在内，那么就不需要支付额外费用。否则，你需要自己承担费用。"
+    },
+    {
+        "start": 460.42,
+        "end": 465.46,
+        "english": "included, that means I have to pay extra for breakfast. That's right. And in this case, breakfast",
+        "chinese": "包含，这意味着我必须额外支付早餐费。正确。在这种情况下，早餐"
+    },
+    {
+        "start": 465.46,
+        "end": 470.5,
+        "english": "is included, but not just any breakfast. It's a buffet breakfast. My favorite kind of breakfast.",
+        "chinese": "是包含的，但不是任何早餐。它是自助早餐。我最喜欢的一顿饭。"
+    },
+    {
+        "start": 471.3,
+        "end": 475.46,
+        "english": "So this is pretty common with hotels. They they will serve up a buffet breakfast from",
+        "chinese": "英语：所以，这在酒店里很常见。他们通常会提供一个自助早餐菜单。"
+    },
+    {
+        "start": 475.46,
+        "end": 482.65999999999997,
+        "english": "7 am to 9 am or whatever. A buffet means that there's a room with tables and food on the tables.",
+        "chinese": "早上七点到九点或者什么时间。自助餐意味着有桌子和食物的房间。"
+    },
+    {
+        "start": 482.65999999999997,
+        "end": 488.26,
+        "english": "Right. So you don't order food. You just take whatever you want. That's right. So you can take",
+        "chinese": "正确。所以你不需要点餐，你可以随便选择你想吃的食物。这样是正确的。所以你可以随意点菜。"
+    },
+    {
+        "start": 488.26,
+        "end": 494.09999999999997,
+        "english": "whatever you want and usually as much as you want. That's the best part. Okay. So now we know that",
+        "chinese": "不管你想要什么，通常你想要的就多。这就是最好的一部分。好的。现在我们知道"
+    },
+    {
+        "start": 494.09999999999997,
+        "end": 499.85999999999996,
+        "english": "breakfast is included. We know what a room is like. So we're going to make the reservation and the",
+        "chinese": "早餐是包含的。我们都知道一个房间的样子，所以我们要订房并告知行李箱。"
+    },
+    {
+        "start": 499.86,
+        "end": 505.62,
+        "english": "hotel employees says that he needs our credit card details to complete the reservation.",
+        "chinese": "酒店员工说，他需要我们信用卡信息来完成预订。"
+    },
+    {
+        "start": 505.62,
+        "end": 511.46000000000004,
+        "english": "Credit card details. Now you might be wondering what details. Credit card details means the specific",
+        "chinese": "Credit card information. 现在你可能想知道哪些信息。"
+    },
+    {
+        "start": 511.46000000000004,
+        "end": 516.42,
+        "english": "information on your credit card. All right. So this is pretty common when you're making a purchase",
+        "chinese": "信息在你的信用卡上。一切好。所以，这在你购物时是相当常见的。"
+    },
+    {
+        "start": 516.42,
+        "end": 521.0600000000001,
+        "english": "on the phone or on the internet. You have to enter. You have to provide your credit card details.",
+        "chinese": "英文：在电话或互联网上。你必须输入。你必须提供你的信用卡信息。"
+    },
+    {
+        "start": 521.0600000000001,
+        "end": 528.1800000000001,
+        "english": "Right. That means your name, your credit card number. And the expiration date, which is when",
+        "chinese": "是的。这意味着你的名字、信用卡号码以及到期日，即何时会自动更新为最新的信息。"
+    },
+    {
+        "start": 528.18,
+        "end": 534.3399999999999,
+        "english": "the card will no longer be useful. So it's necessary because obviously you can say, yeah, I'm going",
+        "chinese": "英语：它将不再有用。所以，因为显然你可以说，对吧？"
+    },
+    {
+        "start": 534.3399999999999,
+        "end": 540.02,
+        "english": "to be there tomorrow and then you don't show up in the hotel loses money. So they need to make sure",
+        "chinese": "英语：要等明天，然后你就不会在酒店露宿了。所以他们需要确保。"
+    },
+    {
+        "start": 540.02,
+        "end": 544.42,
+        "english": "that they have you somehow. Yeah, that's their way of protecting themselves. They want to give you",
+        "chinese": "那他们怎么让你这么容易。是的，这是他们的方式保护自己。他们想给你"
+    },
+    {
+        "start": 544.42,
+        "end": 549.6999999999999,
+        "english": "the room, but they also don't want to lose money. Okay. So let's listen to our dialogue one last time",
+        "chinese": "这个房间，但它们也不希望亏损。好的，让我们再听一次我们的对话。"
+    },
+    {
+        "start": 549.94,
+        "end": 551.22,
+        "english": "and we'll be back to talk a little bit more.",
+        "chinese": "和我们聊点小话。"
+    },
+    {
+        "start": 557.94,
+        "end": 563.5400000000001,
+        "english": "Madison, sweet. Tell me I help you. Yes, I am calling from Mexico. I will be in town next week",
+        "chinese": "梅丽莎，宝贝。告诉我，我帮你。是的，我现在在墨西哥，下周将到访你。"
+    },
+    {
+        "start": 563.5400000000001,
+        "end": 568.6600000000001,
+        "english": "and would like to know if you have availability. Okay, ma'am, can you tell me the date you expect",
+        "chinese": "英语：和希望了解你是否有空闲时间。好的，女士，你能告诉我你预计的日期吗？"
+    },
+    {
+        "start": 568.6600000000001,
+        "end": 575.0600000000001,
+        "english": "to check in? Yes, July 9th. I will be there for seven nights. We have a junior single suite or",
+        "chinese": "是吗？是的，7月9日。我会在七天内待在这里。我们有一个单间套房或双人间。"
+    },
+    {
+        "start": 575.78,
+        "end": 580.0999999999999,
+        "english": "a superior double suite available for those dates. What's the difference? But junior suite is smaller",
+        "chinese": "英文：一个更好的双套床可供那些日期使用。但是，小床比大床更宽敞。"
+    },
+    {
+        "start": 580.0999999999999,
+        "end": 584.5799999999999,
+        "english": "and has one twin bed. Well, the superior suite has a double bed and mini bar. Okay, I would like",
+        "chinese": "和有双床和小酒吧的豪华套房。嗯，我想要一套豪华套房，包括一个双床和一个小吧台。很好，我愿意。"
+    },
+    {
+        "start": 584.5799999999999,
+        "end": 590.3399999999999,
+        "english": "to reserve the superior suite. Is breakfast included? Yes, but breakfast is served every morning. I will",
+        "chinese": "英语：为了保留高级套房。早餐是否包括？是的，但早餐每天都在提供。我将"
+    },
+    {
+        "start": 590.3399999999999,
+        "end": 595.14,
+        "english": "need your name and your credit card details in order to complete the reservation. Sure, my credit card",
+        "chinese": "需要你的姓名和信用卡信息才能完成预订。当然，我的信用卡"
+    },
+    {
+        "start": 595.78,
+        "end": 607.46,
+        "english": "number is. All right. So talking about hotels, I think one of the most important things out of this",
+        "chinese": "英语：数量是。"
+    },
+    {
+        "start": 607.46,
+        "end": 611.54,
+        "english": "well, not important, but also something that you should know is that the mini bar is always so",
+        "chinese": "好的，以下是翻译成中文的句子："
+    },
+    {
+        "start": 611.54,
+        "end": 617.06,
+        "english": "expensive. It is expensive. Be very careful when you're going into that mini bar. Sometimes it",
+        "chinese": "英语：昂贵。它很贵，当你进入那个小酒吧时一定要小心。有时候它可能有点贵哦。"
+    },
+    {
+        "start": 617.06,
+        "end": 622.18,
+        "english": "seems like a really good idea. You're hungry and there are crackers or you want to beer. But you",
+        "chinese": "英语：似乎是个不错的想法。你饿了，有薯条还是想喝啤酒？不过你可能需要调整一下你的计划。"
+    },
+    {
+        "start": 622.26,
+        "end": 626.8199999999999,
+        "english": "have to look at the menu because the menu will have the prices and maybe something that's really",
+        "chinese": "有得看菜单，因为菜单里会包含价格和可能的特别之处。"
+    },
+    {
+        "start": 626.8199999999999,
+        "end": 632.5,
+        "english": "cheap in a store outside is really expensive at a hotel. Yeah. Yeah. And I think sometimes,",
+        "chinese": "英文：便宜在商店外面真的比酒店贵。嗯，嗯，我觉得有时候。"
+    },
+    {
+        "start": 633.4599999999999,
+        "end": 637.54,
+        "english": "I don't know, sometimes it's even hard to find that little menu so you don't even know what the",
+        "chinese": "我不太知道，有时候甚至很难找到那个小菜单，你甚至不知道这个菜单的含义。"
+    },
+    {
+        "start": 637.54,
+        "end": 641.6999999999999,
+        "english": "prices are. But you're so thirsty, you just want to have something to drink now and it ends up",
+        "chinese": "价格是，但你这么渴啊，现在只想喝点东西，结果却把饮料都喝了。"
+    },
+    {
+        "start": 641.6999999999999,
+        "end": 646.9799999999999,
+        "english": "costing you $10. That's right. So be careful. Anytime you're in a hotel room, expect the prices to",
+        "chinese": "英语：它花费你$10。对，所以小心点。任何时候在酒店里，价格都会比预期更高。"
+    },
+    {
+        "start": 646.98,
+        "end": 652.1800000000001,
+        "english": "be pretty high for the things in the hotel. Unless, of course, there's a sign or a piece of paper",
+        "chinese": "高得离谱，对于酒店里的东西来说。除非，当然，有牌子或纸张"
+    },
+    {
+        "start": 652.1800000000001,
+        "end": 658.02,
+        "english": "that says that something is free or complimentary. Yeah, that's right. Complementary water is very",
+        "chinese": "这句话的意思是：“那说，某物是免费或免费赠送的。”没错，互补水是非常好的。"
+    },
+    {
+        "start": 658.02,
+        "end": 662.34,
+        "english": "common in hotels. They'll give you two free bottles of water. That's right. So complimentary means you",
+        "chinese": "酒店里常见。他们会给你两瓶免费的水。对吧？所以，免费指的是你得到了什么。"
+    },
+    {
+        "start": 662.34,
+        "end": 667.38,
+        "english": "don't have to pay for it. But if there's no sign, then expect to pay a lot. That's right. Okay. So",
+        "chinese": "不一定要付钱。但如果没有迹象，那得花不少钱。对吧？好的。所以"
+    },
+    {
+        "start": 667.38,
+        "end": 671.78,
+        "english": "if you guys have any questions or any doubts or you want to suggest any other lesson topic,",
+        "chinese": "如果你们有任何问题或疑问，或者想提出其他主题的课程建议，请随时提问。"
+    },
+    {
+        "start": 671.78,
+        "end": 676.5799999999999,
+        "english": "you can visit us at Englishpa.com. We'll hope to see you there. Until next time. Bye. Bye.",
+        "chinese": "你好，可以访问我们在中国的网站。我们将期待在那儿见到你。下次再见。再见。再见。"
+    }
+]

@@ -1,0 +1,2144 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.5200000000000005,
+        "english": "Hello everyone, welcome back to another great lesson here with us at EnglishPod.",
+        "chinese": "大家好，欢迎再次来到这里，与我们学习英语的课程。"
+    },
+    {
+        "start": 7.5200000000000005,
+        "end": 11.76,
+        "english": "My name is Marco and I'm Erica and today we're going to be getting money.",
+        "chinese": "我的名字是马科，我是埃里克，今天我们将讨论钱。"
+    },
+    {
+        "start": 11.76,
+        "end": 12.76,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 12.76,
+        "end": 18.76,
+        "english": "We're going to have a lesson about the ATM, the ATM or automatic teller machine.",
+        "chinese": "我们将在课堂上学习自动取款机、ATM 或其他自助银行设备。"
+    },
+    {
+        "start": 18.76,
+        "end": 20.84,
+        "english": "Okay, that's what it stands for.",
+        "chinese": "好的，这就是它代表的了。"
+    },
+    {
+        "start": 20.84,
+        "end": 21.84,
+        "english": "ATM.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 21.84,
+        "end": 26.16,
+        "english": "So we're going to be looking at the language that you'll probably find in an ATM maybe",
+        "chinese": "所以我们将要关注你可能在ATM上看到的语言。"
+    },
+    {
+        "start": 26.16,
+        "end": 29.44,
+        "english": "in the United States or in English speaking country.",
+        "chinese": "在中华人民共和国或英语国家。"
+    },
+    {
+        "start": 29.44,
+        "end": 30.44,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 30.44,
+        "end": 35.120000000000005,
+        "english": "But before we begin, why don't we look at some vocabulary that we'll hear in the dialogue.",
+        "chinese": "但是，我们先看看我们在对话中会听到的一些词汇。"
+    },
+    {
+        "start": 35.120000000000005,
+        "end": 37.2,
+        "english": "Vocabulary preview.",
+        "chinese": "词汇预览。"
+    },
+    {
+        "start": 37.2,
+        "end": 43.52,
+        "english": "As we mentioned, the ATM or automatic teller machine is a machine where you get your money,",
+        "chinese": "根据我们之前讨论的，自动取款机或自助银行是您把钱拿走的地方。"
+    },
+    {
+        "start": 43.52,
+        "end": 44.52,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 44.52,
+        "end": 45.52,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 45.52,
+        "end": 49.2,
+        "english": "And also, well, some people or in different places, they may call it the bank machine.",
+        "chinese": "而且，还有些人或在不同地方，他们可能会称它为银行机。"
+    },
+    {
+        "start": 49.2,
+        "end": 54.52,
+        "english": "Yeah, or maybe the cash machine or just a money machine or something.",
+        "chinese": "是的，或者可能是自动取款机或只是简单的钱箱。"
+    },
+    {
+        "start": 54.52,
+        "end": 55.52,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 55.52,
+        "end": 56.52,
+        "english": "So ATM.",
+        "chinese": "所以 ATM。"
+    },
+    {
+        "start": 56.52,
+        "end": 57.52,
+        "english": "ATM.",
+        "chinese": "[Conn Error]"
+    },
+    {
+        "start": 57.52,
+        "end": 60.28,
+        "english": "Let's take a look at our next word.",
+        "chinese": "让我们看看我们的下一个词。"
+    },
+    {
+        "start": 60.28,
+        "end": 61.68000000000001,
+        "english": "Local authorities.",
+        "chinese": "本地当局。"
+    },
+    {
+        "start": 61.68000000000001,
+        "end": 63.120000000000005,
+        "english": "The local authorities.",
+        "chinese": "本地当局。"
+    },
+    {
+        "start": 63.120000000000005,
+        "end": 64.52000000000001,
+        "english": "The local authorities.",
+        "chinese": "本地当局。"
+    },
+    {
+        "start": 64.52000000000001,
+        "end": 67.04,
+        "english": "So what are the local authorities?",
+        "chinese": "所以，当地政府部门？"
+    },
+    {
+        "start": 67.04,
+        "end": 68.36,
+        "english": "Well, basically it's the police.",
+        "chinese": "基本来说，它就是警察。"
+    },
+    {
+        "start": 68.36,
+        "end": 69.36,
+        "english": "The police.",
+        "chinese": "警察。"
+    },
+    {
+        "start": 69.36,
+        "end": 70.56,
+        "english": "Why do you say local authorities?",
+        "chinese": "为什么您说地方官员？"
+    },
+    {
+        "start": 70.56,
+        "end": 71.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 71.56,
+        "end": 74.68,
+        "english": "Well, authority is the person in charge, right?",
+        "chinese": "是的，权威是负责的人，对吗？"
+    },
+    {
+        "start": 74.68,
+        "end": 75.68,
+        "english": "The boss.",
+        "chinese": "老板。"
+    },
+    {
+        "start": 75.68,
+        "end": 80.08,
+        "english": "So the local authorities are basically the people who are the boss of this place.",
+        "chinese": "所以，地方政府基本上是这个地方的主人。"
+    },
+    {
+        "start": 80.08,
+        "end": 81.08,
+        "english": "In that area.",
+        "chinese": "在那个地方。"
+    },
+    {
+        "start": 81.08,
+        "end": 82.08000000000001,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 82.08000000000001,
+        "end": 83.08000000000001,
+        "english": "So the police.",
+        "chinese": "所以警察。"
+    },
+    {
+        "start": 83.08000000000001,
+        "end": 84.08000000000001,
+        "english": "The local authorities.",
+        "chinese": "本地当局。"
+    },
+    {
+        "start": 84.08000000000001,
+        "end": 86.04,
+        "english": "So why don't we start now with our dialogue.",
+        "chinese": "所以，我们为什么不从对话开始呢？"
+    },
+    {
+        "start": 86.04,
+        "end": 89.24000000000001,
+        "english": "Why are we talking about local authorities and ATM machines?",
+        "chinese": "为什么我们谈论地方当局和ATM机？"
+    },
+    {
+        "start": 89.24000000000001,
+        "end": 90.24000000000001,
+        "english": "I don't know.",
+        "chinese": "我也不知道。"
+    },
+    {
+        "start": 90.24000000000001,
+        "end": 97.24000000000001,
+        "english": "We got to listen to find out.",
+        "chinese": "我们来听听，看看。"
+    },
+    {
+        "start": 97.24000000000001,
+        "end": 108.56,
+        "english": "Stupid girl making me spend so much money.",
+        "chinese": "愚蠢的女孩让我花那么多钱。"
+    },
+    {
+        "start": 108.56,
+        "end": 111.32000000000001,
+        "english": "Now I have to get it from the ATM.",
+        "chinese": "现在我必须从ATM取款。"
+    },
+    {
+        "start": 111.32000000000001,
+        "end": 112.32000000000001,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 112.32000000000001,
+        "end": 113.76,
+        "english": "Welcome to Universal Bank.",
+        "chinese": "欢迎来到 universal银行。"
+    },
+    {
+        "start": 113.76,
+        "end": 115.96000000000001,
+        "english": "Please insert your card into the slot.",
+        "chinese": "请将卡片插入插槽。"
+    },
+    {
+        "start": 115.96,
+        "end": 117.55999999999999,
+        "english": "I know what I put my card.",
+        "chinese": "我知道我放卡的是什么。"
+    },
+    {
+        "start": 117.55999999999999,
+        "end": 119.8,
+        "english": "Stupid machine talking to me like I'm an idiot.",
+        "chinese": "愚蠢的机器和我说话像我是个傻瓜。"
+    },
+    {
+        "start": 119.8,
+        "end": 123.96,
+        "english": "Please input your six digit pink code followed by the pound key.",
+        "chinese": "请输入您的六位粉红色代码，然后按下 pound 键。"
+    },
+    {
+        "start": 123.96,
+        "end": 124.96,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 124.96,
+        "end": 126.63999999999999,
+        "english": "Please select an option.",
+        "chinese": "请选择一个选项。"
+    },
+    {
+        "start": 126.63999999999999,
+        "end": 127.8,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 127.8,
+        "end": 129.44,
+        "english": "You have selected withdraw.",
+        "chinese": "您选择取款。"
+    },
+    {
+        "start": 129.44,
+        "end": 130.44,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 130.44,
+        "end": 131.44,
+        "english": "I know what I selected.",
+        "chinese": "我知道我选的。"
+    },
+    {
+        "start": 131.44,
+        "end": 133.16,
+        "english": "Just give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 133.16,
+        "end": 138.84,
+        "english": "Please type the amount you would like to withdraw.",
+        "chinese": "请告诉我您想要取款的金额。"
+    },
+    {
+        "start": 138.84,
+        "end": 139.76,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 139.76,
+        "end": 141.6,
+        "english": "You want to transfer.",
+        "chinese": "您想转移。"
+    },
+    {
+        "start": 141.6,
+        "end": 143.6,
+        "english": "Ten thousand US dollars.",
+        "chinese": "十万元人民币。"
+    },
+    {
+        "start": 143.6,
+        "end": 144.51999999999998,
+        "english": "Two.",
+        "chinese": "两。"
+    },
+    {
+        "start": 144.52,
+        "end": 146.84,
+        "english": "The world wildlife foundation.",
+        "chinese": "世界自然基金会。"
+    },
+    {
+        "start": 146.84,
+        "end": 148.64000000000001,
+        "english": "If this is correct, please press one.",
+        "chinese": "如果这是正确的，那么请按一下。"
+    },
+    {
+        "start": 148.64000000000001,
+        "end": 149.64000000000001,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 149.64000000000001,
+        "end": 150.64000000000001,
+        "english": "No.",
+        "chinese": "没有。"
+    },
+    {
+        "start": 150.64000000000001,
+        "end": 151.64000000000001,
+        "english": "Stupid machine.",
+        "chinese": "愚蠢的机器。"
+    },
+    {
+        "start": 151.64000000000001,
+        "end": 152.64000000000001,
+        "english": "What are you doing?",
+        "chinese": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”"
+    },
+    {
+        "start": 152.64000000000001,
+        "end": 153.64000000000001,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 153.64000000000001,
+        "end": 154.64000000000001,
+        "english": "Confirmed.",
+        "chinese": "确认。"
+    },
+    {
+        "start": 154.64000000000001,
+        "end": 155.64000000000001,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 155.64000000000001,
+        "end": 156.64000000000001,
+        "english": "Please remove your card from the slot.",
+        "chinese": "请从卡槽中取下卡片。"
+    },
+    {
+        "start": 156.64000000000001,
+        "end": 157.64000000000001,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 157.64000000000001,
+        "end": 158.64000000000001,
+        "english": "No way.",
+        "chinese": "不能。"
+    },
+    {
+        "start": 158.64000000000001,
+        "end": 159.64000000000001,
+        "english": "What happened?",
+        "chinese": "What happened? (This phrase is not directly applicable in Chinese, but it can be translated as \"发生了什么？\" or \"发生了什么事？\")"
+    },
+    {
+        "start": 159.64000000000001,
+        "end": 160.64000000000001,
+        "english": "Give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 160.64000000000001,
+        "end": 161.64000000000001,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 161.64000000000001,
+        "end": 162.64000000000001,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 162.64000000000001,
+        "end": 164.64000000000001,
+        "english": "The exits have been sealed.",
+        "chinese": "出口已经被封堵。"
+    },
+    {
+        "start": 164.64000000000001,
+        "end": 169.32000000000002,
+        "english": "And the doors will remain locked until the local authorities arrive.",
+        "chinese": "并且大门将永远锁闭，直到当地当局到来。"
+    },
+    {
+        "start": 169.32000000000002,
+        "end": 171.0,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 171.0,
+        "end": 172.0,
+        "english": "Have a nice day.",
+        "chinese": "祝你一天愉快。"
+    },
+    {
+        "start": 172.0,
+        "end": 173.0,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 174.0,
+        "end": 175.0,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 175.0,
+        "end": 178.0,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 178.0,
+        "end": 182.24,
+        "english": "So it's not his day today.",
+        "chinese": "所以今天不是他的日子。"
+    },
+    {
+        "start": 182.24,
+        "end": 184.36,
+        "english": "I think he was very unlucky.",
+        "chinese": "我认为他很不幸。"
+    },
+    {
+        "start": 184.36,
+        "end": 186.36,
+        "english": "And maybe he's going to be in trouble.",
+        "chinese": "或许他会出问题。"
+    },
+    {
+        "start": 186.36,
+        "end": 187.36,
+        "english": "I know.",
+        "chinese": "我知道。 (Wǒ shì xiàng qīng.)"
+    },
+    {
+        "start": 187.36,
+        "end": 188.36,
+        "english": "And he was on a date.",
+        "chinese": "他正在约会。"
+    },
+    {
+        "start": 188.36,
+        "end": 191.36,
+        "english": "This is probably one of the worst things that can happen to a guy when he's on a date.",
+        "chinese": "这是可能对他来说最糟糕的事情，当他约会时。"
+    },
+    {
+        "start": 191.36,
+        "end": 192.36,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 192.36,
+        "end": 193.36,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 193.36,
+        "end": 198.4,
+        "english": "So, well, we saw some of the language that was related to an ATM money and banking.",
+        "chinese": "所以，嗯，我们看到了一些与ATM钱和银行相关的语言。"
+    },
+    {
+        "start": 198.4,
+        "end": 201.88,
+        "english": "So why don't we take a look at that now in language takeaway?",
+        "chinese": "所以，我们为什么不现在就看看那？"
+    },
+    {
+        "start": 204.0,
+        "end": 206.0,
+        "english": "Language takeaway.",
+        "chinese": "语言小贴士。"
+    },
+    {
+        "start": 206.0,
+        "end": 207.0,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 207.0,
+        "end": 211.12,
+        "english": "So the guy had to insert his card into the slot.",
+        "chinese": "所以那个家伙得把卡片插入槽里。"
+    },
+    {
+        "start": 211.12,
+        "end": 212.12,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 212.12,
+        "end": 213.12,
+        "english": "So, slot.",
+        "chinese": "所以，槽。"
+    },
+    {
+        "start": 213.12,
+        "end": 214.12,
+        "english": "Slot.",
+        "chinese": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲\"。例如："
+    },
+    {
+        "start": 214.12,
+        "end": 215.12,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 215.12,
+        "end": 216.12,
+        "english": "Slot.",
+        "chinese": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲\"。例如："
+    },
+    {
+        "start": 216.12,
+        "end": 217.72,
+        "english": "And that is an opening, right?",
+        "chinese": "这句话的中文翻译是：“这是个开端，对吗？”"
+    },
+    {
+        "start": 217.72,
+        "end": 219.12,
+        "english": "Or a type of hole, maybe.",
+        "chinese": "或者是一种洞，也许。"
+    },
+    {
+        "start": 219.12,
+        "end": 220.12,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 220.12,
+        "end": 221.52,
+        "english": "It's a hole that is usually longed.",
+        "chinese": "这是一个通常被期望的洞。"
+    },
+    {
+        "start": 221.52,
+        "end": 222.52,
+        "english": "Longed.",
+        "chinese": "长了。"
+    },
+    {
+        "start": 222.52,
+        "end": 224.36,
+        "english": "And it's like a rectangular hole.",
+        "chinese": "而且就像一个矩形的洞。"
+    },
+    {
+        "start": 224.36,
+        "end": 225.36,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 225.36,
+        "end": 226.56,
+        "english": "It's a slot is never a circle.",
+        "chinese": "它是空位永远是圆的。"
+    },
+    {
+        "start": 226.56,
+        "end": 227.56,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 227.56,
+        "end": 231.6,
+        "english": "So, for example, when you get mail, the mailman will put it into your mailbox through the",
+        "chinese": "所以，例如，当你收到邮件时，邮差会把邮件放入你的邮箱。"
+    },
+    {
+        "start": 231.6,
+        "end": 232.6,
+        "english": "slot.",
+        "chinese": "在中文中，\"slot\" 的意思是 \"空位\" 或 \"空闲位置\"。例如："
+    },
+    {
+        "start": 232.6,
+        "end": 233.6,
+        "english": "That's right.",
+        "chinese": "没错。"
+    },
+    {
+        "start": 233.6,
+        "end": 234.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 234.6,
+        "end": 240.84,
+        "english": "And now that he put his card into the slot, he had to input a six digit pin code.",
+        "chinese": "现在，他把他的卡片插入了插槽，必须输入一个六位数的密码。"
+    },
+    {
+        "start": 240.84,
+        "end": 242.72,
+        "english": "Wanna just do both together?",
+        "chinese": "你想同时做这两件事吗？"
+    },
+    {
+        "start": 242.72,
+        "end": 243.72,
+        "english": "Digit and pin code?",
+        "chinese": "数字和密码？"
+    },
+    {
+        "start": 243.72,
+        "end": 244.72,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 244.72,
+        "end": 245.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 245.72,
+        "end": 246.72,
+        "english": "So a six digit pin code.",
+        "chinese": "所以，六位数字的密码。"
+    },
+    {
+        "start": 246.72,
+        "end": 247.72,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 247.72,
+        "end": 249.44,
+        "english": "Now we have two words here that are new.",
+        "chinese": "现在我们有两个新词在这里。"
+    },
+    {
+        "start": 249.44,
+        "end": 250.44,
+        "english": "Digit.",
+        "chinese": "在中文中，\"digit\" 通常翻译为 \"数字\"。如果你需要更具体的解释或使用场景，请告诉我！"
+    },
+    {
+        "start": 250.44,
+        "end": 253.68,
+        "english": "Digit is basically a number between zero and nine.",
+        "chinese": "数字基本上是一个介于零和九之间的数。"
+    },
+    {
+        "start": 253.68,
+        "end": 254.68,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 254.68,
+        "end": 257.71999999999997,
+        "english": "So, any number between zero and nine is considered a digit.",
+        "chinese": "所以，任何数从零到九都被视为数字。"
+    },
+    {
+        "start": 257.71999999999997,
+        "end": 258.71999999999997,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 258.71999999999997,
+        "end": 261.71999999999997,
+        "english": "So, 100 is made up of three digits.",
+        "chinese": "所以，100是由三个数字组成的。"
+    },
+    {
+        "start": 261.72,
+        "end": 262.72,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 262.72,
+        "end": 265.04,
+        "english": "And what about pin code?",
+        "chinese": "And 什么密码？"
+    },
+    {
+        "start": 265.04,
+        "end": 268.96000000000004,
+        "english": "A pin code is your secret number that you use to take money out.",
+        "chinese": "一个密码是你的秘密号码，你用来取款。"
+    },
+    {
+        "start": 268.96000000000004,
+        "end": 272.0,
+        "english": "Now, why wouldn't we say password?",
+        "chinese": "现在，为什么我们不能说密码？"
+    },
+    {
+        "start": 272.0,
+        "end": 273.40000000000003,
+        "english": "Password is usually letters.",
+        "chinese": "密码通常是字母。"
+    },
+    {
+        "start": 273.40000000000003,
+        "end": 274.40000000000003,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 274.40000000000003,
+        "end": 275.92,
+        "english": "And pin code is numbers.",
+        "chinese": "而且PIN码是数字。"
+    },
+    {
+        "start": 275.92,
+        "end": 276.92,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 276.92,
+        "end": 277.92,
+        "english": "All right.",
+        "chinese": "好的，我将这句话翻译成中文："
+    },
+    {
+        "start": 277.92,
+        "end": 280.64000000000004,
+        "english": "He had to input his six digit pin code.",
+        "chinese": "他必须输入他的六位数字密码。"
+    },
+    {
+        "start": 280.64000000000004,
+        "end": 285.12,
+        "english": "And then, after that, he had to press the pound key.",
+        "chinese": "然后，他必须按下 pound 键。"
+    },
+    {
+        "start": 285.12,
+        "end": 286.12,
+        "english": "Pound key.",
+        "chinese": "英镑关键。"
+    },
+    {
+        "start": 286.12,
+        "end": 287.12,
+        "english": "Now, this is strange.",
+        "chinese": "现在，这是奇怪的。"
+    },
+    {
+        "start": 287.12,
+        "end": 288.12,
+        "english": "A pound key.",
+        "chinese": "一个磅键。"
+    },
+    {
+        "start": 288.12,
+        "end": 289.12,
+        "english": "What is that?",
+        "chinese": "啥？"
+    },
+    {
+        "start": 289.12,
+        "end": 290.12,
+        "english": "Well, you know on a phone.",
+        "chinese": "嗯，你知道在手机上。"
+    },
+    {
+        "start": 290.84000000000003,
+        "end": 297.68,
+        "english": "On the bottom right, there's a key or a button that looks like a number sign.",
+        "chinese": "在底部右上角有一个看起来像数字符号的键或按钮。"
+    },
+    {
+        "start": 297.68,
+        "end": 298.68,
+        "english": "Number sign.",
+        "chinese": "数字符号。"
+    },
+    {
+        "start": 298.68,
+        "end": 301.6,
+        "english": "So, kind of like two vertical lines and two horizontal lines.",
+        "chinese": "所以，有点像两根垂直线和两条水平线。"
+    },
+    {
+        "start": 301.6,
+        "end": 302.6,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 302.6,
+        "end": 303.6,
+        "english": "Two lines going up and down.",
+        "chinese": "两条向上的和一条向下的线。"
+    },
+    {
+        "start": 303.6,
+        "end": 304.6,
+        "english": "Two lines going across.",
+        "chinese": "两条线交叉。"
+    },
+    {
+        "start": 304.6,
+        "end": 305.6,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 305.6,
+        "end": 306.6,
+        "english": "So, that's called the pound key.",
+        "chinese": "所以，这就是英镑键。"
+    },
+    {
+        "start": 306.6,
+        "end": 307.6,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 307.6,
+        "end": 308.6,
+        "english": "All right.",
+        "chinese": "好的，以下是“所有好”的翻译："
+    },
+    {
+        "start": 308.6,
+        "end": 309.6,
+        "english": "What about the other one?",
+        "chinese": "你呢？"
+    },
+    {
+        "start": 309.6,
+        "end": 310.6,
+        "english": "It's called the star.",
+        "chinese": "星是中国的名称。"
+    },
+    {
+        "start": 310.6,
+        "end": 311.6,
+        "english": "The star key.",
+        "chinese": "星标。"
+    },
+    {
+        "start": 311.6,
+        "end": 312.6,
+        "english": "The star key.",
+        "chinese": "星标。"
+    },
+    {
+        "start": 312.6,
+        "end": 313.6,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 313.6,
+        "end": 318.0,
+        "english": "So, after the pin code, after the pound key, now he's ready to withdraw money.",
+        "chinese": "所以，经过密码、英镑键后，现在他准备取款。"
+    },
+    {
+        "start": 318.0,
+        "end": 319.0,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 319.04,
+        "end": 320.8,
+        "english": "He's heard withdrawal.",
+        "chinese": "他听说过撤资。"
+    },
+    {
+        "start": 320.8,
+        "end": 321.8,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 321.8,
+        "end": 324.0,
+        "english": "So, withdrawal is a noun.",
+        "chinese": "所以，撤回是名词。"
+    },
+    {
+        "start": 324.0,
+        "end": 326.4,
+        "english": "It's the action of taking money out.",
+        "chinese": "是取钱的行为。"
+    },
+    {
+        "start": 326.4,
+        "end": 327.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 327.4,
+        "end": 328.4,
+        "english": "A withdrawal.",
+        "chinese": "一笔提款。"
+    },
+    {
+        "start": 328.4,
+        "end": 329.4,
+        "english": "A withdrawal.",
+        "chinese": "一笔提款。"
+    },
+    {
+        "start": 329.4,
+        "end": 330.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 330.4,
+        "end": 331.4,
+        "english": "And two withdrawal.",
+        "chinese": "和两个退汇。"
+    },
+    {
+        "start": 331.4,
+        "end": 334.8,
+        "english": "Two withdrawal is just the verb to take out money, right?",
+        "chinese": "是的，两个取款只是将钱从银行取出，对吗？"
+    },
+    {
+        "start": 334.8,
+        "end": 335.8,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 335.8,
+        "end": 336.96,
+        "english": "So, we have the noun and the verb.",
+        "chinese": "所以，我们有名词和动词。"
+    },
+    {
+        "start": 336.96,
+        "end": 338.64,
+        "english": "The only difference is an L at the end.",
+        "chinese": "这个唯一的区别是“L”在结尾。"
+    },
+    {
+        "start": 338.64,
+        "end": 339.64,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 339.64,
+        "end": 342.4,
+        "english": "So, withdrawal, noun, and withdraw verb.",
+        "chinese": "所以，提款、名词和动词。"
+    },
+    {
+        "start": 342.4,
+        "end": 343.4,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 343.4,
+        "end": 348.64,
+        "english": "And, well, he wanted to withdraw money, but something happened with the ATM and it turned",
+        "chinese": "而且，他想要取款，但ATM出了问题。"
+    },
+    {
+        "start": 348.64,
+        "end": 351.44,
+        "english": "out that he was going to transfer money.",
+        "chinese": "这句话的中文翻译是："
+    },
+    {
+        "start": 351.44,
+        "end": 352.44,
+        "english": "Uh-oh.",
+        "chinese": "对不起。"
+    },
+    {
+        "start": 352.44,
+        "end": 354.03999999999996,
+        "english": "So, transfer.",
+        "chinese": "所以，转移。"
+    },
+    {
+        "start": 354.03999999999996,
+        "end": 355.03999999999996,
+        "english": "Transfer.",
+        "chinese": "转移。"
+    },
+    {
+        "start": 355.03999999999996,
+        "end": 356.03999999999996,
+        "english": "Transfer.",
+        "chinese": "转移。"
+    },
+    {
+        "start": 356.03999999999996,
+        "end": 360.24,
+        "english": "When you transfer money, you take it from one place and put it in another.",
+        "chinese": "当你将钱从一个地方转移到另一个地方时，你把钱从一个地点拿走并放入另一个地点。"
+    },
+    {
+        "start": 360.24,
+        "end": 361.24,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 361.24,
+        "end": 364.84,
+        "english": "And, usually, in banking, when you transfer money, you don't really see it, right?",
+        "chinese": "而且，在银行业务中，当你将钱转出时，你并不真正看到它，对吗？"
+    },
+    {
+        "start": 364.84,
+        "end": 365.84,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 365.84,
+        "end": 369.91999999999996,
+        "english": "It's all electronic, so you just put it from one bank account to another, but you never",
+        "chinese": "它全是电子的，所以你只需要将钱从一个银行账户转移到另一个银行账户，但你永远不会忘记。"
+    },
+    {
+        "start": 369.91999999999996,
+        "end": 371.24,
+        "english": "actually see this money.",
+        "chinese": "实际上看到这个钱。"
+    },
+    {
+        "start": 371.24,
+        "end": 372.24,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 372.24,
+        "end": 373.24,
+        "english": "So, transfer money.",
+        "chinese": "所以，转账。"
+    },
+    {
+        "start": 373.24,
+        "end": 374.24,
+        "english": "Transfer.",
+        "chinese": "转移。"
+    },
+    {
+        "start": 374.24,
+        "end": 376.44,
+        "english": "And now, this one also has a verb and a noun, right?",
+        "chinese": "现在，这个也同时具备动词和名词，对吗？"
+    },
+    {
+        "start": 376.44,
+        "end": 377.44,
+        "english": "Right.",
+        "chinese": "正确。以下是该短语的中文翻译："
+    },
+    {
+        "start": 377.44,
+        "end": 378.44,
+        "english": "A transfer.",
+        "chinese": "一个转移。"
+    },
+    {
+        "start": 378.44,
+        "end": 379.44,
+        "english": "Same word.",
+        "chinese": "同义词。"
+    },
+    {
+        "start": 379.44,
+        "end": 380.44,
+        "english": "Yep.",
+        "chinese": "是。"
+    },
+    {
+        "start": 380.44,
+        "end": 381.44,
+        "english": "Easy.",
+        "chinese": "易。 (Yi.)"
+    },
+    {
+        "start": 381.44,
+        "end": 382.44,
+        "english": "All right.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 382.44,
+        "end": 383.84,
+        "english": "So, why don't we listen to our dialogue?",
+        "chinese": "所以，我们为什么不倾听我们的对话？"
+    },
+    {
+        "start": 383.84,
+        "end": 388.2,
+        "english": "For the second time, it's going to be slowed down a little bit and then we'll come back",
+        "chinese": "第二次，将会稍微减慢一点，然后我们再回来。"
+    },
+    {
+        "start": 388.2,
+        "end": 392.04,
+        "english": "and look at some phrases.",
+        "chinese": "并且看看一些短语。"
+    },
+    {
+        "start": 392.04,
+        "end": 400.44,
+        "english": "Stupid girl making me spend so much money.",
+        "chinese": "愚蠢的女孩让我花那么多钱。"
+    },
+    {
+        "start": 400.44,
+        "end": 402.44,
+        "english": "Now I have to get it from the ATM.",
+        "chinese": "现在我必须从ATM取款。"
+    },
+    {
+        "start": 402.44,
+        "end": 403.44,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 403.44,
+        "end": 405.8,
+        "english": "Welcome to Universal Bank.",
+        "chinese": "欢迎来到 universal银行。"
+    },
+    {
+        "start": 405.8,
+        "end": 408.0,
+        "english": "Please insert your card into the slot.",
+        "chinese": "请将卡片插入插槽。"
+    },
+    {
+        "start": 408.0,
+        "end": 409.6,
+        "english": "I know what I put in my card.",
+        "chinese": "我知道我放入卡片中的东西。"
+    },
+    {
+        "start": 409.6,
+        "end": 411.92,
+        "english": "Stupid machine talking to me like I'm an idiot.",
+        "chinese": "愚蠢的机器和我说话像我是个傻瓜。"
+    },
+    {
+        "start": 411.92,
+        "end": 416.24,
+        "english": "Please input your six-digit, pink code, followed by the pound key.",
+        "chinese": "请输入您的六位数字，粉色代码和星号键。"
+    },
+    {
+        "start": 416.24,
+        "end": 417.24,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 417.24,
+        "end": 419.08,
+        "english": "Please select an option.",
+        "chinese": "请选一个选项。"
+    },
+    {
+        "start": 419.08,
+        "end": 420.36,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 420.36,
+        "end": 421.96,
+        "english": "You have selected withdrawal.",
+        "chinese": "您选择提前支取。"
+    },
+    {
+        "start": 421.96,
+        "end": 422.96,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 422.96,
+        "end": 423.96,
+        "english": "I know what I selected.",
+        "chinese": "我知道我选的。"
+    },
+    {
+        "start": 423.96,
+        "end": 425.96,
+        "english": "Just give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 425.96,
+        "end": 429.6,
+        "english": "Please type the amount you would like to withdraw.",
+        "chinese": "请告诉我您想要取款的金额。"
+    },
+    {
+        "start": 429.6,
+        "end": 430.6,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 430.6,
+        "end": 432.4,
+        "english": "You want to transfer.",
+        "chinese": "您想转移。"
+    },
+    {
+        "start": 432.4,
+        "end": 434.44,
+        "english": "Ten thousand US dollars.",
+        "chinese": "十万元人民币。"
+    },
+    {
+        "start": 434.44,
+        "end": 435.44,
+        "english": "Two.",
+        "chinese": "两。"
+    },
+    {
+        "start": 435.44,
+        "end": 438.12,
+        "english": "The World Wildlife Foundation.",
+        "chinese": "世界自然基金会。"
+    },
+    {
+        "start": 438.12,
+        "end": 440.12,
+        "english": "If this is correct, please press one.",
+        "chinese": "如果这是正确的，那么请按一下。"
+    },
+    {
+        "start": 440.12,
+        "end": 441.12,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 441.12,
+        "end": 442.12,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 442.12,
+        "end": 443.12,
+        "english": "Stupid machine.",
+        "chinese": "愚蠢的机器。"
+    },
+    {
+        "start": 443.12,
+        "end": 444.12,
+        "english": "What are you doing?",
+        "chinese": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”"
+    },
+    {
+        "start": 444.12,
+        "end": 445.12,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 445.12,
+        "end": 446.12,
+        "english": "Confirmed.",
+        "chinese": "确认。"
+    },
+    {
+        "start": 446.12,
+        "end": 447.12,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 447.12,
+        "end": 448.92,
+        "english": "Please remove your card from the slot.",
+        "chinese": "请从卡槽中取下卡片。"
+    },
+    {
+        "start": 448.92,
+        "end": 449.92,
+        "english": "Goodbye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 449.92,
+        "end": 450.92,
+        "english": "No way.",
+        "chinese": "不能。"
+    },
+    {
+        "start": 450.92,
+        "end": 451.92,
+        "english": "What happened?",
+        "chinese": "发生了什么？"
+    },
+    {
+        "start": 451.92,
+        "end": 452.92,
+        "english": "Give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 452.92,
+        "end": 453.92,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 453.92,
+        "end": 454.92,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 454.92,
+        "end": 459.92,
+        "english": "The exits have been sealed and the doors will remain locked until the local authorities",
+        "chinese": "出口已被封堵，门将保持关闭状态直到当地当局。"
+    },
+    {
+        "start": 459.92,
+        "end": 460.92,
+        "english": "arrive.",
+        "chinese": "到达。"
+    },
+    {
+        "start": 460.92,
+        "end": 462.64,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 462.64,
+        "end": 463.64,
+        "english": "Have a nice day.",
+        "chinese": "祝你一天愉快。"
+    },
+    {
+        "start": 463.64,
+        "end": 466.12,
+        "english": "No!",
+        "chinese": "对不起！"
+    },
+    {
+        "start": 466.12,
+        "end": 474.52,
+        "english": "OK, so that was a little easier to understand.",
+        "chinese": "好的，那么这算是比较容易理解的了。"
+    },
+    {
+        "start": 474.52,
+        "end": 479.47999999999996,
+        "english": "But Marco, there's some interesting phrases here, some instructions that you commonly",
+        "chinese": "但马科，这里有一些有趣的话，一些你经常使用的指令。"
+    },
+    {
+        "start": 479.47999999999996,
+        "end": 482.44,
+        "english": "read or hear when you're using a bank machine.",
+        "chinese": "当您在银行机上使用时，可以阅读或听到。"
+    },
+    {
+        "start": 482.44,
+        "end": 486.96,
+        "english": "So why don't we take a look at these phrases in Fluency Builder?",
+        "chinese": "所以为什么不来看看这些短语在 Fluent Builder 中？"
+    },
+    {
+        "start": 486.96,
+        "end": 488.76,
+        "english": "Fluency Builder.",
+        "chinese": "流畅 builder."
+    },
+    {
+        "start": 488.76,
+        "end": 494.2,
+        "english": "Well the bank machine told this guy to insert your card.",
+        "chinese": "银行机器告诉这个人把你的卡插入。"
+    },
+    {
+        "start": 494.2,
+        "end": 495.59999999999997,
+        "english": "Insert your card.",
+        "chinese": "插入你的卡。"
+    },
+    {
+        "start": 495.59999999999997,
+        "end": 496.68,
+        "english": "Insert your card.",
+        "chinese": "插入你的卡。"
+    },
+    {
+        "start": 496.68,
+        "end": 499.2,
+        "english": "So this verb to insert.",
+        "chinese": "所以这个动词是插入。"
+    },
+    {
+        "start": 499.2,
+        "end": 500.56,
+        "english": "To place inside.",
+        "chinese": "将...放入。"
+    },
+    {
+        "start": 500.56,
+        "end": 501.56,
+        "english": "Exactly.",
+        "chinese": "正确翻译为中文是：“正好。”"
+    },
+    {
+        "start": 501.56,
+        "end": 502.88,
+        "english": "So what else can we insert?",
+        "chinese": "所以还有什么可以插入呢？"
+    },
+    {
+        "start": 502.88,
+        "end": 506.48,
+        "english": "Well, for example, commonly you insert a disk.",
+        "chinese": "好的，例如，您通常会插入一个盘。"
+    },
+    {
+        "start": 506.48,
+        "end": 507.59999999999997,
+        "english": "Yeah, in your computer.",
+        "chinese": "是的，在你的电脑上。"
+    },
+    {
+        "start": 507.59999999999997,
+        "end": 509.12,
+        "english": "In your computer, right?",
+        "chinese": "在你的电脑上，右键？"
+    },
+    {
+        "start": 509.12,
+        "end": 513.48,
+        "english": "Or maybe insert a CD into your CD player.",
+        "chinese": "或者插入CD到你的CD播放器中。"
+    },
+    {
+        "start": 513.48,
+        "end": 515.28,
+        "english": "Or DVD into your DVD player.",
+        "chinese": "将光盘转换为您的DVD播放器。"
+    },
+    {
+        "start": 515.28,
+        "end": 516.28,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 516.28,
+        "end": 518.68,
+        "english": "To insert something to put inside.",
+        "chinese": "将要插入的东西放入。"
+    },
+    {
+        "start": 518.68,
+        "end": 519.68,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 519.68,
+        "end": 523.8,
+        "english": "So he had to insert his card into the slot.",
+        "chinese": "所以，他必须将卡片插入插槽。"
+    },
+    {
+        "start": 523.8,
+        "end": 529.24,
+        "english": "And then the bank machine asked him to select an option.",
+        "chinese": "然后银行机器要求他选择一个选项。"
+    },
+    {
+        "start": 529.24,
+        "end": 530.4,
+        "english": "Select an option.",
+        "chinese": "选择一个选项。"
+    },
+    {
+        "start": 530.4,
+        "end": 531.4,
+        "english": "Select an option.",
+        "chinese": "选择一个选项。"
+    },
+    {
+        "start": 531.4,
+        "end": 537.1999999999999,
+        "english": "Now this is a very common phrase that you will not only see in ATMs, but basically everywhere,",
+        "chinese": "现在，这是一个非常常见的表达，在ATM机上使用时你也会经常看到，甚至在任何地方。"
+    },
+    {
+        "start": 537.1999999999999,
+        "end": 538.1999999999999,
+        "english": "right?",
+        "chinese": "是的。"
+    },
+    {
+        "start": 538.1999999999999,
+        "end": 542.88,
+        "english": "Like computers or the internet or many things where you're dealing with machines.",
+        "chinese": "像计算机、互联网或许多事物，你正在处理的机器。"
+    },
+    {
+        "start": 542.88,
+        "end": 547.84,
+        "english": "So it's an order that says, well, select one of these choices that you have.",
+        "chinese": "所以，这是命令，嗯，选择其中的一个选项。"
+    },
+    {
+        "start": 547.84,
+        "end": 548.84,
+        "english": "Make a choice.",
+        "chinese": "选择。"
+    },
+    {
+        "start": 548.84,
+        "end": 549.84,
+        "english": "Make a choice.",
+        "chinese": "选择。"
+    },
+    {
+        "start": 549.84,
+        "end": 550.84,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 550.84,
+        "end": 551.84,
+        "english": "Select an option.",
+        "chinese": "选择一个选项。"
+    },
+    {
+        "start": 551.84,
+        "end": 556.64,
+        "english": "Alright, so two simple phrases, but very useful and also very high frequency, right?",
+        "chinese": "好的，所以两个简单的短语，但非常有用且频率极高，对吗？"
+    },
+    {
+        "start": 556.64,
+        "end": 557.64,
+        "english": "Yeah, and you know what?",
+        "chinese": "是的，你知道吗？"
+    },
+    {
+        "start": 557.64,
+        "end": 561.64,
+        "english": "When you use phrases like these two, it sounds quite professional, doesn't it?",
+        "chinese": "当你使用这些短语，听起来确实很正式，对吧？"
+    },
+    {
+        "start": 561.64,
+        "end": 563.32,
+        "english": "Yeah, a little bit formal.",
+        "chinese": "是的，有一点正式。"
+    },
+    {
+        "start": 563.32,
+        "end": 564.32,
+        "english": "Mm-hmm.",
+        "chinese": "对不起，我无法直接翻译成中文。不过，根据您提供的英文，请告诉我需要翻译的内容是什么？这样我可以更好地帮助您。"
+    },
+    {
+        "start": 564.32,
+        "end": 565.32,
+        "english": "Okay.",
+        "chinese": "好的。"
+    },
+    {
+        "start": 565.32,
+        "end": 567.4,
+        "english": "So why don't we listen to our dialogue for the last time and then we'll come back and",
+        "chinese": "所以为什么我们不要再倾听我们的对话，然后我们再来一次？"
+    },
+    {
+        "start": 567.4,
+        "end": 568.24,
+        "english": "talk a little bit more.",
+        "chinese": "聊点事。"
+    },
+    {
+        "start": 572.88,
+        "end": 582.96,
+        "english": "Stupid girl making me spend so much money.",
+        "chinese": "愚蠢的女孩让我花那么多钱。"
+    },
+    {
+        "start": 582.96,
+        "end": 584.96,
+        "english": "Now I have to get it from the ATM.",
+        "chinese": "现在我必须从ATM取款。"
+    },
+    {
+        "start": 584.96,
+        "end": 585.96,
+        "english": "Hello.",
+        "chinese": "你好。"
+    },
+    {
+        "start": 585.96,
+        "end": 588.2,
+        "english": "Welcome to Universal Bank.",
+        "chinese": "欢迎来到 universal银行。"
+    },
+    {
+        "start": 588.2,
+        "end": 590.2,
+        "english": "Please insert your card into the slot.",
+        "chinese": "请将卡片插入插槽。"
+    },
+    {
+        "start": 590.2,
+        "end": 592.0,
+        "english": "I know what I put my card.",
+        "chinese": "我知道我放卡的是什么。"
+    },
+    {
+        "start": 592.0,
+        "end": 594.2,
+        "english": "Stupid machine talking to me like I'm an idiot.",
+        "chinese": "愚蠢的机器和我说话像我是个傻瓜。"
+    },
+    {
+        "start": 594.2,
+        "end": 598.52,
+        "english": "Please input your six digit pink code followed by the pound key.",
+        "chinese": "请输入您的六位粉红色代码，然后按下美元符号。"
+    },
+    {
+        "start": 598.52,
+        "end": 599.52,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 599.52,
+        "end": 601.24,
+        "english": "Please select an option.",
+        "chinese": "请选择一个选项。"
+    },
+    {
+        "start": 601.24,
+        "end": 602.24,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 602.24,
+        "end": 603.6800000000001,
+        "english": "You have selected withdrawal.",
+        "chinese": "您选择提前支取。"
+    },
+    {
+        "start": 603.6800000000001,
+        "end": 604.6800000000001,
+        "english": "Yeah, yeah.",
+        "chinese": "是的，是的。"
+    },
+    {
+        "start": 604.6800000000001,
+        "end": 606.2,
+        "english": "I know what I selected.",
+        "chinese": "我知道我选的。"
+    },
+    {
+        "start": 606.2,
+        "end": 607.76,
+        "english": "Just give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 607.76,
+        "end": 613.44,
+        "english": "Please type the amount you would like to withdraw.",
+        "chinese": "请告诉我您想要取款的金额。"
+    },
+    {
+        "start": 613.44,
+        "end": 614.44,
+        "english": "Thank you.",
+        "chinese": "谢谢。"
+    },
+    {
+        "start": 614.44,
+        "end": 616.16,
+        "english": "You want to transfer.",
+        "chinese": "您想转移。"
+    },
+    {
+        "start": 616.16,
+        "end": 618.04,
+        "english": "Ten thousand US dollars.",
+        "chinese": "十万元人民币。"
+    },
+    {
+        "start": 618.04,
+        "end": 619.04,
+        "english": "Two.",
+        "chinese": "两。"
+    },
+    {
+        "start": 619.04,
+        "end": 621.24,
+        "english": "The World Wildlife Foundation.",
+        "chinese": "世界自然基金会。"
+    },
+    {
+        "start": 621.24,
+        "end": 623.04,
+        "english": "If this is correct, please press one.",
+        "chinese": "如果这是正确的，那么请按一下。"
+    },
+    {
+        "start": 623.04,
+        "end": 624.04,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 624.04,
+        "end": 625.04,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 625.04,
+        "end": 626.04,
+        "english": "Stupid machine.",
+        "chinese": "愚蠢的机器。"
+    },
+    {
+        "start": 626.04,
+        "end": 627.04,
+        "english": "What are you doing?",
+        "chinese": "在中文中，\"What are you doing?\" 翻译成普通话是：“你在做什么？”"
+    },
+    {
+        "start": 627.04,
+        "end": 628.04,
+        "english": "No.",
+        "chinese": "不。"
+    },
+    {
+        "start": 628.04,
+        "end": 629.04,
+        "english": "Confirmed.",
+        "chinese": "确认。"
+    },
+    {
+        "start": 629.04,
+        "end": 630.04,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 630.04,
+        "end": 631.5600000000001,
+        "english": "Please remove your card from the slot.",
+        "chinese": "请从卡槽中取下卡片。"
+    },
+    {
+        "start": 631.56,
+        "end": 632.56,
+        "english": "Bye.",
+        "chinese": "再见。"
+    },
+    {
+        "start": 632.56,
+        "end": 633.56,
+        "english": "No way.",
+        "chinese": "不能。"
+    },
+    {
+        "start": 633.56,
+        "end": 634.56,
+        "english": "What happened?",
+        "chinese": "发生了什么？"
+    },
+    {
+        "start": 634.56,
+        "end": 635.56,
+        "english": "Give me my money.",
+        "chinese": "请给我我的钱。"
+    },
+    {
+        "start": 635.56,
+        "end": 636.56,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 636.56,
+        "end": 637.56,
+        "english": "Danger.",
+        "chinese": "危险。"
+    },
+    {
+        "start": 637.56,
+        "end": 639.56,
+        "english": "The exits have been sealed.",
+        "chinese": "出口已经被封堵。"
+    },
+    {
+        "start": 639.56,
+        "end": 643.76,
+        "english": "And the doors will remain locked until the local authorities arrive.",
+        "chinese": "和大门将永远锁闭，直到当地当局到来。"
+    },
+    {
+        "start": 643.76,
+        "end": 645.4,
+        "english": "Thank you for using our bank.",
+        "chinese": "非常感谢使用我们的银行。"
+    },
+    {
+        "start": 645.4,
+        "end": 646.4,
+        "english": "Have a nice day.",
+        "chinese": "祝你一天愉快。"
+    },
+    {
+        "start": 646.4,
+        "end": 647.4,
+        "english": "No.",
+        "chinese": "是。"
+    },
+    {
+        "start": 647.4,
+        "end": 648.4,
+        "english": "All right, Erica.",
+        "chinese": "好的，艾瑞卡。"
+    },
+    {
+        "start": 648.4,
+        "end": 649.4,
+        "english": "So what about you?",
+        "chinese": "你好吗？"
+    },
+    {
+        "start": 649.4,
+        "end": 657.4,
+        "english": "Have you ever had any problems with the ATM?",
+        "chinese": "是的，我曾经遇到过ATM问题。"
+    },
+    {
+        "start": 657.4,
+        "end": 660.8399999999999,
+        "english": "I've had more problems than I can count.",
+        "chinese": "我经历过更多的问题，比我能数清还要多。"
+    },
+    {
+        "start": 660.84,
+        "end": 661.84,
+        "english": "What have been?",
+        "chinese": "What have been? 翻译成中文是： \"什么已经发生？"
+    },
+    {
+        "start": 661.84,
+        "end": 666.5600000000001,
+        "english": "Well, I think in the last two years, I've probably lost about seven bank cards in an ATM.",
+        "chinese": "嗯，我认为在过去的两年里，我大概已经丢失了大约七张ATM卡。"
+    },
+    {
+        "start": 666.5600000000001,
+        "end": 667.5600000000001,
+        "english": "Really?",
+        "chinese": "真的？"
+    },
+    {
+        "start": 667.5600000000001,
+        "end": 668.5600000000001,
+        "english": "You forget it?",
+        "chinese": "你忘了这个吗？"
+    },
+    {
+        "start": 668.5600000000001,
+        "end": 669.5600000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 669.5600000000001,
+        "end": 670.5600000000001,
+        "english": "In the slot.",
+        "chinese": "在槽。"
+    },
+    {
+        "start": 670.5600000000001,
+        "end": 674.8000000000001,
+        "english": "I leave it in the slot and then walk away from the bank machine and no bank cards.",
+        "chinese": "我留在机位上，然后离开银行机器，没有银行卡。"
+    },
+    {
+        "start": 674.8000000000001,
+        "end": 678.96,
+        "english": "Well, I think now the ATM's because this is a common problem.",
+        "chinese": "嗯，我认为现在ATM 是因为这个是常见的问题。"
+    },
+    {
+        "start": 678.96,
+        "end": 684.0,
+        "english": "Now they have like a little alarm that when you take out your money and everything, it just",
+        "chinese": "现在，它们就像一个小闹钟，当你取出你的钱和所有的东西时，它就会发出“嘀嗒”的声音。"
+    },
+    {
+        "start": 684.0,
+        "end": 686.5600000000001,
+        "english": "starts beeping and beeping until you take out your card.",
+        "chinese": "开始发出声音并持续发出声音，直到你取出卡片。"
+    },
+    {
+        "start": 686.5600000000001,
+        "end": 687.5600000000001,
+        "english": "Yes.",
+        "chinese": "是。"
+    },
+    {
+        "start": 687.56,
+        "end": 691.3199999999999,
+        "english": "I have a bank machine that actually give you your card first and then give you your",
+        "chinese": "我有一个银行机器，它实际上先给你卡，然后给你钱。"
+    },
+    {
+        "start": 691.3199999999999,
+        "end": 692.3199999999999,
+        "english": "money.",
+        "chinese": "钱。"
+    },
+    {
+        "start": 692.3199999999999,
+        "end": 694.64,
+        "english": "Because if they give me my money first, that's all I want, right?",
+        "chinese": "因为如果他们先给我钱，那我就够了。"
+    },
+    {
+        "start": 694.64,
+        "end": 697.56,
+        "english": "So I run away with my money and leave my card in the bank machine.",
+        "chinese": "所以，我逃到银行里，把我的信用卡留在机器上。"
+    },
+    {
+        "start": 697.56,
+        "end": 698.56,
+        "english": "Right.",
+        "chinese": "右。 (Rù.)"
+    },
+    {
+        "start": 698.56,
+        "end": 699.56,
+        "english": "I think that's a good idea.",
+        "chinese": "我认为这是一个好主意。"
+    },
+    {
+        "start": 699.56,
+        "end": 701.28,
+        "english": "I've never seen it before though.",
+        "chinese": "我以前从未见过它。"
+    },
+    {
+        "start": 701.28,
+        "end": 703.1199999999999,
+        "english": "It's what's the length they have to like that.",
+        "chinese": "它就是他们喜欢的长度。"
+    },
+    {
+        "start": 703.1199999999999,
+        "end": 704.1199999999999,
+        "english": "So what's the length?",
+        "chinese": "所以，长度是什么？"
+    },
+    {
+        "start": 704.1199999999999,
+        "end": 706.9599999999999,
+        "english": "Or what about the ATM's that you only have to swipe your card?",
+        "chinese": "或者，你只需要用信用卡来转账。"
+    },
+    {
+        "start": 706.9599999999999,
+        "end": 707.9599999999999,
+        "english": "Oh, yeah.",
+        "chinese": "哦，对了。"
+    },
+    {
+        "start": 707.9599999999999,
+        "end": 711.04,
+        "english": "I've done that as well and also ruined a bank card with that.",
+        "chinese": "我也是这样做的，还损坏了那个银行卡。"
+    },
+    {
+        "start": 711.04,
+        "end": 714.88,
+        "english": "I've swiped it too many times, put in the wrong pin code and it blocks your card.",
+        "chinese": "我刷了太多次，输入的密码不对，导致我的卡被封号。"
+    },
+    {
+        "start": 714.88,
+        "end": 715.88,
+        "english": "Yeah.",
+        "chinese": "是。"
+    },
+    {
+        "start": 715.88,
+        "end": 716.88,
+        "english": "Terrible.",
+        "chinese": "糟糕。"
+    },
+    {
+        "start": 716.88,
+        "end": 723.12,
+        "english": "I'm sure everyone has some experience or some inconvenience with ATM machines.",
+        "chinese": "我保证每个人都有在ATM机上遇到过或遇到了一些不便。"
+    },
+    {
+        "start": 723.12,
+        "end": 725.8,
+        "english": "So why don't you come to our website and tell us all about it.",
+        "chinese": "所以，你为什么不来我们的网站，让我们一起来谈论它。"
+    },
+    {
+        "start": 725.8,
+        "end": 731.08,
+        "english": "You can also find lots more resources on our website to help you learn English.",
+        "chinese": "您还可以在我们的网站上找到更多资源来帮助您学习英语。"
+    },
+    {
+        "start": 731.08,
+        "end": 734.16,
+        "english": "So check it out and until next time, goodbye.",
+        "chinese": "所以，请看看它，直到下次见，再见。"
+    }
+]

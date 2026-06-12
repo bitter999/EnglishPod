@@ -1,0 +1,980 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.5600000000000005,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.5600000000000005,
+        "end": 9.120000000000001,
+        "english": "My name is Catherine and today we have an advanced level lesson for you. This one's a bit",
+        "chinese": "我的名字是凯特，今天我们将为您安排一个入门级课程。这个课程有点难度。"
+    },
+    {
+        "start": 9.120000000000001,
+        "end": 11.96,
+        "english": "difficult. It's all about science.",
+        "chinese": "困难。这是科学的全部。"
+    },
+    {
+        "start": 11.96,
+        "end": 17.240000000000002,
+        "english": "That's right. Today we're going to talk about physics, specifically about, well you know,",
+        "chinese": "好的，我明白了。请继续提供需要翻译的英文内容。"
+    },
+    {
+        "start": 17.240000000000002,
+        "end": 22.6,
+        "english": "things like Stephen Hawking and wormholes, black holes and general theory of relativity",
+        "chinese": "英语：例如，斯蒂芬·霍金、虫洞、黑洞和广义相对论。"
+    },
+    {
+        "start": 22.6,
+        "end": 24.04,
+        "english": "and all that good stuff.",
+        "chinese": "和所有好东西。"
+    },
+    {
+        "start": 24.04,
+        "end": 28.12,
+        "english": "Right. So we're in class. We're learning about physics today and you're going to hear",
+        "chinese": "正确。我们现在在课上。今天我们将学习物理学，你将听到。"
+    },
+    {
+        "start": 28.12,
+        "end": 32.08,
+        "english": "a lot of terms. Don't worry if you're not really sure what they mean. We'll be back in",
+        "chinese": "英语：许多术语。别担心你可能不完全理解它们的意思。我们将在中文中回来。"
+    },
+    {
+        "start": 32.08,
+        "end": 35.120000000000005,
+        "english": "a moment to talk about them.",
+        "chinese": "一个短暂的时间来讨论他们。"
+    },
+    {
+        "start": 35.120000000000005,
+        "end": 48.96,
+        "english": "Good morning everybody. Welcome to Physics 101. My name is Ed Brown and I will be your professor",
+        "chinese": "早上大家好，欢迎来到物理学101。我叫王刚，今天我要给你们讲的是物理学。"
+    },
+    {
+        "start": 48.96,
+        "end": 53.68000000000001,
+        "english": "for this semester. Since the day is our first day, I wanted to give you an overview of what",
+        "chinese": "对于这个学期。因为今天是我们第一次上课，所以我想给你一个概述，让你了解一下接下来的学习内容。"
+    },
+    {
+        "start": 53.68,
+        "end": 58.76,
+        "english": "this course will look like, how you will be graded and what we will cover this semester.",
+        "chinese": "这个课程将看起来像，你将在学期中被如何评估和我们将涵盖哪些内容。"
+    },
+    {
+        "start": 58.76,
+        "end": 63.24,
+        "english": "Will we be focusing more on theoretical physics or experimental physics professor?",
+        "chinese": "英语：我们将更加关注理论物理还是实验物理教授？"
+    },
+    {
+        "start": 63.24,
+        "end": 67.96000000000001,
+        "english": "This is an introductory course and my aim is to give you a broad overview of the field of",
+        "chinese": "这个是入门课程，我的目标是给你一个全面的了解。"
+    },
+    {
+        "start": 67.96000000000001,
+        "end": 72.64,
+        "english": "physics. The term physics encompasses many different areas of research and study and",
+        "chinese": "物理学。这个术语涵盖了许多不同的研究领域和学科，包括但不限于物理学、数学、工程学等。"
+    },
+    {
+        "start": 72.64,
+        "end": 76.88,
+        "english": "I hope this course will provide you with a conceptual understanding of physics which will",
+        "chinese": "我希望大家这次课程能帮助你理解物理学的基本概念，从而为你的未来学习打下坚实的基础。"
+    },
+    {
+        "start": 76.88,
+        "end": 81.4,
+        "english": "prove useful whether or not you choose to further your study in the field. We will begin",
+        "chinese": "证明你的学习是否对你未来在该领域有用。我们将开始。"
+    },
+    {
+        "start": 81.4,
+        "end": 85.52000000000001,
+        "english": "the course by looking at the fundamental concepts of physics. Then by the middle of the",
+        "chinese": "英语：通过观察物理学的基本概念，然后在中后期。"
+    },
+    {
+        "start": 85.52000000000001,
+        "end": 90.0,
+        "english": "semester, we will begin exploring the more theoretical side of physics. It is essential",
+        "chinese": "学期，我们将开始探索物理学的更理论化方面。这是至关重要的。"
+    },
+    {
+        "start": 90.0,
+        "end": 94.24000000000001,
+        "english": "that you first have a firm grasp of the fundamentals so that you can better understand",
+        "chinese": "那你首先要有扎实的基础，这样才能更好地理解。"
+    },
+    {
+        "start": 94.24000000000001,
+        "end": 96.96000000000001,
+        "english": "the theoretical concepts when we get to them.",
+        "chinese": "英语：当我们达到它们时，理论上的概念。"
+    },
+    {
+        "start": 96.96000000000001,
+        "end": 101.28,
+        "english": "Will we learn about black holes, wormholes and string theory?",
+        "chinese": "英语：我们将学习关于黑洞、虫洞和弦理论。"
+    },
+    {
+        "start": 101.28,
+        "end": 106.36000000000001,
+        "english": "We will learn about the general theory of relativity including black holes. We will also",
+        "chinese": "我们将在理论广义相对论中学习，包括黑洞。我们也计划进行一些实验和研究。"
+    },
+    {
+        "start": 106.36,
+        "end": 111.12,
+        "english": "explore the developing theories in quantum mechanics such as string theory. We will discuss",
+        "chinese": "探索量子力学中的发展理论，如弦理论。我们将讨论。"
+    },
+    {
+        "start": 111.12,
+        "end": 116.16,
+        "english": "some hypothetical features of space time like wormholes. We will also explore some of the",
+        "chinese": "英语：一些关于时间旅行的假设特性，如虫洞。我们还将探索一些关于时间旅行的特性和现象。"
+    },
+    {
+        "start": 116.16,
+        "end": 120.56,
+        "english": "more influential developments in the field of thermodynamics, electromagnetism and nuclear",
+        "chinese": "更深远的领域在热力学、电磁学和核能方面的发展。"
+    },
+    {
+        "start": 120.56,
+        "end": 125.24,
+        "english": "physics. All of which have had significant impacts on modern life. Now I am going to",
+        "chinese": "物理。所有这些都对现代生活产生了重大影响。现在我要开始工作了。"
+    },
+    {
+        "start": 125.24,
+        "end": 129.44,
+        "english": "have the TAs pass out the syllabus for this class so you can see how this course will",
+        "chinese": "请TA将此课程的课表发给所有TA，以便你能看到如何这门课。"
+    },
+    {
+        "start": 129.44,
+        "end": 130.44,
+        "english": "be graded.",
+        "chinese": "英语：be graded."
+    },
+    {
+        "start": 130.44,
+        "end": 137.44,
+        "english": "Oh man, looks like this isn't going to be the easy A I thought it'd be.",
+        "chinese": "英语：哦，不行啊，看起来这不太可能是个容易的A。"
+    },
+    {
+        "start": 137.44,
+        "end": 143.6,
+        "english": "Alright, we're back. So obviously we are in a class as you said and the professor is",
+        "chinese": "好的，我们已经回到课堂。所以很明显，你刚才说的我们都属于这个水平，并且教授是正确的。"
+    },
+    {
+        "start": 143.6,
+        "end": 147.2,
+        "english": "pretty much introducing the course and what's going to happen during the semester.",
+        "chinese": "英语：基本介绍了课程和学期即将发生的事情。"
+    },
+    {
+        "start": 147.2,
+        "end": 150.76,
+        "english": "That's right. So he's talking about the different kinds of physics or the different elements",
+        "chinese": "英语：那对的。所以他正在谈论不同的物理定律或不同的元素。"
+    },
+    {
+        "start": 150.76,
+        "end": 155.32,
+        "english": "of physics that will be a part of this course. And there's a very eager student. He's",
+        "chinese": "物理学中，这将是一个课程的一部分。而且有一个非常热情的学生。他非常渴望学习。"
+    },
+    {
+        "start": 155.32,
+        "end": 160.12,
+        "english": "very excited and he wants to know are these interesting things going to be a part of the",
+        "chinese": "英语：非常兴奋，他想知道这些有趣的事情是否将要成为一部分。"
+    },
+    {
+        "start": 160.12,
+        "end": 164.79999999999998,
+        "english": "course. And so when we start out we talked about these two different fields of physics.",
+        "chinese": "课程。而且当我们开始的时候，我们讨论了这两个不同的物理学领域。"
+    },
+    {
+        "start": 164.79999999999998,
+        "end": 169.88,
+        "english": "And I think maybe it will be helpful to start there with these two branches of this field.",
+        "chinese": "并且我认为，也许在这些领域中开始这两个分支可能会有所帮助。"
+    },
+    {
+        "start": 169.88,
+        "end": 174.79999999999998,
+        "english": "That's right. He mentioned this boy Matt said if they're going to be focusing more on theoretical",
+        "chinese": "是的，他说。如果我们要更注重理论，那么他们应该更加关注这个男孩Matt。"
+    },
+    {
+        "start": 174.79999999999998,
+        "end": 181.04,
+        "english": "physics or experimental physics. Now theoretical physics and experimental physics are what we",
+        "chinese": "物理学或实验物理。现在我们讨论的是理论物理学和实验物理学。"
+    },
+    {
+        "start": 181.04,
+        "end": 185.79999999999998,
+        "english": "call two different branches of physics. That means they're both physics. But people who",
+        "chinese": "请将两个不同的物理学分支联系起来。这意味着它们都是物理学。但人们可能会认为，物理学家们可能在讨论不同领域的物理学问题。"
+    },
+    {
+        "start": 185.79999999999998,
+        "end": 191.16,
+        "english": "do them have different methods and maybe focus on different things. Theoretical comes from",
+        "chinese": "英语：它们有不同的方法，或许会专注于不同的方面。理论来源于。"
+    },
+    {
+        "start": 191.16,
+        "end": 197.48,
+        "english": "the word theory. Right. Right. So I have a theory about something and I'm going to think",
+        "chinese": "英语：它是一种点和拍相机。"
+    },
+    {
+        "start": 197.48,
+        "end": 203.95999999999998,
+        "english": "about whether or not it's possible and maybe there's some math involved. But with experimental",
+        "chinese": "关于是否可行，或者可能涉及数学。但有实验性。"
+    },
+    {
+        "start": 203.95999999999998,
+        "end": 209.35999999999999,
+        "english": "physics the key word here is experiment, experimental. That means we actually build experiments",
+        "chinese": "物理上这个关键词是实验，实验。这意味着我们实际上构建了实验。"
+    },
+    {
+        "start": 209.36,
+        "end": 215.28,
+        "english": "to test our theories. That's right. So I guess theoretical physics we can just have theories",
+        "chinese": "英语：它能测试我们的理论。没错，所以我想我们或许可以有理论物理学的理论。"
+    },
+    {
+        "start": 215.28,
+        "end": 221.96,
+        "english": "about how things happen or explain them. But we can't really prove them. We can just have",
+        "chinese": "关于事情发生的原理或解释。但我们无法真正证明它们。我们可以只是有这些信息。"
+    },
+    {
+        "start": 221.96,
+        "end": 226.4,
+        "english": "theories around them. Maybe we can try and prove them mathematically. But experimental",
+        "chinese": "英语：它们围绕着他们。或许我们可以尝试用数学来证明它们，但实验性。"
+    },
+    {
+        "start": 226.4,
+        "end": 230.64000000000001,
+        "english": "physics you can actually as you said create an experiment to prove it or not. That's right.",
+        "chinese": "物理啊，你真能自己动手做实验来证明它或者不。对呀。"
+    },
+    {
+        "start": 230.64000000000001,
+        "end": 235.64000000000001,
+        "english": "And so those are the two main branches that the young man asks about. But the professor",
+        "chinese": "所以这位年轻人主要讨论的是这两条主要分支。不过教授对此表示了关注。"
+    },
+    {
+        "start": 235.64,
+        "end": 239.88,
+        "english": "says listen we're going to be talking about the fundamental concepts of physics. And so",
+        "chinese": "英语：它说，听！我们即将讨论物理学的基本概念。所以"
+    },
+    {
+        "start": 239.88,
+        "end": 245.55999999999997,
+        "english": "fundamental concepts are things that you often hear a professor talk about in your introductory",
+        "chinese": "英语：基本概念是你经常在教授中听到的概念。"
+    },
+    {
+        "start": 245.55999999999997,
+        "end": 250.0,
+        "english": "class. So introduction to mathematics or introduction to physics. So fundamental concepts",
+        "chinese": "课程。因此，学习数学或物理的基本概念。"
+    },
+    {
+        "start": 250.0,
+        "end": 255.0,
+        "english": "are the basics. That's right. So the most important but also the ones at the very bottom,",
+        "chinese": "英语：这是基础。对的。所以最重要的，也是最底层的。"
+    },
+    {
+        "start": 255.0,
+        "end": 260.03999999999996,
+        "english": "the foundation. Because you can learn about more difficult or more complicated things later.",
+        "chinese": "基础。因为你以后可以学习到更难或更复杂的领域。"
+    },
+    {
+        "start": 260.03999999999996,
+        "end": 264.96,
+        "english": "But first you have to have a foundation. So those are the fundamental concepts. Right.",
+        "chinese": "但是首先，你需要有一个基础。所以这些是基本概念。"
+    },
+    {
+        "start": 264.96,
+        "end": 270.32,
+        "english": "And actually after the professor said that this other this guy Matt went on to ask if they",
+        "chinese": "实际上，教授说，这个家伙叫这个，他问他们是否可以继续。"
+    },
+    {
+        "start": 270.32,
+        "end": 277.0,
+        "english": "were going to learn about black holes, worm holes and string theory. Okay. So three very important",
+        "chinese": "英语：我们将要学习关于黑洞、虫洞和弦理论。好的。所以三个非常重要的主题。"
+    },
+    {
+        "start": 277.0,
+        "end": 281.35999999999996,
+        "english": "parts of physics but very, very complicated things. The first two are related. Right. So",
+        "chinese": "物理部分，但非常复杂的事情。第一个是相关的，所以。"
+    },
+    {
+        "start": 281.35999999999996,
+        "end": 288.96,
+        "english": "we've got astrophysics astramene star. So astrophysics is the physics of things bodies",
+        "chinese": "我们有天体物理台。所以天体物理学是天体物理学的范畴。"
+    },
+    {
+        "start": 288.96,
+        "end": 293.84,
+        "english": "in space planets, stars, things like that. That's right. And so two concepts that we often",
+        "chinese": "在太空星球、星星等概念。那真是对的。而且我们经常说两个概念，那就是……"
+    },
+    {
+        "start": 293.84,
+        "end": 298.84,
+        "english": "talk about in astrophysics are black holes and worm holes. That's right. So I think many",
+        "chinese": "英语：谈论黑洞和虫洞的是天体物理学家。没错，我认为许多人都认为这是正确的。"
+    },
+    {
+        "start": 298.84,
+        "end": 304.15999999999997,
+        "english": "of you have already heard this word black hole. The concept of it is basically a huge hole",
+        "chinese": "英语：它是一个傻瓜相机。"
+    },
+    {
+        "start": 304.15999999999997,
+        "end": 309.32,
+        "english": "in space that just sucks up everything. The gravitational force. So the pull of gravity",
+        "chinese": "在空间里，一切都变得如此糟糕。引力的力量如此之大，以至于所有的力量都向它靠拢。"
+    },
+    {
+        "start": 309.32,
+        "end": 314.4,
+        "english": "is so strong that nothing can resist it. Everything that comes close to the to a black hole.",
+        "chinese": "英语：它如此强大以至于什么也挡不住。"
+    },
+    {
+        "start": 314.4,
+        "end": 319.4,
+        "english": "It's like in a drain. I read it comes close to it. It gets sucked into it. No light can",
+        "chinese": "英语：它像在排水口。读着，它接近了它。它被吸进了那里。没有光能穿透它。"
+    },
+    {
+        "start": 319.4,
+        "end": 325.23999999999995,
+        "english": "escape it. That's right. And the other concept there is a worm hole. So it's basically a",
+        "chinese": "逃逸。没错，还有另一个概念是虫洞。所以它基本上就是这个了。"
+    },
+    {
+        "start": 325.23999999999995,
+        "end": 331.64,
+        "english": "sort of bending of space and time in which you can travel from one point to another a lot",
+        "chinese": "英语：有点弯曲的空间和时间，可以在你从一个点到另一个点之间移动很多。"
+    },
+    {
+        "start": 331.64,
+        "end": 335.56,
+        "english": "faster than going in a straight line or from one time to another. So this is a very, very",
+        "chinese": "英语：更快地从一个时间到另一个时间。所以这是非常、非常快的。"
+    },
+    {
+        "start": 335.56,
+        "end": 341.47999999999996,
+        "english": "popular concept in science fiction movies and books. For example, Star Trek, the most recent",
+        "chinese": "英语：点和拍是科幻电影和书籍中的流行概念。例如，星际迷航（Star Trek）等。"
+    },
+    {
+        "start": 341.47999999999996,
+        "end": 347.47999999999996,
+        "english": "movie, the new movie Star Trek. There was a worm hole. So one ship goes from the future",
+        "chinese": "电影《星际穿越》。有虫洞，所以一艘飞船从未来出发。"
+    },
+    {
+        "start": 347.56,
+        "end": 351.16,
+        "english": "and it comes into the past. That's right. So it has to travel through this worm hole.",
+        "chinese": "英语：和它进入过去。没错，所以它必须穿过这个虫洞。"
+    },
+    {
+        "start": 351.16,
+        "end": 356.36,
+        "english": "That's right. So and actually, yeah, you say science fiction and it obviously it's hard to",
+        "chinese": "英语：那对，所以和实际上，是的，你说科幻小说并显然很难。"
+    },
+    {
+        "start": 356.36,
+        "end": 362.44,
+        "english": "prove it. But this is one of the concepts that physicists think they can prove someday.",
+        "chinese": "英语：证明它。但这个是物理学认为他们有一天可以证明的一个概念。"
+    },
+    {
+        "start": 362.44,
+        "end": 366.68,
+        "english": "Someday. And this is why it's a part of theoretical physics. That's right. And what about this",
+        "chinese": "有一天。而且，这正是理论物理学的一部分。没错。"
+    },
+    {
+        "start": 366.68,
+        "end": 374.12,
+        "english": "other concept? String theory. Okay. String theory is a is a theory about the way the world works",
+        "chinese": "英语：其他概念？字符串理论。 okay. 字符串理论是关于世界运作方式的理论。"
+    },
+    {
+        "start": 374.12,
+        "end": 380.12,
+        "english": "basically. And it is a theory that actually competes with Einstein's view of the way the",
+        "chinese": "基本。而且它实际上比爱因斯坦的观点还要竞争。"
+    },
+    {
+        "start": 380.12,
+        "end": 386.76,
+        "english": "world works. Right. And string theory is about basically strings that are vibrating. And that's",
+        "chinese": "世界运行。正确。并且弦理论是基本的振动字符串，这就是"
+    },
+    {
+        "start": 386.76,
+        "end": 393.0,
+        "english": "that's the way the entire universe is kind of built. Yeah. So basically at the subatomic level,",
+        "chinese": "那真是整个宇宙的构建方式。嗯，总的来说，在原子尺度上，整体来说，宇宙是这样被构建的。"
+    },
+    {
+        "start": 393.0,
+        "end": 398.28000000000003,
+        "english": "usually you're supposed to have an atom, but also supposedly these atoms are made up of strings",
+        "chinese": "通常你应该是有原子的，但同时这些原子也被认为是由字符串组成的。"
+    },
+    {
+        "start": 398.28000000000003,
+        "end": 402.84000000000003,
+        "english": "that depending on the frequency at which they vibrate, they can constitute different elements",
+        "chinese": "这个根据振动频率可以构成不同的元素。"
+    },
+    {
+        "start": 402.84,
+        "end": 406.35999999999996,
+        "english": "or different parts. Different kinds of matter, right? Exactly. And so we're talking about the very,",
+        "chinese": "英语：或者不同的部分。不同种类的东西，对吧？正好。我们正在谈论的正是这个……"
+    },
+    {
+        "start": 406.35999999999996,
+        "end": 413.15999999999997,
+        "english": "very, very, very, very, very, very, very smallest building blocks of the things in the world,",
+        "chinese": "这个世界上最小的建筑单位，是无数个点和线组成的集合。"
+    },
+    {
+        "start": 413.15999999999997,
+        "end": 418.84,
+        "english": "atoms and even quarks and jewels and those things. Exactly. So it's actually one of these new things",
+        "chinese": "原子、甚至夸克和宝石，这些都是新事物。对啊，实际上就是这些新的东西。"
+    },
+    {
+        "start": 418.84,
+        "end": 424.76,
+        "english": "that people are talking about string theory. It's kind of this new way of seeing the world and",
+        "chinese": "这个傻瓜相机正在讨论弦理论。它有点像这种新的方式看世界，而不仅仅是停留在表面。"
+    },
+    {
+        "start": 424.76,
+        "end": 429.71999999999997,
+        "english": "explaining the unexplainable because there are so many things still in the world that we can",
+        "chinese": "解释为什么如此难以理解，因为世界上的事情太多，我们还有很多要了解的。"
+    },
+    {
+        "start": 429.72,
+        "end": 435.24,
+        "english": "explain. And people argue about this because obviously if you can't prove it, it's hard to say",
+        "chinese": "请原谅，我犯了错误。以下是正确的翻译："
+    },
+    {
+        "start": 435.24,
+        "end": 441.24,
+        "english": "what is right and what is wrong. Exactly. But actually one thing that was proven was Einstein's",
+        "chinese": "英语：什么是对的，什么是对的。正好。但是实际上，唯一被证明的是爱因斯坦。"
+    },
+    {
+        "start": 441.24,
+        "end": 445.8,
+        "english": "general theory of relativity. So this is something we all learned back in high school or in college.",
+        "chinese": "通用理论广义相对论。所以这就是我们在高中或大学学到的东西。"
+    },
+    {
+        "start": 446.68,
+        "end": 453.24,
+        "english": "That's right. So basically the general theory of relativity is this idea that space and time are",
+        "chinese": "英语：那对了。所以，广义相对论的基本思想是空间和时间是这样的想法："
+    },
+    {
+        "start": 453.24,
+        "end": 458.36,
+        "english": "not fixed. They're, they're relative to each other. So an example my teacher used to use is that",
+        "chinese": "英语：不固定。他们彼此相对，所以我的老师曾经用的例子是这样："
+    },
+    {
+        "start": 458.36,
+        "end": 463.72,
+        "english": "when you travel very, very, very fast, imagine going around a jet around the world counterclockwise,",
+        "chinese": "当您以极快的速度飞行，想象一下逆时针绕地球一圈。"
+    },
+    {
+        "start": 464.6,
+        "end": 473.08000000000004,
+        "english": "time slows down the faster you move. Okay. So that proves that that time and space are not fixed.",
+        "chinese": "时间会随着你移动而变慢。好的，这证明了时间和空间是不固定的。"
+    },
+    {
+        "start": 473.08000000000004,
+        "end": 480.12,
+        "english": "That's right. Actually this, the general theory of relativity and specifically this aspect of speed",
+        "chinese": "是的，这是正确的。实际上，这个理论的普遍原理和速度方面。"
+    },
+    {
+        "start": 480.12,
+        "end": 488.2,
+        "english": "and time was proven with the example that you give with two atomic clocks that you kept one on",
+        "chinese": "英语：和你提供的例子，两个原子钟中有一个在你的一边。"
+    },
+    {
+        "start": 488.2,
+        "end": 493.56,
+        "english": "the ground like, I don't know, in your house. And you put one in an airplane that was traveling",
+        "chinese": "地像，我不知道，在你的房子里。你把一个放在飞往的飞机上。"
+    },
+    {
+        "start": 493.56,
+        "end": 500.76,
+        "english": "faster than the speed of sound. And so after maybe an hour, the plane would land and the clocks",
+        "chinese": "更快于声速。而且，大约一个小时后，飞机将在空中降落，并且时钟会停止。"
+    },
+    {
+        "start": 500.76,
+        "end": 506.44,
+        "english": "would have not the same time anymore, but they would be one, the clock that was in the airplane",
+        "chinese": "英语：它现在的时间比以前少了，但它们会是同一时间，飞机上的时钟。"
+    },
+    {
+        "start": 506.44,
+        "end": 512.6,
+        "english": "traveling faster would be maybe half a second off or something very, very small, but you would see",
+        "chinese": "英语：更快地旅行，可能只有半秒或更小，但你会看到"
+    },
+    {
+        "start": 512.6,
+        "end": 518.2,
+        "english": "that time moves slower because your speed is faster. All right. So that's the general theory.",
+        "chinese": "这个点和拍是傻瓜相机。SLR/DSLR是单反相机。机身是体，镜头是镜，长焦是长焦，偏振镜是偏振镜。卸下重任是卸下任务。赋予神速是授予/给予。辞职信是辞退信。入门级是入门级。显示屏是显示屏。套机镜头是机，流利构建单元是单元。全球视野是全视野。"
+    },
+    {
+        "start": 518.2,
+        "end": 523.72,
+        "english": "Oh, that's a part of the general theory of relativity. It's a very important theory in the history",
+        "chinese": "英语：哦，那是一个广义相对论的一部分。它是爱因斯坦在物理学史上的一个重要理论。"
+    },
+    {
+        "start": 523.72,
+        "end": 528.36,
+        "english": "of the world, but also the history of physics. Another thing though that the professor mentioned that",
+        "chinese": "世界之大，但物理学的历史也不小。另外，这位教授还提到了"
+    },
+    {
+        "start": 528.36,
+        "end": 535.24,
+        "english": "is very important in physics these days is quantum mechanics. Yes, this is actually a very interesting",
+        "chinese": "英语：这是量子力学，这在物理学中非常重要。是的，实际上这是一个非常有趣的话题。"
+    },
+    {
+        "start": 535.24,
+        "end": 541.88,
+        "english": "field of physics, but very hard to understand. In my opinion, for me, it's very, very hard.",
+        "chinese": "物理场，但理解非常困难。在我看来，对于我来说，理解非常困难。"
+    },
+    {
+        "start": 541.88,
+        "end": 548.92,
+        "english": "I find it very complex too. Well, mechanics are the way things work, right? And so quantum is at the",
+        "chinese": "我发现自己也挺复杂的。嗯，机械是事情运作的规律，对吧？而且量子也是在起作用。"
+    },
+    {
+        "start": 548.92,
+        "end": 554.12,
+        "english": "atomic and subatomic level. And so you're talking about basically the building blocks of the things",
+        "chinese": "原子和亚原子层。而且你正在谈论基本事物的构建块。"
+    },
+    {
+        "start": 554.12,
+        "end": 561.32,
+        "english": "in the universe. And the people who are studying this or working on this, quantum mechanics, they",
+        "chinese": "在宇宙中。并且那些正在研究或从事这项工作的科学家、物理学家，他们"
+    },
+    {
+        "start": 561.4000000000001,
+        "end": 565.6400000000001,
+        "english": "don't like the Einsteinians. They don't like the people who follow Einstein because these two",
+        "chinese": "英语：不要喜欢爱因斯坦的信徒。他们不喜欢那些追随爱因斯坦的人，因为他们俩有共同点。"
+    },
+    {
+        "start": 565.6400000000001,
+        "end": 569.8000000000001,
+        "english": "theories, they don't actually go together right. Well, you either have to believe one or you have",
+        "chinese": "英语：理论，它们实际上并不总是同时成立。好吧，要么你信一个，要么你就得相信两者中的任何一个。"
+    },
+    {
+        "start": 569.8000000000001,
+        "end": 576.6,
+        "english": "to believe the other. Well, the problem is that when you're talking about, when you're talking",
+        "chinese": "英语：相信对方。好吧，问题在于当你谈论时，你是在说什么？"
+    },
+    {
+        "start": 576.6,
+        "end": 581.6400000000001,
+        "english": "at the macro level, the way things work and the way things move, like for example, you and me,",
+        "chinese": "在宏观级别，事物运作和运动的方式，比如你我。"
+    },
+    {
+        "start": 581.6400000000001,
+        "end": 585.72,
+        "english": "of course, there are formulas and there are everything that explains and that prove that things",
+        "chinese": "当然，有公式和一切解释、证明，这些事实说明了什么。"
+    },
+    {
+        "start": 585.72,
+        "end": 590.12,
+        "english": "are the way they are. But the problem is that in quantum mechanics, at some atomic level,",
+        "chinese": "是的，他们就是这样。但问题在于，在量子力学中，原子级别的某个层，存在一些未知的性质和效应。"
+    },
+    {
+        "start": 590.12,
+        "end": 595.88,
+        "english": "it's so different. Like, for example, electronics, the reason why we're able to have micro processors",
+        "chinese": "英语：它真是太不同了。比如，电子学，我们为什么能有微处理器？"
+    },
+    {
+        "start": 596.68,
+        "end": 602.6,
+        "english": "and electronics is because, for example, atoms can be in two places at the same time, which is",
+        "chinese": "英语：和电子学是，例如，原子可以在同一时间在两个位置上存在，这正是"
+    },
+    {
+        "start": 602.6,
+        "end": 606.6,
+        "english": "impossible in our world. It's like saying, you know, Catherine can be in two places at the exact",
+        "chinese": "这个傻瓜相机在我们的世界里是无法实现的。就像你说的，凯特琳可以在两个地方同时存在，这真是一个有趣的想法。"
+    },
+    {
+        "start": 606.6,
+        "end": 611.96,
+        "english": "same time. And there's also this problem of observation that I've read about. So there are some",
+        "chinese": "同时间。还有这个观察问题，我之前读过一些关于的。所以有一些需要改进的地方。"
+    },
+    {
+        "start": 611.96,
+        "end": 618.28,
+        "english": "kinds of particles like electrons, for example, that if you're observing them, sometimes",
+        "chinese": "根据提供的模板，我将直接翻译给定的英语句子。请注意，由于提供的模板中没有具体的例子或上下文，以下翻译是基于常见的语法和结构："
+    },
+    {
+        "start": 618.4399999999999,
+        "end": 622.6,
+        "english": "appear as waves, but if you're observing them, sometimes appear to have mass. Exactly. Like light.",
+        "chinese": "英语：它像波浪一样出现，但如果仔细观察，有时会显得有质量。对吧？"
+    },
+    {
+        "start": 622.6,
+        "end": 628.28,
+        "english": "Yeah. So you're talking about these things that seem to have a whole different set of rules",
+        "chinese": "是的。你正在谈论这些看起来似乎有着完全不同的规则的东西。"
+    },
+    {
+        "start": 628.28,
+        "end": 634.04,
+        "english": "from the rules that we have here walking around and eating food and going to work. And so I think",
+        "chinese": "英语：从这里，我正在四处走动和吃东西，准备去上班。所以我认为"
+    },
+    {
+        "start": 634.04,
+        "end": 637.88,
+        "english": "that's what's fascinating about physics that, you know, you can break things down to the very",
+        "chinese": "那正是物理学的魅力之处，你知道，你能够将事物分解到极致。"
+    },
+    {
+        "start": 637.88,
+        "end": 642.12,
+        "english": "smallest parts and they seem very different. Or you can think about the stars and the moon and",
+        "chinese": "最小的部分和它们看起来非常不同。或者你也可以想想星星和月亮，看看它们之间的区别。"
+    },
+    {
+        "start": 642.12,
+        "end": 647.0799999999999,
+        "english": "you know, these planets and they have their own rules too. And so, you know, that's why physics is",
+        "chinese": "英语：你知道，这些星球有自己的规则。所以，这就是为什么物理学是如此有趣。"
+    },
+    {
+        "start": 647.08,
+        "end": 653.1600000000001,
+        "english": "such a very, I think it's frustrating. It's frustrating. And it's exciting at the same time.",
+        "chinese": "英语：它像傻瓜一样点和拍。它像傻瓜一样点和拍。同时，它又很有趣。"
+    },
+    {
+        "start": 653.1600000000001,
+        "end": 657.72,
+        "english": "That's right. And actually, some of the other fields that the professor said they were going to",
+        "chinese": "是的，而且实际上，他们还计划要讨论一些其他的话题。"
+    },
+    {
+        "start": 657.72,
+        "end": 664.84,
+        "english": "explore are the fields of thermodynamics, electromagnetism, and even nuclear physics. So very",
+        "chinese": "探索是热力学、电磁学和甚至核物理领域的重要分支。所以非常有趣。"
+    },
+    {
+        "start": 664.84,
+        "end": 669.64,
+        "english": "important branches, I think, of physics as well. So when you're studying physics or science,",
+        "chinese": "重要分支，我认为，物理学也是一门重要的学科。所以当你在学习物理或科学时，我建议你多多关注和研究这些领域。"
+    },
+    {
+        "start": 670.5200000000001,
+        "end": 675.6400000000001,
+        "english": "you will definitely hear about the laws of thermodynamics. Thermal means heat and dynamics means,",
+        "chinese": "你一定会听到关于热力学的。热力学是指能量守恒和转换定律，动态则是动力学。"
+    },
+    {
+        "start": 675.64,
+        "end": 681.3199999999999,
+        "english": "you know, changing, changing state. And electromagnetism, of course, is the combination of two words",
+        "chinese": "英语：你知道，改变状态。而且电磁学，也就是两个单词的组合，就是变化了。"
+    },
+    {
+        "start": 681.3199999999999,
+        "end": 685.56,
+        "english": "electricity and magnetism. You know, like magnets, you have the plus and the minus end.",
+        "chinese": "电和磁。你懂的，像磁铁有正负两极。"
+    },
+    {
+        "start": 685.56,
+        "end": 691.3199999999999,
+        "english": "Right. They attract where they repel. And then finally, nuclear physics. Nuclear physics is",
+        "chinese": "正确。他们吸引的是它们排斥的，然后最终是核物理。核物理是中国的科学领域，与英语中的“物理学”不同。"
+    },
+    {
+        "start": 691.3199999999999,
+        "end": 697.88,
+        "english": "very important because it's again about the about atoms and breaking down atoms and finding out",
+        "chinese": "英语：它非常重要，因为这是关于原子和解开原子结构并发现的。"
+    },
+    {
+        "start": 697.88,
+        "end": 702.52,
+        "english": "what their parts are. So you might have heard about the Hadron super collider. Right. This is like a",
+        "chinese": "英语：他们的零件是什么。所以你可能听说过希拉利超导 Collider。对吧。这就像一个"
+    },
+    {
+        "start": 702.52,
+        "end": 708.36,
+        "english": "big, it's like a big racetrack for atoms. And they basically spin these atoms around the racetrack,",
+        "chinese": "大，它就像一个巨大的赛车跑道，原子们基本在赛道上绕着这个轨道旋转。"
+    },
+    {
+        "start": 708.36,
+        "end": 713.0799999999999,
+        "english": "going faster and faster. And then they put objects in their way so that they break. They crash.",
+        "chinese": "英语：更快地前进。然后他们把物体塞进去了，这样就撞车了。"
+    },
+    {
+        "start": 713.0799999999999,
+        "end": 718.12,
+        "english": "They crash. And they study what the, what the pieces look like. And what happens and how much",
+        "chinese": "他们撞车。然后他们研究一下，看看这些零件的样子和会发生什么，以及发生的事情有多严重。"
+    },
+    {
+        "start": 718.12,
+        "end": 724.76,
+        "english": "energy is released. It's all very interesting. And it seems like things that are out of science",
+        "chinese": "英语：能量释放。一切都很好玩。而且似乎有些超出了科学的范围。"
+    },
+    {
+        "start": 724.76,
+        "end": 729.88,
+        "english": "fiction because it's not something mainstream that you hear about in the news very often. Or that",
+        "chinese": "英语：它是一种傻瓜相机。"
+    },
+    {
+        "start": 729.88,
+        "end": 734.68,
+        "english": "sometimes we understand like obviously we all hear about the gossip magazines and who's eating",
+        "chinese": "英语：有时我们理解得像，我们每个人都在听关于八卦杂志和谁在吃。"
+    },
+    {
+        "start": 734.68,
+        "end": 740.36,
+        "english": "who and all this other type of news. But very rarely do we really pay attention to this type of",
+        "chinese": "英语：谁和所有这类新闻。但很少有人真正关注这种类型的信息。"
+    },
+    {
+        "start": 740.36,
+        "end": 745.4,
+        "english": "information or news because it is a little bit complex to understand. And it seems that I think",
+        "chinese": "信息或新闻，因为理解起来有点复杂。似乎我认为。"
+    },
+    {
+        "start": 745.4,
+        "end": 749.8,
+        "english": "scientists are not the best writers for average people like you and me. They write in their own",
+        "chinese": "科学家们不是你和我这样的普通人，写得最好的人。他们自己写的。"
+    },
+    {
+        "start": 749.8,
+        "end": 756.2,
+        "english": "language almost oftentimes as the case. But I have to say I recently read Bill Bryson's book,",
+        "chinese": "英语：语言几乎总是与这个情况相似。不过我不得不承认，最近读了布赖恩·鲍威尔的书。"
+    },
+    {
+        "start": 756.2,
+        "end": 761.48,
+        "english": "A Short History of Nearly Everything. And it talks about the history of the world and us and",
+        "chinese": "一个关于一切事物的简短历史。它谈论了世界的过去和我们自己，以及"
+    },
+    {
+        "start": 761.48,
+        "end": 766.2800000000001,
+        "english": "the animals and plants in it. And he talks about physics especially. And I think that if you're",
+        "chinese": "英语：它里的动物和植物。他还谈到了物理学，而且我认为如果你是这样的人，那么如果我有资格的话，我会对你的工作提出建议。"
+    },
+    {
+        "start": 766.2800000000001,
+        "end": 771.0,
+        "english": "interested in that, I don't know, I mean, if you're an advanced English learner, it might be challenging.",
+        "chinese": "英语：对那个感兴趣，我不太清楚，如果你是高级英语学习者的话，可能有点困难。"
+    },
+    {
+        "start": 771.0,
+        "end": 777.08,
+        "english": "It was challenging for me. But it's definitely a good book to read to learn about some of these things.",
+        "chinese": "英语：它确实很困难。但我觉得这是一本很好的书，可以学习一些这些主题。"
+    },
+    {
+        "start": 777.08,
+        "end": 783.88,
+        "english": "Yeah, it's actually a very good idea. And I don't know, many of us, I think many of us as well",
+        "chinese": "是的，实际上这是一个很好的主意。而且我也不清楚，许多人都会同意。"
+    },
+    {
+        "start": 783.88,
+        "end": 789.32,
+        "english": "growing up, maybe we had a hard time with some of these exact sciences like chemistry or physics.",
+        "chinese": "英语：成长，或许我们曾经遇到一些这些精确科学领域的问题。"
+    },
+    {
+        "start": 789.32,
+        "end": 793.72,
+        "english": "So we obviously find it hard to be interested in it. But you know, it's very different because",
+        "chinese": "所以很明显，我们很难被它吸引。不过你知道，这确实不同。"
+    },
+    {
+        "start": 793.72,
+        "end": 798.68,
+        "english": "it's not math and formulas. You don't really have to know how to derive, you know, the formula",
+        "chinese": "英语：它不是数学和公式。你不需要知道如何推导，你知道，公式。"
+    },
+    {
+        "start": 798.68,
+        "end": 803.08,
+        "english": "or anything. You just kind of have to understand the theory. And it's very, very interesting, I must say.",
+        "chinese": "或者任何东西。你得先理解理论，这非常有趣，我不得不说。"
+    },
+    {
+        "start": 803.08,
+        "end": 809.16,
+        "english": "It is. And it's fun because you can talk about, it's like philosophy. Sometimes you can talk about,",
+        "chinese": "是的，而且它很有趣，因为你可以在那里谈论，就像哲学一样。有时候你也可以谈论。"
+    },
+    {
+        "start": 809.16,
+        "end": 813.0,
+        "english": "you know, if this were the case, then what would happen? Right, right. These hypothetical",
+        "chinese": "英语：你知不知道，如果这是真的情况，会发生什么？对，对。这些假设性的情况。"
+    },
+    {
+        "start": 813.0,
+        "end": 818.12,
+        "english": "situations. And I think that's maybe more in line with theoretical physics. But it's just,",
+        "chinese": "情景。而且我认为这可能更接近于理论物理学。不过，这只是我的看法。"
+    },
+    {
+        "start": 818.12,
+        "end": 822.36,
+        "english": "it's really interesting to think about and to let your mind go into these very strange places.",
+        "chinese": "英语：它真的很有趣，想一想这些非常奇怪的地方。"
+    },
+    {
+        "start": 822.36,
+        "end": 827.24,
+        "english": "That's right. So actually, we are curious to know if you believe that maybe someday we will be",
+        "chinese": "英语：那对了。所以实际上，我们是好奇你是否认为有一天我们会成为这样的人。"
+    },
+    {
+        "start": 827.24,
+        "end": 834.28,
+        "english": "able to travel in time. Or do you believe that live in other, on other planets or we'll have",
+        "chinese": "能随时间而移动。还是你是否认为我们在其他星球上生活，或者我们将在其他地方生存呢？"
+    },
+    {
+        "start": 834.28,
+        "end": 840.84,
+        "english": "space travel as a part of our holiday making? Yeah, they supposedly already are arranging tourism",
+        "chinese": "英语：太空旅行作为我们的假期的一部分？嗯，他们似乎已经在安排旅游了。"
+    },
+    {
+        "start": 840.84,
+        "end": 845.08,
+        "english": "to the moon, right? Yeah, they are. So I wonder if, if one day like in the fifth element, we're",
+        "chinese": "英语：到月球去，对吧？没错，他们在那里。所以我想问一下，如果有一天像第五元素那样，我们是不是可以实现？"
+    },
+    {
+        "start": 845.08,
+        "end": 850.76,
+        "english": "going to have these cruises to space. Yeah, that would be fun. So let us know what your opinions",
+        "chinese": "英语：计划去太空旅行。嗯，那可真是个刺激的体验！所以请告诉我您的看法吧。"
+    },
+    {
+        "start": 850.76,
+        "end": 855.4,
+        "english": "are about this topic. And also if you have any suggestions or questions, you can always visit us",
+        "chinese": "英语：这是一些关于这个主题的话题。而且，如果你有任何建议或问题，请随时访问我们。"
+    },
+    {
+        "start": 855.4,
+        "end": 860.6,
+        "english": "on our website, EnglishPod.com. We hope to see you there. And until next time, bye. Bye.",
+        "chinese": "英文：在我们的网站上，英语Pod.com。我们希望见到您。直到下次再见，谢谢！再见！再见！"
+    }
+]

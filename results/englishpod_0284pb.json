@@ -1,0 +1,818 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.64,
+        "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+        "chinese": "你好，大家和欢迎来到英语播客。我的名字是马克。"
+    },
+    {
+        "start": 4.64,
+        "end": 7.92,
+        "english": "My name is Catherine and today we have an intermediate level lesson for you.",
+        "chinese": "我的名字是凯特，今天我们给你一个入门级课程。"
+    },
+    {
+        "start": 7.92,
+        "end": 9.44,
+        "english": "It's kind of about cars, right?",
+        "chinese": "英语：它有点像汽车，对吧？"
+    },
+    {
+        "start": 9.44,
+        "end": 14.76,
+        "english": "That's right. So today we are taking our car to the mechanic and we're just going to check",
+        "chinese": "是的，正确。今天我们把车送到修理工那里，然后我们将进行检查。"
+    },
+    {
+        "start": 14.76,
+        "end": 17.52,
+        "english": "things and make sure that our car is okay.",
+        "chinese": "事物和确保我们的车安全。"
+    },
+    {
+        "start": 17.52,
+        "end": 21.36,
+        "english": "Alright, so we're going to learn a lot of really great words that have to do with cars",
+        "chinese": "好的，我们将学习许多与汽车有关的非常有趣且富有哲理的词汇。"
+    },
+    {
+        "start": 21.36,
+        "end": 25.6,
+        "english": "and what happens when cars break down so let's listen to our dialogue.",
+        "chinese": "英语：和当汽车坏了，我们还是听听我们的对话。"
+    },
+    {
+        "start": 31.0,
+        "end": 37.28,
+        "english": "Welcome to Al's Garage. What seems to be the problem?",
+        "chinese": "欢迎来到阿的车库。您似乎遇到了什么问题？"
+    },
+    {
+        "start": 37.28,
+        "end": 42.480000000000004,
+        "english": "No problem at all. I am taking a long road trip and I want to make sure my car is in good",
+        "chinese": "没问题。我打算长途旅行，我想确保我的车处于良好状态。"
+    },
+    {
+        "start": 42.480000000000004,
+        "end": 44.24,
+        "english": "mechanical condition.",
+        "chinese": "机械状态。"
+    },
+    {
+        "start": 44.24,
+        "end": 48.08,
+        "english": "Very wise decision. When was the last time you had a tune up?",
+        "chinese": "英语：非常明智的决定。上一次是什么时候进行过维护？"
+    },
+    {
+        "start": 48.08,
+        "end": 52.480000000000004,
+        "english": "Not that long ago. I think it was four months ago.",
+        "chinese": "英语：很久以前。我认为那是四个月前。"
+    },
+    {
+        "start": 52.480000000000004,
+        "end": 56.72,
+        "english": "We usually recommend that you bring your car in every 5,000 kilometers.",
+        "chinese": "我们通常建议您每行驶5,000公里就检查您的车辆。"
+    },
+    {
+        "start": 56.72,
+        "end": 61.68,
+        "english": "Why? I mean, what exactly do you do to a car that you need to check it so often?",
+        "chinese": "英语：为什么？我指的是，你如何检查一辆车以至于需要如此频繁地进行检查？"
+    },
+    {
+        "start": 61.68,
+        "end": 67.28,
+        "english": "First of all, we change the motor oil and oil filter. If you don't do this, it can cause",
+        "chinese": "首先，我们更换了机油和油滤。如果不这样做，可能会导致什么？"
+    },
+    {
+        "start": 67.28,
+        "end": 71.64,
+        "english": "your engine to wear faster and that means you would probably have to change the pistons",
+        "chinese": "你的发动机要更快，这意味你可能需要更换气缸。"
+    },
+    {
+        "start": 71.64,
+        "end": 76.0,
+        "english": "and intake valves. I see. What else?",
+        "chinese": "和进气阀。我看到。还有什么？"
+    },
+    {
+        "start": 76.0,
+        "end": 81.48,
+        "english": "We also check your spark plugs, fuel filter and other oil levels such as hydraulic fluid.",
+        "chinese": "我们还检查您的火花塞、燃油滤清器和其他油液水平，如液压油。"
+    },
+    {
+        "start": 81.48,
+        "end": 85.2,
+        "english": "We also check the clutch and brakes to determine when you will need new ones.",
+        "chinese": "我们还检查刹车和油门来确定何时需要更换新件。"
+    },
+    {
+        "start": 85.2,
+        "end": 90.48,
+        "english": "Okay. Well, when you put it that way, it doesn't seem like a waste of time and money.",
+        "chinese": "好的。当你这样表述时，它似乎并不显得浪费时间和金钱。"
+    },
+    {
+        "start": 90.48,
+        "end": 95.12,
+        "english": "Trust me. Regular tune-outs will keep your car running smoothly and avoid breakdowns.",
+        "chinese": "英语：信任我。定期的维护将确保你的汽车运行顺畅，避免故障。"
+    },
+    {
+        "start": 101.2,
+        "end": 107.28,
+        "english": "All right, we're back. So a very simple dialogue with the mechanic explaining to the client about",
+        "chinese": "英语：一切好，我们已经回来。所以一位非常简单的对话，向客户解释了机械师如何操作。"
+    },
+    {
+        "start": 107.28,
+        "end": 112.32000000000001,
+        "english": "why you need to take care of your car. So he mentioned a couple of very technical words in here.",
+        "chinese": "英语：为什么你得照顾你的车。所以他在这里提到了一些非常技术的词汇。"
+    },
+    {
+        "start": 112.32,
+        "end": 114.8,
+        "english": "Let's take a look at those on language takeaway.",
+        "chinese": "让我们看看那些语言学习材料。"
+    },
+    {
+        "start": 117.19999999999999,
+        "end": 118.39999999999999,
+        "english": "Language takeaway.",
+        "chinese": "语言总结。"
+    },
+    {
+        "start": 120.16,
+        "end": 126.32,
+        "english": "The first phrase we're looking at today is tune-up. So a tune-up is a thing. It's a noun and it's",
+        "chinese": "今天的第一个话题是调校。所以调校是一回事。它是一个名词，它是。"
+    },
+    {
+        "start": 126.32,
+        "end": 133.35999999999999,
+        "english": "something you do to check your car. Right. So you take your car for a tune-up or you get a tune-up.",
+        "chinese": "英语：你检查你的汽车。正确。所以，你给你的车做一次全面的保养或进行一次保养。"
+    },
+    {
+        "start": 133.35999999999999,
+        "end": 139.68,
+        "english": "Now, this is for your car and this basically means to check that your car is okay and replace any",
+        "chinese": "现在，这是为您的汽车准备的。这基本上意味着要检查您的汽车是否正常，并替换任何需要更换的部分。"
+    },
+    {
+        "start": 139.68,
+        "end": 146.88,
+        "english": "very easy things around the car. So you don't normally get a tune-up when your car is broken.",
+        "chinese": "很简单的汽车事情。所以你开车的时候通常不需要做保养了。"
+    },
+    {
+        "start": 146.88,
+        "end": 152.4,
+        "english": "You get a tune-up when your car is okay. That's right. That's right. So the mechanic explained",
+        "chinese": "你把车修好了，这是正确的。这是正确的。所以技师解释了。"
+    },
+    {
+        "start": 152.4,
+        "end": 158.24,
+        "english": "some of the things that you do when you get a tune-up. So for example, he said that they change",
+        "chinese": "一些你做当修理时的常见事情。例如，他说他们更换了这些部件。"
+    },
+    {
+        "start": 158.24,
+        "end": 164.8,
+        "english": "the motor oil. Okay. So like it sounds, motor oil is oil for your motor. That's right.",
+        "chinese": "油。嗯，油是汽车发动机的燃料。对了，油也是润滑剂。"
+    },
+    {
+        "start": 164.96,
+        "end": 170.56,
+        "english": "But there are other kinds of oil as well and the oil is oftentimes put into the car and then",
+        "chinese": "但是还有其他类型的油，而且有时会将油倒入汽车里。"
+    },
+    {
+        "start": 170.56,
+        "end": 175.44,
+        "english": "it sometimes it falls out and so there's what's that thing that catches the oil when it comes down?",
+        "chinese": "英语：它有时会掉出来，所以那玩意儿就是那个油把它们弄脏了。"
+    },
+    {
+        "start": 175.44,
+        "end": 182.4,
+        "english": "Oil pan. So yes, as you say there are different types of oils. Cooking oil is obviously for cooking",
+        "chinese": "油箱。所以，你说的没错，因为有各种各样的油。烹饪用油当然是为了烹饪。"
+    },
+    {
+        "start": 182.4,
+        "end": 188.88000000000002,
+        "english": "for you. But motor oil is not for eating. It's for your motor. But we also have to change the oil",
+        "chinese": "对于您，这是傻瓜相机。但机油不是用来吃的东西。它是您的发动机的机油。但我们还需要更换机油。"
+    },
+    {
+        "start": 188.88000000000002,
+        "end": 193.92000000000002,
+        "english": "filter. Now this is an important part that often gets mentioned at tune-ups. That's right. So the",
+        "chinese": "滤镜。现在这个很重要，经常在保养时提到。对吧。所以这个过滤器是必要的。"
+    },
+    {
+        "start": 193.92,
+        "end": 200.39999999999998,
+        "english": "word filter here, it's you have the verb two filter. In this case, we also have a noun, it",
+        "chinese": "英语：这里有一个滤镜，你有这个动词两个滤镜。在这种情况中，我们还有一名词，它。"
+    },
+    {
+        "start": 200.39999999999998,
+        "end": 207.51999999999998,
+        "english": "called a filter. So what this device does, it collects maybe dirt or rocks and dust or anything",
+        "chinese": "英文：它被称作偏振镜。所以这个设备能收集可能的灰尘或碎屑等。"
+    },
+    {
+        "start": 207.51999999999998,
+        "end": 213.67999999999998,
+        "english": "that you don't want to be in your engine and specifically maybe if the oil is a little bit dirty.",
+        "chinese": "如果你不想在发动机里，或者如果油有点脏的话。"
+    },
+    {
+        "start": 213.67999999999998,
+        "end": 220.39999999999998,
+        "english": "Right. So an oil filter, make sure that the oil in your motor is not going to harm your motor.",
+        "chinese": "正确。所以，确保油箱中的机油不会对您的发动机造成损害。"
+    },
+    {
+        "start": 220.88,
+        "end": 226.24,
+        "english": "And we also have a couple of interesting things like the fuel filter. Now how is this different",
+        "chinese": "而且我们还有几个有趣的点，比如燃油滤。现在这个和什么不一样？"
+    },
+    {
+        "start": 226.24,
+        "end": 231.36,
+        "english": "from the oil filter? It's pretty much the same thing. The only difference is that this filter",
+        "chinese": "从油滤？这跟傻瓜相机差不多。唯一的区别就是这个过滤器。"
+    },
+    {
+        "start": 231.36,
+        "end": 238.64000000000001,
+        "english": "specifically cleans the gasoline in your car. Okay, similar object. After that, that we have",
+        "chinese": "具体地清洁你的汽车油箱。好的，相似的物体。之后，我们有这个。"
+    },
+    {
+        "start": 238.64000000000001,
+        "end": 243.52,
+        "english": "something very different. These are spark plugs. That's right. These are small little devices that,",
+        "chinese": "这个非常不同。这些是火花塞。正确。这是小到不能再小的设备，它们："
+    },
+    {
+        "start": 243.52,
+        "end": 248.88,
+        "english": "as the name says, create a spark. This is how your engine goes. This is how your car moves. You have",
+        "chinese": "这个傻瓜相机就像你的发动机一样，它能让你的车跑得更快。你有责任去维护和保养它。"
+    },
+    {
+        "start": 248.96,
+        "end": 254.48,
+        "english": "spark and then everything starts running. So spark plugs are actually quite important. That's right.",
+        "chinese": "英语：它像点和影一样开始运行。所以火花塞其实是非常重要的。这就是正确的。"
+    },
+    {
+        "start": 254.48,
+        "end": 262.56,
+        "english": "So a spark is a very quick flash of light that comes out. That's right. It's not a long light.",
+        "chinese": "所以，一个闪是光突然亮起的瞬间。没错，这不是长光。"
+    },
+    {
+        "start": 262.56,
+        "end": 269.2,
+        "english": "It's just a spark. So maybe when I strike a match or I use a lighter, there's a spark and that's",
+        "chinese": "英语：它只是火花。所以也许当我点燃一支火柴或使用打火机时，就会有火花了。"
+    },
+    {
+        "start": 269.2,
+        "end": 276.15999999999997,
+        "english": "what starts the fire. That's right. That's exactly right. So a spark plug. And now we also check the",
+        "chinese": "火开始了吗？没错，没错。这就是对的。所以火花塞。现在我们还要检查点火系统。"
+    },
+    {
+        "start": 276.16,
+        "end": 282.32000000000005,
+        "english": "oil levels of our car. And that's a very important thing as well. Yeah, that's right. So the oil level",
+        "chinese": "油箱里的机油。而且这也是很重要的事情，对吧？嗯，那得加油啊。"
+    },
+    {
+        "start": 282.32000000000005,
+        "end": 287.68,
+        "english": "is something that you test with a long stick and you put it into the engine, the oil container,",
+        "chinese": "英语：它是一种长柄工具，你把它放入发动机、油箱里。"
+    },
+    {
+        "start": 287.68,
+        "end": 292.72,
+        "english": "make sure that there is enough oil. Because if there's not enough oil, you can have very serious car",
+        "chinese": "确保有足够的机油。因为如果没有足够的机油，你可能会有非常严重的汽车问题。"
+    },
+    {
+        "start": 292.72,
+        "end": 298.88,
+        "english": "trouble. That's right. So a lot of technical or mechanical things that we're taking a look at.",
+        "chinese": "英语：麻烦。那对了，我们正在仔细查看一些技术或机械问题。"
+    },
+    {
+        "start": 298.88,
+        "end": 302.8,
+        "english": "Why don't we go back? Let's review all these words and we'll be back in a bit.",
+        "chinese": "英语：为什么不去？我们再复习一下这些词，然后就回来吧。"
+    },
+    {
+        "start": 306.40000000000003,
+        "end": 317.52000000000004,
+        "english": "Welcome to Al's garage. What seems to be the problem? No problem at all. I am taking a long road trip and",
+        "chinese": "欢迎来到阿的车库。问题似乎不大，我正沿着长长的公路旅行。"
+    },
+    {
+        "start": 317.52000000000004,
+        "end": 323.76000000000005,
+        "english": "I want to make sure my car is in good mechanical condition. Very wise decision. When was the last time",
+        "chinese": "我想要确保我的汽车处于良好的机械状况。这个决定非常明智。上一次是什么时候？"
+    },
+    {
+        "start": 323.76000000000005,
+        "end": 330.96000000000004,
+        "english": "you had a tune up? Not that long ago. I think it was four months ago. We usually recommend that you",
+        "chinese": "英语：你有修车计划吗？不是那回事。我猜是四个月前的事了。我们通常建议你尽早进行一次大修。"
+    },
+    {
+        "start": 330.96,
+        "end": 337.59999999999997,
+        "english": "bring your car in every 5,000 kilometers. Why? I mean, what exactly do you do to a car that you",
+        "chinese": "带你的车每行驶5,000公里就检查一次。为什么？我指的是什么，你到底做了什么来对一辆车进行检查呢？"
+    },
+    {
+        "start": 337.59999999999997,
+        "end": 343.84,
+        "english": "need to check it so often? First of all, we change the motor oil and oil filter. If you don't do this,",
+        "chinese": "需要经常检查吗？首先，我们需要更换机油和滤清器。如果不这样做，那么你的车会越来越差。"
+    },
+    {
+        "start": 343.84,
+        "end": 348.32,
+        "english": "it can cause your engine to wear faster. And that means you would probably have to change the",
+        "chinese": "英语：它能加速你的发动机。而且这意味着你可能需要更换发动机。"
+    },
+    {
+        "start": 348.32,
+        "end": 356.32,
+        "english": "pistons and intake valves. I see. What else? We also checker spark plugs, fuel filter and other",
+        "chinese": "英语：气门和进气阀。我看到。还有其他什么？我们还检查火花塞、燃油滤清器和其他部件。"
+    },
+    {
+        "start": 356.4,
+        "end": 361.2,
+        "english": "oil levels such as hydraulic fluid. We also check the clutch and brakes to determine when you will",
+        "chinese": "油位如液压油。我们还检查刹车和制动器来确定何时会启动。"
+    },
+    {
+        "start": 361.2,
+        "end": 367.68,
+        "english": "need new ones. Okay. Well, when you put it that way, it doesn't seem like a waste of time and money.",
+        "chinese": "需要新的镜头。好的，那好吧，当你这么说时，这并不像是浪费时间或金钱。"
+    },
+    {
+        "start": 367.68,
+        "end": 372.24,
+        "english": "Trust me. Regular tune-ups will keep your car running smoothly and avoid breakdowns.",
+        "chinese": "英语：信任我。定期保养将确保你的汽车运行顺畅，避免故障。"
+    },
+    {
+        "start": 378.56,
+        "end": 382.88,
+        "english": "All right, we're back. So now we've prepared three key phrases for you. Let's take a look at those",
+        "chinese": "好的，我们已经回来。现在我们已经准备好了三个关键短语，请你们看看这些"
+    },
+    {
+        "start": 383.12,
+        "end": 391.12,
+        "english": "on Fluency Builder. Fluency Builder. This first phrase is something that you often hear in the service",
+        "chinese": "英语：on Fluency Builder. Fluency Builder。这是你经常听到的服务中的一句话。"
+    },
+    {
+        "start": 391.12,
+        "end": 397.2,
+        "english": "industry. So anytime you're going to a shop or maybe in this case, the mechanic, the mechanical",
+        "chinese": "行业。所以，随时你去修理店或者在这种情况里，机械师。"
+    },
+    {
+        "start": 397.2,
+        "end": 402.64,
+        "english": "say to you what seems to be the problem? That's right. So this is a question and we're saying what is",
+        "chinese": "英语：请问您所描述的问题是什么？是的，这是个问题，我们正在讨论这个问题。"
+    },
+    {
+        "start": 402.64,
+        "end": 407.52,
+        "english": "wrong with your car or maybe if you go to the doctor, the doctor will say what seems to be the problem?",
+        "chinese": "错误与你的汽车有关，或者如果你去看了医生，医生可能会告诉你看起来似乎的问题。"
+    },
+    {
+        "start": 407.52,
+        "end": 412.32,
+        "english": "What seems to be the problem? So this means what's wrong with you? Where do you have a problem?",
+        "chinese": "英语：它似乎有问题。所以这意味着你有什么问题？哪里有麻烦？"
+    },
+    {
+        "start": 412.96,
+        "end": 416.88,
+        "english": "This is a very, very common phrase. So remember this one. It just means what's what's going on?",
+        "chinese": "这个是个多音字。所以记住这个吧。它只是在说啥呢？"
+    },
+    {
+        "start": 416.88,
+        "end": 420.64,
+        "english": "Why are you here? What do you what what can I help you with? It's very polite though, right? It's",
+        "chinese": "英语：为什么在这里？你有什么问题，我可以帮你解决吗？嗯，有点礼貌呢。"
+    },
+    {
+        "start": 420.64,
+        "end": 424.08,
+        "english": "better than saying what's wrong with you. No, yeah. You wouldn't want to say what's wrong with you.",
+        "chinese": "更胜一筹。对不对？你不想说你自己的问题吗？"
+    },
+    {
+        "start": 424.08,
+        "end": 428.71999999999997,
+        "english": "That's very rude. So what seems to be the problem is a much more polite way of saying things.",
+        "chinese": "英语：那真是很粗鲁。所以，似乎问题出在用更礼貌的方式表达事情上。"
+    },
+    {
+        "start": 428.71999999999997,
+        "end": 434.8,
+        "english": "Very good. And well, the mechanic after explaining everything, he said that, you know, doing all",
+        "chinese": "很好。而且，那个修理工听完所有内容后说，你知道，做所有的都行。"
+    },
+    {
+        "start": 434.8,
+        "end": 441.04,
+        "english": "these things, changing the filters will keep the car running smoothly. Okay. So we're not talking",
+        "chinese": "这些东西，改变滤镜后车会保持顺畅。嗯，所以我们不是在谈论。"
+    },
+    {
+        "start": 441.04,
+        "end": 447.20000000000005,
+        "english": "about running like a marathon here. We're talking about using your car. And so when we turn a",
+        "chinese": "英语：关于像马拉松一样的跑步。我们正在谈论使用您的汽车。而且当我们改变方向时，您将如何驾驶？"
+    },
+    {
+        "start": 447.20000000000005,
+        "end": 453.6,
+        "english": "car on, we don't say that the car is operating. Really, we say it's running. So that means that it's",
+        "chinese": "车在，我们不说那车正在运行。真的，我们说它正运行。所以这意味着它正在运行。"
+    },
+    {
+        "start": 453.6,
+        "end": 459.44,
+        "english": "in use. That's right. That I've turned the key in them. The motor is running. But if it's running",
+        "chinese": "在使用中。那对了。我已将钥匙插入它们。电机正在运行。不过，如果运转正常的话。"
+    },
+    {
+        "start": 459.44,
+        "end": 465.68,
+        "english": "well, we say it's running smoothly. So it's not having any problems. Yeah. So if you turn your car",
+        "chinese": "好的，我们说它运行得很顺畅。所以没有问题。是的。如果你们把车开到高速公路上，那么它们会自动减速和加速，不会有任何危险。"
+    },
+    {
+        "start": 465.68,
+        "end": 471.52,
+        "english": "on and you hear your engine, it sounds very normal. No problems. It's running smoothly. If it's going",
+        "chinese": "英语：在，你听到你的发动机的声音，声音非常正常。没有问题。它运行得很好。如果它在路上行驶，会怎么样？"
+    },
+    {
+        "start": 473.2,
+        "end": 477.6,
+        "english": "it's not running smoothly. That's right. And obviously, if you don't take care of your car,",
+        "chinese": "英语：它运行不正常。没错，而且很明显，如果你不照顾你的车，那结果会很糟糕。"
+    },
+    {
+        "start": 477.6,
+        "end": 484.96000000000004,
+        "english": "what may happen is you may suffer a breakdown. Okay. Remember this phrase as a phrase because obviously",
+        "chinese": "英语：什么可能发生的，是你可能会出故障。嗯。记住这句话，因为它很明显。"
+    },
+    {
+        "start": 484.96000000000004,
+        "end": 491.2,
+        "english": "things can break. You know, I broke a glass. But as far as cars are concerned, you say, you know,",
+        "chinese": "英语：事物可以折断。你知道，我摔了一块玻璃。但至于汽车的话，你说得对，你知不知道。"
+    },
+    {
+        "start": 491.28,
+        "end": 497.52,
+        "english": "a car breaks down or I want to avoid breakdowns. And so this is something that happens when your",
+        "chinese": "英语：一辆车出了问题或者我想要避免出问题。所以，这是一些事情发生的情况。"
+    },
+    {
+        "start": 497.52,
+        "end": 503.76,
+        "english": "car no longer works properly. That's right. So you say my car broke down the yesterday. And I had",
+        "chinese": "汽车已经坏了。没错，你说我的车昨天出了问题。我昨天说，我的车今天就坏了。"
+    },
+    {
+        "start": 503.76,
+        "end": 508.24,
+        "english": "to call a friend to pick me up because you know, when your car breaks down, you can't go anywhere.",
+        "chinese": "英语：为了叫个朋友来接我，因为我知道，当你车坏了时，你不能去任何地方。"
+    },
+    {
+        "start": 508.24,
+        "end": 513.36,
+        "english": "You can't drive it anymore. Very good. So to break down now, obviously, if you get a flat tire,",
+        "chinese": "你不能开车了。很好。所以现在来说，如果你的轮胎爆胎了，当然，我得给你一个解决方案。"
+    },
+    {
+        "start": 513.36,
+        "end": 518.64,
+        "english": "that doesn't really mean that your car broke down. No, a flat tire is a bit different. That means that",
+        "chinese": "那并不意味着你的车坏了。不是的，一个瘪胎有点不同。这表示："
+    },
+    {
+        "start": 518.64,
+        "end": 523.4399999999999,
+        "english": "you have to replace the tire. But when your car breaks down, it means that something inside the car,",
+        "chinese": "你必须更换轮胎。但如果你的车出了问题，这意味着车内可能有东西。"
+    },
+    {
+        "start": 523.4399999999999,
+        "end": 530.0,
+        "english": "like a piece of it. Yeah. The transmission or the spark plugs or the engine. Some part of it",
+        "chinese": "像它一样。对，点火系统、火花塞或发动机的一部分。引擎中的一个部分。"
+    },
+    {
+        "start": 530.0,
+        "end": 535.36,
+        "english": "isn't working right. And you have to get it fixed or replaced. That's right. Okay. So a lot of",
+        "chinese": "英语：它不工作了。而且你必须修理或更换它。对吧？好的，那么很多设备都有这样的问题。"
+    },
+    {
+        "start": 535.36,
+        "end": 539.92,
+        "english": "interesting things talking about cars here, when we take a look at our dialogue again, let's listen",
+        "chinese": "有趣的关于汽车的话题在这里，当我们再次回顾我们的对话时，让我们听听。"
+    },
+    {
+        "start": 539.92,
+        "end": 552.3199999999999,
+        "english": "to it and be back in a bit. Welcome to Al's garage. What seems to be the problem?",
+        "chinese": "英语：到它这里来，快点回来。欢迎来到阿的车库。这似乎有什么问题？"
+    },
+    {
+        "start": 552.8,
+        "end": 558.16,
+        "english": "No problem at all. I am taking a long road trip and I want to make sure my car is in good",
+        "chinese": "没问题。我打算长途旅行，希望我的车能保持良好状态。"
+    },
+    {
+        "start": 558.16,
+        "end": 563.1999999999999,
+        "english": "mechanical condition. Very wise decision. When was the last time you had a tune up?",
+        "chinese": "英语：机械状况。非常明智的决定。上次你做了什么保养吗？"
+    },
+    {
+        "start": 564.24,
+        "end": 569.76,
+        "english": "Not that long ago. I think it was four months ago. We usually recommend that you bring your",
+        "chinese": "英语：很久以前。我想可能是四个月前了。我们通常建议你带上你的装备。"
+    },
+    {
+        "start": 569.76,
+        "end": 576.64,
+        "english": "car in every 5,000 kilometers. Why? I mean, what exactly do you do to a car that you need to check",
+        "chinese": "汽车在每公里5,000英尺。为什么？我指的是，你到底做什么来检查一辆车，需要做些什么才能确保它完好无损。"
+    },
+    {
+        "start": 576.64,
+        "end": 582.64,
+        "english": "it so often? First of all, we change the motor oil and oil filter. If you don't do this, it can",
+        "chinese": "是啊，经常？首先，我们更换了机油和滤清器。如果不这样做，可能会导致发动机过热、燃油泄漏等问题。"
+    },
+    {
+        "start": 582.64,
+        "end": 587.4399999999999,
+        "english": "cause your engine to wear faster. And that means you would probably have to change the pistons and",
+        "chinese": "发动机要更快地磨损。这可能意味着你需要更换活塞和气门。"
+    },
+    {
+        "start": 587.4399999999999,
+        "end": 595.36,
+        "english": "intake valves. I see. What else? We also check your spark plugs, fuel filter and other oil levels",
+        "chinese": "排气阀。我看到了。还有其他吗？我们还检查你的火花塞、燃油滤清器和其他机油水平。"
+    },
+    {
+        "start": 595.44,
+        "end": 600.4,
+        "english": "such as hydraulic fluid. We also check the clutch and brakes to determine when you will need new ones.",
+        "chinese": "例如，液压油。我们还检查刹车和离合器来确定何时需要更换这些部件。"
+    },
+    {
+        "start": 600.88,
+        "end": 606.64,
+        "english": "Okay. Well, when you put it that way, it doesn't seem like a waste of time and money. Trust me.",
+        "chinese": "好的。嗯，当你这样表述时，它并不显得浪费时间和金钱。让我听听你的想法。"
+    },
+    {
+        "start": 607.2,
+        "end": 610.8000000000001,
+        "english": "Regular tune ups will keep your car running smoothly and avoid breakdowns.",
+        "chinese": "英语：定期维护将确保你的汽车运行顺畅，避免故障。"
+    },
+    {
+        "start": 616.8000000000001,
+        "end": 622.8000000000001,
+        "english": "Okay, so talking about cars and tune ups now, when we go to the mechanic, you saw that he said",
+        "chinese": "好的，现在我们来谈谈汽车保养和维修。当你去修理店时，你可能会看到他提到过一些关于汽车保养的建议。例如："
+    },
+    {
+        "start": 622.8,
+        "end": 628.8,
+        "english": "welcome to Al's garage. So a mechanic shop is usually called a garage. That's right. And as",
+        "chinese": "欢迎来到阿的车库。所以，一个修车店通常被称为车库。没错。而且正如你所见，修车店和车库之间有密切的关系。"
+    },
+    {
+        "start": 628.8,
+        "end": 634.8,
+        "english": "you will know, a garage is a place where we store cars. So sometimes people park their cars in",
+        "chinese": "英语：你将知道，车库是我们在汽车储藏处存放汽车的地方。所以有时人们会在车库停车。"
+    },
+    {
+        "start": 634.8,
+        "end": 639.1999999999999,
+        "english": "the street. But if you have a special place to protect your car from the rain or the snow,",
+        "chinese": "马路。但如果你有特别的地方来保护你的汽车免受雨或雪的侵袭，"
+    },
+    {
+        "start": 639.1999999999999,
+        "end": 645.3599999999999,
+        "english": "like a room for your car, that's called a garage. And this might be confusing, but a store, like",
+        "chinese": "英语：像一个储物箱，这叫车库。而且这个可能有点混乱，但商店，比如..."
+    },
+    {
+        "start": 645.3599999999999,
+        "end": 650.88,
+        "english": "you say, for a mechanic is a garage also because there's a door that opens up the same way. It opens",
+        "chinese": "你这么说，对于一个修车工来说也是个好主意。因为门的开合方式是一样的。"
+    },
+    {
+        "start": 650.96,
+        "end": 656.72,
+        "english": "up, not out. And you pull the car inside and then the mechanic can fix the car. And so I think",
+        "chinese": "上，不外乎。你把车拉进车库，然后技师能修理车。所以我认为"
+    },
+    {
+        "start": 656.72,
+        "end": 662.0,
+        "english": "that's why it's a garage. There's room for many cars inside. That's right. So you take, or if your",
+        "chinese": "那是因为它是个车库。里面有很多汽车。对，所以你拿走，或者如果你的车里有其他的东西，你可以拿走。"
+    },
+    {
+        "start": 662.0,
+        "end": 667.28,
+        "english": "car is at the mechanic shop, you would say, oh, my car is at the garage. It's getting fixed. Yeah,",
+        "chinese": "汽车在修车店，你说对了。哎呀，我的车进了车库。嗯，它正在修理。嗯，是的。"
+    },
+    {
+        "start": 667.28,
+        "end": 671.12,
+        "english": "that's right. But it's a little bit different from the place where you would buy a car. A place",
+        "chinese": "是的，但与你购买汽车的地方有所不同。一个地方。"
+    },
+    {
+        "start": 671.12,
+        "end": 677.04,
+        "english": "where you buy a car is a car lot, L-O-T lot. And that's a place where they have many, many cars",
+        "chinese": "汽车市场是车市，L-O-T 市场。并且那里有很多汽车。"
+    },
+    {
+        "start": 677.1999999999999,
+        "end": 681.36,
+        "english": "outside, like in a big parking lot. That's what we call a lot. And you can pick a car and buy it",
+        "chinese": "外面，就像在大停车场一样。这就是我们所说的车库。你可以选一辆车并购买它。"
+    },
+    {
+        "start": 681.36,
+        "end": 687.28,
+        "english": "and test it. But a place where you fix a car, not special, that's called a garage or a repair shop.",
+        "chinese": "和测试一下。不过一个修理汽车的地方，而不是特别的、专门的，叫做车库或修车店。"
+    },
+    {
+        "start": 687.28,
+        "end": 692.64,
+        "english": "Now, something that's very interesting and very common in places like the States and Canada,",
+        "chinese": "现在，一些非常有趣且普遍在北美和加拿大流行的项目是："
+    },
+    {
+        "start": 692.64,
+        "end": 697.52,
+        "english": "is that there is, there are actually used car lots where you can see many cars that have,",
+        "chinese": "是的，那里确实有很多汽车停放的地方。"
+    },
+    {
+        "start": 697.52,
+        "end": 702.3199999999999,
+        "english": "they're used and they're trying to sell. But obviously in many other countries, it's not very",
+        "chinese": "他们被用和正在试图卖。但是，在许多其他国家，这并不像在很多地方那样。"
+    },
+    {
+        "start": 702.4000000000001,
+        "end": 707.5200000000001,
+        "english": "common to see a used car lot. Well, I think in America, people like to buy new cars. And that",
+        "chinese": "英语：它像看到一个二手车市场。嗯，我认为在美国，人们喜欢买新车。而且，那里的汽车市场总是那么拥挤。"
+    },
+    {
+        "start": 707.5200000000001,
+        "end": 711.9200000000001,
+        "english": "means that every couple of years, they sell their old car. But that car is still good. You know,",
+        "chinese": "英语：它意味着，每两年，它们都会卖掉他们的旧车。但那辆车仍然很好。你知道，"
+    },
+    {
+        "start": 711.9200000000001,
+        "end": 718.48,
+        "english": "you can still use a car from 2005. In fact, when I had a car, it was from 1991. It was 16 years old",
+        "chinese": "你还可以使用一辆车从2005年。事实上，当我有辆汽车时，它是从1991年的。它是16年前的。"
+    },
+    {
+        "start": 718.48,
+        "end": 722.6400000000001,
+        "english": "at the time. And so, you know, I could still drive it. It was a good car. And I think that as long",
+        "chinese": "在时间。而且，你知道，我还能开它。这辆车还是个好车。至于说，只要我愿意，我可以一直开着它。"
+    },
+    {
+        "start": 722.6400000000001,
+        "end": 727.44,
+        "english": "as you can drive it, you can sell it. This is actually another interesting thing about cars in",
+        "chinese": "你可以驾驶它，也可以卖它。这实际上也是汽车在另一个有趣的方面。"
+    },
+    {
+        "start": 727.44,
+        "end": 732.24,
+        "english": "general in places like this is that there are so many cars. And as you say, people are often",
+        "chinese": "通用地说，就是在这样的地方，有很多汽车。您说的没错，人们经常"
+    },
+    {
+        "start": 733.0400000000001,
+        "end": 738.6400000000001,
+        "english": "buying new cars every year or trading their cars every five years, let's say, use cars are",
+        "chinese": "购买新车每年或每五年更换，比如，汽车是"
+    },
+    {
+        "start": 738.6400000000001,
+        "end": 744.08,
+        "english": "very, very, very inexpensive. I mean, you can get a car for like $500 sometimes. That's right. And",
+        "chinese": "英语：非常，非常，非常便宜。我指的是你可能能花一些钱买一辆车。是的，那不就是五千元吗？"
+    },
+    {
+        "start": 744.08,
+        "end": 749.44,
+        "english": "in a lot of cases, it doesn't make sense to buy a new car because it's going to be less valuable",
+        "chinese": "在很多情况下，买一辆新车并不划算，因为它将比以前更不值钱。"
+    },
+    {
+        "start": 749.44,
+        "end": 754.6400000000001,
+        "english": "in one day. But a used car as long as it doesn't have any problems, like you don't want to buy a",
+        "chinese": "一天之内。但一辆二手车，只要它没有问题，就像你不想买一样。"
+    },
+    {
+        "start": 754.64,
+        "end": 760.8,
+        "english": "car that has faulty, you know, spark plugs or whatever. But as long as it runs smoothly, I think",
+        "chinese": "汽车有故障，你知道，火花塞或者什么。只要它运行正常，我觉得应该没问题。"
+    },
+    {
+        "start": 760.8,
+        "end": 765.68,
+        "english": "that it's a very good investment to buy a used car. Very good. So it's interesting because in",
+        "chinese": "英语：那买一辆二手车真的很有价值。很好，所以很有趣的是因为……"
+    },
+    {
+        "start": 765.68,
+        "end": 771.28,
+        "english": "many countries, used cars are actually not that much cheaper. So why don't you come to our website",
+        "chinese": "英语：许多国家，实际并不比汽车便宜。所以你为什么不来看看我们的网站呢？"
+    },
+    {
+        "start": 771.28,
+        "end": 777.28,
+        "english": "englishpod.com. Let us know if, you know, taking your car to the mechanic is very expensive or buying",
+        "chinese": "英语播客网。如果您知道，把车送到修理工处很贵吗？"
+    },
+    {
+        "start": 777.28,
+        "end": 781.76,
+        "english": "a used car is still relatively expensive. We hope to see you guys there. And until next time.",
+        "chinese": "英文：一辆旧车仍然相对昂贵。我们希望你们能在这里见到你们，直到下次再见。"
+    }
+]
