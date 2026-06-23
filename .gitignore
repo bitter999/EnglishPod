@@ -27,3 +27,7 @@ skeletons/
 *.log
 tmp/
 /tmp/
+
+# Large assets (local only)
+assets/*.mp3
+data.js
