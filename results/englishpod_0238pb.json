@@ -3,13 +3,13 @@
         "start": 0.0,
         "end": 6.5600000000000005,
         "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
-        "chinese": "你好大家，欢迎来到英语学习频道。我的名字是马可波罗。"
+        "chinese": "大家好，欢迎来到英语pod。我叫马可。"
     },
     {
         "start": 6.5600000000000005,
         "end": 10.8,
         "english": "My name is Catherine and today we're bringing you another elementary level lesson as a",
-        "chinese": "我的名字是凯瑟琳，今天我们将带给你又一节初级水平的课程，作为中国："
+        "chinese": "我的名字是凯瑟琳，今天我们要为大家带来另一篇入门级的课程作为"
     },
     {
         "start": 10.8,
@@ -21,31 +21,31 @@
         "start": 13.08,
         "end": 18.68,
         "english": "That's right. This is part two of the interview series and last part we talked about, well",
-        "chinese": "没错。这是访谈系列的第二部分，我们上一次讨论的部分是："
+        "chinese": "没错，这是访谈系列的第二部分，上一部分我们谈到的是"
     },
     {
         "start": 18.68,
         "end": 24.400000000000002,
         "english": "a brief introduction when you arrive to a job interview. But on this occasion we're",
-        "chinese": "当您参加面试时的简短介绍。但这次我们是..."
+        "chinese": "入职面试时，简短介绍自己。但这次不同的是"
     },
     {
         "start": 24.400000000000002,
         "end": 28.48,
         "english": "going to talk a little bit about yourself and your life.",
-        "chinese": "好的，我们来聊聊你自己和你的生活吧。"
+        "chinese": "聊一聊你自己以及你的生活。"
     },
     {
         "start": 28.48,
         "end": 32.32,
         "english": "That's right. So this is the most personal part, I think, of an interview. Let's take",
-        "chinese": "真的。我觉得这个采访中最重要的部分就是这个。让我们试试看吧。"
+        "chinese": "这就是访谈中最个人的部分，我想。让我们来谈谈。"
     },
     {
         "start": 32.32,
         "end": 36.64,
         "english": "listen to today's dialogue and we'll be back in a moment to talk more about the things",
-        "chinese": "好的，让我们先听听今天的对话吧。一会儿我们再来详细聊聊那些内容。"
+        "chinese": "听听今天的对话，我们稍后会再聊更多关于的事情"
     },
     {
         "start": 36.64,
@@ -57,31 +57,31 @@
         "start": 44.64,
         "end": 48.84,
         "english": "Now Miss Child's passed on your resume to me and I've had a chance to look it over. I",
-        "chinese": "现在，小孩子的简历被我传给你了。我已经看了。"
+        "chinese": "现在Miss Child已经将你的简历递给我了，我也有机会看过。"
     },
     {
         "start": 48.84,
         "end": 51.2,
         "english": "must say I'm quite impressed.",
-        "chinese": "我真是被你给 impresses 很有成就感。"
+        "chinese": "必须说我很 impressed。"
     },
     {
         "start": 51.2,
         "end": 55.519999999999996,
         "english": "Thank you very much. I've tried to keep it short and clear. If there are any questions,",
-        "chinese": "非常感谢！我尽力让它简洁明了。如果有任何问题，随时告诉我。"
+        "chinese": "非常感谢。我尽量简短明了。如果有任何问题，"
     },
     {
         "start": 55.519999999999996,
         "end": 57.0,
         "english": "please feel free to ask me.",
-        "chinese": "请自由提问我。"
+        "chinese": "请随时向我提问。"
     },
     {
         "start": 57.08,
         "end": 62.36,
         "english": "Well yes, I do have a number of questions but perhaps first you could give me a brief overview.",
-        "chinese": "确实，我有几个问题，不过也许首先你可以给我一个概览。"
+        "chinese": "是的，我确实有几个问题，不过或许你可以先给我一个简要概述。"
     },
     {
         "start": 62.36,
@@ -93,738 +93,738 @@
         "start": 65.24,
         "end": 71.4,
         "english": "Yes of course. Well as you can see from the resume I'm 27 and grew up in Brooklyn, New York.",
-        "chinese": "是的，当然。从简历上看，我今年27岁，从小在布鲁克林，纽约长大。"
+        "chinese": "是的当然。如您所见，我的简历上写着我今年27岁，长大的地方是在纽约布鲁克林。"
     },
     {
         "start": 71.4,
         "end": 75.56,
         "english": "Although our family moved to London when I was quite young at around 16.",
-        "chinese": "虽然我在大约十六岁的时候，全家搬到了伦敦。"
+        "chinese": "虽然我大约16岁时我家搬到了伦敦。"
     },
     {
         "start": 76.44,
         "end": 79.88,
         "english": "Ah I see. So you were actually educated in Europe?",
-        "chinese": "哎，我明白了。原来你是在欧洲接受过教育？"
+        "chinese": "哦，原来是这样。你其实是在欧洲受的教育？"
     },
     {
         "start": 79.88,
         "end": 84.92,
         "english": "Yes precisely. Although I was born in the US I would definitely call London home.",
-        "chinese": "当然。我虽然在美国出生，但一定会把伦敦当作家。"
+        "chinese": "是的没错。虽然我出生在美国，但我肯定会把伦敦当作我的家。"
     },
     {
         "start": 85.0,
         "end": 89.0,
         "english": "But as you see I've actually spent a lot of my life moving from country to country.",
-        "chinese": "但你看，我实际上花了很多时间从一个国家搬到另一个国家。"
+        "chinese": "但你看，我实际上花了很多生命在从一个国家搬到另一个国家上。"
     },
     {
         "start": 89.0,
         "end": 95.08,
         "english": "My father was in on the oil business before he retired so we also spent a number of years in Saudi Arabia too.",
-        "chinese": "我爸爸之前在石油行业工作过，所以我们也花了不少时间在沙特阿拉伯。"
+        "chinese": "我的父亲退休前就在石油业务上有所涉及，所以我们也曾在沙特阿拉伯度过了多年。"
     },
     {
         "start": 95.08,
         "end": 100.12,
         "english": "Very interesting. So seems you had quite an adventurous childhood.",
-        "chinese": "确实很有趣。看来你小时候经历了不少冒险呢。"
+        "chinese": "非常有趣。看来你儿时经历了不少冒险。"
     },
     {
         "start": 100.12,
         "end": 104.76,
         "english": "Absolutely. We were never still for too long but now I'm really looking to settle down.",
-        "chinese": "当然。我们从没有一直闲着太久，现在我真得很想安定下来。"
+        "chinese": "当然。我们从来都不是一成不变的，但现在我真的想安定下来。"
     },
     {
         "start": 105.48,
         "end": 110.28,
         "english": "I see. Okay well let's move on to discuss your education shall we?",
-        "chinese": "好的，那我们先聊聊你的教育吧？"
+        "chinese": "明白了，那我们接着谈谈你的教育如何？"
     },
     {
         "start": 110.28,
         "end": 110.6,
         "english": "Sure.",
-        "chinese": "当然。"
+        "chinese": "好的。"
     },
     {
         "start": 115.08,
         "end": 121.0,
         "english": "Alright we're back so obviously this person had a very interesting life and they use some",
-        "chinese": "好的，我们又见面了。很明显，这个人有过非常有趣的生活，并且他们使用了一些中文。"
+        "chinese": "好的，我们回来了，显然这个人有过非常有趣的人生，并且他们使用了一些"
     },
     {
         "start": 121.0,
         "end": 126.92,
         "english": "pretty interesting words there so why don't we take a look at five key words that we have prepared",
-        "chinese": "那些有趣的小词，为什么不来看看我们准备的五个关键词？"
+        "chinese": "有趣的一些词儿，我们来看看我们准备的五个关键词吧"
     },
     {
         "start": 126.92,
         "end": 132.12,
         "english": "for you on language takeaway. Language takeaway.",
-        "chinese": "当然，以下是翻译结果：\n\n语言取阅。语言取阅。"
+        "chinese": "为了你，语言 takeaway。语言 takeaway。"
     },
     {
         "start": 132.84,
         "end": 139.64,
         "english": "Alright so the first word that we have is right when Mr Parsons talked to Miss Childs and he said",
-        "chinese": "好的，我们第一个单词就是对的。当帕森斯先生和孩子小姐交谈时，他说了。"
+        "chinese": "好的，那么首先提到的是当帕森斯先生与奇尔德小姐交谈时他说"
     },
     {
         "start": 139.64,
         "end": 146.67999999999998,
         "english": "that he was very impressed with her resume. Alright so someone says I'm impressed when they",
-        "chinese": "他非常被她的简历给 impresses。好的，有人就说我在乎她的时候啊。"
+        "chinese": "他非常 impressed 于她的简历。好吧，有人说是我说我被她 的简历 impress 了。"
     },
     {
         "start": 146.67999999999998,
         "end": 154.04,
         "english": "think that something that you did or something about you is very interesting or good or better than",
-        "chinese": "你觉得你做过的或者关于你的某件事非常有趣或好，甚至比其他东西更好。"
+        "chinese": "认为你所做之事或你自身某方面非常有趣、好或者更好"
     },
     {
         "start": 154.04,
         "end": 160.67999999999998,
         "english": "most people's. That's right so you're kind of amazed you're kind of you're like wow.",
-        "chinese": "大多数人的。没错，你有点惊讶呢，有点不可思议呢。哇哦。"
+        "chinese": "大多数人都是这样，你简直惊讶了，简直像“哇！”一样。"
     },
     {
         "start": 161.88,
         "end": 167.39999999999998,
         "english": "And so this is the an adjective I am impressed. That's right so teachers sometimes say this.",
-        "chinese": "所以，这就是我感到印象深刻的形容词。没错，老师有时候就是这样说的。"
+        "chinese": "这就是我印象中的形容词，没错，老师有时就是这样说的。"
     },
     {
         "start": 168.36,
         "end": 175.56,
         "english": "Maybe when you do really really really well on a test they say hey Marco I'm really impressed.",
-        "chinese": "也许你考试真的特别好，他们会对说：嘿，Marco，我真的很印象深刻。"
+        "chinese": "也许当你在考试中真的做得非常好时，他们可能会说，马克罗，我真的很 impressed。"
     },
     {
         "start": 175.56,
         "end": 182.84,
         "english": "You got 99% parents say this to friends family so basically this is a way to say good job.",
-        "chinese": "你有99%的父母这么说给朋友的家人，基本上这就是在说干得不错。"
+        "chinese": "你得到了99%的父母这么对朋友、家人说，基本上这是对他们表示好的意思。"
     },
     {
         "start": 182.84,
         "end": 189.08,
         "english": "Wow. Right and there's also a verb so this is the adjective to be impressed and the verb form",
-        "chinese": "哇。没错，还有个动词，所以这是让你印象深刻的形容词，以及它的动词形式"
+        "chinese": "哇。原来還有動詞，這就是令人印象深刻的形容詞和動詞形式"
     },
     {
         "start": 189.08,
         "end": 195.08,
         "english": "would be to impress someone so that's obviously if you impress your teacher by studying your teacher",
-        "chinese": "当然是为了让人印象深刻，所以如果你通过努力学习你的老师来让你的老师对你印象深刻的，那肯定是这样的。"
+        "chinese": "让人印象深刻的是让你的老师因为学习而 impressed 你的老师"
     },
     {
         "start": 195.08,
         "end": 201.72000000000003,
         "english": "will be impressed. That's right and following that Mr Parsons has some questions about Miss Childs",
-        "chinese": "你会被惊艳到。没错，而且是马克森先生对克里斯蒂小姐有些问题要问。"
+        "chinese": "会印象深刻。没错，帕森斯先生对克里斯多夫小姐有一些问题"
     },
     {
         "start": 201.72000000000003,
         "end": 207.0,
         "english": "background. That's right he asked her for a brief overview of her background so we have two",
-        "chinese": "背景。没错，他要求她简要介绍一下她的背景，所以我们有两个。"
+        "chinese": "背景。没错，他让她简要概述一下她的背景，所以我们有两份"
     },
     {
         "start": 207.0,
         "end": 214.36,
         "english": "interesting words there an overview what is an overview. An overview is like a summary. It's basically",
-        "chinese": "有趣的是，这是一个概览。概览就像一个总结。基本上"
+        "chinese": "那里有一些有趣的词，什么是概述。概述就像一个摘要。本质上"
     },
     {
         "start": 214.36,
         "end": 221.32000000000002,
         "english": "a way to ask for someone to give you a lot of information in very few words. That's right so you",
-        "chinese": "一种只需用很少几个词就能让你获得大量信息的方式。没错，这就是你所需要的。"
+        "chinese": "一种简短传达大量信息的方式。就是这样，所以你"
     },
     {
         "start": 221.32,
         "end": 226.12,
         "english": "don't really want too much details you don't want somebody to tell you their life in detail you just",
-        "chinese": "你真的不需要太多细节，你不想有人告诉你他们的生活细节。你只是想听听别人的生活，而不是被详细讲述。"
+        "chinese": "你也不想知道太多细节，不想让别人把自己的一生都告诉你，你只是"
     },
     {
         "start": 226.12,
         "end": 232.6,
         "english": "want a brief summary. Right so not I was born on August 11th in 1979 and I was and then I went into",
-        "chinese": "想简短总结一下。对，我是1979年8月11日出生的。然后我就去了…"
+        "chinese": "想做个简要总结。所以，我不是1979年8月11日出生的，然后我就去了"
     },
     {
         "start": 232.6,
         "end": 238.44,
         "english": "this and no this is basic simple you know this is where I'm from this is where I went to school the end.",
-        "chinese": "这是基本的，很简单。你知道这是我的家乡，这是我上学的地方。结束。"
+        "chinese": "这就是基本的，你知道的，这是我的出处，这是我上学的地方。结束。"
     },
     {
         "start": 239.4,
         "end": 245.16,
         "english": "And well he wanted a brief overview of her background what exactly is her background.",
-        "chinese": "那他想要了解一下她的背景，具体是她的背景是什么呢？"
+        "chinese": "而且他确实想对她的一些背景做一个简要的了解。"
     },
     {
         "start": 245.16,
         "end": 250.6,
         "english": "Well think about the word back okay that means behind or in this case background is your personal",
-        "chinese": "嗯，再想想那个词“back”吧。它意味着后方或者在这一情况下背景是你的个人背景。"
+        "chinese": "好，想想这个单词“back”，意思是后面或在这种情况下，“background”是你个人的。"
     },
     {
         "start": 250.6,
         "end": 257.96,
         "english": "history so you could ask someone what's your background it means where you from or you know what",
-        "chinese": "历史，这样你就可以问别人你的背景是什么，比如你是哪里人或者你知道。"
+        "chinese": "历史如此，你就可以问人家你的背景是从哪里来或者你知道什么的"
     },
     {
         "start": 257.96,
         "end": 263.88,
         "english": "have you been doing up to up to now in your life. That's right and precisely when he asked her about",
-        "chinese": "你这一辈子，是不是一直都是这样子的。没错，正是这个时候他问起你的。"
+        "chinese": "你这一辈子做到现在了吗？没错，他就是问到这里的时候"
     },
     {
         "start": 263.88,
         "end": 269.56,
         "english": "her background now she's starting to talk about her her life that in general terms as we said",
-        "chinese": "她的背景现在她开始谈论她的生活，总的来说我们说的。"
+        "chinese": "她的背景现在她开始用一般性的说法谈论她的生活，正如我们所说。"
     },
     {
         "start": 269.56,
         "end": 276.84,
         "english": "it's an overview so she said that she's 27 and she's from Brooklyn etc so she starts giving very",
-        "chinese": "她说了，这个是概要，所以她说她是二十七岁，来自布鲁克林等等，然后就开始说了很多。"
+        "chinese": "这是一份概览，她说她今年二十七岁，来自布鲁克林等等，然后就开始详细说明了。"
     },
     {
         "start": 276.84,
         "end": 282.67999999999995,
         "english": "general information about herself in her life exactly so when she starts to do this Mr.",
-        "chinese": "她对自己一生中关于自己的基本信息有着极其详细的了解。当她开始这样做时，Mr.出现了。"
+        "chinese": "她生活中的基本情况，以便当她开始这样做时，大家都知道。"
     },
     {
         "start": 282.67999999999995,
         "end": 289.15999999999997,
         "english": "Parsons has more specific questions about her life because he wants to know details so he asks her",
-        "chinese": "Parsons 对于她的生活有更多的具体问题，因为他想知道细节，所以他问她。"
+        "chinese": "Parsons 对她的生活有更具体的问题，因为他想知道细节所以问他。"
     },
     {
         "start": 289.15999999999997,
         "end": 297.23999999999995,
         "english": "then where she was educated so this phrase to be educated is very important that's right so he's",
-        "chinese": "然后她在哪里上学，这个说法非常重要是吧？所以他是"
+        "chinese": "然后她受教育的地方，这个“受教育”这个词非常重要，对吧。所以他的是"
     },
     {
         "start": 297.23999999999995,
         "end": 303.0,
         "english": "asking her you studied in Europe that's right to be educated means to have someone teach you or",
-        "chinese": "询问你是否在欧洲学习过，这意味着要有人教你。"
+        "chinese": "询问她，你是在欧洲学习的，也就是说受人教养意味着有人教你或"
     },
     {
         "start": 303.0,
         "end": 309.16,
         "english": "to go to school somewhere so for example I was educated in America where were you educated Marco?",
-        "chinese": "去上学啊，比如说我是在美国上学的。你在哪儿上学的？Marco？"
+        "chinese": "去某个地方上学，比如我在美国接受教育，你是在哪里受的教育，Marco?"
     },
     {
         "start": 309.16,
         "end": 315.08,
         "english": "I was educated in Chile wow so you've been educated in a number of different places right at home",
-        "chinese": "我是在智利上学的哦，所以你以前在很多不同的地方都学习过吧？"
+        "chinese": "我在智利接受教育哦，所以你也是在不同的地方接受过教育吧，在家里的。"
     },
     {
         "start": 315.08,
         "end": 320.92,
         "english": "and in a different country right but you can also specify the university name right for example",
-        "chinese": "当然在另一个国家，但你也可以指定大学名称，例如"
+        "chinese": "而在不同的国家里，当然也可以指定大学名称，例如"
     },
     {
         "start": 320.92,
         "end": 327.96,
         "english": "I was educated at Harvard can you say that you can or I was educated at a number of different schools",
-        "chinese": "我毕业于哈佛大学，你能说你也可以吗？我曾在多所学校就读。"
+        "chinese": "我在哈佛受教育，你能说你也在多所不同的学校受教育吗？"
     },
     {
         "start": 328.12,
         "end": 335.79999999999995,
         "english": "so you can say I studied or I was educated all right and well apparently she was moving around",
-        "chinese": "所以你可以说我学习了或者我确实受过教育，看来她一直在四处跑。"
+        "chinese": "你可以这么说，我学习或者受教育的确实不错，而且她似乎在搬家。"
     },
     {
         "start": 335.79999999999995,
         "end": 342.91999999999996,
         "english": "from Europe United States so Mr. Parsons says wow it seems that you had an adventurous childhood",
-        "chinese": "从欧洲到美国，所以帕森斯先生说：“这看起来是你有冒险的童年。”"
+        "chinese": "来自欧洲，美国的帕森斯先生说，哇，看起来你儿时过得很是冒险。"
     },
     {
         "start": 342.91999999999996,
         "end": 349.15999999999997,
         "english": "okay this is a great adjective adventurous you can say a person is adventurous so Marco is very",
-        "chinese": "好的，这是一个很好的形容词。冒险家你可以说一个人是冒险家。所以马可非常。"
+        "chinese": "好的，这是一个很棒的形容词，冒险的你可以这么说一个人是冒险的，马可非常"
     },
     {
         "start": 349.15999999999997,
         "end": 356.03999999999996,
         "english": "adventurous he likes to jump out of airplanes but you can also say that an experience is adventurous",
-        "chinese": "他喜欢跳伞这种冒险的经历，你也可以这么形容。"
+        "chinese": "喜欢冒险，他喜欢跳伞，也可以这么说，这次经历很冒险。"
     },
     {
         "start": 356.04,
         "end": 362.12,
         "english": "like moving around a lot as a child right so I guess adventurous can go hand in hand with",
-        "chinese": "就像小时候经常移动一样，我猜冒险和乐于尝试新事物是密不可分的。"
+        "chinese": "像小时候经常四处游荡一样，所以冒险精神大概可以与之并存吧"
     },
     {
         "start": 363.16,
         "end": 369.8,
         "english": "exciting or very interesting full of emotion that's right okay adventure adventurous so a",
-        "chinese": "非常有趣且充满情感的冒险，很棒！"
+        "chinese": "激动人心、非常有趣充满情感的，这就是冒险， adventurous。"
     },
     {
         "start": 369.8,
         "end": 374.6,
         "english": "person can be adventurous and we actually had a lesson about this when we describe personalities you",
-        "chinese": "人可以很 adventurous，我们当时描述性格的时候也学过这个呢。"
+        "chinese": "这个人可以冒险，我们实际上在描述个性时提到了这一点"
     },
     {
         "start": 374.6,
         "end": 380.36,
         "english": "can say someone is adventurous exactly all right very good so five key words that we just took a",
-        "chinese": "可以这样说某人很冒险，确实很好。这五个关键词就是我们刚刚提取的。"
+        "chinese": "可以这样形容某人非常冒险，非常好。我们刚刚拿出了五个关键词。"
     },
     {
         "start": 380.36,
         "end": 385.48,
         "english": "look at why don't we go back listen to the dialogue again and we'll be back to talk a little bit",
-        "chinese": "好的，我们为什么不回去听听对话呢？这样我们可以再多聊聊。"
+        "chinese": "看看为什么我们不回去再听一遍对话，我们会回来聊聊的"
     },
     {
         "start": 385.48,
         "end": 397.32,
         "english": "more on fluency builder now Miss child's passed on your resume to me and I've had a chance to look",
-        "chinese": "现在继续讲流利 builder 的事情。小孩子的简历已经发给我了，我也有时间看了。"
+        "chinese": "更多关于流利构建单元吧，Miss。孩子的简历已经转给我了，我有时间看看。"
     },
     {
         "start": 397.32,
         "end": 403.72,
         "english": "it over I must say I'm quite impressed thank you very much I've tried to keep it short and clear",
-        "chinese": "确实，我不得不承认我对你的工作非常印象深刻。真的很感谢你。我已经尽力让它简洁明了。"
+        "chinese": "我不得不说，我很 impressed。非常感谢你。我已经尽量让它简短明了。"
     },
     {
         "start": 403.72,
         "end": 408.92,
         "english": "if there are any questions please feel free to ask me well yes I do have a number of questions",
-        "chinese": "如果有什么问题，请随时问我，没错，我确实有很多问题。"
+        "chinese": "如果有任何问题，请随时问我，是的，我确实有很多问题。"
     },
     {
         "start": 408.92,
         "end": 413.72,
         "english": "but perhaps first you could give me a brief overview I'd like to get a little bit of an idea of",
-        "chinese": "但是，或许你可以先给我一个概览，我想了解一下。"
+        "chinese": "但或许你先能给我一个简要的概述，我希望能对一些事情有个大概的了解。"
     },
     {
         "start": 413.72,
         "end": 420.04,
         "english": "your background yes of course well as you can see from the resume I'm 27 and grew up in Brooklyn",
-        "chinese": "你的背景呢，当然了。从简历中你可以看到，我今年27岁，在布鲁克林长大。"
+        "chinese": "你的背景，当然。你看简历，我今年27岁，长大的地方在布鲁克林。"
     },
     {
         "start": 420.04,
         "end": 427.64000000000004,
         "english": "New York although our family moved to London when I was quite young at around 16 I see so you were",
-        "chinese": "纽约虽然我小时候很小，大约16岁的时候我们家搬到伦敦了，但我那时候看到你了。"
+        "chinese": "纽约虽然我年轻的时候全家搬到伦敦，大约在16岁左右，但我还是能看到你。"
     },
     {
         "start": 427.64000000000004,
         "end": 433.48,
         "english": "actually educated in Europe yes precisely although I was born in the US I would definitely call",
-        "chinese": "实际上我在欧洲接受了教育，是的，尽管我出生在美国，我会绝对地称其为"
+        "chinese": "实际上是在欧洲受过教育的，是吗？虽然我出生在美国，但我肯定会这么称呼自己。"
     },
     {
         "start": 433.48,
         "end": 438.52000000000004,
         "english": "London home but as you see I've actually spent a lot of my life moving from country to country",
-        "chinese": "伦敦的家，但你看我实际上花了很多时间在国家之间搬家。"
+        "chinese": "伦敦住处，但你看我实际上花了很多生命在不同国家之间搬来搬去"
     },
     {
         "start": 438.52000000000004,
         "end": 443.08000000000004,
         "english": "my father was in on the oil business before he retired so we also spent a number of years in",
-        "chinese": "我爸爸退休前也涉足过石油生意，所以我们也花了不少年在那。"
+        "chinese": "我的父亲在退休前从事石油业务，所以我们也度过了不少年在那边。"
     },
     {
         "start": 443.08,
         "end": 450.68,
         "english": "Saudi Arabia too very interesting so seems you had quite an adventurous childhood absolutely",
-        "chinese": "沙特阿拉伯确实非常有趣，看来你小时候经历了很多冒险。"
+        "chinese": "沙特阿拉伯非常有趣，似乎你童年时有过相当冒险的经历绝对如此。"
     },
     {
         "start": 450.68,
         "end": 457.0,
         "english": "we were never still for too long but now I'm really looking to settle down I see okay well let's",
-        "chinese": "我们从来都不会太久不休，现在我真的开始想安定下来了。嗯，好的，那我们就"
+        "chinese": "我们从未长时间保持静止，但现在我真的想安定下来，好吧，那就让我们……"
     },
     {
         "start": 457.0,
         "end": 460.03999999999996,
         "english": "move on to discuss your education shall we sure",
-        "chinese": "好的，我们接下来聊聊你的教育吧？"
+        "chinese": "让我们谈谈你的教育吧。好吗？"
     },
     {
         "start": 465.64,
         "end": 470.76,
         "english": "all right we're back so we have four phrases for you on fluency builder prepared and let's start",
-        "chinese": "好的，我们又回来了。准备好了吗？有四个短语等待你来练习，让我们开始吧！"
+        "chinese": "好的，我们回来了，那么我们在流利构建单元上有四个短语要给你们了，我们现在就开始。"
     },
     {
         "start": 470.76,
         "end": 479.24,
         "english": "on with the first one fluency builder okay so the very beginning mr. Parsons is continuing what he",
-        "chinese": "好的，第一个“流利 builder”，好的，帕森斯先生继续他的什么？"
+        "chinese": "那么我们就从第一个‘流利构建单元’开始吧，Mr. Parsons 正接着前面的内容继续说。"
     },
     {
         "start": 479.24,
         "end": 485.8,
         "english": "was saying in our first part so mr. Parsons is talking about Rebecca's resume and he says",
-        "chinese": "我们第一部分中提到的，帕森斯先生在谈论里贝拉的简历。他说"
+        "chinese": "在我们第一部分说的那样，帕森斯先生正在谈论蕾贝卡的简历，他说"
     },
     {
         "start": 486.76,
         "end": 493.08,
         "english": "someone the secretary she passed it on to me so this verb to pass on this is really important",
-        "chinese": "秘书把这个传给我了，这个传递这个真的是很重要。"
+        "chinese": "这个转达的动词真的很重要。"
     },
     {
         "start": 493.08,
         "end": 502.12,
         "english": "what does this mean well the secretary miss child's passed on Rebecca's resume that basically means",
-        "chinese": "这个意思就是，秘书给迈克尔的简历上写着，孩子去世了。基本意思是"
+        "chinese": "这意思是秘书小姐Miss Child已经去世了，她的简历被递了过来，这意味着"
     },
     {
         "start": 502.12,
         "end": 509.71999999999997,
         "english": "she miss child's received it and she didn't keep it she passed it on or she gave it to another person",
-        "chinese": "她把孩子的礼物遗失了，没有保管好，又没有保留或者转给了别人。"
+        "chinese": "她把孩子的东西收到了，但她没有保留，而是把它传给了别人或给了另一个人。"
     },
     {
         "start": 509.71999999999997,
         "end": 516.52,
         "english": "in this case mr. Parsons okay so this this implies the shows that something doesn't stay with one",
-        "chinese": "在这种情况下，帕森斯先生说好的。这表明有些东西不会一直属于你。"
+        "chinese": "在这种情况下，帕森斯先生，这暗示着什么都不会长久留在一个人身上。"
     },
     {
         "start": 516.52,
         "end": 523.0,
         "english": "person like you said Marco but it moves from one person to another person so for example my mom",
-        "chinese": "你提到的人叫马可，但这个人会从一个换到另一个。比如说我妈妈。"
+        "chinese": "像你说的Marco那样，但会从一个人转移到另一个人身上，比如我的妈妈"
     },
     {
         "start": 523.0,
         "end": 528.92,
         "english": "mother told me to pass this message on to you the message is not for me it's for you I think also",
-        "chinese": "妈妈让我把这个消息转给你。这消息是给你的，我也这么想的"
+        "chinese": "妈妈让我把这个消息转告你，这个消息不是给我，是给你听的我觉得也是。"
     },
     {
         "start": 528.92,
         "end": 535.72,
         "english": "with physical traits like maybe if your mother had green eyes you can maybe say my mom passed on",
-        "chinese": "确实，如果你的母亲有绿色的眼睛，你可以说我的妈妈已经走了。"
+        "chinese": "带有像你妈妈有绿眼睛这样的体貌特征，你可以这么说，我妈妈传给了我一些。"
     },
     {
         "start": 536.68,
         "end": 543.72,
         "english": "her eye color on to me that's right so you got it from her mm-hmm all right so that's what happened",
-        "chinese": "她的眼神告诉我，对了，你从她那里学到了。嗯哼，就是这样。"
+        "chinese": "她的瞳色告诉我没错，你从她那里得到的，嗯，好的，就是这样发生了。"
     },
     {
         "start": 543.72,
         "end": 551.88,
         "english": "with the resume and he said well she passed it on and I've had the chance to look it over okay so",
-        "chinese": "简历带来了，他说她已经转交了。我有幸看了。"
+        "chinese": "简历在手，她又传给了我。好吧，我有空看过这份简历了。"
     },
     {
         "start": 551.88,
         "end": 557.88,
         "english": "think about this as a chunk as a group of words that we use together to look something over we can",
-        "chinese": "将这句话理解为由一组词语组成的整体，我们用它来查看某样东西。就像一起讨论的小组作业一样。让我们开始吧。"
+        "chinese": "考虑这一点作为一个词组，一组我们在一起使用的词语，用来查看某事，我们可以"
     },
     {
         "start": 557.88,
         "end": 564.12,
         "english": "say hey Marco when you have a minute can you look this over for me okay so that means to examine",
-        "chinese": "你好，Marco。当你有空的时候，可以抽个时间帮我看看吗？这意思是说要检查一下。"
+        "chinese": "Marco，有空的时候说一声，你能帮我看看吗？行啊，就是检查的意思。"
     },
     {
         "start": 564.12,
         "end": 570.92,
         "english": "or to take a look take a look at that's right so to look something over or to look it over all right so",
-        "chinese": "或者去看看，没错，看一下或者看看。"
+        "chinese": "看看那不就对了吗所以看看某事物或查看它好吧"
     },
     {
         "start": 570.92,
         "end": 576.84,
         "english": "basically to examine maybe in close detail right you actually take the time to read it that's right",
-        "chinese": "基本上，要仔细检查一下，你真的花时间去读它才对。"
+        "chinese": "基本上是仔细看看对吧，你actually 是真的花时间去读的，没错。"
     },
     {
         "start": 576.84,
         "end": 582.2800000000001,
         "english": "okay and then later on they started talking about her background as we know she was from",
-        "chinese": "好的，然后后来他们开始讨论她的背景，你知道她是从我们都知道的哪里过来的。"
+        "chinese": "好的，然后他们开始聊她的背景，我们知道她来自"
     },
     {
         "start": 582.9200000000001,
         "end": 588.36,
         "english": "Brooklyn she grew up in Brooklyn and then she moved to London and so Rebecca described how",
-        "chinese": "布鲁克林，我出生和成长的地方，然后搬到伦敦。瑞恰斯描述了她如何形容自己。"
+        "chinese": "Brooklyn 她长在布鲁克林，然后她搬到了伦敦，所以蕾贝卡描述了如何"
     },
     {
         "start": 589.32,
         "end": 596.2800000000001,
         "english": "she spent most of her life moving from country to country okay from country to country",
-        "chinese": "她大部分时间都在从一个国家搬到另一个国家，没错。"
+        "chinese": "她大部分生命都在从一个国家搬到另一个国家。"
     },
     {
         "start": 596.9200000000001,
         "end": 603.48,
         "english": "this means that she moved to many different countries mm-hmm okay so if I live in America all my life",
-        "chinese": "这意思是她去了很多不同的国家哦，嗯嗯。如果我一辈子都在美国生活呢？"
+        "chinese": "这意味着她移居到许多不同的国家，嗯，好的，如果我一生都住在美国。"
     },
     {
         "start": 603.48,
         "end": 608.52,
         "english": "I'd never moved from country to country mm-hmm you can say this about many different things from",
-        "chinese": "我从没换过国家，嗯。你可以说这发生在很多不同的事情上。"
+        "chinese": "我从未从一个国家搬到另一个国家-mm-hmm，你可以这么说关于许多不同事物的"
     },
     {
         "start": 608.52,
         "end": 615.8000000000001,
         "english": "place to place from town to town it means that you live in one you go from one place to another",
-        "chinese": "无论是从小镇到城市，你总是在一个新的地方生活。"
+        "chinese": "从城镇到城镇的地方，意思是你住在其中一个地方，然后去另一个地方"
     },
     {
         "start": 615.8000000000001,
         "end": 621.08,
         "english": "that's right so as you said if you replace the now in country you can say from town to town you can",
-        "chinese": "没错，正如你说的那样，如果把现在国家的“在”换成“到”，就可以从镇上说到全镇了。"
+        "chinese": "说的就是你，所以你说如果你现在换到另一个国家，你可以这么说，从一个城市到另一个城市。"
     },
     {
         "start": 621.08,
         "end": 627.48,
         "english": "even say from house to house I went from house to house asking for money that's right so from",
-        "chinese": "我从家里走到街上，从一家到另一家，问人家要钱。对了，就是这么回事儿。"
+        "chinese": "甚至是从一家挨家问要钱，是的，从一家挨家去。"
     },
     {
         "start": 628.44,
         "end": 636.52,
         "english": "to hmm exactly so from something to something and for our final phrase she was talking about how",
-        "chinese": "好吧，我大致明白了。从某种情况到某种结果，最后她提到的是关于如何..."
+        "chinese": "从某事谈到某事，我们的最后一句话她是谈到了如何"
     },
     {
         "start": 636.52,
         "end": 642.76,
         "english": "she's moved around so much that she's actually ready to settle down okay to settle down this is a",
-        "chinese": "她搬来搬去的，真的准备好了，终于可以安安心心地住下来了。这是个好消息。"
+        "chinese": "她辗转多地，其实已经准备好安顿下来了，这就要安顿下来了是"
     },
     {
         "start": 642.76,
         "end": 646.6,
         "english": "really important phrase and I think it's something a lot of people do when they're maybe in their",
-        "chinese": "真的很重要的一句话，我觉得很多人可能在他们可能是有点忙的时候会做。"
+        "chinese": "非常重要的句子，我想这应该是很多人在某种情况下会做的事情。"
     },
     {
         "start": 646.6,
         "end": 653.64,
         "english": "30s or 40s mm-hmm they don't want to move anymore mm-hmm so to settle down means to stay in one place",
-        "chinese": "三十秒或者四十秒，他们不想动了。嗯哼，所以安顿下来就是呆在一个地方。"
+        "chinese": "三十几毫米，嗯，他们不想再移动了，嗯，所以定居意味着待在一个地方"
     },
     {
         "start": 653.72,
         "end": 660.36,
         "english": "exactly so you stay in one place and it can have a lot of different meanings as well for example",
-        "chinese": "当然，你总是待在一个地方，这样它可能会有多种不同的含义，比如"
+        "chinese": "你就是這樣在一個地方停留，這可以有許多不同的意思，例如"
     },
     {
         "start": 660.92,
         "end": 667.24,
         "english": "to get married many people say that's settling down it means you want to stay in one place and have",
-        "chinese": "很多人说结婚就是安定下来，意味着你想留在一个地方并且有..."
+        "chinese": "很多人说结婚就是安定下来，意思是你要在一个地方待着并且想要有……"
     },
     {
         "start": 667.24,
         "end": 672.76,
         "english": "a family or to buy a house because it means that you will live there for a long time exactly so",
-        "chinese": "一家或者为了买房子，因为这意味着你将在那里住很久。"
+        "chinese": "一个家庭或者买房子，因为这意味着你会长时间住在那里所以"
     },
     {
         "start": 672.76,
         "end": 679.56,
         "english": "to settle down so a lot of interesting phrases there a lot of words and this is as we said part two",
-        "chinese": "为了安顿下来，这里有很多有趣的话和很多单词。正如我们之前说的那样，这是第二部分。"
+        "chinese": "安顿下来，有很多有趣的表达和很多词汇，正如我们所说，这是第二部分。"
     },
     {
         "start": 680.04,
         "end": 684.92,
         "english": "of our series so I think it would be worthy for us to listen to this dialogue one last time and",
-        "chinese": "我们的系列，我觉得我们应该再听一次这次对话。"
+        "chinese": "我们系列中的这一部分我认为值得我们再听一次这段对话"
     },
     {
         "start": 684.92,
         "end": 697.0799999999999,
         "english": "we'll be back to talk a little bit more now miss child's passed on your resume to me and I've",
-        "chinese": "我们再聊一会儿，好吗？孩子已经在我简历里了。我需要你帮我处理一下。"
+        "chinese": "我们现在已经会再谈谈，Miss Child 已经把你的简历发给我了，我已收到。"
     },
     {
         "start": 697.0799999999999,
         "end": 703.0799999999999,
         "english": "had a chance to look it over I must say I'm quite impressed thank you very much I've tried to keep",
-        "chinese": "有幸看过，不得不说挺有感触的。非常感谢！我尽量保持了。"
+        "chinese": "有机会仔细看过，我必须说我很 impressed，非常感谢你，我已经尽力了"
     },
     {
         "start": 703.0799999999999,
         "end": 708.5999999999999,
         "english": "it short and clear if there are any questions please feel free to ask me well yes I do have a number",
-        "chinese": "如果你有任何问题，请随时问我。好的，我确实有电话号码。"
+        "chinese": "简明扼要，若有问题请尽管问我，是的，我有电话。"
     },
     {
         "start": 708.76,
         "end": 713.64,
         "english": "of questions but perhaps first you could give me a brief overview I'd like to get a little bit of an",
-        "chinese": "关于问题，但或许你先能给我一个简要的概述。我希望能得到一点了解。"
+        "chinese": "关于这些问题，或许你先能给我一个简要的概述会更好，我希望能了解一些细节。"
     },
     {
         "start": 713.64,
         "end": 719.96,
         "english": "idea of your background yes of course well as you can see from the resume I'm 27 and grew up in",
-        "chinese": "背景信息的想法，当然。你看简历就知道了，我今年27岁，出生在……"
+        "chinese": "我的背景想法，当然。正如你的简历所示，我今年27岁，长于北京。"
     },
     {
         "start": 719.96,
         "end": 725.5600000000001,
         "english": "Brooklyn New York although our family moved to London when I was quite young at around 16",
-        "chinese": "布鲁克林纽约，虽然我小时候（大约16岁左右）我们家搬到了伦敦。"
+        "chinese": "布鲁克林，纽约。我年轻的时候大约在16岁左右，我们一家搬到了伦敦。"
     },
     {
         "start": 726.52,
         "end": 733.24,
         "english": "I see so you were actually educated in Europe yes precisely although I was born in the US I would",
-        "chinese": "确实，你是在欧洲受的教育。虽然我出生在美国，但你呢？"
+        "chinese": "我明白了，原来你在欧洲受过教育啊，没错。虽然我是在美国出生的，但我……"
     },
     {
         "start": 733.24,
         "end": 737.96,
         "english": "definitely call London home but as you see I've actually spent a lot of my life moving from",
-        "chinese": "当然，我打算把伦敦当家。但你看，我实际上花了很多时间在搬家上。"
+        "chinese": "当然以伦敦为家，但你看我实际上花了很多生命在搬家上"
     },
     {
         "start": 737.96,
         "end": 742.9200000000001,
         "english": "country to country my father was in on the oil business before he retired so we also spent",
-        "chinese": "我爸爸在退休前，曾去过很多国家经营石油生意。我们也花了不少时间在那里。"
+        "chinese": "父亲在退休前从事石油业务，所以我们也曾在多个国家度过这段时光。"
     },
     {
         "start": 742.9200000000001,
         "end": 750.12,
         "english": "a number of years in Saudi Arabia too very interesting so seems you had quite an adventurous childhood",
-        "chinese": "在沙特阿拉伯待了几年听起来非常有趣，似乎你有过一段相当冒险的童年。"
+        "chinese": "数年沙特阿拉伯的经历也相当有趣，似乎你儿时有过不少冒险。"
     },
     {
         "start": 750.12,
         "end": 756.9200000000001,
         "english": "absolutely we were never still for too long but now I'm really looking to settle down I see okay",
-        "chinese": "我们绝对从来都没有坐太久，现在我真的开始考虑安家落户了。好嘞"
+        "chinese": "我们从来都不是一直静止太久，但现在我真的想安定下来，好吧。"
     },
     {
         "start": 756.9200000000001,
         "end": 760.6,
         "english": "well let's move on to discuss your education shall we sure",
-        "chinese": "好的，我们来聊聊你的教育吧？当然了"
+        "chinese": "让我们继续讨论你的教育吧，好吗？"
     },
     {
         "start": 761.24,
         "end": 774.12,
         "english": "all right we're back so this is part two of a ten part series of the interviews now we just",
-        "chinese": "好的，我们又回来了。这是十集访谈系列的第二部分。现在只是..."
+        "chinese": "好的，我们回来了，所以这是系列访谈的第二部分，共十部分，我们现在继续。"
     },
     {
         "start": 774.12,
         "end": 780.76,
         "english": "talked about the background and I think there are different ways of talking about your background",
-        "chinese": "谈了关于背景的事情，我觉得你介绍自己的经历有多种方式。"
+        "chinese": "聊到了背景，我觉得你可以有不同的方式来谈论你的背景"
     },
     {
         "start": 780.76,
         "end": 785.48,
         "english": "right this is maybe your personal background that's right so you can talk about your personal",
-        "chinese": "这是你个人背景的一部分，对吧？你可以谈谈你的个人经历。"
+        "chinese": "这也就是你可能的个人背景，所以你可以谈谈你的个人"
     },
     {
         "start": 785.48,
         "end": 790.9200000000001,
         "english": "history your personal background where you were born where you were educated where you grew up",
-        "chinese": "历史你的个人背景，你出生在哪里，你接受过教育的地方，你成长的环境。"
+        "chinese": "你的个人背景，包括你出生的地方、受教育的地方以及成长的环境"
     },
     {
         "start": 791.72,
         "end": 797.4,
         "english": "but a lot of times we also have to talk about other parts of our background like our work background",
-        "chinese": "但很多时候，我们还得谈谈我们的背景其他部分，比如工作经历。"
+        "chinese": "但很多时候我们还得谈到我们的背景中的其他部分，比如工作经历"
     },
     {
         "start": 797.4,
         "end": 803.0,
         "english": "or like next week our educational background that's right so part three we're going to take a look",
-        "chinese": "没错，下个星期我们聊一聊教育背景吧。那第三部分，我们要看看内容。"
+        "chinese": "或者比如下周我们的教育背景，就是这样。那么第三部分我们将进行回顾。"
     },
     {
         "start": 803.0,
         "end": 808.84,
         "english": "at your educational background and it's going to be very important because I think in many interviews",
-        "chinese": "你的教育背景怎么样？这很重要，我觉得在很多面试中都会是重要的。"
+        "chinese": "根据您的教育背景，这将非常重要，因为我认为在许多面试中"
     },
     {
         "start": 809.48,
         "end": 815.88,
         "english": "people have a hard time describing what they studied or maybe describing exactly what they did",
-        "chinese": "人们很难描述他们学了什么，或者可能很难精确地描述他们做了什么。"
+        "chinese": "人们很难描述他们所学的东西，或许也难以准确描述他们做了什么"
     },
     {
         "start": 815.88,
         "end": 820.6,
         "english": "during university or college or master's degree or something exactly and we're not talking about",
-        "chinese": "在大学、学院或研究生院，或者是其他类似的地方，我们不是在谈论……"
+        "chinese": "在大学、学院或硕士研究生阶段，我们不谈论具体的情况。"
     },
     {
         "start": 820.6,
         "end": 826.2800000000001,
         "english": "elementary school or high school we're specifically talking about university background here so",
-        "chinese": "我们这里说的是小学或中学的时候，实际上是在说大学背景。"
+        "chinese": "大学背景这里所说的即是"
     },
     {
         "start": 827.0,
         "end": 832.6800000000001,
         "english": "like you're saying Marco what was your major what was your minor what was your area of study these",
-        "chinese": "就像你说的，Marco，你的专业是什么？副专业呢？你学习的领域是什么呢？"
+        "chinese": "像是你在说马可，你的主修是什么？辅修是什么？你研究的是什么领域？"
     },
     {
         "start": 832.6800000000001,
         "end": 837.4000000000001,
         "english": "are great great great phrases that are very important for an interview and so we hope that if you",
-        "chinese": "都是非常重要的面试必备的很棒很棒很棒的短语，所以我们希望你能记得哦。"
+        "chinese": "这是一些非常重要的面试用语，我们希望你能掌握。"
     },
     {
         "start": 837.4,
         "end": 842.28,
         "english": "have any questions you'll let us know our website is englispa.com and stay tuned for next week's",
-        "chinese": "有啥问题你就告诉我们，我们的网站是englispa.com，下周见！"
+        "chinese": "有任何问题，请告知我们的网站是englispa.com，敬请期待下周的更新。"
     },
     {
         "start": 842.28,
         "end": 852.84,
         "english": "episode that's right okay so we'll see everyone on the website and until next time bye bye",
-        "chinese": "这个节目真是太好了，我们会在网站上见到大家。下次见！"
+        "chinese": "网站见，下次再聊，byebye"
     }
 ]

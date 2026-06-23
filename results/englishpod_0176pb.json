@@ -3,40 +3,41 @@
         "start": 0.0,
         "end": 6.0,
         "english": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
-        "chinese": "大家好，欢迎回到 EnglishPod。我是 Marco。"
+        "chinese": "大家好，欢迎回到英语pod。我叫马可。"
     },
     {
         "start": 6.0,
         "end": 10.4,
         "english": "And my name is Catherine and today we have a cold lesson.",
-        "chinese": "我是 Catherine，今天我们要讲一课关于“冷”的内容。"
+        "chinese": "而我的名字是凯瑟琳，今天我们要上一节冷课。"
     },
     {
         "start": 10.4,
         "end": 15.52,
         "english": "That's right. It's the winter season and of course it gets cold in a lot of different places",
-        "chinese": "没错。现在是冬季，当然世界各地很多地方都变冷了，"
+        "chinese": "没错，现在是冬季，当然有很多地方会变得寒冷"
     },
     {
         "start": 15.52,
         "end": 19.04,
         "english": "around the world and so we're going to talk about heating.",
-        "chinese": "所以我们今天要聊聊供暖。"
+        "chinese": "世界各地，所以我们将会谈到加热。"
     },
     {
         "start": 19.04,
         "end": 23.44,
         "english": "Okay, this is very important but before we do get started we have a very important word",
-        "chinese": "好的，这很重要，但在我们开始之前，我们需要先看一个非常重要的单词，"
+        "chinese": "好的，这非常重要，但在我们开始之前有一个非常重要的词"
     },
     {
         "start": 23.44,
         "end": 26.240000000000002,
         "english": "to preview in vocabulary preview.",
-        "chinese": "就在词汇预览里。"
+        "chinese": "查看词汇预览。"
     },
     {
         "start": 26.240000000000002,
+        "end": 29.04,
         "english": "Vocabulary preview.",
         "chinese": "词汇预览。"
     },
@@ -44,151 +45,151 @@
         "start": 29.119999999999997,
         "end": 32.0,
         "english": "All right so we're going to preview the word freezing.",
-        "chinese": "好的，我们要预览的词是 freezing（极冷/冰冻）。"
+        "chinese": "好的所以我们来预览词冻结。"
     },
     {
         "start": 33.839999999999996,
         "end": 37.519999999999996,
         "english": "It is freezing today by the way so this is very appropriate.",
-        "chinese": "顺便说一下，今天真的冷极了，所以这个词非常应景。"
+        "chinese": "顺便说一下，今天非常冷，很合适。"
     },
     {
         "start": 37.519999999999996,
         "end": 40.16,
         "english": "Freezing means very very very cold.",
-        "chinese": "Freezing 的意思是非常非常非常冷。"
+        "chinese": "冷冻意味着非常非常非常冷。"
     },
     {
         "start": 40.16,
         "end": 43.44,
         "english": "Okay it is freezing okay so it's very cold.",
-        "chinese": "好，这就是 freezing，表示非常冷。"
+        "chinese": "好的，非常冷，是挺冷的。"
     },
     {
         "start": 43.44,
         "end": 44.8,
         "english": "It's freezing today.",
-        "chinese": "今天冻死人了。"
+        "chinese": "今天很冷。"
     },
     {
         "start": 44.8,
         "end": 50.08,
         "english": "It's so cold in fact you can't have water outside because the water will become ice.",
-        "chinese": "事实上太冷了，你不能把水放在外面，因为水会结成冰。"
+        "chinese": "的确太冷了，以至于外面连水都会结冰。"
     },
     {
         "start": 50.08,
         "end": 50.879999999999995,
         "english": "It will freeze.",
-        "chinese": "它会结冰（freeze）。"
+        "chinese": "它会冻结。"
     },
     {
         "start": 51.68,
         "end": 55.68,
         "english": "Okay great word so let's listen to a dialogue for the very first time.",
-        "chinese": "好的，很好的词。让我们来第一次听一下对话。"
+        "chinese": "好的，那么我们来听一段对话，从头开始。"
     },
     {
         "start": 59.36,
         "end": 63.44,
         "english": "It's freezing in here.",
-        "chinese": "这里冷死了。"
+        "chinese": "这里太冷了。"
     },
     {
         "start": 63.44,
         "end": 64.48,
         "english": "Can I turn up the heat?",
-        "chinese": "我能把暖气调大点吗？"
+        "chinese": "我能把温度调高吗？"
     },
     {
         "start": 65.03999999999999,
         "end": 66.96,
         "english": "Don't touch that thermostat.",
-        "chinese": "别碰那个温控器。"
+        "chinese": "别动那个恒温器。"
     },
     {
         "start": 66.96,
         "end": 68.88,
         "english": "You don't pay the bills around here.",
-        "chinese": "在这个家你又不付账单。"
+        "chinese": "这里你不用付账。"
     },
     {
         "start": 68.88,
         "end": 70.24,
         "english": "Dad are you serious?",
-        "chinese": "爸，你是认真的吗？"
+        "chinese": "爸爸你是在认真吗？"
     },
     {
         "start": 70.24,
         "end": 73.28,
         "english": "What's the point of having central heating if we can't use it?",
-        "chinese": "如果我们不能用，那装中央供暖有什么意义？"
+        "chinese": "中央供暖有什么用法我们却不能使用？"
     },
     {
         "start": 73.28,
         "end": 75.84,
         "english": "Look I can see my breath.",
-        "chinese": "你看，我说话都能看到哈气了。"
+        "chinese": "看 我能看到自己的呼吸。"
     },
     {
         "start": 76.4,
         "end": 77.68,
         "english": "Put on a sweater.",
-        "chinese": "穿件毛衣。"
+        "chinese": "穿毛衣。"
     },
     {
         "start": 77.68,
         "end": 81.75999999999999,
         "english": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
-        "chinese": "我才不会因为有点凉快就让你把我的暖气费搞得那么高。"
+        "chinese": "我不可能因为你这儿冷了一点就让你增加我的取暖费用。"
     },
     {
         "start": 81.75999999999999,
         "end": 83.92,
         "english": "Dad I'm going to catch it cold.",
-        "chinese": "爸，我会感冒的。"
+        "chinese": "爸爸，我这回是病假。"
     },
     {
         "start": 83.92,
         "end": 88.56,
         "english": "When I was your age my parents didn't have central heating like you do.",
-        "chinese": "我像你这么大的时候，我父母可不像你这样有中央供暖。"
+        "chinese": "当我还你这么大的时候，我的父母不像你现在有中央供暖。"
     },
     {
         "start": 88.56,
         "end": 91.76,
         "english": "We had a furnace in the center of the living room and that was it.",
-        "chinese": "我们客厅中央只有一个大炉子，仅此而已。"
+        "chinese": "客厅正中有一座壁炉而已。"
     },
     {
         "start": 91.76,
         "end": 95.36,
         "english": "We used it to cook, heat the house and even dry our clothes.",
-        "chinese": "我们用它做饭、取暖，甚至烘干衣服。"
+        "chinese": "我们用它来煮饭、取暖甚至晾晒衣物。"
     },
     {
         "start": 95.36,
         "end": 96.88,
         "english": "We never caught a cold.",
-        "chinese": "我们从没感冒过。"
+        "chinese": "我们从未感冒。"
     },
     {
         "start": 96.88,
         "end": 98.08,
         "english": "You should be grateful.",
-        "chinese": "你应该懂得感恩。"
+        "chinese": "你应该心存感激。"
     },
     {
         "start": 101.44,
         "end": 106.56,
         "english": "All right we're back and this is actually what a lot of dads are like I think around the world.",
-        "chinese": "好了，我们回来了。这其实是全世界很多爸爸的样子。"
+        "chinese": "好的，我们回来了，其实这正是许多世界各地的父亲们的样子。"
     },
     {
         "start": 106.56,
         "end": 109.6,
         "english": "Yep my dad definitely like to keep the heat low.",
-        "chinese": "没错，我爸绝对喜欢把暖气开得很低。"
+        "chinese": "嗯，我爸爸 definitely 喜欢保持温度低。"
     },
     {
         "start": 109.6,
@@ -200,79 +201,79 @@
         "start": 110.24000000000001,
         "end": 111.2,
         "english": "Yeah.",
-        "chinese": "是的。"
+        "chinese": "嗯。"
     },
     {
         "start": 111.2,
         "end": 115.6,
         "english": "All right so we'll talk about that a little bit later but let's take a look at some",
-        "chinese": "好的，我们稍后再聊这个，现在让我们先看看"
+        "chinese": "好的，我们稍后再谈。现在让我们看看一些"
     },
     {
         "start": 115.6,
         "end": 117.76,
         "english": "four words on language takeaway today.",
-        "chinese": "今天的语言要点中的四个词。"
+        "chinese": "今天四个语言学习 takeaway。"
     },
     {
         "start": 118.96000000000001,
         "end": 121.12,
         "english": "Language takeaway.",
-        "chinese": "语言要点。"
+        "chinese": "语言 takeaway。"
     },
     {
         "start": 122.08,
         "end": 126.56,
         "english": "Well this first word is important for anyone who has a home with heating.",
-        "chinese": "第一个词对于任何家里有暖气的人来说都很重要。"
+        "chinese": "嗯，这句话对于任何有暖气的家庭来说都很重要。"
     },
     {
         "start": 126.56,
         "end": 128.24,
         "english": "It's called a thermostat.",
-        "chinese": "它叫 thermostat（温控器）。"
+        "chinese": "这叫恒温器。"
     },
     {
         "start": 128.24,
         "end": 130.16,
         "english": "All right a thermostat.",
-        "chinese": "好的，温控器。"
+        "chinese": "好的，一个恒温器。"
     },
     {
         "start": 130.16,
         "end": 131.68,
         "english": "What is a thermostat?",
-        "chinese": "什么是温控器？"
+        "chinese": "什么是恒温器？"
     },
     {
         "start": 131.68,
         "end": 136.88,
         "english": "A thermostat is a dial or like a device.",
-        "chinese": "温控器是一个旋钮或者类似的一个装置。"
+        "chinese": "温度控制器是一个旋钮或类似装置。"
     },
     {
         "start": 136.88,
         "end": 141.68,
         "english": "A device on the wall that tells you how hot or how cold the house is.",
-        "chinese": "墙上的一个装置，告诉你房子里有多热或多冷。"
+        "chinese": "墙上的一个设备告诉你房子是冷是热。"
     },
     {
         "start": 141.68,
         "end": 143.84,
         "english": "It's like a thermometer for your house.",
-        "chinese": "就像是你房子的温度计。"
+        "chinese": "这就像是一支温度计，用来测量你的房子。"
     },
     {
         "start": 144.64000000000001,
         "end": 148.72,
         "english": "So you can move the thermostat, the temperature to make the house warmer or colder.",
-        "chinese": "你可以调节温控器、设定温度，让房子变暖或变冷。"
+        "chinese": "你可以调节温控器，使房子变暖或变冷。"
     },
     {
         "start": 148.72,
         "end": 155.44,
         "english": "Right so if it says it's 20 degrees and I think that's too cold I can turn the thermostat up",
-        "chinese": "对，所以如果它显示是20度，我觉得太冷了，我可以把温控器调高"
+        "chinese": "所以如果说是20度，我觉得太冷了我可以把暖气调高一些。"
     },
     {
         "start": 155.44,
@@ -284,7 +285,7 @@
         "start": 156.88,
         "end": 164.32,
         "english": "All right and well very much related to a thermostat and what this device does is our next word",
-        "chinese": "好的，跟温控器以及这个设备的功能密切相关的就是我们的下一个词，"
+        "chinese": "好的且非常相关的是恒温器，而这设备的作用就是我们的下个词。"
     },
     {
         "start": 164.32,
@@ -296,235 +297,235 @@
         "start": 165.44,
         "end": 170.56,
         "english": "Right so if you have central heating you have a thermostat that's the way to control the heat",
-        "chinese": "对，如果你有中央供暖，你就会有一个温控器，那是控制热量的方法。"
+        "chinese": "那么，如果你有中央供暖系统，就有个温控器来控制温度"
     },
     {
         "start": 170.56,
         "end": 176.56,
         "english": "and central heating means that you have one heater for the whole house and so the air comes",
-        "chinese": "中央供暖意味着整个房子只有一个加热器，然后热空气会"
+        "chinese": "而且中央供暖意味着你整个房子只有一个暖气，所以空气会流动到各个房间"
     },
     {
         "start": 176.56,
         "end": 178.16,
         "english": "into all the different rooms.",
-        "chinese": "进入所有不同的房间。"
+        "chinese": "进入所有的不同房间。"
     },
     {
         "start": 178.64000000000001,
         "end": 185.04,
         "english": "So not many places in China have this but for example in the United States and Canada it is",
-        "chinese": "中国这种设施不太多（注：其实北方很普遍），但在美国和加拿大"
+        "chinese": "所以中国很少有这样的地方，但以美国和加拿大为例，它是"
     },
     {
         "start": 185.04,
         "end": 185.84,
         "english": "very common.",
-        "chinese": "非常普遍。"
+        "chinese": "非常常见。"
     },
     {
         "start": 185.84,
         "end": 191.2,
         "english": "Okay so your house or your apartment building will have central heating and then you can control how",
-        "chinese": "好的，所以你的房子或公寓楼会有中央供暖，然后你可以"
+        "chinese": "好的，你的房子或公寓楼将配备中央供暖系统，然后你可以控制温度。"
     },
     {
         "start": 191.2,
         "end": 193.76,
         "english": "cold or warm the house is with thermostat.",
-        "chinese": "通过温控器控制房子的冷热。"
+        "chinese": "房子的温度是用恒温器调节的。"
     },
     {
         "start": 193.76,
         "end": 194.64000000000001,
         "english": "Exactly.",
-        "chinese": "没错。"
+        "chinese": "Exactly."
     },
     {
         "start": 194.64000000000001,
         "end": 199.84,
         "english": "Very good and well our next word is related to temperature and it's chilly.",
-        "chinese": "很好，我们的下一个词也和温度有关，它是 chilly（寒意/凉飕飕）。"
+        "chinese": "非常好，接下来的词与温度有关，是寒冷。"
     },
     {
         "start": 200.56,
         "end": 204.64000000000001,
         "english": "Okay so there's a big difference between chilly and freezing.",
-        "chinese": "好的，那冷和冻之间有很大的区别。"
+        "chinese": "好吧，冷和冷冻之间确实有明显的区别。"
     },
     {
         "start": 205.68,
         "end": 207.6,
         "english": "Freezing means very very very cold.",
-        "chinese": "Freezing 意味着非常非常非常冷。"
+        "chinese": "冰冷意味着非常非常非常冷。"
     },
     {
         "start": 208.16,
         "end": 209.92000000000002,
         "english": "Chilli means a little cold.",
-        "chinese": "Chilly 意味着有一点冷。"
+        "chinese": "辣椒的意思是有点儿冷。"
     },
     {
         "start": 209.92000000000002,
         "end": 212.88,
         "english": "Right so it's a little cold it's a bit chilly.",
-        "chinese": "对，就是有点冷，凉飕飕的。"
+        "chinese": "是有点儿冷，有点儿凉。"
     },
     {
         "start": 212.88,
         "end": 215.44,
         "english": "Right so it's a bit chilly today I'm going to wear a hat.",
-        "chinese": "是的，所以今天有点凉，我要戴顶帽子。"
+        "chinese": "所以今天有点冷，我今天要戴帽子了。"
     },
     {
         "start": 216.0,
         "end": 222.0,
         "english": "Okay if it's freezing I'm going to wear hat, a hat and mittens and a scarf and coat and boots.",
-        "chinese": "如果是 freezing（严寒），我会戴帽子、手套、围巾，穿大衣和靴子。"
+        "chinese": "可以的话，我会戴帽子，戴上帽子、手套、围巾和外套，还有靴子来保暖。"
     },
     {
         "start": 222.0,
         "end": 228.16,
         "english": "All right so if it's a bit chilly it's not very cold and while moving on the dad mentioned",
-        "chinese": "好的，所以 chilly 并不是非常冷。继续往下说，那位爸爸提到"
+        "chinese": "好的，如果有点儿冷，也不太冷，而爸爸在提到的时候"
     },
     {
         "start": 228.16,
         "end": 231.92,
         "english": "about him having a furnace when he was young.",
-        "chinese": "他年轻的时候家里有个 furnace（火炉）。"
+        "chinese": "他年轻时曾有过炉子。"
     },
     {
         "start": 231.92,
         "end": 237.92,
         "english": "That's right the dad had a furnace in his house and the furnace is a way to heat your house.",
-        "chinese": "没错，爸爸家里有个火炉，火炉是给房子取暖的一种方式。"
+        "chinese": "那就是爸爸家里有个火炉，火炉是用来取暖的。"
     },
     {
         "start": 237.92,
         "end": 238.88,
         "english": "It's like a stove.",
-        "chinese": "它就像个炉灶。"
+        "chinese": "这就像一个炉子。"
     },
     {
         "start": 240.0,
         "end": 244.16,
         "english": "So yeah just consider it like a big oven right maybe you've seen it in the old movies where you",
-        "chinese": "所以可以把它看作一个大烤箱，也许你在老电影里见过，"
+        "chinese": "这么说就像一个大烤箱一样，你可能在老电影里见过"
     },
     {
         "start": 244.16,
         "end": 248.72,
         "english": "would have to throw firewood into the furnace to make it heat up the house.",
-        "chinese": "你得把柴火扔进火炉里才能让屋子热起来。"
+        "chinese": "必须得往火炉里塞柴禾才能把屋子烧热。"
     },
     {
         "start": 248.72,
         "end": 254.64,
         "english": "Exactly and so this is very common in older homes and not very common in apartments.",
-        "chinese": "没错，这在老房子里很常见，但在公寓里不常见。"
+        "chinese": "的确，这种情况在旧房子里很常见，在公寓里很少见。"
     },
     {
         "start": 255.6,
         "end": 260.56,
         "english": "Right and well that's all the words we have for language takeaway today.",
-        "chinese": "是的，这就是今天语言要点的所有单词。"
+        "chinese": "好，今天语言 takeaway 的词汇就到这里了。"
     },
     {
         "start": 260.56,
         "end": 262.47999999999996,
         "english": "Why don't we listen to this chilly dialogue again?",
-        "chinese": "让我们再听一遍这段“寒冷”的对话吧？"
+        "chinese": "我们为什么不重新听这段冷酷的对话呢？"
     },
     {
         "start": 268.24,
         "end": 270.4,
         "english": "It's freezing in here can I turn up the heat?",
-        "chinese": "这里冷死了，我能把暖气调大点吗？"
+        "chinese": "这里太冷了，我能把温度调高吗？"
     },
     {
         "start": 270.96,
         "end": 272.88,
         "english": "Don't touch that thermostat.",
-        "chinese": "别碰那个温控器。"
+        "chinese": "别碰那空调遥控器。"
     },
     {
         "start": 272.88,
         "end": 274.88,
         "english": "You don't pay the bills around here.",
-        "chinese": "这个家的账单又不是你付的。"
+        "chinese": "这里你不用付账。"
     },
     {
         "start": 274.88,
         "end": 276.15999999999997,
         "english": "Dad are you serious?",
-        "chinese": "爸，你是认真的吗？"
+        "chinese": "爸爸你是在认真吗？"
     },
     {
         "start": 276.15999999999997,
         "end": 279.2,
         "english": "What's the point of having central heating if we can't use it?",
-        "chinese": "如果我们不能用，那装中央供暖有什么意义？"
+        "chinese": "中央供暖有什么用法我们却不能使用？"
     },
     {
         "start": 279.2,
         "end": 281.76,
         "english": "Look I can see my breath.",
-        "chinese": "你看，我说话都能看到哈气了。"
+        "chinese": "看，我能看见自己的呼吸。"
     },
     {
         "start": 282.32,
         "end": 283.59999999999997,
         "english": "Put on a sweater.",
-        "chinese": "穿件毛衣。"
+        "chinese": "穿毛衣。"
     },
     {
         "start": 283.59999999999997,
         "end": 287.68,
         "english": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
-        "chinese": "我才不会因为有点凉快就让你把我的暖气费搞得那么高。"
+        "chinese": "我不可能因为你这儿冷了一点就让你增加我的取暖费。"
     },
     {
         "start": 287.68,
         "end": 289.84,
         "english": "Dad I'm going to catch a cold.",
-        "chinese": "爸，我会感冒的。"
+        "chinese": "爸爸，我感冒了。"
     },
     {
         "start": 289.84,
         "end": 294.48,
         "english": "When I was your age my parents didn't have central heating like you do.",
-        "chinese": "我像你这么大的时候，我父母可不像你这样有中央供暖。"
+        "chinese": "当我还你这么大的时候，我的父母不像你现在有中央供暖。"
     },
     {
         "start": 294.48,
         "end": 297.68,
         "english": "We had a furnace in the center of the living room and that was it.",
-        "chinese": "我们客厅中央只有一个大炉子，仅此而已。"
+        "chinese": "客厅正中有一座壁炉而已。"
     },
     {
         "start": 297.68,
         "end": 301.36,
         "english": "We used it to cook, heat the house and even dry our clothes.",
-        "chinese": "我们用它做饭、取暖，甚至烘干衣服。"
+        "chinese": "我们用它来煮饭、取暖甚至晾晒衣物。"
     },
     {
         "start": 301.36,
         "end": 302.8,
         "english": "We never caught a cold.",
-        "chinese": "我们从没感冒过。"
+        "chinese": "我们从未感冒。"
     },
     {
         "start": 302.8,
         "end": 304.0,
         "english": "You should be grateful.",
-        "chinese": "你应该懂得感恩。"
+        "chinese": "你应该心存感激。"
     },
     {
         "start": 304.16,
         "end": 313.52,
         "english": "We're back so now we have prepared for you three key phrases on fluency builder.",
-        "chinese": "我们回来了，现在我们在流利构建单元为你准备了三个关键短语。"
+        "chinese": "我们回来了，现在为你们准备了流利构建单元中的三个关键短语。"
     },
     {
         "start": 314.88,
@@ -536,163 +537,163 @@
         "start": 317.44,
         "end": 321.36,
         "english": "This first phrase is related to thermostat.",
-        "chinese": "第一个短语和温控器有关。"
+        "chinese": "这第一个短语与恒温器有关。"
     },
     {
         "start": 321.36,
         "end": 326.0,
         "english": "So thermostat like we said is like a thermometer but we can control the temperature.",
-        "chinese": "正如我们所说，温控器像温度计，但我们可以控制温度。"
+        "chinese": "所以我们所说的温控器就像温度计一样，但我们能控制温度。"
     },
     {
         "start": 326.0,
         "end": 330.64,
         "english": "So if we want to make the temperature hotter we turn up thermostat.",
-        "chinese": "所以如果我们想让温度变热，我们就调高（turn up）温控器。"
+        "chinese": "所以如果我们想让温度更高，我们就调高恒温器。"
     },
     {
         "start": 331.28,
         "end": 334.96,
         "english": "So this is a phrasal verb to turn up the heat.",
-        "chinese": "所以这是一句用来提高温度的短语。"
+        "chinese": "这就是一个升温的短语。"
     },
     {
         "start": 334.96,
         "end": 336.64,
         "english": "You could say this about heat.",
-        "chinese": "你可以用它来描述热度。"
+        "chinese": "你可以这么说关于热。"
     },
     {
         "start": 336.64,
         "end": 338.0,
         "english": "You could say this about noise too.",
-        "chinese": "你也可以用它来描述噪音。"
+        "chinese": "你也可以这么说。"
     },
     {
         "start": 338.0,
         "end": 339.44,
         "english": "Can you turn up the radio?",
-        "chinese": "你能把收音机声音调大点吗？"
+        "chinese": "你能把收音机调大吗？"
     },
     {
         "start": 339.44,
         "end": 340.96,
         "english": "Turn up the volume.",
-        "chinese": "调高音量。"
+        "chinese": "提高音量。"
     },
     {
         "start": 340.96,
         "end": 342.15999999999997,
         "english": "So it's to increase.",
-        "chinese": "所以意思是增加。"
+        "chinese": "所以是为了增加。"
     },
     {
         "start": 342.15999999999997,
         "end": 345.84,
         "english": "To increase to make bigger or warmer or louder.",
-        "chinese": "增加，使之变大、变暖或变响。"
+        "chinese": "使更大、更温暖、更响亮。"
     },
     {
         "start": 345.84,
         "end": 350.4,
         "english": "All right and if we wanted to decrease the temperature in the thermostat you would say",
-        "chinese": "好的，如果我们想降低温控器的温度，你会说"
+        "chinese": "好的，如果我们要降低恒温器的温度你就会说"
     },
     {
         "start": 350.4,
         "end": 351.59999999999997,
         "english": "Turn down.",
-        "chinese": "转小声。"
+        "chinese": "拒绝"
     },
     {
         "start": 351.59999999999997,
         "end": 352.64,
         "english": "Turn down the heat.",
-        "chinese": "把暖气调小点。"
+        "chinese": "降低温度。"
     },
     {
         "start": 352.64,
         "end": 354.64,
         "english": "Exactly so it's too hot in here.",
-        "chinese": "没错，这里太热了。"
+        "chinese": "这里太热了。"
     },
     {
         "start": 354.64,
         "end": 356.64,
         "english": "Can you please turn down the heat?",
-        "chinese": "请你把暖气调小点好吗？"
+        "chinese": "请把温度调低好吗？"
     },
     {
         "start": 356.64,
         "end": 358.15999999999997,
         "english": "All right very good.",
-        "chinese": "好的，非常好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 358.24,
         "end": 364.8,
         "english": "And our next phrase is well the dad was talking about the bills and how expensive it is to use",
-        "chinese": "下一个短语，爸爸当时在谈论账单，以及使用"
+        "chinese": "而我们接下来的短语是他爸爸在谈论账单，使用有多昂贵"
     },
     {
         "start": 364.8,
         "end": 369.6,
         "english": "a thermostat and he said I'm not going to let you run up my heating bill.",
-        "chinese": "温控器有多贵，他说我不会让你 run up（积累/增加）我的暖气费。"
+        "chinese": "一个恒温器，他说我不允许你增加我的取暖费用。"
     },
     {
         "start": 369.6,
         "end": 373.28000000000003,
         "english": "Okay so a bill is like you know something that you pay it's money.",
-        "chinese": "好的，bill（账单）就是你需要支付的钱。"
+        "chinese": "好吧，所以一个议案就是你知道的那种需要付钱的东西。"
     },
     {
         "start": 373.28000000000003,
         "end": 378.24,
         "english": "And so in this case I don't want you to run up the bill that means to increase the amount of money",
-        "chinese": "在这种情况下，我不想让你 run up the bill，意思就是增加"
+        "chinese": "而在这情况下，我不希望你把账单开大，也就是说增加所欠的金额"
     },
     {
         "start": 378.24,
         "end": 379.20000000000005,
         "english": "I have to spend.",
-        "chinese": "我必须花的钱的数额。"
+        "chinese": "[Error]"
     },
     {
         "start": 380.08000000000004,
         "end": 385.68,
         "english": "So maybe if you leave your television on all night you're running up your electricity bill.",
-        "chinese": "所以如果你整晚开着电视，你就在增加（run up）你的电费账单。"
+        "chinese": "所以你可能整夜开着电视，会增加电费账单。"
     },
     {
         "start": 385.68,
         "end": 390.32,
         "english": "Exactly or if you talk on the phone 10 hours a day you run up the phone bill and your mother",
-        "chinese": "没错，或者如果你每天打10个小时电话，你会让电话费飙升，你妈妈会"
+        "chinese": "正好或者你每天打电话聊10个小时，电话费就会蹭蹭上涨，连妈都看不过去。"
     },
     {
         "start": 390.32,
         "end": 391.52,
         "english": "kills you.",
-        "chinese": "杀了你的。"
+        "chinese": "耗尽你的生命。"
     },
     {
         "start": 391.52,
         "end": 397.92,
         "english": "All right and well the daughter was complaining about her catching a cold to catch a cold.",
-        "chinese": "好的，这是感冒也想感冒。"
+        "chinese": "好的，不过女儿抱怨感冒了。"
     },
     {
         "start": 397.92,
         "end": 404.0,
         "english": "All right so remember this a cold is when you have maybe a runny nose and the cough and the sore",
-        "chinese": "好的，记住，cold（感冒）就是你流鼻涕、咳嗽、喉咙"
+        "chinese": "好的，所以记得，感冒时你可能会有流鼻涕、咳嗽和喉咙痛。"
     },
     {
         "start": 404.0,
         "end": 409.6,
         "english": "throat it usually happens when the weather changes but we don't get a cold you catch a cold.",
-        "chinese": "喉咙通常发生在天气变化的时候，但我们不会感冒。你只是得了感冒。"
+        "chinese": "喉咙通常在天气变化时会痛，但不会感冒；你可能会着凉。"
     },
     {
         "start": 409.6,
@@ -704,169 +705,169 @@
         "start": 410.24,
         "end": 415.12,
         "english": "Remember like in baseball you throw and catch it's something that's fast.",
-        "chinese": "记得就像在棒球里，你投球然后接球（catch），那是很快的动作。"
+        "chinese": "记住就像棒球一样，投和接都是很快的动作。"
     },
     {
         "start": 415.12,
         "end": 417.44,
         "english": "All right so you catch a cold what about the flu?",
-        "chinese": "好的，你感冒了呢，流感呢？"
+        "chinese": "好的，那么你感冒了呢？流感怎么办？"
     },
     {
         "start": 417.44,
         "end": 419.2,
         "english": "Do you get the flu or catch the flu?",
-        "chinese": "你好，你得了流感还是感冒？"
+        "chinese": "你得流感还是感冒？"
     },
     {
         "start": 419.2,
         "end": 422.24,
         "english": "So you can't catch a flu but you can't catch a cold.",
-        "chinese": "所以，你不会感冒，但你会流鼻涕。"
+        "chinese": "你感冒不得但流感也接不了盘。"
     },
     {
         "start": 422.24,
         "end": 426.64,
         "english": "Just remember this phrase to catch a cold I caught the cold.",
-        "chinese": "记得这句话，感冒了。我也是感冒的。"
+        "chinese": "记住这句话，我感冒了。"
     },
     {
         "start": 427.36,
         "end": 433.84000000000003,
         "english": "No to catch a cold or I caught a cold it's almost like if I have it I could throw it to you Marco.",
-        "chinese": "不感冒，或者我感冒了，差不多是如果我有它的话，我可以传染给你马可。"
+        "chinese": "没得感冒或者我得了感冒，好像我有了就可以扔给你马可。"
     },
     {
         "start": 433.84000000000003,
         "end": 434.48,
         "english": "A TOO!",
-        "chinese": "阿嚏！"
+        "chinese": "太好了！"
     },
     {
         "start": 434.48,
         "end": 435.76,
         "english": "I knew catch it.",
-        "chinese": "我就知道（我会/你会）被传染。"
+        "chinese": "我知道了。"
     },
     {
         "start": 435.76,
         "end": 437.52,
         "english": "Right because it's in the air the virus.",
-        "chinese": "对，因为病毒在空气中。"
+        "chinese": "因为就在空中，病毒。"
     },
     {
         "start": 437.52,
         "end": 439.28000000000003,
         "english": "Yeah it passes very quickly.",
-        "chinese": "是的，它传播得很快。"
+        "chinese": "是的，很快就会过去。"
     },
     {
         "start": 439.28000000000003,
         "end": 443.68,
         "english": "All right very good so an interesting dialogue let's listen to it one last time.",
-        "chinese": "好的非常好，很有趣的对话，让我们最后再听一遍。"
+        "chinese": "好的，非常好，让我们再听一遍这个有趣的对话。"
     },
     {
         "start": 445.76,
         "end": 452.88,
         "english": "It's freezing in here can I turn up the heat?",
-        "chinese": "这里冷死了，我能把暖气调大点吗？"
+        "chinese": "这里太冷了，我能把温度调高吗？"
     },
     {
         "start": 453.52,
         "end": 457.28000000000003,
         "english": "Don't touch that thermostat you don't pay the bills around here.",
-        "chinese": "别碰那个温控器，这个家的账单又不是你付的。"
+        "chinese": "别碰那个 thermostat，这儿的账单你不出。"
     },
     {
         "start": 457.28000000000003,
         "end": 461.68,
         "english": "Dad are you serious what's the point of having central heating if we can't use it?",
-        "chinese": "爸，你是认真的吗？如果我们不能用，那装中央供暖有什么意义？"
+        "chinese": "爸爸，你这是认真的吗？中央供暖如果我们用不了有什么意义呢？"
     },
     {
         "start": 461.68,
         "end": 464.24,
         "english": "Look I can see my breath.",
-        "chinese": "你看，我说话都能看到哈气了。"
+        "chinese": "看 我能看到自己的呼吸。"
     },
     {
         "start": 464.8,
         "end": 470.16,
         "english": "Put on a sweater I'm not going to let you run up my heating bill just because it's a bit chilly.",
-        "chinese": "穿件毛衣。我才不会因为有点凉快就让你把我的暖气费搞得那么高。"
+        "chinese": "穿件毛衣，别因为我有点儿冷就把我的取暖费蹭了。"
     },
     {
         "start": 470.16,
         "end": 472.32,
         "english": "Dad I'm going to catch a cold.",
-        "chinese": "爸，我会感冒的。"
+        "chinese": "爸爸，我感冒了。"
     },
     {
         "start": 472.32,
         "end": 476.96,
         "english": "When I was your age my parents didn't have central heating like you do.",
-        "chinese": "我像你这么大的时候，我父母可不像你这样有中央供暖。"
+        "chinese": "当我还你这么大的时候，我的父母不像你现在有中央供暖。"
     },
     {
         "start": 476.96,
         "end": 480.15999999999997,
         "english": "We had a furnace in the center of the living room and that was it.",
-        "chinese": "我们客厅中央只有一个大炉子，仅此而已。"
+        "chinese": "客厅正中间有一座壁炉而已。"
     },
     {
         "start": 480.15999999999997,
         "end": 483.84,
         "english": "We used it to cook heat the house and even dry our clothes.",
-        "chinese": "我们用它做饭、取暖，甚至烘干衣服。"
+        "chinese": "我们用它来加热房子，甚至晾干衣服。"
     },
     {
         "start": 483.84,
         "end": 486.48,
         "english": "We never caught a cold you should be grateful.",
-        "chinese": "我们从没感冒过，你应该懂得感恩。"
+        "chinese": "我们从未感冒，你应该感激。"
     },
     {
         "start": 491.6,
         "end": 495.28,
         "english": "All right we're back and well you mentioned about the thermostat and your dad actually",
-        "chinese": "好的，我们回来了。你刚才提到了温控器，那你爸爸真的"
+        "chinese": "好的，我们回来了。你提到过恒温器，你爸爸其实已经……"
     },
     {
         "start": 495.28,
         "end": 499.12,
         "english": "controlling the heating at home was it was is the case like this in this scenario?",
-        "chinese": "在家里控制暖气吗？就像对话里的情况一样吗？"
+        "chinese": "在家控制加热这个问题，在这种情况下是这样的吗？"
     },
     {
         "start": 500.0,
         "end": 505.6,
         "english": "It was sometimes we'd have to wear more clothes because we didn't want to run up the bill",
-        "chinese": "有时候是这样，我们不得不穿更多的衣服，因为我们不想让账单太高，"
+        "chinese": "有时候我们不得不穿更多的衣服，因为不想让账单增加"
     },
     {
         "start": 505.6,
         "end": 510.48,
         "english": "but we had a special situation in my house because I'm from Chicago and it's very cold in the",
-        "chinese": "但我家情况特殊，因为我来自芝加哥，"
+        "chinese": "但我家有个特殊情况，因为我来自芝加哥，那里非常冷。"
     },
     {
         "start": 510.48,
         "end": 513.44,
         "english": "winters in Chicago but we had a fireplace.",
-        "chinese": "芝加哥的冬天非常冷，但我们有壁炉。"
+        "chinese": "芝加哥冬天但有壁炉。"
     },
     {
         "start": 515.12,
         "end": 521.28,
         "english": "Even if it was very cold we always had firewood and we could put on the fire in the fireplace",
-        "chinese": "即使天气很冷，我们总是有柴火，我们可以在壁炉里生火"
+        "chinese": "即使非常寒冷，我们总会有木柴，可以在壁炉里生火。"
     },
     {
         "start": 521.28,
         "end": 526.16,
         "english": "to keep warm so everyone would stay in the living room and read and listen to music and just",
-        "chinese": "取暖，所以大家都会待在客厅里，看书、听音乐，"
+        "chinese": "保持温暖，让大家留在客厅里阅读听音乐，就这样"
     },
     {
         "start": 526.3199999999999,
@@ -878,13 +879,13 @@
         "start": 527.1999999999999,
         "end": 532.16,
         "english": "Now I heard that because when you're burning wood it causes some pollution in some cities it's",
-        "chinese": "我听说因为烧柴火会造成污染，所以在有些城市"
+        "chinese": "现在听说，因为烧木头时会在某些城市造成一些污染，它"
     },
     {
         "start": 532.16,
         "end": 536.0799999999999,
         "english": "banned to actually turn on or to have a fireplace.",
-        "chinese": "是禁止生火或者使用壁炉的。"
+        "chinese": "被禁止实际点火或使用壁炉。"
     },
     {
         "start": 536.0799999999999,
@@ -896,55 +897,55 @@
         "start": 536.88,
         "end": 538.64,
         "english": "Yeah so but in Chicago you can still do it.",
-        "chinese": "是的，但在芝加哥你仍然可以这么做。"
+        "chinese": "是啊，但是在芝加哥你仍然可以这样做。"
     },
     {
         "start": 538.64,
         "end": 543.28,
         "english": "Absolutely and in most of the states you can although a lot of people in new houses they don't",
-        "chinese": "当然，大多数州都可以，虽然现在很多住新房子的人没有"
+        "chinese": "绝对在大多数州你都可以，虽然很多新家的人都不在意"
     },
     {
         "start": 543.28,
         "end": 548.4,
         "english": "have real fireplaces they have electric fireplaces and so you can use a light switch to turn",
-        "chinese": "真正的壁炉，他们有电壁炉，所以你可以用开关来打开"
+        "chinese": "他们有真正的壁炉，也有电暖炉，你可以通过开关来开启或关闭"
     },
     {
         "start": 548.4,
         "end": 551.28,
         "english": "on your fire. It's not a real fire it's just a glowing light.",
-        "chinese": "你的火。那不是真火，只是发光而已。"
+        "chinese": "燃情。这不是真的火焰，只是一道发光的光。"
     },
     {
         "start": 551.36,
         "end": 551.92,
         "english": "Yeah.",
-        "chinese": "是的。"
+        "chinese": "嗯。"
     },
     {
         "start": 551.92,
         "end": 556.88,
         "english": "All right well very good this is an interesting lesson especially because the winter season is",
-        "chinese": "好的，非常好，这是一节很有趣的课，特别是冬天"
+        "chinese": "好的，非常好。这是一堂有趣的课，尤其是因为现在是冬季季节。"
     },
     {
         "start": 556.88,
         "end": 561.6,
         "english": "coming up and well everyone is cold so we hope you enjoyed it and if you have any questions",
-        "chinese": "快到了，大家都很冷，所以希望你们喜欢。如果你有任何问题"
+        "chinese": "即将来临，大家也都冷了，希望你们都享受到了，如果有任何问题"
     },
     {
         "start": 561.6,
         "end": 564.4,
         "english": "and e-douts you can come to our website englishpod.com.",
-        "chinese": "或疑问，你可以来我们的网站 englishpod.com。"
+        "chinese": "你可以来到我们的网站englishpod.com。"
     },
     {
         "start": 564.4,
         "end": 566.88,
         "english": "We hope to see you there happy studies and stay warm.",
-        "chinese": "希望在那里见到你，学习快乐，注意保暖。"
+        "chinese": "我们希望你在那里快乐学习，保持温暖。"
     },
     {
         "start": 566.88,

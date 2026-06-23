@@ -3,25 +3,25 @@
         "start": 0.0,
         "end": 6.8,
         "english": "Hello everyone and welcome back to EnglishPod. My name is Marco.",
-        "chinese": "你好，大家欢迎再次来到英语有声书。我的名字是马可波罗。"
+        "chinese": "大家好，欢迎回到英语pod。我叫马可。"
     },
     {
         "start": 6.8,
         "end": 10.8,
         "english": "And my name is Catherine and today we might just teach you how to save a life.",
-        "chinese": "我的名字是凯瑟琳，今天可能教你们如何拯救生命。"
+        "chinese": "而我的名字是凯瑟琳，今天我们或许可以教你怎么救一个人的命。"
     },
     {
         "start": 10.8,
         "end": 15.8,
         "english": "That's right we're going to save a life and we are going to do this by applying first aid.",
-        "chinese": "那我们就要拯救一条生命，我们要通过急救来实现这个目标。"
+        "chinese": "没错，我们要挽救生命，并且我们将通过施加急救来实现。"
     },
     {
         "start": 15.8,
         "end": 21.8,
         "english": "So let's take a look at vocabulary preview and find out just exactly what this phrase means.",
-        "chinese": "那么，让我们看看词汇预览，然后找出这个短语确切的意思。"
+        "chinese": "那么让我们来看看词汇预览，看看这个短语到底是什么意思。"
     },
     {
         "start": 21.8,
@@ -33,19 +33,19 @@
         "start": 24.3,
         "end": 28.8,
         "english": "Okay so we have this word first aid. It's two parts. So first is...",
-        "chinese": "好的，我们有一个急救这个词。它分为两部分。首先..."
+        "chinese": "好的，我们先说“first aid”。这是一个双词构成的词。首先的是..."
     },
     {
         "start": 28.900000000000002,
         "end": 29.6,
         "english": "Before.",
-        "chinese": "好的，以下是翻译结果：\n\nBefore."
+        "chinese": "之前。"
     },
     {
         "start": 29.6,
         "end": 30.1,
         "english": "Before.",
-        "chinese": "在前。"
+        "chinese": "之前。"
     },
     {
         "start": 30.1,
@@ -63,25 +63,25 @@
         "start": 31.400000000000002,
         "end": 34.2,
         "english": "And aid. So when you aid someone you help them right?",
-        "chinese": "你帮助别人，你会帮到他们吗？"
+        "chinese": "援助。所以当你帮助别人时，你就是在援助吗？"
     },
     {
         "start": 34.2,
         "end": 37.2,
         "english": "Right so this is actually a noun. Aid is help.",
-        "chinese": "对了，这其实是一个名词。援助是帮助。"
+        "chinese": "这么说来，这其实是名词。援助就是帮助。"
     },
     {
         "start": 37.2,
         "end": 42.6,
         "english": "So we're applying first aid. This means we're the first person to come and help someone.",
-        "chinese": "所以我们在进行急救。这意味着我们是第一个赶到并且帮助别人的人。"
+        "chinese": "所以我们是在进行急救。这意味着我们是第一个到达并帮助某人的人员。"
     },
     {
         "start": 42.6,
         "end": 46.6,
         "english": "So for example, if someone is bleeding, the first aid is to stop the bleeding.",
-        "chinese": "例如，如果有人流血，急救的第一步是止血。"
+        "chinese": "例如，如果有人出血，急救措施是止血。"
     },
     {
         "start": 46.6,
@@ -93,109 +93,109 @@
         "start": 47.5,
         "end": 49.8,
         "english": "Alright so first aid. We're going to learn all about this.",
-        "chinese": "好的，我们首先学习急救的知识。"
+        "chinese": "好的，首先让我们来学习急救。"
     },
     {
         "start": 49.8,
         "end": 53.0,
         "english": "Take a listen to today's dialogue and we'll be back in a moment.",
-        "chinese": "听今天的对话，我们一会儿就回来。"
+        "chinese": "听听今天的对话，我们一会儿接着聊。"
     },
     {
         "start": 59.4,
         "end": 62.099999999999994,
         "english": "Hey Joe, where have you been these past few days?",
-        "chinese": "嘿，Joe，你最近几天去哪儿了？"
+        "chinese": "嘿，Joe，这些天你去哪儿了？"
     },
     {
         "start": 62.099999999999994,
         "end": 66.2,
         "english": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
-        "chinese": "我已经忙于在红十字会开始的一周前就开始的第一期救护课程。"
+        "chinese": "我上周开始的红十字会急救课程一直很忙。"
     },
     {
         "start": 66.2,
         "end": 69.2,
         "english": "Cool. I've always wanted to do something like that.",
-        "chinese": "很好。我一直想要做那样的事情。"
+        "chinese": "好的。我一直都想做这样的事情。"
     },
     {
         "start": 69.2,
         "end": 70.8,
         "english": "Have you learned anything useful?",
-        "chinese": "你学到过有用的吗？"
+        "chinese": "你学到了什么有用的东西吗？"
     },
     {
         "start": 70.8,
         "end": 76.0,
         "english": "For sure. I mean we learned how to apply pressure to stop bleeding, how to check for a pulse,",
-        "chinese": "当然。我指的是我们学会了如何施加压力来止血，如何检查脉搏。"
+        "chinese": "当然。意思是我们知道如何施加压力止血，如何检查脉搏，"
     },
     {
         "start": 76.0,
         "end": 78.0,
         "english": "and even how to apply CPR.",
-        "chinese": "而且，如何应用心肺复苏术。"
+        "chinese": "甚至如何进行心肺复苏。"
     },
     {
         "start": 78.0,
         "end": 80.0,
         "english": "Have you treated any real emergencies?",
-        "chinese": "你处理过真实的紧急情况吗？"
+        "chinese": "你处理过真正的紧急情况吗？"
     },
     {
         "start": 80.0,
         "end": 82.6,
         "english": "Well they took us along with some paramedics.",
-        "chinese": "他们带我们去了医院，还有一些急救人员。"
+        "chinese": "他们带我们一起，还有一些急救人员。"
     },
     {
         "start": 82.6,
         "end": 88.0,
         "english": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
-        "chinese": "这个家伙骑摩托车时摔了下来，不仅撞伤了头，还摔断了几处骨折。"
+        "chinese": "就有一个 guys 从摩托车 上摔下来，还受了脑震荡以及几处复杂性骨折。"
     },
     {
         "start": 88.0,
         "end": 92.4,
         "english": "His wounds were pretty serious so they had to rush into the hospital. It was intense.",
-        "chinese": "他的伤口很严重，所以他们不得不紧急送去医院。挺紧张的。"
+        "chinese": "他的伤势相当严重，所以他们不得不赶紧去医院。很严重。"
     },
     {
         "start": 92.4,
         "end": 98.2,
         "english": "I can imagine. I tend to faint when I see blood, so I think I won't be taking up a course like that anytime soon.",
-        "chinese": "我能够想象。看到血液时，我经常感到晕眩，所以我想我不会很快开始这样的课程。"
+        "chinese": "我想得通。看到血我就容易晕过去，所以我觉得短期内不会去报那样的课程了。"
     },
     {
         "start": 104.6,
         "end": 109.4,
         "english": "Alright we're back. So there are a lot of medical and like health related terms in this dialogue,",
-        "chinese": "好的，我们又回来了。在这段对话中有很多与医疗和健康相关的术语。"
+        "chinese": "好的，我们又回来了。这次对话中有许多医疗和健康相关的术语，"
     },
     {
         "start": 109.4,
         "end": 113.0,
         "english": "so why don't we take a look at a couple of those in language takeaway?",
-        "chinese": "所以，我们为什么不看看那些语言小吃？"
+        "chinese": "那么我们来看看语言 takeaway 中的几项吧？"
     },
     {
         "start": 115.0,
         "end": 117.0,
         "english": "Language takeaway.",
-        "chinese": "英语：语言取走。\n中文：语言带走。"
+        "chinese": "语言 takeaway。"
     },
     {
         "start": 117.0,
         "end": 123.4,
         "english": "Well starting us out here in language takeaway, we have the name of an organization that's not for profit,",
-        "chinese": "好的，让我们从语言取走的地方开始。我们有一个非营利组织的名称。"
+        "chinese": "英语：Well, starting us out here at Language Takeaway, we have the name of an organization that is not for profit,"
     },
     {
         "start": 123.4,
         "end": 127.0,
         "english": "that's very very very famous. This is called the Red Cross.",
-        "chinese": "那就是非常有名了。这叫红十字会。"
+        "chinese": "这非常有名。这就是红十字会。"
     },
     {
         "start": 127.0,
@@ -207,139 +207,139 @@
         "start": 129.4,
         "end": 137.8,
         "english": "And this is usually a place where you donate blood, you can also get some blood exams done.",
-        "chinese": "而且这通常是一个你捐赠血液的地方，你也能够做些血检。"
+        "chinese": "这通常是一个你可献血的地方，也可以做一些血液检查。"
     },
     {
         "start": 137.8,
         "end": 139.8,
         "english": "What else do you do there?",
-        "chinese": "你那边还有其他什么活动吗？"
+        "chinese": "你在那边还做些什么？"
     },
     {
         "start": 139.8,
         "end": 145.0,
         "english": "Well the Red Cross is an organization that has offices and clinics all over the world.",
-        "chinese": "红十字会是一个遍布全球的组织，拥有世界各地的办事处和诊所。"
+        "chinese": "红十字会是一个在全球各地设有办事处和诊所的组织。"
     },
     {
         "start": 145.0,
         "end": 150.4,
         "english": "And if you want to help, you can volunteer, you can donate money and you can donate blood.",
-        "chinese": "如果你想要帮助，你可以去志愿服务，你也可以捐款，还可以献血。"
+        "chinese": "如果你想帮忙，可以自愿参加，也可以捐款，还可以献血。"
     },
     {
         "start": 150.4,
         "end": 157.4,
         "english": "But the Red Cross will take this and it will help other people, people who have been in disasters or wars.",
-        "chinese": "但红十字会会接受它，这将帮助其他人们，那些在灾难或战争中受过伤的人。"
+        "chinese": "但是红十字会将会接收这个，并帮助其他人在灾难或战争中的人。"
     },
     {
         "start": 157.4,
         "end": 163.4,
         "english": "And so maybe the Red Cross office near you will have blood banks and blood donations.",
-        "chinese": "所以，你附近的红十字会办公室可能会有血库和献血。"
+        "chinese": "而你附近的红十字会办公室或许就有血库和献血的地方。"
     },
     {
         "start": 163.4,
         "end": 171.0,
         "english": "But really they help people, they provide aid to people who are unhealthy or sick or have been in a war.",
-        "chinese": "但它们确实帮助人们，他们提供援助给那些生病或不健康的或是经历过战争的人。"
+        "chinese": "但其实他们帮助人们，为那些生病、患病或曾经历战争的人提供援助。"
     },
     {
         "start": 171.0,
         "end": 176.0,
         "english": "A very humanitarian organization, so worth it, go to the Red Cross and donate blood.",
-        "chinese": "这是一个非常有爱心的组织，值得去红十字会献血。"
+        "chinese": "一个非常有人道主义精神的组织，所以值得去红十字会献血。"
     },
     {
         "start": 176.0,
         "end": 179.0,
         "english": "In the dialogue, the two people are discussing real emergencies.",
-        "chinese": "对话中，两个人正在讨论真实发生的紧急情况。"
+        "chinese": "在对话中，两人讨论真实紧急情况。"
     },
     {
         "start": 179.0,
         "end": 182.0,
         "english": "And one person says he went along with some paramedics.",
-        "chinese": "一个人说他跟着一些急救人员去了。"
+        "chinese": "而有人表示他跟着一些救护人员一起去的。"
     },
     {
         "start": 182.0,
         "end": 184.0,
         "english": "So a paramedic is a person.",
-        "chinese": "所以，救护车司机是人。"
+        "chinese": "所以救护人员就是一个人。"
     },
     {
         "start": 184.0,
         "end": 187.0,
         "english": "It's a person, it's a profession, right, to be a paramedic.",
-        "chinese": "这是一个人，是份职业，对吧，当一名救护员。"
+        "chinese": "这是一份工作，是一名paramedic，没错。"
     },
     {
         "start": 187.0,
         "end": 190.0,
         "english": "Exactly, but it's not really a doctor, so what's the difference here?",
-        "chinese": "确实，但其实它并不是真正的医生，所以这里有什么区别？"
+        "chinese": "的确，但这里并不是真正的医生，那么有什么区别呢？"
     },
     {
         "start": 190.0,
         "end": 198.0,
         "english": "So paramedics are something like nurses, right, that travel in an ambulance and get to an emergency or get to the scene of an accident",
-        "chinese": "所以，急救人员就像护士一样，他们开着救护车在紧急情况或事故现场出现。"
+        "chinese": "所以救护人员类似护士，对吧？他们乘坐救护车前往紧急情况或事故现场。"
     },
     {
         "start": 198.0,
         "end": 200.0,
         "english": "and help out a person.",
-        "chinese": "和帮助一个人。"
+        "chinese": "帮助一个人。"
     },
     {
         "start": 200.0,
         "end": 207.0,
         "english": "So they immobilize the person, they give them oxygen, they make sure that they stay alive until they reach the hospital.",
-        "chinese": "所以他们让那个人动不了，给他氧气，确保他能活到医院。"
+        "chinese": "于是他们将人 immobilize，给他们供氧，确保他们能够活到到达医院。"
     },
     {
         "start": 207.0,
         "end": 211.0,
         "english": "Okay, so a paramedic, you might hear the word medic, it's the same thing.",
-        "chinese": "好的，所以一个救护员，你可能会听到“医生”这个词，它指的是同一件事情。"
+        "chinese": "好的，那么救护员，你可能会听到医生这个词，意思是一样的。"
     },
     {
         "start": 211.0,
         "end": 213.0,
         "english": "A paramedic is like a nurse.",
-        "chinese": "医生就像护士。"
+        "chinese": "急救员就像护士一样。"
     },
     {
         "start": 213.0,
         "end": 221.0,
         "english": "They're not a doctor, but they're usually the first person to help when there's been an accident or a disaster.",
-        "chinese": "他们不是医生，但通常在事故发生或灾难发生时是第一个提供帮助的人。"
+        "chinese": "他们不是医生，但通常是事故或灾难发生时的首位援助者。"
     },
     {
         "start": 221.0,
         "end": 222.0,
         "english": "Right, exactly.",
-        "chinese": "对，没错。"
+        "chinese": "明白了。"
     },
     {
         "start": 222.0,
         "end": 232.0,
         "english": "So if there is an earthquake and many people are stuck in the buildings, usually paramedics will be the ones on the scene trying to get them out and helping them by applying for a state.",
-        "chinese": "所以，如果地震发生且许多人在建筑物中被困，通常会由救援人员在现场尝试将他们从建筑物中拉出，并帮助他们在申请一个政府援助。"
+        "chinese": "所以如果发生地震，很多人被困在建筑物里，通常急救人员会在现场尝试把他们救出来，并帮助他们申请政府援助。"
     },
     {
         "start": 232.0,
         "end": 237.0,
         "english": "Great, well after that we have finally some of the injuries that a paramedic might see.",
-        "chinese": "好，那我们终于有一些急诊室里可能看到的伤情。"
+        "chinese": "好的，那之后我们终于有一些可能被救护员看到的伤势。"
     },
     {
         "start": 237.0,
         "end": 241.0,
         "english": "The first injury is usually associated with the head.",
-        "chinese": "中国：头部通常是第一个受伤的地方。"
+        "chinese": "头伤通常是首次受伤。"
     },
     {
         "start": 241.0,
@@ -351,229 +351,229 @@
         "start": 243.0,
         "end": 245.0,
         "english": "You suffered a concussion.",
-        "chinese": "你遭受了脑震荡。"
+        "chinese": "你受了脑震荡。"
     },
     {
         "start": 245.0,
         "end": 246.0,
         "english": "Hmm, sounds painful.",
-        "chinese": "嗯，听起来很疼。"
+        "chinese": "嗯，听起来很痛苦。"
     },
     {
         "start": 246.0,
         "end": 247.0,
         "english": "Yeah, it does.",
-        "chinese": "是的。"
+        "chinese": "是的，确实如此。"
     },
     {
         "start": 247.0,
         "end": 250.0,
         "english": "And actually it's very common, I think, right, if you fall and you hit your head.",
-        "chinese": "而且，这其实是非常常见的事，我觉得是的，如果你跌倒了然后撞到头。"
+        "chinese": "实际上非常常见，我想是的，如果你摔倒了，撞到头。"
     },
     {
         "start": 251.0,
         "end": 255.0,
         "english": "That's right, so a concussion is really when your brain hits your skull.",
-        "chinese": "没错，真正的脑震荡就是你的大脑撞到头骨。"
+        "chinese": "说的就是这个，所以脑震荡其实就是你的大脑撞到头骨的时候。"
     },
     {
         "start": 255.0,
         "end": 257.0,
         "english": "That's the bone that protects your brain.",
-        "chinese": "那就是保护你的大脑的骨头。"
+        "chinese": "那是保护你大脑的骨头。"
     },
     {
         "start": 257.0,
         "end": 261.0,
         "english": "So really you're hitting your head really, really hard.",
-        "chinese": "你真的是真的在撞头。"
+        "chinese": "你真是撞得头破血流。"
     },
     {
         "start": 261.0,
         "end": 268.0,
         "english": "And usually this can have some bad side effects like you lose your memory or you're a little bit confused.",
-        "chinese": "而且通常会有不良反应，比如你会忘记一些事情或者会有点儿糊涂。"
+        "chinese": "而且通常这可能会有一些负面效果，比如你会丧失记忆或者有点儿困惑。"
     },
     {
         "start": 268.0,
         "end": 270.0,
         "english": "It's very common with football players.",
-        "chinese": "足球运动员很常见。"
+        "chinese": "这在足球运动员中很常见。"
     },
     {
         "start": 270.0,
         "end": 274.0,
         "english": "Yeah, yeah, with any contact sport of people suffer concussions.",
-        "chinese": "是的，是任何接触性运动都会导致脑震荡。"
+        "chinese": "嗯，嗯，任何人的体育运动中都会发生脑震荡。"
     },
     {
         "start": 274.0,
         "end": 280.0,
         "english": "And it's just like imagine when you have a DVD player and you hit it in the disc skips or it goes back.",
-        "chinese": "就像你有一个DVD播放器，然后你按一下碟片跳过或倒回去一样。"
+        "chinese": "想象一下，你有一台DVD播放器，结果光盘跳过了或者倒退了。"
     },
     {
         "start": 280.0,
         "end": 283.0,
         "english": "That's kind of what happens to your brain so you can suffer memory loss.",
-        "chinese": "那确实是因为你的大脑才会让你经历记忆丧失。"
+        "chinese": "那就是你大脑发生的事情，让你可以遭受记忆丧失。"
     },
     {
         "start": 283.0,
         "end": 285.0,
         "english": "You can even lose your sight temporarily.",
-        "chinese": "你甚至可以暂时失明。"
+        "chinese": "你可以甚至暂时失明。"
     },
     {
         "start": 285.0,
         "end": 290.0,
         "english": "That's right, so this can be very serious and obviously should be looked at by a paramedic.",
-        "chinese": "没错，所以这可能会非常严重，显然需要由急救人员来处理。"
+        "chinese": "这就是说，这非常严重，显然应该由救护人员来看。"
     },
     {
         "start": 290.0,
         "end": 294.0,
         "english": "We also have another situation that is similarly serious.",
-        "chinese": "我们还有另一个同样严重的情况。"
+        "chinese": "我们还有另一种同样严重的状况。"
     },
     {
         "start": 294.0,
         "end": 297.0,
         "english": "It's called a compound fracture.",
-        "chinese": "它叫复合骨折。"
+        "chinese": "这叫复杂骨折。"
     },
     {
         "start": 297.0,
         "end": 300.0,
         "english": "Okay, so what is a fracture or two fracture?",
-        "chinese": "好的，什么是骨折或者两处骨折？"
+        "chinese": "好的，那么什么是骨折或多处骨折？"
     },
     {
         "start": 300.0,
         "end": 303.0,
         "english": "A fracture is a thing, it's a break.",
-        "chinese": "骨折是件事情，它是一条裂痕。"
+        "chinese": "骨折是一回事，就是一道裂痕。"
     },
     {
         "start": 303.0,
         "end": 306.0,
         "english": "Okay, so you could say I broke my arm.",
-        "chinese": "好的，你可以说我摔断了胳膊。"
+        "chinese": "好吧，可以说我摔断了胳膊。"
     },
     {
         "start": 306.0,
         "end": 308.0,
         "english": "But you could also say I fractured my arm.",
-        "chinese": "但你也可以说是我的胳膊断了。"
+        "chinese": "但你也可以说我摔断了手臂。"
     },
     {
         "start": 308.0,
         "end": 310.0,
         "english": "This is the more medical term.",
-        "chinese": "这是更医学的术语。"
+        "chinese": "这指的是更为专业的术语。"
     },
     {
         "start": 310.0,
         "end": 313.0,
         "english": "But of course there are different ways to break something.",
-        "chinese": "当然，有不同的方法可以破坏某物。"
+        "chinese": "但是当然，破坏某物的方式有很多种。"
     },
     {
         "start": 313.0,
         "end": 317.0,
         "english": "And so in medicine we have a compound fracture.",
-        "chinese": "所以，在医学中，我们也有复合骨折。"
+        "chinese": "而在医学上，我们有复杂骨折。"
     },
     {
         "start": 317.0,
         "end": 321.0,
         "english": "So a compound fracture is pretty painful and it's a little bit more serious.",
-        "chinese": "所以复合骨折确实很疼，而且比较严重。"
+        "chinese": "所以骨折确实很疼，而且稍微严重一些。"
     },
     {
         "start": 321.0,
         "end": 324.0,
         "english": "You have a simple fracture which is when your bone just breaks.",
-        "chinese": "你有一个简单的骨折，也就是你的骨头只是断裂了。"
+        "chinese": "你有轻微的骨折，就是骨头只是裂开了。"
     },
     {
         "start": 324.0,
         "end": 330.0,
         "english": "Or a hairline which means that there's a little thin part where it's not, it's broken but it's not really serious.",
-        "chinese": "或者一条细线，意味着那里有一小部分是不完整的，但并不是真的严重。"
+        "chinese": "或者是一道几乎看不见的缝隙，意味着有一点细小的部分没有了，但并不是特别严重。"
     },
     {
         "start": 330.0,
         "end": 333.0,
         "english": "In this case it's your bones actually push towards each other.",
-        "chinese": "这种情况实际上是你的骨头彼此靠近。"
+        "chinese": "在这种情况下，其实是你的骨头互相推挤。"
     },
     {
         "start": 333.0,
         "end": 336.0,
         "english": "They kind of form like a little mountain, right?",
-        "chinese": "它们的样子有点像一个小山丘，对吗？"
+        "chinese": "它们有点像一个小山丘，对吗？"
     },
     {
         "start": 336.0,
         "end": 338.0,
         "english": "Or they're on top of each other.",
-        "chinese": "他们重叠在一起。"
+        "chinese": "他们你挤我碰。"
     },
     {
         "start": 338.0,
         "end": 342.0,
         "english": "Think about when two cars hit and they kind of crash up into each other.",
-        "chinese": "考虑一下两辆车相撞的情景，它们似乎相互碰撞在一起。"
+        "chinese": "考虑一下两辆车相撞时，它们互相撞得有点严重。"
     },
     {
         "start": 342.0,
         "end": 343.0,
         "english": "Exactly.",
-        "chinese": "确实。"
+        "chinese": "Exactly."
     },
     {
         "start": 343.0,
         "end": 344.0,
         "english": "It's like that but it's your bone.",
-        "chinese": "感觉就是这样，但那是你的骨头。"
+        "chinese": "这就是你的骨气。"
     },
     {
         "start": 344.0,
         "end": 346.0,
         "english": "So it's extremely painful.",
-        "chinese": "所以这真是太痛苦了。"
+        "chinese": "所以非常痛苦。"
     },
     {
         "start": 346.0,
         "end": 348.0,
         "english": "Yeah, yeah, it's very, very painful.",
-        "chinese": "没错，真的非常痛苦。"
+        "chinese": "嗯，嗯，非常痛苦。"
     },
     {
         "start": 348.0,
         "end": 351.0,
         "english": "So the person suffered a concussion and a compound fracture.",
-        "chinese": "所以这个人遭受了脑震荡和复合性骨折。"
+        "chinese": "所以那人遭受了脑震荡和复合性骨折。"
     },
     {
         "start": 351.0,
         "end": 354.0,
         "english": "Now the friend that he was talking to said, wow, you know, it sounds amazing.",
-        "chinese": "现在他正在说话的朋友说：“哇，你知道，听起来真的很棒。”"
+        "chinese": "现在他正在说话的朋友说，哇，听起来真是太棒了。"
     },
     {
         "start": 354.0,
         "end": 356.0,
         "english": "It's really cool that you're doing that.",
-        "chinese": "真的很好啊，你在做呢。"
+        "chinese": "那你这样做真的很酷。"
     },
     {
         "start": 356.0,
         "end": 359.0,
         "english": "But you know what, I faint when I see blood.",
-        "chinese": "但你知道，我看到血的时候会晕过去。"
+        "chinese": "但你知道吗，我一看到血就晕倒。"
     },
     {
         "start": 359.0,
@@ -585,25 +585,25 @@
         "start": 361.0,
         "end": 362.0,
         "english": "No, I mean either.",
-        "chinese": "不，我指的是。"
+        "chinese": "不，我是说任何一个。"
     },
     {
         "start": 362.0,
         "end": 367.0,
         "english": "Well some people when they see blood they feel very, very uncomfortable or sick.",
-        "chinese": "确实有些人在看到血时会感到非常不舒服或恶心。"
+        "chinese": "某些人看到血液时会感到非常不舒服甚至恶心。"
     },
     {
         "start": 367.0,
         "end": 370.0,
         "english": "And so to faint is to fall down on the ground.",
-        "chinese": "于是，软弱就变成了倒在地上。"
+        "chinese": "所以堕落就是倒在地上。"
     },
     {
         "start": 370.0,
         "end": 372.0,
         "english": "It's almost like you're falling asleep.",
-        "chinese": "感觉就像是你快要睡着了。"
+        "chinese": "你几乎要睡着了。"
     },
     {
         "start": 372.0,
@@ -615,31 +615,31 @@
         "start": 374.0,
         "end": 376.0,
         "english": "Have you ever fainted?",
-        "chinese": "你有没有晕倒过？"
+        "chinese": "你是不是曾经晕倒过？"
     },
     {
         "start": 376.0,
         "end": 379.0,
         "english": "I fainted twice in my life.",
-        "chinese": "我一生中晕了两次。"
+        "chinese": "我一生中曾两次昏倒。"
     },
     {
         "start": 379.0,
         "end": 381.0,
         "english": "One time I fainted because of heat.",
-        "chinese": "一次，我因中暑而昏倒。"
+        "chinese": "一次因为我中暑而昏倒过。"
     },
     {
         "start": 381.0,
         "end": 383.0,
         "english": "It was very, very, very hot.",
-        "chinese": "天气非常热。"
+        "chinese": "非常非常非常热。"
     },
     {
         "start": 383.0,
         "end": 387.0,
         "english": "And I couldn't breathe for a moment and then I woke up on the ground.",
-        "chinese": "我瞬间无法呼吸，然后就倒在了地上。"
+        "chinese": "然后我短暂无法呼吸，然后我就在地上醒了。"
     },
     {
         "start": 387.0,
@@ -651,121 +651,121 @@
         "start": 388.0,
         "end": 390.0,
         "english": "Yeah, that's what happens.",
-        "chinese": "是的，这就是发生了的事情。"
+        "chinese": "是的，就是这样。"
     },
     {
         "start": 390.0,
         "end": 391.0,
         "english": "Exactly.",
-        "chinese": "好的。"
+        "chinese": "Exactly."
     },
     {
         "start": 391.0,
         "end": 395.0,
         "english": "So yeah, if you ever faint, it's basically that you're just standing there, you're sitting somewhere",
-        "chinese": "所以，如果你突然晕倒了，那基本上就是你只是站在那里，或者你在某个地方坐着。"
+        "chinese": "嗯，如果你晕倒了，基本上就是你站着不动或者坐着不动"
     },
     {
         "start": 395.0,
         "end": 398.0,
         "english": "and all of a sudden everything goes black and you wake up and you're on the ground.",
-        "chinese": "突然什么都看不见了，你醒了，发现自己在地上。"
+        "chinese": "然后一切突然变黑，你醒来发现自己在地上。"
     },
     {
         "start": 398.0,
         "end": 401.0,
         "english": "And you feel very, very weak before that.",
-        "chinese": "你那个时候感觉非常虚弱。"
+        "chinese": "你那时感觉非常、非常虚弱。"
     },
     {
         "start": 401.0,
         "end": 404.0,
         "english": "And very pale I think as well because you look pale.",
-        "chinese": "你看起来很苍白，我也觉得一样。"
+        "chinese": "而且看起来很苍白，我也觉得是这样的。"
     },
     {
         "start": 404.0,
         "end": 406.0,
         "english": "Yeah, your blood goes away from your brain and you pass out.",
-        "chinese": "是的，你的血液从大脑里流走了，你会失去意识。"
+        "chinese": "是的，你的血液从大脑中流出，你就会昏倒。"
     },
     {
         "start": 406.0,
         "end": 409.0,
         "english": "It's very strange sensation.",
-        "chinese": "感觉非常奇怪。"
+        "chinese": "这真是奇怪的感觉。"
     },
     {
         "start": 409.0,
         "end": 412.0,
         "english": "Because then everyone else around you they know what happened.",
-        "chinese": "因为那时，你周围的人都知道发生了什么。"
+        "chinese": "因为那时你周围的人都知道发生了什么。"
     },
     {
         "start": 412.0,
         "end": 415.0,
         "english": "They saw you and so they're looking at you like you're crazy.",
-        "chinese": "他们看到你了，所以他们看你就像你疯了一样。"
+        "chinese": "他们看到了你，所以他们看你像是发了疯。"
     },
     {
         "start": 415.0,
         "end": 417.0,
         "english": "You're maybe sick.",
-        "chinese": "你可能是生病了。"
+        "chinese": "你可能生病了。"
     },
     {
         "start": 417.0,
         "end": 418.0,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 418.0,
         "end": 419.0,
         "english": "To faint.",
-        "chinese": "晕了。"
+        "chinese": "昏倒"
     },
     {
         "start": 419.0,
         "end": 421.0,
         "english": "Alright, so that's to faint.",
-        "chinese": "好的，那就要睡过去了。"
+        "chinese": "明白了，就是轻度。"
     },
     {
         "start": 421.0,
         "end": 423.0,
         "english": "So those are the keywords that we have for you in language takeaway.",
-        "chinese": "所以，这是我们为你准备的语言带走的关键词。"
+        "chinese": "这就是语言 takeaway 为你准备的关键词。"
     },
     {
         "start": 423.0,
         "end": 429.0,
         "english": "Let's take a listen to our dialogue again and we'll be back shortly to take a look at some phrases on fluency builder.",
-        "chinese": "让我们再次聆听我们的对话，并很快回来，以便稍后看看一些流利训练中的短语。"
+        "chinese": "让我们再听一遍我们的对话，稍后我们将回到流利构建单元看看一些短语。"
     },
     {
         "start": 433.0,
         "end": 434.0,
         "english": "Hey, Joe.",
-        "chinese": "嘿，乔。"
+        "chinese": "嘿，Joe。"
     },
     {
         "start": 434.0,
         "end": 436.0,
         "english": "Where have you been these past few days?",
-        "chinese": "你最近几天去哪儿了？"
+        "chinese": "这些天你都去哪儿了？"
     },
     {
         "start": 436.0,
         "end": 440.0,
         "english": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
-        "chinese": "我最近忙于开始的一周红十字会初级救护培训。"
+        "chinese": "我上周开始的红十字会急救课程一直很忙。"
     },
     {
         "start": 440.0,
         "end": 441.0,
         "english": "Cool.",
-        "chinese": "好酷。"
+        "chinese": "酷。"
     },
     {
         "start": 441.0,
@@ -777,7 +777,7 @@
         "start": 443.0,
         "end": 444.0,
         "english": "Have you learnt anything useful?",
-        "chinese": "你学到了有用的东西了吗？"
+        "chinese": "你学到了什么有用的东西吗？"
     },
     {
         "start": 444.0,
@@ -789,193 +789,193 @@
         "start": 445.0,
         "end": 452.0,
         "english": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR.",
-        "chinese": "我意思是我们学会了如何施加压力止血、如何检查脉搏，甚至是如何进行心肺复苏。"
+        "chinese": "我们学过如何施压止血，如何检查脉搏，甚至学会了进行心肺复苏。"
     },
     {
         "start": 452.0,
         "end": 454.0,
         "english": "Have you treated any real emergencies?",
-        "chinese": "你处理过任何真正的紧急情况吗？"
+        "chinese": "你处理过真正的紧急情况吗？"
     },
     {
         "start": 454.0,
         "end": 456.0,
         "english": "Well, they took us along with some paramedics.",
-        "chinese": "好吧，他们带我们去医院了，还有一些急救人员。"
+        "chinese": "嗯，他们带着我们和一些急救人员一起去了。"
     },
     {
         "start": 456.0,
         "end": 462.0,
         "english": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
-        "chinese": "这个家伙摔摩托车时也撞伤了，还摔断了几处。"
+        "chinese": "就有一个 guys 从摩托车 上摔了下来，还受了脑震荡以及几处复杂性骨折。"
     },
     {
         "start": 462.0,
         "end": 465.0,
         "english": "His wounds were pretty serious so they had to rush him to the hospital.",
-        "chinese": "他的伤口很严重，所以他们不得不把他送往医院。"
+        "chinese": "他的伤势相当严重，所以他们必须赶紧送他去医院。"
     },
     {
         "start": 465.0,
         "end": 466.0,
         "english": "It was intense.",
-        "chinese": "那很激烈。"
+        "chinese": "这很激烈。"
     },
     {
         "start": 466.0,
         "end": 467.0,
         "english": "I can imagine.",
-        "chinese": "我当然能想象。"
+        "chinese": "我可以想象。"
     },
     {
         "start": 467.0,
         "end": 469.0,
         "english": "I tend to faint when I see blood.",
-        "chinese": "我看到血时容易晕倒。"
+        "chinese": "一看到血我就晕倒。"
     },
     {
         "start": 469.0,
         "end": 472.0,
         "english": "So I think I won't be taking up a course like that anytime soon.",
-        "chinese": "我觉得我短时间内不太可能参加那种课程。"
+        "chinese": "所以我想我短期内不会报名那样的课程。"
     },
     {
         "start": 475.0,
         "end": 477.0,
         "english": "Alright, so quiz, Margot.",
-        "chinese": "好的，那么考一考你，玛格特。"
+        "chinese": "好的，Margot，来 Quiz。"
     },
     {
         "start": 477.0,
         "end": 483.0,
         "english": "What is the first thing that a paramedic does when he or she finds a body at an emergency?",
-        "chinese": "当急救人员在紧急情况下发现尸体时，他们首先会做什么？"
+        "chinese": "一个急救人员发现尸体时，第一步会做什么？"
     },
     {
         "start": 483.0,
         "end": 487.0,
         "english": "That paramedic checks for a pulse to make sure you're alive, right?",
-        "chinese": "那急救员检查你的脉搏，确保你还活着呢。"
+        "chinese": "那急救人员检查脉搏以确保你还在吗？"
     },
     {
         "start": 487.0,
         "end": 488.0,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 488.0,
         "end": 491.0,
         "english": "A pulse, so, thong, thong, thong, thong.",
-        "chinese": "脉搏，嗯，通，通，通，通。"
+        "chinese": "一声，二声，三声，四声，五声。"
     },
     {
         "start": 491.0,
         "end": 493.0,
         "english": "The pulse is the rhythm.",
-        "chinese": "脉搏是节奏。"
+        "chinese": "心跳是节奏。"
     },
     {
         "start": 493.0,
         "end": 495.0,
         "english": "It's the sound of your heart pumping blood.",
-        "chinese": "那是你的心跳声。"
+        "chinese": "那是你心脏泵血的声音。"
     },
     {
         "start": 495.0,
         "end": 499.0,
         "english": "And you can feel someone's wrist or their throat.",
-        "chinese": "你就能感觉到某人的手腕或喉咙。"
+        "chinese": "你可以感受到某人手腕或喉咙的位置。"
     },
     {
         "start": 500.0,
         "end": 505.0,
         "english": "So to check for a pulse means to check and make sure their heart is pumping blood.",
-        "chinese": "所以检查脉搏就是检查并确保他们的心脏在泵送血液。"
+        "chinese": "所以检查脉搏的意思是检查确保他们的心脏在泵血。"
     },
     {
         "start": 505.0,
         "end": 506.0,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 506.0,
         "end": 511.0,
         "english": "And not only that, but to make sure that the heart is pumping blood relatively normal.",
-        "chinese": "而且，为了确保心脏泵血正常。"
+        "chinese": "而且还要确保心脏能够相对正常地泵血。"
     },
     {
         "start": 511.0,
         "end": 515.0,
         "english": "Because sometimes your heart can be pumping blood too fast or too slow.",
-        "chinese": "因为有时候你的心脏可能会跳动过快或过慢。"
+        "chinese": "因为有时候你的心跳太快或太慢。"
     },
     {
         "start": 515.0,
         "end": 518.0,
         "english": "And if it's too slow, it's very possible that you will faint.",
-        "chinese": "如果你太慢了，很有可能你会晕倒。"
+        "chinese": "而且如果太慢，你可能会虚脱。"
     },
     {
         "start": 518.0,
         "end": 520.0,
         "english": "Very good.",
-        "chinese": "很好。"
+        "chinese": "非常好。"
     },
     {
         "start": 520.0,
         "end": 522.0,
         "english": "Alright, so we check for a pulse.",
-        "chinese": "好的，所以我们检查脉搏。"
+        "chinese": "好的，我们检查脉搏。"
     },
     {
         "start": 522.0,
         "end": 523.0,
         "english": "Now, what else happens?",
-        "chinese": "现在，还有什么发生？"
+        "chinese": "那还有什么发生？"
     },
     {
         "start": 523.0,
         "end": 528.0,
         "english": "Well, if there's a very serious emergency and the paramedic needs help to give aid to the person who's dead,",
-        "chinese": "好吧，如果有非常严重的紧急情况，救护车需要帮助来对已经死亡的人提供援助。"
+        "chinese": "嗯，如果是极其严重的紧急情况，救护人员需要帮助对一名已经死亡的人进行救助时，"
     },
     {
         "start": 528.0,
         "end": 533.0,
         "english": "and if they have aid to the person who is injured, then they will rush that person to the hospital.",
-        "chinese": "而且如果他们有帮助受伤的人的援助，那么他们会将那个受伤的人送往医院。"
+        "chinese": "如果有伤者需要援助，他们就会将那人送往医院。"
     },
     {
         "start": 533.0,
         "end": 536.0,
         "english": "Okay, so the verb to rush, what does that mean?",
-        "chinese": "好的，那么“冲”这个动词是什么意思？"
+        "chinese": "好的，那么“急促”的动词是什么意思？"
     },
     {
         "start": 536.0,
         "end": 544.0,
         "english": "Alright, so to rush someone or to rush someone to the hospital means to take someone or to go with someone very, very quickly.",
-        "chinese": "好的，所以为了赶人或者去医院，意味着要快速地把某人或某人带去医院。"
+        "chinese": "好的，那么催促某人或将某人送往医院的意思是极其迅速地陪同某人。"
     },
     {
         "start": 544.0,
         "end": 546.0,
         "english": "Okay, so let's give an example.",
-        "chinese": "好的，那么让我们举个例子。"
+        "chinese": "好的，我们来举个例子。"
     },
     {
         "start": 546.0,
         "end": 552.0,
         "english": "I could say, listen, Marco, I don't want to rush you, but I really need the report done today.",
-        "chinese": "我可以说，听我说，Marco，我不想催你，但我真的需要今天完成报告。"
+        "chinese": "我可以告诉你，Marco，我不希望你着急，但我真的需要今天把报告做好。"
     },
     {
         "start": 552.0,
         "end": 555.0,
         "english": "Or I could say, I need to rush home.",
-        "chinese": "或者我可以说是，我需要赶紧回家。"
+        "chinese": "或者可以说，我需要赶紧回家。"
     },
     {
         "start": 555.0,
@@ -987,127 +987,127 @@
         "start": 556.0,
         "end": 560.0,
         "english": "Or if a woman is having a baby, you want to rush her to the emergency room.",
-        "chinese": "如果一个女人要生孩子，你希望她马上去急诊室。"
+        "chinese": "或者如果一个女人要生孩子，你得赶紧把她送进急诊室。"
     },
     {
         "start": 560.0,
         "end": 561.0,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 561.0,
         "end": 563.0,
         "english": "Okay, so you need to go quickly.",
-        "chinese": "好的，你得赶紧去。"
+        "chinese": "好的，你得快点。"
     },
     {
         "start": 563.0,
         "end": 572.0,
         "english": "Alright, now when we were talking about fainting, the person said before he used the word fainting, he said, I tend to faint.",
-        "chinese": "好的，现在我们来谈谈晕厥。说话的人在说他以前使用“晕厥”这个词时，他可能会说：“我经常晕厥。”"
+        "chinese": "好的，说到昏厥的时候，对方说在用昏厥这个词之前他说的是，我容易晕倒。"
     },
     {
         "start": 572.0,
         "end": 574.0,
         "english": "Okay, I tend to.",
-        "chinese": "好的，我喜欢。"
+        "chinese": "好的，我也是。"
     },
     {
         "start": 574.0,
         "end": 580.0,
         "english": "I tend to is a really great verb that describes a normal or habitual behavior.",
-        "chinese": "我倾向于是一个真的很棒的动词，用来描述一种正常行为或习惯。"
+        "chinese": "这是一个很好的动词，用来描述一种正常或习惯性的行为。"
     },
     {
         "start": 580.0,
         "end": 586.0,
         "english": "That's like saying, I tend to faint when it's very, very hot outside.",
-        "chinese": "那就好像是说，我一热就容易晕过去。"
+        "chinese": "那就像说，外面特别热的时候我很容易晕倒。"
     },
     {
         "start": 586.0,
         "end": 590.0,
         "english": "That means I often faint when it's very, very hot outside.",
-        "chinese": "那意味着外面特别热时我经常虚脱。"
+        "chinese": "这意味着外面非常热的时候我经常晕倒。"
     },
     {
         "start": 590.0,
         "end": 592.0,
         "english": "It's something that happens normally.",
-        "chinese": "这是正常发生的事情。"
+        "chinese": "这算是正常现象。"
     },
     {
         "start": 592.0,
         "end": 593.0,
         "english": "So it's a tendency.",
-        "chinese": "所以这是一个趋势。"
+        "chinese": "这就是趋势。"
     },
     {
         "start": 593.0,
         "end": 594.0,
         "english": "Right, but it's not for everyone.",
-        "chinese": "对，但并不是所有人都适用。"
+        "chinese": "好的，但并非人人适合。"
     },
     {
         "start": 594.0,
         "end": 595.0,
         "english": "It's for me.",
-        "chinese": "那是给我用的。"
+        "chinese": "这是为我准备的。"
     },
     {
         "start": 595.0,
         "end": 601.0,
         "english": "So I tend to, what's something that you tend to faint when you see?",
-        "chinese": "所以，你看到的时候，你会晕倒吗？"
+        "chinese": "那么我 tends to，你有什么 thing 你会 faint 看到的吗？"
     },
     {
         "start": 601.0,
         "end": 602.0,
         "english": "I never faint.",
-        "chinese": "我从不晕倒。"
+        "chinese": "我从不倒下。"
     },
     {
         "start": 602.0,
         "end": 603.0,
         "english": "You don't faint.",
-        "chinese": "你没有晕倒。"
+        "chinese": "你不会倒地不起。"
     },
     {
         "start": 603.0,
         "end": 604.0,
         "english": "No, it's just kidding.",
-        "chinese": "不，这只是玩笑。"
+        "chinese": "不，不过是开玩笑了。"
     },
     {
         "start": 605.0,
         "end": 610.0,
         "english": "But you know what, I tend to leave the towel on the bed sometimes after I take a shower.",
-        "chinese": "但你知道吗，我有时候在洗完澡之后会把毛巾放在床上。"
+        "chinese": "但你知道吗，我有时候洗完澡后会把浴巾留在床上。"
     },
     {
         "start": 610.0,
         "end": 611.0,
         "english": "I know, it's a bad habit.",
-        "chinese": "我知道，这是一个坏习惯。"
+        "chinese": "我知道，这是个坏习惯。"
     },
     {
         "start": 611.0,
         "end": 612.0,
         "english": "And then the sheet smell.",
-        "chinese": "然后，那张纸的味道。"
+        "chinese": "然后是纸张的味道。"
     },
     {
         "start": 612.0,
         "end": 613.0,
         "english": "No, they don't.",
-        "chinese": "不，它们没有。"
+        "chinese": "不，他们不。"
     },
     {
         "start": 613.0,
         "end": 618.0,
         "english": "Because I leave it there for like five or ten minutes and then I realize, oh my god, and then I pick it up.",
-        "chinese": "因为我在那里呆了大概五到十分钟，然后我意识到，天啊，然后我就把它拿起来。"
+        "chinese": "因为我就把它放在那五到十分钟，然后我才发现，天啊。然后我就把它拿起来了。"
     },
     {
         "start": 618.0,
@@ -1119,7 +1119,7 @@
         "start": 620.0,
         "end": 621.0,
         "english": "That's gross.",
-        "chinese": "那是太粗鲁了。"
+        "chinese": "那太恶心了。"
     },
     {
         "start": 621.0,
@@ -1131,25 +1131,25 @@
         "start": 622.0,
         "end": 628.0,
         "english": "Well, I tend to forget my leftover food in the refrigerator for a long time.",
-        "chinese": "嗯，我习惯性地把冰箱里的剩饭好久都不忘记。"
+        "chinese": "嗯，我常常把冰箱里剩下的食物忘得很久。"
     },
     {
         "start": 628.0,
         "end": 629.0,
         "english": "Oh, that's even.",
-        "chinese": "哦，那更糟了。"
+        "chinese": "哦，那是加倍了。"
     },
     {
         "start": 629.0,
         "end": 630.0,
         "english": "And then it starts to smell.",
-        "chinese": "然后就开始有味道了。"
+        "chinese": "然后开始闻起来。"
     },
     {
         "start": 630.0,
         "end": 631.0,
         "english": "That's gross.",
-        "chinese": "那太丢人了。"
+        "chinese": "那太恶心了。"
     },
     {
         "start": 631.0,
@@ -1161,31 +1161,31 @@
         "start": 633.0,
         "end": 635.0,
         "english": "But you let it rot and then you fridge smells.",
-        "chinese": "但是你让它腐烂了，然后冰箱开始发出异味。"
+        "chinese": "但你任由它腐烂，然后冰箱闻起来 bad。"
     },
     {
         "start": 635.0,
         "end": 636.0,
         "english": "It happens.",
-        "chinese": "真的发生了。"
+        "chinese": "这发生了。"
     },
     {
         "start": 636.0,
         "end": 639.0,
         "english": "So that's all we've got for Fluency Builder today.",
-        "chinese": "今天就是我们为流利 builder 所剩的练习了。"
+        "chinese": "这就是我们今天 Fluently 建造单元的所有内容。"
     },
     {
         "start": 639.0,
         "end": 642.0,
         "english": "But we can talk about tendencies in a moment.",
-        "chinese": "但我们可以稍后谈谈趋势。"
+        "chinese": "但我们可以一会儿再谈趋势。"
     },
     {
         "start": 642.0,
         "end": 645.0,
         "english": "Maybe a homework assignment could be to think of something that you tend to do.",
-        "chinese": "也许可以做一个作业，想想你经常做的事情。"
+        "chinese": "也许可以布置一个家庭作业，想想你常常做的某件事。"
     },
     {
         "start": 645.0,
@@ -1197,31 +1197,31 @@
         "start": 646.0,
         "end": 648.0,
         "english": "That could be an interesting homework assignment.",
-        "chinese": "那可能是一个有趣的家庭作业。"
+        "chinese": "那可以是一个有趣的家庭作业任务。"
     },
     {
         "start": 648.0,
         "end": 652.0,
         "english": "But before we jump into that, why don't we listen to our dialogue for the very last time?",
-        "chinese": "但在我们深入讨论之前，不如最后再听听我们的对话？"
+        "chinese": "但先让我们再听一遍对话吗？"
     },
     {
         "start": 652.0,
         "end": 662.0,
         "english": "Hey Joe, where have you been these past few days?",
-        "chinese": "嘿，乔，你最近都去哪儿了？"
+        "chinese": "嘿，Joe，这些天你去哪儿了？"
     },
     {
         "start": 662.0,
         "end": 666.0,
         "english": "I've been busy with the first aid course that I started about a week ago at the Red Cross.",
-        "chinese": "我最近一周开始的红十字会救护课程一直忙得不可开交。"
+        "chinese": "我上周开始的红十字会急救课程一直很忙。"
     },
     {
         "start": 666.0,
         "end": 667.0,
         "english": "Cool.",
-        "chinese": "很好。"
+        "chinese": "酷。"
     },
     {
         "start": 667.0,
@@ -1233,7 +1233,7 @@
         "start": 669.0,
         "end": 671.0,
         "english": "Have you learned anything useful?",
-        "chinese": "你学到了有用的东西了吗？"
+        "chinese": "你学到了什么有用的东西吗？"
     },
     {
         "start": 671.0,
@@ -1245,67 +1245,67 @@
         "start": 672.0,
         "end": 676.0,
         "english": "I mean, we learned how to apply pressure to stop bleeding, how to check for a pulse,",
-        "chinese": "我意思是，我们学会了如何施压止血、如何检查脉搏。"
+        "chinese": "这也就是，我们学会了如何施压止血，如何检查脉搏。"
     },
     {
         "start": 676.0,
         "end": 678.0,
         "english": "and even how to apply CPR.",
-        "chinese": "并且如何应用CPR。"
+        "chinese": "甚至如何进行心肺复苏。"
     },
     {
         "start": 678.0,
         "end": 680.0,
         "english": "Have you treated any real emergencies?",
-        "chinese": "你处理过任何真实的紧急情况吗？"
+        "chinese": "你处理过真正的紧急情况吗？"
     },
     {
         "start": 680.0,
         "end": 683.0,
         "english": "Well, they took us along with some paramedics.",
-        "chinese": "哦，他们带我们去了医院，还带着一些急救人员。"
+        "chinese": "嗯，他们带着我们和一些急救人员一起去了。"
     },
     {
         "start": 683.0,
         "end": 688.0,
         "english": "There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.",
-        "chinese": "英语：他摔了一跤，还受了两处骨折。"
+        "chinese": "就有一个 guys 从摩托车 上摔下来，还受了脑震荡以及几处复杂骨折。"
     },
     {
         "start": 688.0,
         "end": 691.0,
         "english": "His wounds were pretty serious, so they had to rush into the hospital.",
-        "chinese": "他的伤口很严重，所以他们不得不赶紧去医院。"
+        "chinese": "他的伤挺严重的，所以得赶紧去医院。"
     },
     {
         "start": 691.0,
         "end": 692.0,
         "english": "It was intense.",
-        "chinese": "那是激烈的。"
+        "chinese": "这很激烈。"
     },
     {
         "start": 692.0,
         "end": 693.0,
         "english": "I can imagine.",
-        "chinese": "我能够想象。"
+        "chinese": "我可以想象。"
     },
     {
         "start": 693.0,
         "end": 698.0,
         "english": "I tend to faint when I see blood, so I think I won't be taking up a course like that any time soon.",
-        "chinese": "我总是害怕看到血，所以我认为我不会像这样参加那个课程。"
+        "chinese": "一看到血我就要晕过去了，所以我想我短期内不会去报那种课程了。"
     },
     {
         "start": 698.0,
         "end": 707.0,
         "english": "Alright, we're back.",
-        "chinese": "好的，我们又回来了。"
+        "chinese": "好的，我们回来了。"
     },
     {
         "start": 707.0,
         "end": 710.0,
         "english": "So that's all the time we have for today.",
-        "chinese": "这就是今天剩下的时间了。"
+        "chinese": "这就是我们今天的时间了。"
     },
     {
         "start": 710.0,
@@ -1317,67 +1317,67 @@
         "start": 712.0,
         "end": 714.0,
         "english": "Come to EnglishPod.com.",
-        "chinese": "来英语有声网。"
+        "chinese": "来到英语pod.com。"
     },
     {
         "start": 714.0,
         "end": 717.0,
         "english": "In the comments section, tell us what do you tend to do?",
-        "chinese": "在评论区里，说说你平时喜欢做什么？"
+        "chinese": "在评论区，你通常会做什么？"
     },
     {
         "start": 717.0,
         "end": 719.0,
         "english": "It could be a good thing, it could be a bad thing.",
-        "chinese": "这可能是个好事，也可能是个坏事。"
+        "chinese": "这可能是好事，也可能是坏事。"
     },
     {
         "start": 719.0,
         "end": 726.0,
         "english": "Obviously, you can try and use some of the vocabulary you heard in today's lesson about health and safety.",
-        "chinese": "当然，你可以尝试使用今天健康与安全课上听到的一些词汇。"
+        "chinese": "显然，你可以试着使用今天健康安全课程中听到的一些词汇。"
     },
     {
         "start": 726.0,
         "end": 729.0,
         "english": "You might get some extra points from us for doing that.",
-        "chinese": "你做这件事可能会得到我们的额外表扬哦。"
+        "chinese": "我们可能会给你一些额外的分数。"
     },
     {
         "start": 729.0,
         "end": 735.0,
         "english": "I know some people who tend to leave the house with a whole medicine kit in their bags or in their purses.",
-        "chinese": "我知道有些人出门时会把药箱放在包里或口袋里。"
+        "chinese": "我知道有些人出门时包里或手袋里会带着一整套急救药箱。"
     },
     {
         "start": 735.0,
         "end": 737.0,
         "english": "Really? We could say a first aid kit.",
-        "chinese": "真的吗？我们可以说是急救包。"
+        "chinese": "真的？我们可以说急救包。"
     },
     {
         "start": 737.0,
         "end": 738.0,
         "english": "A first aid kit, exactly.",
-        "chinese": "急救包，没错。"
+        "chinese": "一个急救包，没错。"
     },
     {
         "start": 738.0,
         "end": 740.0,
         "english": "Wow, so do you do this? Let us know.",
-        "chinese": "哇，你也是这样吗？快告诉我们。"
+        "chinese": "哇，你也是这样做的吗？告知我们。"
     },
     {
         "start": 740.0,
         "end": 743.0,
         "english": "Our website is englispod.com. That's all we've got for today.",
-        "chinese": "我们的网站是englispod.com。今天就这些了。"
+        "chinese": "我们的网站是englispod.com。这就是今天的全部内容。"
     },
     {
         "start": 743.0,
         "end": 744.0,
         "english": "So until next time.",
-        "chinese": "所以，下次见。"
+        "chinese": "那么下次见。"
     },
     {
         "start": 744.0,
@@ -1389,6 +1389,6 @@
         "start": 745.0,
         "end": 746.0,
         "english": "Bye guys.",
-        "chinese": "Bye guys (英语：Bye guys) 是一个中文的网络用语，通常用于表示“再见”或“别了”。在不同的语言和文化中，这个短语可能有不同的含义。以下是一些常见的翻译："
+        "chinese": "再见各位。"
     }
 ]

@@ -3,7 +3,7 @@
         "start": 0.0,
         "end": 6.84,
         "english": "Hello everyone and welcome to EnglishPod, my name is Marco.",
-        "chinese": "你好，大家欢迎来到英语广播，我的名字是Marco。"
+        "chinese": "大家好，欢迎来到英语pod，我叫马可。"
     },
     {
         "start": 6.84,
@@ -15,19 +15,19 @@
         "start": 10.96,
         "end": 14.36,
         "english": "That's right, so there are some really interesting phrases and we're going to learn a little",
-        "chinese": "那就是了，所以有一些非常有趣的话，我们要学一点。"
+        "chinese": "没错，有一些非常有趣的地方，我们来学习一下"
     },
     {
         "start": 14.36,
         "end": 19.16,
         "english": "bit about how money and social security works in the United States.",
-        "chinese": "关于美国如何运作金钱和社会保障。"
+        "chinese": "关于美国金钱和社会保障是如何运作的。"
     },
     {
         "start": 19.16,
         "end": 23.68,
         "english": "But before we get into that, why don't we look at vocabulary preview?",
-        "chinese": "但是，在我们进入那个之前，为什么不先看看词汇预览呢？"
+        "chinese": "但先让我们看看词汇预览吧。"
     },
     {
         "start": 23.68,
@@ -39,73 +39,73 @@
         "start": 25.72,
         "end": 29.560000000000002,
         "english": "So we're talking about retirement and that means we're going to talk about when you stop",
-        "chinese": "所以我们要谈论退休，这意味着我们将讨论你何时停止工作。"
+        "chinese": "所以我们谈到退休，这意味着我们要谈论你停止的时候"
     },
     {
         "start": 29.56,
         "end": 32.08,
         "english": "working when you're 63 or 65.",
-        "chinese": "工作到63岁或65岁。"
+        "chinese": "六十多岁还在工作。"
     },
     {
         "start": 32.08,
         "end": 33.96,
         "english": "How do you save money for that?",
-        "chinese": "你打算怎么省钱？"
+        "chinese": "你打算怎么省钱呢？"
     },
     {
         "start": 33.96,
         "end": 36.879999999999995,
         "english": "And the phrase we've got here is retirement plan.",
-        "chinese": "我们这里使用的短语是退休计划。"
+        "chinese": "这里的短语是退休计划。"
     },
     {
         "start": 36.879999999999995,
         "end": 39.519999999999996,
         "english": "Alright, so a retirement plan.",
-        "chinese": "好的，所以是一个退休计划。"
+        "chinese": "好的，就是退休计划。"
     },
     {
         "start": 39.519999999999996,
         "end": 44.48,
         "english": "So as you say that's some money that you have for when you retire, when you're 65, when",
-        "chinese": "所以你说那是你退休时的钱，当你65岁的时候。"
+        "chinese": "所以你说那是你退休时（即）65岁时的积蓄，是吗？"
     },
     {
         "start": 44.48,
         "end": 46.480000000000004,
         "english": "you're too old maybe to work.",
-        "chinese": "你可能太老了，不适合工作。"
+        "chinese": "你已经太老了，可能不适合工作。"
     },
     {
         "start": 46.480000000000004,
         "end": 48.36,
         "english": "Exactly and there are many different kinds.",
-        "chinese": "的确，有许多不同的种类。"
+        "chinese": "Exactly,并且种类很多。"
     },
     {
         "start": 48.36,
         "end": 50.96,
         "english": "We're going to hear about one that's called a 401K.",
-        "chinese": "我们要听一个叫做 401(k) 的。"
+        "chinese": "我们将听到关于一种叫做401K的。"
     },
     {
         "start": 50.96,
         "end": 53.08,
         "english": "But we'll talk about that in a minute.",
-        "chinese": "但是我们稍后谈谈这个问题。"
+        "chinese": "但稍后我们再谈。"
     },
     {
         "start": 53.08,
         "end": 54.76,
         "english": "First, let's listen to today's dialogue.",
-        "chinese": "首先，让我们听听今天的对话。"
+        "chinese": "首先，让我们听今天的对话。"
     },
     {
         "start": 59.56,
         "end": 66.0,
         "english": "Well, that was an interesting documentary.",
-        "chinese": "那真是个有趣的纪录片。"
+        "chinese": "这是一部有趣的纪录片。"
     },
     {
         "start": 66.0,
@@ -117,55 +117,55 @@
         "start": 67.0,
         "end": 71.0,
         "english": "I didn't really understand some of the technical jargon they used in the film when they talked",
-        "chinese": "我不太明白他们在电影中使用的某些技术术语。"
+        "chinese": "我对电影中他们使用的某些技术术语并没有完全理解"
     },
     {
         "start": 71.0,
         "end": 73.48,
         "english": "about social security in the US.",
-        "chinese": "美国的社会保障问题。"
+        "chinese": "关于美国的社会保障。"
     },
     {
         "start": 73.48,
         "end": 74.48,
         "english": "Like what?",
-        "chinese": "就像这样？"
+        "chinese": "那是什么？"
     },
     {
         "start": 74.48,
         "end": 79.48,
         "english": "Well, they mentioned how people put away money in something called a 401K.",
-        "chinese": "好吧，他们提到了人们把钱存入了叫做 401K 的东西。"
+        "chinese": "嗯，他们提到了人们把钱存放在被称为401K的东西里。"
     },
     {
         "start": 79.48,
         "end": 85.36,
         "english": "Yeah, I know it sounds weird, but a 401K is a type of retirement plan that allows employees",
-        "chinese": "是的，我知道听起来很奇怪，但401(k)是一种退休储蓄计划，允许员工"
+        "chinese": "是的，听起来有点奇怪，但401K是一种允许员工参与的退休计划"
     },
     {
         "start": 85.36,
         "end": 88.4,
         "english": "to save and invest for their own retirement.",
-        "chinese": "为自己的退休储蓄和投资。"
+        "chinese": "为自己养老储蓄并投资。"
     },
     {
         "start": 88.4,
         "end": 92.88000000000001,
         "english": "To a 401K, you can authorize your employer to deduct a certain amount of money from your",
-        "chinese": "对 401(k) 账户，你可以授权你的雇主从你的账户中扣除一定金额的款项。"
+        "chinese": "到401K，你可以授权你的雇主从你的工资中扣除一定数额的钱"
     },
     {
         "start": 92.88000000000001,
         "end": 96.60000000000001,
         "english": "paycheck and invest it in the 401K plan.",
-        "chinese": "薪水存入401K计划。"
+        "chinese": "工资卡并投资到401K计划中。"
     },
     {
         "start": 96.60000000000001,
         "end": 101.12,
         "english": "Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully",
-        "chinese": "每个人都尽力贡献，这样你退休后可以安心休息"
+        "chinese": "每个人都尽力贡献尽可能多的力量，以便退休时能够安详地休息。"
     },
     {
         "start": 101.12,
@@ -177,19 +177,19 @@
         "start": 102.92,
         "end": 105.96000000000001,
         "english": "That's interesting and logical, I guess.",
-        "chinese": "那挺有意思的，我觉得。"
+        "chinese": "这有趣且有逻辑，我想。"
     },
     {
         "start": 105.96000000000001,
         "end": 111.04,
         "english": "In my country, we also have to contribute to a government-run retirement fund.",
-        "chinese": "在我们国家，我们也必须为政府管理的退休金做出贡献。"
+        "chinese": "在我的国家，我们也必须贡献到一个政府运营的退休基金中。"
     },
     {
         "start": 111.04,
         "end": 115.24000000000001,
         "english": "But most people don't really trust it, so they just invest in properties or things like",
-        "chinese": "但大多数人并不真正相信它，所以他们只是投资房产或其他类似的东西。"
+        "chinese": "但大多数人其实并不信任它，所以他们只是投资于房产或其他类似的东西"
     },
     {
         "start": 115.24000000000001,
@@ -201,139 +201,139 @@
         "start": 116.24,
         "end": 118.96,
         "english": "It seems a bit unstable, don't you think?",
-        "chinese": "看起来有点不稳定，不是吗？"
+        "chinese": "看起来有些不稳定，不是吗？"
     },
     {
         "start": 118.96,
         "end": 124.52,
         "english": "Yeah, but corrupt governments in the past have created distrust among banks and financial",
-        "chinese": "是的，但过去的腐败政府导致银行和金融界对政府产生了不信任。"
+        "chinese": "是的，但过去腐败政府已经让银行和金融领域产生了不信任感"
     },
     {
         "start": 124.52,
         "end": 125.52,
         "english": "institutions.",
-        "chinese": "机构"
+        "chinese": "机构。"
     },
     {
         "start": 125.52,
         "end": 129.96,
         "english": "So, now people prefer to have money hidden in a jar or a piggy bank.",
-        "chinese": "所以，现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+        "chinese": "所以，现在人们更喜欢把钱藏在罐子里或者存钱罐里。"
     },
     {
         "start": 129.96,
         "end": 133.16,
         "english": "I've been thinking of doing that lately.",
-        "chinese": "我最近一直在想做那个。"
+        "chinese": "我最近一直在考虑这件事。"
     },
     {
         "start": 133.16,
         "end": 137.56,
         "english": "I don't want some banker to run off with my money.",
-        "chinese": "我不想要银行家把我的钱带走。"
+        "chinese": "我不希望有个银行家把我的钱拿走。"
     },
     {
         "start": 137.56,
         "end": 144.92,
         "english": "Alright, we're back from today's dialogue now.",
-        "chinese": "好的，我们现在结束了今天的对话。"
+        "chinese": "好了，今天的对话我们也已经结束了。"
     },
     {
         "start": 144.92,
         "end": 147.23999999999998,
         "english": "Some really interesting words and phrases there.",
-        "chinese": "那里有一些非常有趣的话和短语。"
+        "chinese": "那里有一些非常有趣的专业术语。"
     },
     {
         "start": 147.23999999999998,
         "end": 150.72,
         "english": "And as you said, this 401K, what is a 401K?",
-        "chinese": "而且正如你所说，这就是401K，什么是401K？"
+        "chinese": "而且正如你所说，这个401K是什么？"
     },
     {
         "start": 150.72,
         "end": 156.79999999999998,
         "english": "Well, I'm not sure about the details, honestly, but the 401K plan is a plan for workers,",
-        "chinese": "好吧，我不是很确定具体的细节，说实话，但401k计划是为工人设计的计划。"
+        "chinese": "嗯，具体细节我不太清楚，但401K计划是为工人设计的福利方案。"
     },
     {
         "start": 156.79999999999998,
         "end": 160.88,
         "english": "people who are young and working, to invest in their retirement.",
-        "chinese": "年轻人应该投资于他们的退休。"
+        "chinese": "年轻人投资退休"
     },
     {
         "start": 160.88,
         "end": 162.76,
         "english": "So, it's a way to save money.",
-        "chinese": "所以，这是一种省钱的方法。"
+        "chinese": "所以，也是一种省钱的方式。"
     },
     {
         "start": 162.76,
         "end": 166.39999999999998,
         "english": "So every day they put a little bit of money towards this plan.",
-        "chinese": "所以每天他们都会为这个计划存一点钱。"
+        "chinese": "所以每天他们都会往这个计划里投入一点钱。"
     },
     {
         "start": 166.39999999999998,
         "end": 170.51999999999998,
         "english": "And in the end, when they retire, they will have a certain amount of money that they can",
-        "chinese": "最终，当他们退休时，他们会有一笔可以使用的资金。"
+        "chinese": "到最后，他们退休时将有一笔钱可以"
     },
     {
         "start": 170.51999999999998,
         "end": 173.0,
         "english": "use throughout their seniorhood.",
-        "chinese": "在整个他们的老年期间。"
+        "chinese": "在他们的高位上使用。"
     },
     {
         "start": 173.0,
         "end": 174.0,
         "english": "Exactly.",
-        "chinese": "准确。"
+        "chinese": "Exactly."
     },
     {
         "start": 174.48,
         "end": 178.56,
         "english": "Before we have this conversation, which starts with a documentary, so they're learning",
-        "chinese": "在我们进行这次对话之前，它始于一部纪录片，所以他们正在学习。"
+        "chinese": "在我们开始这次对话之前，这是一个纪录片开头，所以他们正在学习。"
     },
     {
         "start": 178.56,
         "end": 181.04,
         "english": "about 401Ks.",
-        "chinese": "大约的401(k)。"
+        "chinese": "约40.1万"
     },
     {
         "start": 181.04,
         "end": 184.76,
         "english": "And in this case, the person says that they didn't understand a lot because there was",
-        "chinese": "在这种情况下，这个人说他们没理解很多是因为有"
+        "chinese": "而在这个情况下，对方说他们不明白很多是因为有"
     },
     {
         "start": 184.76,
         "end": 186.76,
         "english": "a lot of technical jargon.",
-        "chinese": "大量的技术术语。"
+        "chinese": "很多专业术语。"
     },
     {
         "start": 186.76,
         "end": 192.44,
         "english": "Alright, so this word jargon, jargon, it's very similar to slang, right?",
-        "chinese": "好的，所以这个词的行话，行话，它和俚语非常相似？"
+        "chinese": "好的，那么这词组行话，行话，和俚语很相似吧？"
     },
     {
         "start": 192.44,
         "end": 193.44,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 193.44,
         "end": 199.28,
         "english": "And it's a special kind of talking or special words related to a certain topic.",
-        "chinese": "而且这是一种特别的交流方式或与某个特定主题相关的特殊词汇。"
+        "chinese": "并且这是一种特殊类型的交谈或与某一主题相关的特别用词。"
     },
     {
         "start": 199.28,
@@ -345,7 +345,7 @@
         "start": 200.68,
         "end": 203.52,
         "english": "For example, you hear a lot of business jargon, right?",
-        "chinese": "例如，你听到很多商业术语，是吧？"
+        "chinese": "例如，你经常听到很多商业术语，是吗？"
     },
     {
         "start": 203.52,
@@ -357,13 +357,13 @@
         "start": 204.52,
         "end": 210.48000000000002,
         "english": "Yeah, when people start talking about, you know, POPs and POS and like all that jargon.",
-        "chinese": "是的，当人们开始谈论 POPs 和 POS 这种术语时。"
+        "chinese": "是的，当人们开始谈论POP和POS以及所有那些行话时。"
     },
     {
         "start": 210.48000000000002,
         "end": 211.48000000000002,
         "english": "I'm not sure.",
-        "chinese": "我还不知道。"
+        "chinese": "我不确定。"
     },
     {
         "start": 211.48000000000002,
@@ -381,19 +381,19 @@
         "start": 213.48000000000002,
         "end": 216.08,
         "english": "Well, jargon then is a special language for a certain industry or field.",
-        "chinese": "好吧，术语就是一种特定行业的特殊语言。"
+        "chinese": "嗯，术语嘛，则是某一行业或领域的特殊语言。"
     },
     {
         "start": 216.08,
         "end": 220.48000000000002,
         "english": "And in this case, we're learning about financial jargon and investment jargon.",
-        "chinese": "而且，我们现在在学习金融术语和投资术语。"
+        "chinese": "而在此情况下，我们学习的是金融术语和投资术语。"
     },
     {
         "start": 220.48000000000002,
         "end": 225.32,
         "english": "So we're talking about 401Ks and funds and all that stuff.",
-        "chinese": "所以，我们谈论的是 401(k) 和基金之类的东西。"
+        "chinese": "所以我们聊的是401K和基金这些东西。"
     },
     {
         "start": 225.32,
@@ -405,13 +405,13 @@
         "start": 226.32,
         "end": 227.32,
         "english": "Okay, very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的，非常好。"
     },
     {
         "start": 227.32,
         "end": 233.68,
         "english": "Now when they were talking about the 401K, he explained how they deduct money to put",
-        "chinese": "现在当他们谈论401(k)时，他解释了他们如何扣除钱来存入"
+        "chinese": "现在谈到401K时，他解释了他们是如何扣除钱来存的。"
     },
     {
         "start": 233.68,
@@ -423,25 +423,25 @@
         "start": 234.95999999999998,
         "end": 239.32,
         "english": "Well, the question is who deducts money and where does it all go?",
-        "chinese": "好吧，问题是是谁扣除钱以及这笔钱都去哪了？"
+        "chinese": "那么问题是扣除的是谁的钱，这笔钱又都去哪儿了？"
     },
     {
         "start": 239.32,
         "end": 241.6,
         "english": "And so to deduct means to take away.",
-        "chinese": "所以，减去的意思是拿走。"
+        "chinese": "而扣除的意思就是取走。"
     },
     {
         "start": 241.6,
         "end": 247.16,
         "english": "And this means in a 401K plan, the government will deduct money from your paycheck and put",
-        "chinese": "这意味着在401(k)计划中，政府会从你的工资中扣除并存入。"
+        "chinese": "而这意味着在401K计划中，政府将从你的工资中扣除资金并存入"
     },
     {
         "start": 247.16,
         "end": 252.0,
         "english": "it into a special savings plan for you that you can access when you're retired.",
-        "chinese": "将其转化为一个为你量身定制的储蓄计划，你可以在退休时访问。"
+        "chinese": "为你特设一个退休时可以使用的专项储蓄计划。"
     },
     {
         "start": 252.0,
@@ -453,19 +453,19 @@
         "start": 253.0,
         "end": 256.71999999999997,
         "english": "So to deduct means to take away, to take out, right?",
-        "chinese": "所以减去的意思就是拿走、拿出，对吧？"
+        "chinese": "所以“扣除”就是减去的意思，对吗？"
     },
     {
         "start": 256.72,
         "end": 257.72,
         "english": "Exactly.",
-        "chinese": "确切地。"
+        "chinese": "Exactly."
     },
     {
         "start": 257.72,
         "end": 260.92,
         "english": "So subtract deduct, take away, take out.",
-        "chinese": "所以减去扣除，取出。"
+        "chinese": "那么减去，扣除，取走。"
     },
     {
         "start": 260.92,
@@ -483,13 +483,13 @@
         "start": 262.92,
         "end": 267.44000000000005,
         "english": "And as they kept talking about money issues, the woman said that people in her country distrust",
-        "chinese": "当他们谈论钱的问题时，那位妇女说她的国家的人对人持怀疑态度。"
+        "chinese": "而她们聊着钱的问题时，那位女士说她国家的人不信任"
     },
     {
         "start": 267.44000000000005,
         "end": 270.52000000000004,
         "english": "banks and financial institutions.",
-        "chinese": "银行和金融机构"
+        "chinese": "银行和金融机构。"
     },
     {
         "start": 270.52000000000004,
@@ -501,31 +501,31 @@
         "start": 271.52000000000004,
         "end": 273.72,
         "english": "So you might recognize a word there.",
-        "chinese": "所以你可能在那里认出一个单词。"
+        "chinese": "那么你可能会认出其中的某个词。"
     },
     {
         "start": 273.72,
         "end": 275.24,
         "english": "Distrust, trust.",
-        "chinese": "猜疑，信任。"
+        "chinese": "怀疑，信任。"
     },
     {
         "start": 275.24,
         "end": 276.64000000000004,
         "english": "They have the same root.",
-        "chinese": "它们有共同的根源。"
+        "chinese": "他们同出一源。"
     },
     {
         "start": 276.64000000000004,
         "end": 279.84000000000003,
         "english": "And so to trust someone is to believe in them and to believe what they say.",
-        "chinese": "于是相信某人就等于相信他们并且相信他们的言行。"
+        "chinese": "而信任他人，则是相信他们并相信他们的说法。"
     },
     {
         "start": 279.84000000000003,
         "end": 283.52000000000004,
         "english": "But to distrust means to think what they're saying is a lie.",
-        "chinese": "但怀疑意味着认为他们说的话是谎言。"
+        "chinese": "但怀疑就是认为他们说的是谎言。"
     },
     {
         "start": 283.52000000000004,
@@ -537,37 +537,37 @@
         "start": 284.52000000000004,
         "end": 285.84000000000003,
         "english": "So you don't really believe that person.",
-        "chinese": "所以你并不真的相信那个人。"
+        "chinese": "所以你其实并不相信那个人。"
     },
     {
         "start": 285.84,
         "end": 286.84,
         "english": "No.",
-        "chinese": "不。"
+        "chinese": "不"
     },
     {
         "start": 286.84,
         "end": 291.88,
         "english": "So if someone says, trust me, I will take your money and I won't spend it.",
-        "chinese": "所以，如果有人说“相信我，我会把你的钱拿走并不会花掉”，那么这句话实际上是在表达一种承诺。"
+        "chinese": "所以如果有人说，相信我，我会收你的钱而且不会花。"
     },
     {
         "start": 291.88,
         "end": 294.08,
         "english": "You say, I distrust this person.",
-        "chinese": "你说我怀疑这个人。"
+        "chinese": "你说，我不信任这个人。"
     },
     {
         "start": 294.08,
         "end": 295.96,
         "english": "I mean, I don't trust.",
-        "chinese": "我意思是，我不信任。"
+        "chinese": "我不太信任。"
     },
     {
         "start": 295.96,
         "end": 296.96,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 296.96,
@@ -579,7 +579,7 @@
         "start": 297.96,
         "end": 302.4,
         "english": "And well, why do they distrust at these institutions because the government is a bit corrupt?",
-        "chinese": "而且，为什么他们对这些机构不信任是因为政府有点腐败？"
+        "chinese": "而为何他们对这些机构存有疑虑，因为政府稍微有些腐败？"
     },
     {
         "start": 302.4,
@@ -591,67 +591,67 @@
         "start": 303.4,
         "end": 306.2,
         "english": "So you hear this word a lot in the news or in the newspaper.",
-        "chinese": "所以你在新闻里或报纸上经常听到这个词。"
+        "chinese": "所以你在新闻或报纸上经常听到这个词。"
     },
     {
         "start": 306.2,
         "end": 309.52,
         "english": "You can have a corrupt government or a corrupt politician.",
-        "chinese": "你可以有一个腐败的政府，也可以有腐败的政治家。"
+        "chinese": "你可以有一个腐败的政府，或者一个腐败的政治家。"
     },
     {
         "start": 309.52,
         "end": 315.64,
         "english": "That means that the government does things but says it doesn't and maybe it's dishonest.",
-        "chinese": "这意味着政府做了事情但说没有做，也许它是不诚实的。"
+        "chinese": "这意味着政府做事但说不做，也许它是不诚实的。"
     },
     {
         "start": 315.64,
         "end": 316.64,
         "english": "That's distrustful.",
-        "chinese": "那是不信任。"
+        "chinese": "那就有疑虑了。"
     },
     {
         "start": 316.64,
         "end": 317.64,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 317.64,
         "end": 323.44,
         "english": "So for example, a corrupt politician will support a law that's not really good but maybe he's",
-        "chinese": "例如，一个腐败的政治家可能会支持一个法律，尽管它并不真正好，但他可能只是因为某些原因支持它。"
+        "chinese": "所以比如，一个贪腐的政治家会支持一条其实并不好的法律，但他可能认为对他是有利的"
     },
     {
         "start": 323.44,
         "end": 325.4,
         "english": "being paid by somebody else.",
-        "chinese": "被别人支付。"
+        "chinese": "由某人支付薪酬"
     },
     {
         "start": 325.4,
         "end": 331.47999999999996,
         "english": "Or a corrupt politician will take money from the government institutions to use for himself",
-        "chinese": "或者一个腐败的政治家会从政府机构那里拿钱来用在自己身上"
+        "chinese": "或者一个腐败的政治家会接受政府机构的钱来自己使用"
     },
     {
         "start": 331.47999999999996,
         "end": 333.47999999999996,
         "english": "and not for the country or the people.",
-        "chinese": "并且不是为了国家或人民。"
+        "chinese": "并且不是为了国家和人民。"
     },
     {
         "start": 333.47999999999996,
         "end": 334.47999999999996,
         "english": "That's right.",
-        "chinese": "那是对的。"
+        "chinese": "没错。"
     },
     {
         "start": 334.47999999999996,
         "end": 337.24,
         "english": "Corrupt government then.",
-        "chinese": "腐败的政府。"
+        "chinese": "腐败政府然后。"
     },
     {
         "start": 337.24,
@@ -675,13 +675,13 @@
         "start": 340.24,
         "end": 343.44,
         "english": "So why don't we listen to our dialogue again and we'll be back soon with Fluency Builder.",
-        "chinese": "所以，为什么不再次聆听我们的对话，并很快我们会回来，这次是用流利 builder。"
+        "chinese": "所以我们再听一遍对话，很快我们就会回来介绍《流利构建单元》。"
     },
     {
         "start": 345.64,
         "end": 351.2,
         "english": "Well, that was an interesting documentary.",
-        "chinese": "那真是一个有趣的纪录片。"
+        "chinese": "这是一部有趣的纪录片。"
     },
     {
         "start": 351.2,
@@ -693,85 +693,85 @@
         "start": 352.2,
         "end": 356.2,
         "english": "I didn't really understand some of the technical jargon they used in the film when they talked",
-        "chinese": "我不太明白他们在电影中使用的某些技术术语。"
+        "chinese": "我对电影中他们使用的某些技术术语并没有完全理解"
     },
     {
         "start": 356.2,
         "end": 358.2,
         "english": "about Social Security in the US.",
-        "chinese": "美国的社会保障。"
+        "chinese": "关于美国的社会保障。"
     },
     {
         "start": 358.2,
         "end": 359.47999999999996,
         "english": "And like what?",
-        "chinese": "就像什么？"
+        "chinese": "那是什么？"
     },
     {
         "start": 359.47999999999996,
         "end": 364.44,
         "english": "Well, they mentioned how people put away money in something called a 401K.",
-        "chinese": "他们提到人们把钱存入了被称为401K的东西。"
+        "chinese": "嗯，他们提到了人们把钱存放在被称为401K的东西里。"
     },
     {
         "start": 364.44,
         "end": 365.44,
         "english": "Yeah.",
-        "chinese": "是的。"
+        "chinese": "嗯。"
     },
     {
         "start": 365.44,
         "end": 370.32,
         "english": "I know it sounds weird but a 401K is a type of retirement plan that allows employees",
-        "chinese": "我知道听起来很奇怪，但401(k)是一种允许员工的退休储蓄计划。"
+        "chinese": "我知道這聽起來怪怪的，但401K是一種退休計畫，允許員工"
     },
     {
         "start": 370.32,
         "end": 373.32,
         "english": "to save and invest for their own retirement.",
-        "chinese": "为自己的退休储蓄和投资。"
+        "chinese": "为自己养老储蓄并投资。"
     },
     {
         "start": 373.32,
         "end": 377.84,
         "english": "Through a 401K you can authorize your employer to deduct a certain amount of money from your",
-        "chinese": "通过401(k)，你可以授权你的雇主从你的账户中扣除一定金额的款项。"
+        "chinese": "通过401K，你可以授权你的雇主从你的工资中扣除一定数额的钱"
     },
     {
         "start": 377.84,
         "end": 381.56,
         "english": "paycheck and invest it in the 401K plan.",
-        "chinese": "工资和投资到401K计划中。"
+        "chinese": "工资卡并投资到401K计划中。"
     },
     {
         "start": 381.56,
         "end": 386.08,
         "english": "Everyone tries to contribute as much as possible so that when you retire you can rest peacefully",
-        "chinese": "每个人都尽力贡献，这样你退休后就可以安心休息了"
+        "chinese": "每个人都尽力贡献尽可能多，这样退休时可以安详休息"
     },
     {
         "start": 386.08,
         "end": 387.88,
         "english": "on your nest egg.",
-        "chinese": "你的退休金。"
+        "chinese": "在你的积蓄中。"
     },
     {
         "start": 387.88,
         "end": 390.92,
         "english": "That's interesting and logical, I guess.",
-        "chinese": "那挺有意思的，我觉得。"
+        "chinese": "这有趣且有逻辑，我想。"
     },
     {
         "start": 390.92,
         "end": 396.24,
         "english": "In my country we also have to contribute to a government run retirement fund but most",
-        "chinese": "在我们国家，我们也必须为政府管理的退休金做出贡献。"
+        "chinese": "在我的国家，我们也必须贡献到一个政府运营的退休基金，但大多数"
     },
     {
         "start": 396.24,
         "end": 401.12,
         "english": "people don't really trust it so they just invest in properties or things like that.",
-        "chinese": "人们并不真正信任它，所以他们只是投资房产或其他类似的东西。"
+        "chinese": "人们其实并不信任，因此他们只是投资于房产或其他类似的东西。"
     },
     {
         "start": 401.12,
@@ -783,79 +783,79 @@
         "start": 403.84000000000003,
         "end": 409.84000000000003,
         "english": "Yeah, but corrupt governments in the past have created distrust among banks and financial",
-        "chinese": "是的，但过去的腐败政府已经导致银行和金融机构之间产生了不信任。"
+        "chinese": "是的，但过去腐败政府已经让银行和金融领域产生了 mistrust。"
     },
     {
         "start": 409.84000000000003,
         "end": 410.84000000000003,
         "english": "institutions.",
-        "chinese": "机构"
+        "chinese": "机构。"
     },
     {
         "start": 410.84000000000003,
         "end": 414.96,
         "english": "So now people prefer to have money hidden in a jar or a piggy bank.",
-        "chinese": "所以现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+        "chinese": "所以现在人们更喜欢把钱藏在罐子里或者存钱罐里。"
     },
     {
         "start": 414.96,
         "end": 418.12,
         "english": "I've been thinking of doing that lately.",
-        "chinese": "我最近一直在考虑做那个。"
+        "chinese": "我最近一直在考虑这么做。"
     },
     {
         "start": 418.12,
         "end": 421.12,
         "english": "I don't want some banker to run off with my money.",
-        "chinese": "我不希望银行家拿走我的钱。"
+        "chinese": "我不希望有个银行家把我的钱拿走。"
     },
     {
         "start": 421.12,
         "end": 425.64,
         "english": "Alright, we're back to our Fluency Builder.",
-        "chinese": "好的，我们又回到了流利 builder。"
+        "chinese": "好的，我们回到流利构建单元。"
     },
     {
         "start": 425.64,
         "end": 427.72,
         "english": "We're going to look at three phrases.",
-        "chinese": "我们将看看三个短语。"
+        "chinese": "我们将要看看三个短语。"
     },
     {
         "start": 427.72,
         "end": 430.8,
         "english": "So let's look at them now.",
-        "chinese": "那么，我们现在来看看它们。"
+        "chinese": "那么我们现在就来看它们。"
     },
     {
         "start": 431.8,
         "end": 436.40000000000003,
         "english": "Okay, this first phrase is what the entire dialogue is about.",
-        "chinese": "好的，这是整个对话的核心内容。"
+        "chinese": "好的，这句话就是整个对话的核心所在。"
     },
     {
         "start": 436.40000000000003,
         "end": 438.8,
         "english": "It's about putting away money.",
-        "chinese": "关于存钱的事。"
+        "chinese": "这是存钱的事。"
     },
     {
         "start": 438.8,
         "end": 440.28000000000003,
         "english": "So to put it away.",
-        "chinese": "所以收起来。"
+        "chinese": "那就收起来吧。"
     },
     {
         "start": 440.28000000000003,
         "end": 445.64,
         "english": "Okay, so to put money away, that's in equivalent of saving, right?",
-        "chinese": "好吧，存钱就是储蓄的意思。"
+        "chinese": "好的，把钱存起来，这相当于储蓄，对吗？"
     },
     {
         "start": 445.64,
         "end": 446.64,
         "english": "Exactly.",
-        "chinese": "确切地。"
+        "chinese": "Exactly."
     },
     {
         "start": 446.64,
@@ -867,31 +867,31 @@
         "start": 447.64,
         "end": 452.68,
         "english": "So in this case, to put away is a fixed phrase, these words that go together very often.",
-        "chinese": "在这种情况下，把东西收起来是一个固定短语，这些经常在一起使用的词。"
+        "chinese": "所以在此情况下，put away 是一个固定短语，这些词经常一起使用。"
     },
     {
         "start": 452.68,
         "end": 453.68,
         "english": "It means to save.",
-        "chinese": "意思是保存。"
+        "chinese": "这意味着节省。"
     },
     {
         "start": 453.68,
         "end": 457.12,
         "english": "So you could say, oh yeah, last year I put away $1,000.",
-        "chinese": "所以你可以说，哦，去年我存了 1000 美元。"
+        "chinese": "这么说来，去年我存了1000美元。"
     },
     {
         "start": 457.12,
         "end": 459.32,
         "english": "Okay, so you saved $1,000.",
-        "chinese": "好的，你节省了 1000 美元。"
+        "chinese": "好的，你节省了1000美元。"
     },
     {
         "start": 459.32,
         "end": 460.32,
         "english": "Exactly.",
-        "chinese": "没错。"
+        "chinese": "Exactly."
     },
     {
         "start": 460.32,
@@ -903,73 +903,73 @@
         "start": 461.32,
         "end": 463.32,
         "english": "And why are we putting all this money away?",
-        "chinese": "为什么我们要把这些钱都存起来？"
+        "chinese": "我们为什么要把这么多钱存起来？"
     },
     {
         "start": 463.32,
         "end": 465.32,
         "english": "We're trying to build a nest egg.",
-        "chinese": "我们正在努力储蓄。"
+        "chinese": "我们正在积攒一笔积蓄。"
     },
     {
         "start": 465.32,
         "end": 466.8,
         "english": "Now, this is a funny phrase.",
-        "chinese": "现在，这是个有趣的短语。"
+        "chinese": "现在这话有点儿意思。"
     },
     {
         "start": 466.8,
         "end": 467.8,
         "english": "That is funny.",
-        "chinese": "那挺逗的。"
+        "chinese": "那真是有趣。"
     },
     {
         "start": 467.8,
         "end": 469.56,
         "english": "A nest is a home for a bird.",
-        "chinese": "巢是鸟的家。"
+        "chinese": "一个巢是鸟的家。"
     },
     {
         "start": 469.56,
         "end": 472.08,
         "english": "You know, it's made of sticks and twigs and leaves.",
-        "chinese": "你知道，它是由树枝、小枝和叶子制成的。"
+        "chinese": "你知道，它是用树枝、树叶和草编成的。"
     },
     {
         "start": 472.08,
         "end": 473.08,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 473.08,
         "end": 477.71999999999997,
         "english": "And a nest egg then has to do with a bird's eggs in the nest.",
-        "chinese": "然后，一个储蓄账户就与鸟巢中的鸟蛋有关。"
+        "chinese": "然后，积蓄就与巢中的鸟蛋有关。"
     },
     {
         "start": 477.71999999999997,
         "end": 483.36,
         "english": "Well, I don't know where it comes from, but it does mean money that you've saved up for",
-        "chinese": "嗯，我不太清楚它从哪里来，但它确实意味着你已经为这笔钱储备了多少钱。"
+        "chinese": "但是我不知道这是从哪里来的，但它确实是指你存起来的钱"
     },
     {
         "start": 483.36,
         "end": 485.12,
         "english": "some date in the future.",
-        "chinese": "某一天的将来。"
+        "chinese": "未来某日。"
     },
     {
         "start": 485.12,
         "end": 487.48,
         "english": "So you could say, I'm trying to grow a nest egg.",
-        "chinese": "所以你可以这么说，我正在努力存钱。"
+        "chinese": "你可以这么说，我正在积攒一笔积蓄。"
     },
     {
         "start": 487.48,
         "end": 491.8,
         "english": "I'm trying to build a nest egg so that in 10 years, I can buy a house.",
-        "chinese": "我正在努力攒钱，以便在十年后我可以买得起房子。"
+        "chinese": "我正在攒一笔 nest egg ，以便在十年后买房子。"
     },
     {
         "start": 491.8,
@@ -981,37 +981,37 @@
         "start": 492.8,
         "end": 493.96000000000004,
         "english": "So it's not only for retirement.",
-        "chinese": "所以，它不仅仅是为了退休。"
+        "chinese": "所以这不只是为了退休。"
     },
     {
         "start": 493.96000000000004,
         "end": 498.28000000000003,
         "english": "You can build a nest egg to possibly invest it in the future and to buying a house.",
-        "chinese": "你可以建立一个储蓄账户，也许将来可以投资它，并且为了购买房子。"
+        "chinese": "你可以积攒一笔存款，或许将来可以投资或者用来买房。"
     },
     {
         "start": 498.28000000000003,
         "end": 499.28000000000003,
         "english": "Exactly.",
-        "chinese": "确切地。"
+        "chinese": "Exactly."
     },
     {
         "start": 499.28000000000003,
         "end": 500.72,
         "english": "It's your savings that you don't touch.",
-        "chinese": "那是你的储蓄，你从未动过。"
+        "chinese": "这是你不去触碰的储蓄。"
     },
     {
         "start": 500.72,
         "end": 503.0,
         "english": "So I could say, I'm going to kill you.",
-        "chinese": "所以我可以说，我要杀了你。"
+        "chinese": "所以我可以说，我要置你于死地。"
     },
     {
         "start": 503.0,
         "end": 504.24,
         "english": "You spent the nest egg.",
-        "chinese": "你挥霍了积蓄。"
+        "chinese": "你把积蓄都花光了。"
     },
     {
         "start": 504.24,
@@ -1023,13 +1023,13 @@
         "start": 505.24,
         "end": 506.24,
         "english": "That's not for spending.",
-        "chinese": "那不是用来花销的。"
+        "chinese": "那不是用来花的。"
     },
     {
         "start": 506.24,
         "end": 507.24,
         "english": "It's for saving.",
-        "chinese": "是为了拯救。"
+        "chinese": "它是为了节省。"
     },
     {
         "start": 507.24,
@@ -1041,73 +1041,73 @@
         "start": 508.24,
         "end": 510.8,
         "english": "And well, where can you save money for your nest egg?",
-        "chinese": "而且，你在哪里存钱来养你的退休金？"
+        "chinese": "那么，你又哪里可以为自己的养老基金省钱呢？"
     },
     {
         "start": 510.8,
         "end": 513.28,
         "english": "It's very popular to put it in a piggy bank.",
-        "chinese": "把它存进存钱罐里非常流行。"
+        "chinese": "把它存到储蓄罐里很流行。"
     },
     {
         "start": 513.28,
         "end": 515.64,
         "english": "Well, maybe if you're five years old.",
-        "chinese": "好吧，也许如果你五岁。"
+        "chinese": "嗯，也许你五岁的时候。"
     },
     {
         "start": 516.48,
         "end": 519.36,
         "english": "I don't know if I'd put a lot of money in a piggy bank.",
-        "chinese": "我不确定我是否会在存钱罐里放很多钱。"
+        "chinese": "我不知道我会不会把很多钱放在储蓄罐里。"
     },
     {
         "start": 519.36,
         "end": 522.76,
         "english": "Piggy bank is usually a ceramic pig.",
-        "chinese": "存钱罐通常是一个陶瓷猪。"
+        "chinese": "猪槽通常是一个陶瓷猪。"
     },
     {
         "start": 522.76,
         "end": 523.76,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 523.76,
         "end": 526.36,
         "english": "It's got a hole in the top and you can put coins in the top.",
-        "chinese": "它顶部有一个洞，你可以把硬币放在上面。"
+        "chinese": "它顶部有孔，你可以往顶部放硬币。"
     },
     {
         "start": 526.36,
         "end": 527.36,
         "english": "Right, right, right.",
-        "chinese": "好的，好的，好的。"
+        "chinese": "对，对，对。"
     },
     {
         "start": 527.36,
         "end": 529.0,
         "english": "So we give these to children to teach them how to save.",
-        "chinese": "所以我们将这些给孩子们用来教育他们如何储蓄。"
+        "chinese": "所以我们免费赠送这些给他们，教他们如何储蓄。"
     },
     {
         "start": 529.0,
         "end": 531.3199999999999,
         "english": "How do they put one penny in every day?",
-        "chinese": "他们每天放进一枚硬币？"
+        "chinese": "他们是如何每天存一分钱的？"
     },
     {
         "start": 531.3199999999999,
         "end": 535.12,
         "english": "And then when they need the money or they want to spend it, they break the piggy bank.",
-        "chinese": "然后，当他们需要钱或者想花钱时，他们会打破储蓄罐。"
+        "chinese": "然后他们需要钱或者想要花钱时，才会打破储蓄罐。"
     },
     {
         "start": 535.12,
         "end": 536.12,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 536.12,
@@ -1119,7 +1119,7 @@
         "start": 537.68,
         "end": 543.16,
         "english": "It's sad because you realize, oh, now I don't have my piggy bank lost my nest egg.",
-        "chinese": "很可惜，你意识到，哦，现在我没有我的存钱罐了，也没有我的养老基金了。"
+        "chinese": "这让人伤心，因为你意识到，哦，现在我的存钱罐不见了，我的小金库也没了。"
     },
     {
         "start": 543.16,
@@ -1131,19 +1131,19 @@
         "start": 544.16,
         "end": 545.9599999999999,
         "english": "Why don't we listen to this dialogue again?",
-        "chinese": "为什么我们不再次聆听这段对话？"
+        "chinese": "我们为什么不听这段对话一次？"
     },
     {
         "start": 545.9599999999999,
         "end": 549.24,
         "english": "Let's keep a lookout for all these words and phrases and we'll be back shortly.",
-        "chinese": "让我们时刻留意这些词汇和短语，很快我们就会回来。"
+        "chinese": "让我们留意这些词汇和短语，我们很快就回来。"
     },
     {
         "start": 558.48,
         "end": 560.76,
         "english": "Well, that was an interesting documentary.",
-        "chinese": "那真是一个有趣的纪录片。"
+        "chinese": "这是一部有趣的纪录片。"
     },
     {
         "start": 560.76,
@@ -1155,61 +1155,61 @@
         "start": 561.92,
         "end": 565.88,
         "english": "I didn't really understand some of the technical jargon they used in the film when they talked",
-        "chinese": "我不太明白他们在电影中使用的一些技术术语。"
+        "chinese": "我对电影中他们使用的某些技术术语并没有完全理解"
     },
     {
         "start": 565.88,
         "end": 568.0799999999999,
         "english": "about social security in the US.",
-        "chinese": "美国的社会保障问题。"
+        "chinese": "关于美国的社会保障。"
     },
     {
         "start": 568.0799999999999,
         "end": 569.52,
         "english": "Like what?",
-        "chinese": "就像这样？"
+        "chinese": "那是什么？"
     },
     {
         "start": 569.52,
         "end": 574.16,
         "english": "Well, they mentioned how people put away money in something called a 401k.",
-        "chinese": "好吧，他们提到人们把钱存入了叫做 401k 的东西。"
+        "chinese": "嗯，他们提到了人们把钱存放在被称为401k的东西里。"
     },
     {
         "start": 574.16,
         "end": 575.16,
         "english": "Yeah.",
-        "chinese": "是的。"
+        "chinese": "嗯。"
     },
     {
         "start": 575.16,
         "end": 580.36,
         "english": "I know it sounds weird, but a 401k is a type of retirement plan that allows employees to",
-        "chinese": "我知道听起来很奇怪，但401(k)是一种允许员工的退休储蓄计划。"
+        "chinese": "我知道这话听起来怪异，但401k是一种退休计划类型，允许员工将其储蓄存入其中"
     },
     {
         "start": 580.36,
         "end": 583.24,
         "english": "save and invest for their own retirement.",
-        "chinese": "为自己的退休储蓄和投资。"
+        "chinese": "为自己养老储蓄并投资。"
     },
     {
         "start": 583.24,
         "end": 587.72,
         "english": "Through a 401k, you can authorize your employer to deduct a certain amount of money from your",
-        "chinese": "通过401(k)，你可以授权你的雇主从你的账户中扣除一定金额的款项。"
+        "chinese": "通过401k，你可以授权你的雇主从你的工资中扣除一定数额的钱"
     },
     {
         "start": 587.72,
         "end": 591.24,
         "english": "paycheck and invest it in the 401k plan.",
-        "chinese": "薪水存入401k计划。"
+        "chinese": "工资单拿来投资401k计划。"
     },
     {
         "start": 591.24,
         "end": 595.96,
         "english": "Everyone tries to contribute as much as possible so that when you retire, you can rest peacefully",
-        "chinese": "每个人都尽力贡献，这样当你退休时，你可以平静地休息。"
+        "chinese": "每个人都尽力贡献尽可能多的力量，以便退休时能够安详地休息。"
     },
     {
         "start": 595.96,
@@ -1221,55 +1221,55 @@
         "start": 597.76,
         "end": 600.8,
         "english": "It's interesting and logical, I guess.",
-        "chinese": "我觉得挺有趣也很合逻辑的。"
+        "chinese": "这有趣又合理，我想。"
     },
     {
         "start": 600.8,
         "end": 606.12,
         "english": "In my country, we also have to contribute to a government-run retirement fund, but most",
-        "chinese": "在我们国家，我们也必须为政府管理的退休金做出贡献，但大多数情况下。"
+        "chinese": "在我的国家，我们也必须贡献到一个政府运营的退休基金，但大多数"
     },
     {
         "start": 606.12,
         "end": 610.96,
         "english": "people don't really trust it so they just invest in properties or things like that.",
-        "chinese": "人们并不真正信任它，所以他们就投资房产或其他类似的东西。"
+        "chinese": "人们并不真正信任它，所以他们只是投资于房产或其他类似的东西。"
     },
     {
         "start": 610.96,
         "end": 613.84,
         "english": "That seems a bit unstable, don't you think?",
-        "chinese": "你是不是觉得有点不稳定？"
+        "chinese": "那似乎有点不稳定，不是吗？"
     },
     {
         "start": 613.84,
         "end": 619.4,
         "english": "Yeah, but corrupt governments in the past have created distrust among banks and financial",
-        "chinese": "是的，但过去的腐败政府已经导致银行和金融机构之间产生了不信任。"
+        "chinese": "是的，但过去腐败政府已经让银行和金融领域产生了不信任感"
     },
     {
         "start": 619.4,
         "end": 620.4,
         "english": "institutions.",
-        "chinese": "机构"
+        "chinese": "机构。"
     },
     {
         "start": 620.4,
         "end": 624.84,
         "english": "So now people prefer to have money hidden in a jar or a piggy bank.",
-        "chinese": "所以现在人们更喜欢把钱藏在罐子里或存钱罐里。"
+        "chinese": "所以现在人们更喜欢把钱藏在罐子里或者存钱罐里。"
     },
     {
         "start": 625.84,
         "end": 628.0400000000001,
         "english": "I've been thinking of doing that lately.",
-        "chinese": "我最近一直在考虑做那个。"
+        "chinese": "我最近一直在考虑这么做。"
     },
     {
         "start": 628.0400000000001,
         "end": 630.52,
         "english": "I don't want some banker to run off with my money.",
-        "chinese": "我不希望有人拿着我的钱跑路。"
+        "chinese": "我不希望有个银行家把我的钱拿走。"
     },
     {
         "start": 639.1600000000001,
@@ -1281,31 +1281,31 @@
         "start": 640.1600000000001,
         "end": 642.8000000000001,
         "english": "So this whole savings thing, are you good at saving?",
-        "chinese": "所以，这个存钱这件事，你擅长吗？"
+        "chinese": "那么这个储蓄的事情，你会吗？"
     },
     {
         "start": 642.8000000000001,
         "end": 645.9200000000001,
         "english": "Do you have your nest egg planned out for your retirement?",
-        "chinese": "你有没有为退休攒够了钱？"
+        "chinese": "你退休后的养老基金规划好了吗？"
     },
     {
         "start": 645.9200000000001,
         "end": 648.36,
         "english": "Nest egg, no, but I'm a compulsive saver.",
-        "chinese": "储蓄罐，不，但我是个强迫症的储户。"
+        "chinese": "储蓄罐，不，但我是个 compulsive saver。"
     },
     {
         "start": 648.36,
         "end": 649.36,
         "english": "Really?",
-        "chinese": "真的？"
+        "chinese": "真的吗？"
     },
     {
         "start": 649.36,
         "end": 650.36,
         "english": "To save a lot.",
-        "chinese": "为了节省很多。"
+        "chinese": "节省很多"
     },
     {
         "start": 650.36,
@@ -1317,49 +1317,49 @@
         "start": 651.36,
         "end": 652.36,
         "english": "Yeah.",
-        "chinese": "是的。"
+        "chinese": "嗯。"
     },
     {
         "start": 652.36,
         "end": 654.2800000000001,
         "english": "Because you never know when you're going to need money.",
-        "chinese": "因为你永远不会知道你需要钱的时候是什么时候。"
+        "chinese": "因为你永远不知道什么时候会需要钱。"
     },
     {
         "start": 654.28,
         "end": 660.6,
         "english": "And I think once you get a kind of an adult job, the nine to five job, it's important",
-        "chinese": "并且我认为，一旦你有了那种成人的工作，比如九点到五点的工作，那就很重要了"
+        "chinese": "而我认为一旦你获得一份成年工作，也就是所谓的朝九晚五的工作，这是很重要的"
     },
     {
         "start": 660.6,
         "end": 666.6,
         "english": "to spend as little as possible so that you can create a nest egg or some kind of savings",
-        "chinese": "为了尽可能少地花费，以便能存下一笔钱或者做一些储蓄。"
+        "chinese": "尽可能少花费以便建立储蓄或类似储蓄"
     },
     {
         "start": 666.6,
         "end": 670.76,
         "english": "account for the future because it'd be nice to have a car or a house someday.",
-        "chinese": "为了未来，因为有一天我希望拥有一辆汽车或房子。"
+        "chinese": "考虑未来，因为 someday 会有一辆车或者房子。"
     },
     {
         "start": 670.76,
         "end": 671.76,
         "english": "Right, right.",
-        "chinese": "好的，好的。"
+        "chinese": "对，对。"
     },
     {
         "start": 671.76,
         "end": 674.6,
         "english": "And also, as you say, unexpected things happen.",
-        "chinese": "而且，正如你说的那样，意外的事情发生了。"
+        "chinese": "而且，正如你说的，一些意料之外的事情会发生。"
     },
     {
         "start": 674.6,
         "end": 679.48,
         "english": "So something may happen, maybe you break your arm and you don't have any savings or maybe",
-        "chinese": "所以可能会发生什么，也许你摔断了胳膊，没有储蓄或者可能..."
+        "chinese": "所以可能会发生，比如你摔断了胳膊，又没有存款，"
     },
     {
         "start": 679.48,
@@ -1371,55 +1371,55 @@
         "start": 680.48,
         "end": 684.24,
         "english": "So at least you have some money stashed away where you can use it.",
-        "chinese": "所以至少你还有些钱可以用来用。"
+        "chinese": "至少你有一些钱存起来可以使用。"
     },
     {
         "start": 684.24,
         "end": 685.24,
         "english": "Really?",
-        "chinese": "真的？"
+        "chinese": "真的吗？"
     },
     {
         "start": 685.24,
         "end": 689.2,
         "english": "And I know that in America right now in the news, the credit crisis is very popular to",
-        "chinese": "而且我知道，現在在美國的報紙上，貨幣危機非常熱門。"
+        "chinese": "而我知道目前在美国新闻中，信用危机非常热门"
     },
     {
         "start": 689.2,
         "end": 690.2,
         "english": "talk about.",
-        "chinese": "谈论"
+        "chinese": "谈谈。"
     },
     {
         "start": 690.2,
         "end": 695.84,
         "english": "And so part of this economic situation is that people owe more money than they have.",
-        "chinese": "因此，这个经济状况的一部分就是人们欠的钱比他们有的多。"
+        "chinese": "而这种情况的一部分是人们欠的钱比他们拥有的多。"
     },
     {
         "start": 695.84,
         "end": 698.64,
         "english": "That means they spent more money than they own.",
-        "chinese": "这意味着他们比自己拥有的钱多花了。"
+        "chinese": "这意味着他们花的钱比他们拥有的多。"
     },
     {
         "start": 698.64,
         "end": 701.0,
         "english": "And so they don't have any savings.",
-        "chinese": "所以他们没有储蓄。"
+        "chinese": "而他们没有储蓄。"
     },
     {
         "start": 701.0,
         "end": 702.2,
         "english": "And that really scares me.",
-        "chinese": "那真的很让我害怕。"
+        "chinese": "那真的让我很害怕。"
     },
     {
         "start": 702.2,
         "end": 706.44,
         "english": "So I think it's a really smart idea to start investing as soon as you can.",
-        "chinese": "我认为从你开始能投资的时候就投资，这是一个非常聪明的想法。"
+        "chinese": "所以我认为尽早投资真是个明智的想法。"
     },
     {
         "start": 706.44,
@@ -1437,7 +1437,7 @@
         "start": 708.44,
         "end": 710.5600000000001,
         "english": "Why is a financial advice from EnglishPod.com?",
-        "chinese": "为什么来自英语通的财务建议？"
+        "chinese": "英语Pod.com的财务建议为什么？"
     },
     {
         "start": 710.5600000000001,
@@ -1449,24 +1449,24 @@
         "start": 711.5600000000001,
         "end": 712.5600000000001,
         "english": "All right.",
-        "chinese": "所有权利。"
+        "chinese": "好的。"
     },
     {
         "start": 712.56,
         "end": 715.64,
         "english": "Any questions, any doubts or any more financial questions?",
-        "chinese": "有任何问题、任何疑虑或关于财务的其他问题？"
+        "chinese": "有任何问题，任何疑问或更多财务方面的问题吗？"
     },
     {
         "start": 715.64,
         "end": 718.4399999999999,
         "english": "Please come to EnglishPod.com and we'll see you guys there.",
-        "chinese": "请来到英语有声网，我们会在那里见到你们。"
+        "chinese": "请来到英语pod.com，那里见。"
     },
     {
         "start": 718.4399999999999,
         "end": 719.4399999999999,
         "english": "Bye everyone.",
-        "chinese": "再见大家。"
+        "chinese": "再见 everyone。"
     }
 ]

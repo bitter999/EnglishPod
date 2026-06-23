@@ -3,25 +3,25 @@
         "start": 0.0,
         "end": 4.0,
         "english": "Hello everyone and welcome to EnglishPod.",
-        "chinese": "你好，大家和欢迎来到英语播客。"
+        "chinese": "大家好，欢迎来到英语pod。"
     },
     {
         "start": 4.0,
         "end": 5.0,
         "english": "My name is Marco.",
-        "chinese": "我的名字是Marco。"
+        "chinese": "我的名字是马可。"
     },
     {
         "start": 5.0,
         "end": 9.0,
         "english": "My name is Catherine and today we're talking about a very important topic.",
-        "chinese": "我的名字是凯特，今天我们要讨论一个非常重要的话题。"
+        "chinese": "我的名字是凯瑟琳，今天我们来谈谈一个非常重要的话题。"
     },
     {
         "start": 9.0,
         "end": 10.0,
         "english": "This is about time.",
-        "chinese": "这个关于时间。"
+        "chinese": "这正是时候。"
     },
     {
         "start": 10.0,
@@ -33,19 +33,19 @@
         "start": 11.0,
         "end": 17.0,
         "english": "So sometimes we are a little bit lazy or maybe we sleep too much and we're late to work",
-        "chinese": "英语：所以有时候我们有点懒惰或者可能睡眠时间太长，以至于工作迟到。"
+        "chinese": "所以有时候我们有点懒惰，或者可能睡得太久，上班迟到"
     },
     {
         "start": 17.0,
         "end": 18.0,
         "english": "or a meeting.",
-        "chinese": "或者，会议。"
+        "chinese": "或者会议。"
     },
     {
         "start": 18.0,
         "end": 21.0,
         "english": "Alright, so learn many different ways to talk about being late today.",
-        "chinese": "好的，今天学习各种方式谈论今天迟到。"
+        "chinese": "好的，今天学习多种说法来谈论迟到。"
     },
     {
         "start": 21.0,
@@ -57,283 +57,283 @@
         "start": 23.0,
         "end": 30.0,
         "english": "Okay everyone, shall we begin?",
-        "chinese": "大家好，我们该开始了吗？"
+        "chinese": "好的各位，我们开始吧。"
     },
     {
         "start": 30.0,
         "end": 32.0,
         "english": "Sorry Maggie, but we're missing a few people.",
-        "chinese": "对不起，Maggie。不过我们还有一些人没来。"
+        "chinese": "对不起，梅格，我们缺几个人。"
     },
     {
         "start": 32.0,
         "end": 33.0,
         "english": "Can we hang on a sec?",
-        "chinese": "是的，我们可以再等一会儿。"
+        "chinese": "我们能等等吗？"
     },
     {
         "start": 33.0,
         "end": 38.0,
         "english": "Well I did say 11 o'clock sharp and it's now 5 past so...",
-        "chinese": "我之前说过11点整，现在是5点了。"
+        "chinese": "Well我说了上午11点准点，现在已经是过了5分钟了..."
     },
     {
         "start": 38.0,
         "end": 41.0,
         "english": "Hi everyone, I'm so sorry I'm late.",
-        "chinese": "大家好，我非常抱歉我太晚了。"
+        "chinese": "各位好，我 apologies for being late."
     },
     {
         "start": 41.0,
         "end": 46.0,
         "english": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
-        "chinese": "外面下着大雨，我得等了好长时间才等到了出租车。"
+        "chinese": "外面雨下得像倒水一样，我等了好久才打到车。"
     },
     {
         "start": 46.0,
         "end": 48.0,
         "english": "Okay James, take a seat quickly please.",
-        "chinese": "好的，詹姆斯，请坐。请迅速坐下。"
+        "chinese": "好的詹姆斯，请快点坐下。"
     },
     {
         "start": 48.0,
         "end": 51.0,
         "english": "Right, the subject of the meeting is the importance.",
-        "chinese": "正确翻译：英语：Right, the subject of the meeting is the importance. 中国：这个会议的主题是重要性。"
+        "chinese": "好的，会议的主题是重要性。"
     },
     {
         "start": 51.0,
         "end": 54.0,
         "english": "Hi guys, please excuse me.",
-        "chinese": "你好，大家，请问有什么问题？"
+        "chinese": "各位，请见谅。"
     },
     {
         "start": 54.0,
         "end": 56.0,
         "english": "I was held up in traffic.",
-        "chinese": "我被堵在交通上。"
+        "chinese": "堵车了。"
     },
     {
         "start": 56.0,
         "end": 60.0,
         "english": "Right, as I was saying the subject of the meeting is...",
-        "chinese": "是的，正如我说的，会议的主题是..."
+        "chinese": "好的，正如我刚才所说，会议的主题是..."
     },
     {
         "start": 60.0,
         "end": 63.0,
         "english": "Hi Maggie, I'm terribly sorry. The traffic is murder out there.",
-        "chinese": "你好，马吉儿，我非常抱歉。外面的交通秩序太糟糕了。"
+        "chinese": "嗨， Maggie，外面的交通简直要了我的命。"
     },
     {
         "start": 63.0,
         "end": 65.0,
         "english": "Sit down bro, no?",
-        "chinese": "坐下哥哥，不？"
+        "chinese": "坐下來嗎 嘛 ?"
     },
     {
         "start": 65.0,
         "end": 72.0,
         "english": "Okay now, as you're aware, the topic of the meeting is the importance of being punctual.",
-        "chinese": "好的，现在，请告诉我关于会议主题的要点。"
+        "chinese": "好的，现在你们应该都知道会议的主题是准时的重要性。"
     },
     {
         "start": 72.0,
         "end": 74.0,
         "english": "Who would like to start?",
-        "chinese": "谁想开始？"
+        "chinese": "谁愿意先来？"
     },
     {
         "start": 76.0,
         "end": 80.0,
         "english": "Alright we're back so now let's take a look at some of this vocab on language takeaway.",
-        "chinese": "好的，我们现在回来，那么现在让我们看看这些词汇在语言学习中的应用。"
+        "chinese": "好的，我们回来了，那么现在让我们来看看语言 takeaway 上的一些词汇。"
     },
     {
         "start": 82.0,
         "end": 84.0,
         "english": "Language takeaway.",
-        "chinese": "语言总结。"
+        "chinese": "语言 takeaway。"
     },
     {
         "start": 84.0,
         "end": 87.0,
         "english": "So first up we have a word that we heard.",
-        "chinese": "英语：所以首先我们有句话我们要听。"
+        "chinese": "那么首先有一个我们听说过的词。"
     },
     {
         "start": 87.0,
         "end": 91.0,
         "english": "The phrase was, I did say 11 o'clock sharp.",
-        "chinese": "这个短语是，我确实说11点整。"
+        "chinese": "的确我说的是几点钟准11点。"
     },
     {
         "start": 91.0,
         "end": 97.0,
         "english": "Okay so if you say the time like 11 o'clock and then you add sharp at the end, what does that mean?",
-        "chinese": "好的，如果你说时间是11点并且加上了“清晰”的结尾，那意味着什么？"
+        "chinese": "好的，如果你说时间是11点然后在后面加上sharp，那是什么意思？"
     },
     {
         "start": 97.0,
         "end": 99.0,
         "english": "That means exactly.",
-        "chinese": "这句话的中文翻译是：“这就是正确的。”"
+        "chinese": "这就是嘛。"
     },
     {
         "start": 99.0,
         "end": 107.0,
         "english": "So 11 o'clock, exactly 11 o'clock, 11,00, not 1101, not 1102, but 11 o'clock.",
-        "chinese": "英语：所以11点，正好是11点，11,00，不是1101，也不是1102，而是11点。"
+        "chinese": "正好是11点，不是11时1分，也不是11时2分，而是11点。"
     },
     {
         "start": 107.0,
         "end": 112.0,
         "english": "So if I say I'll be there at 3 o'clock sharp.",
-        "chinese": "所以，如果我说我将在三点整准时到达。"
+        "chinese": "所以我说我会三点正准时到场。"
     },
     {
         "start": 112.0,
         "end": 119.0,
         "english": "That means you won't be there at 258, you will not be there at 304, you'll be there at 3 o'clock.",
-        "chinese": "这句话的意思是：这意味着你将在258时不在，将在304时在，而在3点钟的时候。"
+        "chinese": "这意味着你不会在258，也不会在304，你会在三点。"
     },
     {
         "start": 119.0,
         "end": 122.0,
         "english": "That's right, okay so 3 o'clock sharp.",
-        "chinese": "英语：那对，好的，三点整准时。"
+        "chinese": "没错，好，三点正。"
     },
     {
         "start": 122.0,
         "end": 126.0,
         "english": "So if you say the time and then you add sharp, it means at that exact time.",
-        "chinese": "所以，如果你说时间到了，那么你加了锐利，意味着在那个时刻。"
+        "chinese": "所以你说到时间然后加上锐利，就是指在那个确切的时间。"
     },
     {
         "start": 126.0,
         "end": 133.0,
         "english": "Now James was late, he said he was late because he had to wait ages for a taxi.",
-        "chinese": "现在詹姆斯晚到了，他解释说是因为他得等一整天才接车。"
+        "chinese": "现在詹姆斯迟到了，他说他迟到是因为等了好久的出租车。"
     },
     {
         "start": 134.0,
         "end": 139.0,
         "english": "Okay so this might be confusing for some people Marco because I can say what's your age?",
-        "chinese": "英语：嗯，所以这可能对有些人来说有点儿不熟悉。Marco，你现在的年龄是多少？"
+        "chinese": "好吧，这可能会让一些人 Marco 搞不清楚，因为我可以说你多大了？"
     },
     {
         "start": 139.0,
         "end": 140.0,
         "english": "How old are you?",
-        "chinese": "你好，我是来自阿里云的Qwen。请问您想了解什么？"
+        "chinese": "你多大了？"
     },
     {
         "start": 140.0,
         "end": 143.0,
         "english": "But here ages has a different meaning.",
-        "chinese": "但是这里的意思和傻瓜相机不同。"
+        "chinese": "但在这里“age”有不同的意思。"
     },
     {
         "start": 143.0,
         "end": 147.0,
         "english": "So I had to wait ages means I waited a very long time.",
-        "chinese": "所以，我必须等待了很久，这意味着我已经等了很长时间。"
+        "chinese": "所以我等了好久意味着我等了很久。"
     },
     {
         "start": 147.0,
         "end": 148.0,
         "english": "That's right.",
-        "chinese": "正确。"
+        "chinese": "没错。"
     },
     {
         "start": 148.0,
         "end": 151.0,
         "english": "So the word ages means for a very long time.",
-        "chinese": "所以，这个单词意味着对某人来说，时间是漫长的。"
+        "chinese": "那么“age”这个词意味着非常久远的时间。"
     },
     {
         "start": 151.0,
         "end": 153.0,
         "english": "It's always related a time in this sense.",
-        "chinese": "英语：它总是和这个话题紧密相关。"
+        "chinese": "这总是与时间有关。"
     },
     {
         "start": 153.0,
         "end": 156.0,
         "english": "Exactly. So I could say Marco, it's so good to see you.",
-        "chinese": "正好。所以我可以说马科，真是太好了见到你了。"
+        "chinese": "Marco，见到你真是太好了。"
     },
     {
         "start": 156.0,
         "end": 158.0,
         "english": "I haven't seen you in ages.",
-        "chinese": "我还没见过你。"
+        "chinese": "我很久没见你了。"
     },
     {
         "start": 158.0,
         "end": 161.0,
         "english": "That means I haven't seen you in such a long time.",
-        "chinese": "这句话的中文翻译是：这意味着我已经很久没有见过你了。"
+        "chinese": "这意味着我很久都没有见过你了。"
     },
     {
         "start": 161.0,
         "end": 163.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 163.0,
         "end": 169.0,
         "english": "And now the next person Sally came in and she said she was held up in traffic.",
-        "chinese": "英语：现在下一个来的人，她说她被堵在交通上。"
+        "chinese": "然后来了下一个人员，萨利说她因为堵车耽搁了。"
     },
     {
         "start": 169.0,
         "end": 174.0,
         "english": "Okay to be held up in traffic means to be stuck in traffic.",
-        "chinese": "好的，被堵在路上意味着被堵在交通上。"
+        "chinese": "堵车的意思是被交通堵塞。"
     },
     {
         "start": 174.0,
         "end": 180.0,
         "english": "That means you were made late because there were so many cars on the road.",
-        "chinese": "这句话的中文翻译是：这意味着你因为路上有很多车而迟到。"
+        "chinese": "这意味着你因为路上车太多了而被推迟了。"
     },
     {
         "start": 180.0,
         "end": 183.0,
         "english": "Okay so somebody or something else made you late.",
-        "chinese": "好的，所以有人或某人让你晚到了。"
+        "chinese": "好吧，原来是有人或某样东西让你迟到的。"
     },
     {
         "start": 183.0,
         "end": 186.0,
         "english": "That's right so to be held up means to be made late.",
-        "chinese": "这句话的中文翻译是："
+        "chinese": "那就是说“被耽搁”就是被推迟了。"
     },
     {
         "start": 186.0,
         "end": 189.0,
         "english": "I could ask you Marco, why are you so late?",
-        "chinese": "我可以说，你为什么那么晚到？"
+        "chinese": "我也可以问问Marco，你为什么这么晚？"
     },
     {
         "start": 189.0,
         "end": 191.0,
         "english": "What held you up?",
-        "chinese": "这句话的英文是 \"What held you up? \"。"
+        "chinese": "你为什么停下了？"
     },
     {
         "start": 191.0,
         "end": 193.0,
         "english": "Exactly. What held you up?",
-        "chinese": "正确。你为什么没有成功？"
+        "chinese": "Exactly. 什么让你停下了？"
     },
     {
         "start": 193.0,
         "end": 195.0,
         "english": "That means what made me late.",
-        "chinese": "这句话的中文翻译是：“这意味着让我迟到的原因。”"
+        "chinese": "那就是让我迟到的原因。"
     },
     {
         "start": 195.0,
@@ -345,79 +345,79 @@
         "start": 196.0,
         "end": 197.0,
         "english": "So I could be many different things.",
-        "chinese": "所以，我可以做很多不同的事情。"
+        "chinese": "所以我可以是很多种不同的东西。"
     },
     {
         "start": 197.0,
         "end": 198.0,
         "english": "Okay yeah.",
-        "chinese": "好的，没问题。"
+        "chinese": "好的。"
     },
     {
         "start": 198.0,
         "end": 204.0,
         "english": "Okay yeah so it could be traffic or maybe I could be held up by the doctor.",
-        "chinese": "好的，嗯，那么可能是交通问题，或者我可能因为医生而被堵。"
+        "chinese": "好的，可能是堵车，也可能被医生耽搁。"
     },
     {
         "start": 204.0,
         "end": 207.0,
         "english": "Maybe he took longer than what I expected.",
-        "chinese": "可能他比我预期的要长。"
+        "chinese": "可能他比我预计的时间更长。"
     },
     {
         "start": 207.0,
         "end": 211.0,
         "english": "Or there's no elevator and I'm waiting for the elevator and I got held up by the elevator.",
-        "chinese": "英语：或者没有电梯，我正在等电梯，电梯被我拦住了。"
+        "chinese": "或者没有电梯，我在等电梯的时候被电梯耽搁了。"
     },
     {
         "start": 211.0,
         "end": 213.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 213.0,
         "end": 218.0,
         "english": "And now the importance of being punctual, that's the topic of the meeting.",
-        "chinese": "现在，准时的重要性，这就是会议的主题。"
+        "chinese": "现在会议的主题是准时的重要性。"
     },
     {
         "start": 218.0,
         "end": 220.0,
         "english": "So what is this word punctual?",
-        "chinese": "英语：所以这个单词急迫吗？"
+        "chinese": "那么“ punctual ”这个词是什么意思？"
     },
     {
         "start": 220.0,
         "end": 227.0,
         "english": "Okay so punctual is an adjective and it describes something as being on time.",
-        "chinese": "好的，所以“准时”是一个形容词，它描述的是某物是按时到达的。"
+        "chinese": "好吧，准时是一个形容词，用来描述某事物按时发生。"
     },
     {
         "start": 227.0,
         "end": 230.0,
         "english": "Okay so the opposite of this word would be what?",
-        "chinese": "好的，那么这个反义词是什么？"
+        "chinese": "那么这个词语的反义词是什么呢？"
     },
     {
         "start": 230.0,
         "end": 232.0,
         "english": "So the opposite would be late.",
-        "chinese": "所以相反就是晚了。"
+        "chinese": "那么相反的就是晚了。"
     },
     {
         "start": 232.0,
         "end": 236.0,
         "english": "Late okay so she's a very punctual student.",
-        "chinese": "英语：她很准时。"
+        "chinese": "她是个非常守时的学生。"
     },
     {
         "start": 236.0,
         "end": 238.0,
         "english": "She always comes to class on time.",
-        "chinese": "她总是按时到校。"
+        "chinese": "她总是准时上课。"
     },
     {
         "start": 238.0,
@@ -429,7 +429,7 @@
         "start": 240.0,
         "end": 246.0,
         "english": "Punctual so you describe a person as being punctual or not.",
-        "chinese": "准时，所以你可以描述一个人是否准时。"
+        "chinese": "准时，所以你可以形容一个人准时或不准时。"
     },
     {
         "start": 246.0,
@@ -441,67 +441,67 @@
         "start": 247.0,
         "end": 248.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 248.0,
         "end": 250.0,
         "english": "Let's review all this vocab.",
-        "chinese": "让我们回顾一下这些词汇。"
+        "chinese": "让我们复习这些词汇。"
     },
     {
         "start": 250.0,
         "end": 252.0,
         "english": "Let's go back and listen to the dialogue again.",
-        "chinese": "让我们再听一遍对话。"
+        "chinese": "让我们再回听一遍对话。"
     },
     {
         "start": 252.0,
         "end": 259.0,
         "english": "Okay everyone so we're begin.",
-        "chinese": "好的，大家好，我们现在开始。"
+        "chinese": "好的大家，我们开始。"
     },
     {
         "start": 259.0,
         "end": 261.0,
         "english": "Sorry Maggie but we're missing a few people.",
-        "chinese": "对不起，马吉儿。但我们有一些人没来参加。"
+        "chinese": "对不起，梅格，我们缺了几个人。"
     },
     {
         "start": 261.0,
         "end": 262.0,
         "english": "Can we hang on a sec?",
-        "chinese": "是的，我们可以再等等。"
+        "chinese": "我们能等等吗？"
     },
     {
         "start": 262.0,
         "end": 267.0,
         "english": "Well I did say 11 o'clock sharp and it's now 5 past so...",
-        "chinese": "我之前说过11点整，现在是5点了。"
+        "chinese": "[Error]"
     },
     {
         "start": 267.0,
         "end": 269.0,
         "english": "Hi everyone.",
-        "chinese": "你好，大家。"
+        "chinese": "[Error]"
     },
     {
         "start": 269.0,
         "end": 270.0,
         "english": "I'm so sorry I'm late.",
-        "chinese": "我非常抱歉我晚到。"
+        "chinese": "我很抱歉我来晚了。"
     },
     {
         "start": 270.0,
         "end": 275.0,
         "english": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
-        "chinese": "英语：外面下着大雨，我得等了好久才等到了出租车。"
+        "chinese": "外面雨下得像倒水一样，我等了好久才打到车。"
     },
     {
         "start": 275.0,
         "end": 278.0,
         "english": "Okay James take a seat quickly please.",
-        "chinese": "好的，詹姆斯，请坐。请迅速坐下。"
+        "chinese": "好的詹姆斯，请快点坐下。"
     },
     {
         "start": 278.0,
@@ -513,337 +513,337 @@
         "start": 281.0,
         "end": 283.0,
         "english": "Hi guys please excuse me.",
-        "chinese": "你好，大家，请问有什么问题吗？"
+        "chinese": "各位请原谅。"
     },
     {
         "start": 283.0,
         "end": 285.0,
         "english": "I was held up in traffic.",
-        "chinese": "我被堵在交通上。"
+        "chinese": "堵车了。"
     },
     {
         "start": 285.0,
         "end": 289.0,
         "english": "Right as I was saying the subject of the meeting is...",
-        "chinese": "英语：正确地，正如我刚才在说的..."
+        "chinese": "正要说会议的主题时..."
     },
     {
         "start": 289.0,
         "end": 291.0,
         "english": "Hi Maggie I'm terribly sorry.",
-        "chinese": "你好，马吉。我非常抱歉。"
+        "chinese": "Hi Maggie，我 terribly sorry。"
     },
     {
         "start": 291.0,
         "end": 293.0,
         "english": "The traffic is murder out there.",
-        "chinese": "英语：交通堵塞到处都是。"
+        "chinese": "外面的交通简直要人命。"
     },
     {
         "start": 293.0,
         "end": 295.0,
         "english": "Sit down bro no?",
-        "chinese": "英语：坐下吧，小子。"
+        "chinese": "坐下来兄弟吗？"
     },
     {
         "start": 295.0,
         "end": 301.0,
         "english": "Okay now as you're aware the topic of the meeting is the importance of being punctual.",
-        "chinese": "好的，我已按照提供的规则进行翻译。以下是翻译结果："
+        "chinese": "好的，现在你们应该知道会议的主题是准时的重要性。"
     },
     {
         "start": 301.0,
         "end": 304.0,
         "english": "Who would like to start?",
-        "chinese": "谁想开始？"
+        "chinese": "谁愿意先来？"
     },
     {
         "start": 305.0,
         "end": 310.0,
         "english": "Alright now let's take a look at some phrases on Fluency Builder.",
-        "chinese": "好的，现在让我们看看一些在 Fluent Builder 中的短语。"
+        "chinese": "好的，现在让我们来看看流利构建单元上的几句词。"
     },
     {
         "start": 310.0,
         "end": 312.0,
         "english": "Fluency Builder.",
-        "chinese": "流畅 builder."
+        "chinese": "流利构建单元。"
     },
     {
         "start": 312.0,
         "end": 316.0,
         "english": "We have a lot of really great phrases today that describe...",
-        "chinese": "今天有很多非常棒的表达，可以用来描述..."
+        "chinese": "我们今天有很多非常好的短语来形容..."
     },
     {
         "start": 316.0,
         "end": 321.0,
         "english": "Well that are excuses for not being on time or for not being punctual.",
-        "chinese": "英语：那这些借口是因为没有准时或者迟到吗？"
+        "chinese": "Well，这些是迟到或不守时的借口。"
     },
     {
         "start": 321.0,
         "end": 323.0,
         "english": "The first one we heard was actually different though.",
-        "chinese": "英语：我们听到的第一个版本实际上有所不同。"
+        "chinese": "其实我们听到的第一句话是不同的。"
     },
     {
         "start": 323.0,
         "end": 326.0,
         "english": "One of the students said can we hang on a sec?",
-        "chinese": "英语：一位学生说，我们可以暂时放下。"
+        "chinese": "其中一个学生说，我们等等行吗？"
     },
     {
         "start": 326.0,
         "end": 328.0,
         "english": "Hang on a sec.",
-        "chinese": "英语：挂上你的责任。"
+        "chinese": "等等。"
     },
     {
         "start": 328.0,
         "end": 333.0,
         "english": "Okay so if you ask someone to hang on that means to wait.",
-        "chinese": "好的，如果有人让你等的话，这意味着等待。"
+        "chinese": "好的，如果让你 someone 挂着那意思是等着。"
     },
     {
         "start": 333.0,
         "end": 338.0,
         "english": "Hang on wait yeah exactly so hang on just means to wait it's very casual.",
-        "chinese": "英语：挂住，等啊，正好，所以，挂住就是等待。"
+        "chinese": "等一下，没错，挂住就是等待，非常随意。"
     },
     {
         "start": 338.0,
         "end": 345.0,
         "english": "Okay now if we add a sec hang on a sec or hang on a minute that means wait for a little while.",
-        "chinese": "现在，如果我们将一个秒暂停或暂停一分钟，这意味着稍等片刻。"
+        "chinese": "好的，现在如果稍等一下，或者等等看，这就意味着稍微等待一会儿。"
     },
     {
         "start": 345.0,
         "end": 354.0,
         "english": "A little while a sec sec sec stands for second and it's very common in this phrase we hear hang on a sec or wait a sec.",
-        "chinese": "一会儿一秒一秒是秒，这个短语在我们听到的这句话“稍等一秒或者稍等一下”中非常常见。"
+        "chinese": "片刻、一秒、一秒、一秒表示的是秒，这个短语中我们经常听到“等一下”或“稍等”的时候使用。"
     },
     {
         "start": 354.0,
         "end": 356.0,
         "english": "Wait a sec.",
-        "chinese": "等待一下。"
+        "chinese": "等等。"
     },
     {
         "start": 356.0,
         "end": 357.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 357.0,
         "end": 363.0,
         "english": "So it's very casual it's very spoken English although the word sec doesn't really exist.",
-        "chinese": "所以，它非常随意，尽管单词“sec”并不实际存在。"
+        "chinese": "所以非常随意，是口语化的英语，虽然词组“sec”其实并不存在。"
     },
     {
         "start": 363.0,
         "end": 365.0,
         "english": "It's just a short way of saying second.",
-        "chinese": "英语：它只是短语表示第二。"
+        "chinese": "这不过是“第二”的简短说法。"
     },
     {
         "start": 365.0,
         "end": 372.0,
         "english": "Exactly and later on we heard James come in he was one of those people that we had to wait for.",
-        "chinese": "英语：它就像傻瓜相机一样，等待着詹姆斯先生。"
+        "chinese": "准确且后来我们听到詹姆斯进来，他是那种我们必须等待的人。"
     },
     {
         "start": 372.0,
         "end": 375.0,
         "english": "And he said it's raining cats and dogs outside.",
-        "chinese": "他的话是下着大雨。"
+        "chinese": "而且他说外面下得是瓢泼大雨。"
     },
     {
         "start": 375.0,
         "end": 378.0,
         "english": "That's right okay it's raining cats and dogs.",
-        "chinese": "英语：那对，好吧，下着大雨。"
+        "chinese": "那倒是，下得正热闹呢。"
     },
     {
         "start": 378.0,
         "end": 381.0,
         "english": "So our cats and dogs falling from the sky.",
-        "chinese": "所以我们的猫和狗从天而降。"
+        "chinese": "所以我们说猫狗从天而降。"
     },
     {
         "start": 381.0,
         "end": 384.0,
         "english": "They are not so this might sound very weird to you.",
-        "chinese": "他们不是这么想。"
+        "chinese": "这听起来可能非常奇怪。"
     },
     {
         "start": 384.0,
         "end": 388.0,
         "english": "This does not mean there are cats and dogs falling down from the clouds.",
-        "chinese": "这个并不意味着有猫和狗从云里掉下来。"
+        "chinese": "这并不意味着有猫狗从天而降。"
     },
     {
         "start": 388.0,
         "end": 391.0,
         "english": "But it does mean that it's raining a lot.",
-        "chinese": "但是这确实意味着它正在下雨。"
+        "chinese": "但这也意味着下雨很多。"
     },
     {
         "start": 391.0,
         "end": 393.0,
         "english": "It's raining really hard outside.",
-        "chinese": "英语：外面真冷。"
+        "chinese": "外面雨下得很大。"
     },
     {
         "start": 393.0,
         "end": 394.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 394.0,
         "end": 398.0,
         "english": "So it's a phrase used to say it's raining a lot.",
-        "chinese": "英语：所以它是一种用来形容天气很潮湿的短语。"
+        "chinese": "这么说就是常说“雨下得很大”的意思。"
     },
     {
         "start": 398.0,
         "end": 399.0,
         "english": "It's raining very very hard.",
-        "chinese": "雨下得异常之大。"
+        "chinese": "雨下得非常非常大。"
     },
     {
         "start": 399.0,
         "end": 400.0,
         "english": "Mm-hmm.",
-        "chinese": "英语：嗯，嗯。"
+        "chinese": "嗯哼。"
     },
     {
         "start": 400.0,
         "end": 401.0,
         "english": "Raining cats and dogs.",
-        "chinese": "大雨滂沱。"
+        "chinese": "倾盆大雨"
     },
     {
         "start": 401.0,
         "end": 406.0,
         "english": "So Maggie is trying to continue with the meeting as many people keep coming in and disrupting her.",
-        "chinese": "英语：所以马戈一直在会议中继续，因为越来越多的人不断进来干扰她。"
+        "chinese": "所以梅姬正试图继续会议，因为不断有人员进来打扰她。"
     },
     {
         "start": 406.0,
         "end": 411.0,
         "english": "So she says right as I was saying the subject of the meeting.",
-        "chinese": "所以她这么一说，我正说着话题上的问题。"
+        "chinese": "就这样她说，就在我说会议主题的时候。"
     },
     {
         "start": 411.0,
         "end": 413.0,
         "english": "As I was saying.",
-        "chinese": "我正在说。"
+        "chinese": "正如我说的。"
     },
     {
         "start": 413.0,
         "end": 421.0,
         "english": "Now this is a really important phrase because you're going to hear this a lot in meetings or in conversations where someone is distracted.",
-        "chinese": "现在这个非常重要，因为你会经常在会议或对话中听到这个词。"
+        "chinese": "现在这个句子非常重要，因为在会议或有人分心的对话中你会经常听到这句话。"
     },
     {
         "start": 421.0,
         "end": 422.0,
         "english": "Mm-hmm.",
-        "chinese": "英语：嗯。"
+        "chinese": "嗯哼。"
     },
     {
         "start": 422.0,
         "end": 426.0,
         "english": "So okay we're having oh wait I'm sorry I have to talk to this person over here.",
-        "chinese": "英语：所以，我们还是等一下，我在这里。"
+        "chinese": "所以好吧，我们这边等等，我得跟那边的人聊一下。"
     },
     {
         "start": 426.0,
         "end": 432.0,
         "english": "When you want to come back to what you were talking about you want to return to the topic you say as I was saying.",
-        "chinese": "当你想回到你刚才说的话题，你就需要回到主题上。"
+        "chinese": "当你想要回到你刚才谈到的话题时，你想回到我说的那一点。"
     },
     {
         "start": 432.0,
         "end": 434.0,
         "english": "That's right as I was saying.",
-        "chinese": "正确翻译：那正是我刚才说的。"
+        "chinese": "那就是我说的没错。"
     },
     {
         "start": 434.0,
         "end": 440.0,
         "english": "So maybe you were interrupted maybe you got distracted and you want to continue talking about the same topic.",
-        "chinese": "英语：所以，你可能打断了，或者你分心了，你想继续讨论同一个话题。"
+        "chinese": "所以也许你被中断了，也许你分心了，你想继续谈论同一个话题。"
     },
     {
         "start": 440.0,
         "end": 443.0,
         "english": "As I was saying and then you continue talking.",
-        "chinese": "我刚才说的，然后你继续说话。"
+        "chinese": "正如我在说的，然后你接着说话。"
     },
     {
         "start": 443.0,
         "end": 447.0,
         "english": "So you return to the original point you are making.",
-        "chinese": "所以，你回到原点，继续你的原点。"
+        "chinese": "那么你回到你最初所说的点。"
     },
     {
         "start": 447.0,
         "end": 448.0,
         "english": "Okay very good.",
-        "chinese": "好的，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 448.0,
         "end": 454.0,
         "english": "And well Bruno was the last guy to come in and he said that traffic is murder out there.",
-        "chinese": "而且布伦登是最后一个进来的人，他说“外面的交通就是杀人”。"
+        "chinese": "而布鲁诺是最后一个到的人，他说外面的交通简直让人窒息。"
     },
     {
         "start": 454.0,
         "end": 458.0,
         "english": "Okay so murder to murder means to kill someone.",
-        "chinese": "好的，杀人到底杀到底意味着要杀死某人。"
+        "chinese": "好吧，杀人凶手的意思是杀 Someone。"
     },
     {
         "start": 458.0,
         "end": 460.0,
         "english": "But we're not talking about killing people here.",
-        "chinese": "但是这里我们不谈论杀人的事情。"
+        "chinese": "但这里我们可不是在谈论杀人的事情。"
     },
     {
         "start": 460.0,
         "end": 465.0,
         "english": "We're talking about an analogy or saying it says bad as murder.",
-        "chinese": "我们是在谈论一个类比或说它说得很糟糕，就像谋杀一样。"
+        "chinese": "我们说的是一个比喻，或者说是比杀人还坏。"
     },
     {
         "start": 466.0,
         "end": 470.0,
         "english": "So in this case traffic is murder means traffic is really awful.",
-        "chinese": "所以，在这种情况下，交通是杀人犯意味着交通非常糟糕。"
+        "chinese": "所以在这情况下，交通是谋杀意味着交通真的很糟糕。"
     },
     {
         "start": 470.0,
         "end": 472.0,
         "english": "It's really terrible outside.",
-        "chinese": "英语：它真是外面太糟糕了。"
+        "chinese": "外面真是糟糕透了。"
     },
     {
         "start": 472.0,
         "end": 479.0,
         "english": "So in what other situation or with what other noun instead of traffic can we use this something is murder.",
-        "chinese": "所以，在什么其他情况下或用什么其他的名词来替换“车祸”这个东西，我们可以说这是杀人。"
+        "chinese": "那么在其他什么情境或用其他名词代替交通的情况下，我们还能用这种说法：某事是谋杀。"
     },
     {
         "start": 479.0,
         "end": 481.0,
         "english": "The weight is murder.",
-        "chinese": "重量是谋杀。"
+        "chinese": "这重量真是折磨人。"
     },
     {
         "start": 481.0,
@@ -855,7 +855,7 @@
         "start": 482.0,
         "end": 485.0,
         "english": "So that means you have to wait a very very long time.",
-        "chinese": "所以这意味着你必须等待一个非常漫长的时光。"
+        "chinese": "那么你就得等非常非常久的时间。"
     },
     {
         "start": 485.0,
@@ -867,67 +867,67 @@
         "start": 486.0,
         "end": 487.0,
         "english": "All right very good.",
-        "chinese": "一切好，很好。"
+        "chinese": "好的很好。"
     },
     {
         "start": 487.0,
         "end": 490.0,
         "english": "So now why don't we go back to the dialogue.",
-        "chinese": "所以现在为什么不回到对话呢？"
+        "chinese": "那么我们现在回到对话中如何？"
     },
     {
         "start": 490.0,
         "end": 493.0,
         "english": "Let's have one last review and we'll be right back.",
-        "chinese": "让我们再进行一次最后的检查，然后我们马上回来。"
+        "chinese": "让我们再回顾一下，我们马上就回来。"
     },
     {
         "start": 496.0,
         "end": 499.0,
         "english": "Okay everyone shall we begin.",
-        "chinese": "大家，我们开始吧。"
+        "chinese": "好的，我们开始吧。"
     },
     {
         "start": 499.0,
         "end": 502.0,
         "english": "Sorry Maggie but we're missing a few people.",
-        "chinese": "对不起，Maggie。但我们还有一些人没来。"
+        "chinese": "对不起，梅格，我们缺了几个人。"
     },
     {
         "start": 502.0,
         "end": 503.0,
         "english": "Can we hang on a sec?",
-        "chinese": "是的，我们可以再等等。"
+        "chinese": "我们能等等吗？"
     },
     {
         "start": 503.0,
         "end": 508.0,
         "english": "Well I did say 11 o'clock sharp and it's now 5 past so.",
-        "chinese": "英语：它说11点清晰，现在是5点了。"
+        "chinese": "Well,我说得是正好11点，现在已经是过了5分钟了。"
     },
     {
         "start": 508.0,
         "end": 509.0,
         "english": "Hi everyone.",
-        "chinese": "你好，大家。"
+        "chinese": "大家好。"
     },
     {
         "start": 509.0,
         "end": 511.0,
         "english": "I'm so sorry I'm late.",
-        "chinese": "我非常抱歉我晚到。"
+        "chinese": "我很抱歉我来晚了。"
     },
     {
         "start": 511.0,
         "end": 515.0,
         "english": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
-        "chinese": "英语：外面下着大雨，我得等上一小时才接到了出租车。"
+        "chinese": "外面雨下得像倒水一样，我等了好久才打到车。"
     },
     {
         "start": 515.0,
         "end": 518.0,
         "english": "Okay James take a seat quickly please.",
-        "chinese": "好的，詹姆斯，请坐。请迅速坐下。"
+        "chinese": "好的詹姆斯，请快点坐下。"
     },
     {
         "start": 518.0,
@@ -939,163 +939,163 @@
         "start": 521.0,
         "end": 522.0,
         "english": "Hi guys.",
-        "chinese": "你好，朋友们。"
+        "chinese": "各位好。"
     },
     {
         "start": 522.0,
         "end": 524.0,
         "english": "Please excuse me.",
-        "chinese": "请原谅我。"
+        "chinese": "请原谅。"
     },
     {
         "start": 524.0,
         "end": 526.0,
         "english": "I was held up in traffic.",
-        "chinese": "我被堵在交通上。"
+        "chinese": "堵车了。"
     },
     {
         "start": 526.0,
         "end": 530.0,
         "english": "Right as I was saying the subject of the meeting is.",
-        "chinese": "根据我所知，您想表达的意思是“正如我在说会议的主题。”这句话在中文中可以翻译为："
+        "chinese": "正要说会议的主题时。"
     },
     {
         "start": 530.0,
         "end": 532.0,
         "english": "Hi Maggie I'm terribly sorry.",
-        "chinese": "你好，马吉儿。我非常抱歉。"
+        "chinese": "嗨， Maggie ，我 terribly 深感抱歉。"
     },
     {
         "start": 532.0,
         "end": 533.0,
         "english": "The traffic is murder out there.",
-        "chinese": "英语：交通堵塞到处都是。"
+        "chinese": "外面的交通简直要人命。"
     },
     {
         "start": 533.0,
         "end": 535.0,
         "english": "Sit down bro no.",
-        "chinese": "坐下哥哥。"
+        "chinese": "坐下来兄弟。"
     },
     {
         "start": 535.0,
         "end": 542.0,
         "english": "Okay now as you're aware the topic of the meeting is the importance of being punctual.",
-        "chinese": "好的，我已按照要求完成了翻译。以下是最终的中文翻译："
+        "chinese": "好的，现在你们应该知道会议的主题是准时的重要性。"
     },
     {
         "start": 542.0,
         "end": 545.0,
         "english": "Who would like to start?",
-        "chinese": "谁想开始？"
+        "chinese": "谁愿意先来？"
     },
     {
         "start": 545.0,
         "end": 551.0,
         "english": "So Marco are you a punctual person or are you usually late?",
-        "chinese": "英语：所以马科你是准时的人还是通常很晚到？"
+        "chinese": "所以，Marco，你是守时的人吗，还是通常会迟到？"
     },
     {
         "start": 551.0,
         "end": 555.0,
         "english": "For social gatherings I'm usually pretty punctual.",
-        "chinese": "英语：对于社交聚会，我通常都很准时。"
+        "chinese": "对于社交活动我通常很准时。"
     },
     {
         "start": 555.0,
         "end": 558.0,
         "english": "For work I'm usually very late.",
-        "chinese": "英语：对于工作，我通常非常晚。"
+        "chinese": "对于工作我通常很晚才到。"
     },
     {
         "start": 558.0,
         "end": 562.0,
         "english": "I've noticed one of the last people to come in in the morning.",
-        "chinese": "我注意到今天早上最后一个来的人。"
+        "chinese": "我发现早上最后一个进来的人。"
     },
     {
         "start": 562.0,
         "end": 568.0,
         "english": "Yeah usually for work I arrive late but not too late.",
-        "chinese": "是的，通常在工作时我总是迟到，但不太晚。"
+        "chinese": "嗯，通常工作我迟到但不晚。"
     },
     {
         "start": 568.0,
         "end": 572.0,
         "english": "Some people may even be an hour or two or something.",
-        "chinese": "有些人甚至可能需要一两个小时。"
+        "chinese": "有些人甚至可能要多花一两个小时。"
     },
     {
         "start": 572.0,
         "end": 580.0,
         "english": "A couple minutes, 15 minutes is all right but I do hate to wait if we agreed to meet up",
-        "chinese": "十分钟，十五分钟都行，但我讨厌等，如果同意见面，那就十分钟后。"
+        "chinese": "几分钟，十五分钟还可以接受，但我讨厌等，如果我们已经约好了见面"
     },
     {
         "start": 580.0,
         "end": 588.0,
         "english": "at two o'clock and you come in at two thirty let's say to the movies then I think that's really irritating.",
-        "chinese": "早上两点半，你来的时候是几点？让我们先说说电影吧。然后你觉得怎么样呢？"
+        "chinese": "两点钟，你两点半才来，我们说去看电影吧，我觉得这真的很让人恼火。"
     },
     {
         "start": 588.0,
         "end": 598.0,
         "english": "I agree that I'm a very punctual person and I get very annoyed when people are late to meetings or when people come late to appointments or parties.",
-        "chinese": "我同意，我认为我是个非常准时的人，当我遇到迟到的同事或晚到的客户时，我感到非常恼火。"
+        "chinese": "我同意，我是一个非常守时的人，当会议有人迟到、约会或聚会有人晚到时，我会感到非常生气。"
     },
     {
         "start": 598.0,
         "end": 607.0,
         "english": "Yeah and I think it's different in different countries because in many different places they have what they call the local time.",
-        "chinese": "是的，我认为在不同的国家，它们的时间系统有所不同。"
+        "chinese": "是的，不同国家有所不同，因为在许多地方他们称之为本地时间。"
     },
     {
         "start": 607.0,
         "end": 625.0,
         "english": "So if you say okay the meeting is at nine then everyone assumes that the meeting is supposed to start at nine but then everyone comes in at nine but grabs a cup of coffee, talks at the cooler, gets their seat, checks their email and then the meeting will start at nine thirty instead of nine.",
-        "chinese": "英语：所以如果你说会议在九点开始，那么每个人都会认为会议应该从九点开始，但实际上，大家都在九点到达会议室，然后他们坐在凉台上，喝咖啡，聊聊天，然后会议将在九点半开始，而不是九点。"
+        "chinese": "所以你说好的，会议九点开始，大家就默认会议会在九点开始，但结果大家都九点钟到会议室，有的人还去拿杯咖啡聊聊天，找座位坐下，检查邮件，然后会议变成了九点半开始而不是九点。"
     },
     {
         "start": 625.0,
         "end": 631.0,
         "english": "Right or for example the transportation you will find in different countries can be punctual or not punctual.",
-        "chinese": "英语：对，或者例如在不同的国家，你将能找到准时或不准时的交通。"
+        "chinese": "正确或者例如在不同国家你可能会遇到的交通可以准时，也可以不准时。"
     },
     {
         "start": 631.0,
         "end": 643.0,
         "english": "In Germany their transportation is very famous for being punctual but in India you will find that the trains are not very punctual you might wait one or two or six hours for a train.",
-        "chinese": "德国的公共交通非常有名，但在印度，火车可能不会很准时。"
+        "chinese": "德国的交通运输以其准时著称，但在印度你可能会发现火车并不那么准时，你可能要等上一小时、两小时甚至六个小时才能等到一趟火车。"
     },
     {
         "start": 643.0,
         "end": 647.0,
         "english": "Yeah yeah exactly so it's different in different countries.",
-        "chinese": "是的，的确如此，在不同的国家里它就有所不同。"
+        "chinese": "嗯嗯，没错，确实如此，不同国家有所不同。"
     },
     {
         "start": 647.0,
         "end": 655.0,
         "english": "I imagine that in a place like Germany it would be very, it would be considered a very bad thing to arrive late to a meeting for example.",
-        "chinese": "我想象在德国这样的地方，像这样迟到是很不好的事情。"
+        "chinese": "想象一下，在德国，比如开会迟到这样的事情会被认为是非常糟糕的事情。"
     },
     {
         "start": 655.0,
         "end": 665.0,
         "english": "Yeah I'm curious about that so let us know is it acceptable in your country to be a little bit late to a meeting or to an appointment is punctuality important.",
-        "chinese": "是的，我很好奇。因此，让我们看看您所在国家或地区的会议或约会是否允许稍晚一点到达或提前参加。"
+        "chinese": "是啊，我很好奇。那么请问在你们国家里，迟到一会儿参加会议或约会是可以接受的吗？准时重要吗？"
     },
     {
         "start": 665.0,
         "end": 667.0,
         "english": "Let us know our website is englischpod.com.",
-        "chinese": "让我们知道我们的网站是英语博客。"
+        "chinese": "请告知我们的网站是englischpod.com。"
     },
     {
         "start": 667.0,
         "end": 669.0,
         "english": "Alright we'll see you guys there.",
-        "chinese": "好的，我们见你了。"
+        "chinese": "好的，我们会在那里见到你们的。"
     },
     {
         "start": 669.0,

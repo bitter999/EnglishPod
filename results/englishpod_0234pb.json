@@ -3,25 +3,25 @@
         "start": 0.0,
         "end": 6.16,
         "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
-        "chinese": "你好大家，欢迎来到英语广播。我的名字是马克。"
+        "chinese": "大家好，欢迎来到英语pod。我叫马可。"
     },
     {
         "start": 6.16,
         "end": 11.08,
         "english": "My name is Catherine and we're talking today about health and getting sick.",
-        "chinese": "我的名字是凯瑟琳，今天我们要聊聊健康和生病的事情。"
+        "chinese": "我是凯瑟琳，今天我们来谈谈健康和生病。"
     },
     {
         "start": 11.08,
         "end": 16.62,
         "english": "That's right we are going to visit the doctor so we're feeling a little bit ill and",
-        "chinese": "没错，我们要去看医生了，所以感觉有点不舒服。"
+        "chinese": "那就是我们去诊所看看医生，因为我们感觉有点不舒服。"
     },
     {
         "start": 16.62,
         "end": 20.68,
         "english": "well we're going to describe some of the symptoms that we have and the doctor is going",
-        "chinese": "我们接下来会介绍一些我们目前的症状，医生正在描述。"
+        "chinese": "我们将会描述一些我们的症状以及医生会解释。"
     },
     {
         "start": 20.68,
@@ -33,924 +33,924 @@
         "start": 22.76,
         "end": 26.32,
         "english": "Alright so let's take a listen to today's dialogue and we'll be back in a moment to talk",
-        "chinese": "好的，让我们听一听今天的对话，一会儿我们再聊。"
+        "chinese": "好的，那么我们先听听今天的对话，一会儿再来聊。"
     },
     {
         "start": 26.32,
         "end": 27.32,
         "english": "about what's going on.",
-        "chinese": "关于发生了什么。"
+        "chinese": "关于情况如何。"
     },
     {
         "start": 30.0,
         "end": 37.8,
         "english": "Good afternoon Chloe. I'm Dr. Evans. What seems to be the problem?",
-        "chinese": "下午好， Chloe。我是埃文斯博士。有什么问题吗？"
+        "chinese": "下午好乔利。我是埃文斯医生。怎么了？"
     },
     {
         "start": 37.8,
         "end": 43.84,
         "english": "Hi Dr. Evans. Thanks for seeing me on such short notice. When I woke up this morning I had",
-        "chinese": "你好，埃文斯博士。感谢你这么突然地见我一面。今天早上醒来的时候，我已经准备好了。"
+        "chinese": "你好埃文斯博士。感谢您这么短的时间见我。今天早上醒来时，我有"
     },
     {
         "start": 43.84,
         "end": 50.6,
         "english": "a really sore throat and a really bad cough. I think I'm coming down with the flu.",
-        "chinese": "我嗓子真的好痛，咳嗽也挺严重的。我觉得我可能要感冒了。"
+        "chinese": "喉咙特别痛，咳嗽也很严重。我觉得自己可能要感冒了。"
     },
     {
         "start": 50.6,
         "end": 56.36,
         "english": "Ah I see. Yes you do sound rather croaky. Well let's have a look shall we? Could you please",
-        "chinese": "哎，我明白了。你确实听起来有点哑声。好吧，我们来看看吧？请问你可以帮我看看吗？"
+        "chinese": "啊，我明白了。你确实听起来有些沙哑。那我们看看吧？请稍等。"
     },
     {
         "start": 56.36,
         "end": 63.9,
         "english": "open your mouth and say ah. Good yes your tonsils are a little swollen in red. How",
-        "chinese": "张嘴说“啊”。好的，你的扁桃体有点红肿。"
+        "chinese": "张开嘴来，啊。好，你的扁桃体有些发红肿了。如何"
     },
     {
         "start": 63.9,
         "end": 71.34,
         "english": "are your ears blocked at all? A little actually. My sinuses are a little blocked up as well.",
-        "chinese": "你的耳朵有没有完全堵住？其实有点儿。我的鼻窦也是稍微有些堵塞的。"
+        "chinese": "你的耳朵堵了吗？稍微有点堵。我的鼻窦也有些堵塞。"
     },
     {
         "start": 71.34,
         "end": 76.64,
         "english": "I really feel terrible. Okay Chloe can you please breathe in and out slowly for me while",
-        "chinese": "我真的好难受。科洛尼，你能请我深呼吸一下吗？慢慢来，好吗？"
+        "chinese": "我真的很难过。Chloe，你可以慢慢深呼吸帮我吗？"
     },
     {
         "start": 76.64,
         "end": 84.03999999999999,
         "english": "I listen to your chest? Wow you really are all bunged up. You don't sound too good at",
-        "chinese": "我听你的胸口？哇，你真的都堵得严实。听起来不太好嘛"
+        "chinese": "我听你胸闷？哇，你真的病得不轻。听起来不太好"
     },
     {
         "start": 84.04,
         "end": 88.68,
         "english": "all. Okay I'm going to set you up with a bunch of antibiotics. You will need to take",
-        "chinese": "好的，我会给你安排一些抗生素。你得每天吃药。"
+        "chinese": "全都好了。我将为你准备一堆抗生素。你需要服用"
     },
     {
         "start": 88.68,
         "end": 93.44000000000001,
         "english": "these orange pills twice a day and these blue pills every evening. You will also have",
-        "chinese": "每天两次橙色药丸，晚上每颗蓝色药丸。你还会  \n有"
+        "chinese": "这些橙色药片每天两次，这些蓝色药片每晚服用。您还将有"
     },
     {
         "start": 93.44000000000001,
         "end": 99.04,
         "english": "to take this cough medicine three times a day after meals. Finally I am giving you an inhaler",
-        "chinese": "为了在这三餐后服用这种咳嗽药。最后，我给你开了一张吸入器。"
+        "chinese": "每天饭后三次服用此咳嗽药。最后我给你免费赠送一个吸入器"
     },
     {
         "start": 99.04,
         "end": 103.24000000000001,
         "english": "to use every time you feel breathless just to clear up your lungs.",
-        "chinese": "每次你感觉喘不过气的时候，就用它来清理肺部。"
+        "chinese": "每次感到气喘只为了清理肺部就使用。"
     },
     {
         "start": 103.24000000000001,
         "end": 111.24000000000001,
         "english": "Whoa so many drugs. Ah I hate swallowing pills. Am I able to go to work? Absolutely not.",
-        "chinese": "哇这么多药啊。哎，我不喜欢吞着药丸吃东西。我能不能去上班？绝对不能。"
+        "chinese": "哇这么多药物。啊，我讨厌吞药片。我能去上班吗？绝对不行。"
     },
     {
         "start": 111.24,
         "end": 116.03999999999999,
         "english": "You are highly contagious. You don't want to infect the rest of your co-workers do you?",
-        "chinese": "你这么容易传染。你不希望把其他同事也传染了吗？"
+        "chinese": "你太有传染性了，不希望把病毒传染给其他同事吧？"
     },
     {
         "start": 116.03999999999999,
         "end": 120.16,
         "english": "I recommend staying in bed for at least three days and drinking plenty of fluids so you",
-        "chinese": "我建议至少卧床休息三天，并多喝水，这样你就会好很多。"
+        "chinese": "我建议至少在床上躺三天，并且要喝大量的液体以保持身体水分。"
     },
     {
         "start": 120.16,
         "end": 124.91999999999999,
         "english": "don't get weak and dehydrated. You can catch up on all the latest TV shows and movies.",
-        "chinese": "不要变得虚弱和脱水。你可以追上所有最新的电视剧和电影。"
+        "chinese": "不要松懈，也不要缺水。你可以追上最新的所有电视剧和电影。"
     },
     {
         "start": 124.91999999999999,
         "end": 130.56,
         "english": "Okay would you mind writing me a doctor's note for work? Otherwise they may think I'm",
-        "chinese": "好的，麻烦你给我写一份工作上的医生证明吗？否则他们可能会以为我是中国人。"
+        "chinese": "好的，你介意为我写一张医生的证明去上班吗？否则他们可能会认为我是"
     },
     {
         "start": 130.56,
         "end": 137.84,
         "english": "faking it. Haha sure no problem. Here you are. Now off home in a way to bed. If you have",
-        "chinese": "假装嘛。哈哈没问题。给你了。现在请假去睡觉啦。如果你有需要，记得我这儿。"
+        "chinese": "装模作样。哈哈，没问题。给你。现在就回家睡觉吧。如果你有"
     },
     {
         "start": 137.84,
         "end": 144.0,
         "english": "any questions just give me a call. Feel better soon and take care. Thanks Doc. Bye. Bye.",
-        "chinese": "您好，我需要您提供一些信息。请告诉我您想了解的具体内容或问题。"
+        "chinese": "有任何问题就打电话给我。祝你早日康复，保重。多谢Doc。再见。再见。"
     },
     {
         "start": 148.96,
         "end": 153.52,
         "english": "Alright we're back so now let's take a look at six key words that we have prepared for you",
-        "chinese": "好的，我们又回来了。现在让我们来看看我们为你准备的六个关键词汇。"
+        "chinese": "好的，我们回来了，那么现在让我们来看看我们为你准备的六个关键词"
     },
     {
         "start": 153.52,
         "end": 163.44,
         "english": "today on Language Takeaway. Language Takeaway. So oftentimes in the winter time when the air is",
-        "chinese": "今天在语言取餐。语言取餐。有时候冬天的时候，空气是冷的。"
+        "chinese": "今天在“语言 takeaway”。语言 takeaway。很多时候，在冬天的时候，当空气是"
     },
     {
         "start": 163.44,
         "end": 168.16,
         "english": "very very dry and maybe you have a cold you get this. This is the first thing we're talking about.",
-        "chinese": "非常干燥，可能是感冒了。这是我们讨论的第一件事。"
+        "chinese": "非常干燥，也许你感冒了。这就是我们要谈论的第一件事。"
     },
     {
         "start": 168.16,
         "end": 174.56,
         "english": "That's right we have a sore throat. Okay so Chloe in the dialogue says I woke up this morning and I",
-        "chinese": "那对，我们喉咙有点痛。好的，对话里科莉早上醒来的时候说她今天早上起床了。"
+        "chinese": "那就是早上起床嗓子疼。好了，对话中的Chloe说她今天早上……"
     },
     {
         "start": 174.56,
         "end": 181.28,
         "english": "had a really sore throat. Right so let's take a look at those two words. We know throat is the",
-        "chinese": "我喉咙好痛。所以，我们来看看这两个词。我们知道“喉咙”是中文里的。"
+        "chinese": "喉咙。"
     },
     {
         "start": 181.28,
         "end": 186.0,
         "english": "part of your neck right. Connects your head to your body. That's right and the word sore.",
-        "chinese": "你的颈部部分。连接头部和身体。这是正确的，以及“痛”。"
+        "chinese": "你脖子右边的一部分。连接你的头和身体。那就是正确答案，那个词是“酸痛”。"
     },
     {
         "start": 186.48,
         "end": 194.0,
         "english": "Soar means it hurts so I could have a sore back or sore knees. Soar is basically an adjective",
-        "chinese": "飞翔意味着它会痛，所以我可能会疼得腰酸背痛或者膝盖也疼。所以“飞翔”其实是一个形容词。"
+        "chinese": "soar 意味着伤到背部或膝盖，所以 soar 本质上是一个形容词"
     },
     {
         "start": 194.0,
         "end": 200.88,
         "english": "that describes pain. Pain so you have an ache in your throat. Alright so that's a sore throat",
-        "chinese": "那个描述疼痛。你嗓子疼吗？好的，那是因为你的喉咙痛了。"
+        "chinese": "描述的是喉咙痛。痛到喉咙里有异物感。好吧，这就是咽痛"
     },
     {
         "start": 200.88,
         "end": 207.76,
         "english": "and well she said that she has this sore throat and the doctor says I see yes you do sound",
-        "chinese": "而且她说她喉咙疼，医生说你确实听起来有。"
+        "chinese": "而且她说她喉咙有痰，医生说：“是的，你确实听起来不舒服。”"
     },
     {
         "start": 207.76,
         "end": 213.84,
         "english": "rather croaky. Okay croaky is a way to describe the way person sounds especially when they're",
-        "chinese": "挺嘶哑的。好吧，挺嘶哑的是形容一个人声音的方式，尤其是他们说话的时候。"
+        "chinese": "声音沙哑。声音沙哑是一种描述人说话方式的方法，尤其是当他们喉咙不舒服时。"
     },
     {
         "start": 213.84,
         "end": 220.0,
         "english": "talking and maybe their voice I think is very deep or rough. Right so usually if you have a",
-        "chinese": "嗯，他们的声音我觉得很深沉或者有点粗犷。对，所以通常如果你有这个情况的话，你可能会觉得很难受。"
+        "chinese": "谈起来或许他们的声音很沉或很粗糙。对了，一般来说，如果你有"
     },
     {
         "start": 220.0,
         "end": 225.44,
         "english": "sore throat or a very bad cough you sound a little bit croaky so you're like hey my throat or",
-        "chinese": "喉咙痛或者非常严重的咳嗽，听起来有点嘶哑，所以你就是：嘿，我的喉咙或"
+        "chinese": "喉咙有点痛或者咳嗽非常严重，听起来有些沙哑，所以你像是 Hey，我的喉咙/or 嗓子"
     },
     {
         "start": 225.44,
         "end": 231.68,
         "english": "it's a little bit. Exactly not a very nice way to sound. It comes from the way that frogs",
-        "chinese": "听起来有点小意思。其实并不是一个很好的方式。这源于青蛙的叫声方式。"
+        "chinese": "这有点儿。说起来确实不太礼貌。源自青蛙呱呱叫的声音"
     },
     {
         "start": 231.68,
         "end": 237.28,
         "english": "croak right. That's the sound that frogs make they croak. So yeah sometimes when you do have a",
-        "chinese": "呱呱的叫声，那是青蛙发出的声音。所以有时候当你有需要时，可能会听到\n青蛙呱呱叫呢。"
+        "chinese": "呱呱叫。这是青蛙发出的声音，它们会呱呱叫。所以有时候当你确实有"
     },
     {
         "start": 237.28,
         "end": 243.36,
         "english": "sore throat or a very bad cough people say that you have a frog in your throat. Right. Alright so",
-        "chinese": "喉咙痛或者咳嗽特别严重的人说你喉咙里有一只青蛙。对的，所以"
+        "chinese": "喉咙痛或者非常严重的咳嗽，人们说你“有青蛙在喉咙里”。没错。那么"
     },
     {
         "start": 243.36,
         "end": 250.08,
         "english": "that's the word croaky. Now moving on if you have a sore throat it's usually because your",
-        "chinese": "那就是“嘶哑的”这个词。如果你喉咙痛，通常是因为你的声带发炎了。"
+        "chinese": "这就是沙哑的喉咙。如果你嗓子疼，通常是由于你"
     },
     {
         "start": 250.08,
         "end": 257.36,
         "english": "tonsils are swollen. Okay so the first word here tonsils these are a body part they're in your throat",
-        "chinese": "扁桃体肿大。好的，这里的第一句话是“扁桃体”，这是人体的一部分，位于你的喉咙里。"
+        "chinese": "扁桃体肿大。好了，这里的第一个词是扁桃体，它们是身体的一部分，位于喉咙里"
     },
     {
         "start": 257.36,
         "end": 262.40000000000003,
         "english": "the very back of your throat and you usually have two of them. Some people don't have any though.",
-        "chinese": "你喉咙的后面，通常有两颗。有些人根本就没有。"
+        "chinese": "你喉咙深处的最底部，通常有两个。有些人则没有。"
     },
     {
         "start": 262.40000000000003,
         "end": 267.6,
         "english": "Right some people get them removed they're like little balls in the back of your throat and I don't",
-        "chinese": "确实有一些人会把它们从喉咙后面弄出来，感觉就像是后颈里的小球。我不喜欢。"
+        "chinese": "有些人把它们去掉，就像喉咙里有小球一样，我不懂。"
     },
     {
         "start": 267.6,
         "end": 272.32000000000005,
         "english": "really know what they do. I think they pick up some I don't know what they do really. I don't think",
-        "chinese": "真的知道他们做的是什么。我觉得他们学了一些我不认识的东西。我并不认为"
+        "chinese": "真的知道他们在做什么。我觉得他们捡到一些我不知道他们在做什么的。我不这么认为"
     },
     {
         "start": 272.32000000000005,
         "end": 278.0,
         "english": "you need them actually because a lot of people have them taken out when they're young but tonsils",
-        "chinese": "你其实需要他们，因为很多人在年轻的时候就已经取出来了。 tonsils"
+        "chinese": "你需要它们实际上因为很多人年轻时会把它们取出来，但就是扁桃体"
     },
     {
         "start": 278.0,
         "end": 283.84000000000003,
         "english": "when they are infected or when they are swollen are very very painful. You can have really bad",
-        "chinese": "当他们感染或肿胀时，非常非常疼痛。你可以有非常糟糕的情况。"
+        "chinese": "当它们感染或肿胀时，非常非常疼痛。你可以有非常糟糕的"
     },
     {
         "start": 283.84000000000003,
         "end": 289.20000000000005,
         "english": "sore throats. Right and usually they can cause fevers and stuff like that so some people get them",
-        "chinese": "喉咙痛。通常它们会导致发烧和其他情况，所以有些人会得这种病。"
+        "chinese": "喉咙痛。通常它们会引起发烧以及其他类似症状，所以有些人就会得这种病"
     },
     {
         "start": 289.20000000000005,
         "end": 296.16,
         "english": "removed and well as we said your tonsils are swollen so if they are swollen that means they are",
-        "chinese": "去掉并且正如我们之前说，您的扁桃体肿大，所以如果它们肿大，这意味着它们是。"
+        "chinese": "切除的，正如我们所说，你的扁桃体肿了，所以如果它们肿了，就意味着它们……"
     },
     {
         "start": 296.16,
         "end": 302.08000000000004,
         "english": "big. That's right so swollen means they're bigger than normal and you can say this about many",
-        "chinese": "真的挺大的。没错，肿胀的部位比正常要大很多，你可以这样形容许多地方。"
+        "chinese": "大。就是肿得厉害，意味着比正常更大，你可以这么说很多事。"
     },
     {
         "start": 302.08000000000004,
         "end": 307.28000000000003,
         "english": "different things for example maybe someone stepped on my toe and my toe really hurts and I look",
-        "chinese": "不同的事情，比如可能是有人踩了我的脚，我的脚真的很疼，我看起来很痛苦。"
+        "chinese": "不同的事情，比如可能有人踩了我的脚，我的脚真的疼，我看着"
     },
     {
         "start": 307.28000000000003,
         "end": 312.96000000000004,
         "english": "down and it's swollen that means my toe got bigger. Okay so this is an adjective when something is",
-        "chinese": "脚底肿了，意思是我的脚趾变大了。好的，这只是一个形容词，当某物是...的时候。"
+        "chinese": "这是一个形容词，表示某物肿了，所以我的脚趾变大了。好，那么这就是一个形容词，表示某物肿了。"
     },
     {
         "start": 312.96000000000004,
         "end": 320.64000000000004,
         "english": "swollen but the verb form to say that something swells. It gets bigger. It gets bigger to swell or",
-        "chinese": "肿胀但说成是膨胀。它变大了。变得更大是为了膨胀。"
+        "chinese": "肿了，但动词形式表示某物膨胀或增大。"
     },
     {
         "start": 320.71999999999997,
         "end": 328.64,
         "english": "the adjective it is swollen. All right and now she was talking a little bit about her sinuses that",
-        "chinese": "这个形容词肿了。好的，接下来她开始谈她的鼻窦问题。"
+        "chinese": "这个形容词是肿的。好吧，现在她开始稍微谈了一下她的鼻窦。"
     },
     {
         "start": 328.64,
         "end": 334.8,
         "english": "the her sinuses are a little blocked up. So sinuses are in your face you have them in your nose",
-        "chinese": "她的鼻窦有点堵塞。所以，你有鼻窦就长在你的鼻子里。"
+        "chinese": "她的鼻窦有些堵塞。鼻窦在脸上，就在鼻子里面"
     },
     {
         "start": 334.8,
         "end": 341.36,
         "english": "and under your eyes and when when they hurt it's actually quite painful and people say that",
-        "chinese": "而且，当它们真的痛的时候，其实还挺痛苦的。别人说的"
+        "chinese": "在你的眼里，而当它们疼起来的时候，其实相当痛的，人们说。"
     },
     {
         "start": 341.36,
         "end": 347.12,
         "english": "sometimes their sat their sinuses are aggravated or they have bad sinuses. This means they're having",
-        "chinese": "有时候他们的鼻窦发炎了，或者他们的鼻窦不好。这意味着他们正在经历\n\n（这里可以继续翻译其他文本）"
+        "chinese": "有时候他们的鼻窦会发炎或有不良的鼻窦。这意味着他们正在经历"
     },
     {
         "start": 347.12,
         "end": 353.52,
         "english": "a hard time breathing or their faces sore their eyes are sore. It's very common. Okay so that's",
-        "chinese": "呼吸困难或者脸部发红，眼睛也肿了。这种情况很常见。好的，那这是\n\n注：由于这是一个翻译任务，所以直接输出中文翻译结果即可。"
+        "chinese": "呼吸困难或脸和眼睛都疼。这很常见。好，那便是"
     },
     {
         "start": 353.52,
         "end": 361.04,
         "english": "sinuses isn't there actually a condition that if you have blocked sinuses all the time they call it",
-        "chinese": "鼻窦炎真的不是一个条件，如果你的鼻窦总是堵塞的话，他们就叫它"
+        "chinese": "鼻窦其实并没有一直堵塞的状况，如果一直有鼻窦阻塞的情况，他们称之为"
     },
     {
         "start": 361.04,
         "end": 367.76,
         "english": "sinusitis. Sinusitis. Yeah so that's a problem that comes back again and again. Okay and the",
-        "chinese": "鼻窦炎。鼻窦炎。没错，那是一个时不时就会回来的问题。好吧，然后是…"
+        "chinese": "鼻窦炎。鼻窦炎。好吧，这确实是一个反复出现的问题。"
     },
     {
         "start": 367.76,
         "end": 374.48,
         "english": "doctor also recommended her to rest because she is highly contagious. Okay so you want to stay",
-        "chinese": "医生也建议她多休息，因为她传染性很强。好的，你想要休息一下吗？"
+        "chinese": "医生也建议她休息，因为她非常具有传染性。好吧，你打算待着不动吗？"
     },
     {
         "start": 374.48,
         "end": 380.16,
         "english": "away from people who are contagious. This means that what disease they have or what illness they",
-        "chinese": "远离那些有传染性的人。这意味着他们所患的疾病或出现的病症。"
+        "chinese": "远离那些具有传染性的人员。这意味着他们所患的疾病或病症是什么。"
     },
     {
         "start": 380.16,
         "end": 384.8,
         "english": "have can affect other people. Right. So if I have the flu marker and I come to work it's pretty",
-        "chinese": "我会传染别人。对的。所以如果我有流感标志，去上班就挺严重的。"
+        "chinese": "有可能会影响到别人。对吧？所以我如果得了流感请假/休息一天，那上班就可能会受到影响。"
     },
     {
         "start": 384.8,
         "end": 390.16,
         "english": "contagious. It's very likely that you will get the flu. That's right. So a flu is very highly",
-        "chinese": "传染性很强。很可能会得流感。对，所以流感是非常高的。"
+        "chinese": "传染。你很可能得流感。没错。所以流感是非常容易传播的。"
     },
     {
         "start": 390.16,
         "end": 396.08000000000004,
         "english": "contagious or many other things are highly contagious. For example pink eye. Yeah. It's very contagious.",
-        "chinese": "传染性强或者很多其他的东西都会非常容易被传染。比如红眼病。是的，它特别容易传染。"
+        "chinese": "传染性或许多其他事情都具有很强的传染性。例如红眼病。是的，非常传染性强。"
     },
     {
         "start": 396.08000000000004,
         "end": 402.0,
         "english": "Very. But you know cancer is not contagious. That's right. If you have cancer I can't get it from",
-        "chinese": "当然。但是你知道癌症不是传染的。对了，如果你得癌症我从你那里得不到。"
+        "chinese": "非常。但你知道癌症是不传染的。没错。如果我有癌症，你也从我这里得不到"
     },
     {
         "start": 402.0,
         "end": 408.32,
         "english": "touching him. Right. Very good. So contagious. All right why don't we go back and listen to our",
-        "chinese": "好的。很好。很 contagious 呀。那我们回去听听吧，怎么样？"
+        "chinese": "接触他。对，很好。太有感染力了。好吧，我们何不回去听听我们的"
     },
     {
         "start": 408.32,
         "end": 412.0,
         "english": "dialogue again and we'll be back in a little bit to talk about fluency builder.",
-        "chinese": "再来一轮对话，一会儿我们就聊聊流利uilder吧。"
+        "chinese": "再聊一会儿，我们稍后会回来谈谈流利构建单元。"
     },
     {
         "start": 416.32,
         "end": 422.32,
         "english": "Good afternoon Chloe. I'm Dr. Evans. What seems to be the problem? Hi Dr. Evans. Thanks for seeing me",
-        "chinese": "下午好， Chloe。我是埃文斯博士。有什么问题吗？谢谢您来看我。"
+        "chinese": "下午好乔利。我是埃文斯医生。怎么了？埃文斯医生你好。感谢您见我"
     },
     {
         "start": 422.32,
         "end": 428.96,
         "english": "on such short notice. When I woke up this morning I had a really sore throat and a really bad cough.",
-        "chinese": "真的这么短的时间。早上醒来的时候，我喉咙特别疼，咳嗽也特别厉害。"
+        "chinese": "在这种短促的通知下。今天早上我醒来时喉咙非常痛，咳嗽得很厉害。"
     },
     {
         "start": 429.59999999999997,
         "end": 437.03999999999996,
         "english": "I think I'm coming down with the flu. I see. Yes you do sound rather croaky. Well let's have a look",
-        "chinese": "我觉得我可能得了流感。是的，听起来你嗓子有点沙哑。那我们来好好检查一下吧。"
+        "chinese": "我觉得我可能感冒了。是吗？听起来你确实有点沙哑。那我们看看吧。"
     },
     {
         "start": 437.03999999999996,
         "end": 444.71999999999997,
         "english": "shall we. Could you please open your mouth and say ah. Good yes. Your tonsils are a little swollen",
-        "chinese": "我们呢，你能不能张开嘴巴说啊。好嘛，你的扁桃体有点肿大了。"
+        "chinese": "我们先来吧。请你张开嘴发“啊”的音，好呀。你的扁桃体有点肿了"
     },
     {
         "start": 444.71999999999997,
         "end": 451.91999999999996,
         "english": "and red. How are your ears blocked at all? A little actually. My sinuses are a little blocked",
-        "chinese": "你的耳朵完全堵住了吗？其实有点。我的鼻窦有点堵塞了。"
+        "chinese": "和红。耳朵到底堵得怎么样？其实有点堵。鼻窦有点堵塞"
     },
     {
         "start": 451.91999999999996,
         "end": 458.64,
         "english": "up as well. I really feel terrible. Okay Chloe can you please breathe in and out slowly for me while",
-        "chinese": "好的，我也感觉很糟糕。柯莉，请你深呼吸一下，慢慢来。"
+        "chinese": "好，我真的很糟糕。好了，乔尔，你能请慢慢深呼吸吗，帮我一下？"
     },
     {
         "start": 458.64,
         "end": 467.2,
         "english": "I listen to your chest? Wow you really are all bunged up. You don't sound too good at all. Okay I'm",
-        "chinese": "我听你的胸口？哇，你真的都卡住了。你听起来不太好。好吧，我\n\n请假/休息一天"
+        "chinese": "我听你胸闷？哇，你真的病得不轻。听起来一点不好。好吧，我明白了"
     },
     {
         "start": 467.2,
         "end": 472.08,
         "english": "going to set you up with a bunch of antibiotics. You will need to take these orange pills twice a",
-        "chinese": "我将给你安排一些抗生素。你得把这些橙色的药片每天吃两次。"
+        "chinese": "将给你配一堆抗生素。你需要每天两次服用这些橙色的药丸。"
     },
     {
         "start": 472.08,
         "end": 477.28,
         "english": "day and these blue pills every evening. You will also have to take this cough medicine three times a",
-        "chinese": "每天早上吃这些蓝药片。你也得把这咳嗽药三次一起吃。"
+        "chinese": "每天这些蓝色的药丸，晚上服用。您还需要每天三次服用这种止咳药。"
     },
     {
         "start": 477.28,
         "end": 483.44,
         "english": "day after meals. Finally I'm giving you an inhaler to use every time you feel breathless just to",
-        "chinese": "饭后的一天。终于，我给你拿了一个吸入器，每次你喘不过气来的时候都用它。"
+        "chinese": "一天饭后。终于给你开了一次氧气罐，每次你感到呼吸困难时都使用，以减轻你的不适。"
     },
     {
         "start": 483.44,
         "end": 491.92,
         "english": "clear up your lungs. Whoa so many drugs. I hate swallowing pills. Am I able to go to work?",
-        "chinese": "清肺。哇塞，这么多药啊。我讨厌吞着药丸吃东西。我可以去上班吗？"
+        "chinese": "清理肺部。哇，这么多药物。我讨厌吞药片。我能去上班吗？"
     },
     {
         "start": 491.92,
         "end": 497.2,
         "english": "Absolutely not. You are highly contagious. You don't want to infect the rest of your co-workers do",
-        "chinese": "当然不是。你非常容易传染。你不想把其他同事也传染了，对吧？"
+        "chinese": "Absolutely not. 你非常具有传染性。你不希望感染到你剩下的同事们吧"
     },
     {
         "start": 497.2,
         "end": 502.32,
         "english": "you? I recommend staying in bed for at least three days and drinking plenty of fluids so you don't",
-        "chinese": "你？我建议至少躺床上三天，多喝水以免脱水。"
+        "chinese": "你？我建议至少在床上躺三天，多喝水以免脱水。"
     },
     {
         "start": 502.32,
         "end": 508.0,
         "english": "get weak and dehydrated. You can catch up on all the latest TV shows and movies. Okay would you mind",
-        "chinese": "你会变得虚弱和脱水。你可以补上所有最新的电视节目和电影。好，你介意吗"
+        "chinese": "体弱且脱水。你可以追上看尽最新的电视剧和电影。好吧，你介意吗？"
     },
     {
         "start": 508.0,
         "end": 516.08,
         "english": "writing me a doctor's note for work? Otherwise they may think I'm faking it. Sure no problem.",
-        "chinese": "写我一份工作上的医生证明？否则他们可能会怀疑我在装病。没问题。"
+        "chinese": "写份医生证明去上班？否则他们可能会以为我在装病。好的，没问题。"
     },
     {
         "start": 516.08,
         "end": 521.76,
         "english": "Here you are. Now off home in a way to bed. If you have any questions just give me a call.",
-        "chinese": "给你。现在去床上睡觉吧。有啥问题给我打个电话。"
+        "chinese": "这就够了，现在你可以回家睡觉了。如果有任何问题，请随时联系我。"
     },
     {
         "start": 521.76,
         "end": 526.08,
         "english": "Feel better soon and take care. Thanks Doc. Bye. Bye.",
-        "chinese": "很快感觉好些，好好休息。谢谢医生。再见。再见。"
+        "chinese": "早日康复，注意休息。多谢Doc。再见。再见。"
     },
     {
         "start": 530.16,
         "end": 534.96,
         "english": "All right we're back so now let's take a look at four key phrases that we have prepared for you",
-        "chinese": "好的，我们又回来了。现在让我们来看看我们为你准备的四个关键短语。"
+        "chinese": "好的，我们回来了，那么现在让我们来看看我们为你准备的四个关键短语"
     },
     {
         "start": 534.96,
         "end": 543.52,
         "english": "on Fluency Builder. Fluency Builder. So Chloe goes in to see her doctor, Dr. Evans and she says",
-        "chinese": "在《流利说》。我在《流利说》。所以克洛伊去见她的医生，埃文斯博士，她说"
+        "chinese": "在流利构建单元。流利构建单元。所以乔尔去见她的医生，埃文斯博士，并说"
     },
     {
         "start": 543.52,
         "end": 550.4000000000001,
         "english": "thanks for seeing me on such short notice. What's short notice? All right so basically Chloe made an",
-        "chinese": "谢谢这么短的时间见我。什么是短时间？好吧，所以其实 Chloe 是做了一个... 新闻资料包 延期 了。"
+        "chinese": "谢谢您这么短的时间来看我。什么叫“短时间”？好吧，基本上是克洛伊临时决定的"
     },
     {
         "start": 550.4000000000001,
         "end": 557.84,
         "english": "appointment with the doctor very late or very suddenly right so that's a short notice. Great so",
-        "chinese": "预约看医生的时间非常晚或者突然，这算是个短通知。不错呢"
+        "chinese": "医生的约会非常晚或突然，这就意味着通知很短。好的，那么"
     },
     {
         "start": 557.84,
         "end": 563.52,
         "english": "for example it's Friday night and she needs to make an appointment for Saturday morning.",
-        "chinese": "比如，今天是周五晚上，她需要在周六早上预约。"
+        "chinese": "例如周五晚上她需要周六早上预约。"
     },
     {
         "start": 563.52,
         "end": 568.0,
         "english": "That's pretty short notice that's not calling the doctor in advance. You can say this also when",
-        "chinese": "那这么短的时间，还没提前预约看医生。你可以这样表达。"
+        "chinese": "这真是短促的通知，也不提前叫医生来。你也可以这样用："
     },
     {
         "start": 568.0,
         "end": 573.1999999999999,
         "english": "you're talking to friends. You know I'm really sorry to cancel on such short notice but I can't",
-        "chinese": "你和朋友聊天。你知道我真的很抱歉突然取消，但我不能"
+        "chinese": "你和朋友们在聊。我知道我真的很抱歉这么短的前就取消了，但是我不能"
     },
     {
         "start": 573.1999999999999,
         "end": 578.16,
         "english": "go to dinner tonight. Right so I think it's very interesting the whole structure as you see",
-        "chinese": "今晚去吃饭吧。对，我觉得整个结构挺有意思的"
+        "chinese": "今晚去吃饭吧。对了，你看整个结构非常有趣。"
     },
     {
         "start": 578.8,
         "end": 585.68,
         "english": "on such short notice so as you said your example I'm really sorry to cancel on such short notice.",
-        "chinese": "既然你这么说，真的很抱歉临时取消了。"
+        "chinese": "如你所说，我真的很抱歉因为如此短的notice而取消。"
     },
     {
         "start": 585.68,
         "end": 592.72,
         "english": "On short notice. On such short notice. That's right. All right so moving on to our second phrase",
-        "chinese": "好的，那我们继续下一个短语。"
+        "chinese": "On short notice. On such short notice. 正是如此。那么，接下来我们讲第二个短语。"
     },
     {
         "start": 592.72,
         "end": 599.36,
         "english": "Chloe was explaining that she doesn't feel very well and she said I think I'm coming down with",
-        "chinese": "Chloe正在解释她感觉不太舒服，她说我觉得我可能要感冒了。"
+        "chinese": "Chloe正在解释她感觉不太舒服，她说我觉得自己可能要感冒了。"
     },
     {
         "start": 599.36,
         "end": 606.32,
         "english": "the flu. Okay so let's look at this verbal phrase here coming down with. Okay so you can come down",
-        "chinese": "流感。好的，我们来看看这个短语的使用情况。你感冒了。"
+        "chinese": "流感。好吧，我们来看一下这个口头表达“感冒下来”。好吧，你可以“请假/休息一天”了。"
     },
     {
         "start": 606.32,
         "end": 613.0400000000001,
         "english": "with many different illnesses but the verb here means this is the beginning of my illness. So I'm",
-        "chinese": "尽管我有很多不同的疾病，但这里的动词是指这是我的病情的开始。所以我现在是。"
+        "chinese": "面对多种疾病，但此处的动词意为这是我疾病的开始。所以我是"
     },
     {
         "start": 613.0400000000001,
         "end": 619.52,
         "english": "starting to feel the effects like you said Marco I'm feeling some symptoms. So I'm starting to get sick",
-        "chinese": "感觉像是你说的那样，Marco。我开始有些症状了。所以从今天开始我就开始生病了。"
+        "chinese": "Marco 你说的感觉像是这样，我确实开始有些症状了。所以我也开始觉得不舒服了"
     },
     {
         "start": 619.6,
         "end": 626.64,
         "english": "right. I'm coming down with a fever. Mm-hmm or I think I'm coming down with a cold.",
-        "chinese": "好的。我感冒了。嗯，我觉得我会得上呼吸道感染。"
+        "chinese": "嗯。我感冒了。呣，或者我觉得自己可能感冒了。"
     },
     {
         "start": 626.64,
         "end": 634.8,
         "english": "Mm-hmm very common. All right and the doctor started to check Chloe how she was breathing and",
-        "chinese": "嗯，没错。医生开始检查 Chloe 呼吸的情况了。"
+        "chinese": "嗯哼，非常常见。好的，医生开始检查乔希的呼吸情况。"
     },
     {
         "start": 634.8,
         "end": 640.4,
         "english": "think he listened to her lungs with his what is it called the stethoscope. Stethoscope. Stethoscope",
-        "chinese": "他用什么叫做听诊器的叫法来听她的肺呢？听诊器。听诊器"
+        "chinese": "他好像在用什么听她的肺，那是什么叫做听诊器。听诊器。听诊器。"
     },
     {
         "start": 641.04,
         "end": 648.16,
         "english": "and he said wow you are really all bunged up. All right so here he's basically saying that she's",
-        "chinese": "他说道：“哇，你真的是全都忙坏了。”好的，所以他说她基本上是说她已经安排得很满。"
+        "chinese": "而他说，哇，你真的伤痕累累。好吧，他基本上是这么说的，她已经……"
     },
     {
         "start": 648.16,
         "end": 654.0,
         "english": "very congested. That means that her breathing passageways like in her nose and her throat and her",
-        "chinese": "非常拥挤。这意味着她的呼吸通道，比如在鼻子和喉咙里，就像她的一样。"
+        "chinese": "非常拥堵。这意味着她的呼吸通道，比如鼻子和喉咙，"
     },
     {
         "start": 654.0,
         "end": 661.92,
         "english": "chest are very stuffy. There's things in them. Right. Usually mucus. Yeah, flam. Flam these are things",
-        "chinese": "胸部很闷。里面有一些东西。对了，通常是有痰。是的，是这样。"
+        "chinese": "胸腔非常压抑。里面有很多东西。对吧。通常是黏液。是的，流感。这些就是这些东西"
     },
     {
         "start": 661.92,
         "end": 666.3199999999999,
         "english": "that you know what's in your nose and you have a cold and you have to blow it out. That's flam",
-        "chinese": "你知道你鼻子里面是什么吗？你感冒了，得把鼻涕擤出来。那不是香水。"
+        "chinese": "你知道鼻子里有什么，你感冒了，得把它吹出去。那傻"
     },
     {
         "start": 666.3199999999999,
         "end": 672.88,
         "english": "and mucus. Yeah not not a very pretty thing. No very disgusting actually so maybe we should move",
-        "chinese": "而且是黏液。嗯，不怎么样吧。其实不是很恶心的，所以可能我们还是得换个地方吧。"
+        "chinese": "和黏液。嗯，不是很好看的东西。不，非常恶心。所以也许我们应该离开这里。"
     },
     {
         "start": 673.12,
         "end": 680.88,
         "english": "on to our next item. All right so she's all bunged up and the clear up. And so he recommended a",
-        "chinese": "好的，我们下一个项目。她都忙得乱七八糟的，清理一下就好了。所以他说推荐了一个"
+        "chinese": "接下来是我们的下一个项目。好吧，她已经收拾停当了，清理工作也完成了。于是他推荐了一位"
     },
     {
         "start": 680.88,
         "end": 688.08,
         "english": "couple of different medicine such as antibiotics, some pills and he also gave her an inhaler to",
-        "chinese": "几种不同的药物，比如抗生素、一些药片，还给她一个吸入器。"
+        "chinese": "几种不同的药物，如抗生素、一些药丸，他还给她配了一支吸入器来"
     },
     {
         "start": 688.08,
         "end": 697.28,
         "english": "clear up her lungs. Okay so an inhaler is basically a device that you use to put steroids in",
-        "chinese": "清清楚楚，肺部的痰就少了很多。对了，吸入剂其实就是一种你用来把激素放进去的装置。"
+        "chinese": "清理她的肺部。好吧，一个吸入器基本上是一种你用来往肺里喷激素的装置。"
     },
     {
         "start": 697.28,
         "end": 702.0,
         "english": "your lungs that will help you breathe. So some people when they're running or they're walking",
-        "chinese": "你的肺，这能帮你呼吸。所以有些人跑步或者走路时，会发现自己的肺变得更大了。"
+        "chinese": "你的肺将帮助你呼吸。所以有些人跑步或走路时"
     },
     {
         "start": 702.0,
         "end": 706.56,
         "english": "they're very short of breath and they can't breathe. Well there's a problem with this like",
-        "chinese": "他们呼吸很短，喘不过来气。这个问题挺严重的。"
+        "chinese": "他们气喘吁吁，呼吸困难。嗯，这个问题是这样的"
     },
     {
         "start": 706.56,
         "end": 714.24,
         "english": "asthma and they need to breathe this little inhaler. It's like a little tube. I think it's you",
-        "chinese": "哮喘，他们需要用这个小吸入器呼吸。就像一根小小的管子。我觉得应该是你"
+        "chinese": "哮喘，他们需要吸这个小雾化器。就像一个小管子一样。我觉得是给你用的"
     },
     {
         "start": 714.24,
         "end": 720.16,
         "english": "inhaled medicine from this little tube. Yeah so the medicine helps open up your passageways. It",
-        "chinese": "吸入的药从这个小管子里。是的，这种药能帮你打开你的气道。"
+        "chinese": "吸入了这个小管里的药物。嗯，所以这种药有助于打开你的呼吸道。"
     },
     {
         "start": 720.16,
         "end": 725.76,
         "english": "helps you breathe and it's very important for some people but in the case of an illness like",
-        "chinese": "它能让你呼吸顺畅，对有些人来说非常重要，但在某些疾病如"
+        "chinese": "它让你呼吸，对某些人来说非常重要，但在像疾病这样的情况下"
     },
     {
         "start": 725.76,
         "end": 731.44,
         "english": "your lungs are very congested. This helps you breathe on the short term. Right so basically clear",
-        "chinese": "你的肺部非常充血。这在短期内有助于你呼吸。对吧，所以基本上是清的。"
+        "chinese": "你的肺很 congestion。这在短期内有助于你呼吸。对吧，基本上就是清理了"
     },
     {
         "start": 731.44,
         "end": 738.5600000000001,
         "english": "up is to allow air or the movement of something within your body usually I think. Right but to clear",
-        "chinese": "上是允许空气或身体内部的移动通常我猜。但要清楚"
+        "chinese": "上是允许空气或身体内部的移动通常我想。但要澄清"
     },
     {
         "start": 738.5600000000001,
         "end": 743.9200000000001,
         "english": "up isn't necessarily about air it's basically a way to say that it will make this problem go away",
-        "chinese": "不是说up就是关于空气，更主要是一个表达方式，意思是它能解决这个问题。"
+        "chinese": "上并不是一定要空气，基本上是说这会让这个问题消失"
     },
     {
         "start": 743.9200000000001,
         "end": 750.1600000000001,
         "english": "to clear something up is to make the problem go. Right so I guess if you get medicine from a doctor",
-        "chinese": "为了澄清某事就是解决问题。没错，如果你从医生那里得到药的话。"
+        "chinese": "澄清某事就是让问题解决。所以我想如果从医生那里拿到药，那就是解决了？"
     },
     {
         "start": 750.1600000000001,
         "end": 756.24,
         "english": "he'll say okay this will help you clear up your throat. Right or if you have a problem with acne",
-        "chinese": "他会说这会帮你清理喉咙。对吗，或者你有痘痘问题？"
+        "chinese": "他会说，这有助于你清喉。或者如果你有痘痘的问题"
     },
     {
         "start": 756.24,
         "end": 761.0400000000001,
         "english": "maybe your doctor will give you some cream to help clear up your acne. Make it go away. Clear up",
-        "chinese": "也许你的医生会给你一些药膏来帮助消除痘痘。让它消失吧。清除"
+        "chinese": "可能你的医生会给你一些药膏帮助你清除痘痘。让它消失。清掉"
     },
     {
         "start": 761.04,
         "end": 766.3199999999999,
         "english": "your skin. Okay so a lot of great examples there why don't we go back and listen to the dialogue",
-        "chinese": "你的皮肤。哦，这些很棒的例子啊！我们为什么不回去听听对话呢？"
+        "chinese": "你的皮肤。好吧，有很多很棒的示例呢，我们何不去回顾一下对话"
     },
     {
         "start": 766.3199999999999,
         "end": 779.92,
         "english": "one last time. Good afternoon Chloe I'm Dr. Evans what seems to be the problem? Hi Dr. Evans",
-        "chinese": "最后一次。下午好， Chloe。我是埃文斯医生。有什么问题吗？您好，埃文斯医生。"
+        "chinese": "最后一次。下午好，乔利。我是埃文斯医生，有什么问题吗？你好，埃文斯医生。"
     },
     {
         "start": 779.92,
         "end": 786.16,
         "english": "thanks for seeing me on such short notice. When I woke up this morning I had a really sore throat",
-        "chinese": "谢谢这么短的时间见我。今天早上醒来的时候，我的喉咙特别疼。"
+        "chinese": "谢谢您这么短的notice就见我。今天早上醒来嗓子特别疼"
     },
     {
         "start": 786.24,
         "end": 793.8399999999999,
         "english": "and a really bad cough. I think I'm coming down with the flu. I see yes you do sound rather",
-        "chinese": "而且最近有点咳嗽挺严重的。我觉得我可能要得流感了。你看你这话听起来也是啊。"
+        "chinese": "而且咳得非常严重。我觉得自己可能感冒了。是吗，你听起来确实如此。"
     },
     {
         "start": 793.8399999999999,
         "end": 798.3199999999999,
         "english": "croaky. Well let's have a look shall we could you please open your mouth and say ah.",
-        "chinese": "嘶哑的声音。我们来好好看看吧，你能张开嘴巴说“啊”吗？"
+        "chinese": "沙哑的。那我们看看吧，你可以张开嘴发“啊”的声音吗。"
     },
     {
         "start": 800.88,
         "end": 805.8399999999999,
         "english": "Good yes your tonsils are a little swollen and red. How are your ears blocked at all?",
-        "chinese": "好的，你的扁桃体有点肿胀和发红。你的耳朵堵塞了吗？"
+        "chinese": "好的，你的扁桃体有些肿胀发红。耳朵有没有堵塞啊？"
     },
     {
         "start": 806.7199999999999,
         "end": 813.36,
         "english": "A little actually my sinuses are a little blocked up as well. I really feel terrible.",
-        "chinese": "我的鼻窦也稍微有点堵塞。我真的感觉不太好。"
+        "chinese": "实际上我的鼻窦也有些堵塞，我真的感觉很糟糕。"
     },
     {
         "start": 814.08,
         "end": 818.32,
         "english": "Okay Chloe can you please breathe in and out slowly for me while I listen to your chest?",
-        "chinese": "好的，珂朵莉，请你深呼吸，先吸气再呼气，让我听听你的胸部。"
+        "chinese": "好的，乔尔，你能慢慢吸气和呼气让我听听你的胸腔吗？"
     },
     {
         "start": 821.52,
         "end": 826.5600000000001,
         "english": "Wow you really are all bunged up you don't sound too good at all okay I'm going to set you",
-        "chinese": "哇，你真的太不干净了，你听起来也不怎么好。嗯，我打算让你"
+        "chinese": "哇你真是病得不轻，听起来一点不好啊好，我这就安排你休假/休息一天"
     },
     {
         "start": 826.5600000000001,
         "end": 831.44,
         "english": "up with a bunch of antibiotics. You will need to take these orange pills twice a day and these",
-        "chinese": "吃了一大堆抗生素。你每天需要吃这两种橙色的药片两次。"
+        "chinese": "服用多种抗生素。你需要每天两次服用这些橙色药片。"
     },
     {
         "start": 831.44,
         "end": 837.44,
         "english": "blue pills every evening. You will also have to take this cough medicine three times a day after meals.",
-        "chinese": "每晚吃蓝药丸。你还需要饭后三次服用这个止咳药。"
+        "chinese": "每天晚上服用蓝色药丸。用餐后每餐还要服此咳嗽药三次。"
     },
     {
         "start": 837.44,
         "end": 842.5600000000001,
         "english": "Finally I'm giving you an inhaler to use every time you feel breathless just to clear up your",
-        "chinese": "终于给你配了药，每次呼吸不畅的时候你就用，就是为了帮你清理一下。"
+        "chinese": "最后我给你一个吸入器，每次你感到呼吸不顺时就使用它来清理一下你的"
     },
     {
         "start": 842.56,
         "end": 851.8399999999999,
         "english": "lungs. Whoa so many drugs. I hate swallowing pills. Am I able to go to work? Absolutely not. You're",
-        "chinese": "肺。哇塞这么多药。我讨厌吞下药丸。我能不能去上班？绝对不能。你"
+        "chinese": "肺。哇，这么多药物。我讨厌吞药片。我能去上班吗？绝对不能。你"
     },
     {
         "start": 851.8399999999999,
         "end": 857.4399999999999,
         "english": "highly contagious. You don't want to infect the rest of your co-workers do you? I recommend staying",
-        "chinese": "传染性很强。你不想把同事都传染了是吗？我建议你请假休息一下。"
+        "chinese": "非常传染。你不希望感染到你其他的同事吧？我建议你待在家里。"
     },
     {
         "start": 857.4399999999999,
         "end": 862.56,
         "english": "in bed for at least three days and drinking plenty of fluids so you don't get weakened dehydrated.",
-        "chinese": "在床上至少躺了三天，并且多喝水以防止脱水。"
+        "chinese": "在床上至少躺三天，并且喝足够的水分以防止脱水。"
     },
     {
         "start": 862.56,
         "end": 867.5999999999999,
         "english": "You can catch up on all the latest TV shows and movies. Okay would you mind writing me a doctor's",
-        "chinese": "你可以追剧看最新电视剧和电影。好，你介意给我写医生的吗？"
+        "chinese": "你可以在新闻资料包中找到所有最新的电视剧和电影。好的，你会介意给我写一封医生的辞职信吗？"
     },
     {
         "start": 867.6,
         "end": 876.72,
         "english": "note for work otherwise they may think I'm faking it. Sure no problem here you are now off home",
-        "chinese": "工作笔记，否则他们可能会觉得我在作秀。没问题，你现在可以回家了。"
+        "chinese": "工作之外请注意，否则他们可能会认为我在装模作样。好的，没问题，你现在可以休息一天回家了。"
     },
     {
         "start": 876.72,
         "end": 881.76,
         "english": "in a way to bed if you have any questions just give me a call feel better soon and take care.",
-        "chinese": "在某种方式下，如果你有任何疑问，请随时联系我。尽快好起来，并祝你一切顺利！"
+        "chinese": "一种方式就是有问题可以直接打电话给我，祝你早日康复，保重。"
     },
     {
         "start": 882.48,
         "end": 884.64,
         "english": "Thanks Doc bye. Bye.",
-        "chinese": "谢谢Docbye。再见。"
+        "chinese": "谢谢-doc再见。再见。"
     },
     {
         "start": 885.12,
         "end": 898.56,
         "english": "All right so talking about illnesses and being contagious we mentioned this pink eye illness before.",
-        "chinese": "当然，说到生病和传染，我们之前提到了这种粉眼病。"
+        "chinese": "好的，说到疾病和具有传染性的话题时，我们之前提到过这种粉红色眼病。"
     },
     {
         "start": 898.56,
         "end": 904.24,
         "english": "So this is the colloquial way of saying conjunctivitis which is I don't know if anyone has ever gotten",
-        "chinese": "所以，这是用开玩笑的方式表达结膜炎的俗语，我不知道有没有人得过。"
+        "chinese": "这就是大家常说的结膜炎，我不知道有没有人得过"
     },
     {
         "start": 904.24,
         "end": 911.04,
         "english": "your eye gets very very red for a prolonged period of time. That's right and it itches a lot.",
-        "chinese": "你的眼睛会因为长时间发红而变得特别红。没错，还痒得很厉害。"
+        "chinese": "你的眼睛会红肿很长时间，而且很痒。"
     },
     {
         "start": 911.8399999999999,
         "end": 916.48,
         "english": "And so already your eye is very red or very pink like the name says but you really want to",
-        "chinese": "所以，你的双眼已经红彤彤的，就像名字说的那样，你真的非常想要。"
+        "chinese": "而你的眼睛已经非常红或者非常粉红，正如它的名字一样，但你真的想要"
     },
     {
         "start": 916.48,
         "end": 922.8,
         "english": "scratch it and it's really it's really hard not to. Yeah and I think you treated by means of some",
-        "chinese": "挠一下，真的很难不。嗯，我觉得你用某种方式对待了我。"
+        "chinese": "摸一下真是很难不被吸引。是啊，你好像被某种方式对待了。"
     },
     {
         "start": 922.8,
         "end": 930.0,
         "english": "eye drops. Yeah and you have to wait. I actually had a very bad case of pink eye once that I couldn't",
-        "chinese": "眼药水。嗯，你得等。我以前真的得了非常严重的结膜炎，那可是那种我根本不能忍受的。"
+        "chinese": "眼药水。是的，你得等。其实我曾经有过一次很严重的红眼病，一直治不好"
     },
     {
         "start": 930.0,
         "end": 936.9599999999999,
         "english": "just clear up with drops but the doctor gave me some eye drops they were so strong that I put them",
-        "chinese": "好的，我明白了。就清掉眼药水了，但是医生给我开了些眼药水，它们太强了，我只好把它们放进了嘴里。"
+        "chinese": "只清理了一下，但医生给我开了些眼药水，它们非常强，我放得太多了。"
     },
     {
         "start": 936.96,
         "end": 944.08,
         "english": "in my eye and I can taste them. Oh wow. Yeah so apparently it's very strange and it wouldn't",
-        "chinese": "在我的眼里，我能尝到它们。哦哇。是的，看来这真的很奇怪，而且不会发生。"
+        "chinese": "在眼里，在嘴里都能尝到。哦 wow。是的， Apparently, it's very strange, and it wouldn't"
     },
     {
         "start": 944.08,
         "end": 950.1600000000001,
         "english": "clear up so then I had to get some kind of like a clear gel put in my eye and my eye patched up",
-        "chinese": "然后我得弄点像清液一样的眼药水，把眼睛给弄好了。"
+        "chinese": "清理了一下，然后我不得不在我的眼睛里注入某种像水晶凝胶，并且我的眼睛被包扎了。"
     },
     {
         "start": 950.1600000000001,
         "end": 955.2800000000001,
         "english": "for like two days. Oh wow. Yeah so I was running around with one eye it was crazy. Well I've never",
-        "chinese": "两天前。哇哦。对，我跑来跑去的，好疯狂。从来都没有这么忙过。"
+        "chinese": "两天左右吧。哦 wow 。是啊，我当时一只眼睛在看东西，那真是太疯狂了。嗯，我以前从未经历过这样的事情。"
     },
     {
         "start": 955.2800000000001,
         "end": 960.4000000000001,
         "english": "had it but I know that it's very very contagious like we were saying earlier and so if a student",
-        "chinese": "确实，我有它，但我知道它非常非常容易传播。我们刚才说的。所以如果一个学生\n（语气自然地）"
+        "chinese": "有，我知道它非常非常传染，正如我们之前所说的，所以如果一个学生"
     },
     {
         "start": 960.4000000000001,
         "end": 966.24,
         "english": "at a school gets pink eye all the parents get very nervous because it's very very likely that",
-        "chinese": "在一所学校里，如果所有家长都得了红眼病，那可真是让家长们非常紧张的事情。因为这种情况发生的概率真的非常高。"
+        "chinese": "在一所学校，如果一个孩子得了红眼病，所有的家长都会非常紧张，因为这非常有可能是由于……（此处省略具体原因）"
     },
     {
         "start": 966.24,
         "end": 970.48,
         "english": "he or she will give it to another person. Yeah because you know kids if you touch your eye and you",
-        "chinese": "他或她会把它给别人。是的，因为你认识的孩子如果摸了眼睛，你知道他们会怎么做。"
+        "chinese": "他会把它交给另一个人。你知道的，孩子们，如果你摸了眼睛然后"
     },
     {
         "start": 970.48,
         "end": 976.0,
         "english": "touch someone else all of a sudden they have this disease. Exactly so yeah it's very common thing",
-        "chinese": "突然有人得了这种病，这真是太常见了。是啊，真是这样。"
+        "chinese": "突然有人得了这种病，Exactly这么说，它是非常常见之事。"
     },
     {
         "start": 976.0,
         "end": 983.92,
         "english": "and I think with especially with kids they always get all these things pink eye measles they get",
-        "chinese": "而且我觉得，尤其是对孩子来说，他们总是得到这些粉色的、流鼻涕的小病。"
+        "chinese": "而且我觉得尤其是对于孩子来说，他们总是会得到这些东西，比如红眼病、麻疹。"
     },
     {
         "start": 983.92,
         "end": 988.8,
         "english": "chicken pox chicken pox a lot of different disease we actually have a lesson on chicken pox you",
-        "chinese": "小时候我得过水痘，当时可不少见。现在我们这课上就是专门讲水痘的。"
+        "chinese": "水痘 水痘是一种很多不同的疾病，我们其实有一节关于水痘的课"
     },
     {
         "start": 988.8,
         "end": 992.72,
         "english": "guys should check that one out but if you have any questions any comments or any other doubts",
-        "chinese": "哥们儿，你们得看看那个。不过如果你有任何问题、任何评论或者是其他疑问，都可以提出来哦。"
+        "chinese": "gentlemen, 你们可以看看那个，如果有任何问题、评论或其他疑虑，请随时提出。"
     },
     {
         "start": 992.72,
         "end": 996.72,
         "english": "please come to englishpod.com where we're there to answer them. We'll see you there. Bye.",
-        "chinese": "请来到英语Pod.com，那里我们是来回答他们的。到时候见。bye."
+        "chinese": "请来到englishpod.com，我们那里可以解答他们的问题。再见。"
     }
 ]

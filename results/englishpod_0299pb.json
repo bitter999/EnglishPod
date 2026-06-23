@@ -3,37 +3,37 @@
         "start": 0.0,
         "end": 3.16,
         "english": "Hello everyone and welcome to EnglishPod.",
-        "chinese": "你好，大家，欢迎来到英语听力。"
+        "chinese": "大家好，欢迎来到英语pod。"
     },
     {
         "start": 3.16,
         "end": 4.16,
         "english": "My name is Marco.",
-        "chinese": "我的名字是Marco。"
+        "chinese": "我的名字是马可。"
     },
     {
         "start": 4.16,
         "end": 8.24,
         "english": "My name is Catherine and we're going shopping today at EnglishPod.",
-        "chinese": "我的名字是凯特，今天我要去英语角购物。"
+        "chinese": "我的名字是凯瑟琳，今天我们去英语pod购物。"
     },
     {
         "start": 8.24,
         "end": 9.24,
         "english": "That's right.",
-        "chinese": "正确。翻译成中文是：“那没错。”"
+        "chinese": "没错。"
     },
     {
         "start": 9.24,
         "end": 13.280000000000001,
         "english": "Today we are going to the store because we want to return a product.",
-        "chinese": "今天我们去商店是因为我们要退货。"
+        "chinese": "今天我们要去商店因为想要退货。"
     },
     {
         "start": 13.280000000000001,
         "end": 18.240000000000002,
         "english": "So maybe the product that we bought had some problem and we want our money back.",
-        "chinese": "所以，也许我们购买的产品可能有些问题，我们需要我们的钱回来。"
+        "chinese": "所以也许我们购买的产品有问题，希望退款。"
     },
     {
         "start": 18.240000000000002,
@@ -45,13 +45,13 @@
         "start": 19.240000000000002,
         "end": 22.6,
         "english": "So let's take a listen to today's dialogue and we'll be back in a moment to talk more about",
-        "chinese": "英语：所以让我们听听今天的对话，然后在稍后再聊更多。"
+        "chinese": "所以让我们先听听今天的对话，一会儿我们再聊得更详细一些"
     },
     {
         "start": 22.6,
         "end": 23.88,
         "english": "what's going on.",
-        "chinese": "英语：什么问题？"
+        "chinese": "怎么回事。"
     },
     {
         "start": 23.88,
@@ -63,37 +63,37 @@
         "start": 24.88,
         "end": 32.879999999999995,
         "english": "I would like to return this TV.",
-        "chinese": "我想要把这台电视归还给你。"
+        "chinese": "我想退回这部电视。"
     },
     {
         "start": 32.879999999999995,
         "end": 33.879999999999995,
         "english": "Sure.",
-        "chinese": "是的。"
+        "chinese": "好的。"
     },
     {
         "start": 33.879999999999995,
         "end": 35.08,
         "english": "Do you have a receipt?",
-        "chinese": "英语：你有收据吗？"
+        "chinese": "您有收据吗？"
     },
     {
         "start": 35.08,
         "end": 36.08,
         "english": "Yeah.",
-        "chinese": "是。"
+        "chinese": "嗯。"
     },
     {
         "start": 36.08,
         "end": 37.08,
         "english": "Here you go.",
-        "chinese": "在这里。"
+        "chinese": "这就来了。"
     },
     {
         "start": 37.08,
         "end": 40.879999999999995,
         "english": "Actually, I also want to return this keyboard.",
-        "chinese": "实际上，我也有想把这键盘还给你的打算。"
+        "chinese": "实际上，我也想把这键盘退掉。"
     },
     {
         "start": 40.879999999999995,
@@ -105,19 +105,19 @@
         "start": 41.879999999999995,
         "end": 45.8,
         "english": "May I ask what the reason for returning these products is?",
-        "chinese": "英语：我能否请您告诉我这些产品的返销原因？"
+        "chinese": "请问退货的原因是什么？"
     },
     {
         "start": 45.8,
         "end": 52.0,
         "english": "The TV flickers a lot when I'm watching a movie and at times the image is not very clear.",
-        "chinese": "英语：电视经常闪烁，有时图像不是很清晰。"
+        "chinese": "电视看电影时闪烁得很厉害，有时画面也不太清晰。"
     },
     {
         "start": 52.0,
         "end": 53.2,
         "english": "I see.",
-        "chinese": "我看到。"
+        "chinese": "我看了一下。"
     },
     {
         "start": 53.2,
@@ -129,73 +129,73 @@
         "start": 54.68,
         "end": 59.6,
         "english": "I spilled some coffee on it and now it won't work.",
-        "chinese": "英语：它现在不工作了。"
+        "chinese": "我把咖啡洒在它上面了，现在它就不工作了。"
     },
     {
         "start": 59.6,
         "end": 64.16,
         "english": "I'm sorry, ma'am, but we can only exchange or refund defective products.",
-        "chinese": "对不起，女士，但我们只能退货或退款有问题的产品。"
+        "chinese": "对不起，女士，但我们只能换货或退款对的产品。"
     },
     {
         "start": 64.16,
         "end": 67.6,
         "english": "We cannot take responsibility for misuse or damages.",
-        "chinese": "我们不能对使用或损坏负责。"
+        "chinese": "我们不承担滥用或损坏的责任。"
     },
     {
         "start": 67.6,
         "end": 68.6,
         "english": "Fine.",
-        "chinese": "英语：很好。"
+        "chinese": "好。"
     },
     {
         "start": 68.6,
         "end": 72.64,
         "english": "I don't know why they make these things so delicate anyways.",
-        "chinese": "我并不知道为什么他们这么小心地制造这些东西。"
+        "chinese": "我搞不懂为什么他们要把这些东西做得如此脆弱。"
     },
     {
         "start": 72.64,
         "end": 76.4,
         "english": "Alright, we're back.",
-        "chinese": "好的，我已经准备好。"
+        "chinese": "好的，我们回来了。"
     },
     {
         "start": 76.4,
         "end": 82.24000000000001,
         "english": "So now let's take a look at some of those keywords on Language Takeaway.",
-        "chinese": "所以现在让我们看看一些这些关键词在语言分享中。"
+        "chinese": "那么现在让我们来看看语言 takeaway 中的一些关键词。"
     },
     {
         "start": 82.24000000000001,
         "end": 84.64,
         "english": "Language Takeaway.",
-        "chinese": "语言总结。"
+        "chinese": "语言 takeaway。"
     },
     {
         "start": 84.64,
         "end": 87.4,
         "english": "We've got a great bunch of words for you here today.",
-        "chinese": "今天在这里给你们带来了许多好词。"
+        "chinese": "我们这里今天有好多好词。"
     },
     {
         "start": 87.4,
         "end": 91.88,
         "english": "The first three are nouns and then afterwards we've got a couple of adjectives to describe",
-        "chinese": "英语：它是一点和拍相机。"
+        "chinese": "这三者是名词，然后后面有一些形容词来描述"
     },
     {
         "start": 91.88,
         "end": 92.88,
         "english": "those nouns.",
-        "chinese": "这些名词。"
+        "chinese": "那些名词。"
     },
     {
         "start": 92.88,
         "end": 95.08,
         "english": "But first up, we have the word receipt.",
-        "chinese": "但是首先，我们有收据。"
+        "chinese": "但首先，我们有收据。"
     },
     {
         "start": 95.08,
@@ -207,7 +207,7 @@
         "start": 96.08,
         "end": 101.4,
         "english": "So we want to return the television and the worker there asks us if we have the receipt.",
-        "chinese": "所以我们要把电视和那里的人问我们有没有收据。"
+        "chinese": "所以我们想退货，那边的工作人员询问我们是否还有收据。"
     },
     {
         "start": 101.4,
@@ -219,19 +219,19 @@
         "start": 102.4,
         "end": 108.8,
         "english": "A receipt is a small piece of paper that you receive from a clerk or a server after you",
-        "chinese": "收款单是你从服务员或收银员那里收到的小纸条。"
+        "chinese": "一张收据是一张小纸片，你从店员或服务员那里收到后"
     },
     {
         "start": 108.8,
         "end": 109.8,
         "english": "buy something.",
-        "chinese": "购买一些。"
+        "chinese": "购买某物。"
     },
     {
         "start": 110.16,
         "end": 115.96,
         "english": "So if I buy a TV, I will have this small piece of paper that says that I paid $500 for",
-        "chinese": "所以，如果我买一台电视，我会有一张小纸条，上面写着“支付了500美元”。"
+        "chinese": "所以，如果我买一台电视，我会有一张小纸条写着我花了500美元"
     },
     {
         "start": 115.96,
@@ -249,13 +249,13 @@
         "start": 117.96,
         "end": 123.24,
         "english": "So usually they will ask you for the receipt to see when you bought the product and if",
-        "chinese": "所以通常他们会要求你提供购物发票，以确认你购买的产品何时开始使用。"
+        "chinese": "所以通常他们会要你的收据来查看你是什么时候买的这个产品，以及是否还有退换货的期限"
     },
     {
         "start": 123.24,
         "end": 125.8,
         "english": "you bought the product at that store.",
-        "chinese": "你在这家商店买的产品。"
+        "chinese": "你是在那家店买的那个产品。"
     },
     {
         "start": 125.8,
@@ -267,73 +267,73 @@
         "start": 126.8,
         "end": 132.24,
         "english": "So the receipt has all sorts of information, date, time, method of payments, cost, all those",
-        "chinese": "所以收据上列出了各种信息，包括日期、时间、付款方式、费用等。"
+        "chinese": "那么收据上有关于各种信息，包括日期、时间、支付方式、费用等等"
     },
     {
         "start": 132.24,
         "end": 133.24,
         "english": "things.",
-        "chinese": "事物。"
+        "chinese": "事情。"
     },
     {
         "start": 133.24,
         "end": 134.24,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 134.24,
         "end": 137.04,
         "english": "And it's very important if you ever want to return something.",
-        "chinese": "A、如果经常想拿回东西，那么你就会非常重视这一点。"
+        "chinese": "而且如果你以后想要退货的话非常重要。"
     },
     {
         "start": 137.04,
         "end": 142.6,
         "english": "Now later on in the dialogue, the character explains why he wants to return the TV.",
-        "chinese": "现在在对话的最后，角色解释为什么他想把电视送回去。"
+        "chinese": "现在后来在对话中，角色解释他为何要归还电视。"
     },
     {
         "start": 142.6,
         "end": 144.23999999999998,
         "english": "Now Marco, why does he want to do that?",
-        "chinese": "现在莫卡，他为什么要这么做？"
+        "chinese": "现在马可，他为什么要这么做？"
     },
     {
         "start": 144.23999999999998,
         "end": 148.23999999999998,
         "english": "Well, he has a problem with the TV when he's watching a movie.",
-        "chinese": "英语：嗯，他最近有电视问题，看电影的时候。"
+        "chinese": "嗯，他看电视看电影时有问题。"
     },
     {
         "start": 148.23999999999998,
         "end": 151.2,
         "english": "Basically, the image is not very clear.",
-        "chinese": "基本来说，图像不是很清晰。"
+        "chinese": "基本上，图片不是很清晰。"
     },
     {
         "start": 151.2,
         "end": 153.48,
         "english": "So this is the keyword image.",
-        "chinese": "所以这是关键词图像。"
+        "chinese": "这就是关键词图。"
     },
     {
         "start": 153.48,
         "end": 155.51999999999998,
         "english": "So image can mean a couple of different things.",
-        "chinese": "所以图像可以意味着不同的东西。"
+        "chinese": "那么“image”可以有多种含义。"
     },
     {
         "start": 155.51999999999998,
         "end": 160.95999999999998,
         "english": "You might hear the word image to mean a photograph or a picture like on a computer.",
-        "chinese": "英语：你可能听到这个词“图像”意味着一张照片或像电脑上的图片一样。"
+        "chinese": "你可能会听说“image”这个词，指的是像电脑上的照片那样的图片。"
     },
     {
         "start": 160.95999999999998,
         "end": 167.0,
         "english": "But in this case, the image is how well you can see the images on TV, the things on TV.",
-        "chinese": "但是在这个情况下，图像的清晰度取决于你能否在电视上看到这些图像。"
+        "chinese": "但在此情况下，图片是您在电视上看到的图像质量以及电视上的事物。"
     },
     {
         "start": 167.0,
@@ -345,13 +345,13 @@
         "start": 168.0,
         "end": 173.92,
         "english": "So on TV, it's like you're seeing many, many images all at once or very rapidly together.",
-        "chinese": "英语：所以，当你在电视上观看时，你仿佛正在看到许多、许多图像或非常快速地一起出现。"
+        "chinese": "所以电视上看起来像是你同时看到了很多很多的图像，或者说是快速地一起看到。"
     },
     {
         "start": 173.92,
         "end": 180.2,
         "english": "So maybe if you can't see clearly, you say that the image is not clear on the TV.",
-        "chinese": "所以，如果我看不清电视画面，你可以说图像不清楚。"
+        "chinese": "所以也许你如果看不清楚，你说电视上的画面不清晰。"
     },
     {
         "start": 180.2,
@@ -363,13 +363,13 @@
         "start": 181.2,
         "end": 185.52,
         "english": "So if it's fuzzy, like there's gray and black, the image is not clear.",
-        "chinese": "所以，如果图像模糊，比如有灰和黑的背景，那么图像不是清晰的。"
+        "chinese": "所以如果是模糊的，比如有灰色和黑色，图像就不清晰。"
     },
     {
         "start": 185.52,
         "end": 188.4,
         "english": "You can also say that, you know, I really like my new TV.",
-        "chinese": "英语：你也可以这么说，你知道，我对新电视真的很好。"
+        "chinese": "你可以这么说，你知道我喜欢我的新电视。"
     },
     {
         "start": 188.4,
@@ -393,25 +393,25 @@
         "start": 192.2,
         "end": 195.8,
         "english": "And not only are we returning a TV, but we're also returning a keyboard.",
-        "chinese": "而且，我们不仅归还了电视，而且还归还了键盘。"
+        "chinese": "而且我们不仅退回了一台电视，还退回了一个键盘。"
     },
     {
         "start": 196.32000000000002,
         "end": 196.8,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 196.8,
         "end": 201.56,
         "english": "A keyboard, a key is something that you can push.",
-        "chinese": "键盘，键是你可以按下的东西。"
+        "chinese": "键盘，一个键就是你可以按下 things。"
     },
     {
         "start": 201.56,
         "end": 208.52,
         "english": "But a keyboard is this thing that you use with your computer to type words.",
-        "chinese": "但是，键盘是这个东西，你用来打字的工具。"
+        "chinese": "但键盘就是你用电脑打字的东西。"
     },
     {
         "start": 208.52,
@@ -423,13 +423,13 @@
         "start": 209.52,
         "end": 214.8,
         "english": "So many of you who are using the website as we speak are using a keyboard and a mouse.",
-        "chinese": "所以，你们在我们讲话时使用的键盘和鼠标等设备很多。"
+        "chinese": "那么你们当中许多人在此时此刻使用网站时，都是在用键盘和鼠标。"
     },
     {
         "start": 214.8,
         "end": 220.12,
         "english": "So these are probably one of the two most well-known objects when you're using a computer.",
-        "chinese": "英语：所以这些很可能是你使用电脑时最著名的两个对象之一。"
+        "chinese": "这就是你使用电脑时可能最熟悉的一个对象之一。"
     },
     {
         "start": 220.12,
@@ -441,19 +441,19 @@
         "start": 221.12,
         "end": 223.52,
         "english": "And keyboards come in many different shapes and sizes.",
-        "chinese": "而且键盘的形状和大小多种多样。"
+        "chinese": "键盘有很多种不同的形状和大小。"
     },
     {
         "start": 223.52,
         "end": 227.0,
         "english": "You can buy French keyboards and Russian keyboards.",
-        "chinese": "你可以在网上购买法国键盘和俄罗斯键盘。"
+        "chinese": "你可以购买法语键盘和俄语键盘。"
     },
     {
         "start": 227.0,
         "end": 230.60000000000002,
         "english": "So keyboard is the general word for this tool.",
-        "chinese": "所以键盘是这个工具的通用术语。"
+        "chinese": "所以键盘就是这个工具的通用术语。"
     },
     {
         "start": 230.60000000000002,
@@ -465,31 +465,31 @@
         "start": 231.60000000000002,
         "end": 236.84,
         "english": "So we are returning the keyboard and the clerk explains that we can only return it if it",
-        "chinese": "所以，我们把键盘和柜员解释说，只有如果它能归还。"
+        "chinese": "所以我们需要把键盘退回去，前台解释说我们只能在以下条件下退货："
     },
     {
         "start": 236.84,
         "end": 238.32000000000002,
         "english": "is defective.",
-        "chinese": "是的。"
+        "chinese": "有缺陷。"
     },
     {
         "start": 238.32000000000002,
         "end": 240.20000000000002,
         "english": "If the product is defective.",
-        "chinese": "如果产品有问题。"
+        "chinese": "如果产品有缺陷。"
     },
     {
         "start": 240.20000000000002,
         "end": 241.20000000000002,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 241.20000000000002,
         "end": 244.56,
         "english": "So this is one of those adjectives I talked about a minute ago.",
-        "chinese": "英语：所以这个是我在刚才提到的那个副词。"
+        "chinese": "这就是我刚才提到的那种形容词。"
     },
     {
         "start": 244.56,
@@ -501,13 +501,13 @@
         "start": 245.8,
         "end": 250.12,
         "english": "So my keyboard is defective or this TV is defective.",
-        "chinese": "所以我的键盘有问题，或者这个电视有问题。"
+        "chinese": "所以我的键盘坏了，或者这台电视有问题。"
     },
     {
         "start": 250.12,
         "end": 252.24,
         "english": "That means it doesn't work.",
-        "chinese": "这句话的中文翻译是：“这意味着它不起作用。”"
+        "chinese": "这就是不行。"
     },
     {
         "start": 252.24,
@@ -519,49 +519,49 @@
         "start": 253.28,
         "end": 254.76000000000002,
         "english": "A defective product.",
-        "chinese": "英文：一个故障产品。"
+        "chinese": "一件缺陷产品。"
     },
     {
         "start": 254.76000000000002,
         "end": 256.32,
         "english": "It's not working properly.",
-        "chinese": "英语：它不正常工作。"
+        "chinese": "它工作不正常。"
     },
     {
         "start": 256.32,
         "end": 258.44,
         "english": "It has some problem.",
-        "chinese": "英语：它有一些问题。"
+        "chinese": "它有一些问题。"
     },
     {
         "start": 258.44,
         "end": 264.24,
         "english": "And well, the guy was complaining that he didn't understand why these things, like the",
-        "chinese": "而且，那个家伙抱怨道，他不明白这些东西，比如“这些”是什么意思。"
+        "chinese": "而且，那人抱怨说他不明白为什么会有这些事情，比如"
     },
     {
         "start": 264.24,
         "end": 266.32,
         "english": "keyboard are so delicate.",
-        "chinese": "键盘是这么脆弱的。"
+        "chinese": "键盘如此脆弱。"
     },
     {
         "start": 266.32,
         "end": 267.32,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 267.32,
         "end": 273.36,
         "english": "Delicate is something you might see written on the side of a box when you receive a package.",
-        "chinese": "轻的，你可能会在包裹旁边看到写有“轻”的字样。"
+        "chinese": "包装收到的包裹时你可能会看到写在盒子侧面的东西是精致。"
     },
     {
         "start": 273.36,
         "end": 276.44,
         "english": "Something that is delicate breaks very easily.",
-        "chinese": "易碎的东西容易被破坏。"
+        "chinese": "什么东西很脆弱很容易就破了。"
     },
     {
         "start": 276.44,
@@ -573,43 +573,43 @@
         "start": 277.44,
         "end": 278.8,
         "english": "So you have to handle with care.",
-        "chinese": "所以你得小心处理。"
+        "chinese": "所以必须小心处理。"
     },
     {
         "start": 278.8,
         "end": 281.0,
         "english": "So for example, glass is very delicate.",
-        "chinese": "英语：所以例如，玻璃非常脆弱。"
+        "chinese": "例如，玻璃非常脆弱。"
     },
     {
         "start": 281.0,
         "end": 282.08,
         "english": "It can break easily.",
-        "chinese": "英语：它很容易碎。"
+        "chinese": "它容易折断。"
     },
     {
         "start": 282.08,
         "end": 283.08,
         "english": "All right.",
-        "chinese": "好的，以下是“所有好”的翻译："
+        "chinese": "好的。"
     },
     {
         "start": 283.08,
         "end": 285.44,
         "english": "Glass is delicate, but stones.",
-        "chinese": "玻璃是轻的，但石头。"
+        "chinese": "玻璃脆弱，但石。"
     },
     {
         "start": 285.44,
         "end": 286.44,
         "english": "A big rock.",
-        "chinese": "大石头。"
+        "chinese": "一块大石头。"
     },
     {
         "start": 286.44,
         "end": 287.64,
         "english": "That's not delicate.",
-        "chinese": "这句话的中文翻译是：“这不是娇贵。”"
+        "chinese": "那不算细腻。"
     },
     {
         "start": 287.64,
@@ -621,19 +621,19 @@
         "start": 288.64,
         "end": 289.64,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 289.64,
         "end": 291.28,
         "english": "So that's all we have for language takeaway.",
-        "chinese": "所以，这就是我们能用的语言总结。"
+        "chinese": "这就是我们语言 takeaway 的所有内容。"
     },
     {
         "start": 291.28,
         "end": 296.64,
         "english": "Let's review everything and listen to our dialogue.",
-        "chinese": "让我们回顾一下所有内容，听听我们的对话。"
+        "chinese": "让我们回顾一切，听听我们的对话。"
     },
     {
         "start": 296.64,
@@ -645,37 +645,37 @@
         "start": 300.24,
         "end": 302.64,
         "english": "I would like to return this TV.",
-        "chinese": "我想要把这台电视归还给你。"
+        "chinese": "我想退回这部电视。"
     },
     {
         "start": 302.64,
         "end": 303.64,
         "english": "Sure.",
-        "chinese": "是。"
+        "chinese": "好的。"
     },
     {
         "start": 303.64,
         "end": 304.64,
         "english": "Do you have a receipt?",
-        "chinese": "是的，你有收据吗？"
+        "chinese": "您有收据吗？"
     },
     {
         "start": 304.64,
         "end": 305.64,
         "english": "Yeah.",
-        "chinese": "是。"
+        "chinese": "嗯。"
     },
     {
         "start": 305.64,
         "end": 306.64,
         "english": "Here you go.",
-        "chinese": "在这里。"
+        "chinese": "这就来了。"
     },
     {
         "start": 306.64,
         "end": 310.4,
         "english": "Actually, I also want to return this keyboard.",
-        "chinese": "实际上，我也有想把这键盘还给你的打算。"
+        "chinese": "实际上，我也想把这键盘退掉。"
     },
     {
         "start": 310.4,
@@ -687,109 +687,109 @@
         "start": 311.56,
         "end": 315.35999999999996,
         "english": "May I ask what the reason for returning these products is?",
-        "chinese": "英语：我能否请你告诉我这些产品的返销原因？"
+        "chinese": "请问退货的原因是什么？"
     },
     {
         "start": 315.35999999999996,
         "end": 318.76,
         "english": "The TV flickers a lot when I am watching a movie.",
-        "chinese": "英语：电视经常闪着亮光，当我观看电影时。"
+        "chinese": "电视看电影时闪烁得很厉害。"
     },
     {
         "start": 318.76,
         "end": 321.52,
         "english": "And at times, the image is not very clear.",
-        "chinese": "有时图像不够清晰。"
+        "chinese": "有时图像不是很清晰。"
     },
     {
         "start": 321.52,
         "end": 322.76,
         "english": "I see.",
-        "chinese": "我看到。"
+        "chinese": "我看明白了。"
     },
     {
         "start": 322.76,
         "end": 324.23999999999995,
         "english": "And what about the keyboard?",
-        "chinese": "和键盘有什么区别？"
+        "chinese": "键盘呢？"
     },
     {
         "start": 324.23999999999995,
         "end": 329.15999999999997,
         "english": "I spilled some coffee on it, and now it won't work.",
-        "chinese": "英语：它掉了一点咖啡，现在就不行了。"
+        "chinese": "我把咖啡洒在它上面了，现在它不工作了。"
     },
     {
         "start": 329.15999999999997,
         "end": 333.71999999999997,
         "english": "I'm sorry, ma'am, but we can only exchange a refund defective products.",
-        "chinese": "对不起，女士，但我们只能退款已损坏的产品。"
+        "chinese": "对不起，女士，但我们只能换退 defective 产品。"
     },
     {
         "start": 333.71999999999997,
         "end": 337.35999999999996,
         "english": "We cannot take responsibility for misuse or damages.",
-        "chinese": "我们不能对使用或损坏负责。"
+        "chinese": "我们不承担滥用或损坏的责任。"
     },
     {
         "start": 337.35999999999996,
         "end": 338.35999999999996,
         "english": "Fine.",
-        "chinese": "英语：很好。"
+        "chinese": "好的。"
     },
     {
         "start": 338.36,
         "end": 342.12,
         "english": "I don't know why they make these things so delicate anyways.",
-        "chinese": "我并不知道为什么他们这么小心地设计这些东西。"
+        "chinese": "我搞不懂为什么他们要把这些东西做得如此脆弱。"
     },
     {
         "start": 342.12,
         "end": 343.12,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 343.12,
         "end": 344.12,
         "english": "We're back.",
-        "chinese": "我们回来。"
+        "chinese": "我们回来了。"
     },
     {
         "start": 344.12,
         "end": 350.28000000000003,
         "english": "So now let's take a look at a couple of phrases we've picked out for to be exact on Fluency",
-        "chinese": "好的，我明白了。请继续提供需要翻译的英语句子。"
+        "chinese": "那么现在让我们来看看我们精选出的几个短语，以便更准确地理解“流利构建单元”（Fluency Builder）"
     },
     {
         "start": 350.28000000000003,
         "end": 351.76,
         "english": "Builder.",
-        "chinese": "在中文中，\"builder\"可以翻译为“建造者”或“建设者”。具体来说："
+        "chinese": "建筑工"
     },
     {
         "start": 351.76,
         "end": 354.92,
         "english": "Fluency Builder.",
-        "chinese": "流畅 builder."
+        "chinese": "流利构建单元。"
     },
     {
         "start": 354.92,
         "end": 361.40000000000003,
         "english": "The first verb we have today here in Fluency Builder is the main verb in today's dialogue",
-        "chinese": "今天在流利构建单元里，我们今天的主语是对话中的主要句子。"
+        "chinese": "今天《流利构建单元》中我们首先学习的动词是今天的对话中的主动词"
     },
     {
         "start": 361.40000000000003,
         "end": 362.40000000000003,
         "english": "to return.",
-        "chinese": "归还"
+        "chinese": "无"
     },
     {
         "start": 362.40000000000003,
         "end": 365.12,
         "english": "So I would like to return this TV.",
-        "chinese": "英语：所以我想把这台电视归还给你。"
+        "chinese": "所以我想把这台电视退掉。"
     },
     {
         "start": 365.36,
@@ -801,25 +801,25 @@
         "start": 366.36,
         "end": 371.48,
         "english": "So when you want to give back a product, you don't say I want to give back or anything",
-        "chinese": "所以当你想要回馈产品时，你不必说我要回馈或什么。"
+        "chinese": "所以当你想要退回产品时，你不会说我想退货或者类似的话"
     },
     {
         "start": 371.48,
         "end": 374.48,
         "english": "like this, you say I want to return this product.",
-        "chinese": "这个，你想要退货这款产品吗？"
+        "chinese": "就像这样，你说我要退货。"
     },
     {
         "start": 374.48,
         "end": 376.4,
         "english": "Well, it's not just giving back.",
-        "chinese": "英语：嗯，这不是仅仅把责任归还给你的。"
+        "chinese": "Well，这不仅仅是在回馈。"
     },
     {
         "start": 376.4,
         "end": 378.96,
         "english": "It's giving back and getting your money back.",
-        "chinese": "英语：它正在给你退款。"
+        "chinese": "回馈并退款"
     },
     {
         "start": 378.96,
@@ -831,7 +831,7 @@
         "start": 379.96,
         "end": 384.76,
         "english": "So to return means that you bring back the product and the store will give you back your",
-        "chinese": "所以，退货意味着你将产品带回来，并且商店会给你退款。"
+        "chinese": "所以退货意味着您将产品退回店铺，店铺会退还给您款项"
     },
     {
         "start": 384.76,
@@ -849,115 +849,115 @@
         "start": 386.76,
         "end": 391.96,
         "english": "And he wanted to return the TV, as we mentioned, because the image was not very clear.",
-        "chinese": "他想把电视还给对方，因为图像不清楚。"
+        "chinese": "然后他想退货，正如我们提到的，因为画面不是很清晰。"
     },
     {
         "start": 391.96,
         "end": 395.64,
         "english": "But he also mentioned that the TV flickers a lot.",
-        "chinese": "但是他还提到了电视经常闪屏。"
+        "chinese": "但他也提到电视闪烁很多。"
     },
     {
         "start": 395.64,
         "end": 397.44,
         "english": "So what is this to flicker?",
-        "chinese": "英语：所以这到底是什么？"
+        "chinese": "这到底是什么晃动？"
     },
     {
         "start": 397.44,
         "end": 399.76,
         "english": "To flicker is another verb.",
-        "chinese": "要闪烁是另一个动词。"
+        "chinese": "闪烁是另一个动词。"
     },
     {
         "start": 399.76,
         "end": 405.08,
         "english": "And flicker is something that the things with light do, the light flickers, the TV flickers.",
-        "chinese": "And flicker 是指那些有光的东西做事情，光闪烁，电视闪烁。"
+        "chinese": "而且，闪烁是发光的东西所做的，光闪烁，电视也闪烁。"
     },
     {
         "start": 405.08,
         "end": 408.2,
         "english": "It means the light comes on and off, on and off, on and off.",
-        "chinese": "英语：它意味着光一会儿亮，一会儿暗。"
+        "chinese": "这意味着光亮闪烁，一明一暗，反复交替。"
     },
     {
         "start": 408.2,
         "end": 409.84,
         "english": "So dark light, dark light.",
-        "chinese": "英语：所以昏暗的光线，昏暗的光线。"
+        "chinese": "那么昏暗，如此昏暗。"
     },
     {
         "start": 409.84,
         "end": 411.12,
         "english": "It's not very steady.",
-        "chinese": "英语：它不是很稳。"
+        "chinese": "它不太稳。"
     },
     {
         "start": 411.12,
         "end": 412.56,
         "english": "It's not like there's light.",
-        "chinese": "是的，与没有光无关。"
+        "chinese": "这不是什么光。"
     },
     {
         "start": 412.56,
         "end": 413.56,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 413.56,
         "end": 414.56,
         "english": "Dark.",
-        "chinese": "黑暗。"
+        "chinese": "黑。"
     },
     {
         "start": 414.56,
         "end": 418.35999999999996,
         "english": "And so this is very annoying when you're watching TV because it goes light, dark, light,",
-        "chinese": "而且当你看电视时，因为这样它会亮着、暗着、再亮着……很烦人。"
+        "chinese": "这就是当你看电视时非常烦人，它会忽明忽暗。"
     },
     {
         "start": 418.35999999999996,
         "end": 420.44,
         "english": "dark and it's hard to see what's happening.",
-        "chinese": "英语：黑暗且难以看清发生了什么。"
+        "chinese": "黑暗，看不清发生了什么。"
     },
     {
         "start": 420.44,
         "end": 421.44,
         "english": "Exactly.",
-        "chinese": "正好。"
+        "chinese": "Exactly."
     },
     {
         "start": 421.44,
         "end": 425.64,
         "english": "It's basically just imagine someone is turning on and off the light all the time.",
-        "chinese": "英语：它基本上就是想象某个时刻总是开着灯。"
+        "chinese": "基本上就是想象有人一直在开关灯。"
     },
     {
         "start": 425.64,
         "end": 427.6,
         "english": "That's the same thing that's happening with the TV.",
-        "chinese": "这个与电视上的内容是一样的。"
+        "chinese": "那就是电视界正在发生的事情。"
     },
     {
         "start": 427.6,
         "end": 428.6,
         "english": "It flickers.",
-        "chinese": "英语：它闪烁。"
+        "chinese": "它闪烁。"
     },
     {
         "start": 428.6,
         "end": 429.6,
         "english": "Exactly.",
-        "chinese": "正确答案：完全。"
+        "chinese": "Exactly."
     },
     {
         "start": 429.6,
         "end": 434.56,
         "english": "Or like when a light bulb in your lamp, when a light bulb is dying, it flickers.",
-        "chinese": "英语：或者比如当灯泡在你的灯里，当灯泡烧坏了，它会闪烁。"
+        "chinese": "或者就像台灯里的灯泡，当灯泡快要坏的时候，会忽明忽暗。"
     },
     {
         "start": 434.56,
@@ -975,13 +975,13 @@
         "start": 436.56,
         "end": 443.24,
         "english": "So we wanted to actually return these goods and the clerk explained that we can exchange",
-        "chinese": "所以，我们希望真的把这些商品归还给收货人，并且收货人可以交换。"
+        "chinese": "所以我们其实是要退货的，营业员解释说我们可以换货"
     },
     {
         "start": 443.24,
         "end": 446.44,
         "english": "or we can refund defective products.",
-        "chinese": "或者我们可以退货有问题的产品。"
+        "chinese": "或者我们可以退款。"
     },
     {
         "start": 446.44,
@@ -999,109 +999,109 @@
         "start": 449.44,
         "end": 452.56,
         "english": "One is to trade one thing for another.",
-        "chinese": "一就是交换一个东西换另一个。"
+        "chinese": "一种是用一种东西换另一种。"
     },
     {
         "start": 452.56,
         "end": 453.56,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 453.56,
         "end": 457.0,
         "english": "So when I go to a foreign country, I exchange money, right?",
-        "chinese": "所以当我出国旅行时，我交换货币。"
+        "chinese": "所以我去外国时，要换钱吗？"
     },
     {
         "start": 457.0,
         "end": 460.8,
         "english": "I can exchange Japanese yen for American dollars.",
-        "chinese": "我可以用日元兑换美元。"
+        "chinese": "我可以换美金为日元。"
     },
     {
         "start": 460.8,
         "end": 461.8,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 461.8,
         "end": 468.6,
         "english": "But at a store, like an electronic store, I can exchange my TV that I don't like for maybe",
-        "chinese": "但是，在电子产品商店，我可以在那里交换我的电视，也许会换回一个可能更喜欢的。"
+        "chinese": "但去店里，比如电子店，我可以把我不喜欢的电视换成可能的其他型号。"
     },
     {
         "start": 468.6,
         "end": 472.64,
         "english": "a really good MP3 player or something like that.",
-        "chinese": "一个非常好的MP3播放器或类似的东西。"
+        "chinese": "一款非常好的MP3播放器之类的。"
     },
     {
         "start": 472.64,
         "end": 478.15999999999997,
         "english": "So that's what happens usually if maybe your TV is broken or it had some problem, you",
-        "chinese": "所以，如果您的电视坏了或者遇到了一些问题，那么通常的情况是您需要卸下重担。"
+        "chinese": "这就是通常的情况，如果你的电视坏了或者有问题，你"
     },
     {
         "start": 478.16,
         "end": 480.40000000000003,
         "english": "exchange it for a new one.",
-        "chinese": "交换它换一个新的一样。"
+        "chinese": "换一个新（的）。"
     },
     {
         "start": 480.40000000000003,
         "end": 481.40000000000003,
         "english": "Right.",
-        "chinese": "正确答案：正确。"
+        "chinese": "好。"
     },
     {
         "start": 481.40000000000003,
         "end": 484.12,
         "english": "So, but maybe you don't want the TV anymore.",
-        "chinese": "英语：所以，但也许你不想看电视了。"
+        "chinese": "所以，但也许你不再想看电视了。"
     },
     {
         "start": 484.12,
         "end": 485.28000000000003,
         "english": "Maybe you change your mind.",
-        "chinese": "英语：也许你改变主意。"
+        "chinese": "你或许会改变主意。"
     },
     {
         "start": 485.28000000000003,
         "end": 487.40000000000003,
         "english": "So you want to get a refund.",
-        "chinese": "英语：所以你想退款吗？"
+        "chinese": "你想要退款。"
     },
     {
         "start": 487.40000000000003,
         "end": 491.08000000000004,
         "english": "So refund, you hear this word, fund has to do with money.",
-        "chinese": "所以退款，你听到了这个字，基金必须与金钱有关。"
+        "chinese": "所以退款，你听说过这个词语，与资金有关。"
     },
     {
         "start": 491.08000000000004,
         "end": 494.76000000000005,
         "english": "A refund means that the store will give you all your money back.",
-        "chinese": "退款意味着商店会将所有钱返还给你。"
+        "chinese": "退款意味着商店会全部退还你的钱。"
     },
     {
         "start": 494.76000000000005,
         "end": 498.20000000000005,
         "english": "So if I refund my TV, I give my TV to the store.",
-        "chinese": "所以，如果我把电视退给商店，我就把电视交给你了。"
+        "chinese": "所以如果我退我的电视，我把电视退给店家。"
     },
     {
         "start": 498.20000000000005,
         "end": 502.44000000000005,
         "english": "The store gives me $500 or whatever the money for the TV was.",
-        "chinese": "英语：这家商店给我的钱是多少钱？"
+        "chinese": "店家给我500美元，或者说是电视的钱。"
     },
     {
         "start": 502.44000000000005,
         "end": 504.72,
         "english": "And I can buy anything else anywhere else.",
-        "chinese": "而且我可以在任何地方买到其他任何东西。"
+        "chinese": "而且我在任何地方都能买到其他东西。"
     },
     {
         "start": 504.72,
@@ -1113,61 +1113,61 @@
         "start": 506.12,
         "end": 507.8,
         "english": "So this is what happens when you get a refund.",
-        "chinese": "所以，当你收到退款时会发生什么？"
+        "chinese": "这就是你退了单之后的情况。"
     },
     {
         "start": 507.8,
         "end": 510.68,
         "english": "Very different from exchanging the goods.",
-        "chinese": "英语：非常不同，从交换商品的角度来看。"
+        "chinese": "非常不同于换货。"
     },
     {
         "start": 510.68,
         "end": 517.4,
         "english": "And finally, the clerk explained that they cannot take responsibility for misuse or damages.",
-        "chinese": "最后，这个职员解释说他们不能对滥用或损坏负责。"
+        "chinese": "最后，办事员解释说他们无法对使用不当或损坏负责。"
     },
     {
         "start": 517.4,
         "end": 519.08,
         "english": "So remember this as a phrase.",
-        "chinese": "所以记住这个作为一句话。"
+        "chinese": "记住这句话。"
     },
     {
         "start": 519.08,
         "end": 522.32,
         "english": "This is really important to take responsibility.",
-        "chinese": "这是真的非常重要的责任。"
+        "chinese": "这确实很重要，要承担责任。"
     },
     {
         "start": 522.32,
         "end": 527.2,
         "english": "It means that if something goes wrong, you will take responsibility for it.",
-        "chinese": "英语：如果发生错误，你将对它负责。"
+        "chinese": "这意味着如果你遇到问题，你将承担责任。"
     },
     {
         "start": 527.2,
         "end": 529.2,
         "english": "You will handle it.",
-        "chinese": "你将承担它。"
+        "chinese": "你负责这件事。"
     },
     {
         "start": 529.2,
         "end": 530.2,
         "english": "All right.",
-        "chinese": "英语：一切好。"
+        "chinese": "好的。"
     },
     {
         "start": 530.2,
         "end": 535.6800000000001,
         "english": "So for example, the store says that it can't take responsibility if something is broken.",
-        "chinese": "所以，例如，商店说，如果某个东西坏了，它就不能承担责任。"
+        "chinese": "所以比如说，店里说如果东西坏了他们也不负责任。"
     },
     {
         "start": 535.68,
         "end": 538.16,
         "english": "That means that they won't pay you back money.",
-        "chinese": "这句话的中文翻译是："
+        "chinese": "这意味着他们不会还你钱。"
     },
     {
         "start": 538.16,
@@ -1179,67 +1179,67 @@
         "start": 539.16,
         "end": 543.3599999999999,
         "english": "So if you buy a TV and you accidentally get it wet or you get water inside and this is",
-        "chinese": "所以，如果你买了一台电视机，并且不小心让它淋湿或者里面进水了，这可能是"
+        "chinese": "所以你买了一台电视，不小心弄湿了或者水进入了里面，这是"
     },
     {
         "start": 543.3599999999999,
         "end": 549.4399999999999,
         "english": "why it gets damaged, then the store cannot take responsibility for this damage.",
-        "chinese": "为什么这个店不能承担对这次损坏的责任？"
+        "chinese": "为什么会损坏，然后商店对此损失无法承担责任。"
     },
     {
         "start": 549.4399999999999,
         "end": 553.0,
         "english": "Or you could say the other way around, you could say, if you're at the office and you make",
-        "chinese": "英语：或者你可以说相反的，如果你在办公室并且需要远程和微弱的帮助，你可以卸下你的责任。"
+        "chinese": "你也可以反过来这么说，如果你在办公室里并且做出了"
     },
     {
         "start": 553.0,
         "end": 556.64,
         "english": "a mistake on a report, you say, listen, boss, I'm really sorry.",
-        "chinese": "英语：一个错误在报告上，你说，老板，我真的很抱歉。"
+        "chinese": "一个报告里的错误，你说，老板，我真的抱歉。"
     },
     {
         "start": 556.64,
         "end": 560.12,
         "english": "I take full responsibility for this mistake.",
-        "chinese": "我对此错误完全负责。"
+        "chinese": "我对此错误全权负责。"
     },
     {
         "start": 560.12,
         "end": 563.88,
         "english": "You can punish me or you can make me do it again.",
-        "chinese": "你可以说我，或者你可以让我再次做。"
+        "chinese": "你可以惩罚我，或者让我再做一次。"
     },
     {
         "start": 563.88,
         "end": 567.08,
         "english": "But I take responsibility means that I say it's my fault.",
-        "chinese": "但是，我承担责任意味着我说是我自己的错。"
+        "chinese": "但我说这是我的错，意味着我承担这份责任。"
     },
     {
         "start": 567.08,
         "end": 568.12,
         "english": "Right, your guilty.",
-        "chinese": "正确答案：英语：Right, your guilty."
+        "chinese": "好了，你的罪过了。"
     },
     {
         "start": 568.12,
         "end": 569.12,
         "english": "All right.",
-        "chinese": "好的，以下是“所有好”的翻译："
+        "chinese": "好的。"
     },
     {
         "start": 569.12,
         "end": 570.68,
         "english": "So that's all we have for Fluency Builder.",
-        "chinese": "所以，我们只有一套Fluency Builder。"
+        "chinese": "这就是流利构建单元的所有内容。"
     },
     {
         "start": 570.68,
         "end": 575.16,
         "english": "Let's listen to our dialogue one last time and we can review everything we've just learned.",
-        "chinese": "让我们再听一遍我们的对话，然后我们可以回顾一下我们刚刚学习的内容。"
+        "chinese": "让我们再听一遍我们的对话，我们就可以回顾一下刚才学过的所有内容。"
     },
     {
         "start": 575.16,
@@ -1251,37 +1251,37 @@
         "start": 576.16,
         "end": 584.36,
         "english": "I would like to return this TV.",
-        "chinese": "我想要把这台电视归还给你。"
+        "chinese": "我想退回这部电视。"
     },
     {
         "start": 584.36,
         "end": 585.36,
         "english": "Sure.",
-        "chinese": "是的。"
+        "chinese": "好的。"
     },
     {
         "start": 585.36,
         "end": 586.36,
         "english": "Do you have a receipt?",
-        "chinese": "英语：你有收据吗？"
+        "chinese": "您有收据吗？"
     },
     {
         "start": 586.36,
         "end": 587.36,
         "english": "Yeah.",
-        "chinese": "是。"
+        "chinese": "嗯。"
     },
     {
         "start": 587.36,
         "end": 588.36,
         "english": "Here you go.",
-        "chinese": "在这里。"
+        "chinese": "这就来。"
     },
     {
         "start": 588.36,
         "end": 592.0,
         "english": "Actually, I also want to return this keyboard.",
-        "chinese": "实际上，我也有这个键盘。"
+        "chinese": "实际上，我也想把这键盘退掉。"
     },
     {
         "start": 592.0,
@@ -1293,109 +1293,109 @@
         "start": 593.24,
         "end": 597.08,
         "english": "May I ask what the reason for returning these products is?",
-        "chinese": "英语：我能否请您告诉我这些产品的返销原因？"
+        "chinese": "请问退货的原因是什么？"
     },
     {
         "start": 597.08,
         "end": 603.28,
         "english": "The TV flickers a lot when I am watching a movie and at times the image is not very clear.",
-        "chinese": "英语：电视经常闪烁，有时图像不是很清晰。"
+        "chinese": "电视看电影时闪烁得很厉害，有时画面也不太清晰。"
     },
     {
         "start": 603.28,
         "end": 604.28,
         "english": "I see.",
-        "chinese": "我看到。"
+        "chinese": "我看明白了。"
     },
     {
         "start": 604.28,
         "end": 605.92,
         "english": "And what about the keyboard?",
-        "chinese": "和键盘有什么区别？"
+        "chinese": "键盘呢？"
     },
     {
         "start": 605.92,
         "end": 610.88,
         "english": "I spilled some coffee on it and now it won't work.",
-        "chinese": "英语：它现在不工作了。"
+        "chinese": "我把咖啡洒在它上面了，现在它就不工作了。"
     },
     {
         "start": 610.88,
         "end": 615.4,
         "english": "I'm sorry, ma'am, but we can only exchange a refund defective products.",
-        "chinese": "对不起，女士，但我们只能退款已损坏的产品。"
+        "chinese": "对不起，女士，但我们只能换退 defective 产品。"
     },
     {
         "start": 615.4,
         "end": 618.96,
         "english": "We cannot take responsibility for misuse or damages.",
-        "chinese": "我们不能对使用或损坏负责。"
+        "chinese": "我们不承担滥用或损坏的责任。"
     },
     {
         "start": 618.96,
         "end": 619.96,
         "english": "Fine.",
-        "chinese": "英语：很好。"
+        "chinese": "好。"
     },
     {
         "start": 619.96,
         "end": 627.36,
         "english": "I don't know why they make these things so delicate anyways.",
-        "chinese": "我也不明白为什么他们这么小心地设计这些东西。"
+        "chinese": "我搞不懂为什么他们要把这些东西做得如此脆弱。"
     },
     {
         "start": 627.36,
         "end": 632.24,
         "english": "So returning goods is a very useful thing if you maybe bought a TV at a department store",
-        "chinese": "如果你可能在一家百货公司购买了一台电视机，那么将这些商品归类为“返销”（返销）是一件非常有用的事情。"
+        "chinese": "所以退货其实很有用，如果你可能在百货店买了一台电视"
     },
     {
         "start": 632.24,
         "end": 637.08,
         "english": "or an electronic store, then you would want to return it if you had some problems.",
-        "chinese": "或者一个电子商店，那么你希望如果遇到问题的话，应该把商品退回去。"
+        "chinese": "或者在电子商店，你如果有问题的话就会想要退货。"
     },
     {
         "start": 637.08,
         "end": 639.8000000000001,
         "english": "Now, how easy or difficult is it to do?",
-        "chinese": "现在，如何容易或困难？"
+        "chinese": "现在做起来容易还是难呢？"
     },
     {
         "start": 639.8000000000001,
         "end": 643.44,
         "english": "Because in theory, in the dialogue, it seems like it's really easy.",
-        "chinese": "因为从理论上讲，在对话中似乎真的很容易。"
+        "chinese": "因为理论上，对话似乎真的很简单。"
     },
     {
         "start": 643.44,
         "end": 645.36,
         "english": "It depends on the store, of course.",
-        "chinese": "英语：它取决于商店，当然。"
+        "chinese": "当然。"
     },
     {
         "start": 645.36,
         "end": 648.6800000000001,
         "english": "So some stores make it easier to do this.",
-        "chinese": "所以一些商店使这更容易。"
+        "chinese": "所以有些店铺这样做会更方便。"
     },
     {
         "start": 648.6800000000001,
         "end": 649.92,
         "english": "Some stores make it harder.",
-        "chinese": "一些商店使它更难。"
+        "chinese": "一些商店使其变得更为困难。"
     },
     {
         "start": 649.92,
         "end": 654.28,
         "english": "I can tell you in most stores, if you don't have a receipt, it's probably very difficult.",
-        "chinese": "英语：我可以在大多数商店告诉你，如果你没有收据，那可能就很难了。"
+        "chinese": "我可以告诉你，在大多数商店里，如果你没有收据，通常是非常困难的。"
     },
     {
         "start": 654.28,
         "end": 655.28,
         "english": "Really?",
-        "chinese": "真的？"
+        "chinese": "真的吗？"
     },
     {
         "start": 655.28,
@@ -1407,31 +1407,31 @@
         "start": 656.28,
         "end": 660.16,
         "english": "But a lot of stores have something else that they sell you or give you when you buy something.",
-        "chinese": "但是很多商店卖的东西比你买的时候便宜或者给你。"
+        "chinese": "但很多店家在你购买东西时，还会给你另外一些东西。"
     },
     {
         "start": 660.16,
         "end": 661.76,
         "english": "It's called a warranty.",
-        "chinese": "它叫做保修。"
+        "chinese": "这叫保修。"
     },
     {
         "start": 661.76,
         "end": 666.92,
         "english": "And this is something that will help protect you if you take the TV home and you have a problem.",
-        "chinese": "如果你把电视放在家里，遇到问题时能帮助保护自己。"
+        "chinese": "这将帮助你如果把电视带回家有问题时保护自己。"
     },
     {
         "start": 666.92,
         "end": 667.92,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 667.92,
         "end": 671.48,
         "english": "That means that they will come fix it or they will give you a new one without any questions",
-        "chinese": "这句话的中文翻译是："
+        "chinese": "这意味着他们会来修或者直接给你换一个新的，没有任何疑问"
     },
     {
         "start": 671.48,
@@ -1443,193 +1443,193 @@
         "start": 672.68,
         "end": 678.88,
         "english": "Now, not only can you return goods such as TVs, electronics, or maybe clothes, but in",
-        "chinese": "现在，不仅你可以将商品如电视、电子产品或衣物等退货，而且还可以选择送货上门。"
+        "chinese": "现在，你不仅可以在电视机、电子产品甚至衣物等商品上退货，"
     },
     {
         "start": 678.88,
         "end": 683.56,
         "english": "some cases, also things that you buy at the supermarket, like maybe chicken.",
-        "chinese": "一些情况，也可能是你从超市买回来的鸡。"
+        "chinese": "一些情况，也包括你在超市里买的东西，比如可能是鸡肉。"
     },
     {
         "start": 683.56,
         "end": 687.7199999999999,
         "english": "I've heard that maybe sometimes you buy chicken and you open it up that same day and it's gone",
-        "chinese": "英语：我听说有时候你买了一只鸡，第二天打开它就没了。"
+        "chinese": "我听说有时候你们买鸡肉，第二天就打开了发现已经变质了"
     },
     {
         "start": 687.7199999999999,
         "end": 688.7199999999999,
         "english": "bad.",
-        "chinese": "错误：Bad."
+        "chinese": "不好。"
     },
     {
         "start": 688.7199999999999,
         "end": 689.7199999999999,
         "english": "Really?",
-        "chinese": "真的？"
+        "chinese": "真的吗？"
     },
     {
         "start": 689.7199999999999,
         "end": 692.4799999999999,
         "english": "I've never had that experience, but I think it makes sense.",
-        "chinese": "我从没遇到过这种事，我觉得这很合理。"
+        "chinese": "我从未有过那样的经历，但我觉得有道理。"
     },
     {
         "start": 692.4799999999999,
         "end": 693.92,
         "english": "It depends where you buy it, of course.",
-        "chinese": "当然，它取决于您在哪里购买。"
+        "chinese": "当然，取决于你在哪里购买。"
     },
     {
         "start": 693.92,
         "end": 694.92,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 694.92,
         "end": 699.12,
         "english": "Obviously, at a supermarket and you show the receipt or maybe milk, maybe that's gone",
-        "chinese": "当然，超市里，你出示收据或者可能就是牛奶了。"
+        "chinese": "显然，在超市里你出示收据，或者可能是牛奶已经没了。"
     },
     {
         "start": 699.12,
         "end": 701.12,
         "english": "bad sometimes or yogurt.",
-        "chinese": "英语：有时候不太好或者酸奶。"
+        "chinese": "不好有时候或者酸奶。"
     },
     {
         "start": 701.12,
         "end": 703.84,
         "english": "Well, because they probably shouldn't sell it if it's bad.",
-        "chinese": "英语：嗯，因为它们可能不应该卖它如果它不好。"
+        "chinese": "嗯，因为如果质量不好，大概率不应该出售。"
     },
     {
         "start": 703.84,
         "end": 704.84,
         "english": "Exactly.",
-        "chinese": "正确答案是：Exactly."
+        "chinese": "Exactly."
     },
     {
         "start": 704.84,
         "end": 707.68,
         "english": "So if you tell them that they sold you bad milk, they'll give you a new one.",
-        "chinese": "所以如果你告诉他们你卖了劣质牛奶，他们会给你一个新的。"
+        "chinese": "所以如果你告诉他们卖给你的是假牛奶，他们会给你换一个新的。"
     },
     {
         "start": 707.68,
         "end": 708.68,
         "english": "Exactly.",
-        "chinese": "正确答案是 \"恰好。\" (zǎi zé.) 在中文里，这个短语可以翻译为 \"恰好。\" 或者 \"正好。\"。在不同的上下文中，你可以选择使用其中一个表达方式。"
+        "chinese": "Exactly."
     },
     {
         "start": 708.68,
         "end": 710.04,
         "english": "So that's called an exchange.",
-        "chinese": "所以叫做交换。"
+        "chinese": "这就是一个交换。"
     },
     {
         "start": 710.04,
         "end": 712.72,
         "english": "You would exchange the bad one for the good one.",
-        "chinese": "你将交换这个坏的相机换为这个好的相机。"
+        "chinese": "你将会以旧换新。"
     },
     {
         "start": 712.72,
         "end": 713.72,
         "english": "Right.",
-        "chinese": "正确。以下是该短语在中文中的翻译："
+        "chinese": "好。"
     },
     {
         "start": 713.72,
         "end": 714.72,
         "english": "You wouldn't get your money back.",
-        "chinese": "你不会得到你的钱。"
+        "chinese": "你不会拿回你的钱。"
     },
     {
         "start": 714.72,
         "end": 715.72,
         "english": "No, maybe.",
-        "chinese": "是的，也许。"
+        "chinese": "不，也许。"
     },
     {
         "start": 715.72,
         "end": 716.72,
         "english": "Maybe not, maybe.",
-        "chinese": "英语：也许不，也许。"
+        "chinese": "也许不是，也许。"
     },
     {
         "start": 716.72,
         "end": 717.88,
         "english": "Alright, so that's all the time we have for today.",
-        "chinese": "好的，我已准备好。请继续提供需要翻译的英文内容。"
+        "chinese": "好了，今天我们就到这里了。"
     },
     {
         "start": 717.88,
         "end": 722.96,
         "english": "But this is actually a very interesting topic because it has to do a lot with customer service.",
-        "chinese": "但是，这实际上是一个非常有趣的话题，因为它涉及到客户服务。"
+        "chinese": "但其实这是一个非常有趣的话题，因为它与客户服务有很大关系。"
     },
     {
         "start": 722.96,
         "end": 727.36,
         "english": "So let us know what your experience is with customer service with returning something.",
-        "chinese": "所以，让我们看看您与退货服务的体验如何。"
+        "chinese": "那么请告诉我们退货时的客户服务体验。"
     },
     {
         "start": 727.36,
         "end": 729.8,
         "english": "Is it very easy, very difficult?",
-        "chinese": "是吗？太难了。"
+        "chinese": "这很容易，也很困难吗？"
     },
     {
         "start": 729.8,
         "end": 731.76,
         "english": "Maybe some stores don't even accept returns.",
-        "chinese": "英语：也许有些商店甚至不接受退货。"
+        "chinese": "可能有些店连退货都不接受。"
     },
     {
         "start": 731.76,
         "end": 734.68,
         "english": "They say once you buy it, you cannot return it.",
-        "chinese": "英语：他们说一旦买下来，你就不能再退货了。"
+        "chinese": "他们说，一旦购买就不能退货。"
     },
     {
         "start": 734.68,
         "end": 735.68,
         "english": "All sales final.",
-        "chinese": "所有销售最终。"
+        "chinese": "所有销售均为最终交易。"
     },
     {
         "start": 735.68,
         "end": 737.4,
         "english": "Yeah, exactly.",
-        "chinese": "是的，正好。"
+        "chinese": "对，就是这个意思。"
     },
     {
         "start": 737.4,
         "end": 742.68,
         "english": "So let us know our refunds or exchanges, common where you come from and have you ever had",
-        "chinese": "英语：所以让我们告知我们的退款或退货，无论你们来自哪里，你们曾经有过这样的经历吗？"
+        "chinese": "那么请告知我们的退款或换货信息，以及您来自何处，是否曾经有过这种情况"
     },
     {
         "start": 742.68,
         "end": 746.04,
         "english": "a bad experience where you bought something and it didn't work when you got home.",
-        "chinese": "英语：一个糟糕的经历，你买了一件东西但回到家后它就不工作了。"
+        "chinese": "一次购买后回家发现不work的糟糕体验。"
     },
     {
         "start": 746.04,
         "end": 747.56,
         "english": "Let us know our website is englispod.com.",
-        "chinese": "让我们告知我们的网站是英语pod.com。"
+        "chinese": "请告知我们的网站是englispod.com。"
     },
     {
         "start": 747.56,
         "end": 748.56,
         "english": "Alright, we'll see you guys there.",
-        "chinese": "好的，我们见了。"
+        "chinese": "好的，到时候见。"
     },
     {
         "start": 748.56,

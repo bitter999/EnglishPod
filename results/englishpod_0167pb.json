@@ -3,31 +3,31 @@
         "start": 0.0,
         "end": 6.44,
         "english": "Hello everyone and welcome to EnglishPod, my name is Marco.",
-        "chinese": "你好，大家欢迎来到英语广播，我的名字是Marco。"
+        "chinese": "大家好，欢迎来到英语pod，我叫马可。"
     },
     {
         "start": 6.44,
         "end": 10.76,
         "english": "And my name is Catherine and today we're going on a little driving lesson.",
-        "chinese": "我的名字是凯瑟琳，今天我们进行了一次小小的驾驶课程。"
+        "chinese": "而我叫凯瑟琳，今天我们要上一节短途驾驶课。"
     },
     {
         "start": 10.76,
         "end": 14.88,
         "english": "That's right, we're going to learn how to drive, but not only how to drive, but all the",
-        "chinese": "那就是了，我们要学会开车，不只是会开车，而是要学会所有的驾驶技巧。"
+        "chinese": "那就是，我们要学习开车，但不只是学会开车那么简单，还要掌握所有相关的知识和技能"
     },
     {
         "start": 14.88,
         "end": 18.64,
         "english": "vocabulary and words associated to this activity.",
-        "chinese": "与该活动相关的词汇和单词。"
+        "chinese": "摄影相关词汇和术语。"
     },
     {
         "start": 18.64,
         "end": 23.12,
         "english": "So why don't we listen to this dialogue for the first time and we'll be back to explain",
-        "chinese": "所以，我们为什么不第一次聆听这段对话呢？我们会回来解释的。"
+        "chinese": "所以我们先听听这段对话，一会儿再解释。"
     },
     {
         "start": 23.12,
@@ -39,73 +39,73 @@
         "start": 31.0,
         "end": 35.72,
         "english": "Okay, I'm ready for my driving lesson.",
-        "chinese": "好的，我已经准备好接受我的驾驶课了。"
+        "chinese": "好的，我准备上驾驶课了。"
     },
     {
         "start": 35.72,
         "end": 37.32,
         "english": "Should I start the car?",
-        "chinese": "我应该开车吗？"
+        "chinese": "应该启动汽车吗？"
     },
     {
         "start": 37.32,
         "end": 38.84,
         "english": "Hold on there Fitty Polly.",
-        "chinese": "坚持住，菲蒂普·波莉。"
+        "chinese": "别停啊，佛蒂丝波莉。"
     },
     {
         "start": 38.84,
         "end": 41.56,
         "english": "First let's go over things one more time.",
-        "chinese": "让我们再过一遍这些事情。"
+        "chinese": "让我们再过一遍。"
     },
     {
         "start": 41.56,
         "end": 45.66,
         "english": "Now before you even think of starting the car, make sure your seat is at a comfortable",
-        "chinese": "现在你甚至还没打算启动汽车，先确保你的座位是舒适的。"
+        "chinese": "现在在你甚至想到启动汽车之前，确保你的座椅处于一个舒适的姿势。"
     },
     {
         "start": 45.66,
         "end": 48.760000000000005,
         "english": "position and you can grip the steering wheel firmly.",
-        "chinese": "位置，你可以牢牢地握住方向盘。"
+        "chinese": "职位你可以牢牢握住方向盘。"
     },
     {
         "start": 48.760000000000005,
         "end": 52.8,
         "english": "Next, check your rear view mirrors to make sure you can see properly.",
-        "chinese": "然后，检查后视镜，确保你可以清楚地看到。"
+        "chinese": "接下来，检查后视镜确保看得到。"
     },
     {
         "start": 52.8,
         "end": 54.84,
         "english": "We've been through this a million times.",
-        "chinese": "我们已经经历了无数次。"
+        "chinese": "我们已经说过很多次了。"
     },
     {
         "start": 54.84,
         "end": 56.04,
         "english": "Let's get going already.",
-        "chinese": "让我们开始吧。"
+        "chinese": "快点开始吧。"
     },
     {
         "start": 56.04,
         "end": 57.04,
         "english": "I'm ready.",
-        "chinese": "我准备好。"
+        "chinese": "我准备好了。"
     },
     {
         "start": 57.12,
         "end": 59.04,
         "english": "Fine, start the car.",
-        "chinese": "好的，启动汽车。"
+        "chinese": "好的，发动汽车。"
     },
     {
         "start": 60.04,
         "end": 64.48,
         "english": "Okay, now gently step on the clutch and shift to first gear.",
-        "chinese": "好的，现在轻轻地踩下离合器并换到一档。"
+        "chinese": "好的，现在轻踩离合器并换到一挡。"
     },
     {
         "start": 64.48,
@@ -117,37 +117,37 @@
         "start": 65.48,
         "end": 69.28,
         "english": "Now accelerate gently and let go of the clutch as you do it.",
-        "chinese": "现在轻轻加速，松开离合器。"
+        "chinese": "缓缓加速，松开油门。"
     },
     {
         "start": 69.28,
         "end": 70.8,
         "english": "There we go, good.",
-        "chinese": "那我们就出发好了。"
+        "chinese": "好的。"
     },
     {
         "start": 70.8,
         "end": 72.52,
         "english": "I'm doing it, I'm driving.",
-        "chinese": "我正在做，我在开车。"
+        "chinese": "我这就来，我开车。"
     },
     {
         "start": 72.52,
         "end": 73.92,
         "english": "This is awesome.",
-        "chinese": "这是awesome。"
+        "chinese": "这太棒了。"
     },
     {
         "start": 73.92,
         "end": 75.68,
         "english": "Let's turn some music on.",
-        "chinese": "让我们放一些音乐。"
+        "chinese": "让我们来点音乐吧。"
     },
     {
         "start": 75.68,
         "end": 77.03999999999999,
         "english": "Keep your eyes on the road.",
-        "chinese": "保持视线集中在道路上。"
+        "chinese": "保持对前方的注意力。"
     },
     {
         "start": 77.03999999999999,
@@ -159,13 +159,13 @@
         "start": 78.44,
         "end": 80.16,
         "english": "We're coming up to a red light.",
-        "chinese": "我们快到红灯了。"
+        "chinese": "我们即将迎来红灯。"
     },
     {
         "start": 80.16,
         "end": 82.0,
         "english": "Step on the brakes.",
-        "chinese": "踩刹车。"
+        "chinese": "踩刹车"
     },
     {
         "start": 82.0,
@@ -177,73 +177,73 @@
         "start": 83.0,
         "end": 84.4,
         "english": "I said the brakes.",
-        "chinese": "我说刹车。"
+        "chinese": "我说了刹车。"
     },
     {
         "start": 84.4,
         "end": 86.2,
         "english": "Look out for those people.",
-        "chinese": "留神那些人。"
+        "chinese": "留心那些人。"
     },
     {
         "start": 86.2,
         "end": 88.2,
         "english": "Get off the sidewalk.",
-        "chinese": "离开小路。"
+        "chinese": "离开人行道。"
     },
     {
         "start": 88.2,
         "end": 89.2,
         "english": "Get out of my way.",
-        "chinese": "让开。"
+        "chinese": "别挡我的路。"
     },
     {
         "start": 89.2,
         "end": 92.2,
         "english": "Oh, this is just like playing video games.",
-        "chinese": "哦，这就像在玩视频游戏。"
+        "chinese": "哦，这就像玩视频游戏一样。"
     },
     {
         "start": 92.2,
         "end": 93.4,
         "english": "It's the police.",
-        "chinese": "它是警察。"
+        "chinese": "那是警察。"
     },
     {
         "start": 93.4,
         "end": 94.2,
         "english": "Pull over.",
-        "chinese": "停车。"
+        "chinese": "靠边停车。"
     },
     {
         "start": 94.2,
         "end": 96.2,
         "english": "They'll never take me alive.",
-        "chinese": "他们永远不会放过我。"
+        "chinese": "他们永远不会活捉我。"
     },
     {
         "start": 102.76,
         "end": 103.44,
         "english": "All right, great.",
-        "chinese": "好的，很好。"
+        "chinese": "好的，不错。"
     },
     {
         "start": 103.44,
         "end": 107.24000000000001,
         "english": "So it's a great driving lesson just like the video games.",
-        "chinese": "所以，这简直就像是视频游戏的绝佳驾驶课程。"
+        "chinese": "这就是一场像视频游戏一样的绝佳驾驶课。"
     },
     {
         "start": 107.24000000000001,
         "end": 107.72,
         "english": "Exactly.",
-        "chinese": "确实。"
+        "chinese": "Exactly."
     },
     {
         "start": 107.72,
         "end": 109.96000000000001,
         "english": "Well, hopefully not like video games.",
-        "chinese": "好吧，希望不会像视频游戏那样。"
+        "chinese": "好吧，希望不至于像视频游戏那样。"
     },
     {
         "start": 109.96000000000001,
@@ -255,97 +255,97 @@
         "start": 111.60000000000001,
         "end": 112.92,
         "english": "But that comes a little bit later.",
-        "chinese": "但那要晚一些。"
+        "chinese": "但那要稍后一些。"
     },
     {
         "start": 112.92,
         "end": 115.68,
         "english": "First, let's check out some of these very important phrases",
-        "chinese": "首先，让我们检查一下这些非常重要的一些短语"
+        "chinese": "首先，让我们看看这些非常重要的短语"
     },
     {
         "start": 115.68,
         "end": 119.64,
         "english": "in today's language takeaway.",
-        "chinese": "今天语言的外卖。"
+        "chinese": "今天的语言 takeaway。"
     },
     {
         "start": 119.64,
         "end": 122.28,
         "english": "Language takeaway.",
-        "chinese": "语言带走。"
+        "chinese": "语言 takeaway。"
     },
     {
         "start": 122.28,
         "end": 122.8,
         "english": "All right.",
-        "chinese": "所有权利。"
+        "chinese": "好的。"
     },
     {
         "start": 122.8,
         "end": 126.16,
         "english": "So on language takeaway, we have five words for you today.",
-        "chinese": "所以今天给你们五句话。"
+        "chinese": "那么在语言 takeaway 上，我们今天为你准备了五个词。"
     },
     {
         "start": 126.16,
         "end": 129.64,
         "english": "Starting with the first one, the steering wheel.",
-        "chinese": "从第一个开始，方向盘。"
+        "chinese": "从第一辆开始，方向盘。"
     },
     {
         "start": 129.64,
         "end": 131.04,
         "english": "OK, steering wheel.",
-        "chinese": "好的，方向盘。"
+        "chinese": "OK，方向盘。"
     },
     {
         "start": 131.04,
         "end": 135.24,
         "english": "So this comes from the fact that we have a wheel",
-        "chinese": "所以这来自于我们有一个轮子"
+        "chinese": "这就是因为我们有轮子"
     },
     {
         "start": 135.24,
         "end": 137.68,
         "english": "that we use to turn the car left and right.",
-        "chinese": "我们用它来让汽车左转和右转。"
+        "chinese": "那我们用来使汽车左转和右转的。"
     },
     {
         "start": 137.68,
         "end": 140.8,
         "english": "And so that's called to steer, to change the direction",
-        "chinese": "所以这就是叫舵，改变方向"
+        "chinese": "这就是舵的作用，就是改变方向"
     },
     {
         "start": 140.8,
         "end": 141.32,
         "english": "of something.",
-        "chinese": "的"
+        "chinese": "关于某事。"
     },
     {
         "start": 141.32,
         "end": 144.28,
         "english": "So the verb to steer is to take it left or right.",
-        "chinese": "所以动词“驾驶”是左转或右转。"
+        "chinese": "所以“steer”的动词形式是“左转”或“右转”。"
     },
     {
         "start": 144.28,
         "end": 144.88,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 144.88,
         "end": 147.44,
         "english": "So steering wheel is the instrument that we",
-        "chinese": "所以方向盘是我们用来控制的工具。"
+        "chinese": "所以方向盘就是我们操控车辆的工具"
     },
     {
         "start": 147.44,
         "end": 149.56,
         "english": "use to change the car's direction.",
-        "chinese": "用来改变汽车的方向。"
+        "chinese": "操控汽车的方向。"
     },
     {
         "start": 149.56,
@@ -357,25 +357,25 @@
         "start": 150.68,
         "end": 153.2,
         "english": "And well, apart from this instrument,",
-        "chinese": "而且，除了这个仪器之外，"
+        "chinese": "而除了这件仪器，"
     },
     {
         "start": 153.2,
         "end": 156.88,
         "english": "also in order to look to other cars that are behind you,",
-        "chinese": "为了看看你后面的其他车辆，"
+        "chinese": "也要看看你后面的车"
     },
     {
         "start": 156.88,
         "end": 159.16,
         "english": "you would look at your rear view mirror.",
-        "chinese": "你可能会看后视镜。"
+        "chinese": "你看看后视镜。"
     },
     {
         "start": 159.16,
         "end": 159.48,
         "english": "Great.",
-        "chinese": "很好。"
+        "chinese": "好。"
     },
     {
         "start": 159.48,
@@ -387,55 +387,55 @@
         "start": 161.24,
         "end": 164.0,
         "english": "This is a mirror that you have in front of you",
-        "chinese": "这是你面前的镜子"
+        "chinese": "这就是你面前的一面镜子"
     },
     {
         "start": 164.0,
         "end": 165.56,
         "english": "in the middle of the car.",
-        "chinese": "在汽车的中间。"
+        "chinese": "在车中间。"
     },
     {
         "start": 165.56,
         "end": 167.88,
         "english": "And you look at this mirror to find out",
-        "chinese": "你看着镜子，看看自己"
+        "chinese": "然后你看看镜子找出"
     },
     {
         "start": 167.88,
         "end": 169.4,
         "english": "if there are cars behind you.",
-        "chinese": "如果你后面有车。"
+        "chinese": "如果有车跟在你后面。"
     },
     {
         "start": 169.4,
         "end": 169.9,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 169.9,
         "end": 171.07999999999998,
         "english": "So it's a rear view.",
-        "chinese": "所以，这是后视镜。"
+        "chinese": "这就是后视镜。"
     },
     {
         "start": 171.08,
         "end": 173.0,
         "english": "That means you're looking at the back.",
-        "chinese": "这意味着你是在看背面。"
+        "chinese": "那就是你看着背面。"
     },
     {
         "start": 173.0,
         "end": 174.88000000000002,
         "english": "Rear means back or behind.",
-        "chinese": "后 = 后面"
+        "chinese": "后方是背面或后面。"
     },
     {
         "start": 174.88000000000002,
         "end": 177.12,
         "english": "What about the mirrors that are on the side of the car,",
-        "chinese": "关于汽车侧边的镜子，有什么？"
+        "chinese": "车侧的镜子怎么办"
     },
     {
         "start": 177.12,
@@ -447,7 +447,7 @@
         "start": 178.28,
         "end": 181.0,
         "english": "Those are called side view mirrors.",
-        "chinese": "那些被称为侧视镜。"
+        "chinese": "这就是侧视镜。"
     },
     {
         "start": 181.0,
@@ -459,7 +459,7 @@
         "start": 181.84,
         "end": 182.76000000000002,
         "english": "Very literal.",
-        "chinese": "非常 literal"
+        "chinese": "非常直译。"
     },
     {
         "start": 182.76000000000002,
@@ -471,25 +471,25 @@
         "start": 184.24,
         "end": 189.12,
         "english": "And while moving on, he was instructing her on how to drive.",
-        "chinese": "当他继续前行时，他正在指导她如何开车。"
+        "chinese": "而他则在离开之际，教她如何开车。"
     },
     {
         "start": 189.12,
         "end": 192.12,
         "english": "And he said, step on the clutch.",
-        "chinese": "他说道，踩油门。"
+        "chinese": "他说道，踩一下离合器。"
     },
     {
         "start": 192.12,
         "end": 194.0,
         "english": "Well, this is an important word for those of you who",
-        "chinese": "好吧，这是你们中一些人非常重要的一个词语。"
+        "chinese": "嗯，这是一些你们这些人心中重要的词"
     },
     {
         "start": 194.0,
         "end": 196.08,
         "english": "are driving manual cars.",
-        "chinese": "正在驾驶手动挡汽车。"
+        "chinese": "驾驶手动挡汽车。"
     },
     {
         "start": 196.08,
@@ -501,157 +501,157 @@
         "start": 198.64,
         "end": 201.44,
         "english": "that the gas goes into the engine by yourself.",
-        "chinese": "那你自己把气体送入引擎。"
+        "chinese": "自己将气体送入发动机。"
     },
     {
         "start": 201.44,
         "end": 204.23999999999998,
         "english": "And so a clutch is a pedal.",
-        "chinese": "于是，踏板称为“ clutch”。"
+        "chinese": "而踏板就是离合器。"
     },
     {
         "start": 204.23999999999998,
         "end": 207.39999999999998,
         "english": "It's the third pedal on the left.",
-        "chinese": "左边第三个踏板。"
+        "chinese": "是左边第三个踏板。"
     },
     {
         "start": 207.39999999999998,
         "end": 211.0,
         "english": "And you push this pedal to change gears.",
-        "chinese": "并且你推这个踏板来换档。"
+        "chinese": "你踩下这个踏板来换挡。"
     },
     {
         "start": 211.0,
         "end": 211.5,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 211.5,
         "end": 213.23999999999998,
         "english": "So some cars they don't have this.",
-        "chinese": "所以有些车没有这个。"
+        "chinese": "所以有些车就没有这个。"
     },
     {
         "start": 213.23999999999998,
         "end": 214.88,
         "english": "For those of you who don't, don't worry about it.",
-        "chinese": "对于那些不了解的你，不必担心。"
+        "chinese": "对于你们这些不懂的，不用担心。"
     },
     {
         "start": 214.88,
         "end": 218.0,
         "english": "But if you do, a clutch is on the far left.",
-        "chinese": "但是，如果你这样做的话，在左边有一只手柄。"
+        "chinese": "但如果你这样做，一个弹子会在最左边。"
     },
     {
         "start": 218.0,
         "end": 219.11999999999998,
         "english": "It's the third pedal.",
-        "chinese": "这是第三个踏板。"
+        "chinese": "这是第三脚。"
     },
     {
         "start": 219.11999999999998,
         "end": 219.44,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 219.44,
         "end": 222.88,
         "english": "So this is for a manual car, manual transmission car,",
-        "chinese": "所以这是手动挡汽车的，手动变速箱的汽车。"
+        "chinese": "这就是给手动挡汽车的，"
     },
     {
         "start": 222.88,
         "end": 225.32,
         "english": "because many people have automatics",
-        "chinese": "因为很多人有自动档"
+        "chinese": "因为很多人有自动枪"
     },
     {
         "start": 225.32,
         "end": 227.95999999999998,
         "english": "where you just accelerate and the car automatically",
-        "chinese": "你只是加速，汽车就会自动地"
+        "chinese": "你只需要加速，汽车就会自动"
     },
     {
         "start": 227.96,
         "end": 228.92000000000002,
         "english": "changes gears.",
-        "chinese": "换挡。"
+        "chinese": "转变节奏。"
     },
     {
         "start": 228.92000000000002,
         "end": 229.68,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 229.68,
         "end": 232.64000000000001,
         "english": "And so a lot of Europeans drive manual cars",
-        "chinese": "因此，许多欧洲人驾驶手动挡汽车。"
+        "chinese": "而欧洲人很多驾驶手动挡的车"
     },
     {
         "start": 232.64000000000001,
         "end": 233.92000000000002,
         "english": "and have this clutch.",
-        "chinese": "并且有这个离合器。"
+        "chinese": "并且拥有一只小巧的手提包。"
     },
     {
         "start": 233.92000000000002,
         "end": 234.68,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 234.68,
         "end": 236.52,
         "english": "So you step on the clutch.",
-        "chinese": "所以你踩了离合器。"
+        "chinese": "那么你踩下离合器。"
     },
     {
         "start": 236.52,
         "end": 238.96,
         "english": "And in order to change gear, you say",
-        "chinese": "为了换挡，你说"
+        "chinese": "然后为了换档你说"
     },
     {
         "start": 238.96,
         "end": 241.12,
         "english": "to shift into first gear.",
-        "chinese": "换入一挡。"
+        "chinese": "启动第一档。"
     },
     {
         "start": 241.12,
         "end": 241.56,
         "english": "That's right.",
-        "chinese": "那是对的。"
+        "chinese": "没错。"
     },
     {
         "start": 241.56,
         "end": 243.84,
         "english": "Because if you're driving, you know",
-        "chinese": "因为如果你开车，你知道了。"
+        "chinese": "因为开车你知道"
     },
     {
         "start": 243.84,
         "end": 247.84,
         "english": "that you can't go from first to fifth gear.",
-        "chinese": "你不能从第一档升到第五档。"
+        "chinese": "你无法从一挡直接升到五挡。"
     },
     {
         "start": 247.84,
         "end": 249.60000000000002,
         "english": "There's four or five gears.",
-        "chinese": "有四到五个档位。"
+        "chinese": "有四五挡。"
     },
     {
         "start": 249.60000000000002,
         "end": 253.56,
         "english": "And so you have to go one, two, three, four, or five.",
-        "chinese": "所以你必须走一、二、三、四或五。"
+        "chinese": "然后你得去一趟，两趟，三趟，四趟，或者五趟。"
     },
     {
         "start": 253.56,
@@ -663,19 +663,19 @@
         "start": 254.68,
         "end": 255.56,
         "english": "So we're shifting.",
-        "chinese": "所以我们要转移。"
+        "chinese": "所以我们正在转变。"
     },
     {
         "start": 255.56,
         "end": 258.96,
         "english": "We're moving up or we're moving down.",
-        "chinese": "我们是向上还是向下移动？"
+        "chinese": "我们要上要下。"
     },
     {
         "start": 258.96,
         "end": 260.48,
         "english": "So that's called to shift.",
-        "chinese": "所以这就是所谓的转移。"
+        "chinese": "这就是换岗。"
     },
     {
         "start": 260.48,
@@ -687,43 +687,43 @@
         "start": 260.96,
         "end": 261.72,
         "english": "To shift.",
-        "chinese": "为了转移。"
+        "chinese": "转变"
     },
     {
         "start": 261.72,
         "end": 265.8,
         "english": "And now in the dialogue, we heard to shift into first gear.",
-        "chinese": "现在，在对话中，我们听到要换档。"
+        "chinese": "而现在对话中，我们听到了进入第一档的声响。"
     },
     {
         "start": 265.8,
         "end": 267.04,
         "english": "So that's what it's called.",
-        "chinese": "那就是它的叫法。"
+        "chinese": "这就是它的名字。"
     },
     {
         "start": 267.04,
         "end": 267.56,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 267.56,
         "end": 270.76,
         "english": "And so normally the car starts in neutral.",
-        "chinese": "所以，通常汽车会以空挡起步。"
+        "chinese": "而正常情况下汽车是从空档启动的。"
     },
     {
         "start": 270.76,
         "end": 273.68,
         "english": "That was when you're at a break, you're at a stop.",
-        "chinese": "那就是你休息的时候，那是你暂停的时候。"
+        "chinese": "那是你休息的时候，你停止的时候。"
     },
     {
         "start": 273.68,
         "end": 277.84000000000003,
         "english": "And if you want to start the car, you have to shift to first gear.",
-        "chinese": "如果你想启动汽车，你需要先换到一档。"
+        "chinese": "如果你想启动汽车，就必须换到一档。"
     },
     {
         "start": 277.84000000000003,
@@ -735,169 +735,169 @@
         "start": 279.16,
         "end": 280.68,
         "english": "That's going to help the car go.",
-        "chinese": "那就是让汽车加速了。"
+        "chinese": "那将会帮助车子跑起来。"
     },
     {
         "start": 280.68,
         "end": 281.16,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 281.16,
         "end": 284.48,
         "english": "So to shift into first gear, awesome vocabulary.",
-        "chinese": "所以要换到一挡，真是厉害的词汇。"
+        "chinese": "所以要进入第一 gears，超 awesome 的词汇。"
     },
     {
         "start": 284.48,
         "end": 286.64000000000004,
         "english": "I think this is really useful, especially",
-        "chinese": "我认为这真的很实用，特别是"
+        "chinese": "我认为这真的很实用，尤其是"
     },
     {
         "start": 286.64000000000004,
         "end": 288.40000000000003,
         "english": "because it's very specific.",
-        "chinese": "因为它非常具体。"
+        "chinese": "因为非常具体。"
     },
     {
         "start": 288.40000000000003,
         "end": 291.08000000000004,
         "english": "So you don't really see it very often in anywhere.",
-        "chinese": "所以你很少在任何地方看到它。"
+        "chinese": "所以你很少在任何地方见到它。"
     },
     {
         "start": 291.08000000000004,
         "end": 292.64000000000004,
         "english": "But sometimes you need to use it.",
-        "chinese": "但有时候你需要使用它。"
+        "chinese": "但有时候你需要用它。"
     },
     {
         "start": 292.64000000000004,
         "end": 293.20000000000005,
         "english": "That's right.",
-        "chinese": "那是对的。"
+        "chinese": "没错。"
     },
     {
         "start": 293.20000000000005,
         "end": 295.28000000000003,
         "english": "And it's especially useful if you're",
-        "chinese": "而且，如果你是"
+        "chinese": "而且特别适用于你的情况"
     },
     {
         "start": 295.28000000000003,
         "end": 297.24,
         "english": "trying to teach someone how to drive.",
-        "chinese": "试图教某人开车。"
+        "chinese": "尝试教人开车。"
     },
     {
         "start": 297.24,
         "end": 299.24,
         "english": "Yeah, because not everyone knows how to drive manual.",
-        "chinese": "是的，因为并不是每个人都会手动驾驶。"
+        "chinese": "是的，因为并非每个人都会开手动挡。"
     },
     {
         "start": 299.24,
         "end": 300.0,
         "english": "Exactly.",
-        "chinese": "的确。"
+        "chinese": "Exactly."
     },
     {
         "start": 300.0,
         "end": 302.32,
         "english": "So why don't we listen to the dialogue again?",
-        "chinese": "为什么我们不再次聆听这段对话呢？"
+        "chinese": "所以我们再听一遍对话如何？"
     },
     {
         "start": 302.32,
         "end": 304.24,
         "english": "And we'll be back to explain fluency builder.",
-        "chinese": "我们将会再次解释流利 builder。"
+        "chinese": "我们将回来解释流利构建单元。"
     },
     {
         "start": 309.36,
         "end": 309.76,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 309.76,
         "end": 311.24,
         "english": "I'm ready for my driving lesson.",
-        "chinese": "我已经准备好接受我的驾驶课程了。"
+        "chinese": "我准备去上驾驶课了。"
     },
     {
         "start": 311.24,
         "end": 312.68,
         "english": "Should I start the car?",
-        "chinese": "我应该开汽车吗？"
+        "chinese": "应该启动汽车吗？"
     },
     {
         "start": 312.68,
         "end": 314.36,
         "english": "Hold on there, Fitty Polly.",
-        "chinese": "停下，菲利普·波莉。"
+        "chinese": "等等，菲力波莉。"
     },
     {
         "start": 314.36,
         "end": 317.12,
         "english": "First, let's go over things one more time.",
-        "chinese": "让我们再回顾一下。"
+        "chinese": "首先，让我们再过一遍。"
     },
     {
         "start": 317.12,
         "end": 319.6,
         "english": "Now, before you even think of starting the car,",
-        "chinese": "现在，你甚至还没想开车。"
+        "chinese": "现在，你甚至还没想到要发动汽车之前"
     },
     {
         "start": 319.6,
         "end": 321.92,
         "english": "make sure your seat is at a comfortable position.",
-        "chinese": "确保你的座位处于舒适的位置。"
+        "chinese": "确保你的座位处于一个舒适的姿势。"
     },
     {
         "start": 321.92,
         "end": 324.36,
         "english": "And you can grip the steering wheel firmly.",
-        "chinese": "而且你可以牢牢地握住方向盘。"
+        "chinese": "你可以牢牢握住方向盘。"
     },
     {
         "start": 324.36,
         "end": 326.2,
         "english": "Next, check your rear view mirrors",
-        "chinese": "接下来，检查后视镜。"
+        "chinese": "接下来，检查后视镜"
     },
     {
         "start": 326.2,
         "end": 328.36,
         "english": "to make sure you can see properly.",
-        "chinese": "确保你能清楚地看到。"
+        "chinese": "确保你看得清楚。"
     },
     {
         "start": 328.36,
         "end": 330.28000000000003,
         "english": "We've been through this a million times.",
-        "chinese": "我们已经经历了无数次。"
+        "chinese": "我们已经说过很多次了。"
     },
     {
         "start": 330.28000000000003,
         "end": 331.6,
         "english": "Let's get going already.",
-        "chinese": "让我们开始吧。"
+        "chinese": "快点开始吧。"
     },
     {
         "start": 331.6,
         "end": 332.76,
         "english": "I'm ready.",
-        "chinese": "我准备好。"
+        "chinese": "我准备好了。"
     },
     {
         "start": 332.76,
         "end": 333.52,
         "english": "Fine.",
-        "chinese": "很好。"
+        "chinese": "好的。"
     },
     {
         "start": 333.52,
@@ -909,13 +909,13 @@
         "start": 335.08,
         "end": 335.6,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 335.6,
         "end": 339.48,
         "english": "Now gently step on the clutch and shift to first gear.",
-        "chinese": "现在轻轻地踩下离合器，换到一挡。"
+        "chinese": "现在轻轻踩下离合器，换到一挡。"
     },
     {
         "start": 339.48,
@@ -927,13 +927,13 @@
         "start": 340.52,
         "end": 344.28,
         "english": "Now accelerate gently and let go of the clutch as you do it.",
-        "chinese": "现在轻踩油门，松开离合器。"
+        "chinese": "缓缓加速，松开油门。"
     },
     {
         "start": 344.28,
         "end": 345.03999999999996,
         "english": "There we go.",
-        "chinese": "那我们出发吧。"
+        "chinese": "好了。"
     },
     {
         "start": 345.03999999999996,
@@ -945,31 +945,31 @@
         "start": 345.79999999999995,
         "end": 346.47999999999996,
         "english": "I'm doing it.",
-        "chinese": "我正在做。"
+        "chinese": "我这就去做。"
     },
     {
         "start": 346.47999999999996,
         "end": 347.47999999999996,
         "english": "I'm driving.",
-        "chinese": "我正在开车。"
+        "chinese": "我开车了。"
     },
     {
         "start": 347.47999999999996,
         "end": 348.91999999999996,
         "english": "This is awesome.",
-        "chinese": "这是awesome。"
+        "chinese": "这太棒了。"
     },
     {
         "start": 348.91999999999996,
         "end": 350.68,
         "english": "Let's turn some music on.",
-        "chinese": "让我们放一些音乐。"
+        "chinese": "让我们来点音乐吧。"
     },
     {
         "start": 350.68,
         "end": 352.08,
         "english": "Keep your eyes on the road.",
-        "chinese": "保持视线集中在道路上。"
+        "chinese": "保持对前方的注意力。"
     },
     {
         "start": 352.08,
@@ -981,13 +981,13 @@
         "start": 353.44,
         "end": 355.15999999999997,
         "english": "We are coming up to a red light.",
-        "chinese": "我们快到红灯了。"
+        "chinese": "我们即将迎来红灯。"
     },
     {
         "start": 355.15999999999997,
         "end": 356.88,
         "english": "Step on the brakes.",
-        "chinese": "踩刹车。"
+        "chinese": "踩刹车"
     },
     {
         "start": 356.88,
@@ -999,31 +999,31 @@
         "start": 358.0,
         "end": 359.4,
         "english": "I said the brakes.",
-        "chinese": "我说刹车。"
+        "chinese": "我说了刹车。"
     },
     {
         "start": 359.4,
         "end": 361.24,
         "english": "Look out for those people.",
-        "chinese": "小心那些人。"
+        "chinese": "注意那些人。"
     },
     {
         "start": 361.24,
         "end": 363.12,
         "english": "Get off the sidewalk.",
-        "chinese": "上街。"
+        "chinese": "离开人行道。"
     },
     {
         "start": 363.12,
         "end": 364.2,
         "english": "Get out of my way.",
-        "chinese": "让开。"
+        "chinese": "别挡我的路。"
     },
     {
         "start": 364.2,
         "end": 367.12,
         "english": "Oh, this is just like playing video games.",
-        "chinese": "哦，这就像在玩视频游戏。"
+        "chinese": "哦，这就像玩视频游戏一样。"
     },
     {
         "start": 367.12,
@@ -1035,13 +1035,13 @@
         "start": 368.35999999999996,
         "end": 369.12,
         "english": "Pull over.",
-        "chinese": "停车。"
+        "chinese": "靠边停车。"
     },
     {
         "start": 369.16,
         "end": 370.92,
         "english": "They'll never take me alive.",
-        "chinese": "他们永远不会放过我。"
+        "chinese": "他们永远不会活捉我。"
     },
     {
         "start": 374.0,
@@ -1053,43 +1053,43 @@
         "start": 374.76,
         "end": 377.76,
         "english": "So now why don't we take a look at four key phrases",
-        "chinese": "那么，我们现在为什么不看看这四个关键短语呢？"
+        "chinese": "那么现在我们来看看四个关键短语"
     },
     {
         "start": 377.76,
         "end": 379.84000000000003,
         "english": "in fluency builder.",
-        "chinese": "在流利 Builder。"
+        "chinese": "在流利构建单元。"
     },
     {
         "start": 379.84000000000003,
         "end": 382.2,
         "english": "Fluency builder.",
-        "chinese": "流利者(builder)训练器"
+        "chinese": "流利构建单元。"
     },
     {
         "start": 382.2,
         "end": 384.52,
         "english": "Well, the first phrase is maybe the most important",
-        "chinese": "好吧，第一句话可能是最重要的"
+        "chinese": "嗯，第一句话可能是最重要的"
     },
     {
         "start": 384.52,
         "end": 385.12,
         "english": "when driving.",
-        "chinese": "当驾车。"
+        "chinese": "当驾驶时。"
     },
     {
         "start": 385.12,
         "end": 386.32,
         "english": "It's the first thing you do.",
-        "chinese": "这是你做的第一件事。"
+        "chinese": "这是你首先要做的。"
     },
     {
         "start": 386.32,
         "end": 388.08,
         "english": "You start the car.",
-        "chinese": "你启动汽车。"
+        "chinese": "你发动汽车。"
     },
     {
         "start": 388.08,
@@ -1101,49 +1101,49 @@
         "start": 388.6,
         "end": 390.64,
         "english": "So you don't say you turn on the car, right?",
-        "chinese": "所以你不是说你启动了汽车吗？"
+        "chinese": "这么说你不会自己开车吧？"
     },
     {
         "start": 390.64,
         "end": 393.04,
         "english": "Now, see, put the key in the ignition",
-        "chinese": "现在，看，把钥匙放进点火开关"
+        "chinese": "现在，把钥匙插入点火开关"
     },
     {
         "start": 393.04,
         "end": 394.24,
         "english": "and you start the car.",
-        "chinese": "你启动汽车。"
+        "chinese": "你发动汽车。"
     },
     {
         "start": 394.24,
         "end": 397.48,
         "english": "That means you, you turn it on.",
-        "chinese": "这意味着你，你启动它。"
+        "chinese": "那就是你了，你就把它打开。"
     },
     {
         "start": 397.48,
         "end": 400.12,
         "english": "What about to, when you want to turn off the car,",
-        "chinese": "关于当你想关闭汽车时，怎么做？"
+        "chinese": "你打算什么时候熄火呢，开车的时候。"
     },
     {
         "start": 400.12,
         "end": 401.40000000000003,
         "english": "turn the car off?",
-        "chinese": "关掉汽车？"
+        "chinese": "关闭汽车吗？"
     },
     {
         "start": 401.40000000000003,
         "end": 402.76,
         "english": "You say stop the engine.",
-        "chinese": "你让停车。"
+        "chinese": "你說停引擎。"
     },
     {
         "start": 402.76,
         "end": 403.6,
         "english": "Stop the car.",
-        "chinese": "停止汽车。"
+        "chinese": "停车。"
     },
     {
         "start": 403.6,
@@ -1155,13 +1155,13 @@
         "start": 404.44,
         "end": 405.28000000000003,
         "english": "Stop the engine.",
-        "chinese": "停止发动机。"
+        "chinese": "停止引擎。"
     },
     {
         "start": 405.28000000000003,
         "end": 406.84000000000003,
         "english": "Stop the engine, right?",
-        "chinese": "停止发动机，对吗？"
+        "chinese": "停引擎吗？"
     },
     {
         "start": 406.84000000000003,
@@ -1173,91 +1173,91 @@
         "start": 407.96000000000004,
         "end": 411.84000000000003,
         "english": "Moving on, our next phrase is a million times.",
-        "chinese": "继续下去，我们的下一个短语是前一句的百万倍。"
+        "chinese": "接下来的短语，真是不计其数。"
     },
     {
         "start": 411.84000000000003,
         "end": 412.72,
         "english": "Why is this a phrase?",
-        "chinese": "这是为什么是一个短语？"
+        "chinese": "为什么这是一个短语？"
     },
     {
         "start": 412.72,
         "end": 413.72,
         "english": "A million times.",
-        "chinese": "一千万次。"
+        "chinese": "百万次。"
     },
     {
         "start": 413.72,
         "end": 414.72,
         "english": "This is pretty literal, right?",
-        "chinese": "这句话挺直白的，对吧？"
+        "chinese": "这挺直译的吧？"
     },
     {
         "start": 414.72,
         "end": 417.32,
         "english": "We've been through this a million times.",
-        "chinese": "我们已经经历了无数次。"
+        "chinese": "我们已经说过很多次了。"
     },
     {
         "start": 417.32,
         "end": 418.40000000000003,
         "english": "Well, no, it's not literal.",
-        "chinese": "好吧，不是说的字面意思。"
+        "chinese": "嗯，其实不是字面意思。"
     },
     {
         "start": 418.40000000000003,
         "end": 421.12,
         "english": "Otherwise, I think I might kill the person.",
-        "chinese": "否则，我觉得我会杀了那个人。"
+        "chinese": "否则，我可能要杀人了。"
     },
     {
         "start": 421.12,
         "end": 424.56,
         "english": "Because a million times means that we've had this same",
-        "chinese": "因为一万次意味着我们已经经历了同样的"
+        "chinese": "因为一千万次意味着我们已经经历过这样的事情了"
     },
     {
         "start": 424.56,
         "end": 425.72,
         "english": "conversation.",
-        "chinese": "对话"
+        "chinese": "对话。"
     },
     {
         "start": 425.72,
         "end": 426.72,
         "english": "Many times.",
-        "chinese": "许多次。"
+        "chinese": "很多时候。"
     },
     {
         "start": 426.72,
         "end": 427.84000000000003,
         "english": "One many, many times.",
-        "chinese": "许多，多次。"
+        "chinese": "一次又一次。"
     },
     {
         "start": 427.84000000000003,
         "end": 430.28000000000003,
         "english": "But you can't actually have it a million times.",
-        "chinese": "但是你真的不可能拥有它一百次。"
+        "chinese": "但你实际上却不能做到一次又一次。"
     },
     {
         "start": 430.28000000000003,
         "end": 431.96000000000004,
         "english": "That's way too many.",
-        "chinese": "那就是太多了。"
+        "chinese": "太多了。"
     },
     {
         "start": 431.96000000000004,
         "end": 432.96000000000004,
         "english": "So it's an exaggeration.",
-        "chinese": "所以这是一个夸张。"
+        "chinese": "这不过是夸大其词。"
     },
     {
         "start": 432.96000000000004,
         "end": 434.88000000000005,
         "english": "Yeah, it's a way to say a lot.",
-        "chinese": "是的，这是一种表达很多的方式。"
+        "chinese": "是说起来轻松很多的方式。"
     },
     {
         "start": 434.88000000000005,
@@ -1269,85 +1269,85 @@
         "start": 435.88000000000005,
         "end": 438.68,
         "english": "I've heard him say this a million times.",
-        "chinese": "我听过他这么说一万多遍。"
+        "chinese": "我听过他这么说无数次了。"
     },
     {
         "start": 438.68,
         "end": 440.92,
         "english": "I've heard this story a million times.",
-        "chinese": "我听过这个故事一亿次。"
+        "chinese": "我听过这个故事 millions of 次。"
     },
     {
         "start": 440.92,
         "end": 441.92,
         "english": "Or I've done this.",
-        "chinese": "我已经做了。"
+        "chinese": "或者我做过。"
     },
     {
         "start": 441.92,
         "end": 443.96000000000004,
         "english": "I've turned the car on a million times.",
-        "chinese": "我已经把车开了一万次。"
+        "chinese": "我开车开了很多次。"
     },
     {
         "start": 443.96000000000004,
         "end": 444.96000000000004,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 444.96000000000004,
         "end": 445.96000000000004,
         "english": "Awesome.",
-        "chinese": "太棒了。"
+        "chinese": "好极了。"
     },
     {
         "start": 445.96000000000004,
         "end": 448.12,
         "english": "And now, well, they were driving in the heart of police,",
-        "chinese": "现在，他们正开车在警察的中心行驶。"
+        "chinese": "而如今，他们正驾驶着车深入警察的心脏地带。"
     },
     {
         "start": 448.12,
         "end": 451.20000000000005,
         "english": "siren, and the guy told her to pull over.",
-        "chinese": "警报响起，那人让她停车。"
+        "chinese": "sirens, and the man told her to pull over."
     },
     {
         "start": 451.20000000000005,
         "end": 452.20000000000005,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 452.20000000000005,
         "end": 454.40000000000003,
         "english": "So this is a very common car phrase again,",
-        "chinese": "所以这又是一个非常常见的汽车短语。"
+        "chinese": "这就是一个非常常见的汽车用语再次出现，"
     },
     {
         "start": 454.4,
         "end": 456.44,
         "english": "especially when you're dealing with the police.",
-        "chinese": "尤其是当你处理警察时。"
+        "chinese": "特别是当你处理警察的时候。"
     },
     {
         "start": 456.44,
         "end": 459.59999999999997,
         "english": "So to pull over means to slow the car down",
-        "chinese": "所以停车意味着减速行驶"
+        "chinese": "所以拉起就是减速的意思"
     },
     {
         "start": 459.59999999999997,
         "end": 462.47999999999996,
         "english": "and to stop it on the side of the road.",
-        "chinese": "并且把它停在路边。"
+        "chinese": "在路上停下来。"
     },
     {
         "start": 462.47999999999996,
         "end": 464.12,
         "english": "So you could hear a policeman say,",
-        "chinese": "所以你可以听到警察说的。"
+        "chinese": "所以你可能会听到警察这么说过，"
     },
     {
         "start": 464.12,
@@ -1359,85 +1359,85 @@
         "start": 465.28,
         "end": 467.08,
         "english": "Pull over.",
-        "chinese": "停车。"
+        "chinese": "靠边停车。"
     },
     {
         "start": 467.08,
         "end": 468.23999999999995,
         "english": "So pull over your car.",
-        "chinese": "请把车停在路边。"
+        "chinese": "把车停一下。"
     },
     {
         "start": 468.23999999999995,
         "end": 470.59999999999997,
         "english": "That means slow down and stop the car on the side.",
-        "chinese": "这意味着要减速并靠边停车。"
+        "chinese": "那意思是慢下来，把车停在路边。"
     },
     {
         "start": 470.59999999999997,
         "end": 472.47999999999996,
         "english": "Because obviously, you can't stop in the middle of the road.",
-        "chinese": "因为很明显，你不能在路边停下来。"
+        "chinese": "因为当然你不能在路中间停下来。"
     },
     {
         "start": 472.47999999999996,
         "end": 473.0,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 473.0,
         "end": 475.76,
         "english": "So sometimes your mobile phone will ring as well.",
-        "chinese": "所以你的手机有时候也会响铃。"
+        "chinese": "有时候你的手机也会响。"
     },
     {
         "start": 475.76,
         "end": 477.08,
         "english": "And you don't have a hands-free.",
-        "chinese": "你没有手自由。"
+        "chinese": "你也没有无线控制。"
     },
     {
         "start": 477.08,
         "end": 478.64,
         "english": "So you have to pull over to the side",
-        "chinese": "所以你必须靠边停车"
+        "chinese": "你得把车靠边停一下"
     },
     {
         "start": 478.64,
         "end": 480.52,
         "english": "so you can pick up the phone usually, right?",
-        "chinese": "所以你通常可以打电话，对吧？"
+        "chinese": "你可以打电话拿起电话，是吗？"
     },
     {
         "start": 480.52,
         "end": 481.03999999999996,
         "english": "Exactly.",
-        "chinese": "确切地。"
+        "chinese": "Exactly."
     },
     {
         "start": 481.03999999999996,
         "end": 482.96,
         "english": "Or you could say, hey, mom, could you pull over?",
-        "chinese": "或者你可以说，嘿，妈妈，你能停车吗？"
+        "chinese": "或者你可以对妈妈说，嘿，可以靠边停车吗？"
     },
     {
         "start": 482.96,
         "end": 484.0,
         "english": "I have to use the restroom.",
-        "chinese": "我必须去厕所。"
+        "chinese": "我得去趟洗手间。"
     },
     {
         "start": 484.0,
         "end": 484.84,
         "english": "Exactly.",
-        "chinese": "确实。"
+        "chinese": "Exactly."
     },
     {
         "start": 484.84,
         "end": 485.6,
         "english": "Awesome.",
-        "chinese": "太 awesome了。"
+        "chinese": "好极了。"
     },
     {
         "start": 485.6,
@@ -1449,37 +1449,37 @@
         "start": 485.92,
         "end": 488.24,
         "english": "And our last phrase for today is,",
-        "chinese": "今天我们的最后一个短语是："
+        "chinese": "而我们今天的最后一句是，"
     },
     {
         "start": 488.24,
         "end": 491.04,
         "english": "to take me alive, to take someone alive.",
-        "chinese": "为了活捉我，为了活捉某人。"
+        "chinese": "活捉他"
     },
     {
         "start": 491.04,
         "end": 493.16,
         "english": "They'll never take me alive.",
-        "chinese": "他们永远不会放过我。"
+        "chinese": "他们永远不会活捉我。"
     },
     {
         "start": 493.16,
         "end": 494.36,
         "english": "That's what the character says.",
-        "chinese": "那就是这个角色所说的话。"
+        "chinese": "那就是角色所说。"
     },
     {
         "start": 494.36,
         "end": 496.68,
         "english": "And so this is a phrase that we use",
-        "chinese": "所以，这就是我们使用的短语。"
+        "chinese": "而这是一句我们常使用的表达"
     },
     {
         "start": 496.68,
         "end": 498.68,
         "english": "when we're talking about people who are running away",
-        "chinese": "当我们谈论那些选择逃跑的人时"
+        "chinese": "当我们谈论那些逃离的人时"
     },
     {
         "start": 498.68,
@@ -1491,19 +1491,19 @@
         "start": 499.96,
         "end": 503.28,
         "english": "So he says, they will never capture me.",
-        "chinese": "所以他这么说，他们永远不会抓到我。"
+        "chinese": "他说，他们永远也抓不住我。"
     },
     {
         "start": 503.28,
         "end": 506.48,
         "english": "And if they do, I'll be dead.",
-        "chinese": "如果他们这样做，我会死的。"
+        "chinese": "如果他们这么做，我就完了。"
     },
     {
         "start": 506.48,
         "end": 509.36,
         "english": "So he's saying, either I run free or I die.",
-        "chinese": "所以，他要么自由地奔跑，要么就死亡。"
+        "chinese": "所以他这么说，要么我自由着跑，要么我就死了。"
     },
     {
         "start": 509.36,
@@ -1515,7 +1515,7 @@
         "start": 509.88,
         "end": 512.88,
         "english": "So to take someone alive is basically that.",
-        "chinese": "所以，带走某人基本上就是这个。"
+        "chinese": "所以活捉某人基本上就是了。"
     },
     {
         "start": 512.88,
@@ -1527,19 +1527,19 @@
         "start": 514.04,
         "end": 516.4,
         "english": "Would you say, no, this is not literal.",
-        "chinese": "你可以说，不，这并不是字面意思。"
+        "chinese": "你说，这不literal。"
     },
     {
         "start": 516.4,
         "end": 518.28,
         "english": "He's saying they'll never catch me.",
-        "chinese": "他说他们永远不会抓到我。"
+        "chinese": "他声称他们永远也抓不住我。"
     },
     {
         "start": 518.28,
         "end": 518.76,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 518.76,
@@ -1557,13 +1557,13 @@
         "start": 520.16,
         "end": 522.24,
         "english": "So that's all the phrases we have for today.",
-        "chinese": "所以，今天我们用的所有短语都是这些。"
+        "chinese": "这就是今天的所有短语。"
     },
     {
         "start": 522.24,
         "end": 523.6,
         "english": "Why don't we listen to the style",
-        "chinese": "为什么我们不听风格"
+        "chinese": "我们为什么不听听风格"
     },
     {
         "start": 523.6,
@@ -1575,97 +1575,97 @@
         "start": 524.84,
         "end": 525.84,
         "english": "And we'll be back.",
-        "chinese": "我们还会回来。"
+        "chinese": "我们下次再聊。"
     },
     {
         "start": 525.84,
         "end": 526.84,
         "english": "And we'll be back.",
-        "chinese": "我们会回来的。"
+        "chinese": "我们下次再聊。"
     },
     {
         "start": 535.52,
         "end": 535.92,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 535.92,
         "end": 537.36,
         "english": "I'm ready for my driving lesson.",
-        "chinese": "我准备好接受我的驾驶课程了。"
+        "chinese": "我准备去上驾驶课了。"
     },
     {
         "start": 537.36,
         "end": 538.84,
         "english": "Should I start the car?",
-        "chinese": "我应该开车吗？"
+        "chinese": "应该启动汽车吗？"
     },
     {
         "start": 538.84,
         "end": 540.52,
         "english": "Hold on there, Fiddy Paldi.",
-        "chinese": "停下，飞飞爸爸。"
+        "chinese": "等等，佛迪·帕尔迪。"
     },
     {
         "start": 540.52,
         "end": 543.24,
         "english": "First, let's go over things one more time.",
-        "chinese": "让我们再回顾一下这些事情。"
+        "chinese": "首先，让我们再过一遍。"
     },
     {
         "start": 543.24,
         "end": 545.72,
         "english": "Now, before you even think of starting the car,",
-        "chinese": "现在，你甚至还没想开车。"
+        "chinese": "现在，你甚至还没考虑启动汽车之前，"
     },
     {
         "start": 545.72,
         "end": 548.04,
         "english": "make sure your seat is at a comfortable position",
-        "chinese": "确保你的座位处于舒适的位置"
+        "chinese": "确保你的座位处于一个舒适的姿势"
     },
     {
         "start": 548.04,
         "end": 550.48,
         "english": "and you can grip the steering wheel firmly.",
-        "chinese": "并且你可以牢牢地握住方向盘。"
+        "chinese": "你可以牢牢握住方向盘。"
     },
     {
         "start": 550.48,
         "end": 552.3199999999999,
         "english": "Next, check your rear view mirrors",
-        "chinese": "接下来，检查你的后视镜。"
+        "chinese": "接下来，检查后视镜"
     },
     {
         "start": 552.3199999999999,
         "end": 554.48,
         "english": "to make sure you can see properly.",
-        "chinese": "确保你能清楚地看到。"
+        "chinese": "确保你看得清楚。"
     },
     {
         "start": 554.48,
         "end": 556.4,
         "english": "We've been through this a million times.",
-        "chinese": "我们已经经历过无数遍了。"
+        "chinese": "我们已经说过很多次了。"
     },
     {
         "start": 556.4,
         "end": 557.72,
         "english": "Let's get going already.",
-        "chinese": "让我们开始吧。"
+        "chinese": "快点开始吧。"
     },
     {
         "start": 557.72,
         "end": 558.88,
         "english": "I'm ready.",
-        "chinese": "我准备好。"
+        "chinese": "我准备好了。"
     },
     {
         "start": 558.88,
         "end": 559.6,
         "english": "Fine.",
-        "chinese": "好。"
+        "chinese": "好的。"
     },
     {
         "start": 559.6,
@@ -1677,13 +1677,13 @@
         "start": 561.88,
         "end": 562.4,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 562.4,
         "end": 566.3199999999999,
         "english": "Now gently step on the clutch and shift to first gear.",
-        "chinese": "现在轻轻地踩下离合器，换入一挡。"
+        "chinese": "现在轻轻地踩下离合器，换到一挡。"
     },
     {
         "start": 566.3199999999999,
@@ -1695,13 +1695,13 @@
         "start": 567.32,
         "end": 571.08,
         "english": "Now accelerate gently and let go of the clutch as you do it.",
-        "chinese": "现在慢慢加速，松开离合器。"
+        "chinese": "缓缓加速，松开油门。"
     },
     {
         "start": 571.08,
         "end": 571.84,
         "english": "There we go.",
-        "chinese": "那我们就开始吧。"
+        "chinese": "好了。"
     },
     {
         "start": 571.84,
@@ -1713,31 +1713,31 @@
         "start": 572.6,
         "end": 573.2800000000001,
         "english": "I'm doing it.",
-        "chinese": "我正在做。"
+        "chinese": "我这就去做。"
     },
     {
         "start": 573.2800000000001,
         "end": 574.32,
         "english": "I'm driving.",
-        "chinese": "我正在开车。"
+        "chinese": "我开车了。"
     },
     {
         "start": 574.32,
         "end": 575.72,
         "english": "This is awesome.",
-        "chinese": "这是awesome。"
+        "chinese": "这太棒了。"
     },
     {
         "start": 575.72,
         "end": 577.5200000000001,
         "english": "Let's turn some music on.",
-        "chinese": "让我们放点音乐。"
+        "chinese": "让我们来点音乐吧。"
     },
     {
         "start": 577.5200000000001,
         "end": 578.88,
         "english": "Keep your eyes on the road.",
-        "chinese": "保持视线集中在道路上。"
+        "chinese": "保持对前方的注意力。"
     },
     {
         "start": 578.88,
@@ -1749,13 +1749,13 @@
         "start": 580.2800000000001,
         "end": 581.96,
         "english": "We are coming up to a red light.",
-        "chinese": "我们快到红灯了。"
+        "chinese": "我们即将迎来红灯。"
     },
     {
         "start": 581.96,
         "end": 583.84,
         "english": "Step on the brakes.",
-        "chinese": "踩刹车。"
+        "chinese": "踩刹车"
     },
     {
         "start": 583.84,
@@ -1767,31 +1767,31 @@
         "start": 584.8000000000001,
         "end": 586.24,
         "english": "I said the brakes.",
-        "chinese": "我说刹车。"
+        "chinese": "我说了刹车。"
     },
     {
         "start": 586.24,
         "end": 588.0400000000001,
         "english": "Look out for those people.",
-        "chinese": "注意那些人。"
+        "chinese": "留心那些人。"
     },
     {
         "start": 588.0400000000001,
         "end": 589.96,
         "english": "Get off the sidewalk.",
-        "chinese": "下车，不要走人行道。"
+        "chinese": "离开人行道。"
     },
     {
         "start": 589.96,
         "end": 591.1600000000001,
         "english": "Get out of my way.",
-        "chinese": "请让我过去。"
+        "chinese": "别挡我的路。"
     },
     {
         "start": 591.1600000000001,
         "end": 593.96,
         "english": "Oh, this is just like playing video games.",
-        "chinese": "哦，这就像玩视频游戏。"
+        "chinese": "哦，这就像玩视频游戏一样。"
     },
     {
         "start": 593.96,
@@ -1803,13 +1803,13 @@
         "start": 595.1600000000001,
         "end": 595.96,
         "english": "Pull over.",
-        "chinese": "停车。"
+        "chinese": "靠边停车。"
     },
     {
         "start": 595.96,
         "end": 597.44,
         "english": "They'll never take me alive.",
-        "chinese": "他们永远不会放过我。"
+        "chinese": "他们永远不会活捉我。"
     },
     {
         "start": 606.8000000000001,
@@ -1827,7 +1827,7 @@
         "start": 608.2,
         "end": 609.96,
         "english": "Now, this is interesting because as you",
-        "chinese": "现在，这很有趣，因为正如你所见的那样。"
+        "chinese": "现在这很有趣，因为你"
     },
     {
         "start": 609.96,
@@ -1839,31 +1839,31 @@
         "start": 612.12,
         "end": 614.2800000000001,
         "english": "usually have automatic transmissions.",
-        "chinese": "通常配有自动变速箱。"
+        "chinese": "通常配备自动变速箱。"
     },
     {
         "start": 614.2800000000001,
         "end": 617.48,
         "english": "Whereas in Europe, maybe they have manual transmissions.",
-        "chinese": "尽管在欧洲，也许他们有手动挡。"
+        "chinese": "而在欧洲，他们或许有手动挡。"
     },
     {
         "start": 617.48,
         "end": 618.0,
         "english": "Exactly.",
-        "chinese": "确切。"
+        "chinese": "Exactly."
     },
     {
         "start": 618.0,
         "end": 620.4000000000001,
         "english": "Is there a reason for that, do you think?",
-        "chinese": "你觉得那有原因吗？"
+        "chinese": "那有这事吗，你觉得？"
     },
     {
         "start": 620.4000000000001,
         "end": 621.8000000000001,
         "english": "I'm not sure what the reason would be.",
-        "chinese": "我是不确定原因是什么。"
+        "chinese": "我不清楚原因是什么。"
     },
     {
         "start": 621.8000000000001,
@@ -1875,115 +1875,115 @@
         "start": 623.76,
         "end": 627.6,
         "english": "manufacture more automatic cars in general.",
-        "chinese": "制造更多的自动汽车。"
+        "chinese": "生产更多的自动驾驶汽车。"
     },
     {
         "start": 627.6,
         "end": 631.08,
         "english": "Some people say that it's because people in America",
-        "chinese": "有些人说是因为美国的人们"
+        "chinese": "有些人说这是因为美国的人"
     },
     {
         "start": 631.08,
         "end": 632.68,
         "english": "are less concerned with gas.",
-        "chinese": "他们对气不那么在意。"
+        "chinese": "对气体的关注较少。"
     },
     {
         "start": 632.68,
         "end": 634.4,
         "english": "But if you have a manual transmission,",
-        "chinese": "但是如果你有手动挡的话，"
+        "chinese": "但如果你有手动挡，"
     },
     {
         "start": 634.4,
         "end": 636.4399999999999,
         "english": "you can actually conserve a bit of gas.",
-        "chinese": "你其实可以节省一点油。"
+        "chinese": "你其实可以节省一些汽油。"
     },
     {
         "start": 636.4399999999999,
         "end": 640.28,
         "english": "And so because gas prices in Europe are higher generally,",
-        "chinese": "因此，因为欧洲的天然气价格通常较高。"
+        "chinese": "因此因为欧洲的汽油价格总体上较高，"
     },
     {
         "start": 640.28,
         "end": 643.08,
         "english": "more people are interested in having manual transmissions.",
-        "chinese": "越来越多的人对手动挡车感兴趣。"
+        "chinese": "更多人对手动挡感兴趣。"
     },
     {
         "start": 643.08,
         "end": 645.84,
         "english": "Also, I remember when I was younger, my dad always",
-        "chinese": "也记得小时候，我爸爸总是"
+        "chinese": "此外，我还记得小时候，我爸爸总是"
     },
     {
         "start": 645.84,
         "end": 648.24,
         "english": "bought cars that had a manual transmission.",
-        "chinese": "购买了有手动挡的汽车。"
+        "chinese": "买了有手动档的车。"
     },
     {
         "start": 648.24,
         "end": 651.88,
         "english": "Because he said that if ever they break down,",
-        "chinese": "因为他说，一旦它们崩溃了，就发生了什么情况？"
+        "chinese": "因为他说如果万一出了故障，"
     },
     {
         "start": 651.88,
         "end": 655.12,
         "english": "it's much easier and cheaper to fix.",
-        "chinese": "修理起来要容易得多且成本更低。"
+        "chinese": "这much更容易且便宜得多。"
     },
     {
         "start": 655.12,
         "end": 657.28,
         "english": "And a car that has a manual transmission",
-        "chinese": "并且一辆有手动挡的汽车"
+        "chinese": "并且有一辆手动挡的车"
     },
     {
         "start": 657.28,
         "end": 659.56,
         "english": "than it is to fix an automatic one.",
-        "chinese": "比修复自动的还要困难。"
+        "chinese": "它比修复自动的要容易。"
     },
     {
         "start": 659.56,
         "end": 660.08,
         "english": "That's right.",
-        "chinese": "那是对的。"
+        "chinese": "没错。"
     },
     {
         "start": 660.08,
         "end": 661.52,
         "english": "Well, I personally think that it's better",
-        "chinese": "好吧，我个人觉得那是更好的。"
+        "chinese": "嗯，我个人觉得更好"
     },
     {
         "start": 661.52,
         "end": 665.52,
         "english": "to learn how to drive on a manual transmission car.",
-        "chinese": "学习手动挡汽车的驾驶方法。"
+        "chinese": "学习如何驾驶手动挡的汽车。"
     },
     {
         "start": 665.52,
         "end": 667.92,
         "english": "Because you can drive any car afterwards.",
-        "chinese": "因为你可以开任何一辆车。"
+        "chinese": "因为以后你可以开任何车。"
     },
     {
         "start": 667.92,
         "end": 669.92,
         "english": "But if you learn an automatic,",
-        "chinese": "但如果你学习自动的，"
+        "chinese": "但如果你学会自动相机，"
     },
     {
         "start": 669.92,
         "end": 672.04,
         "english": "you'll never know how to drive a manual.",
-        "chinese": "你永远不会知道如何手动驾驶。"
+        "chinese": "你永远不知道如何手动驾驶。"
     },
     {
         "start": 672.04,
@@ -1995,79 +1995,79 @@
         "start": 674.32,
         "end": 677.8,
         "english": "about a small child that actually the dialogue is based on it",
-        "chinese": "关于一个实际上对话基于它的小小孩子"
+        "chinese": "关于一个小孩，对话其实都是基于它"
     },
     {
         "start": 677.8,
         "end": 679.96,
         "english": "is he took his dad's car.",
-        "chinese": "他开的是他爸爸的车。"
+        "chinese": "他是否借用了他爸爸的车。"
     },
     {
         "start": 679.96,
         "end": 681.36,
         "english": "And he was like seven years old.",
-        "chinese": "他像七岁一样。"
+        "chinese": "他那时候七岁。"
     },
     {
         "start": 681.36,
         "end": 684.24,
         "english": "And he was driving and was being chased by the police.",
-        "chinese": "他正在开车，正被警察追捕。"
+        "chinese": "他正在开车，被警察追着。"
     },
     {
         "start": 684.24,
         "end": 685.0,
         "english": "No way.",
-        "chinese": "不行。"
+        "chinese": "没门。"
     },
     {
         "start": 685.0,
         "end": 687.32,
         "english": "And then he pulled into his house",
-        "chinese": "然后他开进了他的房子"
+        "chinese": "然后他开车进了自己的家"
     },
     {
         "start": 687.32,
         "end": 689.8000000000001,
         "english": "and got out of the car and ran into the house.",
-        "chinese": "并从车里出来，跑进屋里。"
+        "chinese": "下车跑进了房子。"
     },
     {
         "start": 689.8000000000001,
         "end": 692.04,
         "english": "So obviously he was an underage driver,",
-        "chinese": "所以，他显然是个未成年人驾驶员。"
+        "chinese": "显然他是一名未成年司机。"
     },
     {
         "start": 692.04,
         "end": 693.8000000000001,
         "english": "but he didn't get into much trouble.",
-        "chinese": "但是他并没有惹太多麻烦。"
+        "chinese": "但他没有惹出太多麻烦。"
     },
     {
         "start": 693.8000000000001,
         "end": 696.6,
         "english": "But it was interesting because he drove very, very well.",
-        "chinese": "但这是有趣的，因为他开车非常好。"
+        "chinese": "但有趣的是，他开车非常非常好。"
     },
     {
         "start": 696.6,
         "end": 697.44,
         "english": "That's unbelievable.",
-        "chinese": "那真是难以置信。"
+        "chinese": "那真是不可思议。"
     },
     {
         "start": 697.44,
         "end": 701.5600000000001,
         "english": "And basically almost learned it by game simulators,",
-        "chinese": "而且基本上是通过游戏模拟器学会的。"
+        "chinese": "基本上几乎都是通过游戏模拟器学习的。"
     },
     {
         "start": 701.5600000000001,
         "end": 703.64,
         "english": "by video games on how you drive on a video game.",
-        "chinese": "通过视频游戏，了解如何驾驶。"
+        "chinese": "通过视频游戏了解你在视频游戏中如何驾驶。"
     },
     {
         "start": 703.64,
@@ -2079,43 +2079,43 @@
         "start": 704.48,
         "end": 706.36,
         "english": "Well, a NASCAR here he comes.",
-        "chinese": "哎，一个NASCAR来了。"
+        "chinese": "哦，一个纳斯卡车手来了。"
     },
     {
         "start": 706.36,
         "end": 707.08,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 707.08,
         "end": 709.6,
         "english": "So if you have any questions, any comments",
-        "chinese": "那么，如果你有任何问题或评论，请随时提问。"
+        "chinese": "那么如果有任何问题或评论"
     },
     {
         "start": 709.6,
         "end": 711.88,
         "english": "or any other suggestions for lessons,",
-        "chinese": "或者任何其他关于课程的建议"
+        "chinese": "或者任何其他课程建议，"
     },
     {
         "start": 711.88,
         "end": 714.36,
         "english": "please come to our website, EnglishPod.com.",
-        "chinese": "请访问我们的网站，英语学习网。"
+        "chinese": "请访问我们的网站，EnglishPod.com。"
     },
     {
         "start": 714.36,
         "end": 715.64,
         "english": "And we'll see you guys there.",
-        "chinese": "我们会在那边见你们。"
+        "chinese": "你们到时候见。"
     },
     {
         "start": 715.64,
         "end": 716.48,
         "english": "Bye, everyone.",
-        "chinese": "再见，大家。"
+        "chinese": "再见，各位。"
     },
     {
         "start": 716.48,

@@ -3,55 +3,55 @@
         "start": 0.0,
         "end": 5.6000000000000005,
         "english": "Hello everyone and welcome to EnglishPod. My name is Marco.",
-        "chinese": "你好大家，欢迎来到英语广播。我叫马克。"
+        "chinese": "大家好，欢迎来到英语pod。我叫马可。"
     },
     {
         "start": 5.6000000000000005,
         "end": 9.88,
         "english": "My name is Catherine and today we've got a very advanced dialogue for you. This is all",
-        "chinese": "我的名字是凯瑟琳，今天我们要进行一场非常先进的对话。这是全部都是中文的。"
+        "chinese": "我的名字是凯瑟琳，今天我们要给你带来一个非常高级的对话。这都是"
     },
     {
         "start": 9.88,
         "end": 12.44,
         "english": "about what we call the miracle of life.",
-        "chinese": "关于我们所说的生命的奇迹。"
+        "chinese": "关于我们所说的奇迹生命。"
     },
     {
         "start": 12.44,
         "end": 17.64,
         "english": "That's right. Today we're going to talk a little bit more in depth about our bodies,",
-        "chinese": "是的，今天我们将深入讨论我们的身体。"
+        "chinese": "没错，今天我们来更深入地聊聊我们的身体。"
     },
     {
         "start": 17.64,
         "end": 21.6,
         "english": "about what's going on inside and how and where babies come from.",
-        "chinese": "关于宝宝是怎么来的，都在哪儿生的。"
+        "chinese": "关于婴儿是如何在体内发生以及从哪里来的所有事情。"
     },
     {
         "start": 21.6,
         "end": 26.28,
         "english": "That's right. So you're going to learn very technical terms for parts of people's bodies,",
-        "chinese": "确实。所以你将会学习人体部分的专业术语。"
+        "chinese": "那就是了。你将学习人体各部位非常专业的术语，中文翻译如下："
     },
     {
         "start": 26.28,
         "end": 30.880000000000003,
         "english": "men and women and also about the beginning of life. So before baby is born, what do you",
-        "chinese": "男人、女人，以及关于生命的开始。所以，在孩子出生之前，你们需要做些什么？"
+        "chinese": "男男女女，还有生命的开始。所以，在宝宝出生之前，你们打算怎么做"
     },
     {
         "start": 30.880000000000003,
         "end": 35.28,
         "english": "call some of these parts and some of these things? So let's check out today's dialogue",
-        "chinese": "是不是要叫一些部件，也包括一些东西？那我们今天聊聊吧。"
+        "chinese": "让我们来看看今天的对话吧"
     },
     {
         "start": 35.28,
         "end": 38.88,
         "english": "and when we come back we'll be exploring in depth these topics.",
-        "chinese": "当我们回来的时候，我们会深入探讨这些话题。"
+        "chinese": "当我们回来时，我们将深入探讨这些话题。"
     },
     {
         "start": 43.68000000000001,
@@ -63,984 +63,984 @@
         "start": 48.96,
         "end": 53.2,
         "english": "Many of you may think you already know how babies come to be, but I'm sure that some",
-        "chinese": "许多人都可能认为你已经知道婴儿是如何来的，但我确信有些地方需要进一步了解。"
+        "chinese": "许多你们可能认为自己已经知道婴儿是如何诞生的，但我敢肯定的是，有些人并不这么认为。"
     },
     {
         "start": 53.2,
         "end": 57.68000000000001,
         "english": "of the things we will be talking about today may surprise you. Billy, can you turn on",
-        "chinese": "今天我们要谈论的这些事情可能会让你惊讶。Billy，你可以把电视打开吗？"
+        "chinese": "今天我们将要讨论的事情可能会让你感到惊讶。比利，你能打开吗？"
     },
     {
         "start": 57.68000000000001,
         "end": 63.88,
         "english": "the projector please? Thanks. Okay, does anyone know what this is? Looks like a go ahead",
-        "chinese": "投影仪呢？谢谢。知道吗，这是什么？看起来像是批准的。"
+        "chinese": "请问投影仪呢？谢谢。好的，有谁知道这是什么？看起来是通过了。"
     },
     {
         "start": 63.88,
         "end": 71.80000000000001,
         "english": "to me. Nice try, but this is a woman's womb which contains her uterus and ovaries.",
-        "chinese": "对我来说。不过，这可是女性的子宫，里面藏着她的子宫和卵巢。"
+        "chinese": "对我来说，你尝试得很不错，但这是女性的子宫内含有她的卵巢。"
     },
     {
         "start": 71.80000000000001,
         "end": 76.80000000000001,
         "english": "The ovaries are packed with eggs and each month during the middle of the menstrual cycle.",
-        "chinese": "卵巢里面装满了卵子，每个月经周期的中间阶段。"
+        "chinese": "卵巢里充满了卵子，每个月在月经周期的中间。"
     },
     {
         "start": 76.80000000000001,
         "end": 81.80000000000001,
         "english": "The ripest one will be sucked up by one of the fallopian tubes. This is called ovulation",
-        "chinese": "成熟的那个会顺着输卵管被吸进去，这就是排卵。"
+        "chinese": "这被称为排卵，成熟的卵子会被其中一条输卵管吸取"
     },
     {
         "start": 81.8,
         "end": 87.36,
         "english": "and the exact time of ovulation depends on the length of a woman's cycle. In an average",
-        "chinese": "和卵泡发育时间取决于女性的月经周期长度。平均来说，卵泡发育时间大约为28天。"
+        "chinese": "而排卵的具体时间则取决于女性的周期长度。在平均"
     },
     {
         "start": 87.36,
         "end": 94.39999999999999,
         "english": "28 day cycle, ovulation will most likely happen between the 12th and 15th days, counting",
-        "chinese": "28天周期，排卵大概会在第12到第15天之间发生。"
+        "chinese": "28天周期，排卵最有可能发生在第12到第15天之间，计算"
     },
     {
         "start": 94.39999999999999,
         "end": 100.6,
         "english": "day one as the first day of your last period. That's amazing. So each month the woman produces",
-        "chinese": "第一天是你的最后一次月经的第一天。太神奇了。每个月，这位女士都会产生"
+        "chinese": "第一天是上个月的最后一天。那真是太棒了。每个月女性都会生产"
     },
     {
         "start": 100.6,
         "end": 106.56,
         "english": "these eggs and then waits for them to be fertilized. Actually, every woman is already born with",
-        "chinese": "这些鸡蛋，然后等待它们受精。事实上，每个女性都是在出生时就带有的"
+        "chinese": "这些鸡蛋，然后等待它们受精。实际上，每一个女性出生时都已经自带了"
     },
     {
         "start": 106.56,
         "end": 113.24000000000001,
         "english": "over 400,000 eggs. Some will start dying off immediately and others are released during",
-        "chinese": "大约有四万多枚鸡蛋。有些会立即开始死亡，而另一些则会在释放后被处理掉。"
+        "chinese": "超过40万枚鸡蛋。有些会立即开始死亡，而另一些则会在期间释放"
     },
     {
         "start": 113.24000000000001,
         "end": 118.36,
         "english": "her fertile period. What about the guys? I know they produce sperm and stuff. That's",
-        "chinese": "她的排卵期。那男的呢？我知道他们能生产精子，是吧？"
+        "chinese": "她的生育期。那 guys 怎么样？我知道他们能产生精子之类的东西。"
     },
     {
         "start": 118.36,
         "end": 125.08,
         "english": "right. The man's body has a tiny factory that produces sperm 24 hours a day. Each ejaculation",
-        "chinese": "正确。这个男人的体重大约有10公斤，每天生产出大量的精子。每次射精时，他都会排出大约50毫升的液体。"
+        "chinese": "好的。男人的身体有一个小工厂，每天24小时生产精子。每次射精"
     },
     {
         "start": 125.08,
         "end": 130.88,
         "english": "will release about 100 million sperm, so the factory is always pretty busy. The sole",
-        "chinese": "会释放大约一百亿个精子，所以工厂总是很忙。唯一的区别是，我今天没有上班。"
+        "chinese": "将要释放大约一亿个精子，所以工厂总是很忙。"
     },
     {
         "start": 130.88,
         "end": 136.4,
         "english": "purpose of a sperm's life is to fertilize the woman's egg. So then we basically need",
-        "chinese": "精子的生命周期就是为了让女人的卵子受精。那么我们基本上就是需要："
+        "chinese": "精子的生命目的是使女性的卵子受精。所以，我们基本上需要"
     },
     {
         "start": 136.4,
         "end": 142.32,
         "english": "to put one one together so we can have babies, right? Yes. The man will have an orgasm",
-        "chinese": "为了凑够钱生孩子，对吧？是的。男人会射精。"
+        "chinese": "把事情弄妥当这样我们才能生小孩对吧？对。男人会高潮"
     },
     {
         "start": 142.32,
         "end": 147.76,
         "english": "during intercourse and ejaculate sperm and semen. Now this is where the race begins and",
-        "chinese": "在性行为和射精时，会产生精子和精液。现在这正是比赛的开始。"
+        "chinese": "在性行为中进行交合并射精。现在，比赛正式开始了。"
     },
     {
         "start": 147.76,
         "end": 152.88,
         "english": "all those millions of sperm will race and swim from the cervix through the uterus and",
-        "chinese": "所有这些成千上万的精子将从宫颈穿过子宫，然后继续前进。"
+        "chinese": "所有那些千万精子都将从宫颈通过子宫奋力游动和游泳"
     },
     {
         "start": 152.88,
         "end": 159.64,
         "english": "to the fallopian tubes. This could take anywhere from 45 minutes to 12 hours. Not all of",
-        "chinese": "输卵管。这可能需要从45分钟到12小时不等。并非所有的都这样。"
+        "chinese": "到输卵管。这可能需要从45分钟到12小时不等。并非所有"
     },
     {
         "start": 159.64,
         "end": 165.39999999999998,
         "english": "them make it since some of them go the wrong way and get lost or simply die. Many will",
-        "chinese": "他们这样做是因为有些人走错了路，迷路了或者直接就死了。很多人会"
+        "chinese": "他们如此做是因为有些会走错路而迷失或 simply 简单地死亡。许多将会"
     },
     {
         "start": 165.39999999999998,
         "end": 171.23999999999998,
         "english": "actually reach the egg but only one will penetrate it and fertilize it. Once this happens, the",
-        "chinese": "实际上，只有一颗会穿透蛋壳并将其受精。一旦发生这种情况，下面这个步骤就会开始。"
+        "chinese": "实际上到达卵子，但只有一个能穿透并使其受精。一旦发生这种情况，就会展开一系列步骤。"
     },
     {
         "start": 171.23999999999998,
         "end": 177.32,
         "english": "egg instantly changes and creates a protective shield once the sperm is safely inside.",
-        "chinese": "鸡蛋一旦精子安全进入，就会立刻变化并形成保护性盾牌。"
+        "chinese": "一旦精子安全进入，鸡蛋立刻变化并形成保护性屏障。"
     },
     {
         "start": 177.32,
         "end": 183.83999999999997,
         "english": "And then that's it? Well, the egg will be fertilized within about 24 hours of its release. The",
-        "chinese": "英语：然后呢？嗯，鸡蛋将在其发布后大约24小时内受精。"
+        "chinese": "然后就完了？那么，鸡蛋在释放后约24小时内就会受精。"
     },
     {
         "start": 183.83999999999997,
         "end": 188.72,
         "english": "genetic material from the sperm combines with the genetic material in the egg to create a",
-        "chinese": "遗传物质从精子中与卵子中的遗传物质结合，形成一个"
+        "chinese": "精子的遗传物质与卵子中的遗传物质结合创造出"
     },
     {
         "start": 188.72,
         "end": 194.72,
         "english": "new cell that will rapidly start dividing. The woman is not actually pregnant until that",
-        "chinese": "新的细胞会迅速开始分裂。那个女人直到那个时候才实际上怀孕。"
+        "chinese": "一个将迅速开始分裂的新细胞。那其实并不能证明这名妇女是孕妇。"
     },
     {
         "start": 194.72,
         "end": 201.76,
         "english": "bundle of new cells known as the embryo travels the rest of the way down the fallopian tube and",
-        "chinese": "一个被称为胚胎的细胞团继续沿着输卵管向下移动。"
+        "chinese": "胚胎中的一团新细胞沿着输卵管的余下部分旅行"
     },
     {
         "start": 201.76,
         "end": 208.24,
         "english": "attaches itself to the wall of her uterus. Any other questions? Then let's move on.",
-        "chinese": "附着在她子宫的墙壁上。还有什么其他问题吗？那我们就继续吧。"
+        "chinese": "贴附在她的子宫颈上。还有其他问题吗？那我们就继续。"
     },
     {
         "start": 208.64000000000001,
         "end": 221.92000000000002,
         "english": "Alright, we're back. So very interesting. Actually this type of lecture or class that we just saw",
-        "chinese": "好的，我们又回来了。这个讲座或课程真的挺有意思的。其实我们刚刚看到的那种类型的课或者讲座，挺有趣的。"
+        "chinese": "好的，我们又回来了。非常有趣。实际上我们刚才看到的这种讲座或课程类型是"
     },
     {
         "start": 221.92000000000002,
         "end": 228.08,
         "english": "is very common in biology class or anatomy class in the US, for example. That's right. We also have",
-        "chinese": "在生物学课或者解剖学课上很常见，比如。对了。我们也有的"
+        "chinese": "在美国的生物学课或解剖学课中非常常见，例如。没错。我们也有"
     },
     {
         "start": 228.08,
         "end": 236.56,
         "english": "a class called sex ed or sexual education. And this is all about sex and bodies and biology that most",
-        "chinese": "一个名为“性教育”或“性教育”的类。这涉及性、身体和生物学的主题，大多数情况下。"
+        "chinese": "一门叫做性教育或性教育的课程。这涉及性、身体和生物学，大多数"
     },
     {
         "start": 236.56,
         "end": 241.12,
         "english": "students have to learn before they go into high school. That's right. So we actually had a",
-        "chinese": "学生在上高中之前就得学。没错，我们真的有这回事。"
+        "chinese": "学生在进入高中之前必须先学习。没错。所以我们实际上已经开始了"
     },
     {
         "start": 241.12,
         "end": 247.68,
         "english": "previous lesson about sex ed. We talked about contraceptives and well continuing on on the topic.",
-        "chinese": "上次关于性教育的课。我们讨论了避孕措施，并继续这个话题。"
+        "chinese": "上一课关于性教育。我们谈到了避孕药，接下来继续这个话题。"
     },
     {
         "start": 247.68,
         "end": 252.4,
         "english": "This is why we have this advanced lesson. Now it is a little bit more difficult because we have",
-        "chinese": "这就是为什么我们有这个高级课程。现在有点难度，因为我们有了新的内容。"
+        "chinese": "这就是为什么我们要上这个高级课程。现在稍微有点难度，因为我们有了"
     },
     {
         "start": 252.4,
         "end": 260.48,
         "english": "medical terms and specific names of parts inside of our body. So why don't we start with the",
-        "chinese": "医学术语和特定部位内部分子。所以为什么不从这里开始？"
+        "chinese": "医学术语和我们身体内部的特定部位名称。那么我们就从这些开始吧。"
     },
     {
         "start": 260.48,
         "end": 266.48,
         "english": "first one when the teacher explained about a woman's womb? So this might look like a very hard word",
-        "chinese": "首先，老师讲解女性子宫时提到的一个词是什么？这可能会看起来是一个非常难的单词。"
+        "chinese": "这个可能看起来是个很生僻的词"
     },
     {
         "start": 266.48,
         "end": 272.8,
         "english": "to pronounce. There's a B there. So W-O-M-B. We don't pronounce womb. We say womb.",
-        "chinese": "发音。那里有B，所以W-O-M-B。我们不发womb的音，说womb。"
+        "chinese": "发音。里面有个B。所以W-O-M-B。我们不说womb。说womb。"
     },
     {
         "start": 272.8,
         "end": 279.36,
         "english": "womb. And this is basically where the baby will grow when a baby is produced. So it's a part inside",
-        "chinese": "子宫。当一个宝宝被生产出来时，这基本上就是宝宝会生长的地方。所以这是一个内部的部分。"
+        "chinese": "胎。这基本上就是宝宝生产时会长大的地方。所以这是一个内部的一部分"
     },
     {
         "start": 279.36,
         "end": 287.20000000000005,
         "english": "of a woman's body that we also call the uterus. Okay, so I guess the uterus is the specific name of",
-        "chinese": "子宫，我们通常也叫它子宫。好吧，那么子宫就是具体的名称了"
+        "chinese": "子宫，我们也可以叫它女性身体的一部分。好吧，所以我想子宫是它的特定名称。"
     },
     {
         "start": 287.20000000000005,
         "end": 294.32,
         "english": "that area. Right? But I guess the whole thing kind of like the the woman's belly where the baby is",
-        "chinese": "那地方。对吗？但我觉得整个事情有点像女人的肚子，宝宝在那里。"
+        "chinese": "那个地方啊。是吗？但我猜整个就像是女人的肚子，宝宝在里面"
     },
     {
         "start": 294.32,
         "end": 300.08,
         "english": "going to be is called the womb. That's right. Okay, so now taking a look at other parts of a woman's",
-        "chinese": "将要发生的，称为子宫。这是正确的。好的，现在让我们看看女性其他部分的其他部分。"
+        "chinese": "即将成为的是被称为子宫的。没错。好的，现在来看看女性身体的其他部分"
     },
     {
         "start": 300.08,
         "end": 307.28,
         "english": "body. We have the womb. We have the uterus. Now what about the ovaries? So ovaries are actually",
-        "chinese": "子宫。我们有子宫和卵巢。现在关于卵巢呢？所以卵巢实际上就是。"
+        "chinese": "身体。我们有子宫。我们有卵巢。那么，卵巢实际上是"
     },
     {
         "start": 307.28,
         "end": 314.0,
         "english": "there are two of them in a woman's body. And ovaries are where eggs are stored. So women have eggs.",
-        "chinese": "这个女人的体内有两个，卵巢是储存卵子的地方。所以女人有卵子。"
+        "chinese": "她们体内有两个。而卵巢是储存卵子的地方。所以女性有卵子。"
     },
     {
         "start": 314.56,
         "end": 321.76,
         "english": "And this is what will one day become in some cases a baby. And so they are stored in ovaries.",
-        "chinese": "而且，这在某些情况下会成为婴儿。所以它们被储存在卵巢里。"
+        "chinese": "而这在未来某些情况下将成为一个婴儿。因此，它们被储存在卵巢中。"
     },
     {
         "start": 321.76,
         "end": 327.44,
         "english": "And when it's time to come down they come down through the uterus through these tubes",
-        "chinese": "当他们该下来的时候，他们会通过子宫这些管子下来。"
+        "chinese": "而到要下来的时候，他们就通过子宫和这些管子下来"
     },
     {
         "start": 328.24,
         "end": 335.76,
         "english": "to either come out or to be met by a sperm. Right. And these tubes are actually called fallopian tubes.",
-        "chinese": "没错，这些管子实际上是叫做输卵管。"
+        "chinese": "要么出生，要么遇到精子。没错。这些管子实际上叫输卵管。"
     },
     {
         "start": 335.76,
         "end": 341.92,
         "english": "So hard word fallopian. Again, there are two of these, right? One from each ovary and they come",
-        "chinese": "所以这个傻瓜相机又硬又累。还有两个，一个来自卵巢，另一个来自输卵管，它们都是这样来的。"
+        "chinese": "所以复读机卵管。再次，有两颗这样的，对吧？一颗来自每个卵巢，它们来"
     },
     {
         "start": 341.92,
         "end": 347.03999999999996,
         "english": "down. And that's basically a passageway for eggs. That's right. And it's interesting because in",
-        "chinese": "好吧。那基本上就是鸡蛋的过道。对了，这挺有意思的。"
+        "chinese": "那基本上就是一个鸡蛋的通道。没错。而且它有趣的地方在于在"
     },
     {
         "start": 347.04,
         "end": 354.88,
         "english": "English some women that don't want to have any more kids they very locally say I have my tubes",
-        "chinese": "一些不想再要孩子的女性，非常本地人说：“我已经把我的输卵管给剪了。”"
+        "chinese": "一些不想再要孩子的女性非常本地化地说，我的输卵管堵了。"
     },
     {
         "start": 354.88,
         "end": 360.16,
         "english": "tied or I had my tubes tied. That's right. So this means a woman has had an operation so that she",
-        "chinese": "我做了绝育手术。没错，这意味着一个女人做过手术，这样她就不会怀孕了。"
+        "chinese": "结扎了或者我说的是我做了绝育手术。没错，这意味着一个女人做了一个手术从而不能怀孕。"
     },
     {
         "start": 360.16,
         "end": 366.32000000000005,
         "english": "will not have children in the future. And her fallopian tubes are closed off so that eggs cannot come",
-        "chinese": "将来不会生孩子。而且她的输卵管是闭合的，所以卵子无法进入。"
+        "chinese": "未来不会生育。她的输卵管被封闭，以防止卵子到达。"
     },
     {
         "start": 366.32000000000005,
         "end": 371.6,
         "english": "down. That's right. So this is kind of now you more or less if you've heard this phrase before",
-        "chinese": "是的。所以，这差不多就是你之前听过这个短语的情况了"
+        "chinese": "这下子没错。这么说来，你大概是有听过这个说法的"
     },
     {
         "start": 371.6,
         "end": 376.88,
         "english": "now you understand why the fallopian tubes and that's why women say tubes tied. Yeah. She had",
-        "chinese": "现在你明白了为什么输卵管，那是因为女人说结了。对。她有"
+        "chinese": "你现在明白为什么输卵管会被结扎，这就是为什么女性会说“把管子绑住了”。嗯。她做了这个手术。"
     },
     {
         "start": 376.88,
         "end": 385.2,
         "english": "her tubes tied. Alright. So now all of this is going on because well a woman can potentially get",
-        "chinese": "她输卵管被结扎了。好的，所以现在这一切都是因为一个女人可能会有..."
+        "chinese": "她的结扎了。好了。所以现在所有的事情都是因为，嗯，一个女人有可能会怀孕。"
     },
     {
         "start": 385.2,
         "end": 390.64,
         "english": "pregnant. And during this period of time this is when the woman is ovulating or this is called",
-        "chinese": "怀孕。这段时间，女性在这个时候排卵，也叫排卵期。"
+        "chinese": "怀孕。在这期间，女性处于排卵期，也称为"
     },
     {
         "start": 390.64,
         "end": 396.8,
         "english": "ovulation. That's right. So ovulation is a cycle. That means it's something that happens again",
-        "chinese": "排卵。没错。所以排卵是一段循环。这意味着它又会再次发生。"
+        "chinese": "排卵。没错。所以排卵是一个周期。这意味着它会再次发生"
     },
     {
         "start": 396.8,
         "end": 403.76,
         "english": "and again and again. We call it a menstrual cycle. And it happens once basically it's a process",
-        "chinese": "而且又一次又一次。我们称之为月经周期。基本上，它只发生一次，这是一个过程"
+        "chinese": "重复，反复。我们称之为月经周期。基本上它是一个过程"
     },
     {
         "start": 403.76,
         "end": 410.8,
         "english": "that takes 28 days and it's the process of an egg coming down and either being fertilized",
-        "chinese": "那需要28天，这是鸡蛋从上往下移动的过程中，要么被受精。"
+        "chinese": "这需要28天，是卵孵化的过程，要么被受精"
     },
     {
         "start": 410.8,
         "end": 416.4,
         "english": "or not. That's right. So during ovulation there is a certain period of time where it's a",
-        "chinese": "哦。对的。所以排卵的时候，会有一段时间是受精的机会。"
+        "chinese": "或者。没错。那么排卵期间有一个特定的时间段，它是"
     },
     {
         "start": 416.4,
         "end": 422.64,
         "english": "precise for a woman to be able to get pregnant. Right. And now what about when we move on to the",
-        "chinese": "确实，一个女人要能够怀孕。对吗？现在我们开始讨论的是当我们在移步换景时，关于什么的问题呢？"
+        "chinese": "准确地让一个女性能够怀孕。没错。那么现在我们再来说说当我们将要转移到"
     },
     {
         "start": 422.64,
         "end": 428.71999999999997,
         "english": "men. Now we talked about the women's side. What about the men's? So basically women have eggs, men",
-        "chinese": "男人。我们聊了女人这边，那男的呢？所以基本上女的是卵子，男的是……"
+        "chinese": "男。现在我们谈到了女性方面。那男士的呢？基本上，女性有卵子，男性有精子。"
     },
     {
         "start": 429.20000000000005,
         "end": 436.24,
         "english": "sperm. Okay. These are little they look like fish almost. They swim around and they are past",
-        "chinese": "精子。这些小东西看起来像鱼差不多。它们游来游去，已经过了很久了。"
+        "chinese": "精子。好呢。它们很小，看起来像鱼一样。它们游来游去的，已经"
     },
     {
         "start": 436.24,
         "end": 441.68,
         "english": "two women through semen and men have I don't know like 10 million of them or something crazy. It's",
-        "chinese": "两个女人通过精液和男人，我也不知道有100万或者什么奇怪的事情。"
+        "chinese": "两女子通过精液，我也不知道有上千万个或者类似疯狂的事情。它是"
     },
     {
         "start": 441.68,
         "end": 447.04,
         "english": "a huge amount of sperm. Now this is an interesting thing to differentiate. You said two things sperm",
-        "chinese": "一个巨大的精子数量。现在这是一个有趣的事情来区分。你说两个关于精子的点。"
+        "chinese": "大量的精子。现在这个很有趣，你要区分的是两件事，精子"
     },
     {
         "start": 447.04,
         "end": 453.20000000000005,
         "english": "and semen. Right. So sperm are the little creatures or little fish as you said that swim and semen",
-        "chinese": "而且精液。没错。所以精子就是你所说的那些小生物或者小鱼，它们游来游去的。"
+        "chinese": "而且精液。你说是吧。精子就是你所说的那些游动的小生物或小鱼"
     },
     {
         "start": 453.20000000000005,
         "end": 458.0,
         "english": "is kind of actually like the liquid that contains them. That's right. So it's almost not bigger",
-        "chinese": "是一种类似于它们所含液体的东西。没错。所以它几乎不像那么大了。"
+        "chinese": "差不多就像是装有它们的液体。没错。几乎不怎么大"
     },
     {
         "start": 458.0,
         "end": 464.56,
         "english": "than but it's the liquid that they come in to to a baby basically attack an egg and try and",
-        "chinese": "当然，液体是他们用来攻击一个鸡蛋的。基本上，就是这么回事。"
+        "chinese": "但是实际上是它们以液体的形式来攻击一个蛋试图并"
     },
     {
         "start": 464.56,
         "end": 471.2,
         "english": "fertilize an egg. And so remember in English sperm can fertilize an egg semen cannot. Right.",
-        "chinese": "英语：给鸡蛋施肥。而且记得在英文中，精子可以与卵子结合，而受精卵不能。"
+        "chinese": "给鸡蛋授精。所以在英语中，精子可以授精，而精液不能。对吧。"
     },
     {
         "start": 471.2,
         "end": 476.24,
         "english": "And now this is interesting. We're talking about two fertilize. I mean maybe we've heard this in",
-        "chinese": "现在这挺有意思的。我们讨论的是两个肥料。我意思是也许我们在中文里听过这个？"
+        "chinese": "而现在这就有趣了。我们现在谈论的是两个受精。也就是说，我们可能听说过这一点"
     },
     {
         "start": 477.36,
         "end": 482.16,
         "english": "in gardening or something like this. We've heard a fertilizer. But what do we mean by two",
-        "chinese": "在园艺或者类似的地方。我们听说过肥料。但是，什么是“两份”？"
+        "chinese": "在园艺或者类似的事情上。我们听说过肥料。但什么是“两”的意思"
     },
     {
         "start": 482.16,
         "end": 489.20000000000005,
         "english": "fertilize or fertilization? Okay. Basically fertilization or to fertilize something is to",
-        "chinese": "肥料还是施肥？好吧。基本上，施肥或施肥是将肥料施加到某物上的行为。"
+        "chinese": "受精还是授粉？好吧。基本上，受精或者给某物授粉就是"
     },
     {
         "start": 490.0,
         "end": 496.48,
         "english": "in this case put a sperm together with an egg. So to make a baby. That's right. And so an egg that is",
-        "chinese": "在这种情况里，把一个精子和一个卵子结合。这样就可以生出宝宝了。这就是正确的做法。而且，这个卵子是"
+        "chinese": "在这种情况下，把精子和卵子结合在一起。就是为了生个宝宝。没错。所以一个卵子是"
     },
     {
         "start": 496.48,
         "end": 502.8,
         "english": "not fertilized will come down and will never become a baby. Sometimes sperm they don't find eggs and",
-        "chinese": "未受精的会下来，永远不会成为宝宝。有时候精子找不到卵子。"
+        "chinese": "未受精将降下，永远不能成为婴儿。有时精子找不到卵子和"
     },
     {
         "start": 502.8,
         "end": 509.28000000000003,
         "english": "they just you know they die. Now there's another interesting word that's very related or close to",
-        "chinese": "他们只是你知道，他们死了。现在又有一个非常相关或者接近的词语。"
+        "chinese": "他们就是你知道的那样，他们会死。现在又有一个很相关或接近的有趣词是"
     },
     {
         "start": 509.28,
         "end": 514.88,
         "english": "this when we say when a man or a woman is fertile. That's right. So this only applies to women not",
-        "chinese": "当我们说一个男人或女人处于生育能力期的时候。没错。所以这只有适用于女性，不适用于男性。"
+        "chinese": "这就是我们说的一个人或一个女人处于生育能力时期。没错。所以这个只适用于女性，不是"
     },
     {
         "start": 514.88,
         "end": 520.48,
         "english": "to men. You can say she's fertile. That means she has eggs. Her eggs come down and she can have a",
-        "chinese": "当然，你可以这样说：“她有卵子。”这意味着她有鸡蛋。她的鸡蛋会下来，然后她可以生孩子。"
+        "chinese": "对她说，她很有生育能力。这意味着她有卵子。她的卵子下来了，她就可以有了。"
     },
     {
         "start": 520.48,
         "end": 526.88,
         "english": "baby at some time. But a woman who is in fertile she's not fertile can never have babies. That's",
-        "chinese": "生孩子的时候。但是，一个在生育期的女性是不育的，她永远不能怀孕。"
+        "chinese": "但一个处于排卵期的女人却并不排卵永远也怀不上孩子。"
     },
     {
         "start": 526.88,
         "end": 533.28,
         "english": "right. So a lot of these women adopt babies. Now what about guys you know that some men can't have",
-        "chinese": "好的。这些很多女性都选择收养孩子。那你认识一些不能生孩子的男人吗？"
+        "chinese": "明白了。所以很多女性收养了孩子。那么男性呢，你知道有些男人不能有"
     },
     {
         "start": 533.28,
         "end": 538.88,
         "english": "babies as well. Maybe their sperm is not very good or they have some same thing medical",
-        "chinese": "当然啦，宝宝们也是。可能是他们的精子质量不是很好，或者是他们有一些同样的医疗问题。"
+        "chinese": "宝宝也不例外。也许他们的精子不太好，或者他们有一些同样的医疗问题"
     },
     {
         "start": 538.88,
         "end": 544.24,
         "english": "condition that prevents their sperm from fertilizing. So you don't say that he is in fertile or not",
-        "chinese": "这个条件阻止他们的精子不能受精。所以你就别说了他是不是处于受孕期了。"
+        "chinese": "不能使精子受精的条件。所以你不能说他是否是可育的"
     },
     {
         "start": 544.24,
         "end": 552.08,
         "english": "for a what do you say? He is sterile. Okay. So a woman can be fertile or infertile. Infertile means",
-        "chinese": "对于什么你说呢？他很干净。好的，所以一个女人可以是卵子还是精子。卵子是指女性的生殖细胞，而精子则是男性产生的生殖细胞。"
+        "chinese": "对于一个怎么说呢？他不育。好吧。所以一个女人可以是生育力正常的或不育的。不育的意思是"
     },
     {
         "start": 552.08,
         "end": 557.6,
         "english": "she cannot have babies. If a man's semen cannot fertilize an egg properly he is called sterile.",
-        "chinese": "她不能生孩子。如果一个男人的精液无法正常使卵子受精，他就被称为不育。"
+        "chinese": "她不能生育。如果一个男人的精液不能正常使卵子受精，他就被称为不育。"
     },
     {
         "start": 557.6,
         "end": 566.64,
         "english": "Okay very good. So this is all of what's going on inside the man's body as well. And well actually",
-        "chinese": "好的，很好。那么这是这个男人身体内部所有事情的全部情况。而且实际上"
+        "chinese": "好的，非常不错。也就是说，这人体内部的一切都在发生。实际上"
     },
     {
         "start": 566.72,
         "end": 573.4399999999999,
         "english": "once they finally combine and get together and they and the sperm fertilize the egg we have a",
-        "chinese": "当他们最终结合并在一起，精子与卵子受精后，我们就有了一颗新的生命。"
+        "chinese": "一旦他们最终结合在一起，精子使卵子受精时，我们就有"
     },
     {
         "start": 573.4399999999999,
         "end": 578.48,
         "english": "little thing called an embryo. Okay so obviously it doesn't become a baby for a little while. This",
-        "chinese": "好的，当然它不会马上变成一个婴儿。这是一个叫做胚胎的小事情。"
+        "chinese": "一个叫做胚胎的小东西。当然，它要过一段时间才会变成婴儿。"
     },
     {
         "start": 578.48,
         "end": 582.72,
         "english": "is a point of contention, a point of argument for a lot of people because they don't know when",
-        "chinese": "这是一个争议点，很多人都对此感到困惑，因为他们不清楚什么时候截止。"
+        "chinese": "这是一个争议的焦点，很多人对此存在争论，因为他们不知道何时"
     },
     {
         "start": 582.72,
         "end": 588.16,
         "english": "agrees when a baby becomes a baby. Right. But basically when an egg and a sperm come together",
-        "chinese": "是的，当婴儿变成婴儿时。没错。但基本上，卵子和精子结合起来就是了。"
+        "chinese": "同意一个婴儿成为婴儿的观点。没错。但基本上当卵子和精子结合时"
     },
     {
         "start": 588.64,
         "end": 594.88,
         "english": "they create an embryo which is a combination of genetic information and tissue and all these",
-        "chinese": "他们创建了一个由遗传信息和组织组成的胚胎。"
+        "chinese": "他们创造了一个胚胎，其中包括遗传信息和组织的所有这些"
     },
     {
         "start": 594.88,
         "end": 600.88,
         "english": "things and that starts to grow and to become a fetus which will one day when it is born become a baby.",
-        "chinese": "事物开始生长，变成胎儿，最终在出生时会成为一个婴儿。"
+        "chinese": "事物开始生长，最终成为胎儿，将来出生后将成为一个婴儿。"
     },
     {
         "start": 600.88,
         "end": 607.36,
         "english": "That's right. So the embryo is basically the first stage of when the baby is forming. But it's not",
-        "chinese": "没错。所以胚胎基本上是宝宝形成的第一阶段。但那并不是全部。"
+        "chinese": "没错。胚胎基本上就是胎儿形成的第一阶段，但并不是"
     },
     {
         "start": 607.36,
         "end": 613.52,
         "english": "really as you said this word fetus it's not in our dialogue but a fetus is actually a formed",
-        "chinese": "真的，你说这个词“胎儿”没有在对话里出现，但是胎儿其实是已经形成的。"
+        "chinese": "确实如你所说，这个词“fetus”我们并没有在对话中提到，但“fetus”实际上是指已经形成的胚胎。"
     },
     {
         "start": 614.08,
         "end": 619.28,
         "english": "being sort of say inside a woman's body right. It's growing it's because it's starting to get the",
-        "chinese": "在女人身体的内部，正在生长。这是因为它开始吸收。"
+        "chinese": "在某种意义上说，它正在一个女人的身体里生长。因为它开始得到了。"
     },
     {
         "start": 619.28,
         "end": 624.32,
         "english": "pieces that it needs to become a human being but maybe has not fully developed yet. So it's still",
-        "chinese": "这些都需要它成为一个真正的人，但可能还没有完全成熟。所以它仍然"
+        "chinese": "还需要成为人的部分，但可能尚未完全发展出来。所以它仍然是"
     },
     {
         "start": 624.32,
         "end": 630.08,
         "english": "inside the woman's womb we can say. Very good. Okay a lot of interesting things going on. Why don't we",
-        "chinese": "在她子宫里的我们可以说。很好。有很多有趣的事情发生。为什么不呢？"
+        "chinese": "在女人的子宫里我们可以说。很好。好吧，有很多有趣的事情正在发生。我们为什么不？"
     },
     {
         "start": 630.08,
         "end": 632.72,
         "english": "listen to our dialogue again and we'll be back to talk a little bit more.",
-        "chinese": "再听我们的对话，我们还会多聊几句。"
+        "chinese": "再听一遍我们的对话，我们稍后会继续谈谈。"
     },
     {
         "start": 637.36,
         "end": 641.6800000000001,
         "english": "Continuing with our class today we are going to study briefly the miracle of life.",
-        "chinese": "继续我们的课程，今天我们将会简要地探讨生命的奇迹。"
+        "chinese": "继续今天我们课程的内容，我们将简要学习生命的奇迹。"
     },
     {
         "start": 642.4000000000001,
         "end": 647.44,
         "english": "Many of you may think you already know how babies come to be but I'm sure that some of the things",
-        "chinese": "您可能认为自己已经知道婴儿是怎么来的了，但我想有些事情其实并不清楚。"
+        "chinese": "许多人都可能认为自己已经知道婴儿是如何诞生的，但我敢肯定其中有些事情"
     },
     {
         "start": 647.44,
         "end": 652.1600000000001,
         "english": "we will be talking about today may surprise you. Billy can you turn on the projector please?",
-        "chinese": "我们今天要聊的话题让你感到惊讶。比利，你能把投影仪打开吗？"
+        "chinese": "我们将今天要讨论的内容可能会让你感到惊讶。比利，请打开投影仪好吗？"
     },
     {
         "start": 652.88,
         "end": 658.0,
         "english": "Thanks. Okay does anyone know what this is? Looks like a go ahead to me.",
-        "chinese": "谢谢。有谁知道这是什么吗？看起来像是批准了的迹象。"
+        "chinese": "好的。有人知道这是什么吗？看起来是通过了。"
     },
     {
         "start": 658.88,
         "end": 666.4,
         "english": "Nice try but this is a woman's womb which contains her uterus and ovaries. The ovaries are packed",
-        "chinese": "英语：很好试一试，但这是女人的子宫，里面含有她的子宫和卵巢。卵巢被包裹在内。"
+        "chinese": "这是一只女性的子宫和卵巢所在的子宫。卵巢被装得满满当当的。"
     },
     {
         "start": 666.4,
         "end": 671.4399999999999,
         "english": "with eggs and each month during the middle of the menstrual cycle. The right best one will be",
-        "chinese": "每个月中，月经周期的中间。那个最好的是..."
+        "chinese": "在月经周期中每个月的中期会有鸡蛋。最好的选择是"
     },
     {
         "start": 671.4399999999999,
         "end": 677.36,
         "english": "sucked up by one of the fallopian tubes. This is called ovulation and the exact time of ovulation",
-        "chinese": "被输卵管之一吸引。这叫做排卵，排卵的具体时间"
+        "chinese": "被一条 fallopian 管吸入。这叫排卵，排卵的确切时间"
     },
     {
         "start": 677.52,
         "end": 684.08,
         "english": "depends on the length of a woman's cycle. In an average 28 day cycle ovulation will most likely",
-        "chinese": "根据提供的标准，以下是正确的翻译："
+        "chinese": "取决于女性的月经周期长度。在平均28天的周期中，排卵最有可能发生在第14天左右。"
     },
     {
         "start": 684.08,
         "end": 691.2,
         "english": "happen between the 12th and 15th days counting day one as the first day of your last period.",
-        "chinese": "这个发生在第12到15天之间的月经周期。"
+        "chinese": "发生在月经周期的最后一天算作第一天起的第12天到第15天之间。"
     },
     {
         "start": 691.2,
         "end": 696.88,
         "english": "That's amazing so each month the woman produces these eggs and then waits for them to be fertilized.",
-        "chinese": "这个女人每个月都会产这些鸡蛋，然后等待它们被受精。"
+        "chinese": "那真是太神奇了，每个月这位女士都会产生这些卵子然后等着它们受精。"
     },
     {
         "start": 697.52,
         "end": 704.72,
         "english": "Actually every woman is already born with over 400,000 eggs. Some will start dying off",
-        "chinese": "实际上，每个女性都是从出生时就自带了超过40万枚卵子。有些会开始凋谢。"
+        "chinese": "实际上，每一个女性在出生时就已经拥有超过四百万个卵子。有些已经开始凋零了。"
     },
     {
         "start": 704.72,
         "end": 710.0,
         "english": "immediately and others are released during her fertile period. What about the guys? I know they",
-        "chinese": "她排卵期刚过去不久，其他人也陆续放下了。那男的呢？我知道他们\n都请假/休息了一天。"
+        "chinese": "立即，还有其他人在她的生育期被释放。那 guys 呢？我知道他们"
     },
     {
         "start": 710.0,
         "end": 716.8000000000001,
         "english": "produce sperm and stuff. That's right the man's body has a tiny factory that produces sperm 24",
-        "chinese": "英语：生产精子和其它东西。这就是男人的体内的工厂，每天都在生产精子。"
+        "chinese": "生产精子之类的东西。没错，男人的身体有一个小小的工厂产生成熟的精子24"
     },
     {
         "start": 716.8000000000001,
         "end": 723.44,
         "english": "hours a day. Each ejaculation will release about 100 million sperm so the factory is always pretty",
-        "chinese": "每天几个小时。每次射精大约会释放出1亿颗精子，所以工厂总是很忙碌的。"
+        "chinese": "每天数小时。每次射精会释放约一亿个精子，所以工厂总是很忙的"
     },
     {
         "start": 723.44,
         "end": 730.08,
         "english": "busy. The sole purpose of a sperm's life is to fertilize the woman's egg. So then we basically need",
-        "chinese": "忙。精子的唯一目的是让女人的卵子受精。所以基本上我们需要"
+        "chinese": "忙碌。精子的唯一目的就是使女性卵子受精，所以我们就基本上需要"
     },
     {
         "start": 730.08,
         "end": 736.88,
         "english": "to put one one together so we can have babies right? Yes the man will have an orgasm during intercourse",
-        "chinese": "把一个一个地凑在一起，这样我们才能生宝宝啊？是的，男人在性交过程中也会勃起。"
+        "chinese": "要怎么把两个人凑在一起才能生孩子啊？是的，男人在性交时会射精"
     },
     {
         "start": 736.88,
         "end": 743.2800000000001,
         "english": "and ejaculate sperm and semen. Now this is where the race begins and all those millions of sperm will",
-        "chinese": "和射精和前列腺液。现在这是开始的地方，所有这些数百万的精子都会被吸引。"
+        "chinese": "然后射出精子和精液。现在，比赛开始了，那数以百万计的精子都将"
     },
     {
         "start": 743.2800000000001,
         "end": 749.44,
         "english": "race and swim from the cervix through the uterus and to the fallopian tubes. This could take anywhere",
-        "chinese": "从宫颈穿过子宫到达输卵管。这可能需要 anywhere"
+        "chinese": "从宫颈通过子宫到达输卵管，这可能需要任何时间。"
     },
     {
         "start": 749.44,
         "end": 756.88,
         "english": "from 45 minutes to 12 hours. Not all of them make it since some of them go the wrong way and get lost",
-        "chinese": "从45分钟到12小时。不是所有的都坚持下来，因为有些走错了方向，最终迷失了方向。"
+        "chinese": "从45分钟到12小时。并非所有人都能坚持下来，因为有些人的方向不对而迷失了路"
     },
     {
         "start": 756.88,
         "end": 763.52,
         "english": "or simply die. Many will actually reach the egg but only one will penetrate it and fertilize it.",
-        "chinese": "或者直接死掉。实际上会有很多人到达卵子，但只有一个人会穿透它并使其受精。"
+        "chinese": "或者直接死亡。许多人实际上都能达到卵子，但只有一个人能穿透并受精它。"
     },
     {
         "start": 763.52,
         "end": 769.52,
         "english": "Once this happens the egg instantly changes and creates a protective shield once the sperm is safely",
-        "chinese": "一旦发生这种情况，鸡蛋会瞬间改变形态，并且会在精子安全抵达后创造出一个保护性的盾牌。"
+        "chinese": "一旦发生，鸡蛋立刻改变并生成一个保护性护盾，当精子安全到达时"
     },
     {
         "start": 769.52,
         "end": 777.28,
         "english": "inside. And then that's it? Well the egg will be fertilized within about 24 hours of its release.",
-        "chinese": "里面。然后呢？那鸡蛋将在它下线后大约24小时内被孵化。"
+        "chinese": "里面。然后就完了？不过鸡蛋在释放后的约24小时内就会受精。"
     },
     {
         "start": 777.28,
         "end": 783.28,
         "english": "The genetic material from the sperm combines with the genetic material in the egg to create a new cell",
-        "chinese": "精子中的遗传物质与卵子中的遗传物质结合，形成一个新的细胞。"
+        "chinese": "精子中的遗传物质与卵子中的遗传物质结合创造出一个新的细胞"
     },
     {
         "start": 783.28,
         "end": 790.16,
         "english": "that will rapidly start dividing. The woman is not actually pregnant until that bundle of new cells",
-        "chinese": "那个很快就会开始快速分裂的。那个女人直到那团新细胞包裹着她才会真的怀孕哦。"
+        "chinese": "那将迅速开始分裂。那团新的细胞并不是真正的孕妇"
     },
     {
         "start": 790.16,
         "end": 796.88,
         "english": "known as the embryo travels the rest of the way down the fallopian tube and attaches itself to the",
-        "chinese": "被称为胚胎继续向下输卵管的其余部分，并附着在"
+        "chinese": "众所周知，胚胎将继续旅行直至输卵管的末端，并附着在上面。"
     },
     {
         "start": 796.88,
         "end": 802.0,
         "english": "wall of her uterus. Any other questions? Then let's move on.",
-        "chinese": "子宫壁。还有其他问题吗？那就继续吧。"
+        "chinese": "她的子宫壁。还有其他问题吗？那就继续。"
     },
     {
         "start": 802.56,
         "end": 812.96,
         "english": "Alright so this whole aspect we understand how the miracle of life works. This is what it's called",
-        "chinese": "好的，这个整个方面我们理解生命奇迹是如何运作的。这就是它叫作的。"
+        "chinese": "好的，那么我们对生命的奇迹运作方式都理解了。这就是它被称为"
     },
     {
         "start": 813.84,
         "end": 818.64,
         "english": "having babies the miracle of life. It's even the name of a video we were forced to watch when I was 12",
-        "chinese": "拥有宝宝的奇迹。这甚至是我们被迫观看的视频，当时我只有12岁。"
+        "chinese": "生孩子是生命的奇迹。我还记得当我12岁时，我们被强迫观看的那部视频"
     },
     {
         "start": 818.64,
         "end": 824.32,
         "english": "years old and I still have nightmares about. Well it is interesting it is almost a miracle because you",
-        "chinese": "这些年我都还梦到，真有意思，几乎是个奇迹吧，因为你"
+        "chinese": "岁了，我仍然 nightmares。不过这确实很有趣，几乎可以说是奇迹，因为你"
     },
     {
         "start": 824.32,
         "end": 831.04,
         "english": "are basically creating something out of nothing almost. That's right and what's amazing about it is",
-        "chinese": "基本上就是从无中生有。那不就是很神奇吗"
+        "chinese": "基本上是凭空创造出来几乎没有什么。没错，它 amazing 的地方在于"
     },
     {
         "start": 831.04,
         "end": 836.16,
         "english": "that two people who have different genetic material and who have different experiences and who",
-        "chinese": "那两个拥有不同遗传物质和经历的人。"
+        "chinese": "那就是两种具有不同遗传物质、拥有不同经历的两个人"
     },
     {
         "start": 836.16,
         "end": 841.12,
         "english": "have different parts to their bodies come together and create something that's a combination of all",
-        "chinese": "有不同部分组合在一起，创造出一个由所有元素组成的结合物。"
+        "chinese": "不同部位的身体结合在一起，创造出一种综合性的事物"
     },
     {
         "start": 841.12,
         "end": 845.68,
         "english": "those things. So it's almost kind of like a game of surprise. You don't know what's going to happen.",
-        "chinese": "那些事情。所以，几乎就像是一个惊喜游戏。你不知道会发生什么。"
+        "chinese": "这些事情。感觉就像一个惊喜游戏。你不知道会发生什么。"
     },
     {
         "start": 845.68,
         "end": 849.8399999999999,
         "english": "Are they going to have red hair or green eyes or the me tall or short or fat or thinner? That's",
-        "chinese": "他们会不会有红头发、绿眼睛，或者个子高矮胖瘦？那是什么情况？"
+        "chinese": "他们是要红头发、绿眼睛，还是高个子、矮个子，胖乎乎的还是瘦一点？那是"
     },
     {
         "start": 849.8399999999999,
         "end": 855.4399999999999,
         "english": "the exact thing. Now talking about this aspect that you mentioned before it's controversial",
-        "chinese": "这个就是说的你之前提到的那个方面，现在就争议起来了。"
+        "chinese": "这就是我要说的。你之前提到的这个方面存在争议"
     },
     {
         "start": 856.4000000000001,
         "end": 863.84,
         "english": "when there is life or when if the embryo is a baby or it's not. This is because of many countries",
-        "chinese": "当有生命存在时，或者如果胚胎是一个婴儿的话，还是因为许多国家。这是因为很多国家都有相关规定。"
+        "chinese": "当有生命的时候，或者如果胚胎是婴儿，或者是没有。这是因为许多国家"
     },
     {
         "start": 863.84,
         "end": 872.08,
         "english": "or cities or states that are discussing the legalization or not of abortions. That's right. So",
-        "chinese": "是讨论合法化还是不合法化的城市或州。没错。所以"
+        "chinese": "或者正在讨论是否合法化堕胎的城市或州。没错。所以"
     },
     {
         "start": 872.08,
         "end": 876.8800000000001,
         "english": "the reason this is a problem for a lot of people is because no one agrees on when a fetus becomes",
-        "chinese": "这个对很多人来说是个问题，是因为大家对胎儿什么时候变成什么阶段没有达成一致。"
+        "chinese": "这个问题对很多人来说是个问题，因为没有人能一致同意胎儿何时成为"
     },
     {
         "start": 876.8800000000001,
         "end": 883.0400000000001,
         "english": "a baby and so that will determine for a lot of people when it is okay to abort the fetus or to",
-        "chinese": "一个宝宝，这样就会决定很多人的什么时候可以终止妊娠或者堕胎。"
+        "chinese": "一个婴儿，这将决定对于许多人来说何时可以终止妊娠或"
     },
     {
         "start": 883.04,
         "end": 888.9599999999999,
         "english": "kill it and when it is not. Because I've heard that some people say, well, in your first month,",
-        "chinese": "杀它，当它不是。因为我知道有些人说，在你第一个月的时候，"
+        "chinese": "把它杀死，然后在它不在的时候。因为我听说有些人说，在你入职的第一个月里，"
     },
     {
         "start": 888.9599999999999,
         "end": 895.12,
         "english": "if you've already been pregnant for a month, the baby already has a certain parts formed or even",
-        "chinese": "如果你已经怀孕一个月了，宝宝的某些部分早就成型了，甚至有的已经形成了。"
+        "chinese": "如果你已经怀孕一个月，胎儿已经有某些部分形成甚至"
     },
     {
         "start": 895.12,
         "end": 901.04,
         "english": "I think the heart is beginning to form. So they say, you're already pregnant. I mean, you already",
-        "chinese": "我觉得心脏已经开始形成。所以他们说，你已经怀孕了。我指的是，你已经  \n过去了。"
+        "chinese": "我觉得心脏开始形成了。这么说来，你已经怀孕了。意思是，你已经"
     },
     {
         "start": 901.04,
         "end": 906.0,
         "english": "have a life inside you. Well, they say, well, no, it's actually after two months because then the",
-        "chinese": "有你内心的世界。嗯，他们说的，不，是两个月后，因为然后才开始真正地..."
+        "chinese": "有你的生活。嗯，是的，实际上是在两个月之后因为然后"
     },
     {
         "start": 906.0,
         "end": 910.24,
         "english": "baby has a heartbeat. I'm not really sure about the time tables that I'm giving you. I'm giving you",
-        "chinese": "宝宝心跳正常。我给你的时间表有些不确定，只是给你提供了一些信息。"
+        "chinese": "宝宝有心跳了。我对给你们的时间表不是很确定。我给你们的是延期。"
     },
     {
         "start": 910.24,
         "end": 914.88,
         "english": "more or less a rough outline, but this is the controversy. That's right. And so it affects",
-        "chinese": "大概是一个粗略的框架，但这就是争议。没错。所以它影响了"
+        "chinese": "大致上是一个轮廓，但这就是争议所在。没错，这确实影响到了"
     },
     {
         "start": 915.6800000000001,
         "end": 921.6800000000001,
         "english": "laws in many countries. It affects what medical practitioners, like doctors and nurses can do.",
-        "chinese": "许多国家的法律。它影响着像医生和护士这样的医疗从业者可以做什么。"
+        "chinese": "许多国家的法律。它影响了医生和护士等医疗从业者可以做什么。"
     },
     {
         "start": 921.6800000000001,
         "end": 926.96,
         "english": "And it's always, I think, been an issue as long as I've been alive. Yeah. Actually, the whole",
-        "chinese": "嗯，我一直觉得这个问题已经存在了。是的。其实，整个过程都是一开始就存在的。"
+        "chinese": "而且我一直认为，这一直都是个问题。嗯。实际上，整个"
     },
     {
         "start": 926.96,
         "end": 933.76,
         "english": "abortion topic is a big political debate between people who are against it, who are in favor of it.",
-        "chinese": "堕胎话题是一个人们之间的大政治辩论，其中反对的人和支持的人都在争论。"
+        "chinese": "堕胎议题是反对它的人和支持它的双方之间的大政治辩论。"
     },
     {
         "start": 933.76,
         "end": 939.52,
         "english": "So it's very interesting. And actually, it's still very much illegal in many places in the world.",
-        "chinese": "所以这挺有意思的。而且，实际上，在许多世界上很多地方，它仍然是非法的。"
+        "chinese": "所以非常有趣，实际上，在世界许多地方仍然非法。"
     },
     {
         "start": 939.52,
         "end": 944.4,
         "english": "Absolutely. And it changes, I think, according to where you are in America as well. So some",
-        "chinese": "当然。我觉得这可能取决于你在哪个地方在美国。所以一些"
+        "chinese": "当然。而且我认为这根据你在美国的位置也在发生变化。所以有些"
     },
     {
         "start": 944.4,
         "end": 948.56,
         "english": "states have different laws about it. And some states are more lenient, for example. And actually,",
-        "chinese": "各州有不同的法律规定。有些州则更为宽松，例如。实际上，"
+        "chinese": "一些州有不同的法律规定。而且有些州相对宽松，例如。实际上，"
     },
     {
         "start": 948.56,
         "end": 956.48,
         "english": "this spawned a whole new controversy that with the emergency pill, right? That basically, if you",
-        "chinese": "这个引发了整个新一波的争议，对吧？基本上，如果你\n（这里可以添加更多具体的上下文或句子）"
+        "chinese": "这引发了新一轮的争议，对吧？也就是说，如果你"
     },
     {
         "start": 956.48,
         "end": 962.0799999999999,
         "english": "maybe are in risk of being pregnant, then you take this pill in a kind of prevents fertilization",
-        "chinese": "你可能处于怀孕的风险中，那么你可以服用这种药来防止受精。"
+        "chinese": "可能怀孕了，然后你服用这种药物来防止受精"
     },
     {
         "start": 962.0799999999999,
         "end": 967.36,
         "english": "or if fertilization occurred already, then it kind of prevents further growth of the embryo.",
-        "chinese": "如果受精已经发生过，那么胚胎的进一步生长就会受到抑制。"
+        "chinese": "或者如果已经发生受精，那么它基本上阻止了胚胎的进一步生长。"
     },
     {
         "start": 967.36,
         "end": 972.08,
         "english": "Right. Basically, it's called the emergency contraceptive. And it's taken after you think you",
-        "chinese": "好的。基本上，它叫紧急避孕药。你是在你觉得可能怀孕的时候吃它。"
+        "chinese": "是的。本质上它是紧急避孕药。它是在你觉得可能需要的时候服用的。"
     },
     {
         "start": 972.08,
         "end": 977.52,
         "english": "might be pregnant. So maybe if you didn't use other contraceptives like a condom, and you think maybe",
-        "chinese": "可能是怀孕了。所以，如果你们没有使用其他避孕措施，比如安全套，可能是因为你觉得..."
+        "chinese": "可能怀孕了。所以如果你没有使用避孕套等其他避孕措施，而且你认为可能是"
     },
     {
         "start": 977.52,
         "end": 982.5600000000001,
         "english": "one of your eggs as a woman was fertilized by a sperm, it makes you have your period, it makes you",
-        "chinese": "你的一个鸡蛋作为女性被精子受精了，这会让你来月经。"
+        "chinese": "你作为女性的一个卵子被精子受精，就会有你的月经，就会有你的周期"
     },
     {
         "start": 982.5600000000001,
         "end": 987.44,
         "english": "menstruate. That means your whole, your whole, the lining of your uterus and any egg, even if it was",
-        "chinese": "月经。那意味着你的子宫内膜，以及任何卵子，即使它本来是空的。"
+        "chinese": "月经。这意味着你的整个子宫内膜，以及任何卵子，即使它已经受精了"
     },
     {
         "start": 988.24,
         "end": 993.04,
         "english": "fertilized comes out. Right. And it's in some cases, people think of it as a kind of abortion.",
-        "chinese": "受精出来了。没错。有时候，人们会把它当作一种堕胎。"
+        "chinese": "怀孕了。对。在某些情况下，人们有时会把它当作一种流产。"
     },
     {
         "start": 993.04,
         "end": 999.76,
         "english": "That's right. So yeah, it's very interesting how the more that we understand about medicine and",
-        "chinese": "英语：那对的。所以啊，我们真的觉得这个更有趣的是我们能更好地了解医学和"
+        "chinese": "没错。说来也很有趣，我们对医学了解得越多，"
     },
     {
         "start": 999.76,
         "end": 1004.8,
         "english": "about how life works, well, there have been advancements as well, like contraceptives that not only",
-        "chinese": "关于生活是怎么运作的，嗯，确实有过进步，比如避孕套这种东西。它不仅能够防止怀孕，还能避免性病呢！"
+        "chinese": "关于生活的工作，嗯，也有进步了，比如避孕药不仅"
     },
     {
         "start": 1004.8,
         "end": 1012.24,
         "english": "prevent unwanted pregnancies, but also prevent transmission of diseases, sexually transmitted disease.",
-        "chinese": "预防意外怀孕，同时也防止性病的传播。"
+        "chinese": "防止意外怀孕，同时也预防性传播疾病。"
     },
     {
         "start": 1012.24,
         "end": 1017.12,
         "english": "But at the same time, other things like this, like the emergency contraceptive and abortion,",
-        "chinese": "但是另一方面，其他东西也一样，比如紧急避孕药和堕胎。"
+        "chinese": "但是与此同时，还有一些类似紧急避孕药和堕胎的事宜。"
     },
     {
         "start": 1017.12,
         "end": 1023.68,
         "english": "start popping up. So, ethics, ethics, exactly. So a very interesting topic, as we said, controversial,",
-        "chinese": "开始冒泡了。所以，伦理问题，对不对。我们刚才说的这个话题很有趣，争议性很强吧。"
+        "chinese": "开始引起关注。所以，伦理，伦理，就是这个意思。我们之前说过，这是一个非常有趣且颇具争议的话题。"
     },
     {
         "start": 1023.68,
         "end": 1028.08,
         "english": "but at the same time, very much beautiful because we are talking about how our body is work and how",
-        "chinese": "但是，同时非常美丽，因为我们正在谈论我们的身体是如何工作的以及如何。"
+        "chinese": "但同时，非常美丽，因为我们正在谈论我们的身体是如何工作的以及如何"
     },
     {
         "start": 1028.08,
         "end": 1033.44,
         "english": "everyone came to existence. And how babies are born. Everyone loves babies. That's right. So we're",
-        "chinese": "大家都来啦。而且，宝宝是怎么来的呢？每个人都喜欢宝宝。没错！所以啊，我们是..."
+        "chinese": "所有人都存在。就像婴儿出生一样。大家都喜欢婴儿。没错。所以我们就"
     },
     {
         "start": 1033.44,
         "end": 1038.48,
         "english": "really interested to get your insights, your opinion about anything that we've talked about today.",
-        "chinese": "真的很期待能听听你的见解，你对今天讨论的所有内容有什么看法。"
+        "chinese": "非常感兴趣听取你的见解，关于我们今天讨论过的任何话题的意见。"
     },
     {
         "start": 1038.48,
         "end": 1042.48,
         "english": "And if you have any other questions or comments, you can always reach us at EnglishPod.com.",
-        "chinese": "如果您有任何其他问题或评论，都可以随时联系我们的英文页面：EnglishPod.com。"
+        "chinese": "如果有任何其他问题或评论，您随时可以通过英式英语Pod.com联系我们。"
     },
     {
         "start": 1042.56,
         "end": 1047.28,
         "english": "Yeah, we hope to see you there and that we hope this will start a nice conversation on our website.",
-        "chinese": "好的，我们希望你能来参加，并且我们也希望能在这个网站上开始一段愉快的对话。"
+        "chinese": "是的，我们希望你在那里看到我们，并且希望能在这儿开始一个愉快的对话。"
     },
     {
         "start": 1047.28,
         "end": 1051.44,
         "english": "Remember, keep it clean. Yeah, that's right. All right. So we'll see everyone there. Bye.",
-        "chinese": "记得，保持干净。没错。好的。我们到时候见吧。拜拜。"
+        "chinese": "记得保持干净啊，没错。好的。所以我们到时候见。拜拜。"
     }
 ]

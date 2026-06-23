@@ -3,19 +3,19 @@
         "start": 0.0,
         "end": 7.5600000000000005,
         "english": "Hello everyone and welcome to another great lesson here at EnglishPod.",
-        "chinese": "你好，大家欢迎来到英语播客的又一堂精彩课程。"
+        "chinese": "大家好，欢迎来到这里参加又一堂精彩的英语课。"
     },
     {
         "start": 7.5600000000000005,
         "end": 8.76,
         "english": "My name is Marco.",
-        "chinese": "我的名字是马可波罗。"
+        "chinese": "我的名字是马可。"
     },
     {
         "start": 8.76,
         "end": 13.36,
         "english": "My name is Catherine and today we've got an upper intermediate level lesson for you all.",
-        "chinese": "我的名字是凯瑟琳，今天我们要进行一次中级上层水平的课程。"
+        "chinese": "我的名字是凯瑟琳，今天我们要给你们上一个中高级水平的课程。"
     },
     {
         "start": 13.36,
@@ -27,13 +27,13 @@
         "start": 14.36,
         "end": 19.64,
         "english": "We're going to talk a little bit about business and specifically we are in a business meeting",
-        "chinese": "我们来聊聊生意，特别是我们在进行一次商务会议。"
+        "chinese": "我们将聊聊一些关于业务的内容，具体来说，我们现在正在进行一次业务会议"
     },
     {
         "start": 19.64,
         "end": 22.2,
         "english": "where we're trying to sell something to someone.",
-        "chinese": "我们正在试图向某人推销什么东西。"
+        "chinese": "我们正试图向某人推销什么东西。"
     },
     {
         "start": 22.2,
@@ -45,43 +45,43 @@
         "start": 23.2,
         "end": 28.8,
         "english": "So you're going to hear a lot of talk about chocolate or in this case gourmet bombons.",
-        "chinese": "所以，你将会听到很多关于巧克力或在这个情况下是高规格炮兵的讨论。"
+        "chinese": "所以你会听到很多人谈论巧克力，或者在这种情况下是 gourmet 糖果。"
     },
     {
         "start": 28.8,
         "end": 29.8,
         "english": "Gourmet bombons.",
-        "chinese": "美食炸弹。"
+        "chinese": "gourmet 巧克力糖🍬"
     },
     {
         "start": 29.8,
         "end": 32.8,
         "english": "This is another word for chocolate candies or candies.",
-        "chinese": "这是另一种巧克力糖的叫法。"
+        "chinese": "这指的是巧克力糖果或糖果。"
     },
     {
         "start": 32.8,
         "end": 33.8,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 33.8,
         "end": 36.36,
         "english": "So a bombon is kind of like round usually, right?",
-        "chinese": "所以，炸弹通常就是圆的吧？"
+        "chinese": "所以一个 Bombon 大概是圆的对吧？"
     },
     {
         "start": 36.36,
         "end": 37.36,
         "english": "Usually, yes.",
-        "chinese": "通常，是的。"
+        "chinese": "通常，是。"
     },
     {
         "start": 37.36,
         "end": 38.36,
         "english": "OK.",
-        "chinese": "好的。"
+        "chinese": "OK."
     },
     {
         "start": 38.36,
@@ -93,31 +93,31 @@
         "start": 39.36,
         "end": 41.36,
         "english": "So let's get started and listen to today's dialogue.",
-        "chinese": "那么，我们开始吧，听听今天的对话。"
+        "chinese": "那么我们就开始吧，听听今天的对话。"
     },
     {
         "start": 41.36,
         "end": 43.56,
         "english": "We'll be back in a moment.",
-        "chinese": "我们一会儿就回来。"
+        "chinese": "我们马上就回来。"
     },
     {
         "start": 43.56,
         "end": 53.2,
         "english": "I'm glad you could find time to meet with me, Mr. Johnson.",
-        "chinese": "很高兴你抽空见我，约翰逊先生。"
+        "chinese": "Johnson先生，很高兴您能抽空见我。"
     },
     {
         "start": 53.2,
         "end": 56.32,
         "english": "I can't think of a nicer environment for our meeting today.",
-        "chinese": "我今天会议的环境真是太好了。"
+        "chinese": "今天的会议我们找不到比这更好的环境了。"
     },
     {
         "start": 56.32,
         "end": 58.36,
         "english": "The ambience here is lovely.",
-        "chinese": "这里的氛围真好。"
+        "chinese": "这里的氛围很美。"
     },
     {
         "start": 58.36,
@@ -129,19 +129,19 @@
         "start": 59.44,
         "end": 62.76,
         "english": "If possible, I always combine business with pleasure.",
-        "chinese": "如果可能的话，我总是将工作与乐趣结合起来。"
+        "chinese": "如果可能，我总是将工作与乐趣相结合。"
     },
     {
         "start": 62.76,
         "end": 65.52,
         "english": "Now let's hear more about these chocolates you're offering.",
-        "chinese": "现在，让我们听听你提供的这些巧克力更多。"
+        "chinese": "现在让我们听听你提供的这些巧克力。"
     },
     {
         "start": 65.52,
         "end": 71.72,
         "english": "Well, as you know, I have recently become the sole distributor for Gourmet bombons here",
-        "chinese": "当然，你知道了，我最近成了这里唯一销售巧克力炸弹的分销商。"
+        "chinese": "Well，你知道的，我最近成为 gourmet 爆果酱 在这里唯一的分销商"
     },
     {
         "start": 71.72,
@@ -153,25 +153,25 @@
         "start": 73.28,
         "end": 77.64,
         "english": "They're a new manufacturer and are looking to break into the luxury market.",
-        "chinese": "他们是一家新制造商，正在努力进入高端市场。"
+        "chinese": "他们是新制造商，正试图打入高端市场。"
     },
     {
         "start": 77.64,
         "end": 80.88,
         "english": "Naturally, your restaurant is spraying into my mind immediately.",
-        "chinese": "当然，你的餐厅立即在我的脑海中喷射出来。"
+        "chinese": "当然，你的餐厅一下就蹦入了我的脑海。"
     },
     {
         "start": 80.88,
         "end": 86.12,
         "english": "I think your brand exemplifies many of the same traits as Gourmet and serving these",
-        "chinese": "我觉得你的品牌也体现了许多与Gourmet相似的特质。"
+        "chinese": "我认为您的品牌体现了Gourmet的许多相同特质，提供这些服务"
     },
     {
         "start": 86.12,
         "end": 91.88000000000001,
         "english": "chocolates would really add to your reputation for providing elegant, luxurious, first-class",
-        "chinese": "巧克力会大大提升你提供优雅、豪华、顶级中国美食的声誉。"
+        "chinese": "巧克力真的会让您的服务以提供优雅、奢华的一流而更加出名"
     },
     {
         "start": 91.88000000000001,
@@ -183,67 +183,67 @@
         "start": 92.88000000000001,
         "end": 94.96000000000001,
         "english": "Hmm, sounds interesting.",
-        "chinese": "嗯，听起来很有趣。"
+        "chinese": "嗯，听起来挺有意思的。"
     },
     {
         "start": 94.96000000000001,
         "end": 96.80000000000001,
         "english": "Gourmet chocolates.",
-        "chinese": "美味的巧克力。"
+        "chinese": "gourmet巧克力"
     },
     {
         "start": 96.80000000000001,
         "end": 98.68,
         "english": "Where they produced, Belgium?",
-        "chinese": "他们在哪里生产？比利时。"
+        "chinese": "他们在哪儿生产？比利时"
     },
     {
         "start": 98.68,
         "end": 102.56,
         "english": "Actually, the factory is located in Scotland, really.",
-        "chinese": "实际上，工厂真的位于苏格兰。"
+        "chinese": "实际上，工厂位于苏格兰。"
     },
     {
         "start": 102.56,
         "end": 106.52000000000001,
         "english": "I didn't think they were known for their luxury chocolate production.",
-        "chinese": "我没想到他们以生产奢侈巧克力而闻名。"
+        "chinese": "我不认为他们以生产高档巧克力而闻名。"
     },
     {
         "start": 106.52000000000001,
         "end": 110.0,
         "english": "That's what makes this such a fantastic opportunity.",
-        "chinese": "那就是这个如此精彩的机遇的原因。"
+        "chinese": "这就是它成为如此精彩机会的原因。"
     },
     {
         "start": 110.0,
         "end": 115.92,
         "english": "The government is 100% supportive of creating new export markets and has guaranteed a",
-        "chinese": "政府百分之百支持创造新的出口市场，并且已经保证了\n\n请注意，这是一个翻译任务。如果您有其他问题或需要帮助，请随时告诉我！"
+        "chinese": "中国政府对创建新的出口市场100%支持，并已保证"
     },
     {
         "start": 115.92,
         "end": 120.16,
         "english": "low tariff for all wholesale orders of over 1000 units.",
-        "chinese": "优惠价适用于所有超过1000个单位的批发订单。"
+        "chinese": "对所有超过1000个单位的批发订单提供全价优惠。"
     },
     {
         "start": 120.16,
         "end": 124.12,
         "english": "They've also reduced the red tape involved at customs as well.",
-        "chinese": "他们还减少了海关涉及的红头文件。"
+        "chinese": "他们也减少了海关手续方面的繁琐。"
     },
     {
         "start": 124.12,
         "end": 126.48,
         "english": "Here I brought these especially for you.",
-        "chinese": "我特意给你带来了这些。"
+        "chinese": "这就是为你准备的。"
     },
     {
         "start": 126.48,
         "end": 127.48,
         "english": "Try one.",
-        "chinese": "试试看。"
+        "chinese": "试一试。"
     },
     {
         "start": 127.48,
@@ -255,61 +255,61 @@
         "start": 128.48,
         "end": 129.48,
         "english": "Hmm.",
-        "chinese": "嗯。"
+        "chinese": "Hmm。"
     },
     {
         "start": 129.48,
         "end": 130.48,
         "english": "Hmm.",
-        "chinese": "嗯。"
+        "chinese": "Hmm。"
     },
     {
         "start": 130.48,
         "end": 132.28,
         "english": "Creamy texture?",
-        "chinese": "奶油质地？"
+        "chinese": "质地奶油般？"
     },
     {
         "start": 132.28,
         "end": 134.28,
         "english": "Very smooth.",
-        "chinese": "非常顺滑。"
+        "chinese": "非常顺畅。"
     },
     {
         "start": 134.28,
         "end": 135.28,
         "english": "Unique, aren't they?",
-        "chinese": "它们不独特吗？"
+        "chinese": "独特吧？"
     },
     {
         "start": 135.28,
         "end": 138.32,
         "english": "I bet you've never tasted anything like it.",
-        "chinese": "你尝过这种东西吗？一定没有吧。"
+        "chinese": "你肯定从未尝过如此的东西。"
     },
     {
         "start": 138.32,
         "end": 142.4,
         "english": "Quality is assured as I personally visit the factory to make sure no one's cutting corners",
-        "chinese": "质量有保障，因为我亲自到工厂去核实，确保没有人偷工减料。"
+        "chinese": "保证质量，因为我亲自访问工厂确保没有人偷工减料"
     },
     {
         "start": 142.4,
         "end": 144.04,
         "english": "with the ingredients.",
-        "chinese": "好的，我已经准备好了。请告诉我您需要翻译的内容。"
+        "chinese": "带着这些材料。"
     },
     {
         "start": 144.04,
         "end": 146.72,
         "english": "Only the cream of the cream make it through inspection.",
-        "chinese": "只有最优秀的才能过关。"
+        "chinese": "只有顶尖中的顶尖才能通过检验。"
     },
     {
         "start": 146.72,
         "end": 150.36,
         "english": "Yes, very interesting flavors, slightly spicy.",
-        "chinese": "是的，非常有趣的口味，略微有点辣。"
+        "chinese": "是的，非常有趣的口味，略带辛辣。"
     },
     {
         "start": 150.36,
@@ -321,187 +321,187 @@
         "start": 152.16,
         "end": 153.16,
         "english": "That's for sure.",
-        "chinese": "那肯定是没错的。"
+        "chinese": "那是肯定的。"
     },
     {
         "start": 153.16,
         "end": 155.32,
         "english": "Exactly what are the ingredients?",
-        "chinese": "你到底用了什么调料？"
+        "chinese": "到底有哪些成分？"
     },
     {
         "start": 155.32,
         "end": 160.32,
         "english": "I have it on high as the authority that this traditional secret recipe has been handed",
-        "chinese": "我有它之上的权威，这传统的秘方已经被传下来了。"
+        "chinese": "这传统秘方已被权威授予我"
     },
     {
         "start": 160.32,
         "end": 163.64000000000001,
         "english": "down in the Granger family for generations.",
-        "chinese": "在格兰杰家族代代相传。"
+        "chinese": "Granger家族几代人低谷中。"
     },
     {
         "start": 163.64000000000001,
         "end": 166.76,
         "english": "I'm sure you can keep a secret.",
-        "chinese": "你肯定能保守秘密。"
+        "chinese": "你一定可以保守秘密。"
     },
     {
         "start": 166.76,
         "end": 172.32,
         "english": "Buttermilk, caucal beans, sugar, and hawkies.",
-        "chinese": "黄油、芝麻、糖和鹰。"
+        "chinese": "但丁牛奶、黑豆、糖和哈密瓜。"
     },
     {
         "start": 172.32,
         "end": 173.32,
         "english": "Haggis.",
-        "chinese": "火鸡。"
+        "chinese": "Haggis."
     },
     {
         "start": 173.32,
         "end": 175.95999999999998,
         "english": "What's Haggis?",
-        "chinese": "你吃过的最奇怪的食物是什么？"
+        "chinese": "什么是Haggis？"
     },
     {
         "start": 175.95999999999998,
         "end": 178.4,
         "english": "It's a traditional Scottish delicacy.",
-        "chinese": "它是传统的苏格兰美食。"
+        "chinese": "这是一道传统的苏格兰美食。"
     },
     {
         "start": 178.4,
         "end": 183.56,
         "english": "You take sheep's liver, heart, and lung, and stuff it inside the sheep's stomach.",
-        "chinese": "你把羊的肝脏、心脏和肺塞进羊的胃里。"
+        "chinese": "你把羊的心、肺和肝塞进羊的胃里。"
     },
     {
         "start": 183.56,
         "end": 189.28,
         "english": "I'll get back to you.",
-        "chinese": "我会联系你的。"
+        "chinese": "我会回复你的。"
     },
     {
         "start": 189.28,
         "end": 190.28,
         "english": "Mr. Johnson?",
-        "chinese": "您好，约翰逊先生？"
+        "chinese": "约翰逊先生？"
     },
     {
         "start": 190.28,
         "end": 191.28,
         "english": "Mr. Johnson!",
-        "chinese": "你好，约翰逊先生！"
+        "chinese": "约翰逊先生！"
     },
     {
         "start": 191.28,
         "end": 200.64,
         "english": "All right, we're back.",
-        "chinese": "好的，我们又回来了。"
+        "chinese": "好的，我们回来了。"
     },
     {
         "start": 200.64,
         "end": 202.64,
         "english": "So a lot of interesting vocab there.",
-        "chinese": "所以这里面有很多有趣的新词。"
+        "chinese": "那里有不少有趣的词汇。"
     },
     {
         "start": 202.64,
         "end": 207.04,
         "english": "The guy was trying to convince him about these chocolates, but it turned out to be something",
-        "chinese": "这个家伙试图说服他这些巧克力，但结果却是……"
+        "chinese": "这个人正试图说服他这些巧克力的事，结果发现是这样。"
     },
     {
         "start": 207.04,
         "end": 208.04,
         "english": "a little bit strange.",
-        "chinese": "有点奇怪。"
+        "chinese": "略显奇怪。"
     },
     {
         "start": 208.04,
         "end": 211.08,
         "english": "And we'll talk about that in a little while.",
-        "chinese": "我们稍后再聊这件事。"
+        "chinese": "我们一会儿再谈。"
     },
     {
         "start": 211.08,
         "end": 215.64,
         "english": "Before we get into that, why don't we take a look at seven key words that we have prepared",
-        "chinese": "在我们深入讨论之前，不如先看看我们准备好的七个关键词汇吧。"
+        "chinese": "在我们继续之前，何不看看我们准备的七个关键词汇"
     },
     {
         "start": 215.64,
         "end": 219.8,
         "english": "for you today on Language Takeaway?",
-        "chinese": "今天在语言取悦你？"
+        "chinese": "今天为你在语言 takeaway 上"
     },
     {
         "start": 219.8,
         "end": 225.64000000000001,
         "english": "Okay, so we've divided language takeaway into two parts today.",
-        "chinese": "好的，今天我们就把语言取零分成两部分。"
+        "chinese": "好的，今天我们把语言 takeaway 分成了两部分。"
     },
     {
         "start": 225.64000000000001,
         "end": 229.36,
         "english": "The first part is all about business and manufacturing.",
-        "chinese": "第一部分是关于生意和制造的。"
+        "chinese": "第一部分全是关于业务和制造的。"
     },
     {
         "start": 229.36,
         "end": 230.88000000000002,
         "english": "So what's our first word, Marco?",
-        "chinese": "那我们的第一个单词是，Marco？"
+        "chinese": "那么我们的第一个词是什么，马可？"
     },
     {
         "start": 230.88000000000002,
         "end": 235.48000000000002,
         "english": "All right, so the guy talked about being the sole distributor for this company called",
-        "chinese": "好的，这位男士谈到了自己是这个公司（该公司）的独家分销商。"
+        "chinese": "好的，所以那人谈到他是这家公司唯⼀的分销商"
     },
     {
         "start": 235.48000000000002,
         "end": 237.68,
         "english": "the Granger's Gourmet Bombons.",
-        "chinese": "格兰杰的美味炸弹"
+        "chinese": "格兰杰的 gourmet 巧克力糖球"
     },
     {
         "start": 237.68,
         "end": 238.8,
         "english": "Okay, a distributor.",
-        "chinese": "好的，分销商。"
+        "chinese": "好的，一个分销商。"
     },
     {
         "start": 238.8,
         "end": 242.28,
         "english": "Okay, this is a person or company.",
-        "chinese": "好的，这是一个个人或公司。"
+        "chinese": "好的，这是一个人或公司。"
     },
     {
         "start": 242.28,
         "end": 248.32000000000002,
         "english": "And the distributor is someone who distributes or sells a product, right?",
-        "chinese": "没错，分销商就是负责销售或分发产品的那个人。"
+        "chinese": "而分销商就是负责分发或销售产品的人，是吗？"
     },
     {
         "start": 248.32000000000002,
         "end": 249.32000000000002,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 249.35999999999999,
         "end": 250.92,
         "english": "So the factory will make them.",
-        "chinese": "所以工厂会做它们。"
+        "chinese": "所以工厂会给他们做。"
     },
     {
         "start": 250.92,
         "end": 256.12,
         "english": "He will get all these goods from the factory and then he will be the one that gives it",
-        "chinese": "他从工厂里会拿到这些货物，然后他会是那个把它们给出去的人。"
+        "chinese": "他将从工厂把这些货物全部拿过来，然后他就成为负责这些货物的人了。"
     },
     {
         "start": 256.12,
@@ -513,19 +513,19 @@
         "start": 258.8,
         "end": 263.15999999999997,
         "english": "So he can have many clients and he is the main person who you get it from.",
-        "chinese": "所以他可以有很多客户，而且他是你从哪里得到它的主要来源。"
+        "chinese": "所以他可以有众多客户，他是你获取的主要人物。"
     },
     {
         "start": 263.15999999999997,
         "end": 265.4,
         "english": "So obviously they don't get it directly from the factory.",
-        "chinese": "当然，他们不可能直接从工厂得到。"
+        "chinese": "显然他们不是直接从工厂得到的。"
     },
     {
         "start": 265.4,
         "end": 271.08,
         "english": "Okay, so this person, a distributor or a company, is in the middle of the transaction.",
-        "chinese": "好的，所以这个人在交易的中间。"
+        "chinese": "好的，这么说来，这个人是分销商或者公司，在交易过程中。"
     },
     {
         "start": 271.08,
@@ -537,43 +537,43 @@
         "start": 275.48,
         "end": 276.48,
         "english": "or stores.",
-        "chinese": "或者储存。"
+        "chinese": "或者商店。"
     },
     {
         "start": 276.48,
         "end": 277.48,
         "english": "Exactly.",
-        "chinese": "好的。"
+        "chinese": "Exactly."
     },
     {
         "start": 277.48,
         "end": 281.56,
         "english": "And as you said, that's our second keyword today, manufacturer.",
-        "chinese": "是的，你说的是我们今天的第二个关键词，制造商。"
+        "chinese": "而正如你所说，这是我们今天的第二个关键词，制造商。"
     },
     {
         "start": 281.56,
         "end": 286.36,
         "english": "Okay, manufacturer again is a person or company that makes a good.",
-        "chinese": "好的，制造商是指生产优质产品的人或公司。"
+        "chinese": "好的，制造商是一个生产良好产品的人或公司。"
     },
     {
         "start": 286.36,
         "end": 291.20000000000005,
         "english": "So for example, a television manufacturer makes TV, it's like a factory.",
-        "chinese": "例如，电视制造商生产电视机，就像一个工厂。"
+        "chinese": "例如，电视制造商生产电视，就像一个工厂。"
     },
     {
         "start": 291.20000000000005,
         "end": 292.20000000000005,
         "english": "Exactly.",
-        "chinese": "确实。"
+        "chinese": "Exactly."
     },
     {
         "start": 292.20000000000005,
         "end": 294.64000000000004,
         "english": "So they manufacture things, they make them.",
-        "chinese": "所以他们制造东西，他们制作它们。"
+        "chinese": "所以他们制造东西，制作它们。"
     },
     {
         "start": 294.64000000000004,
@@ -585,13 +585,13 @@
         "start": 295.64000000000004,
         "end": 300.8,
         "english": "So we've got distributors who are moving goods, we have manufacturers who are making them.",
-        "chinese": "所以，我们有分销商在搬运货物，也有制造商在生产它们。"
+        "chinese": "所以我们有负责分销商品的经销商，也有制造它们的制造商。"
     },
     {
         "start": 300.8,
         "end": 303.96000000000004,
         "english": "But what happens when we want to move a good out of a country?",
-        "chinese": "但当我们想要从一个国家移出一个好的东西会发生什么呢？"
+        "chinese": "但当我们想把一个好东西从一个国家移出时，会发生什么？"
     },
     {
         "start": 303.96000000000004,
@@ -603,43 +603,43 @@
         "start": 304.96,
         "end": 307.76,
         "english": "That is our third word for today.",
-        "chinese": "那是我们今天要说的第三个词。"
+        "chinese": "这就是我们今天的第三个词。"
     },
     {
         "start": 307.76,
         "end": 313.2,
         "english": "Usually in customs we have to pay a tariff for these goods or a tax.",
-        "chinese": "通常在海关，我们不得不为这些货物支付关税或税款。"
+        "chinese": "通常在海关我们需要为这些商品支付关税或税款。"
     },
     {
         "start": 313.2,
         "end": 318.88,
         "english": "Okay, so a tariff is a special kind of tax that you pay when you are trying to export or",
-        "chinese": "好的，关税是一种特殊的税收形式，在你试图出口或进口商品时你需要支付。"
+        "chinese": "好吧，关税就是一种特殊的税，当你试图出口时需要支付的特别税。"
     },
     {
         "start": 318.88,
         "end": 323.0,
         "english": "send outside of your country goods that you've made in that country.",
-        "chinese": "将你在该国制造的货物发送到你所在的国家之外。"
+        "chinese": "将您在国外制作的商品发送到国外。"
     },
     {
         "start": 323.0,
         "end": 328.64,
         "english": "So for example, if I make 100 TVs in America, but I want to sell these TVs to someone in",
-        "chinese": "那么，例如，如果我在美国制造了100台电视，但我想要把这些电视卖给中国的某个人，那该怎么办呢？"
+        "chinese": "所以比如说，我在美国生产了100台电视，但我想把这些电视卖给某个在美国的人"
     },
     {
         "start": 328.64,
         "end": 331.44,
         "english": "Mexico, I have to pay a tariff.",
-        "chinese": "墨西哥，我必须交关税。"
+        "chinese": "墨西哥，我必须支付关税。"
     },
     {
         "start": 331.44,
         "end": 338.76,
         "english": "I have to pay like $10 to the government that allows me to send these out of the country.",
-        "chinese": "我必须向允许我在国外发送这些的政府支付10美元。"
+        "chinese": "我不得不向允许我把这些东西寄出国外的政府支付大约10美元。"
     },
     {
         "start": 338.76,
@@ -651,25 +651,25 @@
         "start": 339.76,
         "end": 341.32,
         "english": "So that is a tariff.",
-        "chinese": "所以这就是关税。"
+        "chinese": "这就是关税。"
     },
     {
         "start": 341.32,
         "end": 345.64,
         "english": "And now when he was talking about tariffs and how the government is reducing the tariffs",
-        "chinese": "现在，当他在讨论关税和政府正在减少关税时，他开始提到。"
+        "chinese": "而现在他谈到关税，以及政府如何降低关税。"
     },
     {
         "start": 345.64,
         "end": 351.88,
         "english": "in order to motivate business, he talked about also that the government is reducing or",
-        "chinese": "为了激励生意，他谈到了政府也在减少或取消某些服务。"
+        "chinese": "为了激励业务，他提到了政府也在减少或"
     },
     {
         "start": 351.88,
         "end": 353.64,
         "english": "cutting the red tape.",
-        "chinese": "简化红头文件。"
+        "chinese": "剪除红头文件。"
     },
     {
         "start": 353.64,
@@ -681,19 +681,19 @@
         "start": 354.64,
         "end": 358.59999999999997,
         "english": "So he says, listen, they've also reduced the red tape involved at customs.",
-        "chinese": "所以他说，听着，他们也减少了在海关涉及的红头文件。"
+        "chinese": "他说，听好了，海关方面的红头文件也简化了不少。"
     },
     {
         "start": 358.6,
         "end": 364.40000000000003,
         "english": "So this means that before they were encountering some problems at customs because customs, you",
-        "chinese": "所以这意味着在他们遇到海关问题之前，他们遇到了一些问题。海关，你"
+        "chinese": "所以这意味着在他们遇到海关问题之前，因为海关，你"
     },
     {
         "start": 364.40000000000003,
         "end": 368.32000000000005,
         "english": "know, there's a lot of paperwork, there's a lot of taxes, there's a lot of information",
-        "chinese": "知道，有很多的文件、很多的税、还有很多的信息。"
+        "chinese": "知道有很多文件要处理，有很多税要缴，有很多信息要了解"
     },
     {
         "start": 368.32000000000005,
@@ -705,49 +705,49 @@
         "start": 370.12,
         "end": 371.12,
         "english": "It's a hassle.",
-        "chinese": "这真是麻烦。"
+        "chinese": "这太麻烦了。"
     },
     {
         "start": 371.12,
         "end": 372.12,
         "english": "It's a lot of work.",
-        "chinese": "这是一项艰巨的工作。"
+        "chinese": "这工作量很大。"
     },
     {
         "start": 372.12,
         "end": 373.12,
         "english": "A lot of paperwork.",
-        "chinese": "很多的文件。"
+        "chinese": "大量的文件工作。"
     },
     {
         "start": 373.12,
         "end": 374.12,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 374.12,
         "end": 377.84000000000003,
         "english": "So this kind of paperwork, bureaucracy, this is called red tape in English.",
-        "chinese": "所以这种手续、官僚主义，这就是英文中的红头文件。"
+        "chinese": "所以这种文书工作、官僚手续，英语里叫红头文件。"
     },
     {
         "start": 377.84000000000003,
         "end": 387.16,
         "english": "For example, I would love to get a visa for my foreign husband, but there's a lot of",
-        "chinese": "例如，我希望能为我的外国丈夫获得签证。"
+        "chinese": "例如，我非常希望为我的外国丈夫办理签证，但有很多"
     },
     {
         "start": 387.16,
         "end": 388.16,
         "english": "red tape.",
-        "chinese": "红头文件。"
+        "chinese": "红头文件"
     },
     {
         "start": 388.16,
         "end": 392.48,
         "english": "A lot of work that we have to do is a lot of bureaucratic processes that you have to do.",
-        "chinese": "我们有很多工作需要完成，很多都是你必须做的繁琐程序。"
+        "chinese": "我们有很多工作要做，都是很多繁琐的行政程序要处理。"
     },
     {
         "start": 392.48,
@@ -759,7 +759,7 @@
         "start": 393.48,
         "end": 397.88000000000005,
         "english": "So red tape, this means a lot of paperwork, a lot of work that you have to do.",
-        "chinese": "所以红头文件，这意思就是很多的手续，很多的工作你得去做。"
+        "chinese": "所以红头文件，这指的是大量的文书工作，你需要做的很多工作。"
     },
     {
         "start": 397.88000000000005,
@@ -771,25 +771,25 @@
         "start": 398.88000000000005,
         "end": 402.08000000000004,
         "english": "So those are our keywords that are related to business.",
-        "chinese": "所以，这些都是与业务相关的关键词。"
+        "chinese": "这就是我们与业务相关的关键词。"
     },
     {
         "start": 402.08000000000004,
         "end": 405.40000000000003,
         "english": "Now let's move on to a couple of different adjectives.",
-        "chinese": "现在，我们来聊聊几种不同的形容词。"
+        "chinese": "接下来我们来谈谈几个不同的形容词。"
     },
     {
         "start": 405.40000000000003,
         "end": 409.0,
         "english": "The first one when he talked about chocolates, he said elegant.",
-        "chinese": "他提到巧克力时，说它优雅。"
+        "chinese": "他谈起巧克力时，他说得优雅。"
     },
     {
         "start": 409.0,
         "end": 411.08000000000004,
         "english": "He said that something is elegant.",
-        "chinese": "他说道，那是优雅的。"
+        "chinese": "他说什么东西很优雅。"
     },
     {
         "start": 411.08000000000004,
@@ -807,31 +807,31 @@
         "start": 413.08000000000004,
         "end": 414.08000000000004,
         "english": "This is a great adjective.",
-        "chinese": "这真是个好词。"
+        "chinese": "这真是一个不错的形容词。"
     },
     {
         "start": 414.08,
         "end": 418.4,
         "english": "It's on a lot of luxury brand items.",
-        "chinese": "它是许多奢侈品牌商品上的。"
+        "chinese": "这在很多高端品牌商品上。"
     },
     {
         "start": 418.4,
         "end": 423.68,
         "english": "Elegance means something is elegant if it is classy, if it looks really good and rich,",
-        "chinese": "优雅意味着，如果某物是优雅的，那么它一定是高雅的、看起来非常棒且充满质感的。"
+        "chinese": "elegance means something is elegant if it is classy, if it looks really good and rich"
     },
     {
         "start": 423.68,
         "end": 427.68,
         "english": "or you could say that dress is very elegant.",
-        "chinese": "或者你可以这样说，这件衣服非常优雅。"
+        "chinese": "或者可以说那件衣服非常优雅。"
     },
     {
         "start": 427.68,
         "end": 429.47999999999996,
         "english": "That mink coat is very elegant.",
-        "chinese": "那件貂皮大衣非常优雅。"
+        "chinese": "那件狐狸毛大衣非常优雅。"
     },
     {
         "start": 429.47999999999996,
@@ -843,25 +843,25 @@
         "start": 430.47999999999996,
         "end": 431.47999999999996,
         "english": "This is a positive thing.",
-        "chinese": "这是好事。"
+        "chinese": "这是一件好事。"
     },
     {
         "start": 431.47999999999996,
         "end": 434.56,
         "english": "So something that looks kind of expensive at times as well.",
-        "chinese": "所以有时候看起来还挺贵的。"
+        "chinese": "有时候看起来挺昂贵的。"
     },
     {
         "start": 434.56,
         "end": 436.15999999999997,
         "english": "Yeah, that's right.",
-        "chinese": "对，是的。"
+        "chinese": "对，就是这样。"
     },
     {
         "start": 436.15999999999997,
         "end": 440.68,
         "english": "Another word that means looking expensive or elegant is luxurious.",
-        "chinese": "另一个意思是指看起来昂贵或优雅的单词是豪华。"
+        "chinese": "另一个形容看起来昂贵或优雅的词是奢华。"
     },
     {
         "start": 440.68,
@@ -873,31 +873,31 @@
         "start": 441.68,
         "end": 446.52,
         "english": "So luxurious comes from the noun luxury.",
-        "chinese": "所以豪华来自于名词“奢侈”。"
+        "chinese": "如此奢华来自名词奢侈品。"
     },
     {
         "start": 446.52,
         "end": 447.52,
         "english": "That's right.",
-        "chinese": "真的。"
+        "chinese": "没错。"
     },
     {
         "start": 447.52,
         "end": 449.12,
         "english": "Luxury, luxurious.",
-        "chinese": "奢侈，奢华。"
+        "chinese": "奢华，豪华。"
     },
     {
         "start": 449.12,
         "end": 453.8,
         "english": "So we can say that the executive suites at this hotel are very luxurious.",
-        "chinese": "所以，我们可以说这家酒店的行政楼层非常豪华。"
+        "chinese": "所以可以说这家酒店的行政套房非常奢华。"
     },
     {
         "start": 453.8,
         "end": 458.84000000000003,
         "english": "They have a jacuzzi, a king size bed, expensive silk sheets.",
-        "chinese": "他们有桑拿浴，一张大床，昂贵的丝绸被单。"
+        "chinese": "他们有桑拿房，一张 King 大床，昂贵的丝质被单。"
     },
     {
         "start": 458.84000000000003,
@@ -909,13 +909,13 @@
         "start": 459.84000000000003,
         "end": 461.6,
         "english": "The best quality material.",
-        "chinese": "最好的材料。"
+        "chinese": "顶级材料。"
     },
     {
         "start": 461.6,
         "end": 465.8,
         "english": "So you can say that elegance and luxurious kind of go hand in hand.",
-        "chinese": "所以，你可以这么说，优雅和奢华是相辅相成的。"
+        "chinese": "你可以这么说，优雅和奢华往往相辅相成。"
     },
     {
         "start": 465.8,
@@ -927,13 +927,13 @@
         "start": 466.8,
         "end": 471.6,
         "english": "Although elegance, you usually say about someone or their clothing.",
-        "chinese": "虽然你通常说优雅，但你指的是什么？"
+        "chinese": "虽然优雅，你通常说的是某人或他们的服装。"
     },
     {
         "start": 471.6,
         "end": 476.8,
         "english": "Even a car, but luxurious is more like a place or an object.",
-        "chinese": "即使是一辆汽车，但豪华的就像是一个地方或一个物体。"
+        "chinese": "即使是汽车，但豪华更像是一个地方或一件物品。"
     },
     {
         "start": 476.8,
@@ -945,49 +945,49 @@
         "start": 477.8,
         "end": 478.8,
         "english": "Good.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 478.8,
         "end": 483.40000000000003,
         "english": "And then we have one final word that also describes something that is very rare or very",
-        "chinese": "然后我们还有一个词，也用来描述非常罕见或非常稀有的事物。"
+        "chinese": "然后我们还有一个词也是用来描述非常稀有或非常罕见的东西"
     },
     {
         "start": 483.40000000000003,
         "end": 485.6,
         "english": "good and rich, a delicacy.",
-        "chinese": "好且富有，是一道美味。"
+        "chinese": "美味且丰盛的一道佳肴。"
     },
     {
         "start": 485.6,
         "end": 486.6,
         "english": "Yeah.",
-        "chinese": "好的。"
+        "chinese": "嗯。"
     },
     {
         "start": 486.6,
         "end": 487.6,
         "english": "Actually, this one is a noun.",
-        "chinese": "实际上，这是一个名词。"
+        "chinese": "实际上，这一个是一个名词。"
     },
     {
         "start": 487.6,
         "end": 488.6,
         "english": "It's a thing.",
-        "chinese": "那是个东西。"
+        "chinese": "这是一回事。"
     },
     {
         "start": 488.6,
         "end": 494.36,
         "english": "So we can say that this is a Scottish delicacy or what are the delicacies in your country?",
-        "chinese": "所以我们可以说这是苏格兰的美食，或者是你们国家的特色菜吗？"
+        "chinese": "那么我们可以说这是苏格兰的特色食品，或者你们国家有什么特色美食呢？"
     },
     {
         "start": 494.36,
         "end": 496.88,
         "english": "So delicacy is something that's special.",
-        "chinese": "所以精致的东西是特别的。"
+        "chinese": "如此细腻之处，尤为珍贵。"
     },
     {
         "start": 496.88,
@@ -999,13 +999,13 @@
         "start": 497.88,
         "end": 503.48,
         "english": "So for example, you've told me that in Ecuador, there are some interesting food delicacies.",
-        "chinese": "例如，你在厄瓜多尔告诉我有一些有趣的美食佳肴。"
+        "chinese": "例如，你告诉我，在厄瓜多尔有一些有趣的美食佳肴。"
     },
     {
         "start": 503.48,
         "end": 504.48,
         "english": "Dellecacies?",
-        "chinese": "美味吗？"
+        "chinese": "这是什么？"
     },
     {
         "start": 504.48,
@@ -1023,61 +1023,61 @@
         "start": 506.48,
         "end": 507.48,
         "english": "For example, guinea pigs.",
-        "chinese": "例如，山豚。"
+        "chinese": "例如，豚鼠。"
     },
     {
         "start": 507.48,
         "end": 511.84,
         "english": "Well, they're not really a delicacy, although kind of because guinea pigs are expensive",
-        "chinese": "好吧，它们并不是真正的佳肴，尽管因为仓鼠的价格昂贵。"
+        "chinese": "嗯，它们还真不是什么高档食材，虽然因为 Guinea pig 价格不菲"
     },
     {
         "start": 511.84,
         "end": 513.96,
         "english": "compared to chickens, for example.",
-        "chinese": "相比鸡来说。"
+        "chinese": "例如鸡。"
     },
     {
         "start": 513.96,
         "end": 518.4399999999999,
         "english": "So it is considered to be something that you only eat on special occasions.",
-        "chinese": "所以，这被认为是只有在特殊场合才能吃的。"
+        "chinese": "所以这被认为只在特殊 occasion 时才吃。"
     },
     {
         "start": 518.4399999999999,
         "end": 519.4399999999999,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 519.4399999999999,
         "end": 524.2,
         "english": "And in East Asia, many people consider shark fin soup to be a delicacy.",
-        "chinese": "在东亚，许多人将鱼翅汤视为美食。"
+        "chinese": "而在东亚，许多人认为鲨鱼翅汤是一种高档食品。"
     },
     {
         "start": 524.2,
         "end": 525.2,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 525.2,
         "end": 526.2,
         "english": "It's a special dish.",
-        "chinese": "那是特别的菜肴。"
+        "chinese": "这是一道特殊的菜。"
     },
     {
         "start": 526.6,
         "end": 531.76,
         "english": "So we can say that it's usually about food and it's rare, something that's rare or",
-        "chinese": "所以我们可以说，通常就是关于食物的，很少见或者稀奇古怪的事情。"
+        "chinese": "所以我们可以这么说，通常是关于食物的，而且很罕见，某种非常稀有的东西"
     },
     {
         "start": 531.76,
         "end": 535.0,
         "english": "special or also can be very expensive.",
-        "chinese": "特别或也可能会非常昂贵。"
+        "chinese": "特殊，也可能是非常昂贵的。"
     },
     {
         "start": 535.0,
@@ -1089,7 +1089,7 @@
         "start": 536.0,
         "end": 537.0,
         "english": "A delicacy.",
-        "chinese": "美味佳肴。"
+        "chinese": "珍馐"
     },
     {
         "start": 537.0,
@@ -1101,85 +1101,85 @@
         "start": 538.0,
         "end": 540.76,
         "english": "So a lot of great interesting words on language takeaway.",
-        "chinese": "所以有很多有趣又伟大的词语可以拿来取个便当。"
+        "chinese": "所以语言 takeaway 中有很多很棒有趣的词。"
     },
     {
         "start": 540.76,
         "end": 544.6800000000001,
         "english": "Why don't we move on now to fluency builder?",
-        "chinese": "为什么我们现在不转向流利 builder？"
+        "chinese": "我们为什么不现在就进入流利构建单元？"
     },
     {
         "start": 544.6800000000001,
         "end": 546.0,
         "english": "Fluency builder.",
-        "chinese": "流利训练师"
+        "chinese": "流利构建单元。"
     },
     {
         "start": 546.0,
         "end": 550.2,
         "english": "This first phrase is actually something I try to do as often as possible, but it's usually",
-        "chinese": "这第一个短语实际上我尽可能经常尝试去做，但通常"
+        "chinese": "这第一句其实是我尽量常常做的，但通常是"
     },
     {
         "start": 550.2,
         "end": 551.2,
         "english": "very difficult.",
-        "chinese": "很难。"
+        "chinese": "非常困难。"
     },
     {
         "start": 551.2,
         "end": 553.6800000000001,
         "english": "I combine business with pleasure.",
-        "chinese": "我将工作与乐趣融为一体。"
+        "chinese": "我将事业与乐趣结合。"
     },
     {
         "start": 553.68,
         "end": 554.68,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 554.68,
         "end": 556.28,
         "english": "To combine business with pleasure.",
-        "chinese": "为了将业务与乐趣结合。"
+        "chinese": "将商业与乐趣结合。"
     },
     {
         "start": 556.28,
         "end": 562.52,
         "english": "Now this is a whole phrase and this talks about doing business, but at the same time doing",
-        "chinese": "现在这是一个完整的句子，而且在这句话里说的是做生意的事情，但同时也在说做生意的一些技巧。"
+        "chinese": "现在这是一句完整的短语，说的是做生意的同时还要做其他事情"
     },
     {
         "start": 562.52,
         "end": 565.4799999999999,
         "english": "it in a fun way or an interesting way.",
-        "chinese": "它以一种有趣的方式或一种引人入胜的方式。"
+        "chinese": "以有趣或有趣的方式。"
     },
     {
         "start": 565.4799999999999,
         "end": 566.4799999999999,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 566.4799999999999,
         "end": 570.56,
         "english": "So pleasure here means something that is fun or entertainment even.",
-        "chinese": "所以这里的乐趣就是指的是一种有趣或娱乐的事情。"
+        "chinese": "这里的意思是“乐”通常指的是有趣或娱乐的东西。"
     },
     {
         "start": 570.56,
         "end": 576.3199999999999,
         "english": "So for example, going out to dinner with your company is a way to combine business with",
-        "chinese": "例如，和公司出去吃饭是一种将业务结合在一起的方式。"
+        "chinese": "所以例如，和公司一起出去吃饭是一种将业务与"
     },
     {
         "start": 576.3199999999999,
         "end": 577.3199999999999,
         "english": "pleasure.",
-        "chinese": "高兴."
+        "chinese": "愉快。"
     },
     {
         "start": 577.3199999999999,
@@ -1191,25 +1191,25 @@
         "start": 578.32,
         "end": 583.9200000000001,
         "english": "So meeting a client at a bar is combining business with pleasure.",
-        "chinese": "所以，和客户在酒吧见面就是将生意与乐趣结合在一起。"
+        "chinese": "所以，和客户在酒吧见面就是将业务与乐趣结合在一起。"
     },
     {
         "start": 583.9200000000001,
         "end": 587.48,
         "english": "So you're combining things that are fun and things that are work related.",
-        "chinese": "所以你是在将有趣的事情和工作相关的事情结合起来。"
+        "chinese": "那么你将结合有趣的事和与工作相关的事。"
     },
     {
         "start": 587.48,
         "end": 588.48,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 588.48,
         "end": 591.88,
         "english": "Because you can have a business meeting in a board room or in a business or in a meeting",
-        "chinese": "因为你可以在一个董事会会议室、一个商务会议或者一个会议中进行商业会谈。"
+        "chinese": "因为你可以在一个会议室里开业务会议，或者在办公室里，在一个会议上"
     },
     {
         "start": 591.88,
@@ -1221,13 +1221,13 @@
         "start": 592.88,
         "end": 596.6800000000001,
         "english": "But if you have the same business meeting at a bar where you're talking and laughing, but",
-        "chinese": "但如果你在同一酒吧的同一个商务会议中进行，你正在谈且笑的时候。"
+        "chinese": "但如果你在酒吧里有同样的业务会议，你们一边交谈一边笑闹，但是"
     },
     {
         "start": 596.6800000000001,
         "end": 601.0,
         "english": "also at the same time talking business, then you're combining business with pleasure.",
-        "chinese": "同时谈论生意，你就是在把生意和乐趣结合在一起。"
+        "chinese": "同时也在谈业务，将业务与乐趣结合。"
     },
     {
         "start": 601.0,
@@ -1239,19 +1239,19 @@
         "start": 602.0,
         "end": 605.8800000000001,
         "english": "And now for a second phrase, it's more about cheating, right?",
-        "chinese": "现在轮到第二句话了，这更多是作弊吗？"
+        "chinese": "现在再来一个短语，主要是关于作弊的，对吧？"
     },
     {
         "start": 605.88,
         "end": 609.88,
         "english": "Maybe that is cheating or maybe not doing things correctly.",
-        "chinese": "也许那就是作弊，或者可能没有做好。"
+        "chinese": "可能是作弊，也可能是处理不当。"
     },
     {
         "start": 609.88,
         "end": 611.6,
         "english": "They are cutting corners.",
-        "chinese": "他们是在偷工减料。"
+        "chinese": "他们偷工减料。"
     },
     {
         "start": 611.6,
@@ -1263,133 +1263,133 @@
         "start": 612.6,
         "end": 615.84,
         "english": "So cutting corners is another way to say cheating.",
-        "chinese": "所以偷工减料就是另一种说法是作弊。"
+        "chinese": "所以偷工减料 另一种说法就是作弊。"
     },
     {
         "start": 615.84,
         "end": 622.36,
         "english": "For example, I've seen people, students cutting corners with their studies.",
-        "chinese": "例如，我见过有人为了偷懒而草率对待学习。"
+        "chinese": "例如，我见过有人在学习上偷工减料。"
     },
     {
         "start": 622.36,
         "end": 623.56,
         "english": "You think about cutting corners.",
-        "chinese": "你考虑偷工减料。"
+        "chinese": "你想着偷工减料。"
     },
     {
         "start": 623.56,
         "end": 625.64,
         "english": "It means that you're not going the long way.",
-        "chinese": "意思是你要走捷径。"
+        "chinese": "这意味着你不会走远路。"
     },
     {
         "start": 625.64,
         "end": 628.56,
         "english": "You're cutting, you're cheating by going the shorter way.",
-        "chinese": "你是在绕路走，你在作弊。"
+        "chinese": "你偷工减料，走捷径。"
     },
     {
         "start": 628.56,
         "end": 629.56,
         "english": "You're taking a shortcut.",
-        "chinese": "你是在走捷径。"
+        "chinese": "你这是投机取巧。"
     },
     {
         "start": 629.56,
         "end": 630.56,
         "english": "Taking a shortcut.",
-        "chinese": "走捷径。"
+        "chinese": "走捷径"
     },
     {
         "start": 630.56,
         "end": 637.04,
         "english": "For example, instead of studying for that final test in math, some people write the formulas",
-        "chinese": "例如，而不是花时间去准备那场数学考试，有些人会写公式。"
+        "chinese": "例如，有些人 instead of 研究数学那场期末考试，写那些公式"
     },
     {
         "start": 637.04,
         "end": 638.04,
         "english": "on their hands.",
-        "chinese": "他们的手上。"
+        "chinese": "在他们手上。"
     },
     {
         "start": 638.04,
         "end": 639.04,
         "english": "Right.",
-        "chinese": "正确。"
+        "chinese": "好。"
     },
     {
         "start": 639.04,
         "end": 640.04,
         "english": "This is a way to cut corners.",
-        "chinese": "这是节省成本的一种方式。"
+        "chinese": "这是一条省略的捷径。"
     },
     {
         "start": 640.04,
         "end": 644.4,
         "english": "Instead of studying, you actually cheat by putting it on your hand, making it easier.",
-        "chinese": "不是在学习，你实际上是通过把手上的方式作弊，这样就更方便了。"
+        "chinese": "instead of studying, you actually cheat by putting it on your hand, making it easier."
     },
     {
         "start": 644.4,
         "end": 648.92,
         "english": "So to cut corners is to cheat or to try to take the shortcut, but it kind of has a negative",
-        "chinese": "所以为了偷懒就是欺骗或试图走捷径，但这种行为有点负面。"
+        "chinese": "所以偷工减料就是作弊或者试图走捷径，但这也带有一定的负面意味"
     },
     {
         "start": 648.92,
         "end": 649.92,
         "english": "connotation, right?",
-        "chinese": "涵义，对吗？"
+        "chinese": "内涵，是吗？"
     },
     {
         "start": 649.92,
         "end": 650.92,
         "english": "Oh, definitely.",
-        "chinese": "哦，当然。"
+        "chinese": "哦， Definitely."
     },
     {
         "start": 650.92,
         "end": 653.52,
         "english": "So most people will say, don't cut corners.",
-        "chinese": "所以大多数人都会说，不要偷工减料。"
+        "chinese": "所以大多数人会说，不要偷工减料。"
     },
     {
         "start": 653.52,
         "end": 655.2399999999999,
         "english": "In the end, it's not worth it.",
-        "chinese": "最终，不值得。"
+        "chinese": "最后，不值得。"
     },
     {
         "start": 655.2399999999999,
         "end": 656.2399999999999,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 656.2399999999999,
         "end": 659.76,
         "english": "And for our final phrase, we have one that it's in French.",
-        "chinese": "最后，我们的短语是法语。"
+        "chinese": "而最后我们有一个法语的短语。"
     },
     {
         "start": 659.76,
         "end": 663.56,
         "english": "So this one is in French, but it's also a very common English phrase.",
-        "chinese": "所以这个是法语，但它也是一个非常常见的英语短语。"
+        "chinese": "这句是法语，但也是非常常见的英语短语。"
     },
     {
         "start": 663.56,
         "end": 665.28,
         "english": "That's why we're going to teach it to you.",
-        "chinese": "那就是我们要教你它的原因。"
+        "chinese": "这就是为什么我们要教你。"
     },
     {
         "start": 665.28,
         "end": 666.88,
         "english": "The creme de la creme.",
-        "chinese": "英文：奶油中的极品。"
+        "chinese": "顶级的"
     },
     {
         "start": 666.88,
@@ -1401,55 +1401,55 @@
         "start": 667.88,
         "end": 672.8,
         "english": "So literally in translated from French, that means the cream of the cream.",
-        "chinese": "所以，翻译过来就是奶油中的极品。"
+        "chinese": "实际上是从法语翻译过来的，那就是顶尖中的顶尖。"
     },
     {
         "start": 672.8,
         "end": 673.8,
         "english": "Right.",
-        "chinese": "好的。"
+        "chinese": "好。"
     },
     {
         "start": 673.8,
         "end": 676.3199999999999,
         "english": "But in English, we would say that it's the best of the best.",
-        "chinese": "但用英文来说，那就是最好的最好。"
+        "chinese": "但用英文来说，那就是顶尖中的顶尖。"
     },
     {
         "start": 676.3199999999999,
         "end": 677.3199999999999,
         "english": "The best of the best.",
-        "chinese": "最好的。"
+        "chinese": "顶尖中的顶尖。"
     },
     {
         "start": 677.3199999999999,
         "end": 678.3199999999999,
         "english": "Very top.",
-        "chinese": "非常顶。"
+        "chinese": "顶级"
     },
     {
         "start": 678.3199999999999,
         "end": 680.12,
         "english": "So that's what this phrase means.",
-        "chinese": "那就是这个短语的意思。"
+        "chinese": "这就是这句话的意思。"
     },
     {
         "start": 680.12,
         "end": 681.4399999999999,
         "english": "The best of the best.",
-        "chinese": "最好的。"
+        "chinese": "顶尖中的顶尖。"
     },
     {
         "start": 681.4399999999999,
         "end": 684.68,
         "english": "The very top, the most excellent.",
-        "chinese": "非常顶尖的，最优秀的。"
+        "chinese": "顶级，顶尖。"
     },
     {
         "start": 684.68,
         "end": 690.1999999999999,
         "english": "So you could say Harvard University attracts the creme de la creme of American high school",
-        "chinese": "所以，哈佛大学可以说是吸引着美国高中顶尖的精英。"
+        "chinese": "这么说来，哈佛大学吸引着美国顶尖高中的佼佼者"
     },
     {
         "start": 690.1999999999999,
@@ -1467,7 +1467,7 @@
         "start": 692.1999999999999,
         "end": 694.1999999999999,
         "english": "So the very best of American high school students.",
-        "chinese": "所以，美国最好的高中生。"
+        "chinese": "那么美国顶尖高中生的最好者。"
     },
     {
         "start": 694.1999999999999,
@@ -1479,37 +1479,37 @@
         "start": 695.1999999999999,
         "end": 698.88,
         "english": "So that phrase, it's in French, but you can say it in English, right?",
-        "chinese": "所以这句话，它在法语中，但你可以用英语说吗？"
+        "chinese": "那么这句话，是法语的，但你可以用英语说吗？"
     },
     {
         "start": 698.88,
         "end": 700.64,
         "english": "Like Fiancé, for example.",
-        "chinese": "比如，像《前任》一样。"
+        "chinese": "例如未婚妻。"
     },
     {
         "start": 700.64,
         "end": 702.16,
         "english": "Fiancé, creme de la creme.",
-        "chinese": "未婚妻，极品。"
+        "chinese": "未婚夫，佼佼者。"
     },
     {
         "start": 702.16,
         "end": 705.64,
         "english": "These are all words that we stolen from French and we use in English.",
-        "chinese": "这些都是我们从法语中偷来的单词，我们在英语中使用。"
+        "chinese": "这些都是我们从法语中偷来的词，在英语中我们使用它们。"
     },
     {
         "start": 705.64,
         "end": 707.3599999999999,
         "english": "So don't worry about how you pronounce it.",
-        "chinese": "所以，你不必担心怎么发音。"
+        "chinese": "所以你不用担心它的发音。"
     },
     {
         "start": 707.3599999999999,
         "end": 709.3599999999999,
         "english": "In English, we just say creme de la creme.",
-        "chinese": "在英文中，我们只是说极品。"
+        "chinese": "在英语中，我们只说 the cream of the crop。"
     },
     {
         "start": 709.3599999999999,
@@ -1521,31 +1521,31 @@
         "start": 710.3599999999999,
         "end": 714.3599999999999,
         "english": "So why don't we listen to this dialogue for the last time and we'll be back in just",
-        "chinese": "所以，我们为什么不最后一次听听这段对话呢？然后我们只需要再等一会儿。"
+        "chinese": "所以我们再听这段对话最后一次，很快就回来"
     },
     {
         "start": 714.36,
         "end": 721.5600000000001,
         "english": "a bit.",
-        "chinese": "好的。"
+        "chinese": "略。"
     },
     {
         "start": 721.5600000000001,
         "end": 724.76,
         "english": "I'm glad you could find time to meet with me, Mr. Johnson.",
-        "chinese": "很高兴你能抽空见我，约翰先生。"
+        "chinese": "Johnson先生，很高兴您能抽空见我。"
     },
     {
         "start": 724.76,
         "end": 727.88,
         "english": "I can't think of a nicer environment for our meeting today.",
-        "chinese": "我今天见面的环境真是太好了。"
+        "chinese": "今天的会议我们找不到比这更好的环境了。"
     },
     {
         "start": 727.88,
         "end": 729.92,
         "english": "The ambience here is lovely.",
-        "chinese": "这里的情景真是美极了。"
+        "chinese": "这里的氛围很美好。"
     },
     {
         "start": 729.92,
@@ -1557,49 +1557,49 @@
         "start": 731.0,
         "end": 734.32,
         "english": "If possible, I always combine business with pleasure.",
-        "chinese": "如果可能的话，我总是将业务与乐趣结合起来。"
+        "chinese": "如果可能，我总是将工作与娱乐相结合。"
     },
     {
         "start": 734.32,
         "end": 737.28,
         "english": "Now let's hear more about these chocolates you're offering.",
-        "chinese": "现在，让我们听听你提供的这些巧克力更多关于它们。"
+        "chinese": "现在让我们听听你提供的这些巧克力。"
     },
     {
         "start": 737.28,
         "end": 742.36,
         "english": "Well, as you know, I have recently become the sole distributor for Graingers Gourmet",
-        "chinese": "当然，你知道我最近成为格兰杰美食的独家分销商。"
+        "chinese": "嗯，你知道的，我最近已成为格兰杰斯 gourmet 的独家分销商"
     },
     {
         "start": 742.36,
         "end": 744.88,
         "english": "Bond Bonds here in the United States.",
-        "chinese": "美国这里，债券债券。"
+        "chinese": "美国的债券。"
     },
     {
         "start": 744.88,
         "end": 749.16,
         "english": "They're a new manufacturer and are looking to break into the luxury market.",
-        "chinese": "他们是一个新的制造商，正在努力进入高端市场。"
+        "chinese": "他们是新制造商，正在试图进入高端市场。"
     },
     {
         "start": 749.16,
         "end": 752.44,
         "english": "Naturally, your restaurant is spraying into my mind immediately.",
-        "chinese": "当然，你的餐厅立刻在我的脑海中喷发出来了。"
+        "chinese": "当然，你的餐厅一下就蹦入了我的脑海。"
     },
     {
         "start": 752.44,
         "end": 757.6800000000001,
         "english": "I think your brand exemplifies many of the same traits as Graingers and serving these",
-        "chinese": "我认为你的品牌体现了与格兰杰斯和提供相似的许多特质。"
+        "chinese": "我认为您的品牌有许多与格兰杰斯相似的特质，以及服务这些客户的能力"
     },
     {
         "start": 757.6800000000001,
         "end": 763.48,
         "english": "chocolates would really add to your reputation for providing elegant, luxurious first-class",
-        "chinese": "巧克力确实会增加你以提供优雅、奢华的第一流服务而著称的名声。"
+        "chinese": "巧克力真的会让您的提供优质优雅、奢华的一流服务的声誉更上一层楼"
     },
     {
         "start": 763.48,
@@ -1611,19 +1611,19 @@
         "start": 764.48,
         "end": 766.52,
         "english": "Hmm, sounds interesting.",
-        "chinese": "哼，听起来很有趣。"
+        "chinese": "嗯，听起来挺有意思的。"
     },
     {
         "start": 766.52,
         "end": 768.36,
         "english": "Gourmet chocolates.",
-        "chinese": "美味的巧克力。"
+        "chinese": "gourmet巧克力"
     },
     {
         "start": 768.36,
         "end": 770.32,
         "english": "Where they produced, Belgium?",
-        "chinese": "他们生产的地方是比利时？"
+        "chinese": "他们在哪儿生产？比利时"
     },
     {
         "start": 770.32,
@@ -1641,43 +1641,43 @@
         "start": 774.5200000000001,
         "end": 778.08,
         "english": "I didn't think they were known for their luxury chocolate production.",
-        "chinese": "我没想到他们以生产豪华巧克力而闻名。"
+        "chinese": "我不认为他们以生产高档巧克力而闻名。"
     },
     {
         "start": 778.08,
         "end": 781.6,
         "english": "That's what makes this such a fantastic opportunity.",
-        "chinese": "那就是这么一个绝佳的机会。"
+        "chinese": "这就是它成为如此精彩机会的原因。"
     },
     {
         "start": 781.6,
         "end": 787.72,
         "english": "The government is 100% supportive of creating new export markets and has guaranteed a low",
-        "chinese": "政府百分之百支持创造新的出口市场，并且已经保证了低门槛。"
+        "chinese": "政府对创建新的出口市场百分之百支持，并已保证低关税。"
     },
     {
         "start": 787.72,
         "end": 792.2800000000001,
         "english": "tariff for all wholesale orders of over 1000 units.",
-        "chinese": "关税适用于所有超过一千个单位的批发订单。"
+        "chinese": "所有订单超过1000单位的批发价。"
     },
     {
         "start": 792.2800000000001,
         "end": 795.72,
         "english": "They've also reduced the red tape involved at customs as well.",
-        "chinese": "他们还减少了在海关涉及的红头文件。"
+        "chinese": "他们也减少了海关手续方面的繁琐。"
     },
     {
         "start": 795.72,
         "end": 798.0400000000001,
         "english": "Here, I brought these especially for you.",
-        "chinese": "这里，我特意带来这些给你。"
+        "chinese": "这里，我特别为您带来了。"
     },
     {
         "start": 798.0400000000001,
         "end": 799.0400000000001,
         "english": "Try one.",
-        "chinese": "试试看。"
+        "chinese": "试一试。"
     },
     {
         "start": 799.04,
@@ -1689,79 +1689,79 @@
         "start": 801.04,
         "end": 802.04,
         "english": "Hmm.",
-        "chinese": "嗯。"
+        "chinese": "Hmm。"
     },
     {
         "start": 802.04,
         "end": 803.04,
         "english": "Hmm.",
-        "chinese": "嗯。"
+        "chinese": "Hmm。"
     },
     {
         "start": 803.04,
         "end": 804.8399999999999,
         "english": "Creamy texture?",
-        "chinese": "奶油质地？"
+        "chinese": "质地奶油般？"
     },
     {
         "start": 804.8399999999999,
         "end": 805.8399999999999,
         "english": "Very smooth.",
-        "chinese": "非常顺滑。"
+        "chinese": "非常顺畅。"
     },
     {
         "start": 805.8399999999999,
         "end": 806.9599999999999,
         "english": "Unique, aren't they?",
-        "chinese": "它们不是独一无二的吗？"
+        "chinese": "独特吧？"
     },
     {
         "start": 806.9599999999999,
         "end": 809.88,
         "english": "I bet you've never tasted anything like it.",
-        "chinese": "你肯定没尝过这么好的东西吧。"
+        "chinese": "你肯定从未尝过如此的东西。"
     },
     {
         "start": 809.88,
         "end": 814.0,
         "english": "Quality is assured as I personally visit the factory to make sure no one's cutting corners",
-        "chinese": "质量有保障，因为我亲自去工厂检查，确保没有人偷工减料。"
+        "chinese": "保证质量，因为我亲自前往工厂确保没有人偷工减料"
     },
     {
         "start": 814.0,
         "end": 815.5999999999999,
         "english": "with the ingredients.",
-        "chinese": "用材料。"
+        "chinese": "带着这些材料。"
     },
     {
         "start": 815.5999999999999,
         "end": 818.3199999999999,
         "english": "Only the cream de la creme make it through inspection.",
-        "chinese": "只有最上乘的才能过关。"
+        "chinese": "只有顶尖的才能通过检验。"
     },
     {
         "start": 818.3199999999999,
         "end": 819.3199999999999,
         "english": "Yes.",
-        "chinese": "好的。"
+        "chinese": "是。"
     },
     {
         "start": 819.3199999999999,
         "end": 820.3199999999999,
         "english": "Very interesting flavors.",
-        "chinese": "非常有趣的口味。"
+        "chinese": "非常有趣的味道。"
     },
     {
         "start": 820.3199999999999,
         "end": 821.3199999999999,
         "english": "Slightly spicy.",
-        "chinese": "轻微的辣味。"
+        "chinese": "略辣。"
     },
     {
         "start": 821.3199999999999,
         "end": 822.3199999999999,
         "english": "Hmm.",
-        "chinese": "嗯。"
+        "chinese": "Hmm。"
     },
     {
         "start": 822.3199999999999,
@@ -1773,91 +1773,91 @@
         "start": 823.3199999999999,
         "end": 825.0799999999999,
         "english": "That's for sure.",
-        "chinese": "那肯定是的。"
+        "chinese": "那是肯定的。"
     },
     {
         "start": 825.0799999999999,
         "end": 826.92,
         "english": "Exactly what are the ingredients?",
-        "chinese": "你到底是什么配料？"
+        "chinese": "具体有哪些成分？"
     },
     {
         "start": 826.92,
         "end": 832.68,
         "english": "I have it on high as the authority that this traditional secret recipe has been handed down",
-        "chinese": "我有据为证，这传统的秘方是世代相传的。"
+        "chinese": "这传统秘方已被权威高置于世代相传"
     },
     {
         "start": 832.68,
         "end": 835.1999999999999,
         "english": "in the Granger family for generations.",
-        "chinese": "在格兰杰家族中几代传承。"
+        "chinese": "在格兰杰家族几代人的时间里。"
     },
     {
         "start": 835.1999999999999,
         "end": 838.36,
         "english": "I'm sure you can keep a secret.",
-        "chinese": "你肯定能保守秘密。"
+        "chinese": "你一定可以保守秘密。"
     },
     {
         "start": 838.36,
         "end": 843.52,
         "english": "Buttermilk, cacao beans, sugar, and hoggies.",
-        "chinese": "黄油、可可豆、糖和哈根达斯。"
+        "chinese": "但丁牛奶，可可豆，糖，霍格gies。"
     },
     {
         "start": 843.52,
         "end": 844.52,
         "english": "Haggies.",
-        "chinese": "老奶奶。"
+        "chinese": "Haggies."
     },
     {
         "start": 844.52,
         "end": 847.52,
         "english": "What's Haggies?",
-        "chinese": "你是什么？"
+        "chinese": "Haggies是什么？"
     },
     {
         "start": 847.52,
         "end": 849.9599999999999,
         "english": "It's a traditional Scottish delicacy.",
-        "chinese": "它是传统的苏格兰佳肴。"
+        "chinese": "这是一道传统的苏格兰佳肴。"
     },
     {
         "start": 849.9599999999999,
         "end": 855.36,
         "english": "You take sheep's liver, heart, and lung, and stuff it inside the sheep's stomach.",
-        "chinese": "你把羊的肝脏、心脏和肺塞进羊的胃里。"
+        "chinese": "你把羊的心脏、肝脏和肺塞进羊的胃里。"
     },
     {
         "start": 855.36,
         "end": 860.84,
         "english": "I'll get back to you.",
-        "chinese": "我会给你回消息的。"
+        "chinese": "我会回复你的。"
     },
     {
         "start": 860.84,
         "end": 861.84,
         "english": "Mr. Johnson?",
-        "chinese": "您好，约翰逊先生？"
+        "chinese": "刘先生？"
     },
     {
         "start": 861.84,
         "end": 862.84,
         "english": "Mr. Johnson.",
-        "chinese": "您好，约翰逊先生。"
+        "chinese": "约翰逊先生。"
     },
     {
         "start": 862.84,
         "end": 867.84,
         "english": "All right, we're back.",
-        "chinese": "好的，我们又回来了。"
+        "chinese": "好的，我们回来了。"
     },
     {
         "start": 867.84,
         "end": 870.2,
         "english": "So now this Scottish delicacy.",
-        "chinese": "所以，这就是苏格兰的美食。"
+        "chinese": "这就是这道苏格兰佳肴。"
     },
     {
         "start": 870.2,
@@ -1869,13 +1869,13 @@
         "start": 871.2,
         "end": 872.2,
         "english": "Haggies.",
-        "chinese": "老奶奶。"
+        "chinese": "Haggies."
     },
     {
         "start": 872.2,
         "end": 873.2,
         "english": "Haggies.",
-        "chinese": "你好。"
+        "chinese": "Haggies."
     },
     {
         "start": 873.2,
@@ -1887,115 +1887,115 @@
         "start": 874.2,
         "end": 876.64,
         "english": "Haggies, I've never actually eaten it.",
-        "chinese": "你，我从没真正吃过它。"
+        "chinese": "哈吉们，我其实从未真正吃过它。"
     },
     {
         "start": 876.64,
         "end": 879.12,
         "english": "It does sound pretty disgusting.",
-        "chinese": "听起来挺恶心的。"
+        "chinese": "这听起来挺恶心的。"
     },
     {
         "start": 879.12,
         "end": 886.08,
         "english": "It's a Scottish delicacy that I think involves stuffing, like what do we hear?",
-        "chinese": "这是一道苏格兰风味的小吃，我认为里面应该有填充物，比如我们听说的是什么？"
+        "chinese": "这是一道苏格兰的特色菜，我想它涉及填馅，就像我们听到的那样？"
     },
     {
         "start": 886.08,
         "end": 887.08,
         "english": "Pig liver.",
-        "chinese": "猪肝。"
+        "chinese": "肝"
     },
     {
         "start": 887.08,
         "end": 888.08,
         "english": "Let's see this again.",
-        "chinese": "让我们再看一遍。"
+        "chinese": "让我们再看看。"
     },
     {
         "start": 888.08,
         "end": 893.28,
         "english": "So basically you take a sheep's liver, a heart, and a lung, and you put it inside the",
-        "chinese": "所以基本上，你把羊肝、心脏和肺放在里面。"
+        "chinese": "那么基本上你把羊的心脏、肝脏和肺部放在里面"
     },
     {
         "start": 893.28,
         "end": 895.5600000000001,
         "english": "sheep's stomach and you serve that.",
-        "chinese": "羊肚子里有蛔虫的日子，你忍着。"
+        "chinese": "羊肚你来服务。"
     },
     {
         "start": 895.5600000000001,
         "end": 897.28,
         "english": "And you cook it like that.",
-        "chinese": "你就是这样做的。"
+        "chinese": "你就是那样烹饪。"
     },
     {
         "start": 897.28,
         "end": 898.28,
         "english": "You cook it.",
-        "chinese": "你做它。"
+        "chinese": "你把它煮了。"
     },
     {
         "start": 898.28,
         "end": 902.32,
         "english": "And so it's like all the insides of a sheep.",
-        "chinese": "所以，它就像一只羊的所有内部器官。"
+        "chinese": "这就是一个羊的内部全部。"
     },
     {
         "start": 902.32,
         "end": 903.32,
         "english": "Yeah.",
-        "chinese": "好的。"
+        "chinese": "嗯。"
     },
     {
         "start": 903.32,
         "end": 908.12,
         "english": "It kind of sounds disgusting, but I'm pretty sure it tastes pretty good.",
-        "chinese": "听起来有点恶心，但我觉得味道挺不错的。"
+        "chinese": "听起来有点恶心，但我觉得它尝起来应该很好吃。"
     },
     {
         "start": 908.12,
         "end": 910.12,
         "english": "It's a Scottish delicacy.",
-        "chinese": "它是苏格兰的特色美食。"
+        "chinese": "这是一道苏格兰佳肴。"
     },
     {
         "start": 910.12,
         "end": 912.52,
         "english": "Yeah, I don't know.",
-        "chinese": "嗯，我不太知道。"
+        "chinese": "是的，我不知道。"
     },
     {
         "start": 912.52,
         "end": 916.08,
         "english": "Although I cannot imagine eating it in a chocolate.",
-        "chinese": "虽然我无法想象吃它会是什么感觉。"
+        "chinese": "虽然我无法想象把它吃在巧克力里。"
     },
     {
         "start": 916.08,
         "end": 917.08,
         "english": "This is disgusting.",
-        "chinese": "这真是恶心。"
+        "chinese": "这太恶心了。"
     },
     {
         "start": 917.08,
         "end": 923.28,
         "english": "I've heard of countries where they take a chicken, they stuff it with something, like they",
-        "chinese": "我听说过有些国家会把鸡塞进一个袋子，里面装着他们想要的东西。"
+        "chinese": "我听说过有些国家，他们会宰杀一只鸡，然后往里面塞东西，比如他们"
     },
     {
         "start": 923.28,
         "end": 928.64,
         "english": "have a stuffing, and then they put the chicken inside a goat, and then the goat inside a",
-        "chinese": "有填充物，然后他们把鸡肉塞进山羊里，再把山羊放进大公牛里。"
+        "chinese": "有重，然后把鸡肉放在羊肚子里，再把羊放在里面"
     },
     {
         "start": 928.64,
         "end": 931.12,
         "english": "bigger animal, and then they cook all that together.",
-        "chinese": "更大的动物，然后他们把所有的东西一起煮。"
+        "chinese": "更大的动物，然后他们将这一切都烹饪在一起。"
     },
     {
         "start": 931.12,
@@ -2007,19 +2007,19 @@
         "start": 932.12,
         "end": 935.76,
         "english": "And then you have some like you have this amazing, you know, obviously it's huge.",
-        "chinese": "然后你也有像这样，你知道，很明显它非常大。"
+        "chinese": "然后你就有一些，你有这样的一个 amazing 的东西，你知道的，当然它是巨大的。"
     },
     {
         "start": 935.76,
         "end": 940.28,
         "english": "They use these big brick ovens to cook them, but you have this platter with like three",
-        "chinese": "他们用这些大砖炉子烤它们，但你有一张三色的盘子。"
+        "chinese": "他们用这些大砖炉来烹饪它们，但你有一个托盘，上面有三个"
     },
     {
         "start": 940.28,
         "end": 941.28,
         "english": "different types of meats.",
-        "chinese": "不同类型的肉类。"
+        "chinese": "不同种类的肉类。"
     },
     {
         "start": 941.28,
@@ -2031,7 +2031,7 @@
         "start": 942.28,
         "end": 943.28,
         "english": "We have that in America.",
-        "chinese": "我们说的是在美国。"
+        "chinese": "我们在美国也有这个。"
     },
     {
         "start": 943.28,
@@ -2043,13 +2043,13 @@
         "start": 944.28,
         "end": 945.28,
         "english": "It's called a turduckin.",
-        "chinese": "它叫鸭脖子。"
+        "chinese": "这叫土拨鼠。请注意，\"turduckin\" 是一种特定的烹饪方式，不是实际的食物名称。在中文中通常不直接翻译为“土拨鼠”，而是用其他描述性的词语来表达。如果你指的是某种特殊的菜肴或食物制作方法，请提供更多信息以便准确翻译。"
     },
     {
         "start": 945.28,
         "end": 946.28,
         "english": "Turduckin.",
-        "chinese": "鸭梨球衣"
+        "chinese": "土丁鸭"
     },
     {
         "start": 946.28,
@@ -2073,13 +2073,13 @@
         "start": 949.28,
         "end": 950.28,
         "english": "Duck and chicken.",
-        "chinese": "鸭子和鸡肉。"
+        "chinese": "鸭和鸡。"
     },
     {
         "start": 950.28,
         "end": 953.64,
         "english": "So you have a chicken inside of a duck, which you put inside of a turkey.",
-        "chinese": "所以你把鸭子的内脏塞进了一只鸡，再把这只鸡放进了一只火鸡里。"
+        "chinese": "你里面套着一只鸡，那只鸡又被放进火鸡里了。"
     },
     {
         "start": 953.64,
@@ -2097,7 +2097,7 @@
         "start": 955.64,
         "end": 956.64,
         "english": "And you bake it.",
-        "chinese": "你把它烤了。"
+        "chinese": "你把它烘烤了。"
     },
     {
         "start": 956.64,
@@ -2109,73 +2109,73 @@
         "start": 957.64,
         "end": 958.64,
         "english": "How does it taste?",
-        "chinese": "你觉得味道怎么样？"
+        "chinese": "这有何滋味？"
     },
     {
         "start": 958.64,
         "end": 959.64,
         "english": "Delicious.",
-        "chinese": "美味的。"
+        "chinese": "美味。"
     },
     {
         "start": 959.64,
         "end": 960.64,
         "english": "It's a special taste.",
-        "chinese": "那是一种特别的味道。"
+        "chinese": "这有一种特殊的风味。"
     },
     {
         "start": 960.64,
         "end": 961.64,
         "english": "Exactly.",
-        "chinese": "好的。"
+        "chinese": "Exactly."
     },
     {
         "start": 961.64,
         "end": 963.08,
         "english": "So I'm curious to know what your national delicacy is.",
-        "chinese": "所以我很想知道你的国家特色菜是什么。"
+        "chinese": "所以我很好奇你的国宝是什么。"
     },
     {
         "start": 963.08,
         "end": 965.48,
         "english": "Do you have a delicacy in your home country?",
-        "chinese": "你家的国家有没有特色美食？"
+        "chinese": "你家有家乡的特色美食吗？"
     },
     {
         "start": 965.48,
         "end": 967.12,
         "english": "Let us know on EnglishPod.com.",
-        "chinese": "让我们在英语有声网（英语：EnglishPod.com）上告诉您。"
+        "chinese": "请在EnglishPod.com告知我们。"
     },
     {
         "start": 967.12,
         "end": 971.5600000000001,
         "english": "We're always curious to talk about food, but we would love to have you practicing on the",
-        "chinese": "我们总是对食物充满好奇，但我们也非常期待你能多多练习。"
+        "chinese": "我们总是好奇谈论食物，但我们会非常乐意让你在上面练习。"
     },
     {
         "start": 971.5600000000001,
         "end": 973.72,
         "english": "website and asking any questions that you may have.",
-        "chinese": "网站并询问你可能有任何问题。"
+        "chinese": "网站上有任何问题请随时提问。"
     },
     {
         "start": 973.72,
         "end": 974.72,
         "english": "That's right.",
-        "chinese": "那就好。"
+        "chinese": "没错。"
     },
     {
         "start": 974.72,
         "end": 975.72,
         "english": "So we'll see everyone there.",
-        "chinese": "我们就会看到每个人在那里。"
+        "chinese": "所以我们到时候见。"
     },
     {
         "start": 975.72,
         "end": 976.72,
         "english": "Until next time.",
-        "chinese": "见下一次。"
+        "chinese": "直到下次相遇。"
     },
     {
         "start": 976.72,
