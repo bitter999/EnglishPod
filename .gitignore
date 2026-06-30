@@ -29,5 +29,5 @@ tmp/
 /tmp/
 
 # Large assets (local only)
-assets/*.mp3
-data.js
+# assets/*.mp3
+# data.js
